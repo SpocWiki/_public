@@ -1,0 +1,87 @@
+﻿SpocWebEntityId	Version	ChangeTime	ChangeUserId	IsDeleted	IsReadOnly	IsPrivate	Id	Bahnhof	Strecke	Eröffnung	Lage	GeoLat	GeoLon	SPNV-Umstieg	ÖPNV-Umstieg	Anmerkungen
+156234	2	2015-01-10	20	0	0	0	2	Alte Oper	C	1986-10-11	unterirdisch	50.115	8.672222	-	64	Alte Oper
+156235	2	2015-01-10	20	0	0	0	3	Bockenheimer Warte	C,D	1986-10-11	unterirdisch	50.11972	8.653611	D, Straßenbahn	32, 36, 50, 75	Verbindungskurve zur D-Strecke
+156236	2	2015-01-10	20	0	0	0	5	Bommersheim	A	1978-05-27	Straßenniveau	50.19361	8.59324	-	Stadtverkehr Oberursel	Stadtgebiet Oberursel (Taunus)
+156237	2	2015-01-10	20	0	0	0	6	Bonames Mitte	A	1971-12-18	Straßenniveau	50.18527	8.664844	-	27	Bis 27. Mai 1978 mit Wendeschleife
+156238	2	2015-01-10	20	0	0	0	7	Bornheim Mitte	B	1980-05-31	unterirdisch	50.12528	8.706944	Straßenbahn	34, 38, 43, 103	Zwei eingleisige Stationen übereinander
+156239	2	2015-01-10	20	0	0	0	8	Deutsche Nationalbibliothek	B	1974-05-26	Straßenniveau	50.1316	8.683598	-	32	Die Haltestelle hieß bis 1997 Adickesallee/Nibelungenallee, danach bis 2007 Nibelungenallee/Deutsche Bibliothek.
+156240	2	2015-01-10	20	0	0	0	9	Dom/Römer	B	1974-05-26	unterirdisch	50.11083	8.68333	Straßenbahn	-	"Der Bahnhof liegt in großer Tiefe unter einer Tiefgarage. Diese Station hieß bis ca. 2002 nur ""Römer""."
+156241	2	2015-01-10	20	0	0	0	10	Dornbusch	A	1968-10-04	Straßenniveau	50.13694	8.67111	-	34, 64	Unterhalb dieser aus Süden kommend ersten oberirdischen Haltestelle besteht seit Anfang 1968 ein fertiger Tunnel zur Fortsetzung der unterirdischen Strecke bis Fritz-Tarnow-Straße. Der Tunnel wird im Süden durch die Rampe verschlossen, die die U-Bahn von Miquelallee kommend auf Straßenniveau bringt. Die ursprünglichen Pläne, die U-Bahn später weiter bis Lindenbaum unterirdisch zu führen, sind trotz mehrerer Anläufe jeweils an Finanzierungsfragen gescheitert. Seit Inbetriebnahme der A-Strecke sind im oberirdischen Teil bis 21. September 2010 über 30 Menschen bei unerlaubten Gleisüberquerungen durch die U-Bahn getötet worden, davon drei alleine im Jahr 2010.[1]
+156242	2	2015-01-10	20	0	0	0	11	Eckenheimer Landstraße/Marbachweg	B	1974-05-24	Straßenniveau	50.14186	8.683684	-	34	Die Haltestelle bildet zusammen mit der Haltestelle Marbachweg/Sozialzentrum eine Doppelhaltestelle an der gleichen Kreuzung, um gefährliche Fußgängerläufe quer über mehrere breite Auto- und Schienenfahrbahnen unnötig zu machen. Die Haltestelle ist auf der jeweils letzten Fahrt des Tages der U5 stadtauswärts die letzte angefahrene Haltestelle, da der Zug hier zum Abstellen Richtung Betriebshof von der Strecke abzweigt.
+156243	4	2015-01-11	20	0	0	0	12	Eissporthalle/Festplatz	C	1992-05-30	unterirdisch	50.1236	8.71685	Straßenbahn	38, 103	Eissporthalle Frankfurt
+156244	2	2015-01-10	20	0	0	0	13	Enkheim	C	1992-05-30	Straßenniveau	50.14222	8.752692	-	42, 551, MKK-23, MKK-25	Endstation der U4 und U7; mit bahnsteiggleichem Umsteigen auf Stadt- und Regionalbuslinien.
+156245	2	2015-01-10	20	0	0	0	14	Eschenheimer Tor	A	1968-10-04	unterirdisch	50.1175	8.679306	-	36	Eschenheimer Tor
+156246	2	2015-01-10	20	0	0	0	15	Festhalle/Messe	D	2001-02-10	unterirdisch	50.11194	8.655	Straßenbahn	32, 50	U-Bahnhof mit direktem Tageslichteinfall
+156247	2	2015-01-10	20	0	0	0	16	Fischstein	C	1986-10-11	Straßenniveau	50.12946	8.624064	-	34	Stadtbahnstation in Mittellage einer Straße; seit 31. Mai 2011 mit Hochbahnsteigen
+156248	2	2015-01-10	20	0	0	0	17	Friedhof Westhausen	C	1986-10-11	Straßenniveau	50.13905	8.612863	-	-	Stadtbahnstation in Mittellage einer Straße
+156249	2	2015-01-10	20	0	0	0	18	Fritz-Tarnow-Straße	A	1968-10-04	Straßenniveau	50.14251	8.668814	-	-	-
+156250	2	2015-01-10	20	0	0	0	19	Gießener Straße	B	1974-05-26	Straßenniveau	50.14383	8.692198		34	Von 1974 bis 1978 Endhaltestelle der U5. 2013 mit Hochbahnsteigen umgebaut.
+156251	2	2015-01-10	20	0	0	0	20	Ginnheim	A	1978-05-27	Straßenniveau	50.1403	8.6464	Straßenbahn	39, 64	Fünfgleisiger Gemeinschaftsbahnhof der U1 und U9 mit der Straßenbahnlinie 16. Nach der Planung von 1961 als unterirdisches Teilstück der D-Strecke gedacht.
+156252	2	2015-01-10	20	0	0	0	21	Glauburgstraße	B	1974-05-26	Straßenniveau	50.12654	8.685753	-	-	-
+156253	2	2015-01-10	20	0	0	0	22	Glöcknerwiese	A	1978-05-27	Straßenniveau	50.21313	8.562534	-	HTK-50	Stadtgebiet Oberursel (Taunus)
+156254	2	2015-01-10	20	0	0	0	23	Gonzenheim	A	1971-12-18	Straßenniveau	50.219	8.640438	-	Stadtverkehr Bad Homburg	Nördlicher Endpunkt der Linie U2 im Stadtgebiet Bad Homburg vor der Höhe.
+156255	2	2015-01-10	20	0	0	0	24	Große Nelkenstraße	C	1986-10-11	Straßenniveau	50.13306	8.628382	-	72, 73	Stadtbahnstation in Mittellage einer Straße
+156256	2	2015-01-10	20	0	0	0	25	Grüneburgweg	A	1968-10-04	unterirdisch	50.1218	8.675717	-	-	-
+156257	2	2015-01-10	20	0	0	0	26	Gwinnerstraße	C	1992-05-30	Straßenniveau	50.13384	8.74124	-	41, 44	ehemalige Straßenbahnstation
+156258	2	2015-01-10	20	0	0	0	27	Habsburgerallee	C	1992-05-30	unterirdisch	50.11694	8.7078	-	32	-
+156259	2	2015-01-10	20	0	0	0	28	Hauptbahnhof	B,D	1978-05-28	unterirdisch	50.1078	8.664167	Fern- und Regionalverkehr, S-Bahn, Straßenbahn	32, 33, 35, 37, 46, 64	Viergleisiger Bahnhof; war als Umsteigeknoten zur D-Strecke geplant
+156260	2	2015-01-10	20	0	0	0	30	Hauptfriedhof	B	1974-05-26	Straßenniveau	50.13598	8.684263	-	-	Hauptfriedhof
+156261	2	2015-01-10	20	0	0	0	31	Hauptwache	A,C	1968-10-04	unterirdisch	50.11389	8.6789	A,C, S-Bahn	-	Südlicher Endpunkt der ersten Frankfurter U-Bahn-Linie
+156262	2	2015-01-10	20	0	0	0	33	Hausen	C	1986-10-11	Straßenniveau	50.13795	8.624487	-	72, 73	Endstation der U7; Stadtbahnstation in Mittellage einer Straße
+156263	2	2015-01-10	20	0	0	0	34	Hausener Weg	C	1986-10-11	Straßenniveau	50.13187	8.619142	-	34	Stadtbahnstation in Mittellage einer Straße
+156264	2	2015-01-10	20	0	0	0	35	Heddernheim	A	1968-10-04	Straßenniveau	50.16139	8.649709	-	60	Liegt am Betriebshof Heddernheim
+156265	2	2015-01-10	20	0	0	0	36	Heddernheimer Landstraße	A	1968-10-04	Straßenniveau	50.16386	8.634782	-	-	Am nördlichen Ausgang des Nordweststadttunnels
+156266	2	2015-01-10	20	0	0	0	37	Heerstraße	C	1986-10-11	Straßenniveau	50.14469	8.607256	-	60	Endstation der U6; hier beginnt eine Anschlussstrecke zur Stadtbahnzentralwerkstatt
+156267	2	2015-01-10	20	0	0	0	38	Hessen-Center	C	1992-05-30	Straßenniveau	50.14041	8.748982	-	-	Erschließt das gleichnamige Einkaufszentrum: das Hessen-Center
+156268	2	2015-01-10	20	0	0	0	39	Hohemark	A	1978-05-27	Straßenniveau	50.2152	8.536722	-	Regionalbusse	Endstation der U3 im Stadtgebiet Oberursel (Taunus); bis 8. Mai 1986 mit Wendeschleife. Beliebter Ausgangspunkt kleinerer Taunuswanderungen, da am Siedlungsende am Wald gelegen und 200 Meter vom Wanderparkplatz Hohemark entfernt, außerdem höchstgelegener Punkt der Frankfurter U-Bahn.
+156269	2	2015-01-10	20	0	0	0	40	Höhenstraße	B	1980-05-31	unterirdisch	50.12278	8.701389	-	32	Zwei eingleisige Stationen übereinander
+156270	2	2015-01-10	20	0	0	0	41	Holzhausenstraße	A	1968-10-04	unterirdisch	50.1267	8.673756	-	36	-
+156271	2	2015-01-10	20	0	0	0	42	Hügelstraße	A	1968-10-04	Straßenniveau	50.14798	8.666282	-	39, 69	-
+156272	2	2015-01-10	20	0	0	0	43	Industriehof	C	1986-10-11	Straßenniveau	50.12895	8.629471	-	34, 72, 73	Verzweigung der Linien U6 und U7; Stadtbahnstation am Ausgang des C-Tunnels; Gleisverbindung zum Straßenbahnnetz; Die Haltestelle hieß bis 11. Dezember 2010 Industriehof/Neue Börse.
+156273	2	2015-01-10	20	0	0	0	44	Johanna-Tesch-Platz	C	1992-05-30	Straßenniveau	50.12786	8.726299	-	-	Mit Abzweig zum Betriebshof Ost; mit Gleiswechsel und Abstellgleis
+156274	2	2015-01-10	20	0	0	0	45	Kalbach	A	1971-12-18	Straßenniveau	50.18362	8.658256	-	24, 28, 29	-
+156275	2	2015-01-10	20	0	0	0	46	Kirchplatz	C	1986-10-11	unterirdisch	50.12508	8.63721	-	34	-
+156276	6	2015-03-06	20	0	0	0	47	Konstablerwache	B,C	1974-05-25	unterirdisch	50.1141	8.688	C, S-Bahn, Straßenbahn	30, 36	Dreigleisige Station
+156277	2	2015-01-10	20	0	0	0	49	Kruppstraße	C	1992-05-30	Straßenniveau	50.1385	8.745085	-	-	-
+156278	2	2015-01-10	20	0	0	0	50	Kupferhammer	A	1978-05-27	Straßenniveau	50.21415	8.557963	-	-	Stadtgebiet Oberursel (Taunus)
+156279	2	2015-01-10	20	0	0	0	51	Lahnstraße	A	1987-05-27	Straßenniveau	50.21004	8.57058	-	-	Stadtgebiet Oberursel (Taunus); ersetzte die Haltestellen Motorenfabrik und Oberstedter Straße
+156280	2	2015-01-10	20	0	0	0	52	Leipziger Straße	C	1986-10-11	unterirdisch	50.12262	8.645867	-	-	Zwei eingleisige Stationen übereinander
+156281	2	2015-01-10	20	0	0	0	53	Lindenbaum	A	1968-10-04	Straßenniveau	50.15299	8.661025	-	-	Eschersheimer Linde
+156282	2	2015-01-10	20	0	0	0	54	Marbachweg/Sozialzentrum	B	1974-05-26	Hochlage	50.14209	8.684	-	34	Die Haltestelle bildet zusammen mit der Haltestelle Eckenheimer Landstraße/ Marbachweg eine Doppelhaltestelle an der gleichen Kreuzung, um gefährliche Fußgängerläufe quer über mehrere breite Auto- und Schienenfahrbahnen unnötig zu machen. 2013 mit Hochbahnsteigen umgebaut.
+156283	2	2015-01-10	20	0	0	0	55	Merianplatz	B	1980-05-31	unterirdisch	50.12028	8.69583	-	-	Zwei eingleisige Stationen übereinander
+156284	2	2015-01-10	20	0	0	0	56	Miquel-/Adickesallee/Polizeipräsidium	A	1968-10-04	unterirdisch	50.13169	8.672183	-	32, 64	Älteste U-Bahn-Station Frankfurts
+156285	2	2015-01-10	20	0	0	0	57	Musterschule	B	1974-05-26	Straßenniveau	50.12182	8.686205	-	-	
+156286	2	2015-01-10	20	0	0	0	58	Neuer jüdischer Friedhof	B	1974-05-24	Straßenniveau	50.13881	8.684864	-	-	Die Haltestelle hieß bis 12. Dezember 2009 Versorgungsamt, anschließend bis zum 10. Dezember 2011 Prieststraße.
+156287	3	2015-01-10	20	0	0	0	59	Niddapark	A	1989-01-01	Hochlage	50.14331	8.642485	-	-	Für Bundesgartenschau 1989 errichtet
+156288	2	2015-01-10	20	0	0	0	60	Nieder-Eschbach	A	1971-12-18	Straßenniveau	50.19913	8.670487	-	27, 29	Abstellanlage; Endstation der U9 und einzelner Züge der U2
+156289	2	2015-01-10	20	0	0	0	61	Niederursel	A	1978-05-27	Straßenniveau	50.16935	8.62268	-	-	-
+156290	2	2015-01-10	20	0	0	0	62	Nordwestzentrum	A	1968-10-04	unterirdisch	50.15805	8.634167	-	29, 60, 71, 72, 73, 251	früher: Nordweststadt
+156291	2	2015-01-10	20	0	0	0	63	Ober-Eschbach	A	1971-12-18	Straßenniveau	50.21477	8.649699	-	Stadtverkehr Bad Homburg	Stadtgebiet Bad Homburg vor der Höhe
+156292	2	2015-01-10	20	0	0	0	64	Oberursel Altstadt	A	1978-05-27	Straßenniveau	50.20632	8.577747	-	Stadtverkehr Oberursel	Stadtgebiet Oberursel (Taunus); Die Station hieß bis 13. Dezember 2008 Portstraße.
+156293	2	2015-01-10	20	0	0	0	65	Oberursel Bahnhof	A	1978-05-27	Straßenniveau	50.19919	8.587596	S-Bahn, Regionalbahn (Taunusbahn)	Stadtverkehr Oberursel, 252, 261	Stadtgebiet Oberursel (Taunus); Abstellanlage; bis 1984 Gleisanschluss zur Deutschen Bundesbahn
+156294	2	2015-01-10	20	0	0	0	66	Oberursel Stadtmitte	A	1978-05-27	Straßenniveau	50.2025	8.585354	-	-	Stadtgebiet Oberursel (Taunus); früher: Liebfrauenstraße
+156295	2	2015-01-10	20	0	0	0	67	Ostbahnhof	C	1999-05-29	unterirdisch	50.11278	8.708056	Regionalverkehr, Straßenbahn	(31), 32	U-Bahnhof mit direktem Tageslichteinfall
+156296	2	2015-01-10	20	0	0	0	68	Parlamentsplatz	C	1992-05-30	unterirdisch	50.12	8.714167	-	-	-
+156297	2	2015-01-10	20	0	0	0	69	Preungesheim	B	1978-05-28	Straßenniveau	50.15848	8.687869	-	27, 39, 63	Endstation der U5 an einem kleinen Platz, von wo aus mehrere Buslinien (inklusive Nachtbus) in die nördlicher gelegenen Stadtteile (Berkersheim, Frankfurter Berg, Bonames) führen. Es bestehen seit längerem konkrete Planungen, die U5 von hier aus bis 2012 in nördliche Richtung zu verlängern und mit der S-Bahn-Station Frankfurter Berg zu verknüpfen.
+156298	2	2015-01-10	20	0	0	0	70	Riedberg	D	2010-12-12	Straßenniveau	50.17915	8.634558	-	29	Endstation der U8
+156299	2	2015-01-10	20	0	0	0	71	Riedwiese/Mertonviertel	A	1971-12-18	Straßenniveau	50.17131	8.642829	-	-	-
+156300	2	2015-01-10	20	0	0	0	72	Ronneburgstraße	B	1978-05-28	Hochlage	50.15076	8.688578	-	39	2013 mit Hochbahnsteigen umgebaut
+156301	2	2015-01-10	20	0	0	0	73	Römerstadt	A	1974-09-29	Einschnitt	50.153	8.635	-	60	Metrostation auf dem Mittelstreifen einer Stadtautobahn; mit Abstellanlage
+156302	2	2015-01-10	20	0	0	0	74	Rosengärtchen	A	1997-06-01	Straßenniveau	50.21501	8.550003	-	-	Stadtgebiet Oberursel (Taunus); Haltestelle auf eingleisigem Abschnitt
+156303	2	2015-01-10	20	0	0	0	75	Sandelmühle	A	1971-12-18	Straßenniveau	50.16546	8.645339	-	29	-
+156304	2	2015-01-10	20	0	0	0	76	Schäfflestraße	C	1992-05-30	Straßenniveau	50.13101	8.732849	-	-	15. Juni bis 13. Dezember 2008: Endstation einzelner Züge der U4; mit eingleisiger Abstell-/Wendeanlage
+156305	2	2015-01-10	20	0	0	0	77	Schweizer Platz	A	1984-09-29	unterirdisch	50.1025	8.67972	Straßenbahn	-	Liegt in größerer Tiefe unter einem Häuserblock
+156306	2	2015-01-10	20	0	0	0	78	Seckbacher Landstraße	B	1980-05-31	unterirdisch	50.13453	8.71202	-	38, 43	Mit Wendeanlage; Anschlusstunnel zum Betriebshof Ost; teilweise Endstation der U4
+156307	2	2015-01-10	20	0	0	0	79	Sigmund-Freud-Straße	B	1978-05-28	Hochlage	50.15493	8.686307	-	-	2013 mit Hochbahnsteigen umgebaut.
+156308	2	2015-01-10	20	0	0	0	80	Stephan-Heise-Straße	C	1986-10-11	Straßenniveau	50.13502	8.616024	-	-	Stadtbahnstation in Mittellage einer Straße
+156309	2	2015-01-10	20	0	0	0	81	Südbahnhof	A	1984-09-29	unterirdisch	50.0994	8.6861	Fern- und Regionalverkehr, S-Bahn, Straßenbahn	45, 47, 48, 61, 78, 653, OF-50	Mit dreigleisiger Wendeanlage
+156310	2	2015-01-10	20	0	0	0	82	Theobald-Ziegler-Straße	B	1978-05-28	Hochlage	50.14792	8.690057	-	-	2013 mit Hochbahnsteigen umgebaut.
+156311	2	2015-01-10	20	0	0	0	83	Uni-Campus Riedberg	D	2010-12-12	Straßenniveau	50.17669	8.630118	-	29	-
+156312	2	2015-01-10	20	0	0	0	84	Waldlust	A	1978-05-27	Straßenniveau	50.21511	8.544188	-	Stadtverkehr Oberursel	Stadtgebiet Oberursel (Taunus); Haltestelle auf eingleisigem Abschnitt
+156313	2	2015-01-10	20	0	0	0	85	Weißer Stein	A	1968-10-04	Straßenniveau	50.1567	8.6561	S-Bahn	63, 66, 69	-
+156314	2	2015-01-10	20	0	0	0	86	Weißkirchen Ost	A	1971-12-18	Straßenniveau	50.186	8.602746	-	Stadtverkehr Oberursel, 251	Stadtgebiet Oberursel (Taunus)
+156315	2	2015-01-10	20	0	0	0	87	Westend	C	1986-10-11	unterirdisch	50.1183	8.66194	-	36	U-Bahn-Station am ehemaligen Wohnort von Wilhelm Busch 1867-1872 und am ehemaligen Hauptsitz der Metallgesellschaft (Bockenheimer Landstraße 62 und 77)
+156316	2	2015-01-10	20	0	0	0	88	Wiesenau	A	1978-05-27	Straßenniveau	50.16677	8.62989	-	-	-
+156317	2	2015-01-10	20	0	0	0	89	Willy-Brandt-Platz	A,B	1973-11-04	unterirdisch	50.10917	8.67472	B, Straßenbahn	-	Bis 1992 Theaterplatz. Willy-Brandt-Platz
+156318	2	2015-01-10	20	0	0	0	91	Zeilweg	A	1968-10-04	Straßenniveau	50.1644	8.642743	-	29	Station auf ehemaliger Eisenbahnstrecke; mit schrankengesichertem Übergang
+156319	2	2015-01-10	20	0	0	0	92	Zoo	C	1986-10-11	unterirdisch	50.1156	8.6983	Straßenbahn	(31)	Dreigleisiger Verzweigungsbahnhof der Linien U6 und U7

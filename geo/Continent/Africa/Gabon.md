@@ -1,0 +1,25 @@
+﻿---
+location: [0.383333,9.45]
+type: Country
+tags:
+- geo/Country
+
+SpocWebEntityId: 26898
+isDeleted: false
+confidential: public
+
+---
+[ISO2::GA]
+[ISO3::GAB]
+[name-en::Gabon]
+[name-de::Gabun]
+[Area-Total::267667]
+[Area-Land::257670]
+[Continent::[[Africa]]]
+[VehicleCode::G]
+[Capital::[[Libreville]]]
+[Alcohol-l::9.3]
+[Language-Id::496]
+[geo-lon::9.45]
+[geo-lat::0.383333]
+

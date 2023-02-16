@@ -1,0 +1,21 @@
+﻿---
+location: [55.22,37.3]
+type: City
+tags:
+- geo/City
+
+
+SpocWebEntityId: 35361
+isDeleted: false
+confidential: public
+
+---
+[geo-lon::37.3]
+[geo-lat::55.22]
+[name::Vyazma]
+[State::]
+[Country::[[Russia]]]
+[StateId::]
+[Population::]
+[Unknown::]
+
