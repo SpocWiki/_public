@@ -14,7 +14,7 @@ tags:
 
 ![[Coat_of_arms_of_Germany.svg]]
 
-[Anthem::![[National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg]]
+![[Anthem-Germany.mp3]]
 
 ![[Flag_of_Germany.svg]]
 
