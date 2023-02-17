@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RIM]
 [Capital::[[Nouakchott]]]
+![[Anthem-Mauritania.mp3]]
 [Alcohol-l::0.1]
 [Language-Id::472]
 [geo-lon::-15.9667]

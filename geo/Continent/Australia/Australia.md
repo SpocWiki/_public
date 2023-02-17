@@ -18,6 +18,7 @@ confidential: public
 [Continent::Australia
 [VehicleCode::AUS]
 [Capital::[[Canberra]]]
+![[Anthem-Australia-complete.mp3]]
 [Alcohol-l::10]
 [Language-Id::499]
 [geo-lon::149.027]

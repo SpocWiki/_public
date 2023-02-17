@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::GUY]
 [Capital::[[Georgetown]]]
+![[Anthem-Guyana.mp3]]
 [Alcohol-l::9.5]
 [Language-Id::499]
 [geo-lon::-58.17]

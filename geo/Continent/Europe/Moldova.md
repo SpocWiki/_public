@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::MD]
 [Capital::[[Chisinau]]]
+![[Anthem-Moldova.mp3]]
 [Alcohol-l::18.2]
 [Language-Id::]
 [geo-lon::28.9167]

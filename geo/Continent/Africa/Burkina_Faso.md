@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::BF]
 [Capital::[[Ouagadougou]]]
+![[Anthem-Burkina-faso.mp3]]
 [Alcohol-l::7]
 [Language-Id::496]
 [geo-lon::-1.66667]

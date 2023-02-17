@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::GT]
 [Capital::[[Guatemala_City]]]
+![[Anthem-Guatemala.mp3]]
 [Alcohol-l::4]
 [Language-Id::492]
 [geo-lon::-90.5]

@@ -13,7 +13,9 @@ tags:
 [name-en::United Kingdom]
 [name-de::Großbritannien]
 ![[Coat_of_Arms_of_the_United_Kingdom.svg]]
-![[Anthem_of_United_Kingdom-God_Save_the_Queen-United_States_Navy_Band.oga]]
+
+![[Anthem-United-kingdom.mp3]]
+
 ![[Flag_of_the_United_Kingdom_(3-5).svg]]
 [Area-Total::241752]
 [Area-Land::241600]

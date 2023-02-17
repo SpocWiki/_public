@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::RCH]
 [Capital::[[Santiago]]]
+![[Anthem-Chile.mp3]]
 [Alcohol-l::8.6]
 [Language-Id::492]
 [geo-lon::-70.67]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::DJI]
 [Capital::[[Djibouti]]]
+![[Anthem-Djibouti.mp3]]
 [Alcohol-l::1.9]
 [Language-Id::472]
 [geo-lon::43.1667]

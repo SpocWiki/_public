@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::KWT]
 [Capital::[[Kuwait=Kuweit]]]
+![[Anthem-Kuwait.mp3]]
 [Alcohol-l::0.1]
 [Language-Id::472]
 [geo-lon::48]

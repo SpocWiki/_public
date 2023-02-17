@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::KS]
 [Capital::[[Bishkek]]]
+![[Anthem-Kyrgyzstan.mp3]]
 [Alcohol-l::5.1]
 [Language-Id::469]
 [geo-lon::74.6]

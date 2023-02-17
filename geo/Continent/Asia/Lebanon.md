@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::RL]
 [Capital::[[Beirut]]]
+![[Anthem-Lebanon.mp3]]
 [Alcohol-l::2.2]
 [Language-Id::472]
 [geo-lon::35.5]

@@ -16,6 +16,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::A]
 [Capital::[[Wien=Vienna]]]
+![[Anthem-Austria.mp3]]
 [Alcohol-l::13.2]
 [Language-Id::497]
 [geo-lon::14.381]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::CZ]
 [Capital::[[Praha]]]
+![[Anthem-Czech-republic.mp3]]
 [Alcohol-l::16.5]
 [Language-Id::]
 [geo-lon::15.8734]

@@ -1,6 +1,10 @@
 ﻿---
 location: [,]
 type: Country
+created:
+destroyed:
+perished:
+demised:
 tags:
 - geo/Country
 

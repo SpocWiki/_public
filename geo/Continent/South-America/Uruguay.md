@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::ROU]
 [Capital::[[Montevideo]]]
+![[Anthem-Uruguay-complete.mp3]]
 [Alcohol-l::8.1]
 [Language-Id::492]
 [geo-lon::-56.17]

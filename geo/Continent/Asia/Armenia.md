@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::ARM]
 [Capital::[[Yerevan]]]
+![[Anthem-Armenia.mp3]]
 [Alcohol-l::11.4]
 [Language-Id::]
 [geo-lon::44.5167]

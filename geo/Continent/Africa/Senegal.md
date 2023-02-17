@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SN]
 [Capital::[[Dakar]]]
+![[Anthem-Senegal.mp3]]
 [Alcohol-l::0.6]
 [Language-Id::496]
 [geo-lon::-17.125]

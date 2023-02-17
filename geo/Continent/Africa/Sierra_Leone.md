@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SLE]
 [Capital::[[Freetown]]]
+![[Anthem-Sierra-leone.mp3]]
 [Alcohol-l::9.7]
 [Language-Id::499]
 [geo-lon::-13.2345]

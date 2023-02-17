@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::Q]
 [Capital::[[Doha]]]
+![[Anthem-Qatar.mp3]]
 [Alcohol-l::1.3]
 [Language-Id::472]
 [geo-lon::51.53]

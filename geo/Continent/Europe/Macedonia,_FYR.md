@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::MK]
 [Capital::[[Skopje]]]
+![[Anthem-Macedonia.mp3]]
 [Alcohol-l::8.5]
 [Language-Id::]
 [geo-lon::21.43]

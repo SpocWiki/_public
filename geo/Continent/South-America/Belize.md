@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::BZ]
 [Capital::[[Belmopan]]]
+![[Anthem-Belize.mp3]]
 [Alcohol-l::6.1]
 [Language-Id::499]
 [geo-lon::-88.7667]

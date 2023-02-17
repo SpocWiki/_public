@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::IL]
 [Capital::[[Jerusalem]]]
+![[Anthem-Israel.mp3]]
 [Alcohol-l::2.9]
 [Language-Id::]
 [geo-lon::35]

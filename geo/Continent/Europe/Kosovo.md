@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::]
 [Capital-Id::]
+![[Anthem-Kosovo.mp3]]
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::20.85]

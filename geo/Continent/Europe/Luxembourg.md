@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::L]
 [Capital::[[Luxembourg]]]
+![[Anthem-Luxembourg.mp3]]
 [Alcohol-l::13]
 [Language-Id::496]
 [geo-lon::6.07904]

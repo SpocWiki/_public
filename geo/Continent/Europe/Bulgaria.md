@@ -16,6 +16,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::BG]
 [Capital::[[Sofia]]]
+![[Anthem-Bulgaria-complete.mp3]]
 [Alcohol-l::12.4]
 [Language-Id::]
 [geo-lon::25.3029]

@@ -16,6 +16,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::BIH]
 [Capital::[[Sarajevo]]]
+![[Anthem-Bosnia-herzegovina.mp3]]
 [Alcohol-l::9.6]
 [Language-Id::]
 [geo-lon::18.43]

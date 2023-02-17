@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::EAU]
 [Capital::[[Kampala]]]
+![[Anthem-Uganda.mp3]]
 [Alcohol-l::11.9]
 [Language-Id::499]
 [geo-lon::32.5811]

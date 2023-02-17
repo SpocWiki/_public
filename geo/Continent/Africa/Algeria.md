@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::DZ]
 [Capital::[[Algier=Algiers]]]
+![[Anthem-Algeria.mp3]]
 [Alcohol-l::1]
 [Language-Id::472]
 [geo-lon::3.05]

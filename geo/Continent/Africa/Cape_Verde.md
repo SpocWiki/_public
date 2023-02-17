@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::CV]
 [Capital::[[Praia]]]
+![[Anthem-Cape-verde.mp3]]
 [Alcohol-l::5]
 [Language-Id::467]
 [geo-lon::-23.5167]

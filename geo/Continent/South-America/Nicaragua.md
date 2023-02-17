@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::NIC]
 [Capital::[[Managua]]]
+![[Anthem-Nicaragua.mp3]]
 [Alcohol-l::5.4]
 [Language-Id::492]
 [geo-lon::-86.28]

@@ -16,6 +16,7 @@ confidential: public
 [Area-Total::1001]
 [Area-Land::960]
 [Continent::[[Africa]]]
+![[Anthem-Sao-tome-and-principe.mp3]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::8.7]

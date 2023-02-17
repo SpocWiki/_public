@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::ETH]
 [Capital::[[Addis_Abeba]]]
+![[Anthem-Ethiopia.mp3]]
 [Alcohol-l::4]
 [Language-Id::]
 [geo-lon::38.7]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::ZA]
 [Capital::[[Pretoria]]]
+![[Anthem-South-africa.mp3]]
 [Alcohol-l::9.5]
 [Language-Id::499]
 [geo-lon::22.87]

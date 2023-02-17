@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::DK]
 [Capital::[[Copenhagen]]]
+![[Anthem-Denmark-anthem.mp3]]
 [Alcohol-l::13.4]
 [Language-Id::]
 [geo-lon::10.5]

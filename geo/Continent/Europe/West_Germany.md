@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::D]
 [Capital-Id::]
+![[Anthem-Germany.mp3]]
 [Alcohol-l::]
 [Language-Id::497]
 [geo-lon::]

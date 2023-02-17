@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::CL]
 [Capital::[[Sri_Jayawardenapura-Kotte]]]
+![[Anthem-Sri-lanka.mp3]]
 [Alcohol-l::0.8]
 [Language-Id::458]
 [geo-lon::80.425]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::MS]
 [Capital::[[Port_Louis]]]
+![[Anthem-Mauritius.mp3]]
 [Alcohol-l::3.7]
 [Language-Id::499]
 [geo-lon::57.5167]

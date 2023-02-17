@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::KZ]
 [Capital::[[Astana]]]
+![[Anthem-Kazakhstan.mp3]]
 [Alcohol-l::11]
 [Language-Id::469]
 [geo-lon::71.4167]

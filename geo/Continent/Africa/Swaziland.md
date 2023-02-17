@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SD]
 [Capital::[[Mbabane]]]
+![[Anthem-Swaziland.mp3]]
 [Alcohol-l::5.7]
 [Language-Id::499]
 [geo-lon::31.1333]

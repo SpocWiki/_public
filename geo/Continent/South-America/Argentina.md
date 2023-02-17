@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::RA]
 [Capital::[[Buenos_Aires]]]
+![[Anthem-Argentina-long.mp3]]
 [Alcohol-l::10]
 [Language-Id::492]
 [geo-lon::-58.41]

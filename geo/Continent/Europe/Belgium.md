@@ -16,6 +16,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::B]
 [Capital::[[Brussels=Bruxelles]]]
+![[Anthem-Belgium.mp3]]
 [Alcohol-l::10.8]
 [Language-Id::496]
 [geo-lon::4.29368]

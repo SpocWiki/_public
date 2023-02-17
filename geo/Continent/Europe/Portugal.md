@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::P]
 [Capital::[[Lissabon=Lisboa=Lisbon]]]
+![[Anthem-Portugal.mp3]]
 [Alcohol-l::14.6]
 [Language-Id::467]
 [geo-lon::-5.10879]

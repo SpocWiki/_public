@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::WAG]
 [Capital::[[Banjul]]]
+![[Anthem-Gambia.mp3]]
 [Alcohol-l::3.4]
 [Language-Id::499]
 [geo-lon::-16.6]

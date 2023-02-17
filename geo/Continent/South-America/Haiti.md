@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::RH]
 [Capital::[[Port-au-Prince]]]
+![[Anthem-Haiti.mp3]]
 [Alcohol-l::6.6]
 [Language-Id::496]
 [geo-lon::-72.3333]

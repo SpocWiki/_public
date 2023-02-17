@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::SGP]
 [Capital::[[Singapore=Singapur]]]
+![[Anthem-Singapore.mp3]]
 [Alcohol-l::1.6]
 [Language-Id::499]
 [geo-lon::103.85]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::BDS]
 [Capital::[[Bridgetown]]]
+![[Anthem-Barbados.mp3]]
 [Alcohol-l::6.9]
 [Language-Id::499]
 [geo-lon::-59.5333]

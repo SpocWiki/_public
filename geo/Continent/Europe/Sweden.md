@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::S]
 [Capital::[[Stockholm]]]
+![[Anthem-Sweden.mp3]]
 [Alcohol-l::10.3]
 [Language-Id::]
 [geo-lon::16.5434]

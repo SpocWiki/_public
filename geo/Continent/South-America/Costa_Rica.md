@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::CR]
 [Capital::[[San_José=San_Jose]]]
+![[Anthem-Costa-rica.mp3]]
 [Alcohol-l::5.6]
 [Language-Id::492]
 [geo-lon::-84.08]

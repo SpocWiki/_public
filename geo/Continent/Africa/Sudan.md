@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SUD]
 [Capital::[[Khartoum]]]
+![[Anthem-Sudan.mp3]]
 [Alcohol-l::2.6]
 [Language-Id::472]
 [geo-lon::32.53]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::M]
 [Capital::[[Valletta]]]
+![[Anthem-Malta.mp3]]
 [Alcohol-l::4.3]
 [Language-Id::]
 [geo-lon::14.52]

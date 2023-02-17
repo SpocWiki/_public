@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::G]
 [Capital::[[Libreville]]]
+![[Anthem-Gabon.mp3]]
 [Alcohol-l::9.3]
 [Language-Id::496]
 [geo-lon::9.45]

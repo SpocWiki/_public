@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::LT]
 [Capital::[[Vilnius]]]
+![[Anthem-Lithuania.mp3]]
 [Alcohol-l::15]
 [Language-Id::]
 [geo-lon::25.3167]

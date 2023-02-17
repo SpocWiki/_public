@@ -7,7 +7,10 @@ tags:
 SpocWebEntityId: 26941
 isDeleted: false
 confidential: public
-
+aliases:
+- South-Korea
+- Korea-Republic
+- Südkorea 
 ---
 [ISO2::KR]
 [ISO3::KOR]
@@ -18,6 +21,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::ROK]
 [Capital::[[Seoul]]]
+![[Anthem-Korea-south.mp3]]
 [Alcohol-l::14.8]
 [Language-Id::459]
 [geo-lon::126.97]

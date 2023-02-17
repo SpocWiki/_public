@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::TM]
 [Capital::[[Ashgabat]]]
+![[Anthem-Turkmenistan.mp3]]
 [Alcohol-l::4.6]
 [Language-Id::469]
 [geo-lon::58.3333]

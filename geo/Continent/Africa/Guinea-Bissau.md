@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::GUB]
 [Capital::[[Bissau]]]
+![[Anthem-Guinea-bissau.mp3]]
 [Alcohol-l::3.7]
 [Language-Id::467]
 [geo-lon::-15.6]

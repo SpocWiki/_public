@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RB]
 [Capital::[[Gaborone]]]
+![[Anthem-Botswana.mp3]]
 [Alcohol-l::8]
 [Language-Id::499]
 [geo-lon::25.9167]

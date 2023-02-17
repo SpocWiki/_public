@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::ES]
 [Capital::[[San_Salvador]]]
+![[Anthem-El-salvador.mp3]]
 [Alcohol-l::3.6]
 [Language-Id::492]
 [geo-lon::-89.1667]

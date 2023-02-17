@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::SRB]
 [Capital::[[Beograd]]]
+![[Anthem-Serbia.mp3]]
 [Alcohol-l::11.1]
 [Language-Id::]
 [geo-lon::20.48]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::EAK]
 [Capital::[[Nairobi]]]
+![[Anthem-Kenya.mp3]]
 [Alcohol-l::4.1]
 [Language-Id::499]
 [geo-lon::36.83]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::LAR]
 [Capital::[[Tripolis=Tripoli]]]
+![[Anthem-Libya.mp3]]
 [Alcohol-l::0.1]
 [Language-Id::472]
 [geo-lon::13.19]

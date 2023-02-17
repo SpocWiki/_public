@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::UAE]
 [Capital::[[Abu_Dhabi]]]
+![[Anthem-United-arab-emirates.mp3]]
 [Alcohol-l::0.5]
 [Language-Id::472]
 [geo-lon::54.42]

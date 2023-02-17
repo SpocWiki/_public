@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::CHN]
 [Capital::[[Beijing=Peking]]]
+![[Anthem-China.mp3]]
 [Alcohol-l::5.9]
 [Language-Id::485]
 [geo-lon::117.985]

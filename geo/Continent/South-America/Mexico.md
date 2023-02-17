@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::MEX]
 [Capital::[[Mexico_City]]]
+![[Anthem-Mexico.mp3]]
 [Alcohol-l::8.4]
 [Language-Id::492]
 [geo-lon::-99.15]

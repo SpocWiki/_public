@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SO]
 [Capital::[[Mogadischu=Mogadisho]]]
+![[Anthem-Somalia.mp3]]
 [Alcohol-l::0.5]
 [Language-Id::]
 [geo-lon::45.33]

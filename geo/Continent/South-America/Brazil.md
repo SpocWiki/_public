@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::BR]
 [Capital::[[Brasilia]]]
+![[Anthem-Brazil.mp3]]
 [Alcohol-l::9.2]
 [Language-Id::467]
 [geo-lon::-45.9467]

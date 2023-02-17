@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RG]
 [Capital::[[Conakry]]]
+![[Anthem-Guinea.mp3]]
 [Alcohol-l::0.8]
 [Language-Id::496]
 [geo-lon::-13.7]

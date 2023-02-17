@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::CO]
 [Capital::[[Bogota]]]
+![[Anthem-Colombia.mp3]]
 [Alcohol-l::6.2]
 [Language-Id::]
 [geo-lon::-75.225]

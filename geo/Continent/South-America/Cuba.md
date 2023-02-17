@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::C]
 [Capital::[[Habana=Havana=Havanna]]]
+![[Anthem-Cuba.mp3]]
 [Alcohol-l::5.5]
 [Language-Id::492]
 [geo-lon::-82.37]

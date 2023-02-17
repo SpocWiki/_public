@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::]
 [Capital::[[Moskwa]]]
+![[Anthem-Russia.mp3]]
 [Alcohol-l::15.8]
 [Language-Id::469]
 [geo-lon::47.4574]

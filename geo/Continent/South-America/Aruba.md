@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::ARU]
 [Capital::[[Oranjestad]]]
+![[Anthem-Aruba.mp3]]
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::-69.9933]

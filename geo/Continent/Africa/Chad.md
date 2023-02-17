@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::TD]
 [Capital::[[N'Djamena]]]
+![[Anthem-Chad.mp3]]
 [Alcohol-l::4.4]
 [Language-Id::]
 [geo-lon::16.0333]

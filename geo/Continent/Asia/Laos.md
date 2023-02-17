@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::LAO]
 [Capital::[[Vientiane]]]
+![[Anthem-Laos.mp3]]
 [Alcohol-l::6.7]
 [Language-Id::]
 [geo-lon::102.6]

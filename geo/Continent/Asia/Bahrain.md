@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::BRN]
 [Capital::[[Manama]]]
+![[Anthem-Bahrain.mp3]]
 [Alcohol-l::3.7]
 [Language-Id::472]
 [geo-lon::50.58]

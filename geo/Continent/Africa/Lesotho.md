@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::LS]
 [Capital::[[Maseru]]]
+![[Anthem-Lesotho.mp3]]
 [Alcohol-l::5.6]
 [Language-Id::499]
 [geo-lon::27.9333]

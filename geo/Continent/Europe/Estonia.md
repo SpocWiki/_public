@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::EST]
 [Capital::[[Tallinn]]]
+![[Anthem-Estonia.mp3]]
 [Alcohol-l::15.6]
 [Language-Id::]
 [geo-lon::24.75]

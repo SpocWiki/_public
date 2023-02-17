@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::MV]
 [Capital::[[Malé]]]
+![[Anthem-Maldives.mp3]]
 [Alcohol-l::0.8]
 [Language-Id::]
 [geo-lon::73.5]

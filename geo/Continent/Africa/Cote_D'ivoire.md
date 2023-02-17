@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::CI]
 [Capital::[[Yamoussoukro]]]
+![[Anthem-Cote-divoire.mp3]]
 [Alcohol-l::6.5]
 [Language-Id::496]
 [geo-lon::-5.3]

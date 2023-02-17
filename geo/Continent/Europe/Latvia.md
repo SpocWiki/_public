@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::LV]
 [Capital::[[Riga]]]
+![[Anthem-Latvia.mp3]]
 [Alcohol-l::12.5]
 [Language-Id::]
 [geo-lon::24.11]

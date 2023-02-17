@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::ER]
 [Capital::[[Asmara]]]
+![[Anthem-Eritrea.mp3]]
 [Alcohol-l::1.5]
 [Language-Id::472]
 [geo-lon::38.9167]

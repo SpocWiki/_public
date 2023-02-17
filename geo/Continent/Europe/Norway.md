@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::N]
 [Capital::[[Oslo]]]
+![[Anthem-Norway.mp3]]
 [Alcohol-l::7.8]
 [Language-Id::]
 [geo-lon::11.4588]

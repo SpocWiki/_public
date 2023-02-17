@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::UZ]
 [Capital::[[Taschkent]]]
+![[Anthem-Uzbekistan.mp3]]
 [Alcohol-l::3.5]
 [Language-Id::469]
 [geo-lon::69.3]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::H]
 [Capital::[[Budapest]]]
+![[Anthem-Hungary.mp3]]
 [Alcohol-l::16.3]
 [Language-Id::]
 [geo-lon::19.1508]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::J]
 [Capital::[[Tokio]]]
+![[Anthem-Japan.mp3]]
 [Alcohol-l::8]
 [Language-Id::466]
 [geo-lon::137.199]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::BS]
 [Capital::[[Nassau]]]
+![[Anthem-Bahamas.mp3]]
 [Alcohol-l::8.8]
 [Language-Id::499]
 [geo-lon::-77.33]

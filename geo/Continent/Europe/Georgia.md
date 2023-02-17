@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::GEO]
 [Capital::[[Tbilisi]]]
+![[Anthem-Georgia.mp3]]
 [Alcohol-l::6.4]
 [Language-Id::]
 [geo-lon::44.7833]

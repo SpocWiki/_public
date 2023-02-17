@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::NAM]
 [Capital::[[Windhoek]]]
+![[Anthem-Namibia.mp3]]
 [Alcohol-l::9.6]
 [Language-Id::499]
 [geo-lon::17.1]

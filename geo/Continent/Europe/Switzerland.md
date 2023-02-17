@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::CH]
 [Capital::[[Bern]]]
+![[Anthem-Switzerland.mp3]]
 [Alcohol-l::11.1]
 [Language-Id::497]
 [geo-lon::8.46058]

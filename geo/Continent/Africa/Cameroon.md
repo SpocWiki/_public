@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::CAM]
 [Capital::[[Duala_Buea_(after_1910)]]]
+![[Anthem-Cameroon.mp3]]
 [Alcohol-l::7.6]
 [Language-Id::499]
 [geo-lon::10.6]

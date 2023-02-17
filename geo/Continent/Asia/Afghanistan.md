@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::AFG]
 [Capital::[[Kabul]]]
+![[Anthem-Afghanistan.mp3]]
 [Alcohol-l::0]
 [Language-Id::455]
 [geo-lon::69.2]

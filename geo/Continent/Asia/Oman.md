@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::OM]
 [Capital::[[Muscat=Maskat]]]
+![[Anthem-Oman.mp3]]
 [Alcohol-l::0.9]
 [Language-Id::472]
 [geo-lon::58.55]

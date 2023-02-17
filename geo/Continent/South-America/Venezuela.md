@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::YV]
 [Capital::[[Caracas]]]
+![[Anthem-Venezuela.mp3]]
 [Alcohol-l::8.2]
 [Language-Id::492]
 [geo-lon::-66.93]

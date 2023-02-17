@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::MW]
 [Capital::[[Lilongwe]]]
+![[Anthem-Malawi.mp3]]
 [Alcohol-l::1.7]
 [Language-Id::499]
 [geo-lon::33.7]

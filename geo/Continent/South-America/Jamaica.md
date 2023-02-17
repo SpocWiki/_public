@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::JA]
 [Capital::[[Kingston]]]
+![[Anthem-Jamaica.mp3]]
 [Alcohol-l::5]
 [Language-Id::499]
 [geo-lon::-76.8]

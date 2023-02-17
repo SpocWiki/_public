@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::NEP]
 [Capital::[[Kathmandu]]]
+![[Anthem-Nepal.mp3]]
 [Alcohol-l::2.4]
 [Language-Id::]
 [geo-lon::85.3167]

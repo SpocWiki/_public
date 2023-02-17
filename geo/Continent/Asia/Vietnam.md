@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::VN]
 [Capital::[[Hanoe]]]
+![[Anthem-Vietnam.mp3]]
 [Alcohol-l::3.8]
 [Language-Id::460]
 [geo-lon::106.26]

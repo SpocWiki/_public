@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::ET]
 [Capital::[[Kairo=Cairo]]]
+![[Anthem-Egypt.mp3]]
 [Alcohol-l::0.4]
 [Language-Id::472]
 [geo-lon::31.9]

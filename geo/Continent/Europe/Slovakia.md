@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::SK]
 [Capital::[[Bratislava]]]
+![[Anthem-Slovak-republic.mp3]]
 [Alcohol-l::13.3]
 [Language-Id::]
 [geo-lon::17.1]

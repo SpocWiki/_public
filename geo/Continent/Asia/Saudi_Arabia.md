@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::KSA]
 [Capital::[[Riyadh=Er_Riad]]]
+![[Anthem-Saudi-arabia.mp3]]
 [Alcohol-l::0.3]
 [Language-Id::472]
 [geo-lon::43.27]

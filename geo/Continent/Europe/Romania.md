@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::RO]
 [Capital::[[Bukarest]]]
+![[Anthem-Romania.mp3]]
 [Alcohol-l::15.3]
 [Language-Id::]
 [geo-lon::24.9906]

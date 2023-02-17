@@ -19,6 +19,7 @@ confidential: public
 [VehicleCode::F]
 [Capital::[[Paris]]]
 [Alcohol-l::13.7]
+![[Anthem-France.mp3]]
 [Language-Id::496]
 [geo-lon::2.33663]
 [geo-lat::46.8944]

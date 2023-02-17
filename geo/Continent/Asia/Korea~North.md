@@ -7,6 +7,10 @@ tags:
 SpocWebEntityId: 26940
 isDeleted: false
 confidential: public
+aliases:
+- North-Korea
+- Korea~Dem-Rep 
+- Nordkorea 
 
 ---
 [ISO2::KP]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::BOL]
 [Capital::[[Sucre]]]
+![[Anthem-Bolivia.mp3]]
 [Alcohol-l::5.1]
 [Language-Id::492]
 [geo-lon::-66.7]

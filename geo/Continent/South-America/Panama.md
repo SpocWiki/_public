@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::PA]
 [Capital::[[Panama_City]]]
+![[Anthem-Panama.mp3]]
 [Alcohol-l::6.9]
 [Language-Id::492]
 [geo-lon::-79.5333]

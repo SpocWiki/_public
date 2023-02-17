@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::EAT]
 [Capital::[[Dodoma]]]
+![[Anthem-Tanzania.mp3]]
 [Alcohol-l::6.8]
 [Language-Id::499]
 [geo-lon::35.7419]

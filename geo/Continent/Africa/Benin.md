@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::BJ]
 [Capital::[[Porto-Novo1]]]
+![[Anthem-Benin.mp3]]
 [Alcohol-l::2.2]
 [Language-Id::496]
 [geo-lon::2.6]

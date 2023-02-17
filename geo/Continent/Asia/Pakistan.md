@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::PK]
 [Capital::[[Islamabad]]]
+![[Anthem-Pakistan.mp3]]
 [Alcohol-l::0.1]
 [Language-Id::]
 [geo-lon::70.1033]

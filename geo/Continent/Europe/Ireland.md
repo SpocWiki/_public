@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::IRL]
 [Capital::[[Dublin]]]
+![[Anthem-Ireland.mp3]]
 [Alcohol-l::14.4]
 [Language-Id::499]
 [geo-lon::-7.70895]

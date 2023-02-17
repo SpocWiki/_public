@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SY]
 [Capital::[[Victoria]]]
+![[Anthem-Seychelles.mp3]]
 [Alcohol-l::10.6]
 [Language-Id::499]
 [geo-lon::55.45]

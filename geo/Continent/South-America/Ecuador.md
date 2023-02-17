@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::EC]
 [Capital::[[Quito]]]
+![[Anthem-Ecuador.mp3]]
 [Alcohol-l::9.4]
 [Language-Id::492]
 [geo-lon::-78.5]

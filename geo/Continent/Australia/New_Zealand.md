@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Australia]]]
 [VehicleCode::NZ]
 [Capital::[[Wellington]]]
+![[Anthem-New-zealand-god-defend-new-zealand.mp3]]
 [Alcohol-l::9.6]
 [Language-Id::499]
 [geo-lon::174.78]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::TJ]
 [Capital::[[Dushanbe]]]
+![[Anthem-Tajikistan.mp3]]
 [Alcohol-l::3.4]
 [Language-Id::469]
 [geo-lon::68.8]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::PL]
 [Capital::[[Warszawa]]]
+![[Anthem-Poland.mp3]]
 [Alcohol-l::13.3]
 [Language-Id::494]
 [geo-lon::17.6996]

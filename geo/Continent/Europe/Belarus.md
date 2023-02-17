@@ -17,6 +17,7 @@ tags:
 [Continent::[[Europe]]]
 [VehicleCode::BY]
 [Capital::[[Minsk]]]
+![[Anthem-Belarus.mp3]]
 [Alcohol-l::15.1]
 [Language-Id::469]
 [geo-lon::27.57]

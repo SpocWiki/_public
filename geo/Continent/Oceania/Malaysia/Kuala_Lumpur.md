@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::3.17]
 [name::Kuala Lumpur]
 [State::]
-[Country::[[Malaysia]]]
+[Country:[[_public/geo/Continent/Oceania/Malaysia]]]]
 [StateId::]
 [Population::]
 [Unknown::]

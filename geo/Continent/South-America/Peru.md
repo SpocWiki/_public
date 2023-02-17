@@ -18,6 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::PE]
 [Capital::[[Lima]]]
+![[Anthem-Peru.mp3]]
 [Alcohol-l::6.9]
 [Language-Id::492]
 [geo-lon::-77.05]

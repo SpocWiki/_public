@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::MOC]
 [Capital::[[Maputo]]]
+![[Anthem-Mozambique.mp3]]
 [Alcohol-l::2.4]
 [Language-Id::467]
 [geo-lon::33.7917]

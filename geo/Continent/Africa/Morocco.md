@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::MA]
 [Capital::[[Rabat]]]
+![[Anthem-Morocco.mp3]]
 [Alcohol-l::1.5]
 [Language-Id::472]
 [geo-lon::-7.6125]

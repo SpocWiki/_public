@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::FIN]
 [Capital::[[Helsingfors]]]
+![[Anthem-Finland.mp3]]
 [Alcohol-l::12.5]
 [Language-Id::]
 [geo-lon::25.4668]

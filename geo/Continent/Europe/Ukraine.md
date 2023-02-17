@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::UA]
 [Capital::[[Kiew]]]
+![[Anthem-Ukraine.mp3]]
 [Alcohol-l::15.6]
 [Language-Id::469]
 [geo-lon::30.5]

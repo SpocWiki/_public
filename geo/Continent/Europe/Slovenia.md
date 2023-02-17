@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::SLO]
 [Capital::[[Ljubliana]]]
+![[Anthem-Slovenia.mp3]]
 [Alcohol-l::15.2]
 [Language-Id::]
 [geo-lon::14.52]

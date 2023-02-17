@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::COM]
 [Capital-Id::]
+![[Anthem-Comoros.mp3]]
 [Alcohol-l::0.4]
 [Language-Id::472]
 [geo-lon::-11.7]

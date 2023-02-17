@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::EQ]
 [Capital::[[Malabo]]]
+![[Anthem-Guinea.mp3]]
 [Alcohol-l::6.1]
 [Language-Id::492]
 [geo-lon::8.78333]

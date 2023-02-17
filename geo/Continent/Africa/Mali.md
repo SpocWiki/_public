@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RMM]
 [Capital::[[Bamako]]]
+![[Anthem-Mali.mp3]]
 [Alcohol-l::1]
 [Language-Id::496]
 [geo-lon::-8]

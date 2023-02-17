@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RWA]
 [Capital::[[Kigali]]]
+![[Anthem-Rwanda.mp3]]
 [Alcohol-l::9.8]
 [Language-Id::499]
 [geo-lon::30.0595]

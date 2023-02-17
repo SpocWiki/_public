@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::IS]
 [Capital::[[Reykjavik]]]
+![[Anthem-Iceland.mp3]]
 [Alcohol-l::6.3]
 [Language-Id::]
 [geo-lon::-21.718]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::FL]
 [Capital::[[Vaduz]]]
+![[Anthem-Liechtenstein.mp3]]
 [Alcohol-l::]
 [Language-Id::497]
 [geo-lon::9.529]

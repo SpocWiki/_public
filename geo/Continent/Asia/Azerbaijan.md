@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::AZ]
 [Capital::[[Baku]]]
+![[Anthem-Azerbaijan.mp3]]
 [Alcohol-l::10.6]
 [Language-Id::]
 [geo-lon::49.83]

@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::LB]
 [Capital::[[Monrovia]]]
+![[Anthem-Liberia.mp3]]
 [Alcohol-l::5.1]
 [Language-Id::499]
 [geo-lon::-10.8]

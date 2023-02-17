@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RCA]
 [Capital::[[Bangui]]]
+![[Anthem-Central-african-republic.mp3]]
 [Alcohol-l::3.4]
 [Language-Id::496]
 [geo-lon::18.5833]

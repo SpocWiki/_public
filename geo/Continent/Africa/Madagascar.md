@@ -18,6 +18,7 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RM]
 [Capital::[[Antananarivo]]]
+![[Anthem-Madagascar.mp3]]
 [Alcohol-l::1.3]
 [Language-Id::496]
 [geo-lon::47.5083]
