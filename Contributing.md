@@ -133,6 +133,27 @@ After feedback has been given we expect responses within two weeks. After two we
 
 # Conventions
 
+### Language
+To achieve broad usability, the primary Language of these Articles is English. 
+
+Articles in other languages should be placed in the corresponding language-Folder.
+When these become too large, the usual Process of separating them out into a dedicated repository will be applied. 
+These repositories should be cloned separately into the corresponding location
+so that relative links remain unchanged.
+
+### Renaming Files 
+Do not rename or move Files, without creating an issue first and discussing that. 
+These operation have the risk of breaking Links! 
+
+Even if you use a Software that automatically fixes Links, 
+this Repository may be used in any number of (private) Contexts that we all are unaware of. 
+
+To supporte these Use-Cases, on renaming or moving, leave the old File in place and replace its contents with a Link to the new File and the Date/Time-Stamp of this Operation. 
+
+The **Rename**-Issues will regularly be published to give all Users a chance to update their Links. 
+
+Eventually old Files may be cleaned up from the Repository. 
+
 ### Casing and Escaping White-Space
 Although many Wikis support Spaces in File Names, 
 we try to avoid them, because they create many Problems, 
@@ -140,6 +161,10 @@ not the least is that URLs and IRIs need to escape them.
 
 This increases support for other Platforms like TiddlyWiki etc. that recognize Wiki-Words 
 For Readability we recommend using 'Kebab-Case' or 'Snake_Case'. 
+
+Hierarchical Tags can be used by inserting Slashes like so: \#lang/de 
+
+For Attribute Names we recommend camelCase or PascalCase like [Schema.org](https://schema.org/) uses.  
 
 #### Recommend Separators:
 Dash: - as in Kebab-Case
@@ -172,16 +197,22 @@ Use Common Sense when inferring from these Attributes.
 
 #### Obsidian Attributes
 aliases: List of Alias Names, also supported by Obsidian 
+publish: a boolean Flag to indicate that this File is to be published on a web page
+cssclass: the Name of a CSS-Class to apply to this Page
+tags: List of Tags; Since these are usually not displayed from the FrontMatter,
+rather use the equivalent \#tags in the File Body. 
 
 #### Tags:
-isDeleted
-isReadOnly
+isDeleted: a soft-deletion Flag to indicate that this File is to be considered deleted and may be removed soon
+isReadOnly: a soft Flag to indicate that this File should not be modified
 
 
 #### Attributes: 
-createdTime: Date (and Time) of Creation/Birth 
-demisedTime: Date (and Time) of Destruction/Death/Dissolution 
+For Attribute Names we recommend camelCase or PascalCase like [Schema.org](https://schema.org/) uses.  
+- **type**: a Schema.org Type to describe the Tags and Attributes of this File.
+- **createdTime**: Date (and Time) of Creation/Birth 
+- **demisedTime**: Date (and Time) of Destruction/Death/Dissolution 
 
-createdPlace: Location of Creation/Birth, preferably in geo-coordinates (longitude, latitude)
-demisedPlace: Location of Destruction/Death/Dissolution 
+- **createdPlace**: Location of Creation/Birth, preferably in geo-coordinates (longitude, latitude)
+- **demisedPlace**: Location of Destruction/Death/Dissolution 
 
