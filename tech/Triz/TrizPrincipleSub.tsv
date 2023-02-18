@@ -1,0 +1,93 @@
+﻿SpocWebEntityId	name	Description	Version	ChangeTime	IsDeleted	IsPrivate	ChangeUserId	PrincipleId
+22240	Partition	Divide an object into independent parts.	4	2011-05-22	0	0	20	22197
+22241	Disassemble	Make an object easy to disassemble.	4	2011-05-22	0	0	20	22197
+22242	Fragment	Increase the degree of fragmentation or segmentation.	4	2011-05-22	0	0	20	22197
+22243	Separate	Separate an interfering part or property from an object, or single out the only.	4	2011-05-22	0	0	20	22198
+22244	non-uniform	Change an object's structure from uniform to non-uniform, change an external environment (or external influence) from uniform to non-uniform.	5	2011-05-22	0	0	20	22199
+22245	condition	Make each part of an object function in conditions most suitable for its operation.	4	2011-05-22	0	0	20	22199
+22246	different	Make each part of an object fulfill a different and useful function.	4	2011-05-22	0	0	20	22199
+22247	asymmetrical	A. Change the shape of an object from symmetrical to asymmetrical.	4	2011-05-22	0	0	20	22200
+22248	increase-Asymmetry	If an object is asymmetrical, increase its degree of asymmetry.	4	2011-05-22	0	0	20	22200
+22249	merge-identical	Bring closer together (or merge) identical or similar objects, assemble identical or similar parts to perform parallel operations.	5	2011-05-22	0	0	20	22201
+22250	merge-in-time	Make operations contiguous or parallel; bring them together in time.	4	2011-05-22	0	0	20	22201
+22251	multi-urpose	Make a part or object perform multiple functions; eliminate the need for other parts.	4	2011-05-22	0	0	20	22202
+22252	merge-in-space	Place one object inside another; place each object, in turn, inside the other.	4	2011-05-22	0	0	20	14821
+22253	allow-pass	Make one part pass through a cavity in the other.	4	2011-05-22	0	0	20	14821
+22254	weigt-lift	To compensate for the weight of an object, merge it with other objects that provide lift.	4	2011-05-22	0	0	20	22203
+22255	weight-environment	To compensate for the weight of an object, make it interact with the environment (e.g. use aerodynamic, hydrodynamic, buoyancy and other forces).	5	2011-05-22	0	0	20	22203
+22256	control-harm	If it will be necessary to do an action with both harmful and useful effects, this action should be replaced with anti-actions to control harmful effects.	5	2011-05-22	0	0	20	22204
+22257	anti-stresses	Create beforehand stresses in an object that will oppose known undesirable working stresses later on.	5	2011-05-22	0	0	20	22204
+22258	anticipate-change	Perform, before it is needed, the required change of an object (either fully or partially).	4	2011-05-22	0	0	20	22205
+22259	arrange-parts	Pre-arrange objects such that they can come into action from the most convenient place and without losing time for their delivery.	4	2011-05-22	0	0	20	22205
+22260	prepare-emergency	Prepare emergency means beforehand to compensate for the relatively low reliability of an object.	4	2011-05-22	0	0	20	22206
+22261	limit-changes	In a potential field, limit position changes (e.g. change operating conditions to eliminate the need to raise or lower objects in a gravity field).	4	2011-05-22	0	0	20	22207
+22262	invert-action	Invert the action(s) used to solve the problem (e.g. instead of cooling an object, heat it).	4	2011-05-22	0	0	20	22208
+22263	movability	Make movable parts (or the external environment) fixed, and fixed parts movable).	4	2011-05-22	0	0	20	22208
+22264	upside-down	Turn the object (or process) 'upside down'.	4	2011-05-22	0	0	20	22208
+22265	curved-shape	Instead of using rectilinear parts, surfaces, or forms, use curvilinear ones; move from flat surfaces to spherical ones; from parts shaped as a cube (parallelepiped) to  ball-shaped structures.	5	2011-05-22	0	0	20	22209
+22266	use-balls	Use rollers, balls, spirals, domes.	4	2011-05-22	0	0	20	22209
+22267	use-rotation	Go from linear to rotary motion, use centrifugal forces.	4	2011-05-22	0	0	20	22209
+22268	optimal-conditions	Allow (or design) the characteristics of an object, external environment, or process to change to be optimal or to find an optimal operating condition.	5	2011-05-22	0	0	20	22210
+22269	movable-parts	Divide an object into parts capable of movement relative to each other.	4	2011-05-22	0	0	20	22210
+22270	movable-part	If an object (or process) is rigid or inflexible, make it movable or adaptive.	4	2011-05-22	0	0	20	22210
+22271	accept-less	If 100 percent of an object is hard to achieve using a given solution method then, by using 'slightly less' or 'slightly more' of the same method, the problem may be considerably easier to solve.	5	2011-05-22	0	0	20	22211
+22272	move-in-space	To move an object in two- or three-dimensional space.	4	2011-05-22	0	0	20	22212
+22273	multi-story	Use a multi-story arrangement of objects instead of a single-story arrangement.	4	2011-05-22	0	0	20	22212
+22274	tilt	Tilt or re-orient the object, lay it on its side.	4	2011-05-22	0	0	20	22212
+22275	another-side	Use 'another side' of a given area.	4	2011-05-22	0	0	20	22212
+22276	vibrate	Cause an object to oscillate or vibrate.	4	2011-05-22	0	0	20	22213
+22277	change-frequency	Increase its frequency (even up to the ultrasonic).	4	2011-05-22	0	0	20	22213
+22278	resonate	Use an object's resonant frequency.	4	2011-05-22	0	0	20	22213
+22279	piezo-electric	Use piezoelectric vibrators instead of mechanical ones.	4	2011-05-22	0	0	20	22213
+22280	combined-oscillations	Use combined ultrasonic and electromagnetic field oscillations.	4	2011-05-22	0	0	20	22213
+22281	periodic-action	Instead of continuous action, use periodic or pulsating actions.	4	2011-05-22	0	0	20	22214
+22282	vary-oscillations	If an action is already periodic, change the periodic magnitude or frequency.	4	2011-05-22	0	0	20	22214
+22283	use-pauses	Use pauses between impulses to perform a different action.	4	2011-05-22	0	0	20	22214
+22284	continuous-load	Carry on work continuously; make all parts of an object work at full load, all the time.	4	2011-05-22	0	0	20	22215
+22285	eliminate-idle	Eliminate all idle or intermittent actions or work.	4	2011-05-22	0	0	20	22215
+22286	high-speed	Conduct a process, or certain stages (e.g. destructible, harmful or hazardous operations) at high speed.	5	2011-05-22	0	0	20	22216
+22287	accept-harm	Use harmful factors (particularly, harmful effects of the environment or surroundings) to achieve a positive effect.	4	2011-05-22	0	0	20	22217
+22288	combine-harm	Eliminate the primary harmful action by adding it to another harmful action to resolve the problem.	4	2011-05-22	0	0	20	22217
+22289	amplify-harm	Amplify a harmful factor to such a degree that it is no longer harmful.	4	2011-05-22	0	0	20	22217
+22290	feedback	Introduce feedback (referring back, cross-checking) to improve a process or action.	4	2011-05-22	0	0	20	2434
+22291	vary-feedback	If feedback is already used, change its magnitude or influence.	4	2011-05-22	0	0	20	2434
+22292	intermediary	Use an intermediary carrier article or intermediary process.	4	2011-05-22	0	0	20	22218
+22293	merge-temporarily	Merge one object temporarily with another (which can be easily removed).	4	2011-05-22	0	0	20	22218
+22294	add-functions	Make an object serve itself by performing auxiliary helpful functions.	4	2011-05-22	0	0	20	22219
+22295	use-waste	Use waste resources, energy, or substances.	4	2011-05-22	0	0	20	22219
+22296	use-copies	Instead of an unavailable, expensive, fragile object, use simpler and inexpensive copies.	4	2011-05-22	0	0	20	22220
+22297	use-optical-copies	Replace an object, or process with optical copies.	4	2011-05-22	0	0	20	22220
+22298	use-IR-UV-copies	If visible optical copies are already used, move to infrared or ultraviolet copies.	4	2011-05-22	0	0	20	22220
+22299	replace-by-multiple	Replace an inexpensive object with a multiple of inexpensive objects, comprising certain qualities (such as service life, for instance).	4	2011-05-22	0	0	20	22221
+22300	add-sensor	Replace a mechanical means with a sensory (optical, acoustic, taste or smell) means.	4	2011-05-22	0	0	20	22222
+22301	use-EM-Field	Use electric, magnetic and electromagnetic fields to interact with the object.	4	2011-05-22	0	0	20	22222
+22302	add-structure	Change from static to movable fields(in Space and / or Time), from random or unstructured fields to those having a certain Structure.	5	2011-05-22	0	0	20	22222
+22303	use-field	Use fields in conjunction with field-activated (e.g. ferromagnetic) particles.	4	2011-05-22	0	0	20	22222
+22304	use-fluid	Use gas and liquid parts of an object instead of solid parts (e.g. inflatable, filled with liquids, air cushion, hydrostatic, hydro-reactive).	4	2011-05-22	0	0	20	22223
+22305	use-films	Use flexible shells and thin films instead of three dimensional structures.	4	2011-05-22	0	0	20	22224
+22306	isolate	Isolate the object from the external Environment using flexible shells and thin films.	4	2011-05-22	0	0	20	22224
+22307	porous	Make an object porous or add porous Elements (inserts, coatings, etc.). This reduces Material Consumption while keeping Stability Properties. 	5	2011-05-22	0	0	20	22225
+22308	fractal-surface	If an object is already porous, use the pores to introduce a useful substance or function. Fractal Structures like Pores have an infinite reactive Surface! 	4	2011-05-22	0	0	20	22225
+22309	change-color	Change the Color of an Object or its external Environment.	4	2011-05-22	0	0	20	22226
+22310	change-transparency	Change the Transparency of an Object or its external Environment.	4	2011-05-22	0	0	20	22226
+22311	colored-tracer	Use colored Additives to observe Objects or Processes which are difficult to see.	4	2011-05-22	0	0	20	22226
+22312	luminescent-tracer	If such Additives are already used, employ luminescent Traces or Tracer Elements.	4	2011-05-22	0	0	20	22226
+22313	same-material	Make Objects interacting with a given object of the same material (or material with identical properties).	4	2011-05-22	0	0	20	22227
+22314	removed-obsolete	Make Portions of an Object that have fulfilled their Functions go away (discard by dissolving, evaporating, etc.) or modify these directly during operation.	4	2011-05-22	0	0	20	22228
+22315	restore-consumable	Conversely, restore consumable parts of an object directly in operation.	4	2011-05-22	0	0	20	22228
+22316	change-aggregate	Change an Object's aggregate State(e.g. to a Gas, Liquid, or Solid).	4	2011-05-22	0	0	20	22229
+22317	change-consistency	Change the Concentration or Consistency.	4	2011-05-22	0	0	20	22229
+22318	change-flexibility	Change the Degree of Flexibility.	4	2011-05-22	0	0	20	22229
+22319	change-temperature	Change the temperature.	4	2011-05-22	0	0	20	22229
+22320	phase-transition	Use phenomena occurring during phase transitions (e.g. volume changes, loss or absorption of heat, etc.).	5	2011-05-22	0	0	20	22230
+22321	thermal-expansion	Use thermal expansion (or contraction) of materials.	4	2011-05-22	0	0	20	22231
+22322	different-materials	If thermal expansion is being used, use multiple materials with different coefficients of thermal expansion.	4	2011-05-22	0	0	20	22231
+22323	add-oxygen	Replace common air with oxygen-enriched air.	4	2011-05-22	0	0	20	22232
+22324	pure-oxygen	Replace enriched air with pure oxygen.	4	2011-05-22	0	0	20	22232
+22325	ionizing	Expose air or oxygen to ionizing radiation.	4	2011-05-22	0	0	20	22232
+22326	ionized-oxygen	Use ionized oxygen.	4	2011-05-22	0	0	20	22232
+22327	add-ozone	Replace ozonized (or ionized) oxygen with ozone.	4	2011-05-22	0	0	20	22232
+22328	inert-environment	Replace a normal environment with an inert one.	4	2011-05-22	0	0	20	22233
+22329	inert-additives	Add neutral parts, or inert additives to an object.	4	2011-05-22	0	0	20	22233
+22330	Vacuum	Perform the Operation in Vacuum.	4	2011-05-22	0	0	20	22233
+22331	composite-materials	Change from uniform to composite (multiple) materials.	4	2011-05-22	0	0	20	22234

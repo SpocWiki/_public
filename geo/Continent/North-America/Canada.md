@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.4137,-87.1444]
 type: Country
 SpocWebEntityId: 26860

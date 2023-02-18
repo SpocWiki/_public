@@ -1,0 +1,40 @@
+﻿SpocWebEntityId	ID	name	Description
+22159	01	moving Weight	Weight of moving object
+22160	02	stationary Weight	Weight of stationary object
+22161	03	moving Length	Length of moving object
+22162	04	stationary Length	Length of stationary object
+22163	05	moving Area	Area of moving object
+22164	06	stationary Area	Area of stationary object
+22165	07	moving Volume	Volume of moving object
+22166	08	stationary Volume	Volume of stationary object
+6587	09	Speed	Speed
+22167	10	Intensity	Force (Intensity)
+22168	11	Stress	Stress or pressure
+22169	12	Shape	Shape
+22170	13	Stability	Stability of the object's composition
+11258	14	Strength	Strength
+22171	15	moving Duration	Duration of action of moving object
+22172	16	stationary Duration	Duration of action of stationary object
+13508	17	Temperature	Temperature
+22173	18	Illumination	Illumination intensity
+22174	19	moving Energy	Use of energy by moving object
+22175	20	stationary Energy	Use of energy by stationary object
+4230	21	Power	Power
+22176	22	Energy-Loss	Loss of Energy
+22177	23	Substance-Loss	Loss of Substance
+22178	24	Information-Loss	Loss of Information
+22179	25	Time-Loss	Loss of Time
+22180	26	Quantity	Quantity of substance
+7564	27	Reliability	Reliability
+22181	28	Measurement Accuracy	Measurement accuracy
+22182	29	Manufacturing Precision	Manufacturing precision
+22183	30	affected harm	Object-affected harmful factors
+22184	31	generated harm	Object-generated harmful factors
+22185	32	Ease of manufacture	Ease of manufacture
+22186	33	Ease of operation	Ease of operation
+22187	34	Ease of repair	Ease of repair
+22188	35	Versatility	Adaptability or versatility
+22189	36	Complexity	Device complexity
+22190	37	Difficulty	Difficulty of detecting and measuring
+22191	38	Automation	Extent of automation
+17284	39	Productivity	Productivity

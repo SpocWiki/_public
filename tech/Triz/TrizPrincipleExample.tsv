@@ -1,0 +1,219 @@
+﻿SpocWebEntityId	name	Description	PrincipleSubId
+22338	Personal-Computer	Replace Mainframe Computer by Personal Computers.	22240
+22339	Trailer	Replace a large Truck by a Truck and Trailer.	22240
+22340	Work-Breakdown	Use a Work Breakdown Structure for a large Project.	22240
+22341	Modular-Furniture	Modular Furniture.	22241
+22342	disconnect Joints	Quick disconnect Joints in Plumbing.	22241
+22343	connect Joints	Garden Hoses can be joined together to form any Length.	22241
+22344	Venetian Blinds	Replace solid Shades with Venetian Blinds.	22242
+22345	Welding Powder	Use powdered Welding Metal instead of Foil or Rod to get better Penetration of the Joint.	22242
+22346	modular Design	Replace monolithic Architectures with modular Design.	22242
+22347	Foldable Ruler		22242
+22348	outside noise	Locate a noisy Compressor outside the Building where compressed Air is needed.	22243
+22349	Fiber Optics	Use Fiber Optics or a Light Pipe to separate the hot Light Source from the Location where Light is needed.	22243
+22350	Sound only	Use the Sound of a barking Dog, without the Dog, as a Burglar Alarm.	22243
+22351	Enemy substitute	Use the Sound, Shape, Smell etc. of an Enemy, without the Enemy itself, to repel Agents.	22243
+22352	Gradient	Use a Temperature, Density, or Pressure Gradient instead of constant Temperature, Density or Pressure.	22244
+22353	Compartments	Lunch Box with special Compartments for hot and cold solid Foods and for Liquids	22245
+22354	Pencil with Eraser	Pencil with Eraser in one Unit	22246
+22355	Hammer with Nail Puller		22246
+22356	Multi-Tool	Multi-Function Tool that scales Fish, acts as a Pliers, a Wire Stripper, a Flat-Blade Screwdriver, a Phillips Screwdriver, Manicure Set, etc.	22246
+22357	Asymmetric-mixing	Asymmetrical Mixing Vessels or asymmetrical Vanes in symmetrical Vessels improve Mixing (Cement Trucks, Cake Mixers, Blenders).	22247
+22358	flat Spot	Put a flat Spot on a cylindrical Shaft to attach a Knob securely.	22247
+22359	Asymmetric-tire	Make one Side of a Tire stronger than the other to withstand Impact with the Curb.	22247
+22360	break-symmetry	While discharging wet Sand through a symmetrical Funnel, the Sand forms an Arch above the Opening, causing irregular Flow. A Funnel of asymmetrical Shape eliminates the Arching Effect.	22247
+22361	change-shape	Change from circular O-rings to oval cross-section to specialized shapes to improve sealing.	22248
+22362	astigmatic optics	Use astigmatic optics to merge colors.	22248
+22363	computer network	Personal computers in a network	22249
+22364	parallel processor	Thousands of microprocessors in a parallel processor computer	22249
+22365	Vanes	Vanes in a ventilation system	22249
+22366	both-sides	Electronic chips mounted on both sides of a circuit board or subassembly	22249
+22367	Linked slats	Link slats together in Venetian or vertical blinds.	22250
+22368	multiple diagnostic	Medical diagnostic instruments that analyze multiple blood parameters simultaneously	22250
+22369	Mulching lawnmower		22250
+22370	Tool-reservoir	Handle of a toothbrush contains toothpaste	22251
+22371	Convertible Seat	Child's car safety seat converts to a stroller	22251
+22372	Mulching Universality	Mulching lawnmower (Yes, it demonstrates both Principles 5 and 6, Merging and Universality.)	22251
+22373	recorder and timekeeper	Team leader acts as recorder and timekeeper.	22251
+22374	CCD	CCD (Charge coupled device) with micro-lenses formed on the surface	22251
+22375	Convertible	Convertible Bed-Sofa or Car	22251
+22376	Multi-Function-Seat	Minivan Seat for seating, sleeping, carrying Cargo	22251
+22377	Cup-Measure	Measuring in Cups or Spoons	22252
+22378	Russian Dolls		22252
+22379	Portable System	Portable Audio System (microphone fits inside Transmitter, which fits inside Amplifier Case)	22252
+22380	Pencil 	Mechanical Pencil with Lead stored inside.	22252
+22381	Extending Antenna	Extending Radio Telescope Antenna	22253
+22382	Extending Pointer		22253
+22383	Zoom Lens		22253
+22384	Seat Belt	Retraction Mechanism	22253
+22385	Retractable Gear	Retractable Aircraft Landing Gear Stow inside the Fuselage (also demonstrates Principle 15, Dynamism).	22253
+22386	Stackable	Chairs or Connectors that stack onto each other for Storage or Operation.	22253
+22387	Add Foam	Inject foaming Agent into a Bundle of Logs, to make it float better.	22254
+22388	Use Balloon	Use Helium Balloon to support Advertising Signs.	22254
+22389	Wing Shape	Aircraft Wing Shape reduces Air Density above the Wing, increases Density below Wing, to create Lift. (This also demonstrates Principle 4, Asymmetry).	22255
+22390	Vortex Strips	Vortex Strips improve Lift of Aircraft Wings.	22255
+22391	Hydrofoils	Hydrofoils lift Ship out of the Water to reduce Drag.	22255
+22392	Rear Wing	Rear Wing of a Racing Car increases Pressure to the Ground.	22255
+22393	Buffer Solution	Buffer a Solution to prevent harm from Extremes of pH.	22256
+22394	Pre-stress	Pre-stress Rebar before pouring Concrete.	22257
+22395	Mask-Harm	Masking Anything before harmful Exposure: Use a Lead Apron on Parts of the Body not being exposed to X-rays. Use Masking Tape to protect the Part of an object not being Painted	22257
+22396	twisted Pipes	Reinforced Shaft made from several Pipes which have been previously twisted.	22257
+22397	Pre-pasted	Pre-pasted Wall Paper	22258
+22398	Sterilize	Sterilize all Instruments needed for a surgical Procedure on a Sealed Tray.	22258
+22399	Blade with Groove	Utility Knife Blade made with a Groove allowing the dull Part of the Blade to be broken off, restoring Sharpness.	22258
+22400	Tape	Rubber Cement in a Bottle is difficult to apply neatly and uniformly. Instead, it is formed into a Tape so that the proper Amount can be more easily applied.	22258
+22401	dried Food	Any dried and pre-cooked Food.	22258
+22402	Kanban Arrangements	Kanban Arrangements in a Just-In-Time Factory	22259
+22403	Manufacturing Cell	Flexible Manufacturing Cell	22259
+22404	Preparing Work Area	Preparing and cleaning Work Area	22259
+22405	photographic Film	Magnetic Strip on photographic Film that directs the Developer to compensate for poor Exposure	22260
+22406	Back-up	Back-up Parachute	22260
+22407	Alternate System	Alternate Air System for Aircraft Instruments	22260
+22408	Magnetized Tools	Magnetized Tools to hold Screws	22260
+22409	Magnetized Merchandise	Magnetized Merchandise to prevent Shop Lifting	22260
+22410	Spring loaded Delivery	Spring loaded Parts Delivery System in a Factory	22261
+22411	Panama Canal	Locks in a Channel between 2 Bodies of Water	22261
+22412	Skillets	'Skillets' in an automobile plant that bring all tools to the right position (also demonstrates Principle 10, Preliminary Action)	22261
+22413	Worker-Pit	Automobile Engine Oil is changed by Workers in a Pit to avoid using expensive Lifting Equipment or unsafe Ramps.	22261
+22414	cool inner Part	To loosen stuck Parts, cool the inner Part instead of heating the outer Part.	22262
+22415	Mountain to Mohammed	Bring the Mountain to Mohammed, instead of bringing Mohammed to the Mountain.	22262
+22416	Rotate Part	Rotate the Part instead of the Tool.	22263
+22417	Moving sidewalk	Moving sidewalk with standing People.	22263
+22418	Treadmill	 for Walking or Running in Place	22263
+22419	vibrating Parts	Abrasively cleaning Parts by vibrating the Parts instead of the Abrasive.	22263
+22420	upside down	Turn an Assembly upside down to insert Fasteners (especially Screws).	22264
+22421	Empty by inverting	Empty Grain from Containers (Ship or Railroad) by inverting them.	22264
+22422	Arches and Domes	Use Arches and Domes for Strength in Architecture.	22265
+22423	Nautilus	Spiral Gear (Nautilus) produces continuous Resistance for Weight Lifting.	22266
+22424	Roller Point Pens	Ball Point and Roller Point Pens for smooth Ink Distribution.	22266
+22425	Trackball	Produce linear Motion of the Cursor on the Computer Screen using a Mouse or a Trackball.	22267
+22426	spinning Clothes	Replace wringing Clothes to remove Water with spinning Clothes in a Washing Machine.	22267
+22427	spherical Casters	Use spherical Casters instead of cylindrical Wheels to move Furniture.	22267
+22428	Adjustable Controls	Adjustable steering wheel (or Seat, or Back Support, or Mirror Position...)	22268
+22429	conical Railway Wheels	Use conical Railway Wheels that generate a central Force to stabilize the Wagons.	22268
+22430	Butterfly Keyboard	The 'Butterfly' Computer Keyboard, (also demonstrates Principle 7, 'Nested Doll'.	22269
+22431	flexible Boroscope	The flexible Boroscope for examining Engines	22270
+22432	flexible Sigmoidoscope	The flexible Sigmoidoscope, for medical Examination	22270
+22433	flexible Gooseneck	Flashlight with a flexible Gooseneck between the Body and the Lamp Head.	22270
+22434	cylindrical-Vessel	Transport Vessel with a cylindrical-shaped Body. To reduce the Draft or a Vessel under full Load, the Body is comprised of two hinged, half-cylindrical Parts which can be opened.	22270
+22435	Over Spray	Over Spray when painting, then remove Excess. (Or, use a Stencil--this is an application of Principle 3, Local Quality and Principle 9, Preliminary anti-action).	22271
+22436	top off	Fill, then 'top off' when filling the Gas Tank of your Car or a hot Water Bottle.	22271
+22437	etch later	Oxidize the whole Substrate in MicroElectronics and etch it later.	22271
+22438	dip into Paint	A Cylinder is painted by dipping into Paint, but contains more Paint than desired. Excess Paint is then removed by rapidly rotating the Cylinder.	22271
+22439	Funnel	To obtain uniform Discharge of a metallic Powder from a Bin, the Hopper has a special internal Funnel which is continually overfilled to provide nearly constant Pressure.	22271
+22440	3D Mouse	Infrared Computer Mouse moves in Space, instead of on a Surface, for Presentations.	22272
+22441	5-axis Position	Five-axis Cutting Tool can be positioned where needed.	22272
+22442	increase Variety	Cassette with 6 CD's to increase Music Time and Variety	22273
+22443	Chips on both Sides	Electronic Chips on both Sides of a printed Circuit Board	22273
+22444	disappearing Actors	Employees 'disappear' from the Customers in a Theme Park, descend into a Tunnel, and walk to their next Assignment, where they return to the Surface and magically reappear.	22273
+22445	Stacked Circuits	Stack Microelectronic hybrid Circuits to improve Density.	22273
+22446	Dump Truck		22274
+22447	tilted Wine Hills	Planting Wine on tilted River Hills instead of Planes.	22274
+22448	Tilted Greenhouse Walls	Tilted Greenhouse Walls and Reflector on the North Side.	22274
+22449	vibrating Blades	Electric Carving Knife with vibrating Blades and electric Saw to allow the User to concentrate on Direction.	22276
+22450	Overcome Friction	Overcome static Friction at lower Energies by introducing a constant Level of Energy.	22276
+22451	Vibrate for flow	Vibrate a casting mold while it is being filled to improve flow and structural properties.	22276
+22452	Energy from Vibrations	Use a statistical Engine to generate mechanical Energy from thermal Vibrations.	22276
+22453	Vibrate for Distribution	Distribute or concentrate Powder and other grainy Material with Vibration.	22277
+22454	ultrasonic Destruction	Destroy Gall Stones or Kidney Stones using ultrasonic Resonance.	22278
+22455	Quartz Oscillations	Quartz Crystal Oscillations drive high Accuracy Clocks.	22279
+22456	ultrasonic Mixing	Mixing Alloys in an Induction Furnace using ultrasonic Waves.	22280
+22457	hammer	Hitting something repeatedly with a hammer.	22281
+22458	pulsed Sound	Replace a continuous Siren with a pulsed Sound.	22281
+22459	Pulsed Energy	An Impact Wrench loosens corroded Nuts using Impulses rather than continuous Force.	22281
+22460	flashing Light	A Warning Lamp flashes so that it is even more noticeable than when continuously lit.	22281
+22461	Frequency Modulation	Use Frequency Modulation to convey Information, instead of Morse Code.	22282
+22462	Amplitude Modulation	Replace a continuous Siren with Sound that changes Amplitude and Frequency.	22282
+22463	Cardio-Pulmonary Respiration	In Cardio-Pulmonary Respiration (CPR) breathe after every 5 Chest Compressions.	22283
+22464	Pulsed Operation	Use Pulsed Operation instead of continuous to increase Signal to Noise Ratio while not exceeding inert Heat Production(also Principle 21, Rushing through).	22281
+22465	Flywheel	Flywheel (or hydraulic System) stores Energy when a Vehicle stops, so the Motor can keep running at optimum Power.	22284
+22466	continuous Bottleneck	Run the Bottleneck Operations in a Factory continuously, to reach the optimum Pace. (From Theory of Constraints, or Takt Time Operations)	22284
+22467	use both directions	Print during the Return of a Printer Carriage--Dot Matrix Printer, Daisy Wheel Printers, Inkjet Printers.	22285
+22468	high Speed Operation	Use a high Speed Dentist's Drill to avoid Heating Tissue.	22286
+22469	adiabatic Operation	Cut Plastic faster than Heat can propagate in the Material, to avoid deforming the Shape.	22286
+22470	Laser Pulses	Use Laser Pulses to process Material and Surfaces without affecting it. (also Principle 19, pulsed Action)	22286
+22471	Energy from Waste Heat	Use Waste Heat to generate Electric Power.	22287
+22472	Recycle Waste	Recycle Waste (Scrap) Material from one Process as Raw Materials for another.	22287
+22473	Skin Effect	Use high frequency Current Skin Effect to treat Metal Surfaces.	22287
+22474	turbulent Currents	Use turbulent Currents to heat Copper Pans and Pots or to brake electrical Trains.	22287
+22475	buffering Material	Add a buffering Material to a corrosive Solution.	22288
+22476	Helium-Oxygen Mix	Use a Helium-Oxygen Mix for Diving, to eliminate both Nitrogen Narcosis and Oxygen Poisoning from Air and other Nitrox Mixes.	22288
+22477	Backfire	Use a Backfire to eliminate the Fuel from a Forest Fire.	22289
+22478	AGC	Automatic Volume Control in Audio Circuits	22290
+22479	Gyrocompass	Signal from Gyrocompass is used to control simple Aircraft Autopilots.	22290
+22480	Statistical Process Control	(SPC) -- Measurements are used to decide when to modify a Process. (Not all Feedback Systems are Automated!)	22290
+22481	Budgets	--Measurements are used to decide when to modify a Process.	22290
+22482	Change Process	Change Sensitivity of an Autopilot when within 5 Miles of an Airport.	22291
+22483	Change Sensitivity	Change Sensitivity of a Thermostat when cooling vs. heating, since it uses Energy less efficiently when cooling.	22291
+22484	Change Measure	Change a Management Measure from Budget Variance to Customer Satisfaction.	22291
+22485	measure indirectly	Ice and Water are measured separately but must combine to the total Weight. Because Ice is difficult to dispense precisely, it is measured first. The Weight is then fed to the Water Control Device, which precisely dispenses the needed Amount.	22291
+22486	Carpenter's Nailset	used between the Hammer and the Nail	22292
+22487	Pot Holder	Pot Holder to carry hot Dishes to the Table.	22293
+22488	Use Compound Pressure	A Soda Fountain Pump that runs on the Pressure of the Carbon Dioxide that is used to 'fizz' the Drinks. This assures that Drinks will not be flat, and eliminates the need for Sensors.	22294
+22489	regenerate Structure	Halogen Lamps regenerate the Filament during Use--evaporated Material is redeposited.	22294
+22490	weld Aluminum	To weld Steel to Aluminum, create an Interface from alternating thin Strips of the 2 Materials. Cold weld the Surface into a single unit with Steel on one face and Copper on the other, then use normal welding techniques to attach the Steel Object to the Interface, and the Interface to the Aluminum. (This concept also has elements of Principle 24, Intermediary, and Principle 4, Asymmetry.)	22294
+22491	abrasive Feeder	To prevent Wear in a Feeder which distributes an abrasive Material, its Surface is made from the abrasive Material. (also Principle 33, Homogeneity)	22294
+22492	Solenoid 	In an electric Welding Gun, the Rod is advanced by a special Device. To simplify the System, the Rod is advanced by a Solenoid controlled by the Welding Current.	22294
+22493	Electricity from Heat	Use Heat from a Process to generate Electricity: 'Co-generation'.	22295
+22494	Fertilizer	Use Animal Waste as Fertilizer.	22295
+22495	Compost	Use Food and Lawn Waste to create Compost.	22295
+22496	Virtual Reality	Virtual Reality via Computer instead of an expensive Vacation	22296
+22497	Audio Seminar	Listen to an Audio Tape instead of attending a Seminar.	22296
+22498	Space Photographs	Do surveying from Space Photographs instead of on the Ground.	22297
+22499	Measure Shadow	Measure an Object by measuring the Photograph or its Shadow.	22297
+22500	Sonogram	Make Sonograms to evaluate the Health of a Fetus, instead of risking Damage by direct Testing.	22297
+22501	Infrared Images	Make Images in Infrared to detect Heat Sources, such as Diseases in Crops, or Intruders in a security System.	22298
+22502	disposable Paper Objects	Use disposable Paper Objects to avoid the Cost of cleaning and storing durable Objects. Plastic Cups in Motels, disposable Diapers, many kinds of medical Supplies.	22299
+22503	acoustic Fence	Replace a physical Fence to confine a Dog or Cat with an acoustic 'Fence' (signal audible to the Animal).	22300
+22504	smelling Compound	Use a bad smelling Compound in natural Gas to alert users to Leakage, instead of a mechanical or electrical Sensor.	22300
+22505	electrostatically mix	To mix 2 Powders, electrostatically charge one positive and the other negative. Either use Fields to direct them, or mix them mechanically and let their acquired Fields cause the grains of Powder to pair up.	22301
+22506	Maglev Rail	The Transrapid / Maglev Rail uses magnetic Forces to drive and control the Wagons without Friction.	22301
+22507	directed Radiation	Early Communications used omnidirectional Broadcasting. We now use Antennas with very detailed Structure of the Pattern of Radiation.	22302
+22508	Heat ferromagnetic Material	Heat a Substance containing ferromagnetic Material by using varying magnetic Field. When the Temperature exceeds the Curie Point, the material becomes paramagnetic, and no longer absorbs Energy.	22303
+22509	Shoe Sole inserts	Comfortable Shoe Sole inserts filled with Gel	22304
+22510	Store Energy	Store Energy from decelerating a Vehicle in a hydraulic System, then use the stored Energy to accelerate later.	22304
+22511	Chimney	To increase the Draft of an industrial Chimney, a Spiral Pipe with Nozzles was installed. When Air flows through the Nozzles, it creates an air-like Wall, reducing Drag.	22304
+22512	Foam Packaging	For shipping fragile Products, Air Bubble Envelopes or Foam-like Materials are used. Liquids and Gases are not worn and distribute directed Energy in all Directions.	22304
+22513	inflatable Structures	Use inflatable (thin film) Structures as Winter Covers on Tennis Courts.	22305
+22514	bipolar Film against Evaporation	Float a Film of bipolar Material (one end hydrophilic, one end hydrophobic) on a Reservoir to limit Evaporation.	22306
+22515	Coating	Use a thin organic or anorganic Coating to protect Surfaces and thus the whole Structure.	22306
+22516	Holes to reduce the Weight	Drill Holes in a Structure to reduce the Weight.	22307
+22517	wick Excess Solder	Use a porous Metal Mesh to wick Excess Solder away from a Joint.	22308
+22518	Sponge for Gases	Store Hydrogen in the Pores of a Palladium Sponge. (Fuel 'Tank' for the Hydrogen Car--much safer than storing Hydrogen Gas)	22308
+22519	evaporating Coolant	To avoid pumping Coolant to a Machine, some of its Parts are filled with a porous Material soaked in coolant Liquid. The Coolant evaporates when the Machine is working, providing short-term uniform Cooling.	22308
+22520	Safe Lights	Use Safe Lights in a photographic Darkroom.	22309
+22521	Photolithography	Use Photolithography to change transparent Material to a solid Mask for Semiconductor Processing. Similarly, change mask material from transparent to opaque for silk screen processing.	22310
+22522	transparent Bandage	A transparent Bandage enabling a Wound to be inspected without removing the Dressing.	22310
+22523	Water Curtain	A Water Curtain to protect Steel Mill Workers from overheating by blocking infrared Rays but not the bright Light from the melted Steel.	22311
+22524	same Material-Container	Make the Container out of the same Material as the Contents, to reduce chemical Reactions.	22313
+22525	Diamond Cutting	Make a Diamond Cutting Tool out of Diamonds.	22313
+22526	same Material-Feeder	The Surface of a Feeder for abrasive Grain is made of the same Material that runs through the Feeder, allowing a continuous Restoration of the Surface.	22313
+22527	dissolving Capsule	Use a dissolving Capsule for Medicine.	22314
+22528	Cornstarch-Packaging	Sprinkle Water on Cornstarch-based Packaging and watch it reduce its Volume by more than 1000*!	22314
+22529	Ice Structures	use Water Ice or Carbon Dioxide (Dry Ice) to make a Template for a rammed Earth Structure, such as a temporary Dam. Fill with Earth, then, let the Ice melt or sublime to leave the final Structure.	22314
+22530	Bullet Casings	Bullet Casings are ejected after the Gun fires.	22314
+22531	separate Rocket Boosters	Rocket Boosters separate after serving their Function.	22314
+22532	Self-Sharpening	Self-Sharpening Lawn Mower Blades	22315
+22533	Auto-tuning Engines	Automobile Engines that give themselves a 'tune up' while running (the ones that say '100_000 miles between tune ups')	22315
+22534	Freeze liquid	Freeze the liquid Centers of filled Candies, then dip in melted Chocolate, instead of handling the messy, gooey, hot Liquid.	22316
+22535	liquidate Gases	Transport Oxygen or Nitrogen or Petroleum Gas as a Liquid, instead of a Gas, to reduce Volume.	22316
+22536	Liquid Hand Soap	Liquid Hand Soap is concentrated and more viscous than Bar Soap at the point of use, making it easier to dispense in the correct Amount and more sanitary when shared by several People.	22317
+22537	adjustable Dampers	Use adjustable Dampers to reduce the Noise of Parts falling into a Container by restricting the Motion of the Walls of the Container.	22318
+22538	Vulcanize Rubber	Vulcanize Rubber to change its Flexibility and Durability.	22318
+22539	Curie Point	Raise the Temperature above the Curie Point to change a ferromagnetic Substance to a paramagnetic Substance.	22319
+22540	Cooking	Raise the Temperature of Food to cook it. (Changes Taste, Aroma, Texture, chemical Properties, etc.)	22319
+22541	Lower Temperature	Lower the Temperature of medical Specimens to preserve them for later Analysis.	22319
+22542	Negative thermal expansion	Water expands when frozen, unlike most other Liquids. Hannibal is reputed to have used this when marching on Rome. Large rocks blocked passages in the Alps. He poured Water on them at Night. The overnight Cold froze the Water, and the Expansion split the Rocks into small Pieces which could be pushed aside.	22320
+22543	Heat Pumps	Heat Pumps use the Heat of Vaporization and Heat of Condensation of a closed thermodynamic Cycle to do useful Work.	22320
+22544	thermal fitting	Fit a tight Joint together by cooling the inner Part to contract, heating the outer Part to expand, putting the Joint together, and returning to Equilibrium.	22321
+22545	BiMetal Spring	The basic Leaf Spring Thermostat: BiMetal(2 Metals with different Coefficients of Expansion are linked so that it bends one Way when warmer than nominal and the opposite Way when cooler.	22322
+22546	Nitrox	Scuba diving with Nitrox or other non-air Mixtures for extended Endurance	22323
+22547	Oxy-Acetylene Torch	Cut at a higher Temperature using an Oxy-Acetylene Torch.	22324
+22548	kill Anaerobic Bacteria	Treat Wounds in a high Pressure Oxygen Environment to kill Anaerobic Bacteria and aid Healing.	22324
+22549	Ionize Air	Ionize Air to trap Pollutants in an Air Cleaner.	22325
+22550	ionize Gas	Speed up chemical Reactions by ionizing the Gas before Use.	22326
+22551	Argon Atmosphere	Prevent Degradation of a hot Metal Filament by using an Argon Atmosphere.	22328
+22552	adding inert Ingredients	Increase the Volume of powdered Detergent by adding inert Ingredients. This makes it easier to measure with conventional Tools.	22329
+22553	inert Gas	To prevent Cotton from catching Fire in a Warehouse, it is treated with inert Gas while being transported to the Storage Area.	22329
+22554	Carbon Fiber Composite	Composite Epoxy Resin/Carbon Fiber Golf Club Shafts are lighter, stronger, and more flexible than Metal. Same for airplane Parts like Wings etc.	22331
+22555	Fiberglass	Fiberglass Surfboards are lighter and more controllable and easier to form into a variety of Shapes than wooden ones.	22331

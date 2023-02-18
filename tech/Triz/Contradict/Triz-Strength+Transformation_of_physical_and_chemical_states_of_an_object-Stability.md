@@ -1,0 +1,18 @@
+﻿---
+type: TrizContradiction
+aliases:
+- Strength+Transformation_of_physical_and_chemical_states_of_an_object-Stability
+license: CC BY-SA 4.0
+copyright: https://github.com/SpocWeb
+IsDeleted: false
+IsReadOnly: false
+Confidential: public
+tags: 
+- Triz/Contradiction
+---
+[name::Strength+Transformation_of_physical_and_chemical_states_of_an_object-Stability]
+[SpocWebEntityId::23995]
++ [pro::[[Triz-Strength]]]
+[Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
+- [con::[[Triz-Stability]]]
+
