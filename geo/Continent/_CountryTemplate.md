@@ -1,12 +1,20 @@
-﻿---
-location: [{{y}},{{x}}]
+---
 type: Country
+license: CC BY-SA 4.0
+publish: true
+confidential: public
+isDeleted: false
+isReadOnly: false
+
 tags:
   - geo/Country
+
+aliases:
+- 
 ---
+location: [{{y}},{{x}}]
 SpocWebEntityId: {{SpocWebEntityId}}
-[isDeleted::{{isDeleted}}]
-[confidential::{{confidential}}]
+
 [ISO2::{{ISO2}}]
 [ISO3::{{ISO3}}]
 [name-en::{{EnglishName}}]
