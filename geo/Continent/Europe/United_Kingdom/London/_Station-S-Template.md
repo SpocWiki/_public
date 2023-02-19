@@ -1,16 +1,22 @@
-﻿---
-location: [{{GeoLat}},{{GeoLon}}]
+---
 type: Station
+license: CC BY-SA 4.0
+publish: true
+confidential: public
+isDeleted: false
+isReadOnly: false
+
 tags:
 - geo/Station
 - Europe/United_Kingdom/London
 
+aliases:
+- 
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
+location: [{{GeoLat}},{{GeoLon}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 [StationSId::{{Id}}]
-isDeleted: false
-isReadOnly: false
-confidential: public
+
 [geo-lon::{{GeoLon}}]
 [geo-lat::{{GeoLat}}]
 [name::{{name}}]

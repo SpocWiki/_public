@@ -11,7 +11,7 @@ tags:
 - Triz/Principle/Example
 ---
 [name::{{name}}]
-[SpocWebEntityId::{{SpocWebEntityId}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 [PrincipleSubId::{{PrincipleSubId}}]
 
 {{Description}}

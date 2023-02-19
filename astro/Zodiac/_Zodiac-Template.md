@@ -1,13 +1,15 @@
 ---
 type: Zodiac
+publish: true
+confidential: public
+isDeleted: false
+isReadOnly: false
 tags:
 - astro/Zodiac
 
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
-isDeleted: false
-isReadOnly: false
-confidential: public
+SpocWebEntityId: {{SpocWebEntityId}}
+
 [name-de::{{German}}]
 [name-la::{{LatinName}}]
 [name-genitive::{{Genitive}}]

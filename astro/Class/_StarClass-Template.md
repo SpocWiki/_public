@@ -1,13 +1,19 @@
 ---
 type: StarClass
-SpocWebEntityId: {{SpocWebEntityId}}
+license: CC BY-SA 4.0
+publish: true
+confidential: public
 isDeleted: false
 isReadOnly: false
-confidential: public
+
 tags:
 - astro/StarClass
 
+aliases:
+- 
 ---
+SpocWebEntityId: {{SpocWebEntityId}}
+
 [name::{{StarClass}}]
 [Temperature::{{Temperature}}]
 [Radius-sol::{{Radius}}]

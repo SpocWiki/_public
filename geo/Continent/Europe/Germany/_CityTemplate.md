@@ -5,7 +5,7 @@ tags:
 - geo/City
 
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 isDeleted: false
 confidential: public
 [geo-lon::{{x}}]

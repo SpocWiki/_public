@@ -4,7 +4,7 @@ type: Country
 tags:
   - geo/Country
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 [isDeleted::{{isDeleted}}]
 [confidential::{{confidential}}]
 [ISO2::{{ISO2}}]

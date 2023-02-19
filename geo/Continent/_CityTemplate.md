@@ -1,13 +1,15 @@
-﻿---
-location: [{{y}},{{x}}]
+---
 type: City
+publish: true
+isDeleted: false
+confidential: public
 tags:
 - geo/City
 
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
-isDeleted: false
-confidential: public
+location: [{{y}},{{x}}]
+SpocWebEntityId: {{SpocWebEntityId}}
+
 [geo-lon::{{x}}]
 [geo-lat::{{y}}]
 [name::{{City}}]

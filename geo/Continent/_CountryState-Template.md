@@ -1,13 +1,20 @@
-﻿---
-location: [{{y}},{{x}}]
+---
 type: State
+license: CC BY-SA 4.0
+publish: true
+confidential: public
+isDeleted: false
+isReadOnly: false
+
 tags:
 - geo/State
 
+aliases:
+- 
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
-isDeleted: false
-confidential: public
+location: [{{y}},{{x}}]
+SpocWebEntityId: {{SpocWebEntityId}}
+
 [name::{{State}}]
 [name-abbr::{{StateAbbr}}]
 [CountryId::{{CountryId}}]
