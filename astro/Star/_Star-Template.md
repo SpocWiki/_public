@@ -1,14 +1,15 @@
-﻿---
-location: [{{Declin}},{{Rectasc}},{{Dist}}]
+---
 type: Star
+isDeleted: false
+isReadOnly: false
+confidential: public
 tags:
 - astro/Star
 
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
-isDeleted: false
-isReadOnly: false
-confidential: public
+location: [{{Declin}},{{Rectasc}},{{Dist}}]
+SpocWebEntityId: {{SpocWebEntityId}}
+
 [star-class::{{Class}}]
 [star-class-id::{{ClassId}}]
 [Mass-sol::{{GeoLat}}]

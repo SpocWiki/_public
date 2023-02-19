@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-63.1,-173.35,400]
 type: Station
 tags:

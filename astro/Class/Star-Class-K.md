@@ -1,10 +1,10 @@
 ---
 type: StarClass
-tags:
 SpocWebEntityId: 28192
 isDeleted: false
 isReadOnly: false
 confidential: public
+tags:
 - astro/StarClass
 
 ---

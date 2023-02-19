@@ -5,18 +5,24 @@ It's people like you that make this Wiki a great resource.
 
 Following these guidelines helps to communicate
 that you respect the time of the people managing and developing this open source project. 
-In return, they should reciprocate that resfdpect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 ### What kinds of contributions we are looking for.
 
-Keep an open mind! Improving documentation, bug triaging, or writing tutorials are all examples of helpful contributions that mean less work for you.
+Anyone can contribute Articles and Data by editing the Files locally and the pushing them to this repository. 
+
+But there is more to do:
+- Reviewing and accepting these changes are in the hands of trusted community members that are regularly elected
+- Improving documentation and tutorials on how to use this repository
+- discussing and researching bugs and open questions
+- moderating discussions on 
 
 This is an open documentation project and we love to receive contributions from our community — you!
 There are many ways to contribute, from supplying Data and Articles, writing tutorials or blog posts, 
 improving the documentation, submitting bug reports and content requests to, ultimately moderating the Content and Pull Requests.
 
 
-### What contributions you are NOT looking for (if any).
+### What contributions we are NOT looking for.
 
 We may restrict the use of the issue tracker in the future and direct you to other communication Channels, but for now, please use it for any inquiries. 
 
@@ -92,7 +98,7 @@ Likely examples include the following:
 
 If you find a security vulnerability, do NOT open an issue. Email 10584012+SpocWeb@users.noreply.github.com instead.
 In order to determine whether you are dealing with a security issue, ask yourself these two questions:
- * Can I access something that's obvously not for public, or something I shouldn't have access to?
+ * Can I access something that's obviously not for public, or something I shouldn't have access to?
  * Can I disable something for other people?
 
  If the answer to either of those two questions are "yes", then you're probably dealing with a security issue. 
@@ -216,3 +222,7 @@ For Attribute Names we recommend camelCase or PascalCase like [Schema.org](https
 - **createdPlace**: Location of Creation/Birth, preferably in geo-coordinates (longitude, latitude)
 - **demisedPlace**: Location of Destruction/Death/Dissolution 
 
+# Credits
+
+Thanks to all of the different people who have contributed to this Repository!
+Let's continue to make this a great resource for everybody on this planet.
