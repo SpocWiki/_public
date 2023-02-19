@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1078]
 [name::Hauptbahnhof]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::Fern- und Regionalverkehr, S-Bahn, Straßenbahn]
 [switch-to-ÖPNV::32, 33, 35, 37, 46, 64]
 

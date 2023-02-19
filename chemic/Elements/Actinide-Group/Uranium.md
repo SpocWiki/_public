@@ -1,8 +1,9 @@
 ---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21987
 ---
-[SpocWebEntityId: 21987
+
 [Name-en::Uranium]
 [Name-de::Uran]
 (Abbr::U)

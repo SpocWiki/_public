@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09836]
 [name::Frankfurt-Höchst Farbwerke]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

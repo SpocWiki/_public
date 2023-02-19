@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10533]
 [name::Offenbach Kaiserlei]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

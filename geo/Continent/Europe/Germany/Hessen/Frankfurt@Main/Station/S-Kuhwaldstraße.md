@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11685]
 [name::Kuhwaldstraße]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

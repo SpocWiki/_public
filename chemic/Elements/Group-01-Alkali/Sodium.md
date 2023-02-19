@@ -1,8 +1,9 @@
 ---
 type: Element
 GroupName: Group-01-Alkali
+SpocWebEntityId: 21913
 ---
-[SpocWebEntityId: 21913
+
 [Name-en::Sodium]
 [Name-de::Natrium]
 

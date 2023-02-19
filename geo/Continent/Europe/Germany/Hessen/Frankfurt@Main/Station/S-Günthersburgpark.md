@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12889]
 [name::Günthersburgpark]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

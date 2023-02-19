@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12439]
 [name::Frankfurt-Rödelheim]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

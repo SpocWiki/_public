@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11367]
 [name::Leonardo-da-Vinci-Allee]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1156]
 [name::Zoo]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::Straßenbahn]
 [switch-to-ÖPNV::(31)]
 

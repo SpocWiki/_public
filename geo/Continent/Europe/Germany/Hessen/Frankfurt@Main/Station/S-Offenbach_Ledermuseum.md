@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10599]
 [name::Offenbach Ledermuseum]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

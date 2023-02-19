@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1236]
 [name::Eissporthalle/Festplatz]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::Straßenbahn]
 [switch-to-ÖPNV::38, 103]
 

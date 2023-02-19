@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.13356]
 [name::Eschborn Süd]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

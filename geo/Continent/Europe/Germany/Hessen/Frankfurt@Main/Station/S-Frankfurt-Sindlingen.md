@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.08746]
 [name::Frankfurt-Sindlingen]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

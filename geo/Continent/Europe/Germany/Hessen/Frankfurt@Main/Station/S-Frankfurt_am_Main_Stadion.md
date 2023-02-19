@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.06805]
 [name::Frankfurt am Main Stadion]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

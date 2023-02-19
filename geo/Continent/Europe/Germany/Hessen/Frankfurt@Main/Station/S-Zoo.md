@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11547]
 [name::Zoo]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

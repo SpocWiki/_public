@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1403]
 [name::Ginnheim]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::Straßenbahn]
 [switch-to-ÖPNV::39, 64]
 

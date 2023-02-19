@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.90724]
 [name::Groß Gerau-Dornberg]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.14186]
 [name::Eckenheimer Landstraße/Marbachweg]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::34]
 

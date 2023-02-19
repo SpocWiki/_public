@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10585]
 [name::Offenbach Marktplatz]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

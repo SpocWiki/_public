@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.93111]
 [name::Darmstadt-Wixhausen]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

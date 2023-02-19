@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12904]
 [name::Nibelungenplatz/FH]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11294]
 [name::Zobelstraße]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

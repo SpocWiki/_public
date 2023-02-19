@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.17331]
 [name::Kronberg Süd]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

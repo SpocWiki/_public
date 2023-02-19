@@ -1,8 +1,9 @@
 ---
 type: Element
 GroupName: Group-03-Scandium
+SpocWebEntityId: 21937
 ---
-[SpocWebEntityId: 21937
+
 [Name-en::Yttrium]
 [Name-de::Yttrium]
 [Weight-u::88.9059]

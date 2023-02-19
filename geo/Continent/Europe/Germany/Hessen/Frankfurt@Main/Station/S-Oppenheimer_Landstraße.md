@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09516]
 [name::Oppenheimer Landstraße]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

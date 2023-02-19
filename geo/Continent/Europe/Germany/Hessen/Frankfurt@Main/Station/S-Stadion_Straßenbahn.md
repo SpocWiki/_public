@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.07431]
 [name::Stadion Straßenbahn]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

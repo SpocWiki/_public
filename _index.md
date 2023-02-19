@@ -11,14 +11,29 @@ But better than Wikipedia, you can...
 - easily synchronize this with a local sub-folder on your local computer
   and keep personal and public information separate.
 - simply update and expand the SpocWiki Data and push the changes back to the community for everyone to benefit 
-- capture and share additional or personal Information.
+- capture and share additional or personal Information
+- keep this information on your local computer, private and safe 
+- use a wide array of tools to query and process the data, because it is simply text
+- query this information, because most data is semantically annotated using [Schema-Types with Attributes](https://schema.org/)
 
 Eventually, Wikipedia and WikiData Content will be synchronized into this Repository,
 so you don't need to capture anything that already exists there.
 
+Rather create an issue describing which data you would like to see here.
+
 Other open Data Sources (e.g. Government and statistical Data) will either be linked or integrated.
 
 But such a step that requires some planning and mutual agreement within this community.
+
+# Browse Data by Tag/Category:
+Articles can be tagges with multiple \#Labels.
+This makes them easier to find or browse. 
+
+Have a look at our [List of all Tags and Articles](/tags/)!
+
+# Full-Text-Search for any Text in the Articles
+Currently most articles contain mostly data and less text,
+but with time the search box above will guide you to your goal. 
 
 # How to include this in your own projects
 This Repository can be cloned or referenced as a GIT Submodule in other Wikis.
@@ -36,7 +51,8 @@ The [License](License.md) is chosen to be compatible with Wikipedia and Wikidata
 so that Information can freely be exchanged with this Repository and many other sources.
 
 ## Wiki-Modules 
-To limit the Size of this Repository, individual Sub-Repositories are singled out, which can be cloned and versioned independently. 
+To limit the Size of this Repository, large Sub-Repositories are singled out,
+so you can cloned and version them independently. 
 
 ### xLarge Module
 An important one is the 'xLarge' (eXtra large) Module, dedicated to store 'Attachments', i.e. large, binary Files.  When mounted directly in Obsidian, this Folder should be marked as the Destination for Attachments.

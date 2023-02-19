@@ -1,8 +1,9 @@
 ---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21998
 ---
-[SpocWebEntityId: 21998
+
 [Name-en::Lawrencium]
 [Name-de::Lawrencium]
 (Abbr::Lr)

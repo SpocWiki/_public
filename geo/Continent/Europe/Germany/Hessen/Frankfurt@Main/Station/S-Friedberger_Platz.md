@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12311]
 [name::Friedberger Platz]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

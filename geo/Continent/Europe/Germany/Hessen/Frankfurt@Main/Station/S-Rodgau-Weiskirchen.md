@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.05318]
 [name::Rodgau-Weiskirchen]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

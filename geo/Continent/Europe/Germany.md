@@ -10,6 +10,7 @@ tags:
 
 aliases:
 - Deutschland
+
 ---
 
 # Germany (Deutschland)

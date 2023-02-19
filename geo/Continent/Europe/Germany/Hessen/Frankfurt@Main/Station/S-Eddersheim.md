@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.03953]
 [name::Eddersheim]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

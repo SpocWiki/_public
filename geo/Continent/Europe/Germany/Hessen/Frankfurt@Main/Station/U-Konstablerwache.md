@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1141]
 [name::Konstablerwache]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::C, S-Bahn, Straßenbahn]
 [switch-to-ÖPNV::30, 36]
 

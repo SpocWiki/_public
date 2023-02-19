@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10917]
 [name::Willy-Brandt-Platz]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::B, Straßenbahn]
 [switch-to-ÖPNV::-]
 

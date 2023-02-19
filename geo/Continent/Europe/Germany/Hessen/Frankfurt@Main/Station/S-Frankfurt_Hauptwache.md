@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11389]
 [name::Frankfurt Hauptwache]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

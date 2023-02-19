@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.15805]
 [name::Nordwestzentrum]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::29, 60, 71, 72, 73, 251]
 

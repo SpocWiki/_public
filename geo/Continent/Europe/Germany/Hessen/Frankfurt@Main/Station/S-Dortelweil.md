@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.2075]
 [name::Dortelweil]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

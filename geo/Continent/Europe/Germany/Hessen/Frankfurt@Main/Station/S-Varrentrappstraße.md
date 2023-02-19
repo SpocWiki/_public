@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11562]
 [name::Varrentrappstraße]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

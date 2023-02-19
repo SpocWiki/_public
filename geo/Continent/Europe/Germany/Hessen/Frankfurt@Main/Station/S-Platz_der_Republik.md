@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10936]
 [name::Platz der Republik]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.99345]
 [name::Langen@Hess]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

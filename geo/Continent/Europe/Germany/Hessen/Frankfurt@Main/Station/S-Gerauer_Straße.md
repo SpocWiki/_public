@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.08376]
 [name::Gerauer Straße]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

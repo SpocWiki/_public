@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.13169]
 [name::Miquel-/Adickesallee/Polizeipräsidium]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::32, 64]
 

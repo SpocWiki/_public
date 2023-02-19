@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11278]
 [name::Ostbahnhof]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::Regionalverkehr, Straßenbahn]
 [switch-to-ÖPNV::(31), 32]
 

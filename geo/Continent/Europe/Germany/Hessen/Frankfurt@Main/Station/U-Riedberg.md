@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.17915]
 [name::Riedberg]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::29]
 

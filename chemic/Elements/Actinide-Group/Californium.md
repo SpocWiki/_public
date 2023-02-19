@@ -1,8 +1,9 @@
 ---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21993
 ---
-[SpocWebEntityId: 21993
+
 [Name-en::Californium]
 [Name-de::Californium]
 (Abbr::Cf)

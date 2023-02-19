@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11194]
 [name::Festhalle/Messe]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::Straßenbahn]
 [switch-to-ÖPNV::32, 50]
 

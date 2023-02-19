@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.14014]
 [name::Eppstein]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

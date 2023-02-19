@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.12262]
 [name::Leipziger Straße]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::-]
 

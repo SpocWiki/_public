@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10276]
 [name::Frankfurt-Nied]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

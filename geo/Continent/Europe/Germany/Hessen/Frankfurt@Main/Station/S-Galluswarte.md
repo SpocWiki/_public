@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.1031]
 [name::Galluswarte]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

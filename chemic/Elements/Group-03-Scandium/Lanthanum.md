@@ -1,8 +1,9 @@
 ---
 type: Element
 GroupName: Group-03-Scandium
+SpocWebEntityId: 21953
 ---
-[SpocWebEntityId: 21953
+
 [Name-en::Lanthanum]
 [Name-de::Lanthan]
 [Weight-u::138.9055]

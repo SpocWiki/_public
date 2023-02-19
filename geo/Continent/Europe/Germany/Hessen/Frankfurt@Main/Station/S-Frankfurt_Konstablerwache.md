@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11472]
 [name::Frankfurt Konstablerwache]
 [Country::[[Germany]]]
-[City::[[Frankfurt@Main]]]
+[City:[[Frankfurt(Main)]]]]
 

@@ -31,7 +31,7 @@ We may restrict the use of the issue tracker in the future and direct you to oth
 
 Responsibilities
  * Ensure that your content and communication meets all [[License]] and [[Code_of_Conduct]] requirements 
- * Before starting any major changes and enhancements, create an issue to explain what you wish to make. 
+ * Before starting any major changes and enhancements, [submit an Issue](https://github.com/SpocWiki/_public/issues) to explain what you wish to make. 
  * Discuss things transparently and get community feedback.
  - Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. 
 
@@ -49,7 +49,7 @@ At this point, you're ready to make your changes! Feel free to ask for help; eve
 
 If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed, and that you need to update your branch so it's easier to merge.
 
-You can start by looking through these beginner and help-wanted issues:
+You can start by looking through the [Issues](https://github.com/SpocWiki/_public/issues):
 - **Beginner** issues - issues which should only require a few lines of code, and a test or two.
 - **Help wanted** issues - issues which should be a bit more involved than beginner issues.
 - Both issue lists are sorted by total number of comments. While not perfect, number of comments is a reasonable proxy for impact a given change will have.
@@ -70,7 +70,7 @@ You can start by looking through these beginner and help-wanted issues:
 
 ### Use the Labels for issues.
 
-Please apply one or more Tags to your issues: 
+Please apply one or more Tags to your [Issues](https://github.com/SpocWiki/_public/issues): 
 - **Spelling** for purely syntactical or grammatical changes. 
 - **Bug** for fixing the semantics/meaning of the text or data.
 - **Feature** for a completely new (set of) articles or data.
@@ -104,7 +104,8 @@ In order to determine whether you are dealing with a security issue, ask yoursel
  If the answer to either of those two questions are "yes", then you're probably dealing with a security issue. 
  Note that even if you answer "no" to both questions, you may still be dealing with a security issue, so if you're unsure, just email us at  10584012+SpocWeb@users.noreply.github.com. 
 
-When filing an issue, make sure to answer these five questions:
+When [filing an Issue](https://github.com/SpocWiki/_public/issues),
+make sure to answer these five questions:
  1. What did you see?
  2. What did you expect to see?
  3. What did you see instead?
@@ -127,9 +128,9 @@ If you find yourself wishing for content that doesn't exist yet, you are probabl
 There are bound to be others out there with similar needs. 
 Many of the contents has been added because our users saw the need. 
 
-Open an issue on our issues list on GitHub which describes the content you would like to see, 
-why you need it, and if you can start to provide it.
-
+[Open an Issue](https://github.com/SpocWiki/_public/issues), on our issues list on GitHub
+which describes the content you would like to see, 
+why you need it, and if you can help to provide it.
 
 # Review process
 
