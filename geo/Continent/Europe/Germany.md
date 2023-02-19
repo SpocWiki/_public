@@ -1,13 +1,19 @@
-﻿---
+---
 location: [50.8699,10.1207]
 type: Country
+title: Deutschland (Germany)
 SpocWebEntityId: 26878
 isDeleted: false
 confidential: public
 tags:
 - geo/Country
 
+aliases:
+- Deutschland
 ---
+
+# Germany (Deutschland)
+
 [ISO2::DE]
 [ISO3::DEU]
 [name-en::Germany]

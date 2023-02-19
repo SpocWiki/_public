@@ -3,21 +3,37 @@ title: SpocWiki
 enableToc: true
 ---
 
-# SpocWiki
-This Repository contains community-maintained, shared, public, freely usable Text and Data to mix into your personal Knowledge Base.
+This Repository contains publicly shared, freely usable, community-maintained Articles and Data to mix into your personal Knowledge Bases.
 
-Different from Wikipedia, you can...
+All Content is shared using the permissive CC-BY-SA License, compatible with Wikipedia.
+
+But better than Wikipedia, you can...
 - easily synchronize this with a local sub-folder on your local computer
   and keep personal and public information separate.
 - simply update and expand the SpocWiki Data and push the changes back to the community for everyone to benefit 
+- capture and share additional or personal Information.
 
+Eventually, Wikipedia and WikiData Content will be synchronized into this Repository,
+so you don't need to capture anything that already exists there.
 
+Other open Data Sources (e.g. Government and statistical Data) will either be linked or integrated.
 
-# How to include in your own projects
-This Repository can be cloned or referenced as a Submodule in other Wikis/Vaults.  
-Pull-Requests are welcome, but read the Section about [#How to contribute](#How%20to%20contribute) first!
-The [LICENSE](LICENSE.md) is chosen to be compatible with Wikipedia and Wikidata,
-so that Information can freely be exchanged with this Repository.
+But such a step that requires some planning and mutual agreement within this community.
+
+# How to include this in your own projects
+This Repository can be cloned or referenced as a GIT Submodule in other Wikis.
+
+Especially [Obsidian Vaults](https://Obsidian.me) allow 
+to conveniently browse and query this data in arbitrary ways and form Tables from it.
+
+But any other Markdown-based Software can process this, too. 
+We would love to hear your use-cases for this data!
+
+Pull-Requests with your changes or additions are very welcome,
+but read [how to contribute](Contributing.md) first!
+
+The [License](License.md) is chosen to be compatible with Wikipedia and Wikidata,
+so that Information can freely be exchanged with this Repository and many other sources.
 
 ## Wiki-Modules 
 To limit the Size of this Repository, individual Sub-Repositories are singled out, which can be cloned and versioned independently. 
@@ -34,12 +50,7 @@ but they fix the Module's Version/Hash and therefore need to be updated regularl
 
 Especially with nested Sub-Modules, Conflicts in Hashes are very likely, hard to resolve, and factually irrelevant. 
 Therefore the Modules should typically be cloned into an ignored Folder and versioned independently. 
-Nonetheless, private Repositories may find it useful to include this Repository as a Sub-Module for ease of use. 
-
-
-# How to contribute
-
-See [Contributing](Contributing.md)
+Nonetheless, private Repositories may find it useful to include this Repository as a Sub-Module for ease of use.
 
 
 
