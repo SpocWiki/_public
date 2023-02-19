@@ -1,5 +1,5 @@
 ---
-location: [,]
+
 type: State
 tags:
 - geo/State

@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 created:
 destroyed:
