@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [[Boron]]
 3) [[Aluminium]]

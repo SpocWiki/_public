@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-05-Vanadium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-05-Vanadium]]]
+
 [Name-en::Tantalum]
 [Name-de::Tantal]
 [Weight-u::180.9479]

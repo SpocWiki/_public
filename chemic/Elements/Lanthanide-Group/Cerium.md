@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Lanthanide-Group
+
 SpocWebEntityId: 21954
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 [Name-en::Cerium]
 [Name-de::Cer]
 [Weight-u::140.12]

@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-02-Earth-Alkaline
+
 ---
+#chemic/Element 
+[GroupName::[[Group-02-Earth-Alkaline]]]
+
 [Name-de::Beryllium]
 [Weight-u::9.0122]
 [AtomRadius::1.4]

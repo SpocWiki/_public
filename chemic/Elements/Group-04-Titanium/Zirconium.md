@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-04-Titanium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-04-Titanium]]]
+
 [Name-en::Zirconium]
 [Name-de::Zirkonium]
 [Weight-u::91.224]

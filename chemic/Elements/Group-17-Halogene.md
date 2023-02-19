@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [[Fluorine]]
 3) [[Chlorine]]

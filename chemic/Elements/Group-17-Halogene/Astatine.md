@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Group-17-Halogene
+
 SpocWebEntityId: 21980
 ---
+
+#chemic/Element 
+[GroupName::[[Group-17-Halogene]]]
+
 [Name-en::Astatine]
 [Name-de::Astat]
 [Weight-u::210]

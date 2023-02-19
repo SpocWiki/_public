@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [[Cobalt]]
 5) [[Iridium]]

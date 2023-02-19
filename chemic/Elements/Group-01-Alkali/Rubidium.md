@@ -1,8 +1,10 @@
 ---
 type: Element
-GroupName: Group-01-Alkali
+
 SpocWebEntityId: 21935
 ---
+#chemic/Element 
+[GroupName::[[Group-01-Alkali]]]
 
 [Name-en::Rubidium]
 [Name-de::Rubidium]

@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [[Nickel]]
 5) [[Palladium]]

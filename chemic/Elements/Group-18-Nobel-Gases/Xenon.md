@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Group-18-Nobel-Gases
+
 SpocWebEntityId: 21950
 ---
+
+#chemic/Element 
+[GroupName::[[Group-18-Nobel-Gases]]]
+
 [Name-en::Xenon]
 [Name-de::Xenon]
 [Weight-u::131.29]

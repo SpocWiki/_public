@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-12-Zinc
+
 ---
+#chemic/Element 
+[GroupName::[[Group-12-Zinc]]]
+
 [Name-en::Cadmium]
 [Name-de::Cadmium]
 [Weight-u::112.41]

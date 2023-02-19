@@ -1,8 +1,11 @@
 ---
 type: Element
-GroupName: Group-14-Carbon
 SpocWebEntityId: 21977
 ---
+
+#chemic/Element 
+[GroupName::[[Group-14-Carbon]]]
+
 [Name-en::Lead]
 [Name-de::Blei]
 [Weight-u::207.2]

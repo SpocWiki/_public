@@ -1,8 +1,11 @@
 ---
 type: Element
-GroupName: Group-13-Boron
+
 SpocWebEntityId: 21929
 ---
+#chemic/Element 
+[GroupName::[[Group-13-Boron]]]
+
 [Name-en::Gallium]
 [Name-de::Gallium]
 

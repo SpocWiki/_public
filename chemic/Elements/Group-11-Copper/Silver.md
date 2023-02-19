@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-11-Copper
+
 ---
+#chemic/Element 
+[GroupName::[[Group-11-Copper]]]
+
 [Name-en::Silver]
 [Name-de::Silber]
 [Weight-u::107.868]

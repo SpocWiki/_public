@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Lanthanide-Group
+
 SpocWebEntityId: 21961
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 [Name-en::Terbium]
 [Name-de::Terbium]
 [Weight-u::158.9254]

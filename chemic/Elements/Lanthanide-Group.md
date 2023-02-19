@@ -1,3 +1,8 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
+
 
 > The **Lanthanide** or lanthanoid series of chemical elements comprises the 15 metallic chemical elements with atomic numbers 57–71, from lanthanum through lutetium. These elements, along with the chemically similar elements scandium and yttrium, are often collectively known as the rare-earth elements or rare-earth metals.
 >

@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-06-Chromium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-06-Chromium]]]
+
 [Name-en::Molybdenum]
 [Name-de::Molybdaen]
 [Weight-u::95.94]

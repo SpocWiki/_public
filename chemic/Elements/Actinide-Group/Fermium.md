@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21995
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Fermium]
 [Name-de::Fermium]

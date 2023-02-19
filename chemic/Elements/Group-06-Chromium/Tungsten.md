@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-06-Chromium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-06-Chromium]]]
+
 [Name-en::Tungsten]
 [Name-de::Wolfram]
 [Weight-u::183.85]

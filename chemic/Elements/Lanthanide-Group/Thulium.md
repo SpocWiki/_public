@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Lanthanide-Group
+
 SpocWebEntityId: 21965
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 [Name-en::Thulium]
 [Name-de::Thulium]
 [Weight-u::168.9342]

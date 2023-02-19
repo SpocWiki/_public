@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [[Chromium]]
 5) [[Molybdenum]]

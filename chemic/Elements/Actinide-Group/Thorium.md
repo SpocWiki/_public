@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21985
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Thorium]
 [Name-de::Thorium]

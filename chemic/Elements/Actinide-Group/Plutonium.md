@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21989
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Plutonium]
 [Name-de::Plutonium]

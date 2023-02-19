@@ -1,8 +1,10 @@
 ---
 type: Element
-GroupName: Group-01-Alkali
+
 SpocWebEntityId: 21951
 ---
+#chemic/Element 
+[GroupName::[[Group-01-Alkali]]]
 
 [Name-en::Caesium]
 [Name-de::Caesium]

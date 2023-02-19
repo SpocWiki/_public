@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Group-18-Nobel-Gases
+
 SpocWebEntityId: 21912
 ---
+
+#chemic/Element 
+[GroupName::[[Group-18-Nobel-Gases]]]
+
 [Name-en::Neon]
 [Name-de::Neon]
 [Weight-u::20.17]

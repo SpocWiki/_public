@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-07-Manganese
+
 ---
+#chemic/Element 
+[GroupName::[[Group-07-Manganese]]]
+
 [Name-en::Technetium]
 [Name-de::Technetium]
 [Weight-u::98.9062]

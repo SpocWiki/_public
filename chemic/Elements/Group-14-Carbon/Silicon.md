@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Group-14-Carbon
+
 SpocWebEntityId: 21915
 ---
+
+#chemic/Element 
+[GroupName::[[Group-14-Carbon]]]
+
 [Name-en::Silicon]
 [Name-de::Silicium]
 [Weight-u::28.0855]

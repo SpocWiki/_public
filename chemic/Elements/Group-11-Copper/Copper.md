@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-11-Copper
+
 ---
+#chemic/Element 
+[GroupName::[[Group-11-Copper]]]
+
 [Name-en::Copper]
 [Name-de::Kupfer]
 [Weight-u::63.546]

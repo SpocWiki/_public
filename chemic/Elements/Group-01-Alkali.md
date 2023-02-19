@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 1) [[Hydrogenium]]
 2) [[Lithium]]

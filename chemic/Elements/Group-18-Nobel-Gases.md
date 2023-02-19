@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 1) [[Helium]]
 2) [[Neon]]

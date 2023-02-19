@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [[Carbon]]
 3) [[Silicon]]

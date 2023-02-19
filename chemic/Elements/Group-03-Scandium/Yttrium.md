@@ -1,8 +1,10 @@
 ---
 type: Element
-GroupName: Group-03-Scandium
+
 SpocWebEntityId: 21937
 ---
+#chemic/Element 
+[GroupName::[[Group-03-Scandium]]]
 
 [Name-en::Yttrium]
 [Name-de::Yttrium]

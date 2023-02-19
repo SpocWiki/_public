@@ -1,7 +1,10 @@
 ---
 type: Element
-GroupName: Group-05-Vanadium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-05-Vanadium]]]
+
 [Name-en::Dubnium]
 [Name-de::Hahnium]
 [Weight-u::0]

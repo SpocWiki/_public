@@ -1,8 +1,12 @@
 ---
 type: Element
-GroupName: Group-18-Nobel-Gases
+
 SpocWebEntityId: 21934
 ---
+
+#chemic/Element 
+[GroupName::[[Group-18-Nobel-Gases]]]
+
 [Name-en::Krypton]
 [Name-de::Krypton]
 [Weight-u::83.8]

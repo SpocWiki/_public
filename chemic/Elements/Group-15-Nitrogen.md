@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [[Nitrogen]]
 3) [[Phosphorus]]
