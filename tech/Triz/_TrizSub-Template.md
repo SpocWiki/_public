@@ -13,7 +13,7 @@ aliases:
 - 
 ---
 SpocWebEntityId: {{SpocWebEntityId}}
-[TrizPrincipleId::{{PrincipleId}}]
+TrizPrincipleId: {{PrincipleId}}
 
 [name::{{name}}]
 
