@@ -4,50 +4,50 @@
 ## Primary Groups 
 8 Groups corresponding to 2 \* 4  Electrons in [[sp-Orbitals]]
 
-[Group-01-Alkali](_public/chemic/Elements/Group-01-Alkali.md)
+[Group-01-Alkali](Elements/Group-01-Alkali.md)
 
-[Group-02-Earth-Alkaline](_public/chemic/Elements/Group-02-Earth-Alkaline.md)
+[Group-02-Earth-Alkaline](Elements/Group-02-Earth-Alkaline.md)
 
-In Period 6, the [Lanthanide-Group](_public/chemic/Elements/Lanthanide-Group.md) appears here
+In Period 6, the [Lanthanide-Group](Elements/Lanthanide-Group.md) appears here
 
-In Period 7, the [Actinide-Group](_public/chemic/Elements/Actinide-Group.md) appears here
+In Period 7, the [Actinide-Group](Elements/Actinide-Group.md) appears here
 
 as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 
-[Group-13-Boron](_public/chemic/Elements/Group-13-Boron.md)
+[Group-13-Boron](Elements/Group-13-Boron.md)
 
-[Group-14-Carbon](_public/chemic/Elements/Group-14-Carbon.md)
+[Group-14-Carbon](Elements/Group-14-Carbon.md)
 
-[Group-15-Nitrogen](_public/chemic/Elements/Group-15-Nitrogen.md)
+[Group-15-Nitrogen](Elements/Group-15-Nitrogen.md)
 
-[Group-16-Chalcogene](_public/chemic/Elements/Group-16-Chalcogene.md)
+[Group-16-Chalcogene](Elements/Group-16-Chalcogene.md)
 
-[Group-17-Halogene](_public/chemic/Elements/Group-17-Halogene.md)
+[Group-17-Halogene](Elements/Group-17-Halogene.md)
 
-[Group-18-Nobel-Gases](_public/chemic/Elements/Group-18-Nobel-Gases.md)
+[Group-18-Nobel-Gases](Elements/Group-18-Nobel-Gases.md)
 
 ## Metallic Groups
 10 Groups corresponding to 2 \* 5  Electrons in [[d-Orbitals]]
 
-[Group-03-Scandium](_public/chemic/Elements/Group-03-Scandium.md)
+[Group-03-Scandium](Elements/Group-03-Scandium.md)
 
-[Group-04-Titanium](_public/chemic/Elements/Group-04-Titanium.md)
+[Group-04-Titanium](Elements/Group-04-Titanium.md)
 
-[Group-05-Vanadium](_public/chemic/Elements/Group-05-Vanadium.md)
+[Group-05-Vanadium](Elements/Group-05-Vanadium.md)
 
-[Group-06-Chromium](_public/chemic/Elements/Group-06-Chromium.md)
+[Group-06-Chromium](Elements/Group-06-Chromium.md)
 
-[Group-07-Manganese](_public/chemic/Elements/Group-07-Manganese.md)
+[Group-07-Manganese](Elements/Group-07-Manganese.md)
 
-[Group-08-Iron](_public/chemic/Elements/Group-08-Iron.md)
+[Group-08-Iron](Elements/Group-08-Iron.md)
 
-[Group-09-Cobalt](_public/chemic/Elements/Group-09-Cobalt.md)
+[Group-09-Cobalt](Elements/Group-09-Cobalt.md)
 
-[Group-10-Nickel](_public/chemic/Elements/Group-10-Nickel.md)
+[Group-10-Nickel](Elements/Group-10-Nickel.md)
 
-[Group-11-Copper](_public/chemic/Elements/Group-11-Copper.md)
+[Group-11-Copper](Elements/Group-11-Copper.md)
 
-[Group-12-Zinc](_public/chemic/Elements/Group-12-Zinc.md)
+[Group-12-Zinc](Elements/Group-12-Zinc.md)
 
 > A **Chemical element** is a chemical substance that cannot be broken down into other substances. The basic particle that constitutes a chemical element is the atom, and chemical elements are distinguished from each other by the number of protons in the nuclei of their atoms. This is in contrast to chemical compounds and mixtures.
 >
