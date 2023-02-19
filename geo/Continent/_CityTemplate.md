@@ -1,11 +1,16 @@
 ---
 type: City
+license: CC BY-SA 4.0
 publish: true
-isDeleted: false
 confidential: public
+isDeleted: false
+isReadOnly: false
+
 tags:
 - geo/City
 
+aliases:
+- 
 ---
 location: [{{y}},{{x}}]
 SpocWebEntityId: {{SpocWebEntityId}}

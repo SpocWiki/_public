@@ -1,11 +1,18 @@
 ---
 type: Lang
+license: CC BY-SA 4.0
+publish: true
+confidential: public
+isDeleted: false
+isReadOnly: false
+
 aliases:
-- {{Name}}
+- 
+---
 tags: 
 - Lang/{{Iso2}}
----
-[[SpocWebEntityId::{{Id}}]
+SpocWebEntityId: {{Id}}
+
 [Name::{{Name}}]
 [PropId_Name::{{NamePropId}}]
 [PropId_Text::{{TextPropId}}]

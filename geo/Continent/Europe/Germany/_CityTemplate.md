@@ -1,13 +1,20 @@
-﻿---
-location: [{{y}},{{x}}]
+---
 type: City
+license: CC BY-SA 4.0
+publish: true
+confidential: public
+isDeleted: false
+isReadOnly: false
+
 tags:
 - geo/City
 
+aliases:
+- 
 ---
+location: [{{y}},{{x}}]
 SpocWebEntityId: {{SpocWebEntityId}}
-isDeleted: false
-confidential: public
+
 [geo-lon::{{x}}]
 [geo-lat::{{y}}]
 [name::{{City}}]
