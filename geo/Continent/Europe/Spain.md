@@ -18,8 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::E]
 [Capital::[[Madrid]]]
-![[Coat_of_arms_of_Spain.svg]]
-
+![[Spain/Escudo_de_España_(mazonado).svg]]
 ![[Anthem-Spain-complete.mp3]]
 ![[Flag_of_Spain.svg]]
 [Alcohol-l::11.6]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [68.67,27.57]
 type: City
 tags:

@@ -1,18 +1,18 @@
-﻿---
-location: [48.02,16.78]
+---
+location: [48.22,13.48]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 29370
+SpocWebEntityId: 33736
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.78]
-[geo-lat::48.02]
-[name::Bruck@Leitha]
+[geo-lon::13.48]
+[geo-lat::48.22]
+[name::Ried@Oberoesterreich]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

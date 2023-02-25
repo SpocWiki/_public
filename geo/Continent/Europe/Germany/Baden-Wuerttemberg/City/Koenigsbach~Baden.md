@@ -1,18 +1,18 @@
-﻿---
-location: [48.63,9.83]
+---
+location: [48.97,8.62]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 30395
+SpocWebEntityId: 31743
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.83]
-[geo-lat::48.63]
-[name::Geislingen@Steige]
+[geo-lon::8.62]
+[geo-lat::48.97]
+[name::Koenigsbach@Baden]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

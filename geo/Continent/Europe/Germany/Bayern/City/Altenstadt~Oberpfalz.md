@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.8,12.17]
 type: City
 tags:

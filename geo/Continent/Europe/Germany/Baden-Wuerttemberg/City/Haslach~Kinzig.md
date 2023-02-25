@@ -1,18 +1,18 @@
-﻿---
-location: [49.07,9.73]
+---
+location: [48.27,8.07]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 32461
+SpocWebEntityId: 30791
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.73]
-[geo-lat::49.07]
-[name::Michelbach@Wuerttemberg]
+[geo-lon::8.07]
+[geo-lat::48.27]
+[name::Haslach@Kinzig]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

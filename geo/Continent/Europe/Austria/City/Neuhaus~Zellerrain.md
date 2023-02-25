@@ -1,18 +1,18 @@
-﻿---
-location: [48.38,15.58]
+---
+location: [47.8,15.18]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 32355
+SpocWebEntityId: 32829
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.58]
-[geo-lat::48.38]
-[name::Mautern@Niederoesterreich]
+[geo-lon::15.18]
+[geo-lat::47.8]
+[name::Neuhaus@Zellerrain]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

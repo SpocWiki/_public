@@ -1,18 +1,18 @@
-﻿---
-location: [48,7.85]
+---
+location: [48.03,8.88]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 30250
+SpocWebEntityId: 32658
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.85]
-[geo-lat::48]
-[name::Freiburg@Breisgau]
+[geo-lon::8.88]
+[geo-lat::48.03]
+[name::Muehlheim@Donau]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

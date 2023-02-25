@@ -1,18 +1,18 @@
-﻿---
-location: [47.92,9.75]
+---
+location: [48.67,10.15]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 28973
+SpocWebEntityId: 30835
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.75]
-[geo-lat::47.92]
-[name::Bad Waldsee@Wuerttemberg]
+[geo-lon::10.15]
+[geo-lat::48.67]
+[name::Heidenheim@Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

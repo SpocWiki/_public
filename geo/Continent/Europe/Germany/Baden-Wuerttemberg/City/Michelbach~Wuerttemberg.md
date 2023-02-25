@@ -1,18 +1,18 @@
-﻿---
-location: [48.97,8.62]
+---
+location: [49.07,9.73]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 31743
+SpocWebEntityId: 32461
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.62]
-[geo-lat::48.97]
-[name::Koenigsbach@Baden]
+[geo-lon::9.73]
+[geo-lat::49.07]
+[name::Michelbach@Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

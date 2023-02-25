@@ -1,18 +1,18 @@
-﻿---
-location: [48.82,8.35]
+---
+location: [47.92,9.75]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 32460
+SpocWebEntityId: 28973
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.35]
-[geo-lat::48.82]
-[name::Michelbach@Baden]
+[geo-lon::9.75]
+[geo-lat::47.92]
+[name::Bad Waldsee@Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

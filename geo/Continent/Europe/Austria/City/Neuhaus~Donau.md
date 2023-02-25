@@ -1,18 +1,18 @@
-﻿---
-location: [47.4,14.32]
+---
+location: [48.42,13.98]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 32356
+SpocWebEntityId: 32828
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.32]
-[geo-lat::47.4]
-[name::Mautern@Steiermark]
+[geo-lon::13.98]
+[geo-lat::48.42]
+[name::Neuhaus@Donau]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

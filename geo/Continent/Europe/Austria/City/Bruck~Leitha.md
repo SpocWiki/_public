@@ -1,18 +1,18 @@
-﻿---
-location: [47.42,15.28]
+---
+location: [48.02,16.78]
 type: City
 tags:
 - geo/City
 
 
-SpocWebEntityId: 29371
+SpocWebEntityId: 29370
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.28]
-[geo-lat::47.42]
-[name::Bruck@Mur]
+[geo-lon::16.78]
+[geo-lat::48.02]
+[name::Bruck@Leitha]
 [State::]
 [Country::[[Austria]]]
 [StateId::]
