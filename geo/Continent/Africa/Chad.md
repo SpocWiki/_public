@@ -1,4 +1,4 @@
-﻿---
+---
 location: [12.1,16.0333]
 type: Country
 tags:
@@ -18,7 +18,12 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::TD]
 [Capital::[[N'Djamena]]]
+![[Coat_of_arms_of_Chad.svg]]
 ![[Anthem-Chad.mp3]]
+![[Chad/Flag_of_Chad.svg]]
+
+![Coat_of_arms_of_Chad](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Chad.svg)
+
 [Alcohol-l::4.4]
 [Language-Id::]
 [geo-lon::16.0333]
