@@ -11,9 +11,9 @@ tags:
 
 [name::Thüringen]
 [name-abbr::TH]
-![[Coat_of_arms_of_Thuringia.svg]]
+![[Coat_of_arms_of_Thuringia.svg|350]]
 
-![[Flag_of_Thuringia.svg]]
+![[Flag_of_Thuringia.svg|350]]
 [Country::[[Germany]]]
 [Capital::[[Erfurt]]]
 [geo-lon::11.0683]

@@ -11,13 +11,13 @@ tags:
 [ISO3::USA]
 [name-en::United States of America]
 [name-de::Vereinigte Staaten von Amerika]
-![[Coat_of_Arms_of_the_United_States_(obverse).svg]]
+![[Coat_of_Arms_of_the_United_States_(obverse).svg|350]]
 
-![[Coat_of_arms_of_United-states.svg]]
+![[Coat_of_arms_of_United-states.svg|350]]
 ![[Anthem-United-states.mp3]]
-![[Flag_of_United-states.svg]]
+![[Flag_of_United-states.svg|350]]
 
-![[Flag_of_the_United_States.svg]]
+![[Flag_of_the_United_States.svg|350]]
 [Area-Total::9809155]
 [Area-Land::9573110]
 [Continent::North-America]

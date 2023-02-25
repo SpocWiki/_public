@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.1333,33.4667]
 type: Country
 tags:
@@ -11,6 +11,8 @@ confidential: public
 [ISO3::CYP]
 [name-en::Cyprus]
 [name-de::Zypern]
+![[Flag_of_Cyprus.svg|350]]
+
 [Area-Total::9251]
 [Area-Land::9240]
 [Continent::[[Europe]]]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.2796,19.1508]
 type: Country
 tags:
@@ -18,9 +18,11 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::H]
 [Capital::[[Budapest]]]
-![[Coat_of_arms_of_Hungary.svg]]
+![[Coat_of_arms_of_Hungary.svg|359]]
+
 ![[Anthem-Hungary.mp3]]
-![[Flag_of_Hungary.svg]]
+
+![[Flag_of_Hungary.svg|299]]
 [Alcohol-l::16.3]
 [Language-Id::]
 [geo-lon::19.1508]

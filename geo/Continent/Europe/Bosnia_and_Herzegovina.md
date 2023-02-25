@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.87,18.43]
 type: Country
 tags:
@@ -16,9 +16,9 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::BIH]
 [Capital::[[Sarajevo]]]
-![[Coat_of_arms_of_Bosnia-herzegovina.svg]]
+![[Coat_of_arms_of_Bosnia_and_Herzegovina.svg|350]]
 ![[Anthem-Bosnia-herzegovina.mp3]]
-![[Flag_of_Bosnia-herzegovina.svg]]
+![[Flag_of_Bosnia_and_Herzegovina.svg|350]]
 [Alcohol-l::9.6]
 [Language-Id::]
 [geo-lon::18.43]

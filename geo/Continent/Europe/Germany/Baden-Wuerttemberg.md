@@ -10,8 +10,8 @@ tags:
 [name::Baden-Wuerttemberg]
 [name-abbr::BW]
 
-![[Coat_of_arms_of_Baden-Württemberg.svg]]
-![[Flag_of_Baden-Württemberg.svg]]
+![[Coat_of_arms_of_Baden-Württemberg.svg|350]]
+![[Flag_of_Baden-Württemberg.svg|350]]
 
 [Country::[[Germany]]]
 [Capital::[[Stuttgart]]]

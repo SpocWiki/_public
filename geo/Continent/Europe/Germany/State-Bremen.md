@@ -11,9 +11,9 @@ tags:
 
 [name::Bremen]
 [name-abbr::BN]
-![[Coat_of_arms_of_Berlin.svg]]
+![[Coat_of_arms_of_Berlin.svg|350]]
 
-![[Flag_of_Berlin.svg]]
+![[Flag_of_Berlin.svg|350]]
 [Country::[[Germany]]]
 [Capital::[[Bremen]]]
 [geo-lon::8.682]

@@ -19,9 +19,9 @@ tags:
 [Capital::[[Wien=Vienna]]]
 
 
-![[Coat_of_arms_of_Austria.svg]]
+![[Coat_of_arms_of_Austria.svg|350]]
 ![[Anthem-Austria.mp3]]
-![[Flag_of_Austria.svg]]
+![[Flag_of_Austria.svg|350]]
 
 [Alcohol-l::13.2]
 [Language-Id::497]

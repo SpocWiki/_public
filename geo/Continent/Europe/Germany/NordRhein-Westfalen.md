@@ -11,8 +11,8 @@ tags:
 [name::NordRhein-Westfalen]
 [name-abbr::NW]
 
-![[Coat_of_arms_of_North_Rhine-Westfalia.svg]]
-![[Flag_of_North_Rhine-Westphalia.svg]]
+![[Coat_of_arms_of_North_Rhine-Westfalia.svg|350]]
+![[Flag_of_North_Rhine-Westphalia.svg|350]]
 
 [Country::[[Germany]]]
 [Capital::[[Duesseldorf]]]

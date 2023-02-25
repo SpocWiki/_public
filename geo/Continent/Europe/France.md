@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8944,2.33663]
 type: Country
 tags:
@@ -19,9 +19,9 @@ confidential: public
 [VehicleCode::F]
 [Capital::[[Paris]]]
 [Alcohol-l::13.7]
-![[Coat_of_arms_of_France.svg]]
+![[Arms_of_the_French_Republic.svg|350]]
 ![[Anthem-France.mp3]]
-![[Flag_of_France.svg]]
+![[Flag_of_France.svg|350]]
 [Language-Id::496]
 [geo-lon::2.33663]
 [geo-lat::46.8944]

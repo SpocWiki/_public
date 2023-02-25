@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.8165,4.29368]
 type: Country
 tags:
@@ -16,9 +16,9 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::B]
 [Capital::[[Brussels=Bruxelles]]]
-![[Coat_of_arms_of_Belgium.svg]]
+![[Great_coat_of_arms_of_Belgium.svg|350]]
 ![[Anthem-Belgium.mp3]]
-![[Flag_of_Belgium.svg]]
+![[Flag_of_Belgium.svg|350]]
 [Alcohol-l::10.8]
 [Language-Id::496]
 [geo-lon::4.29368]

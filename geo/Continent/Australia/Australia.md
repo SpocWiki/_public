@@ -18,9 +18,9 @@ confidential: public
 [Continent::Australia
 [VehicleCode::AUS]
 [Capital::[[Canberra]]]
-![[Coat_of_arms_of_Australia-complete.svg]]
+![[Coat_of_arms_of_Australia-complete.svg|350]]
 ![[Anthem-Australia-complete.mp3]]
-![[Flag_of_Australia-complete.svg]]
+![[Flag_of_Australia-complete.svg|350]]
 [Alcohol-l::10]
 [Language-Id::499]
 [geo-lon::149.027]

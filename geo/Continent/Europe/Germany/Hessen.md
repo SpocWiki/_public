@@ -11,9 +11,9 @@ tags:
 [name::Hessen]
 [name-abbr::HN]
 
-![[Coat_of_arms_of_Hesse.svg]]
+![[Coat_of_arms_of_Hesse.svg|350]]
 
-![[Flag_of_Hesse.svg]]
+![[Flag_of_Hesse.svg|350]]
 
 [Country::[[Germany]]]
 [Capital::[[Wiesbaden]]]

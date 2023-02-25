@@ -10,9 +10,9 @@ tags:
 ---
 [name::Saarland]
 [name-abbr::SL]
-![[Coat_of_arms_of_Saarlands.svg]]
+![[Coat_of_arms_of_Saarlands.svg|350]]
 
-![[Flag_of_Saarland.svg]]
+![[Flag_of_Saarland.svg|350]]
 [Country::[[Germany]]]
 [Capital::[[Saarbruecken]]]
 [geo-lon::6.935]

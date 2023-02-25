@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.5167,1.51333]
 type: Country
 tags:
@@ -11,6 +11,8 @@ confidential: public
 [ISO3::AND]
 [name-en::Andorra]
 [name-de::Andorra]
+![[Coat_of_arms_of_Andorra.svg|350]]
+![[Andorra/Flag_of_Andorra.svg|350]]
 [Area-Total::467]
 [Area-Land::450]
 [Continent::[[Europe]]]

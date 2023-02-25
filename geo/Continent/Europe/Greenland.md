@@ -1,4 +1,4 @@
-﻿---
+---
 location: [64.25,-51.67]
 type: Country
 tags:
@@ -13,6 +13,9 @@ confidential: public
 [ISO3::GRL]
 [name-en::Greenland]
 [name-de::Grönland]
+![[Greenland/Coat_of_arms_of_Greenland.svg|350]]
+![[Greenland/Flag_of_Greenland.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::[[Europe]]]

@@ -12,13 +12,13 @@ tags:
 [ISO3::CAN]
 [name-en::Canada]
 [name-de::Kanada]
-![[Coat_of_arms_of_Canada.svg]]
+![[Coat_of_arms_of_Canada.svg|350]]
 
-![[Coat_of_arms_of_Canada.svg]]
+![[Coat_of_arms_of_Canada.svg|350]]
 ![[Anthem-Canada.mp3]]
-![[Flag_of_Canada.svg]]
+![[Flag_of_Canada.svg|350]]
 
-![[Flag_of_Canada_(Pantone).svg]]
+![[Flag_of_Canada_(Pantone).svg|350]]
 [Area-Total::9958319]
 [Area-Land::9220970]
 [Continent::North-America]

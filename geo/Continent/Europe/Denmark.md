@@ -1,4 +1,4 @@
-﻿---
+---
 location: [55.6789,10.5]
 type: Country
 tags:
@@ -18,9 +18,9 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::DK]
 [Capital::[[Copenhagen]]]
-![[Coat_of_arms_of_Denmark-anthem.svg]]
-![[Anthem-Denmark-anthem.mp3]]
-![[Flag_of_Denmark-anthem.svg]]
+![[Coat_of_arms_of_Denmark.svg|350]]
+![[../../../xLarge/National-Anthem/Anthem-Denmark.mp3]]
+![[Flag_of_Denmark.svg|350]]
 [Alcohol-l::13.4]
 [Language-Id::]
 [geo-lon::10.5]

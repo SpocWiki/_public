@@ -10,9 +10,9 @@ tags:
 ---
 [name::Bayern]
 [name-abbr::BY]
-![[Coat_of_arms_of_Bavaria.svg]]
+![[Coat_of_arms_of_Bavaria.svg|350]]
 
-![[Flag_of_Bavaria_(lozengy).svg]]
+![[Flag_of_Bavaria_(lozengy).svg|350]]
 [Country::[[Germany]]]
 [Capital::[[München]]]
 [geo-lon::11.3382]

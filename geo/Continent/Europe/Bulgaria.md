@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.9342,25.3029]
 type: Country
 tags:
@@ -16,9 +16,9 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::BG]
 [Capital::[[Sofia]]]
-![[Coat_of_arms_of_Bulgaria-complete.svg]]
+![[Coat_of_arms_of_Bulgaria.svg|350]]
 ![[Anthem-Bulgaria-complete.mp3]]
-![[Flag_of_Bulgaria-complete.svg]]
+![[Flag_of_Bulgaria.svg|350]]
 [Alcohol-l::12.4]
 [Language-Id::]
 [geo-lon::25.3029]

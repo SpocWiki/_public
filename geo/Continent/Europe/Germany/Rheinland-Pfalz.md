@@ -10,9 +10,9 @@ tags:
 ---
 [name::Rheinland-Pfalz]
 [name-abbr::RZ]
-![[Coat_of_arms_of_Rhineland-Palatinate.svg]]
+![[Coat_of_arms_of_Rhineland-Palatinate.svg|350]]
 
-![[Flag_of_Rhineland-Palatinate.svg]]
+![[Flag_of_Rhineland-Palatinate.svg|350]]
 [Country::[[Germany]]]
 [Capital::[[Mainz]]]
 [geo-lon::7.57652]

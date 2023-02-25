@@ -10,8 +10,8 @@ tags:
 ---
 [name::Schleswig-Holstein]
 [name-abbr::SG]
-![[Coat_of_arms_of_Schleswig-Holstein.svg]]
-![[Flag_of_Schleswig-Holstein.svg]]
+![[Coat_of_arms_of_Schleswig-Holstein.svg|350]]
+![[Flag_of_Schleswig-Holstein.svg|350]]
 
 [Country::[[Germany]]]
 [Capital::[[Kiel]]]

@@ -11,9 +11,9 @@ tags:
 [name::Mecklenburg-Vorpommern]
 [name-abbr::MV]
 
-![[Coat_of_arms_of_Mecklenburg-Western_Pomerania_(great).svg]]
+![[Coat_of_arms_of_Mecklenburg-Western_Pomerania_(great).svg|350]]
 
-![[Flag_of_Mecklenburg-Western_Pomerania.svg]]
+![[Flag_of_Mecklenburg-Western_Pomerania.svg|350]]
 
 [Country::[[Germany]]]
 [Capital::[[Schwerin]]]

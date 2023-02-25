@@ -19,10 +19,10 @@ aliases:
 [ISO3::DEU]
 [name-en::Germany]
 
-![[Coat_of_arms_of_Germany.svg]]
+![[Coat_of_arms_of_Germany.svg|350]]
 
 ![[Anthem-Germany.mp3]]
-![[Flag_of_Germany.svg]]
+![[Flag_of_Germany.svg|350]]
 
 
 [name-de::Deutschland]

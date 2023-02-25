@@ -11,9 +11,9 @@ tags:
 
 [name::Hamburg]
 [name-abbr::HG]
-![[Coat_of_arms_of_Hamburg_Bürgerschaft.svg]]
+![[Coat_of_arms_of_Hamburg_Bürgerschaft.svg|350]]
 
-![[Flag_of_Hamburg.svg]]
+![[Flag_of_Hamburg.svg|350]]
 [Country::[[Germany]]]
 [Capital::[[Hamburg]]]
 [geo-lon::9.93222]

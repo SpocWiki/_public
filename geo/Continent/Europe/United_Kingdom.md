@@ -12,13 +12,13 @@ tags:
 [ISO3::GBR]
 [name-en::United Kingdom]
 [name-de::Großbritannien]
-![[Coat_of_Arms_of_the_United_Kingdom.svg]]
+![[Coat_of_Arms_of_the_United_Kingdom.svg|350]]
 
-![[Coat_of_arms_of_United-kingdom.svg]]
+![[Coat_of_arms_of_United-kingdom.svg|350]]
 ![[Anthem-United-kingdom.mp3]]
-![[Flag_of_United-kingdom.svg]]
+![[Flag_of_United-kingdom.svg|350]]
 
-![[Flag_of_the_United_Kingdom_(3-5).svg]]
+![[Flag_of_the_United_Kingdom_(3-5).svg|350]]
 [Area-Total::241752]
 [Area-Land::241600]
 [Continent::[[Europe]]]

@@ -11,9 +11,9 @@ tags:
 [name::Niedersachsen]
 [name-abbr::NS]
 
-![[Coat_of_arms_of_Niedersachsen.svg]]
+![[Coat_of_arms_of_Niedersachsen.svg|350]]
 
-![[Flag_of_Lower_Saxony.svg]]
+![[Flag_of_Lower_Saxony.svg|350]]
 
 [Country::[[Germany]]]
 [Capital::[[Hannover]]]

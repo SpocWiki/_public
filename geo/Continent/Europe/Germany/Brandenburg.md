@@ -11,9 +11,9 @@ tags:
 [name::Brandenburg]
 [name-abbr::BB]
 
-![[Coat_of_arms_of_Brandenburg.svg]]
+![[Coat_of_arms_of_Brandenburg.svg|350]]
 
-![[Flag_of_Brandenburg.svg]]
+![[Flag_of_Brandenburg.svg|350]]
 
 [Country::[[Germany]]]
 [Capital::[[Potsdam]]]
