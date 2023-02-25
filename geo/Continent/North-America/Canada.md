@@ -14,7 +14,9 @@ tags:
 [name-de::Kanada]
 ![[Coat_of_arms_of_Canada.svg]]
 
+![[Coat_of_arms_of_Canada.svg]]
 ![[Anthem-Canada.mp3]]
+![[Flag_of_Canada.svg]]
 
 ![[Flag_of_Canada_(Pantone).svg]]
 [Area-Total::9958319]

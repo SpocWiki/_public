@@ -13,7 +13,9 @@ tags:
 [name-de::Vereinigte Staaten von Amerika]
 ![[Coat_of_Arms_of_the_United_States_(obverse).svg]]
 
+![[Coat_of_arms_of_United-states.svg]]
 ![[Anthem-United-states.mp3]]
+![[Flag_of_United-states.svg]]
 
 ![[Flag_of_the_United_States.svg]]
 [Area-Total::9809155]

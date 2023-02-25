@@ -18,10 +18,10 @@ tags:
 [VehicleCode::A]
 [Capital::[[Wien=Vienna]]]
 
-![[_public/geo/Continent/Europe/Austria/Coat_of_arms_of_Austria-Bundesadler.svg]]
 
+![[Coat_of_arms_of_Austria.svg]]
 ![[Anthem-Austria.mp3]]
-![[_public/geo/Continent/Europe/Austria/Flag_of_Austria.svg]]
+![[Flag_of_Austria.svg]]
 
 [Alcohol-l::13.2]
 [Language-Id::497]

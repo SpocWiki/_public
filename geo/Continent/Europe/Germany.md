@@ -22,7 +22,6 @@ aliases:
 ![[Coat_of_arms_of_Germany.svg]]
 
 ![[Anthem-Germany.mp3]]
-
 ![[Flag_of_Germany.svg]]
 
 

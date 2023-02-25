@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.0911,-2.86673]
 type: Country
 tags:
@@ -18,7 +18,10 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::E]
 [Capital::[[Madrid]]]
+![[Coat_of_arms_of_Spain.svg]]
+
 ![[Anthem-Spain-complete.mp3]]
+![[Flag_of_Spain.svg]]
 [Alcohol-l::11.6]
 [Language-Id::492]
 [geo-lon::-2.86673]

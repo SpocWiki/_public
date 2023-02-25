@@ -14,7 +14,9 @@ tags:
 [name-de::Großbritannien]
 ![[Coat_of_Arms_of_the_United_Kingdom.svg]]
 
+![[Coat_of_arms_of_United-kingdom.svg]]
 ![[Anthem-United-kingdom.mp3]]
+![[Flag_of_United-kingdom.svg]]
 
 ![[Flag_of_the_United_Kingdom_(3-5).svg]]
 [Area-Total::241752]
