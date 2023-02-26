@@ -1,4 +1,4 @@
-﻿---
+---
 location: [22.13,-82.37]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::C]
 [Capital::[[Habana=Havana=Havanna]]]
+
 ![[Coat_of_arms_of_Cuba.svg|350]]
+
 ![[Anthem-Cuba.mp3]]
+
 ![[Flag_of_Cuba.svg|350]]
+
 [Alcohol-l::5.5]
 [Language-Id::492]
 [geo-lon::-82.37]

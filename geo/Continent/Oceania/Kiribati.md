@@ -1,4 +1,4 @@
-﻿---
+---
 location: [1.4,172.967]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::KIR]
 [name-en::Kiribati]
 [name-de::Kiribati]
+
+![[Coat_of_arms_of_Kiribati.svg|350]]
+
+![[Flag_of_Kiribati.svg|350]]
+
 [Area-Total::811]
 [Area-Land::730]
 [Continent::[[Oceania]]]

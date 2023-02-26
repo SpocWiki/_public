@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.0027,17.6996]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::PL]
 [Capital::[[Warszawa]]]
+
 ![[Coat_of_arms_of_Poland.svg|350]]
+
 ![[Anthem-Poland.mp3]]
+
 ![[Flag_of_Poland.svg|350]]
 [Alcohol-l::13.3]
 [Language-Id::494]

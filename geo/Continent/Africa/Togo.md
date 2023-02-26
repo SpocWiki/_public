@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.11667,1.21667]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::TG]
 [Capital::[[Lomé]]]
-![[Coat_of_arms_of_Togo.svg|350]]
+
+![[Armoiries_du_Togo.svg|350]]
+
 ![[Anthem-Togo.mp3]]
+
 ![[Flag_of_Togo.svg|350]]
+
 [Alcohol-l::2]
 [Language-Id::496]
 [geo-lon::1.21667]

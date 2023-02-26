@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-24.6333,25.9167]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RB]
 [Capital::[[Gaborone]]]
+
 ![[Coat_of_arms_of_Botswana.svg|350]]
+
 ![[Anthem-Botswana.mp3]]
+
 ![[Flag_of_Botswana.svg|350]]
 [Alcohol-l::8]
 [Language-Id::499]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-29.0667,167.967]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::NFK]
 [name-en::Norfolk Island]
 [name-de::Norfolk Insel]
+
+![[Norfolk_Island/Coat_of_arms_of_Norfolk_Island.svg|350]]
+
+![[Norfolk_Island/Flag_of_Norfolk_Island.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::[[Oceania]]]

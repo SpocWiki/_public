@@ -1,4 +1,4 @@
-﻿---
+---
 location: [5.86,-55.17]
 type: Country
 tags:
@@ -13,6 +13,13 @@ confidential: public
 [ISO3::SUR]
 [name-en::Suriname]
 [name-de::Surinam]
+
+![[Coat_of_arms_of_Mexico.svg|350]]
+
+![[Anthem-Mexico.mp3]]
+
+![[Flag_of_Mexico.svg|350]]
+
 [Area-Total::163265]
 [Area-Land::156000]
 [Continent::South-America]

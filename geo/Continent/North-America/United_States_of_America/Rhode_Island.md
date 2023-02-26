@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.8236,-71.4222]
 type: State
 tags:
@@ -12,6 +12,14 @@ confidential: public
 ---
 [name::Rhode Island]
 [name-abbr::RI]
+
+![[Coat_of_arms_of_Rhode_Island.svg|350]]
+
+![[Seal_of_Rhode_Island.svg|350]]
+
+![[Flag_of_Rhode_Island.svg|350]]
+
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Providence]]]
 [geo-lon::-71.4222]

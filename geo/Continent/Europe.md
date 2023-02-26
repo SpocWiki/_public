@@ -9,12 +9,13 @@ tags:
 isDeleted: false
 ---
 
+![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)
 
-![Flag](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg "Flag of Europe.svg")
+![[Seal_of_Europe.svg|350]]
 
-![[Coat_of_arms_of_Eu-long.svg|350]]
 ![[Anthem-Eu-long.mp3]]
-![[Flag_of_Eu-long.svg|350]]
+
+![[Flag_of_Europe.svg|350]]
 
 [name-en::Europe]
 [name-de::Europa]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.825,-96.735]
 type: State
 tags:
@@ -12,6 +12,12 @@ confidential: public
 ---
 [name::Oklahoma]
 [name-abbr::OK]
+
+![[Seal_of_Oklahoma.svg|350]]
+
+![[Flag_of_Oklahoma.svg|350]]
+
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Oklahoma_City]]]
 [geo-lon::-96.735]

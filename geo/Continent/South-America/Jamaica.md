@@ -1,4 +1,4 @@
-﻿---
+---
 location: [17.9833,-76.8]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::JA]
 [Capital::[[Kingston]]]
+
 ![[Coat_of_arms_of_Jamaica.svg|350]]
+
 ![[Anthem-Jamaica.mp3]]
+
 ![[Flag_of_Jamaica.svg|350]]
+
 [Alcohol-l::5]
 [Language-Id::499]
 [geo-lon::-76.8]

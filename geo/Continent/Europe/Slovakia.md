@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.13,17.1]
 type: Country
 tags:
@@ -18,9 +18,11 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::SK]
 [Capital::[[Bratislava]]]
-![[Coat_of_arms_of_Slovak-republic.svg|350]]
+![[Coat_of_arms_of_Slovakia.svg|350]]
+
 ![[Anthem-Slovak-republic.mp3]]
-![[Flag_of_Slovak-republic.svg|350]]
+
+![[Flag_of_Slovakia.svg|350]]
 [Alcohol-l::13.3]
 [Language-Id::]
 [geo-lon::17.1]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13,-59.5333]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::BDS]
 [Capital::[[Bridgetown]]]
-![[Coat_of_arms_of_Barbados.svg|350]]
+
+![[Coat_of_arms_of_Barbados.svg|550]]
+
 ![[Anthem-Barbados.mp3]]
+
 ![[Flag_of_Barbados.svg|350]]
+
 [Alcohol-l::6.9]
 [Language-Id::499]
 [geo-lon::-59.5333]

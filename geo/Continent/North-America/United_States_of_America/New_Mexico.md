@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.6672,-105.964]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::New Mexico]
 [name-abbr::NM]
+
+![[Seal_of_New_Mexico.svg|350]]
+
+![[Flag_of_New_Mexico.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Santa_Fe]]]
 [geo-lon::-105.964]

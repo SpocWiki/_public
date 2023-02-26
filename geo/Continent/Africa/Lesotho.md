@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-29.4667,27.9333]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::LS]
 [Capital::[[Maseru]]]
-![[Coat_of_arms_of_Lesotho.svg|350]]
+
+![[Coat_of_arms_of_Lesotho.svg|550]]
+
 ![[Anthem-Lesotho.mp3]]
+
 ![[Flag_of_Lesotho.svg|350]]
 [Alcohol-l::5.6]
 [Language-Id::499]

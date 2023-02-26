@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8133,-100.779]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::North Dakota]
 [name-abbr::ND]
+
+![[Coat_of_arms_of_North_Dakota.svg|350]]
+
+![[Flag_of_North_Dakota.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Bismarck]]]
 [geo-lon::-100.779]

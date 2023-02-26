@@ -1,4 +1,4 @@
-﻿---
+---
 location: [2.02,45.33]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SO]
 [Capital::[[Mogadischu=Mogadisho]]]
-![[Coat_of_arms_of_Somalia.svg|350]]
+
+![[Coat_of_arms_of_Somalia.svg|550]]
+
 ![[Anthem-Somalia.mp3]]
+
 ![[Flag_of_Somalia.svg|350]]
+
 [Alcohol-l::0.5]
 [Language-Id::]
 [geo-lon::45.33]

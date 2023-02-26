@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.1456,-104.802]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::Wyoming]
 [name-abbr::WY]
+![[Seal_of_Wyoming.svg|350]]
+
+![[Flag_of_Wyoming.svg|350]]
+
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Cheyenne]]]
 [geo-lon::-104.802]

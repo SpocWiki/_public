@@ -1,4 +1,4 @@
-﻿---
+---
 location: [21.345,-157.935]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::Hawaii]
 [name-abbr::HI]
+
+![[Coat_of_arms_of_Hawaii.svg|350]]
+
+![[Flag_of_Hawaii.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Honolulu]]]
 [geo-lon::-157.935]

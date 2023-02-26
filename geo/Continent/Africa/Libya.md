@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.89,13.19]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::LAR]
 [Capital::[[Tripolis=Tripoli]]]
-![[Coat_of_arms_of_Libya.svg|350]]
+
+![[Seal_of_the_Government_of_National_Unity_(Libya).svg|350]]
+
 ![[Anthem-Libya.mp3]]
+
 ![[Flag_of_Libya.svg|350]]
+
 [Alcohol-l::0.1]
 [Language-Id::472]
 [geo-lon::13.19]

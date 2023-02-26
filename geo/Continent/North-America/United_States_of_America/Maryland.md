@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.2765,-76.4406]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::Maryland]
 [name-abbr::MD]
+
+![[Coat_of_arms_of_Maryland.svg|350]]
+
+![[Flag_of_Maryland.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Annapolis]]]
 [geo-lon::-76.4406]

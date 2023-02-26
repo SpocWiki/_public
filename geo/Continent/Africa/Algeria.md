@@ -1,4 +1,4 @@
-﻿---
+---
 location: [36.78,3.05]
 type: Country
 tags:
@@ -18,9 +18,15 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::DZ]
 [Capital::[[Algier=Algiers]]]
-![[Coat_of_arms_of_Algeria.svg|350]]
+
+![[Emblem_of_Algeria.svg|350]]
+
+
 ![[Anthem-Algeria.mp3]]
+
+
 ![[Flag_of_Algeria.svg|350]]
+
 [Alcohol-l::1]
 [Language-Id::472]
 [geo-lon::3.05]

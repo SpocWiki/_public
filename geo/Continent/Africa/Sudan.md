@@ -1,4 +1,4 @@
-﻿---
+---
 location: [15.6,32.53]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SUD]
 [Capital::[[Khartoum]]]
-![[Coat_of_arms_of_Sudan.svg|350]]
+
+![[Emblem_of_Sudan.svg|350]]
+
 ![[Anthem-Sudan.mp3]]
+
 ![[Flag_of_Sudan.svg|350]]
+
 [Alcohol-l::2.6]
 [Language-Id::472]
 [geo-lon::32.53]

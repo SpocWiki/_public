@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-34.91,-56.17]
 type: Country
 tags:
@@ -18,9 +18,12 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::ROU]
 [Capital::[[Montevideo]]]
-![[Coat_of_arms_of_Uruguay-complete.svg|350]]
-![[Anthem-Uruguay-complete.mp3]]
-![[Flag_of_Uruguay-complete.svg|350]]
+![[Coat_of_arms_of_Uruguay.svg|350]]
+
+![[../../../xLarge/National-Anthem/Anthem-Uruguay.mp3]]
+
+![[Flag_of_Uruguay.svg|350]]
+
 [Alcohol-l::8.1]
 [Language-Id::492]
 [geo-lon::-56.17]

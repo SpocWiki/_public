@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.25,-11.7]
 type: Country
 tags:
@@ -18,9 +18,12 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::COM]
 [Capital-Id::]
-![[Coat_of_arms_of_Comoros.svg|350]]
+
+![[Seal_of_the_Comoros.svg|350]]
+
 ![[Anthem-Comoros.mp3]]
-![[Flag_of_Comoros.svg|350]]
+
+![[Flag_of_the_Comoros.svg|350]]
 [Alcohol-l::0.4]
 [Language-Id::472]
 [geo-lon::-11.7]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [16.75,-62.2]
 type: Country
 tags:
@@ -13,6 +13,13 @@ confidential: public
 [ISO3::MSR]
 [name-en::Montserrat]
 [name-de::Montserrat]
+
+![[Coat_of_arms_of_Mexico.svg|350]]
+
+![[Anthem-Mexico.mp3]]
+
+![[Flag_of_Mexico.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::South-America]

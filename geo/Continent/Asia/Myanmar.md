@@ -1,4 +1,4 @@
-﻿---
+---
 location: [18.265,96.135]
 type: Country
 tags:
@@ -13,6 +13,10 @@ confidential: public
 [ISO3::MMR]
 [name-en::Myanmar]
 [name-de::Myanmar]
+
+![[Flag_of_Myanmar.svg|350]]
+
+
 [Area-Total::676552]
 [Area-Land::657550]
 [Continent::[[Asia]]]

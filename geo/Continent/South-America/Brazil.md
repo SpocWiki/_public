@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-20.7333,-45.9467]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::BR]
 [Capital::[[Brasilia]]]
+
 ![[Coat_of_arms_of_Brazil.svg|350]]
+
 ![[Anthem-Brazil.mp3]]
+
 ![[Flag_of_Brazil.svg|350]]
+
 [Alcohol-l::9.2]
 [Language-Id::467]
 [geo-lon::-45.9467]

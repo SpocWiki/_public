@@ -1,4 +1,4 @@
-﻿---
+---
 location: [3.525,-75.225]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::CO]
 [Capital::[[Bogota]]]
-![[Coat_of_arms_of_Colombia.svg|350]]
+
+![[Coat_of_arms_of_Colombia.svg|550]]
+
 ![[Anthem-Colombia.mp3]]
+
 ![[Flag_of_Colombia.svg|350]]
+
 [Alcohol-l::6.2]
 [Language-Id::]
 [geo-lon::-75.225]

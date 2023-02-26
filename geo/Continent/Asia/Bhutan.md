@@ -1,4 +1,4 @@
-﻿---
+---
 location: [27.417,90.435]
 type: Country
 tags:
@@ -13,6 +13,12 @@ confidential: public
 [ISO3::BTN]
 [name-en::Bhutan]
 [name-de::Bhutan]
+
+![[Emblem_of_Bhutan.svg|350]]
+
+
+![[Flag_of_Bhutan.svg|350]]
+
 [Area-Total::46500]
 [Area-Land::47000]
 [Continent::[[Asia]]]

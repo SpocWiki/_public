@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.23,35]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::IL]
 [Capital::[[Jerusalem]]]
-![[Coat_of_arms_of_Israel.svg|350]]
+
+![[Emblem_of_Israel.svg|350]]
+
 ![[Anthem-Israel.mp3]]
+
 ![[Flag_of_Israel.svg|350]]
+
 [Alcohol-l::2.9]
 [Language-Id::]
 [geo-lon::35]

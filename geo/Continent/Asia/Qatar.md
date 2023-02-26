@@ -1,4 +1,4 @@
-﻿---
+---
 location: [25.28,51.53]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::Q]
 [Capital::[[Doha]]]
-![[Coat_of_arms_of_Qatar.svg|350]]
+
+![[Emblem_of_Qatar.svg|350]]
+
 ![[Anthem-Qatar.mp3]]
+
 ![[Flag_of_Qatar.svg|350]]
+
 [Alcohol-l::1.3]
 [Language-Id::472]
 [geo-lon::51.53]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [11.8667,-15.6]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::GUB]
 [Capital::[[Bissau]]]
-![[Coat_of_arms_of_Guinea-bissau.svg|350]]
+
+![[Emblem_of_Guinea-bissau.svg|350]]
+
 ![[Anthem-Guinea-bissau.mp3]]
+
 ![[Flag_of_Guinea-bissau.svg|350]]
+
 [Alcohol-l::3.7]
 [Language-Id::467]
 [geo-lon::-15.6]

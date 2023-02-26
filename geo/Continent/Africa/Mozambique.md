@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-22.1,33.7917]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::MOC]
 [Capital::[[Maputo]]]
-![[Coat_of_arms_of_Mozambique.svg|350]]
+
+![[Emblem_of_Mozambique.svg|350]]
+
 ![[Anthem-Mozambique.mp3]]
+
 ![[Flag_of_Mozambique.svg|350]]
 [Alcohol-l::2.4]
 [Language-Id::467]

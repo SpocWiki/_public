@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-8.8,13.23]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::ANG]
 [Capital::[[Luanda]]]
-![[Coat_of_arms_of_Angola.svg|350]]
+
+![[Emblem_of_Angola.svg|350]]
+
 ![[Anthem-Angola.mp3]]
+
 ![[Flag_of_Angola.svg|350]]
+
 [Alcohol-l::5.4]
 [Language-Id::467]
 [geo-lon::13.23]

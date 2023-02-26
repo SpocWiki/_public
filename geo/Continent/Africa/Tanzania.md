@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-6.17306,35.7419]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::EAT]
 [Capital::[[Dodoma]]]
+
 ![[Coat_of_arms_of_Tanzania.svg|350]]
+
 ![[Anthem-Tanzania.mp3]]
+
 ![[Flag_of_Tanzania.svg|350]]
+
 [Alcohol-l::6.8]
 [Language-Id::499]
 [geo-lon::35.7419]

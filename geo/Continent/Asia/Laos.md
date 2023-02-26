@@ -1,4 +1,4 @@
-﻿---
+---
 location: [17.9667,102.6]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::LAO]
 [Capital::[[Vientiane]]]
-![[Coat_of_arms_of_Laos.svg|350]]
+
+![[Emblem_of_Laos.svg|350]]
+
 ![[Anthem-Laos.mp3]]
+
 ![[Flag_of_Laos.svg|350]]
+
 [Alcohol-l::6.7]
 [Language-Id::]
 [geo-lon::102.6]

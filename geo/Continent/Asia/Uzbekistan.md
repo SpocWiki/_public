@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.33,69.3]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::UZ]
 [Capital::[[Taschkent]]]
-![[Coat_of_arms_of_Uzbekistan.svg|350]]
+
+![[Emblem_of_Uzbekistan.svg|350]]
+
 ![[Anthem-Uzbekistan.mp3]]
+
 ![[Flag_of_Uzbekistan.svg|350]]
+
 [Alcohol-l::3.5]
 [Language-Id::469]
 [geo-lon::69.3]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-12.7806,45.2278]
 type: Country
 tags:
@@ -13,6 +13,9 @@ confidential: public
 [ISO3::MYT]
 [name-en::Mayotte]
 [name-de::Mayotte]
+
+![[Seal_of_Mayotte.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::[[Africa]]]

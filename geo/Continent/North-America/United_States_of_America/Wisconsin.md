@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.0667,-89.4]
 type: State
 tags:
@@ -12,6 +12,13 @@ confidential: public
 ---
 [name::Wisconsin]
 [name-abbr::WI]
+![[Coat_of_arms_of_Wisconsin.svg|350]]
+
+![[Seal_of_Wisconsin.svg|350]]
+
+![[Flag_of_Wisconsin.svg|350]]
+
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Madison]]]
 [geo-lon::-89.4]

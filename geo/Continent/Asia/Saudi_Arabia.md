@@ -1,4 +1,4 @@
-﻿---
+---
 location: [23.05,43.27]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::KSA]
 [Capital::[[Riyadh=Er_Riad]]]
-![[Coat_of_arms_of_Saudi-arabia.svg|350]]
+
+![[Emblem_of_Saudi_Arabia.svg|350]]
+
 ![[Anthem-Saudi-arabia.mp3]]
-![[Flag_of_Saudi-arabia.svg|350]]
+
+![[Flag_of_Saudi_Arabia.svg|350]]
+
 [Alcohol-l::0.3]
 [Language-Id::472]
 [geo-lon::43.27]

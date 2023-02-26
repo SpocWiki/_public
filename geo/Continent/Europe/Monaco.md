@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.715,7.41]
 type: Country
 tags:
@@ -13,6 +13,10 @@ confidential: public
 [ISO3::MCO]
 [name-en::Monaco]
 [name-de::Monaco]
+![[Coat_of_arms_of_Monaco.svg|650]]
+![[Anthem-Montenegro.mp3]]
+![[Flag_of_Monaco.svg|350]]
+
 [Area-Total::2]
 [Area-Land::0]
 [Continent::[[Europe]]]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [12.5083,-69.9933]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::ARU]
 [Capital::[[Oranjestad]]]
+
 ![[Coat_of_arms_of_Aruba.svg|350]]
+
 ![[Anthem-Aruba.mp3]]
+
 ![[Flag_of_Aruba.svg|350]]
+
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::-69.9933]

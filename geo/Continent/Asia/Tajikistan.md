@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.55,68.8]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::TJ]
 [Capital::[[Dushanbe]]]
-![[Coat_of_arms_of_Tajikistan.svg|350]]
+
+![[Emblem_of_Tajikistan.svg|350]]
+
 ![[Anthem-Tajikistan.mp3]]
+
 ![[Flag_of_Tajikistan.svg|350]]
+
 [Alcohol-l::3.4]
 [Language-Id::469]
 [geo-lon::68.8]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [14.435,-17.125]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SN]
 [Capital::[[Dakar]]]
+
 ![[Coat_of_arms_of_Senegal.svg|350]]
+
 ![[Anthem-Senegal.mp3]]
+
 ![[Flag_of_Senegal.svg|350]]
+
 [Alcohol-l::0.6]
 [Language-Id::496]
 [geo-lon::-17.125]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.46667,2.6]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::BJ]
 [Capital::[[Porto-Novo1]]]
+
 ![[Coat_of_arms_of_Benin.svg|350]]
+
 ![[Anthem-Benin.mp3]]
+
 ![[Flag_of_Benin.svg|350]]
 [Alcohol-l::2.2]
 [Language-Id::496]

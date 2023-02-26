@@ -1,4 +1,4 @@
-﻿---
+---
 location: [23.7,90.36]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::BD]
 [Capital::[[Dhaka]]]
+
 ![[Coat_of_arms_of_Bangladesh.svg|350]]
+
 ![[Anthem-Bangladesh.mp3]]
+
 ![[Flag_of_Bangladesh.svg|350]]
+
 [Alcohol-l::0.2]
 [Language-Id::468]
 [geo-lon::90.36]

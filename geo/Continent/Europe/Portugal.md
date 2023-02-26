@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.1067,-5.10879]
 type: Country
 tags:
@@ -18,7 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::P]
 [Capital::[[Lissabon=Lisboa=Lisbon]]]
-![[Coat_of_arms_of_Portugal.svg|350]]
+![[Coat_of_arms_of_Portugal.svg|450]]
 ![[Anthem-Portugal.mp3]]
 ![[Flag_of_Portugal.svg|350]]
 [Alcohol-l::14.6]

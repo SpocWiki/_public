@@ -1,4 +1,4 @@
-﻿---
+---
 location: [3.94,10.6]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::CAM]
 [Capital::[[Duala_Buea_(after_1910)]]]
+
 ![[Coat_of_arms_of_Cameroon.svg|350]]
+
 ![[Anthem-Cameroon.mp3]]
+
 ![[Flag_of_Cameroon.svg|350]]
 [Alcohol-l::7.6]
 [Language-Id::499]

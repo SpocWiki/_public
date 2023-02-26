@@ -1,4 +1,4 @@
-﻿---
+---
 location: [8.48445,-13.2345]
 type: Country
 tags:
@@ -18,9 +18,12 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::SLE]
 [Capital::[[Freetown]]]
-![[Coat_of_arms_of_Sierra-leone.svg|350]]
+![[Coat_of_arms_of_Sierra_Leone.svg|550]]
+
 ![[Anthem-Sierra-leone.mp3]]
-![[Flag_of_Sierra-leone.svg|350]]
+
+![[Flag_of_Sierra_Leone.svg|350]]
+
 [Alcohol-l::9.7]
 [Language-Id::499]
 [geo-lon::-13.2345]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.9167,106.883]
 type: Country
 tags:
@@ -13,6 +13,10 @@ confidential: public
 [ISO3::MNG]
 [name-en::Mongolia]
 [name-de::Mongolei]
+
+![[Flag_of_Maldives.svg|350]]
+
+
 [Area-Total::1565000]
 [Area-Land::1566500]
 [Continent::[[Asia]]]

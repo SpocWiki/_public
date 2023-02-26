@@ -1,4 +1,4 @@
-﻿---
+---
 location: [7.35,134.467]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::PLW]
 [name-en::Palau]
 [name-de::Palau]
+
+![[Seal_of_Palau.svg|350]]
+
+![[Flag_of_Palau.svg|350]]
+
 [Area-Total::508]
 [Area-Land::0]
 [Continent::[[Oceania]]]

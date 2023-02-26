@@ -1,4 +1,4 @@
-﻿---
+---
 location: [19.4,-99.15]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::MEX]
 [Capital::[[Mexico_City]]]
+
 ![[Coat_of_arms_of_Mexico.svg|350]]
+
 ![[Anthem-Mexico.mp3]]
+
 ![[Flag_of_Mexico.svg|350]]
+
 [Alcohol-l::8.4]
 [Language-Id::492]
 [geo-lon::-99.15]

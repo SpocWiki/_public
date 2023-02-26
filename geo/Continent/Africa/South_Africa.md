@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-28.8175,22.87]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::ZA]
 [Capital::[[Pretoria]]]
-![[Coat_of_arms_of_South-africa.svg|350]]
+
+![[Coat_of_arms_of_South_Africa.svg|350]]
+
 ![[Anthem-South-africa.mp3]]
-![[Flag_of_South-africa.svg|350]]
+
+![[Flag_of_South_Africa.svg|350]]
+
 [Alcohol-l::9.5]
 [Language-Id::499]
 [geo-lon::22.87]

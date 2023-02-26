@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.24,-75.7567]
 type: State
 tags:
@@ -12,6 +12,13 @@ confidential: public
 ---
 [name::Pennsylvania]
 [name-abbr::PA]
+
+![[Coat_of_arms_of_Pennsylvania.svg|550]]
+
+![[Seal_of_Pennsylvania.svg|350]]
+
+![[Flag_of_Pennsylvania.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Harrisburg]]]
 [geo-lon::-75.7567]

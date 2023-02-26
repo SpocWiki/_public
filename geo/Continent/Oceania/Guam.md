@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13.4792,144.75]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::GUM]
 [name-en::Guam]
 [name-de::Guam]
+
+![[Seal_of_Guam.svg|350]]
+
+![[Flag_of_Guam.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::[[Oceania]]]

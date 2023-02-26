@@ -1,4 +1,4 @@
-﻿---
+---
 location: [4.16667,73.5]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::MV]
 [Capital::[[Malé]]]
-![[Coat_of_arms_of_Maldives.svg|350]]
+
+![[Emblem_of_Maldives.svg|350]]
+
 ![[Anthem-Maldives.mp3]]
+
 ![[Flag_of_Maldives.svg|350]]
+
 [Alcohol-l::0.8]
 [Language-Id::]
 [geo-lon::73.5]

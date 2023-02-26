@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.4809,11.8169]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::I]
 [Capital::[[Roma]]]
-![[Coat_of_arms_of_Italy-complete.svg|350]]
-![[Anthem-Italy-complete.mp3]]
-![[Flag_of_Italy-complete.svg|350]]
+
+![[Emblem_of_Italy.svg|350]]
+
+![[../../../xLarge/National-Anthem/Anthem-Italy.mp3]]
+
+![[Flag_of_Italy.svg|350]]
+
 [Alcohol-l::10.7]
 [Language-Id::]
 [geo-lon::11.8169]

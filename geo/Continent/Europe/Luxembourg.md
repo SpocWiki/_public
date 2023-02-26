@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.6827,6.07904]
 type: Country
 tags:
@@ -18,7 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::L]
 [Capital::[[Luxembourg]]]
-![[Coat_of_arms_of_Luxembourg.svg|350]]
+![[Coat_of_arms_of_Luxembourg.svg|650]]
 ![[Anthem-Luxembourg.mp3]]
 ![[Flag_of_Luxembourg.svg|350]]
 [Alcohol-l::13]

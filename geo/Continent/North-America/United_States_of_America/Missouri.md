@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.2853,-91.3967]
 type: State
 tags:
@@ -12,6 +12,13 @@ confidential: public
 ---
 [name::Missouri]
 [name-abbr::MO]
+
+![[Coat_of_arms_of_Missouri.svg|350]]
+
+![[Seal_of_Missouri.svg|350]]
+
+![[Flag_of_Missouri.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Jefferson_City]]]
 [geo-lon::-91.3967]

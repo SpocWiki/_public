@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.8667,74.6]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::KS]
 [Capital::[[Bishkek]]]
-![[Coat_of_arms_of_Kyrgyzstan.svg|350]]
+
+![[Emblem_of_Kyrgyzstan.svg|350]]
+
 ![[Anthem-Kyrgyzstan.mp3]]
+
 ![[Flag_of_Kyrgyzstan.svg|350]]
+
 [Alcohol-l::5.1]
 [Language-Id::469]
 [geo-lon::74.6]

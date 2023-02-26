@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-33.45,-70.67]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::RCH]
 [Capital::[[Santiago]]]
-![[Coat_of_arms_of_Chile.svg|350]]
+
+![[Coat_of_arms_of_Chile.svg|550]]
+
 ![[Anthem-Chile.mp3]]
+
 ![[Flag_of_Chile.svg|350]]
+
 [Alcohol-l::8.6]
 [Language-Id::492]
 [geo-lon::-70.67]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [12.3333,-1.66667]
 type: Country
 tags:
@@ -18,9 +18,12 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::BF]
 [Capital::[[Ouagadougou]]]
-![[Coat_of_arms_of_Burkina-faso.svg|350]]
+
+![[Coat_of_arms_of_Burkina_Faso.svg|350]]
+
 ![[Anthem-Burkina-faso.mp3]]
-![[Flag_of_Burkina-faso.svg|350]]
+
+![[Flag_of_Burkina_Faso.svg|350]]
 [Alcohol-l::7]
 [Language-Id::496]
 [geo-lon::-1.66667]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.31667,-10.8]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::LB]
 [Capital::[[Monrovia]]]
+
 ![[Coat_of_arms_of_Liberia.svg|350]]
+
 ![[Anthem-Liberia.mp3]]
+
 ![[Flag_of_Liberia.svg|350]]
+
 [Alcohol-l::5.1]
 [Language-Id::499]
 [geo-lon::-10.8]

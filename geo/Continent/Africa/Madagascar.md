@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-18.8933,47.5083]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RM]
 [Capital::[[Antananarivo]]]
-![[Coat_of_arms_of_Madagascar.svg|350]]
+
+![[Seal_of_Madagascar.svg|350]]
+
 ![[Anthem-Madagascar.mp3]]
+
 ![[Flag_of_Madagascar.svg|350]]
+
 [Alcohol-l::1.3]
 [Language-Id::496]
 [geo-lon::47.5083]

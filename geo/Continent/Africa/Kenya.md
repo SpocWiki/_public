@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-1.28,36.83]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::EAK]
 [Capital::[[Nairobi]]]
-![[Coat_of_arms_of_Kenya.svg|350]]
+
+![[Coat_of_arms_of_Kenya.svg|550]]
+
 ![[Anthem-Kenya.mp3]]
+
 ![[Flag_of_Kenya.svg|350]]
 [Alcohol-l::4.1]
 [Language-Id::499]

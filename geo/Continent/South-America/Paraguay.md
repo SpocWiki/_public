@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-25.27,-57.67]
 type: Country
 tags:
@@ -13,6 +13,13 @@ confidential: public
 [ISO3::PRY]
 [name-en::Paraguay]
 [name-de::Paraguay]
+
+![[Coat_of_arms_of_Mexico.svg|350]]
+
+![[Anthem-Mexico.mp3]]
+
+![[Flag_of_Mexico.svg|350]]
+
 [Area-Total::406752]
 [Area-Land::397300]
 [Continent::South-America]

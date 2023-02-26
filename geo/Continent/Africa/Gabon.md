@@ -1,4 +1,4 @@
-﻿---
+---
 location: [0.383333,9.45]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::G]
 [Capital::[[Libreville]]]
+
 ![[Coat_of_arms_of_Gabon.svg|350]]
+
 ![[Anthem-Gabon.mp3]]
+
 ![[Flag_of_Gabon.svg|350]]
 [Alcohol-l::9.3]
 [Language-Id::496]

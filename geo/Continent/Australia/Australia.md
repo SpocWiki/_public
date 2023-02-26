@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-35.4776,149.027]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::Australia
 [VehicleCode::AUS]
 [Capital::[[Canberra]]]
-![[Coat_of_arms_of_Australia-complete.svg|350]]
-![[Anthem-Australia-complete.mp3]]
-![[Flag_of_Australia-complete.svg|350]]
+
+![[Coat_of_arms_of_Australia.svg|550]]
+
+![[../../../xLarge/National-Anthem/Anthem-Australia.mp3]]
+]
+![[Flag_of_Australia.svg|350]]
+
 [Alcohol-l::10]
 [Language-Id::499]
 [geo-lon::149.027]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-17.7667,-66.7]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::BOL]
 [Capital::[[Sucre]]]
-![[Coat_of_arms_of_Bolivia.svg|350]]
+
+![[Coat_of_arms_of_Bolivia.svg|550]]
+
 ![[Anthem-Bolivia.mp3]]
+
 ![[Flag_of_Bolivia.svg|350]]
+
 [Alcohol-l::5.1]
 [Language-Id::492]
 [geo-lon::-66.7]

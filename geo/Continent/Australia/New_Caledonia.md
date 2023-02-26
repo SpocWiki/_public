@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-22.2758,166.458]
 type: Country
 tags:
@@ -13,6 +13,9 @@ confidential: public
 [ISO3::NCL]
 [name-en::New Caledonia]
 [name-de::Neukaledonien]
+
+![[Emblem_of_New_Caledonia.svg|250]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::[[Australia]]]

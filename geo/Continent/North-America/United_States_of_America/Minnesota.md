@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.9747,-93.1584]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::Minnesota]
 [name-abbr::MN]
+
+![[Coat_of_arms_of_Minnesota.svg|350]]
+
+![[Flag_of_Minnesota.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Saint_Paul]]]
 [geo-lon::-93.1584]

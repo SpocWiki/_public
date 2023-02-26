@@ -1,4 +1,4 @@
-﻿---
+---
 location: [0.313611,32.5811]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::EAU]
 [Capital::[[Kampala]]]
-![[Coat_of_arms_of_Uganda.svg|350]]
+
+![[Coat_of_arms_of_Uganda.svg|450]]
+
 ![[Anthem-Uganda.mp3]]
+
 ![[Flag_of_Uganda.svg|350]]
+
 [Alcohol-l::11.9]
 [Language-Id::499]
 [geo-lon::32.5811]

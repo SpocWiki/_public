@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.3233,32.37]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::TR]
 [Capital::[[Istanbul]]]
-![[Coat_of_arms_of_Turkey.svg|350]]
+
+![[Emblem_of_Turkey.svg|350]]
+
 ![[Anthem-Turkey.mp3]]
+
 ![[Flag_of_Turkey.svg|350]]
+
 [Alcohol-l::2.9]
 [Language-Id::456]
 [geo-lon::32.37]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [24.47,54.42]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::UAE]
 [Capital::[[Abu_Dhabi]]]
-![[Coat_of_arms_of_United-arab-emirates.svg|350]]
+
+![[Emblem_of_the_United_Arab_Emirates.svg|350]]
+
 ![[Anthem-United-arab-emirates.mp3]]
-![[Flag_of_United-arab-emirates.svg|350]]
+
+![[Flag_of_the_United_Arab_Emirates.svg|350]]
+
 [Alcohol-l::0.5]
 [Language-Id::472]
 [geo-lon::54.42]

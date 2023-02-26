@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-9.5,147.117]
 type: Country
 tags:
@@ -13,6 +13,13 @@ confidential: public
 [ISO3::PNG]
 [name-en::Papua New Guinea]
 [name-de::Papua-Neuguinea]
+
+![[Papua_New_Guinea/Emblem_of_Papua_New_Guinea.svg]]
+
+
+![[Papua_New_Guinea/Flag_of_Papua_New_Guinea.svg|350]]
+
+
 [Area-Total::462840]
 [Area-Land::452860]
 [Continent::[[Oceania]]]

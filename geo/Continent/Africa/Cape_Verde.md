@@ -1,4 +1,4 @@
-﻿---
+---
 location: [14.9167,-23.5167]
 type: Country
 tags:
@@ -18,9 +18,12 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::CV]
 [Capital::[[Praia]]]
-![[Coat_of_arms_of_Cape-verde.svg|350]]
+
+![[Coat_of_arms_of_Cape_Verde.svg|350]]
+
 ![[Anthem-Cape-verde.mp3]]
-![[Flag_of_Cape-verde.svg|350]]
+
+![[Flag_of_Cape_Verde.svg|350]]
 [Alcohol-l::5]
 [Language-Id::467]
 [geo-lon::-23.5167]

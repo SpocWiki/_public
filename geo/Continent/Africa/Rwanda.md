@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-1.94388,30.0595]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RWA]
 [Capital::[[Kigali]]]
+
 ![[Coat_of_arms_of_Rwanda.svg|350]]
+
 ![[Anthem-Rwanda.mp3]]
+
 ![[Flag_of_Rwanda.svg|350]]
+
 [Alcohol-l::9.8]
 [Language-Id::499]
 [geo-lon::30.0595]

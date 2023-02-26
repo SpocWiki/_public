@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.1973,-84.8631]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::Kentucky]
 [name-abbr::KY]
+
+![[Seal_of_Kentucky.svg|350]]
+
+![[Flag_of_Kentucky.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Frankfort]]]
 [geo-lon::-84.8631]

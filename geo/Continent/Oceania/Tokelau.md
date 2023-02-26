@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-9.36667,-171.217]
 type: Country
 tags:
@@ -13,6 +13,9 @@ confidential: public
 [ISO3::TKL]
 [name-en::Tokelau]
 [name-de::Tokelau]
+
+![[Flag_of_Tokelau.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::[[Oceania]]]

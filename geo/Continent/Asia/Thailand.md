@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13.73,100.5]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::THA]
 [name-en::Thailand]
 [name-de::Thailand]
+
+![[Emblem_of_Thailand.svg|350]]
+
+![[Flag_of_Thailand.svg|350]]
+
 [Area-Total::513115]
 [Area-Land::510890]
 [Continent::[[Asia]]]

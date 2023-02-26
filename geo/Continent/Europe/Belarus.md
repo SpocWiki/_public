@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.9,27.57]
 type: Country
 SpocWebEntityId: 26858
@@ -17,9 +17,13 @@ tags:
 [Continent::[[Europe]]]
 [VehicleCode::BY]
 [Capital::[[Minsk]]]
-![[Coat_of_arms_of_Belarus.svg|350]]
+
+![[Emblem_of_Belarus.svg|350]]
+
 ![[Anthem-Belarus.mp3]]
+
 ![[Flag_of_Belarus.svg|350]]
+
 [Alcohol-l::15.1]
 [Language-Id::469]
 [geo-lon::27.57]

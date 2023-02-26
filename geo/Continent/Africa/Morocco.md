@@ -1,4 +1,4 @@
-﻿---
+---
 location: [33.0225,-7.6125]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::MA]
 [Capital::[[Rabat]]]
-![[Coat_of_arms_of_Morocco.svg|350]]
+
+![[Coat_of_arms_of_Morocco.svg|550]]
+
 ![[Anthem-Morocco.mp3]]
+
 ![[Flag_of_Morocco.svg|350]]
 [Alcohol-l::1.5]
 [Language-Id::472]

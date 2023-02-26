@@ -1,4 +1,4 @@
-﻿---
+---
 location: [18.45,-66.1]
 type: Country
 tags:
@@ -18,9 +18,15 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::PRI]
 [Capital::[[San_Juan]]]
-![[Coat_of_arms_of_Puerto-rico.svg|350]]
+
+![[Coat_of_arms_of_Puerto_Rico.svg|350]]
+
 ![[Anthem-Puerto-rico.mp3]]
-![[Flag_of_Puerto-rico.svg|350]]
+
+![[Seal_of_Puerto_Rico.svg|350]]
+
+![[Flag_of_Puerto_Rico.svg|350]]
+
 [Alcohol-l::5.8]
 [Language-Id::492]
 [geo-lon::-66.1]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.93,12.45]
 type: Country
 tags:
@@ -13,6 +13,10 @@ confidential: public
 [ISO3::SMR]
 [name-en::San Marino]
 [name-de::San Marino]
+![[San_Marino/Coat_of_arms_of_San_Marino.svg|350]]
+![[Anthem-Montenegro.mp3]]
+![[San_Marino/Flag_of_San_Marino.svg|350]]
+
 [Area-Total::61]
 [Area-Land::60]
 [Continent::[[Europe]]]

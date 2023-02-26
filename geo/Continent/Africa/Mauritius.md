@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-20.1667,57.5167]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::MS]
 [Capital::[[Port_Louis]]]
-![[Coat_of_arms_of_Mauritius.svg|350]]
+
+![[Coat_of_arms_of_Mauritius.svg|450]]
+
 ![[Anthem-Mauritius.mp3]]
+
 ![[Flag_of_Mauritius.svg|350]]
+
 [Alcohol-l::3.7]
 [Language-Id::499]
 [geo-lon::57.5167]

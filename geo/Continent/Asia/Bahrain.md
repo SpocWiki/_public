@@ -1,4 +1,4 @@
-﻿---
+---
 location: [26.2,50.58]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::BRN]
 [Capital::[[Manama]]]
-![[Coat_of_arms_of_Bahrain.svg|350]]
+
+![[Emblem_of_Bahrain.svg|350]]
+
 ![[Anthem-Bahrain.mp3]]
+
 ![[Flag_of_Bahrain.svg|350]]
+
 [Alcohol-l::3.7]
 [Language-Id::472]
 [geo-lon::50.58]

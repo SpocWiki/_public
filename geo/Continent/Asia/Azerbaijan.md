@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.42,49.83]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::AZ]
 [Capital::[[Baku]]]
-![[Coat_of_arms_of_Azerbaijan.svg|350]]
+
+![[Emblem_of_Azerbaijan.svg|350]]
+
 ![[Anthem-Azerbaijan.mp3]]
+
 ![[Flag_of_Azerbaijan.svg|350]]
+
 [Alcohol-l::10.6]
 [Language-Id::]
 [geo-lon::49.83]

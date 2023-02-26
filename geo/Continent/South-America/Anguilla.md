@@ -1,4 +1,4 @@
-﻿---
+---
 location: [18.2272,-63.049]
 type: Country
 tags:
@@ -13,6 +13,13 @@ confidential: public
 [ISO3::AIA]
 [name-en::Anguilla]
 [name-de::Anguilla]
+
+![[Coat_of_arms_of_Anguilla.svg|350]]
+
+![[Anthem-Anguilla.mp3]]
+
+![[Flag_of_Anguilla.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::South-America]

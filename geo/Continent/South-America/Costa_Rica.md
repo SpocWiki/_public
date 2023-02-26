@@ -1,4 +1,4 @@
-﻿---
+---
 location: [9.95,-84.08]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::CR]
 [Capital::[[San_José=San_Jose]]]
-![[Coat_of_arms_of_Costa-rica.svg|350]]
+
+![[Coat_of_arms_of_Costa_Rica.svg|350]]
+
 ![[Anthem-Costa-rica.mp3]]
-![[Flag_of_Costa-rica.svg|350]]
+
+![[Flag_of_Costa_rica.svg|350]]
+
 [Alcohol-l::5.6]
 [Language-Id::492]
 [geo-lon::-84.08]

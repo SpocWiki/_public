@@ -1,4 +1,4 @@
-﻿---
+---
 location: [33.87,35.5]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::RL]
 [Capital::[[Beirut]]]
+
 ![[Coat_of_arms_of_Lebanon.svg|350]]
+
 ![[Anthem-Lebanon.mp3]]
+
 ![[Flag_of_Lebanon.svg|350]]
+
 [Alcohol-l::2.2]
 [Language-Id::472]
 [geo-lon::35.5]

@@ -16,7 +16,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::B]
 [Capital::[[Brussels=Bruxelles]]]
-![[Great_coat_of_arms_of_Belgium.svg|350]]
+![[Great_coat_of_arms_of_Belgium.svg|950]]
 ![[Anthem-Belgium.mp3]]
 ![[Flag_of_Belgium.svg|350]]
 [Alcohol-l::10.8]

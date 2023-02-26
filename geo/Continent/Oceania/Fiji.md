@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-18.1667,178.45]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::FJI]
 [name-en::Fiji]
 [name-de::Fiji]
+
+![[Coat_of_arms_of_Fiji.svg|350]]
+
+![[Flag_of_Fiji.svg|350]]
+
 [Area-Total::18376]
 [Area-Land::18270]
 [Continent::[[Oceania]]]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [1.56,110.345]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::]
 [name-en::Sarawak]
 [name-de::Sarawak]
+
+![[Coat_of_arms_of_Sarawak.svg|350]]
+
+![[Flag_of_Sarawak.svg|350]]
+
 [Area-Total::]
 [Area-Land::]
 [Continent::[[Asia]]]

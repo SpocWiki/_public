@@ -1,4 +1,4 @@
-﻿---
+---
 location: [12.15,-86.28]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::NIC]
 [Capital::[[Managua]]]
+
 ![[Coat_of_arms_of_Nicaragua.svg|350]]
+
 ![[Anthem-Nicaragua.mp3]]
+
 ![[Flag_of_Nicaragua.svg|350]]
+
 [Alcohol-l::5.4]
 [Language-Id::492]
 [geo-lon::-86.28]

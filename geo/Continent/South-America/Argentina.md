@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-34.62,-58.41]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::RA]
 [Capital::[[Buenos_Aires]]]
-![[Coat_of_arms_of_Argentina-long.svg|350]]
-![[Anthem-Argentina-long.mp3]]
-![[Flag_of_Argentina-long.svg|350]]
+
+![[Coat_of_arms_of_Argentina.svg|350]]
+
+![[../../../xLarge/National-Anthem/Anthem-Argentina.mp3]]
+
+![[Flag_of_Argentina.svg|350]]
+
 [Alcohol-l::10]
 [Language-Id::492]
 [geo-lon::-58.41]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [29.33,48]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::KWT]
 [Capital::[[Kuwait=Kuweit]]]
-![[Coat_of_arms_of_Kuwait.svg|350]]
+
+![[Emblem_of_Kuwait.svg|350]]
+
 ![[Anthem-Kuwait.mp3]]
+
 ![[Flag_of_Kuwait.svg|350]]
+
 [Alcohol-l::0.1]
 [Language-Id::472]
 [geo-lon::48]

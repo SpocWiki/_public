@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-0.547778,166.921]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::NRU]
 [name-en::Nauru]
 [name-de::Nauru]
+
+![[Coat_of_arms_of_Nauru.svg|350]]
+
+![[Flag_of_Nauru.svg|350]]
+
 [Area-Total::21]
 [Area-Land::20]
 [Continent::[[Oceania]]]

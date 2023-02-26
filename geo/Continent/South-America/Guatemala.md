@@ -1,4 +1,4 @@
-﻿---
+---
 location: [14.6333,-90.5]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::GT]
 [Capital::[[Guatemala_City]]]
+
 ![[Coat_of_arms_of_Guatemala.svg|350]]
+
 ![[Anthem-Guatemala.mp3]]
+
 ![[Flag_of_Guatemala.svg|350]]
+
 [Alcohol-l::4]
 [Language-Id::492]
 [geo-lon::-90.5]

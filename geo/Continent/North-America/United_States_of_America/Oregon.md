@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.2404,-122.814]
 type: State
 tags:
@@ -12,6 +12,12 @@ confidential: public
 ---
 [name::Oregon]
 [name-abbr::OR]
+
+![[Seal_of_Oregon.svg|350]]
+
+![[Flag_of_Oregon.svg|350]]
+
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Oregon~Salem]]]
 [geo-lon::-122.814]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [9.51667,-13.7]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RG]
 [Capital::[[Conakry]]]
+
 ![[Coat_of_arms_of_Guinea.svg|350]]
+
 ![[Anthem-Guinea.mp3]]
+
 ![[Flag_of_Guinea.svg|350]]
 [Alcohol-l::0.8]
 [Language-Id::496]

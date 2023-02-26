@@ -1,4 +1,4 @@
-﻿---
+---
 location: [34.7361,-92.3311]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::Arkansas]
 [name-abbr::AR]
+
+![[Seal_of_Arkansas.svg|350]]
+
+![[Flag_of_Arkansas.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Little_Rock]]]
 [geo-lon::-92.3311]

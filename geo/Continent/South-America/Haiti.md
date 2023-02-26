@@ -1,4 +1,4 @@
-﻿---
+---
 location: [18.5333,-72.3333]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::RH]
 [Capital::[[Port-au-Prince]]]
-![[Coat_of_arms_of_Haiti.svg|350]]
+
+![[Coat_of_arms_of_Haiti.svg|450]]
+
 ![[Anthem-Haiti.mp3]]
+
 ![[Flag_of_Haiti.svg|350]]
+
 [Alcohol-l::6.6]
 [Language-Id::496]
 [geo-lon::-72.3333]

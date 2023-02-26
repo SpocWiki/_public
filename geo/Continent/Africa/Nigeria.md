@@ -1,4 +1,4 @@
-﻿---
+---
 location: [9.17222,6.46778]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::NGR]
 [Capital::[[Abuja]]]
+
 ![[Coat_of_arms_of_Nigeria.svg|350]]
+
 ![[Anthem-Nigeria.mp3]]
+
 ![[Flag_of_Nigeria.svg|350]]
+
 [Alcohol-l::12.3]
 [Language-Id::499]
 [geo-lon::6.46778]

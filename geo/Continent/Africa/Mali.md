@@ -1,4 +1,4 @@
-﻿---
+---
 location: [12.65,-8]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RMM]
 [Capital::[[Bamako]]]
+
 ![[Coat_of_arms_of_Mali.svg|350]]
+
 ![[Anthem-Mali.mp3]]
+
 ![[Flag_of_Mali.svg|350]]
+
 [Alcohol-l::1]
 [Language-Id::496]
 [geo-lon::-8]

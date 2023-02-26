@@ -1,4 +1,4 @@
-﻿---
+---
 location: [14.6,-61.0667]
 type: Country
 tags:
@@ -13,6 +13,13 @@ confidential: public
 [ISO3::MTQ]
 [name-en::Martinique]
 [name-de::Martinique]
+
+![[Coat_of_arms_of_Mexico.svg|350]]
+
+![[Anthem-Mexico.mp3]]
+
+![[Flag_of_Mexico.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::South-America]

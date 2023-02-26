@@ -1,4 +1,4 @@
-﻿---
+---
 location: [34.335,36.625]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::SYR]
 [name-en::Syria]
 [name-de::Syrien, Syrian Arab Republic]
+
+![[Coat_of_arms_of_Syria.svg|350]]
+
+![[Flag_of_Syria.svg|350]]
+
 [Area-Total::185180]
 [Area-Land::183780]
 [Continent::[[Asia]]]

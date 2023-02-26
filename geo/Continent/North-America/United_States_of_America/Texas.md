@@ -1,4 +1,4 @@
-﻿---
+---
 location: [31.404,-97.548]
 type: State
 tags:
@@ -12,6 +12,12 @@ confidential: public
 ---
 [name::Texas]
 [name-abbr::TX]
+
+![[Seal_of_Texas.svg|350]]
+
+![[Flag_of_Texas.svg|350]]
+
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Austin]]]
 [geo-lon::-97.548]

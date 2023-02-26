@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.86,80.425]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::CL]
 [Capital::[[Sri_Jayawardenapura-Kotte]]]
-![[Coat_of_arms_of_Sri-lanka.svg|350]]
+
+![[Emblem_of_Sri_Lanka.svg|350]]
+
 ![[Anthem-Sri-lanka.mp3]]
-![[Flag_of_Sri-lanka.svg|350]]
+
+![[Flag_of_Sri_Lanka.svg|350]]
+
 [Alcohol-l::0.8]
 [Language-Id::458]
 [geo-lon::80.425]

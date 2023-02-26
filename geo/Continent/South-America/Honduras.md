@@ -1,4 +1,4 @@
-﻿---
+---
 location: [14.1,-87.2167]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::HN]
 [Capital::[[Tegucigalpa]]]
+
 ![[Coat_of_arms_of_Honduras.svg|350]]
+
 ![[Anthem-Honduras.mp3]]
+
 ![[Flag_of_Honduras.svg|350]]
+
 [Alcohol-l::4.5]
 [Language-Id::492]
 [geo-lon::-87.2167]

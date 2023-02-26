@@ -1,4 +1,4 @@
-﻿---
+---
 location: [16,-61.7333]
 type: Country
 tags:
@@ -13,6 +13,13 @@ confidential: public
 [ISO3::GLP]
 [name-en::Guadeloupe]
 [name-de::Guadeloupe]
+
+![[Coat_of_arms_of_Guatemala.svg|350]]
+
+![[Anthem-Guatemala.mp3]]
+
+![[Flag_of_Guatemala.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::South-America]

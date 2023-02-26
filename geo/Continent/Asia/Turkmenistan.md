@@ -1,4 +1,4 @@
-﻿---
+---
 location: [37.9667,58.3333]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::TM]
 [Capital::[[Ashgabat]]]
-![[Coat_of_arms_of_Turkmenistan.svg|350]]
+
+![[Emblem_of_Turkmenistan.svg|350]]
+
 ![[Anthem-Turkmenistan.mp3]]
+
 ![[Flag_of_Turkmenistan.svg|350]]
+
 [Alcohol-l::4.6]
 [Language-Id::469]
 [geo-lon::58.3333]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-13.8333,-171.75]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::WSM]
 [name-en::Samoa]
 [name-de::Samoa]
+
+![[Coat_of_arms_of_Samoa.svg|350]]
+
+![[Flag_of_Samoa.svg|350]]
+
 [Area-Total::2831]
 [Area-Land::2850]
 [Continent::[[Oceania]]]

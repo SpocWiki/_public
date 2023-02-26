@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13.4667,-16.6]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::WAG]
 [Capital::[[Banjul]]]
-![[Coat_of_arms_of_Gambia.svg|350]]
+
+![[Coat_of_arms_of_Gambia.svg|650]]
+
 ![[Anthem-Gambia.mp3]]
-![[Flag_of_Gambia.svg|350]]
+
+![[Flag_of_the_Gambia.svg|350]]
+
 [Alcohol-l::3.4]
 [Language-Id::499]
 [geo-lon::-16.6]

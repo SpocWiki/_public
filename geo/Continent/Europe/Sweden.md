@@ -1,4 +1,4 @@
-﻿---
+---
 location: [59.7646,16.5434]
 type: Country
 tags:
@@ -19,7 +19,9 @@ confidential: public
 [VehicleCode::S]
 [Capital::[[Stockholm]]]
 ![[Coat_of_arms_of_Sweden.svg|350]]
+
 ![[Anthem-Sweden.mp3]]
+
 ![[Flag_of_Sweden.svg|350]]
 [Alcohol-l::10.3]
 [Language-Id::]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-10.4167,105.683]
 type: Country
 tags:
@@ -13,6 +13,9 @@ confidential: public
 [ISO3::CXR]
 [name-en::Christmas Island]
 [name-de::Weihnachtsinseln]
+
+![[Christmas_Island/Flag_of_Christmas_Island.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::[[Oceania]]]

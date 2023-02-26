@@ -1,4 +1,4 @@
-﻿---
+---
 location: [8.96667,-79.5333]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::PA]
 [Capital::[[Panama_City]]]
+
 ![[Coat_of_arms_of_Panama.svg|350]]
+
 ![[Anthem-Panama.mp3]]
+
 ![[Flag_of_Panama.svg|350]]
+
 [Alcohol-l::6.9]
 [Language-Id::492]
 [geo-lon::-79.5333]

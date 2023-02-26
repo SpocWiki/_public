@@ -1,4 +1,4 @@
-﻿---
+---
 location: [3.17,101.7]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::MYS]
 [name-en::Malaysia]
 [name-de::Malaysia]
+
+![[Coat_of_arms_of_Malaysia.svg|350]]
+
+![[Flag_of_Malaysia.svg|350]]
+
 [Area-Total::329758]
 [Area-Land::328550]
 [Continent::[[Oceania]]]

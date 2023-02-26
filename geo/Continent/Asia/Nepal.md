@@ -1,4 +1,4 @@
-﻿---
+---
 location: [27.7,85.3167]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::NEP]
 [Capital::[[Kathmandu]]]
-![[Coat_of_arms_of_Nepal.svg|350]]
+
+![[Emblem_of_Nepal.svg|350]]
+
 ![[Anthem-Nepal.mp3]]
+
 ![[Flag_of_Nepal.svg|350]]
+
 [Alcohol-l::2.4]
 [Language-Id::]
 [geo-lon::85.3167]

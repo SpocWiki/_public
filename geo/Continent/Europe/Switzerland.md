@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8963,8.46058]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::CH]
 [Capital::[[Bern]]]
+
 ![[Coat_of_arms_of_Switzerland.svg|350]]
+
 ![[Anthem-Switzerland.mp3]]
+
 ![[Flag_of_Switzerland.svg|350]]
 [Alcohol-l::11.1]
 [Language-Id::497]

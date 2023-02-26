@@ -1,4 +1,4 @@
-﻿---
+---
 location: [36.8,10.18]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::TN]
 [Capital::[[Tunis]]]
+
 ![[Coat_of_arms_of_Tunisia.svg|350]]
+
 ![[Anthem-Tunisia.mp3]]
+
 ![[Flag_of_Tunisia.svg|350]]
+
 [Alcohol-l::1.3]
 [Language-Id::472]
 [geo-lon::10.18]

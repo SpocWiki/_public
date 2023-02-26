@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-21.2,-159.783]
 type: Country
 tags:
@@ -13,6 +13,9 @@ confidential: public
 [ISO3::COK]
 [name-en::Cook Islands]
 [name-de::Cook Inseln]
+
+![[Cook_Islands/Coat_of_arms_of_Cook_Islands.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::[[Oceania]]]

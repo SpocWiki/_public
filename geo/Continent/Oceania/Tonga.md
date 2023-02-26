@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-21.1333,-175.2]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::TON]
 [name-en::Tonga]
 [name-de::Tonga]
+
+![[Coat_of_arms_of_Tonga.svg|350]]
+
+![[Flag_of_Tonga.svg|350]]
+
 [Area-Total::748]
 [Area-Land::720]
 [Continent::[[Oceania]]]

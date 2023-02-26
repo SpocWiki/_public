@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-19.0589,-169.875]
 type: Country
 tags:
@@ -13,6 +13,9 @@ confidential: public
 [ISO3::NIU]
 [name-en::Niue]
 [name-de::Niue]
+
+![[Flag_of_Niue.svg|350]]
+
 [Area-Total::0]
 [Area-Land::0]
 [Continent::[[Oceania]]]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-15.4167,28.2833]
 type: Country
 tags:
@@ -13,6 +13,13 @@ confidential: public
 [ISO3::ZMB]
 [name-en::Zambia]
 [name-de::Sambia]
+
+![[Coat_of_arms_of_Zambia.svg|550]]
+
+![[Anthem-Tunisia.mp3]]
+
+![[Flag_of_Zambia.svg|350]]
+
 [Area-Total::752614]
 [Area-Land::743390]
 [Continent::[[Africa]]]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.78,-58.17]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::GUY]
 [Capital::[[Georgetown]]]
-![[Coat_of_arms_of_Guyana.svg|350]]
+
+![[Coat_of_arms_of_Guyana.svg|450]]
+
 ![[Anthem-Guyana.mp3]]
+
 ![[Flag_of_Guyana.svg|350]]
 [Alcohol-l::9.5]
 [Language-Id::499]

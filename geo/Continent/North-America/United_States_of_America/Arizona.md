@@ -1,4 +1,4 @@
-﻿---
+---
 location: [33.5,-112.05]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::Arizona]
 [name-abbr::AZ]
+
+![[Coat_of_arms_of_Arizona.svg|350]]
+
+![[Flag_of_Arizona.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Phoenix]]]
 [geo-lon::-112.05]

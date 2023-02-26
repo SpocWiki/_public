@@ -1,4 +1,4 @@
-﻿---
+---
 location: [3.75,8.78333]
 type: Country
 tags:
@@ -18,8 +18,11 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::EQ]
 [Capital::[[Malabo]]]
+
 ![[Coat_of_arms_of_Guinea.svg|350]]
+
 ![[Anthem-Guinea.mp3]]
+
 ![[Flag_of_Guinea.svg|350]]
 [Alcohol-l::6.1]
 [Language-Id::492]

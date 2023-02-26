@@ -1,4 +1,4 @@
-﻿---
+---
 location: [9.05,38.7]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::ETH]
 [Capital::[[Addis_Abeba]]]
-![[Coat_of_arms_of_Ethiopia.svg|350]]
+
+![[Emblem_of_Ethiopia.svg|350]]
+
 ![[Anthem-Ethiopia.mp3]]
+
 ![[Flag_of_Ethiopia.svg|350]]
+
 [Alcohol-l::4]
 [Language-Id::]
 [geo-lon::38.7]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [18.15,-15.9667]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::RIM]
 [Capital::[[Nouakchott]]]
-![[Coat_of_arms_of_Mauritania.svg|350]]
+
+![[Seal_of_Mauritania_(2018).svg|350]] 
+
 ![[Anthem-Mauritania.mp3]]
+
 ![[Flag_of_Mauritania.svg|350]]
+
 [Alcohol-l::0.1]
 [Language-Id::472]
 [geo-lon::-15.9667]

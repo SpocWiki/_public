@@ -18,13 +18,12 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::TD]
 [Capital::[[N'Djamena]]]
-![[Coat_of_arms_of_Chad.svg|350]]
-![[Coat_of_arms_of_Chad.svg|350]]
-![[Anthem-Chad.mp3]]
-![[Flag_of_Chad.svg|350]]
-![[Chad/Flag_of_Chad.svg|350]]
 
-![Coat_of_arms_of_Chad](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Chad.svg)
+![[Coat_of_arms_of_Chad.svg|350]]
+
+![[Anthem-Chad.mp3]]
+
+![[Chad/Flag_of_Chad.svg|350]]
 
 [Alcohol-l::4.4]
 [Language-Id::]

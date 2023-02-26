@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-22.57,17.1]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Africa]]]
 [VehicleCode::NAM]
 [Capital::[[Windhoek]]]
+
 ![[Coat_of_arms_of_Namibia.svg|350]]
+
 ![[Anthem-Namibia.mp3]]
+
 ![[Flag_of_Namibia.svg|350]]
+
 [Alcohol-l::9.6]
 [Language-Id::499]
 [geo-lon::17.1]

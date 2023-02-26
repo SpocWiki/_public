@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13.6667,-89.1667]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::ES]
 [Capital::[[San_Salvador]]]
-![[Coat_of_arms_of_El-salvador.svg|350]]
+
+![[Coat_of_arms_of_El_salvador.svg|350]]
+
 ![[Anthem-El-salvador.mp3]]
-![[Flag_of_El-salvador.svg|350]]
+
+![[Flag_of_El_salvador.svg|350]]
+
 [Alcohol-l::3.6]
 [Language-Id::492]
 [geo-lon::-89.1667]

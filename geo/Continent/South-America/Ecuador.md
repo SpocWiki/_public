@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-0.23,-78.5]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::EC]
 [Capital::[[Quito]]]
+
 ![[Coat_of_arms_of_Ecuador.svg|350]]
+
 ![[Anthem-Ecuador.mp3]]
+
 ![[Flag_of_Ecuador.svg|350]]
+
 [Alcohol-l::9.4]
 [Language-Id::492]
 [geo-lon::-78.5]

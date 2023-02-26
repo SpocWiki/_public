@@ -1,4 +1,4 @@
-﻿---
+---
 location: [56.95,24.11]
 type: Country
 tags:
@@ -18,7 +18,7 @@ confidential: public
 [Continent::[[Europe]]]
 [VehicleCode::LV]
 [Capital::[[Riga]]]
-![[Coat_of_arms_of_Latvia.svg|350]]
+![[Coat_of_arms_of_Latvia.svg|650]]
 ![[Anthem-Latvia.mp3]]
 ![[Flag_of_Latvia.svg|350]]
 [Alcohol-l::12.5]

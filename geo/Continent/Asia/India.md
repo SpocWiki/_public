@@ -1,4 +1,4 @@
-﻿---
+---
 location: [20.3923,78.9354]
 type: Country
 tags:
@@ -18,9 +18,13 @@ confidential: public
 [Continent::[[Asia]]]
 [VehicleCode::IND]
 [Capital::[[New_Delhi]]]
-![[Coat_of_arms_of_India.svg|350]]
+
+![[Emblem_of_India.svg|350]]
+
 ![[Anthem-India.mp3]]
+
 ![[Flag_of_India.svg|350]]
+
 [Alcohol-l::2.6]
 [Language-Id::499]
 [geo-lon::78.9354]

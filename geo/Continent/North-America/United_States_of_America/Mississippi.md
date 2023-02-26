@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.2989,-90.1847]
 type: State
 tags:
@@ -12,6 +12,11 @@ confidential: public
 ---
 [name::Mississippi]
 [name-abbr::MS]
+
+![[Coat_of_arms_of_Mississippi.svg|350]]
+
+![[Flag_of_Mississippi.svg|350]]
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Jackson]]]
 [geo-lon::-90.1847]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [4.89028,114.942]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::BRN]
 [name-en::Brunei]
 [name-de::Brunei]
+
+![[Emblem_of_Brunei.svg|350]]
+
+![[Flag_of_Brunei.svg|350]]
+
 [Area-Total::5765]
 [Area-Land::5270]
 [Continent::[[Oceania]]]

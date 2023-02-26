@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-3.5,30]
 type: Country
 tags:
@@ -13,6 +13,11 @@ confidential: public
 [ISO3::BDI]
 [name-en::Burundi]
 [name-de::Burundi]
+
+![[Coat_of_arms_of_Burundi.svg|350]]
+
+
+![[Burundi/Flag_of_Burundi.svg|350]]
 [Area-Total::27834]
 [Area-Land::25680]
 [Continent::[[Africa]]]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.7556,-86.9211]
 type: State
 tags:
@@ -12,6 +12,12 @@ confidential: public
 ---
 [name::Tennessee]
 [name-abbr::TN]
+
+![[Seal_of_Tennessee.svg|350]]
+
+![[Flag_of_Tennessee.svg|350]]
+
+
 [Country::[[United_States_of_America]]]
 [Capital::[[Nashville]]]
 [geo-lon::-86.9211]

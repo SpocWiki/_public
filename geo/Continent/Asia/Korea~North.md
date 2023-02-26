@@ -21,7 +21,7 @@ aliases:
 [Area-Land::120410]
 [Continent::[[Asia]]]
 [VehicleCode::KP]
-[Capital::[[Pyongyang]]]
+[Capital[[Korea~North/City/Pyongyang]]]]]
 [Alcohol-l::3.5]
 [Language-Id::459]
 [geo-lon::125.75]

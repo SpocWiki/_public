@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-17.8333,31.05]
 type: Country
 tags:
@@ -13,6 +13,13 @@ confidential: public
 [ISO3::ZWE]
 [name-en::Zimbabwe]
 [name-de::Zimbabwe]
+
+![[Coat_of_arms_of_Zimbabwe.svg|550]]
+
+![[Anthem-Zimbabwe.mp3]]
+
+![[Flag_of_Zimbabwe.svg|350]]
+
 [Area-Total::390757]
 [Area-Land::386850]
 [Continent::[[Africa]]]
