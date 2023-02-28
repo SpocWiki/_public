@@ -30,3 +30,7 @@ confidential: public
 [geo-lon::54.42]
 [geo-lat::24.47]
 
+United_Arab_Emirates (orthographic):
+![United_Arab_Emirates (orthographic)](https://upload.wikimedia.org/wikipedia/commons/c/cd/United_Arab_Emirates_%28orthographic_projection%29.svg)
+
+By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:NuclearVacuum">NuclearVacuum</a> - <a href="//commons.wikimedia.org/wiki/File:Middle_East_(orthographic_projection).svg" title="File:Middle East (orthographic projection).svg">Middle East (orthographic projection).svg</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0 "Creative Commons Attribution-Share Alike 3.0"), [Link](https://commons.wikimedia.org/w/index.php?curid=7466795)
