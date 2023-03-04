@@ -5,11 +5,11 @@ isDeleted: false
 isReadOnly: false
 
 #Obsidian well-known Keys
-cssclass: Predicate Count
+cssclass: Predicate Duration
 publish: true
 
 # Hugo Tags
-type: Predicate
+type: Predi_Duration
 title: {{has_label_snail}}
 
 linkTitle: 
@@ -26,19 +26,19 @@ supersedes: {{supersedes}}
 superseded_by: {{supersededBy}}
 
 tags:
-- schema.org/Predicate
+- schema.org/Predicate/Durations
 
 aliases:
-- label-dash
-- label_snail
-- label
-- has_label_snail
+- {{label-dash}}
+- {{label_snail}}
+- {{label}}
+- {{has_label_snail}}
 ---
 
 
 [domain::{{domainIncludes}}]
-[name::{{has_label_snail}}]
-[range::{{rangeIncludes}}]
+(name::{{has_label_snail}})
+(range::{{rangeIncludes}})
 
 {{comment}}
 

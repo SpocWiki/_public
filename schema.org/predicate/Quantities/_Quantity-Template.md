@@ -5,11 +5,11 @@ isDeleted: false
 isReadOnly: false
 
 #Obsidian well-known Keys
-cssclass: Predicate Count
+cssclass: Predicate Quantity
 publish: true
 
 # Hugo Tags
-type: Predicate
+type: Predi_Quantity
 title: {{has_label_snail}}
 
 linkTitle: 
@@ -47,3 +47,4 @@ aliases:
 [sub_properties::{{subproperties}}]
 
 [is_part_of::{{isPartOf}}]
+

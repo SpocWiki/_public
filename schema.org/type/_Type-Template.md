@@ -1,16 +1,30 @@
 ---
-type: Type
 license: CC BY-SA 4.0
-publish: true
 confidential: public
 isDeleted: false
 isReadOnly: false
 
-[enumerationtype::{{enumerationtype}}]
-[equivalent-class::{{equivalentClass}}]
+#Obsidian well-known Keys
+cssclass: Predi_Quantity
+publish: true
 
-[supersedes::{{supersedes}}]
-[superseded-by::{{supersededBy}}]
+# Hugo Tags
+type: Predi_Quantity
+title: {{has_label_snail}}
+
+linkTitle: 
+keywords: 
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+enumerationtype: {{enumerationtype}}
+equivalent_class: {{equivalentProperty}}
+
+supersedes: {{supersedes}}
+superseded_by: {{supersededBy}}
+
 
 tags:
 - schema.org/Type

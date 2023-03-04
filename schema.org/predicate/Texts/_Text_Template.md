@@ -1,13 +1,16 @@
 ---
-type: Relation
 license: CC BY-SA 4.0
-publish: true
 confidential: public
 isDeleted: false
 isReadOnly: false
 
+#Obsidian well-known Keys
+cssclass: Predicate Text
+publish: true
+
 # Hugo Tags
-title: Untitled
+type: Pred_Text
+title: {{has_label_snail}}
 
 linkTitle: 
 keywords: 
@@ -15,17 +18,12 @@ layout:
 draft: false
 publishDate:
 expiryDate: 
-type: #Tags falls back to the Directory in Hugo
 
-[enumerationtype::{{enumerationtype}}]
-[equivalent_class::{{equivalentProperty}}]
+enumerationtype: {{enumerationtype}}
+equivalent_class: {{equivalentProperty}}
 
-[supersedes::{{supersedes}}]
-[superseded_by::{{supersededBy}}]
-
-#Obsidian well-known Keys
-cssclass:
-publish: false
+supersedes: {{supersedes}}
+superseded_by: {{supersededBy}}
 
 tags:
 - schema.org/Predicate
