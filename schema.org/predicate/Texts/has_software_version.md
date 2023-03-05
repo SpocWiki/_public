@@ -40,6 +40,6 @@ Version of the software instance.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_software_version )
+( #has_/name :: has_text_about_software_version )
 ( #has_/range :: Text )
 

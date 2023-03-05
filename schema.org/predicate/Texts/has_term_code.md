@@ -42,7 +42,7 @@ A code that identifies this &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&qu
 
 Predicated describes that: 
 [ #has_/domain  :: DefinedTerm ]
-( #has_/name :: is_term_code )
+( #has_/name :: has_text_about_term_code )
 ( #has_/range :: Text )
 
 [ #has_/sub_properties :: [ codeValue ] ]

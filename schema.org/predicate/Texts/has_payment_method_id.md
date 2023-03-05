@@ -40,6 +40,6 @@ An identifier for the method of payment used (e.g. the last 4 digits of the cred
 
 Predicated describes that: 
 [ #has_/domain  :: Invoice, Order ]
-( #has_/name :: is_payment_method_id )
+( #has_/name :: has_text_about_payment_method_id )
 ( #has_/range :: Text )
 

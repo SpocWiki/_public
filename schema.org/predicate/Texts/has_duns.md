@@ -40,7 +40,7 @@ The Dun &amp;amp; Bradstreet DUNS number for identifying an organization or busi
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_duns )
+( #has_/name :: has_text_about_duns )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

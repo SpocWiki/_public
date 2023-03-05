@@ -40,6 +40,6 @@ The human sensory perceptual system or cognitive faculty through which a person 
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_access_mode )
+( #has_/name :: has_text_about_access_mode )
 ( #has_/range :: Text )
 

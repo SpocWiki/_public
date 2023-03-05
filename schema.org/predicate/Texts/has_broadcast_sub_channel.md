@@ -42,6 +42,6 @@ The subchannel used for the broadcast.
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastFrequencySpecification ]
-( #has_/name :: is_broadcast_sub_channel )
+( #has_/name :: has_text_about_broadcast_sub_channel )
 ( #has_/range :: Text )
 

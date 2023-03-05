@@ -42,6 +42,6 @@ A description of the job location (e.g. TELECOMMUTE for telecommute jobs).
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_job_location_type )
+( #has_/name :: has_text_about_job_location_type )
 ( #has_/range :: Text )
 

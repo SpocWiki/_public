@@ -40,7 +40,7 @@ The &lt;a href&#x3D;&quot;http://www.gs1.org/gln&quot;&gt;Global Location Number
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person, Place ]
-( #has_/name :: is_global_location_number )
+( #has_/name :: has_text_about_global_location_number )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

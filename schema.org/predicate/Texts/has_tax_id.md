@@ -40,7 +40,7 @@ The Tax / Fiscal ID of the organization or person, e.g. the TIN in the US or the
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_tax_id )
+( #has_/name :: has_text_about_tax_id )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

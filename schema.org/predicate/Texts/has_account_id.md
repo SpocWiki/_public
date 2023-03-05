@@ -40,7 +40,7 @@ The identifier for the account the payment will be applied to.
 
 Predicated describes that: 
 [ #has_/domain  :: Invoice ]
-( #has_/name :: is_account_id )
+( #has_/name :: has_text_about_account_id )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

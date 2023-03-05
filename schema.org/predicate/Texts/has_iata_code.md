@@ -40,6 +40,6 @@ IATA identifier for an airline or airport.
 
 Predicated describes that: 
 [ #has_/domain  :: Airline, Airport ]
-( #has_/name :: is_iata_code )
+( #has_/name :: has_text_about_iata_code )
 ( #has_/range :: Text )
 

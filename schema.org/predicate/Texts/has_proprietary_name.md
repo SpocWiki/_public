@@ -40,6 +40,6 @@ Proprietary name given to the diet plan, typically by its originator or creator.
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement, Drug ]
-( #has_/name :: is_proprietary_name )
+( #has_/name :: has_text_about_proprietary_name )
 ( #has_/range :: Text )
 

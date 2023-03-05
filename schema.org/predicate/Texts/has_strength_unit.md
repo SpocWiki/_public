@@ -40,6 +40,6 @@ The units of an active ingredient"s strength, e.g. mg.
 
 Predicated describes that: 
 [ #has_/domain  :: DrugStrength ]
-( #has_/name :: is_strength_unit )
+( #has_/name :: has_text_about_strength_unit )
 ( #has_/range :: Text )
 

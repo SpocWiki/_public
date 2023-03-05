@@ -42,7 +42,7 @@ A single ingredient used in the recipe, e.g. sugar, flour or garlic.
 
 Predicated describes that: 
 [ #has_/domain  :: Recipe ]
-( #has_/name :: is_ingredients )
+( #has_/name :: has_text_about_ingredients )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: supply ]

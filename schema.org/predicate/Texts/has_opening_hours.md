@@ -47,6 +47,6 @@ The general opening hours for a business. Opening hours can be specified as a we
 
 Predicated describes that: 
 [ #has_/domain  :: CivicStructure, LocalBusiness ]
-( #has_/name :: is_opening_hours )
+( #has_/name :: has_text_about_opening_hours )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ A short summary of the specific claims reviewed in a ClaimReview.
 
 Predicated describes that: 
 [ #has_/domain  :: ClaimReview ]
-( #has_/name :: is_claim_reviewed )
+( #has_/name :: has_text_about_claim_reviewed )
 ( #has_/range :: Text )
 

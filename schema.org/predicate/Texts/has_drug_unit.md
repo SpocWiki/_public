@@ -40,6 +40,6 @@ The unit in which the drug is measured, e.g. "5 mg tablet".
 
 Predicated describes that: 
 [ #has_/domain  :: Drug, DrugCost ]
-( #has_/name :: is_drug_unit )
+( #has_/name :: has_text_about_drug_unit )
 ( #has_/range :: Text )
 

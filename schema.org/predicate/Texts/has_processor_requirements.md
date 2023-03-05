@@ -40,6 +40,6 @@ Processor architecture required to run the application (e.g. IA64).
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_processor_requirements )
+( #has_/name :: has_text_about_processor_requirements )
 ( #has_/range :: Text )
 

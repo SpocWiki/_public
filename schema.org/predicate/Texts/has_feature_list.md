@@ -40,6 +40,6 @@ Features or modules provided by this application (and possibly required by other
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_feature_list )
+( #has_/name :: has_text_about_feature_list )
 ( #has_/range :: Text, URL )
 

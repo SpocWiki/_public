@@ -42,7 +42,7 @@ Describes, in a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaRev
 
 Predicated describes that: 
 [ #has_/domain  :: MediaReview ]
-( #has_/name :: is_original_media_context_description )
+( #has_/name :: has_text_about_original_media_context_description )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: description ]

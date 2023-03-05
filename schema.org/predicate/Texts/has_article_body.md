@@ -40,6 +40,6 @@ The actual body of the article.
 
 Predicated describes that: 
 [ #has_/domain  :: Article ]
-( #has_/name :: is_article_body )
+( #has_/name :: has_text_about_article_body )
 ( #has_/range :: Text )
 

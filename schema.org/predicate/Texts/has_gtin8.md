@@ -40,7 +40,7 @@ The GTIN-8 code of the product, or the product to which the offer refers. This c
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]
-( #has_/name :: is_gtin8 )
+( #has_/name :: has_text_about_gtin8 )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: gtin, identifier ]

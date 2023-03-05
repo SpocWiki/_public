@@ -40,6 +40,6 @@ The name of a node in an established educational framework.
 
 Predicated describes that: 
 [ #has_/domain  :: AlignmentObject ]
-( #has_/name :: is_target_name )
+( #has_/name :: has_text_about_target_name )
 ( #has_/range :: Text )
 

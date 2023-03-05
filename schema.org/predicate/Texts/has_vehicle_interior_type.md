@@ -40,6 +40,6 @@ The type or material of the interior of the vehicle (e.g. synthetic fabric, leat
 
 Predicated describes that: 
 [ #has_/domain  :: Vehicle ]
-( #has_/name :: is_vehicle_interior_type )
+( #has_/name :: has_text_about_vehicle_interior_type )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ An active ingredient, typically chemical compounds and/or biologic substances.
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement, Drug, DrugStrength, Substance ]
-( #has_/name :: is_active_ingredient )
+( #has_/name :: has_text_about_active_ingredient )
 ( #has_/range :: Text )
 

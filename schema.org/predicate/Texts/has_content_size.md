@@ -40,6 +40,6 @@ File size in (mega/kilo)bytes.
 
 Predicated describes that: 
 [ #has_/domain  :: MediaObject ]
-( #has_/name :: is_content_size )
+( #has_/name :: has_text_about_content_size )
 ( #has_/range :: Text )
 

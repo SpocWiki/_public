@@ -42,6 +42,6 @@ A description of any security clearance requirements of the job.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_security_clearance_requirement )
+( #has_/name :: has_text_about_security_clearance_requirement )
 ( #has_/range :: Text, URL )
 

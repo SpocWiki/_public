@@ -40,6 +40,6 @@ A human-readable summary of specific accessibility features or deficiencies, con
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_accessibility_summary )
+( #has_/name :: has_text_about_accessibility_summary )
 ( #has_/range :: Text )
 

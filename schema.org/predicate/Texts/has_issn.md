@@ -40,7 +40,7 @@ The International Standard Serial Number (ISSN) that identifies this serial publ
 
 Predicated describes that: 
 [ #has_/domain  :: Blog, CreativeWorkSeries, Dataset, WebSite ]
-( #has_/name :: is_issn )
+( #has_/name :: has_text_about_issn )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

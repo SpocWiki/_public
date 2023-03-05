@@ -42,7 +42,7 @@ InChIKey is a hashed version of the full InChI (using the SHA-256 algorithm).
 
 Predicated describes that: 
 [ #has_/domain  :: MolecularEntity ]
-( #has_/name :: is_in_ch_i_key )
+( #has_/name :: has_text_about_in_ch_i_key )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: hasRepresentation ]

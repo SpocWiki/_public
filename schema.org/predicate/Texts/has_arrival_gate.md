@@ -40,6 +40,6 @@ Identifier of the flight"s arrival gate.
 
 Predicated describes that: 
 [ #has_/domain  :: Flight ]
-( #has_/name :: is_arrival_gate )
+( #has_/name :: has_text_about_arrival_gate )
 ( #has_/range :: Text )
 

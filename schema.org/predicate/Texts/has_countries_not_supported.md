@@ -40,6 +40,6 @@ Countries for which the application is not supported. You can also provide the t
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_countries_not_supported )
+( #has_/name :: has_text_about_countries_not_supported )
 ( #has_/range :: Text )
 

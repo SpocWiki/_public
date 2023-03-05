@@ -40,6 +40,6 @@ The expected progression of the condition if it is not treated and allowed to pr
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition ]
-( #has_/name :: is_natural_progression )
+( #has_/name :: has_text_about_natural_progression )
 ( #has_/range :: Text )
 

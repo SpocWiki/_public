@@ -40,6 +40,6 @@ The name of the bus (e.g. Bolt Express).
 
 Predicated describes that: 
 [ #has_/domain  :: BusTrip ]
-( #has_/name :: is_bus_name )
+( #has_/name :: has_text_about_bus_name )
 ( #has_/range :: Text )
 

@@ -40,7 +40,7 @@ The GTIN-13 code of the product, or the product to which the offer refers. This 
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]
-( #has_/name :: is_gtin13 )
+( #has_/name :: has_text_about_gtin13 )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: gtin, identifier ]

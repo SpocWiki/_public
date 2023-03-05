@@ -40,6 +40,6 @@ The generic name of this drug or supplement.
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement, Drug ]
-( #has_/name :: is_non_proprietary_name )
+( #has_/name :: has_text_about_non_proprietary_name )
 ( #has_/range :: Text )
 

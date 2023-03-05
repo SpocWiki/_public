@@ -42,6 +42,6 @@ Representation of a text &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;
 
 Predicated describes that: 
 [ #has_/domain  :: PronounceableText ]
-( #has_/name :: is_phonetic_text )
+( #has_/name :: has_text_about_phonetic_text )
 ( #has_/range :: Text )
 

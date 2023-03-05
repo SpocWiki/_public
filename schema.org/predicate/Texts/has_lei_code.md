@@ -40,7 +40,7 @@ An organization identifier that uniquely identifies a legal entity as defined in
 
 Predicated describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: is_lei_code )
+( #has_/name :: has_text_about_lei_code )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

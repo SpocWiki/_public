@@ -40,6 +40,6 @@ An HTTP method that specifies the appropriate HTTP method for a request to an HT
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
-( #has_/name :: is_http_method )
+( #has_/name :: has_text_about_http_method )
 ( #has_/range :: Text )
 

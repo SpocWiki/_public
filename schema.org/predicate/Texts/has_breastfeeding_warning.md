@@ -40,6 +40,6 @@ Any precaution, guidance, contraindication, etc. related to this drug"s use by b
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_breastfeeding_warning )
+( #has_/name :: has_text_about_breastfeeding_warning )
 ( #has_/range :: Text )
 

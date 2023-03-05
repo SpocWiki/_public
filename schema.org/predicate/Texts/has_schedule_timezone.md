@@ -42,6 +42,6 @@ Indicates the timezone for which the time(s) indicated in the &lt;a class&#x3D;&
 
 Predicated describes that: 
 [ #has_/domain  :: Schedule ]
-( #has_/name :: is_schedule_timezone )
+( #has_/name :: has_text_about_schedule_timezone )
 ( #has_/range :: Text )
 

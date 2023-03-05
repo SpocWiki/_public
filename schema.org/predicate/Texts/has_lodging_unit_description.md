@@ -40,6 +40,6 @@ A full description of the lodging unit.
 
 Predicated describes that: 
 [ #has_/domain  :: LodgingReservation ]
-( #has_/name :: is_lodging_unit_description )
+( #has_/name :: has_text_about_lodging_unit_description )
 ( #has_/range :: Text )
 

@@ -40,7 +40,7 @@ An additional name for a Person, can be used for a middle name.
 
 Predicated describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_additional_name )
+( #has_/name :: has_text_about_additional_name )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: alternateName ]

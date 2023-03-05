@@ -44,6 +44,6 @@ Dateline summaries are oriented more towards human readers than towards automate
 
 Predicated describes that: 
 [ #has_/domain  :: NewsArticle ]
-( #has_/name :: is_dateline )
+( #has_/name :: has_text_about_dateline )
 ( #has_/range :: Text )
 

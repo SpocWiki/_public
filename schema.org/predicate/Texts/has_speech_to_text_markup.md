@@ -42,6 +42,6 @@ Form of markup used. eg. &lt;a href&#x3D;&quot;https://www.w3.org/TR/speech-synt
 
 Predicated describes that: 
 [ #has_/domain  :: PronounceableText ]
-( #has_/name :: is_speech_to_text_markup )
+( #has_/name :: has_text_about_speech_to_text_markup )
 ( #has_/range :: Text )
 

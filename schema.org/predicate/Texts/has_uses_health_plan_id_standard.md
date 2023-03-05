@@ -42,6 +42,6 @@ The standard for interpreting the Plan ID. The preferred is &quot;HIOS&quot;. Se
 
 Predicated describes that: 
 [ #has_/domain  :: HealthInsurancePlan ]
-( #has_/name :: is_uses_health_plan_id_standard )
+( #has_/name :: has_text_about_uses_health_plan_id_standard )
 ( #has_/range :: Text, URL )
 

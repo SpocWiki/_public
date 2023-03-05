@@ -40,6 +40,6 @@ The unit of the dose, e.g. "mg".
 
 Predicated describes that: 
 [ #has_/domain  :: DoseSchedule ]
-( #has_/name :: is_dose_unit )
+( #has_/name :: has_text_about_dose_unit )
 ( #has_/range :: Text )
 

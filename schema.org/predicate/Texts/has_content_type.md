@@ -40,6 +40,6 @@ The supported content type(s) for an EntryPoint response.
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
-( #has_/name :: is_content_type )
+( #has_/name :: has_text_about_content_type )
 ( #has_/range :: Text )
 

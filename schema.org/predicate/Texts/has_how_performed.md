@@ -40,6 +40,6 @@ How the procedure is performed.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalProcedure ]
-( #has_/name :: is_how_performed )
+( #has_/name :: has_text_about_how_performed )
 ( #has_/range :: Text )
 

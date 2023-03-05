@@ -40,7 +40,7 @@ A sub property of description. A short description of the item used to disambigu
 
 Predicated describes that: 
 [ #has_/domain  :: Thing ]
-( #has_/name :: is_disambiguating_description )
+( #has_/name :: has_text_about_disambiguating_description )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: description ]

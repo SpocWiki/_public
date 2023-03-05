@@ -40,6 +40,6 @@ The frame size of the video.
 
 Predicated describes that: 
 [ #has_/domain  :: VideoObject ]
-( #has_/name :: is_video_frame_size )
+( #has_/name :: has_text_about_video_frame_size )
 ( #has_/range :: Text )
 

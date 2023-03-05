@@ -40,6 +40,6 @@ A textual description of known damages, both repaired and unrepaired.
 
 Predicated describes that: 
 [ #has_/domain  :: Vehicle ]
-( #has_/name :: is_known_vehicle_damages )
+( #has_/name :: has_text_about_known_vehicle_damages )
 ( #has_/range :: Text )
 

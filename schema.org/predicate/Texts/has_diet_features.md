@@ -40,6 +40,6 @@ Nutritional information specific to the dietary plan. May include dietary recomm
 
 Predicated describes that: 
 [ #has_/domain  :: Diet ]
-( #has_/name :: is_diet_features )
+( #has_/name :: has_text_about_diet_features )
 ( #has_/range :: Text )
 

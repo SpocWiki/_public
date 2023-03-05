@@ -40,6 +40,6 @@ Identifies input methods that are sufficient to fully control the described reso
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_accessibility_control )
+( #has_/name :: has_text_about_accessibility_control )
 ( #has_/range :: Text )
 

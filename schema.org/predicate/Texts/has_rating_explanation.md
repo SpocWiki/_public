@@ -42,6 +42,6 @@ A short explanation (e.g. one to two sentences) providing background context and
 
 Predicated describes that: 
 [ #has_/domain  :: Rating ]
-( #has_/name :: is_rating_explanation )
+( #has_/name :: has_text_about_rating_explanation )
 ( #has_/range :: Text )
 

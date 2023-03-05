@@ -40,6 +40,6 @@ Given name. In the U.S., the first name of a Person.
 
 Predicated describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_given_name )
+( #has_/name :: has_text_about_given_name )
 ( #has_/range :: Text )
 

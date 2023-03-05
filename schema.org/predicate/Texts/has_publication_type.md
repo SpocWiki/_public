@@ -40,6 +40,6 @@ The type of the medical article, taken from the US NLM MeSH publication type cat
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalScholarlyArticle ]
-( #has_/name :: is_publication_type )
+( #has_/name :: has_text_about_publication_type )
 ( #has_/range :: Text )
 

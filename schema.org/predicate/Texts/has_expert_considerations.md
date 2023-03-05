@@ -40,6 +40,6 @@ Medical expert advice related to the plan.
 
 Predicated describes that: 
 [ #has_/domain  :: Diet ]
-( #has_/name :: is_expert_considerations )
+( #has_/name :: has_text_about_expert_considerations )
 ( #has_/range :: Text )
 

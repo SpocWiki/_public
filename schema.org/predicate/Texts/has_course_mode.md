@@ -40,6 +40,6 @@ The medium or means of delivery of the course instance or the mode of study, eit
 
 Predicated describes that: 
 [ #has_/domain  :: CourseInstance ]
-( #has_/name :: is_course_mode )
+( #has_/name :: has_text_about_course_mode )
 ( #has_/range :: Text, URL )
 

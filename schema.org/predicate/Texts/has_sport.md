@@ -42,6 +42,6 @@ A type of sport (e.g. Baseball).
 
 Predicated describes that: 
 [ #has_/domain  :: SportsEvent, SportsOrganization ]
-( #has_/name :: is_sport )
+( #has_/name :: has_text_about_sport )
 ( #has_/range :: Text, URL )
 

@@ -42,6 +42,6 @@ Systematic method of naming chemical compounds as recommended by the Internation
 
 Predicated describes that: 
 [ #has_/domain  :: MolecularEntity ]
-( #has_/name :: is_iupac_name )
+( #has_/name :: has_text_about_iupac_name )
 ( #has_/range :: Text )
 

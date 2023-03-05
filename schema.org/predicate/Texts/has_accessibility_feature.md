@@ -40,6 +40,6 @@ Content features of the resource, such as accessible media, alternatives and sup
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_accessibility_feature )
+( #has_/name :: has_text_about_accessibility_feature )
 ( #has_/range :: Text )
 

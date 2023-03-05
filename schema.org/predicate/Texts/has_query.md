@@ -40,7 +40,7 @@ A sub property of instrument. The query used on this action.
 
 Predicated describes that: 
 [ #has_/domain  :: SearchAction ]
-( #has_/name :: is_query )
+( #has_/name :: has_text_about_query )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: instrument ]

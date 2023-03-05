@@ -42,6 +42,6 @@ Indicates the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/productGro
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: is_in_product_group_with_id )
+( #has_/name :: has_text_about_in_product_group_with_id )
 ( #has_/range :: Text )
 

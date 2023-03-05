@@ -40,6 +40,6 @@ Indicates the mobility of a provided service (e.g. "static", "dynamic").
 
 Predicated describes that: 
 [ #has_/domain  :: Service ]
-( #has_/name :: is_provider_mobility )
+( #has_/name :: has_text_about_provider_mobility )
 ( #has_/range :: Text )
 

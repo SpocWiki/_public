@@ -42,6 +42,6 @@ What type of code sample: full (compile ready) solution, code snippet, inline co
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareSourceCode ]
-( #has_/name :: is_sample_type )
+( #has_/name :: has_text_about_sample_type )
 ( #has_/range :: Text )
 

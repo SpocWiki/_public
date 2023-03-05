@@ -40,6 +40,6 @@ ICAO identifier for an airport.
 
 Predicated describes that: 
 [ #has_/domain  :: Airport ]
-( #has_/name :: is_icao_code )
+( #has_/name :: has_text_about_icao_code )
 ( #has_/range :: Text )
 

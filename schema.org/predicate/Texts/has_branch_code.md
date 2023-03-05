@@ -42,6 +42,6 @@ For example, in the URL http://www.starbucks.co.uk/store-locator/etc/detail/3047
 
 Predicated describes that: 
 [ #has_/domain  :: Place ]
-( #has_/name :: is_branch_code )
+( #has_/name :: has_text_about_branch_code )
 ( #has_/range :: Text )
 

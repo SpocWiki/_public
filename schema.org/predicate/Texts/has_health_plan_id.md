@@ -42,6 +42,6 @@ The 14-character, HIOS-generated Plan ID number. (Plan IDs must be unique, even 
 
 Predicated describes that: 
 [ #has_/domain  :: HealthInsurancePlan ]
-( #has_/name :: is_health_plan_id )
+( #has_/name :: has_text_about_health_plan_id )
 ( #has_/range :: Text )
 

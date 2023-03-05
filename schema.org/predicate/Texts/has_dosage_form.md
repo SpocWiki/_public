@@ -40,6 +40,6 @@ A dosage form in which this drug/supplement is available, e.g. "tablet", "suspen
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_dosage_form )
+( #has_/name :: has_text_about_dosage_form )
 ( #has_/range :: Text )
 

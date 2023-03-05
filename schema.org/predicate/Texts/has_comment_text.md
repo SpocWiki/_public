@@ -40,6 +40,6 @@ The text of the UserComment.
 
 Predicated describes that: 
 [ #has_/domain  :: UserComments ]
-( #has_/name :: is_comment_text )
+( #has_/name :: has_text_about_comment_text )
 ( #has_/range :: Text )
 

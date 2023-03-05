@@ -40,6 +40,6 @@ If this NewsArticle appears in print, this field indicates the print section in 
 
 Predicated describes that: 
 [ #has_/domain  :: NewsArticle ]
-( #has_/name :: is_print_section )
+( #has_/name :: has_text_about_print_section )
 ( #has_/range :: Text )
 

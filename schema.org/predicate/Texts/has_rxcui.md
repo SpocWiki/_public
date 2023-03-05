@@ -42,6 +42,6 @@ The RxCUI drug identifier from RXNORM.
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_rxcui )
+( #has_/name :: has_text_about_rxcui )
 ( #has_/range :: Text )
 

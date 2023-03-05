@@ -40,6 +40,6 @@ Size of the application / package (e.g. 18MB). In the absence of a unit (MB, KB 
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_file_size )
+( #has_/name :: has_text_about_file_size )
 ( #has_/range :: Text )
 

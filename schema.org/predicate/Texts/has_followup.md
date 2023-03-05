@@ -40,6 +40,6 @@ Typical or recommended followup care after the procedure is performed.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalProcedure ]
-( #has_/name :: is_followup )
+( #has_/name :: has_text_about_followup )
 ( #has_/range :: Text )
 

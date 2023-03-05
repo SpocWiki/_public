@@ -42,6 +42,6 @@ Qualification, candidature, degree, application that Thesis supports.
 
 Predicated describes that: 
 [ #has_/domain  :: Thesis ]
-( #has_/name :: is_in_support_of )
+( #has_/name :: has_text_about_in_support_of )
 ( #has_/range :: Text )
 

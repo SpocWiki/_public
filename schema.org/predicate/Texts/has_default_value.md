@@ -40,6 +40,6 @@ The default value of the input.  For properties that expect a literal, the defau
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValueSpecification ]
-( #has_/name :: is_default_value )
+( #has_/name :: has_text_about_default_value )
 ( #has_/range :: Text, Thing )
 

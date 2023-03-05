@@ -46,6 +46,6 @@ Unregistered or niche encoding and file formats can be indicated instead via the
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork, MediaObject ]
-( #has_/name :: is_encoding_format )
+( #has_/name :: has_text_about_encoding_format )
 ( #has_/range :: Text, URL )
 

@@ -40,6 +40,6 @@ The substage, e.g. "a" for Stage IIIa.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalConditionStage ]
-( #has_/name :: is_sub_stage_suffix )
+( #has_/name :: has_text_about_sub_stage_suffix )
 ( #has_/range :: Text )
 

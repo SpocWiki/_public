@@ -40,6 +40,6 @@ The edition of a video game.
 
 Predicated describes that: 
 [ #has_/domain  :: VideoGame ]
-( #has_/name :: is_game_edition )
+( #has_/name :: has_text_about_game_edition )
 ( #has_/range :: Text )
 

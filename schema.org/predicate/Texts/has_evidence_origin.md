@@ -40,6 +40,6 @@ Source of the data used to formulate the guidance, e.g. RCT, consensus opinion, 
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalGuideline ]
-( #has_/name :: is_evidence_origin )
+( #has_/name :: has_text_about_evidence_origin )
 ( #has_/range :: Text )
 

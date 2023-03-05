@@ -40,6 +40,6 @@ The typical working hours for this job (e.g. 1st shift, night shift, 8am-5pm).
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_work_hours )
+( #has_/name :: has_text_about_work_hours )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The identifier of the order item.
 
 Predicated describes that: 
 [ #has_/domain  :: OrderItem ]
-( #has_/name :: is_order_item_number )
+( #has_/name :: has_text_about_order_item_number )
 ( #has_/range :: Text )
 

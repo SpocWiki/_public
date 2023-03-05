@@ -40,6 +40,6 @@ The framework to which the resource being described is aligned.
 
 Predicated describes that: 
 [ #has_/domain  :: AlignmentObject ]
-( #has_/name :: is_educational_framework )
+( #has_/name :: has_text_about_educational_framework )
 ( #has_/range :: Text )
 

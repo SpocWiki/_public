@@ -40,6 +40,6 @@ The name of the application suite to which the application belongs (e.g. Excel b
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_application_suite )
+( #has_/name :: has_text_about_application_suite )
 ( #has_/range :: Text )
 

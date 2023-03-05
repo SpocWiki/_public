@@ -42,6 +42,6 @@ Text of an utterances (spoken words, lyrics etc.) that occurs at a certain secti
 
 Predicated describes that: 
 [ #has_/domain  :: HyperTocEntry ]
-( #has_/name :: is_utterances )
+( #has_/name :: has_text_about_utterances )
 ( #has_/range :: Text )
 

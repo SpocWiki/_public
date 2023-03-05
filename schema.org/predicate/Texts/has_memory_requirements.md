@@ -40,6 +40,6 @@ Minimum memory requirements.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_memory_requirements )
+( #has_/name :: has_text_about_memory_requirements )
 ( #has_/range :: Text, URL )
 

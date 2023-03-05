@@ -40,6 +40,6 @@ Any additional component of the exercise prescription that may need to be articu
 
 Predicated describes that: 
 [ #has_/domain  :: ExercisePlan ]
-( #has_/name :: is_additional_variable )
+( #has_/name :: has_text_about_additional_variable )
 ( #has_/range :: Text )
 

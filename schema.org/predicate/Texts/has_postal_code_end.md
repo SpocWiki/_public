@@ -42,6 +42,6 @@ Last postal code in the range (included). Needs to be after &lt;a class&#x3D;&qu
 
 Predicated describes that: 
 [ #has_/domain  :: PostalCodeRangeSpecification ]
-( #has_/name :: is_postal_code_end )
+( #has_/name :: has_text_about_postal_code_end )
 ( #has_/range :: Text )
 

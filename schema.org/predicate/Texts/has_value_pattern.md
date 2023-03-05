@@ -40,6 +40,6 @@ Specifies a regular expression for testing literal values according to the HTML 
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValueSpecification ]
-( #has_/name :: is_value_pattern )
+( #has_/name :: has_text_about_value_pattern )
 ( #has_/range :: Text )
 

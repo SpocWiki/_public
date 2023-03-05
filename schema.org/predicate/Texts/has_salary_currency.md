@@ -40,6 +40,6 @@ The currency (coded using &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/ISO
 
 Predicated describes that: 
 [ #has_/domain  :: EmployeeRole, JobPosting ]
-( #has_/name :: is_salary_currency )
+( #has_/name :: has_text_about_salary_currency )
 ( #has_/range :: Text )
 

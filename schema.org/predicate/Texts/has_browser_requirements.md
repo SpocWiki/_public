@@ -40,6 +40,6 @@ Specifies browser requirements in human-readable text. For example, "requires HT
 
 Predicated describes that: 
 [ #has_/domain  :: WebApplication ]
-( #has_/name :: is_browser_requirements )
+( #has_/name :: has_text_about_browser_requirements )
 ( #has_/range :: Text )
 

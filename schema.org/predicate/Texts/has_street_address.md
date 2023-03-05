@@ -40,6 +40,6 @@ The street address. For example, 1600 Amphitheatre Pkwy.
 
 Predicated describes that: 
 [ #has_/domain  :: PostalAddress ]
-( #has_/name :: is_street_address )
+( #has_/name :: has_text_about_street_address )
 ( #has_/range :: Text )
 

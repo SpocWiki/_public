@@ -40,6 +40,6 @@ The edition of the book.
 
 Predicated describes that: 
 [ #has_/domain  :: Book ]
-( #has_/name :: is_book_edition )
+( #has_/name :: has_text_about_book_edition )
 ( #has_/range :: Text )
 

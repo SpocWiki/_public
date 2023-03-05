@@ -40,6 +40,6 @@ The number or other unique designator assigned to a Report by the publishing org
 
 Predicated describes that: 
 [ #has_/domain  :: Report ]
-( #has_/name :: is_report_number )
+( #has_/name :: has_text_about_report_number )
 ( #has_/range :: Text )
 

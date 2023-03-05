@@ -40,6 +40,6 @@ The identifier for the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/C
 
 Predicated describes that: 
 [ #has_/domain  :: Course ]
-( #has_/name :: is_course_code )
+( #has_/name :: has_text_about_course_code )
 ( #has_/range :: Text )
 

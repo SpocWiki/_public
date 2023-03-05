@@ -40,6 +40,6 @@ A route by which this drug may be administered, e.g. "oral".
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_administration_route )
+( #has_/name :: has_text_about_administration_route )
 ( #has_/range :: Text )
 

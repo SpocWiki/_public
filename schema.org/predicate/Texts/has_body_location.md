@@ -40,6 +40,6 @@ Location in the body of the anatomical structure.
 
 Predicated describes that: 
 [ #has_/domain  :: AnatomicalStructure, MedicalProcedure ]
-( #has_/name :: is_body_location )
+( #has_/name :: has_text_about_body_location )
 ( #has_/range :: Text )
 

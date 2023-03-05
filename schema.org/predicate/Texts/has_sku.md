@@ -40,7 +40,7 @@ The Stock Keeping Unit (SKU), i.e. a merchant-specific identifier for a product 
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]
-( #has_/name :: is_sku )
+( #has_/name :: has_text_about_sku )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

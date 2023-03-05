@@ -40,6 +40,6 @@ Description of what changed in this version.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_release_notes )
+( #has_/name :: has_text_about_release_notes )
 ( #has_/range :: Text, URL )
 

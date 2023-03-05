@@ -40,7 +40,7 @@ The product identifier, such as ISBN. For example: &lt;code&gt;meta itemprop&#x3
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: is_product_id )
+( #has_/name :: has_text_about_product_id )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

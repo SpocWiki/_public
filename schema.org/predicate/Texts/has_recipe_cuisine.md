@@ -40,6 +40,6 @@ The cuisine of the recipe (for example, French or Ethiopian).
 
 Predicated describes that: 
 [ #has_/domain  :: Recipe ]
-( #has_/name :: is_recipe_cuisine )
+( #has_/name :: has_text_about_recipe_cuisine )
 ( #has_/range :: Text )
 

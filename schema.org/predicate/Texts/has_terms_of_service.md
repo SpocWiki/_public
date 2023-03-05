@@ -42,6 +42,6 @@ Human-readable terms of service documentation.
 
 Predicated describes that: 
 [ #has_/domain  :: Service ]
-( #has_/name :: is_terms_of_service )
+( #has_/name :: has_text_about_terms_of_service )
 ( #has_/range :: Text, URL )
 

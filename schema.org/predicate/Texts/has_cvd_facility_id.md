@@ -42,6 +42,6 @@ Identifier of the NHSN facility that this data record applies to. Use &lt;a clas
 
 Predicated describes that: 
 [ #has_/domain  :: CDCPMDRecord ]
-( #has_/name :: is_cvd_facility_id )
+( #has_/name :: has_text_about_cvd_facility_id )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ A unique identifier for the reservation.
 
 Predicated describes that: 
 [ #has_/domain  :: Reservation ]
-( #has_/name :: is_reservation_id )
+( #has_/name :: has_text_about_reservation_id )
 ( #has_/range :: Text )
 

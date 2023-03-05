@@ -40,6 +40,6 @@ A characteristic of the described resource that is physiologically dangerous to 
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_accessibility_hazard )
+( #has_/name :: has_text_about_accessibility_hazard )
 ( #has_/range :: Text )
 

@@ -42,6 +42,6 @@ Description of the absorption and elimination of drugs, including their concentr
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_clinical_pharmacology )
+( #has_/name :: has_text_about_clinical_pharmacology )
 ( #has_/range :: Text )
 

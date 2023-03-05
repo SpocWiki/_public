@@ -40,6 +40,6 @@ The electronic systems used to play &lt;a href&#x3D;&quot;http://en.wikipedia.or
 
 Predicated describes that: 
 [ #has_/domain  :: VideoGame, VideoGameSeries ]
-( #has_/name :: is_game_platform )
+( #has_/name :: has_text_about_game_platform )
 ( #has_/range :: Text, Thing, URL )
 

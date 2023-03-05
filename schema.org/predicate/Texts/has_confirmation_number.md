@@ -40,7 +40,7 @@ A number that confirms the given order or payment has been received.
 
 Predicated describes that: 
 [ #has_/domain  :: Invoice, Order ]
-( #has_/name :: is_confirmation_number )
+( #has_/name :: has_text_about_confirmation_number )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

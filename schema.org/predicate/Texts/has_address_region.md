@@ -40,6 +40,6 @@ The region in which the locality is, and which is in the country. For example, C
 
 Predicated describes that: 
 [ #has_/domain  :: DefinedRegion, PostalAddress ]
-( #has_/name :: is_address_region )
+( #has_/name :: has_text_about_address_region )
 ( #has_/range :: Text )
 

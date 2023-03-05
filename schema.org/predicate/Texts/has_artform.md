@@ -40,6 +40,6 @@ e.g. Painting, Drawing, Sculpture, Print, Photograph, Assemblage, Collage, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: VisualArtwork ]
-( #has_/name :: is_artform )
+( #has_/name :: has_text_about_artform )
 ( #has_/range :: Text, URL )
 

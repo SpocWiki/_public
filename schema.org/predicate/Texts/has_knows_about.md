@@ -42,6 +42,6 @@ Of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Person&quot;&gt;Per
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_knows_about )
+( #has_/name :: has_text_about_knows_about )
 ( #has_/range :: Text, Thing, URL )
 

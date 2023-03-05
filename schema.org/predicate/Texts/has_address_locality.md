@@ -40,6 +40,6 @@ The locality in which the street address is, and which is in the region. For exa
 
 Predicated describes that: 
 [ #has_/domain  :: PostalAddress ]
-( #has_/name :: is_address_locality )
+( #has_/name :: has_text_about_address_locality )
 ( #has_/range :: Text )
 

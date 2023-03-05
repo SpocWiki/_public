@@ -40,6 +40,6 @@ The name displayed in the channel guide. For many US affiliates, it is the netwo
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastService ]
-( #has_/name :: is_broadcast_display_name )
+( #has_/name :: has_text_about_broadcast_display_name )
 ( #has_/range :: Text )
 

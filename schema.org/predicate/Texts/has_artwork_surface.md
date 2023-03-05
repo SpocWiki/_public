@@ -42,6 +42,6 @@ The supporting materials for the artwork, e.g. Canvas, Paper, Wood, Board, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: VisualArtwork ]
-( #has_/name :: is_artwork_surface )
+( #has_/name :: has_text_about_artwork_surface )
 ( #has_/range :: Text, URL )
 

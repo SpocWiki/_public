@@ -40,7 +40,7 @@ The material used. (E.g. Oil, Watercolour, Acrylic, Linoprint, Marble, Cyanotype
 
 Predicated describes that: 
 [ #has_/domain  :: VisualArtwork ]
-( #has_/name :: is_art_medium )
+( #has_/name :: has_text_about_art_medium )
 ( #has_/range :: Text, URL )
 
 [ #is_/sub_property_of  :: material ]

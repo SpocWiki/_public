@@ -42,6 +42,6 @@ Whether the copay is before or after deductible, etc. TODO: Is this a closed set
 
 Predicated describes that: 
 [ #has_/domain  :: HealthPlanCostSharingSpecification ]
-( #has_/name :: is_health_plan_copay_option )
+( #has_/name :: has_text_about_health_plan_copay_option )
 ( #has_/range :: Text )
 

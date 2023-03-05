@@ -40,7 +40,7 @@ Genre of the creative work, broadcast channel or group.
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastChannel, CreativeWork, MusicGroup ]
-( #has_/name :: is_genre )
+( #has_/name :: has_text_about_genre )
 ( #has_/range :: Text, URL )
 
 [ #has_/sub_properties :: [ legislationType ] ]

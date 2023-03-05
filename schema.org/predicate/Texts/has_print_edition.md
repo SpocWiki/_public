@@ -40,6 +40,6 @@ The edition of the print product in which the NewsArticle appears.
 
 Predicated describes that: 
 [ #has_/domain  :: NewsArticle ]
-( #has_/name :: is_print_edition )
+( #has_/name :: has_text_about_print_edition )
 ( #has_/range :: Text )
 

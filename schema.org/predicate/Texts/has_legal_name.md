@@ -40,6 +40,6 @@ The official name of the organization, e.g. the registered company name.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: is_legal_name )
+( #has_/name :: has_text_about_legal_name )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ A circle is the circular region of a specified radius centered at a specified la
 
 Predicated describes that: 
 [ #has_/domain  :: GeoShape ]
-( #has_/name :: is_circle )
+( #has_/name :: has_text_about_circle )
 ( #has_/range :: Text )
 

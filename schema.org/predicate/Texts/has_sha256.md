@@ -42,7 +42,7 @@ The &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/SHA-2&quot;&gt;SHA-2&lt;
 
 Predicated describes that: 
 [ #has_/domain  :: MediaObject ]
-( #has_/name :: is_sha256 )
+( #has_/name :: has_text_about_sha256 )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: description ]

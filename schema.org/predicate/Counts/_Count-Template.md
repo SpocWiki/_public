@@ -30,7 +30,7 @@ aliases:
 - {{label-dash}}
 - {{label_snail}}
 - {{label}}
-- has_number_of_{{label_snail}}
+- has_number_of_{{has_label_snail}}
 ---
 
 Predicate to describe the Number of {{domainIncludes}}.
@@ -38,14 +38,14 @@ Predicate to describe the Number of {{domainIncludes}}.
 [ #is_/part_of :: {{isPartOf}} ]
 
 Use it like this: 
-- [ #has_/number/_of_{{label_snail}} :: {{rangeIncludes}} ] or 
-- [ has_number_of_{{label_snail}} :: {{rangeIncludes}} ] 
+- [ #has_/number/_of_{{has_label_snail}} :: {{rangeIncludes}} ] or 
+- [ has_number_of_{{has_label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
 Predicate describes that: 
 [ #has_/domain  :: {{domainIncludes}} ]
-( #has_/name :: is_{{label_snail}} )
+( #has_/name :: has_number_of_{{has_label_snail}} )
 ( #has_/range :: {{rangeIncludes}} )
 
 [ #is_/inverse_of  :: {{inverseOf}} ]

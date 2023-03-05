@@ -40,6 +40,6 @@ Any special commitments associated with this job posting. Valid entries include 
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_special_commitments )
+( #has_/name :: has_text_about_special_commitments )
 ( #has_/range :: Text )
 

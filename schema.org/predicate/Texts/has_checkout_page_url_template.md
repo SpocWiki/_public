@@ -42,6 +42,6 @@ A URL template (RFC 6570) for a checkout page for an offer. This approach allows
 
 Predicated describes that: 
 [ #has_/domain  :: Offer ]
-( #has_/name :: is_checkout_page_url_template )
+( #has_/name :: has_text_about_checkout_page_url_template )
 ( #has_/range :: Text )
 

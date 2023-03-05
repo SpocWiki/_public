@@ -40,6 +40,6 @@ Permission(s) required to run the app (for example, a mobile app may require ful
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_permissions )
+( #has_/name :: has_text_about_permissions )
 ( #has_/range :: Text )
 

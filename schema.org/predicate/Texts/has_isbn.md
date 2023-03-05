@@ -40,7 +40,7 @@ The ISBN of the book.
 
 Predicated describes that: 
 [ #has_/domain  :: Book ]
-( #has_/name :: is_isbn )
+( #has_/name :: has_text_about_isbn )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

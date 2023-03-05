@@ -40,6 +40,6 @@ The specific biochemical interaction through which this drug or supplement produ
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement, Drug ]
-( #has_/name :: is_mechanism_of_action )
+( #has_/name :: has_text_about_mechanism_of_action )
 ( #has_/range :: Text )
 

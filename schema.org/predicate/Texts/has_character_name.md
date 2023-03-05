@@ -40,6 +40,6 @@ The name of a character played in some acting or performing role, i.e. in a Perf
 
 Predicated describes that: 
 [ #has_/domain  :: PerformanceRole ]
-( #has_/name :: is_character_name )
+( #has_/name :: has_text_about_character_name )
 ( #has_/range :: Text )
 

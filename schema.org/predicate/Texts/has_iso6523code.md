@@ -42,6 +42,6 @@ An organization identifier as defined in ISO 6523(-1). Note that many existing o
 
 Predicated describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: is_iso6523code )
+( #has_/name :: has_text_about_iso6523code )
 ( #has_/range :: Text )
 

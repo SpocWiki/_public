@@ -42,6 +42,6 @@ For questions that are part of learning resources (e.g. Quiz), eduQuestionType i
 
 Predicated describes that: 
 [ #has_/domain  :: Question, SolveMathAction ]
-( #has_/name :: is_edu_question_type )
+( #has_/name :: has_text_about_edu_question_type )
 ( #has_/range :: Text )
 

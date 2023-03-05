@@ -40,6 +40,6 @@ The key, mode, or scale this composition uses.
 
 Predicated describes that: 
 [ #has_/domain  :: MusicComposition ]
-( #has_/name :: is_musical_key )
+( #has_/name :: has_text_about_musical_key )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ Articles may belong to one or more "sections" in a magazine or newspaper, such a
 
 Predicated describes that: 
 [ #has_/domain  :: Article ]
-( #has_/name :: is_article_section )
+( #has_/name :: has_text_about_article_section )
 ( #has_/range :: Text )
 

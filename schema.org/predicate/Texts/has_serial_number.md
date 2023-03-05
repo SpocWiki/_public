@@ -40,7 +40,7 @@ The serial number or any alphanumeric identifier of a particular product. When a
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, IndividualProduct, Offer ]
-( #has_/name :: is_serial_number )
+( #has_/name :: has_text_about_serial_number )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

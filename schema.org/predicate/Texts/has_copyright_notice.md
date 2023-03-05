@@ -42,6 +42,6 @@ Text of a notice appropriate for describing the copyright aspects of this Creati
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_copyright_notice )
+( #has_/name :: has_text_about_copyright_notice )
 ( #has_/range :: Text )
 

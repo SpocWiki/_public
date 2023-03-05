@@ -40,6 +40,6 @@ Type of employment (e.g. full-time, part-time, contract, temporary, seasonal, in
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_employment_type )
+( #has_/name :: has_text_about_employment_type )
 ( #has_/range :: Text )
 

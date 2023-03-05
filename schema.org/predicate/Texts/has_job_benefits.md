@@ -42,6 +42,6 @@ Description of benefits associated with the job.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_job_benefits )
+( #has_/name :: has_text_about_job_benefits )
 ( #has_/range :: Text )
 

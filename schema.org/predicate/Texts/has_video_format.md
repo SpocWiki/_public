@@ -40,6 +40,6 @@ The type of screening or video broadcast used (e.g. IMAX, 3D, SD, HD, etc.).
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastEvent, BroadcastService, ScreeningEvent ]
-( #has_/name :: is_video_format )
+( #has_/name :: has_text_about_video_format )
 ( #has_/range :: Text )
 

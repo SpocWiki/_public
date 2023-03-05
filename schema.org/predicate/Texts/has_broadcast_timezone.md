@@ -40,6 +40,6 @@ The timezone in &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/ISO_8601&quot
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastService ]
-( #has_/name :: is_broadcast_timezone )
+( #has_/name :: has_text_about_broadcast_timezone )
 ( #has_/range :: Text )
 

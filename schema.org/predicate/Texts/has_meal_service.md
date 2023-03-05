@@ -40,6 +40,6 @@ Description of the meals that will be provided or available for purchase.
 
 Predicated describes that: 
 [ #has_/domain  :: Flight ]
-( #has_/name :: is_meal_service )
+( #has_/name :: has_text_about_meal_service )
 ( #has_/range :: Text )
 

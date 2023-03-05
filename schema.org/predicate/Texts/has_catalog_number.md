@@ -40,6 +40,6 @@ The catalog number for the release.
 
 Predicated describes that: 
 [ #has_/domain  :: MusicRelease ]
-( #has_/name :: is_catalog_number )
+( #has_/name :: has_text_about_catalog_number )
 ( #has_/range :: Text )
 

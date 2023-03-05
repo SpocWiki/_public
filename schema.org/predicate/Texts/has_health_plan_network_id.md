@@ -42,6 +42,6 @@ Name or unique ID of network. (Networks are often reused across different insura
 
 Predicated describes that: 
 [ #has_/domain  :: HealthPlanNetwork, MedicalOrganization ]
-( #has_/name :: is_health_plan_network_id )
+( #has_/name :: has_text_about_health_plan_network_id )
 ( #has_/range :: Text )
 

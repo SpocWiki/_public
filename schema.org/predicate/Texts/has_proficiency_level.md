@@ -40,6 +40,6 @@ Proficiency needed for this content; expected values: "Beginner", "Expert".
 
 Predicated describes that: 
 [ #has_/domain  :: TechArticle ]
-( #has_/name :: is_proficiency_level )
+( #has_/name :: has_text_about_proficiency_level )
 ( #has_/range :: Text )
 

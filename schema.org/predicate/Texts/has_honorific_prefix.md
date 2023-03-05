@@ -40,6 +40,6 @@ An honorific prefix preceding a Person"s name such as Dr/Mrs/Mr.
 
 Predicated describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_honorific_prefix )
+( #has_/name :: has_text_about_honorific_prefix )
 ( #has_/range :: Text )
 

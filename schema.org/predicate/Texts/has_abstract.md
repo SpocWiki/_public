@@ -42,6 +42,6 @@ An abstract is a short description that summarizes a &lt;a class&#x3D;&quot;loca
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_abstract )
+( #has_/name :: has_text_about_abstract )
 ( #has_/range :: Text )
 

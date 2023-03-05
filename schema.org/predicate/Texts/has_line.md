@@ -40,6 +40,6 @@ A line is a point-to-point path consisting of two or more points. A line is expr
 
 Predicated describes that: 
 [ #has_/domain  :: GeoShape ]
-( #has_/name :: is_line )
+( #has_/name :: has_text_about_line )
 ( #has_/range :: Text )
 

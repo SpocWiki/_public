@@ -42,7 +42,7 @@ Indicates the &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/NATO_Stock_Num
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: is_nsn )
+( #has_/name :: has_text_about_nsn )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

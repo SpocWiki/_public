@@ -40,6 +40,6 @@ The platform from which the train departs.
 
 Predicated describes that: 
 [ #has_/domain  :: TrainTrip ]
-( #has_/name :: is_departure_platform )
+( #has_/name :: has_text_about_departure_platform )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The type of tissue sample required for the test.
 
 Predicated describes that: 
 [ #has_/domain  :: PathologyTest ]
-( #has_/name :: is_tissue_sample )
+( #has_/name :: has_text_about_tissue_sample )
 ( #has_/range :: Text )
 

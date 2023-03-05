@@ -42,6 +42,6 @@ TODO.
 
 Predicated describes that: 
 [ #has_/domain  :: HealthInsurancePlan ]
-( #has_/name :: is_health_plan_drug_option )
+( #has_/name :: has_text_about_health_plan_drug_option )
 ( #has_/range :: Text )
 

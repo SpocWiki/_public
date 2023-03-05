@@ -42,6 +42,6 @@ A role played, performed or filled by a person or organization. For example, the
 
 Predicated describes that: 
 [ #has_/domain  :: Role ]
-( #has_/name :: is_role_name )
+( #has_/name :: has_text_about_role_name )
 ( #has_/range :: Text, URL )
 

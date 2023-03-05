@@ -40,6 +40,6 @@ The quality of the video.
 
 Predicated describes that: 
 [ #has_/domain  :: VideoObject ]
-( #has_/name :: is_video_quality )
+( #has_/name :: has_text_about_video_quality )
 ( #has_/range :: Text )
 

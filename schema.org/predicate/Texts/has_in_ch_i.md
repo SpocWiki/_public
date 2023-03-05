@@ -42,7 +42,7 @@ Non-proprietary identifier for molecular entity that can be used in printed and 
 
 Predicated describes that: 
 [ #has_/domain  :: MolecularEntity ]
-( #has_/name :: is_in_ch_i )
+( #has_/name :: has_text_about_in_ch_i )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: hasRepresentation ]

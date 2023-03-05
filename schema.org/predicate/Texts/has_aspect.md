@@ -42,6 +42,6 @@ An aspect of medical practice that is considered on the page, such as "diagnosis
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalWebPage ]
-( #has_/name :: is_aspect )
+( #has_/name :: has_text_about_aspect )
 ( #has_/range :: Text )
 

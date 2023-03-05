@@ -40,6 +40,6 @@ Any information related to overdose on a drug, including signs or symptoms, trea
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_overdosage )
+( #has_/name :: has_text_about_overdosage )
 ( #has_/range :: Text )
 

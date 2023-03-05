@@ -44,6 +44,6 @@ For example &quot;Available by appointment from the Reading Room&quot; or &quot;
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_conditions_of_access )
+( #has_/name :: has_text_about_conditions_of_access )
 ( #has_/range :: Text )
 

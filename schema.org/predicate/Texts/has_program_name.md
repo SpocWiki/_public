@@ -40,6 +40,6 @@ The program providing the membership.
 
 Predicated describes that: 
 [ #has_/domain  :: ProgramMembership ]
-( #has_/name :: is_program_name )
+( #has_/name :: has_text_about_program_name )
 ( #has_/range :: Text )
 

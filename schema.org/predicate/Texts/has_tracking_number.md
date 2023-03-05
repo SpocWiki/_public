@@ -40,6 +40,6 @@ Shipper tracking number.
 
 Predicated describes that: 
 [ #has_/domain  :: ParcelDelivery ]
-( #has_/name :: is_tracking_number )
+( #has_/name :: has_text_about_tracking_number )
 ( #has_/range :: Text )
 

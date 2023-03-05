@@ -40,6 +40,6 @@ Associated product/technology version. E.g., .NET Framework 4.5.
 
 Predicated describes that: 
 [ #has_/domain  :: APIReference ]
-( #has_/name :: is_assembly_version )
+( #has_/name :: has_text_about_assembly_version )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ Specifies specific carrier(s) requirements for the application (e.g. an applicat
 
 Predicated describes that: 
 [ #has_/domain  :: MobileApplication ]
-( #has_/name :: is_carrier_requirements )
+( #has_/name :: has_text_about_carrier_requirements )
 ( #has_/range :: Text )
 

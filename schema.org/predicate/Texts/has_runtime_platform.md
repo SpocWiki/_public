@@ -42,6 +42,6 @@ Runtime platform or script interpreter dependencies (example: Java v1, Python 2.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareSourceCode ]
-( #has_/name :: is_runtime_platform )
+( #has_/name :: has_text_about_runtime_platform )
 ( #has_/range :: Text )
 

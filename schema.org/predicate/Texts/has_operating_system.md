@@ -40,6 +40,6 @@ Operating systems supported (Windows 7, OS X 10.6, Android 1.6).
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_operating_system )
+( #has_/name :: has_text_about_operating_system )
 ( #has_/range :: Text )
 

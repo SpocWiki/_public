@@ -41,6 +41,6 @@ A string or text indicating the unit of measurement. Useful if you cannot provid
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification ]
-( #has_/name :: is_unit_text )
+( #has_/name :: has_text_about_unit_text )
 ( #has_/range :: Text )
 

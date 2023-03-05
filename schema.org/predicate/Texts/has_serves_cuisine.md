@@ -40,6 +40,6 @@ The cuisine of the restaurant.
 
 Predicated describes that: 
 [ #has_/domain  :: FoodEstablishment ]
-( #has_/name :: is_serves_cuisine )
+( #has_/name :: has_text_about_serves_cuisine )
 ( #has_/range :: Text )
 

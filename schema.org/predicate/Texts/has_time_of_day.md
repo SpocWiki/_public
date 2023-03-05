@@ -42,6 +42,6 @@ The time of day the program normally runs. For example, &quot;evenings&quot;.
 
 Predicated describes that: 
 [ #has_/domain  :: EducationalOccupationalProgram ]
-( #has_/name :: is_time_of_day )
+( #has_/name :: has_text_about_time_of_day )
 ( #has_/range :: Text )
 

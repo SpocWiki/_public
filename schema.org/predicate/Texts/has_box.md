@@ -40,6 +40,6 @@ A box is the area enclosed by the rectangle formed by two points. The first poin
 
 Predicated describes that: 
 [ #has_/domain  :: GeoShape ]
-( #has_/name :: is_box )
+( #has_/name :: has_text_about_box )
 ( #has_/range :: Text )
 

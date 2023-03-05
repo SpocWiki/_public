@@ -42,6 +42,6 @@ Device required to run the application. Used in cases where a specific make/mode
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_device )
+( #has_/name :: has_text_about_device )
 ( #has_/range :: Text )
 

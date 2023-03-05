@@ -40,6 +40,6 @@ The biomechanical properties of the bone.
 
 Predicated describes that: 
 [ #has_/domain  :: Joint ]
-( #has_/name :: is_biomechnical_class )
+( #has_/name :: has_text_about_biomechnical_class )
 ( #has_/range :: Text )
 

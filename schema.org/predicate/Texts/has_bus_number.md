@@ -40,6 +40,6 @@ The unique identifier for the bus.
 
 Predicated describes that: 
 [ #has_/domain  :: BusTrip ]
-( #has_/name :: is_bus_number )
+( #has_/name :: has_text_about_bus_number )
 ( #has_/range :: Text )
 

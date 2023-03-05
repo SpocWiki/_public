@@ -42,6 +42,6 @@ The ACRISS Car Classification Code is a code used by many car rental companies, 
 
 Predicated describes that: 
 [ #has_/domain  :: BusOrCoach, Car ]
-( #has_/name :: is_acriss_code )
+( #has_/name :: has_text_about_acriss_code )
 ( #has_/range :: Text )
 

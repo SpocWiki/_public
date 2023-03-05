@@ -40,6 +40,6 @@ The currency (in 3-letter) of the drug cost. See: http://en.wikipedia.org/wiki/I
 
 Predicated describes that: 
 [ #has_/domain  :: DrugCost ]
-( #has_/name :: is_cost_currency )
+( #has_/name :: has_text_about_cost_currency )
 ( #has_/range :: Text )
 

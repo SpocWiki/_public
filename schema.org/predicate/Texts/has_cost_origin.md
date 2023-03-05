@@ -40,6 +40,6 @@ Additional details to capture the origin of the cost data. For example, "Medicar
 
 Predicated describes that: 
 [ #has_/domain  :: DrugCost ]
-( #has_/name :: is_cost_origin )
+( #has_/name :: has_text_about_cost_origin )
 ( #has_/range :: Text )
 

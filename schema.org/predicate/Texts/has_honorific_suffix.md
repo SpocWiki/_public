@@ -40,6 +40,6 @@ An honorific suffix following a Person"s name such as M.D./PhD/MSCSW.
 
 Predicated describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_honorific_suffix )
+( #has_/name :: has_text_about_honorific_suffix )
 ( #has_/range :: Text )
 

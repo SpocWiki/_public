@@ -42,6 +42,6 @@ A description of the employer, career opportunities and work environment for thi
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_employer_overview )
+( #has_/name :: has_text_about_employer_overview )
 ( #has_/range :: Text )
 

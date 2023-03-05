@@ -40,6 +40,6 @@ The likely outcome in either the short term or long term of the medical conditio
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition ]
-( #has_/name :: is_expected_prognosis )
+( #has_/name :: has_text_about_expected_prognosis )
 ( #has_/range :: Text )
 

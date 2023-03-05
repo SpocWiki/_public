@@ -42,6 +42,6 @@ Indicates a textual identifier for a ProductGroup.
 
 Predicated describes that: 
 [ #has_/domain  :: ProductGroup ]
-( #has_/name :: is_product_group_id )
+( #has_/name :: has_text_about_product_group_id )
 ( #has_/range :: Text )
 

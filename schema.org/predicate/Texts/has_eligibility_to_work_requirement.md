@@ -42,6 +42,6 @@ The legal requirements such as citizenship, visa and other documentation require
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_eligibility_to_work_requirement )
+( #has_/name :: has_text_about_eligibility_to_work_requirement )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ Any precaution, guidance, contraindication, etc. related to consumption of alcoh
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_alcohol_warning )
+( #has_/name :: has_text_about_alcohol_warning )
 ( #has_/range :: Text )
 

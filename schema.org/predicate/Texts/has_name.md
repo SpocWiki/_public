@@ -40,7 +40,7 @@ The name of the item.
 
 Predicated describes that: 
 [ #has_/domain  :: Thing ]
-( #has_/name :: is_name )
+( #has_/name :: has_text_about_name )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: http://www.w3.org/2000/01/rdf-schema#label ]

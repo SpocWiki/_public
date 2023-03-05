@@ -40,6 +40,6 @@ The coding system, e.g. "ICD-10".
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCode ]
-( #has_/name :: is_coding_system )
+( #has_/name :: has_text_about_coding_system )
 ( #has_/range :: Text )
 

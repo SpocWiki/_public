@@ -40,6 +40,6 @@ The algorithm or rules to follow to compute the score.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalRiskScore ]
-( #has_/name :: is_algorithm )
+( #has_/name :: has_text_about_algorithm )
 ( #has_/range :: Text )
 

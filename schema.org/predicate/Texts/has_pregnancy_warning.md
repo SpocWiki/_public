@@ -40,6 +40,6 @@ Any precaution, guidance, contraindication, etc. related to this drug"s use duri
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_pregnancy_warning )
+( #has_/name :: has_text_about_pregnancy_warning )
 ( #has_/range :: Text )
 

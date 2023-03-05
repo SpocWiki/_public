@@ -42,6 +42,6 @@ The place where the item (typically &lt;a class&#x3D;&quot;localLink&quot; href&
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: is_country_of_last_processing )
+( #has_/name :: has_text_about_country_of_last_processing )
 ( #has_/range :: Text )
 

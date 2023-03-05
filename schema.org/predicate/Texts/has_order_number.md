@@ -40,7 +40,7 @@ The identifier of the transaction.
 
 Predicated describes that: 
 [ #has_/domain  :: Order ]
-( #has_/name :: is_order_number )
+( #has_/name :: has_text_about_order_number )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

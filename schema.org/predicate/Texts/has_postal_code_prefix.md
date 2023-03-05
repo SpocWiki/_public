@@ -42,6 +42,6 @@ A defined range of postal codes indicated by a common textual prefix. Used for n
 
 Predicated describes that: 
 [ #has_/domain  :: DefinedRegion ]
-( #has_/name :: is_postal_code_prefix )
+( #has_/name :: has_text_about_postal_code_prefix )
 ( #has_/range :: Text )
 

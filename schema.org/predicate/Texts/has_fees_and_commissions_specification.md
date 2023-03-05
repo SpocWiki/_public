@@ -40,6 +40,6 @@ Description of fees, commissions, and other terms applied either to a class of f
 
 Predicated describes that: 
 [ #has_/domain  :: FinancialProduct, FinancialService ]
-( #has_/name :: is_fees_and_commissions_specification )
+( #has_/name :: has_text_about_fees_and_commissions_specification )
 ( #has_/range :: Text, URL )
 

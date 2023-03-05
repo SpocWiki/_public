@@ -42,7 +42,7 @@ A short textual code that uniquely identifies the value.
 
 Predicated describes that: 
 [ #has_/domain  :: CategoryCode, MedicalCode ]
-( #has_/name :: is_code_value )
+( #has_/name :: has_text_about_code_value )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: termCode ]

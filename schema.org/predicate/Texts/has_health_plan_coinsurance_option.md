@@ -42,6 +42,6 @@ Whether the coinsurance applies before or after deductible, etc. TODO: Is this a
 
 Predicated describes that: 
 [ #has_/domain  :: HealthPlanCostSharingSpecification ]
-( #has_/name :: is_health_plan_coinsurance_option )
+( #has_/name :: has_text_about_health_plan_coinsurance_option )
 ( #has_/range :: Text )
 

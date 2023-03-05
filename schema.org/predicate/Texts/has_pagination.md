@@ -40,6 +40,6 @@ Any description of pages that is not separated into pageStart and pageEnd; for e
 
 Predicated describes that: 
 [ #has_/domain  :: Article, Chapter, PublicationIssue, PublicationVolume ]
-( #has_/name :: is_pagination )
+( #has_/name :: has_text_about_pagination )
 ( #has_/range :: Text )
 

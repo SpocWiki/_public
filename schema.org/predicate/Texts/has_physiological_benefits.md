@@ -40,6 +40,6 @@ Specific physiologic benefits associated to the plan.
 
 Predicated describes that: 
 [ #has_/domain  :: Diet ]
-( #has_/name :: is_physiological_benefits )
+( #has_/name :: has_text_about_physiological_benefits )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The characteristics of associated patients, such as age, gender, race etc.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition, PhysicalActivity ]
-( #has_/name :: is_epidemiology )
+( #has_/name :: has_text_about_epidemiology )
 ( #has_/range :: Text )
 

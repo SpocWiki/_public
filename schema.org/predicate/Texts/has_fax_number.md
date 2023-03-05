@@ -40,6 +40,6 @@ The fax number.
 
 Predicated describes that: 
 [ #has_/domain  :: ContactPoint, Organization, Person, Place ]
-( #has_/name :: is_fax_number )
+( #has_/name :: has_text_about_fax_number )
 ( #has_/range :: Text )
 

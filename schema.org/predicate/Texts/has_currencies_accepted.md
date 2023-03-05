@@ -42,6 +42,6 @@ Use standard formats: &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/ISO_421
 
 Predicated describes that: 
 [ #has_/domain  :: LocalBusiness ]
-( #has_/name :: is_currencies_accepted )
+( #has_/name :: has_text_about_currencies_accepted )
 ( #has_/range :: Text )
 

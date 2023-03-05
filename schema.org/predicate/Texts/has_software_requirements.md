@@ -42,6 +42,6 @@ Component dependency requirements for application. This includes runtime environ
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_software_requirements )
+( #has_/name :: has_text_about_software_requirements )
 ( #has_/range :: Text, URL )
 

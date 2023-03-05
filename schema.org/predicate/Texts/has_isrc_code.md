@@ -40,6 +40,6 @@ The International Standard Recording Code for the recording.
 
 Predicated describes that: 
 [ #has_/domain  :: MusicRecording ]
-( #has_/name :: is_isrc_code )
+( #has_/name :: has_text_about_isrc_code )
 ( #has_/range :: Text )
 

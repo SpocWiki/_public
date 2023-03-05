@@ -42,7 +42,7 @@ Category of an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Accommoda
 
 Predicated describes that: 
 [ #has_/domain  :: Accommodation ]
-( #has_/name :: is_accommodation_category )
+( #has_/name :: has_text_about_accommodation_category )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: category ]

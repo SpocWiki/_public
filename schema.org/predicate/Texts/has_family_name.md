@@ -40,6 +40,6 @@ Family name. In the U.S., the last name of a Person.
 
 Predicated describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_family_name )
+( #has_/name :: has_text_about_family_name )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ Strength of the guideline"s recommendation (e.g. "class I").
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalGuidelineRecommendation ]
-( #has_/name :: is_recommendation_strength )
+( #has_/name :: has_text_about_recommendation_strength )
 ( #has_/range :: Text )
 

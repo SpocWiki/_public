@@ -41,6 +41,6 @@ Indicates (by URL or string) a particular version of a schema used in some Creat
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_schema_version )
+( #has_/name :: has_text_about_schema_version )
 ( #has_/range :: Text, URL )
 

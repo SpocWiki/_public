@@ -40,6 +40,6 @@ Code used to redeem a discount.
 
 Predicated describes that: 
 [ #has_/domain  :: Order ]
-( #has_/name :: is_discount_code )
+( #has_/name :: has_text_about_discount_code )
 ( #has_/range :: Text )
 

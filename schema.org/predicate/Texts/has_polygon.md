@@ -40,6 +40,6 @@ A polygon is the area enclosed by a point-to-point path for which the starting a
 
 Predicated describes that: 
 [ #has_/domain  :: GeoShape ]
-( #has_/name :: is_polygon )
+( #has_/name :: has_text_about_polygon )
 ( #has_/range :: Text )
 

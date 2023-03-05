@@ -40,6 +40,6 @@ Specific physiologic risks associated to the diet plan.
 
 Predicated describes that: 
 [ #has_/domain  :: Diet ]
-( #has_/name :: is_risks )
+( #has_/name :: has_text_about_risks )
 ( #has_/range :: Text )
 

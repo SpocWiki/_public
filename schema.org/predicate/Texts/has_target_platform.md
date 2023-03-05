@@ -40,6 +40,6 @@ Type of app development: phone, Metro style, desktop, XBox, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: APIReference ]
-( #has_/name :: is_target_platform )
+( #has_/name :: has_text_about_target_platform )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ A possible unexpected and unfavorable evolution of a medical condition. Complica
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition ]
-( #has_/name :: is_possible_complication )
+( #has_/name :: has_text_about_possible_complication )
 ( #has_/range :: Text )
 

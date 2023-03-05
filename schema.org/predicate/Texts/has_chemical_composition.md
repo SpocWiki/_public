@@ -42,6 +42,6 @@ The chemical composition describes the identity and relative ratio of the chemic
 
 Predicated describes that: 
 [ #has_/domain  :: ChemicalSubstance ]
-( #has_/name :: is_chemical_composition )
+( #has_/name :: has_text_about_chemical_composition )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The exchange traded instrument associated with a Corporation object. The tickerS
 
 Predicated describes that: 
 [ #has_/domain  :: Corporation ]
-( #has_/name :: is_ticker_symbol )
+( #has_/name :: has_text_about_ticker_symbol )
 ( #has_/range :: Text )
 

@@ -42,6 +42,6 @@ The amount of work expected of students taking the course, often provided as a f
 
 Predicated describes that: 
 [ #has_/domain  :: CourseInstance ]
-( #has_/name :: is_course_workload )
+( #has_/name :: has_text_about_course_workload )
 ( #has_/range :: Text )
 

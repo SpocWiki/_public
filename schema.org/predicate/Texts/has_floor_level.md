@@ -43,6 +43,6 @@ The floor level for an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/A
 
 Predicated describes that: 
 [ #has_/domain  :: Accommodation ]
-( #has_/name :: is_floor_level )
+( #has_/name :: has_text_about_floor_level )
 ( #has_/range :: Text )
 

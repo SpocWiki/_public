@@ -40,6 +40,6 @@ How the disease spreads, either as a route or vector, for example "direct contac
 
 Predicated describes that: 
 [ #has_/domain  :: InfectiousDisease ]
-( #has_/name :: is_transmission_method )
+( #has_/name :: has_text_about_transmission_method )
 ( #has_/range :: Text )
 

@@ -44,6 +44,6 @@ To discourage over-use, and reflecting intial usecases, the property is expected
 
 Predicated describes that: 
 [ #has_/domain  :: Offer, Product ]
-( #has_/name :: is_mobile_url )
+( #has_/name :: has_text_about_mobile_url )
 ( #has_/range :: Text )
 

@@ -40,7 +40,7 @@ The unique identifier for a flight including the airline IATA code. For example,
 
 Predicated describes that: 
 [ #has_/domain  :: Flight ]
-( #has_/name :: is_flight_number )
+( #has_/name :: has_text_about_flight_number )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

@@ -40,6 +40,6 @@ The Manufacturer Part Number (MPN) of the product, or the product to which the o
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]
-( #has_/name :: is_mpn )
+( #has_/name :: has_text_about_mpn )
 ( #has_/range :: Text )
 

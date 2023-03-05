@@ -40,6 +40,6 @@ The unique identifier for the ticket.
 
 Predicated describes that: 
 [ #has_/domain  :: Ticket ]
-( #has_/name :: is_ticket_number )
+( #has_/name :: has_text_about_ticket_number )
 ( #has_/range :: Text )
 

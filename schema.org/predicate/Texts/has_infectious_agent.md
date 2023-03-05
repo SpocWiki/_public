@@ -40,6 +40,6 @@ The actual infectious agent, such as a specific bacterium.
 
 Predicated describes that: 
 [ #has_/domain  :: InfectiousDisease ]
-( #has_/name :: is_infectious_agent )
+( #has_/name :: has_text_about_infectious_agent )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ A person or organization can have different contact points, for different purpos
 
 Predicated describes that: 
 [ #has_/domain  :: ContactPoint ]
-( #has_/name :: is_contact_type )
+( #has_/name :: has_text_about_contact_type )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ Password, PIN, or access code needed for delivery (e.g. from a locker).
 
 Predicated describes that: 
 [ #has_/domain  :: DeliveryEvent ]
-( #has_/name :: is_access_code )
+( #has_/name :: has_text_about_access_code )
 ( #has_/range :: Text )
 

@@ -43,6 +43,6 @@ Standards bodies should promote a standard prefix for the identifiers of propert
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValue ]
-( #has_/name :: is_property_id )
+( #has_/name :: has_text_about_property_id )
 ( #has_/range :: Text, URL )
 

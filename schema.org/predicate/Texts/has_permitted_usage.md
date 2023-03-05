@@ -40,6 +40,6 @@ Indications regarding the permitted usage of the accommodation.
 
 Predicated describes that: 
 [ #has_/domain  :: Accommodation ]
-( #has_/name :: is_permitted_usage )
+( #has_/name :: has_text_about_permitted_usage )
 ( #has_/range :: Text )
 

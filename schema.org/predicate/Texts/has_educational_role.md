@@ -40,6 +40,6 @@ An educationalRole of an EducationalAudience.
 
 Predicated describes that: 
 [ #has_/domain  :: EducationalAudience ]
-( #has_/name :: is_educational_role )
+( #has_/name :: has_text_about_educational_role )
 ( #has_/range :: Text )
 

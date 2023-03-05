@@ -40,6 +40,6 @@ If this NewsArticle appears in print, this field indicates the name of the page 
 
 Predicated describes that: 
 [ #has_/domain  :: NewsArticle ]
-( #has_/name :: is_print_page )
+( #has_/name :: has_text_about_print_page )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The telephone number.
 
 Predicated describes that: 
 [ #has_/domain  :: ContactPoint, Organization, Person, Place ]
-( #has_/name :: is_telephone )
+( #has_/name :: has_text_about_telephone )
 ( #has_/range :: Text )
 

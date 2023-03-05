@@ -42,7 +42,7 @@ Represents textual captioning from a &lt;a class&#x3D;&quot;localLink&quot; href
 
 Predicated describes that: 
 [ #has_/domain  :: AudioObject, ImageObject, VideoObject ]
-( #has_/name :: is_embedded_text_caption )
+( #has_/name :: has_text_about_embedded_text_caption )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: caption ]

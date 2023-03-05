@@ -40,6 +40,6 @@ The International Standard Musical Work Code for the composition.
 
 Predicated describes that: 
 [ #has_/domain  :: MusicComposition ]
-( #has_/name :: is_iswc_code )
+( #has_/name :: has_text_about_iswc_code )
 ( #has_/range :: Text )
 

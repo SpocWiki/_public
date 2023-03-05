@@ -40,6 +40,6 @@ The section location of the reserved seat (e.g. Orchestra).
 
 Predicated describes that: 
 [ #has_/domain  :: Seat ]
-( #has_/name :: is_seat_section )
+( #has_/name :: has_text_about_seat_section )
 ( #has_/range :: Text )
 

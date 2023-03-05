@@ -40,6 +40,6 @@ Any precaution, guidance, contraindication, etc. related to consumption of speci
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_food_warning )
+( #has_/name :: has_text_about_food_warning )
 ( #has_/range :: Text )
 

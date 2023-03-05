@@ -42,6 +42,6 @@ First postal code in a range (included).
 
 Predicated describes that: 
 [ #has_/domain  :: PostalCodeRangeSpecification ]
-( #has_/name :: is_postal_code_begin )
+( #has_/name :: has_text_about_postal_code_begin )
 ( #has_/range :: Text )
 

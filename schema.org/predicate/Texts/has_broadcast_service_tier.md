@@ -40,6 +40,6 @@ The type of service required to have access to the channel (e.g. Standard or Pre
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastChannel ]
-( #has_/name :: is_broadcast_service_tier )
+( #has_/name :: has_text_about_broadcast_service_tier )
 ( #has_/range :: Text )
 

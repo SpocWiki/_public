@@ -40,6 +40,6 @@ A secondary title of the CreativeWork.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_alternative_headline )
+( #has_/name :: has_text_about_alternative_headline )
 ( #has_/range :: Text )
 

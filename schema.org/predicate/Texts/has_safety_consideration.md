@@ -40,6 +40,6 @@ Any potential safety concern associated with the supplement. May include interac
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement ]
-( #has_/name :: is_safety_consideration )
+( #has_/name :: has_text_about_safety_consideration )
 ( #has_/range :: Text )
 

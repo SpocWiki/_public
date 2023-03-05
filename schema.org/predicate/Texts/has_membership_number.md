@@ -40,6 +40,6 @@ A unique identifier for the membership.
 
 Predicated describes that: 
 [ #has_/domain  :: ProgramMembership ]
-( #has_/name :: is_membership_number )
+( #has_/name :: has_text_about_membership_number )
 ( #has_/range :: Text )
 

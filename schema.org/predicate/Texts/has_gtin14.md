@@ -40,7 +40,7 @@ The GTIN-14 code of the product, or the product to which the offer refers. See &
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]
-( #has_/name :: is_gtin14 )
+( #has_/name :: has_text_about_gtin14 )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: gtin, identifier ]

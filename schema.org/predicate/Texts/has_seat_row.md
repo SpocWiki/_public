@@ -40,6 +40,6 @@ The row location of the reserved seat (e.g., B).
 
 Predicated describes that: 
 [ #has_/domain  :: Seat ]
-( #has_/name :: is_seat_row )
+( #has_/name :: has_text_about_seat_row )
 ( #has_/range :: Text )
 

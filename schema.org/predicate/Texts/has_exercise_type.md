@@ -40,6 +40,6 @@ Type(s) of exercise or activity, such as strength training, flexibility training
 
 Predicated describes that: 
 [ #has_/domain  :: ExerciseAction, ExercisePlan ]
-( #has_/name :: is_exercise_type )
+( #has_/name :: has_text_about_exercise_type )
 ( #has_/range :: Text )
 

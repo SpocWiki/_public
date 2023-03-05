@@ -40,6 +40,6 @@ A category of alignment between the learning resource and the framework node. Re
 
 Predicated describes that: 
 [ #has_/domain  :: AlignmentObject ]
-( #has_/name :: is_alignment_type )
+( #has_/name :: has_text_about_alignment_type )
 ( #has_/range :: Text )
 

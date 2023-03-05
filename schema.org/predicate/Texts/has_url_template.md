@@ -40,6 +40,6 @@ An url template (RFC6570) that will be used to construct the target of the execu
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
-( #has_/name :: is_url_template )
+( #has_/name :: has_text_about_url_template )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The predominant mode of learning supported by the learning resource. Acceptable 
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_interactivity_type )
+( #has_/name :: has_text_about_interactivity_type )
 ( #has_/range :: Text )
 

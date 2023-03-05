@@ -42,6 +42,6 @@ Use standard formats: &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/ISO_421
 
 Predicated describes that: 
 [ #has_/domain  :: DatedMoneySpecification, ExchangeRateSpecification, LoanOrCredit, MonetaryAmount, MonetaryAmountDistribution ]
-( #has_/name :: is_currency )
+( #has_/name :: has_text_about_currency )
 ( #has_/range :: Text )
 

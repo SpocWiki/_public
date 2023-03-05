@@ -42,7 +42,7 @@ A &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/Call_sign&quot;&gt;callsig
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastService, Person, Vehicle ]
-( #has_/name :: is_call_sign )
+( #has_/name :: has_text_about_call_sign )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

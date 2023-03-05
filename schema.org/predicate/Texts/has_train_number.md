@@ -40,6 +40,6 @@ The unique identifier for the train.
 
 Predicated describes that: 
 [ #has_/domain  :: TrainTrip ]
-( #has_/name :: is_train_number )
+( #has_/name :: has_text_about_train_number )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The North American Industry Classification System (NAICS) code for a particular 
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_naics )
+( #has_/name :: has_text_about_naics )
 ( #has_/range :: Text )
 

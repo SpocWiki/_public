@@ -40,6 +40,6 @@ The type of security screening the passenger is subject to.
 
 Predicated describes that: 
 [ #has_/domain  :: FlightReservation ]
-( #has_/name :: is_security_screening )
+( #has_/name :: has_text_about_security_screening )
 ( #has_/range :: Text )
 

@@ -42,7 +42,7 @@ An identifier for the legislation. This can be either a string-based identifier,
 
 Predicated describes that: 
 [ #has_/domain  :: Legislation ]
-( #has_/name :: is_legislation_identifier )
+( #has_/name :: has_text_about_legislation_identifier )
 ( #has_/range :: Text, URL )
 
 [ #is_/sub_property_of  :: identifier ]

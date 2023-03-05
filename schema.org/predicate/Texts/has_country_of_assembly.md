@@ -42,6 +42,6 @@ The place where the product was assembled.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: is_country_of_assembly )
+( #has_/name :: has_text_about_country_of_assembly )
 ( #has_/range :: Text )
 

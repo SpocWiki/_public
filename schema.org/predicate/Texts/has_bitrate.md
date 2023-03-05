@@ -40,6 +40,6 @@ The bitrate of the media object.
 
 Predicated describes that: 
 [ #has_/domain  :: MediaObject ]
-( #has_/name :: is_bitrate )
+( #has_/name :: has_text_about_bitrate )
 ( #has_/range :: Text )
 

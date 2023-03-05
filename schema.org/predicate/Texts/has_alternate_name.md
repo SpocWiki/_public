@@ -40,7 +40,7 @@ An alias for the item.
 
 Predicated describes that: 
 [ #has_/domain  :: Thing ]
-( #has_/name :: is_alternate_name )
+( #has_/name :: has_text_about_alternate_name )
 ( #has_/range :: Text )
 
 [ #has_/sub_properties :: [ additionalName ] ]

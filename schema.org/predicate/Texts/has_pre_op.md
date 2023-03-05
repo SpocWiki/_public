@@ -40,6 +40,6 @@ A description of the workup, testing, and other preparations required before imp
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalDevice ]
-( #has_/name :: is_pre_op )
+( #has_/name :: has_text_about_pre_op )
 ( #has_/range :: Text )
 

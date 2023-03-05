@@ -40,6 +40,6 @@ The airline-specific indicator of boarding order / preference.
 
 Predicated describes that: 
 [ #has_/domain  :: FlightReservation ]
-( #has_/name :: is_boarding_group )
+( #has_/name :: has_text_about_boarding_group )
 ( #has_/range :: Text )
 

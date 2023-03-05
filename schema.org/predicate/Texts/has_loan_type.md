@@ -42,6 +42,6 @@ The type of a loan or credit.
 
 Predicated describes that: 
 [ #has_/domain  :: LoanOrCredit ]
-( #has_/name :: is_loan_type )
+( #has_/name :: has_text_about_loan_type )
 ( #has_/range :: Text, URL )
 

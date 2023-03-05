@@ -40,6 +40,6 @@ The significance associated with the superficial anatomy; as an example, how cha
 
 Predicated describes that: 
 [ #has_/domain  :: SuperficialAnatomy ]
-( #has_/name :: is_significance )
+( #has_/name :: has_text_about_significance )
 ( #has_/range :: Text )
 

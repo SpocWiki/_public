@@ -42,7 +42,7 @@ A sub property of object. The options subject to this action.
 
 Predicated describes that: 
 [ #has_/domain  :: ChooseAction ]
-( #has_/name :: is_action_option )
+( #has_/name :: has_text_about_action_option )
 ( #has_/range :: Text, Thing )
 
 [ #is_/sub_property_of  :: object ]

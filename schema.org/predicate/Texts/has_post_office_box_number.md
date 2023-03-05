@@ -40,6 +40,6 @@ The post office box number for PO box addresses.
 
 Predicated describes that: 
 [ #has_/domain  :: PostalAddress ]
-( #has_/name :: is_post_office_box_number )
+( #has_/name :: has_text_about_post_office_box_number )
 ( #has_/range :: Text )
 

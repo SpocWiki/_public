@@ -40,6 +40,6 @@ Changes in the normal mechanical, physical, and biochemical functions that are a
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition, PhysicalActivity ]
-( #has_/name :: is_pathophysiology )
+( #has_/name :: has_text_about_pathophysiology )
 ( #has_/range :: Text )
 

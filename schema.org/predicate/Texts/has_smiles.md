@@ -42,7 +42,7 @@ A specification in form of a line notation for describing the structure of chemi
 
 Predicated describes that: 
 [ #has_/domain  :: MolecularEntity ]
-( #has_/name :: is_smiles )
+( #has_/name :: has_text_about_smiles )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: hasRepresentation ]

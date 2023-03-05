@@ -40,6 +40,6 @@ The movement the muscle generates.
 
 Predicated describes that: 
 [ #has_/domain  :: Muscle ]
-( #has_/name :: is_muscle_action )
+( #has_/name :: has_text_about_muscle_action )
 ( #has_/range :: Text )
 

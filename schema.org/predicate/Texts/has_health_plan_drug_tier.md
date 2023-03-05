@@ -42,6 +42,6 @@ The tier(s) of drugs offered by this formulary or insurance plan.
 
 Predicated describes that: 
 [ #has_/domain  :: HealthInsurancePlan, HealthPlanFormulary ]
-( #has_/name :: is_health_plan_drug_tier )
+( #has_/name :: has_text_about_health_plan_drug_tier )
 ( #has_/range :: Text )
 

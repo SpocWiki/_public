@@ -42,6 +42,6 @@ Awards won by or for this item.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork, Organization, Person, Product ]
-( #has_/name :: is_awards )
+( #has_/name :: has_text_about_awards )
 ( #has_/range :: Text )
 

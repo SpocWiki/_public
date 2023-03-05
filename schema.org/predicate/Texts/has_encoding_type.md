@@ -40,6 +40,6 @@ The supported encoding type(s) for an EntryPoint request.
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
-( #has_/name :: is_encoding_type )
+( #has_/name :: has_text_about_encoding_type )
 ( #has_/range :: Text )
 

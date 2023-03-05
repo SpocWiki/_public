@@ -44,6 +44,6 @@ A description of the variant cover
 
 Predicated describes that: 
 [ #has_/domain  :: ComicIssue ]
-( #has_/name :: is_variant_cover )
+( #has_/name :: has_text_about_variant_cover )
 ( #has_/range :: Text )
 

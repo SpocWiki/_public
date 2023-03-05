@@ -40,6 +40,6 @@ If this MediaObject is an AudioObject or VideoObject, the transcript of that obj
 
 Predicated describes that: 
 [ #has_/domain  :: AudioObject, VideoObject ]
-( #has_/name :: is_transcript )
+( #has_/name :: has_text_about_transcript )
 ( #has_/range :: Text )
 

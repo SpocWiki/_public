@@ -40,6 +40,6 @@ Countries for which the application is supported. You can also provide the two-l
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_countries_supported )
+( #has_/name :: has_text_about_countries_supported )
 ( #has_/range :: Text )
 

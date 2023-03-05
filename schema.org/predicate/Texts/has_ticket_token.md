@@ -40,6 +40,6 @@ Reference to an asset (e.g., Barcode, QR code image or PDF) usable for entrance.
 
 Predicated describes that: 
 [ #has_/domain  :: Ticket ]
-( #has_/name :: is_ticket_token )
+( #has_/name :: has_text_about_ticket_token )
 ( #has_/range :: Text, URL )
 

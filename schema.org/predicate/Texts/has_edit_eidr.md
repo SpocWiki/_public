@@ -46,7 +46,7 @@ Since schema.org types like &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&qu
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_edit_eidr )
+( #has_/name :: has_text_about_edit_eidr )
 ( #has_/range :: Text, URL )
 
 [ #is_/sub_property_of  :: identifier ]

@@ -42,6 +42,6 @@ Label to match an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/OfferS
 
 Predicated describes that: 
 [ #has_/domain  :: DeliveryTimeSettings, OfferShippingDetails ]
-( #has_/name :: is_transit_time_label )
+( #has_/name :: has_text_about_transit_time_label )
 ( #has_/range :: Text )
 

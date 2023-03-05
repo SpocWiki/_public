@@ -42,6 +42,6 @@ A position played, performed or filled by a person or organization, as part of a
 
 Predicated describes that: 
 [ #has_/domain  :: Role ]
-( #has_/name :: is_named_position )
+( #has_/name :: has_text_about_named_position )
 ( #has_/range :: Text, URL )
 

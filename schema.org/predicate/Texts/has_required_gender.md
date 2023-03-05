@@ -40,6 +40,6 @@ Audiences defined by a person"s gender.
 
 Predicated describes that: 
 [ #has_/domain  :: PeopleAudience ]
-( #has_/name :: is_required_gender )
+( #has_/name :: has_text_about_required_gender )
 ( #has_/range :: Text )
 

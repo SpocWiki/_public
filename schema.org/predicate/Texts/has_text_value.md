@@ -42,6 +42,6 @@ Text value being annotated.
 
 Predicated describes that: 
 [ #has_/domain  :: PronounceableText ]
-( #has_/name :: is_text_value )
+( #has_/name :: has_text_about_text_value )
 ( #has_/range :: Text )
 

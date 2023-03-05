@@ -40,6 +40,6 @@ If applicable, a description of the pathophysiology associated with the anatomic
 
 Predicated describes that: 
 [ #has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ]
-( #has_/name :: is_associated_pathophysiology )
+( #has_/name :: has_text_about_associated_pathophysiology )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The textual content of this CreativeWork.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_text )
+( #has_/name :: has_text_about_text )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The unit of measurement given using the UN/CEFACT Common Code (3 characters) or 
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification ]
-( #has_/name :: is_unit_code )
+( #has_/name :: has_text_about_unit_code )
 ( #has_/range :: Text, URL )
 

@@ -40,6 +40,6 @@ Cash, Credit Card, Cryptocurrency, Local Exchange Tradings System, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: LocalBusiness ]
-( #has_/name :: is_payment_accepted )
+( #has_/name :: has_text_about_payment_accepted )
 ( #has_/range :: Text )
 

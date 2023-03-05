@@ -40,6 +40,6 @@ Any FDA or other warnings about the drug (text or URL).
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_warning )
+( #has_/name :: has_text_about_warning )
 ( #has_/range :: Text, URL )
 

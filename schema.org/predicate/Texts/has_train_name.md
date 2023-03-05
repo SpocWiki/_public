@@ -40,6 +40,6 @@ The name of the train (e.g. The Orient Express).
 
 Predicated describes that: 
 [ #has_/domain  :: TrainTrip ]
-( #has_/name :: is_train_name )
+( #has_/name :: has_text_about_train_name )
 ( #has_/range :: Text )
 

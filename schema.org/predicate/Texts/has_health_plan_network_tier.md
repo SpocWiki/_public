@@ -42,6 +42,6 @@ The tier(s) for this network.
 
 Predicated describes that: 
 [ #has_/domain  :: HealthPlanNetwork ]
-( #has_/name :: is_health_plan_network_tier )
+( #has_/name :: has_text_about_health_plan_network_tier )
 ( #has_/range :: Text )
 

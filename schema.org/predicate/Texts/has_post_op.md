@@ -40,6 +40,6 @@ A description of the postoperative procedures, care, and/or followups for this d
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalDevice ]
-( #has_/name :: is_post_op )
+( #has_/name :: has_text_about_post_op )
 ( #has_/range :: Text )
 

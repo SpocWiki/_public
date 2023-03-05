@@ -49,6 +49,6 @@ If there are several &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/var
 
 Predicated describes that: 
 [ #has_/domain  :: DataCatalog, DataDownload, Dataset, PropertyValue ]
-( #has_/name :: is_measurement_technique )
+( #has_/name :: has_text_about_measurement_technique )
 ( #has_/range :: Text, URL )
 

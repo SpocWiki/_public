@@ -40,6 +40,6 @@ The color or color combination of the interior of the vehicle.
 
 Predicated describes that: 
 [ #has_/domain  :: Vehicle ]
-( #has_/name :: is_vehicle_interior_color )
+( #has_/name :: has_text_about_vehicle_interior_color )
 ( #has_/range :: Text )
 

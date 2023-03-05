@@ -42,6 +42,6 @@ Description of bonus and commission compensation aspects of the job.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_incentive_compensation )
+( #has_/name :: has_text_about_incentive_compensation )
 ( #has_/range :: Text )
 

@@ -42,7 +42,7 @@ A material used as a surface in some artwork, e.g. Canvas, Paper, Wood, Board, e
 
 Predicated describes that: 
 [ #has_/domain  :: VisualArtwork ]
-( #has_/name :: is_surface )
+( #has_/name :: has_text_about_surface )
 ( #has_/range :: Text, URL )
 
 [ #is_/sub_property_of  :: material ]

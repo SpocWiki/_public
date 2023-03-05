@@ -42,6 +42,6 @@ The empirical formula is the simplest whole number ratio of all the atoms in a m
 
 Predicated describes that: 
 [ #has_/domain  :: MolecularEntity ]
-( #has_/name :: is_molecular_formula )
+( #has_/name :: has_text_about_molecular_formula )
 ( #has_/range :: Text )
 

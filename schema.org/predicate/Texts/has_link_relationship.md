@@ -42,6 +42,6 @@ Indicates the relationship type of a Web link.
 
 Predicated describes that: 
 [ #has_/domain  :: LinkRole ]
-( #has_/name :: is_link_relationship )
+( #has_/name :: has_text_about_link_relationship )
 ( #has_/range :: Text )
 

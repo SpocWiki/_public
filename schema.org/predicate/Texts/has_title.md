@@ -40,6 +40,6 @@ The title of the job.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_title )
+( #has_/name :: has_text_about_title )
 ( #has_/range :: Text )
 

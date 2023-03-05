@@ -40,6 +40,6 @@ Email address.
 
 Predicated describes that: 
 [ #has_/domain  :: ContactPoint, Organization, Person ]
-( #has_/name :: is_email )
+( #has_/name :: has_text_about_email )
 ( #has_/range :: Text )
 

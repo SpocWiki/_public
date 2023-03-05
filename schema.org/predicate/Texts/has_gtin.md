@@ -46,7 +46,7 @@ Note also that this is a definition for how to include GTINs in Schema.org data,
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]
-( #has_/name :: is_gtin )
+( #has_/name :: has_text_about_gtin )
 ( #has_/range :: Text, URL )
 
 [ #is_/sub_property_of  :: identifier ]

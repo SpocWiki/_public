@@ -40,7 +40,7 @@ A description of the item.
 
 Predicated describes that: 
 [ #has_/domain  :: Thing ]
-( #has_/name :: is_description )
+( #has_/name :: has_text_about_description )
 ( #has_/range :: Text )
 
 [ #has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ] ]

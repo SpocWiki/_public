@@ -42,6 +42,6 @@ Media type, typically MIME format (see &lt;a href&#x3D;&quot;http://www.iana.org
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_file_format )
+( #has_/name :: has_text_about_file_format )
 ( #has_/range :: Text, URL )
 

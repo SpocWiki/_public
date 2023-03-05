@@ -42,6 +42,6 @@ Text that can be used to credit person(s) and/or organization(s) associated with
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_credit_text )
+( #has_/name :: has_text_about_credit_text )
 ( #has_/range :: Text )
 

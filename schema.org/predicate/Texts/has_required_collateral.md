@@ -40,6 +40,6 @@ Assets required to secure loan or credit repayments. It may take form of third p
 
 Predicated describes that: 
 [ #has_/domain  :: LoanOrCredit ]
-( #has_/name :: is_required_collateral )
+( #has_/name :: has_text_about_required_collateral )
 ( #has_/range :: Text, Thing )
 

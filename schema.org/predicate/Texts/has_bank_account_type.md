@@ -42,6 +42,6 @@ The type of a bank account.
 
 Predicated describes that: 
 [ #has_/domain  :: BankAccount ]
-( #has_/name :: is_bank_account_type )
+( #has_/name :: has_text_about_bank_account_type )
 ( #has_/range :: Text, URL )
 

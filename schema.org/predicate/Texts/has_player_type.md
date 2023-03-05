@@ -40,6 +40,6 @@ Player type required&amp;#x2014;for example, Flash or Silverlight.
 
 Predicated describes that: 
 [ #has_/domain  :: MediaObject ]
-( #has_/name :: is_player_type )
+( #has_/name :: has_text_about_player_type )
 ( #has_/range :: Text )
 

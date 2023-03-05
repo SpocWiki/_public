@@ -42,6 +42,6 @@ The category or type of pharmacy associated with this cost sharing.
 
 Predicated describes that: 
 [ #has_/domain  :: HealthPlanCostSharingSpecification ]
-( #has_/name :: is_health_plan_pharmacy_category )
+( #has_/name :: has_text_about_health_plan_pharmacy_category )
 ( #has_/range :: Text )
 

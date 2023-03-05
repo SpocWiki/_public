@@ -42,6 +42,6 @@ Label to match an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/OfferS
 
 Predicated describes that: 
 [ #has_/domain  :: OfferShippingDetails, ShippingRateSettings ]
-( #has_/name :: is_shipping_label )
+( #has_/name :: has_text_about_shipping_label )
 ( #has_/range :: Text )
 

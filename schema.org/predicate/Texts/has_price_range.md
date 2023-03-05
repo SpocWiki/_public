@@ -40,6 +40,6 @@ The price range of the business, for example &lt;code&gt;$$$&lt;/code&gt;.
 
 Predicated describes that: 
 [ #has_/domain  :: LocalBusiness ]
-( #has_/name :: is_price_range )
+( #has_/name :: has_text_about_price_range )
 ( #has_/range :: Text )
 

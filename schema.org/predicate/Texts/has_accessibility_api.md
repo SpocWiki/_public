@@ -40,6 +40,6 @@ Indicates that the resource is compatible with the referenced accessibility API.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_accessibility_api )
+( #has_/name :: has_text_about_accessibility_api )
 ( #has_/range :: Text )
 

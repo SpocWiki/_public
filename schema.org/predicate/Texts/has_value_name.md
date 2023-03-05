@@ -40,6 +40,6 @@ Indicates the name of the PropertyValueSpecification to be used in URL templates
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValueSpecification ]
-( #has_/name :: is_value_name )
+( #has_/name :: has_text_about_value_name )
 ( #has_/range :: Text )
 

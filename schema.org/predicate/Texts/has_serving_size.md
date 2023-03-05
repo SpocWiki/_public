@@ -40,6 +40,6 @@ The serving size, in terms of the number of volume or mass.
 
 Predicated describes that: 
 [ #has_/domain  :: NutritionInformation ]
-( #has_/name :: is_serving_size )
+( #has_/name :: has_text_about_serving_size )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ Identifier of the flight"s arrival terminal.
 
 Predicated describes that: 
 [ #has_/domain  :: Flight ]
-( #has_/name :: is_arrival_terminal )
+( #has_/name :: has_text_about_arrival_terminal )
 ( #has_/range :: Text )
 

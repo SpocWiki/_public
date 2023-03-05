@@ -40,6 +40,6 @@ A short text indicating the configuration of the vehicle, e.g. "5dr hatchback ST
 
 Predicated describes that: 
 [ #has_/domain  :: Vehicle ]
-( #has_/name :: is_vehicle_configuration )
+( #has_/name :: has_text_about_vehicle_configuration )
 ( #has_/range :: Text )
 

@@ -40,6 +40,6 @@ The passenger"s sequence number as assigned by the airline.
 
 Predicated describes that: 
 [ #has_/domain  :: FlightReservation ]
-( #has_/name :: is_passenger_sequence_number )
+( #has_/name :: has_text_about_passenger_sequence_number )
 ( #has_/range :: Text )
 

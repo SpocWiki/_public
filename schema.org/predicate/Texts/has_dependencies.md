@@ -40,6 +40,6 @@ Prerequisites needed to fulfill steps in article.
 
 Predicated describes that: 
 [ #has_/domain  :: TechArticle ]
-( #has_/name :: is_dependencies )
+( #has_/name :: has_text_about_dependencies )
 ( #has_/range :: Text )
 

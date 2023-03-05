@@ -40,6 +40,6 @@ Characteristics of the population for which this is intended, or which typically
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement, DoseSchedule ]
-( #has_/name :: is_target_population )
+( #has_/name :: has_text_about_target_population )
 ( #has_/range :: Text )
 

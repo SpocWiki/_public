@@ -40,6 +40,6 @@ Headline of the article.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_headline )
+( #has_/name :: has_text_about_headline )
 ( #has_/range :: Text )
 

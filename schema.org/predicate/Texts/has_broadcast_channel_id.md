@@ -40,6 +40,6 @@ The unique address by which the BroadcastService can be identified in a provider
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastChannel ]
-( #has_/name :: is_broadcast_channel_id )
+( #has_/name :: has_text_about_broadcast_channel_id )
 ( #has_/range :: Text )
 

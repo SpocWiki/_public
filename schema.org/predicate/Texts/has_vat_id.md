@@ -40,6 +40,6 @@ The Value-added Tax ID of the organization or person.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_vat_id )
+( #has_/name :: has_text_about_vat_id )
 ( #has_/range :: Text )
 

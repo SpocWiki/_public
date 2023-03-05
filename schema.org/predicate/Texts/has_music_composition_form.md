@@ -40,6 +40,6 @@ The type of composition (e.g. overture, sonata, symphony, etc.).
 
 Predicated describes that: 
 [ #has_/domain  :: MusicComposition ]
-( #has_/name :: is_music_composition_form )
+( #has_/name :: has_text_about_music_composition_form )
 ( #has_/range :: Text )
 

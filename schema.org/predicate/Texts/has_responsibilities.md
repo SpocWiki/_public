@@ -40,6 +40,6 @@ Responsibilities associated with this role or Occupation.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting, Occupation ]
-( #has_/name :: is_responsibilities )
+( #has_/name :: has_text_about_responsibilities )
 ( #has_/range :: Text )
 

@@ -42,6 +42,6 @@ Similar to courseMode, the medium or means of delivery of the program as a whole
 
 Predicated describes that: 
 [ #has_/domain  :: EducationalOccupationalProgram ]
-( #has_/name :: is_educational_program_mode )
+( #has_/name :: has_text_about_educational_program_mode )
 ( #has_/range :: Text, URL )
 

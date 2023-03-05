@@ -42,6 +42,6 @@ Library file name, e.g., mscorlib.dll, system.web.dll.
 
 Predicated describes that: 
 [ #has_/domain  :: APIReference ]
-( #has_/name :: is_assembly )
+( #has_/name :: has_text_about_assembly )
 ( #has_/range :: Text )
 

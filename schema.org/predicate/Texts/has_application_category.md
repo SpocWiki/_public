@@ -40,6 +40,6 @@ Type of software application, e.g. "Game, Multimedia".
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_application_category )
+( #has_/name :: has_text_about_application_category )
 ( #has_/range :: Text, URL )
 

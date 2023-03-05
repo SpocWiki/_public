@@ -40,6 +40,6 @@ A description of the procedure involved in setting up, using, and/or installing 
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalDevice ]
-( #has_/name :: is_procedure )
+( #has_/name :: has_text_about_procedure )
 ( #has_/range :: Text )
 

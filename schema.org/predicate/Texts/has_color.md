@@ -40,6 +40,6 @@ The color of the product.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: is_color )
+( #has_/name :: has_text_about_color )
 ( #has_/range :: Text )
 

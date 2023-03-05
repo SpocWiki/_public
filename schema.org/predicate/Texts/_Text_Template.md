@@ -45,7 +45,7 @@ Use it like this:
 
 Predicate describes that: 
 [ #has_/domain  :: {{domainIncludes}} ]
-( #has_/name :: is_{{label_snail}} )
+( #has_/name :: has_text_about_{{label_snail}} )
 ( #has_/range :: {{rangeIncludes}} )
 
 [ #is_/inverse_of  :: {{inverseOf}} ]

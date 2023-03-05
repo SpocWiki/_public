@@ -40,6 +40,6 @@ A slogan or motto associated with the item.
 
 Predicated describes that: 
 [ #has_/domain  :: Brand, Organization, Place, Product, Service ]
-( #has_/name :: is_slogan )
+( #has_/name :: has_text_about_slogan )
 ( #has_/range :: Text )
 

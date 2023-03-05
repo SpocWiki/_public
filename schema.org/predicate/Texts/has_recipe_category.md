@@ -40,6 +40,6 @@ The category of the recipeï¿½for example, appetizer, entree, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: Recipe ]
-( #has_/name :: is_recipe_category )
+( #has_/name :: has_text_about_recipe_category )
 ( #has_/range :: Text )
 
