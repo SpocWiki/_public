@@ -32,8 +32,6 @@ aliases:
 - is_including_object
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_including_object :: TypeAndQuantityNode] or 
 - [ is_including_object :: TypeAndQuantityNode] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Demand, Offer, ProductCollection]
 ( #has_/name :: is_including_object)
 ( #has_/range :: TypeAndQuantityNode)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

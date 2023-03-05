@@ -32,8 +32,6 @@ aliases:
 - has_available_service
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_available_service :: MedicalProcedure, MedicalTest, MedicalTherapy] or 
 - [ has_available_service :: MedicalProcedure, MedicalTest, MedicalTherapy] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Hospital, MedicalClinic, Physician]
 ( #has_/name :: is_available_service)
 ( #has_/range :: MedicalProcedure, MedicalTest, MedicalTherapy)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

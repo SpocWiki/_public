@@ -40,7 +40,6 @@ Use it like this:
 - [has_time_of_coverage_start::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time/_of_coverage_start::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The time when the live blog will begin covering the Event. Note that coverage may begin before the Event&#x27;s start time. The LiveBlogPosting may also be created before coverage begins.
 
 Formal Predicate: 

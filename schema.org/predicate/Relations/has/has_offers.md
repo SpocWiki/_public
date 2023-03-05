@@ -32,8 +32,6 @@ aliases:
 - has_offers
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_offers :: Demand, Offer] or 
 - [ has_offers :: Demand, Offer] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: Demand, Offer)
 
 [ #is_/inverse_of  :: itemOffered]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

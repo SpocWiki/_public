@@ -32,8 +32,6 @@ aliases:
 - has_publishing_principles
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_publishing_principles :: CreativeWork, URL] or 
 - [ has_publishing_principles :: CreativeWork, URL] 
@@ -46,10 +44,6 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, Organization, Person]
 ( #has_/name :: is_publishing_principles)
 ( #has_/range :: CreativeWork, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: actionableFeedbackPolicy, correctionsPolicy, diversityStaffingReport, masthead, missionCoveragePrioritiesPolicy, noBylinesPolicy, ownershipFundingInfo, unnamedSourcesPolicy, verificationFactCheckingPolicy]
 

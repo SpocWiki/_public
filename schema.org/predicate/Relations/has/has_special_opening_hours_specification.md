@@ -32,8 +32,6 @@ aliases:
 - has_special_opening_hours_specification
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_special_opening_hours_specification :: OpeningHoursSpecification] or 
 - [ has_special_opening_hours_specification :: OpeningHoursSpecification] 
@@ -46,10 +44,4 @@ Relation describes that:
 [ #has_/domain  :: Place]
 ( #has_/name :: is_special_opening_hours_specification)
 ( #has_/range :: OpeningHoursSpecification)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

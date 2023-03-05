@@ -32,8 +32,6 @@ aliases:
 - has_sub_structure
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sub_structure :: AnatomicalStructure] or 
 - [ has_sub_structure :: AnatomicalStructure] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: AnatomicalStructure]
 ( #has_/name :: is_sub_structure)
 ( #has_/range :: AnatomicalStructure)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

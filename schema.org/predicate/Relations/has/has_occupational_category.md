@@ -47,9 +47,3 @@ Relation describes that:
 ( #has_/name :: is_occupational_category)
 ( #has_/range :: CategoryCode, Text)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - has_contributor
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_contributor :: Organization, Person] or 
 - [ has_contributor :: Organization, Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, Event]
 ( #has_/name :: is_contributor)
 ( #has_/range :: Organization, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_character
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_character :: Person] or 
 - [ has_character :: Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_character)
 ( #has_/range :: Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

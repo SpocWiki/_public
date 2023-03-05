@@ -45,8 +45,6 @@ Relation describes that:
 ( #has_/name :: is_in_defined_term_set)
 ( #has_/range :: DefinedTermSet, URL)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: isPartOf]
 
 [ #has_/sub_properties :: inCodeSet]

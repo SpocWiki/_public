@@ -32,8 +32,6 @@ aliases:
 - has_service_operator
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_service_operator :: Organization] or 
 - [ has_service_operator :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: GovernmentService]
 ( #has_/name :: is_service_operator)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

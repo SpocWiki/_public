@@ -32,8 +32,6 @@ aliases:
 - has_broadcast_channel
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_broadcast_channel :: BroadcastChannel] or 
 - [ has_broadcast_channel :: BroadcastChannel] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: BroadcastChannel)
 
 [ #is_/inverse_of  :: providesBroadcastService]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

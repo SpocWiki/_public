@@ -32,8 +32,6 @@ aliases:
 - has_target_product
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_target_product :: SoftwareApplication] or 
 - [ has_target_product :: SoftwareApplication] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: SoftwareSourceCode]
 ( #has_/name :: is_target_product)
 ( #has_/range :: SoftwareApplication)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

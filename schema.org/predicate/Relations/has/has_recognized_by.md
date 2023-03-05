@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_recognized_by)
 ( #has_/range :: Organization)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

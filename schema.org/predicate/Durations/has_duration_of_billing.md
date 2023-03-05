@@ -40,7 +40,6 @@ Use it like this:
 - [has_duration_of_billing::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration/_of_billing::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 Specifies for how long this price (or price component) will be billed. Can be used, for example, to model the contractual duration of a subscription or payment plan. Type can be either a Duration or a Number (in which case the unit of measurement, for example month, is specified by the unitCode property).
 
 Formal Predicate: 

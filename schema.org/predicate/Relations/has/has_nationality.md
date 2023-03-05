@@ -32,8 +32,6 @@ aliases:
 - has_nationality
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_nationality :: Country] or 
 - [ has_nationality :: Country] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Person]
 ( #has_/name :: is_nationality)
 ( #has_/range :: Country)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

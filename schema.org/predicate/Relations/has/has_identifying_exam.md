@@ -32,8 +32,6 @@ aliases:
 - has_identifying_exam
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_identifying_exam :: PhysicalExam] or 
 - [ has_identifying_exam :: PhysicalExam] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalSign]
 ( #has_/name :: is_identifying_exam)
 ( #has_/range :: PhysicalExam)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

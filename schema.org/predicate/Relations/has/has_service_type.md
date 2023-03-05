@@ -32,8 +32,6 @@ aliases:
 - has_service_type
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_service_type :: GovernmentBenefitsType, Text] or 
 - [ has_service_type :: GovernmentBenefitsType, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Service]
 ( #has_/name :: is_service_type)
 ( #has_/range :: GovernmentBenefitsType, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_end_offset)
 ( #has_/range :: HyperTocEntry, Number)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

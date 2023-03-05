@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_legislation_type)
 ( #has_/range :: CategoryCode, Text)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: genre]
-
-[ #has_/sub_properties :: ]
 

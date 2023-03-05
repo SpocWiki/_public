@@ -32,8 +32,6 @@ aliases:
 - has_part
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_part :: CreativeWork] or 
 - [ has_part :: CreativeWork] 
@@ -46,8 +44,6 @@ Relation describes that:
 ( #has_/range :: CreativeWork)
 
 [ #is_/inverse_of  :: isPartOf]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: containsSeason, episode, season, tocEntry]
 

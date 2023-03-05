@@ -32,8 +32,6 @@ aliases:
 - has_instrument
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_instrument :: Thing] or 
 - [ has_instrument :: Thing] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: Action]
 ( #has_/name :: is_instrument)
 ( #has_/range :: Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool]
 

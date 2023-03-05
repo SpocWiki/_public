@@ -32,8 +32,6 @@ aliases:
 - has_maximum_intake
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_maximum_intake :: MaximumDoseSchedule] or 
 - [ has_maximum_intake :: MaximumDoseSchedule] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DietarySupplement, Drug, DrugStrength, Substance]
 ( #has_/name :: is_maximum_intake)
 ( #has_/range :: MaximumDoseSchedule)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

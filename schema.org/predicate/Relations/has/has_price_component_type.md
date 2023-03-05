@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_price_component_type)
 ( #has_/range :: PriceComponentTypeEnumeration)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

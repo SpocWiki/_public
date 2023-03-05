@@ -32,8 +32,6 @@ aliases:
 - has_type_of_good
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_type_of_good :: Product, Service] or 
 - [ has_type_of_good :: Product, Service] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: OwnershipInfo, TypeAndQuantityNode]
 ( #has_/name :: is_type_of_good)
 ( #has_/range :: Product, Service)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_gender)
 ( #has_/range :: GenderType, Text)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - has_ticketed_seat
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_ticketed_seat :: Seat] or 
 - [ has_ticketed_seat :: Seat] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Ticket]
 ( #has_/name :: is_ticketed_seat)
 ( #has_/range :: Seat)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

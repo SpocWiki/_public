@@ -32,8 +32,6 @@ aliases:
 - has_hiring_organization
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_hiring_organization :: Organization, Person] or 
 - [ has_hiring_organization :: Organization, Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: JobPosting]
 ( #has_/name :: is_hiring_organization)
 ( #has_/range :: Organization, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

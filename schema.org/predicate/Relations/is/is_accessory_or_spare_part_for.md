@@ -32,8 +32,6 @@ aliases:
 - is_accessory_or_spare_part_for
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_accessory_or_spare_part_for :: Product] or 
 - [ is_accessory_or_spare_part_for :: Product] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Product]
 ( #has_/name :: is_accessory_or_spare_part_for)
 ( #has_/range :: Product)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

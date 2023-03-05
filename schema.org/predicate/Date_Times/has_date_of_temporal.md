@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_of_temporal::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_of_temporal::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The &quot;temporal&quot; property can be used in cases where more specific properties
 (e.g. &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/temporalCoverage&quot;&gt;temporalCoverage&lt;/a&gt;, &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/dateCreated&quot;&gt;dateCreated&lt;/a&gt;, &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/dateModified&quot;&gt;dateModified&lt;/a&gt;, &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/datePublished&quot;&gt;datePublished&lt;/a&gt;) are not known to be appropriate.
 

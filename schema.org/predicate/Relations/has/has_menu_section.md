@@ -32,8 +32,6 @@ aliases:
 - has_menu_section
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_menu_section :: MenuSection] or 
 - [ has_menu_section :: MenuSection] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Menu, MenuSection]
 ( #has_/name :: is_menu_section)
 ( #has_/range :: MenuSection)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

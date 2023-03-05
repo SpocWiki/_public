@@ -32,8 +32,6 @@ aliases:
 - has_sign_detected
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sign_detected :: MedicalSign] or 
 - [ has_sign_detected :: MedicalSign] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalTest]
 ( #has_/name :: is_sign_detected)
 ( #has_/range :: MedicalSign)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

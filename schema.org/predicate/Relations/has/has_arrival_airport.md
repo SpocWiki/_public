@@ -32,8 +32,6 @@ aliases:
 - has_arrival_airport
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_arrival_airport :: Airport] or 
 - [ has_arrival_airport :: Airport] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Flight]
 ( #has_/name :: is_arrival_airport)
 ( #has_/range :: Airport)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_available_through::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_available_through::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 After this date, the item will no longer be available for pickup.
 
 Formal Predicate: 

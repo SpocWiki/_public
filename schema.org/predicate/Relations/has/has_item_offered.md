@@ -32,8 +32,6 @@ aliases:
 - has_item_offered
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_item_offered :: AggregateOffer, CreativeWork, Event, MenuItem, Product, Service, Trip] or 
 - [ has_item_offered :: AggregateOffer, CreativeWork, Event, MenuItem, Product, Service, Trip] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: AggregateOffer, CreativeWork, Event, MenuItem, Product, Service, Trip)
 
 [ #is_/inverse_of  :: offers]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

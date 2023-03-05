@@ -32,8 +32,6 @@ aliases:
 - has_sender
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sender :: Audience, Organization, Person] or 
 - [ has_sender :: Audience, Organization, Person] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_sender)
 ( #has_/range :: Audience, Organization, Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: participant]
-
-[ #has_/sub_properties :: ]
 

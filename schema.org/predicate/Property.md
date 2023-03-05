@@ -6,7 +6,6 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 
-
 tags:
 - schema.org/Predicate
 
@@ -15,7 +14,6 @@ aliases:
 - 
 
 ---
-
 
 # Property Overview
 

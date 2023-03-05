@@ -32,8 +32,6 @@ aliases:
 - has_permit_audience
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_permit_audience :: Audience] or 
 - [ has_permit_audience :: Audience] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Permit]
 ( #has_/name :: is_permit_audience)
 ( #has_/range :: Audience)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

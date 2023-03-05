@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_occupational_credential_awarded)
 ( #has_/range :: EducationalOccupationalCredential, Text, URL)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

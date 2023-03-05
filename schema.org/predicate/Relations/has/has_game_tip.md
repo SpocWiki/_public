@@ -32,8 +32,6 @@ aliases:
 - has_game_tip
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_game_tip :: CreativeWork] or 
 - [ has_game_tip :: CreativeWork] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: VideoGame]
 ( #has_/name :: is_game_tip)
 ( #has_/range :: CreativeWork)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

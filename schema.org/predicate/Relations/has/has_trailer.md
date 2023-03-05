@@ -32,8 +32,6 @@ aliases:
 - has_trailer
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_trailer :: VideoObject] or 
 - [ has_trailer :: VideoObject] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWorkSeason, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries]
 ( #has_/name :: is_trailer)
 ( #has_/range :: VideoObject)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

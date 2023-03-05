@@ -32,8 +32,6 @@ aliases:
 - has_suggested_answer
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_suggested_answer :: Answer, ItemList] or 
 - [ has_suggested_answer :: Answer, ItemList] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: Question]
 ( #has_/name :: is_suggested_answer)
 ( #has_/range :: Answer, ItemList)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: acceptedAnswer]
 

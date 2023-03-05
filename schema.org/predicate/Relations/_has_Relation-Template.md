@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_{{label_snail}}
 
 linkTitle: has_{{label_snail}}
-keywords: 
+keywords: [{{label_snail}}]
 layout: 
 draft: false
 publishDate:
@@ -32,22 +32,22 @@ aliases:
 - has_{{label_snail}}
 ---
 
-[ #is_/part_of :: {{isPartOf}}]
+[ #is_/part_of :: {{isPartOf}} ]
 
 Use it like this: 
-- [ #has/_{{label_snail}} :: {{rangeIncludes}}] or 
-- [ has_{{label_snail}} :: {{rangeIncludes}}] 
+- [ #has/_{{label_snail}} :: {{rangeIncludes}} ] or 
+- [ has_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
 Relation describes that: 
-[ #has_/domain  :: {{domainIncludes}}]
-( #has_/name :: is_{{label_snail}})
-( #has_/range :: {{rangeIncludes}})
+[ #has_/domain  :: {{domainIncludes}} ]
+( #has_/name :: is_{{label_snail}} )
+( #has_/range :: {{rangeIncludes}} )
 
-[ #is_/inverse_of  :: {{inverseOf}}]
+[ #is_/inverse_of  :: {{inverseOf}} ]
 
-[ #is_/sub_property_of  :: {{subPropertyOf}}]
+[ #is_/sub_property_of  :: {{subPropertyOf}} ]
 
-[ #has_/sub_properties :: {{subproperties}}]
+[ #has_/sub_properties :: [ {{subproperties}} ] ]
 

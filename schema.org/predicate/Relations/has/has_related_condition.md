@@ -32,8 +32,6 @@ aliases:
 - has_related_condition
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_related_condition :: MedicalCondition] or 
 - [ has_related_condition :: MedicalCondition] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy]
 ( #has_/name :: is_related_condition)
 ( #has_/range :: MedicalCondition)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

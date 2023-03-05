@@ -32,8 +32,6 @@ aliases:
 - has_speakable
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_speakable :: SpeakableSpecification, URL] or 
 - [ has_speakable :: SpeakableSpecification, URL] 
@@ -55,10 +53,4 @@ Relation describes that:
 [ #has_/domain  :: Article, WebPage]
 ( #has_/name :: is_speakable)
 ( #has_/range :: SpeakableSpecification, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

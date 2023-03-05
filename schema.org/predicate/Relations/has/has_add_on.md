@@ -32,8 +32,6 @@ aliases:
 - has_add_on
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_add_on :: Offer] or 
 - [ has_add_on :: Offer] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Offer]
 ( #has_/name :: is_add_on)
 ( #has_/range :: Offer)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_suggested_gender
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_suggested_gender :: GenderType, Text] or 
 - [ has_suggested_gender :: GenderType, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: PeopleAudience, SizeSpecification]
 ( #has_/name :: is_suggested_gender)
 ( #has_/range :: GenderType, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

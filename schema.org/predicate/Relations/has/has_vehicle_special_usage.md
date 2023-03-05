@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_vehicle_special_usage)
 ( #has_/range :: CarUsageType, Text)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

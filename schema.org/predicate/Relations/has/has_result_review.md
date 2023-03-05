@@ -32,8 +32,6 @@ aliases:
 - has_result_review
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_result_review :: Review] or 
 - [ has_result_review :: Review] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_result_review)
 ( #has_/range :: Review)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: result]
-
-[ #has_/sub_properties :: ]
 

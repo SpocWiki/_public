@@ -32,8 +32,6 @@ aliases:
 - has_recipe
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_recipe :: Recipe] or 
 - [ has_recipe :: Recipe] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_recipe)
 ( #has_/range :: Recipe)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: instrument]
-
-[ #has_/sub_properties :: ]
 

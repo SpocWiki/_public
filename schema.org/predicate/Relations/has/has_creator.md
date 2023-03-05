@@ -32,8 +32,6 @@ aliases:
 - has_creator
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_creator :: Organization, Person] or 
 - [ has_creator :: Organization, Person] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, UserComments]
 ( #has_/name :: is_creator)
 ( #has_/range :: Organization, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: legislationPassedBy]
 

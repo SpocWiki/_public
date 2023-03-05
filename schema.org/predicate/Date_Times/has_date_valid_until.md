@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_valid_until::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_valid_until::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The date when the item is no longer valid.
 
 Formal Predicate: 

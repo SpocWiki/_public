@@ -32,8 +32,6 @@ aliases:
 - has_map
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_map :: Map, URL] or 
 - [ has_map :: Map, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Place]
 ( #has_/name :: is_map)
 ( #has_/range :: Map, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

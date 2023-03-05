@@ -32,8 +32,6 @@ aliases:
 - has_member
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_member :: Organization, Person] or 
 - [ has_member :: Organization, Person] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: Organization, Person)
 
 [ #is_/inverse_of  :: memberOf]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

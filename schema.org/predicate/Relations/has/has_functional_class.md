@@ -32,8 +32,6 @@ aliases:
 - has_functional_class
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_functional_class :: MedicalEntity, Text] or 
 - [ has_functional_class :: MedicalEntity, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Joint]
 ( #has_/name :: is_functional_class)
 ( #has_/range :: MedicalEntity, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

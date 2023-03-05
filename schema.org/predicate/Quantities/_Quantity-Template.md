@@ -35,7 +35,6 @@ aliases:
 - has_label_snail
 ---
 
-
 [domain::{{domainIncludes}}]
 (name::{{has_label_snail}})
 (range::{{rangeIncludes}})

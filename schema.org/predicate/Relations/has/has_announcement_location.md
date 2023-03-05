@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_announcement_location)
 ( #has_/range :: CivicStructure, LocalBusiness)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: spatialCoverage]
-
-[ #has_/sub_properties :: ]
 

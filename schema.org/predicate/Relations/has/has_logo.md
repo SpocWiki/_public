@@ -32,8 +32,6 @@ aliases:
 - has_logo
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_logo :: ImageObject, URL] or 
 - [ has_logo :: ImageObject, URL] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_logo)
 ( #has_/range :: ImageObject, URL)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: image]
-
-[ #has_/sub_properties :: ]
 

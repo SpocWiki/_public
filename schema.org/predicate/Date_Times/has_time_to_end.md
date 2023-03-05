@@ -40,7 +40,6 @@ Use it like this:
 - [has_time_to_end::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time/_to_end::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The endTime of something. For a reserved event or service (e.g. FoodEstablishmentReservation), the time that it is expected to end. For actions that span a period of time, when the action was performed. E.g. John wrote a book from January to &lt;em&gt;December&lt;/em&gt;. For media, including audio and video, it&#x27;s the time offset of the end of a clip within a larger file.&lt;br/&gt;&lt;br/&gt;
 
 Note that Event uses startDate/endDate instead of startTime/endTime, even when describing dates with times. This situation may be clarified in future revisions.

@@ -32,8 +32,6 @@ aliases:
 - has_medical_audience
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_medical_audience :: MedicalAudience, MedicalAudienceType] or 
 - [ has_medical_audience :: MedicalAudience, MedicalAudienceType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalWebPage]
 ( #has_/name :: is_medical_audience)
 ( #has_/range :: MedicalAudience, MedicalAudienceType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

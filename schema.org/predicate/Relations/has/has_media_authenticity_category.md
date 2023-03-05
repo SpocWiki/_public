@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_media_authenticity_category)
 ( #has_/range :: MediaManipulationRatingEnumeration)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

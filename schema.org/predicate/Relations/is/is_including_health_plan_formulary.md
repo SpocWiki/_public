@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_including_health_plan_formulary)
 ( #has_/range :: HealthPlanFormulary)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

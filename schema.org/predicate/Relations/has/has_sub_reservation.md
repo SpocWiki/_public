@@ -32,8 +32,6 @@ aliases:
 - has_sub_reservation
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sub_reservation :: Reservation] or 
 - [ has_sub_reservation :: Reservation] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ReservationPackage]
 ( #has_/name :: is_sub_reservation)
 ( #has_/range :: Reservation)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

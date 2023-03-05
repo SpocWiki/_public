@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_interpreted_as_claim)
 ( #has_/range :: Claim)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: description]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_blog_post
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_blog_post :: BlogPosting] or 
 - [ has_blog_post :: BlogPosting] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Blog]
 ( #has_/name :: is_blog_post)
 ( #has_/range :: BlogPosting)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

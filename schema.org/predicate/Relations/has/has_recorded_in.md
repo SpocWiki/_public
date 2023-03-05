@@ -32,8 +32,6 @@ aliases:
 - has_recorded_in
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_recorded_in :: CreativeWork] or 
 - [ has_recorded_in :: CreativeWork] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: CreativeWork)
 
 [ #is_/inverse_of  :: recordedAt]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

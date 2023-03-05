@@ -32,8 +32,6 @@ aliases:
 - has_hosting_organization
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_hosting_organization :: Organization] or 
 - [ has_hosting_organization :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ProgramMembership]
 ( #has_/name :: is_hosting_organization)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

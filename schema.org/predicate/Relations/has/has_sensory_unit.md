@@ -32,8 +32,6 @@ aliases:
 - has_sensory_unit
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sensory_unit :: AnatomicalStructure, SuperficialAnatomy] or 
 - [ has_sensory_unit :: AnatomicalStructure, SuperficialAnatomy] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Nerve]
 ( #has_/name :: is_sensory_unit)
 ( #has_/range :: AnatomicalStructure, SuperficialAnatomy)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

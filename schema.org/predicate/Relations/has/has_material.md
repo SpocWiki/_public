@@ -32,8 +32,6 @@ aliases:
 - has_material
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_material :: Product, Text, URL] or 
 - [ has_material :: Product, Text, URL] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, Product]
 ( #has_/name :: is_material)
 ( #has_/range :: Product, Text, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: artMedium, surface]
 

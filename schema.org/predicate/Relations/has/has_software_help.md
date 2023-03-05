@@ -32,8 +32,6 @@ aliases:
 - has_software_help
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_software_help :: CreativeWork] or 
 - [ has_software_help :: CreativeWork] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: SoftwareApplication]
 ( #has_/name :: is_software_help)
 ( #has_/range :: CreativeWork)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_type_of_bed
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_type_of_bed :: BedType, Text] or 
 - [ has_type_of_bed :: BedType, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: BedDetails]
 ( #has_/name :: is_type_of_bed)
 ( #has_/range :: BedType, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

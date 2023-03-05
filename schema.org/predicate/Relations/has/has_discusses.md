@@ -32,8 +32,6 @@ aliases:
 - has_discusses
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_discusses :: CreativeWork] or 
 - [ has_discusses :: CreativeWork] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: UserComments]
 ( #has_/name :: is_discusses)
 ( #has_/range :: CreativeWork)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

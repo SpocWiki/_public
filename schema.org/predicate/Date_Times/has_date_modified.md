@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_modified::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_modified::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The date on which the CreativeWork was most recently modified or when the item&#x27;s entry was modified within a DataFeed.
 
 Formal Predicate: 

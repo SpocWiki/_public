@@ -32,8 +32,6 @@ aliases:
 - has_target_collection
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_target_collection :: Thing] or 
 - [ has_target_collection :: Thing] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_target_collection)
 ( #has_/range :: Thing)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: object]
-
-[ #has_/sub_properties :: ]
 

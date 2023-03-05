@@ -32,8 +32,6 @@ aliases:
 - has_recorded_as
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_recorded_as :: MusicRecording] or 
 - [ has_recorded_as :: MusicRecording] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: MusicRecording)
 
 [ #is_/inverse_of  :: recordingOf]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

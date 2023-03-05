@@ -32,8 +32,6 @@ aliases:
 - has_distinguishing_sign
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_distinguishing_sign :: MedicalSignOrSymptom] or 
 - [ has_distinguishing_sign :: MedicalSignOrSymptom] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DDxElement]
 ( #has_/name :: is_distinguishing_sign)
 ( #has_/range :: MedicalSignOrSymptom)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

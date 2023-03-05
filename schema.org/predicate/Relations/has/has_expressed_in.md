@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_expressed_in)
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

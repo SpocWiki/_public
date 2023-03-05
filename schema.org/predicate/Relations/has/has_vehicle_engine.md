@@ -32,8 +32,6 @@ aliases:
 - has_vehicle_engine
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_vehicle_engine :: EngineSpecification] or 
 - [ has_vehicle_engine :: EngineSpecification] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Vehicle]
 ( #has_/name :: is_vehicle_engine)
 ( #has_/range :: EngineSpecification)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

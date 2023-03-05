@@ -32,8 +32,6 @@ aliases:
 - has_parent_item
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_parent_item :: Comment] or 
 - [ has_parent_item :: Comment] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Comment]
 ( #has_/name :: is_parent_item)
 ( #has_/range :: Comment)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

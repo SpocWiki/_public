@@ -32,8 +32,6 @@ aliases:
 - has_branch
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_branch :: AnatomicalStructure] or 
 - [ has_branch :: AnatomicalStructure] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Nerve]
 ( #has_/name :: is_branch)
 ( #has_/range :: AnatomicalStructure)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

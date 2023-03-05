@@ -32,8 +32,6 @@ aliases:
 - has_differential_diagnosis
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_differential_diagnosis :: DDxElement] or 
 - [ has_differential_diagnosis :: DDxElement] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalCondition]
 ( #has_/name :: is_differential_diagnosis)
 ( #has_/range :: DDxElement)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

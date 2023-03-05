@@ -32,8 +32,6 @@ aliases:
 - has_main_entity
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_main_entity :: Thing] or 
 - [ has_main_entity :: Thing] 
@@ -48,6 +46,4 @@ Relation describes that:
 [ #is_/inverse_of  :: mainEntityOfPage]
 
 [ #is_/sub_property_of  :: about]
-
-[ #has_/sub_properties :: ]
 

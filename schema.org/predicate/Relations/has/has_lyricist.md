@@ -32,8 +32,6 @@ aliases:
 - has_lyricist
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_lyricist :: Person] or 
 - [ has_lyricist :: Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MusicComposition]
 ( #has_/name :: is_lyricist)
 ( #has_/range :: Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

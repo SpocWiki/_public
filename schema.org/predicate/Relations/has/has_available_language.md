@@ -32,8 +32,6 @@ aliases:
 - has_available_language
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_available_language :: Language, Text] or 
 - [ has_available_language :: Language, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ContactPoint, LodgingBusiness, ServiceChannel, TouristAttraction]
 ( #has_/name :: is_available_language)
 ( #has_/range :: Language, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

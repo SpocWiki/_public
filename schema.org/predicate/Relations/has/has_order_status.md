@@ -32,8 +32,6 @@ aliases:
 - has_order_status
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_order_status :: OrderStatus] or 
 - [ has_order_status :: OrderStatus] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Order]
 ( #has_/name :: is_order_status)
 ( #has_/range :: OrderStatus)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

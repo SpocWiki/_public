@@ -32,8 +32,6 @@ aliases:
 - has_publication
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_publication :: PublicationEvent] or 
 - [ has_publication :: PublicationEvent] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_publication)
 ( #has_/range :: PublicationEvent)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

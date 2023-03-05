@@ -32,8 +32,6 @@ aliases:
 - has_health_condition
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_health_condition :: MedicalCondition] or 
 - [ has_health_condition :: MedicalCondition] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalStudy, Patient, PeopleAudience]
 ( #has_/name :: is_health_condition)
 ( #has_/range :: MedicalCondition)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - is_valid_in
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_valid_in :: AdministrativeArea] or 
 - [ is_valid_in :: AdministrativeArea] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: EducationalOccupationalCredential, Permit]
 ( #has_/name :: is_valid_in)
 ( #has_/range :: AdministrativeArea)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

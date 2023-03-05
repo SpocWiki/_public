@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_applicant_location_requirements)
 ( #has_/range :: AdministrativeArea)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

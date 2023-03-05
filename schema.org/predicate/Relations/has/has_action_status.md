@@ -32,8 +32,6 @@ aliases:
 - has_action_status
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_action_status :: ActionStatusType] or 
 - [ has_action_status :: ActionStatusType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Action]
 ( #has_/name :: is_action_status)
 ( #has_/range :: ActionStatusType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

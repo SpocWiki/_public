@@ -32,8 +32,6 @@ aliases:
 - has_item_list_element
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_item_list_element :: ListItem, Text, Thing] or 
 - [ has_item_list_element :: ListItem, Text, Thing] 
@@ -48,10 +46,4 @@ Relation describes that:
 [ #has_/domain  :: ItemList]
 ( #has_/name :: is_item_list_element)
 ( #has_/range :: ListItem, Text, Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - is_encoding_creative_work
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_encoding_creative_work :: CreativeWork] or 
 - [ is_encoding_creative_work :: CreativeWork] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: CreativeWork)
 
 [ #is_/inverse_of  :: encoding]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

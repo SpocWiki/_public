@@ -32,8 +32,6 @@ aliases:
 - has_steering_position
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_steering_position :: SteeringPositionValue] or 
 - [ has_steering_position :: SteeringPositionValue] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Vehicle]
 ( #has_/name :: is_steering_position)
 ( #has_/range :: SteeringPositionValue)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

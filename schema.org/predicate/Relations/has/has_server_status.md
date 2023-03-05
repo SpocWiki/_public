@@ -32,8 +32,6 @@ aliases:
 - has_server_status
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_server_status :: GameServerStatus] or 
 - [ has_server_status :: GameServerStatus] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: GameServer]
 ( #has_/name :: is_server_status)
 ( #has_/range :: GameServerStatus)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

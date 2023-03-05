@@ -32,8 +32,6 @@ aliases:
 - is_variant_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_variant_of :: ProductGroup, ProductModel] or 
 - [ is_variant_of :: ProductGroup, ProductModel] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: ProductGroup, ProductModel)
 
 [ #is_/inverse_of  :: hasVariant]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

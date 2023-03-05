@@ -32,8 +32,6 @@ aliases:
 - has_cost_category
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_cost_category :: DrugCostCategory] or 
 - [ has_cost_category :: DrugCostCategory] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DrugCost]
 ( #has_/name :: is_cost_category)
 ( #has_/range :: DrugCostCategory)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

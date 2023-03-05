@@ -32,8 +32,6 @@ aliases:
 - has_interaction_type
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_interaction_type :: Action] or 
 - [ has_interaction_type :: Action] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: InteractionCounter]
 ( #has_/name :: is_interaction_type)
 ( #has_/range :: Action)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

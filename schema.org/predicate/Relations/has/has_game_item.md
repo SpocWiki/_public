@@ -32,8 +32,6 @@ aliases:
 - has_game_item
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_game_item :: Thing] or 
 - [ has_game_item :: Thing] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Game, VideoGameSeries]
 ( #has_/name :: is_game_item)
 ( #has_/range :: Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

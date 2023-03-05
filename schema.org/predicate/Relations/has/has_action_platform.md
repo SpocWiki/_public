@@ -32,8 +32,6 @@ aliases:
 - has_action_platform
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_action_platform :: DigitalPlatformEnumeration, Text, URL] or 
 - [ has_action_platform :: DigitalPlatformEnumeration, Text, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: EntryPoint]
 ( #has_/name :: is_action_platform)
 ( #has_/range :: DigitalPlatformEnumeration, Text, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

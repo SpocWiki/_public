@@ -32,8 +32,6 @@ aliases:
 - has_calories
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_calories :: Energy] or 
 - [ has_calories :: Energy] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: NutritionInformation]
 ( #has_/name :: is_calories)
 ( #has_/range :: Energy)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

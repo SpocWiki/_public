@@ -32,8 +32,6 @@ aliases:
 - has_alumni_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_alumni_of :: EducationalOrganization, Organization] or 
 - [ has_alumni_of :: EducationalOrganization, Organization] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: EducationalOrganization, Organization)
 
 [ #is_/inverse_of  :: alumni]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

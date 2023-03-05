@@ -20,4 +20,3 @@ aliases:
 Types are classes of  Entities/Objects with Identity and defined Properties. 
 Types can be used to unify the Representation of Entities. 
 
-

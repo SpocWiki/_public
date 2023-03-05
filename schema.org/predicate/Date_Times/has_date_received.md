@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_received::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_received::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The date/time the message was received if a single recipient exists.
 
 Formal Predicate: 

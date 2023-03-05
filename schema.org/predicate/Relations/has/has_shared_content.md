@@ -32,8 +32,6 @@ aliases:
 - has_shared_content
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_shared_content :: CreativeWork] or 
 - [ has_shared_content :: CreativeWork] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: SocialMediaPosting]
 ( #has_/name :: is_shared_content)
 ( #has_/range :: CreativeWork)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

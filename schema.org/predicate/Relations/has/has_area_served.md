@@ -32,8 +32,6 @@ aliases:
 - has_area_served
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_area_served :: AdministrativeArea, GeoShape, Place, Text] or 
 - [ has_area_served :: AdministrativeArea, GeoShape, Place, Text] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: ContactPoint, DeliveryChargeSpecification, Demand, Offer, Organization, Service]
 ( #has_/name :: is_area_served)
 ( #has_/range :: AdministrativeArea, GeoShape, Place, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: availableAtOrFrom, eligibleRegion]
 

@@ -32,8 +32,6 @@ aliases:
 - has_price_type
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_price_type :: PriceTypeEnumeration, Text] or 
 - [ has_price_type :: PriceTypeEnumeration, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CompoundPriceSpecification, UnitPriceSpecification]
 ( #has_/name :: is_price_type)
 ( #has_/range :: PriceTypeEnumeration, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

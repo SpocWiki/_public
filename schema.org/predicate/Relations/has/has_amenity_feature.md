@@ -32,8 +32,6 @@ aliases:
 - has_amenity_feature
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_amenity_feature :: LocationFeatureSpecification] or 
 - [ has_amenity_feature :: LocationFeatureSpecification] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Accommodation, FloorPlan, LodgingBusiness, Place]
 ( #has_/name :: is_amenity_feature)
 ( #has_/range :: LocationFeatureSpecification)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

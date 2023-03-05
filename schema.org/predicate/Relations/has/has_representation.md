@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_representation)
 ( #has_/range :: PropertyValue, Text, URL)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
 [ #has_/sub_properties :: hasBioPolymerSequence, inChI, inChIKey, smiles]
 

@@ -32,8 +32,6 @@ aliases:
 - has_experience_requirements
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_experience_requirements :: OccupationalExperienceRequirements, Text] or 
 - [ has_experience_requirements :: OccupationalExperienceRequirements, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: JobPosting, Occupation]
 ( #has_/name :: is_experience_requirements)
 ( #has_/range :: OccupationalExperienceRequirements, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

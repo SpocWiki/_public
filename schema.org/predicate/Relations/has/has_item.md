@@ -32,8 +32,6 @@ aliases:
 - has_item
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_item :: Thing] or 
 - [ has_item :: Thing] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DataFeedItem, ListItem]
 ( #has_/name :: is_item)
 ( #has_/range :: Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

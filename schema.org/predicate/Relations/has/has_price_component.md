@@ -32,8 +32,6 @@ aliases:
 - has_price_component
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_price_component :: UnitPriceSpecification] or 
 - [ has_price_component :: UnitPriceSpecification] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CompoundPriceSpecification]
 ( #has_/name :: is_price_component)
 ( #has_/range :: UnitPriceSpecification)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

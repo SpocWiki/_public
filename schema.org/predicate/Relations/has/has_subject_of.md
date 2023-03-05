@@ -32,8 +32,6 @@ aliases:
 - has_subject_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_subject_of :: CreativeWork, Event] or 
 - [ has_subject_of :: CreativeWork, Event] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: CreativeWork, Event)
 
 [ #is_/inverse_of  :: about]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

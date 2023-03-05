@@ -32,8 +32,6 @@ aliases:
 - has_performer_in
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_performer_in :: Event] or 
 - [ has_performer_in :: Event] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Person]
 ( #has_/name :: is_performer_in)
 ( #has_/range :: Event)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

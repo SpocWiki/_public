@@ -32,8 +32,6 @@ aliases:
 - has_object
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_object :: Thing] or 
 - [ has_object :: Thing] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: Action]
 ( #has_/name :: is_object)
 ( #has_/range :: Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: actionOption, candidate, collection, followee, option, question, replacee, replacer, targetCollection]
 

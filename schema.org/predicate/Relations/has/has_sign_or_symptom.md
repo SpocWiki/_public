@@ -32,8 +32,6 @@ aliases:
 - has_sign_or_symptom
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sign_or_symptom :: MedicalSignOrSymptom] or 
 - [ has_sign_or_symptom :: MedicalSignOrSymptom] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalCondition]
 ( #has_/name :: is_sign_or_symptom)
 ( #has_/range :: MedicalSignOrSymptom)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

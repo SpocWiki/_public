@@ -32,8 +32,6 @@ aliases:
 - has_keywords
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_keywords :: DefinedTerm, Text, URL] or 
 - [ has_keywords :: DefinedTerm, Text, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, Event, Organization, Place, Product]
 ( #has_/name :: is_keywords)
 ( #has_/range :: DefinedTerm, Text, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

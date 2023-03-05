@@ -32,8 +32,6 @@ aliases:
 - has_food_event
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_food_event :: FoodEvent] or 
 - [ has_food_event :: FoodEvent] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_food_event)
 ( #has_/range :: FoodEvent)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: location]
-
-[ #has_/sub_properties :: ]
 

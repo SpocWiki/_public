@@ -32,8 +32,6 @@ aliases:
 - has_guideline
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_guideline :: MedicalGuideline] or 
 - [ has_guideline :: MedicalGuideline] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalEntity]
 ( #has_/name :: is_guideline)
 ( #has_/range :: MedicalGuideline)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

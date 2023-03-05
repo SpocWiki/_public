@@ -32,8 +32,6 @@ aliases:
 - has_sourced_from
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sourced_from :: BrainStructure] or 
 - [ has_sourced_from :: BrainStructure] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Nerve]
 ( #has_/name :: is_sourced_from)
 ( #has_/range :: BrainStructure)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

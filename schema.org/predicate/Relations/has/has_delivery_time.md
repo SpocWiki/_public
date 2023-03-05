@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_delivery_time)
 ( #has_/range :: ShippingDeliveryTime)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

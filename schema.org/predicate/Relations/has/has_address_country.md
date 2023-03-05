@@ -32,8 +32,6 @@ aliases:
 - has_address_country
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_address_country :: Country, Text] or 
 - [ has_address_country :: Country, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress]
 ( #has_/name :: is_address_country)
 ( #has_/range :: Country, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

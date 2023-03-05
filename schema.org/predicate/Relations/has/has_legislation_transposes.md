@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_legislation_transposes)
 ( #has_/range :: Legislation)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: legislationApplies]
-
-[ #has_/sub_properties :: ]
 

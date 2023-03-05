@@ -32,8 +32,6 @@ aliases:
 - has_item_list_order
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_item_list_order :: ItemListOrderType, Text] or 
 - [ has_item_list_order :: ItemListOrderType, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ItemList]
 ( #has_/name :: is_item_list_order)
 ( #has_/range :: ItemListOrderType, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

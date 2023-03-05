@@ -32,8 +32,6 @@ aliases:
 - has_skills
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_skills :: DefinedTerm, Text] or 
 - [ has_skills :: DefinedTerm, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: JobPosting, Occupation]
 ( #has_/name :: is_skills)
 ( #has_/range :: DefinedTerm, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

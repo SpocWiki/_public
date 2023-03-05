@@ -32,8 +32,6 @@ aliases:
 - has_vehicle_transmission
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_vehicle_transmission :: QualitativeValue, Text, URL] or 
 - [ has_vehicle_transmission :: QualitativeValue, Text, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Vehicle]
 ( #has_/name :: is_vehicle_transmission)
 ( #has_/range :: QualitativeValue, Text, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

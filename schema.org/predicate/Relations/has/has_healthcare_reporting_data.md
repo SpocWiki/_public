@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_healthcare_reporting_data)
 ( #has_/range :: CDCPMDRecord, Dataset)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - is_referencing_order
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_referencing_order :: Order] or 
 - [ is_referencing_order :: Order] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Invoice]
 ( #has_/name :: is_referencing_order)
 ( #has_/range :: Order)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

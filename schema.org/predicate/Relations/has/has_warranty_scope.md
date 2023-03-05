@@ -32,8 +32,6 @@ aliases:
 - has_warranty_scope
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_warranty_scope :: WarrantyScope] or 
 - [ has_warranty_scope :: WarrantyScope] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: WarrantyPromise]
 ( #has_/name :: is_warranty_scope)
 ( #has_/range :: WarrantyScope)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

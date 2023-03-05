@@ -32,8 +32,6 @@ aliases:
 - has_arterial_branch
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_arterial_branch :: AnatomicalStructure] or 
 - [ has_arterial_branch :: AnatomicalStructure] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Artery]
 ( #has_/name :: is_arterial_branch)
 ( #has_/range :: AnatomicalStructure)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

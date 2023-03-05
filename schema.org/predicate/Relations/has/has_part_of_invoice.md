@@ -32,8 +32,6 @@ aliases:
 - has_part_of_invoice
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_part_of_invoice :: Invoice] or 
 - [ has_part_of_invoice :: Invoice] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Order]
 ( #has_/name :: is_part_of_invoice)
 ( #has_/range :: Invoice)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

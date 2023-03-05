@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_return_policy_seasonal_override)
 ( #has_/range :: MerchantReturnPolicySeasonalOverride)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - has_dataset
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_dataset :: Dataset] or 
 - [ has_dataset :: Dataset] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: Dataset)
 
 [ #is_/inverse_of  :: includedInDataCatalog]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

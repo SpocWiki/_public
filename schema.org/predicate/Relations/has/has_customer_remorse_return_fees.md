@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_customer_remorse_return_fees)
 ( #has_/range :: ReturnFeesEnumeration)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

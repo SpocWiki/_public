@@ -32,8 +32,6 @@ aliases:
 - has_insertion
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_insertion :: AnatomicalStructure] or 
 - [ has_insertion :: AnatomicalStructure] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Muscle]
 ( #has_/name :: is_insertion)
 ( #has_/range :: AnatomicalStructure)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

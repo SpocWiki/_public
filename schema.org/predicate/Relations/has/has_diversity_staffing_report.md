@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_diversity_staffing_report)
 ( #has_/range :: Article, URL)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: publishingPrinciples]
-
-[ #has_/sub_properties :: ]
 

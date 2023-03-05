@@ -32,8 +32,6 @@ aliases:
 - has_screenshot
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_screenshot :: ImageObject, URL] or 
 - [ has_screenshot :: ImageObject, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: SoftwareApplication]
 ( #has_/name :: is_screenshot)
 ( #has_/range :: ImageObject, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_in_broadcast_lineup
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_in_broadcast_lineup :: CableOrSatelliteService] or 
 - [ has_in_broadcast_lineup :: CableOrSatelliteService] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: BroadcastChannel]
 ( #has_/name :: is_in_broadcast_lineup)
 ( #has_/range :: CableOrSatelliteService)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_drive_wheel_configuration
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_drive_wheel_configuration :: DriveWheelConfigurationValue, Text] or 
 - [ has_drive_wheel_configuration :: DriveWheelConfigurationValue, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Vehicle]
 ( #has_/name :: is_drive_wheel_configuration)
 ( #has_/range :: DriveWheelConfigurationValue, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

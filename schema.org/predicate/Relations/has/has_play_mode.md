@@ -32,8 +32,6 @@ aliases:
 - has_play_mode
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_play_mode :: GamePlayMode] or 
 - [ has_play_mode :: GamePlayMode] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: VideoGame, VideoGameSeries]
 ( #has_/name :: is_play_mode)
 ( #has_/range :: GamePlayMode)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

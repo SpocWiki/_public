@@ -32,8 +32,6 @@ aliases:
 - has_language
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_language :: Language] or 
 - [ has_language :: Language] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_language)
 ( #has_/range :: Language)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: instrument]
-
-[ #has_/sub_properties :: ]
 

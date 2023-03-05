@@ -32,8 +32,6 @@ aliases:
 - has_category
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL] or 
 - [ has_category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: ActionAccessSpecification, Invoice, Offer, PhysicalActivity, Product, Recommendation, Service, SpecialAnnouncement]
 ( #has_/name :: is_category)
 ( #has_/range :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: accommodationCategory]
 

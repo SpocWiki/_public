@@ -32,8 +32,6 @@ aliases:
 - has_sponsor
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sponsor :: Organization, Person] or 
 - [ has_sponsor :: Organization, Person] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, Event, Grant, MedicalStudy, Organization, Person]
 ( #has_/name :: is_sponsor)
 ( #has_/range :: Organization, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: funder]
 

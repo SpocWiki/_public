@@ -32,8 +32,6 @@ aliases:
 - is_published_on
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_published_on :: BroadcastService] or 
 - [ is_published_on :: BroadcastService] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: PublicationEvent]
 ( #has_/name :: is_published_on)
 ( #has_/range :: BroadcastService)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_health_plan_copay)
 ( #has_/range :: PriceSpecification)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - has_participant
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_participant :: Organization, Person] or 
 - [ has_participant :: Organization, Person] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: Action]
 ( #has_/name :: is_participant)
 ( #has_/range :: Organization, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner]
 

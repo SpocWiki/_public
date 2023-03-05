@@ -32,8 +32,6 @@ aliases:
 - is_making_offer
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_making_offer :: Offer] or 
 - [ is_making_offer :: Offer] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: Offer)
 
 [ #is_/inverse_of  :: offeredBy]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

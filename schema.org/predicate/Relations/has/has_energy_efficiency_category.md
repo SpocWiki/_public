@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_energy_efficiency_category)
 ( #has_/range :: EnergyEfficiencyEnumeration)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - has_part_of_episode
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_part_of_episode :: Episode] or 
 - [ has_part_of_episode :: Episode] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_part_of_episode)
 ( #has_/range :: Episode)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: isPartOf]
-
-[ #has_/sub_properties :: ]
 

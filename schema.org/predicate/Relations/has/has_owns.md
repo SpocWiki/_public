@@ -32,8 +32,6 @@ aliases:
 - has_owns
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_owns :: OwnershipInfo, Product] or 
 - [ has_owns :: OwnershipInfo, Product] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Organization, Person]
 ( #has_/name :: is_owns)
 ( #has_/range :: OwnershipInfo, Product)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

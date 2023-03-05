@@ -32,8 +32,6 @@ aliases:
 - has_used_to_diagnose
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_used_to_diagnose :: MedicalCondition] or 
 - [ has_used_to_diagnose :: MedicalCondition] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalTest]
 ( #has_/name :: is_used_to_diagnose)
 ( #has_/range :: MedicalCondition)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

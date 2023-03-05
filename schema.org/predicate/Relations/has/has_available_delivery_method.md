@@ -32,8 +32,6 @@ aliases:
 - has_available_delivery_method
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_available_delivery_method :: DeliveryMethod] or 
 - [ has_available_delivery_method :: DeliveryMethod] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Demand, Offer]
 ( #has_/name :: is_available_delivery_method)
 ( #has_/range :: DeliveryMethod)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

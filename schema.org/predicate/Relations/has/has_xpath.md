@@ -32,8 +32,6 @@ aliases:
 - has_xpath
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_xpath :: XPathType] or 
 - [ has_xpath :: XPathType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: SpeakableSpecification, WebPageElement]
 ( #has_/name :: is_xpath)
 ( #has_/range :: XPathType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

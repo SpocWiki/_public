@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_read_by)
 ( #has_/range :: Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: actor]
-
-[ #has_/sub_properties :: ]
 

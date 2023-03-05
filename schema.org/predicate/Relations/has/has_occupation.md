@@ -32,8 +32,6 @@ aliases:
 - has_occupation
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_occupation :: Occupation] or 
 - [ has_occupation :: Occupation] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Person]
 ( #has_/name :: is_occupation)
 ( #has_/range :: Occupation)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

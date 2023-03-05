@@ -32,8 +32,6 @@ aliases:
 - has_item_reviewed
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_item_reviewed :: Thing] or 
 - [ has_item_reviewed :: Thing] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: AggregateRating, Review]
 ( #has_/name :: is_item_reviewed)
 ( #has_/range :: Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

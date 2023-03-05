@@ -32,8 +32,6 @@ aliases:
 - has_available_test
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_available_test :: MedicalTest] or 
 - [ has_available_test :: MedicalTest] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DiagnosticLab]
 ( #has_/name :: is_available_test)
 ( #has_/range :: MedicalTest)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

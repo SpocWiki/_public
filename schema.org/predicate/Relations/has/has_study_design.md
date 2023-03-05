@@ -32,8 +32,6 @@ aliases:
 - has_study_design
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_study_design :: MedicalObservationalStudyDesign] or 
 - [ has_study_design :: MedicalObservationalStudyDesign] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalObservationalStudy]
 ( #has_/name :: is_study_design)
 ( #has_/range :: MedicalObservationalStudyDesign)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

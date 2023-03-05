@@ -32,8 +32,6 @@ aliases:
 - has_result_comment
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_result_comment :: Comment] or 
 - [ has_result_comment :: Comment] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_result_comment)
 ( #has_/range :: Comment)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: result]
-
-[ #has_/sub_properties :: ]
 

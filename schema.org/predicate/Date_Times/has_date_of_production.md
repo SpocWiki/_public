@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_of_production::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_of_production::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The date of production of the item, e.g. vehicle.
 
 Formal Predicate: 

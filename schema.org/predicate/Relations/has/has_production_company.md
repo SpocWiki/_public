@@ -32,8 +32,6 @@ aliases:
 - has_production_company
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_production_company :: Organization] or 
 - [ has_production_company :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWorkSeason, Episode, MediaObject, Movie, MovieSeries, RadioSeries, TVSeries, VideoGameSeries]
 ( #has_/name :: is_production_company)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

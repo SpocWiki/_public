@@ -32,8 +32,6 @@ aliases:
 - has_lodging_unit_type
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_lodging_unit_type :: QualitativeValue, Text] or 
 - [ has_lodging_unit_type :: QualitativeValue, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: LodgingReservation]
 ( #has_/name :: is_lodging_unit_type)
 ( #has_/range :: QualitativeValue, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

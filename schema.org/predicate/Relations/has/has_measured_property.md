@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_measured_property)
 ( #has_/range :: Property)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

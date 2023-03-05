@@ -32,8 +32,6 @@ aliases:
 - has_exif_data
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_exif_data :: PropertyValue, Text] or 
 - [ has_exif_data :: PropertyValue, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ImageObject]
 ( #has_/name :: is_exif_data)
 ( #has_/range :: PropertyValue, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

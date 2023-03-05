@@ -32,8 +32,6 @@ aliases:
 - has_educational_alignment
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_educational_alignment :: AlignmentObject] or 
 - [ has_educational_alignment :: AlignmentObject] 
@@ -46,10 +44,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, LearningResource]
 ( #has_/name :: is_educational_alignment)
 ( #has_/range :: AlignmentObject)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

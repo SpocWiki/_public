@@ -32,8 +32,6 @@ aliases:
 - has_exercise_related_diet
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_exercise_related_diet :: Diet] or 
 - [ has_exercise_related_diet :: Diet] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_exercise_related_diet)
 ( #has_/range :: Diet)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: instrument]
-
-[ #has_/sub_properties :: ]
 

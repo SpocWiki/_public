@@ -32,8 +32,6 @@ aliases:
 - has_workload
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_workload :: Energy, QuantitativeValue] or 
 - [ has_workload :: Energy, QuantitativeValue] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ExercisePlan]
 ( #has_/name :: is_workload)
 ( #has_/range :: Energy, QuantitativeValue)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

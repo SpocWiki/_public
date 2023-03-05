@@ -32,8 +32,6 @@ aliases:
 - has_stage
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_stage :: MedicalConditionStage] or 
 - [ has_stage :: MedicalConditionStage] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalCondition]
 ( #has_/name :: is_stage)
 ( #has_/range :: MedicalConditionStage)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

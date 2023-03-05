@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_government_benefits_info)
 ( #has_/range :: GovernmentService)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

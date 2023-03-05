@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_refund_type)
 ( #has_/range :: RefundTypeEnumeration)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

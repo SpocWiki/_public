@@ -32,8 +32,6 @@ aliases:
 - has_recipe_instructions
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_recipe_instructions :: CreativeWork, ItemList, Text] or 
 - [ has_recipe_instructions :: CreativeWork, ItemList, Text] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_recipe_instructions)
 ( #has_/range :: CreativeWork, ItemList, Text)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: step]
-
-[ #has_/sub_properties :: ]
 

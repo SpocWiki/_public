@@ -32,8 +32,6 @@ aliases:
 - has_educational_credential_awarded
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_educational_credential_awarded :: EducationalOccupationalCredential, Text, URL] or 
 - [ has_educational_credential_awarded :: EducationalOccupationalCredential, Text, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Course, EducationalOccupationalProgram]
 ( #has_/name :: is_educational_credential_awarded)
 ( #has_/range :: EducationalOccupationalCredential, Text, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

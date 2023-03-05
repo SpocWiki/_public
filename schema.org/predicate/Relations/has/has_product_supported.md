@@ -32,8 +32,6 @@ aliases:
 - has_product_supported
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_product_supported :: Product, Text] or 
 - [ has_product_supported :: Product, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ContactPoint]
 ( #has_/name :: is_product_supported)
 ( #has_/range :: Product, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

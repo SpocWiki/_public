@@ -32,8 +32,6 @@ aliases:
 - has_book_format
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_book_format :: BookFormatType] or 
 - [ has_book_format :: BookFormatType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Book]
 ( #has_/name :: is_book_format)
 ( #has_/range :: BookFormatType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

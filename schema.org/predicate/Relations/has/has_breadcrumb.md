@@ -32,8 +32,6 @@ aliases:
 - has_breadcrumb
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_breadcrumb :: BreadcrumbList, Text] or 
 - [ has_breadcrumb :: BreadcrumbList, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: WebPage]
 ( #has_/name :: is_breadcrumb)
 ( #has_/range :: BreadcrumbList, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

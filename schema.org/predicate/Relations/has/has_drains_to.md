@@ -32,8 +32,6 @@ aliases:
 - has_drains_to
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_drains_to :: Vessel] or 
 - [ has_drains_to :: Vessel] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Vein]
 ( #has_/name :: is_drains_to)
 ( #has_/range :: Vessel)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

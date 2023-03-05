@@ -32,8 +32,6 @@ aliases:
 - has_manufacturer
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_manufacturer :: Organization] or 
 - [ has_manufacturer :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Product]
 ( #has_/name :: is_manufacturer)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

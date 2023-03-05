@@ -32,8 +32,6 @@ aliases:
 - has_sub_organization
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sub_organization :: Organization] or 
 - [ has_sub_organization :: Organization] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: Organization)
 
 [ #is_/inverse_of  :: parentOrganization]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

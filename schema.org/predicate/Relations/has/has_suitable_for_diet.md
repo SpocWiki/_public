@@ -32,8 +32,6 @@ aliases:
 - has_suitable_for_diet
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_suitable_for_diet :: RestrictedDiet] or 
 - [ has_suitable_for_diet :: RestrictedDiet] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MenuItem, Recipe]
 ( #has_/name :: is_suitable_for_diet)
 ( #has_/range :: RestrictedDiet)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

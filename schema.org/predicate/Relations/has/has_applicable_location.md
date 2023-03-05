@@ -32,8 +32,6 @@ aliases:
 - has_applicable_location
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_applicable_location :: AdministrativeArea] or 
 - [ has_applicable_location :: AdministrativeArea] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DrugCost, DrugLegalStatus]
 ( #has_/name :: is_applicable_location)
 ( #has_/range :: AdministrativeArea)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

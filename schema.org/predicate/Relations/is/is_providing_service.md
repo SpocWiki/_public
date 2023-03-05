@@ -32,8 +32,6 @@ aliases:
 - is_providing_service
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_providing_service :: Service] or 
 - [ is_providing_service :: Service] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ServiceChannel]
 ( #has_/name :: is_providing_service)
 ( #has_/range :: Service)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_interaction_statistic
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_interaction_statistic :: InteractionCounter] or 
 - [ has_interaction_statistic :: InteractionCounter] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, Organization, Person]
 ( #has_/name :: is_interaction_statistic)
 ( #has_/range :: InteractionCounter)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

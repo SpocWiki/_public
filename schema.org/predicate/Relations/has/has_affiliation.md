@@ -32,8 +32,6 @@ aliases:
 - has_affiliation
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_affiliation :: Organization] or 
 - [ has_affiliation :: Organization] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_affiliation)
 ( #has_/range :: Organization)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: memberOf]
-
-[ #has_/sub_properties :: ]
 

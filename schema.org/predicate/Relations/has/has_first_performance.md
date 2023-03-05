@@ -32,8 +32,6 @@ aliases:
 - has_first_performance
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_first_performance :: Event] or 
 - [ has_first_performance :: Event] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MusicComposition]
 ( #has_/name :: is_first_performance)
 ( #has_/range :: Event)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

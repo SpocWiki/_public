@@ -32,8 +32,6 @@ aliases:
 - has_eligible_transaction_volume
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_eligible_transaction_volume :: PriceSpecification] or 
 - [ has_eligible_transaction_volume :: PriceSpecification] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Demand, Offer, PriceSpecification]
 ( #has_/name :: is_eligible_transaction_volume)
 ( #has_/range :: PriceSpecification)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

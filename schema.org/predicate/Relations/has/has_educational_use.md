@@ -32,8 +32,6 @@ aliases:
 - has_educational_use
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_educational_use :: DefinedTerm, Text] or 
 - [ has_educational_use :: DefinedTerm, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, LearningResource]
 ( #has_/name :: is_educational_use)
 ( #has_/range :: DefinedTerm, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

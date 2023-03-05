@@ -32,8 +32,6 @@ aliases:
 - has_value_reference
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_value_reference :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text] or 
 - [ has_value_reference :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: PropertyValue, QualitativeValue, QuantitativeValue]
 ( #has_/name :: is_value_reference)
 ( #has_/range :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

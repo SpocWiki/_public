@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_when_availability_starts::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_when_availability_starts::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The beginning of the availability of the product or service included in the offer.
 
 Formal Predicate: 

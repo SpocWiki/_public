@@ -32,8 +32,6 @@ aliases:
 - has_predecessor_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_predecessor_of :: ProductModel] or 
 - [ has_predecessor_of :: ProductModel] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ProductModel]
 ( #has_/name :: is_predecessor_of)
 ( #has_/range :: ProductModel)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

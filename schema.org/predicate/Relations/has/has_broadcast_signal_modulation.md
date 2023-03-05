@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_broadcast_signal_modulation)
 ( #has_/range :: QualitativeValue, Text)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

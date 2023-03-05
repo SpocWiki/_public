@@ -32,8 +32,6 @@ aliases:
 - is_based_on_url
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_based_on_url :: CreativeWork, Product, URL] or 
 - [ is_based_on_url :: CreativeWork, Product, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_based_on_url)
 ( #has_/range :: CreativeWork, Product, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

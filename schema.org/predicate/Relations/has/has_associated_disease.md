@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_associated_disease)
 ( #has_/range :: MedicalCondition, PropertyValue, URL)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

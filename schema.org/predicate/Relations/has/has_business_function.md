@@ -32,8 +32,6 @@ aliases:
 - has_business_function
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_business_function :: BusinessFunction] or 
 - [ has_business_function :: BusinessFunction] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Demand, Offer, TypeAndQuantityNode]
 ( #has_/name :: is_business_function)
 ( #has_/range :: BusinessFunction)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_ownership_funding_info)
 ( #has_/range :: AboutPage, CreativeWork, Text, URL)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: publishingPrinciples]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_catalog
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_catalog :: DataCatalog] or 
 - [ has_catalog :: DataCatalog] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Dataset]
 ( #has_/name :: is_catalog)
 ( #has_/range :: DataCatalog)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - is_part_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is_/part_of :: CreativeWork, URL] or 
 - [ is_part_of :: CreativeWork, URL] 
@@ -47,7 +45,5 @@ Relation describes that:
 
 [ #is_/inverse_of  :: hasPart]
 
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: inDefinedTermSet, partOfEpisode, partOfSeason, partOfSeries, partOfTVSeries]
+[ #has_/sub_properties :: [ inDefinedTermSet, partOfEpisode, partOfSeason, partOfSeries, partOfTVSeries]]
 

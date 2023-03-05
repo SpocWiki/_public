@@ -32,8 +32,6 @@ aliases:
 - has_target
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_target :: EntryPoint, URL] or 
 - [ has_target :: EntryPoint, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Action]
 ( #has_/name :: is_target)
 ( #has_/range :: EntryPoint, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

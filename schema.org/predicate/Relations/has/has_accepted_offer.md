@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_accepted_offer
 
 linkTitle: has_accepted_offer
-keywords: 
+keywords: [accept, offer]
 layout: 
 draft: false
 publishDate:
@@ -32,8 +32,6 @@ aliases:
 - has_accepted_offer
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_accepted_offer :: Offer] or 
 - [ has_accepted_offer :: Offer] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Order]
 ( #has_/name :: is_accepted_offer)
 ( #has_/range :: Offer)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

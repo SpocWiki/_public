@@ -32,8 +32,6 @@ aliases:
 - has_music_arrangement
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_music_arrangement :: MusicComposition] or 
 - [ has_music_arrangement :: MusicComposition] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MusicComposition]
 ( #has_/name :: is_music_arrangement)
 ( #has_/range :: MusicComposition)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

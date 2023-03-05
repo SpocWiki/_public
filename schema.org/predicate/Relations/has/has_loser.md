@@ -32,8 +32,6 @@ aliases:
 - has_loser
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_loser :: Person] or 
 - [ has_loser :: Person] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_loser)
 ( #has_/range :: Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: participant]
-
-[ #has_/sub_properties :: ]
 

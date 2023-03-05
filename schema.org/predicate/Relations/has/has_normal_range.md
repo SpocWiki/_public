@@ -32,8 +32,6 @@ aliases:
 - has_normal_range
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_normal_range :: MedicalEnumeration, Text] or 
 - [ has_normal_range :: MedicalEnumeration, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalTest]
 ( #has_/name :: is_normal_range)
 ( #has_/range :: MedicalEnumeration, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_accepted_answer
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_accepted_answer :: Answer, ItemList] or 
 - [ has_accepted_answer :: Answer, ItemList] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_accepted_answer)
 ( #has_/range :: Answer, ItemList)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: suggestedAnswer]
-
-[ #has_/sub_properties :: ]
 

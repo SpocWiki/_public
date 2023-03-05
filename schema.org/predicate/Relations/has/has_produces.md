@@ -32,8 +32,6 @@ aliases:
 - has_produces
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_produces :: Thing] or 
 - [ has_produces :: Thing] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Service]
 ( #has_/name :: is_produces)
 ( #has_/range :: Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

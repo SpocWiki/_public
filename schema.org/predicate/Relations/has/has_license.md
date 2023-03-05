@@ -32,8 +32,6 @@ aliases:
 - has_license
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_license :: CreativeWork, URL] or 
 - [ has_license :: CreativeWork, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_license)
 ( #has_/range :: CreativeWork, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

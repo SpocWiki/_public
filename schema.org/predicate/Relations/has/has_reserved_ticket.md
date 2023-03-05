@@ -32,8 +32,6 @@ aliases:
 - has_reserved_ticket
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_reserved_ticket :: Ticket] or 
 - [ has_reserved_ticket :: Ticket] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Reservation]
 ( #has_/name :: is_reserved_ticket)
 ( #has_/range :: Ticket)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_borrower
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_borrower :: Person] or 
 - [ has_borrower :: Person] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_borrower)
 ( #has_/range :: Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: participant]
-
-[ #has_/sub_properties :: ]
 

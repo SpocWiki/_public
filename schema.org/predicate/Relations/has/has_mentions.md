@@ -32,8 +32,6 @@ aliases:
 - has_mentions
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_mentions :: Thing] or 
 - [ has_mentions :: Thing] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_mentions)
 ( #has_/range :: Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

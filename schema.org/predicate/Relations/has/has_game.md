@@ -32,8 +32,6 @@ aliases:
 - has_game
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_game :: VideoGame] or 
 - [ has_game :: VideoGame] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: VideoGame)
 
 [ #is_/inverse_of  :: gameServer]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_citation
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_citation :: CreativeWork, Text] or 
 - [ has_citation :: CreativeWork, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_citation)
 ( #has_/range :: CreativeWork, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -47,7 +47,3 @@ Relation describes that:
 
 [ #is_/inverse_of  :: parentTaxon]
 
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

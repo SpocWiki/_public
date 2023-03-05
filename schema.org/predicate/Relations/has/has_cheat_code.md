@@ -32,8 +32,6 @@ aliases:
 - has_cheat_code
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_cheat_code :: CreativeWork] or 
 - [ has_cheat_code :: CreativeWork] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: VideoGame, VideoGameSeries]
 ( #has_/name :: is_cheat_code)
 ( #has_/range :: CreativeWork)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

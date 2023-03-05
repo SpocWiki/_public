@@ -32,8 +32,6 @@ aliases:
 - has_work_performed
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_work_performed :: CreativeWork] or 
 - [ has_work_performed :: CreativeWork] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_work_performed)
 ( #has_/range :: CreativeWork)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: workFeatured]
-
-[ #has_/sub_properties :: ]
 

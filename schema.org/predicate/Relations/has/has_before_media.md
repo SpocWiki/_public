@@ -32,8 +32,6 @@ aliases:
 - has_before_media
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_before_media :: MediaObject, URL] or 
 - [ has_before_media :: MediaObject, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: HowToDirection]
 ( #has_/name :: is_before_media)
 ( #has_/range :: MediaObject, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

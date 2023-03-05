@@ -32,8 +32,6 @@ aliases:
 - has_entertainment_business
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_entertainment_business :: EntertainmentBusiness] or 
 - [ has_entertainment_business :: EntertainmentBusiness] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_entertainment_business)
 ( #has_/range :: EntertainmentBusiness)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: location]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_candidate
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_candidate :: Person] or 
 - [ has_candidate :: Person] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_candidate)
 ( #has_/range :: Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: object]
-
-[ #has_/sub_properties :: ]
 

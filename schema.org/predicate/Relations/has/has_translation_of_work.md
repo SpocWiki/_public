@@ -47,7 +47,3 @@ Relation describes that:
 
 [ #is_/inverse_of  :: workTranslation]
 
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_superseded_by)
 ( #has_/range :: Class, Enumeration, Property)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

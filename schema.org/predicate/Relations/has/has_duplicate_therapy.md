@@ -32,8 +32,6 @@ aliases:
 - has_duplicate_therapy
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_duplicate_therapy :: MedicalTherapy] or 
 - [ has_duplicate_therapy :: MedicalTherapy] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalTherapy]
 ( #has_/name :: is_duplicate_therapy)
 ( #has_/range :: MedicalTherapy)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

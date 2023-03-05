@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_competency_required)
 ( #has_/range :: DefinedTerm, Text, URL)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - has_data_feed_element
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_data_feed_element :: DataFeedItem, Text, Thing] or 
 - [ has_data_feed_element :: DataFeedItem, Text, Thing] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DataFeed]
 ( #has_/name :: is_data_feed_element)
 ( #has_/range :: DataFeedItem, Text, Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

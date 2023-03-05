@@ -40,7 +40,6 @@ Use it like this:
 - [has_duration_to_process::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration/_to_process::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 Estimated processing time for the service using this channel.
 
 Formal Predicate: 

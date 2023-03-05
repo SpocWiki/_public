@@ -32,8 +32,6 @@ aliases:
 - has_copyright_holder
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_copyright_holder :: Organization, Person] or 
 - [ has_copyright_holder :: Organization, Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_copyright_holder)
 ( #has_/range :: Organization, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

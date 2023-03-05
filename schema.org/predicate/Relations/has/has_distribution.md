@@ -32,8 +32,6 @@ aliases:
 - has_distribution
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_distribution :: DataDownload] or 
 - [ has_distribution :: DataDownload] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Dataset]
 ( #has_/name :: is_distribution)
 ( #has_/range :: DataDownload)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

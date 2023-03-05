@@ -32,8 +32,6 @@ aliases:
 - has_buyer
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_buyer :: Organization, Person] or 
 - [ has_buyer :: Organization, Person] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_buyer)
 ( #has_/range :: Organization, Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: participant]
-
-[ #has_/sub_properties :: ]
 

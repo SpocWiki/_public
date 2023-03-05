@@ -32,8 +32,6 @@ aliases:
 - has_issued_by
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_issued_by :: Organization] or 
 - [ has_issued_by :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Permit, Ticket]
 ( #has_/name :: is_issued_by)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

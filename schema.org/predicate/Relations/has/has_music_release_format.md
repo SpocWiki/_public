@@ -32,8 +32,6 @@ aliases:
 - has_music_release_format
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_music_release_format :: MusicReleaseFormatType] or 
 - [ has_music_release_format :: MusicReleaseFormatType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MusicRelease]
 ( #has_/name :: is_music_release_format)
 ( #has_/range :: MusicReleaseFormatType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_acquire_license_page)
 ( #has_/range :: CreativeWork, URL)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: usageInfo]
-
-[ #has_/sub_properties :: ]
 

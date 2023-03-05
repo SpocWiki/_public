@@ -32,8 +32,6 @@ aliases:
 - has_availability
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_availability :: ItemAvailability] or 
 - [ has_availability :: ItemAvailability] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Demand, Offer]
 ( #has_/name :: is_availability)
 ( #has_/range :: ItemAvailability)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

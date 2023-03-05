@@ -32,8 +32,6 @@ aliases:
 - has_cause_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_cause_of :: MedicalEntity] or 
 - [ has_cause_of :: MedicalEntity] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalCause]
 ( #has_/name :: is_cause_of)
 ( #has_/range :: MedicalEntity)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

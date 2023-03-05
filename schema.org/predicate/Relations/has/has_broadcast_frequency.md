@@ -32,8 +32,6 @@ aliases:
 - has_broadcast_frequency
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_broadcast_frequency :: BroadcastFrequencySpecification, Text] or 
 - [ has_broadcast_frequency :: BroadcastFrequencySpecification, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: BroadcastChannel, BroadcastService]
 ( #has_/name :: is_broadcast_frequency)
 ( #has_/range :: BroadcastFrequencySpecification, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

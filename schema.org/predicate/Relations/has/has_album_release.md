@@ -32,8 +32,6 @@ aliases:
 - has_album_release
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_album_release :: MusicRelease] or 
 - [ has_album_release :: MusicRelease] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: MusicRelease)
 
 [ #is_/inverse_of  :: releaseOf]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

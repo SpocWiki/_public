@@ -32,8 +32,6 @@ aliases:
 - has_boarding_policy
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_boarding_policy :: BoardingPolicyType] or 
 - [ has_boarding_policy :: BoardingPolicyType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Airline, Flight]
 ( #has_/name :: is_boarding_policy)
 ( #has_/range :: BoardingPolicyType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

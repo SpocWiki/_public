@@ -32,8 +32,6 @@ aliases:
 - has_country_of_origin
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_country_of_origin :: Country] or 
 - [ has_country_of_origin :: Country] 
@@ -48,10 +46,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, Movie, Product, TVEpisode, TVSeason, TVSeries]
 ( #has_/name :: is_country_of_origin)
 ( #has_/range :: Country)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

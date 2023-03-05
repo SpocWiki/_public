@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_return_method)
 ( #has_/range :: ReturnMethodEnumeration)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - has_example_of_work
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_example_of_work :: CreativeWork] or 
 - [ has_example_of_work :: CreativeWork] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: CreativeWork)
 
 [ #is_/inverse_of  :: workExample]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

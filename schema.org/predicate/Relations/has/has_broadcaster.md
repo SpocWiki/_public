@@ -32,8 +32,6 @@ aliases:
 - has_broadcaster
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_broadcaster :: Organization] or 
 - [ has_broadcaster :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: BroadcastService]
 ( #has_/name :: is_broadcaster)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

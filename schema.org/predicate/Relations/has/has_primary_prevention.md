@@ -32,8 +32,6 @@ aliases:
 - has_primary_prevention
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_primary_prevention :: MedicalTherapy] or 
 - [ has_primary_prevention :: MedicalTherapy] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalCondition]
 ( #has_/name :: is_primary_prevention)
 ( #has_/range :: MedicalTherapy)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - is_related_to
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_related_to :: Product, Service] or 
 - [ is_related_to :: Product, Service] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Product, Service]
 ( #has_/name :: is_related_to)
 ( #has_/range :: Product, Service)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

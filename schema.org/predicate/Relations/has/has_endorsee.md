@@ -32,8 +32,6 @@ aliases:
 - has_endorsee
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_endorsee :: Organization, Person] or 
 - [ has_endorsee :: Organization, Person] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_endorsee)
 ( #has_/range :: Organization, Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: participant]
-
-[ #has_/sub_properties :: ]
 

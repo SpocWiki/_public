@@ -32,8 +32,6 @@ aliases:
 - has_comprised_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_comprised_of :: AnatomicalStructure, AnatomicalSystem] or 
 - [ has_comprised_of :: AnatomicalStructure, AnatomicalSystem] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: AnatomicalSystem]
 ( #has_/name :: is_comprised_of)
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

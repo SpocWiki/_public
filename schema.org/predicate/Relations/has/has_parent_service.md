@@ -32,8 +32,6 @@ aliases:
 - has_parent_service
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_parent_service :: BroadcastService] or 
 - [ has_parent_service :: BroadcastService] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: BroadcastService]
 ( #has_/name :: is_parent_service)
 ( #has_/range :: BroadcastService)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

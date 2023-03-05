@@ -32,8 +32,6 @@ aliases:
 - has_illustrator
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_illustrator :: Person] or 
 - [ has_illustrator :: Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Book]
 ( #has_/name :: is_illustrator)
 ( #has_/range :: Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

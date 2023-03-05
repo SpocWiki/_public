@@ -32,8 +32,6 @@ aliases:
 - has_result
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_result :: Thing] or 
 - [ has_result :: Thing] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: Action]
 ( #has_/name :: is_result)
 ( #has_/range :: Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: resultComment, resultReview]
 

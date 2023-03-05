@@ -40,7 +40,6 @@ Use it like this:
 - [has_duration_of_validity::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration/_of_validity::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The duration of validity of a permit or similar thing.
 
 Formal Predicate: 

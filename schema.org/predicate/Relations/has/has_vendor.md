@@ -32,8 +32,6 @@ aliases:
 - has_vendor
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_vendor :: Organization, Person] or 
 - [ has_vendor :: Organization, Person] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_vendor)
 ( #has_/range :: Organization, Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: participant]
-
-[ #has_/sub_properties :: ]
 

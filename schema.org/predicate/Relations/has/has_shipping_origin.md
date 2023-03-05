@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_shipping_origin)
 ( #has_/range :: DefinedRegion)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_molecular_function)
 ( #has_/range :: DefinedTerm, PropertyValue, URL)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

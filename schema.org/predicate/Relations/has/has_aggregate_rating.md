@@ -32,8 +32,6 @@ aliases:
 - has_aggregate_rating
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_aggregate_rating :: AggregateRating] or 
 - [ has_aggregate_rating :: AggregateRating] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Brand, CreativeWork, Event, Offer, Organization, Place, Product, Service]
 ( #has_/name :: is_aggregate_rating)
 ( #has_/range :: AggregateRating)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

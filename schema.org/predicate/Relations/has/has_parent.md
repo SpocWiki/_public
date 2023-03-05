@@ -32,8 +32,6 @@ aliases:
 - has_parent
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_parent :: Person] or 
 - [ has_parent :: Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Person]
 ( #has_/name :: is_parent)
 ( #has_/range :: Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

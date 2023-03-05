@@ -32,8 +32,6 @@ aliases:
 - has_contact_option
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_contact_option :: ContactPointOption] or 
 - [ has_contact_option :: ContactPointOption] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ContactPoint]
 ( #has_/name :: is_contact_option)
 ( #has_/range :: ContactPointOption)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

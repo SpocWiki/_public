@@ -32,8 +32,6 @@ aliases:
 - has_price_specification
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_price_specification :: PriceSpecification] or 
 - [ has_price_specification :: PriceSpecification] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Demand, Offer, TradeAction]
 ( #has_/name :: is_price_specification)
 ( #has_/range :: PriceSpecification)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

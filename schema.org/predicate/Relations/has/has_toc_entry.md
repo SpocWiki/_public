@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_toc_entry)
 ( #has_/range :: HyperTocEntry)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: hasPart]
-
-[ #has_/sub_properties :: ]
 

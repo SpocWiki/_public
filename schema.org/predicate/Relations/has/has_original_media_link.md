@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_original_media_link)
 ( #has_/range :: MediaObject, URL, WebPage)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

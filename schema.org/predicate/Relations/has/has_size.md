@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_size)
 ( #has_/range :: DefinedTerm, QuantitativeValue, SizeSpecification, Text)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_size_system)
 ( #has_/range :: SizeSystemEnumeration, Text)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

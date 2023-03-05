@@ -32,8 +32,6 @@ aliases:
 - has_diagram
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_diagram :: ImageObject] or 
 - [ has_diagram :: ImageObject] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: AnatomicalStructure]
 ( #has_/name :: is_diagram)
 ( #has_/range :: ImageObject)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

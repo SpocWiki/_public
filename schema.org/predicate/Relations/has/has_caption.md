@@ -32,8 +32,6 @@ aliases:
 - has_caption
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_caption :: MediaObject, Text] or 
 - [ has_caption :: MediaObject, Text] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: AudioObject, ImageObject, VideoObject]
 ( #has_/name :: is_caption)
 ( #has_/range :: MediaObject, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: embeddedTextCaption]
 

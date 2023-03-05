@@ -32,8 +32,6 @@ aliases:
 - has_course_prerequisites
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_course_prerequisites :: AlignmentObject, Course, Text] or 
 - [ has_course_prerequisites :: AlignmentObject, Course, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Course]
 ( #has_/name :: is_course_prerequisites)
 ( #has_/range :: AlignmentObject, Course, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

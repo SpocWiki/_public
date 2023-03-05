@@ -32,8 +32,6 @@ aliases:
 - has_arrival_bus_stop
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_arrival_bus_stop :: BusStation, BusStop] or 
 - [ has_arrival_bus_stop :: BusStation, BusStop] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: BusTrip]
 ( #has_/name :: is_arrival_bus_stop)
 ( #has_/range :: BusStation, BusStop)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

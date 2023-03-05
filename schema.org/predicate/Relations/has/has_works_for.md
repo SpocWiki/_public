@@ -32,8 +32,6 @@ aliases:
 - has_works_for
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_works_for :: Organization] or 
 - [ has_works_for :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Person]
 ( #has_/name :: is_works_for)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_step
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_step :: CreativeWork, HowToSection, HowToStep, Text] or 
 - [ has_step :: CreativeWork, HowToSection, HowToStep, Text] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: HowTo]
 ( #has_/name :: is_step)
 ( #has_/range :: CreativeWork, HowToSection, HowToStep, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: recipeInstructions]
 

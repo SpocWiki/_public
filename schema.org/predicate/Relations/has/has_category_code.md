@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_category_code)
 ( #has_/range :: CategoryCode)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: hasDefinedTerm]
-
-[ #has_/sub_properties :: ]
 

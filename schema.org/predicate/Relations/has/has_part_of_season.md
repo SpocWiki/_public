@@ -32,8 +32,6 @@ aliases:
 - has_part_of_season
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_part_of_season :: CreativeWorkSeason] or 
 - [ has_part_of_season :: CreativeWorkSeason] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_part_of_season)
 ( #has_/range :: CreativeWorkSeason)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: isPartOf]
-
-[ #has_/sub_properties :: ]
 

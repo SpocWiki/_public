@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_first_appearance)
 ( #has_/range :: CreativeWork)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: workExample]
-
-[ #has_/sub_properties :: ]
 

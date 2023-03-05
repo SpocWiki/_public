@@ -32,8 +32,6 @@ aliases:
 - has_super_event
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_super_event :: Event] or 
 - [ has_super_event :: Event] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: Event)
 
 [ #is_/inverse_of  :: subEvent]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

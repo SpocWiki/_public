@@ -32,8 +32,6 @@ aliases:
 - has_main_content_of_page
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_main_content_of_page :: WebPageElement] or 
 - [ has_main_content_of_page :: WebPageElement] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: WebPage]
 ( #has_/name :: is_main_content_of_page)
 ( #has_/range :: WebPageElement)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

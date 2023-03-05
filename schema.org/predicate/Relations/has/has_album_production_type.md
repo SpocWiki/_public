@@ -32,8 +32,6 @@ aliases:
 - has_album_production_type
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_album_production_type :: MusicAlbumProductionType] or 
 - [ has_album_production_type :: MusicAlbumProductionType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MusicAlbum]
 ( #has_/name :: is_album_production_type)
 ( #has_/range :: MusicAlbumProductionType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_included_in_health_insurance_plan)
 ( #has_/range :: HealthInsurancePlan)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

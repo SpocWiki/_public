@@ -32,8 +32,6 @@ aliases:
 - has_relevant_occupation
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_relevant_occupation :: Occupation] or 
 - [ has_relevant_occupation :: Occupation] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: JobPosting]
 ( #has_/name :: is_relevant_occupation)
 ( #has_/range :: Occupation)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

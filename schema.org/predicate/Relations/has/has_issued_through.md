@@ -32,8 +32,6 @@ aliases:
 - has_issued_through
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_issued_through :: Service] or 
 - [ has_issued_through :: Service] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Permit]
 ( #has_/name :: is_issued_through)
 ( #has_/range :: Service)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_supply_to
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_supply_to :: AnatomicalStructure] or 
 - [ has_supply_to :: AnatomicalStructure] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Artery]
 ( #has_/name :: is_supply_to)
 ( #has_/range :: AnatomicalStructure)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

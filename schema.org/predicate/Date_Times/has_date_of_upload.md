@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_of_upload::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_of_upload::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 Date when this media object was uploaded to this site.
 
 Formal Predicate: 

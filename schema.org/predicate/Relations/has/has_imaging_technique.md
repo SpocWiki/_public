@@ -32,8 +32,6 @@ aliases:
 - has_imaging_technique
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_imaging_technique :: MedicalImagingTechnique] or 
 - [ has_imaging_technique :: MedicalImagingTechnique] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ImagingTest]
 ( #has_/name :: is_imaging_technique)
 ( #has_/range :: MedicalImagingTechnique)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

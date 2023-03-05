@@ -32,8 +32,6 @@ aliases:
 - has_affected_by
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_affected_by :: Drug] or 
 - [ has_affected_by :: Drug] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalTest]
 ( #has_/name :: is_affected_by)
 ( #has_/range :: Drug)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_to_recipient
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_to_recipient :: Audience, ContactPoint, Organization, Person] or 
 - [ has_to_recipient :: Audience, ContactPoint, Organization, Person] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_to_recipient)
 ( #has_/range :: Audience, ContactPoint, Organization, Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: recipient]
-
-[ #has_/sub_properties :: ]
 

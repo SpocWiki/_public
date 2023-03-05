@@ -32,8 +32,6 @@ aliases:
 - is_increasing_risk_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_increasing_risk_of :: MedicalEntity] or 
 - [ is_increasing_risk_of :: MedicalEntity] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalRiskFactor]
 ( #has_/name :: is_increasing_risk_of)
 ( #has_/range :: MedicalEntity)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_endorsers
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_endorsers :: Organization, Person] or 
 - [ has_endorsers :: Organization, Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Diet]
 ( #has_/name :: is_endorsers)
 ( #has_/range :: Organization, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

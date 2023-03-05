@@ -32,8 +32,6 @@ aliases:
 - has_access_mode_sufficient
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_access_mode_sufficient :: ItemList] or 
 - [ has_access_mode_sufficient :: ItemList] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_access_mode_sufficient)
 ( #has_/range :: ItemList)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

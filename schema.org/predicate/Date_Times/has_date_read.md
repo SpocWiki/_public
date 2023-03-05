@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_read::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_read::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The date/time at which the message has been read by the recipient if a single recipient exists.
 
 Formal Predicate: 

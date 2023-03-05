@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_energy_efficiency_scale_min)
 ( #has_/range :: EUEnergyEfficiencyEnumeration)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - is_in_language
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_in_language :: Language, Text] or 
 - [ is_in_language :: Language, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: BroadcastService, CommunicateAction, CreativeWork, Event, LinkRole, PronounceableText, WriteAction]
 ( #has_/name :: is_in_language)
 ( #has_/range :: Language, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

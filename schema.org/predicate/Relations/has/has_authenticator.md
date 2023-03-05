@@ -32,8 +32,6 @@ aliases:
 - has_authenticator
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_authenticator :: Organization] or 
 - [ has_authenticator :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MediaSubscription]
 ( #has_/name :: is_authenticator)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_tool
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_tool :: HowToTool, Text] or 
 - [ has_tool :: HowToTool, Text] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_tool)
 ( #has_/range :: HowToTool, Text)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: instrument]
-
-[ #has_/sub_properties :: ]
 

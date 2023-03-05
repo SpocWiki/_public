@@ -32,8 +32,6 @@ aliases:
 - has_occupation_location
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_occupation_location :: AdministrativeArea] or 
 - [ has_occupation_location :: AdministrativeArea] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Occupation]
 ( #has_/name :: is_occupation_location)
 ( #has_/range :: AdministrativeArea)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

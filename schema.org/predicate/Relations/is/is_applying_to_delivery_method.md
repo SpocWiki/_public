@@ -32,8 +32,6 @@ aliases:
 - is_applying_to_delivery_method
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_applying_to_delivery_method :: DeliveryMethod] or 
 - [ is_applying_to_delivery_method :: DeliveryMethod] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DeliveryChargeSpecification, PaymentChargeSpecification]
 ( #has_/name :: is_applying_to_delivery_method)
 ( #has_/range :: DeliveryMethod)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

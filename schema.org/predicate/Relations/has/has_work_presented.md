@@ -32,8 +32,6 @@ aliases:
 - has_work_presented
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_work_presented :: Movie] or 
 - [ has_work_presented :: Movie] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_work_presented)
 ( #has_/range :: Movie)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: workFeatured]
-
-[ #has_/sub_properties :: ]
 

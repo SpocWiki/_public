@@ -32,8 +32,6 @@ aliases:
 - has_editor
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_editor :: Person] or 
 - [ has_editor :: Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_editor)
 ( #has_/range :: Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

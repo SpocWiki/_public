@@ -32,8 +32,6 @@ aliases:
 - has_video
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_video :: Clip, VideoObject] or 
 - [ has_video :: Clip, VideoObject] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_video)
 ( #has_/range :: Clip, VideoObject)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

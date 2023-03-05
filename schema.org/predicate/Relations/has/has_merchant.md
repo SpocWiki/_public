@@ -32,8 +32,6 @@ aliases:
 - has_merchant
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_merchant :: Organization, Person] or 
 - [ has_merchant :: Organization, Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Order]
 ( #has_/name :: is_merchant)
 ( #has_/range :: Organization, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

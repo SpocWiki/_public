@@ -32,8 +32,6 @@ aliases:
 - has_message_attachment
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_message_attachment :: CreativeWork] or 
 - [ has_message_attachment :: CreativeWork] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Message]
 ( #has_/name :: is_message_attachment)
 ( #has_/range :: CreativeWork)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_job_title)
 ( #has_/range :: DefinedTerm, Text)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - has_recommended_intake
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_recommended_intake :: RecommendedDoseSchedule] or 
 - [ has_recommended_intake :: RecommendedDoseSchedule] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DietarySupplement]
 ( #has_/name :: is_recommended_intake)
 ( #has_/range :: RecommendedDoseSchedule)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

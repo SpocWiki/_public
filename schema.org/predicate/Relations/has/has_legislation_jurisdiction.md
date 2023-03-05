@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_legislation_jurisdiction)
 ( #has_/range :: AdministrativeArea, Text)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: jurisdiction, spatialCoverage]
-
-[ #has_/sub_properties :: ]
 

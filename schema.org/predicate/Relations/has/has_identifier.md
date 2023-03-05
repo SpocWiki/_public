@@ -32,8 +32,6 @@ aliases:
 - has_identifier
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_identifier :: PropertyValue, Text, URL] or 
 - [ has_identifier :: PropertyValue, Text, URL] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: Thing]
 ( #has_/name :: is_identifier)
 ( #has_/range :: PropertyValue, Text, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: accountId, asin, callSign, confirmationNumber, duns, editEIDR, flightNumber, globalLocationNumber, gtin, gtin12, gtin13, gtin14, gtin8, isbn, issn, legislationIdentifier, leiCode, nsn, orderNumber, productID, serialNumber, sku, taxID, titleEIDR]
 

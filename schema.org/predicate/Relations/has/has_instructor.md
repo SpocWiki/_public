@@ -32,8 +32,6 @@ aliases:
 - has_instructor
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_instructor :: Person] or 
 - [ has_instructor :: Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CourseInstance]
 ( #has_/name :: is_instructor)
 ( #has_/range :: Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

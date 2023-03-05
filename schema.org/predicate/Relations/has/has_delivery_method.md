@@ -32,8 +32,6 @@ aliases:
 - has_delivery_method
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_delivery_method :: DeliveryMethod] or 
 - [ has_delivery_method :: DeliveryMethod] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DeliveryEvent, ParcelDelivery]
 ( #has_/name :: is_delivery_method)
 ( #has_/range :: DeliveryMethod)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

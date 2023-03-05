@@ -32,8 +32,6 @@ aliases:
 - has_tourist_type
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_tourist_type :: Audience, Text] or 
 - [ has_tourist_type :: Audience, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: TouristAttraction, TouristDestination, TouristTrip]
 ( #has_/name :: is_tourist_type)
 ( #has_/range :: Audience, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

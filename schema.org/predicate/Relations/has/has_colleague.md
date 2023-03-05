@@ -32,8 +32,6 @@ aliases:
 - has_colleague
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_colleague :: Person, URL] or 
 - [ has_colleague :: Person, URL] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Person]
 ( #has_/name :: is_colleague)
 ( #has_/range :: Person, URL)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

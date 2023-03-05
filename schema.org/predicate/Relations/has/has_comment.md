@@ -32,8 +32,6 @@ aliases:
 - has_comment
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_comment :: Comment] or 
 - [ has_comment :: Comment] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, RsvpAction]
 ( #has_/name :: is_comment)
 ( #has_/range :: Comment)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

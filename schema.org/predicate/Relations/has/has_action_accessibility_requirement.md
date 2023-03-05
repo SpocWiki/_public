@@ -32,8 +32,6 @@ aliases:
 - has_action_accessibility_requirement
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_action_accessibility_requirement :: ActionAccessSpecification] or 
 - [ has_action_accessibility_requirement :: ActionAccessSpecification] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ConsumeAction]
 ( #has_/name :: is_action_accessibility_requirement)
 ( #has_/range :: ActionAccessSpecification)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_credited_to
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_credited_to :: Organization, Person] or 
 - [ has_credited_to :: Organization, Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MusicRelease]
 ( #has_/name :: is_credited_to)
 ( #has_/range :: Organization, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

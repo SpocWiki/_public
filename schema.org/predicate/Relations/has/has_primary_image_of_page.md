@@ -32,8 +32,6 @@ aliases:
 - has_primary_image_of_page
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_primary_image_of_page :: ImageObject] or 
 - [ has_primary_image_of_page :: ImageObject] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: WebPage]
 ( #has_/name :: is_primary_image_of_page)
 ( #has_/range :: ImageObject)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

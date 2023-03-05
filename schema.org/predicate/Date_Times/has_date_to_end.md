@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_to_end::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_to_end::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The end date and time of the item (in &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/ISO_8601&quot;&gt;ISO 8601 date format&lt;/a&gt;).
 
 Formal Predicate: 

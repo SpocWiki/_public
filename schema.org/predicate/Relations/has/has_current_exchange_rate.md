@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_current_exchange_rate)
 ( #has_/range :: UnitPriceSpecification)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

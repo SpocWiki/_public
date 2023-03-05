@@ -47,9 +47,3 @@ Relation describes that:
 ( #has_/name :: is_disease_spread_statistics)
 ( #has_/range :: Dataset, Observation, URL, WebContent)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

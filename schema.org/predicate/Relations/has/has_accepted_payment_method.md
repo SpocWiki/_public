@@ -32,8 +32,6 @@ aliases:
 - has_accepted_payment_method
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_accepted_payment_method :: LoanOrCredit, PaymentMethod] or 
 - [ has_accepted_payment_method :: LoanOrCredit, PaymentMethod] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Demand, Offer]
 ( #has_/name :: is_accepted_payment_method)
 ( #has_/range :: LoanOrCredit, PaymentMethod)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

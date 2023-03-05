@@ -40,7 +40,6 @@ Use it like this:
 - [has_time_interval_of_dataset::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time/_interval_of_dataset::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The range of temporal applicability of a dataset, e.g. for a 2011 census dataset, the year 2011 (in ISO 8601 time interval format).
 
 Formal Predicate: 

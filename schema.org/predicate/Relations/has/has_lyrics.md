@@ -32,8 +32,6 @@ aliases:
 - has_lyrics
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_lyrics :: CreativeWork] or 
 - [ has_lyrics :: CreativeWork] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MusicComposition]
 ( #has_/name :: is_lyrics)
 ( #has_/range :: CreativeWork)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

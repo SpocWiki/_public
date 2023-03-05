@@ -32,8 +32,6 @@ aliases:
 - has_hours_available
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_hours_available :: OpeningHoursSpecification] or 
 - [ has_hours_available :: OpeningHoursSpecification] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ContactPoint, LocationFeatureSpecification, Service]
 ( #has_/name :: is_hours_available)
 ( #has_/range :: OpeningHoursSpecification)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

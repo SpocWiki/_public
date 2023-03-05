@@ -32,8 +32,6 @@ aliases:
 - has_medical_specialty
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_medical_specialty :: MedicalSpecialty] or 
 - [ has_medical_specialty :: MedicalSpecialty] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Hospital, MedicalClinic, MedicalOrganization, Physician]
 ( #has_/name :: is_medical_specialty)
 ( #has_/range :: MedicalSpecialty)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

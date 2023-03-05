@@ -32,8 +32,6 @@ aliases:
 - has_antagonist
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_antagonist :: Muscle] or 
 - [ has_antagonist :: Muscle] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Muscle]
 ( #has_/name :: is_antagonist)
 ( #has_/range :: Muscle)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

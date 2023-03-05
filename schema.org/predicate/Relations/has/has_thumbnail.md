@@ -32,8 +32,6 @@ aliases:
 - has_thumbnail
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_thumbnail :: ImageObject] or 
 - [ has_thumbnail :: ImageObject] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ImageObject, VideoObject]
 ( #has_/name :: is_thumbnail)
 ( #has_/range :: ImageObject)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

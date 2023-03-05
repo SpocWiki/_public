@@ -40,7 +40,6 @@ Use it like this:
 - [has_date_published::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_published::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 Date of first broadcast/publication.
 
 Formal Predicate: 

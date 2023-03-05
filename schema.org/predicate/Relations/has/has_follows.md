@@ -32,8 +32,6 @@ aliases:
 - has_follows
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_follows :: Person] or 
 - [ has_follows :: Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Person]
 ( #has_/name :: is_follows)
 ( #has_/range :: Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

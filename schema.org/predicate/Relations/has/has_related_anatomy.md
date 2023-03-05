@@ -32,8 +32,6 @@ aliases:
 - has_related_anatomy
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_related_anatomy :: AnatomicalStructure, AnatomicalSystem] or 
 - [ has_related_anatomy :: AnatomicalStructure, AnatomicalSystem] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: SuperficialAnatomy]
 ( #has_/name :: is_related_anatomy)
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

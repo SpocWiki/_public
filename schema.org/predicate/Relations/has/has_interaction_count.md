@@ -32,8 +32,6 @@ aliases:
 - has_interaction_count
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_interaction_count :: ] or 
 - [ has_interaction_count :: ] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ]
 ( #has_/name :: is_interaction_count)
 ( #has_/range :: )
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - is_element_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is_/element_of :: Collection] or 
 - [ is_element_of :: Collection] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Thing]
 ( #has_/name :: is_element_of)
 ( #has_/range :: Collection)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_involved_in_biological_process)
 ( #has_/range :: DefinedTerm, PropertyValue, URL)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

@@ -32,8 +32,6 @@ aliases:
 - has_about
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_about :: Thing] or 
 - [ has_about :: Thing] 
@@ -46,8 +44,6 @@ Relation describes that:
 ( #has_/range :: Thing)
 
 [ #is_/inverse_of  :: subjectOf]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: mainEntity]
 

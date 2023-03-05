@@ -32,8 +32,6 @@ aliases:
 - has_seasons
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_seasons :: CreativeWorkSeason] or 
 - [ has_seasons :: CreativeWorkSeason] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: RadioSeries, TVSeries, VideoGameSeries]
 ( #has_/name :: is_seasons)
 ( #has_/range :: CreativeWorkSeason)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

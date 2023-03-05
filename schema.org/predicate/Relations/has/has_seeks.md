@@ -32,8 +32,6 @@ aliases:
 - has_seeks
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_seeks :: Demand] or 
 - [ has_seeks :: Demand] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Organization, Person]
 ( #has_/name :: is_seeks)
 ( #has_/range :: Demand)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

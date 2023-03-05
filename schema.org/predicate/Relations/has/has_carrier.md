@@ -32,8 +32,6 @@ aliases:
 - has_carrier
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_carrier :: Organization] or 
 - [ has_carrier :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Flight, ParcelDelivery]
 ( #has_/name :: is_carrier)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

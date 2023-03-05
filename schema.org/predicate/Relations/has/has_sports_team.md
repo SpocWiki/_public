@@ -32,8 +32,6 @@ aliases:
 - has_sports_team
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_sports_team :: SportsTeam] or 
 - [ has_sports_team :: SportsTeam] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_sports_team)
 ( #has_/range :: SportsTeam)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: participant]
-
-[ #has_/sub_properties :: ]
 

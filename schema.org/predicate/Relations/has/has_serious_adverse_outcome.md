@@ -32,8 +32,6 @@ aliases:
 - has_serious_adverse_outcome
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_serious_adverse_outcome :: MedicalEntity] or 
 - [ has_serious_adverse_outcome :: MedicalEntity] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalDevice, MedicalTherapy]
 ( #has_/name :: is_serious_adverse_outcome)
 ( #has_/range :: MedicalEntity)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

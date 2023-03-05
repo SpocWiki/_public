@@ -32,8 +32,6 @@ aliases:
 - has_expects_acceptance_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_expects_acceptance_of :: Offer] or 
 - [ has_expects_acceptance_of :: Offer] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ActionAccessSpecification, ConsumeAction, MediaSubscription]
 ( #has_/name :: is_expects_acceptance_of)
 ( #has_/range :: Offer)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

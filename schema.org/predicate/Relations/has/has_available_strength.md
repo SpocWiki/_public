@@ -32,8 +32,6 @@ aliases:
 - has_available_strength
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_available_strength :: DrugStrength] or 
 - [ has_available_strength :: DrugStrength] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Drug]
 ( #has_/name :: is_available_strength)
 ( #has_/range :: DrugStrength)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

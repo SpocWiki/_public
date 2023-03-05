@@ -32,8 +32,6 @@ aliases:
 - is_originating_from
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_originating_from :: Vessel] or 
 - [ is_originating_from :: Vessel] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: LymphaticVessel]
 ( #has_/name :: is_originating_from)
 ( #has_/range :: Vessel)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_additional_property
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_additional_property :: PropertyValue] or 
 - [ has_additional_property :: PropertyValue] 
@@ -46,10 +44,4 @@ Relation describes that:
 [ #has_/domain  :: MerchantReturnPolicy, Place, Product, QualitativeValue, QuantitativeValue]
 ( #has_/name :: is_additional_property)
 ( #has_/range :: PropertyValue)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

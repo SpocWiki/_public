@@ -32,8 +32,6 @@ aliases:
 - has_founder
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_founder :: Person] or 
 - [ has_founder :: Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Organization]
 ( #has_/name :: is_founder)
 ( #has_/range :: Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

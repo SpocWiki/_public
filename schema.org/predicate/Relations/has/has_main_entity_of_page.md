@@ -32,8 +32,6 @@ aliases:
 - has_main_entity_of_page
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_main_entity_of_page :: CreativeWork, URL] or 
 - [ has_main_entity_of_page :: CreativeWork, URL] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: CreativeWork, URL)
 
 [ #is_/inverse_of  :: mainEntity]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

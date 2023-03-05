@@ -32,8 +32,6 @@ aliases:
 - has_geographic_area
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_geographic_area :: AdministrativeArea] or 
 - [ has_geographic_area :: AdministrativeArea] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Audience]
 ( #has_/name :: is_geographic_area)
 ( #has_/range :: AdministrativeArea)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

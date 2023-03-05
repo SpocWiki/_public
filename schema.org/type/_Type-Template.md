@@ -25,7 +25,6 @@ equivalent_class: {{equivalentProperty}}
 supersedes: {{supersedes}}
 superseded_by: {{supersededBy}}
 
-
 tags:
 - schema.org/Type
 

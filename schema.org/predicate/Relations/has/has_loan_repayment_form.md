@@ -45,9 +45,3 @@ Relation describes that:
 ( #has_/name :: is_loan_repayment_form)
 ( #has_/range :: RepaymentSpecification)
 
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
-

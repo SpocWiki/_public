@@ -32,8 +32,6 @@ aliases:
 - has_lesser_or_equal
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_lesser_or_equal :: QualitativeValue] or 
 - [ has_lesser_or_equal :: QualitativeValue] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: QualitativeValue]
 ( #has_/name :: is_lesser_or_equal)
 ( #has_/range :: QualitativeValue)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

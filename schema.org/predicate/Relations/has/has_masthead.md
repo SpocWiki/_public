@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_masthead)
 ( #has_/range :: CreativeWork, URL)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: publishingPrinciples]
-
-[ #has_/sub_properties :: ]
 

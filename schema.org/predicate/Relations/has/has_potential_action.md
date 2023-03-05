@@ -32,8 +32,6 @@ aliases:
 - has_potential_action
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_potential_action :: Action] or 
 - [ has_potential_action :: Action] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Thing]
 ( #has_/name :: is_potential_action)
 ( #has_/range :: Action)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

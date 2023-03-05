@@ -32,8 +32,6 @@ aliases:
 - has_exercise_plan
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_exercise_plan :: ExercisePlan] or 
 - [ has_exercise_plan :: ExercisePlan] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_exercise_plan)
 ( #has_/range :: ExercisePlan)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: instrument]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_blood_supply
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_blood_supply :: Vessel] or 
 - [ has_blood_supply :: Vessel] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Muscle]
 ( #has_/name :: is_blood_supply)
 ( #has_/range :: Vessel)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_brand
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_brand :: Brand, Organization] or 
 - [ has_brand :: Brand, Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Organization, Person, Product, Service]
 ( #has_/name :: is_brand)
 ( #has_/range :: Brand, Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

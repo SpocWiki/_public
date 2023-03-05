@@ -32,8 +32,6 @@ aliases:
 - has_service_output
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_service_output :: Thing] or 
 - [ has_service_output :: Thing] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Service]
 ( #has_/name :: is_service_output)
 ( #has_/range :: Thing)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

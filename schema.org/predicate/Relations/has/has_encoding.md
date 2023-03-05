@@ -32,8 +32,6 @@ aliases:
 - has_encoding
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_encoding :: MediaObject] or 
 - [ has_encoding :: MediaObject] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: MediaObject)
 
 [ #is_/inverse_of  :: encodesCreativeWork]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

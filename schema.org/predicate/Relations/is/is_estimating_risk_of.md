@@ -32,8 +32,6 @@ aliases:
 - is_estimating_risk_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_estimating_risk_of :: MedicalEntity] or 
 - [ is_estimating_risk_of :: MedicalEntity] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalRiskEstimator]
 ( #has_/name :: is_estimating_risk_of)
 ( #has_/range :: MedicalEntity)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

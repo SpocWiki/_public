@@ -32,8 +32,6 @@ aliases:
 - has_actor
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_actor :: Person] or 
 - [ has_actor :: Person] 
@@ -44,10 +42,6 @@ Relation describes that:
 [ #has_/domain  :: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, PodcastSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject]
 ( #has_/name :: is_actor)
 ( #has_/range :: Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
 
 [ #has_/sub_properties :: readBy]
 

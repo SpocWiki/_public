@@ -32,8 +32,6 @@ aliases:
 - has_drug_class
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_drug_class :: DrugClass] or 
 - [ has_drug_class :: DrugClass] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Drug]
 ( #has_/name :: is_drug_class)
 ( #has_/range :: DrugClass)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

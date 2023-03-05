@@ -32,8 +32,6 @@ aliases:
 - has_action_application
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_action_application :: SoftwareApplication] or 
 - [ has_action_application :: SoftwareApplication] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: EntryPoint]
 ( #has_/name :: is_action_application)
 ( #has_/range :: SoftwareApplication)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

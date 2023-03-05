@@ -40,7 +40,6 @@ Use it like this:
 - [has_time_scheduled::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time/_scheduled::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The time the object is scheduled to.
 
 Formal Predicate: 

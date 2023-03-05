@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_legislation_passed_by)
 ( #has_/range :: Organization, Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: creator]
-
-[ #has_/sub_properties :: ]
 

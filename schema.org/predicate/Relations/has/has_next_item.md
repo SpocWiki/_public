@@ -32,8 +32,6 @@ aliases:
 - has_next_item
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_next_item :: ListItem] or 
 - [ has_next_item :: ListItem] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ListItem]
 ( #has_/name :: is_next_item)
 ( #has_/range :: ListItem)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

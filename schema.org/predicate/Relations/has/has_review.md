@@ -32,8 +32,6 @@ aliases:
 - has_review
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_review :: Review] or 
 - [ has_review :: Review] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Brand, CreativeWork, Event, Offer, Organization, Place, Product, Service]
 ( #has_/name :: is_review)
 ( #has_/range :: Review)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

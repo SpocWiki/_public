@@ -32,8 +32,6 @@ aliases:
 - has_by_artist
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_by_artist :: MusicGroup, Person] or 
 - [ has_by_artist :: MusicGroup, Person] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MusicAlbum, MusicRecording]
 ( #has_/name :: is_by_artist)
 ( #has_/range :: MusicGroup, Person)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

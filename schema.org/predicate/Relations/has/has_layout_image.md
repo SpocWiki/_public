@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_layout_image)
 ( #has_/range :: ImageObject, URL)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: image]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_recorded_at
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_recorded_at :: Event] or 
 - [ has_recorded_at :: Event] 
@@ -46,8 +44,4 @@ Relation describes that:
 ( #has_/range :: Event)
 
 [ #is_/inverse_of  :: recordedIn]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

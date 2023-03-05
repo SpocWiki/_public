@@ -40,7 +40,6 @@ Use it like this:
 - [has_time_to_check_out::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time/_to_check_out::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 The latest someone may check out of a lodging establishment.
 
 Formal Predicate: 

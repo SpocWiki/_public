@@ -32,8 +32,6 @@ aliases:
 - has_source_organization
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_source_organization :: Organization] or 
 - [ has_source_organization :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_source_organization)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_region_drained
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_region_drained :: AnatomicalStructure, AnatomicalSystem] or 
 - [ has_region_drained :: AnatomicalStructure, AnatomicalSystem] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: LymphaticVessel, Vein]
 ( #has_/name :: is_region_drained)
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

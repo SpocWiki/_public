@@ -32,8 +32,6 @@ aliases:
 - has_service_sms_number
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_service_sms_number :: ContactPoint] or 
 - [ has_service_sms_number :: ContactPoint] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: ServiceChannel]
 ( #has_/name :: is_service_sms_number)
 ( #has_/range :: ContactPoint)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

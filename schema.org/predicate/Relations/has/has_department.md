@@ -32,8 +32,6 @@ aliases:
 - has_department
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_department :: Organization] or 
 - [ has_department :: Organization] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Organization]
 ( #has_/name :: is_department)
 ( #has_/range :: Organization)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

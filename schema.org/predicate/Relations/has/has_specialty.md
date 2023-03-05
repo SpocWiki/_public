@@ -32,8 +32,6 @@ aliases:
 - has_specialty
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_specialty :: Specialty] or 
 - [ has_specialty :: Specialty] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: WebPage]
 ( #has_/name :: is_specialty)
 ( #has_/range :: Specialty)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_permission_type
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_permission_type :: DigitalDocumentPermissionType] or 
 - [ has_permission_type :: DigitalDocumentPermissionType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DigitalDocumentPermission]
 ( #has_/name :: is_permission_type)
 ( #has_/range :: DigitalDocumentPermissionType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

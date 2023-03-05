@@ -32,8 +32,6 @@ aliases:
 - is_running_to
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is/_running_to :: Vessel] or 
 - [ is_running_to :: Vessel] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: LymphaticVessel]
 ( #has_/name :: is_running_to)
 ( #has_/range :: Vessel)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

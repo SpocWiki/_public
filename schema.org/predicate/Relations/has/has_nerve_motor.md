@@ -32,8 +32,6 @@ aliases:
 - has_nerve_motor
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_nerve_motor :: Muscle] or 
 - [ has_nerve_motor :: Muscle] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Nerve]
 ( #has_/name :: is_nerve_motor)
 ( #has_/range :: Muscle)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -45,9 +45,5 @@ Relation describes that:
 ( #has_/name :: is_associated_media_review)
 ( #has_/range :: Review)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: associatedReview]
-
-[ #has_/sub_properties :: ]
 

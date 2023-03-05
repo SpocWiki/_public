@@ -32,8 +32,6 @@ aliases:
 - has_work_location
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_work_location :: ContactPoint, Place] or 
 - [ has_work_location :: ContactPoint, Place] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_work_location)
 ( #has_/range :: ContactPoint, Place)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: location]
-
-[ #has_/sub_properties :: ]
 

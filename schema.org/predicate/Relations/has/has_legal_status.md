@@ -32,8 +32,6 @@ aliases:
 - has_legal_status
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_legal_status :: DrugLegalStatus, MedicalEnumeration, Text] or 
 - [ has_legal_status :: DrugLegalStatus, MedicalEnumeration, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DietarySupplement, Drug, MedicalEntity]
 ( #has_/name :: is_legal_status)
 ( #has_/range :: DrugLegalStatus, MedicalEnumeration, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

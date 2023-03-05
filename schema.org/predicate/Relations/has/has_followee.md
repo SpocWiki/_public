@@ -32,8 +32,6 @@ aliases:
 - has_followee
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_followee :: Organization, Person] or 
 - [ has_followee :: Organization, Person] 
@@ -45,9 +43,5 @@ Relation describes that:
 ( #has_/name :: is_followee)
 ( #has_/range :: Organization, Person)
 
-[ #is_/inverse_of  :: ]
-
 [ #is_/sub_property_of  :: object]
-
-[ #has_/sub_properties :: ]
 

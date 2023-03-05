@@ -32,8 +32,6 @@ aliases:
 - has_audio
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_audio :: AudioObject, Clip, MusicRecording] or 
 - [ has_audio :: AudioObject, Clip, MusicRecording] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork]
 ( #has_/name :: is_audio)
 ( #has_/range :: AudioObject, Clip, MusicRecording)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

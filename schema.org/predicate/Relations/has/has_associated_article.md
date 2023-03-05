@@ -32,8 +32,6 @@ aliases:
 - has_associated_article
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_associated_article :: NewsArticle] or 
 - [ has_associated_article :: NewsArticle] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MediaObject]
 ( #has_/name :: is_associated_article)
 ( #has_/range :: NewsArticle)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

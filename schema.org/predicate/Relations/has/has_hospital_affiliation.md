@@ -32,8 +32,6 @@ aliases:
 - has_hospital_affiliation
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_hospital_affiliation :: Hospital] or 
 - [ has_hospital_affiliation :: Hospital] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Physician]
 ( #has_/name :: is_hospital_affiliation)
 ( #has_/range :: Hospital)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

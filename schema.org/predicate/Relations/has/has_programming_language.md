@@ -32,8 +32,6 @@ aliases:
 - has_programming_language
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_programming_language :: ComputerLanguage, Text] or 
 - [ has_programming_language :: ComputerLanguage, Text] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: SoftwareSourceCode]
 ( #has_/name :: is_programming_language)
 ( #has_/range :: ComputerLanguage, Text)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

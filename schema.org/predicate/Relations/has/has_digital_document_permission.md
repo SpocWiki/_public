@@ -32,8 +32,6 @@ aliases:
 - has_digital_document_permission
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_digital_document_permission :: DigitalDocumentPermission] or 
 - [ has_digital_document_permission :: DigitalDocumentPermission] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: DigitalDocument]
 ( #has_/name :: is_digital_document_permission)
 ( #has_/range :: DigitalDocumentPermission)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

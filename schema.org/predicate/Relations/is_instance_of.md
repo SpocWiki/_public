@@ -32,8 +32,6 @@ aliases:
 - is_instance_of
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #is_/instance_of :: Class] or 
 - [ is_instance_of :: Class] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Thing]
 ( #has_/name :: is_instance_of)
 ( #has_/range :: Class)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_procedure_type
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_procedure_type :: MedicalProcedureType] or 
 - [ has_procedure_type :: MedicalProcedureType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: MedicalProcedure]
 ( #has_/name :: is_procedure_type)
 ( #has_/range :: MedicalProcedureType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

@@ -32,8 +32,6 @@ aliases:
 - has_item_condition
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_item_condition :: OfferItemCondition] or 
 - [ has_item_condition :: OfferItemCondition] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Demand, MerchantReturnPolicy, Offer, Product]
 ( #has_/name :: is_item_condition)
 ( #has_/range :: OfferItemCondition)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 

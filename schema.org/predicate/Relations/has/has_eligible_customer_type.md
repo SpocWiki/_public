@@ -32,8 +32,6 @@ aliases:
 - has_eligible_customer_type
 ---
 
-[ #is_/part_of :: ]
-
 Use it like this: 
 - [ #has/_eligible_customer_type :: BusinessEntityType] or 
 - [ has_eligible_customer_type :: BusinessEntityType] 
@@ -44,10 +42,4 @@ Relation describes that:
 [ #has_/domain  :: Demand, Offer]
 ( #has_/name :: is_eligible_customer_type)
 ( #has_/range :: BusinessEntityType)
-
-[ #is_/inverse_of  :: ]
-
-[ #is_/sub_property_of  :: ]
-
-[ #has_/sub_properties :: ]
 
