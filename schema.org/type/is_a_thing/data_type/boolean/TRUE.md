@@ -11,10 +11,10 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_date_time Class
-linkTitle: is_a_date_time Class
+title: is_a_TRUE Class
+linkTitle: is_a_TRUE Class
 
-keywords: [date_time]
+keywords: [TRUE]
 layout: 
 draft: false
 publishDate:
@@ -30,19 +30,17 @@ tags:
 - schema.org/Type
 
 aliases:
-- date-time
-- date_time
-- DateTime
-- is_a_date_time
+- TRUE
+- TRUE
+- TRUE
+- is_a_TRUE
 ---
 
-Class of all date_times.
+Class of all TRUEs.
 Tag Instances like this: 
-#is_/a_/date_time
+#is_/a_/TRUE
 
-A combination of date and time of day in the form [-]CCYY-MM-DDThh:mm:ss[Z|(+|-)hh:mm] (see Chapter 5.4 of ISO 8601).
-
-[ #is_/sub_class_of :: [[]] ]
+The boolean value true.
 
 [ #has_/properties :: [  ] ]
 

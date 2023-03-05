@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -36,13 +36,12 @@ aliases:
 - is_a_thing
 ---
 
-Class of all things.
+Class of all things. Everything you can think about is a 'thing'. 
+
 Tag Instances like this: 
 #is_/a_/thing
 
 The most generic type of item.
-
-[ #is_/sub_class_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Action, BioChemEntity, CreativeWork, Event, Intangible, MedicalEntity, Organization, Person, Place, Product, StupidType, Taxon ] ]
 

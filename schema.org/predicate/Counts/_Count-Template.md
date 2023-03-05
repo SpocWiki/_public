@@ -10,39 +10,47 @@ publish: true
 
 # Hugo Tags
 type: Predi_Count
-title: {{has_label_snail}}
 
-linkTitle: {{has_label_snail}}
-keywords: 
+title: has_number_of_{{label_snail}}
+linkTitle: has_number_of_{{label_snail}}
+
+keywords: [{{label_snail}}]
 layout: 
 draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: {{enumerationtype}}
-equivalent_class: {{equivalentProperty}}
-
 supersedes: {{supersedes}}
 superseded_by: {{supersededBy}}
 
 tags:
-- schema.org/Predicate
+- schema.org/Predicate/Count
 
 aliases:
-- label-dash
-- label_snail
-- label
-- has_label_snail
+- {{label-dash}}
+- {{label_snail}}
+- {{label}}
+- has_number_of_{{label_snail}}
 ---
 
-[domain::{{domainIncludes}}]
-(name::{{has_label_snail}})
-(range::{{rangeIncludes}})
+Predicate to describe the Number of {{domainIncludes}}.
+
+[ #is_/part_of :: {{isPartOf}} ]
+
+Use it like this: 
+- [ #has_/number/_of_{{label_snail}} :: {{rangeIncludes}} ] or 
+- [ has_number_of_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
-[inverse_of::{{inverseOf}}]
-[sub_property_of::{{subPropertyOf}}]
-[sub_properties::{{subproperties}}]
+Predicate describes that: 
+[ #has_/domain  :: {{domainIncludes}} ]
+( #has_/name :: is_{{label_snail}} )
+( #has_/range :: {{rangeIncludes}} )
 
-[is_part_of::{{isPartOf}}]
+[ #is_/inverse_of  :: {{inverseOf}} ]
+
+[ #is_/sub_property_of  :: {{subPropertyOf}} ]
+
+[ #has_/sub_properties :: [ {{subproperties}} ] ]
+

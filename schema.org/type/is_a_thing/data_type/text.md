@@ -11,10 +11,10 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_boolean Class
-linkTitle: is_a_boolean Class
+title: is_a_text Class
+linkTitle: is_a_text Class
 
-keywords: [boolean]
+keywords: [text]
 layout: 
 draft: false
 publishDate:
@@ -30,21 +30,19 @@ tags:
 - schema.org/Type
 
 aliases:
-- boolean
-- boolean
-- Boolean
-- is_a_boolean
+- text
+- text
+- Text
+- is_a_text
 ---
 
-Class of all booleans.
+Class of all texts.
 Tag Instances like this: 
-#is_/a_/boolean
+#is_/a_/text
 
-Boolean: True or False.
+Data type: Text.
 
-[ #is_/sub_class_of :: [[]] ]
-
-[ #has_/sub_classes :: [ False, True ] ]
+[ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
 
 [ #has_/properties :: [  ] ]
 

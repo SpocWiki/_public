@@ -11,10 +11,10 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_FALSE Class
-linkTitle: is_a_FALSE Class
+title: is_a_time Class
+linkTitle: is_a_time Class
 
-keywords: [FALSE]
+keywords: [time]
 layout: 
 draft: false
 publishDate:
@@ -30,19 +30,17 @@ tags:
 - schema.org/Type
 
 aliases:
-- FALSE
-- FALSE
-- FALSE
-- is_a_FALSE
+- time
+- time
+- Time
+- is_a_time
 ---
 
-Class of all FALSEs.
+Class of all times.
 Tag Instances like this: 
-#is_/a_/FALSE
+#is_/a_/time
 
-The boolean value false.
-
-[ #is_/sub_class_of :: [[]] ]
+A point in time recurring on multiple days in the form hh:mm:ss[Z|(+|-)hh:mm] (see <a href="http://www.w3.org/TR/xmlschema-2/#time">XML schema for details</a>).
 
 [ #has_/properties :: [  ] ]
 

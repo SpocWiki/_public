@@ -47,8 +47,6 @@ Usage guidelines:<br/><br/>
 <li>Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[]] ]
-
 [ #has_/sub_classes :: [ Float, Integer ] ]
 
 [ #has_/properties :: [  ] ]

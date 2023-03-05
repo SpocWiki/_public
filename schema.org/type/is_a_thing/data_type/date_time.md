@@ -11,10 +11,10 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_text Class
-linkTitle: is_a_text Class
+title: is_a_date_time Class
+linkTitle: is_a_date_time Class
 
-keywords: [text]
+keywords: [date_time]
 layout: 
 draft: false
 publishDate:
@@ -30,21 +30,17 @@ tags:
 - schema.org/Type
 
 aliases:
-- text
-- text
-- Text
-- is_a_text
+- date-time
+- date_time
+- DateTime
+- is_a_date_time
 ---
 
-Class of all texts.
+Class of all date_times.
 Tag Instances like this: 
-#is_/a_/text
+#is_/a_/date_time
 
-Data type: Text.
-
-[ #is_/sub_class_of :: [[]] ]
-
-[ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
+A combination of date and time of day in the form [-]CCYY-MM-DDThh:mm:ss[Z|(+|-)hh:mm] (see Chapter 5.4 of ISO 8601).
 
 [ #has_/properties :: [  ] ]
 

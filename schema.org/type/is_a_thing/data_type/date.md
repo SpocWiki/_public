@@ -11,10 +11,10 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_time Class
-linkTitle: is_a_time Class
+title: is_a_date Class
+linkTitle: is_a_date Class
 
-keywords: [time]
+keywords: [date]
 layout: 
 draft: false
 publishDate:
@@ -30,19 +30,17 @@ tags:
 - schema.org/Type
 
 aliases:
-- time
-- time
-- Time
-- is_a_time
+- date
+- date
+- Date
+- is_a_date
 ---
 
-Class of all times.
+Class of all dates.
 Tag Instances like this: 
-#is_/a_/time
+#is_/a_/date
 
-A point in time recurring on multiple days in the form hh:mm:ss[Z|(+|-)hh:mm] (see <a href="http://www.w3.org/TR/xmlschema-2/#time">XML schema for details</a>).
-
-[ #is_/sub_class_of :: [[]] ]
+A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date format</a>.
 
 [ #has_/properties :: [  ] ]
 

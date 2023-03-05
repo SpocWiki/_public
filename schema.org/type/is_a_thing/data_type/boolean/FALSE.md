@@ -11,10 +11,10 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_date Class
-linkTitle: is_a_date Class
+title: is_a_FALSE Class
+linkTitle: is_a_FALSE Class
 
-keywords: [date]
+keywords: [FALSE]
 layout: 
 draft: false
 publishDate:
@@ -30,19 +30,17 @@ tags:
 - schema.org/Type
 
 aliases:
-- date
-- date
-- Date
-- is_a_date
+- FALSE
+- FALSE
+- FALSE
+- is_a_FALSE
 ---
 
-Class of all dates.
+Class of all FALSEs.
 Tag Instances like this: 
-#is_/a_/date
+#is_/a_/FALSE
 
-A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date format</a>.
-
-[ #is_/sub_class_of :: [[]] ]
+The boolean value false.
 
 [ #has_/properties :: [  ] ]
 

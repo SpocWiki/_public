@@ -9,7 +9,7 @@ cssclass: Predicate Text
 publish: true
 
 # Hugo Tags
-type: Pred_Text
+type: Predi_Text
 
 title: has_text_about_{{label_snail}}
 linkTitle: has_text_about_{{label_snail}}
