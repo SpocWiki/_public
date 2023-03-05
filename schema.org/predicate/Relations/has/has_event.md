@@ -20,7 +20,6 @@ publishDate:
 expiryDate: 
 
 supersedes: events
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Relation

@@ -20,7 +20,6 @@ publishDate:
 expiryDate: 
 
 supersedes: members, musicGroupMember
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Relation

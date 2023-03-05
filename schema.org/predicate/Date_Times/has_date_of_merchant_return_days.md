@@ -20,7 +20,6 @@ publishDate:
 expiryDate: 
 
 supersedes: productReturnDays
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Date

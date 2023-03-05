@@ -11,8 +11,9 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_{{label_snail}}
-linkTitle: has_{{label_snail}}
+title: has_text_about_{{label_snail}}
+linkTitle: has_text_about_{{label_snail}}
+
 keywords: [{{label_snail}}]
 layout: 
 draft: false
@@ -29,18 +30,20 @@ aliases:
 - {{label-dash}}
 - {{label_snail}}
 - {{label}}
-- has_{{label_snail}}
+- has_text_about_{{label_snail}}
 ---
+
+Predicate to describe the Text of {{domainIncludes}}.
 
 [ #is_/part_of :: {{isPartOf}} ]
 
 Use it like this: 
-- [ #has/_{{label_snail}} :: {{rangeIncludes}} ] or 
-- [ has_{{label_snail}} :: {{rangeIncludes}} ] 
+- [ #has_/text/_about_{{label_snail}} :: {{rangeIncludes}} ] or 
+- [ has_text_about_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
-Relation describes that: 
+Predicated describes that: 
 [ #has_/domain  :: {{domainIncludes}} ]
 ( #has_/name :: is_{{label_snail}} )
 ( #has_/range :: {{rangeIncludes}} )

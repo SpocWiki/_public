@@ -20,7 +20,6 @@ publishDate:
 expiryDate: 
 
 supersedes: bookingAgent
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Relation

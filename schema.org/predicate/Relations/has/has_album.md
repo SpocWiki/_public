@@ -20,7 +20,6 @@ publishDate:
 expiryDate: 
 
 supersedes: albums
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Relation

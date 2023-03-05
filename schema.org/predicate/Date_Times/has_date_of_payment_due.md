@@ -20,7 +20,6 @@ publishDate:
 expiryDate: 
 
 supersedes: paymentDue
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Date

@@ -20,7 +20,6 @@ publishDate:
 expiryDate: 
 
 supersedes: map, maps
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Relation

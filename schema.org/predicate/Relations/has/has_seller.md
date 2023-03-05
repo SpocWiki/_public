@@ -20,7 +20,6 @@ publishDate:
 expiryDate: 
 
 supersedes: merchant, vendor
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Relation

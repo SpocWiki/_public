@@ -20,7 +20,6 @@ publishDate:
 expiryDate: 
 
 supersedes: founders
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Relation

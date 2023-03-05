@@ -10,10 +10,11 @@ publish: true
 
 # Hugo Tags
 type: Predi_Date_Time
-title: has_date_of_{{label_snail}}
 
+title: has_date_of_{{label_snail}}
 linkTitle: has_date_of_{{label_snail}}
-keywords: 
+
+keywords: [{{label_snail}}]
 layout: 
 draft: false
 publishDate:
@@ -34,19 +35,23 @@ aliases:
 
 Predicate to describe the date of {{domainIncludes}}.
 
-[is_part_of:: {{isPartOf}}]
+[ #is_/part_of :: {{isPartOf}} ]
 
 Use it like this: 
-- [has_date_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date/_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] or 
+- [has_date_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 {{comment}}
 
-Formal Predicate: 
-[domain::{{domainIncludes}}]
-(name::has_date_of_{{label_snail}})
-(range::{{rangeIncludes}})
+Relation describes that: 
+[ #has_/domain  :: {{domainIncludes}} ]
+( #has_/name :: is_{{label_snail}} )
+( #has_/range :: {{rangeIncludes}} )
 
-Is [sub_property_of::{{subPropertyOf}}]
+[ #is_/inverse_of  :: {{inverseOf}} ]
 
-Has [sub_properties::{{subproperties}}]
+[ #is_/sub_property_of  :: {{subPropertyOf}} ]
+
+[ #has_/sub_properties :: [ {{subproperties}} ] ]
+
