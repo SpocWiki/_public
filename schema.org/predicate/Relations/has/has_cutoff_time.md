@@ -1,0 +1,53 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+
+#Obsidian well-known Keys
+cssclass: Predicate Relation
+publish: true
+
+# Hugo Tags
+type: Predi_Relation
+title: has_cutoff_time
+
+linkTitle: has_cutoff_time
+keywords: 
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+supersedes: 
+superseded_by: 
+
+tags:
+- schema.org/Predicate/Relation
+
+aliases:
+- cutoff-time
+- cutoff_time
+- cutoffTime
+- has_cutoff_time
+---
+
+[ #is_/part_of :: pending:]
+
+Use it like this: 
+- [ #has/_cutoff_time :: Time] or 
+- [ has_cutoff_time :: Time] 
+
+Order cutoff time allows merchants to describe the time after which they will no longer process orders received on that day. For orders processed after cutoff time, one day gets added to the delivery time estimate. This property is expected to be most typically used via the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ShippingRateSettings&quot;&gt;ShippingRateSettings&lt;/a&gt; publication pattern. The time is indicated using the ISO-8601 Time format, e.g. &quot;23:30:00-05:00&quot; would represent 6:30 pm Eastern Standard Time (EST) which is 5 hours behind Coordinated Universal Time (UTC).
+
+Relation describes that: 
+[ #has_/domain  :: ShippingDeliveryTime]
+( #has_/name :: is_cutoff_time)
+( #has_/range :: Time)
+
+[ #is_/inverse_of  :: ]
+
+[ #is_/sub_property_of  :: ]
+
+[ #has_/sub_properties :: ]
+
