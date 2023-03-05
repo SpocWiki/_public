@@ -10,39 +10,44 @@ publish: true
 
 # Hugo Tags
 type: Pred_Text
-title: {{has_label_snail}}
 
-linkTitle: 
-keywords: 
+title: has_{{label_snail}}
+linkTitle: has_{{label_snail}}
+keywords: [{{label_snail}}]
 layout: 
 draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: {{enumerationtype}}
-equivalent_class: {{equivalentProperty}}
-
 supersedes: {{supersedes}}
 superseded_by: {{supersededBy}}
 
 tags:
-- schema.org/Predicate
+- schema.org/Predicate/Text
 
 aliases:
-- label-dash
-- label_snail
-- label
-- has_label_snail
+- {{label-dash}}
+- {{label_snail}}
+- {{label}}
+- has_{{label_snail}}
 ---
 
-[domain::{{domainIncludes}}]
-(name::{{has_label_snail}})
-(range::{{rangeIncludes}})
+[ #is_/part_of :: {{isPartOf}} ]
+
+Use it like this: 
+- [ #has/_{{label_snail}} :: {{rangeIncludes}} ] or 
+- [ has_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
-[inverse_of::{{inverseOf}}]
-[sub_property_of::{{subPropertyOf}}]
-[sub_properties::{{subproperties}}]
+Relation describes that: 
+[ #has_/domain  :: {{domainIncludes}} ]
+( #has_/name :: is_{{label_snail}} )
+( #has_/range :: {{rangeIncludes}} )
 
-[is_part_of::{{isPartOf}}]
+[ #is_/inverse_of  :: {{inverseOf}} ]
+
+[ #is_/sub_property_of  :: {{subPropertyOf}} ]
+
+[ #has_/sub_properties :: [ {{subproperties}} ] ]
+
