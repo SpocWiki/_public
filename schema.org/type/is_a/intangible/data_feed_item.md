@@ -1,0 +1,54 @@
+﻿---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+
+#Obsidian well-known Keys
+cssclass: Type
+publish: true
+
+# Hugo Tags
+type: Type
+
+title: is_a_data_feed_item Class
+linkTitle: is_a_data_feed_item Class
+
+keywords: [data_feed_item]
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+enumerationtype: 
+equivalent_class: 
+
+supersedes: 
+superseded_by: 
+
+tags:
+- schema.org/Type
+
+aliases:
+- data-feed-item
+- data_feed_item
+- DataFeedItem
+- is_a_data_feed_item
+---
+
+Class of all data_feed_items.
+Tag Instances like this: 
+#is_/a_/data_feed_item
+
+[ #is_/part_of ::  ]
+
+A single item within a larger data feed.
+
+[ #is_/sub_class_of :: [[Intangible]] ]
+
+[ #is_/enum_of :: [[]] ]
+
+[ #has_/sub_classes :: [  ] ]
+
+[ #has_/properties :: [ additionalType, alternateName, dateCreated, dateDeleted, dateModified, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
+

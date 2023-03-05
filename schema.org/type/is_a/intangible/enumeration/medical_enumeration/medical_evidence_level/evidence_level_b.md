@@ -1,0 +1,54 @@
+﻿---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+
+#Obsidian well-known Keys
+cssclass: Type
+publish: true
+
+# Hugo Tags
+type: Type
+
+title: is_an_evidence_level_b Class
+linkTitle: is_an_evidence_level_b Class
+
+keywords: [evidence_level_b]
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+enumerationtype: MedicalEvidenceLevel
+equivalent_class: 
+
+supersedes: 
+superseded_by: 
+
+tags:
+- schema.org/Type
+
+aliases:
+- evidence-level-b
+- evidence_level_b
+- EvidenceLevelB
+- is_an_evidence_level_b
+---
+
+Class of all evidence_level_bs.
+Tag Instances like this: 
+#is_/an_/evidence_level_b
+
+[ #is_/part_of ::  ]
+
+Data derived from a single randomized trial, or nonrandomized studies.
+
+[ #is_/sub_class_of :: [[MedicalEvidenceLevel]] ]
+
+[ #is_/enum_of :: [[MedicalEvidenceLevel]] ]
+
+[ #has_/sub_classes :: [  ] ]
+
+[ #has_/properties :: [  ] ]
+

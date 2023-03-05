@@ -1,0 +1,54 @@
+﻿---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+
+#Obsidian well-known Keys
+cssclass: Type
+publish: true
+
+# Hugo Tags
+type: Type
+
+title: is_a_contact_point Class
+linkTitle: is_a_contact_point Class
+
+keywords: [contact_point]
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+enumerationtype: 
+equivalent_class: 
+
+supersedes: 
+superseded_by: 
+
+tags:
+- schema.org/Type
+
+aliases:
+- contact-point
+- contact_point
+- ContactPoint
+- is_a_contact_point
+---
+
+Class of all contact_points.
+Tag Instances like this: 
+#is_/a_/contact_point
+
+[ #is_/part_of ::  ]
+
+A contact point&#x2014;for example, a Customer Complaints department.
+
+[ #is_/sub_class_of :: [[StructuredValue]] ]
+
+[ #is_/enum_of :: [[]] ]
+
+[ #has_/sub_classes :: [ PostalAddress ] ]
+
+[ #has_/properties :: [ additionalType, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, potentialAction, productSupported, sameAs, serviceArea, subjectOf, telephone, url ] ]
+

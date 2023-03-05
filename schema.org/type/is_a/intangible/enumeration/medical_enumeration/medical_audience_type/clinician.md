@@ -1,0 +1,54 @@
+﻿---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+
+#Obsidian well-known Keys
+cssclass: Type
+publish: true
+
+# Hugo Tags
+type: Type
+
+title: is_a_clinician Class
+linkTitle: is_a_clinician Class
+
+keywords: [clinician]
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+enumerationtype: MedicalAudienceType
+equivalent_class: 
+
+supersedes: 
+superseded_by: 
+
+tags:
+- schema.org/Type
+
+aliases:
+- clinician
+- clinician
+- Clinician
+- is_a_clinician
+---
+
+Class of all clinicians.
+Tag Instances like this: 
+#is_/a_/clinician
+
+[ #is_/part_of ::  ]
+
+Medical clinicians, including practicing physicians and other medical professionals involved in clinical practice.
+
+[ #is_/sub_class_of :: [[MedicalAudienceType]] ]
+
+[ #is_/enum_of :: [[MedicalAudienceType]] ]
+
+[ #has_/sub_classes :: [  ] ]
+
+[ #has_/properties :: [  ] ]
+

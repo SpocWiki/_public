@@ -43,7 +43,7 @@ Use it like this:
 
 {{comment}}
 
-Predicated describes that: 
+Predicate describes that: 
 [ #has_/domain  :: {{domainIncludes}} ]
 ( #has_/name :: is_{{label_snail}} )
 ( #has_/range :: {{rangeIncludes}} )

@@ -1,0 +1,54 @@
+﻿---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+
+#Obsidian well-known Keys
+cssclass: Type
+publish: true
+
+# Hugo Tags
+type: Type
+
+title: is_a_free_return Class
+linkTitle: is_a_free_return Class
+
+keywords: [free_return]
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+enumerationtype: ReturnFeesEnumeration
+equivalent_class: 
+
+supersedes: 
+superseded_by: 
+
+tags:
+- schema.org/Type
+
+aliases:
+- free-return
+- free_return
+- FreeReturn
+- is_a_free_return
+---
+
+Class of all free_returns.
+Tag Instances like this: 
+#is_/a_/free_return
+
+[ #is_/part_of :: https://pending.schema.org ]
+
+Specifies that product returns are free of charge for the customer.
+
+[ #is_/sub_class_of :: [[ReturnFeesEnumeration]] ]
+
+[ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
+
+[ #has_/sub_classes :: [  ] ]
+
+[ #has_/properties :: [  ] ]
+

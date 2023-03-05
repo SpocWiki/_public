@@ -1,0 +1,54 @@
+﻿---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+
+#Obsidian well-known Keys
+cssclass: Type
+publish: true
+
+# Hugo Tags
+type: Type
+
+title: is_a_broadcast_release Class
+linkTitle: is_a_broadcast_release Class
+
+keywords: [broadcast_release]
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+enumerationtype: MusicAlbumReleaseType
+equivalent_class: 
+
+supersedes: 
+superseded_by: 
+
+tags:
+- schema.org/Type
+
+aliases:
+- broadcast-release
+- broadcast_release
+- BroadcastRelease
+- is_a_broadcast_release
+---
+
+Class of all broadcast_releases.
+Tag Instances like this: 
+#is_/a_/broadcast_release
+
+[ #is_/part_of ::  ]
+
+BroadcastRelease.
+
+[ #is_/sub_class_of :: [[MusicAlbumReleaseType]] ]
+
+[ #is_/enum_of :: [[MusicAlbumReleaseType]] ]
+
+[ #has_/sub_classes :: [  ] ]
+
+[ #has_/properties :: [  ] ]
+

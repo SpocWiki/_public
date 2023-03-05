@@ -1,0 +1,54 @@
+﻿---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+
+#Obsidian well-known Keys
+cssclass: Type
+publish: true
+
+# Hugo Tags
+type: Type
+
+title: is_a_medical_imaging_technique Class
+linkTitle: is_a_medical_imaging_technique Class
+
+keywords: [medical_imaging_technique]
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+enumerationtype: 
+equivalent_class: 
+
+supersedes: 
+superseded_by: 
+
+tags:
+- schema.org/Type
+
+aliases:
+- medical-imaging-technique
+- medical_imaging_technique
+- MedicalImagingTechnique
+- is_a_medical_imaging_technique
+---
+
+Class of all medical_imaging_techniques.
+Tag Instances like this: 
+#is_/a_/medical_imaging_technique
+
+[ #is_/part_of ::  ]
+
+Any medical imaging modality typically used for diagnostic purposes. Enumerated type.
+
+[ #is_/sub_class_of :: [[MedicalEnumeration]] ]
+
+[ #is_/enum_of :: [[]] ]
+
+[ #has_/sub_classes :: [  ] ]
+
+[ #has_/properties :: [  ] ]
+
