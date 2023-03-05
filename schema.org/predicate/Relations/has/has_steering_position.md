@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_steering_position
 
 linkTitle: has_steering_position
-keywords: 
+keywords: [steering, position]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_steering_position :: SteeringPositionValue] or 
-- [ has_steering_position :: SteeringPositionValue] 
+- [ #has/_steering_position :: SteeringPositionValue ] or 
+- [ has_steering_position :: SteeringPositionValue ] 
 
 The position of the steering wheel or similar device (mostly for cars).
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle]
-( #has_/name :: is_steering_position)
-( #has_/range :: SteeringPositionValue)
+[ #has_/domain  :: Vehicle ]
+( #has_/name :: is_steering_position )
+( #has_/range :: SteeringPositionValue )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_trailer
 
 linkTitle: has_trailer
-keywords: 
+keywords: [trailer]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_trailer :: VideoObject] or 
-- [ has_trailer :: VideoObject] 
+- [ #has/_trailer :: VideoObject ] or 
+- [ has_trailer :: VideoObject ] 
 
 The trailer of a movie or TV/radio series, season, episode, etc.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWorkSeason, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries]
-( #has_/name :: is_trailer)
-( #has_/range :: VideoObject)
+[ #has_/domain  :: CreativeWorkSeason, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries ]
+( #has_/name :: is_trailer )
+( #has_/range :: VideoObject )
 

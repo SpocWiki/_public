@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_action_application
 
 linkTitle: has_action_application
-keywords: 
+keywords: [action, application]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_action_application :: SoftwareApplication] or 
-- [ has_action_application :: SoftwareApplication] 
+- [ #has/_action_application :: SoftwareApplication ] or 
+- [ has_action_application :: SoftwareApplication ] 
 
 An application that can complete the request.
 
 Relation describes that: 
-[ #has_/domain  :: EntryPoint]
-( #has_/name :: is_action_application)
-( #has_/range :: SoftwareApplication)
+[ #has_/domain  :: EntryPoint ]
+( #has_/name :: is_action_application )
+( #has_/range :: SoftwareApplication )
 

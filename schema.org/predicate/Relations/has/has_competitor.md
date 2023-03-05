@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_competitor
 
 linkTitle: has_competitor
-keywords: 
+keywords: [competitor]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_competitor :: Person, SportsTeam] or 
-- [ has_competitor :: Person, SportsTeam] 
+- [ #has/_competitor :: Person, SportsTeam ] or 
+- [ has_competitor :: Person, SportsTeam ] 
 
 A competitor in a sports event.
 
 Relation describes that: 
-[ #has_/domain  :: SportsEvent]
-( #has_/name :: is_competitor)
-( #has_/range :: Person, SportsTeam)
+[ #has_/domain  :: SportsEvent ]
+( #has_/name :: is_competitor )
+( #has_/range :: Person, SportsTeam )
 
-[ #has_/sub_properties :: awayTeam, homeTeam]
+[ #has_/sub_properties :: [ awayTeam, homeTeam ] ]
 

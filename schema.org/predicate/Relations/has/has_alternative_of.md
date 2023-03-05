@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_alternative_of
 
 linkTitle: has_alternative_of
-keywords: 
+keywords: [alternative, of]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_alternative_of
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_alternative_of :: Gene] or 
-- [ has_alternative_of :: Gene] 
+- [ #has/_alternative_of :: Gene ] or 
+- [ has_alternative_of :: Gene ] 
 
 Another gene which is a variation of this one.
 
 Relation describes that: 
-[ #has_/domain  :: Gene]
-( #has_/name :: is_alternative_of)
-( #has_/range :: Gene)
+[ #has_/domain  :: Gene ]
+( #has_/name :: is_alternative_of )
+( #has_/range :: Gene )
 

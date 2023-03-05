@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_calories
 
 linkTitle: has_calories
-keywords: 
+keywords: [calories]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_calories :: Energy] or 
-- [ has_calories :: Energy] 
+- [ #has/_calories :: Energy ] or 
+- [ has_calories :: Energy ] 
 
 The number of calories.
 
 Relation describes that: 
-[ #has_/domain  :: NutritionInformation]
-( #has_/name :: is_calories)
-( #has_/range :: Energy)
+[ #has_/domain  :: NutritionInformation ]
+( #has_/name :: is_calories )
+( #has_/range :: Energy )
 

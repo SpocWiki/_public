@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_identifying_test
 
 linkTitle: has_identifying_test
-keywords: 
+keywords: [identifying, test]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_identifying_test :: MedicalTest] or 
-- [ has_identifying_test :: MedicalTest] 
+- [ #has/_identifying_test :: MedicalTest ] or 
+- [ has_identifying_test :: MedicalTest ] 
 
 A diagnostic test that can identify this sign.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalSign]
-( #has_/name :: is_identifying_test)
-( #has_/range :: MedicalTest)
+[ #has_/domain  :: MedicalSign ]
+( #has_/name :: is_identifying_test )
+( #has_/range :: MedicalTest )
 

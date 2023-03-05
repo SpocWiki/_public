@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_affected_by
 
 linkTitle: has_affected_by
-keywords: 
+keywords: [affected, by]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_affected_by :: Drug] or 
-- [ has_affected_by :: Drug] 
+- [ #has/_affected_by :: Drug ] or 
+- [ has_affected_by :: Drug ] 
 
 Drugs that affect the test&#x27;s results.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTest]
-( #has_/name :: is_affected_by)
-( #has_/range :: Drug)
+[ #has_/domain  :: MedicalTest ]
+( #has_/name :: is_affected_by )
+( #has_/range :: Drug )
 

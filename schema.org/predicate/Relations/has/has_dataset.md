@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_dataset
 
 linkTitle: has_dataset
-keywords: 
+keywords: [dataset]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_dataset :: Dataset] or 
-- [ has_dataset :: Dataset] 
+- [ #has/_dataset :: Dataset ] or 
+- [ has_dataset :: Dataset ] 
 
 A dataset contained in this catalog.
 
 Relation describes that: 
-[ #has_/domain  :: DataCatalog]
-( #has_/name :: is_dataset)
-( #has_/range :: Dataset)
+[ #has_/domain  :: DataCatalog ]
+( #has_/name :: is_dataset )
+( #has_/range :: Dataset )
 
-[ #is_/inverse_of  :: includedInDataCatalog]
+[ #is_/inverse_of  :: includedInDataCatalog ]
 

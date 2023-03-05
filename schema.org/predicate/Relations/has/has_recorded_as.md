@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_recorded_as
 
 linkTitle: has_recorded_as
-keywords: 
+keywords: [recorded, as]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recorded_as :: MusicRecording] or 
-- [ has_recorded_as :: MusicRecording] 
+- [ #has/_recorded_as :: MusicRecording ] or 
+- [ has_recorded_as :: MusicRecording ] 
 
 An audio recording of the work.
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition]
-( #has_/name :: is_recorded_as)
-( #has_/range :: MusicRecording)
+[ #has_/domain  :: MusicComposition ]
+( #has_/name :: is_recorded_as )
+( #has_/range :: MusicRecording )
 
-[ #is_/inverse_of  :: recordingOf]
+[ #is_/inverse_of  :: recordingOf ]
 

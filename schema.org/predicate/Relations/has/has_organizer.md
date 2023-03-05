@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_organizer
 
 linkTitle: has_organizer
-keywords: 
+keywords: [organizer]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_organizer :: Organization, Person] or 
-- [ has_organizer :: Organization, Person] 
+- [ #has/_organizer :: Organization, Person ] or 
+- [ has_organizer :: Organization, Person ] 
 
 An organizer of an Event.
 
 Relation describes that: 
-[ #has_/domain  :: Event]
-( #has_/name :: is_organizer)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Event ]
+( #has_/name :: is_organizer )
+( #has_/range :: Organization, Person )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_engine_type
 
 linkTitle: has_engine_type
-keywords: 
+keywords: [engine, type]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_engine_type
 ---
 
-[ #is_/part_of :: https://auto.schema.org]
+[ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has/_engine_type :: QualitativeValue, Text, URL] or 
-- [ has_engine_type :: QualitativeValue, Text, URL] 
+- [ #has/_engine_type :: QualitativeValue, Text, URL ] or 
+- [ has_engine_type :: QualitativeValue, Text, URL ] 
 
 The type of engine or engines powering the vehicle.
 
 Relation describes that: 
-[ #has_/domain  :: EngineSpecification]
-( #has_/name :: is_engine_type)
-( #has_/range :: QualitativeValue, Text, URL)
+[ #has_/domain  :: EngineSpecification ]
+( #has_/name :: is_engine_type )
+( #has_/range :: QualitativeValue, Text, URL )
 

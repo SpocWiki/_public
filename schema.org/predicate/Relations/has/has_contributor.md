@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_contributor
 
 linkTitle: has_contributor
-keywords: 
+keywords: [contributor]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_contributor :: Organization, Person] or 
-- [ has_contributor :: Organization, Person] 
+- [ #has/_contributor :: Organization, Person ] or 
+- [ has_contributor :: Organization, Person ] 
 
 A secondary contributor to the CreativeWork or Event.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Event]
-( #has_/name :: is_contributor)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: CreativeWork, Event ]
+( #has_/name :: is_contributor )
+( #has_/range :: Organization, Person )
 

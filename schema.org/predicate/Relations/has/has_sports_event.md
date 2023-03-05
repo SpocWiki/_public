@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sports_event
 
 linkTitle: has_sports_event
-keywords: 
+keywords: [sports, event]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sports_event :: SportsEvent] or 
-- [ has_sports_event :: SportsEvent] 
+- [ #has/_sports_event :: SportsEvent ] or 
+- [ has_sports_event :: SportsEvent ] 
 
 A sub property of location. The sports event where this action occurred.
 
 Relation describes that: 
-[ #has_/domain  :: ExerciseAction]
-( #has_/name :: is_sports_event)
-( #has_/range :: SportsEvent)
+[ #has_/domain  :: ExerciseAction ]
+( #has_/name :: is_sports_event )
+( #has_/range :: SportsEvent )
 
-[ #is_/sub_property_of  :: location]
+[ #is_/sub_property_of  :: location ]
 

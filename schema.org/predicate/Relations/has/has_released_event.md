@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_released_event
 
 linkTitle: has_released_event
-keywords: 
+keywords: [released, event]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_released_event :: PublicationEvent] or 
-- [ has_released_event :: PublicationEvent] 
+- [ #has/_released_event :: PublicationEvent ] or 
+- [ has_released_event :: PublicationEvent ] 
 
 The place and time the release was issued, expressed as a PublicationEvent.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_released_event)
-( #has_/range :: PublicationEvent)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_released_event )
+( #has_/range :: PublicationEvent )
 

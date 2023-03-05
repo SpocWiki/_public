@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_action_platform
 
 linkTitle: has_action_platform
-keywords: 
+keywords: [action, platform]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_action_platform :: DigitalPlatformEnumeration, Text, URL] or 
-- [ has_action_platform :: DigitalPlatformEnumeration, Text, URL] 
+- [ #has/_action_platform :: DigitalPlatformEnumeration, Text, URL ] or 
+- [ has_action_platform :: DigitalPlatformEnumeration, Text, URL ] 
 
 The high level platform(s) where the Action can be performed for the given URL. To specify a specific application or operating system instance, use actionApplication.
 
 Relation describes that: 
-[ #has_/domain  :: EntryPoint]
-( #has_/name :: is_action_platform)
-( #has_/range :: DigitalPlatformEnumeration, Text, URL)
+[ #has_/domain  :: EntryPoint ]
+( #has_/name :: is_action_platform )
+( #has_/range :: DigitalPlatformEnumeration, Text, URL )
 

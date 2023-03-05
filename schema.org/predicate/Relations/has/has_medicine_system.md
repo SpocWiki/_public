@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_medicine_system
 
 linkTitle: has_medicine_system
-keywords: 
+keywords: [medicine, system]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_medicine_system :: MedicineSystem] or 
-- [ has_medicine_system :: MedicineSystem] 
+- [ #has/_medicine_system :: MedicineSystem ] or 
+- [ has_medicine_system :: MedicineSystem ] 
 
 The system of medicine that includes this MedicalEntity, for example &#x27;evidence-based&#x27;, &#x27;homeopathic&#x27;, &#x27;chiropractic&#x27;, etc.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity]
-( #has_/name :: is_medicine_system)
-( #has_/range :: MedicineSystem)
+[ #has_/domain  :: MedicalEntity ]
+( #has_/name :: is_medicine_system )
+( #has_/range :: MedicineSystem )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_lyrics
 
 linkTitle: has_lyrics
-keywords: 
+keywords: [lyrics]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lyrics :: CreativeWork] or 
-- [ has_lyrics :: CreativeWork] 
+- [ #has/_lyrics :: CreativeWork ] or 
+- [ has_lyrics :: CreativeWork ] 
 
 The words in the song.
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition]
-( #has_/name :: is_lyrics)
-( #has_/range :: CreativeWork)
+[ #has_/domain  :: MusicComposition ]
+( #has_/name :: is_lyrics )
+( #has_/range :: CreativeWork )
 

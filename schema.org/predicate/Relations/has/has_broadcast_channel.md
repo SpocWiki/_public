@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_broadcast_channel
 
 linkTitle: has_broadcast_channel
-keywords: 
+keywords: [broadcast, channel]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_broadcast_channel :: BroadcastChannel] or 
-- [ has_broadcast_channel :: BroadcastChannel] 
+- [ #has/_broadcast_channel :: BroadcastChannel ] or 
+- [ has_broadcast_channel :: BroadcastChannel ] 
 
 A broadcast channel of a broadcast service.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastService]
-( #has_/name :: is_broadcast_channel)
-( #has_/range :: BroadcastChannel)
+[ #has_/domain  :: BroadcastService ]
+( #has_/name :: is_broadcast_channel )
+( #has_/range :: BroadcastChannel )
 
-[ #is_/inverse_of  :: providesBroadcastService]
+[ #is_/inverse_of  :: providesBroadcastService ]
 

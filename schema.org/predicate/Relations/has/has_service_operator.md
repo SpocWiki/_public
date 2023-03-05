@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_service_operator
 
 linkTitle: has_service_operator
-keywords: 
+keywords: [service, operator]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_service_operator :: Organization] or 
-- [ has_service_operator :: Organization] 
+- [ #has/_service_operator :: Organization ] or 
+- [ has_service_operator :: Organization ] 
 
 The operating organization, if different from the provider.  This enables the representation of services that are provided by an organization, but operated by another organization like a subcontractor.
 
 Relation describes that: 
-[ #has_/domain  :: GovernmentService]
-( #has_/name :: is_service_operator)
-( #has_/range :: Organization)
+[ #has_/domain  :: GovernmentService ]
+( #has_/name :: is_service_operator )
+( #has_/range :: Organization )
 

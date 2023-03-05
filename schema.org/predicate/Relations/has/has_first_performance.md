@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_first_performance
 
 linkTitle: has_first_performance
-keywords: 
+keywords: [first, performance]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_first_performance :: Event] or 
-- [ has_first_performance :: Event] 
+- [ #has/_first_performance :: Event ] or 
+- [ has_first_performance :: Event ] 
 
 The date and place the work was first performed.
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition]
-( #has_/name :: is_first_performance)
-( #has_/range :: Event)
+[ #has_/domain  :: MusicComposition ]
+( #has_/name :: is_first_performance )
+( #has_/range :: Event )
 

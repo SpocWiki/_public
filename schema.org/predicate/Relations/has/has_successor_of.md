@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_successor_of
 
 linkTitle: has_successor_of
-keywords: 
+keywords: [successor, of]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_successor_of :: ProductModel] or 
-- [ has_successor_of :: ProductModel] 
+- [ #has/_successor_of :: ProductModel ] or 
+- [ has_successor_of :: ProductModel ] 
 
 A pointer from a newer variant of a product  to its previous, often discontinued predecessor.
 
 Relation describes that: 
-[ #has_/domain  :: ProductModel]
-( #has_/name :: is_successor_of)
-( #has_/range :: ProductModel)
+[ #has_/domain  :: ProductModel ]
+( #has_/name :: is_successor_of )
+( #has_/range :: ProductModel )
 

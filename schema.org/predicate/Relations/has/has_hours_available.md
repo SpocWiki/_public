@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_hours_available
 
 linkTitle: has_hours_available
-keywords: 
+keywords: [hours, available]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_hours_available :: OpeningHoursSpecification] or 
-- [ has_hours_available :: OpeningHoursSpecification] 
+- [ #has/_hours_available :: OpeningHoursSpecification ] or 
+- [ has_hours_available :: OpeningHoursSpecification ] 
 
 The hours during which this service or contact is available.
 
 Relation describes that: 
-[ #has_/domain  :: ContactPoint, LocationFeatureSpecification, Service]
-( #has_/name :: is_hours_available)
-( #has_/range :: OpeningHoursSpecification)
+[ #has_/domain  :: ContactPoint, LocationFeatureSpecification, Service ]
+( #has_/name :: is_hours_available )
+( #has_/range :: OpeningHoursSpecification )
 

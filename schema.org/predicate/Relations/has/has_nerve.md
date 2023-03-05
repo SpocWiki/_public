@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_nerve
 
 linkTitle: has_nerve
-keywords: 
+keywords: [nerve]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_nerve :: Nerve] or 
-- [ has_nerve :: Nerve] 
+- [ #has/_nerve :: Nerve ] or 
+- [ has_nerve :: Nerve ] 
 
 The underlying innervation associated with the muscle.
 
 Relation describes that: 
-[ #has_/domain  :: Muscle]
-( #has_/name :: is_nerve)
-( #has_/range :: Nerve)
+[ #has_/domain  :: Muscle ]
+( #has_/name :: is_nerve )
+( #has_/range :: Nerve )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_preparation
 
 linkTitle: has_preparation
-keywords: 
+keywords: [preparation]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_preparation :: MedicalEntity, Text] or 
-- [ has_preparation :: MedicalEntity, Text] 
+- [ #has/_preparation :: MedicalEntity, Text ] or 
+- [ has_preparation :: MedicalEntity, Text ] 
 
 Typical preparation that a patient must undergo before having the procedure performed.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalProcedure]
-( #has_/name :: is_preparation)
-( #has_/range :: MedicalEntity, Text)
+[ #has_/domain  :: MedicalProcedure ]
+( #has_/name :: is_preparation )
+( #has_/range :: MedicalEntity, Text )
 

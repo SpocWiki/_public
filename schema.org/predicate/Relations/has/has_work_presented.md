@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_work_presented
 
 linkTitle: has_work_presented
-keywords: 
+keywords: [work, presented]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_work_presented :: Movie] or 
-- [ has_work_presented :: Movie] 
+- [ #has/_work_presented :: Movie ] or 
+- [ has_work_presented :: Movie ] 
 
 The movie presented during this event.
 
 Relation describes that: 
-[ #has_/domain  :: ScreeningEvent]
-( #has_/name :: is_work_presented)
-( #has_/range :: Movie)
+[ #has_/domain  :: ScreeningEvent ]
+( #has_/name :: is_work_presented )
+( #has_/range :: Movie )
 
-[ #is_/sub_property_of  :: workFeatured]
+[ #is_/sub_property_of  :: workFeatured ]
 

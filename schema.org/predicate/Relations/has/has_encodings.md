@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_encodings
 
 linkTitle: has_encodings
-keywords: 
+keywords: [encodings]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_encodings :: MediaObject] or 
-- [ has_encodings :: MediaObject] 
+- [ #has/_encodings :: MediaObject ] or 
+- [ has_encodings :: MediaObject ] 
 
 A media object that encodes this CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_encodings)
-( #has_/range :: MediaObject)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_encodings )
+( #has_/range :: MediaObject )
 

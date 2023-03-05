@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sd_license
 
 linkTitle: has_sd_license
-keywords: 
+keywords: [sd, license]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_sd_license
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_sd_license :: CreativeWork, URL] or 
-- [ has_sd_license :: CreativeWork, URL] 
+- [ #has/_sd_license :: CreativeWork, URL ] or 
+- [ has_sd_license :: CreativeWork, URL ] 
 
 A license document that applies to this structured data, typically indicated by URL.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_sd_license)
-( #has_/range :: CreativeWork, URL)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_sd_license )
+( #has_/range :: CreativeWork, URL )
 

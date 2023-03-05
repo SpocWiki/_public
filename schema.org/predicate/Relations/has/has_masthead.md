@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_masthead
 
 linkTitle: has_masthead
-keywords: 
+keywords: [masthead]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_masthead
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_masthead :: CreativeWork, URL] or 
-- [ has_masthead :: CreativeWork, URL] 
+- [ #has/_masthead :: CreativeWork, URL ] or 
+- [ has_masthead :: CreativeWork, URL ] 
 
 For a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/NewsMediaOrganization&quot;&gt;NewsMediaOrganization&lt;/a&gt;, a link to the masthead page or a page listing top editorial management.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization]
-( #has_/name :: is_masthead)
-( #has_/range :: CreativeWork, URL)
+[ #has_/domain  :: NewsMediaOrganization ]
+( #has_/name :: is_masthead )
+( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples]
+[ #is_/sub_property_of  :: publishingPrinciples ]
 

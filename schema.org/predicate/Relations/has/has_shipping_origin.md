@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_shipping_origin
 
 linkTitle: has_shipping_origin
-keywords: 
+keywords: [shipping, origin]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_shipping_origin
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_shipping_origin :: DefinedRegion] or 
-- [ has_shipping_origin :: DefinedRegion] 
+- [ #has/_shipping_origin :: DefinedRegion ] or 
+- [ has_shipping_origin :: DefinedRegion ] 
 
 Indicates the origin of a shipment, i.e. where it should be coming from.
 
 Relation describes that: 
-[ #has_/domain  :: OfferShippingDetails]
-( #has_/name :: is_shipping_origin)
-( #has_/range :: DefinedRegion)
+[ #has_/domain  :: OfferShippingDetails ]
+( #has_/name :: is_shipping_origin )
+( #has_/range :: DefinedRegion )
 

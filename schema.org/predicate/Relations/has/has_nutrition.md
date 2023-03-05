@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_nutrition
 
 linkTitle: has_nutrition
-keywords: 
+keywords: [nutrition]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_nutrition :: NutritionInformation] or 
-- [ has_nutrition :: NutritionInformation] 
+- [ #has/_nutrition :: NutritionInformation ] or 
+- [ has_nutrition :: NutritionInformation ] 
 
 Nutrition information about the recipe or menu item.
 
 Relation describes that: 
-[ #has_/domain  :: MenuItem, Recipe]
-( #has_/name :: is_nutrition)
-( #has_/range :: NutritionInformation)
+[ #has_/domain  :: MenuItem, Recipe ]
+( #has_/name :: is_nutrition )
+( #has_/range :: NutritionInformation )
 

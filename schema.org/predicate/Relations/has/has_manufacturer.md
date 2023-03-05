@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_manufacturer
 
 linkTitle: has_manufacturer
-keywords: 
+keywords: [manufacturer]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_manufacturer :: Organization] or 
-- [ has_manufacturer :: Organization] 
+- [ #has/_manufacturer :: Organization ] or 
+- [ has_manufacturer :: Organization ] 
 
 The manufacturer of the product.
 
 Relation describes that: 
-[ #has_/domain  :: Product]
-( #has_/name :: is_manufacturer)
-( #has_/range :: Organization)
+[ #has_/domain  :: Product ]
+( #has_/name :: is_manufacturer )
+( #has_/range :: Organization )
 

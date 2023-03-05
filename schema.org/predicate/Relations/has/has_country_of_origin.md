@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_country_of_origin
 
 linkTitle: has_country_of_origin
-keywords: 
+keywords: [country, of, origin]
 layout: 
 draft: false
 publishDate:
@@ -33,8 +33,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_country_of_origin :: Country] or 
-- [ has_country_of_origin :: Country] 
+- [ #has/_country_of_origin :: Country ] or 
+- [ has_country_of_origin :: Country ] 
 
 The country of origin of something, including products as well as creative  works such as movie and TV content.&lt;br/&gt;&lt;br/&gt;
 
@@ -43,7 +43,7 @@ In the case of TV and movie, this would be the country of the principle offices 
 In the case of products, the country of origin of the product. The exact interpretation of this may vary by context and product type, and cannot be fully enumerated here.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Movie, Product, TVEpisode, TVSeason, TVSeries]
-( #has_/name :: is_country_of_origin)
-( #has_/range :: Country)
+[ #has_/domain  :: CreativeWork, Movie, Product, TVEpisode, TVSeason, TVSeries ]
+( #has_/name :: is_country_of_origin )
+( #has_/range :: Country )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_video
 
 linkTitle: has_video
-keywords: 
+keywords: [video]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_video :: Clip, VideoObject] or 
-- [ has_video :: Clip, VideoObject] 
+- [ #has/_video :: Clip, VideoObject ] or 
+- [ has_video :: Clip, VideoObject ] 
 
 An embedded video object.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_video)
-( #has_/range :: Clip, VideoObject)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_video )
+( #has_/range :: Clip, VideoObject )
 

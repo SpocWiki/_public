@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_game_tip
 
 linkTitle: has_game_tip
-keywords: 
+keywords: [game, tip]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_game_tip :: CreativeWork] or 
-- [ has_game_tip :: CreativeWork] 
+- [ #has/_game_tip :: CreativeWork ] or 
+- [ has_game_tip :: CreativeWork ] 
 
 Links to tips, tactics, etc.
 
 Relation describes that: 
-[ #has_/domain  :: VideoGame]
-( #has_/name :: is_game_tip)
-( #has_/range :: CreativeWork)
+[ #has_/domain  :: VideoGame ]
+( #has_/name :: is_game_tip )
+( #has_/range :: CreativeWork )
 

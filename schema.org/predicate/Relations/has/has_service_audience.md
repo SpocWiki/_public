@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_service_audience
 
 linkTitle: has_service_audience
-keywords: 
+keywords: [service, audience]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_service_audience :: Audience] or 
-- [ has_service_audience :: Audience] 
+- [ #has/_service_audience :: Audience ] or 
+- [ has_service_audience :: Audience ] 
 
 The audience eligible for this service.
 
 Relation describes that: 
-[ #has_/domain  :: Service]
-( #has_/name :: is_service_audience)
-( #has_/range :: Audience)
+[ #has_/domain  :: Service ]
+( #has_/name :: is_service_audience )
+( #has_/range :: Audience )
 

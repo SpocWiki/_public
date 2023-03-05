@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_rsvp_response
 
 linkTitle: has_rsvp_response
-keywords: 
+keywords: [rsvp, response]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_rsvp_response :: RsvpResponseType] or 
-- [ has_rsvp_response :: RsvpResponseType] 
+- [ #has/_rsvp_response :: RsvpResponseType ] or 
+- [ has_rsvp_response :: RsvpResponseType ] 
 
 The response (yes, no, maybe) to the RSVP.
 
 Relation describes that: 
-[ #has_/domain  :: RsvpAction]
-( #has_/name :: is_rsvp_response)
-( #has_/range :: RsvpResponseType)
+[ #has_/domain  :: RsvpAction ]
+( #has_/name :: is_rsvp_response )
+( #has_/range :: RsvpResponseType )
 

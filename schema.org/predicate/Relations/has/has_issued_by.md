@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_issued_by
 
 linkTitle: has_issued_by
-keywords: 
+keywords: [issued, by]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_issued_by :: Organization] or 
-- [ has_issued_by :: Organization] 
+- [ #has/_issued_by :: Organization ] or 
+- [ has_issued_by :: Organization ] 
 
 The organization issuing the ticket or permit.
 
 Relation describes that: 
-[ #has_/domain  :: Permit, Ticket]
-( #has_/name :: is_issued_by)
-( #has_/range :: Organization)
+[ #has_/domain  :: Permit, Ticket ]
+( #has_/name :: is_issued_by )
+( #has_/range :: Organization )
 

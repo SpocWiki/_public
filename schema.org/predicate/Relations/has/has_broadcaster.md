@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_broadcaster
 
 linkTitle: has_broadcaster
-keywords: 
+keywords: [broadcaster]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_broadcaster :: Organization] or 
-- [ has_broadcaster :: Organization] 
+- [ #has/_broadcaster :: Organization ] or 
+- [ has_broadcaster :: Organization ] 
 
 The organization owning or operating the broadcast service.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastService]
-( #has_/name :: is_broadcaster)
-( #has_/range :: Organization)
+[ #has_/domain  :: BroadcastService ]
+( #has_/name :: is_broadcaster )
+( #has_/range :: Organization )
 

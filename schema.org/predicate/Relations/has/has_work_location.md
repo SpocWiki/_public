@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_work_location
 
 linkTitle: has_work_location
-keywords: 
+keywords: [work, location]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_work_location :: ContactPoint, Place] or 
-- [ has_work_location :: ContactPoint, Place] 
+- [ #has/_work_location :: ContactPoint, Place ] or 
+- [ has_work_location :: ContactPoint, Place ] 
 
 A contact location for a person&#x27;s place of work.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_work_location)
-( #has_/range :: ContactPoint, Place)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_work_location )
+( #has_/range :: ContactPoint, Place )
 
-[ #is_/sub_property_of  :: location]
+[ #is_/sub_property_of  :: location ]
 

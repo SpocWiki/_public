@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_occupation
 
 linkTitle: has_occupation
-keywords: 
+keywords: [occupation]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_occupation :: Occupation] or 
-- [ has_occupation :: Occupation] 
+- [ #has/_occupation :: Occupation ] or 
+- [ has_occupation :: Occupation ] 
 
 The Person&#x27;s occupation. For past professions, use Role for expressing dates.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_occupation)
-( #has_/range :: Occupation)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_occupation )
+( #has_/range :: Occupation )
 

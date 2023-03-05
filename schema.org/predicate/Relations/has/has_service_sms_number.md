@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_service_sms_number
 
 linkTitle: has_service_sms_number
-keywords: 
+keywords: [service, sms, number]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_service_sms_number :: ContactPoint] or 
-- [ has_service_sms_number :: ContactPoint] 
+- [ #has/_service_sms_number :: ContactPoint ] or 
+- [ has_service_sms_number :: ContactPoint ] 
 
 The number to access the service by text message.
 
 Relation describes that: 
-[ #has_/domain  :: ServiceChannel]
-( #has_/name :: is_service_sms_number)
-( #has_/range :: ContactPoint)
+[ #has_/domain  :: ServiceChannel ]
+( #has_/name :: is_service_sms_number )
+( #has_/range :: ContactPoint )
 

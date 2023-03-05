@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_permit_audience
 
 linkTitle: has_permit_audience
-keywords: 
+keywords: [permit, audience]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_permit_audience :: Audience] or 
-- [ has_permit_audience :: Audience] 
+- [ #has/_permit_audience :: Audience ] or 
+- [ has_permit_audience :: Audience ] 
 
 The target audience for this permit.
 
 Relation describes that: 
-[ #has_/domain  :: Permit]
-( #has_/name :: is_permit_audience)
-( #has_/range :: Audience)
+[ #has_/domain  :: Permit ]
+( #has_/name :: is_permit_audience )
+( #has_/range :: Audience )
 

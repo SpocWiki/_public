@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_related_condition
 
 linkTitle: has_related_condition
-keywords: 
+keywords: [related, condition]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_condition :: MedicalCondition] or 
-- [ has_related_condition :: MedicalCondition] 
+- [ #has/_related_condition :: MedicalCondition ] or 
+- [ has_related_condition :: MedicalCondition ] 
 
 A medical condition associated with this anatomy.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy]
-( #has_/name :: is_related_condition)
-( #has_/range :: MedicalCondition)
+[ #has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ]
+( #has_/name :: is_related_condition )
+( #has_/range :: MedicalCondition )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_prescription_status
 
 linkTitle: has_prescription_status
-keywords: 
+keywords: [prescription, status]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_prescription_status :: DrugPrescriptionStatus, Text] or 
-- [ has_prescription_status :: DrugPrescriptionStatus, Text] 
+- [ #has/_prescription_status :: DrugPrescriptionStatus, Text ] or 
+- [ has_prescription_status :: DrugPrescriptionStatus, Text ] 
 
 Indicates the status of drug prescription, e.g. local catalogs classifications or whether the drug is available by prescription or over-the-counter, etc.
 
 Relation describes that: 
-[ #has_/domain  :: Drug]
-( #has_/name :: is_prescription_status)
-( #has_/range :: DrugPrescriptionStatus, Text)
+[ #has_/domain  :: Drug ]
+( #has_/name :: is_prescription_status )
+( #has_/range :: DrugPrescriptionStatus, Text )
 

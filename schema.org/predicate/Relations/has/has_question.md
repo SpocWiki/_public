@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_question
 
 linkTitle: has_question
-keywords: 
+keywords: [question]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_question :: Question] or 
-- [ has_question :: Question] 
+- [ #has/_question :: Question ] or 
+- [ has_question :: Question ] 
 
 A sub property of object. A question.
 
 Relation describes that: 
-[ #has_/domain  :: AskAction]
-( #has_/name :: is_question)
-( #has_/range :: Question)
+[ #has_/domain  :: AskAction ]
+( #has_/name :: is_question )
+( #has_/range :: Question )
 
-[ #is_/sub_property_of  :: object]
+[ #is_/sub_property_of  :: object ]
 

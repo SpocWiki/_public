@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_price_specification
 
 linkTitle: has_price_specification
-keywords: 
+keywords: [price, specification]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_price_specification :: PriceSpecification] or 
-- [ has_price_specification :: PriceSpecification] 
+- [ #has/_price_specification :: PriceSpecification ] or 
+- [ has_price_specification :: PriceSpecification ] 
 
 One or more detailed price specifications, indicating the unit price and delivery or payment charges.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer, TradeAction]
-( #has_/name :: is_price_specification)
-( #has_/range :: PriceSpecification)
+[ #has_/domain  :: Demand, Offer, TradeAction ]
+( #has_/name :: is_price_specification )
+( #has_/range :: PriceSpecification )
 

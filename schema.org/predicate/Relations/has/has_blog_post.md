@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_blog_post
 
 linkTitle: has_blog_post
-keywords: 
+keywords: [blog, post]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_blog_post :: BlogPosting] or 
-- [ has_blog_post :: BlogPosting] 
+- [ #has/_blog_post :: BlogPosting ] or 
+- [ has_blog_post :: BlogPosting ] 
 
 A posting that is part of this blog.
 
 Relation describes that: 
-[ #has_/domain  :: Blog]
-( #has_/name :: is_blog_post)
-( #has_/range :: BlogPosting)
+[ #has_/domain  :: Blog ]
+( #has_/name :: is_blog_post )
+( #has_/range :: BlogPosting )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_nonprofit_status
 
 linkTitle: has_nonprofit_status
-keywords: 
+keywords: [nonprofit, status]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_nonprofit_status
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_nonprofit_status :: NonprofitType] or 
-- [ has_nonprofit_status :: NonprofitType] 
+- [ #has/_nonprofit_status :: NonprofitType ] or 
+- [ has_nonprofit_status :: NonprofitType ] 
 
 nonprofitStatus indicates the legal status of a non-profit organization in its primary place of business.
 
 Relation describes that: 
-[ #has_/domain  :: Organization]
-( #has_/name :: is_nonprofit_status)
-( #has_/range :: NonprofitType)
+[ #has_/domain  :: Organization ]
+( #has_/name :: is_nonprofit_status )
+( #has_/range :: NonprofitType )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_lesser
 
 linkTitle: has_lesser
-keywords: 
+keywords: [lesser]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lesser :: QualitativeValue] or 
-- [ has_lesser :: QualitativeValue] 
+- [ #has/_lesser :: QualitativeValue ] or 
+- [ has_lesser :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is lesser than the object.
 
 Relation describes that: 
-[ #has_/domain  :: QualitativeValue]
-( #has_/name :: is_lesser)
-( #has_/range :: QualitativeValue)
+[ #has_/domain  :: QualitativeValue ]
+( #has_/name :: is_lesser )
+( #has_/range :: QualitativeValue )
 

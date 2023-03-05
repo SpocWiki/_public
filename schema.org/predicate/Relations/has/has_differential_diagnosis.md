@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_differential_diagnosis
 
 linkTitle: has_differential_diagnosis
-keywords: 
+keywords: [differential, diagnosis]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_differential_diagnosis :: DDxElement] or 
-- [ has_differential_diagnosis :: DDxElement] 
+- [ #has/_differential_diagnosis :: DDxElement ] or 
+- [ has_differential_diagnosis :: DDxElement ] 
 
 One of a set of differential diagnoses for the condition. Specifically, a closely-related or competing diagnosis typically considered later in the cognitive process whereby this medical condition is distinguished from others most likely responsible for a similar collection of signs and symptoms to reach the most parsimonious diagnosis or diagnoses in a patient.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition]
-( #has_/name :: is_differential_diagnosis)
-( #has_/range :: DDxElement)
+[ #has_/domain  :: MedicalCondition ]
+( #has_/name :: is_differential_diagnosis )
+( #has_/range :: DDxElement )
 

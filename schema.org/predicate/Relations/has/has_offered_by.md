@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_offered_by
 
 linkTitle: has_offered_by
-keywords: 
+keywords: [offered, by]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_offered_by :: Organization, Person] or 
-- [ has_offered_by :: Organization, Person] 
+- [ #has/_offered_by :: Organization, Person ] or 
+- [ has_offered_by :: Organization, Person ] 
 
 A pointer to the organization or person making the offer.
 
 Relation describes that: 
-[ #has_/domain  :: Offer]
-( #has_/name :: is_offered_by)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Offer ]
+( #has_/name :: is_offered_by )
+( #has_/range :: Organization, Person )
 
-[ #is_/inverse_of  :: makesOffer]
+[ #is_/inverse_of  :: makesOffer ]
 

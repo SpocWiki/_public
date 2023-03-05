@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_identifying_exam
 
 linkTitle: has_identifying_exam
-keywords: 
+keywords: [identifying, exam]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_identifying_exam :: PhysicalExam] or 
-- [ has_identifying_exam :: PhysicalExam] 
+- [ #has/_identifying_exam :: PhysicalExam ] or 
+- [ has_identifying_exam :: PhysicalExam ] 
 
 A physical examination that can identify this sign.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalSign]
-( #has_/name :: is_identifying_exam)
-( #has_/range :: PhysicalExam)
+[ #has_/domain  :: MedicalSign ]
+( #has_/name :: is_identifying_exam )
+( #has_/range :: PhysicalExam )
 

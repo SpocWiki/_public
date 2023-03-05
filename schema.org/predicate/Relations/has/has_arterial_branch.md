@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_arterial_branch
 
 linkTitle: has_arterial_branch
-keywords: 
+keywords: [arterial, branch]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_arterial_branch :: AnatomicalStructure] or 
-- [ has_arterial_branch :: AnatomicalStructure] 
+- [ #has/_arterial_branch :: AnatomicalStructure ] or 
+- [ has_arterial_branch :: AnatomicalStructure ] 
 
 The branches that comprise the arterial structure.
 
 Relation describes that: 
-[ #has_/domain  :: Artery]
-( #has_/name :: is_arterial_branch)
-( #has_/range :: AnatomicalStructure)
+[ #has_/domain  :: Artery ]
+( #has_/name :: is_arterial_branch )
+( #has_/range :: AnatomicalStructure )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_tributary
 
 linkTitle: has_tributary
-keywords: 
+keywords: [tributary]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_tributary :: AnatomicalStructure] or 
-- [ has_tributary :: AnatomicalStructure] 
+- [ #has/_tributary :: AnatomicalStructure ] or 
+- [ has_tributary :: AnatomicalStructure ] 
 
 The anatomical or organ system that the vein flows into; a larger structure that the vein connects to.
 
 Relation describes that: 
-[ #has_/domain  :: Vein]
-( #has_/name :: is_tributary)
-( #has_/range :: AnatomicalStructure)
+[ #has_/domain  :: Vein ]
+( #has_/name :: is_tributary )
+( #has_/range :: AnatomicalStructure )
 

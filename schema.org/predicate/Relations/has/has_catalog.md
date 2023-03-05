@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_catalog
 
 linkTitle: has_catalog
-keywords: 
+keywords: [catalog]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_catalog :: DataCatalog] or 
-- [ has_catalog :: DataCatalog] 
+- [ #has/_catalog :: DataCatalog ] or 
+- [ has_catalog :: DataCatalog ] 
 
 A data catalog which contains this dataset.
 
 Relation describes that: 
-[ #has_/domain  :: Dataset]
-( #has_/name :: is_catalog)
-( #has_/range :: DataCatalog)
+[ #has_/domain  :: Dataset ]
+( #has_/name :: is_catalog )
+( #has_/range :: DataCatalog )
 

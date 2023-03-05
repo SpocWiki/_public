@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sign_detected
 
 linkTitle: has_sign_detected
-keywords: 
+keywords: [sign, detected]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sign_detected :: MedicalSign] or 
-- [ has_sign_detected :: MedicalSign] 
+- [ #has/_sign_detected :: MedicalSign ] or 
+- [ has_sign_detected :: MedicalSign ] 
 
 A sign detected by the test.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTest]
-( #has_/name :: is_sign_detected)
-( #has_/range :: MedicalSign)
+[ #has_/domain  :: MedicalTest ]
+( #has_/name :: is_sign_detected )
+( #has_/range :: MedicalSign )
 

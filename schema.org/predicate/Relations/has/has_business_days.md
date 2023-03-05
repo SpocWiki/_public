@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_business_days
 
 linkTitle: has_business_days
-keywords: 
+keywords: [business, days]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_business_days
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_business_days :: OpeningHoursSpecification] or 
-- [ has_business_days :: OpeningHoursSpecification] 
+- [ #has/_business_days :: OpeningHoursSpecification ] or 
+- [ has_business_days :: OpeningHoursSpecification ] 
 
 Days of the week when the merchant typically operates, indicated via opening hours markup.
 
 Relation describes that: 
-[ #has_/domain  :: ShippingDeliveryTime]
-( #has_/name :: is_business_days)
-( #has_/range :: OpeningHoursSpecification)
+[ #has_/domain  :: ShippingDeliveryTime ]
+( #has_/name :: is_business_days )
+( #has_/range :: OpeningHoursSpecification )
 

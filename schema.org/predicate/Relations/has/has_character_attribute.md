@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_character_attribute
 
 linkTitle: has_character_attribute
-keywords: 
+keywords: [character, attribute]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_character_attribute :: Thing] or 
-- [ has_character_attribute :: Thing] 
+- [ #has/_character_attribute :: Thing ] or 
+- [ has_character_attribute :: Thing ] 
 
 A piece of data that represents a particular aspect of a fictional character (skill, power, character points, advantage, disadvantage).
 
 Relation describes that: 
-[ #has_/domain  :: Game, VideoGameSeries]
-( #has_/name :: is_character_attribute)
-( #has_/range :: Thing)
+[ #has_/domain  :: Game, VideoGameSeries ]
+( #has_/name :: is_character_attribute )
+( #has_/range :: Thing )
 

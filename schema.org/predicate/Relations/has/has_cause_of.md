@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_cause_of
 
 linkTitle: has_cause_of
-keywords: 
+keywords: [cause, of]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_cause_of :: MedicalEntity] or 
-- [ has_cause_of :: MedicalEntity] 
+- [ #has/_cause_of :: MedicalEntity ] or 
+- [ has_cause_of :: MedicalEntity ] 
 
 The condition, complication, symptom, sign, etc. caused.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCause]
-( #has_/name :: is_cause_of)
-( #has_/range :: MedicalEntity)
+[ #has_/domain  :: MedicalCause ]
+( #has_/name :: is_cause_of )
+( #has_/range :: MedicalEntity )
 

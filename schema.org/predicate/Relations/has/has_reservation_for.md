@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_reservation_for
 
 linkTitle: has_reservation_for
-keywords: 
+keywords: [reservation, for]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_reservation_for :: Thing] or 
-- [ has_reservation_for :: Thing] 
+- [ #has/_reservation_for :: Thing ] or 
+- [ has_reservation_for :: Thing ] 
 
 The thing -- flight, event, restaurant, etc. being reserved.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation]
-( #has_/name :: is_reservation_for)
-( #has_/range :: Thing)
+[ #has_/domain  :: Reservation ]
+( #has_/name :: is_reservation_for )
+( #has_/range :: Thing )
 

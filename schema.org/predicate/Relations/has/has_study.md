@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_study
 
 linkTitle: has_study
-keywords: 
+keywords: [study]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_study :: MedicalStudy] or 
-- [ has_study :: MedicalStudy] 
+- [ #has/_study :: MedicalStudy ] or 
+- [ has_study :: MedicalStudy ] 
 
 A medical study or trial related to this entity.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity]
-( #has_/name :: is_study)
-( #has_/range :: MedicalStudy)
+[ #has_/domain  :: MedicalEntity ]
+( #has_/name :: is_study )
+( #has_/range :: MedicalStudy )
 

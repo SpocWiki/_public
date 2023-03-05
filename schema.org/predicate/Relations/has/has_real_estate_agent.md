@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_real_estate_agent
 
 linkTitle: has_real_estate_agent
-keywords: 
+keywords: [real, estate, agent]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_real_estate_agent :: RealEstateAgent] or 
-- [ has_real_estate_agent :: RealEstateAgent] 
+- [ #has/_real_estate_agent :: RealEstateAgent ] or 
+- [ has_real_estate_agent :: RealEstateAgent ] 
 
 A sub property of participant. The real estate agent involved in the action.
 
 Relation describes that: 
-[ #has_/domain  :: RentAction]
-( #has_/name :: is_real_estate_agent)
-( #has_/range :: RealEstateAgent)
+[ #has_/domain  :: RentAction ]
+( #has_/name :: is_real_estate_agent )
+( #has_/range :: RealEstateAgent )
 
-[ #is_/sub_property_of  :: participant]
+[ #is_/sub_property_of  :: participant ]
 

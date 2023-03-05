@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_attendee
 
 linkTitle: has_attendee
-keywords: 
+keywords: [attendee]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_attendee :: Organization, Person] or 
-- [ has_attendee :: Organization, Person] 
+- [ #has/_attendee :: Organization, Person ] or 
+- [ has_attendee :: Organization, Person ] 
 
 A person or organization attending the event.
 
 Relation describes that: 
-[ #has_/domain  :: Event]
-( #has_/name :: is_attendee)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Event ]
+( #has_/name :: is_attendee )
+( #has_/range :: Organization, Person )
 

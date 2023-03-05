@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_endorsers
 
 linkTitle: has_endorsers
-keywords: 
+keywords: [endorsers]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_endorsers :: Organization, Person] or 
-- [ has_endorsers :: Organization, Person] 
+- [ #has/_endorsers :: Organization, Person ] or 
+- [ has_endorsers :: Organization, Person ] 
 
 People or organizations that endorse the plan.
 
 Relation describes that: 
-[ #has_/domain  :: Diet]
-( #has_/name :: is_endorsers)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Diet ]
+( #has_/name :: is_endorsers )
+( #has_/range :: Organization, Person )
 

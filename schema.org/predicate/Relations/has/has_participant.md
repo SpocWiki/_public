@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_participant
 
 linkTitle: has_participant
-keywords: 
+keywords: [participant]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_participant :: Organization, Person] or 
-- [ has_participant :: Organization, Person] 
+- [ #has/_participant :: Organization, Person ] or 
+- [ has_participant :: Organization, Person ] 
 
 Other co-agents that participated in the action indirectly. E.g. John wrote a book with &lt;em&gt;Steve&lt;/em&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: Action]
-( #has_/name :: is_participant)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Action ]
+( #has_/name :: is_participant )
+( #has_/range :: Organization, Person )
 
-[ #has_/sub_properties :: borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner]
+[ #has_/sub_properties :: [ borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner ] ]
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_game_server
 
 linkTitle: has_game_server
-keywords: 
+keywords: [game, server]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_game_server :: GameServer] or 
-- [ has_game_server :: GameServer] 
+- [ #has/_game_server :: GameServer ] or 
+- [ has_game_server :: GameServer ] 
 
 The server on which  it is possible to play the game.
 
 Relation describes that: 
-[ #has_/domain  :: VideoGame]
-( #has_/name :: is_game_server)
-( #has_/range :: GameServer)
+[ #has_/domain  :: VideoGame ]
+( #has_/name :: is_game_server )
+( #has_/range :: GameServer )
 
-[ #is_/inverse_of  :: game]
+[ #is_/inverse_of  :: game ]
 

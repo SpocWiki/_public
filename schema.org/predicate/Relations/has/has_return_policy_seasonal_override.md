@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_return_policy_seasonal_override
 
 linkTitle: has_return_policy_seasonal_override
-keywords: 
+keywords: [return, policy, seasonal, override]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_return_policy_seasonal_override
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride] or 
-- [ has_return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride] 
+- [ #has/_return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride ] or 
+- [ has_return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride ] 
 
 Seasonal override of a return policy.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy]
-( #has_/name :: is_return_policy_seasonal_override)
-( #has_/range :: MerchantReturnPolicySeasonalOverride)
+[ #has_/domain  :: MerchantReturnPolicy ]
+( #has_/name :: is_return_policy_seasonal_override )
+( #has_/range :: MerchantReturnPolicySeasonalOverride )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_educational_use
 
 linkTitle: has_educational_use
-keywords: 
+keywords: [educational, use]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_educational_use :: DefinedTerm, Text] or 
-- [ has_educational_use :: DefinedTerm, Text] 
+- [ #has/_educational_use :: DefinedTerm, Text ] or 
+- [ has_educational_use :: DefinedTerm, Text ] 
 
 The purpose of a work in the context of education; for example, &#x27;assignment&#x27;, &#x27;group work&#x27;.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, LearningResource]
-( #has_/name :: is_educational_use)
-( #has_/range :: DefinedTerm, Text)
+[ #has_/domain  :: CreativeWork, LearningResource ]
+( #has_/name :: is_educational_use )
+( #has_/range :: DefinedTerm, Text )
 

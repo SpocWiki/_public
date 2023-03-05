@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_speakable
 
 linkTitle: has_speakable
-keywords: 
+keywords: [speakable]
 layout: 
 draft: false
 publishDate:
@@ -33,8 +33,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_speakable :: SpeakableSpecification, URL] or 
-- [ has_speakable :: SpeakableSpecification, URL] 
+- [ #has/_speakable :: SpeakableSpecification, URL ] or 
+- [ has_speakable :: SpeakableSpecification, URL ] 
 
 Indicates sections of a Web page that are particularly &#x27;speakable&#x27; in the sense of being highlighted as being especially appropriate for text-to-speech conversion. Other sections of a page may also be usefully spoken in particular circumstances; the &#x27;speakable&#x27; property serves to indicate the parts most likely to be generally useful for speech.&lt;br/&gt;&lt;br/&gt;
 
@@ -50,7 +50,7 @@ For more sophisticated markup of speakable sections beyond simple ID references,
 we define a supporting type, &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/SpeakableSpecification&quot;&gt;SpeakableSpecification&lt;/a&gt;  which is defined to be a possible value of the &lt;em&gt;speakable&lt;/em&gt; property.
 
 Relation describes that: 
-[ #has_/domain  :: Article, WebPage]
-( #has_/name :: is_speakable)
-( #has_/range :: SpeakableSpecification, URL)
+[ #has_/domain  :: Article, WebPage ]
+( #has_/name :: is_speakable )
+( #has_/range :: SpeakableSpecification, URL )
 

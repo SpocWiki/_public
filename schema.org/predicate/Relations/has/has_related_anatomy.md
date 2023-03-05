@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_related_anatomy
 
 linkTitle: has_related_anatomy
-keywords: 
+keywords: [related, anatomy]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_anatomy :: AnatomicalStructure, AnatomicalSystem] or 
-- [ has_related_anatomy :: AnatomicalStructure, AnatomicalSystem] 
+- [ #has/_related_anatomy :: AnatomicalStructure, AnatomicalSystem ] or 
+- [ has_related_anatomy :: AnatomicalStructure, AnatomicalSystem ] 
 
 Anatomical systems or structures that relate to the superficial anatomy.
 
 Relation describes that: 
-[ #has_/domain  :: SuperficialAnatomy]
-( #has_/name :: is_related_anatomy)
-( #has_/range :: AnatomicalStructure, AnatomicalSystem)
+[ #has_/domain  :: SuperficialAnatomy ]
+( #has_/name :: is_related_anatomy )
+( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 

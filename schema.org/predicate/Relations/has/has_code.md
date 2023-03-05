@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_code
 
 linkTitle: has_code
-keywords: 
+keywords: [code]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_code :: MedicalCode] or 
-- [ has_code :: MedicalCode] 
+- [ #has/_code :: MedicalCode ] or 
+- [ has_code :: MedicalCode ] 
 
 A medical code for the entity, taken from a controlled vocabulary or ontology such as ICD-9, DiseasesDB, MeSH, SNOMED-CT, RxNorm, etc.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity]
-( #has_/name :: is_code)
-( #has_/range :: MedicalCode)
+[ #has_/domain  :: MedicalEntity ]
+( #has_/name :: is_code )
+( #has_/range :: MedicalCode )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_normal_range
 
 linkTitle: has_normal_range
-keywords: 
+keywords: [normal, range]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_normal_range :: MedicalEnumeration, Text] or 
-- [ has_normal_range :: MedicalEnumeration, Text] 
+- [ #has/_normal_range :: MedicalEnumeration, Text ] or 
+- [ has_normal_range :: MedicalEnumeration, Text ] 
 
 Range of acceptable values for a typical patient, when applicable.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTest]
-( #has_/name :: is_normal_range)
-( #has_/range :: MedicalEnumeration, Text)
+[ #has_/domain  :: MedicalTest ]
+( #has_/name :: is_normal_range )
+( #has_/range :: MedicalEnumeration, Text )
 

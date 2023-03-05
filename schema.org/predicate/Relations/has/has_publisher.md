@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_publisher
 
 linkTitle: has_publisher
-keywords: 
+keywords: [publisher]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_publisher :: Organization, Person] or 
-- [ has_publisher :: Organization, Person] 
+- [ #has/_publisher :: Organization, Person ] or 
+- [ has_publisher :: Organization, Person ] 
 
 The publisher of the creative work.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_publisher)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_publisher )
+( #has_/range :: Organization, Person )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_reservation_status
 
 linkTitle: has_reservation_status
-keywords: 
+keywords: [reservation, status]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_reservation_status :: ReservationStatusType] or 
-- [ has_reservation_status :: ReservationStatusType] 
+- [ #has/_reservation_status :: ReservationStatusType ] or 
+- [ has_reservation_status :: ReservationStatusType ] 
 
 The current status of the reservation.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation]
-( #has_/name :: is_reservation_status)
-( #has_/range :: ReservationStatusType)
+[ #has_/domain  :: Reservation ]
+( #has_/name :: is_reservation_status )
+( #has_/range :: ReservationStatusType )
 

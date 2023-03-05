@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_learning_resource_type
 
 linkTitle: has_learning_resource_type
-keywords: 
+keywords: [learning, resource, type]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_learning_resource_type :: DefinedTerm, Text] or 
-- [ has_learning_resource_type :: DefinedTerm, Text] 
+- [ #has/_learning_resource_type :: DefinedTerm, Text ] or 
+- [ has_learning_resource_type :: DefinedTerm, Text ] 
 
 The predominant type or kind characterizing the learning resource. For example, &#x27;presentation&#x27;, &#x27;handout&#x27;.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, LearningResource]
-( #has_/name :: is_learning_resource_type)
-( #has_/range :: DefinedTerm, Text)
+[ #has_/domain  :: CreativeWork, LearningResource ]
+( #has_/name :: is_learning_resource_type )
+( #has_/range :: DefinedTerm, Text )
 

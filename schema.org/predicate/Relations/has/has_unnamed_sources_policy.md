@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_unnamed_sources_policy
 
 linkTitle: has_unnamed_sources_policy
-keywords: 
+keywords: [unnamed, sources, policy]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_unnamed_sources_policy
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_unnamed_sources_policy :: CreativeWork, URL] or 
-- [ has_unnamed_sources_policy :: CreativeWork, URL] 
+- [ #has/_unnamed_sources_policy :: CreativeWork, URL ] or 
+- [ has_unnamed_sources_policy :: CreativeWork, URL ] 
 
 For an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Organization&quot;&gt;Organization&lt;/a&gt; (typically a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/NewsMediaOrganization&quot;&gt;NewsMediaOrganization&lt;/a&gt;), a statement about policy on use of unnamed sources and the decision process required.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization, Organization]
-( #has_/name :: is_unnamed_sources_policy)
-( #has_/range :: CreativeWork, URL)
+[ #has_/domain  :: NewsMediaOrganization, Organization ]
+( #has_/name :: is_unnamed_sources_policy )
+( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples]
+[ #is_/sub_property_of  :: publishingPrinciples ]
 

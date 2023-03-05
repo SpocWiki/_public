@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_coach
 
 linkTitle: has_coach
-keywords: 
+keywords: [coach]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_coach :: Person] or 
-- [ has_coach :: Person] 
+- [ #has/_coach :: Person ] or 
+- [ has_coach :: Person ] 
 
 A person that acts in a coaching role for a sports team.
 
 Relation describes that: 
-[ #has_/domain  :: SportsTeam]
-( #has_/name :: is_coach)
-( #has_/range :: Person)
+[ #has_/domain  :: SportsTeam ]
+( #has_/name :: is_coach )
+( #has_/range :: Person )
 

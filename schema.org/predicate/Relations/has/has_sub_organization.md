@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sub_organization
 
 linkTitle: has_sub_organization
-keywords: 
+keywords: [sub, organization]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sub_organization :: Organization] or 
-- [ has_sub_organization :: Organization] 
+- [ #has/_sub_organization :: Organization ] or 
+- [ has_sub_organization :: Organization ] 
 
 A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific &#x27;department&#x27; property.
 
 Relation describes that: 
-[ #has_/domain  :: Organization]
-( #has_/name :: is_sub_organization)
-( #has_/range :: Organization)
+[ #has_/domain  :: Organization ]
+( #has_/name :: is_sub_organization )
+( #has_/range :: Organization )
 
-[ #is_/inverse_of  :: parentOrganization]
+[ #is_/inverse_of  :: parentOrganization ]
 

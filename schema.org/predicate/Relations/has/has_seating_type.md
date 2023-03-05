@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_seating_type
 
 linkTitle: has_seating_type
-keywords: 
+keywords: [seating, type]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_seating_type :: QualitativeValue, Text] or 
-- [ has_seating_type :: QualitativeValue, Text] 
+- [ #has/_seating_type :: QualitativeValue, Text ] or 
+- [ has_seating_type :: QualitativeValue, Text ] 
 
 The type/class of the seat.
 
 Relation describes that: 
-[ #has_/domain  :: Seat]
-( #has_/name :: is_seating_type)
-( #has_/range :: QualitativeValue, Text)
+[ #has_/domain  :: Seat ]
+( #has_/name :: is_seating_type )
+( #has_/range :: QualitativeValue, Text )
 

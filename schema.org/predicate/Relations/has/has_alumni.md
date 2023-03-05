@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_alumni
 
 linkTitle: has_alumni
-keywords: 
+keywords: [alumni]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_alumni :: Person] or 
-- [ has_alumni :: Person] 
+- [ #has/_alumni :: Person ] or 
+- [ has_alumni :: Person ] 
 
 Alumni of an organization.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOrganization, Organization]
-( #has_/name :: is_alumni)
-( #has_/range :: Person)
+[ #has_/domain  :: EducationalOrganization, Organization ]
+( #has_/name :: is_alumni )
+( #has_/range :: Person )
 
-[ #is_/inverse_of  :: alumniOf]
+[ #is_/inverse_of  :: alumniOf ]
 

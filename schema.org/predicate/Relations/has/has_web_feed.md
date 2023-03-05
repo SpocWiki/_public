@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_web_feed
 
 linkTitle: has_web_feed
-keywords: 
+keywords: [web, feed]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_web_feed
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_web_feed :: DataFeed, URL] or 
-- [ has_web_feed :: DataFeed, URL] 
+- [ #has/_web_feed :: DataFeed, URL ] or 
+- [ has_web_feed :: DataFeed, URL ] 
 
 The URL for a feed, e.g. associated with a podcast series, blog, or series of date-stamped updates. This is usually RSS or Atom.
 
 Relation describes that: 
-[ #has_/domain  :: PodcastSeries, SpecialAnnouncement]
-( #has_/name :: is_web_feed)
-( #has_/range :: DataFeed, URL)
+[ #has_/domain  :: PodcastSeries, SpecialAnnouncement ]
+( #has_/name :: is_web_feed )
+( #has_/range :: DataFeed, URL )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_spouse
 
 linkTitle: has_spouse
-keywords: 
+keywords: [spouse]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_spouse :: Person] or 
-- [ has_spouse :: Person] 
+- [ #has/_spouse :: Person ] or 
+- [ has_spouse :: Person ] 
 
 The person&#x27;s spouse.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_spouse)
-( #has_/range :: Person)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_spouse )
+( #has_/range :: Person )
 

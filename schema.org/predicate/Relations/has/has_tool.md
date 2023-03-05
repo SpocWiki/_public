@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_tool
 
 linkTitle: has_tool
-keywords: 
+keywords: [tool]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_tool :: HowToTool, Text] or 
-- [ has_tool :: HowToTool, Text] 
+- [ #has/_tool :: HowToTool, Text ] or 
+- [ has_tool :: HowToTool, Text ] 
 
 A sub property of instrument. An object used (but not consumed) when performing instructions or a direction.
 
 Relation describes that: 
-[ #has_/domain  :: HowTo, HowToDirection]
-( #has_/name :: is_tool)
-( #has_/range :: HowToTool, Text)
+[ #has_/domain  :: HowTo, HowToDirection ]
+( #has_/name :: is_tool )
+( #has_/range :: HowToTool, Text )
 
-[ #is_/sub_property_of  :: instrument]
+[ #is_/sub_property_of  :: instrument ]
 

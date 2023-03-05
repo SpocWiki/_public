@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_grantee
 
 linkTitle: has_grantee
-keywords: 
+keywords: [grantee]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_grantee :: Audience, ContactPoint, Organization, Person] or 
-- [ has_grantee :: Audience, ContactPoint, Organization, Person] 
+- [ #has/_grantee :: Audience, ContactPoint, Organization, Person ] or 
+- [ has_grantee :: Audience, ContactPoint, Organization, Person ] 
 
 The person, organization, contact point, or audience that has been granted this permission.
 
 Relation describes that: 
-[ #has_/domain  :: DigitalDocumentPermission]
-( #has_/name :: is_grantee)
-( #has_/range :: Audience, ContactPoint, Organization, Person)
+[ #has_/domain  :: DigitalDocumentPermission ]
+( #has_/name :: is_grantee )
+( #has_/range :: Audience, ContactPoint, Organization, Person )
 

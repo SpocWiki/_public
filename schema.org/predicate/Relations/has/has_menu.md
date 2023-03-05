@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_menu
 
 linkTitle: has_menu
-keywords: 
+keywords: [menu]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_menu :: Menu, Text, URL] or 
-- [ has_menu :: Menu, Text, URL] 
+- [ #has/_menu :: Menu, Text, URL ] or 
+- [ has_menu :: Menu, Text, URL ] 
 
 Either the actual menu as a structured representation, as text, or a URL of the menu.
 
 Relation describes that: 
-[ #has_/domain  :: FoodEstablishment]
-( #has_/name :: is_menu)
-( #has_/range :: Menu, Text, URL)
+[ #has_/domain  :: FoodEstablishment ]
+( #has_/name :: is_menu )
+( #has_/range :: Menu, Text, URL )
 

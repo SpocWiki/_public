@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_domain_includes
 
 linkTitle: has_domain_includes
-keywords: 
+keywords: [domain, includes]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_domain_includes
 ---
 
-[ #is_/part_of :: https://meta.schema.org]
+[ #is_/part_of :: https://meta.schema.org ]
 
 Use it like this: 
-- [ #has/_domain_includes :: Class] or 
-- [ has_domain_includes :: Class] 
+- [ #has/_domain_includes :: Class ] or 
+- [ has_domain_includes :: Class ] 
 
 Relates a property to a class that is (one of) the type(s) the property is expected to be used on.
 
 Relation describes that: 
-[ #has_/domain  :: Property]
-( #has_/name :: is_domain_includes)
-( #has_/range :: Class)
+[ #has_/domain  :: Property ]
+( #has_/name :: is_domain_includes )
+( #has_/range :: Class )
 

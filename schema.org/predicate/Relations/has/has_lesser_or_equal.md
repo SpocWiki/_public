@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_lesser_or_equal
 
 linkTitle: has_lesser_or_equal
-keywords: 
+keywords: [lesser, or, equal]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lesser_or_equal :: QualitativeValue] or 
-- [ has_lesser_or_equal :: QualitativeValue] 
+- [ #has/_lesser_or_equal :: QualitativeValue ] or 
+- [ has_lesser_or_equal :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is lesser than or equal to the object.
 
 Relation describes that: 
-[ #has_/domain  :: QualitativeValue]
-( #has_/name :: is_lesser_or_equal)
-( #has_/range :: QualitativeValue)
+[ #has_/domain  :: QualitativeValue ]
+( #has_/name :: is_lesser_or_equal )
+( #has_/range :: QualitativeValue )
 

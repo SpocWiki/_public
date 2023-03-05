@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_quest
 
 linkTitle: has_quest
-keywords: 
+keywords: [quest]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_quest :: Thing] or 
-- [ has_quest :: Thing] 
+- [ #has/_quest :: Thing ] or 
+- [ has_quest :: Thing ] 
 
 The task that a player-controlled character, or group of characters may complete in order to gain a reward.
 
 Relation describes that: 
-[ #has_/domain  :: Game, VideoGameSeries]
-( #has_/name :: is_quest)
-( #has_/range :: Thing)
+[ #has_/domain  :: Game, VideoGameSeries ]
+( #has_/name :: is_quest )
+( #has_/range :: Thing )
 

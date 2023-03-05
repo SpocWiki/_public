@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_accepted_answer
 
 linkTitle: has_accepted_answer
-keywords: 
+keywords: [accepted, answer]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_accepted_answer :: Answer, ItemList] or 
-- [ has_accepted_answer :: Answer, ItemList] 
+- [ #has/_accepted_answer :: Answer, ItemList ] or 
+- [ has_accepted_answer :: Answer, ItemList ] 
 
 The answer(s) that has been accepted as best, typically on a Question/Answer site. Sites vary in their selection mechanisms, e.g. drawing on community opinion and/or the view of the Question author.
 
 Relation describes that: 
-[ #has_/domain  :: Question]
-( #has_/name :: is_accepted_answer)
-( #has_/range :: Answer, ItemList)
+[ #has_/domain  :: Question ]
+( #has_/name :: is_accepted_answer )
+( #has_/range :: Answer, ItemList )
 
-[ #is_/sub_property_of  :: suggestedAnswer]
+[ #is_/sub_property_of  :: suggestedAnswer ]
 

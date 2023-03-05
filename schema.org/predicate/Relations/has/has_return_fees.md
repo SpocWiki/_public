@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_return_fees
 
 linkTitle: has_return_fees
-keywords: 
+keywords: [return, fees]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_return_fees
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_return_fees :: ReturnFeesEnumeration] or 
-- [ has_return_fees :: ReturnFeesEnumeration] 
+- [ #has/_return_fees :: ReturnFeesEnumeration ] or 
+- [ has_return_fees :: ReturnFeesEnumeration ] 
 
 The type of return fees for purchased products (for any return reason).
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy]
-( #has_/name :: is_return_fees)
-( #has_/range :: ReturnFeesEnumeration)
+[ #has_/domain  :: MerchantReturnPolicy ]
+( #has_/name :: is_return_fees )
+( #has_/range :: ReturnFeesEnumeration )
 

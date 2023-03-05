@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_candidate
 
 linkTitle: has_candidate
-keywords: 
+keywords: [candidate]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_candidate :: Person] or 
-- [ has_candidate :: Person] 
+- [ #has/_candidate :: Person ] or 
+- [ has_candidate :: Person ] 
 
 A sub property of object. The candidate subject of this action.
 
 Relation describes that: 
-[ #has_/domain  :: VoteAction]
-( #has_/name :: is_candidate)
-( #has_/range :: Person)
+[ #has_/domain  :: VoteAction ]
+( #has_/name :: is_candidate )
+( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: object]
+[ #is_/sub_property_of  :: object ]
 

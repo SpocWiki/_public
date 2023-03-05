@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_item_shipped
 
 linkTitle: has_item_shipped
-keywords: 
+keywords: [item, shipped]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item_shipped :: Product] or 
-- [ has_item_shipped :: Product] 
+- [ #has/_item_shipped :: Product ] or 
+- [ has_item_shipped :: Product ] 
 
 Item(s) being shipped.
 
 Relation describes that: 
-[ #has_/domain  :: ParcelDelivery]
-( #has_/name :: is_item_shipped)
-( #has_/range :: Product)
+[ #has_/domain  :: ParcelDelivery ]
+( #has_/name :: is_item_shipped )
+( #has_/range :: Product )
 

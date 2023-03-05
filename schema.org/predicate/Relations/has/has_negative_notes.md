@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_negative_notes
 
 linkTitle: has_negative_notes
-keywords: 
+keywords: [negative, notes]
 layout: 
 draft: false
 publishDate:
@@ -32,11 +32,11 @@ aliases:
 - has_negative_notes
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_negative_notes :: ItemList, ListItem, Text, WebContent] or 
-- [ has_negative_notes :: ItemList, ListItem, Text, WebContent] 
+- [ #has/_negative_notes :: ItemList, ListItem, Text, WebContent ] or 
+- [ has_negative_notes :: ItemList, ListItem, Text, WebContent ] 
 
 Provides negative considerations regarding something, most typically in pro/con lists for reviews (alongside &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/positiveNotes&quot;&gt;positiveNotes&lt;/a&gt;). For symmetry &lt;br/&gt;&lt;br/&gt;
 
@@ -46,7 +46,7 @@ tend to emphasise positive claims, it may be relatively unusual to find &lt;a cl
 The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most negative is at the beginning of the list).
 
 Relation describes that: 
-[ #has_/domain  :: Product, Review]
-( #has_/name :: is_negative_notes)
-( #has_/range :: ItemList, ListItem, Text, WebContent)
+[ #has_/domain  :: Product, Review ]
+( #has_/name :: is_negative_notes )
+( #has_/range :: ItemList, ListItem, Text, WebContent )
 

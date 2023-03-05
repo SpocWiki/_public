@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_suggested_gender
 
 linkTitle: has_suggested_gender
-keywords: 
+keywords: [suggested, gender]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_suggested_gender :: GenderType, Text] or 
-- [ has_suggested_gender :: GenderType, Text] 
+- [ #has/_suggested_gender :: GenderType, Text ] or 
+- [ has_suggested_gender :: GenderType, Text ] 
 
 The suggested gender of the intended person or audience, for example &quot;male&quot;, &quot;female&quot;, or &quot;unisex&quot;.
 
 Relation describes that: 
-[ #has_/domain  :: PeopleAudience, SizeSpecification]
-( #has_/name :: is_suggested_gender)
-( #has_/range :: GenderType, Text)
+[ #has_/domain  :: PeopleAudience, SizeSpecification ]
+( #has_/name :: is_suggested_gender )
+( #has_/range :: GenderType, Text )
 

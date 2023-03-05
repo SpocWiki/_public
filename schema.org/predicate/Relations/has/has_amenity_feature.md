@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_amenity_feature
 
 linkTitle: has_amenity_feature
-keywords: 
+keywords: [amenity, feature]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_amenity_feature :: LocationFeatureSpecification] or 
-- [ has_amenity_feature :: LocationFeatureSpecification] 
+- [ #has/_amenity_feature :: LocationFeatureSpecification ] or 
+- [ has_amenity_feature :: LocationFeatureSpecification ] 
 
 An amenity feature (e.g. a characteristic or service) of the Accommodation. This generic property does not make a statement about whether the feature is included in an offer for the main accommodation or available at extra costs.
 
 Relation describes that: 
-[ #has_/domain  :: Accommodation, FloorPlan, LodgingBusiness, Place]
-( #has_/name :: is_amenity_feature)
-( #has_/range :: LocationFeatureSpecification)
+[ #has_/domain  :: Accommodation, FloorPlan, LodgingBusiness, Place ]
+( #has_/name :: is_amenity_feature )
+( #has_/range :: LocationFeatureSpecification )
 

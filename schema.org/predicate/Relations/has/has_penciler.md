@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_penciler
 
 linkTitle: has_penciler
-keywords: 
+keywords: [penciler]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_penciler
 ---
 
-[ #is_/part_of :: https://bib.schema.org]
+[ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_penciler :: Person] or 
-- [ has_penciler :: Person] 
+- [ #has/_penciler :: Person ] or 
+- [ has_penciler :: Person ] 
 
 The individual who draws the primary narrative artwork.
 
 Relation describes that: 
-[ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork]
-( #has_/name :: is_penciler)
-( #has_/range :: Person)
+[ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
+( #has_/name :: is_penciler )
+( #has_/range :: Person )
 

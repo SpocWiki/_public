@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_connected_to
 
 linkTitle: has_connected_to
-keywords: 
+keywords: [connected, to]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_connected_to :: AnatomicalStructure] or 
-- [ has_connected_to :: AnatomicalStructure] 
+- [ #has/_connected_to :: AnatomicalStructure ] or 
+- [ has_connected_to :: AnatomicalStructure ] 
 
 Other anatomical structures to which this structure is connected.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure]
-( #has_/name :: is_connected_to)
-( #has_/range :: AnatomicalStructure)
+[ #has_/domain  :: AnatomicalStructure ]
+( #has_/name :: is_connected_to )
+( #has_/range :: AnatomicalStructure )
 

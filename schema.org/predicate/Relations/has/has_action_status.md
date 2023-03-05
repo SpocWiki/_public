@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_action_status
 
 linkTitle: has_action_status
-keywords: 
+keywords: [action, status]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_action_status :: ActionStatusType] or 
-- [ has_action_status :: ActionStatusType] 
+- [ #has/_action_status :: ActionStatusType ] or 
+- [ has_action_status :: ActionStatusType ] 
 
 Indicates the current disposition of the Action.
 
 Relation describes that: 
-[ #has_/domain  :: Action]
-( #has_/name :: is_action_status)
-( #has_/range :: ActionStatusType)
+[ #has_/domain  :: Action ]
+( #has_/name :: is_action_status )
+( #has_/range :: ActionStatusType )
 

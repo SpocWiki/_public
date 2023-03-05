@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_error
 
 linkTitle: has_error
-keywords: 
+keywords: [error]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_error :: Thing] or 
-- [ has_error :: Thing] 
+- [ #has/_error :: Thing ] or 
+- [ has_error :: Thing ] 
 
 For failed actions, more information on the cause of the failure.
 
 Relation describes that: 
-[ #has_/domain  :: Action]
-( #has_/name :: is_error)
-( #has_/range :: Thing)
+[ #has_/domain  :: Action ]
+( #has_/name :: is_error )
+( #has_/range :: Thing )
 

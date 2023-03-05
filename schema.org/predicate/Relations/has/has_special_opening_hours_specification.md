@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_special_opening_hours_specification
 
 linkTitle: has_special_opening_hours_specification
-keywords: 
+keywords: [special, opening, hours, specification]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_special_opening_hours_specification :: OpeningHoursSpecification] or 
-- [ has_special_opening_hours_specification :: OpeningHoursSpecification] 
+- [ #has/_special_opening_hours_specification :: OpeningHoursSpecification ] or 
+- [ has_special_opening_hours_specification :: OpeningHoursSpecification ] 
 
 The special opening hours of a certain place.&lt;br/&gt;&lt;br/&gt;
 
 Use this to explicitly override general opening hours brought in scope by &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/openingHoursSpecification&quot;&gt;openingHoursSpecification&lt;/a&gt; or &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/openingHours&quot;&gt;openingHours&lt;/a&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: Place]
-( #has_/name :: is_special_opening_hours_specification)
-( #has_/range :: OpeningHoursSpecification)
+[ #has_/domain  :: Place ]
+( #has_/name :: is_special_opening_hours_specification )
+( #has_/range :: OpeningHoursSpecification )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_aircraft
 
 linkTitle: has_aircraft
-keywords: 
+keywords: [aircraft]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_aircraft :: Text, Vehicle] or 
-- [ has_aircraft :: Text, Vehicle] 
+- [ #has/_aircraft :: Text, Vehicle ] or 
+- [ has_aircraft :: Text, Vehicle ] 
 
 The kind of aircraft (e.g., &quot;Boeing 747&quot;).
 
 Relation describes that: 
-[ #has_/domain  :: Flight]
-( #has_/name :: is_aircraft)
-( #has_/range :: Text, Vehicle)
+[ #has_/domain  :: Flight ]
+( #has_/name :: is_aircraft )
+( #has_/range :: Text, Vehicle )
 

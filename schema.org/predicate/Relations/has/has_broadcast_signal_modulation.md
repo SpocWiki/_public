@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_broadcast_signal_modulation
 
 linkTitle: has_broadcast_signal_modulation
-keywords: 
+keywords: [broadcast, signal, modulation]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_broadcast_signal_modulation
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_broadcast_signal_modulation :: QualitativeValue, Text] or 
-- [ has_broadcast_signal_modulation :: QualitativeValue, Text] 
+- [ #has/_broadcast_signal_modulation :: QualitativeValue, Text ] or 
+- [ has_broadcast_signal_modulation :: QualitativeValue, Text ] 
 
 The modulation (e.g. FM, AM, etc) used by a particular broadcast service.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastFrequencySpecification]
-( #has_/name :: is_broadcast_signal_modulation)
-( #has_/range :: QualitativeValue, Text)
+[ #has_/domain  :: BroadcastFrequencySpecification ]
+( #has_/name :: is_broadcast_signal_modulation )
+( #has_/range :: QualitativeValue, Text )
 

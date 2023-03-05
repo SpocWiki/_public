@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_keywords
 
 linkTitle: has_keywords
-keywords: 
+keywords: [keywords]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_keywords :: DefinedTerm, Text, URL] or 
-- [ has_keywords :: DefinedTerm, Text, URL] 
+- [ #has/_keywords :: DefinedTerm, Text, URL ] or 
+- [ has_keywords :: DefinedTerm, Text, URL ] 
 
 Keywords or tags used to describe some item. Multiple textual entries in a keywords list are typically delimited by commas, or by repeating the property.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Event, Organization, Place, Product]
-( #has_/name :: is_keywords)
-( #has_/range :: DefinedTerm, Text, URL)
+[ #has_/domain  :: CreativeWork, Event, Organization, Place, Product ]
+( #has_/name :: is_keywords )
+( #has_/range :: DefinedTerm, Text, URL )
 

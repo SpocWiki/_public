@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_colleague
 
 linkTitle: has_colleague
-keywords: 
+keywords: [colleague]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_colleague :: Person, URL] or 
-- [ has_colleague :: Person, URL] 
+- [ #has/_colleague :: Person, URL ] or 
+- [ has_colleague :: Person, URL ] 
 
 A colleague of the person.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_colleague)
-( #has_/range :: Person, URL)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_colleague )
+( #has_/range :: Person, URL )
 

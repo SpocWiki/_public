@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_related_drug
 
 linkTitle: has_related_drug
-keywords: 
+keywords: [related, drug]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_drug :: Drug] or 
-- [ has_related_drug :: Drug] 
+- [ #has/_related_drug :: Drug ] or 
+- [ has_related_drug :: Drug ] 
 
 Any other drug related to this one, for example commonly-prescribed alternatives.
 
 Relation describes that: 
-[ #has_/domain  :: Drug]
-( #has_/name :: is_related_drug)
-( #has_/range :: Drug)
+[ #has_/domain  :: Drug ]
+( #has_/name :: is_related_drug )
+( #has_/range :: Drug )
 

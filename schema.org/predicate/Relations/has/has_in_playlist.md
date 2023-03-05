@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_in_playlist
 
 linkTitle: has_in_playlist
-keywords: 
+keywords: [in, playlist]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_in_playlist :: MusicPlaylist] or 
-- [ has_in_playlist :: MusicPlaylist] 
+- [ #has/_in_playlist :: MusicPlaylist ] or 
+- [ has_in_playlist :: MusicPlaylist ] 
 
 The playlist to which this recording belongs.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRecording]
-( #has_/name :: is_in_playlist)
-( #has_/range :: MusicPlaylist)
+[ #has_/domain  :: MusicRecording ]
+( #has_/name :: is_in_playlist )
+( #has_/range :: MusicPlaylist )
 

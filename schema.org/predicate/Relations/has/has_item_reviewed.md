@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_item_reviewed
 
 linkTitle: has_item_reviewed
-keywords: 
+keywords: [item, reviewed]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item_reviewed :: Thing] or 
-- [ has_item_reviewed :: Thing] 
+- [ #has/_item_reviewed :: Thing ] or 
+- [ has_item_reviewed :: Thing ] 
 
 The item that is being reviewed/rated.
 
 Relation describes that: 
-[ #has_/domain  :: AggregateRating, Review]
-( #has_/name :: is_item_reviewed)
-( #has_/range :: Thing)
+[ #has_/domain  :: AggregateRating, Review ]
+( #has_/name :: is_item_reviewed )
+( #has_/range :: Thing )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_legislation_jurisdiction
 
 linkTitle: has_legislation_jurisdiction
-keywords: 
+keywords: [legislation, jurisdiction]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_legislation_jurisdiction
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_legislation_jurisdiction :: AdministrativeArea, Text] or 
-- [ has_legislation_jurisdiction :: AdministrativeArea, Text] 
+- [ #has/_legislation_jurisdiction :: AdministrativeArea, Text ] or 
+- [ has_legislation_jurisdiction :: AdministrativeArea, Text ] 
 
 The jurisdiction from which the legislation originates.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation]
-( #has_/name :: is_legislation_jurisdiction)
-( #has_/range :: AdministrativeArea, Text)
+[ #has_/domain  :: Legislation ]
+( #has_/name :: is_legislation_jurisdiction )
+( #has_/range :: AdministrativeArea, Text )
 
-[ #is_/sub_property_of  :: jurisdiction, spatialCoverage]
+[ #is_/sub_property_of  :: jurisdiction, spatialCoverage ]
 

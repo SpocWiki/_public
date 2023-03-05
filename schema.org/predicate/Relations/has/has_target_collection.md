@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_target_collection
 
 linkTitle: has_target_collection
-keywords: 
+keywords: [target, collection]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_target_collection :: Thing] or 
-- [ has_target_collection :: Thing] 
+- [ #has/_target_collection :: Thing ] or 
+- [ has_target_collection :: Thing ] 
 
 A sub property of object. The collection target of the action.
 
 Relation describes that: 
-[ #has_/domain  :: UpdateAction]
-( #has_/name :: is_target_collection)
-( #has_/range :: Thing)
+[ #has_/domain  :: UpdateAction ]
+( #has_/name :: is_target_collection )
+( #has_/range :: Thing )
 
-[ #is_/sub_property_of  :: object]
+[ #is_/sub_property_of  :: object ]
 

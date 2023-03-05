@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_bio_chem_interaction
 
 linkTitle: has_bio_chem_interaction
-keywords: 
+keywords: [bio, chem, interaction]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_bio_chem_interaction
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_bio_chem_interaction :: BioChemEntity] or 
-- [ has_bio_chem_interaction :: BioChemEntity] 
+- [ #has/_bio_chem_interaction :: BioChemEntity ] or 
+- [ has_bio_chem_interaction :: BioChemEntity ] 
 
 A BioChemEntity that is known to interact with this item.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity]
-( #has_/name :: is_bio_chem_interaction)
-( #has_/range :: BioChemEntity)
+[ #has_/domain  :: BioChemEntity ]
+( #has_/name :: is_bio_chem_interaction )
+( #has_/range :: BioChemEntity )
 

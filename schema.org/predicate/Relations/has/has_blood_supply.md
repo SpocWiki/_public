@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_blood_supply
 
 linkTitle: has_blood_supply
-keywords: 
+keywords: [blood, supply]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_blood_supply :: Vessel] or 
-- [ has_blood_supply :: Vessel] 
+- [ #has/_blood_supply :: Vessel ] or 
+- [ has_blood_supply :: Vessel ] 
 
 The blood vessel that carries blood from the heart to the muscle.
 
 Relation describes that: 
-[ #has_/domain  :: Muscle]
-( #has_/name :: is_blood_supply)
-( #has_/range :: Vessel)
+[ #has_/domain  :: Muscle ]
+( #has_/name :: is_blood_supply )
+( #has_/range :: Vessel )
 

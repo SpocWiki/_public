@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_music_group_member
 
 linkTitle: has_music_group_member
-keywords: 
+keywords: [music, group, member]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_music_group_member :: Person] or 
-- [ has_music_group_member :: Person] 
+- [ #has/_music_group_member :: Person ] or 
+- [ has_music_group_member :: Person ] 
 
 A member of a music group&amp;#x2014;for example, John, Paul, George, or Ringo.
 
 Relation describes that: 
-[ #has_/domain  :: MusicGroup]
-( #has_/name :: is_music_group_member)
-( #has_/range :: Person)
+[ #has_/domain  :: MusicGroup ]
+( #has_/name :: is_music_group_member )
+( #has_/range :: Person )
 

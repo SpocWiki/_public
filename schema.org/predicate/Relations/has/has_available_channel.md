@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_available_channel
 
 linkTitle: has_available_channel
-keywords: 
+keywords: [available, channel]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_channel :: ServiceChannel] or 
-- [ has_available_channel :: ServiceChannel] 
+- [ #has/_available_channel :: ServiceChannel ] or 
+- [ has_available_channel :: ServiceChannel ] 
 
 A means of accessing the service (e.g. a phone bank, a web site, a location, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: Service]
-( #has_/name :: is_available_channel)
-( #has_/range :: ServiceChannel)
+[ #has_/domain  :: Service ]
+( #has_/name :: is_available_channel )
+( #has_/range :: ServiceChannel )
 

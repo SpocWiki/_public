@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_founders
 
 linkTitle: has_founders
-keywords: 
+keywords: [founders]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_founders :: Person] or 
-- [ has_founders :: Person] 
+- [ #has/_founders :: Person ] or 
+- [ has_founders :: Person ] 
 
 A person who founded this organization.
 
 Relation describes that: 
-[ #has_/domain  :: Organization]
-( #has_/name :: is_founders)
-( #has_/range :: Person)
+[ #has_/domain  :: Organization ]
+( #has_/name :: is_founders )
+( #has_/range :: Person )
 

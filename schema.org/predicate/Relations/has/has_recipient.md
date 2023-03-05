@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_recipient
 
 linkTitle: has_recipient
-keywords: 
+keywords: [recipient]
 layout: 
 draft: false
 publishDate:
@@ -33,17 +33,17 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recipient :: Audience, ContactPoint, Organization, Person] or 
-- [ has_recipient :: Audience, ContactPoint, Organization, Person] 
+- [ #has/_recipient :: Audience, ContactPoint, Organization, Person ] or 
+- [ has_recipient :: Audience, ContactPoint, Organization, Person ] 
 
 A sub property of participant. The participant who is at the receiving end of the action.
 
 Relation describes that: 
-[ #has_/domain  :: AuthorizeAction, CommunicateAction, DonateAction, GiveAction, Message, PayAction, ReturnAction, SendAction, TipAction]
-( #has_/name :: is_recipient)
-( #has_/range :: Audience, ContactPoint, Organization, Person)
+[ #has_/domain  :: AuthorizeAction, CommunicateAction, DonateAction, GiveAction, Message, PayAction, ReturnAction, SendAction, TipAction ]
+( #has_/name :: is_recipient )
+( #has_/range :: Audience, ContactPoint, Organization, Person )
 
-[ #is_/sub_property_of  :: participant]
+[ #is_/sub_property_of  :: participant ]
 
-[ #has_/sub_properties :: bccRecipient, ccRecipient, toRecipient]
+[ #has_/sub_properties :: [ bccRecipient, ccRecipient, toRecipient ] ]
 

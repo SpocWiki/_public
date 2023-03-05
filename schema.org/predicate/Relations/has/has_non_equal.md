@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_non_equal
 
 linkTitle: has_non_equal
-keywords: 
+keywords: [non, equal]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_non_equal :: QualitativeValue] or 
-- [ has_non_equal :: QualitativeValue] 
+- [ #has/_non_equal :: QualitativeValue ] or 
+- [ has_non_equal :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is not equal to the object.
 
 Relation describes that: 
-[ #has_/domain  :: QualitativeValue]
-( #has_/name :: is_non_equal)
-( #has_/range :: QualitativeValue)
+[ #has_/domain  :: QualitativeValue ]
+( #has_/name :: is_non_equal )
+( #has_/range :: QualitativeValue )
 

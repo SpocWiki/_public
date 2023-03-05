@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_result
 
 linkTitle: has_result
-keywords: 
+keywords: [result]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_result :: Thing] or 
-- [ has_result :: Thing] 
+- [ #has/_result :: Thing ] or 
+- [ has_result :: Thing ] 
 
 The result produced in the action. E.g. John wrote &lt;em&gt;a book&lt;/em&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: Action]
-( #has_/name :: is_result)
-( #has_/range :: Thing)
+[ #has_/domain  :: Action ]
+( #has_/name :: is_result )
+( #has_/range :: Thing )
 
-[ #has_/sub_properties :: resultComment, resultReview]
+[ #has_/sub_properties :: [ resultComment, resultReview ] ]
 

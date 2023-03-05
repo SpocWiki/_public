@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_menu_section
 
 linkTitle: has_menu_section
-keywords: 
+keywords: [menu, section]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_menu_section :: MenuSection] or 
-- [ has_menu_section :: MenuSection] 
+- [ #has/_menu_section :: MenuSection ] or 
+- [ has_menu_section :: MenuSection ] 
 
 A subgrouping of the menu (by dishes, course, serving time period, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: Menu, MenuSection]
-( #has_/name :: is_menu_section)
-( #has_/range :: MenuSection)
+[ #has_/domain  :: Menu, MenuSection ]
+( #has_/name :: is_menu_section )
+( #has_/range :: MenuSection )
 

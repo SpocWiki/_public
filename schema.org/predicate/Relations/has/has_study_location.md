@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_study_location
 
 linkTitle: has_study_location
-keywords: 
+keywords: [study, location]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_study_location :: AdministrativeArea] or 
-- [ has_study_location :: AdministrativeArea] 
+- [ #has/_study_location :: AdministrativeArea ] or 
+- [ has_study_location :: AdministrativeArea ] 
 
 The location in which the study is taking/took place.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalStudy]
-( #has_/name :: is_study_location)
-( #has_/range :: AdministrativeArea)
+[ #has_/domain  :: MedicalStudy ]
+( #has_/name :: is_study_location )
+( #has_/range :: AdministrativeArea )
 

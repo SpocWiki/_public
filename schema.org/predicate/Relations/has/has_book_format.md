@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_book_format
 
 linkTitle: has_book_format
-keywords: 
+keywords: [book, format]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_book_format :: BookFormatType] or 
-- [ has_book_format :: BookFormatType] 
+- [ #has/_book_format :: BookFormatType ] or 
+- [ has_book_format :: BookFormatType ] 
 
 The format of the book.
 
 Relation describes that: 
-[ #has_/domain  :: Book]
-( #has_/name :: is_book_format)
-( #has_/range :: BookFormatType)
+[ #has_/domain  :: Book ]
+( #has_/name :: is_book_format )
+( #has_/range :: BookFormatType )
 

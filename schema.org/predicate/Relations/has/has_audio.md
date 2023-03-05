@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_audio
 
 linkTitle: has_audio
-keywords: 
+keywords: [audio]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_audio :: AudioObject, Clip, MusicRecording] or 
-- [ has_audio :: AudioObject, Clip, MusicRecording] 
+- [ #has/_audio :: AudioObject, Clip, MusicRecording ] or 
+- [ has_audio :: AudioObject, Clip, MusicRecording ] 
 
 An embedded audio object.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_audio)
-( #has_/range :: AudioObject, Clip, MusicRecording)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_audio )
+( #has_/range :: AudioObject, Clip, MusicRecording )
 

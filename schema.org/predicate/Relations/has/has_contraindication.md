@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_contraindication
 
 linkTitle: has_contraindication
-keywords: 
+keywords: [contraindication]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_contraindication :: MedicalContraindication, Text] or 
-- [ has_contraindication :: MedicalContraindication, Text] 
+- [ #has/_contraindication :: MedicalContraindication, Text ] or 
+- [ has_contraindication :: MedicalContraindication, Text ] 
 
 A contraindication for this therapy.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalDevice, MedicalTherapy]
-( #has_/name :: is_contraindication)
-( #has_/range :: MedicalContraindication, Text)
+[ #has_/domain  :: MedicalDevice, MedicalTherapy ]
+( #has_/name :: is_contraindication )
+( #has_/range :: MedicalContraindication, Text )
 

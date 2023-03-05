@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_stage
 
 linkTitle: has_stage
-keywords: 
+keywords: [stage]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_stage :: MedicalConditionStage] or 
-- [ has_stage :: MedicalConditionStage] 
+- [ #has/_stage :: MedicalConditionStage ] or 
+- [ has_stage :: MedicalConditionStage ] 
 
 The stage of the condition, if applicable.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition]
-( #has_/name :: is_stage)
-( #has_/range :: MedicalConditionStage)
+[ #has_/domain  :: MedicalCondition ]
+( #has_/name :: is_stage )
+( #has_/range :: MedicalConditionStage )
 

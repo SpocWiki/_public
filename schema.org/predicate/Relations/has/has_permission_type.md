@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_permission_type
 
 linkTitle: has_permission_type
-keywords: 
+keywords: [permission, type]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_permission_type :: DigitalDocumentPermissionType] or 
-- [ has_permission_type :: DigitalDocumentPermissionType] 
+- [ #has/_permission_type :: DigitalDocumentPermissionType ] or 
+- [ has_permission_type :: DigitalDocumentPermissionType ] 
 
 The type of permission granted the person, organization, or audience.
 
 Relation describes that: 
-[ #has_/domain  :: DigitalDocumentPermission]
-( #has_/name :: is_permission_type)
-( #has_/range :: DigitalDocumentPermissionType)
+[ #has_/domain  :: DigitalDocumentPermission ]
+( #has_/name :: is_permission_type )
+( #has_/range :: DigitalDocumentPermissionType )
 

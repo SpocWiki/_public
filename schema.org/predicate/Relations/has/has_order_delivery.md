@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_order_delivery
 
 linkTitle: has_order_delivery
-keywords: 
+keywords: [order, delivery]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_order_delivery :: ParcelDelivery] or 
-- [ has_order_delivery :: ParcelDelivery] 
+- [ #has/_order_delivery :: ParcelDelivery ] or 
+- [ has_order_delivery :: ParcelDelivery ] 
 
 The delivery of the parcel related to this order or order item.
 
 Relation describes that: 
-[ #has_/domain  :: Order, OrderItem]
-( #has_/name :: is_order_delivery)
-( #has_/range :: ParcelDelivery)
+[ #has_/domain  :: Order, OrderItem ]
+( #has_/name :: is_order_delivery )
+( #has_/range :: ParcelDelivery )
 

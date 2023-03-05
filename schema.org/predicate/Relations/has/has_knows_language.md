@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_knows_language
 
 linkTitle: has_knows_language
-keywords: 
+keywords: [knows, language]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_knows_language
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_knows_language :: Language, Text] or 
-- [ has_knows_language :: Language, Text] 
+- [ #has/_knows_language :: Language, Text ] or 
+- [ has_knows_language :: Language, Text ] 
 
 Of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Person&quot;&gt;Person&lt;/a&gt;, and less typically of an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Organization&quot;&gt;Organization&lt;/a&gt;, to indicate a known language. We do not distinguish skill levels or reading/writing/speaking/signing here. Use language codes from the &lt;a href&#x3D;&quot;http://tools.ietf.org/html/bcp47&quot;&gt;IETF BCP 47 standard&lt;/a&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person]
-( #has_/name :: is_knows_language)
-( #has_/range :: Language, Text)
+[ #has_/domain  :: Organization, Person ]
+( #has_/name :: is_knows_language )
+( #has_/range :: Language, Text )
 

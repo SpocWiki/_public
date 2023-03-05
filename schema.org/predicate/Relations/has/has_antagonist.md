@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_antagonist
 
 linkTitle: has_antagonist
-keywords: 
+keywords: [antagonist]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_antagonist :: Muscle] or 
-- [ has_antagonist :: Muscle] 
+- [ #has/_antagonist :: Muscle ] or 
+- [ has_antagonist :: Muscle ] 
 
 The muscle whose action counteracts the specified muscle.
 
 Relation describes that: 
-[ #has_/domain  :: Muscle]
-( #has_/name :: is_antagonist)
-( #has_/range :: Muscle)
+[ #has_/domain  :: Muscle ]
+( #has_/name :: is_antagonist )
+( #has_/range :: Muscle )
 

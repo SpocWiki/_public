@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_parent_service
 
 linkTitle: has_parent_service
-keywords: 
+keywords: [parent, service]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_parent_service :: BroadcastService] or 
-- [ has_parent_service :: BroadcastService] 
+- [ #has/_parent_service :: BroadcastService ] or 
+- [ has_parent_service :: BroadcastService ] 
 
 A broadcast service to which the broadcast service may belong to such as regional variations of a national channel.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastService]
-( #has_/name :: is_parent_service)
-( #has_/range :: BroadcastService)
+[ #has_/domain  :: BroadcastService ]
+( #has_/name :: is_parent_service )
+( #has_/range :: BroadcastService )
 

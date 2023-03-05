@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_drains_to
 
 linkTitle: has_drains_to
-keywords: 
+keywords: [drains, to]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_drains_to :: Vessel] or 
-- [ has_drains_to :: Vessel] 
+- [ #has/_drains_to :: Vessel ] or 
+- [ has_drains_to :: Vessel ] 
 
 The vasculature that the vein drains into.
 
 Relation describes that: 
-[ #has_/domain  :: Vein]
-( #has_/name :: is_drains_to)
-( #has_/range :: Vessel)
+[ #has_/domain  :: Vein ]
+( #has_/name :: is_drains_to )
+( #has_/range :: Vessel )
 

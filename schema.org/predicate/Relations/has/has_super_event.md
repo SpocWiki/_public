@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_super_event
 
 linkTitle: has_super_event
-keywords: 
+keywords: [super, event]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_super_event :: Event] or 
-- [ has_super_event :: Event] 
+- [ #has/_super_event :: Event ] or 
+- [ has_super_event :: Event ] 
 
 An event that this event is a part of. For example, a collection of individual music performances might each have a music festival as their superEvent.
 
 Relation describes that: 
-[ #has_/domain  :: Event]
-( #has_/name :: is_super_event)
-( #has_/range :: Event)
+[ #has_/domain  :: Event ]
+( #has_/name :: is_super_event )
+( #has_/range :: Event )
 
-[ #is_/inverse_of  :: subEvent]
+[ #is_/inverse_of  :: subEvent ]
 

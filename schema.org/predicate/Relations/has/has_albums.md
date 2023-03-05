@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_albums
 
 linkTitle: has_albums
-keywords: 
+keywords: [albums]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_albums :: MusicAlbum] or 
-- [ has_albums :: MusicAlbum] 
+- [ #has/_albums :: MusicAlbum ] or 
+- [ has_albums :: MusicAlbum ] 
 
 A collection of music albums.
 
 Relation describes that: 
-[ #has_/domain  :: MusicGroup]
-( #has_/name :: is_albums)
-( #has_/range :: MusicAlbum)
+[ #has_/domain  :: MusicGroup ]
+( #has_/name :: is_albums )
+( #has_/range :: MusicAlbum )
 

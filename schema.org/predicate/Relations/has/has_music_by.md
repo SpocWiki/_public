@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_music_by
 
 linkTitle: has_music_by
-keywords: 
+keywords: [music, by]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_music_by :: MusicGroup, Person] or 
-- [ has_music_by :: MusicGroup, Person] 
+- [ #has/_music_by :: MusicGroup, Person ] or 
+- [ has_music_by :: MusicGroup, Person ] 
 
 The composer of the soundtrack.
 
 Relation describes that: 
-[ #has_/domain  :: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject]
-( #has_/name :: is_music_by)
-( #has_/range :: MusicGroup, Person)
+[ #has_/domain  :: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject ]
+( #has_/name :: is_music_by )
+( #has_/range :: MusicGroup, Person )
 

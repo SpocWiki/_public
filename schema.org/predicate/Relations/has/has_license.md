@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_license
 
 linkTitle: has_license
-keywords: 
+keywords: [license]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_license :: CreativeWork, URL] or 
-- [ has_license :: CreativeWork, URL] 
+- [ #has/_license :: CreativeWork, URL ] or 
+- [ has_license :: CreativeWork, URL ] 
 
 A license document that applies to this content, typically indicated by URL.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_license)
-( #has_/range :: CreativeWork, URL)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_license )
+( #has_/range :: CreativeWork, URL )
 

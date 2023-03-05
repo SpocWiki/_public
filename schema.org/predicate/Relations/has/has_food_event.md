@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_food_event
 
 linkTitle: has_food_event
-keywords: 
+keywords: [food, event]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_food_event :: FoodEvent] or 
-- [ has_food_event :: FoodEvent] 
+- [ #has/_food_event :: FoodEvent ] or 
+- [ has_food_event :: FoodEvent ] 
 
 A sub property of location. The specific food event where the action occurred.
 
 Relation describes that: 
-[ #has_/domain  :: CookAction]
-( #has_/name :: is_food_event)
-( #has_/range :: FoodEvent)
+[ #has_/domain  :: CookAction ]
+( #has_/name :: is_food_event )
+( #has_/range :: FoodEvent )
 
-[ #is_/sub_property_of  :: location]
+[ #is_/sub_property_of  :: location ]
 

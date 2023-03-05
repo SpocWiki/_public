@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_original_media_link
 
 linkTitle: has_original_media_link
-keywords: 
+keywords: [original, media, link]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_original_media_link
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_original_media_link :: MediaObject, URL, WebPage] or 
-- [ has_original_media_link :: MediaObject, URL, WebPage] 
+- [ #has/_original_media_link :: MediaObject, URL, WebPage ] or 
+- [ has_original_media_link :: MediaObject, URL, WebPage ] 
 
 Link to the page containing an original version of the content, or directly to an online copy of the original &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaObject&quot;&gt;MediaObject&lt;/a&gt; content, e.g. video file.
 
 Relation describes that: 
-[ #has_/domain  :: MediaReview]
-( #has_/name :: is_original_media_link)
-( #has_/range :: MediaObject, URL, WebPage)
+[ #has_/domain  :: MediaReview ]
+( #has_/name :: is_original_media_link )
+( #has_/range :: MediaObject, URL, WebPage )
 

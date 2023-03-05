@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_merchant
 
 linkTitle: has_merchant
-keywords: 
+keywords: [merchant]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_merchant :: Organization, Person] or 
-- [ has_merchant :: Organization, Person] 
+- [ #has/_merchant :: Organization, Person ] or 
+- [ has_merchant :: Organization, Person ] 
 
 &#x27;merchant&#x27; is an out-dated term for &#x27;seller&#x27;.
 
 Relation describes that: 
-[ #has_/domain  :: Order]
-( #has_/name :: is_merchant)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Order ]
+( #has_/name :: is_merchant )
+( #has_/range :: Organization, Person )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_included_in_data_catalog
 
 linkTitle: has_included_in_data_catalog
-keywords: 
+keywords: [included, in, data, catalog]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_included_in_data_catalog :: DataCatalog] or 
-- [ has_included_in_data_catalog :: DataCatalog] 
+- [ #has/_included_in_data_catalog :: DataCatalog ] or 
+- [ has_included_in_data_catalog :: DataCatalog ] 
 
 A data catalog which contains this dataset.
 
 Relation describes that: 
-[ #has_/domain  :: Dataset]
-( #has_/name :: is_included_in_data_catalog)
-( #has_/range :: DataCatalog)
+[ #has_/domain  :: Dataset ]
+( #has_/name :: is_included_in_data_catalog )
+( #has_/range :: DataCatalog )
 
-[ #is_/inverse_of  :: dataset]
+[ #is_/inverse_of  :: dataset ]
 

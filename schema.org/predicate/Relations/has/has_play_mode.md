@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_play_mode
 
 linkTitle: has_play_mode
-keywords: 
+keywords: [play, mode]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_play_mode :: GamePlayMode] or 
-- [ has_play_mode :: GamePlayMode] 
+- [ #has/_play_mode :: GamePlayMode ] or 
+- [ has_play_mode :: GamePlayMode ] 
 
 Indicates whether this game is multi-player, co-op or single-player.  The game can be marked as multi-player, co-op and single-player at the same time.
 
 Relation describes that: 
-[ #has_/domain  :: VideoGame, VideoGameSeries]
-( #has_/name :: is_play_mode)
-( #has_/range :: GamePlayMode)
+[ #has_/domain  :: VideoGame, VideoGameSeries ]
+( #has_/name :: is_play_mode )
+( #has_/range :: GamePlayMode )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_drive_wheel_configuration
 
 linkTitle: has_drive_wheel_configuration
-keywords: 
+keywords: [drive, wheel, configuration]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_drive_wheel_configuration :: DriveWheelConfigurationValue, Text] or 
-- [ has_drive_wheel_configuration :: DriveWheelConfigurationValue, Text] 
+- [ #has/_drive_wheel_configuration :: DriveWheelConfigurationValue, Text ] or 
+- [ has_drive_wheel_configuration :: DriveWheelConfigurationValue, Text ] 
 
 The drive wheel configuration, i.e. which roadwheels will receive torque from the vehicle&#x27;s engine via the drivetrain.
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle]
-( #has_/name :: is_drive_wheel_configuration)
-( #has_/range :: DriveWheelConfigurationValue, Text)
+[ #has_/domain  :: Vehicle ]
+( #has_/name :: is_drive_wheel_configuration )
+( #has_/range :: DriveWheelConfigurationValue, Text )
 

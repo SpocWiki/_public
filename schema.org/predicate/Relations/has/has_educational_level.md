@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_educational_level
 
 linkTitle: has_educational_level
-keywords: 
+keywords: [educational, level]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_educational_level
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_educational_level :: DefinedTerm, Text, URL] or 
-- [ has_educational_level :: DefinedTerm, Text, URL] 
+- [ #has/_educational_level :: DefinedTerm, Text, URL ] or 
+- [ has_educational_level :: DefinedTerm, Text, URL ] 
 
 The level in terms of progression through an educational or training context. Examples of educational levels include &#x27;beginner&#x27;, &#x27;intermediate&#x27; or &#x27;advanced&#x27;, and formal sets of level indicators.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, EducationEvent, EducationalOccupationalCredential, LearningResource]
-( #has_/name :: is_educational_level)
-( #has_/range :: DefinedTerm, Text, URL)
+[ #has_/domain  :: CreativeWork, EducationEvent, EducationalOccupationalCredential, LearningResource ]
+( #has_/name :: is_educational_level )
+( #has_/range :: DefinedTerm, Text, URL )
 

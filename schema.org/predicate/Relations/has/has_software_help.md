@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_software_help
 
 linkTitle: has_software_help
-keywords: 
+keywords: [software, help]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_software_help :: CreativeWork] or 
-- [ has_software_help :: CreativeWork] 
+- [ #has/_software_help :: CreativeWork ] or 
+- [ has_software_help :: CreativeWork ] 
 
 Software application help.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication]
-( #has_/name :: is_software_help)
-( #has_/range :: CreativeWork)
+[ #has_/domain  :: SoftwareApplication ]
+( #has_/name :: is_software_help )
+( #has_/range :: CreativeWork )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_primary_prevention
 
 linkTitle: has_primary_prevention
-keywords: 
+keywords: [primary, prevention]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_primary_prevention :: MedicalTherapy] or 
-- [ has_primary_prevention :: MedicalTherapy] 
+- [ #has/_primary_prevention :: MedicalTherapy ] or 
+- [ has_primary_prevention :: MedicalTherapy ] 
 
 A preventative therapy used to prevent an initial occurrence of the medical condition, such as vaccination.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition]
-( #has_/name :: is_primary_prevention)
-( #has_/range :: MedicalTherapy)
+[ #has_/domain  :: MedicalCondition ]
+( #has_/name :: is_primary_prevention )
+( #has_/range :: MedicalTherapy )
 

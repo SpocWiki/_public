@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_interaction_type
 
 linkTitle: has_interaction_type
-keywords: 
+keywords: [interaction, type]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_interaction_type :: Action] or 
-- [ has_interaction_type :: Action] 
+- [ #has/_interaction_type :: Action ] or 
+- [ has_interaction_type :: Action ] 
 
 The Action representing the type of interaction. For up votes, +1s, etc. use &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/LikeAction&quot;&gt;LikeAction&lt;/a&gt;. For down votes use &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/DislikeAction&quot;&gt;DislikeAction&lt;/a&gt;. Otherwise, use the most specific Action.
 
 Relation describes that: 
-[ #has_/domain  :: InteractionCounter]
-( #has_/name :: is_interaction_type)
-( #has_/range :: Action)
+[ #has_/domain  :: InteractionCounter ]
+( #has_/name :: is_interaction_type )
+( #has_/range :: Action )
 

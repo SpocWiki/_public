@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_media_item_appearance
 
 linkTitle: has_media_item_appearance
-keywords: 
+keywords: [media, item, appearance]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_media_item_appearance
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_media_item_appearance :: MediaObject] or 
-- [ has_media_item_appearance :: MediaObject] 
+- [ #has/_media_item_appearance :: MediaObject ] or 
+- [ has_media_item_appearance :: MediaObject ] 
 
 In the context of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaReview&quot;&gt;MediaReview&lt;/a&gt;, indicates specific media item(s) that are grouped using a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaReviewItem&quot;&gt;MediaReviewItem&lt;/a&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: MediaReviewItem]
-( #has_/name :: is_media_item_appearance)
-( #has_/range :: MediaObject)
+[ #has_/domain  :: MediaReviewItem ]
+( #has_/name :: is_media_item_appearance )
+( #has_/range :: MediaObject )
 

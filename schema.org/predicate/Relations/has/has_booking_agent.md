@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_booking_agent
 
 linkTitle: has_booking_agent
-keywords: 
+keywords: [booking, agent]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_booking_agent :: Organization, Person] or 
-- [ has_booking_agent :: Organization, Person] 
+- [ #has/_booking_agent :: Organization, Person ] or 
+- [ has_booking_agent :: Organization, Person ] 
 
 &#x27;bookingAgent&#x27; is an out-dated term indicating a &#x27;broker&#x27; that serves as a booking agent.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation]
-( #has_/name :: is_booking_agent)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Reservation ]
+( #has_/name :: is_booking_agent )
+( #has_/range :: Organization, Person )
 

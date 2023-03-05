@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_merchant_return_policy
 
 linkTitle: has_merchant_return_policy
-keywords: 
+keywords: [merchant, return, policy]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_merchant_return_policy
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_merchant_return_policy :: MerchantReturnPolicy] or 
-- [ has_merchant_return_policy :: MerchantReturnPolicy] 
+- [ #has/_merchant_return_policy :: MerchantReturnPolicy ] or 
+- [ has_merchant_return_policy :: MerchantReturnPolicy ] 
 
 Specifies a MerchantReturnPolicy that may be applicable.
 
 Relation describes that: 
-[ #has_/domain  :: Offer, Organization, Product]
-( #has_/name :: is_merchant_return_policy)
-( #has_/range :: MerchantReturnPolicy)
+[ #has_/domain  :: Offer, Organization, Product ]
+( #has_/name :: is_merchant_return_policy )
+( #has_/range :: MerchantReturnPolicy )
 

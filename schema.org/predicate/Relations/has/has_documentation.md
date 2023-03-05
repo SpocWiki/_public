@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_documentation
 
 linkTitle: has_documentation
-keywords: 
+keywords: [documentation]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_documentation
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_documentation :: CreativeWork, URL] or 
-- [ has_documentation :: CreativeWork, URL] 
+- [ #has/_documentation :: CreativeWork, URL ] or 
+- [ has_documentation :: CreativeWork, URL ] 
 
 Further documentation describing the Web API in more detail.
 
 Relation describes that: 
-[ #has_/domain  :: WebAPI]
-( #has_/name :: is_documentation)
-( #has_/range :: CreativeWork, URL)
+[ #has_/domain  :: WebAPI ]
+( #has_/name :: is_documentation )
+( #has_/range :: CreativeWork, URL )
 

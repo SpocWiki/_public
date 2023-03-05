@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_employees
 
 linkTitle: has_employees
-keywords: 
+keywords: [employees]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_employees :: Person] or 
-- [ has_employees :: Person] 
+- [ #has/_employees :: Person ] or 
+- [ has_employees :: Person ] 
 
 People working for this organization.
 
 Relation describes that: 
-[ #has_/domain  :: Organization]
-( #has_/name :: is_employees)
-( #has_/range :: Person)
+[ #has_/domain  :: Organization ]
+( #has_/name :: is_employees )
+( #has_/range :: Person )
 

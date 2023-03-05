@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sub_structure
 
 linkTitle: has_sub_structure
-keywords: 
+keywords: [sub, structure]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sub_structure :: AnatomicalStructure] or 
-- [ has_sub_structure :: AnatomicalStructure] 
+- [ #has/_sub_structure :: AnatomicalStructure ] or 
+- [ has_sub_structure :: AnatomicalStructure ] 
 
 Component (sub-)structure(s) that comprise this anatomical structure.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure]
-( #has_/name :: is_sub_structure)
-( #has_/range :: AnatomicalStructure)
+[ #has_/domain  :: AnatomicalStructure ]
+( #has_/name :: is_sub_structure )
+( #has_/range :: AnatomicalStructure )
 

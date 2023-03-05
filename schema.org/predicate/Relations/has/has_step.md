@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_step
 
 linkTitle: has_step
-keywords: 
+keywords: [step]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_step :: CreativeWork, HowToSection, HowToStep, Text] or 
-- [ has_step :: CreativeWork, HowToSection, HowToStep, Text] 
+- [ #has/_step :: CreativeWork, HowToSection, HowToStep, Text ] or 
+- [ has_step :: CreativeWork, HowToSection, HowToStep, Text ] 
 
 A single step item (as HowToStep, text, document, video, etc.) or a HowToSection.
 
 Relation describes that: 
-[ #has_/domain  :: HowTo]
-( #has_/name :: is_step)
-( #has_/range :: CreativeWork, HowToSection, HowToStep, Text)
+[ #has_/domain  :: HowTo ]
+( #has_/name :: is_step )
+( #has_/range :: CreativeWork, HowToSection, HowToStep, Text )
 
-[ #has_/sub_properties :: recipeInstructions]
+[ #has_/sub_properties :: [ recipeInstructions ] ]
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_warranty_promise
 
 linkTitle: has_warranty_promise
-keywords: 
+keywords: [warranty, promise]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_warranty_promise :: WarrantyPromise] or 
-- [ has_warranty_promise :: WarrantyPromise] 
+- [ #has/_warranty_promise :: WarrantyPromise ] or 
+- [ has_warranty_promise :: WarrantyPromise ] 
 
 The warranty promise(s) included in the offer.
 
 Relation describes that: 
-[ #has_/domain  :: BuyAction, SellAction]
-( #has_/name :: is_warranty_promise)
-( #has_/range :: WarrantyPromise)
+[ #has_/domain  :: BuyAction, SellAction ]
+( #has_/name :: is_warranty_promise )
+( #has_/range :: WarrantyPromise )
 

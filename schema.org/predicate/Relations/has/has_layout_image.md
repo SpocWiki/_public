@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_layout_image
 
 linkTitle: has_layout_image
-keywords: 
+keywords: [layout, image]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_layout_image
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_layout_image :: ImageObject, URL] or 
-- [ has_layout_image :: ImageObject, URL] 
+- [ #has/_layout_image :: ImageObject, URL ] or 
+- [ has_layout_image :: ImageObject, URL ] 
 
 A schematic image showing the floorplan layout.
 
 Relation describes that: 
-[ #has_/domain  :: FloorPlan]
-( #has_/name :: is_layout_image)
-( #has_/range :: ImageObject, URL)
+[ #has_/domain  :: FloorPlan ]
+( #has_/name :: is_layout_image )
+( #has_/range :: ImageObject, URL )
 
-[ #is_/sub_property_of  :: image]
+[ #is_/sub_property_of  :: image ]
 

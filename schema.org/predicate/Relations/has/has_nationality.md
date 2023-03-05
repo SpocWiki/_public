@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_nationality
 
 linkTitle: has_nationality
-keywords: 
+keywords: [nationality]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_nationality :: Country] or 
-- [ has_nationality :: Country] 
+- [ #has/_nationality :: Country ] or 
+- [ has_nationality :: Country ] 
 
 Nationality of the person.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_nationality)
-( #has_/range :: Country)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_nationality )
+( #has_/range :: Country )
 

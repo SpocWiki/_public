@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_refund_type
 
 linkTitle: has_refund_type
-keywords: 
+keywords: [refund, type]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_refund_type
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_refund_type :: RefundTypeEnumeration] or 
-- [ has_refund_type :: RefundTypeEnumeration] 
+- [ #has/_refund_type :: RefundTypeEnumeration ] or 
+- [ has_refund_type :: RefundTypeEnumeration ] 
 
 A refund type, from an enumerated list.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy]
-( #has_/name :: is_refund_type)
-( #has_/range :: RefundTypeEnumeration)
+[ #has_/domain  :: MerchantReturnPolicy ]
+( #has_/name :: is_refund_type )
+( #has_/range :: RefundTypeEnumeration )
 

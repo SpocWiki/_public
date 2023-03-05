@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_work_featured
 
 linkTitle: has_work_featured
-keywords: 
+keywords: [work, featured]
 layout: 
 draft: false
 publishDate:
@@ -33,16 +33,16 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_work_featured :: CreativeWork] or 
-- [ has_work_featured :: CreativeWork] 
+- [ #has/_work_featured :: CreativeWork ] or 
+- [ has_work_featured :: CreativeWork ] 
 
 A work featured in some event, e.g. exhibited in an ExhibitionEvent.
        Specific subproperties are available for workPerformed (e.g. a play), or a workPresented (a Movie at a ScreeningEvent).
 
 Relation describes that: 
-[ #has_/domain  :: Event]
-( #has_/name :: is_work_featured)
-( #has_/range :: CreativeWork)
+[ #has_/domain  :: Event ]
+( #has_/name :: is_work_featured )
+( #has_/range :: CreativeWork )
 
-[ #has_/sub_properties :: workPerformed, workPresented]
+[ #has_/sub_properties :: [ workPerformed, workPresented ] ]
 

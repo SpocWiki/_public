@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_target
 
 linkTitle: has_target
-keywords: 
+keywords: [target]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_target :: EntryPoint, URL] or 
-- [ has_target :: EntryPoint, URL] 
+- [ #has/_target :: EntryPoint, URL ] or 
+- [ has_target :: EntryPoint, URL ] 
 
 Indicates a target EntryPoint, or url, for an Action.
 
 Relation describes that: 
-[ #has_/domain  :: Action]
-( #has_/name :: is_target)
-( #has_/range :: EntryPoint, URL)
+[ #has_/domain  :: Action ]
+( #has_/name :: is_target )
+( #has_/range :: EntryPoint, URL )
 

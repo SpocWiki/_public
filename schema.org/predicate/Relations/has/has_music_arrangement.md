@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_music_arrangement
 
 linkTitle: has_music_arrangement
-keywords: 
+keywords: [music, arrangement]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_music_arrangement :: MusicComposition] or 
-- [ has_music_arrangement :: MusicComposition] 
+- [ #has/_music_arrangement :: MusicComposition ] or 
+- [ has_music_arrangement :: MusicComposition ] 
 
 An arrangement derived from the composition.
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition]
-( #has_/name :: is_music_arrangement)
-( #has_/range :: MusicComposition)
+[ #has_/domain  :: MusicComposition ]
+( #has_/name :: is_music_arrangement )
+( #has_/range :: MusicComposition )
 

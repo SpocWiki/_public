@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_recorded_at
 
 linkTitle: has_recorded_at
-keywords: 
+keywords: [recorded, at]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recorded_at :: Event] or 
-- [ has_recorded_at :: Event] 
+- [ #has/_recorded_at :: Event ] or 
+- [ has_recorded_at :: Event ] 
 
 The Event where the CreativeWork was recorded. The CreativeWork may capture all or part of the event.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_recorded_at)
-( #has_/range :: Event)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_recorded_at )
+( #has_/range :: Event )
 
-[ #is_/inverse_of  :: recordedIn]
+[ #is_/inverse_of  :: recordedIn ]
 

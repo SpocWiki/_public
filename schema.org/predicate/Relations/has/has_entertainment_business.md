@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_entertainment_business
 
 linkTitle: has_entertainment_business
-keywords: 
+keywords: [entertainment, business]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_entertainment_business :: EntertainmentBusiness] or 
-- [ has_entertainment_business :: EntertainmentBusiness] 
+- [ #has/_entertainment_business :: EntertainmentBusiness ] or 
+- [ has_entertainment_business :: EntertainmentBusiness ] 
 
 A sub property of location. The entertainment business where the action occurred.
 
 Relation describes that: 
-[ #has_/domain  :: PerformAction]
-( #has_/name :: is_entertainment_business)
-( #has_/range :: EntertainmentBusiness)
+[ #has_/domain  :: PerformAction ]
+( #has_/name :: is_entertainment_business )
+( #has_/range :: EntertainmentBusiness )
 
-[ #is_/sub_property_of  :: location]
+[ #is_/sub_property_of  :: location ]
 

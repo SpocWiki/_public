@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_instrument
 
 linkTitle: has_instrument
-keywords: 
+keywords: [instrument]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_instrument :: Thing] or 
-- [ has_instrument :: Thing] 
+- [ #has/_instrument :: Thing ] or 
+- [ has_instrument :: Thing ] 
 
 The object that helped the agent perform the action. E.g. John wrote a book with &lt;em&gt;a pen&lt;/em&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: Action]
-( #has_/name :: is_instrument)
-( #has_/range :: Thing)
+[ #has_/domain  :: Action ]
+( #has_/name :: is_instrument )
+( #has_/range :: Thing )
 
-[ #has_/sub_properties :: deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool]
+[ #has_/sub_properties :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ] ]
 

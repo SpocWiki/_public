@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_breadcrumb
 
 linkTitle: has_breadcrumb
-keywords: 
+keywords: [breadcrumb]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_breadcrumb :: BreadcrumbList, Text] or 
-- [ has_breadcrumb :: BreadcrumbList, Text] 
+- [ #has/_breadcrumb :: BreadcrumbList, Text ] or 
+- [ has_breadcrumb :: BreadcrumbList, Text ] 
 
 A set of links that can help a user understand and navigate a website hierarchy.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage]
-( #has_/name :: is_breadcrumb)
-( #has_/range :: BreadcrumbList, Text)
+[ #has_/domain  :: WebPage ]
+( #has_/name :: is_breadcrumb )
+( #has_/range :: BreadcrumbList, Text )
 

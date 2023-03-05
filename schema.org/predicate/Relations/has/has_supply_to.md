@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_supply_to
 
 linkTitle: has_supply_to
-keywords: 
+keywords: [supply, to]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_supply_to :: AnatomicalStructure] or 
-- [ has_supply_to :: AnatomicalStructure] 
+- [ #has/_supply_to :: AnatomicalStructure ] or 
+- [ has_supply_to :: AnatomicalStructure ] 
 
 The area to which the artery supplies blood.
 
 Relation describes that: 
-[ #has_/domain  :: Artery]
-( #has_/name :: is_supply_to)
-( #has_/range :: AnatomicalStructure)
+[ #has_/domain  :: Artery ]
+( #has_/name :: is_supply_to )
+( #has_/range :: AnatomicalStructure )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_owns
 
 linkTitle: has_owns
-keywords: 
+keywords: [owns]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_owns :: OwnershipInfo, Product] or 
-- [ has_owns :: OwnershipInfo, Product] 
+- [ #has/_owns :: OwnershipInfo, Product ] or 
+- [ has_owns :: OwnershipInfo, Product ] 
 
 Products owned by the organization or person.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person]
-( #has_/name :: is_owns)
-( #has_/range :: OwnershipInfo, Product)
+[ #has_/domain  :: Organization, Person ]
+( #has_/name :: is_owns )
+( #has_/range :: OwnershipInfo, Product )
 

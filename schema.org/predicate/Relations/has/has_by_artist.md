@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_by_artist
 
 linkTitle: has_by_artist
-keywords: 
+keywords: [by, artist]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_by_artist :: MusicGroup, Person] or 
-- [ has_by_artist :: MusicGroup, Person] 
+- [ #has/_by_artist :: MusicGroup, Person ] or 
+- [ has_by_artist :: MusicGroup, Person ] 
 
 The artist that performed this album or recording.
 
 Relation describes that: 
-[ #has_/domain  :: MusicAlbum, MusicRecording]
-( #has_/name :: is_by_artist)
-( #has_/range :: MusicGroup, Person)
+[ #has_/domain  :: MusicAlbum, MusicRecording ]
+( #has_/name :: is_by_artist )
+( #has_/range :: MusicGroup, Person )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_lyricist
 
 linkTitle: has_lyricist
-keywords: 
+keywords: [lyricist]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lyricist :: Person] or 
-- [ has_lyricist :: Person] 
+- [ #has/_lyricist :: Person ] or 
+- [ has_lyricist :: Person ] 
 
 The person who wrote the words.
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition]
-( #has_/name :: is_lyricist)
-( #has_/range :: Person)
+[ #has_/domain  :: MusicComposition ]
+( #has_/name :: is_lyricist )
+( #has_/range :: Person )
 

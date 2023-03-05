@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_vehicle_engine
 
 linkTitle: has_vehicle_engine
-keywords: 
+keywords: [vehicle, engine]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_vehicle_engine :: EngineSpecification] or 
-- [ has_vehicle_engine :: EngineSpecification] 
+- [ #has/_vehicle_engine :: EngineSpecification ] or 
+- [ has_vehicle_engine :: EngineSpecification ] 
 
 Information about the engine or engines of the vehicle.
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle]
-( #has_/name :: is_vehicle_engine)
-( #has_/range :: EngineSpecification)
+[ #has_/domain  :: Vehicle ]
+( #has_/name :: is_vehicle_engine )
+( #has_/range :: EngineSpecification )
 

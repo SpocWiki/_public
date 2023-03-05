@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_subject_of
 
 linkTitle: has_subject_of
-keywords: 
+keywords: [subject, of]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_subject_of :: CreativeWork, Event] or 
-- [ has_subject_of :: CreativeWork, Event] 
+- [ #has/_subject_of :: CreativeWork, Event ] or 
+- [ has_subject_of :: CreativeWork, Event ] 
 
 A CreativeWork or Event about this Thing.
 
 Relation describes that: 
-[ #has_/domain  :: Thing]
-( #has_/name :: is_subject_of)
-( #has_/range :: CreativeWork, Event)
+[ #has_/domain  :: Thing ]
+( #has_/name :: is_subject_of )
+( #has_/range :: CreativeWork, Event )
 
-[ #is_/inverse_of  :: about]
+[ #is_/inverse_of  :: about ]
 

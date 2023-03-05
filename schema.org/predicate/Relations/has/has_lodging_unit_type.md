@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_lodging_unit_type
 
 linkTitle: has_lodging_unit_type
-keywords: 
+keywords: [lodging, unit, type]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lodging_unit_type :: QualitativeValue, Text] or 
-- [ has_lodging_unit_type :: QualitativeValue, Text] 
+- [ #has/_lodging_unit_type :: QualitativeValue, Text ] or 
+- [ has_lodging_unit_type :: QualitativeValue, Text ] 
 
 Textual description of the unit type (including suite vs. room, size of bed, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: LodgingReservation]
-( #has_/name :: is_lodging_unit_type)
-( #has_/range :: QualitativeValue, Text)
+[ #has_/domain  :: LodgingReservation ]
+( #has_/name :: is_lodging_unit_type )
+( #has_/range :: QualitativeValue, Text )
 

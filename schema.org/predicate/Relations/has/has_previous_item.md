@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_previous_item
 
 linkTitle: has_previous_item
-keywords: 
+keywords: [previous, item]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_previous_item :: ListItem] or 
-- [ has_previous_item :: ListItem] 
+- [ #has/_previous_item :: ListItem ] or 
+- [ has_previous_item :: ListItem ] 
 
 A link to the ListItem that precedes the current one.
 
 Relation describes that: 
-[ #has_/domain  :: ListItem]
-( #has_/name :: is_previous_item)
-( #has_/range :: ListItem)
+[ #has_/domain  :: ListItem ]
+( #has_/name :: is_previous_item )
+( #has_/range :: ListItem )
 

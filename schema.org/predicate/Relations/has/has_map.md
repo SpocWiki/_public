@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_map
 
 linkTitle: has_map
-keywords: 
+keywords: [map]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_map :: Map, URL] or 
-- [ has_map :: Map, URL] 
+- [ #has/_map :: Map, URL ] or 
+- [ has_map :: Map, URL ] 
 
 A URL to a map of the place.
 
 Relation describes that: 
-[ #has_/domain  :: Place]
-( #has_/name :: is_map)
-( #has_/range :: Map, URL)
+[ #has_/domain  :: Place ]
+( #has_/name :: is_map )
+( #has_/range :: Map, URL )
 

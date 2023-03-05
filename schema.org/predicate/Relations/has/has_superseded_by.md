@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_superseded_by
 
 linkTitle: has_superseded_by
-keywords: 
+keywords: [superseded, by]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_superseded_by
 ---
 
-[ #is_/part_of :: https://meta.schema.org]
+[ #is_/part_of :: https://meta.schema.org ]
 
 Use it like this: 
-- [ #has/_superseded_by :: Class, Enumeration, Property] or 
-- [ has_superseded_by :: Class, Enumeration, Property] 
+- [ #has/_superseded_by :: Class, Enumeration, Property ] or 
+- [ has_superseded_by :: Class, Enumeration, Property ] 
 
 Relates a term (i.e. a property, class or enumeration) to one that supersedes it.
 
 Relation describes that: 
-[ #has_/domain  :: Class, Enumeration, Property]
-( #has_/name :: is_superseded_by)
-( #has_/range :: Class, Enumeration, Property)
+[ #has_/domain  :: Class, Enumeration, Property ]
+( #has_/name :: is_superseded_by )
+( #has_/range :: Class, Enumeration, Property )
 

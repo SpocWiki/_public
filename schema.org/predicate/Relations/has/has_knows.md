@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_knows
 
 linkTitle: has_knows
-keywords: 
+keywords: [knows]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_knows :: Person] or 
-- [ has_knows :: Person] 
+- [ #has/_knows :: Person ] or 
+- [ has_knows :: Person ] 
 
 The most generic bi-directional social/work relation.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_knows)
-( #has_/range :: Person)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_knows )
+( #has_/range :: Person )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sibling
 
 linkTitle: has_sibling
-keywords: 
+keywords: [sibling]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sibling :: Person] or 
-- [ has_sibling :: Person] 
+- [ #has/_sibling :: Person ] or 
+- [ has_sibling :: Person ] 
 
 A sibling of the person.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_sibling)
-( #has_/range :: Person)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_sibling )
+( #has_/range :: Person )
 

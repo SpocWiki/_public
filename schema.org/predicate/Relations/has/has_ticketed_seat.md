@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_ticketed_seat
 
 linkTitle: has_ticketed_seat
-keywords: 
+keywords: [ticketed, seat]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_ticketed_seat :: Seat] or 
-- [ has_ticketed_seat :: Seat] 
+- [ #has/_ticketed_seat :: Seat ] or 
+- [ has_ticketed_seat :: Seat ] 
 
 The seat associated with the ticket.
 
 Relation describes that: 
-[ #has_/domain  :: Ticket]
-( #has_/name :: is_ticketed_seat)
-( #has_/range :: Seat)
+[ #has_/domain  :: Ticket ]
+( #has_/name :: is_ticketed_seat )
+( #has_/range :: Seat )
 

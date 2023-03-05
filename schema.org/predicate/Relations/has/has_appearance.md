@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_appearance
 
 linkTitle: has_appearance
-keywords: 
+keywords: [appearance]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_appearance
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_appearance :: CreativeWork] or 
-- [ has_appearance :: CreativeWork] 
+- [ #has/_appearance :: CreativeWork ] or 
+- [ has_appearance :: CreativeWork ] 
 
 Indicates an occurrence of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Claim&quot;&gt;Claim&lt;/a&gt; in some &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/CreativeWork&quot;&gt;CreativeWork&lt;/a&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: Claim]
-( #has_/name :: is_appearance)
-( #has_/range :: CreativeWork)
+[ #has_/domain  :: Claim ]
+( #has_/name :: is_appearance )
+( #has_/range :: CreativeWork )
 
-[ #is_/sub_property_of  :: workExample]
+[ #is_/sub_property_of  :: workExample ]
 

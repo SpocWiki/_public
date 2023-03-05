@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_risk_factor
 
 linkTitle: has_risk_factor
-keywords: 
+keywords: [risk, factor]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_risk_factor :: MedicalRiskFactor] or 
-- [ has_risk_factor :: MedicalRiskFactor] 
+- [ #has/_risk_factor :: MedicalRiskFactor ] or 
+- [ has_risk_factor :: MedicalRiskFactor ] 
 
 A modifiable or non-modifiable factor that increases the risk of a patient contracting this condition, e.g. age,  coexisting condition.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition]
-( #has_/name :: is_risk_factor)
-( #has_/range :: MedicalRiskFactor)
+[ #has_/domain  :: MedicalCondition ]
+( #has_/name :: is_risk_factor )
+( #has_/range :: MedicalRiskFactor )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_included_composition
 
 linkTitle: has_included_composition
-keywords: 
+keywords: [included, composition]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_included_composition :: MusicComposition] or 
-- [ has_included_composition :: MusicComposition] 
+- [ #has/_included_composition :: MusicComposition ] or 
+- [ has_included_composition :: MusicComposition ] 
 
 Smaller compositions included in this work (e.g. a movement in a symphony).
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition]
-( #has_/name :: is_included_composition)
-( #has_/range :: MusicComposition)
+[ #has_/domain  :: MusicComposition ]
+( #has_/name :: is_included_composition )
+( #has_/range :: MusicComposition )
 

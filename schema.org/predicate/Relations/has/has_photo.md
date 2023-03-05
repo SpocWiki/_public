@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_photo
 
 linkTitle: has_photo
-keywords: 
+keywords: [photo]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_photo :: ImageObject, Photograph] or 
-- [ has_photo :: ImageObject, Photograph] 
+- [ #has/_photo :: ImageObject, Photograph ] or 
+- [ has_photo :: ImageObject, Photograph ] 
 
 A photograph of this place.
 
 Relation describes that: 
-[ #has_/domain  :: Place]
-( #has_/name :: is_photo)
-( #has_/range :: ImageObject, Photograph)
+[ #has_/domain  :: Place ]
+( #has_/name :: is_photo )
+( #has_/range :: ImageObject, Photograph )
 
-[ #is_/sub_property_of  :: image]
+[ #is_/sub_property_of  :: image ]
 

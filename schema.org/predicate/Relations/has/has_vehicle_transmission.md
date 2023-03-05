@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_vehicle_transmission
 
 linkTitle: has_vehicle_transmission
-keywords: 
+keywords: [vehicle, transmission]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_vehicle_transmission :: QualitativeValue, Text, URL] or 
-- [ has_vehicle_transmission :: QualitativeValue, Text, URL] 
+- [ #has/_vehicle_transmission :: QualitativeValue, Text, URL ] or 
+- [ has_vehicle_transmission :: QualitativeValue, Text, URL ] 
 
 The type of component used for transmitting the power from a rotating power source to the wheels or other relevant component(s) (&quot;gearbox&quot; for cars).
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle]
-( #has_/name :: is_vehicle_transmission)
-( #has_/range :: QualitativeValue, Text, URL)
+[ #has_/domain  :: Vehicle ]
+( #has_/name :: is_vehicle_transmission )
+( #has_/range :: QualitativeValue, Text, URL )
 

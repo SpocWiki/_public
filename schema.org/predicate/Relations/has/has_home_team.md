@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_home_team
 
 linkTitle: has_home_team
-keywords: 
+keywords: [home, team]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_home_team :: Person, SportsTeam] or 
-- [ has_home_team :: Person, SportsTeam] 
+- [ #has/_home_team :: Person, SportsTeam ] or 
+- [ has_home_team :: Person, SportsTeam ] 
 
 The home team in a sports event.
 
 Relation describes that: 
-[ #has_/domain  :: SportsEvent]
-( #has_/name :: is_home_team)
-( #has_/range :: Person, SportsTeam)
+[ #has_/domain  :: SportsEvent ]
+( #has_/name :: is_home_team )
+( #has_/range :: Person, SportsTeam )
 
-[ #is_/sub_property_of  :: competitor]
+[ #is_/sub_property_of  :: competitor ]
 

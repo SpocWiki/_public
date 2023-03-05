@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_supply
 
 linkTitle: has_supply
-keywords: 
+keywords: [supply]
 layout: 
 draft: false
 publishDate:
@@ -33,17 +33,17 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_supply :: HowToSupply, Text] or 
-- [ has_supply :: HowToSupply, Text] 
+- [ #has/_supply :: HowToSupply, Text ] or 
+- [ has_supply :: HowToSupply, Text ] 
 
 A sub-property of instrument. A supply consumed when performing instructions or a direction.
 
 Relation describes that: 
-[ #has_/domain  :: HowTo, HowToDirection]
-( #has_/name :: is_supply)
-( #has_/range :: HowToSupply, Text)
+[ #has_/domain  :: HowTo, HowToDirection ]
+( #has_/name :: is_supply )
+( #has_/range :: HowToSupply, Text )
 
-[ #is_/sub_property_of  :: instrument]
+[ #is_/sub_property_of  :: instrument ]
 
-[ #has_/sub_properties :: ingredients, recipeIngredient]
+[ #has_/sub_properties :: [ ingredients, recipeIngredient ] ]
 

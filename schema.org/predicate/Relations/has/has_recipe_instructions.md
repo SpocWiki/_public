@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_recipe_instructions
 
 linkTitle: has_recipe_instructions
-keywords: 
+keywords: [recipe, instructions]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recipe_instructions :: CreativeWork, ItemList, Text] or 
-- [ has_recipe_instructions :: CreativeWork, ItemList, Text] 
+- [ #has/_recipe_instructions :: CreativeWork, ItemList, Text ] or 
+- [ has_recipe_instructions :: CreativeWork, ItemList, Text ] 
 
 A step in making the recipe, in the form of a single item (document, video, etc.) or an ordered list with HowToStep and/or HowToSection items.
 
 Relation describes that: 
-[ #has_/domain  :: Recipe]
-( #has_/name :: is_recipe_instructions)
-( #has_/range :: CreativeWork, ItemList, Text)
+[ #has_/domain  :: Recipe ]
+( #has_/name :: is_recipe_instructions )
+( #has_/range :: CreativeWork, ItemList, Text )
 
-[ #is_/sub_property_of  :: step]
+[ #is_/sub_property_of  :: step ]
 

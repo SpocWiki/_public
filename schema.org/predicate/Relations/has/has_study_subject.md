@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_study_subject
 
 linkTitle: has_study_subject
-keywords: 
+keywords: [study, subject]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_study_subject :: MedicalEntity] or 
-- [ has_study_subject :: MedicalEntity] 
+- [ #has/_study_subject :: MedicalEntity ] or 
+- [ has_study_subject :: MedicalEntity ] 
 
 A subject of the study, i.e. one of the medical conditions, therapies, devices, drugs, etc. investigated by the study.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalStudy]
-( #has_/name :: is_study_subject)
-( #has_/range :: MedicalEntity)
+[ #has_/domain  :: MedicalStudy ]
+( #has_/name :: is_study_subject )
+( #has_/range :: MedicalEntity )
 

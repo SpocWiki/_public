@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_translator
 
 linkTitle: has_translator
-keywords: 
+keywords: [translator]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_translator :: Organization, Person] or 
-- [ has_translator :: Organization, Person] 
+- [ #has/_translator :: Organization, Person ] or 
+- [ has_translator :: Organization, Person ] 
 
 Organization or person who adapts a creative work to different languages, regional differences and technical requirements of a target market, or that translates during some event.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Event]
-( #has_/name :: is_translator)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: CreativeWork, Event ]
+( #has_/name :: is_translator )
+( #has_/range :: Organization, Person )
 

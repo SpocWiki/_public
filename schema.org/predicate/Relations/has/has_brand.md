@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_brand
 
 linkTitle: has_brand
-keywords: 
+keywords: [brand]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_brand :: Brand, Organization] or 
-- [ has_brand :: Brand, Organization] 
+- [ #has/_brand :: Brand, Organization ] or 
+- [ has_brand :: Brand, Organization ] 
 
 The brand(s) associated with a product or service, or the brand(s) maintained by an organization or business person.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person, Product, Service]
-( #has_/name :: is_brand)
-( #has_/range :: Brand, Organization)
+[ #has_/domain  :: Organization, Person, Product, Service ]
+( #has_/name :: is_brand )
+( #has_/range :: Brand, Organization )
 

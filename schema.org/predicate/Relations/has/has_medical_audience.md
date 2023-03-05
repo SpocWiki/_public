@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_medical_audience
 
 linkTitle: has_medical_audience
-keywords: 
+keywords: [medical, audience]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_medical_audience :: MedicalAudience, MedicalAudienceType] or 
-- [ has_medical_audience :: MedicalAudience, MedicalAudienceType] 
+- [ #has/_medical_audience :: MedicalAudience, MedicalAudienceType ] or 
+- [ has_medical_audience :: MedicalAudience, MedicalAudienceType ] 
 
 Medical audience for page.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalWebPage]
-( #has_/name :: is_medical_audience)
-( #has_/range :: MedicalAudience, MedicalAudienceType)
+[ #has_/domain  :: MedicalWebPage ]
+( #has_/name :: is_medical_audience )
+( #has_/range :: MedicalAudience, MedicalAudienceType )
 

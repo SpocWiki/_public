@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sourced_from
 
 linkTitle: has_sourced_from
-keywords: 
+keywords: [sourced, from]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sourced_from :: BrainStructure] or 
-- [ has_sourced_from :: BrainStructure] 
+- [ #has/_sourced_from :: BrainStructure ] or 
+- [ has_sourced_from :: BrainStructure ] 
 
 The neurological pathway that originates the neurons.
 
 Relation describes that: 
-[ #has_/domain  :: Nerve]
-( #has_/name :: is_sourced_from)
-( #has_/range :: BrainStructure)
+[ #has_/domain  :: Nerve ]
+( #has_/name :: is_sourced_from )
+( #has_/range :: BrainStructure )
 

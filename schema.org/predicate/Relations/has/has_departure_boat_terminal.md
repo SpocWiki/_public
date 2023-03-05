@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_departure_boat_terminal
 
 linkTitle: has_departure_boat_terminal
-keywords: 
+keywords: [departure, boat, terminal]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_departure_boat_terminal
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_departure_boat_terminal :: BoatTerminal] or 
-- [ has_departure_boat_terminal :: BoatTerminal] 
+- [ #has/_departure_boat_terminal :: BoatTerminal ] or 
+- [ has_departure_boat_terminal :: BoatTerminal ] 
 
 The terminal or port from which the boat departs.
 
 Relation describes that: 
-[ #has_/domain  :: BoatTrip]
-( #has_/name :: is_departure_boat_terminal)
-( #has_/range :: BoatTerminal)
+[ #has_/domain  :: BoatTrip ]
+( #has_/name :: is_departure_boat_terminal )
+( #has_/range :: BoatTerminal )
 

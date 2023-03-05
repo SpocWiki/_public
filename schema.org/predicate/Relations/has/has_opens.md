@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_opens
 
 linkTitle: has_opens
-keywords: 
+keywords: [opens]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_opens :: Time] or 
-- [ has_opens :: Time] 
+- [ #has/_opens :: Time ] or 
+- [ has_opens :: Time ] 
 
 The opening hour of the place or service on the given day(s) of the week.
 
 Relation describes that: 
-[ #has_/domain  :: OpeningHoursSpecification]
-( #has_/name :: is_opens)
-( #has_/range :: Time)
+[ #has_/domain  :: OpeningHoursSpecification ]
+( #has_/name :: is_opens )
+( #has_/range :: Time )
 

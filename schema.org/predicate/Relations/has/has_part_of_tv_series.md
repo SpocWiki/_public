@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_part_of_tv_series
 
 linkTitle: has_part_of_tv_series
-keywords: 
+keywords: [part, of, tv, series]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_part_of_tv_series :: TVSeries] or 
-- [ has_part_of_tv_series :: TVSeries] 
+- [ #has/_part_of_tv_series :: TVSeries ] or 
+- [ has_part_of_tv_series :: TVSeries ] 
 
 The TV series to which this episode or season belongs.
 
 Relation describes that: 
-[ #has_/domain  :: TVClip, TVEpisode, TVSeason]
-( #has_/name :: is_part_of_tv_series)
-( #has_/range :: TVSeries)
+[ #has_/domain  :: TVClip, TVEpisode, TVSeason ]
+( #has_/name :: is_part_of_tv_series )
+( #has_/range :: TVSeries )
 
-[ #is_/sub_property_of  :: isPartOf]
+[ #is_/sub_property_of  :: isPartOf ]
 

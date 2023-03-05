@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_customer
 
 linkTitle: has_customer
-keywords: 
+keywords: [customer]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_customer :: Organization, Person] or 
-- [ has_customer :: Organization, Person] 
+- [ #has/_customer :: Organization, Person ] or 
+- [ has_customer :: Organization, Person ] 
 
 Party placing the order or paying the invoice.
 
 Relation describes that: 
-[ #has_/domain  :: Invoice, Order]
-( #has_/name :: is_customer)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Invoice, Order ]
+( #has_/name :: is_customer )
+( #has_/range :: Organization, Person )
 

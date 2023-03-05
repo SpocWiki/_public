@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_acquired_from
 
 linkTitle: has_acquired_from
-keywords: 
+keywords: [acquired, from]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_acquired_from :: Organization, Person] or 
-- [ has_acquired_from :: Organization, Person] 
+- [ #has/_acquired_from :: Organization, Person ] or 
+- [ has_acquired_from :: Organization, Person ] 
 
 The organization or person from which the product was acquired.
 
 Relation describes that: 
-[ #has_/domain  :: OwnershipInfo]
-( #has_/name :: is_acquired_from)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: OwnershipInfo ]
+( #has_/name :: is_acquired_from )
+( #has_/range :: Organization, Person )
 

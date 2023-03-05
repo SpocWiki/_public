@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_imaging_technique
 
 linkTitle: has_imaging_technique
-keywords: 
+keywords: [imaging, technique]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_imaging_technique :: MedicalImagingTechnique] or 
-- [ has_imaging_technique :: MedicalImagingTechnique] 
+- [ #has/_imaging_technique :: MedicalImagingTechnique ] or 
+- [ has_imaging_technique :: MedicalImagingTechnique ] 
 
 Imaging technique used.
 
 Relation describes that: 
-[ #has_/domain  :: ImagingTest]
-( #has_/name :: is_imaging_technique)
-( #has_/range :: MedicalImagingTechnique)
+[ #has_/domain  :: ImagingTest ]
+( #has_/name :: is_imaging_technique )
+( #has_/range :: MedicalImagingTechnique )
 

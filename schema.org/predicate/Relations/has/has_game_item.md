@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_game_item
 
 linkTitle: has_game_item
-keywords: 
+keywords: [game, item]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_game_item :: Thing] or 
-- [ has_game_item :: Thing] 
+- [ #has/_game_item :: Thing ] or 
+- [ has_game_item :: Thing ] 
 
 An item is an object within the game world that can be collected by a player or, occasionally, a non-player character.
 
 Relation describes that: 
-[ #has_/domain  :: Game, VideoGameSeries]
-( #has_/name :: is_game_item)
-( #has_/range :: Thing)
+[ #has_/domain  :: Game, VideoGameSeries ]
+( #has_/name :: is_game_item )
+( #has_/range :: Thing )
 

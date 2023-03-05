@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_supporting_data
 
 linkTitle: has_supporting_data
-keywords: 
+keywords: [supporting, data]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_supporting_data :: DataFeed] or 
-- [ has_supporting_data :: DataFeed] 
+- [ #has/_supporting_data :: DataFeed ] or 
+- [ has_supporting_data :: DataFeed ] 
 
 Supporting data for a SoftwareApplication.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication]
-( #has_/name :: is_supporting_data)
-( #has_/range :: DataFeed)
+[ #has_/domain  :: SoftwareApplication ]
+( #has_/name :: is_supporting_data )
+( #has_/range :: DataFeed )
 

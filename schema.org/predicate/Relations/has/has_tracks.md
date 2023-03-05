@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_tracks
 
 linkTitle: has_tracks
-keywords: 
+keywords: [tracks]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_tracks :: MusicRecording] or 
-- [ has_tracks :: MusicRecording] 
+- [ #has/_tracks :: MusicRecording ] or 
+- [ has_tracks :: MusicRecording ] 
 
 A music recording (track)&amp;#x2014;usually a single song.
 
 Relation describes that: 
-[ #has_/domain  :: MusicGroup, MusicPlaylist]
-( #has_/name :: is_tracks)
-( #has_/range :: MusicRecording)
+[ #has_/domain  :: MusicGroup, MusicPlaylist ]
+( #has_/name :: is_tracks )
+( #has_/range :: MusicRecording )
 

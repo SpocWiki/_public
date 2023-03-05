@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_program_membership_used
 
 linkTitle: has_program_membership_used
-keywords: 
+keywords: [program, membership, used]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_program_membership_used :: ProgramMembership] or 
-- [ has_program_membership_used :: ProgramMembership] 
+- [ #has/_program_membership_used :: ProgramMembership ] or 
+- [ has_program_membership_used :: ProgramMembership ] 
 
 Any membership in a frequent flyer, hotel loyalty program, etc. being applied to the reservation.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation]
-( #has_/name :: is_program_membership_used)
-( #has_/range :: ProgramMembership)
+[ #has_/domain  :: Reservation ]
+( #has_/name :: is_program_membership_used )
+( #has_/range :: ProgramMembership )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_member
 
 linkTitle: has_member
-keywords: 
+keywords: [member]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_member :: Organization, Person] or 
-- [ has_member :: Organization, Person] 
+- [ #has/_member :: Organization, Person ] or 
+- [ has_member :: Organization, Person ] 
 
 A member of an Organization or a ProgramMembership. Organizations can be members of organizations; ProgramMembership is typically for individuals.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, ProgramMembership]
-( #has_/name :: is_member)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Organization, ProgramMembership ]
+( #has_/name :: is_member )
+( #has_/range :: Organization, Person )
 
-[ #is_/inverse_of  :: memberOf]
+[ #is_/inverse_of  :: memberOf ]
 

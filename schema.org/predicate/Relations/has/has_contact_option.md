@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_contact_option
 
 linkTitle: has_contact_option
-keywords: 
+keywords: [contact, option]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_contact_option :: ContactPointOption] or 
-- [ has_contact_option :: ContactPointOption] 
+- [ #has/_contact_option :: ContactPointOption ] or 
+- [ has_contact_option :: ContactPointOption ] 
 
 An option available on this contact point (e.g. a toll-free number or support for hearing-impaired callers).
 
 Relation describes that: 
-[ #has_/domain  :: ContactPoint]
-( #has_/name :: is_contact_option)
-( #has_/range :: ContactPointOption)
+[ #has_/domain  :: ContactPoint ]
+( #has_/name :: is_contact_option )
+( #has_/range :: ContactPointOption )
 

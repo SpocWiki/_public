@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_government_benefits_info
 
 linkTitle: has_government_benefits_info
-keywords: 
+keywords: [government, benefits, info]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_government_benefits_info
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_government_benefits_info :: GovernmentService] or 
-- [ has_government_benefits_info :: GovernmentService] 
+- [ #has/_government_benefits_info :: GovernmentService ] or 
+- [ has_government_benefits_info :: GovernmentService ] 
 
 governmentBenefitsInfo provides information about government benefits associated with a SpecialAnnouncement.
 
 Relation describes that: 
-[ #has_/domain  :: SpecialAnnouncement]
-( #has_/name :: is_government_benefits_info)
-( #has_/range :: GovernmentService)
+[ #has_/domain  :: SpecialAnnouncement ]
+( #has_/name :: is_government_benefits_info )
+( #has_/range :: GovernmentService )
 

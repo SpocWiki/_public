@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_equal
 
 linkTitle: has_equal
-keywords: 
+keywords: [equal]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_equal :: QualitativeValue] or 
-- [ has_equal :: QualitativeValue] 
+- [ #has/_equal :: QualitativeValue ] or 
+- [ has_equal :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is equal to the object.
 
 Relation describes that: 
-[ #has_/domain  :: QualitativeValue]
-( #has_/name :: is_equal)
-( #has_/range :: QualitativeValue)
+[ #has_/domain  :: QualitativeValue ]
+( #has_/name :: is_equal )
+( #has_/range :: QualitativeValue )
 

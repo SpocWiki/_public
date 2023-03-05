@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_maximum_intake
 
 linkTitle: has_maximum_intake
-keywords: 
+keywords: [maximum, intake]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_maximum_intake :: MaximumDoseSchedule] or 
-- [ has_maximum_intake :: MaximumDoseSchedule] 
+- [ #has/_maximum_intake :: MaximumDoseSchedule ] or 
+- [ has_maximum_intake :: MaximumDoseSchedule ] 
 
 Recommended intake of this supplement for a given population as defined by a specific recommending authority.
 
 Relation describes that: 
-[ #has_/domain  :: DietarySupplement, Drug, DrugStrength, Substance]
-( #has_/name :: is_maximum_intake)
-( #has_/range :: MaximumDoseSchedule)
+[ #has_/domain  :: DietarySupplement, Drug, DrugStrength, Substance ]
+( #has_/name :: is_maximum_intake )
+( #has_/range :: MaximumDoseSchedule )
 

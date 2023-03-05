@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_agent
 
 linkTitle: has_agent
-keywords: 
+keywords: [agent]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_agent :: Organization, Person] or 
-- [ has_agent :: Organization, Person] 
+- [ #has/_agent :: Organization, Person ] or 
+- [ has_agent :: Organization, Person ] 
 
 The direct performer or driver of the action (animate or inanimate). E.g. &lt;em&gt;John&lt;/em&gt; wrote a book.
 
 Relation describes that: 
-[ #has_/domain  :: Action]
-( #has_/name :: is_agent)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Action ]
+( #has_/name :: is_agent )
+( #has_/range :: Organization, Person )
 

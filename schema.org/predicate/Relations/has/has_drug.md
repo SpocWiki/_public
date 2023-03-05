@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_drug
 
 linkTitle: has_drug
-keywords: 
+keywords: [drug]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_drug :: Drug] or 
-- [ has_drug :: Drug] 
+- [ #has/_drug :: Drug ] or 
+- [ has_drug :: Drug ] 
 
 Specifying a drug or medicine used in a medication procedure.
 
 Relation describes that: 
-[ #has_/domain  :: DrugClass, MedicalCondition, Patient, TherapeuticProcedure]
-( #has_/name :: is_drug)
-( #has_/range :: Drug)
+[ #has_/domain  :: DrugClass, MedicalCondition, Patient, TherapeuticProcedure ]
+( #has_/name :: is_drug )
+( #has_/range :: Drug )
 

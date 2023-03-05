@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_parent_taxon
 
 linkTitle: has_parent_taxon
-keywords: 
+keywords: [parent, taxon]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_parent_taxon
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_parent_taxon :: Taxon, Text, URL] or 
-- [ has_parent_taxon :: Taxon, Text, URL] 
+- [ #has/_parent_taxon :: Taxon, Text, URL ] or 
+- [ has_parent_taxon :: Taxon, Text, URL ] 
 
 Closest parent taxon of the taxon in question.
 
 Relation describes that: 
-[ #has_/domain  :: Taxon]
-( #has_/name :: is_parent_taxon)
-( #has_/range :: Taxon, Text, URL)
+[ #has_/domain  :: Taxon ]
+( #has_/name :: is_parent_taxon )
+( #has_/range :: Taxon, Text, URL )
 
-[ #is_/inverse_of  :: childTaxon]
+[ #is_/inverse_of  :: childTaxon ]
 

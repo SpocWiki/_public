@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_lender
 
 linkTitle: has_lender
-keywords: 
+keywords: [lender]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lender :: Organization, Person] or 
-- [ has_lender :: Organization, Person] 
+- [ #has/_lender :: Organization, Person ] or 
+- [ has_lender :: Organization, Person ] 
 
 A sub property of participant. The person that lends the object being borrowed.
 
 Relation describes that: 
-[ #has_/domain  :: BorrowAction]
-( #has_/name :: is_lender)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: BorrowAction ]
+( #has_/name :: is_lender )
+( #has_/range :: Organization, Person )
 
-[ #is_/sub_property_of  :: participant]
+[ #is_/sub_property_of  :: participant ]
 

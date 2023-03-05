@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_defined_term
 
 linkTitle: has_defined_term
-keywords: 
+keywords: [defined, term]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_defined_term
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_defined_term :: DefinedTerm] or 
-- [ has_defined_term :: DefinedTerm] 
+- [ #has/_defined_term :: DefinedTerm ] or 
+- [ has_defined_term :: DefinedTerm ] 
 
 A Defined Term contained in this term set.
 
 Relation describes that: 
-[ #has_/domain  :: DefinedTermSet, Taxon]
-( #has_/name :: is_defined_term)
-( #has_/range :: DefinedTerm)
+[ #has_/domain  :: DefinedTermSet, Taxon ]
+( #has_/name :: is_defined_term )
+( #has_/range :: DefinedTerm )
 
-[ #has_/sub_properties :: hasCategoryCode]
+[ #has_/sub_properties :: [ hasCategoryCode ] ]
 

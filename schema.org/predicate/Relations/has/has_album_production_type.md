@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_album_production_type
 
 linkTitle: has_album_production_type
-keywords: 
+keywords: [album, production, type]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_album_production_type :: MusicAlbumProductionType] or 
-- [ has_album_production_type :: MusicAlbumProductionType] 
+- [ #has/_album_production_type :: MusicAlbumProductionType ] or 
+- [ has_album_production_type :: MusicAlbumProductionType ] 
 
 Classification of the album by its type of content: soundtrack, live album, studio album, etc.
 
 Relation describes that: 
-[ #has_/domain  :: MusicAlbum]
-( #has_/name :: is_album_production_type)
-( #has_/range :: MusicAlbumProductionType)
+[ #has_/domain  :: MusicAlbum ]
+( #has_/name :: is_album_production_type )
+( #has_/range :: MusicAlbumProductionType )
 

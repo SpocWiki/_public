@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_map_type
 
 linkTitle: has_map_type
-keywords: 
+keywords: [map, type]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_map_type :: MapCategoryType] or 
-- [ has_map_type :: MapCategoryType] 
+- [ #has/_map_type :: MapCategoryType ] or 
+- [ has_map_type :: MapCategoryType ] 
 
 Indicates the kind of Map, from the MapCategoryType Enumeration.
 
 Relation describes that: 
-[ #has_/domain  :: Map]
-( #has_/name :: is_map_type)
-( #has_/range :: MapCategoryType)
+[ #has_/domain  :: Map ]
+( #has_/name :: is_map_type )
+( #has_/range :: MapCategoryType )
 

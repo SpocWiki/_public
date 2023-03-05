@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_replacee
 
 linkTitle: has_replacee
-keywords: 
+keywords: [replacee]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_replacee :: Thing] or 
-- [ has_replacee :: Thing] 
+- [ #has/_replacee :: Thing ] or 
+- [ has_replacee :: Thing ] 
 
 A sub property of object. The object that is being replaced.
 
 Relation describes that: 
-[ #has_/domain  :: ReplaceAction]
-( #has_/name :: is_replacee)
-( #has_/range :: Thing)
+[ #has_/domain  :: ReplaceAction ]
+( #has_/name :: is_replacee )
+( #has_/range :: Thing )
 
-[ #is_/sub_property_of  :: object]
+[ #is_/sub_property_of  :: object ]
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_menu_item
 
 linkTitle: has_menu_item
-keywords: 
+keywords: [menu, item]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_menu_item :: MenuItem] or 
-- [ has_menu_item :: MenuItem] 
+- [ #has/_menu_item :: MenuItem ] or 
+- [ has_menu_item :: MenuItem ] 
 
 A food or drink item contained in a menu or menu section.
 
 Relation describes that: 
-[ #has_/domain  :: Menu, MenuSection]
-( #has_/name :: is_menu_item)
-( #has_/range :: MenuItem)
+[ #has_/domain  :: Menu, MenuSection ]
+( #has_/name :: is_menu_item )
+( #has_/range :: MenuItem )
 

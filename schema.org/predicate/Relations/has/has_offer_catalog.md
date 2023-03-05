@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_offer_catalog
 
 linkTitle: has_offer_catalog
-keywords: 
+keywords: [offer, catalog]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_offer_catalog :: OfferCatalog] or 
-- [ has_offer_catalog :: OfferCatalog] 
+- [ #has/_offer_catalog :: OfferCatalog ] or 
+- [ has_offer_catalog :: OfferCatalog ] 
 
 Indicates an OfferCatalog listing for this Organization, Person, or Service.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person, Service]
-( #has_/name :: is_offer_catalog)
-( #has_/range :: OfferCatalog)
+[ #has_/domain  :: Organization, Person, Service ]
+( #has_/name :: is_offer_catalog )
+( #has_/range :: OfferCatalog )
 

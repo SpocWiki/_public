@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_jurisdiction
 
 linkTitle: has_jurisdiction
-keywords: 
+keywords: [jurisdiction]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_jurisdiction
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_jurisdiction :: AdministrativeArea, Text] or 
-- [ has_jurisdiction :: AdministrativeArea, Text] 
+- [ #has/_jurisdiction :: AdministrativeArea, Text ] or 
+- [ has_jurisdiction :: AdministrativeArea, Text ] 
 
 Indicates a legal jurisdiction, e.g. of some legislation, or where some government service is based.
 
 Relation describes that: 
-[ #has_/domain  :: GovernmentService, Legislation]
-( #has_/name :: is_jurisdiction)
-( #has_/range :: AdministrativeArea, Text)
+[ #has_/domain  :: GovernmentService, Legislation ]
+( #has_/name :: is_jurisdiction )
+( #has_/range :: AdministrativeArea, Text )
 
-[ #has_/sub_properties :: legislationJurisdiction]
+[ #has_/sub_properties :: [ legislationJurisdiction ] ]
 

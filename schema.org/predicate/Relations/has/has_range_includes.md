@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_range_includes
 
 linkTitle: has_range_includes
-keywords: 
+keywords: [range, includes]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_range_includes
 ---
 
-[ #is_/part_of :: https://meta.schema.org]
+[ #is_/part_of :: https://meta.schema.org ]
 
 Use it like this: 
-- [ #has/_range_includes :: Class] or 
-- [ has_range_includes :: Class] 
+- [ #has/_range_includes :: Class ] or 
+- [ has_range_includes :: Class ] 
 
 Relates a property to a class that constitutes (one of) the expected type(s) for values of the property.
 
 Relation describes that: 
-[ #has_/domain  :: Property]
-( #has_/name :: is_range_includes)
-( #has_/range :: Class)
+[ #has_/domain  :: Property ]
+( #has_/name :: is_range_includes )
+( #has_/range :: Class )
 

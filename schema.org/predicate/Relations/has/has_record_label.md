@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_record_label
 
 linkTitle: has_record_label
-keywords: 
+keywords: [record, label]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_record_label :: Organization] or 
-- [ has_record_label :: Organization] 
+- [ #has/_record_label :: Organization ] or 
+- [ has_record_label :: Organization ] 
 
 The label that issued the release.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRelease]
-( #has_/name :: is_record_label)
-( #has_/range :: Organization)
+[ #has_/domain  :: MusicRelease ]
+( #has_/name :: is_record_label )
+( #has_/range :: Organization )
 

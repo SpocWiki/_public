@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_start_offset
 
 linkTitle: has_start_offset
-keywords: 
+keywords: [start, offset]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_start_offset
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_start_offset :: HyperTocEntry, Number] or 
-- [ has_start_offset :: HyperTocEntry, Number] 
+- [ #has/_start_offset :: HyperTocEntry, Number ] or 
+- [ has_start_offset :: HyperTocEntry, Number ] 
 
 The start time of the clip expressed as the number of seconds from the beginning of the work.
 
 Relation describes that: 
-[ #has_/domain  :: Clip, SeekToAction]
-( #has_/name :: is_start_offset)
-( #has_/range :: HyperTocEntry, Number)
+[ #has_/domain  :: Clip, SeekToAction ]
+( #has_/name :: is_start_offset )
+( #has_/range :: HyperTocEntry, Number )
 

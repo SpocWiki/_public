@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_nerve_motor
 
 linkTitle: has_nerve_motor
-keywords: 
+keywords: [nerve, motor]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_nerve_motor :: Muscle] or 
-- [ has_nerve_motor :: Muscle] 
+- [ #has/_nerve_motor :: Muscle ] or 
+- [ has_nerve_motor :: Muscle ] 
 
 The neurological pathway extension that involves muscle control.
 
 Relation describes that: 
-[ #has_/domain  :: Nerve]
-( #has_/name :: is_nerve_motor)
-( #has_/range :: Muscle)
+[ #has_/domain  :: Nerve ]
+( #has_/name :: is_nerve_motor )
+( #has_/range :: Muscle )
 

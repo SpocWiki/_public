@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_distribution
 
 linkTitle: has_distribution
-keywords: 
+keywords: [distribution]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_distribution :: DataDownload] or 
-- [ has_distribution :: DataDownload] 
+- [ #has/_distribution :: DataDownload ] or 
+- [ has_distribution :: DataDownload ] 
 
 A downloadable form of this dataset, at a specific location, in a specific format. This property can be repeated if different variations are available. There is no expectation that different downloadable distributions must contain exactly equivalent information (see also &lt;a href&#x3D;&quot;https://www.w3.org/TR/vocab-dcat-3/#Class:Distribution&quot;&gt;DCAT&lt;/a&gt; on this point). Different distributions might include or exclude different subsets of the entire dataset, for example.
 
 Relation describes that: 
-[ #has_/domain  :: Dataset]
-( #has_/name :: is_distribution)
-( #has_/range :: DataDownload)
+[ #has_/domain  :: Dataset ]
+( #has_/name :: is_distribution )
+( #has_/range :: DataDownload )
 

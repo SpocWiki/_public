@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_cost_category
 
 linkTitle: has_cost_category
-keywords: 
+keywords: [cost, category]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_cost_category :: DrugCostCategory] or 
-- [ has_cost_category :: DrugCostCategory] 
+- [ #has/_cost_category :: DrugCostCategory ] or 
+- [ has_cost_category :: DrugCostCategory ] 
 
 The category of cost, such as wholesale, retail, reimbursement cap, etc.
 
 Relation describes that: 
-[ #has_/domain  :: DrugCost]
-( #has_/name :: is_cost_category)
-( #has_/range :: DrugCostCategory)
+[ #has_/domain  :: DrugCost ]
+( #has_/name :: is_cost_category )
+( #has_/range :: DrugCostCategory )
 

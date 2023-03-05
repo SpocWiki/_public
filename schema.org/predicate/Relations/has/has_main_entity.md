@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_main_entity
 
 linkTitle: has_main_entity
-keywords: 
+keywords: [main, entity]
 layout: 
 draft: false
 publishDate:
@@ -33,17 +33,17 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_main_entity :: Thing] or 
-- [ has_main_entity :: Thing] 
+- [ #has/_main_entity :: Thing ] or 
+- [ has_main_entity :: Thing ] 
 
 Indicates the primary entity described in some page or other CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_main_entity)
-( #has_/range :: Thing)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_main_entity )
+( #has_/range :: Thing )
 
-[ #is_/inverse_of  :: mainEntityOfPage]
+[ #is_/inverse_of  :: mainEntityOfPage ]
 
-[ #is_/sub_property_of  :: about]
+[ #is_/sub_property_of  :: about ]
 

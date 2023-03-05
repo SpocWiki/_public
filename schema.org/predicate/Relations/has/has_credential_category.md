@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_credential_category
 
 linkTitle: has_credential_category
-keywords: 
+keywords: [credential, category]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_credential_category
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_credential_category :: DefinedTerm, Text, URL] or 
-- [ has_credential_category :: DefinedTerm, Text, URL] 
+- [ #has/_credential_category :: DefinedTerm, Text, URL ] or 
+- [ has_credential_category :: DefinedTerm, Text, URL ] 
 
 The category or type of credential being described, for example &quot;degree�, �certificate�, �badge�, or more specific term.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalCredential]
-( #has_/name :: is_credential_category)
-( #has_/range :: DefinedTerm, Text, URL)
+[ #has_/domain  :: EducationalOccupationalCredential ]
+( #has_/name :: is_credential_category )
+( #has_/range :: DefinedTerm, Text, URL )
 

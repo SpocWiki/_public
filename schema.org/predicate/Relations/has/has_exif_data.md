@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_exif_data
 
 linkTitle: has_exif_data
-keywords: 
+keywords: [exif, data]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_exif_data :: PropertyValue, Text] or 
-- [ has_exif_data :: PropertyValue, Text] 
+- [ #has/_exif_data :: PropertyValue, Text ] or 
+- [ has_exif_data :: PropertyValue, Text ] 
 
 exif data for this object.
 
 Relation describes that: 
-[ #has_/domain  :: ImageObject]
-( #has_/name :: is_exif_data)
-( #has_/range :: PropertyValue, Text)
+[ #has_/domain  :: ImageObject ]
+( #has_/name :: is_exif_data )
+( #has_/range :: PropertyValue, Text )
 

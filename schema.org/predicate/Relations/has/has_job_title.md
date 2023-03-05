@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_job_title
 
 linkTitle: has_job_title
-keywords: 
+keywords: [job, title]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_job_title
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_job_title :: DefinedTerm, Text] or 
-- [ has_job_title :: DefinedTerm, Text] 
+- [ #has/_job_title :: DefinedTerm, Text ] or 
+- [ has_job_title :: DefinedTerm, Text ] 
 
 The job title of the person (for example, Financial Manager).
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_job_title)
-( #has_/range :: DefinedTerm, Text)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_job_title )
+( #has_/range :: DefinedTerm, Text )
 

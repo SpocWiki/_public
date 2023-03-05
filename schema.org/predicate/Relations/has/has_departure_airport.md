@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_departure_airport
 
 linkTitle: has_departure_airport
-keywords: 
+keywords: [departure, airport]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_departure_airport :: Airport] or 
-- [ has_departure_airport :: Airport] 
+- [ #has/_departure_airport :: Airport ] or 
+- [ has_departure_airport :: Airport ] 
 
 The airport where the flight originates.
 
 Relation describes that: 
-[ #has_/domain  :: Flight]
-( #has_/name :: is_departure_airport)
-( #has_/range :: Airport)
+[ #has_/domain  :: Flight ]
+( #has_/name :: is_departure_airport )
+( #has_/range :: Airport )
 

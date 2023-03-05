@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_bio_chem_entity_part
 
 linkTitle: has_bio_chem_entity_part
-keywords: 
+keywords: [bio, chem, entity, part]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_bio_chem_entity_part
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_bio_chem_entity_part :: BioChemEntity] or 
-- [ has_bio_chem_entity_part :: BioChemEntity] 
+- [ #has/_bio_chem_entity_part :: BioChemEntity ] or 
+- [ has_bio_chem_entity_part :: BioChemEntity ] 
 
 Indicates a BioChemEntity that (in some sense) has this BioChemEntity as a part.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity]
-( #has_/name :: is_bio_chem_entity_part)
-( #has_/range :: BioChemEntity)
+[ #has_/domain  :: BioChemEntity ]
+( #has_/name :: is_bio_chem_entity_part )
+( #has_/range :: BioChemEntity )
 
-[ #is_/inverse_of  :: isPartOfBioChemEntity]
+[ #is_/inverse_of  :: isPartOfBioChemEntity ]
 

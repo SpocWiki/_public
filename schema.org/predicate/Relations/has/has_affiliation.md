@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_affiliation
 
 linkTitle: has_affiliation
-keywords: 
+keywords: [affiliation]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_affiliation :: Organization] or 
-- [ has_affiliation :: Organization] 
+- [ #has/_affiliation :: Organization ] or 
+- [ has_affiliation :: Organization ] 
 
 An organization that this person is affiliated with. For example, a school/university, a club, or a team.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_affiliation)
-( #has_/range :: Organization)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_affiliation )
+( #has_/range :: Organization )
 
-[ #is_/sub_property_of  :: memberOf]
+[ #is_/sub_property_of  :: memberOf ]
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_evidence_level
 
 linkTitle: has_evidence_level
-keywords: 
+keywords: [evidence, level]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_evidence_level :: MedicalEvidenceLevel] or 
-- [ has_evidence_level :: MedicalEvidenceLevel] 
+- [ #has/_evidence_level :: MedicalEvidenceLevel ] or 
+- [ has_evidence_level :: MedicalEvidenceLevel ] 
 
 Strength of evidence of the data used to formulate the guideline (enumerated).
 
 Relation describes that: 
-[ #has_/domain  :: MedicalGuideline]
-( #has_/name :: is_evidence_level)
-( #has_/range :: MedicalEvidenceLevel)
+[ #has_/domain  :: MedicalGuideline ]
+( #has_/name :: is_evidence_level )
+( #has_/range :: MedicalEvidenceLevel )
 

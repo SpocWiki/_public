@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_performer
 
 linkTitle: has_performer
-keywords: 
+keywords: [performer]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_performer :: Organization, Person] or 
-- [ has_performer :: Organization, Person] 
+- [ #has/_performer :: Organization, Person ] or 
+- [ has_performer :: Organization, Person ] 
 
 A performer at the event&amp;#x2014;for example, a presenter, musician, musical group or actor.
 
 Relation describes that: 
-[ #has_/domain  :: Event]
-( #has_/name :: is_performer)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Event ]
+( #has_/name :: is_performer )
+( #has_/range :: Organization, Person )
 

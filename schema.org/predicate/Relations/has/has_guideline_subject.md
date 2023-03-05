@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_guideline_subject
 
 linkTitle: has_guideline_subject
-keywords: 
+keywords: [guideline, subject]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_guideline_subject :: MedicalEntity] or 
-- [ has_guideline_subject :: MedicalEntity] 
+- [ #has/_guideline_subject :: MedicalEntity ] or 
+- [ has_guideline_subject :: MedicalEntity ] 
 
 The medical conditions, treatments, etc. that are the subject of the guideline.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalGuideline]
-( #has_/name :: is_guideline_subject)
-( #has_/range :: MedicalEntity)
+[ #has_/domain  :: MedicalGuideline ]
+( #has_/name :: is_guideline_subject )
+( #has_/range :: MedicalEntity )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_broadcast_frequency
 
 linkTitle: has_broadcast_frequency
-keywords: 
+keywords: [broadcast, frequency]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_broadcast_frequency :: BroadcastFrequencySpecification, Text] or 
-- [ has_broadcast_frequency :: BroadcastFrequencySpecification, Text] 
+- [ #has/_broadcast_frequency :: BroadcastFrequencySpecification, Text ] or 
+- [ has_broadcast_frequency :: BroadcastFrequencySpecification, Text ] 
 
 The frequency used for over-the-air broadcasts. Numeric values or simple ranges, e.g. 87-99. In addition a shortcut idiom is supported for frequences of AM and FM radio channels, e.g. &quot;87 FM&quot;.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastChannel, BroadcastService]
-( #has_/name :: is_broadcast_frequency)
-( #has_/range :: BroadcastFrequencySpecification, Text)
+[ #has_/domain  :: BroadcastChannel, BroadcastService ]
+( #has_/name :: is_broadcast_frequency )
+( #has_/range :: BroadcastFrequencySpecification, Text )
 

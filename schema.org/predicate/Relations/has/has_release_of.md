@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_release_of
 
 linkTitle: has_release_of
-keywords: 
+keywords: [release, of]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_release_of :: MusicAlbum] or 
-- [ has_release_of :: MusicAlbum] 
+- [ #has/_release_of :: MusicAlbum ] or 
+- [ has_release_of :: MusicAlbum ] 
 
 The album this is a release of.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRelease]
-( #has_/name :: is_release_of)
-( #has_/range :: MusicAlbum)
+[ #has_/domain  :: MusicRelease ]
+( #has_/name :: is_release_of )
+( #has_/range :: MusicAlbum )
 
-[ #is_/inverse_of  :: albumRelease]
+[ #is_/inverse_of  :: albumRelease ]
 

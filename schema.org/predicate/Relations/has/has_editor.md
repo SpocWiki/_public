@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_editor
 
 linkTitle: has_editor
-keywords: 
+keywords: [editor]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_editor :: Person] or 
-- [ has_editor :: Person] 
+- [ #has/_editor :: Person ] or 
+- [ has_editor :: Person ] 
 
 Specifies the Person who edited the CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_editor)
-( #has_/range :: Person)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_editor )
+( #has_/range :: Person )
 

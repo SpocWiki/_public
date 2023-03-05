@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_music_release_format
 
 linkTitle: has_music_release_format
-keywords: 
+keywords: [music, release, format]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_music_release_format :: MusicReleaseFormatType] or 
-- [ has_music_release_format :: MusicReleaseFormatType] 
+- [ #has/_music_release_format :: MusicReleaseFormatType ] or 
+- [ has_music_release_format :: MusicReleaseFormatType ] 
 
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: MusicRelease]
-( #has_/name :: is_music_release_format)
-( #has_/range :: MusicReleaseFormatType)
+[ #has_/domain  :: MusicRelease ]
+( #has_/name :: is_music_release_format )
+( #has_/range :: MusicReleaseFormatType )
 

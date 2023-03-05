@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_about
 
 linkTitle: has_about
-keywords: 
+keywords: [about]
 layout: 
 draft: false
 publishDate:
@@ -33,17 +33,17 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_about :: Thing] or 
-- [ has_about :: Thing] 
+- [ #has/_about :: Thing ] or 
+- [ has_about :: Thing ] 
 
 The subject matter of the content.
 
 Relation describes that: 
-[ #has_/domain  :: CommunicateAction, CreativeWork, Event]
-( #has_/name :: is_about)
-( #has_/range :: Thing)
+[ #has_/domain  :: CommunicateAction, CreativeWork, Event ]
+( #has_/name :: is_about )
+( #has_/range :: Thing )
 
-[ #is_/inverse_of  :: subjectOf]
+[ #is_/inverse_of  :: subjectOf ]
 
-[ #has_/sub_properties :: mainEntity]
+[ #has_/sub_properties :: [ mainEntity ] ]
 

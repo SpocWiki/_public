@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_available_test
 
 linkTitle: has_available_test
-keywords: 
+keywords: [available, test]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_test :: MedicalTest] or 
-- [ has_available_test :: MedicalTest] 
+- [ #has/_available_test :: MedicalTest ] or 
+- [ has_available_test :: MedicalTest ] 
 
 A diagnostic test or procedure offered by this lab.
 
 Relation describes that: 
-[ #has_/domain  :: DiagnosticLab]
-( #has_/name :: is_available_test)
-( #has_/range :: MedicalTest)
+[ #has_/domain  :: DiagnosticLab ]
+( #has_/name :: is_available_test )
+( #has_/range :: MedicalTest )
 

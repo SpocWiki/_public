@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_delivery_method
 
 linkTitle: has_delivery_method
-keywords: 
+keywords: [delivery, method]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_delivery_method :: DeliveryMethod] or 
-- [ has_delivery_method :: DeliveryMethod] 
+- [ #has/_delivery_method :: DeliveryMethod ] or 
+- [ has_delivery_method :: DeliveryMethod ] 
 
 Method used for delivery or shipping.
 
 Relation describes that: 
-[ #has_/domain  :: DeliveryEvent, ParcelDelivery]
-( #has_/name :: is_delivery_method)
-( #has_/range :: DeliveryMethod)
+[ #has_/domain  :: DeliveryEvent, ParcelDelivery ]
+( #has_/name :: is_delivery_method )
+( #has_/range :: DeliveryMethod )
 

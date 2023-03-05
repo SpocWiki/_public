@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_caption
 
 linkTitle: has_caption
-keywords: 
+keywords: [caption]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_caption :: MediaObject, Text] or 
-- [ has_caption :: MediaObject, Text] 
+- [ #has/_caption :: MediaObject, Text ] or 
+- [ has_caption :: MediaObject, Text ] 
 
 The caption for this object. For downloadable machine formats (closed caption, subtitles etc.) use MediaObject and indicate the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/encodingFormat&quot;&gt;encodingFormat&lt;/a&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: AudioObject, ImageObject, VideoObject]
-( #has_/name :: is_caption)
-( #has_/range :: MediaObject, Text)
+[ #has_/domain  :: AudioObject, ImageObject, VideoObject ]
+( #has_/name :: is_caption )
+( #has_/range :: MediaObject, Text )
 
-[ #has_/sub_properties :: embeddedTextCaption]
+[ #has_/sub_properties :: [ embeddedTextCaption ] ]
 

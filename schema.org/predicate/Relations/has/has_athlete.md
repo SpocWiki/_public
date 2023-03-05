@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_athlete
 
 linkTitle: has_athlete
-keywords: 
+keywords: [athlete]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_athlete :: Person] or 
-- [ has_athlete :: Person] 
+- [ #has/_athlete :: Person ] or 
+- [ has_athlete :: Person ] 
 
 A person that acts as performing member of a sports team; a player as opposed to a coach.
 
 Relation describes that: 
-[ #has_/domain  :: SportsTeam]
-( #has_/name :: is_athlete)
-( #has_/range :: Person)
+[ #has_/domain  :: SportsTeam ]
+( #has_/name :: is_athlete )
+( #has_/range :: Person )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_payment_status
 
 linkTitle: has_payment_status
-keywords: 
+keywords: [payment, status]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_payment_status :: PaymentStatusType, Text] or 
-- [ has_payment_status :: PaymentStatusType, Text] 
+- [ #has/_payment_status :: PaymentStatusType, Text ] or 
+- [ has_payment_status :: PaymentStatusType, Text ] 
 
 The status of payment; whether the invoice has been paid or not.
 
 Relation describes that: 
-[ #has_/domain  :: Invoice]
-( #has_/name :: is_payment_status)
-( #has_/range :: PaymentStatusType, Text)
+[ #has_/domain  :: Invoice ]
+( #has_/name :: is_payment_status )
+( #has_/range :: PaymentStatusType, Text )
 

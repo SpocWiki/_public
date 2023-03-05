@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_part
 
 linkTitle: has_part
-keywords: 
+keywords: [part]
 layout: 
 draft: false
 publishDate:
@@ -33,17 +33,17 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_part :: CreativeWork] or 
-- [ has_part :: CreativeWork] 
+- [ #has/_part :: CreativeWork ] or 
+- [ has_part :: CreativeWork ] 
 
 Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense).
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_part)
-( #has_/range :: CreativeWork)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_part )
+( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: isPartOf]
+[ #is_/inverse_of  :: isPartOf ]
 
-[ #has_/sub_properties :: containsSeason, episode, season, tocEntry]
+[ #has_/sub_properties :: [ containsSeason, episode, season, tocEntry ] ]
 

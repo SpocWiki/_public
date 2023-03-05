@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_comprised_of
 
 linkTitle: has_comprised_of
-keywords: 
+keywords: [comprised, of]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_comprised_of :: AnatomicalStructure, AnatomicalSystem] or 
-- [ has_comprised_of :: AnatomicalStructure, AnatomicalSystem] 
+- [ #has/_comprised_of :: AnatomicalStructure, AnatomicalSystem ] or 
+- [ has_comprised_of :: AnatomicalStructure, AnatomicalSystem ] 
 
 Specifying something physically contained by something else. Typically used here for the underlying anatomical structures, such as organs, that comprise the anatomical system.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalSystem]
-( #has_/name :: is_comprised_of)
-( #has_/range :: AnatomicalStructure, AnatomicalSystem)
+[ #has_/domain  :: AnatomicalSystem ]
+( #has_/name :: is_comprised_of )
+( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 

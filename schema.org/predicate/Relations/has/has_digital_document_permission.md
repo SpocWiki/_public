@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_digital_document_permission
 
 linkTitle: has_digital_document_permission
-keywords: 
+keywords: [digital, document, permission]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_digital_document_permission :: DigitalDocumentPermission] or 
-- [ has_digital_document_permission :: DigitalDocumentPermission] 
+- [ #has/_digital_document_permission :: DigitalDocumentPermission ] or 
+- [ has_digital_document_permission :: DigitalDocumentPermission ] 
 
 A permission related to the access to this document (e.g. permission to read or write an electronic document). For a public document, specify a grantee with an Audience with audienceType equal to &quot;public&quot;.
 
 Relation describes that: 
-[ #has_/domain  :: DigitalDocument]
-( #has_/name :: is_digital_document_permission)
-( #has_/range :: DigitalDocumentPermission)
+[ #has_/domain  :: DigitalDocument ]
+( #has_/name :: is_digital_document_permission )
+( #has_/range :: DigitalDocumentPermission )
 

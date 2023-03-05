@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_broadcast_of_event
 
 linkTitle: has_broadcast_of_event
-keywords: 
+keywords: [broadcast, of, event]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_broadcast_of_event :: Event] or 
-- [ has_broadcast_of_event :: Event] 
+- [ #has/_broadcast_of_event :: Event ] or 
+- [ has_broadcast_of_event :: Event ] 
 
 The event being broadcast such as a sporting event or awards ceremony.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastEvent]
-( #has_/name :: is_broadcast_of_event)
-( #has_/range :: Event)
+[ #has_/domain  :: BroadcastEvent ]
+( #has_/name :: is_broadcast_of_event )
+( #has_/range :: Event )
 

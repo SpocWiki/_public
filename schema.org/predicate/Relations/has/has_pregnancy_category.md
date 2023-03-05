@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_pregnancy_category
 
 linkTitle: has_pregnancy_category
-keywords: 
+keywords: [pregnancy, category]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_pregnancy_category :: DrugPregnancyCategory] or 
-- [ has_pregnancy_category :: DrugPregnancyCategory] 
+- [ #has/_pregnancy_category :: DrugPregnancyCategory ] or 
+- [ has_pregnancy_category :: DrugPregnancyCategory ] 
 
 Pregnancy category of this drug.
 
 Relation describes that: 
-[ #has_/domain  :: Drug]
-( #has_/name :: is_pregnancy_category)
-( #has_/range :: DrugPregnancyCategory)
+[ #has_/domain  :: Drug ]
+( #has_/name :: is_pregnancy_category )
+( #has_/range :: DrugPregnancyCategory )
 

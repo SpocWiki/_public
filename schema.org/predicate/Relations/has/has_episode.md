@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_episode
 
 linkTitle: has_episode
-keywords: 
+keywords: [episode]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_episode :: Episode] or 
-- [ has_episode :: Episode] 
+- [ #has/_episode :: Episode ] or 
+- [ has_episode :: Episode ] 
 
 An episode of a TV, radio or game media within a series or season.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWorkSeason, RadioSeries, TVSeries, VideoGameSeries]
-( #has_/name :: is_episode)
-( #has_/range :: Episode)
+[ #has_/domain  :: CreativeWorkSeason, RadioSeries, TVSeries, VideoGameSeries ]
+( #has_/name :: is_episode )
+( #has_/range :: Episode )
 
-[ #is_/sub_property_of  :: hasPart]
+[ #is_/sub_property_of  :: hasPart ]
 

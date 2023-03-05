@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_source_organization
 
 linkTitle: has_source_organization
-keywords: 
+keywords: [source, organization]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_source_organization :: Organization] or 
-- [ has_source_organization :: Organization] 
+- [ #has/_source_organization :: Organization ] or 
+- [ has_source_organization :: Organization ] 
 
 The Organization on whose behalf the creator was working.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_source_organization)
-( #has_/range :: Organization)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_source_organization )
+( #has_/range :: Organization )
 

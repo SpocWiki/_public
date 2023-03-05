@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_actionable_feedback_policy
 
 linkTitle: has_actionable_feedback_policy
-keywords: 
+keywords: [actionable, feedback, policy]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_actionable_feedback_policy
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_actionable_feedback_policy :: CreativeWork, URL] or 
-- [ has_actionable_feedback_policy :: CreativeWork, URL] 
+- [ #has/_actionable_feedback_policy :: CreativeWork, URL ] or 
+- [ has_actionable_feedback_policy :: CreativeWork, URL ] 
 
 For a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/NewsMediaOrganization&quot;&gt;NewsMediaOrganization&lt;/a&gt; or other news-related &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Organization&quot;&gt;Organization&lt;/a&gt;, a statement about public engagement activities (for news media, the newsroom�s), including involving the public - digitally or otherwise -- in coverage decisions, reporting and activities after publication.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization, Organization]
-( #has_/name :: is_actionable_feedback_policy)
-( #has_/range :: CreativeWork, URL)
+[ #has_/domain  :: NewsMediaOrganization, Organization ]
+( #has_/name :: is_actionable_feedback_policy )
+( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples]
+[ #is_/sub_property_of  :: publishingPrinciples ]
 

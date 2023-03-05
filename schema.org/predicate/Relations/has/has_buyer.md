@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_buyer
 
 linkTitle: has_buyer
-keywords: 
+keywords: [buyer]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_buyer :: Organization, Person] or 
-- [ has_buyer :: Organization, Person] 
+- [ #has/_buyer :: Organization, Person ] or 
+- [ has_buyer :: Organization, Person ] 
 
 A sub property of participant. The participant/person/organization that bought the object.
 
 Relation describes that: 
-[ #has_/domain  :: SellAction]
-( #has_/name :: is_buyer)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: SellAction ]
+( #has_/name :: is_buyer )
+( #has_/range :: Organization, Person )
 
-[ #is_/sub_property_of  :: participant]
+[ #is_/sub_property_of  :: participant ]
 

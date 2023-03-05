@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_associated_article
 
 linkTitle: has_associated_article
-keywords: 
+keywords: [associated, article]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_associated_article :: NewsArticle] or 
-- [ has_associated_article :: NewsArticle] 
+- [ #has/_associated_article :: NewsArticle ] or 
+- [ has_associated_article :: NewsArticle ] 
 
 A NewsArticle associated with the Media Object.
 
 Relation describes that: 
-[ #has_/domain  :: MediaObject]
-( #has_/name :: is_associated_article)
-( #has_/range :: NewsArticle)
+[ #has_/domain  :: MediaObject ]
+( #has_/name :: is_associated_article )
+( #has_/range :: NewsArticle )
 

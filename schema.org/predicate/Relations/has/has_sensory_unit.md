@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sensory_unit
 
 linkTitle: has_sensory_unit
-keywords: 
+keywords: [sensory, unit]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sensory_unit :: AnatomicalStructure, SuperficialAnatomy] or 
-- [ has_sensory_unit :: AnatomicalStructure, SuperficialAnatomy] 
+- [ #has/_sensory_unit :: AnatomicalStructure, SuperficialAnatomy ] or 
+- [ has_sensory_unit :: AnatomicalStructure, SuperficialAnatomy ] 
 
 The neurological pathway extension that inputs and sends information to the brain or spinal cord.
 
 Relation describes that: 
-[ #has_/domain  :: Nerve]
-( #has_/name :: is_sensory_unit)
-( #has_/range :: AnatomicalStructure, SuperficialAnatomy)
+[ #has_/domain  :: Nerve ]
+( #has_/name :: is_sensory_unit )
+( #has_/range :: AnatomicalStructure, SuperficialAnatomy )
 

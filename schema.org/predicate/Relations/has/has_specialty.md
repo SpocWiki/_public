@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_specialty
 
 linkTitle: has_specialty
-keywords: 
+keywords: [specialty]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_specialty :: Specialty] or 
-- [ has_specialty :: Specialty] 
+- [ #has/_specialty :: Specialty ] or 
+- [ has_specialty :: Specialty ] 
 
 One of the domain specialities to which this web page&#x27;s content applies.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage]
-( #has_/name :: is_specialty)
-( #has_/range :: Specialty)
+[ #has_/domain  :: WebPage ]
+( #has_/name :: is_specialty )
+( #has_/range :: Specialty )
 

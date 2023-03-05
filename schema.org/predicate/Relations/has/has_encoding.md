@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_encoding
 
 linkTitle: has_encoding
-keywords: 
+keywords: [encoding]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_encoding :: MediaObject] or 
-- [ has_encoding :: MediaObject] 
+- [ #has/_encoding :: MediaObject ] or 
+- [ has_encoding :: MediaObject ] 
 
 A media object that encodes this CreativeWork. This property is a synonym for associatedMedia.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_encoding)
-( #has_/range :: MediaObject)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_encoding )
+( #has_/range :: MediaObject )
 
-[ #is_/inverse_of  :: encodesCreativeWork]
+[ #is_/inverse_of  :: encodesCreativeWork ]
 

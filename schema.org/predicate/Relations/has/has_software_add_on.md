@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_software_add_on
 
 linkTitle: has_software_add_on
-keywords: 
+keywords: [software, add, on]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_software_add_on :: SoftwareApplication] or 
-- [ has_software_add_on :: SoftwareApplication] 
+- [ #has/_software_add_on :: SoftwareApplication ] or 
+- [ has_software_add_on :: SoftwareApplication ] 
 
 Additional content for a software application.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication]
-( #has_/name :: is_software_add_on)
-( #has_/range :: SoftwareApplication)
+[ #has_/domain  :: SoftwareApplication ]
+( #has_/name :: is_software_add_on )
+( #has_/range :: SoftwareApplication )
 

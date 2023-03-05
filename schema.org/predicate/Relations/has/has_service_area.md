@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_service_area
 
 linkTitle: has_service_area
-keywords: 
+keywords: [service, area]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_service_area :: AdministrativeArea, GeoShape, Place] or 
-- [ has_service_area :: AdministrativeArea, GeoShape, Place] 
+- [ #has/_service_area :: AdministrativeArea, GeoShape, Place ] or 
+- [ has_service_area :: AdministrativeArea, GeoShape, Place ] 
 
 The geographic area where the service is provided.
 
 Relation describes that: 
-[ #has_/domain  :: ContactPoint, Organization, Service]
-( #has_/name :: is_service_area)
-( #has_/range :: AdministrativeArea, GeoShape, Place)
+[ #has_/domain  :: ContactPoint, Organization, Service ]
+( #has_/name :: is_service_area )
+( #has_/range :: AdministrativeArea, GeoShape, Place )
 

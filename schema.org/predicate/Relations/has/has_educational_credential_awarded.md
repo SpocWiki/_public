@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_educational_credential_awarded
 
 linkTitle: has_educational_credential_awarded
-keywords: 
+keywords: [educational, credential, awarded]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_educational_credential_awarded :: EducationalOccupationalCredential, Text, URL] or 
-- [ has_educational_credential_awarded :: EducationalOccupationalCredential, Text, URL] 
+- [ #has/_educational_credential_awarded :: EducationalOccupationalCredential, Text, URL ] or 
+- [ has_educational_credential_awarded :: EducationalOccupationalCredential, Text, URL ] 
 
 A description of the qualification, award, certificate, diploma or other educational credential awarded as a consequence of successful completion of this course or program.
 
 Relation describes that: 
-[ #has_/domain  :: Course, EducationalOccupationalProgram]
-( #has_/name :: is_educational_credential_awarded)
-( #has_/range :: EducationalOccupationalCredential, Text, URL)
+[ #has_/domain  :: Course, EducationalOccupationalProgram ]
+( #has_/name :: is_educational_credential_awarded )
+( #has_/range :: EducationalOccupationalCredential, Text, URL )
 

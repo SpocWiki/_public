@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_recognizing_authority
 
 linkTitle: has_recognizing_authority
-keywords: 
+keywords: [recognizing, authority]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recognizing_authority :: Organization] or 
-- [ has_recognizing_authority :: Organization] 
+- [ #has/_recognizing_authority :: Organization ] or 
+- [ has_recognizing_authority :: Organization ] 
 
 If applicable, the organization that officially recognizes this entity as part of its endorsed system of medicine.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity]
-( #has_/name :: is_recognizing_authority)
-( #has_/range :: Organization)
+[ #has_/domain  :: MedicalEntity ]
+( #has_/name :: is_recognizing_authority )
+( #has_/range :: Organization )
 

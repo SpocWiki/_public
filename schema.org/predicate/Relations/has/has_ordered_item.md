@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_ordered_item
 
 linkTitle: has_ordered_item
-keywords: 
+keywords: [ordered, item]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_ordered_item :: OrderItem, Product, Service] or 
-- [ has_ordered_item :: OrderItem, Product, Service] 
+- [ #has/_ordered_item :: OrderItem, Product, Service ] or 
+- [ has_ordered_item :: OrderItem, Product, Service ] 
 
 The item ordered.
 
 Relation describes that: 
-[ #has_/domain  :: Order, OrderItem]
-( #has_/name :: is_ordered_item)
-( #has_/range :: OrderItem, Product, Service)
+[ #has_/domain  :: Order, OrderItem ]
+( #has_/name :: is_ordered_item )
+( #has_/range :: OrderItem, Product, Service )
 

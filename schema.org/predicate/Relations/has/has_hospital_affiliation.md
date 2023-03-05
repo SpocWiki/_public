@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_hospital_affiliation
 
 linkTitle: has_hospital_affiliation
-keywords: 
+keywords: [hospital, affiliation]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_hospital_affiliation :: Hospital] or 
-- [ has_hospital_affiliation :: Hospital] 
+- [ #has/_hospital_affiliation :: Hospital ] or 
+- [ has_hospital_affiliation :: Hospital ] 
 
 A hospital with which the physician or office is affiliated.
 
 Relation describes that: 
-[ #has_/domain  :: Physician]
-( #has_/name :: is_hospital_affiliation)
-( #has_/range :: Hospital)
+[ #has_/domain  :: Physician ]
+( #has_/name :: is_hospital_affiliation )
+( #has_/range :: Hospital )
 

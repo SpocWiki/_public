@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_publisher_imprint
 
 linkTitle: has_publisher_imprint
-keywords: 
+keywords: [publisher, imprint]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_publisher_imprint
 ---
 
-[ #is_/part_of :: https://bib.schema.org]
+[ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_publisher_imprint :: Organization] or 
-- [ has_publisher_imprint :: Organization] 
+- [ #has/_publisher_imprint :: Organization ] or 
+- [ has_publisher_imprint :: Organization ] 
 
 The publishing division which published the comic.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_publisher_imprint)
-( #has_/range :: Organization)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_publisher_imprint )
+( #has_/range :: Organization )
 

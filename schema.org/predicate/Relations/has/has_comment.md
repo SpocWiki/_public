@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_comment
 
 linkTitle: has_comment
-keywords: 
+keywords: [comment]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_comment :: Comment] or 
-- [ has_comment :: Comment] 
+- [ #has/_comment :: Comment ] or 
+- [ has_comment :: Comment ] 
 
 Comments, typically from users.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, RsvpAction]
-( #has_/name :: is_comment)
-( #has_/range :: Comment)
+[ #has_/domain  :: CreativeWork, RsvpAction ]
+( #has_/name :: is_comment )
+( #has_/range :: Comment )
 

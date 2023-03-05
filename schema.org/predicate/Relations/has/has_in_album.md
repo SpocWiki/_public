@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_in_album
 
 linkTitle: has_in_album
-keywords: 
+keywords: [in, album]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_in_album :: MusicAlbum] or 
-- [ has_in_album :: MusicAlbum] 
+- [ #has/_in_album :: MusicAlbum ] or 
+- [ has_in_album :: MusicAlbum ] 
 
 The album to which this recording belongs.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRecording]
-( #has_/name :: is_in_album)
-( #has_/range :: MusicAlbum)
+[ #has_/domain  :: MusicRecording ]
+( #has_/name :: is_in_album )
+( #has_/range :: MusicAlbum )
 

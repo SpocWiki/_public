@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_logo
 
 linkTitle: has_logo
-keywords: 
+keywords: [logo]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_logo :: ImageObject, URL] or 
-- [ has_logo :: ImageObject, URL] 
+- [ #has/_logo :: ImageObject, URL ] or 
+- [ has_logo :: ImageObject, URL ] 
 
 An associated logo.
 
 Relation describes that: 
-[ #has_/domain  :: Brand, Organization, Place, Product, Service]
-( #has_/name :: is_logo)
-( #has_/range :: ImageObject, URL)
+[ #has_/domain  :: Brand, Organization, Place, Product, Service ]
+( #has_/name :: is_logo )
+( #has_/range :: ImageObject, URL )
 
-[ #is_/sub_property_of  :: image]
+[ #is_/sub_property_of  :: image ]
 

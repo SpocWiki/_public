@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_bio_chem_similarity
 
 linkTitle: has_bio_chem_similarity
-keywords: 
+keywords: [bio, chem, similarity]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_bio_chem_similarity
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_bio_chem_similarity :: BioChemEntity] or 
-- [ has_bio_chem_similarity :: BioChemEntity] 
+- [ #has/_bio_chem_similarity :: BioChemEntity ] or 
+- [ has_bio_chem_similarity :: BioChemEntity ] 
 
 A similar BioChemEntity, e.g., obtained by fingerprint similarity algorithms.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity]
-( #has_/name :: is_bio_chem_similarity)
-( #has_/range :: BioChemEntity)
+[ #has_/domain  :: BioChemEntity ]
+( #has_/name :: is_bio_chem_similarity )
+( #has_/range :: BioChemEntity )
 

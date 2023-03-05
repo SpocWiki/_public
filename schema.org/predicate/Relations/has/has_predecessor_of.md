@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_predecessor_of
 
 linkTitle: has_predecessor_of
-keywords: 
+keywords: [predecessor, of]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_predecessor_of :: ProductModel] or 
-- [ has_predecessor_of :: ProductModel] 
+- [ #has/_predecessor_of :: ProductModel ] or 
+- [ has_predecessor_of :: ProductModel ] 
 
 A pointer from a previous, often discontinued variant of the product to its newer variant.
 
 Relation describes that: 
-[ #has_/domain  :: ProductModel]
-( #has_/name :: is_predecessor_of)
-( #has_/range :: ProductModel)
+[ #has_/domain  :: ProductModel ]
+( #has_/name :: is_predecessor_of )
+( #has_/range :: ProductModel )
 

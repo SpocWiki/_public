@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_applicable_location
 
 linkTitle: has_applicable_location
-keywords: 
+keywords: [applicable, location]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_applicable_location :: AdministrativeArea] or 
-- [ has_applicable_location :: AdministrativeArea] 
+- [ #has/_applicable_location :: AdministrativeArea ] or 
+- [ has_applicable_location :: AdministrativeArea ] 
 
 The location in which the status applies.
 
 Relation describes that: 
-[ #has_/domain  :: DrugCost, DrugLegalStatus]
-( #has_/name :: is_applicable_location)
-( #has_/range :: AdministrativeArea)
+[ #has_/domain  :: DrugCost, DrugLegalStatus ]
+( #has_/name :: is_applicable_location )
+( #has_/range :: AdministrativeArea )
 

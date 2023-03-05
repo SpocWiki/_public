@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_potential_action
 
 linkTitle: has_potential_action
-keywords: 
+keywords: [potential, action]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_potential_action :: Action] or 
-- [ has_potential_action :: Action] 
+- [ #has/_potential_action :: Action ] or 
+- [ has_potential_action :: Action ] 
 
 Indicates a potential Action, which describes an idealized action in which this thing would play an &#x27;object&#x27; role.
 
 Relation describes that: 
-[ #has_/domain  :: Thing]
-( #has_/name :: is_potential_action)
-( #has_/range :: Action)
+[ #has_/domain  :: Thing ]
+( #has_/name :: is_potential_action )
+( #has_/range :: Action )
 

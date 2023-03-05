@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_thumbnail
 
 linkTitle: has_thumbnail
-keywords: 
+keywords: [thumbnail]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_thumbnail :: ImageObject] or 
-- [ has_thumbnail :: ImageObject] 
+- [ #has/_thumbnail :: ImageObject ] or 
+- [ has_thumbnail :: ImageObject ] 
 
 Thumbnail image for an image or video.
 
 Relation describes that: 
-[ #has_/domain  :: ImageObject, VideoObject]
-( #has_/name :: is_thumbnail)
-( #has_/range :: ImageObject)
+[ #has_/domain  :: ImageObject, VideoObject ]
+( #has_/name :: is_thumbnail )
+( #has_/range :: ImageObject )
 

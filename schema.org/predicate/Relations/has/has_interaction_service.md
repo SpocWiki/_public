@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_interaction_service
 
 linkTitle: has_interaction_service
-keywords: 
+keywords: [interaction, service]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_interaction_service :: SoftwareApplication, WebSite] or 
-- [ has_interaction_service :: SoftwareApplication, WebSite] 
+- [ #has/_interaction_service :: SoftwareApplication, WebSite ] or 
+- [ has_interaction_service :: SoftwareApplication, WebSite ] 
 
 The WebSite or SoftwareApplication where the interactions took place.
 
 Relation describes that: 
-[ #has_/domain  :: InteractionCounter]
-( #has_/name :: is_interaction_service)
-( #has_/range :: SoftwareApplication, WebSite)
+[ #has_/domain  :: InteractionCounter ]
+( #has_/name :: is_interaction_service )
+( #has_/range :: SoftwareApplication, WebSite )
 

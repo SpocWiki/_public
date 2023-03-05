@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_next_item
 
 linkTitle: has_next_item
-keywords: 
+keywords: [next, item]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_next_item :: ListItem] or 
-- [ has_next_item :: ListItem] 
+- [ #has/_next_item :: ListItem ] or 
+- [ has_next_item :: ListItem ] 
 
 A link to the ListItem that follows the current one.
 
 Relation describes that: 
-[ #has_/domain  :: ListItem]
-( #has_/name :: is_next_item)
-( #has_/range :: ListItem)
+[ #has_/domain  :: ListItem ]
+( #has_/name :: is_next_item )
+( #has_/range :: ListItem )
 

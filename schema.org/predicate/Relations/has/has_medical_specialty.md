@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_medical_specialty
 
 linkTitle: has_medical_specialty
-keywords: 
+keywords: [medical, specialty]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_medical_specialty :: MedicalSpecialty] or 
-- [ has_medical_specialty :: MedicalSpecialty] 
+- [ #has/_medical_specialty :: MedicalSpecialty ] or 
+- [ has_medical_specialty :: MedicalSpecialty ] 
 
 A medical specialty of the provider.
 
 Relation describes that: 
-[ #has_/domain  :: Hospital, MedicalClinic, MedicalOrganization, Physician]
-( #has_/name :: is_medical_specialty)
-( #has_/range :: MedicalSpecialty)
+[ #has_/domain  :: Hospital, MedicalClinic, MedicalOrganization, Physician ]
+( #has_/name :: is_medical_specialty )
+( #has_/range :: MedicalSpecialty )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_review
 
 linkTitle: has_review
-keywords: 
+keywords: [review]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_review :: Review] or 
-- [ has_review :: Review] 
+- [ #has/_review :: Review ] or 
+- [ has_review :: Review ] 
 
 A review of the item.
 
 Relation describes that: 
-[ #has_/domain  :: Brand, CreativeWork, Event, Offer, Organization, Place, Product, Service]
-( #has_/name :: is_review)
-( #has_/range :: Review)
+[ #has_/domain  :: Brand, CreativeWork, Event, Offer, Organization, Place, Product, Service ]
+( #has_/name :: is_review )
+( #has_/range :: Review )
 

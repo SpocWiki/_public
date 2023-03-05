@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_day_of_week
 
 linkTitle: has_day_of_week
-keywords: 
+keywords: [day, of, week]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_day_of_week :: DayOfWeek] or 
-- [ has_day_of_week :: DayOfWeek] 
+- [ #has/_day_of_week :: DayOfWeek ] or 
+- [ has_day_of_week :: DayOfWeek ] 
 
 The day of the week for which these opening hours are valid.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram, OpeningHoursSpecification]
-( #has_/name :: is_day_of_week)
-( #has_/range :: DayOfWeek)
+[ #has_/domain  :: EducationalOccupationalProgram, OpeningHoursSpecification ]
+( #has_/name :: is_day_of_week )
+( #has_/range :: DayOfWeek )
 

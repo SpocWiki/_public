@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_availability
 
 linkTitle: has_availability
-keywords: 
+keywords: [availability]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_availability :: ItemAvailability] or 
-- [ has_availability :: ItemAvailability] 
+- [ #has/_availability :: ItemAvailability ] or 
+- [ has_availability :: ItemAvailability ] 
 
 The availability of this item&amp;#x2014;for example In stock, Out of stock, Pre-order, etc.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer]
-( #has_/name :: is_availability)
-( #has_/range :: ItemAvailability)
+[ #has_/domain  :: Demand, Offer ]
+( #has_/name :: is_availability )
+( #has_/range :: ItemAvailability )
 

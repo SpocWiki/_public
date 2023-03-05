@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_under_name
 
 linkTitle: has_under_name
-keywords: 
+keywords: [under, name]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_under_name :: Organization, Person] or 
-- [ has_under_name :: Organization, Person] 
+- [ #has/_under_name :: Organization, Person ] or 
+- [ has_under_name :: Organization, Person ] 
 
 The person or organization the reservation or ticket is for.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation, Ticket]
-( #has_/name :: is_under_name)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Reservation, Ticket ]
+( #has_/name :: is_under_name )
+( #has_/range :: Organization, Person )
 

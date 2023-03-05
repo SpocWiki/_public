@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_occupation_location
 
 linkTitle: has_occupation_location
-keywords: 
+keywords: [occupation, location]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_occupation_location :: AdministrativeArea] or 
-- [ has_occupation_location :: AdministrativeArea] 
+- [ #has/_occupation_location :: AdministrativeArea ] or 
+- [ has_occupation_location :: AdministrativeArea ] 
 
 The region/country for which this occupational description is appropriate. Note that educational requirements and qualifications can vary between jurisdictions.
 
 Relation describes that: 
-[ #has_/domain  :: Occupation]
-( #has_/name :: is_occupation_location)
-( #has_/range :: AdministrativeArea)
+[ #has_/domain  :: Occupation ]
+( #has_/name :: is_occupation_location )
+( #has_/range :: AdministrativeArea )
 

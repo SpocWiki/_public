@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_event_schedule
 
 linkTitle: has_event_schedule
-keywords: 
+keywords: [event, schedule]
 layout: 
 draft: false
 publishDate:
@@ -32,11 +32,11 @@ aliases:
 - has_event_schedule
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_event_schedule :: Schedule] or 
-- [ has_event_schedule :: Schedule] 
+- [ #has/_event_schedule :: Schedule ] or 
+- [ has_event_schedule :: Schedule ] 
 
 Associates an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Event&quot;&gt;Event&lt;/a&gt; with a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Schedule&quot;&gt;Schedule&lt;/a&gt;. There are circumstances where it is preferable to share a schedule for a series of
       repeating events rather than data on the individual events themselves. For example, a website or application might prefer to publish a schedule for a weekly
@@ -46,7 +46,7 @@ Associates an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Event&quot
       or seasons.
 
 Relation describes that: 
-[ #has_/domain  :: Event]
-( #has_/name :: is_event_schedule)
-( #has_/range :: Schedule)
+[ #has_/domain  :: Event ]
+( #has_/name :: is_event_schedule )
+( #has_/range :: Schedule )
 

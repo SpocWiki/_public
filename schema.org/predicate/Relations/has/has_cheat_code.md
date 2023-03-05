@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_cheat_code
 
 linkTitle: has_cheat_code
-keywords: 
+keywords: [cheat, code]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_cheat_code :: CreativeWork] or 
-- [ has_cheat_code :: CreativeWork] 
+- [ #has/_cheat_code :: CreativeWork ] or 
+- [ has_cheat_code :: CreativeWork ] 
 
 Cheat codes to the game.
 
 Relation describes that: 
-[ #has_/domain  :: VideoGame, VideoGameSeries]
-( #has_/name :: is_cheat_code)
-( #has_/range :: CreativeWork)
+[ #has_/domain  :: VideoGame, VideoGameSeries ]
+( #has_/name :: is_cheat_code )
+( #has_/range :: CreativeWork )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_follows
 
 linkTitle: has_follows
-keywords: 
+keywords: [follows]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_follows :: Person] or 
-- [ has_follows :: Person] 
+- [ #has/_follows :: Person ] or 
+- [ has_follows :: Person ] 
 
 The most generic uni-directional social relation.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_follows)
-( #has_/range :: Person)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_follows )
+( #has_/range :: Person )
 

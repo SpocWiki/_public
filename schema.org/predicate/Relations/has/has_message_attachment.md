@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_message_attachment
 
 linkTitle: has_message_attachment
-keywords: 
+keywords: [message, attachment]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_message_attachment :: CreativeWork] or 
-- [ has_message_attachment :: CreativeWork] 
+- [ #has/_message_attachment :: CreativeWork ] or 
+- [ has_message_attachment :: CreativeWork ] 
 
 A CreativeWork attached to the message.
 
 Relation describes that: 
-[ #has_/domain  :: Message]
-( #has_/name :: is_message_attachment)
-( #has_/range :: CreativeWork)
+[ #has_/domain  :: Message ]
+( #has_/name :: is_message_attachment )
+( #has_/range :: CreativeWork )
 

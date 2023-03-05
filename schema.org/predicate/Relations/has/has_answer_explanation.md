@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_answer_explanation
 
 linkTitle: has_answer_explanation
-keywords: 
+keywords: [answer, explanation]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_answer_explanation
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_answer_explanation :: Comment, WebContent] or 
-- [ has_answer_explanation :: Comment, WebContent] 
+- [ #has/_answer_explanation :: Comment, WebContent ] or 
+- [ has_answer_explanation :: Comment, WebContent ] 
 
 A step-by-step or full explanation about Answer. Can outline how this Answer was achieved or contain more broad clarification or statement about it.
 
 Relation describes that: 
-[ #has_/domain  :: Answer]
-( #has_/name :: is_answer_explanation)
-( #has_/range :: Comment, WebContent)
+[ #has_/domain  :: Answer ]
+( #has_/name :: is_answer_explanation )
+( #has_/range :: Comment, WebContent )
 

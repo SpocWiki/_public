@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_primary_image_of_page
 
 linkTitle: has_primary_image_of_page
-keywords: 
+keywords: [primary, image, of, page]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_primary_image_of_page :: ImageObject] or 
-- [ has_primary_image_of_page :: ImageObject] 
+- [ #has/_primary_image_of_page :: ImageObject ] or 
+- [ has_primary_image_of_page :: ImageObject ] 
 
 Indicates the main image on the page.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage]
-( #has_/name :: is_primary_image_of_page)
-( #has_/range :: ImageObject)
+[ #has_/domain  :: WebPage ]
+( #has_/name :: is_primary_image_of_page )
+( #has_/range :: ImageObject )
 

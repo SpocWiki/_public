@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_loser
 
 linkTitle: has_loser
-keywords: 
+keywords: [loser]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_loser :: Person] or 
-- [ has_loser :: Person] 
+- [ #has/_loser :: Person ] or 
+- [ has_loser :: Person ] 
 
 A sub property of participant. The loser of the action.
 
 Relation describes that: 
-[ #has_/domain  :: WinAction]
-( #has_/name :: is_loser)
-( #has_/range :: Person)
+[ #has_/domain  :: WinAction ]
+( #has_/name :: is_loser )
+( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: participant]
+[ #is_/sub_property_of  :: participant ]
 

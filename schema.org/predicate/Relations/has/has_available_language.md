@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_available_language
 
 linkTitle: has_available_language
-keywords: 
+keywords: [available, language]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_language :: Language, Text] or 
-- [ has_available_language :: Language, Text] 
+- [ #has/_available_language :: Language, Text ] or 
+- [ has_available_language :: Language, Text ] 
 
 A language someone may use with or at the item, service or place. Please use one of the language codes from the &lt;a href&#x3D;&quot;http://tools.ietf.org/html/bcp47&quot;&gt;IETF BCP 47 standard&lt;/a&gt;. See also &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/inLanguage&quot;&gt;inLanguage&lt;/a&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: ContactPoint, LodgingBusiness, ServiceChannel, TouristAttraction]
-( #has_/name :: is_available_language)
-( #has_/range :: Language, Text)
+[ #has_/domain  :: ContactPoint, LodgingBusiness, ServiceChannel, TouristAttraction ]
+( #has_/name :: is_available_language )
+( #has_/range :: Language, Text )
 

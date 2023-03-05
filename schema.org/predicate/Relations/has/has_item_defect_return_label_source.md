@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_item_defect_return_label_source
 
 linkTitle: has_item_defect_return_label_source
-keywords: 
+keywords: [item, defect, return, label, source]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_item_defect_return_label_source
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_item_defect_return_label_source :: ReturnLabelSourceEnumeration] or 
-- [ has_item_defect_return_label_source :: ReturnLabelSourceEnumeration] 
+- [ #has/_item_defect_return_label_source :: ReturnLabelSourceEnumeration ] or 
+- [ has_item_defect_return_label_source :: ReturnLabelSourceEnumeration ] 
 
 The method (from an enumeration) by which the customer obtains a return shipping label for a defect product.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy]
-( #has_/name :: is_item_defect_return_label_source)
-( #has_/range :: ReturnLabelSourceEnumeration)
+[ #has_/domain  :: MerchantReturnPolicy ]
+( #has_/name :: is_item_defect_return_label_source )
+( #has_/range :: ReturnLabelSourceEnumeration )
 

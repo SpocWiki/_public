@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_backstory
 
 linkTitle: has_backstory
-keywords: 
+keywords: [backstory]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_backstory
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_backstory :: CreativeWork, Text] or 
-- [ has_backstory :: CreativeWork, Text] 
+- [ #has/_backstory :: CreativeWork, Text ] or 
+- [ has_backstory :: CreativeWork, Text ] 
 
 For an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Article&quot;&gt;Article&lt;/a&gt;, typically a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/NewsArticle&quot;&gt;NewsArticle&lt;/a&gt;, the backstory property provides a textual summary giving a brief explanation of why and how an article was created. In a journalistic setting this could include information about reporting process, methods, interviews, data sources, etc.
 
 Relation describes that: 
-[ #has_/domain  :: Article]
-( #has_/name :: is_backstory)
-( #has_/range :: CreativeWork, Text)
+[ #has_/domain  :: Article ]
+( #has_/name :: is_backstory )
+( #has_/range :: CreativeWork, Text )
 

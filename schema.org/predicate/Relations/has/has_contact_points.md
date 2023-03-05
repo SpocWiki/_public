@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_contact_points
 
 linkTitle: has_contact_points
-keywords: 
+keywords: [contact, points]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_contact_points :: ContactPoint] or 
-- [ has_contact_points :: ContactPoint] 
+- [ #has/_contact_points :: ContactPoint ] or 
+- [ has_contact_points :: ContactPoint ] 
 
 A contact point for a person or organization.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person]
-( #has_/name :: is_contact_points)
-( #has_/range :: ContactPoint)
+[ #has_/domain  :: Organization, Person ]
+( #has_/name :: is_contact_points )
+( #has_/range :: ContactPoint )
 

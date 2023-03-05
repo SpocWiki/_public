@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_authenticator
 
 linkTitle: has_authenticator
-keywords: 
+keywords: [authenticator]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_authenticator :: Organization] or 
-- [ has_authenticator :: Organization] 
+- [ #has/_authenticator :: Organization ] or 
+- [ has_authenticator :: Organization ] 
 
 The Organization responsible for authenticating the user&#x27;s subscription. For example, many media apps require a cable/satellite provider to authenticate your subscription before playing media.
 
 Relation describes that: 
-[ #has_/domain  :: MediaSubscription]
-( #has_/name :: is_authenticator)
-( #has_/range :: Organization)
+[ #has_/domain  :: MediaSubscription ]
+( #has_/name :: is_authenticator )
+( #has_/range :: Organization )
 

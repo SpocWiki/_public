@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_chemical_role
 
 linkTitle: has_chemical_role
-keywords: 
+keywords: [chemical, role]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_chemical_role
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_chemical_role :: DefinedTerm] or 
-- [ has_chemical_role :: DefinedTerm] 
+- [ #has/_chemical_role :: DefinedTerm ] or 
+- [ has_chemical_role :: DefinedTerm ] 
 
 A role played by the BioChemEntity within a chemical context.
 
 Relation describes that: 
-[ #has_/domain  :: ChemicalSubstance, MolecularEntity]
-( #has_/name :: is_chemical_role)
-( #has_/range :: DefinedTerm)
+[ #has_/domain  :: ChemicalSubstance, MolecularEntity ]
+( #has_/name :: is_chemical_role )
+( #has_/range :: DefinedTerm )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_boarding_policy
 
 linkTitle: has_boarding_policy
-keywords: 
+keywords: [boarding, policy]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_boarding_policy :: BoardingPolicyType] or 
-- [ has_boarding_policy :: BoardingPolicyType] 
+- [ #has/_boarding_policy :: BoardingPolicyType ] or 
+- [ has_boarding_policy :: BoardingPolicyType ] 
 
 The type of boarding policy used by the airline (e.g. zone-based or group-based).
 
 Relation describes that: 
-[ #has_/domain  :: Airline, Flight]
-( #has_/name :: is_boarding_policy)
-( #has_/range :: BoardingPolicyType)
+[ #has_/domain  :: Airline, Flight ]
+( #has_/name :: is_boarding_policy )
+( #has_/range :: BoardingPolicyType )
 

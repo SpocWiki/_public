@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_representation
 
 linkTitle: has_representation
-keywords: 
+keywords: [representation]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_representation
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_representation :: PropertyValue, Text, URL] or 
-- [ has_representation :: PropertyValue, Text, URL] 
+- [ #has/_representation :: PropertyValue, Text, URL ] or 
+- [ has_representation :: PropertyValue, Text, URL ] 
 
 A common representation such as a protein sequence or chemical structure for this entity. For images use schema.org/image.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity]
-( #has_/name :: is_representation)
-( #has_/range :: PropertyValue, Text, URL)
+[ #has_/domain  :: BioChemEntity ]
+( #has_/name :: is_representation )
+( #has_/range :: PropertyValue, Text, URL )
 
-[ #has_/sub_properties :: hasBioPolymerSequence, inChI, inChIKey, smiles]
+[ #has_/sub_properties :: [ hasBioPolymerSequence, inChI, inChIKey, smiles ] ]
 

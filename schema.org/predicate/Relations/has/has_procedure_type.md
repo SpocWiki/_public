@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_procedure_type
 
 linkTitle: has_procedure_type
-keywords: 
+keywords: [procedure, type]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_procedure_type :: MedicalProcedureType] or 
-- [ has_procedure_type :: MedicalProcedureType] 
+- [ #has/_procedure_type :: MedicalProcedureType ] or 
+- [ has_procedure_type :: MedicalProcedureType ] 
 
 The type of procedure, for example Surgical, Noninvasive, or Percutaneous.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalProcedure]
-( #has_/name :: is_procedure_type)
-( #has_/range :: MedicalProcedureType)
+[ #has_/domain  :: MedicalProcedure ]
+( #has_/name :: is_procedure_type )
+( #has_/range :: MedicalProcedureType )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_related_therapy
 
 linkTitle: has_related_therapy
-keywords: 
+keywords: [related, therapy]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_therapy :: MedicalTherapy] or 
-- [ has_related_therapy :: MedicalTherapy] 
+- [ #has/_related_therapy :: MedicalTherapy ] or 
+- [ has_related_therapy :: MedicalTherapy ] 
 
 A medical therapy related to this anatomy.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy]
-( #has_/name :: is_related_therapy)
-( #has_/range :: MedicalTherapy)
+[ #has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ]
+( #has_/name :: is_related_therapy )
+( #has_/range :: MedicalTherapy )
 

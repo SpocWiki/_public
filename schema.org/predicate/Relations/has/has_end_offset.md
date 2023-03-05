@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_end_offset
 
 linkTitle: has_end_offset
-keywords: 
+keywords: [end, offset]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_end_offset
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_end_offset :: HyperTocEntry, Number] or 
-- [ has_end_offset :: HyperTocEntry, Number] 
+- [ #has/_end_offset :: HyperTocEntry, Number ] or 
+- [ has_end_offset :: HyperTocEntry, Number ] 
 
 The end time of the clip expressed as the number of seconds from the beginning of the work.
 
 Relation describes that: 
-[ #has_/domain  :: Clip]
-( #has_/name :: is_end_offset)
-( #has_/range :: HyperTocEntry, Number)
+[ #has_/domain  :: Clip ]
+( #has_/name :: is_end_offset )
+( #has_/range :: HyperTocEntry, Number )
 

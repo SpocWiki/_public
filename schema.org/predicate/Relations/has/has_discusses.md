@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_discusses
 
 linkTitle: has_discusses
-keywords: 
+keywords: [discusses]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_discusses :: CreativeWork] or 
-- [ has_discusses :: CreativeWork] 
+- [ #has/_discusses :: CreativeWork ] or 
+- [ has_discusses :: CreativeWork ] 
 
 Specifies the CreativeWork associated with the UserComment.
 
 Relation describes that: 
-[ #has_/domain  :: UserComments]
-( #has_/name :: is_discusses)
-( #has_/range :: CreativeWork)
+[ #has_/domain  :: UserComments ]
+( #has_/name :: is_discusses )
+( #has_/range :: CreativeWork )
 

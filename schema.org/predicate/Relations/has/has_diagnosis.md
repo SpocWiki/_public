@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_diagnosis
 
 linkTitle: has_diagnosis
-keywords: 
+keywords: [diagnosis]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_diagnosis :: MedicalCondition] or 
-- [ has_diagnosis :: MedicalCondition] 
+- [ #has/_diagnosis :: MedicalCondition ] or 
+- [ has_diagnosis :: MedicalCondition ] 
 
 One or more alternative conditions considered in the differential diagnosis process as output of a diagnosis process.
 
 Relation describes that: 
-[ #has_/domain  :: DDxElement, Patient]
-( #has_/name :: is_diagnosis)
-( #has_/range :: MedicalCondition)
+[ #has_/domain  :: DDxElement, Patient ]
+( #has_/name :: is_diagnosis )
+( #has_/range :: MedicalCondition )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_event
 
 linkTitle: has_event
-keywords: 
+keywords: [event]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_event :: Event] or 
-- [ has_event :: Event] 
+- [ #has/_event :: Event ] or 
+- [ has_event :: Event ] 
 
 Upcoming or past event associated with this place, organization, or action.
 
 Relation describes that: 
-[ #has_/domain  :: InformAction, InviteAction, JoinAction, LeaveAction, Organization, Place, PlayAction]
-( #has_/name :: is_event)
-( #has_/range :: Event)
+[ #has_/domain  :: InformAction, InviteAction, JoinAction, LeaveAction, Organization, Place, PlayAction ]
+( #has_/name :: is_event )
+( #has_/range :: Event )
 

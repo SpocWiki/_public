@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_artist
 
 linkTitle: has_artist
-keywords: 
+keywords: [artist]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_artist
 ---
 
-[ #is_/part_of :: https://bib.schema.org]
+[ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_artist :: Person] or 
-- [ has_artist :: Person] 
+- [ #has/_artist :: Person ] or 
+- [ has_artist :: Person ] 
 
 The primary artist for a work
         in a medium other than pencils or digital line art--for example, if the
         primary artwork is done in watercolors or digital paints.
 
 Relation describes that: 
-[ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork]
-( #has_/name :: is_artist)
-( #has_/range :: Person)
+[ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
+( #has_/name :: is_artist )
+( #has_/range :: Person )
 

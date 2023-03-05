@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_associated_anatomy
 
 linkTitle: has_associated_anatomy
-keywords: 
+keywords: [associated, anatomy]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy] or 
-- [ has_associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy] 
+- [ #has/_associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ] or 
+- [ has_associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ] 
 
 The anatomy of the underlying organ system or structures associated with this entity.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition, PhysicalActivity]
-( #has_/name :: is_associated_anatomy)
-( #has_/range :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy)
+[ #has_/domain  :: MedicalCondition, PhysicalActivity ]
+( #has_/name :: is_associated_anatomy )
+( #has_/range :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy )
 

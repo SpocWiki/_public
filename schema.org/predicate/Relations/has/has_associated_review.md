@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_associated_review
 
 linkTitle: has_associated_review
-keywords: 
+keywords: [associated, review]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_associated_review
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_associated_review :: Review] or 
-- [ has_associated_review :: Review] 
+- [ #has/_associated_review :: Review ] or 
+- [ has_associated_review :: Review ] 
 
 An associated &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Review&quot;&gt;Review&lt;/a&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: Review]
-( #has_/name :: is_associated_review)
-( #has_/range :: Review)
+[ #has_/domain  :: Review ]
+( #has_/name :: is_associated_review )
+( #has_/range :: Review )
 
-[ #has_/sub_properties :: associatedClaimReview, associatedMediaReview]
+[ #has_/sub_properties :: [ associatedClaimReview, associatedMediaReview ] ]
 

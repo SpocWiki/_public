@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_beneficiary_bank
 
 linkTitle: has_beneficiary_bank
-keywords: 
+keywords: [beneficiary, bank]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_beneficiary_bank
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_beneficiary_bank :: BankOrCreditUnion, Text] or 
-- [ has_beneficiary_bank :: BankOrCreditUnion, Text] 
+- [ #has/_beneficiary_bank :: BankOrCreditUnion, Text ] or 
+- [ has_beneficiary_bank :: BankOrCreditUnion, Text ] 
 
 A bank or bank�s branch, financial institution or international financial institution operating the beneficiary�s bank account or releasing funds for the beneficiary.
 
 Relation describes that: 
-[ #has_/domain  :: MoneyTransfer]
-( #has_/name :: is_beneficiary_bank)
-( #has_/range :: BankOrCreditUnion, Text)
+[ #has_/domain  :: MoneyTransfer ]
+( #has_/name :: is_beneficiary_bank )
+( #has_/range :: BankOrCreditUnion, Text )
 

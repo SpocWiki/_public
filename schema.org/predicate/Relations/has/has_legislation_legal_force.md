@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_legislation_legal_force
 
 linkTitle: has_legislation_legal_force
-keywords: 
+keywords: [legislation, legal, force]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_legislation_legal_force
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_legislation_legal_force :: LegalForceStatus] or 
-- [ has_legislation_legal_force :: LegalForceStatus] 
+- [ #has/_legislation_legal_force :: LegalForceStatus ] or 
+- [ has_legislation_legal_force :: LegalForceStatus ] 
 
 Whether the legislation is currently in force, not in force, or partially in force.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation]
-( #has_/name :: is_legislation_legal_force)
-( #has_/range :: LegalForceStatus)
+[ #has_/domain  :: Legislation ]
+( #has_/name :: is_legislation_legal_force )
+( #has_/range :: LegalForceStatus )
 

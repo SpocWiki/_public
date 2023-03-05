@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_accepted_offer
 
 linkTitle: has_accepted_offer
-keywords: [accept, offer]
+keywords: [accepted, offer]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_accepted_offer :: Offer] or 
-- [ has_accepted_offer :: Offer] 
+- [ #has/_accepted_offer :: Offer ] or 
+- [ has_accepted_offer :: Offer ] 
 
 The offer(s) -- e.g., product, quantity and price combinations -- included in the order.
 
 Relation describes that: 
-[ #has_/domain  :: Order]
-( #has_/name :: is_accepted_offer)
-( #has_/range :: Offer)
+[ #has_/domain  :: Order ]
+( #has_/name :: is_accepted_offer )
+( #has_/range :: Offer )
 

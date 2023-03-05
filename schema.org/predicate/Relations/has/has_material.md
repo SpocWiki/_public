@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_material
 
 linkTitle: has_material
-keywords: 
+keywords: [material]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_material :: Product, Text, URL] or 
-- [ has_material :: Product, Text, URL] 
+- [ #has/_material :: Product, Text, URL ] or 
+- [ has_material :: Product, Text, URL ] 
 
 A material that something is made from, e.g. leather, wool, cotton, paper.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Product]
-( #has_/name :: is_material)
-( #has_/range :: Product, Text, URL)
+[ #has_/domain  :: CreativeWork, Product ]
+( #has_/name :: is_material )
+( #has_/range :: Product, Text, URL )
 
-[ #has_/sub_properties :: artMedium, surface]
+[ #has_/sub_properties :: [ artMedium, surface ] ]
 

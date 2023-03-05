@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_data_feed_element
 
 linkTitle: has_data_feed_element
-keywords: 
+keywords: [data, feed, element]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_data_feed_element :: DataFeedItem, Text, Thing] or 
-- [ has_data_feed_element :: DataFeedItem, Text, Thing] 
+- [ #has/_data_feed_element :: DataFeedItem, Text, Thing ] or 
+- [ has_data_feed_element :: DataFeedItem, Text, Thing ] 
 
 An item within a data feed. Data feeds may have many elements.
 
 Relation describes that: 
-[ #has_/domain  :: DataFeed]
-( #has_/name :: is_data_feed_element)
-( #has_/range :: DataFeedItem, Text, Thing)
+[ #has_/domain  :: DataFeed ]
+( #has_/name :: is_data_feed_element )
+( #has_/range :: DataFeedItem, Text, Thing )
 

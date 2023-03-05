@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_included_risk_factor
 
 linkTitle: has_included_risk_factor
-keywords: 
+keywords: [included, risk, factor]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_included_risk_factor :: MedicalRiskFactor] or 
-- [ has_included_risk_factor :: MedicalRiskFactor] 
+- [ #has/_included_risk_factor :: MedicalRiskFactor ] or 
+- [ has_included_risk_factor :: MedicalRiskFactor ] 
 
 A modifiable or non-modifiable risk factor included in the calculation, e.g. age, coexisting condition.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalRiskEstimator]
-( #has_/name :: is_included_risk_factor)
-( #has_/range :: MedicalRiskFactor)
+[ #has_/domain  :: MedicalRiskEstimator ]
+( #has_/name :: is_included_risk_factor )
+( #has_/range :: MedicalRiskFactor )
 

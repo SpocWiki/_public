@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_vendor
 
 linkTitle: has_vendor
-keywords: 
+keywords: [vendor]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_vendor :: Organization, Person] or 
-- [ has_vendor :: Organization, Person] 
+- [ #has/_vendor :: Organization, Person ] or 
+- [ has_vendor :: Organization, Person ] 
 
 &#x27;vendor&#x27; is an earlier term for &#x27;seller&#x27;.
 
 Relation describes that: 
-[ #has_/domain  :: BuyAction]
-( #has_/name :: is_vendor)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: BuyAction ]
+( #has_/name :: is_vendor )
+( #has_/range :: Organization, Person )
 
-[ #is_/sub_property_of  :: participant]
+[ #is_/sub_property_of  :: participant ]
 

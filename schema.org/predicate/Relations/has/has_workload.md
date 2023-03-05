@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_workload
 
 linkTitle: has_workload
-keywords: 
+keywords: [workload]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_workload :: Energy, QuantitativeValue] or 
-- [ has_workload :: Energy, QuantitativeValue] 
+- [ #has/_workload :: Energy, QuantitativeValue ] or 
+- [ has_workload :: Energy, QuantitativeValue ] 
 
 Quantitative measure of the physiologic output of the exercise; also referred to as energy expenditure.
 
 Relation describes that: 
-[ #has_/domain  :: ExercisePlan]
-( #has_/name :: is_workload)
-( #has_/range :: Energy, QuantitativeValue)
+[ #has_/domain  :: ExercisePlan ]
+( #has_/name :: is_workload )
+( #has_/range :: Energy, QuantitativeValue )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_seeks
 
 linkTitle: has_seeks
-keywords: 
+keywords: [seeks]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_seeks :: Demand] or 
-- [ has_seeks :: Demand] 
+- [ #has/_seeks :: Demand ] or 
+- [ has_seeks :: Demand ] 
 
 A pointer to products or services sought by the organization or person (demand).
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person]
-( #has_/name :: is_seeks)
-( #has_/range :: Demand)
+[ #has_/domain  :: Organization, Person ]
+( #has_/name :: is_seeks )
+( #has_/range :: Demand )
 

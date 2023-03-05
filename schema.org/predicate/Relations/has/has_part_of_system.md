@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_part_of_system
 
 linkTitle: has_part_of_system
-keywords: 
+keywords: [part, of, system]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_part_of_system :: AnatomicalSystem] or 
-- [ has_part_of_system :: AnatomicalSystem] 
+- [ #has/_part_of_system :: AnatomicalSystem ] or 
+- [ has_part_of_system :: AnatomicalSystem ] 
 
 The anatomical or organ system that this structure is part of.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure]
-( #has_/name :: is_part_of_system)
-( #has_/range :: AnatomicalSystem)
+[ #has_/domain  :: AnatomicalStructure ]
+( #has_/name :: is_part_of_system )
+( #has_/range :: AnatomicalSystem )
 

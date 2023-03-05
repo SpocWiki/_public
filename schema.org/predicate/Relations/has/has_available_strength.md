@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_available_strength
 
 linkTitle: has_available_strength
-keywords: 
+keywords: [available, strength]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_strength :: DrugStrength] or 
-- [ has_available_strength :: DrugStrength] 
+- [ #has/_available_strength :: DrugStrength ] or 
+- [ has_available_strength :: DrugStrength ] 
 
 An available dosage strength for the drug.
 
 Relation describes that: 
-[ #has_/domain  :: Drug]
-( #has_/name :: is_available_strength)
-( #has_/range :: DrugStrength)
+[ #has_/domain  :: Drug ]
+( #has_/name :: is_available_strength )
+( #has_/range :: DrugStrength )
 

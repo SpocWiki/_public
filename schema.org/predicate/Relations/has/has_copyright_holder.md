@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_copyright_holder
 
 linkTitle: has_copyright_holder
-keywords: 
+keywords: [copyright, holder]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_copyright_holder :: Organization, Person] or 
-- [ has_copyright_holder :: Organization, Person] 
+- [ #has/_copyright_holder :: Organization, Person ] or 
+- [ has_copyright_holder :: Organization, Person ] 
 
 The party holding the legal copyright to the CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_copyright_holder)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_copyright_holder )
+( #has_/range :: Organization, Person )
 

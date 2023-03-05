@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_departure_station
 
 linkTitle: has_departure_station
-keywords: 
+keywords: [departure, station]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_departure_station :: TrainStation] or 
-- [ has_departure_station :: TrainStation] 
+- [ #has/_departure_station :: TrainStation ] or 
+- [ has_departure_station :: TrainStation ] 
 
 The station from which the train departs.
 
 Relation describes that: 
-[ #has_/domain  :: TrainTrip]
-( #has_/name :: is_departure_station)
-( #has_/range :: TrainStation)
+[ #has_/domain  :: TrainTrip ]
+( #has_/name :: is_departure_station )
+( #has_/range :: TrainStation )
 

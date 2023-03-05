@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_accountable_person
 
 linkTitle: has_accountable_person
-keywords: 
+keywords: [accountable, person]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_accountable_person :: Person] or 
-- [ has_accountable_person :: Person] 
+- [ #has/_accountable_person :: Person ] or 
+- [ has_accountable_person :: Person ] 
 
 Specifies the Person that is legally accountable for the CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_accountable_person)
-( #has_/range :: Person)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_accountable_person )
+( #has_/range :: Person )
 

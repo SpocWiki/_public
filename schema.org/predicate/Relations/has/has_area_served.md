@@ -13,14 +13,14 @@ type: Predi_Relation
 title: has_area_served
 
 linkTitle: has_area_served
-keywords: 
+keywords: [area, served]
 layout: 
 draft: false
 publishDate:
 expiryDate: 
 
 supersedes: serviceArea
-superseded_by: 
+superseded_by:  
 
 tags:
 - schema.org/Predicate/Relation
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_area_served :: AdministrativeArea, GeoShape, Place, Text] or 
-- [ has_area_served :: AdministrativeArea, GeoShape, Place, Text] 
+- [ #has/_area_served :: AdministrativeArea, GeoShape, Place, Text ] or 
+- [ has_area_served :: AdministrativeArea, GeoShape, Place, Text ] 
 
 The geographic area where a service or offered item is provided.
 
 Relation describes that: 
-[ #has_/domain  :: ContactPoint, DeliveryChargeSpecification, Demand, Offer, Organization, Service]
-( #has_/name :: is_area_served)
-( #has_/range :: AdministrativeArea, GeoShape, Place, Text)
+[ #has_/domain  :: ContactPoint, DeliveryChargeSpecification, Demand, Offer, Organization, Service ]
+( #has_/name :: is_area_served )
+( #has_/range :: AdministrativeArea, GeoShape, Place, Text )
 
-[ #has_/sub_properties :: availableAtOrFrom, eligibleRegion]
+[ #has_/sub_properties :: [ availableAtOrFrom, eligibleRegion ] ]
 

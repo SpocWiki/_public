@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_composer
 
 linkTitle: has_composer
-keywords: 
+keywords: [composer]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_composer :: Organization, Person] or 
-- [ has_composer :: Organization, Person] 
+- [ #has/_composer :: Organization, Person ] or 
+- [ has_composer :: Organization, Person ] 
 
 The person or organization who wrote a composition, or who is the composer of a work performed at some event.
 
 Relation describes that: 
-[ #has_/domain  :: Event, MusicComposition]
-( #has_/name :: is_composer)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: Event, MusicComposition ]
+( #has_/name :: is_composer )
+( #has_/range :: Organization, Person )
 

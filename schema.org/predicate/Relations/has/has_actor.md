@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_actor
 
 linkTitle: has_actor
-keywords: 
+keywords: [actor]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_actor :: Person] or 
-- [ has_actor :: Person] 
+- [ #has/_actor :: Person ] or 
+- [ has_actor :: Person ] 
 
 An actor, e.g. in TV, radio, movie, video games etc., or in an event. Actors can be associated with individual items or with a series, episode, clip.
 
 Relation describes that: 
-[ #has_/domain  :: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, PodcastSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject]
-( #has_/name :: is_actor)
-( #has_/range :: Person)
+[ #has_/domain  :: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, PodcastSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject ]
+( #has_/name :: is_actor )
+( #has_/range :: Person )
 
-[ #has_/sub_properties :: readBy]
+[ #has_/sub_properties :: [ readBy ] ]
 

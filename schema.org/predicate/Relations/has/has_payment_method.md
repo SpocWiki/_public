@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_payment_method
 
 linkTitle: has_payment_method
-keywords: 
+keywords: [payment, method]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_payment_method :: PaymentMethod] or 
-- [ has_payment_method :: PaymentMethod] 
+- [ #has/_payment_method :: PaymentMethod ] or 
+- [ has_payment_method :: PaymentMethod ] 
 
 The name of the credit card or other method of payment for the order.
 
 Relation describes that: 
-[ #has_/domain  :: Invoice, Order]
-( #has_/name :: is_payment_method)
-( #has_/range :: PaymentMethod)
+[ #has_/domain  :: Invoice, Order ]
+( #has_/name :: is_payment_method )
+( #has_/range :: PaymentMethod )
 

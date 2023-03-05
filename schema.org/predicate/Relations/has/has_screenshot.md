@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_screenshot
 
 linkTitle: has_screenshot
-keywords: 
+keywords: [screenshot]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_screenshot :: ImageObject, URL] or 
-- [ has_screenshot :: ImageObject, URL] 
+- [ #has/_screenshot :: ImageObject, URL ] or 
+- [ has_screenshot :: ImageObject, URL ] 
 
 A link to a screenshot image of the app.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication]
-( #has_/name :: is_screenshot)
-( #has_/range :: ImageObject, URL)
+[ #has_/domain  :: SoftwareApplication ]
+( #has_/name :: is_screenshot )
+( #has_/range :: ImageObject, URL )
 

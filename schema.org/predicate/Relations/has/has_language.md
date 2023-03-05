@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_language
 
 linkTitle: has_language
-keywords: 
+keywords: [language]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_language :: Language] or 
-- [ has_language :: Language] 
+- [ #has/_language :: Language ] or 
+- [ has_language :: Language ] 
 
 A sub property of instrument. The language used on this action.
 
 Relation describes that: 
-[ #has_/domain  :: CommunicateAction, WriteAction]
-( #has_/name :: is_language)
-( #has_/range :: Language)
+[ #has_/domain  :: CommunicateAction, WriteAction ]
+( #has_/name :: is_language )
+( #has_/range :: Language )
 
-[ #is_/sub_property_of  :: instrument]
+[ #is_/sub_property_of  :: instrument ]
 

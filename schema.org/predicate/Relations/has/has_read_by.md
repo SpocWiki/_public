@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_read_by
 
 linkTitle: has_read_by
-keywords: 
+keywords: [read, by]
 layout: 
 draft: false
 publishDate:
@@ -32,18 +32,18 @@ aliases:
 - has_read_by
 ---
 
-[ #is_/part_of :: https://bib.schema.org]
+[ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_read_by :: Person] or 
-- [ has_read_by :: Person] 
+- [ #has/_read_by :: Person ] or 
+- [ has_read_by :: Person ] 
 
 A person who reads (performs) the audiobook.
 
 Relation describes that: 
-[ #has_/domain  :: Audiobook]
-( #has_/name :: is_read_by)
-( #has_/range :: Person)
+[ #has_/domain  :: Audiobook ]
+( #has_/name :: is_read_by )
+( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: actor]
+[ #is_/sub_property_of  :: actor ]
 

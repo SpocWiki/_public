@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_greater
 
 linkTitle: has_greater
-keywords: 
+keywords: [greater]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_greater :: QualitativeValue] or 
-- [ has_greater :: QualitativeValue] 
+- [ #has/_greater :: QualitativeValue ] or 
+- [ has_greater :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is greater than the object.
 
 Relation describes that: 
-[ #has_/domain  :: QualitativeValue]
-( #has_/name :: is_greater)
-( #has_/range :: QualitativeValue)
+[ #has_/domain  :: QualitativeValue ]
+( #has_/name :: is_greater )
+( #has_/range :: QualitativeValue )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_endorsee
 
 linkTitle: has_endorsee
-keywords: 
+keywords: [endorsee]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_endorsee :: Organization, Person] or 
-- [ has_endorsee :: Organization, Person] 
+- [ #has/_endorsee :: Organization, Person ] or 
+- [ has_endorsee :: Organization, Person ] 
 
 A sub property of participant. The person/organization being supported.
 
 Relation describes that: 
-[ #has_/domain  :: EndorseAction]
-( #has_/name :: is_endorsee)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: EndorseAction ]
+( #has_/name :: is_endorsee )
+( #has_/range :: Organization, Person )
 
-[ #is_/sub_property_of  :: participant]
+[ #is_/sub_property_of  :: participant ]
 

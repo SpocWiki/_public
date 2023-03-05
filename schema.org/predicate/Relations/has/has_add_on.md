@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_add_on
 
 linkTitle: has_add_on
-keywords: 
+keywords: [add, on]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_add_on :: Offer] or 
-- [ has_add_on :: Offer] 
+- [ #has/_add_on :: Offer ] or 
+- [ has_add_on :: Offer ] 
 
 An additional offer that can only be obtained in combination with the first base offer (e.g. supplements and extensions that are available for a surcharge).
 
 Relation describes that: 
-[ #has_/domain  :: Offer]
-( #has_/name :: is_add_on)
-( #has_/range :: Offer)
+[ #has_/domain  :: Offer ]
+( #has_/name :: is_add_on )
+( #has_/range :: Offer )
 

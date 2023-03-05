@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sub_test
 
 linkTitle: has_sub_test
-keywords: 
+keywords: [sub, test]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sub_test :: MedicalTest] or 
-- [ has_sub_test :: MedicalTest] 
+- [ #has/_sub_test :: MedicalTest ] or 
+- [ has_sub_test :: MedicalTest ] 
 
 A component test of the panel.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTestPanel]
-( #has_/name :: is_sub_test)
-( #has_/range :: MedicalTest)
+[ #has_/domain  :: MedicalTestPanel ]
+( #has_/name :: is_sub_test )
+( #has_/range :: MedicalTest )
 

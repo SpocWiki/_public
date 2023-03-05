@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_energy_efficiency_category
 
 linkTitle: has_energy_efficiency_category
-keywords: 
+keywords: [energy, efficiency, category]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_energy_efficiency_category
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_energy_efficiency_category :: EnergyEfficiencyEnumeration] or 
-- [ has_energy_efficiency_category :: EnergyEfficiencyEnumeration] 
+- [ #has/_energy_efficiency_category :: EnergyEfficiencyEnumeration ] or 
+- [ has_energy_efficiency_category :: EnergyEfficiencyEnumeration ] 
 
 Defines the energy efficiency Category (which could be either a rating out of range of values or a yes/no certification) for a product according to an international energy efficiency standard.
 
 Relation describes that: 
-[ #has_/domain  :: EnergyConsumptionDetails]
-( #has_/name :: is_energy_efficiency_category)
-( #has_/range :: EnergyEfficiencyEnumeration)
+[ #has_/domain  :: EnergyConsumptionDetails ]
+( #has_/name :: is_energy_efficiency_category )
+( #has_/range :: EnergyEfficiencyEnumeration )
 

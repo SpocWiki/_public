@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_industry
 
 linkTitle: has_industry
-keywords: 
+keywords: [industry]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_industry :: DefinedTerm, Text] or 
-- [ has_industry :: DefinedTerm, Text] 
+- [ #has/_industry :: DefinedTerm, Text ] or 
+- [ has_industry :: DefinedTerm, Text ] 
 
 The industry associated with the job position.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting]
-( #has_/name :: is_industry)
-( #has_/range :: DefinedTerm, Text)
+[ #has_/domain  :: JobPosting ]
+( #has_/name :: is_industry )
+( #has_/range :: DefinedTerm, Text )
 

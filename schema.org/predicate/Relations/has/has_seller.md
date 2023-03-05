@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_seller
 
 linkTitle: has_seller
-keywords: 
+keywords: [seller]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_seller :: Organization, Person] or 
-- [ has_seller :: Organization, Person] 
+- [ #has/_seller :: Organization, Person ] or 
+- [ has_seller :: Organization, Person ] 
 
 An entity which offers (sells / leases / lends / loans) the services / goods.  A seller may also be a provider.
 
 Relation describes that: 
-[ #has_/domain  :: BuyAction, Demand, Flight, Offer, Order]
-( #has_/name :: is_seller)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: BuyAction, Demand, Flight, Offer, Order ]
+( #has_/name :: is_seller )
+( #has_/range :: Organization, Person )
 
-[ #is_/sub_property_of  :: participant]
+[ #is_/sub_property_of  :: participant ]
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_sub_events
 
 linkTitle: has_sub_events
-keywords: 
+keywords: [sub, events]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sub_events :: Event] or 
-- [ has_sub_events :: Event] 
+- [ #has/_sub_events :: Event ] or 
+- [ has_sub_events :: Event ] 
 
 Events that are a part of this event. For example, a conference event includes many presentations, each subEvents of the conference.
 
 Relation describes that: 
-[ #has_/domain  :: Event]
-( #has_/name :: is_sub_events)
-( #has_/range :: Event)
+[ #has_/domain  :: Event ]
+( #has_/name :: is_sub_events )
+( #has_/range :: Event )
 

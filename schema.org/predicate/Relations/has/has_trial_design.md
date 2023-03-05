@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_trial_design
 
 linkTitle: has_trial_design
-keywords: 
+keywords: [trial, design]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_trial_design :: MedicalTrialDesign] or 
-- [ has_trial_design :: MedicalTrialDesign] 
+- [ #has/_trial_design :: MedicalTrialDesign ] or 
+- [ has_trial_design :: MedicalTrialDesign ] 
 
 Specifics about the trial design (enumerated).
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTrial]
-( #has_/name :: is_trial_design)
-( #has_/range :: MedicalTrialDesign)
+[ #has_/domain  :: MedicalTrial ]
+( #has_/name :: is_trial_design )
+( #has_/range :: MedicalTrialDesign )
 

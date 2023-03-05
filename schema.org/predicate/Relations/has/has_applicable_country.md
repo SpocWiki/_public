@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_applicable_country
 
 linkTitle: has_applicable_country
-keywords: 
+keywords: [applicable, country]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_applicable_country
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_applicable_country :: Country, Text] or 
-- [ has_applicable_country :: Country, Text] 
+- [ #has/_applicable_country :: Country, Text ] or 
+- [ has_applicable_country :: Country, Text ] 
 
 A country where a particular merchant return policy applies to, for example the two-letter ISO 3166-1 alpha-2 country code.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy]
-( #has_/name :: is_applicable_country)
-( #has_/range :: Country, Text)
+[ #has_/domain  :: MerchantReturnPolicy ]
+( #has_/name :: is_applicable_country )
+( #has_/range :: Country, Text )
 

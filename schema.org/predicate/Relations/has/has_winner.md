@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_winner
 
 linkTitle: has_winner
-keywords: 
+keywords: [winner]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_winner :: Person] or 
-- [ has_winner :: Person] 
+- [ #has/_winner :: Person ] or 
+- [ has_winner :: Person ] 
 
 A sub property of participant. The winner of the action.
 
 Relation describes that: 
-[ #has_/domain  :: LoseAction]
-( #has_/name :: is_winner)
-( #has_/range :: Person)
+[ #has_/domain  :: LoseAction ]
+( #has_/name :: is_winner )
+( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: participant]
+[ #is_/sub_property_of  :: participant ]
 

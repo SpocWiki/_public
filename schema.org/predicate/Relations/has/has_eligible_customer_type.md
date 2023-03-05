@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_eligible_customer_type
 
 linkTitle: has_eligible_customer_type
-keywords: 
+keywords: [eligible, customer, type]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_eligible_customer_type :: BusinessEntityType] or 
-- [ has_eligible_customer_type :: BusinessEntityType] 
+- [ #has/_eligible_customer_type :: BusinessEntityType ] or 
+- [ has_eligible_customer_type :: BusinessEntityType ] 
 
 The type(s) of customers for which the given offer is valid.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer]
-( #has_/name :: is_eligible_customer_type)
-( #has_/range :: BusinessEntityType)
+[ #has_/domain  :: Demand, Offer ]
+( #has_/name :: is_eligible_customer_type )
+( #has_/range :: BusinessEntityType )
 

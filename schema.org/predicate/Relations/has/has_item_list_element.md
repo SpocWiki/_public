@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_item_list_element
 
 linkTitle: has_item_list_element
-keywords: 
+keywords: [item, list, element]
 layout: 
 draft: false
 publishDate:
@@ -33,8 +33,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item_list_element :: ListItem, Text, Thing] or 
-- [ has_item_list_element :: ListItem, Text, Thing] 
+- [ #has/_item_list_element :: ListItem, Text, Thing ] or 
+- [ has_item_list_element :: ListItem, Text, Thing ] 
 
 For itemListElement values, you can use simple strings (e.g. &quot;Peter&quot;, &quot;Paul&quot;, &quot;Mary&quot;), existing entities, or use ListItem.&lt;br/&gt;&lt;br/&gt;
 
@@ -43,7 +43,7 @@ Text values are best if the elements in the list are plain strings. Existing ent
 Note: The order of elements in your mark-up is not sufficient for indicating the order or elements.  Use ListItem with a &#x27;position&#x27; property in such cases.
 
 Relation describes that: 
-[ #has_/domain  :: ItemList]
-( #has_/name :: is_item_list_element)
-( #has_/range :: ListItem, Text, Thing)
+[ #has_/domain  :: ItemList ]
+( #has_/name :: is_item_list_element )
+( #has_/range :: ListItem, Text, Thing )
 

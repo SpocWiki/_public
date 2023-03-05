@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_related_to
 
 linkTitle: has_related_to
-keywords: 
+keywords: [related, to]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_to :: Person] or 
-- [ has_related_to :: Person] 
+- [ #has/_related_to :: Person ] or 
+- [ has_related_to :: Person ] 
 
 The most generic familial relation.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_related_to)
-( #has_/range :: Person)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_related_to )
+( #has_/range :: Person )
 

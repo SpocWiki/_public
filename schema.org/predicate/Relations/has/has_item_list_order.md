@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_item_list_order
 
 linkTitle: has_item_list_order
-keywords: 
+keywords: [item, list, order]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item_list_order :: ItemListOrderType, Text] or 
-- [ has_item_list_order :: ItemListOrderType, Text] 
+- [ #has/_item_list_order :: ItemListOrderType, Text ] or 
+- [ has_item_list_order :: ItemListOrderType, Text ] 
 
 Type of ordering (e.g. Ascending, Descending, Unordered).
 
 Relation describes that: 
-[ #has_/domain  :: ItemList]
-( #has_/name :: is_item_list_order)
-( #has_/range :: ItemListOrderType, Text)
+[ #has_/domain  :: ItemList ]
+( #has_/name :: is_item_list_order )
+( #has_/range :: ItemListOrderType, Text )
 

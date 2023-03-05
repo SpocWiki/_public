@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_available_delivery_method
 
 linkTitle: has_available_delivery_method
-keywords: 
+keywords: [available, delivery, method]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_delivery_method :: DeliveryMethod] or 
-- [ has_available_delivery_method :: DeliveryMethod] 
+- [ #has/_available_delivery_method :: DeliveryMethod ] or 
+- [ has_available_delivery_method :: DeliveryMethod ] 
 
 The delivery method(s) available for this offer.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer]
-( #has_/name :: is_available_delivery_method)
-( #has_/range :: DeliveryMethod)
+[ #has_/domain  :: Demand, Offer ]
+( #has_/name :: is_available_delivery_method )
+( #has_/range :: DeliveryMethod )
 

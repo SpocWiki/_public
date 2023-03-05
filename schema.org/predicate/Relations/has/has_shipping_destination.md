@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_shipping_destination
 
 linkTitle: has_shipping_destination
-keywords: 
+keywords: [shipping, destination]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_shipping_destination
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_shipping_destination :: DefinedRegion] or 
-- [ has_shipping_destination :: DefinedRegion] 
+- [ #has/_shipping_destination :: DefinedRegion ] or 
+- [ has_shipping_destination :: DefinedRegion ] 
 
 indicates (possibly multiple) shipping destinations. These can be defined in several ways, e.g. postalCode ranges.
 
 Relation describes that: 
-[ #has_/domain  :: DeliveryTimeSettings, OfferShippingDetails, ShippingRateSettings]
-( #has_/name :: is_shipping_destination)
-( #has_/range :: DefinedRegion)
+[ #has_/domain  :: DeliveryTimeSettings, OfferShippingDetails, ShippingRateSettings ]
+( #has_/name :: is_shipping_destination )
+( #has_/range :: DefinedRegion )
 

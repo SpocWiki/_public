@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_recipe
 
 linkTitle: has_recipe
-keywords: 
+keywords: [recipe]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recipe :: Recipe] or 
-- [ has_recipe :: Recipe] 
+- [ #has/_recipe :: Recipe ] or 
+- [ has_recipe :: Recipe ] 
 
 A sub property of instrument. The recipe/instructions used to perform the action.
 
 Relation describes that: 
-[ #has_/domain  :: CookAction]
-( #has_/name :: is_recipe)
-( #has_/range :: Recipe)
+[ #has_/domain  :: CookAction ]
+( #has_/name :: is_recipe )
+( #has_/range :: Recipe )
 
-[ #is_/sub_property_of  :: instrument]
+[ #is_/sub_property_of  :: instrument ]
 

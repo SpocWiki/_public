@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_character
 
 linkTitle: has_character
-keywords: 
+keywords: [character]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_character :: Person] or 
-- [ has_character :: Person] 
+- [ #has/_character :: Person ] or 
+- [ has_character :: Person ] 
 
 Fictional person connected with a creative work.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_character)
-( #has_/range :: Person)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_character )
+( #has_/range :: Person )
 

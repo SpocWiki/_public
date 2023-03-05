@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_children
 
 linkTitle: has_children
-keywords: 
+keywords: [children]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_children :: Person] or 
-- [ has_children :: Person] 
+- [ #has/_children :: Person ] or 
+- [ has_children :: Person ] 
 
 A child of the person.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_children)
-( #has_/range :: Person)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_children )
+( #has_/range :: Person )
 

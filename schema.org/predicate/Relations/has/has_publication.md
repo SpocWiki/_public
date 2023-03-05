@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_publication
 
 linkTitle: has_publication
-keywords: 
+keywords: [publication]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_publication :: PublicationEvent] or 
-- [ has_publication :: PublicationEvent] 
+- [ #has/_publication :: PublicationEvent ] or 
+- [ has_publication :: PublicationEvent ] 
 
 A publication event associated with the item.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_publication)
-( #has_/range :: PublicationEvent)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_publication )
+( #has_/range :: PublicationEvent )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_geographic_area
 
 linkTitle: has_geographic_area
-keywords: 
+keywords: [geographic, area]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_geographic_area :: AdministrativeArea] or 
-- [ has_geographic_area :: AdministrativeArea] 
+- [ #has/_geographic_area :: AdministrativeArea ] or 
+- [ has_geographic_area :: AdministrativeArea ] 
 
 The geographic area associated with the audience.
 
 Relation describes that: 
-[ #has_/domain  :: Audience]
-( #has_/name :: is_geographic_area)
-( #has_/range :: AdministrativeArea)
+[ #has_/domain  :: Audience ]
+( #has_/name :: is_geographic_area )
+( #has_/range :: AdministrativeArea )
 

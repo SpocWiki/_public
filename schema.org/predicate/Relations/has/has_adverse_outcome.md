@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_adverse_outcome
 
 linkTitle: has_adverse_outcome
-keywords: 
+keywords: [adverse, outcome]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_adverse_outcome :: MedicalEntity] or 
-- [ has_adverse_outcome :: MedicalEntity] 
+- [ #has/_adverse_outcome :: MedicalEntity ] or 
+- [ has_adverse_outcome :: MedicalEntity ] 
 
 A possible complication and/or side effect of this therapy. If it is known that an adverse outcome is serious (resulting in death, disability, or permanent damage; requiring hospitalization; or otherwise life-threatening or requiring immediate medical attention), tag it as a seriousAdverseOutcome instead.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalDevice, TherapeuticProcedure]
-( #has_/name :: is_adverse_outcome)
-( #has_/range :: MedicalEntity)
+[ #has_/domain  :: MedicalDevice, TherapeuticProcedure ]
+( #has_/name :: is_adverse_outcome )
+( #has_/range :: MedicalEntity )
 

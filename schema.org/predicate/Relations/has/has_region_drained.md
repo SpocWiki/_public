@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_region_drained
 
 linkTitle: has_region_drained
-keywords: 
+keywords: [region, drained]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_region_drained :: AnatomicalStructure, AnatomicalSystem] or 
-- [ has_region_drained :: AnatomicalStructure, AnatomicalSystem] 
+- [ #has/_region_drained :: AnatomicalStructure, AnatomicalSystem ] or 
+- [ has_region_drained :: AnatomicalStructure, AnatomicalSystem ] 
 
 The anatomical or organ system drained by this vessel; generally refers to a specific part of an organ.
 
 Relation describes that: 
-[ #has_/domain  :: LymphaticVessel, Vein]
-( #has_/name :: is_region_drained)
-( #has_/range :: AnatomicalStructure, AnatomicalSystem)
+[ #has_/domain  :: LymphaticVessel, Vein ]
+( #has_/name :: is_region_drained )
+( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 

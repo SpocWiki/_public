@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_competency_required
 
 linkTitle: has_competency_required
-keywords: 
+keywords: [competency, required]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_competency_required
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_competency_required :: DefinedTerm, Text, URL] or 
-- [ has_competency_required :: DefinedTerm, Text, URL] 
+- [ #has/_competency_required :: DefinedTerm, Text, URL ] or 
+- [ has_competency_required :: DefinedTerm, Text, URL ] 
 
 Knowledge, skill, ability or personal attribute that must be demonstrated by a person or other entity in order to do something such as earn an Educational Occupational Credential or understand a LearningResource.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalCredential, LearningResource]
-( #has_/name :: is_competency_required)
-( #has_/range :: DefinedTerm, Text, URL)
+[ #has_/domain  :: EducationalOccupationalCredential, LearningResource ]
+( #has_/name :: is_competency_required )
+( #has_/range :: DefinedTerm, Text, URL )
 

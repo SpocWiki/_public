@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_guideline
 
 linkTitle: has_guideline
-keywords: 
+keywords: [guideline]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_guideline :: MedicalGuideline] or 
-- [ has_guideline :: MedicalGuideline] 
+- [ #has/_guideline :: MedicalGuideline ] or 
+- [ has_guideline :: MedicalGuideline ] 
 
 A medical guideline related to this entity.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity]
-( #has_/name :: is_guideline)
-( #has_/range :: MedicalGuideline)
+[ #has_/domain  :: MedicalEntity ]
+( #has_/name :: is_guideline )
+( #has_/range :: MedicalGuideline )
 

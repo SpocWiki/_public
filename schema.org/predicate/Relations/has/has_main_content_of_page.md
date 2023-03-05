@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_main_content_of_page
 
 linkTitle: has_main_content_of_page
-keywords: 
+keywords: [main, content, of, page]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_main_content_of_page :: WebPageElement] or 
-- [ has_main_content_of_page :: WebPageElement] 
+- [ #has/_main_content_of_page :: WebPageElement ] or 
+- [ has_main_content_of_page :: WebPageElement ] 
 
 Indicates if this web page element is the main subject of the page.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage]
-( #has_/name :: is_main_content_of_page)
-( #has_/range :: WebPageElement)
+[ #has_/domain  :: WebPage ]
+( #has_/name :: is_main_content_of_page )
+( #has_/range :: WebPageElement )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_warranty_scope
 
 linkTitle: has_warranty_scope
-keywords: 
+keywords: [warranty, scope]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_warranty_scope :: WarrantyScope] or 
-- [ has_warranty_scope :: WarrantyScope] 
+- [ #has/_warranty_scope :: WarrantyScope ] or 
+- [ has_warranty_scope :: WarrantyScope ] 
 
 The scope of the warranty promise.
 
 Relation describes that: 
-[ #has_/domain  :: WarrantyPromise]
-( #has_/name :: is_warranty_scope)
-( #has_/range :: WarrantyScope)
+[ #has_/domain  :: WarrantyPromise ]
+( #has_/name :: is_warranty_scope )
+( #has_/range :: WarrantyScope )
 

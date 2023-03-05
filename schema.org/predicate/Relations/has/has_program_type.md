@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_program_type
 
 linkTitle: has_program_type
-keywords: 
+keywords: [program, type]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_program_type
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_program_type :: DefinedTerm, Text] or 
-- [ has_program_type :: DefinedTerm, Text] 
+- [ #has/_program_type :: DefinedTerm, Text ] or 
+- [ has_program_type :: DefinedTerm, Text ] 
 
 The type of educational or occupational program. For example, classroom, internship, alternance, etc.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram]
-( #has_/name :: is_program_type)
-( #has_/range :: DefinedTerm, Text)
+[ #has_/domain  :: EducationalOccupationalProgram ]
+( #has_/name :: is_program_type )
+( #has_/range :: DefinedTerm, Text )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_issued_through
 
 linkTitle: has_issued_through
-keywords: 
+keywords: [issued, through]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_issued_through :: Service] or 
-- [ has_issued_through :: Service] 
+- [ #has/_issued_through :: Service ] or 
+- [ has_issued_through :: Service ] 
 
 The service through which the permit was granted.
 
 Relation describes that: 
-[ #has_/domain  :: Permit]
-( #has_/name :: is_issued_through)
-( #has_/range :: Service)
+[ #has_/domain  :: Permit ]
+( #has_/name :: is_issued_through )
+( #has_/range :: Service )
 

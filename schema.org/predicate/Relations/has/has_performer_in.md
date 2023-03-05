@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_performer_in
 
 linkTitle: has_performer_in
-keywords: 
+keywords: [performer, in]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_performer_in :: Event] or 
-- [ has_performer_in :: Event] 
+- [ #has/_performer_in :: Event ] or 
+- [ has_performer_in :: Event ] 
 
 Event that this person is a performer or participant in.
 
 Relation describes that: 
-[ #has_/domain  :: Person]
-( #has_/name :: is_performer_in)
-( #has_/range :: Event)
+[ #has_/domain  :: Person ]
+( #has_/name :: is_performer_in )
+( #has_/range :: Event )
 

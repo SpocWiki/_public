@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_relevant_specialty
 
 linkTitle: has_relevant_specialty
-keywords: 
+keywords: [relevant, specialty]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_relevant_specialty :: MedicalSpecialty] or 
-- [ has_relevant_specialty :: MedicalSpecialty] 
+- [ #has/_relevant_specialty :: MedicalSpecialty ] or 
+- [ has_relevant_specialty :: MedicalSpecialty ] 
 
 If applicable, a medical specialty in which this entity is relevant.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity]
-( #has_/name :: is_relevant_specialty)
-( #has_/range :: MedicalSpecialty)
+[ #has_/domain  :: MedicalEntity ]
+( #has_/name :: is_relevant_specialty )
+( #has_/range :: MedicalSpecialty )
 

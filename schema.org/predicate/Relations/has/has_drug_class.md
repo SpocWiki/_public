@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_drug_class
 
 linkTitle: has_drug_class
-keywords: 
+keywords: [drug, class]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_drug_class :: DrugClass] or 
-- [ has_drug_class :: DrugClass] 
+- [ #has/_drug_class :: DrugClass ] or 
+- [ has_drug_class :: DrugClass ] 
 
 The class of drug this belongs to (e.g., statins).
 
 Relation describes that: 
-[ #has_/domain  :: Drug]
-( #has_/name :: is_drug_class)
-( #has_/range :: DrugClass)
+[ #has_/domain  :: Drug ]
+( #has_/name :: is_drug_class )
+( #has_/range :: DrugClass )
 

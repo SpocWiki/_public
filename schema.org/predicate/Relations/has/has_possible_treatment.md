@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_possible_treatment
 
 linkTitle: has_possible_treatment
-keywords: 
+keywords: [possible, treatment]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_possible_treatment :: MedicalTherapy] or 
-- [ has_possible_treatment :: MedicalTherapy] 
+- [ #has/_possible_treatment :: MedicalTherapy ] or 
+- [ has_possible_treatment :: MedicalTherapy ] 
 
 A possible treatment to address this condition, sign or symptom.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition, MedicalSignOrSymptom]
-( #has_/name :: is_possible_treatment)
-( #has_/range :: MedicalTherapy)
+[ #has_/domain  :: MedicalCondition, MedicalSignOrSymptom ]
+( #has_/name :: is_possible_treatment )
+( #has_/range :: MedicalTherapy )
 

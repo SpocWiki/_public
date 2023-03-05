@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_citation
 
 linkTitle: has_citation
-keywords: 
+keywords: [citation]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_citation :: CreativeWork, Text] or 
-- [ has_citation :: CreativeWork, Text] 
+- [ #has/_citation :: CreativeWork, Text ] or 
+- [ has_citation :: CreativeWork, Text ] 
 
 A citation or reference to another creative work, such as another publication, web page, scholarly article, etc.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
-( #has_/name :: is_citation)
-( #has_/range :: CreativeWork, Text)
+[ #has_/domain  :: CreativeWork ]
+( #has_/name :: is_citation )
+( #has_/range :: CreativeWork, Text )
 

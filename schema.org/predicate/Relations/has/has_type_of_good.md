@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_type_of_good
 
 linkTitle: has_type_of_good
-keywords: 
+keywords: [type, of, good]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_type_of_good :: Product, Service] or 
-- [ has_type_of_good :: Product, Service] 
+- [ #has/_type_of_good :: Product, Service ] or 
+- [ has_type_of_good :: Product, Service ] 
 
 The product that this structured value is referring to.
 
 Relation describes that: 
-[ #has_/domain  :: OwnershipInfo, TypeAndQuantityNode]
-( #has_/name :: is_type_of_good)
-( #has_/range :: Product, Service)
+[ #has_/domain  :: OwnershipInfo, TypeAndQuantityNode ]
+( #has_/name :: is_type_of_good )
+( #has_/range :: Product, Service )
 

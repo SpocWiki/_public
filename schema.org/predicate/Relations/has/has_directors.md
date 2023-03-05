@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_directors
 
 linkTitle: has_directors
-keywords: 
+keywords: [directors]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_directors :: Person] or 
-- [ has_directors :: Person] 
+- [ #has/_directors :: Person ] or 
+- [ has_directors :: Person ] 
 
 A director of e.g. TV, radio, movie, video games etc. content. Directors can be associated with individual items or with a series, episode, clip.
 
 Relation describes that: 
-[ #has_/domain  :: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject]
-( #has_/name :: is_directors)
-( #has_/range :: Person)
+[ #has_/domain  :: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject ]
+( #has_/name :: is_directors )
+( #has_/range :: Person )
 

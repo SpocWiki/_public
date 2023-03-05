@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_departure_bus_stop
 
 linkTitle: has_departure_bus_stop
-keywords: 
+keywords: [departure, bus, stop]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_departure_bus_stop :: BusStation, BusStop] or 
-- [ has_departure_bus_stop :: BusStation, BusStop] 
+- [ #has/_departure_bus_stop :: BusStation, BusStop ] or 
+- [ has_departure_bus_stop :: BusStation, BusStop ] 
 
 The stop or station from which the bus departs.
 
 Relation describes that: 
-[ #has_/domain  :: BusTrip]
-( #has_/name :: is_departure_bus_stop)
-( #has_/range :: BusStation, BusStop)
+[ #has_/domain  :: BusTrip ]
+( #has_/name :: is_departure_bus_stop )
+( #has_/range :: BusStation, BusStop )
 

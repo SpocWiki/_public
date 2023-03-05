@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_measured_value
 
 linkTitle: has_measured_value
-keywords: 
+keywords: [measured, value]
 layout: 
 draft: false
 publishDate:
@@ -32,16 +32,16 @@ aliases:
 - has_measured_value
 ---
 
-[ #is_/part_of :: pending:]
+[ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_measured_value :: DataType] or 
-- [ has_measured_value :: DataType] 
+- [ #has/_measured_value :: DataType ] or 
+- [ has_measured_value :: DataType ] 
 
 The measuredValue of an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Observation&quot;&gt;Observation&lt;/a&gt;.
 
 Relation describes that: 
-[ #has_/domain  :: Observation]
-( #has_/name :: is_measured_value)
-( #has_/range :: DataType)
+[ #has_/domain  :: Observation ]
+( #has_/name :: is_measured_value )
+( #has_/range :: DataType )
 

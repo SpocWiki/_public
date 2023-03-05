@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_carrier
 
 linkTitle: has_carrier
-keywords: 
+keywords: [carrier]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_carrier :: Organization] or 
-- [ has_carrier :: Organization] 
+- [ #has/_carrier :: Organization ] or 
+- [ has_carrier :: Organization ] 
 
 &#x27;carrier&#x27; is an out-dated term indicating the &#x27;provider&#x27; for parcel delivery and flights.
 
 Relation describes that: 
-[ #has_/domain  :: Flight, ParcelDelivery]
-( #has_/name :: is_carrier)
-( #has_/range :: Organization)
+[ #has_/domain  :: Flight, ParcelDelivery ]
+( #has_/name :: is_carrier )
+( #has_/range :: Organization )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_health_condition
 
 linkTitle: has_health_condition
-keywords: 
+keywords: [health, condition]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_health_condition :: MedicalCondition] or 
-- [ has_health_condition :: MedicalCondition] 
+- [ #has/_health_condition :: MedicalCondition ] or 
+- [ has_health_condition :: MedicalCondition ] 
 
 Specifying the health condition(s) of a patient, medical study, or other target audience.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalStudy, Patient, PeopleAudience]
-( #has_/name :: is_health_condition)
-( #has_/range :: MedicalCondition)
+[ #has_/domain  :: MedicalStudy, Patient, PeopleAudience ]
+( #has_/name :: is_health_condition )
+( #has_/range :: MedicalCondition )
 

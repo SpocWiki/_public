@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_experience_requirements
 
 linkTitle: has_experience_requirements
-keywords: 
+keywords: [experience, requirements]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_experience_requirements :: OccupationalExperienceRequirements, Text] or 
-- [ has_experience_requirements :: OccupationalExperienceRequirements, Text] 
+- [ #has/_experience_requirements :: OccupationalExperienceRequirements, Text ] or 
+- [ has_experience_requirements :: OccupationalExperienceRequirements, Text ] 
 
 Description of skills and experience needed for the position or Occupation.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting, Occupation]
-( #has_/name :: is_experience_requirements)
-( #has_/range :: OccupationalExperienceRequirements, Text)
+[ #has_/domain  :: JobPosting, Occupation ]
+( #has_/name :: is_experience_requirements )
+( #has_/range :: OccupationalExperienceRequirements, Text )
 

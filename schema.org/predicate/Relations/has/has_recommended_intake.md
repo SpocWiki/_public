@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_recommended_intake
 
 linkTitle: has_recommended_intake
-keywords: 
+keywords: [recommended, intake]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recommended_intake :: RecommendedDoseSchedule] or 
-- [ has_recommended_intake :: RecommendedDoseSchedule] 
+- [ #has/_recommended_intake :: RecommendedDoseSchedule ] or 
+- [ has_recommended_intake :: RecommendedDoseSchedule ] 
 
 Recommended intake of this supplement for a given population as defined by a specific recommending authority.
 
 Relation describes that: 
-[ #has_/domain  :: DietarySupplement]
-( #has_/name :: is_recommended_intake)
-( #has_/range :: RecommendedDoseSchedule)
+[ #has_/domain  :: DietarySupplement ]
+( #has_/name :: is_recommended_intake )
+( #has_/range :: RecommendedDoseSchedule )
 

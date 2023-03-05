@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_duplicate_therapy
 
 linkTitle: has_duplicate_therapy
-keywords: 
+keywords: [duplicate, therapy]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_duplicate_therapy :: MedicalTherapy] or 
-- [ has_duplicate_therapy :: MedicalTherapy] 
+- [ #has/_duplicate_therapy :: MedicalTherapy ] or 
+- [ has_duplicate_therapy :: MedicalTherapy ] 
 
 A therapy that duplicates or overlaps this one.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTherapy]
-( #has_/name :: is_duplicate_therapy)
-( #has_/range :: MedicalTherapy)
+[ #has_/domain  :: MedicalTherapy ]
+( #has_/name :: is_duplicate_therapy )
+( #has_/range :: MedicalTherapy )
 

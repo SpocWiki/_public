@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_business_function
 
 linkTitle: has_business_function
-keywords: 
+keywords: [business, function]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_business_function :: BusinessFunction] or 
-- [ has_business_function :: BusinessFunction] 
+- [ #has/_business_function :: BusinessFunction ] or 
+- [ has_business_function :: BusinessFunction ] 
 
 The business function (e.g. sell, lease, repair, dispose) of the offer or component of a bundle (TypeAndQuantityNode). The default is http://purl.org/goodrelations/v1#Sell.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer, TypeAndQuantityNode]
-( #has_/name :: is_business_function)
-( #has_/range :: BusinessFunction)
+[ #has_/domain  :: Demand, Offer, TypeAndQuantityNode ]
+( #has_/name :: is_business_function )
+( #has_/range :: BusinessFunction )
 

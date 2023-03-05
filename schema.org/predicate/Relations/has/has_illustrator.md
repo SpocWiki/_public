@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_illustrator
 
 linkTitle: has_illustrator
-keywords: 
+keywords: [illustrator]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_illustrator :: Person] or 
-- [ has_illustrator :: Person] 
+- [ #has/_illustrator :: Person ] or 
+- [ has_illustrator :: Person ] 
 
 The illustrator of the book.
 
 Relation describes that: 
-[ #has_/domain  :: Book]
-( #has_/name :: is_illustrator)
-( #has_/range :: Person)
+[ #has_/domain  :: Book ]
+( #has_/name :: is_illustrator )
+( #has_/range :: Person )
 

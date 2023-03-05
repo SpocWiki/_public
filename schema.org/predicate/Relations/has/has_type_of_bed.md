@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_type_of_bed
 
 linkTitle: has_type_of_bed
-keywords: 
+keywords: [type, of, bed]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_type_of_bed :: BedType, Text] or 
-- [ has_type_of_bed :: BedType, Text] 
+- [ #has/_type_of_bed :: BedType, Text ] or 
+- [ has_type_of_bed :: BedType, Text ] 
 
 The type of bed to which the BedDetail refers, i.e. the type of bed available in the quantity indicated by quantity.
 
 Relation describes that: 
-[ #has_/domain  :: BedDetails]
-( #has_/name :: is_type_of_bed)
-( #has_/range :: BedType, Text)
+[ #has_/domain  :: BedDetails ]
+( #has_/name :: is_type_of_bed )
+( #has_/range :: BedType, Text )
 

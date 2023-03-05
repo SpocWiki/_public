@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_author
 
 linkTitle: has_author
-keywords: 
+keywords: [author]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_author :: Organization, Person] or 
-- [ has_author :: Organization, Person] 
+- [ #has/_author :: Organization, Person ] or 
+- [ has_author :: Organization, Person ] 
 
 The author of this content or rating. Please note that author is special in that HTML 5 provides a special mechanism for indicating authorship via the rel tag. That is equivalent to this and may be used interchangeably.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Rating]
-( #has_/name :: is_author)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: CreativeWork, Rating ]
+( #has_/name :: is_author )
+( #has_/range :: Organization, Person )
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_broadcast_affiliate_of
 
 linkTitle: has_broadcast_affiliate_of
-keywords: 
+keywords: [broadcast, affiliate, of]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_broadcast_affiliate_of :: Organization] or 
-- [ has_broadcast_affiliate_of :: Organization] 
+- [ #has/_broadcast_affiliate_of :: Organization ] or 
+- [ has_broadcast_affiliate_of :: Organization ] 
 
 The media network(s) whose content is broadcast on this station.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastService]
-( #has_/name :: is_broadcast_affiliate_of)
-( #has_/range :: Organization)
+[ #has_/domain  :: BroadcastService ]
+( #has_/name :: is_broadcast_affiliate_of )
+( #has_/range :: Organization )
 

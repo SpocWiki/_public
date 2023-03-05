@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_creator
 
 linkTitle: has_creator
-keywords: 
+keywords: [creator]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_creator :: Organization, Person] or 
-- [ has_creator :: Organization, Person] 
+- [ #has/_creator :: Organization, Person ] or 
+- [ has_creator :: Organization, Person ] 
 
 The creator/author of this CreativeWork. This is the same as the Author property for CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, UserComments]
-( #has_/name :: is_creator)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: CreativeWork, UserComments ]
+( #has_/name :: is_creator )
+( #has_/range :: Organization, Person )
 
-[ #has_/sub_properties :: legislationPassedBy]
+[ #has_/sub_properties :: [ legislationPassedBy ] ]
 

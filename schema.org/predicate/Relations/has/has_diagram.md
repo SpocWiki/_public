@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_diagram
 
 linkTitle: has_diagram
-keywords: 
+keywords: [diagram]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_diagram :: ImageObject] or 
-- [ has_diagram :: ImageObject] 
+- [ #has/_diagram :: ImageObject ] or 
+- [ has_diagram :: ImageObject ] 
 
 An image containing a diagram that illustrates the structure and/or its component substructures and/or connections with other structures.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure]
-( #has_/name :: is_diagram)
-( #has_/range :: ImageObject)
+[ #has_/domain  :: AnatomicalStructure ]
+( #has_/name :: is_diagram )
+( #has_/range :: ImageObject )
 

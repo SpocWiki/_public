@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_season
 
 linkTitle: has_season
-keywords: 
+keywords: [season]
 layout: 
 draft: false
 publishDate:
@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_season :: CreativeWorkSeason, URL] or 
-- [ has_season :: CreativeWorkSeason, URL] 
+- [ #has/_season :: CreativeWorkSeason, URL ] or 
+- [ has_season :: CreativeWorkSeason, URL ] 
 
 A season in a media series.
 
 Relation describes that: 
-[ #has_/domain  :: RadioSeries, TVSeries, VideoGameSeries]
-( #has_/name :: is_season)
-( #has_/range :: CreativeWorkSeason, URL)
+[ #has_/domain  :: RadioSeries, TVSeries, VideoGameSeries ]
+( #has_/name :: is_season )
+( #has_/range :: CreativeWorkSeason, URL )
 
-[ #is_/sub_property_of  :: hasPart]
+[ #is_/sub_property_of  :: hasPart ]
 

@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_order_item_status
 
 linkTitle: has_order_item_status
-keywords: 
+keywords: [order, item, status]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_order_item_status :: OrderStatus] or 
-- [ has_order_item_status :: OrderStatus] 
+- [ #has/_order_item_status :: OrderStatus ] or 
+- [ has_order_item_status :: OrderStatus ] 
 
 The current status of the order item.
 
 Relation describes that: 
-[ #has_/domain  :: OrderItem]
-( #has_/name :: is_order_item_status)
-( #has_/range :: OrderStatus)
+[ #has_/domain  :: OrderItem ]
+( #has_/name :: is_order_item_status )
+( #has_/range :: OrderStatus )
 

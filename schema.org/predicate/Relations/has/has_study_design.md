@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_study_design
 
 linkTitle: has_study_design
-keywords: 
+keywords: [study, design]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_study_design :: MedicalObservationalStudyDesign] or 
-- [ has_study_design :: MedicalObservationalStudyDesign] 
+- [ #has/_study_design :: MedicalObservationalStudyDesign ] or 
+- [ has_study_design :: MedicalObservationalStudyDesign ] 
 
 Specifics about the observational study design (enumerated).
 
 Relation describes that: 
-[ #has_/domain  :: MedicalObservationalStudy]
-( #has_/name :: is_study_design)
-( #has_/range :: MedicalObservationalStudyDesign)
+[ #has_/domain  :: MedicalObservationalStudy ]
+( #has_/name :: is_study_design )
+( #has_/range :: MedicalObservationalStudyDesign )
 

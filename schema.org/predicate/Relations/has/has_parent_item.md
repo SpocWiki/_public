@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_parent_item
 
 linkTitle: has_parent_item
-keywords: 
+keywords: [parent, item]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_parent_item :: Comment] or 
-- [ has_parent_item :: Comment] 
+- [ #has/_parent_item :: Comment ] or 
+- [ has_parent_item :: Comment ] 
 
 The parent of a question, answer or item in general.
 
 Relation describes that: 
-[ #has_/domain  :: Comment]
-( #has_/name :: is_parent_item)
-( #has_/range :: Comment)
+[ #has_/domain  :: Comment ]
+( #has_/name :: is_parent_item )
+( #has_/range :: Comment )
 

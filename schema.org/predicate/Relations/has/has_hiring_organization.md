@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_hiring_organization
 
 linkTitle: has_hiring_organization
-keywords: 
+keywords: [hiring, organization]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_hiring_organization :: Organization, Person] or 
-- [ has_hiring_organization :: Organization, Person] 
+- [ #has/_hiring_organization :: Organization, Person ] or 
+- [ has_hiring_organization :: Organization, Person ] 
 
 Organization or Person offering the job position.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting]
-( #has_/name :: is_hiring_organization)
-( #has_/range :: Organization, Person)
+[ #has_/domain  :: JobPosting ]
+( #has_/name :: is_hiring_organization )
+( #has_/range :: Organization, Person )
 

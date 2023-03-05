@@ -13,7 +13,7 @@ type: Predi_Relation
 title: has_insertion
 
 linkTitle: has_insertion
-keywords: 
+keywords: [insertion]
 layout: 
 draft: false
 publishDate:
@@ -33,13 +33,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_insertion :: AnatomicalStructure] or 
-- [ has_insertion :: AnatomicalStructure] 
+- [ #has/_insertion :: AnatomicalStructure ] or 
+- [ has_insertion :: AnatomicalStructure ] 
 
 The place of attachment of a muscle, or what the muscle moves.
 
 Relation describes that: 
-[ #has_/domain  :: Muscle]
-( #has_/name :: is_insertion)
-( #has_/range :: AnatomicalStructure)
+[ #has_/domain  :: Muscle ]
+( #has_/name :: is_insertion )
+( #has_/range :: AnatomicalStructure )
 
