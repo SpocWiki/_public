@@ -37,8 +37,8 @@ aliases:
 
 
 [domain::{{domainIncludes}}]
-[name::{{has_label_snail}}]
-[range::{{rangeIncludes}}]
+(name::{{has_label_snail}})
+(range::{{rangeIncludes}})
 
 {{comment}}
 

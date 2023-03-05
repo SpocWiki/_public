@@ -10,7 +10,7 @@ publish: true
 
 # Hugo Tags
 type: Predi_Duration
-title: {{has_label_snail}}
+title: has_duration_of_{{label_snail}}
 
 linkTitle: 
 keywords: 
@@ -18,9 +18,6 @@ layout:
 draft: false
 publishDate:
 expiryDate: 
-
-enumerationtype: {{enumerationtype}}
-equivalent_class: {{equivalentProperty}}
 
 supersedes: {{supersedes}}
 superseded_by: {{supersededBy}}
@@ -32,18 +29,25 @@ aliases:
 - {{label-dash}}
 - {{label_snail}}
 - {{label}}
-- {{has_label_snail}}
+- has_duration_of_{{label_snail}}
 ---
 
+Predicate to describe the Duration of {{domainIncludes}}.
 
-[domain::{{domainIncludes}}]
-(name::{{has_label_snail}})
-(range::{{rangeIncludes}})
+[is_part_of:: {{isPartOf}}]
+
+Use it like this: 
+- [has_duration_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] or 
+- [ #has_/duration/_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+
 
 {{comment}}
 
-[inverse_of::{{inverseOf}}]
-[sub_property_of::{{subPropertyOf}}]
-[sub_properties::{{subproperties}}]
+Formal Predicate: 
+[domain::{{domainIncludes}}]
+(name::has_duration_of_{{label_snail}})
+(range::{{rangeIncludes}})
 
-[is_part_of::{{isPartOf}}]
+Is [sub_property_of::{{subPropertyOf}}]
+
+Has [sub_properties::{{subproperties}}]

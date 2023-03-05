@@ -10,7 +10,7 @@ publish: true
 
 # Hugo Tags
 type: Pred_Flag
-title: {{has_label_snail}}
+title: {{is_label_snail}}
 
 linkTitle: 
 keywords: 
@@ -36,15 +36,21 @@ aliases:
 - has_label_snail
 ---
 
-
 [domain::{{domainIncludes}}]
-[name::{{has_label_snail}}]
-[range::{{rangeIncludes}}]
+(name::{{has_label_snail}})
+(range::{{rangeIncludes}})
+
+Use this Tag to mark Instances: #{{has_label_snail}} 
+For Tag-Completion in YAML, enclose the Tags in Quotes with a leading Space before the #. 
+
+Use [{{has_label_snail}}::false] to explicitly untag it.
 
 {{comment}}
 
-[inverse_of::{{inverseOf}}]
-[sub_property_of::{{subPropertyOf}}]
-[sub_properties::{{subproperties}}]
+Is [inverse_of::{{inverseOf}}]
+
+Is a [sub_property_of::{{subPropertyOf}}]
+
+Has these [sub_properties::{{subproperties}}]
 
 [is_part_of::{{isPartOf}}]
