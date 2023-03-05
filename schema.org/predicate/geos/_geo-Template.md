@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Pred_geo
-title: {{has_label_snail}}
+title: has_{{label_snail}}
 
-linkTitle: 
+linkTitle: has_{{label_snail}}
 keywords: 
 layout: 
 draft: false

@@ -12,7 +12,7 @@ publish: true
 type: Predi_Count
 title: {{has_label_snail}}
 
-linkTitle: 
+linkTitle: {{has_label_snail}}
 keywords: 
 layout: 
 draft: false

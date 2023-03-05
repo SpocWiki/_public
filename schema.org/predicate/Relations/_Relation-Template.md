@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: {{has_label_snail}}
+title: has_{{label_snail}}
 
-linkTitle: 
+linkTitle: has_{{label_snail}}
 keywords: 
 layout: 
 draft: false
@@ -29,24 +29,25 @@ aliases:
 - {{label-dash}}
 - {{label_snail}}
 - {{label}}
-- {{has_label_snail}}
+- has_{{label_snail}}
 ---
 
-[is_part_of:: {{isPartOf}}]
+[ #is_/part_of :: {{isPartOf}}]
 
 Use it like this: 
-- [has_duration_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/duration/_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
-
+- [ #has/_{{label_snail}} :: {{rangeIncludes}}] or 
+- [ has_{{label_snail}} :: {{rangeIncludes}}] 
 
 {{comment}}
 
-Predicate describes that: 
-[domain::{{domainIncludes}}]
-(name::{{has_label_snail}})
-(range::{{rangeIncludes}})
+Relation describes that: 
+[ #has_/domain  :: {{domainIncludes}}]
+( #has_/name :: is_{{label_snail}})
+( #has_/range :: {{rangeIncludes}})
 
-Is [inverse_of::{{inverseOf}}]
-Is [sub_property_of::{{subPropertyOf}}]
-Has [sub_properties::{{subproperties}}]
+[ #is_/inverse_of  :: {{inverseOf}}]
+
+[ #is_/sub_property_of  :: {{subPropertyOf}}]
+
+[ #has_/sub_properties :: {{subproperties}}]
 

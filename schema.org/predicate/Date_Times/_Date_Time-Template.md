@@ -12,7 +12,7 @@ publish: true
 type: Predi_Date_Time
 title: has_date_of_{{label_snail}}
 
-linkTitle: 
+linkTitle: has_date_of_{{label_snail}}
 keywords: 
 layout: 
 draft: false

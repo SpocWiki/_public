@@ -12,7 +12,7 @@ publish: true
 type: Predi_Duration
 title: has_duration_of_{{label_snail}}
 
-linkTitle: 
+linkTitle: has_duration_of_{{label_snail}}
 keywords: 
 layout: 
 draft: false

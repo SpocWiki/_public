@@ -12,7 +12,7 @@ publish: true
 type: Pred_Flag
 title: {{is_label_snail}}
 
-linkTitle: 
+linkTitle: {{is_label_snail}}
 keywords: 
 layout: 
 draft: false
