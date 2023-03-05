@@ -48,7 +48,5 @@ Content that discusses practical and policy aspects for getting access to specif
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

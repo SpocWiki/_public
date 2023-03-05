@@ -40,15 +40,9 @@ Class of all recommended_dose_schedules.
 Tag Instances like this: 
 #is_/a_/recommended_dose_schedule
 
-[ #is_/part_of ::  ]
-
 A recommended dosing schedule for a drug or supplement as prescribed or recommended by an authority or by the drug/supplement's manufacturer. Capture the recommending authority in the recognizingAuthority property of MedicalEntity.
 
 [ #is_/sub_class_of :: [[DoseSchedule]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, doseUnit, doseValue, frequency, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, targetPopulation, url ] ]
 

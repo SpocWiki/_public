@@ -40,15 +40,9 @@ Class of all seats.
 Tag Instances like this: 
 #is_/a_/seat
 
-[ #is_/part_of ::  ]
-
 Used to describe a seat, such as a reserved seat in an event reservation.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, seatNumber, seatRow, seatSection, seatingType, subjectOf, url ] ]
 

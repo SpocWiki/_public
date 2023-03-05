@@ -40,13 +40,9 @@ Class of all food_establishments.
 Tag Instances like this: 
 #is_/a_/food_establishment
 
-[ #is_/part_of ::  ]
-
 A food-related business.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Bakery, BarOrPub, Brewery, CafeOrCoffeeShop, Distillery, FastFoodRestaurant, IceCreamShop, Restaurant, Winery ] ]
 

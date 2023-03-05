@@ -40,15 +40,9 @@ Class of all treatment_indications.
 Tag Instances like this: 
 #is_/a_/treatment_indication
 
-[ #is_/part_of ::  ]
-
 An indication for treating an underlying condition, symptom, etc.
 
 [ #is_/sub_class_of :: [[MedicalIndication]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 

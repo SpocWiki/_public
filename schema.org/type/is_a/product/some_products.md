@@ -40,15 +40,9 @@ Class of all some_productss.
 Tag Instances like this: 
 #is_/a_/some_products
 
-[ #is_/part_of ::  ]
-
 A placeholder for multiple similar products of the same kind.
 
 [ #is_/sub_class_of :: [[Product]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, brand, category, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, funding, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, inventoryLevel, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, logo, mainEntityOfPage, manufacturer, material, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, positiveNotes, potentialAction, productID, productionDate, purchaseDate, releaseDate, review, reviews, sameAs, size, sku, slogan, subjectOf, url, weight, width ] ]
 

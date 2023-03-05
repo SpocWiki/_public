@@ -48,7 +48,5 @@ Maximum girth of bust. Used, for example, to fit women's suits.
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

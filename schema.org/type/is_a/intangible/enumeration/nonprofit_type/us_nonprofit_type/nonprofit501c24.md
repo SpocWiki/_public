@@ -48,7 +48,5 @@ Nonprofit501c24: Non-profit type referring to Section 4049 ERISA Trusts.
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

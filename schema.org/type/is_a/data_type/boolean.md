@@ -40,13 +40,9 @@ Class of all booleans.
 Tag Instances like this: 
 #is_/a_/boolean
 
-[ #is_/part_of ::  ]
-
 Boolean: True or False.
 
 [ #is_/sub_class_of :: [[]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ False, True ] ]
 

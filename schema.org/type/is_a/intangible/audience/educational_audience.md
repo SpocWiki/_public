@@ -40,15 +40,9 @@ Class of all educational_audiences.
 Tag Instances like this: 
 #is_/an_/educational_audience
 
-[ #is_/part_of ::  ]
-
 An EducationalAudience.
 
 [ #is_/sub_class_of :: [[Audience]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, educationalRole, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

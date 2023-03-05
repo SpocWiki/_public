@@ -40,15 +40,11 @@ Class of all payment_past_dues.
 Tag Instances like this: 
 #is_/a_/payment_past_due
 
-[ #is_/part_of ::  ]
-
 The payment is due and considered late.
 
 [ #is_/sub_class_of :: [[PaymentStatusType]] ]
 
 [ #is_/enum_of :: [[PaymentStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -46,9 +46,5 @@ Enumerates common size groups (also known as "size types") for wearable products
 
 [ #is_/sub_class_of :: [[SizeGroupEnumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

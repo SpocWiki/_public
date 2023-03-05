@@ -40,13 +40,9 @@ Class of all medical_indications.
 Tag Instances like this: 
 #is_/a_/medical_indication
 
-[ #is_/part_of ::  ]
-
 A condition or factor that indicates use of a medical therapy, including signs, symptoms, risk factors, anatomical states, etc.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ ApprovedIndication, PreventionIndication, TreatmentIndication ] ]
 

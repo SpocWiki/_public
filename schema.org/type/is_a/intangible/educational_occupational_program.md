@@ -46,8 +46,6 @@ A program offered by an institution which determines the learning progress to ac
 
 [ #is_/sub_class_of :: [[Intangible]] ]
 
-[ #is_/enum_of :: [[]] ]
-
 [ #has_/sub_classes :: [ WorkBasedProgram ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ] ]

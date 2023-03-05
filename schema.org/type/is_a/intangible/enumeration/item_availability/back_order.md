@@ -40,15 +40,11 @@ Class of all back_orders.
 Tag Instances like this: 
 #is_/a_/back_order
 
-[ #is_/part_of ::  ]
-
 Indicates that the item is available on back order.
 
 [ #is_/sub_class_of :: [[ItemAvailability]] ]
 
 [ #is_/enum_of :: [[ItemAvailability]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

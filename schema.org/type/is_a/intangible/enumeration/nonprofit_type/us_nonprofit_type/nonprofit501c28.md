@@ -48,7 +48,5 @@ Nonprofit501c28: Non-profit type referring to National Railroad Retirement Inves
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

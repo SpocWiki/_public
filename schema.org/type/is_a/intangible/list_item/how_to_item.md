@@ -40,13 +40,9 @@ Class of all how_to_items.
 Tag Instances like this: 
 #is_/a_/how_to_item
 
-[ #is_/part_of ::  ]
-
 An item used as either a tool or supply when performing the instructions for how to achieve a result.
 
 [ #is_/sub_class_of :: [[ListItem]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ HowToSupply, HowToTool ] ]
 

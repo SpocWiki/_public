@@ -40,13 +40,9 @@ Class of all update_actions.
 Tag Instances like this: 
 #is_/an_/update_action
 
-[ #is_/part_of ::  ]
-
 The act of managing by changing/editing the state of the object.
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AddAction, DeleteAction, ReplaceAction ] ]
 

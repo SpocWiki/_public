@@ -40,15 +40,9 @@ Class of all computer_languages.
 Tag Instances like this: 
 #is_/a_/computer_language
 
-[ #is_/part_of ::  ]
-
 This type covers computer programming languages such as Scheme and Lisp, as well as other language-like computer representations. Natural languages are best represented with the <a class="localLink" href="/Language">Language</a> type.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

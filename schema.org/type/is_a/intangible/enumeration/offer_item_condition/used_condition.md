@@ -40,15 +40,11 @@ Class of all used_conditions.
 Tag Instances like this: 
 #is_/a_/used_condition
 
-[ #is_/part_of ::  ]
-
 Indicates that the item is used.
 
 [ #is_/sub_class_of :: [[OfferItemCondition]] ]
 
 [ #is_/enum_of :: [[OfferItemCondition]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

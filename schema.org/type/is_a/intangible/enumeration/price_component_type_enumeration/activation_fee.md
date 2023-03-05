@@ -48,7 +48,5 @@ Represents the activation fee part of the total price for an offered product, fo
 
 [ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

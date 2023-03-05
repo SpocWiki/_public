@@ -48,7 +48,5 @@ Content about contagion mechanisms and contagiousness information over the topic
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

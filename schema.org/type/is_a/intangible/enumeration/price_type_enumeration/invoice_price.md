@@ -48,7 +48,5 @@ Represents the invoice price of an offered product.
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ Represents the broad notion of 'mobile' browsers as a Web Platform.
 
 [ #is_/enum_of :: [[DigitalPlatformEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

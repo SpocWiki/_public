@@ -40,15 +40,9 @@ Class of all medical_audience_types.
 Tag Instances like this: 
 #is_/a_/medical_audience_type
 
-[ #is_/part_of ::  ]
-
 Target audiences types for medical web pages. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,9 @@ Class of all medical_codes.
 Tag Instances like this: 
 #is_/a_/medical_code
 
-[ #is_/part_of ::  ]
-
 A code for a medical entity.
 
 [ #is_/sub_class_of :: [[CategoryCode, MedicalIntangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ] ]
 

@@ -48,7 +48,5 @@ UKTrust: Non-profit type referring to a UK trust.
 
 [ #is_/enum_of :: [[UKNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,11 @@ Class of all online_fulls.
 Tag Instances like this: 
 #is_/an_/online_full
 
-[ #is_/part_of ::  ]
-
 Game server status: OnlineFull. Server is online but unavailable. The maximum number of players has reached.
 
 [ #is_/sub_class_of :: [[GameServerStatus]] ]
 
 [ #is_/enum_of :: [[GameServerStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

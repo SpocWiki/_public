@@ -46,9 +46,5 @@ Used to indicate whether a product is EnergyStar certified.
 
 [ #is_/sub_class_of :: [[EnergyEfficiencyEnumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

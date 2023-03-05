@@ -40,15 +40,11 @@ Class of all x_rays.
 Tag Instances like this: 
 #is_/a_/x_ray
 
-[ #is_/part_of ::  ]
-
 X-ray imaging.
 
 [ #is_/sub_class_of :: [[MedicalImagingTechnique]] ]
 
 [ #is_/enum_of :: [[MedicalImagingTechnique]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

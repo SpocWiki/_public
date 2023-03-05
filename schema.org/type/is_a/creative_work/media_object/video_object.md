@@ -40,13 +40,9 @@ Class of all video_objects.
 Tag Instances like this: 
 #is_/a_/video_object
 
-[ #is_/part_of ::  ]
-
 A video file.
 
 [ #is_/sub_class_of :: [[MediaObject]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ VideoObjectSnapshot ] ]
 

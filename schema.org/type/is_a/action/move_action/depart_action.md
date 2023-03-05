@@ -40,15 +40,9 @@ Class of all depart_actions.
 Tag Instances like this: 
 #is_/a_/depart_action
 
-[ #is_/part_of ::  ]
-
 The act of  departing from a place. An agent departs from a fromLocation for a destination, optionally with participants.
 
 [ #is_/sub_class_of :: [[MoveAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 

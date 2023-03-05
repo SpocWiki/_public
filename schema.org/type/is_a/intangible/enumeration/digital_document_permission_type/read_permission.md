@@ -40,15 +40,11 @@ Class of all read_permissions.
 Tag Instances like this: 
 #is_/a_/read_permission
 
-[ #is_/part_of ::  ]
-
 Permission to read or view the document.
 
 [ #is_/sub_class_of :: [[DigitalDocumentPermissionType]] ]
 
 [ #is_/enum_of :: [[DigitalDocumentPermissionType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

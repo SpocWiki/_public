@@ -40,8 +40,6 @@ Class of all parcel_services.
 Tag Instances like this: 
 #is_/a_/parcel_service
 
-[ #is_/part_of ::  ]
-
 A private parcel service as the delivery mode available for a certain offer.<br/><br/>
 Commonly used values:<br/><br/>
 <ul>
@@ -53,8 +51,6 @@ Commonly used values:<br/><br/>
 [ #is_/sub_class_of :: [[DeliveryMethod]] ]
 
 [ #is_/enum_of :: [[DeliveryMethod]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

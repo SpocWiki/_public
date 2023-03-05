@@ -40,15 +40,9 @@ Class of all program_memberships.
 Tag Instances like this: 
 #is_/a_/program_membership
 
-[ #is_/part_of ::  ]
-
 Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler clubs (e.g. "AAA"), purchase clubs ("Safeway Club"), etc.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ] ]
 

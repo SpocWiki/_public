@@ -40,13 +40,9 @@ Class of all trips.
 Tag Instances like this: 
 #is_/a_/trip
 
-[ #is_/part_of ::  ]
-
 A trip or journey. An itinerary of visits to one or more places.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ] ]
 

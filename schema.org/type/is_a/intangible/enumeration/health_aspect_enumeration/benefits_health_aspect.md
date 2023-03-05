@@ -48,7 +48,5 @@ Content about the benefits and advantages of usage or utilization of topic.
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

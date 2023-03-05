@@ -40,13 +40,9 @@ Class of all episodes.
 Tag Instances like this: 
 #is_/an_/episode
 
-[ #is_/part_of ::  ]
-
 A media episode (e.g. TV, radio, video game) which can be part of a series or season.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ PodcastEpisode, RadioEpisode, TVEpisode ] ]
 

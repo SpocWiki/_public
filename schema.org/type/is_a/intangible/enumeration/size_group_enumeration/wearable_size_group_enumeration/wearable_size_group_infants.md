@@ -48,7 +48,5 @@ Size group "Infants" for wearables.
 
 [ #is_/enum_of :: [[WearableSizeGroupEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

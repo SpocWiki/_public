@@ -48,7 +48,5 @@ Content about common misconceptions and myths that are related to a topic.
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

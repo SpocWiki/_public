@@ -40,15 +40,11 @@ Class of all damaged_conditions.
 Tag Instances like this: 
 #is_/a_/damaged_condition
 
-[ #is_/part_of ::  ]
-
 Indicates that the item is damaged.
 
 [ #is_/sub_class_of :: [[OfferItemCondition]] ]
 
 [ #is_/enum_of :: [[OfferItemCondition]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

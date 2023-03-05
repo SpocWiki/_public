@@ -40,15 +40,11 @@ Class of all enrolling_by_invitations.
 Tag Instances like this: 
 #is_/an_/enrolling_by_invitation
 
-[ #is_/part_of ::  ]
-
 Enrolling participants by invitation only.
 
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

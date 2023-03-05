@@ -48,7 +48,5 @@ Girth of neck. Used, for example, to fit shirts.
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

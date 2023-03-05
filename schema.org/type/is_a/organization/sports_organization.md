@@ -40,13 +40,9 @@ Class of all sports_organizations.
 Tag Instances like this: 
 #is_/a_/sports_organization
 
-[ #is_/part_of ::  ]
-
 Represents the collection of all sports organizations, including sports teams, governing bodies, and sports associations.
 
 [ #is_/sub_class_of :: [[Organization]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ SportsTeam ] ]
 

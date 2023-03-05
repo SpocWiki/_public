@@ -40,15 +40,11 @@ Class of all event_cancelleds.
 Tag Instances like this: 
 #is_/an_/event_cancelled
 
-[ #is_/part_of ::  ]
-
 The event has been cancelled. If the event has multiple startDate values, all are assumed to be cancelled. Either startDate or previousStartDate may be used to specify the event's cancelled date(s).
 
 [ #is_/sub_class_of :: [[EventStatusType]] ]
 
 [ #is_/enum_of :: [[EventStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

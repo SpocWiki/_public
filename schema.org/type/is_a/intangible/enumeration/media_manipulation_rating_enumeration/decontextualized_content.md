@@ -52,7 +52,5 @@ For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'missing c
 
 [ #is_/enum_of :: [[MediaManipulationRatingEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

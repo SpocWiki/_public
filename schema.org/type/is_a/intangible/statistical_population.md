@@ -48,9 +48,5 @@ population, and does not imply that the population consists of people. For examp
 
 [ #is_/sub_class_of :: [[Intangible]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, constrainingProperty, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints, populationType, potentialAction, sameAs, subjectOf, url ] ]
 

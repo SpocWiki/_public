@@ -40,15 +40,11 @@ Class of all refurbished_conditions.
 Tag Instances like this: 
 #is_/a_/refurbished_condition
 
-[ #is_/part_of ::  ]
-
 Indicates that the item is refurbished.
 
 [ #is_/sub_class_of :: [[OfferItemCondition]] ]
 
 [ #is_/enum_of :: [[OfferItemCondition]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

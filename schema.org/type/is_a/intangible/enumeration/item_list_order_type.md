@@ -40,15 +40,9 @@ Class of all item_list_order_types.
 Tag Instances like this: 
 #is_/an_/item_list_order_type
 
-[ #is_/part_of ::  ]
-
 Enumerated for values for itemListOrder for indicating how an ordered ItemList is organized.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

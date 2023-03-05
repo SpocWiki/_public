@@ -40,8 +40,6 @@ Class of all follow_actions.
 Tag Instances like this: 
 #is_/a_/follow_action
 
-[ #is_/part_of ::  ]
-
 The act of forming a personal connection with someone/something (object) unidirectionally/asymmetrically to get updates polled from.<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -53,10 +51,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[InteractAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, followee, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

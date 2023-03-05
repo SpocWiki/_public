@@ -40,15 +40,9 @@ Class of all arrive_actions.
 Tag Instances like this: 
 #is_/an_/arrive_action
 
-[ #is_/part_of ::  ]
-
 The act of arriving at a place. An agent arrives at a destination from a fromLocation, optionally with participants.
 
 [ #is_/sub_class_of :: [[MoveAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 

@@ -48,7 +48,5 @@ Information about actions or measures that can be taken to avoid getting the top
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

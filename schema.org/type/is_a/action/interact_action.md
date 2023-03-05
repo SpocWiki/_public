@@ -40,13 +40,9 @@ Class of all interact_actions.
 Tag Instances like this: 
 #is_/an_/interact_action
 
-[ #is_/part_of ::  ]
-
 The act of interacting with another person or organization.
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BefriendAction, CommunicateAction, FollowAction, JoinAction, LeaveAction, MarryAction, RegisterAction, SubscribeAction, UnRegisterAction ] ]
 

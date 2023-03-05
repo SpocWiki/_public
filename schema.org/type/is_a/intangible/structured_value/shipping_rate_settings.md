@@ -46,9 +46,5 @@ A ShippingRateSettings represents re-usable pieces of shipping information. It i
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, doesNotShip, freeShippingThreshold, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingRate, subjectOf, url ] ]
 

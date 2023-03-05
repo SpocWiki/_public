@@ -40,15 +40,11 @@ Class of all recruitings.
 Tag Instances like this: 
 #is_/a_/recruiting
 
-[ #is_/part_of ::  ]
-
 Recruiting participants.
 
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -46,9 +46,5 @@ Indicates employment-related experience requirements, e.g. <a class="localLink" 
 
 [ #is_/sub_class_of :: [[Intangible]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction, sameAs, subjectOf, url ] ]
 

@@ -40,13 +40,9 @@ Class of all lifestyle_modifications.
 Tag Instances like this: 
 #is_/a_/lifestyle_modification
 
-[ #is_/part_of ::  ]
-
 A process of care involving exercise, changes to diet, fitness routines, and other lifestyle changes aimed at improving a health condition.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Diet, PhysicalActivity ] ]
 

@@ -40,13 +40,9 @@ Class of all services.
 Tag Instances like this: 
 #is_/a_/service
 
-[ #is_/part_of ::  ]
-
 A service provided by an organization, e.g. delivery service, print services, etc.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BroadcastService, CableOrSatelliteService, FinancialProduct, FoodService, GovernmentService, Taxi, TaxiService, WebAPI ] ]
 

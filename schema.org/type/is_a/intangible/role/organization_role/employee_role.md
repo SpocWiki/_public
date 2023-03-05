@@ -40,15 +40,9 @@ Class of all employee_roles.
 Tag Instances like this: 
 #is_/an_/employee_role
 
-[ #is_/part_of ::  ]
-
 A subclass of OrganizationRole used to describe employee relationships.
 
 [ #is_/sub_class_of :: [[OrganizationRole]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, baseSalary, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, salaryCurrency, sameAs, startDate, subjectOf, url ] ]
 

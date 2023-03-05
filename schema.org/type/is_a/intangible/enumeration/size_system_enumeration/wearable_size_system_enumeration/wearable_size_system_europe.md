@@ -48,7 +48,5 @@ European size system for wearables.
 
 [ #is_/enum_of :: [[WearableSizeSystemEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

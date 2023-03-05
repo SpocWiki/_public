@@ -40,13 +40,9 @@ Class of all administrative_areas.
 Tag Instances like this: 
 #is_/an_/administrative_area
 
-[ #is_/part_of ::  ]
-
 A geographical region, typically under the jurisdiction of a particular government.
 
 [ #is_/sub_class_of :: [[Place]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ City, Country, SchoolDistrict, State ] ]
 

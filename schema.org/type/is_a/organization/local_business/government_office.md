@@ -40,13 +40,9 @@ Class of all government_offices.
 Tag Instances like this: 
 #is_/a_/government_office
 
-[ #is_/part_of ::  ]
-
 A government office&#x2014;for example, an IRS or DMV office.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ PostOffice ] ]
 

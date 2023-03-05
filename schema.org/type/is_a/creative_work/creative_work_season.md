@@ -40,13 +40,9 @@ Class of all creative_work_seasons.
 Tag Instances like this: 
 #is_/a_/creative_work_season
 
-[ #is_/part_of ::  ]
-
 A media season, e.g. TV, radio, video game etc.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ PodcastSeason, RadioSeason, TVSeason ] ]
 

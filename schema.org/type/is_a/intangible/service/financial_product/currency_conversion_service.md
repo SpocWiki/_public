@@ -40,15 +40,9 @@ Class of all currency_conversion_services.
 Tag Instances like this: 
 #is_/a_/currency_conversion_service
 
-[ #is_/part_of ::  ]
-
 A service to convert funds from one currency to another currency.
 
 [ #is_/sub_class_of :: [[FinancialProduct]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 

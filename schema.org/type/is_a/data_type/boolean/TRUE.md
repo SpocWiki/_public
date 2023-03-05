@@ -40,15 +40,9 @@ Class of all TRUEs.
 Tag Instances like this: 
 #is_/a_/TRUE
 
-[ #is_/part_of ::  ]
-
 The boolean value true.
 
 [ #is_/sub_class_of :: [[]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

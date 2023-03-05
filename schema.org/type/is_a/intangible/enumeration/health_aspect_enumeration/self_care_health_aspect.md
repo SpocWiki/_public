@@ -48,7 +48,5 @@ Self care actions or measures that can be taken to sooth, health or avoid a topi
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

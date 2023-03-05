@@ -40,15 +40,9 @@ Class of all game_servers.
 Tag Instances like this: 
 #is_/a_/game_server
 
-[ #is_/part_of ::  ]
-
 Server that provides game interaction in a multiplayer game.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, game, identifier, image, mainEntityOfPage, name, playersOnline, potentialAction, sameAs, serverStatus, subjectOf, url ] ]
 

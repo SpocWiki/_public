@@ -48,7 +48,5 @@ Specifies that there is an unlimited window for product returns.
 
 [ #is_/enum_of :: [[MerchantReturnEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

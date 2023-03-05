@@ -48,7 +48,5 @@ EN 13402 (joint European standard for size labelling of clothes).
 
 [ #is_/enum_of :: [[WearableSizeSystemEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

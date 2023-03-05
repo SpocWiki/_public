@@ -48,7 +48,5 @@ Represents the list price (the price a product is actually advertised for) of an
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

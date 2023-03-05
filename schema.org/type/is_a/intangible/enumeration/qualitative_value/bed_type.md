@@ -40,15 +40,9 @@ Class of all bed_types.
 Tag Instances like this: 
 #is_/a_/bed_type
 
-[ #is_/part_of ::  ]
-
 A type of bed. This is used for indicating the bed or beds available in an accommodation.
 
 [ #is_/sub_class_of :: [[QualitativeValue]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 

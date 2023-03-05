@@ -40,15 +40,9 @@ Class of all medical_condition_stages.
 Tag Instances like this: 
 #is_/a_/medical_condition_stage
 
-[ #is_/part_of ::  ]
-
 A stage of a medical condition, such as 'Stage IIIa'.
 
 [ #is_/sub_class_of :: [[MedicalIntangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, stageAsNumber, study, subStageSuffix, subjectOf, url ] ]
 

@@ -40,15 +40,11 @@ Class of all live_albums.
 Tag Instances like this: 
 #is_/a_/live_album
 
-[ #is_/part_of ::  ]
-
 LiveAlbum.
 
 [ #is_/sub_class_of :: [[MusicAlbumProductionType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumProductionType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ Indicates the usage of the vehicle as a rental car.
 
 [ #is_/enum_of :: [[CarUsageType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

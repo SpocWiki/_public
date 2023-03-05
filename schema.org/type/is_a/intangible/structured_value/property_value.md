@@ -40,14 +40,10 @@ Class of all property_values.
 Tag Instances like this: 
 #is_/a_/property_value
 
-[ #is_/part_of ::  ]
-
 A property-value pair, e.g. representing a feature of a product or place. Use the 'name' property for the name of the property. If there is an additional human-readable version of the value, put that into the 'description' property.<br/><br/>
 Always use specific schema.org properties when a) they exist and b) you can populate them. Using PropertyValue as a substitute will typically not trigger the same effect as using the original, specific property.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ LocationFeatureSpecification ] ]
 

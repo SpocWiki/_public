@@ -40,15 +40,11 @@ Class of all digital_audio_tape_formats.
 Tag Instances like this: 
 #is_/a_/digital_audio_tape_format
 
-[ #is_/part_of ::  ]
-
 DigitalAudioTapeFormat.
 
 [ #is_/sub_class_of :: [[MusicReleaseFormatType]] ]
 
 [ #is_/enum_of :: [[MusicReleaseFormatType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

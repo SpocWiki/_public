@@ -46,9 +46,5 @@ Enumerates the EU energy efficiency classes A-G as well as A+, A++, and A+++ as 
 
 [ #is_/sub_class_of :: [[EnergyEfficiencyEnumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

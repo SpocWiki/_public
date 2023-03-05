@@ -40,15 +40,9 @@ Class of all menu_items.
 Tag Instances like this: 
 #is_/a_/menu_item
 
-[ #is_/part_of ::  ]
-
 A food or drink item listed in a menu or menu section.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ] ]
 

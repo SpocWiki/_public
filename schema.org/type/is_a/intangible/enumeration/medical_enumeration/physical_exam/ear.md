@@ -40,15 +40,11 @@ Class of all ears.
 Tag Instances like this: 
 #is_/an_/ear
 
-[ #is_/part_of ::  ]
-
 Ear function assessment with clinical examination.
 
 [ #is_/sub_class_of :: [[PhysicalExam]] ]
 
 [ #is_/enum_of :: [[PhysicalExam]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ Indicates that the publisher gives some special status to the publication of the
 
 [ #is_/enum_of :: [[LegalValueLevel]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

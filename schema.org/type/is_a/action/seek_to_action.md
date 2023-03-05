@@ -46,9 +46,5 @@ This is the <a class="localLink" href="/Action">Action</a> of navigating to a sp
 
 [ #is_/sub_class_of :: [[Action]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startOffset, startTime, subjectOf, target, url ] ]
 

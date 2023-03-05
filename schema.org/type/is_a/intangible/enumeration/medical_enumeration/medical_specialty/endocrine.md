@@ -40,15 +40,11 @@ Class of all endocrines.
 Tag Instances like this: 
 #is_/an_/endocrine
 
-[ #is_/part_of ::  ]
-
 A specific branch of medical science that pertains to diagnosis and treatment of disorders of endocrine glands and their secretions.
 
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

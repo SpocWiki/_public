@@ -40,15 +40,11 @@ Class of all community_healths.
 Tag Instances like this: 
 #is_/a_/community_health
 
-[ #is_/part_of ::  ]
-
 A field of public health focusing on improving health characteristics of a defined population in relation with their geographical or environment areas.
 
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

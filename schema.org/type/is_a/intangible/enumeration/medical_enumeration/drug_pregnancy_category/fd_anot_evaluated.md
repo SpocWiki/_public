@@ -40,15 +40,11 @@ Class of all fd_anot_evaluateds.
 Tag Instances like this: 
 #is_/a_/fd_anot_evaluated
 
-[ #is_/part_of ::  ]
-
 A designation that the drug in question has not been assigned a pregnancy category designation by the US FDA.
 
 [ #is_/sub_class_of :: [[DrugPregnancyCategory]] ]
 
 [ #is_/enum_of :: [[DrugPregnancyCategory]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,13 +40,9 @@ Class of all churchs.
 Tag Instances like this: 
 #is_/a_/church
 
-[ #is_/part_of ::  ]
-
 A church.
 
 [ #is_/sub_class_of :: [[PlaceOfWorship]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CatholicChurch ] ]
 

@@ -40,15 +40,9 @@ Class of all drug_classs.
 Tag Instances like this: 
 #is_/a_/drug_class
 
-[ #is_/part_of ::  ]
-
 A class of medical drugs, e.g., statins. Classes can represent general pharmacological class, common mechanisms of action, common physiological effects, etc.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, drug, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 

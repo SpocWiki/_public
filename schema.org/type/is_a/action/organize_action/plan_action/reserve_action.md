@@ -40,8 +40,6 @@ Class of all reserve_actions.
 Tag Instances like this: 
 #is_/a_/reserve_action
 
-[ #is_/part_of ::  ]
-
 Reserving a concrete object.<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -49,10 +47,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[PlanAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ] ]
 

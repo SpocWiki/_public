@@ -46,9 +46,5 @@ Enumerates types (or dimensions) of a person's body measurements, for example fo
 
 [ #is_/sub_class_of :: [[MeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,9 @@ Class of all service_channels.
 Tag Instances like this: 
 #is_/a_/service_channel
 
-[ #is_/part_of ::  ]
-
 A means for accessing a service, e.g. a government office location, web site, or phone number.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ] ]
 

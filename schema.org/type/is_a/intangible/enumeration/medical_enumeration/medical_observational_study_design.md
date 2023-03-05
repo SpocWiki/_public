@@ -40,15 +40,9 @@ Class of all medical_observational_study_designs.
 Tag Instances like this: 
 #is_/a_/medical_observational_study_design
 
-[ #is_/part_of ::  ]
-
 Design models for observational medical studies. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

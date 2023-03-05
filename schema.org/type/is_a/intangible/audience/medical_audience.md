@@ -40,13 +40,9 @@ Class of all medical_audiences.
 Tag Instances like this: 
 #is_/a_/medical_audience
 
-[ #is_/part_of ::  ]
-
 Target audiences for medical web pages.
 
 [ #is_/sub_class_of :: [[Audience, PeopleAudience]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Patient ] ]
 

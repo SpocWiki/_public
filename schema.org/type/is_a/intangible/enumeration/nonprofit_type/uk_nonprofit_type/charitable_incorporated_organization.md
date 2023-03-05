@@ -48,7 +48,5 @@ CharitableIncorporatedOrganization: Non-profit type referring to a Charitable In
 
 [ #is_/enum_of :: [[UKNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

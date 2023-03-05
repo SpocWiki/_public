@@ -48,7 +48,5 @@ Indicated that a return label must be downloaded and printed by the customer.
 
 [ #is_/enum_of :: [[ReturnLabelSourceEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,11 @@ Class of all home_and_construction_businesss.
 Tag Instances like this: 
 #is_/a_/home_and_construction_business
 
-[ #is_/part_of ::  ]
-
 A construction business.<br/><br/>
 A HomeAndConstructionBusiness is a <a class="localLink" href="/LocalBusiness">LocalBusiness</a> that provides services around homes and buildings.<br/><br/>
 As a <a class="localLink" href="/LocalBusiness">LocalBusiness</a> it can be described as a <a class="localLink" href="/provider">provider</a> of one or more <a class="localLink" href="/Service">Service</a>(s).
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Electrician, GeneralContractor, HVACBusiness, HousePainter, Locksmith, MovingCompany, Plumber, RoofingContractor ] ]
 

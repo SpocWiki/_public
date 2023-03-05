@@ -40,15 +40,11 @@ Class of all international_trials.
 Tag Instances like this: 
 #is_/an_/international_trial
 
-[ #is_/part_of ::  ]
-
 An international trial.
 
 [ #is_/sub_class_of :: [[MedicalTrialDesign]] ]
 
 [ #is_/enum_of :: [[MedicalTrialDesign]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

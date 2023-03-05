@@ -40,15 +40,9 @@ Class of all listen_actions.
 Tag Instances like this: 
 #is_/a_/listen_action
 
-[ #is_/part_of ::  ]
-
 The act of consuming audio content.
 
 [ #is_/sub_class_of :: [[ConsumeAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

@@ -40,15 +40,11 @@ Class of all onlines.
 Tag Instances like this: 
 #is_/an_/online
 
-[ #is_/part_of ::  ]
-
 Game server status: Online. Server is available.
 
 [ #is_/sub_class_of :: [[GameServerStatus]] ]
 
 [ #is_/enum_of :: [[GameServerStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

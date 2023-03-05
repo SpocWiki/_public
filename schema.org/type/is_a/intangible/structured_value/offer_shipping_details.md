@@ -52,9 +52,5 @@ or Fast and expensive: $15 in 1-2 days.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, deliveryTime, depth, description, disambiguatingDescription, doesNotShip, height, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingOrigin, shippingRate, shippingSettingsLink, subjectOf, transitTimeLabel, url, weight, width ] ]
 

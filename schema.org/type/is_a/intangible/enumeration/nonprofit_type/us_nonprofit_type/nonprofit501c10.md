@@ -48,7 +48,5 @@ Nonprofit501c10: Non-profit type referring to Domestic Fraternal Societies and A
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

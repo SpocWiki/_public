@@ -46,8 +46,6 @@ Enumerates common size groups for various product categories.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
 [ #has_/sub_classes :: [ WearableSizeGroupEnumeration ] ]
 
 [ #has_/properties :: [  ] ]

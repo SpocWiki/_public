@@ -40,13 +40,9 @@ Class of all entertainment_businesss.
 Tag Instances like this: 
 #is_/an_/entertainment_business
 
-[ #is_/part_of ::  ]
-
 A business providing entertainment.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AdultEntertainment, AmusementPark, ArtGallery, Casino, ComedyClub, MovieTheater, NightClub ] ]
 

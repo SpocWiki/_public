@@ -40,14 +40,10 @@ Class of all legal_services.
 Tag Instances like this: 
 #is_/a_/legal_service
 
-[ #is_/part_of ::  ]
-
 A LegalService is a business that provides legally-oriented services, advice and representation, e.g. law firms.<br/><br/>
 As a <a class="localLink" href="/LocalBusiness">LocalBusiness</a> it can be described as a <a class="localLink" href="/provider">provider</a> of one or more <a class="localLink" href="/Service">Service</a>(s).
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Attorney, Notary ] ]
 

@@ -46,9 +46,5 @@ Text representing a CSS selector.
 
 [ #is_/sub_class_of :: [[Text]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

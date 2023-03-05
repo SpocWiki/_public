@@ -40,8 +40,6 @@ Class of all numbers.
 Tag Instances like this: 
 #is_/a_/number
 
-[ #is_/part_of ::  ]
-
 Data type: Number.<br/><br/>
 Usage guidelines:<br/><br/>
 <ul>
@@ -50,8 +48,6 @@ Usage guidelines:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Float, Integer ] ]
 

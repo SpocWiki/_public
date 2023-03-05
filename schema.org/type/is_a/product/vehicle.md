@@ -40,13 +40,9 @@ Class of all vehicles.
 Tag Instances like this: 
 #is_/a_/vehicle
 
-[ #is_/part_of ::  ]
-
 A vehicle is a device that is designed or used to transport people or cargo over land, water, air, or through space.
 
 [ #is_/sub_class_of :: [[Product]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BusOrCoach, Car, Motorcycle, MotorizedBicycle ] ]
 

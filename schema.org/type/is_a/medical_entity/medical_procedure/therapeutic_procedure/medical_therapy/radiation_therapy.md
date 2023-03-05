@@ -40,15 +40,9 @@ Class of all radiation_therapys.
 Tag Instances like this: 
 #is_/a_/radiation_therapy
 
-[ #is_/part_of ::  ]
-
 A process of care using radiation aimed at improving a health condition.
 
 [ #is_/sub_class_of :: [[MedicalTherapy]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ] ]
 

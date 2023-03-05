@@ -48,7 +48,5 @@ Nonprofit501c18: Non-profit type referring to Employee Funded Pension Trust (cre
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

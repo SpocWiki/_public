@@ -40,15 +40,9 @@ Class of all comment_actions.
 Tag Instances like this: 
 #is_/a_/comment_action
 
-[ #is_/part_of ::  ]
-
 The act of generating a comment about a subject.
 
 [ #is_/sub_class_of :: [[CommunicateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, resultComment, sameAs, startTime, subjectOf, target, url ] ]
 

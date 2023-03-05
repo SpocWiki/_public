@@ -40,15 +40,11 @@ Class of all laser_disc_formats.
 Tag Instances like this: 
 #is_/a_/laser_disc_format
 
-[ #is_/part_of ::  ]
-
 LaserDiscFormat.
 
 [ #is_/sub_class_of :: [[MusicReleaseFormatType]] ]
 
 [ #is_/enum_of :: [[MusicReleaseFormatType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,9 @@ Class of all product_models.
 Tag Instances like this: 
 #is_/a_/product_model
 
-[ #is_/part_of ::  ]
-
 A datasheet or vendor specification of a product (in the sense of a prototypical description).
 
 [ #is_/sub_class_of :: [[Product]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, brand, category, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, funding, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, logo, mainEntityOfPage, manufacturer, material, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, positiveNotes, potentialAction, predecessorOf, productID, productionDate, purchaseDate, releaseDate, review, reviews, sameAs, size, sku, slogan, subjectOf, successorOf, url, weight, width ] ]
 

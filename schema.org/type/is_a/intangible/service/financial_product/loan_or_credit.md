@@ -40,13 +40,9 @@ Class of all loan_or_credits.
 Tag Instances like this: 
 #is_/a_/loan_or_credit
 
-[ #is_/part_of ::  ]
-
 A financial product for the loaning of an amount of money, or line of credit, under agreed terms and charges.
 
 [ #is_/sub_class_of :: [[FinancialProduct]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CreditCard, MortgageLoan ] ]
 

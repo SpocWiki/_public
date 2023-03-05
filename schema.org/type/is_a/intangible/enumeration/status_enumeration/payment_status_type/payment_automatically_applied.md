@@ -40,15 +40,11 @@ Class of all payment_automatically_applieds.
 Tag Instances like this: 
 #is_/a_/payment_automatically_applied
 
-[ #is_/part_of ::  ]
-
 An automatic payment system is in place and will be used.
 
 [ #is_/sub_class_of :: [[PaymentStatusType]] ]
 
 [ #is_/enum_of :: [[PaymentStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

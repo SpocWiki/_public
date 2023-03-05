@@ -48,7 +48,5 @@ Nonprofit501c17: Non-profit type referring to Supplemental Unemployment Benefit 
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ UnincorporatedAssociationCharity: Non-profit type referring to a charitable comp
 
 [ #is_/enum_of :: [[UKNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

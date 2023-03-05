@@ -48,7 +48,5 @@ OnlineEventAttendanceMode - an event that is primarily conducted online.
 
 [ #is_/enum_of :: [[EventAttendanceModeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

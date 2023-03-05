@@ -48,7 +48,5 @@ Specifies that product returns are not permitted.
 
 [ #is_/enum_of :: [[MerchantReturnEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

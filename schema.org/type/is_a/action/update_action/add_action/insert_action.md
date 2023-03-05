@@ -40,13 +40,9 @@ Class of all insert_actions.
 Tag Instances like this: 
 #is_/an_/insert_action
 
-[ #is_/part_of ::  ]
-
 The act of adding at a specific location in an ordered collection.
 
 [ #is_/sub_class_of :: [[AddAction]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AppendAction, PrependAction ] ]
 

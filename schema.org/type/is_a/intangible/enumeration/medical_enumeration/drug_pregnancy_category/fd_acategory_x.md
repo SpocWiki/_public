@@ -40,15 +40,11 @@ Class of all fd_acategory_xs.
 Tag Instances like this: 
 #is_/a_/fd_acategory_x
 
-[ #is_/part_of ::  ]
-
 A designation by the US FDA signifying that studies in animals or humans have demonstrated fetal abnormalities and/or there is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience, and the risks involved in use of the drug in pregnant women clearly outweigh potential benefits.
 
 [ #is_/sub_class_of :: [[DrugPregnancyCategory]] ]
 
 [ #is_/enum_of :: [[DrugPregnancyCategory]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

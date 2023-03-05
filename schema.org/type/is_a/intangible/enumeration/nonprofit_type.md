@@ -46,8 +46,6 @@ NonprofitType enumerates several kinds of official non-profit types of which a n
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
 [ #has_/sub_classes :: [ NLNonprofitType, UKNonprofitType, USNonprofitType ] ]
 
 [ #has_/properties :: [  ] ]

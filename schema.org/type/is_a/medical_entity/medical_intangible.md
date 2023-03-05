@@ -40,13 +40,9 @@ Class of all medical_intangibles.
 Tag Instances like this: 
 #is_/a_/medical_intangible
 
-[ #is_/part_of ::  ]
-
 A utility class that serves as the umbrella for a number of 'intangible' things in the medical space.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ DDxElement, DoseSchedule, DrugLegalStatus, DrugStrength, MedicalCode, MedicalConditionStage ] ]
 

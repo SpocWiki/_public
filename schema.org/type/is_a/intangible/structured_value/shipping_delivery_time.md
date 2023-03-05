@@ -46,9 +46,5 @@ ShippingDeliveryTime provides various pieces of information about delivery times
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, businessDays, cutoffTime, description, disambiguatingDescription, handlingTime, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, transitTime, url ] ]
 

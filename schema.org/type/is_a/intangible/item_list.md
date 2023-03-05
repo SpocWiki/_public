@@ -40,13 +40,9 @@ Class of all item_lists.
 Tag Instances like this: 
 #is_/an_/item_list
 
-[ #is_/part_of ::  ]
-
 A list of items of any sort&#x2014;for example, Top 10 Movies About Weathermen, or Top 100 Party Songs. Not to be confused with HTML lists, which are often used only for formatting.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ] ]
 

@@ -40,15 +40,9 @@ Class of all action_access_specifications.
 Tag Instances like this: 
 #is_/an_/action_access_specification
 
-[ #is_/part_of ::  ]
-
 A set of requirements that must be fulfilled in order to perform an Action.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, availabilityEnds, availabilityStarts, category, description, disambiguatingDescription, eligibleRegion, expectsAcceptanceOf, identifier, image, ineligibleRegion, mainEntityOfPage, name, potentialAction, requiresSubscription, sameAs, subjectOf, url ] ]
 

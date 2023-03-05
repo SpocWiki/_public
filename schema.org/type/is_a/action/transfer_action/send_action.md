@@ -40,8 +40,6 @@ Class of all send_actions.
 Tag Instances like this: 
 #is_/a_/send_action
 
-[ #is_/part_of ::  ]
-
 The act of physically/electronically dispatching an object for transfer from an origin to a destination. Related actions:<br/><br/>
 <ul>
 <li><a class="localLink" href="/ReceiveAction">ReceiveAction</a>: The reciprocal of SendAction.</li>
@@ -49,10 +47,6 @@ The act of physically/electronically dispatching an object for transfer from an 
 </ul>
 
 [ #is_/sub_class_of :: [[TransferAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 

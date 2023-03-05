@@ -40,15 +40,11 @@ Class of all on_site_pickups.
 Tag Instances like this: 
 #is_/an_/on_site_pickup
 
-[ #is_/part_of ::  ]
-
 A DeliveryMethod in which an item is collected on site, e.g. in a store or at a box office.
 
 [ #is_/sub_class_of :: [[DeliveryMethod]] ]
 
 [ #is_/enum_of :: [[DeliveryMethod]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

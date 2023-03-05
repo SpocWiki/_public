@@ -40,15 +40,11 @@ Class of all limited_availabilitys.
 Tag Instances like this: 
 #is_/a_/limited_availability
 
-[ #is_/part_of ::  ]
-
 Indicates that the item has limited availability.
 
 [ #is_/sub_class_of :: [[ItemAvailability]] ]
 
 [ #is_/enum_of :: [[ItemAvailability]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

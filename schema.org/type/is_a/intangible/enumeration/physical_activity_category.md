@@ -40,15 +40,9 @@ Class of all physical_activity_categorys.
 Tag Instances like this: 
 #is_/a_/physical_activity_category
 
-[ #is_/part_of ::  ]
-
 Categories of physical activity, organized by physiologic classification.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ Overview of the content. Contains a summarized view of the topic with the most r
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

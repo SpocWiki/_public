@@ -47,9 +47,5 @@ A tourist trip. A created itinerary of visits to one or more places of interest 
 
 [ #is_/sub_class_of :: [[Trip]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, touristType, url ] ]
 

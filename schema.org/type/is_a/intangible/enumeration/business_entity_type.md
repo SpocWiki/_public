@@ -40,8 +40,6 @@ Class of all business_entity_types.
 Tag Instances like this: 
 #is_/a_/business_entity_type
 
-[ #is_/part_of ::  ]
-
 A business entity type is a conceptual entity representing the legal form, the size, the main line of business, the position in the value chain, or any combination thereof, of an organization or business person.<br/><br/>
 Commonly used values:<br/><br/>
 <ul>
@@ -52,10 +50,6 @@ Commonly used values:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

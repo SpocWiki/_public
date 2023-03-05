@@ -40,15 +40,9 @@ Class of all quote_actions.
 Tag Instances like this: 
 #is_/a_/quote_action
 
-[ #is_/part_of ::  ]
-
 An agent quotes/estimates/appraises an object/product/service with a price at a location/store.
 
 [ #is_/sub_class_of :: [[TradeAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

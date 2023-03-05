@@ -40,8 +40,6 @@ Class of all find_actions.
 Tag Instances like this: 
 #is_/a_/find_action
 
-[ #is_/part_of ::  ]
-
 The act of finding an object.<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -49,8 +47,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CheckAction, DiscoverAction, TrackAction ] ]
 

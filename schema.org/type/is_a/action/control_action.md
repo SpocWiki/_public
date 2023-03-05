@@ -40,13 +40,9 @@ Class of all control_actions.
 Tag Instances like this: 
 #is_/a_/control_action
 
-[ #is_/part_of ::  ]
-
 An agent controls a device or application.
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ ActivateAction, DeactivateAction, ResumeAction, SuspendAction ] ]
 

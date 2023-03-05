@@ -40,15 +40,9 @@ Class of all rsvp_response_types.
 Tag Instances like this: 
 #is_/a_/rsvp_response_type
 
-[ #is_/part_of ::  ]
-
 RsvpResponseType is an enumeration type whose instances represent responding to an RSVP request.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

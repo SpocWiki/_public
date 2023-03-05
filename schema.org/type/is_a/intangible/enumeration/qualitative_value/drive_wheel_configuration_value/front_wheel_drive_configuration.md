@@ -40,15 +40,11 @@ Class of all front_wheel_drive_configurations.
 Tag Instances like this: 
 #is_/a_/front_wheel_drive_configuration
 
-[ #is_/part_of ::  ]
-
 Front-wheel drive is a transmission layout where the engine drives the front wheels.
 
 [ #is_/sub_class_of :: [[DriveWheelConfigurationValue]] ]
 
 [ #is_/enum_of :: [[DriveWheelConfigurationValue]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

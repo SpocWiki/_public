@@ -40,15 +40,9 @@ Class of all steering_position_values.
 Tag Instances like this: 
 #is_/a_/steering_position_value
 
-[ #is_/part_of ::  ]
-
 A value indicating a steering position.
 
 [ #is_/sub_class_of :: [[QualitativeValue]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 

@@ -46,9 +46,5 @@ A description of costs to the patient under a given network or formulary.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCoinsuranceOption, healthPlanCoinsuranceRate, healthPlanCopay, healthPlanCopayOption, healthPlanPharmacyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

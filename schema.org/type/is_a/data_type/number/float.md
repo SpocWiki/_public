@@ -40,15 +40,9 @@ Class of all floats.
 Tag Instances like this: 
 #is_/a_/float
 
-[ #is_/part_of ::  ]
-
 Data type: Floating number.
 
 [ #is_/sub_class_of :: [[Number]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

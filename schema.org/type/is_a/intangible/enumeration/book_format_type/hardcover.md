@@ -40,15 +40,11 @@ Class of all hardcovers.
 Tag Instances like this: 
 #is_/a_/hardcover
 
-[ #is_/part_of ::  ]
-
 Book format: Hardcover.
 
 [ #is_/sub_class_of :: [[BookFormatType]] ]
 
 [ #is_/enum_of :: [[BookFormatType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,9 @@ Class of all distances.
 Tag Instances like this: 
 #is_/a_/distance
 
-[ #is_/part_of ::  ]
-
 Properties that take Distances as values are of the form '&lt;Number&gt; &lt;Length unit of measure&gt;'. E.g., '7 ft'.
 
 [ #is_/sub_class_of :: [[Quantity]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

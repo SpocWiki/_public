@@ -40,15 +40,9 @@ Class of all occupations.
 Tag Instances like this: 
 #is_/an_/occupation
 
-[ #is_/part_of ::  ]
-
 A profession, may involve prolonged training and/or a formal qualification.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ] ]
 

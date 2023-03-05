@@ -40,13 +40,9 @@ Class of all organizations.
 Tag Instances like this: 
 #is_/an_/organization
 
-[ #is_/part_of ::  ]
-
 An organization such as a school, NGO, corporation, club, etc.
 
 [ #is_/sub_class_of :: [[Thing]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Airline, Consortium, Corporation, EducationalOrganization, FundingScheme, GovernmentOrganization, LibrarySystem, LocalBusiness, MedicalOrganization, NGO, NewsMediaOrganization, OnlineBusiness, PerformingGroup, Project, ResearchOrganization, SearchRescueOrganization, SportsOrganization, WorkersUnion ] ]
 

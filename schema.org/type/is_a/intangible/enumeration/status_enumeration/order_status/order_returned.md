@@ -40,15 +40,11 @@ Class of all order_returneds.
 Tag Instances like this: 
 #is_/an_/order_returned
 
-[ #is_/part_of ::  ]
-
 OrderStatus representing that an order has been returned.
 
 [ #is_/sub_class_of :: [[OrderStatus]] ]
 
 [ #is_/enum_of :: [[OrderStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

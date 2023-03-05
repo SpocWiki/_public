@@ -40,15 +40,11 @@ Class of all pets.
 Tag Instances like this: 
 #is_/a_/pet
 
-[ #is_/part_of ::  ]
-
 Positron emission tomography imaging.
 
 [ #is_/sub_class_of :: [[MedicalImagingTechnique]] ]
 
 [ #is_/enum_of :: [[MedicalImagingTechnique]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -46,9 +46,5 @@ For a <a class="localLink" href="/VideoGame">VideoGame</a>, such as used with a 
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

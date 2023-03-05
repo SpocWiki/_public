@@ -40,15 +40,11 @@ Class of all public_healths.
 Tag Instances like this: 
 #is_/a_/public_health
 
-[ #is_/part_of ::  ]
-
 Branch of medicine that pertains to the health services to improve and protect community health, especially epidemiology, sanitation, immunization, and preventive medicine.
 
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

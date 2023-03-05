@@ -46,9 +46,5 @@ A value indicating a special usage of a car, e.g. commercial rental, driving sch
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

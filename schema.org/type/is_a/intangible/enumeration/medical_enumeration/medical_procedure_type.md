@@ -40,15 +40,9 @@ Class of all medical_procedure_types.
 Tag Instances like this: 
 #is_/a_/medical_procedure_type
 
-[ #is_/part_of ::  ]
-
 An enumeration that describes different types of medical procedures.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

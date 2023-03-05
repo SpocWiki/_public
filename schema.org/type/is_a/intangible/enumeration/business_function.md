@@ -40,8 +40,6 @@ Class of all business_functions.
 Tag Instances like this: 
 #is_/a_/business_function
 
-[ #is_/part_of ::  ]
-
 The business function specifies the type of activity or access (i.e., the bundle of rights) offered by the organization or business person through the offer. Typical are sell, rental or lease, maintenance or repair, manufacture / produce, recycle / dispose, engineering / construction, or installation. Proprietary specifications of access rights are also instances of this class.<br/><br/>
 Commonly used values:<br/><br/>
 <ul>
@@ -56,10 +54,6 @@ Commonly used values:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

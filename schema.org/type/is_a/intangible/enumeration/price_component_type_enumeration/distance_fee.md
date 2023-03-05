@@ -48,7 +48,5 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 
 [ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

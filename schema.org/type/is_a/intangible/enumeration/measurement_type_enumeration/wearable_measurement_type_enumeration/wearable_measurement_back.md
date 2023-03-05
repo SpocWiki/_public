@@ -48,7 +48,5 @@ Measurement of the back section, for example of a jacket
 
 [ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

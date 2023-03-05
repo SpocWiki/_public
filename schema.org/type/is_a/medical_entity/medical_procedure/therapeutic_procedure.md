@@ -40,13 +40,9 @@ Class of all therapeutic_procedures.
 Tag Instances like this: 
 #is_/a_/therapeutic_procedure
 
-[ #is_/part_of ::  ]
-
 A medical procedure intended primarily for therapeutic purposes, aimed at improving a health condition.
 
 [ #is_/sub_class_of :: [[MedicalProcedure]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MedicalTherapy, PsychologicalTreatment ] ]
 

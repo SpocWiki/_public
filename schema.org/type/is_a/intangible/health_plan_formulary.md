@@ -46,9 +46,5 @@ For a given health insurance plan, the specification for costs and coverage of p
 
 [ #is_/sub_class_of :: [[Intangible]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCostSharing, healthPlanDrugTier, identifier, image, mainEntityOfPage, name, offersPrescriptionByMail, potentialAction, sameAs, subjectOf, url ] ]
 

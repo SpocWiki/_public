@@ -40,15 +40,9 @@ Class of all cable_or_satellite_services.
 Tag Instances like this: 
 #is_/a_/cable_or_satellite_service
 
-[ #is_/part_of ::  ]
-
 A service which provides access to media programming like TV or radio. Access may be via cable or satellite.
 
 [ #is_/sub_class_of :: [[Service]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 

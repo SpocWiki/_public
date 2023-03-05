@@ -40,8 +40,6 @@ Class of all ask_actions.
 Tag Instances like this: 
 #is_/an_/ask_action
 
-[ #is_/part_of ::  ]
-
 The act of posing a question / favor to someone.<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -49,10 +47,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[CommunicateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, question, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 

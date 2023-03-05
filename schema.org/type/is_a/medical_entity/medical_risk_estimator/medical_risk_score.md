@@ -40,15 +40,9 @@ Class of all medical_risk_scores.
 Tag Instances like this: 
 #is_/a_/medical_risk_score
 
-[ #is_/part_of ::  ]
-
 A simple system that adds up the number of risk factors to yield a score that is associated with prognosis, e.g. CHAD score, TIMI risk score.
 
 [ #is_/sub_class_of :: [[MedicalRiskEstimator]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, algorithm, alternateName, code, description, disambiguatingDescription, estimatesRiskOf, funding, guideline, identifier, image, includedRiskFactor, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 

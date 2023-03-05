@@ -48,7 +48,5 @@ Measurement of the sleeve length, for example of a shirt
 
 [ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,9 @@ Class of all write_actions.
 Tag Instances like this: 
 #is_/a_/write_action
 
-[ #is_/part_of ::  ]
-
 The act of authoring written creative content.
 
 [ #is_/sub_class_of :: [[CreateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

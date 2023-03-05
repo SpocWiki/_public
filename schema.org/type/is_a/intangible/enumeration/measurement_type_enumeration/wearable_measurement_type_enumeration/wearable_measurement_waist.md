@@ -48,7 +48,5 @@ Measurement of the waist section, for example of pants
 
 [ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

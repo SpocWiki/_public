@@ -40,15 +40,11 @@ Class of all payment_declineds.
 Tag Instances like this: 
 #is_/a_/payment_declined
 
-[ #is_/part_of ::  ]
-
 The payee received the payment, but it was declined for some reason.
 
 [ #is_/sub_class_of :: [[PaymentStatusType]] ]
 
 [ #is_/enum_of :: [[PaymentStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

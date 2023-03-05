@@ -40,15 +40,9 @@ Class of all date_times.
 Tag Instances like this: 
 #is_/a_/date_time
 
-[ #is_/part_of ::  ]
-
 A combination of date and time of day in the form [-]CCYY-MM-DDThh:mm:ss[Z|(+|-)hh:mm] (see Chapter 5.4 of ISO 8601).
 
 [ #is_/sub_class_of :: [[]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

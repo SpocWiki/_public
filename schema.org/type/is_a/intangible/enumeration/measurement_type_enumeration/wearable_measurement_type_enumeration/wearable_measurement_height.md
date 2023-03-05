@@ -48,7 +48,5 @@ Measurement of the height, for example the heel height of a shoe
 
 [ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

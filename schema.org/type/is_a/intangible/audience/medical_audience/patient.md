@@ -40,15 +40,9 @@ Class of all patients.
 Tag Instances like this: 
 #is_/a_/patient
 
-[ #is_/part_of ::  ]
-
 A patient is any person recipient of health care services.
 
 [ #is_/sub_class_of :: [[MedicalAudience, Person]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalName, additionalType, address, affiliation, alternateName, alumniOf, audienceType, award, awards, birthDate, birthPlace, brand, callSign, children, colleague, colleagues, contactPoint, contactPoints, deathDate, deathPlace, description, diagnosis, disambiguatingDescription, drug, duns, email, familyName, faxNumber, follows, funder, funding, gender, geographicArea, givenName, globalLocationNumber, hasCredential, hasOccupation, hasOfferCatalog, hasPOS, healthCondition, height, homeLocation, honorificPrefix, honorificSuffix, identifier, image, interactionStatistic, isicV4, jobTitle, knows, knowsAbout, knowsLanguage, mainEntityOfPage, makesOffer, memberOf, naics, name, nationality, netWorth, owns, parent, parents, performerIn, potentialAction, publishingPrinciples, relatedTo, requiredGender, requiredMaxAge, requiredMinAge, sameAs, seeks, sibling, siblings, sponsor, spouse, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, taxID, telephone, url, vatID, weight, workLocation, worksFor ] ]
 

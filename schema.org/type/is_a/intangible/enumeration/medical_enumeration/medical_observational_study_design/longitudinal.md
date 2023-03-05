@@ -40,15 +40,11 @@ Class of all longitudinals.
 Tag Instances like this: 
 #is_/a_/longitudinal
 
-[ #is_/part_of ::  ]
-
 Unlike cross-sectional studies, longitudinal studies track the same people, and therefore the differences observed in those people are less likely to be the result of cultural differences across generations. Longitudinal studies are also used in medicine to uncover predictors of certain diseases.
 
 [ #is_/sub_class_of :: [[MedicalObservationalStudyDesign]] ]
 
 [ #is_/enum_of :: [[MedicalObservationalStudyDesign]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

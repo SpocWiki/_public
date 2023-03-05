@@ -40,15 +40,9 @@ Class of all sell_actions.
 Tag Instances like this: 
 #is_/a_/sell_action
 
-[ #is_/part_of ::  ]
-
 The act of taking money from a buyer in exchange for goods or services rendered. An agent sells an object, product, or service to a buyer for a price. Reciprocal of BuyAction.
 
 [ #is_/sub_class_of :: [[TradeAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, buyer, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url, warrantyPromise ] ]
 

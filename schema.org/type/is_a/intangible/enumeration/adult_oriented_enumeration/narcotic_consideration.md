@@ -48,7 +48,5 @@ Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narco
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

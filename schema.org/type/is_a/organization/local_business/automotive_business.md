@@ -40,13 +40,9 @@ Class of all automotive_businesss.
 Tag Instances like this: 
 #is_/an_/automotive_business
 
-[ #is_/part_of ::  ]
-
 Car repair, sales, or parts.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AutoBodyShop, AutoDealer, AutoPartsStore, AutoRental, AutoRepair, AutoWash, GasStation, MotorcycleDealer, MotorcycleRepair ] ]
 

@@ -49,7 +49,5 @@ Indicates a document for which the text is conclusively what the law says and is
 
 [ #is_/enum_of :: [[LegalValueLevel]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

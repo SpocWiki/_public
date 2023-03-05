@@ -40,13 +40,9 @@ Class of all messages.
 Tag Instances like this: 
 #is_/a_/message
 
-[ #is_/part_of ::  ]
-
 A single message from a sender to one or more organizations or people.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ EmailMessage ] ]
 

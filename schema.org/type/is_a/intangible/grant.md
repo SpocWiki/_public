@@ -49,8 +49,6 @@ The amount of a <a class="localLink" href="/Grant">Grant</a> is represented usin
 
 [ #is_/sub_class_of :: [[Intangible]] ]
 
-[ #is_/enum_of :: [[]] ]
-
 [ #has_/sub_classes :: [ MonetaryGrant ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ] ]

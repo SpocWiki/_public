@@ -40,15 +40,9 @@ Class of all want_actions.
 Tag Instances like this: 
 #is_/a_/want_action
 
-[ #is_/part_of ::  ]
-
 The act of expressing a desire about the object. An agent wants an object.
 
 [ #is_/sub_class_of :: [[ReactAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

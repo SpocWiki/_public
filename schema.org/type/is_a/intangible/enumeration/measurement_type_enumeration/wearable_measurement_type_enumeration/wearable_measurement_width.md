@@ -48,7 +48,5 @@ Measurement of the width, for example of shoes
 
 [ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

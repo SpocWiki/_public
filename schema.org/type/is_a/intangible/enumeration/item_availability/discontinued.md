@@ -40,15 +40,11 @@ Class of all discontinueds.
 Tag Instances like this: 
 #is_/a_/discontinued
 
-[ #is_/part_of ::  ]
-
 Indicates that the item has been discontinued.
 
 [ #is_/sub_class_of :: [[ItemAvailability]] ]
 
 [ #is_/enum_of :: [[ItemAvailability]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ Specifies that the customer receives a store credit as refund when returning a p
 
 [ #is_/enum_of :: [[RefundTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

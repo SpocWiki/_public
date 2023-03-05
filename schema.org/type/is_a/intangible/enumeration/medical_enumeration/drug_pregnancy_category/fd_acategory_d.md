@@ -40,15 +40,11 @@ Class of all fd_acategory_ds.
 Tag Instances like this: 
 #is_/a_/fd_acategory_d
 
-[ #is_/part_of ::  ]
-
 A designation by the US FDA signifying that there is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.
 
 [ #is_/sub_class_of :: [[DrugPregnancyCategory]] ]
 
 [ #is_/enum_of :: [[DrugPregnancyCategory]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

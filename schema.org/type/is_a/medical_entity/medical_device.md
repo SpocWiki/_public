@@ -40,15 +40,9 @@ Class of all medical_devices.
 Tag Instances like this: 
 #is_/a_/medical_device
 
-[ #is_/part_of ::  ]
-
 Any object used in a medical capacity, such as to diagnose or treat a patient.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, code, contraindication, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, postOp, potentialAction, preOp, procedure, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, study, subjectOf, url ] ]
 

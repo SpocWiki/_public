@@ -40,13 +40,9 @@ Class of all tech_articles.
 Tag Instances like this: 
 #is_/a_/tech_article
 
-[ #is_/part_of ::  ]
-
 A technical article - Example: How-to (task) topics, step-by-step, procedural troubleshooting, specifications, etc.
 
 [ #is_/sub_class_of :: [[Article]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ APIReference ] ]
 

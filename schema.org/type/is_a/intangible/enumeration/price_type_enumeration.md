@@ -46,9 +46,5 @@ Enumerates different price types, for example list price, invoice price, and sal
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

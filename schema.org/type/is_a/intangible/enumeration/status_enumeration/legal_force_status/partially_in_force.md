@@ -48,7 +48,5 @@ Indicates that parts of the legislation are in force, and parts are not.
 
 [ #is_/enum_of :: [[LegalForceStatus]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

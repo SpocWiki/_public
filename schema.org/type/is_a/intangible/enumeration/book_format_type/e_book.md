@@ -40,15 +40,11 @@ Class of all e_books.
 Tag Instances like this: 
 #is_/an_/e_book
 
-[ #is_/part_of ::  ]
-
 Book format: Ebook.
 
 [ #is_/sub_class_of :: [[BookFormatType]] ]
 
 [ #is_/enum_of :: [[BookFormatType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

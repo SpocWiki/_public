@@ -40,15 +40,9 @@ Class of all drive_wheel_configuration_values.
 Tag Instances like this: 
 #is_/a_/drive_wheel_configuration_value
 
-[ #is_/part_of ::  ]
-
 A value indicating which roadwheels will receive torque.
 
 [ #is_/sub_class_of :: [[QualitativeValue]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 

@@ -40,15 +40,9 @@ Class of all geo_coordinatess.
 Tag Instances like this: 
 #is_/a_/geo_coordinates
 
-[ #is_/part_of ::  ]
-
 The geographic coordinates of a place or event.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, address, addressCountry, alternateName, description, disambiguatingDescription, elevation, identifier, image, latitude, longitude, mainEntityOfPage, name, postalCode, potentialAction, sameAs, subjectOf, url ] ]
 

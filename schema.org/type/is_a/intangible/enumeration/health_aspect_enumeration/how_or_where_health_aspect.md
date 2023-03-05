@@ -48,7 +48,5 @@ Information about how or where to find a topic. Also may contain location data t
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

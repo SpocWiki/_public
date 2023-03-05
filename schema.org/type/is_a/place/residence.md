@@ -40,13 +40,9 @@ Class of all residences.
 Tag Instances like this: 
 #is_/a_/residence
 
-[ #is_/part_of ::  ]
-
 The place where a person lives.
 
 [ #is_/sub_class_of :: [[Place]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ ApartmentComplex, GatedResidenceCommunity ] ]
 

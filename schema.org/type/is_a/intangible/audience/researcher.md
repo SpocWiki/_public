@@ -40,15 +40,9 @@ Class of all researchers.
 Tag Instances like this: 
 #is_/a_/researcher
 
-[ #is_/part_of ::  ]
-
 Researchers.
 
 [ #is_/sub_class_of :: [[Audience]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

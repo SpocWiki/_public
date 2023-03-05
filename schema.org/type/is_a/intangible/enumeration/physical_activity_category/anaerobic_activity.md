@@ -40,15 +40,11 @@ Class of all anaerobic_activitys.
 Tag Instances like this: 
 #is_/an_/anaerobic_activity
 
-[ #is_/part_of ::  ]
-
 Physical activity that is of high-intensity which utilizes the anaerobic metabolism of the body.
 
 [ #is_/sub_class_of :: [[PhysicalActivityCategory]] ]
 
 [ #is_/enum_of :: [[PhysicalActivityCategory]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,13 +40,9 @@ Class of all medical_conditions.
 Tag Instances like this: 
 #is_/a_/medical_condition
 
-[ #is_/part_of ::  ]
-
 Any condition of the human body that affects the normal functioning of a person, whether physically or mentally. Includes diseases, injuries, disabilities, disorders, syndromes, etc.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ InfectiousDisease, MedicalSignOrSymptom ] ]
 

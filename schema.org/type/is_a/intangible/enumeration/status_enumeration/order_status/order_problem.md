@@ -40,15 +40,11 @@ Class of all order_problems.
 Tag Instances like this: 
 #is_/an_/order_problem
 
-[ #is_/part_of ::  ]
-
 OrderStatus representing that there is a problem with the order.
 
 [ #is_/sub_class_of :: [[OrderStatus]] ]
 
 [ #is_/enum_of :: [[OrderStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

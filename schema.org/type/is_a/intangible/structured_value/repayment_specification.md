@@ -46,9 +46,5 @@ A structured value representing repayment.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, downPayment, earlyPrepaymentPenalty, identifier, image, loanPaymentAmount, loanPaymentFrequency, mainEntityOfPage, name, numberOfLoanPayments, potentialAction, sameAs, subjectOf, url ] ]
 

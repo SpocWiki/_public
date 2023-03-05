@@ -40,15 +40,11 @@ Class of all western_conventionals.
 Tag Instances like this: 
 #is_/a_/western_conventional
 
-[ #is_/part_of ::  ]
-
 The conventional Western system of medicine, that aims to apply the best available evidence gained from the scientific method to clinical decision making. Also known as conventional or Western medicine.
 
 [ #is_/sub_class_of :: [[MedicineSystem]] ]
 
 [ #is_/enum_of :: [[MedicineSystem]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,9 @@ Class of all property_value_specifications.
 Tag Instances like this: 
 #is_/a_/property_value_specification
 
-[ #is_/part_of ::  ]
-
 A Property value specification.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, defaultValue, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, multipleValues, name, potentialAction, readonlyValue, sameAs, stepValue, subjectOf, url, valueMaxLength, valueMinLength, valueName, valuePattern, valueRequired ] ]
 

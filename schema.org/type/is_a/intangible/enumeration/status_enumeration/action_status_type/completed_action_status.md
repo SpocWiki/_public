@@ -40,15 +40,11 @@ Class of all completed_action_statuss.
 Tag Instances like this: 
 #is_/a_/completed_action_status
 
-[ #is_/part_of ::  ]
-
 An action that has already taken place.
 
 [ #is_/sub_class_of :: [[ActionStatusType]] ]
 
 [ #is_/enum_of :: [[ActionStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

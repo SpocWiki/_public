@@ -40,8 +40,6 @@ Class of all warranty_scopes.
 Tag Instances like this: 
 #is_/a_/warranty_scope
 
-[ #is_/part_of ::  ]
-
 A range of services that will be provided to a customer free of charge in case of a defect or malfunction of a product.<br/><br/>
 Commonly used values:<br/><br/>
 <ul>
@@ -51,10 +49,6 @@ Commonly used values:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

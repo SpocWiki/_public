@@ -40,15 +40,9 @@ Class of all game_play_modes.
 Tag Instances like this: 
 #is_/a_/game_play_mode
 
-[ #is_/part_of ::  ]
-
 Indicates whether this game is multi-player, co-op or single-player.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

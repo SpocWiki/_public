@@ -40,15 +40,11 @@ Class of all flexibilitys.
 Tag Instances like this: 
 #is_/a_/flexibility
 
-[ #is_/part_of ::  ]
-
 Physical activity that is engaged in to improve joint and muscle flexibility.
 
 [ #is_/sub_class_of :: [[PhysicalActivityCategory]] ]
 
 [ #is_/enum_of :: [[PhysicalActivityCategory]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

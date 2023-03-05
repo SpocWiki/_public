@@ -48,7 +48,5 @@ Indicates that a legislation is currently not in force.
 
 [ #is_/enum_of :: [[LegalForceStatus]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

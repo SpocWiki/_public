@@ -40,13 +40,9 @@ Class of all place_of_worships.
 Tag Instances like this: 
 #is_/a_/place_of_worship
 
-[ #is_/part_of ::  ]
-
 Place of worship, such as a church, synagogue, or mosque.
 
 [ #is_/sub_class_of :: [[CivicStructure]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BuddhistTemple, Church, HinduTemple, Mosque, Synagogue ] ]
 

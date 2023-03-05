@@ -40,13 +40,9 @@ Class of all books.
 Tag Instances like this: 
 #is_/a_/book
 
-[ #is_/part_of ::  ]
-
 A book.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Audiobook ] ]
 

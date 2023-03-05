@@ -40,15 +40,11 @@ Class of all musculoskeletal_exams.
 Tag Instances like this: 
 #is_/a_/musculoskeletal_exam
 
-[ #is_/part_of ::  ]
-
 Musculoskeletal system clinical examination.
 
 [ #is_/sub_class_of :: [[PhysicalExam]] ]
 
 [ #is_/enum_of :: [[PhysicalExam]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

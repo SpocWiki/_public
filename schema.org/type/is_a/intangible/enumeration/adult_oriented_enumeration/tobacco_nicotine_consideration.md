@@ -48,7 +48,5 @@ Item contains tobacco and/or nicotine, for example cigars, cigarettes, chewing t
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

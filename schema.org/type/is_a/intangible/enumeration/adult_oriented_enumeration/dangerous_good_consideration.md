@@ -48,7 +48,5 @@ The item is dangerous and requires careful handling and/or special training of t
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

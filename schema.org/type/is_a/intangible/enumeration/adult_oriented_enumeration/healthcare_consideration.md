@@ -48,7 +48,5 @@ Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medi
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

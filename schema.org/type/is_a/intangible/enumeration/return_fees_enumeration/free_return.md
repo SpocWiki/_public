@@ -48,7 +48,5 @@ Specifies that product returns are free of charge for the customer.
 
 [ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

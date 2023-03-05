@@ -40,15 +40,11 @@ Class of all multi_players.
 Tag Instances like this: 
 #is_/a_/multi_player
 
-[ #is_/part_of ::  ]
-
 Play mode: MultiPlayer. Requiring or allowing multiple human players to play simultaneously.
 
 [ #is_/sub_class_of :: [[GamePlayMode]] ]
 
 [ #is_/enum_of :: [[GamePlayMode]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

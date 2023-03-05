@@ -40,15 +40,11 @@ Class of all occupational_activitys.
 Tag Instances like this: 
 #is_/an_/occupational_activity
 
-[ #is_/part_of ::  ]
-
 Any physical activity engaged in for job-related purposes. Examples may include waiting tables, maid service, carrying a mailbag, picking fruits or vegetables, construction work, etc.
 
 [ #is_/sub_class_of :: [[PhysicalActivityCategory]] ]
 
 [ #is_/enum_of :: [[PhysicalActivityCategory]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

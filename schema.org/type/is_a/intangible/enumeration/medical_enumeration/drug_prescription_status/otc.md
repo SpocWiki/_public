@@ -40,15 +40,11 @@ Class of all otcs.
 Tag Instances like this: 
 #is_/an_/otc
 
-[ #is_/part_of ::  ]
-
 The character of a medical substance, typically a medicine, of being available over the counter or not.
 
 [ #is_/sub_class_of :: [[DrugPrescriptionStatus]] ]
 
 [ #is_/enum_of :: [[DrugPrescriptionStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

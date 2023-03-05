@@ -40,8 +40,6 @@ Class of all apply_actions.
 Tag Instances like this: 
 #is_/an_/apply_action
 
-[ #is_/part_of ::  ]
-
 The act of registering to an organization/service without the guarantee to receive it.<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -49,10 +47,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[OrganizeAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

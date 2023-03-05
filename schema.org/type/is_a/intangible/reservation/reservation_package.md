@@ -40,15 +40,9 @@ Class of all reservation_packages.
 Tag Instances like this: 
 #is_/a_/reservation_package
 
-[ #is_/part_of ::  ]
-
 A group of multiple reservations with common values for all sub-reservations.
 
 [ #is_/sub_class_of :: [[Reservation]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subReservation, subjectOf, totalPrice, underName, url ] ]
 

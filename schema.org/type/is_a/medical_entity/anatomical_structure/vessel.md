@@ -40,13 +40,9 @@ Class of all vessels.
 Tag Instances like this: 
 #is_/a_/vessel
 
-[ #is_/part_of ::  ]
-
 A component of the human body circulatory system comprised of an intricate network of hollow tubes that transport blood throughout the entire body.
 
 [ #is_/sub_class_of :: [[AnatomicalStructure]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Artery, LymphaticVessel, Vein ] ]
 

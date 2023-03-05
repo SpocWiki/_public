@@ -40,13 +40,9 @@ Class of all health_and_beauty_businesss.
 Tag Instances like this: 
 #is_/a_/health_and_beauty_business
 
-[ #is_/part_of ::  ]
-
 Health and beauty.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BeautySalon, DaySpa, HairSalon, HealthClub, NailSalon, TattooParlor ] ]
 

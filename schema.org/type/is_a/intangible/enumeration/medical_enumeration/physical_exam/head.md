@@ -40,15 +40,11 @@ Class of all heads.
 Tag Instances like this: 
 #is_/a_/head
 
-[ #is_/part_of ::  ]
-
 Head assessment with clinical examination.
 
 [ #is_/sub_class_of :: [[PhysicalExam]] ]
 
 [ #is_/enum_of :: [[PhysicalExam]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,13 +40,9 @@ Class of all music_playlists.
 Tag Instances like this: 
 #is_/a_/music_playlist
 
-[ #is_/part_of ::  ]
-
 A collection of music tracks in playlist form.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MusicAlbum, MusicRelease ] ]
 

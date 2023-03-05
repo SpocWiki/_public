@@ -48,7 +48,5 @@ ParentalSupport: this is a benefit for parental support.
 
 [ #is_/enum_of :: [[GovernmentBenefitsType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

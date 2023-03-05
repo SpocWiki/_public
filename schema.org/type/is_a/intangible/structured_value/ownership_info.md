@@ -40,15 +40,9 @@ Class of all ownership_infos.
 Tag Instances like this: 
 #is_/an_/ownership_info
 
-[ #is_/part_of ::  ]
-
 A structured value providing information about when a certain organization or person owned a certain product.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ acquiredFrom, additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, ownedFrom, ownedThrough, potentialAction, sameAs, subjectOf, typeOfGood, url ] ]
 

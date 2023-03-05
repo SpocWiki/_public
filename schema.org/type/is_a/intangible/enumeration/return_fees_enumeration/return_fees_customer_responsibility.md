@@ -48,7 +48,5 @@ Specifies that product returns must be paid for, and are the responsibility of, 
 
 [ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

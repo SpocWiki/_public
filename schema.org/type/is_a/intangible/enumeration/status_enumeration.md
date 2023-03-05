@@ -40,13 +40,9 @@ Class of all status_enumerations.
 Tag Instances like this: 
 #is_/a_/status_enumeration
 
-[ #is_/part_of ::  ]
-
 Lists or enumerations dealing with status types.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ] ]
 

@@ -40,13 +40,9 @@ Class of all achieve_actions.
 Tag Instances like this: 
 #is_/an_/achieve_action
 
-[ #is_/part_of ::  ]
-
 The act of accomplishing something via previous efforts. It is an instantaneous action rather than an ongoing process.
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ LoseAction, TieAction, WinAction ] ]
 

@@ -40,13 +40,9 @@ Class of all medical_tests.
 Tag Instances like this: 
 #is_/a_/medical_test
 
-[ #is_/part_of ::  ]
-
 Any medical test, typically performed for diagnostic purposes.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BloodTest, ImagingTest, MedicalTestPanel, PathologyTest ] ]
 

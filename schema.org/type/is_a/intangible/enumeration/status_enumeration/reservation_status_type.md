@@ -40,15 +40,9 @@ Class of all reservation_status_types.
 Tag Instances like this: 
 #is_/a_/reservation_status_type
 
-[ #is_/part_of ::  ]
-
 Enumerated status values for Reservation.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

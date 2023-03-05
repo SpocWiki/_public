@@ -40,15 +40,9 @@ Class of all integers.
 Tag Instances like this: 
 #is_/an_/integer
 
-[ #is_/part_of ::  ]
-
 Data type: Integer.
 
 [ #is_/sub_class_of :: [[Number]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

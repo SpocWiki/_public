@@ -40,15 +40,11 @@ Class of all reservation_confirmeds.
 Tag Instances like this: 
 #is_/a_/reservation_confirmed
 
-[ #is_/part_of ::  ]
-
 The status of a confirmed reservation.
 
 [ #is_/sub_class_of :: [[ReservationStatusType]] ]
 
 [ #is_/enum_of :: [[ReservationStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

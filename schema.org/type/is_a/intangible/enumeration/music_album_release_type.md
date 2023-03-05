@@ -40,15 +40,9 @@ Class of all music_album_release_types.
 Tag Instances like this: 
 #is_/a_/music_album_release_type
 
-[ #is_/part_of ::  ]
-
 The kind of release which this album is: single, EP or album.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -46,8 +46,6 @@ Any biological, chemical, or biochemical thing. For example: a protein; a gene; 
 
 [ #is_/sub_class_of :: [[Thing]] ]
 
-[ #is_/enum_of :: [[]] ]
-
 [ #has_/sub_classes :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ] ]

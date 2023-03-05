@@ -48,7 +48,5 @@ Girth of natural waistline (between hip bones and lower ribs). Used, for example
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

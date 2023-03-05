@@ -40,15 +40,9 @@ Class of all medical_imaging_techniques.
 Tag Instances like this: 
 #is_/a_/medical_imaging_technique
 
-[ #is_/part_of ::  ]
-
 Any medical imaging modality typically used for diagnostic purposes. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

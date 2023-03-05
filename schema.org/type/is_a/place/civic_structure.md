@@ -40,13 +40,9 @@ Class of all civic_structures.
 Tag Instances like this: 
 #is_/a_/civic_structure
 
-[ #is_/part_of ::  ]
-
 A public structure, such as a town hall or concert hall.
 
 [ #is_/sub_class_of :: [[Place]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Airport, Aquarium, Beach, BoatTerminal, Bridge, BusStation, BusStop, Campground, Cemetery, Crematorium, EducationalOrganization, EventVenue, FireStation, GovernmentBuilding, Hospital, MovieTheater, Museum, MusicVenue, Park, ParkingFacility, PerformingArtsTheater, PlaceOfWorship, Playground, PoliceStation, PublicToilet, RVPark, StadiumOrArena, SubwayStation, TaxiStand, TrainStation, Zoo ] ]
 

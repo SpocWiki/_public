@@ -40,15 +40,11 @@ Class of all fridays.
 Tag Instances like this: 
 #is_/a_/friday
 
-[ #is_/part_of ::  ]
-
 The day of the week between Thursday and Saturday.
 
 [ #is_/sub_class_of :: [[DayOfWeek]] ]
 
 [ #is_/enum_of :: [[DayOfWeek]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

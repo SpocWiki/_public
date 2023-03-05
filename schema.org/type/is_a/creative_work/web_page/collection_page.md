@@ -40,13 +40,9 @@ Class of all collection_pages.
 Tag Instances like this: 
 #is_/a_/collection_page
 
-[ #is_/part_of ::  ]
-
 Web page type: Collection page.
 
 [ #is_/sub_class_of :: [[WebPage]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MediaGallery ] ]
 

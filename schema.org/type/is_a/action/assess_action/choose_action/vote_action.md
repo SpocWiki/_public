@@ -40,15 +40,9 @@ Class of all vote_actions.
 Tag Instances like this: 
 #is_/a_/vote_action
 
-[ #is_/part_of ::  ]
-
 The act of expressing a preference from a fixed/finite/structured set of choices/options.
 
 [ #is_/sub_class_of :: [[ChooseAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

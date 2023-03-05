@@ -40,13 +40,9 @@ Class of all persons.
 Tag Instances like this: 
 #is_/a_/person
 
-[ #is_/part_of ::  ]
-
 A person (alive, dead, undead, or fictional).
 
 [ #is_/sub_class_of :: [[Thing]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Patient ] ]
 

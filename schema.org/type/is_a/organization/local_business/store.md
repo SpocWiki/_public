@@ -40,13 +40,9 @@ Class of all stores.
 Tag Instances like this: 
 #is_/a_/store
 
-[ #is_/part_of ::  ]
-
 A retail good store.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AutoPartsStore, BikeStore, BookStore, ClothingStore, ComputerStore, ConvenienceStore, DepartmentStore, ElectronicsStore, Florist, FurnitureStore, GardenStore, GroceryStore, HardwareStore, HobbyShop, HomeGoodsStore, JewelryStore, LiquorStore, MensClothingStore, MobilePhoneStore, MovieRentalStore, MusicStore, OfficeEquipmentStore, OutletStore, PawnShop, PetStore, ShoeStore, SportingGoodsStore, TireShop, ToyStore, WholesaleStore ] ]
 

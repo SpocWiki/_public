@@ -46,9 +46,5 @@ Enumerates common size systems specific for wearable products
 
 [ #is_/sub_class_of :: [[SizeSystemEnumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

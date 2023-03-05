@@ -48,7 +48,5 @@ MixedEventAttendanceMode - an event that is conducted as a combination of both o
 
 [ #is_/enum_of :: [[EventAttendanceModeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

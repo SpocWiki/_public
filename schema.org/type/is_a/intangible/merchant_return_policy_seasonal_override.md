@@ -46,9 +46,5 @@ A seasonal override of a return policy, for example used for holidays.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, merchantReturnDays, name, potentialAction, returnPolicyCategory, sameAs, startDate, subjectOf, url ] ]
 

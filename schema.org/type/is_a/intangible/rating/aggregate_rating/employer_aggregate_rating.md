@@ -40,15 +40,9 @@ Class of all employer_aggregate_ratings.
 Tag Instances like this: 
 #is_/an_/employer_aggregate_rating
 
-[ #is_/part_of ::  ]
-
 An aggregate rating of an Organization related to its role as an employer.
 
 [ #is_/sub_class_of :: [[AggregateRating]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ] ]
 

@@ -40,15 +40,9 @@ Class of all buy_actions.
 Tag Instances like this: 
 #is_/a_/buy_action
 
-[ #is_/part_of ::  ]
-
 The act of giving money to a seller in exchange for goods or services rendered. An agent buys an object, product, or service from a seller for a price. Reciprocal of SellAction.
 
 [ #is_/sub_class_of :: [[TradeAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, seller, startTime, subjectOf, target, url, vendor, warrantyPromise ] ]
 

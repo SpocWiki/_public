@@ -48,7 +48,5 @@ PaidLeave: this is a benefit for paid leave.
 
 [ #is_/enum_of :: [[GovernmentBenefitsType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

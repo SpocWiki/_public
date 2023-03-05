@@ -40,13 +40,9 @@ Class of all medical_risk_estimators.
 Tag Instances like this: 
 #is_/a_/medical_risk_estimator
 
-[ #is_/part_of ::  ]
-
 Any rule set or interactive tool for estimating the risk of developing a complication or condition.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MedicalRiskCalculator, MedicalRiskScore ] ]
 

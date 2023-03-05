@@ -40,15 +40,9 @@ Class of all food_services.
 Tag Instances like this: 
 #is_/a_/food_service
 
-[ #is_/part_of ::  ]
-
 A food service, like breakfast, lunch, or dinner.
 
 [ #is_/sub_class_of :: [[Service]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 

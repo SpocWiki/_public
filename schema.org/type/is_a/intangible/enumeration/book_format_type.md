@@ -40,15 +40,9 @@ Class of all book_format_types.
 Tag Instances like this: 
 #is_/a_/book_format_type
 
-[ #is_/part_of ::  ]
-
 The publication format of the book.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

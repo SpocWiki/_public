@@ -48,7 +48,5 @@ OneTimePayments: this is a benefit for one-time payments for individuals.
 
 [ #is_/enum_of :: [[GovernmentBenefitsType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

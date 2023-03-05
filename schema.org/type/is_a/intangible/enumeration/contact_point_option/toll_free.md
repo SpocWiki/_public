@@ -40,15 +40,11 @@ Class of all toll_frees.
 Tag Instances like this: 
 #is_/a_/toll_free
 
-[ #is_/part_of ::  ]
-
 The associated telephone number is toll free.
 
 [ #is_/sub_class_of :: [[ContactPointOption]] ]
 
 [ #is_/enum_of :: [[ContactPointOption]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

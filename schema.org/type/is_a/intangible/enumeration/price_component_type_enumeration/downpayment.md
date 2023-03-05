@@ -48,7 +48,5 @@ Represents the downpayment (up-front payment) price component of the total price
 
 [ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

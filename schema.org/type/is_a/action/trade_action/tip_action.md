@@ -40,15 +40,9 @@ Class of all tip_actions.
 Tag Instances like this: 
 #is_/a_/tip_action
 
-[ #is_/part_of ::  ]
-
 The act of giving money voluntarily to a beneficiary in recognition of services rendered.
 
 [ #is_/sub_class_of :: [[TradeAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 

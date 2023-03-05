@@ -48,7 +48,5 @@ Nonprofit501e: Non-profit type referring to Cooperative Hospital Service Organiz
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

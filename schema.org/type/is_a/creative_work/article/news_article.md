@@ -40,14 +40,10 @@ Class of all news_articles.
 Tag Instances like this: 
 #is_/a_/news_article
 
-[ #is_/part_of ::  ]
-
 A NewsArticle is an article whose content reports news, or provides background context and supporting materials for understanding the news.<br/><br/>
 A more detailed overview of <a href="/docs/news.html">schema.org News markup</a> is also available.
 
 [ #is_/sub_class_of :: [[Article]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AnalysisNewsArticle, AskPublicNewsArticle, BackgroundNewsArticle, OpinionNewsArticle, ReportageNewsArticle, ReviewNewsArticle ] ]
 

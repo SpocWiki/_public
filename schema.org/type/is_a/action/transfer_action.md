@@ -40,13 +40,9 @@ Class of all transfer_actions.
 Tag Instances like this: 
 #is_/a_/transfer_action
 
-[ #is_/part_of ::  ]
-
 The act of transferring/moving (abstract or concrete) animate or inanimate objects from one place to another.
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BorrowAction, DownloadAction, GiveAction, LendAction, MoneyTransfer, ReceiveAction, ReturnAction, SendAction, TakeAction ] ]
 

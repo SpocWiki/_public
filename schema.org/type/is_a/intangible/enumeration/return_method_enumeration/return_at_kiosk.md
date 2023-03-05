@@ -48,7 +48,5 @@ Specifies that product returns must be made at a kiosk.
 
 [ #is_/enum_of :: [[ReturnMethodEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

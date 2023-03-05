@@ -40,15 +40,9 @@ Class of all payment_status_types.
 Tag Instances like this: 
 #is_/a_/payment_status_type
 
-[ #is_/part_of ::  ]
-
 A specific payment status. For example, PaymentDue, PaymentComplete, etc.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

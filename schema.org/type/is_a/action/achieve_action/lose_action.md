@@ -40,15 +40,9 @@ Class of all lose_actions.
 Tag Instances like this: 
 #is_/a_/lose_action
 
-[ #is_/part_of ::  ]
-
 The act of being defeated in a competitive activity.
 
 [ #is_/sub_class_of :: [[AchieveAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url, winner ] ]
 

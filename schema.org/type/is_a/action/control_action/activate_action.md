@@ -40,15 +40,9 @@ Class of all activate_actions.
 Tag Instances like this: 
 #is_/an_/activate_action
 
-[ #is_/part_of ::  ]
-
 The act of starting or activating a device or application (e.g. starting a timer or turning on a flashlight).
 
 [ #is_/sub_class_of :: [[ControlAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

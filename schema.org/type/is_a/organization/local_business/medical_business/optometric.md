@@ -40,15 +40,11 @@ Class of all optometrics.
 Tag Instances like this: 
 #is_/an_/optometric
 
-[ #is_/part_of ::  ]
-
 The science or practice of testing visual acuity and prescribing corrective lenses.
 
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

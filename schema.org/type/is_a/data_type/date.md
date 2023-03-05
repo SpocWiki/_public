@@ -40,15 +40,9 @@ Class of all dates.
 Tag Instances like this: 
 #is_/a_/date
 
-[ #is_/part_of ::  ]
-
 A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date format</a>.
 
 [ #is_/sub_class_of :: [[]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,13 +40,9 @@ Class of all emergency_services.
 Tag Instances like this: 
 #is_/an_/emergency_service
 
-[ #is_/part_of ::  ]
-
 An emergency service, such as a fire station or ER.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ FireStation, Hospital, PoliceStation ] ]
 

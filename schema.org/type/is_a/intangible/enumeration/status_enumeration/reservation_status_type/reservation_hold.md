@@ -40,15 +40,11 @@ Class of all reservation_holds.
 Tag Instances like this: 
 #is_/a_/reservation_hold
 
-[ #is_/part_of ::  ]
-
 The status of a reservation on hold pending an update like credit card number or flight changes.
 
 [ #is_/sub_class_of :: [[ReservationStatusType]] ]
 
 [ #is_/enum_of :: [[ReservationStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

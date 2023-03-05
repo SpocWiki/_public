@@ -40,15 +40,11 @@ Class of all rsvp_response_maybes.
 Tag Instances like this: 
 #is_/a_/rsvp_response_maybe
 
-[ #is_/part_of ::  ]
-
 The invitee may or may not attend.
 
 [ #is_/sub_class_of :: [[RsvpResponseType]] ]
 
 [ #is_/enum_of :: [[RsvpResponseType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

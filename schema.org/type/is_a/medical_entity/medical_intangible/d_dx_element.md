@@ -40,15 +40,9 @@ Class of all d_dx_elements.
 Tag Instances like this: 
 #is_/a_/d_dx_element
 
-[ #is_/part_of ::  ]
-
 An alternative, closely-related condition typically considered later in the differential diagnosis process along with the signs that are used to distinguish it.
 
 [ #is_/sub_class_of :: [[MedicalIntangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, diagnosis, disambiguatingDescription, distinguishingSign, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 

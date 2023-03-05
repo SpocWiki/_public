@@ -40,15 +40,9 @@ Class of all government_permits.
 Tag Instances like this: 
 #is_/a_/government_permit
 
-[ #is_/part_of ::  ]
-
 A permit issued by a government agency.
 
 [ #is_/sub_class_of :: [[Permit]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ] ]
 

@@ -48,7 +48,5 @@ Represents the broad notion of Android-based operating systems.
 
 [ #is_/enum_of :: [[DigitalPlatformEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

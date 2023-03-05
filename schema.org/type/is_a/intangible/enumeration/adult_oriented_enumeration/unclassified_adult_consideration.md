@@ -48,7 +48,5 @@ The item is suitable only for adults, without indicating why. Due to widespread 
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

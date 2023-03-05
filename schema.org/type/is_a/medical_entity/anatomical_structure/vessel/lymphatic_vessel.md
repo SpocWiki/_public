@@ -40,15 +40,9 @@ Class of all lymphatic_vessels.
 Tag Instances like this: 
 #is_/a_/lymphatic_vessel
 
-[ #is_/part_of ::  ]
-
 A type of blood vessel that specifically carries lymph fluid unidirectionally toward the heart.
 
 [ #is_/sub_class_of :: [[Vessel]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, originatesFrom, partOfSystem, potentialAction, recognizingAuthority, regionDrained, relatedCondition, relatedTherapy, relevantSpecialty, runsTo, sameAs, study, subStructure, subjectOf, url ] ]
 

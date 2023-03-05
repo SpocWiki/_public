@@ -48,7 +48,5 @@ Represents a sale price (usually active for a limited period) of an offered prod
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

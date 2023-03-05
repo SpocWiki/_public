@@ -40,15 +40,9 @@ Class of all arterys.
 Tag Instances like this: 
 #is_/an_/artery
 
-[ #is_/part_of ::  ]
-
 A type of blood vessel that specifically carries blood away from the heart.
 
 [ #is_/sub_class_of :: [[Vessel]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, arterialBranch, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, supplyTo, url ] ]
 

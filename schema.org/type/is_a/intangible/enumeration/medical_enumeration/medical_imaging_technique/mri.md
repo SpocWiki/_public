@@ -40,15 +40,11 @@ Class of all mris.
 Tag Instances like this: 
 #is_/a_/mri
 
-[ #is_/part_of ::  ]
-
 Magnetic resonance imaging.
 
 [ #is_/sub_class_of :: [[MedicalImagingTechnique]] ]
 
 [ #is_/enum_of :: [[MedicalImagingTechnique]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

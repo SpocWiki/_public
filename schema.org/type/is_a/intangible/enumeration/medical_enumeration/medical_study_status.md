@@ -40,15 +40,9 @@ Class of all medical_study_statuss.
 Tag Instances like this: 
 #is_/a_/medical_study_status
 
-[ #is_/part_of ::  ]
-
 The status of a medical study. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

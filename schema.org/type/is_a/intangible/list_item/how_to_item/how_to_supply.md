@@ -40,15 +40,9 @@ Class of all how_to_supplys.
 Tag Instances like this: 
 #is_/a_/how_to_supply
 
-[ #is_/part_of ::  ]
-
 A supply consumed when performing the instructions for how to achieve a result.
 
 [ #is_/sub_class_of :: [[HowToItem]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, estimatedCost, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ] ]
 

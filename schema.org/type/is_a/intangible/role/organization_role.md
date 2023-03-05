@@ -40,13 +40,9 @@ Class of all organization_roles.
 Tag Instances like this: 
 #is_/an_/organization_role
 
-[ #is_/part_of ::  ]
-
 A subclass of Role used to describe roles within organizations.
 
 [ #is_/sub_class_of :: [[Role]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ EmployeeRole ] ]
 

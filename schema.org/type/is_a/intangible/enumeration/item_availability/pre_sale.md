@@ -40,15 +40,11 @@ Class of all pre_sales.
 Tag Instances like this: 
 #is_/a_/pre_sale
 
-[ #is_/part_of ::  ]
-
 Indicates that the item is available for ordering and delivery before general availability.
 
 [ #is_/sub_class_of :: [[ItemAvailability]] ]
 
 [ #is_/enum_of :: [[ItemAvailability]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

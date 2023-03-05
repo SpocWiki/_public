@@ -48,7 +48,5 @@ HealthCare: this is a benefit for health care.
 
 [ #is_/enum_of :: [[GovernmentBenefitsType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,9 @@ Class of all bus_trips.
 Tag Instances like this: 
 #is_/a_/bus_trip
 
-[ #is_/part_of ::  ]
-
 A trip on a commercial bus line.
 
 [ #is_/sub_class_of :: [[Trip]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalBusStop, arrivalTime, busName, busNumber, departureBusStop, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
 

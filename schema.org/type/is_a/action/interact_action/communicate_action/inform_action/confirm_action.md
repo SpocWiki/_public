@@ -40,8 +40,6 @@ Class of all confirm_actions.
 Tag Instances like this: 
 #is_/a_/confirm_action
 
-[ #is_/part_of ::  ]
-
 The act of notifying someone that a future event/action is going to happen as expected.<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -49,10 +47,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[InformAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 

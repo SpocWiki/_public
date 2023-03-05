@@ -46,8 +46,6 @@ Enumerates common size systems for different categories of products, for example
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
 [ #has_/sub_classes :: [ WearableSizeSystemEnumeration ] ]
 
 [ #has_/properties :: [  ] ]

@@ -40,15 +40,11 @@ Class of all throats.
 Tag Instances like this: 
 #is_/a_/throat
 
-[ #is_/part_of ::  ]
-
 Throat assessment with  clinical examination.
 
 [ #is_/sub_class_of :: [[PhysicalExam]] ]
 
 [ #is_/enum_of :: [[PhysicalExam]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

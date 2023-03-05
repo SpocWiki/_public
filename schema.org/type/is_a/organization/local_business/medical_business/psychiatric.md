@@ -40,15 +40,11 @@ Class of all psychiatrics.
 Tag Instances like this: 
 #is_/a_/psychiatric
 
-[ #is_/part_of ::  ]
-
 A specific branch of medical science that is concerned with the study, treatment, and prevention of mental illness, using both medical and psychological therapies.
 
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

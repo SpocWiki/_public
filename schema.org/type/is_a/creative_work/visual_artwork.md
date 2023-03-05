@@ -40,13 +40,9 @@ Class of all visual_artworks.
 Tag Instances like this: 
 #is_/a_/visual_artwork
 
-[ #is_/part_of ::  ]
-
 A work of art that is primarily visual in character.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CoverArt ] ]
 

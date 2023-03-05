@@ -40,15 +40,11 @@ Class of all anesthesias.
 Tag Instances like this: 
 #is_/an_/anesthesia
 
-[ #is_/part_of ::  ]
-
 A specific branch of medical science that pertains to study of anesthetics and their application.
 
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

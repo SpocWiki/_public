@@ -48,7 +48,5 @@ Nonprofit501c4: Non-profit type referring to Civic Leagues, Social Welfare Organ
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

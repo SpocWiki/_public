@@ -48,7 +48,5 @@ Item contains alcohol or promotes alcohol consumption.
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

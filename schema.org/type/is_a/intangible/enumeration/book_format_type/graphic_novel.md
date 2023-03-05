@@ -48,7 +48,5 @@ Book format: GraphicNovel. May represent a bound collection of ComicIssue instan
 
 [ #is_/enum_of :: [[BookFormatType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

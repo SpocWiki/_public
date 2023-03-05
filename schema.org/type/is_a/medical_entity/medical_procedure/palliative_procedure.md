@@ -40,15 +40,9 @@ Class of all palliative_procedures.
 Tag Instances like this: 
 #is_/a_/palliative_procedure
 
-[ #is_/part_of ::  ]
-
 A medical procedure intended primarily for palliative purposes, aimed at relieving the symptoms of an underlying health condition.
 
 [ #is_/sub_class_of :: [[MedicalProcedure, MedicalTherapy]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ] ]
 

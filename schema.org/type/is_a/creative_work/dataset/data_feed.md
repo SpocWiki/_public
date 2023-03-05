@@ -40,13 +40,9 @@ Class of all data_feeds.
 Tag Instances like this: 
 #is_/a_/data_feed
 
-[ #is_/part_of ::  ]
-
 A single feed providing structured information about one or more entities or topics.
 
 [ #is_/sub_class_of :: [[Dataset]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CompleteDataFeed ] ]
 

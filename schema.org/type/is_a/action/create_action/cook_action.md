@@ -40,15 +40,9 @@ Class of all cook_actions.
 Tag Instances like this: 
 #is_/a_/cook_action
 
-[ #is_/part_of ::  ]
-
 The act of producing/preparing food.
 
 [ #is_/sub_class_of :: [[CreateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, foodEstablishment, foodEvent, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipe, result, sameAs, startTime, subjectOf, target, url ] ]
 

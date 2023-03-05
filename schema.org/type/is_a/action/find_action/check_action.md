@@ -40,15 +40,9 @@ Class of all check_actions.
 Tag Instances like this: 
 #is_/a_/check_action
 
-[ #is_/part_of ::  ]
-
 An agent inspects, determines, investigates, inquires, or examines an object's accuracy, quality, condition, or state.
 
 [ #is_/sub_class_of :: [[FindAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

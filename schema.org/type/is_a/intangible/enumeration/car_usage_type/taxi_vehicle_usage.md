@@ -48,7 +48,5 @@ Indicates the usage of the car as a taxi.
 
 [ #is_/enum_of :: [[CarUsageType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

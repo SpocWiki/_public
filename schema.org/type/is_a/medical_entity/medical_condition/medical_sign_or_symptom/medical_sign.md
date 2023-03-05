@@ -40,13 +40,9 @@ Class of all medical_signs.
 Tag Instances like this: 
 #is_/a_/medical_sign
 
-[ #is_/part_of ::  ]
-
 Any physical manifestation of a person's medical condition discoverable by objective diagnostic tests or physical examination.
 
 [ #is_/sub_class_of :: [[MedicalSignOrSymptom]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ VitalSign ] ]
 

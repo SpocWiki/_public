@@ -40,15 +40,9 @@ Class of all invite_actions.
 Tag Instances like this: 
 #is_/an_/invite_action
 
-[ #is_/part_of ::  ]
-
 The act of asking someone to attend an event. Reciprocal of RsvpAction.
 
 [ #is_/sub_class_of :: [[CommunicateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 

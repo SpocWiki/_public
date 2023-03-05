@@ -48,7 +48,5 @@ Indicated that creating a return label is the responsibility of the customer.
 
 [ #is_/enum_of :: [[ReturnLabelSourceEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

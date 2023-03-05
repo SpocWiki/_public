@@ -40,15 +40,9 @@ Class of all FALSEs.
 Tag Instances like this: 
 #is_/a_/FALSE
 
-[ #is_/part_of ::  ]
-
 The boolean value false.
 
 [ #is_/sub_class_of :: [[]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

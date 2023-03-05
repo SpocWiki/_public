@@ -48,7 +48,5 @@ Represents the generic notion of the Web Platform. More specific codes include <
 
 [ #is_/enum_of :: [[DigitalPlatformEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

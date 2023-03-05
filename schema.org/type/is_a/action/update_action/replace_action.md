@@ -40,15 +40,9 @@ Class of all replace_actions.
 Tag Instances like this: 
 #is_/a_/replace_action
 
-[ #is_/part_of ::  ]
-
 The act of editing a recipient by replacing an old object with a new object.
 
 [ #is_/sub_class_of :: [[UpdateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, replacee, replacer, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
 

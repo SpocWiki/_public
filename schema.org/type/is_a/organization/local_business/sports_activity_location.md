@@ -40,13 +40,9 @@ Class of all sports_activity_locations.
 Tag Instances like this: 
 #is_/a_/sports_activity_location
 
-[ #is_/part_of ::  ]
-
 A sports location, such as a playing field.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BowlingAlley, ExerciseGym, GolfCourse, HealthClub, PublicSwimmingPool, SkiResort, SportsClub, StadiumOrArena, TennisComplex ] ]
 

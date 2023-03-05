@@ -40,15 +40,9 @@ Class of all offer_item_conditions.
 Tag Instances like this: 
 #is_/an_/offer_item_condition
 
-[ #is_/part_of ::  ]
-
 A list of possible conditions for the item.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

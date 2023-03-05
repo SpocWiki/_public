@@ -48,7 +48,5 @@ Specifies that a return label will be provided by the seller in the shipping box
 
 [ #is_/enum_of :: [[ReturnLabelSourceEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

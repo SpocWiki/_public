@@ -48,7 +48,5 @@ Represents the subscription pricing component of the total price for an offered 
 
 [ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

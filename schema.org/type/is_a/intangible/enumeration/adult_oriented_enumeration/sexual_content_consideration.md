@@ -48,7 +48,5 @@ The item contains sexually oriented content such as nudity, suggestive or explic
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

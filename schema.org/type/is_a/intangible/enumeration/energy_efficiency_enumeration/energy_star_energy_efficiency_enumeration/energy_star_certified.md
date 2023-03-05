@@ -48,7 +48,5 @@ Represents EnergyStar certification.
 
 [ #is_/enum_of :: [[EnergyStarEnergyEfficiencyEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

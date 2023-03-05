@@ -48,7 +48,5 @@ The item is intended to induce bodily harm, for example guns, mace, combat knive
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

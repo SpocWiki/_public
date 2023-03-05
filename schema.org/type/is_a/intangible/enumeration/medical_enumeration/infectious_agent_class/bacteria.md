@@ -40,15 +40,11 @@ Class of all bacterias.
 Tag Instances like this: 
 #is_/a_/bacteria
 
-[ #is_/part_of ::  ]
-
 Pathogenic bacteria that cause bacterial infection.
 
 [ #is_/sub_class_of :: [[InfectiousAgentClass]] ]
 
 [ #is_/enum_of :: [[InfectiousAgentClass]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

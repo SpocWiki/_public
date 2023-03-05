@@ -40,13 +40,9 @@ Class of all how_tos.
 Tag Instances like this: 
 #is_/a_/how_to
 
-[ #is_/part_of ::  ]
-
 Instructions that explain how to achieve a result by performing a sequence of steps.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Recipe ] ]
 

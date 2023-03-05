@@ -40,15 +40,11 @@ Class of all fd_acategory_bs.
 Tag Instances like this: 
 #is_/a_/fd_acategory_b
 
-[ #is_/part_of ::  ]
-
 A designation by the US FDA signifying that animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women.
 
 [ #is_/sub_class_of :: [[DrugPregnancyCategory]] ]
 
 [ #is_/enum_of :: [[DrugPregnancyCategory]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

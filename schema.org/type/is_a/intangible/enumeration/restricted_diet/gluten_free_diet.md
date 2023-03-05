@@ -40,15 +40,11 @@ Class of all gluten_free_diets.
 Tag Instances like this: 
 #is_/a_/gluten_free_diet
 
-[ #is_/part_of ::  ]
-
 A diet exclusive of gluten.
 
 [ #is_/sub_class_of :: [[RestrictedDiet]] ]
 
 [ #is_/enum_of :: [[RestrictedDiet]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

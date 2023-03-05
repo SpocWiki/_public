@@ -48,7 +48,5 @@ Nonprofit501a: Non-profit type referring to Farmersâ€™ Cooperative Associat
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

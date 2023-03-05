@@ -40,15 +40,9 @@ Class of all imaging_tests.
 Tag Instances like this: 
 #is_/an_/imaging_test
 
-[ #is_/part_of ::  ]
-
 Any medical imaging modality typically used for diagnostic purposes.
 
 [ #is_/sub_class_of :: [[MedicalTest]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, imagingTechnique, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] ]
 

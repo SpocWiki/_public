@@ -40,13 +40,9 @@ Class of all payment_cards.
 Tag Instances like this: 
 #is_/a_/payment_card
 
-[ #is_/part_of ::  ]
-
 A payment method using a credit, debit, store or other card to associate the payment with an account.
 
 [ #is_/sub_class_of :: [[FinancialProduct, PaymentMethod]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CreditCard ] ]
 

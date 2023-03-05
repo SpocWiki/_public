@@ -40,15 +40,11 @@ Class of all protozoas.
 Tag Instances like this: 
 #is_/a_/protozoa
 
-[ #is_/part_of ::  ]
-
 Single-celled organism that causes an infection.
 
 [ #is_/sub_class_of :: [[InfectiousAgentClass]] ]
 
 [ #is_/enum_of :: [[InfectiousAgentClass]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

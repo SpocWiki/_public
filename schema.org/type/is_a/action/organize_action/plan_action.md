@@ -40,13 +40,9 @@ Class of all plan_actions.
 Tag Instances like this: 
 #is_/a_/plan_action
 
-[ #is_/part_of ::  ]
-
 The act of planning the execution of an event/task/action/reservation/plan to a future date.
 
 [ #is_/sub_class_of :: [[OrganizeAction]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CancelAction, ReserveAction, ScheduleAction ] ]
 

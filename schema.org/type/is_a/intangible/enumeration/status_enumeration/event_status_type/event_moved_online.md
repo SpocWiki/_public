@@ -40,15 +40,11 @@ Class of all event_moved_onlines.
 Tag Instances like this: 
 #is_/an_/event_moved_online
 
-[ #is_/part_of ::  ]
-
 Indicates that the event was changed to allow online participation. See <a class="localLink" href="/eventAttendanceMode">eventAttendanceMode</a> for specifics of whether it is now fully or partially online.
 
 [ #is_/sub_class_of :: [[EventStatusType]] ]
 
 [ #is_/enum_of :: [[EventStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

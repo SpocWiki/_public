@@ -40,13 +40,9 @@ Class of all financial_products.
 Tag Instances like this: 
 #is_/a_/financial_product
 
-[ #is_/part_of ::  ]
-
 A product provided to consumers and businesses by financial institutions such as banks, insurance companies, brokerage firms, consumer finance companies, and investment companies which comprise the financial services industry.
 
 [ #is_/sub_class_of :: [[Service]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BankAccount, CurrencyConversionService, InvestmentOrDeposit, LoanOrCredit, PaymentCard, PaymentService ] ]
 

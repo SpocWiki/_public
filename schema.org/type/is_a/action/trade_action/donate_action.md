@@ -40,15 +40,9 @@ Class of all donate_actions.
 Tag Instances like this: 
 #is_/a_/donate_action
 
-[ #is_/part_of ::  ]
-
 The act of providing goods, services, or money without compensation, often for philanthropic reasons.
 
 [ #is_/sub_class_of :: [[TradeAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 

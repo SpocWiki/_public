@@ -40,13 +40,9 @@ Class of all add_actions.
 Tag Instances like this: 
 #is_/an_/add_action
 
-[ #is_/part_of ::  ]
-
 The act of editing by adding an object to a collection.
 
 [ #is_/sub_class_of :: [[UpdateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ InsertAction ] ]
 

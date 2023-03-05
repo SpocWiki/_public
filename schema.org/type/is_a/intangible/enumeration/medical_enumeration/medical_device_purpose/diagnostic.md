@@ -40,15 +40,11 @@ Class of all diagnostics.
 Tag Instances like this: 
 #is_/a_/diagnostic
 
-[ #is_/part_of ::  ]
-
 A medical device used for diagnostic purposes.
 
 [ #is_/sub_class_of :: [[MedicalDevicePurpose]] ]
 
 [ #is_/enum_of :: [[MedicalDevicePurpose]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

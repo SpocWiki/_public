@@ -48,7 +48,5 @@ Foot length (measured between end of the most prominent toe and the most promine
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

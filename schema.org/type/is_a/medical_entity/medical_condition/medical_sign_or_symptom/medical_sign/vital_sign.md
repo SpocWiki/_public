@@ -40,15 +40,9 @@ Class of all vital_signs.
 Tag Instances like this: 
 #is_/a_/vital_sign
 
-[ #is_/part_of ::  ]
-
 Vital signs are measures of various physiological functions in order to assess the most basic body functions.
 
 [ #is_/sub_class_of :: [[MedicalSign]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, identifyingExam, identifyingTest, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ] ]
 

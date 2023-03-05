@@ -48,7 +48,5 @@ Nonprofit501c8: Non-profit type referring to Fraternal Beneficiary Societies and
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

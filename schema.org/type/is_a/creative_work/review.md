@@ -40,13 +40,9 @@ Class of all reviews.
 Tag Instances like this: 
 #is_/a_/review
 
-[ #is_/part_of ::  ]
-
 A review of an item - for example, of a restaurant, movie, or store.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ ClaimReview, CriticReview, EmployerReview, MediaReview, Recommendation, UserReview ] ]
 

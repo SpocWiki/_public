@@ -40,15 +40,9 @@ Class of all bones.
 Tag Instances like this: 
 #is_/a_/bone
 
-[ #is_/part_of ::  ]
-
 Rigid connective tissue that comprises up the skeletal structure of the human body.
 
 [ #is_/sub_class_of :: [[AnatomicalStructure]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ] ]
 

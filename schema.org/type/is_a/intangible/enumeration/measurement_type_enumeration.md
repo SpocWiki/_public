@@ -46,8 +46,6 @@ Enumeration of common measurement types (or dimensions), for example "chest" for
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
 [ #has_/sub_classes :: [ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ] ]
 
 [ #has_/properties :: [  ] ]

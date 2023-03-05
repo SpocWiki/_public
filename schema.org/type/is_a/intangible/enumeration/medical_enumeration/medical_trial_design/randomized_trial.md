@@ -40,15 +40,11 @@ Class of all randomized_trials.
 Tag Instances like this: 
 #is_/a_/randomized_trial
 
-[ #is_/part_of ::  ]
-
 A randomized trial design.
 
 [ #is_/sub_class_of :: [[MedicalTrialDesign]] ]
 
 [ #is_/enum_of :: [[MedicalTrialDesign]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

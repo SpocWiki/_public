@@ -40,13 +40,9 @@ Class of all user_interactions.
 Tag Instances like this: 
 #is_/a_/user_interaction
 
-[ #is_/part_of ::  ]
-
 UserInteraction and its subtypes is an old way of talking about users interacting with pages. It is generally better to use <a class="localLink" href="/Action">Action</a>-based vocabulary, alongside types such as <a class="localLink" href="/Comment">Comment</a>.
 
 [ #is_/sub_class_of :: [[Event]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ UserBlocks, UserCheckins, UserComments, UserDownloads, UserLikes, UserPageVisits, UserPlays, UserPlusOnes, UserTweets ] ]
 

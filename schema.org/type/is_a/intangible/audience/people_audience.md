@@ -40,13 +40,9 @@ Class of all people_audiences.
 Tag Instances like this: 
 #is_/a_/people_audience
 
-[ #is_/part_of ::  ]
-
 A set of characteristics belonging to people, e.g. who compose an item's target audience.
 
 [ #is_/sub_class_of :: [[Audience]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MedicalAudience, ParentAudience ] ]
 

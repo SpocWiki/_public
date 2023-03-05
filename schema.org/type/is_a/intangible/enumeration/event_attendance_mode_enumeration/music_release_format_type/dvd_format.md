@@ -40,15 +40,11 @@ Class of all dvd_formats.
 Tag Instances like this: 
 #is_/a_/dvd_format
 
-[ #is_/part_of ::  ]
-
 DVDFormat.
 
 [ #is_/sub_class_of :: [[MusicReleaseFormatType]] ]
 
 [ #is_/enum_of :: [[MusicReleaseFormatType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

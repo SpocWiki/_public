@@ -40,13 +40,9 @@ Class of all aggregate_ratings.
 Tag Instances like this: 
 #is_/an_/aggregate_rating
 
-[ #is_/part_of ::  ]
-
 The average rating based on multiple ratings or reviews.
 
 [ #is_/sub_class_of :: [[Rating]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ EmployerAggregateRating ] ]
 

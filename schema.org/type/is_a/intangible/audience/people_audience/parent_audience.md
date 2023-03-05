@@ -40,15 +40,9 @@ Class of all parent_audiences.
 Tag Instances like this: 
 #is_/a_/parent_audience
 
-[ #is_/part_of ::  ]
-
 A set of characteristics describing parents, who can be interested in viewing some content.
 
 [ #is_/sub_class_of :: [[PeopleAudience]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, childMaxAge, childMinAge, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ] ]
 

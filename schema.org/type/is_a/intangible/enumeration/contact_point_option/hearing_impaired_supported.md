@@ -40,15 +40,11 @@ Class of all hearing_impaired_supporteds.
 Tag Instances like this: 
 #is_/a_/hearing_impaired_supported
 
-[ #is_/part_of ::  ]
-
 Uses devices to support users with hearing impairments.
 
 [ #is_/sub_class_of :: [[ContactPointOption]] ]
 
 [ #is_/enum_of :: [[ContactPointOption]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

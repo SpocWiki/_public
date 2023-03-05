@@ -40,13 +40,9 @@ Class of all places.
 Tag Instances like this: 
 #is_/a_/place
 
-[ #is_/part_of ::  ]
-
 Entities that have a somewhat fixed, physical extension.
 
 [ #is_/sub_class_of :: [[Thing]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Accommodation, AdministrativeArea, CivicStructure, Landform, LandmarksOrHistoricalBuildings, LocalBusiness, Residence, TouristAttraction, TouristDestination ] ]
 

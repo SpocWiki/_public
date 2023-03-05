@@ -40,15 +40,11 @@ Class of all multi_center_trials.
 Tag Instances like this: 
 #is_/a_/multi_center_trial
 
-[ #is_/part_of ::  ]
-
 A trial that takes place at multiple centers.
 
 [ #is_/sub_class_of :: [[MedicalTrialDesign]] ]
 
 [ #is_/enum_of :: [[MedicalTrialDesign]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

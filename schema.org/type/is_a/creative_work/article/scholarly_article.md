@@ -40,13 +40,9 @@ Class of all scholarly_articles.
 Tag Instances like this: 
 #is_/a_/scholarly_article
 
-[ #is_/part_of ::  ]
-
 A scholarly article.
 
 [ #is_/sub_class_of :: [[Article]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MedicalScholarlyArticle ] ]
 

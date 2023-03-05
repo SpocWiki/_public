@@ -40,8 +40,6 @@ Class of all check_in_actions.
 Tag Instances like this: 
 #is_/a_/check_in_action
 
-[ #is_/part_of ::  ]
-
 The act of an agent communicating (service provider, social media, etc) their arrival by registering/confirming for a previously reserved service (e.g. flight check-in) or at a place (e.g. hotel), possibly resulting in a result (boarding pass, etc).<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -51,10 +49,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[CommunicateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 

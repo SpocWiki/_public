@@ -40,13 +40,9 @@ Class of all educational_organizations.
 Tag Instances like this: 
 #is_/an_/educational_organization
 
-[ #is_/part_of ::  ]
-
 An educational organization.
 
 [ #is_/sub_class_of :: [[CivicStructure, Organization]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CollegeOrUniversity, ElementarySchool, HighSchool, MiddleSchool, Preschool, School ] ]
 

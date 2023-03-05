@@ -40,15 +40,9 @@ Class of all review_actions.
 Tag Instances like this: 
 #is_/a_/review_action
 
-[ #is_/part_of ::  ]
-
 The act of producing a balanced opinion about the object for an audience. An agent reviews an object with participants resulting in a review.
 
 [ #is_/sub_class_of :: [[AssessAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, resultReview, sameAs, startTime, subjectOf, target, url ] ]
 

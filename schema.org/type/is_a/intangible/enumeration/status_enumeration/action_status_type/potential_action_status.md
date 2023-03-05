@@ -40,15 +40,11 @@ Class of all potential_action_statuss.
 Tag Instances like this: 
 #is_/a_/potential_action_status
 
-[ #is_/part_of ::  ]
-
 A description of an action that is supported.
 
 [ #is_/sub_class_of :: [[ActionStatusType]] ]
 
 [ #is_/enum_of :: [[ActionStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

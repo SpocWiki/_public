@@ -48,7 +48,5 @@ Specifies that a product return policy is not provided.
 
 [ #is_/enum_of :: [[MerchantReturnEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

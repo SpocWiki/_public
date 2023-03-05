@@ -40,13 +40,9 @@ Class of all permits.
 Tag Instances like this: 
 #is_/a_/permit
 
-[ #is_/part_of ::  ]
-
 A permit issued by an organization, e.g. a parking pass.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ GovernmentPermit ] ]
 

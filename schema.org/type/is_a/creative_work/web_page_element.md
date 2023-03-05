@@ -40,13 +40,9 @@ Class of all web_page_elements.
 Tag Instances like this: 
 #is_/a_/web_page_element
 
-[ #is_/part_of ::  ]
-
 A web page element, like a table or an image.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ SiteNavigationElement, Table, WPAdBlock, WPFooter, WPHeader, WPSideBar ] ]
 

@@ -40,15 +40,11 @@ Class of all ultrasounds.
 Tag Instances like this: 
 #is_/an_/ultrasound
 
-[ #is_/part_of ::  ]
-
 Ultrasound imaging.
 
 [ #is_/sub_class_of :: [[MedicalImagingTechnique]] ]
 
 [ #is_/enum_of :: [[MedicalImagingTechnique]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

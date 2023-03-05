@@ -40,15 +40,9 @@ Class of all media_subscriptions.
 Tag Instances like this: 
 #is_/a_/media_subscription
 
-[ #is_/part_of ::  ]
-
 A subscription which allows a user to access media including audio, video, books, etc.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, authenticator, description, disambiguatingDescription, expectsAcceptanceOf, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

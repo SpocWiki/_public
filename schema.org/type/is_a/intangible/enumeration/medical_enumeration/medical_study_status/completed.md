@@ -40,15 +40,11 @@ Class of all completeds.
 Tag Instances like this: 
 #is_/a_/completed
 
-[ #is_/part_of ::  ]
-
 Completed.
 
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

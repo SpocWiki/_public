@@ -48,7 +48,5 @@ Inside leg (measured between crotch and soles of feet). Used, for example, to fi
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

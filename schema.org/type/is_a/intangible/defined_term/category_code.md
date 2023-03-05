@@ -46,8 +46,6 @@ A Category Code.
 
 [ #is_/sub_class_of :: [[DefinedTerm]] ]
 
-[ #is_/enum_of :: [[]] ]
-
 [ #has_/sub_classes :: [ MedicalCode ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, codeValue, description, disambiguatingDescription, identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ] ]

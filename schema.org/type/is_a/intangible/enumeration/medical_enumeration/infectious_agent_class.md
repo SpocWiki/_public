@@ -40,15 +40,9 @@ Class of all infectious_agent_classs.
 Tag Instances like this: 
 #is_/an_/infectious_agent_class
 
-[ #is_/part_of ::  ]
-
 Classes of agents or pathogens that transmit infectious diseases. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

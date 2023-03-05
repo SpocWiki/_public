@@ -48,7 +48,5 @@ Nonprofit501c26: Non-profit type referring to State-Sponsored Organizations Prov
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

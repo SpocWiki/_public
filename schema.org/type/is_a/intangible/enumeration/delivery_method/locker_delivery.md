@@ -40,15 +40,11 @@ Class of all locker_deliverys.
 Tag Instances like this: 
 #is_/a_/locker_delivery
 
-[ #is_/part_of ::  ]
-
 A DeliveryMethod in which an item is made available via locker.
 
 [ #is_/sub_class_of :: [[DeliveryMethod]] ]
 
 [ #is_/enum_of :: [[DeliveryMethod]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

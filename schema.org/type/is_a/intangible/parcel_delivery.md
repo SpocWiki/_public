@@ -40,15 +40,9 @@ Class of all parcel_deliverys.
 Tag Instances like this: 
 #is_/a_/parcel_delivery
 
-[ #is_/part_of ::  ]
-
 The delivery of a parcel either via the postal service or a commercial service.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ] ]
 

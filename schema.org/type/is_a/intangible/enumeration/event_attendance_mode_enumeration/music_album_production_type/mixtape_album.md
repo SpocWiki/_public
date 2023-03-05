@@ -40,15 +40,11 @@ Class of all mixtape_albums.
 Tag Instances like this: 
 #is_/a_/mixtape_album
 
-[ #is_/part_of ::  ]
-
 MixtapeAlbum.
 
 [ #is_/sub_class_of :: [[MusicAlbumProductionType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumProductionType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

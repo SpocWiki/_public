@@ -40,15 +40,9 @@ Class of all digital_document_permission_types.
 Tag Instances like this: 
 #is_/a_/digital_document_permission_type
 
-[ #is_/part_of ::  ]
-
 A type of permission which can be granted for accessing a digital document.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

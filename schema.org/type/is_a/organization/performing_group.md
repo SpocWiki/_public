@@ -40,13 +40,9 @@ Class of all performing_groups.
 Tag Instances like this: 
 #is_/a_/performing_group
 
-[ #is_/part_of ::  ]
-
 A performance group, such as a band, an orchestra, or a circus.
 
 [ #is_/sub_class_of :: [[Organization]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ DanceGroup, MusicGroup, TheaterGroup ] ]
 

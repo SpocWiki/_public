@@ -40,13 +40,9 @@ Class of all list_items.
 Tag Instances like this: 
 #is_/a_/list_item
 
-[ #is_/part_of ::  ]
-
 An list item, e.g. a step in a checklist or how-to description.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ] ]
 

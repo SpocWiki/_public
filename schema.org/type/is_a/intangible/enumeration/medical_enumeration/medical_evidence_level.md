@@ -40,15 +40,9 @@ Class of all medical_evidence_levels.
 Tag Instances like this: 
 #is_/a_/medical_evidence_level
 
-[ #is_/part_of ::  ]
-
 Level of evidence for a medical guideline. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

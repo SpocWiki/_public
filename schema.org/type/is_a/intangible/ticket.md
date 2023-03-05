@@ -40,15 +40,9 @@ Class of all tickets.
 Tag Instances like this: 
 #is_/a_/ticket
 
-[ #is_/part_of ::  ]
-
 Used to describe a ticket to an event, a flight, a bus ride, etc.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ] ]
 

@@ -48,7 +48,5 @@ Represents EU Energy Efficiency Class A as defined in EU energy labeling regulat
 
 [ #is_/enum_of :: [[EUEnergyEfficiencyEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

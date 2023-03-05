@@ -40,15 +40,9 @@ Class of all rsvp_actions.
 Tag Instances like this: 
 #is_/a_/rsvp_action
 
-[ #is_/part_of ::  ]
-
 The act of notifying an event organizer as to whether you expect to attend the event.
 
 [ #is_/sub_class_of :: [[InformAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalNumberOfGuests, additionalType, agent, alternateName, comment, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, rsvpResponse, sameAs, startTime, subjectOf, target, url ] ]
 

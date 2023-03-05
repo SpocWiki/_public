@@ -48,7 +48,5 @@ Measurement of the chest/bust section, for example of a suit
 
 [ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,11 @@ Class of all group_boarding_policys.
 Tag Instances like this: 
 #is_/a_/group_boarding_policy
 
-[ #is_/part_of ::  ]
-
 The airline boards by groups based on check-in time, priority, etc.
 
 [ #is_/sub_class_of :: [[BoardingPolicyType]] ]
 
 [ #is_/enum_of :: [[BoardingPolicyType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

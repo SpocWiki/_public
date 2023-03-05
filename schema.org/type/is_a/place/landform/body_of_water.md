@@ -40,13 +40,9 @@ Class of all body_of_waters.
 Tag Instances like this: 
 #is_/a_/body_of_water
 
-[ #is_/part_of ::  ]
-
 A body of water, such as a sea, ocean, or lake.
 
 [ #is_/sub_class_of :: [[Landform]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Canal, LakeBodyOfWater, OceanBodyOfWater, Pond, Reservoir, RiverBodyOfWater, SeaBodyOfWater, Waterfall ] ]
 

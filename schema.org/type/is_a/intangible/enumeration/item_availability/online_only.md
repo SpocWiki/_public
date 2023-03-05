@@ -40,15 +40,11 @@ Class of all online_onlys.
 Tag Instances like this: 
 #is_/an_/online_only
 
-[ #is_/part_of ::  ]
-
 Indicates that the item is available only online.
 
 [ #is_/sub_class_of :: [[ItemAvailability]] ]
 
 [ #is_/enum_of :: [[ItemAvailability]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

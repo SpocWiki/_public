@@ -40,15 +40,9 @@ Class of all postal_addresss.
 Tag Instances like this: 
 #is_/a_/postal_address
 
-[ #is_/part_of ::  ]
-
 The mailing address.
 
 [ #is_/sub_class_of :: [[ContactPoint]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, addressCountry, addressLocality, addressRegion, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, postOfficeBoxNumber, postalCode, potentialAction, productSupported, sameAs, serviceArea, streetAddress, subjectOf, telephone, url ] ]
 

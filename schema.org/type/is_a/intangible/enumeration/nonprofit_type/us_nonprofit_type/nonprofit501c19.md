@@ -48,7 +48,5 @@ Nonprofit501c19: Non-profit type referring to Post or Organization of Past or Pr
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

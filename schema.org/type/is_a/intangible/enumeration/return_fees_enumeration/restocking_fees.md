@@ -48,7 +48,5 @@ Specifies that the customer must pay a restocking fee when returning a product.
 
 [ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

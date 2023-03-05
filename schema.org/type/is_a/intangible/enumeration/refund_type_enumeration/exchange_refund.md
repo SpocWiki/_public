@@ -48,7 +48,5 @@ Specifies that a refund can be done as an exchange for the same product.
 
 [ #is_/enum_of :: [[RefundTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

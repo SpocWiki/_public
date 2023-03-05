@@ -40,15 +40,11 @@ Class of all plastic_surgerys.
 Tag Instances like this: 
 #is_/a_/plastic_surgery
 
-[ #is_/part_of ::  ]
-
 A specific branch of medical science that pertains to therapeutic or cosmetic repair or re-formation of missing, injured or malformed tissues or body parts by manual and instrumental means.
 
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

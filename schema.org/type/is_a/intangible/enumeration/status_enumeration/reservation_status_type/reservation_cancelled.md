@@ -40,15 +40,11 @@ Class of all reservation_cancelleds.
 Tag Instances like this: 
 #is_/a_/reservation_cancelled
 
-[ #is_/part_of ::  ]
-
 The status for a previously confirmed reservation that is now cancelled.
 
 [ #is_/sub_class_of :: [[ReservationStatusType]] ]
 
 [ #is_/enum_of :: [[ReservationStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

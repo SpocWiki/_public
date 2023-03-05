@@ -40,13 +40,9 @@ Class of all medical_procedures.
 Tag Instances like this: 
 #is_/a_/medical_procedure
 
-[ #is_/part_of ::  ]
-
 A process of care used in either a diagnostic, therapeutic, preventive or palliative capacity that relies on invasive (surgical), non-invasive, or other techniques.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ DiagnosticProcedure, PalliativeProcedure, PhysicalExam, SurgicalProcedure, TherapeuticProcedure ] ]
 

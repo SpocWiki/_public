@@ -40,15 +40,9 @@ Class of all engine_specifications.
 Tag Instances like this: 
 #is_/an_/engine_specification
 
-[ #is_/part_of ::  ]
-
 Information about the engine of the vehicle. A vehicle can have multiple engines represented by multiple engine specification entities.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, engineDisplacement, enginePower, engineType, fuelType, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, torque, url ] ]
 

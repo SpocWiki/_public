@@ -48,7 +48,5 @@ Specifies that the customer must pay the return shipping costs when returning a 
 
 [ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

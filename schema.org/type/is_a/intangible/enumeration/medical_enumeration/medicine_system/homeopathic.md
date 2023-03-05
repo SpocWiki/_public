@@ -40,15 +40,11 @@ Class of all homeopathics.
 Tag Instances like this: 
 #is_/a_/homeopathic
 
-[ #is_/part_of ::  ]
-
 A system of medicine based on the principle that a disease can be cured by a substance that produces similar symptoms in healthy people.
 
 [ #is_/sub_class_of :: [[MedicineSystem]] ]
 
 [ #is_/enum_of :: [[MedicineSystem]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

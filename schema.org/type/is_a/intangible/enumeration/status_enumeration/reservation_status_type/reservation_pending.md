@@ -40,15 +40,11 @@ Class of all reservation_pendings.
 Tag Instances like this: 
 #is_/a_/reservation_pending
 
-[ #is_/part_of ::  ]
-
 The status of a reservation when a request has been sent, but not confirmed.
 
 [ #is_/sub_class_of :: [[ReservationStatusType]] ]
 
 [ #is_/enum_of :: [[ReservationStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

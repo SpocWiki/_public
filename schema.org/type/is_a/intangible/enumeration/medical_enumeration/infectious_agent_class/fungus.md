@@ -40,15 +40,11 @@ Class of all funguss.
 Tag Instances like this: 
 #is_/a_/fungus
 
-[ #is_/part_of ::  ]
-
 Pathogenic fungus.
 
 [ #is_/sub_class_of :: [[InfectiousAgentClass]] ]
 
 [ #is_/enum_of :: [[InfectiousAgentClass]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

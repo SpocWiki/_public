@@ -48,7 +48,5 @@ Information about questions that may be asked, when to see a professional, measu
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

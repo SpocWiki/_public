@@ -46,9 +46,5 @@ A list of possible statuses for the legal force of a legislation.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ Specifies that a refund can be done in the full amount the customer paid for the
 
 [ #is_/enum_of :: [[RefundTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ Indicates that a document has no particular or special standing (e.g. a republic
 
 [ #is_/enum_of :: [[LegalValueLevel]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

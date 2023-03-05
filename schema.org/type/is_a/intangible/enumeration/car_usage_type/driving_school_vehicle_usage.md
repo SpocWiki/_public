@@ -48,7 +48,5 @@ Indicates the usage of the vehicle for driving school.
 
 [ #is_/enum_of :: [[CarUsageType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

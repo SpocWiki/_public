@@ -40,15 +40,11 @@ Class of all wednesdays.
 Tag Instances like this: 
 #is_/a_/wednesday
 
-[ #is_/part_of ::  ]
-
 The day of the week between Tuesday and Thursday.
 
 [ #is_/sub_class_of :: [[DayOfWeek]] ]
 
 [ #is_/enum_of :: [[DayOfWeek]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

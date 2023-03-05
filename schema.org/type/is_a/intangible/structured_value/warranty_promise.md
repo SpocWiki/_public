@@ -40,15 +40,9 @@ Class of all warranty_promises.
 Tag Instances like this: 
 #is_/a_/warranty_promise
 
-[ #is_/part_of ::  ]
-
 A structured value representing the duration and scope of services that will be provided to a customer free of charge in case of a defect or malfunction of a product.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, warrantyScope ] ]
 

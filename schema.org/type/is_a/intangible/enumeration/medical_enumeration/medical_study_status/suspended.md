@@ -40,15 +40,11 @@ Class of all suspendeds.
 Tag Instances like this: 
 #is_/a_/suspended
 
-[ #is_/part_of ::  ]
-
 Suspended.
 
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

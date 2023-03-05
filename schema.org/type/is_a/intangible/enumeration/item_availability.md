@@ -40,15 +40,9 @@ Class of all item_availabilitys.
 Tag Instances like this: 
 #is_/an_/item_availability
 
-[ #is_/part_of ::  ]
-
 A list of possible product availability options.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

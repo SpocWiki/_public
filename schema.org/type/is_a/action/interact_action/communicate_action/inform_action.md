@@ -40,13 +40,9 @@ Class of all inform_actions.
 Tag Instances like this: 
 #is_/an_/inform_action
 
-[ #is_/part_of ::  ]
-
 The act of notifying someone of information pertinent to them, with no expectation of a response.
 
 [ #is_/sub_class_of :: [[CommunicateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ ConfirmAction, RsvpAction ] ]
 

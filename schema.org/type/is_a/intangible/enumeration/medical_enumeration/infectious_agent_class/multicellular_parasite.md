@@ -40,15 +40,11 @@ Class of all multicellular_parasites.
 Tag Instances like this: 
 #is_/a_/multicellular_parasite
 
-[ #is_/part_of ::  ]
-
 Multicellular parasite that causes an infection.
 
 [ #is_/sub_class_of :: [[InfectiousAgentClass]] ]
 
 [ #is_/enum_of :: [[InfectiousAgentClass]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

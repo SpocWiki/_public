@@ -40,15 +40,11 @@ Class of all clinicians.
 Tag Instances like this: 
 #is_/a_/clinician
 
-[ #is_/part_of ::  ]
-
 Medical clinicians, including practicing physicians and other medical professionals involved in clinical practice.
 
 [ #is_/sub_class_of :: [[MedicalAudienceType]] ]
 
 [ #is_/enum_of :: [[MedicalAudienceType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,11 @@ Class of all obstetrics.
 Tag Instances like this: 
 #is_/an_/obstetric
 
-[ #is_/part_of ::  ]
-
 A specific branch of medical science that specializes in the care of women during the prenatal and postnatal care and with the delivery of the child.
 
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

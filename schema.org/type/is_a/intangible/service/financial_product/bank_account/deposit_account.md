@@ -40,15 +40,9 @@ Class of all deposit_accounts.
 Tag Instances like this: 
 #is_/a_/deposit_account
 
-[ #is_/part_of ::  ]
-
 A type of Bank Account with a main purpose of depositing funds to gain interest or other benefits.
 
 [ #is_/sub_class_of :: [[BankAccount, InvestmentOrDeposit]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ accountMinimumInflow, accountOverdraftLimit, additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, bankAccountType, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 

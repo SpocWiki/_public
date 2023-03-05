@@ -40,15 +40,11 @@ Class of all terminateds.
 Tag Instances like this: 
 #is_/a_/terminated
 
-[ #is_/part_of ::  ]
-
 Terminated.
 
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

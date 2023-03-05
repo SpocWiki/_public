@@ -40,15 +40,9 @@ Class of all order_items.
 Tag Instances like this: 
 #is_/an_/order_item
 
-[ #is_/part_of ::  ]
-
 An order item is a line of an order. It includes the quantity and shipping details of a bought offer.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, orderDelivery, orderItemNumber, orderItemStatus, orderQuantity, orderedItem, potentialAction, sameAs, subjectOf, url ] ]
 

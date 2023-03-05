@@ -40,13 +40,9 @@ Class of all investment_or_deposits.
 Tag Instances like this: 
 #is_/an_/investment_or_deposit
 
-[ #is_/part_of ::  ]
-
 A type of financial product that typically requires the client to transfer funds to a financial service in return for potential beneficial financial return.
 
 [ #is_/sub_class_of :: [[FinancialProduct]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BrokerageAccount, DepositAccount, InvestmentFund ] ]
 

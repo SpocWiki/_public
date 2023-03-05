@@ -48,7 +48,5 @@ Indicates demo game availability, i.e. a somehow limited demonstration of the fu
 
 [ #is_/enum_of :: [[GameAvailabilityEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

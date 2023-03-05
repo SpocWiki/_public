@@ -40,15 +40,11 @@ Class of all hindu_diets.
 Tag Instances like this: 
 #is_/a_/hindu_diet
 
-[ #is_/part_of ::  ]
-
 A diet conforming to Hindu dietary practices, in particular, beef-free.
 
 [ #is_/sub_class_of :: [[RestrictedDiet]] ]
 
 [ #is_/enum_of :: [[RestrictedDiet]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ Nonprofit501c2: Non-profit type referring to Title-holding Corporations for Exem
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

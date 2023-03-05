@@ -40,15 +40,9 @@ Class of all dislike_actions.
 Tag Instances like this: 
 #is_/a_/dislike_action
 
-[ #is_/part_of ::  ]
-
 The act of expressing a negative sentiment about the object. An agent dislikes an object (a proposition, topic or theme) with participants.
 
 [ #is_/sub_class_of :: [[ReactAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

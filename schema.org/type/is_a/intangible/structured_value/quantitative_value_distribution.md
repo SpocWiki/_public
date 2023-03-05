@@ -40,13 +40,9 @@ Class of all quantitative_value_distributions.
 Tag Instances like this: 
 #is_/a_/quantitative_value_distribution
 
-[ #is_/part_of ::  ]
-
 A statistical distribution of values.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MonetaryAmountDistribution ] ]
 

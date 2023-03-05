@@ -40,15 +40,9 @@ Class of all action_status_types.
 Tag Instances like this: 
 #is_/an_/action_status_type
 
-[ #is_/part_of ::  ]
-
 The status of an Action.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

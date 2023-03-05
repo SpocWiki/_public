@@ -40,15 +40,9 @@ Class of all medical_device_purposes.
 Tag Instances like this: 
 #is_/a_/medical_device_purpose
 
-[ #is_/part_of ::  ]
-
 Categories of medical devices, organized by the purpose or intended use of the device.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -48,7 +48,5 @@ BusinessSupport: this is a benefit for supporting businesses.
 
 [ #is_/enum_of :: [[GovernmentBenefitsType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

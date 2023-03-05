@@ -40,15 +40,9 @@ Class of all contact_point_options.
 Tag Instances like this: 
 #is_/a_/contact_point_option
 
-[ #is_/part_of ::  ]
-
 Enumerated options related to a ContactPoint.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

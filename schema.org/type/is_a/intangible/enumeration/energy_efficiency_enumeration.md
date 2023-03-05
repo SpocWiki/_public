@@ -46,8 +46,6 @@ Enumerates energy efficiency levels (also known as "classes" or "ratings") and c
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
 [ #has_/sub_classes :: [ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ] ]
 
 [ #has_/properties :: [  ] ]

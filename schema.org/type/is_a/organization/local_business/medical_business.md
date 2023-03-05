@@ -40,13 +40,9 @@ Class of all medical_businesss.
 Tag Instances like this: 
 #is_/a_/medical_business
 
-[ #is_/part_of ::  ]
-
 A particular physical or virtual business of an organization for medical purposes. Examples of MedicalBusiness include different businesses run by health professionals.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CommunityHealth, Dentist, Dermatology, DietNutrition, Emergency, Geriatric, Gynecologic, MedicalClinic, Midwifery, Nursing, Obstetric, Oncologic, Optician, Optometric, Otolaryngologic, Pediatric, Pharmacy, Physician, Physiotherapy, PlasticSurgery, Podiatric, PrimaryCare, Psychiatric, PublicHealth ] ]
 

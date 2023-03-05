@@ -40,15 +40,11 @@ Class of all transit_maps.
 Tag Instances like this: 
 #is_/a_/transit_map
 
-[ #is_/part_of ::  ]
-
 A transit map.
 
 [ #is_/sub_class_of :: [[MapCategoryType]] ]
 
 [ #is_/enum_of :: [[MapCategoryType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

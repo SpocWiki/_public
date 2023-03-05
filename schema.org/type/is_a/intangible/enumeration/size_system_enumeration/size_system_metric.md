@@ -48,7 +48,5 @@ Metric size system.
 
 [ #is_/enum_of :: [[SizeSystemEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

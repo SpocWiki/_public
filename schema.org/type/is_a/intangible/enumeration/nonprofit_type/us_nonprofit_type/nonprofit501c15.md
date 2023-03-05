@@ -48,7 +48,5 @@ Nonprofit501c15: Non-profit type referring to Mutual Insurance Companies or Asso
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

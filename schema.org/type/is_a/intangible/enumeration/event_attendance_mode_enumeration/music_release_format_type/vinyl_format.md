@@ -40,15 +40,11 @@ Class of all vinyl_formats.
 Tag Instances like this: 
 #is_/a_/vinyl_format
 
-[ #is_/part_of ::  ]
-
 VinylFormat.
 
 [ #is_/sub_class_of :: [[MusicReleaseFormatType]] ]
 
 [ #is_/enum_of :: [[MusicReleaseFormatType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

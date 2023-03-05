@@ -40,15 +40,9 @@ Class of all medical_specialtys.
 Tag Instances like this: 
 #is_/a_/medical_specialty
 
-[ #is_/part_of ::  ]
-
 Any specific branch of medical science or practice. Medical specialities include clinical specialties that pertain to particular organ systems and their respective disease states, as well as allied health specialties. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration, Specialty]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

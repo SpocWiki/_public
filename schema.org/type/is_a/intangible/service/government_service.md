@@ -40,15 +40,9 @@ Class of all government_services.
 Tag Instances like this: 
 #is_/a_/government_service
 
-[ #is_/part_of ::  ]
-
 A service provided by a government organization, e.g. food stamps, veterans benefits, etc.
 
 [ #is_/sub_class_of :: [[Service]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, jurisdiction, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOperator, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 

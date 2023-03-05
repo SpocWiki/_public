@@ -40,15 +40,11 @@ Class of all active_not_recruitings.
 Tag Instances like this: 
 #is_/an_/active_not_recruiting
 
-[ #is_/part_of ::  ]
-
 Active, but not recruiting new participants.
 
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

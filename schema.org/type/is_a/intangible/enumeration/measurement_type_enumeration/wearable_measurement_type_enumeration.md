@@ -46,9 +46,5 @@ Enumerates common types of measurement for wearables products.
 
 [ #is_/sub_class_of :: [[MeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

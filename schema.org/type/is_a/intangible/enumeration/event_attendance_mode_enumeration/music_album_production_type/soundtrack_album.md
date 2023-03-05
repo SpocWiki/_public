@@ -40,15 +40,11 @@ Class of all soundtrack_albums.
 Tag Instances like this: 
 #is_/a_/soundtrack_album
 
-[ #is_/part_of ::  ]
-
 SoundtrackAlbum.
 
 [ #is_/sub_class_of :: [[MusicAlbumProductionType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumProductionType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

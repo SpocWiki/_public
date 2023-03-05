@@ -40,15 +40,11 @@ Class of all item_list_order_ascendings.
 Tag Instances like this: 
 #is_/an_/item_list_order_ascending
 
-[ #is_/part_of ::  ]
-
 An ItemList ordered with lower values listed first.
 
 [ #is_/sub_class_of :: [[ItemListOrderType]] ]
 
 [ #is_/enum_of :: [[ItemListOrderType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,16 +40,10 @@ Class of all rental_car_reservations.
 Tag Instances like this: 
 #is_/a_/rental_car_reservation
 
-[ #is_/part_of ::  ]
-
 A reservation for a rental car.<br/><br/>
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations.
 
 [ #is_/sub_class_of :: [[Reservation]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, dropoffLocation, dropoffTime, identifier, image, mainEntityOfPage, modifiedTime, name, pickupLocation, pickupTime, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 

@@ -40,15 +40,9 @@ Class of all medicine_systems.
 Tag Instances like this: 
 #is_/a_/medicine_system
 
-[ #is_/part_of ::  ]
-
 Systems of medical practice.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

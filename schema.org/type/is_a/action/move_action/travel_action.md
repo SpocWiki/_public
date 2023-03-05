@@ -40,15 +40,9 @@ Class of all travel_actions.
 Tag Instances like this: 
 #is_/a_/travel_action
 
-[ #is_/part_of ::  ]
-
 The act of traveling from a fromLocation to a destination by a specified mode of transport, optionally with participants.
 
 [ #is_/sub_class_of :: [[MoveAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, distance, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 

@@ -48,7 +48,5 @@ Nonprofit501c13: Non-profit type referring to Cemetery Companies.
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

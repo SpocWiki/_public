@@ -48,9 +48,5 @@ A CDCPMDRecord is a data structure representing a record in a CDC tabular data f
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, cvdCollectionDate, cvdFacilityCounty, cvdFacilityId, cvdNumBeds, cvdNumBedsOcc, cvdNumC19Died, cvdNumC19HOPats, cvdNumC19HospPats, cvdNumC19MechVentPats, cvdNumC19OFMechVentPats, cvdNumC19OverflowPats, cvdNumICUBeds, cvdNumICUBedsOcc, cvdNumTotBeds, cvdNumVent, cvdNumVentUse, datePosted, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

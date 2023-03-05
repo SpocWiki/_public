@@ -40,13 +40,9 @@ Class of all react_actions.
 Tag Instances like this: 
 #is_/a_/react_action
 
-[ #is_/part_of ::  ]
-
 The act of responding instinctively and emotionally to an object, expressing a sentiment.
 
 [ #is_/sub_class_of :: [[AssessAction]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AgreeAction, DisagreeAction, DislikeAction, EndorseAction, LikeAction, WantAction ] ]
 

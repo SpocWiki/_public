@@ -40,13 +40,9 @@ Class of all consume_actions.
 Tag Instances like this: 
 #is_/a_/consume_action
 
-[ #is_/part_of ::  ]
-
 The act of ingesting information/resources/food.
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ DrinkAction, EatAction, InstallAction, ListenAction, PlayGameAction, ReadAction, UseAction, ViewAction, WatchAction ] ]
 

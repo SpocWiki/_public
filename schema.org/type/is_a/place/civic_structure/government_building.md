@@ -40,13 +40,9 @@ Class of all government_buildings.
 Tag Instances like this: 
 #is_/a_/government_building
 
-[ #is_/part_of ::  ]
-
 A government building.
 
 [ #is_/sub_class_of :: [[CivicStructure]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CityHall, Courthouse, DefenceEstablishment, Embassy, LegislativeBuilding ] ]
 

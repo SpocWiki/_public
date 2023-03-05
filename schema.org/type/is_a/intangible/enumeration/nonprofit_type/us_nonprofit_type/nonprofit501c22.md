@@ -48,7 +48,5 @@ Nonprofit501c22: Non-profit type referring to Withdrawal Liability Payment Funds
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

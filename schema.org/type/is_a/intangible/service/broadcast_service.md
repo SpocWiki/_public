@@ -40,13 +40,9 @@ Class of all broadcast_services.
 Tag Instances like this: 
 #is_/a_/broadcast_service
 
-[ #is_/part_of ::  ]
-
 A delivery service through which content is provided via broadcast over the air or online.
 
 [ #is_/sub_class_of :: [[Service]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ RadioBroadcastService ] ]
 

@@ -40,15 +40,9 @@ Class of all music_release_format_types.
 Tag Instances like this: 
 #is_/a_/music_release_format_type
 
-[ #is_/part_of ::  ]
-
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

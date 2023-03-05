@@ -40,15 +40,11 @@ Class of all comment_permissions.
 Tag Instances like this: 
 #is_/a_/comment_permission
 
-[ #is_/part_of ::  ]
-
 Permission to add comments to the document.
 
 [ #is_/sub_class_of :: [[DigitalDocumentPermissionType]] ]
 
 [ #is_/enum_of :: [[DigitalDocumentPermissionType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

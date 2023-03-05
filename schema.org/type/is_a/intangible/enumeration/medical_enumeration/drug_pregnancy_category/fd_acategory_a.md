@@ -40,15 +40,11 @@ Class of all fd_acategory_as.
 Tag Instances like this: 
 #is_/a_/fd_acategory_a
 
-[ #is_/part_of ::  ]
-
 A designation by the US FDA signifying that adequate and well-controlled studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy (and there is no evidence of risk in later trimesters).
 
 [ #is_/sub_class_of :: [[DrugPregnancyCategory]] ]
 
 [ #is_/enum_of :: [[DrugPregnancyCategory]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

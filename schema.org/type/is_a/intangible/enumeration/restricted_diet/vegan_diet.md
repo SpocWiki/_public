@@ -40,15 +40,11 @@ Class of all vegan_diets.
 Tag Instances like this: 
 #is_/a_/vegan_diet
 
-[ #is_/part_of ::  ]
-
 A diet exclusive of all animal products.
 
 [ #is_/sub_class_of :: [[RestrictedDiet]] ]
 
 [ #is_/enum_of :: [[RestrictedDiet]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

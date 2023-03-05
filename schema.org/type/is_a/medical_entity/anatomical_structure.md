@@ -40,13 +40,9 @@ Class of all anatomical_structures.
 Tag Instances like this: 
 #is_/an_/anatomical_structure
 
-[ #is_/part_of ::  ]
-
 Any part of the human body, typically a component of an anatomical system. Organs, tissues, and cells are all anatomical structures.
 
 [ #is_/sub_class_of :: [[MedicalEntity]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Bone, BrainStructure, Joint, Ligament, Muscle, Nerve, Vessel ] ]
 

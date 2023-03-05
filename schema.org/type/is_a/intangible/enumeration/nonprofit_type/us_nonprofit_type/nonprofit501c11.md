@@ -48,7 +48,5 @@ Nonprofit501c11: Non-profit type referring to Teachers' Retirement Fund Associat
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

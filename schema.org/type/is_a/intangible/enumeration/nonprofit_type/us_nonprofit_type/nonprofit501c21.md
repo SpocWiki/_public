@@ -48,7 +48,5 @@ Nonprofit501c21: Non-profit type referring to Black Lung Benefit Trusts.
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

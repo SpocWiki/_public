@@ -40,13 +40,9 @@ Class of all specialtys.
 Tag Instances like this: 
 #is_/a_/specialty
 
-[ #is_/part_of ::  ]
-
 Any branch of a field in which people typically develop specific expertise, usually after significant study, time, and effort.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MedicalSpecialty ] ]
 

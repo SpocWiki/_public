@@ -48,7 +48,5 @@ Nonprofit501c27: Non-profit type referring to State-Sponsored Workers' Compensat
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

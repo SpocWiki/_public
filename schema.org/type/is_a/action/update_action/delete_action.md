@@ -40,15 +40,9 @@ Class of all delete_actions.
 Tag Instances like this: 
 #is_/a_/delete_action
 
-[ #is_/part_of ::  ]
-
 The act of editing a recipient by removing one of its objects.
 
 [ #is_/sub_class_of :: [[UpdateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
 

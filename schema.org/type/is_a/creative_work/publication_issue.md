@@ -40,14 +40,10 @@ Class of all publication_issues.
 Tag Instances like this: 
 #is_/a_/publication_issue
 
-[ #is_/part_of ::  ]
-
 A part of a successively published publication such as a periodical or publication volume, often numbered, usually containing a grouping of works such as articles.<br/><br/>
 See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliographic_2.html">blog post</a>.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ ComicIssue ] ]
 

@@ -40,15 +40,9 @@ Class of all nutrition_informations.
 Tag Instances like this: 
 #is_/a_/nutrition_information
 
-[ #is_/part_of ::  ]
-
 Nutritional information about the recipe.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, calories, carbohydrateContent, cholesterolContent, description, disambiguatingDescription, fatContent, fiberContent, identifier, image, mainEntityOfPage, name, potentialAction, proteinContent, sameAs, saturatedFatContent, servingSize, sodiumContent, subjectOf, sugarContent, transFatContent, unsaturatedFatContent, url ] ]
 

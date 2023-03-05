@@ -40,15 +40,11 @@ Class of all co_ops.
 Tag Instances like this: 
 #is_/a_/co_op
 
-[ #is_/part_of ::  ]
-
 Play mode: CoOp. Co-operative games, where you play on the same team with friends.
 
 [ #is_/sub_class_of :: [[GamePlayMode]] ]
 
 [ #is_/enum_of :: [[GamePlayMode]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

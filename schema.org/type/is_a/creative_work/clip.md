@@ -40,13 +40,9 @@ Class of all clips.
 Tag Instances like this: 
 #is_/a_/clip
 
-[ #is_/part_of ::  ]
-
 A short TV or radio program or a segment/part of a program.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MovieClip, RadioClip, TVClip, VideoGameClip ] ]
 

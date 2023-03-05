@@ -48,7 +48,5 @@ NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institut
 
 [ #is_/enum_of :: [[NLNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

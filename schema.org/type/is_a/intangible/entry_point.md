@@ -40,15 +40,9 @@ Class of all entry_points.
 Tag Instances like this: 
 #is_/an_/entry_point
 
-[ #is_/part_of ::  ]
-
 An entry point, within some Web-based protocol.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ] ]
 

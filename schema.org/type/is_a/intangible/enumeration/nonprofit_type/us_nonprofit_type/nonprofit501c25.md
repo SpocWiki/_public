@@ -48,7 +48,5 @@ Nonprofit501c25: Non-profit type referring to Real Property Title-Holding Corpor
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

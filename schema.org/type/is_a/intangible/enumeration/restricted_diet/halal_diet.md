@@ -40,15 +40,11 @@ Class of all halal_diets.
 Tag Instances like this: 
 #is_/a_/halal_diet
 
-[ #is_/part_of ::  ]
-
 A diet conforming to Islamic dietary practices.
 
 [ #is_/sub_class_of :: [[RestrictedDiet]] ]
 
 [ #is_/enum_of :: [[RestrictedDiet]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

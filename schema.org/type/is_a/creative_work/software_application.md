@@ -40,13 +40,9 @@ Class of all software_applications.
 Tag Instances like this: 
 #is_/a_/software_application
 
-[ #is_/part_of ::  ]
-
 A software application.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MobileApplication, VideoGame, WebApplication ] ]
 

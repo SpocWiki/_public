@@ -40,15 +40,11 @@ Class of all spoken_word_albums.
 Tag Instances like this: 
 #is_/a_/spoken_word_album
 
-[ #is_/part_of ::  ]
-
 SpokenWordAlbum.
 
 [ #is_/sub_class_of :: [[MusicAlbumProductionType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumProductionType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

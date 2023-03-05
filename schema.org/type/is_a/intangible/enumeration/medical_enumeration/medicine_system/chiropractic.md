@@ -40,15 +40,11 @@ Class of all chiropractics.
 Tag Instances like this: 
 #is_/a_/chiropractic
 
-[ #is_/part_of ::  ]
-
 A system of medicine focused on the relationship between the body's structure, mainly the spine, and its functioning.
 
 [ #is_/sub_class_of :: [[MedicineSystem]] ]
 
 [ #is_/enum_of :: [[MedicineSystem]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

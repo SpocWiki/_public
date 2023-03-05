@@ -40,15 +40,9 @@ Class of all medical_guideline_contraindications.
 Tag Instances like this: 
 #is_/a_/medical_guideline_contraindication
 
-[ #is_/part_of ::  ]
-
 A guideline contraindication that designates a process as harmful and where quality of the data supporting the contraindication is sound.
 
 [ #is_/sub_class_of :: [[MedicalGuideline]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 

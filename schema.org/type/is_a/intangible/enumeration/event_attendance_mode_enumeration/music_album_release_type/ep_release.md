@@ -40,15 +40,11 @@ Class of all ep_releases.
 Tag Instances like this: 
 #is_/an_/ep_release
 
-[ #is_/part_of ::  ]
-
 EPRelease.
 
 [ #is_/sub_class_of :: [[MusicAlbumReleaseType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumReleaseType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

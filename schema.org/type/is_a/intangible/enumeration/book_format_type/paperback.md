@@ -40,15 +40,11 @@ Class of all paperbacks.
 Tag Instances like this: 
 #is_/a_/paperback
 
-[ #is_/part_of ::  ]
-
 Book format: Paperback.
 
 [ #is_/sub_class_of :: [[BookFormatType]] ]
 
 [ #is_/enum_of :: [[BookFormatType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

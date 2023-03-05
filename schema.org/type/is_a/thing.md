@@ -40,13 +40,9 @@ Class of all things.
 Tag Instances like this: 
 #is_/a_/thing
 
-[ #is_/part_of ::  ]
-
 The most generic type of item.
 
 [ #is_/sub_class_of :: [[]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Action, BioChemEntity, CreativeWork, Event, Intangible, MedicalEntity, Organization, Person, Place, Product, StupidType, Taxon ] ]
 

@@ -40,15 +40,11 @@ Class of all dentistrys.
 Tag Instances like this: 
 #is_/a_/dentistry
 
-[ #is_/part_of ::  ]
-
 A branch of medicine that is involved in the dental care.
 
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

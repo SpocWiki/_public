@@ -48,7 +48,5 @@ Information about the risk factors and possible complications that may follow a 
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

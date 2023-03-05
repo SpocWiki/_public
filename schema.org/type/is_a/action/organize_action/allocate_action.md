@@ -40,13 +40,9 @@ Class of all allocate_actions.
 Tag Instances like this: 
 #is_/an_/allocate_action
 
-[ #is_/part_of ::  ]
-
 The act of organizing tasks/objects/events by associating resources to it.
 
 [ #is_/sub_class_of :: [[OrganizeAction]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AcceptAction, AssignAction, AuthorizeAction, RejectAction ] ]
 

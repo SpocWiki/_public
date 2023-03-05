@@ -46,9 +46,5 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 
 [ #is_/sub_class_of :: [[Intangible]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, energyEfficiencyScaleMax, energyEfficiencyScaleMin, hasEnergyEfficiencyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

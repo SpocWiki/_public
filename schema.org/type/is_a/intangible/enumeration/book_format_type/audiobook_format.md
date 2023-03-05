@@ -40,15 +40,11 @@ Class of all audiobook_formats.
 Tag Instances like this: 
 #is_/an_/audiobook_format
 
-[ #is_/part_of ::  ]
-
 Book format: Audiobook. This is an enumerated value for use with the bookFormat property. There is also a type 'Audiobook' in the bib extension which includes Audiobook specific properties.
 
 [ #is_/sub_class_of :: [[BookFormatType]] ]
 
 [ #is_/enum_of :: [[BookFormatType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

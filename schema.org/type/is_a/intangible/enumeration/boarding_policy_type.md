@@ -40,15 +40,9 @@ Class of all boarding_policy_types.
 Tag Instances like this: 
 #is_/a_/boarding_policy_type
 
-[ #is_/part_of ::  ]
-
 A type of boarding policy used by an airline.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

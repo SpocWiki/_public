@@ -40,13 +40,9 @@ Class of all qualitative_values.
 Tag Instances like this: 
 #is_/a_/qualitative_value
 
-[ #is_/part_of ::  ]
-
 A predefined value for a product characteristic, e.g. the power cord plug type 'US' or the garment sizes 'S', 'M', 'L', and 'XL'.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ] ]
 

@@ -40,15 +40,11 @@ Class of all cassette_formats.
 Tag Instances like this: 
 #is_/a_/cassette_format
 
-[ #is_/part_of ::  ]
-
 CassetteFormat.
 
 [ #is_/sub_class_of :: [[MusicReleaseFormatType]] ]
 
 [ #is_/enum_of :: [[MusicReleaseFormatType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

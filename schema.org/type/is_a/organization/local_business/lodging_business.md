@@ -40,13 +40,9 @@ Class of all lodging_businesss.
 Tag Instances like this: 
 #is_/a_/lodging_business
 
-[ #is_/part_of ::  ]
-
 A lodging business, such as a motel, hotel, or inn.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BedAndBreakfast, Campground, Hostel, Hotel, Motel, Resort ] ]
 

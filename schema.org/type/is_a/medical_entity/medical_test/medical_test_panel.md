@@ -40,15 +40,9 @@ Class of all medical_test_panels.
 Tag Instances like this: 
 #is_/a_/medical_test_panel
 
-[ #is_/part_of ::  ]
-
 Any collection of tests commonly ordered together.
 
 [ #is_/sub_class_of :: [[MedicalTest]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subTest, subjectOf, url, usedToDiagnose, usesDevice ] ]
 

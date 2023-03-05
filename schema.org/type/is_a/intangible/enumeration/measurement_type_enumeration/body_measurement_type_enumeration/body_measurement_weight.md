@@ -48,7 +48,5 @@ Body weight. Used, for example, to measure pantyhose.
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

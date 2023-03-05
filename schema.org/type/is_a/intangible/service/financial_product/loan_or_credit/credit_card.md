@@ -40,8 +40,6 @@ Class of all credit_cards.
 Tag Instances like this: 
 #is_/a_/credit_card
 
-[ #is_/part_of ::  ]
-
 A card payment method of a particular brand or name.  Used to mark up a particular payment method and/or the financial product/service that supplies the card account.<br/><br/>
 Commonly used values:<br/><br/>
 <ul>
@@ -54,10 +52,6 @@ Commonly used values:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[LoanOrCredit, PaymentCard]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, cashBack, category, contactlessPayment, currency, description, disambiguatingDescription, feesAndCommissionsSpecification, floorLimit, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, monthlyMinimumRepaymentAmount, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 

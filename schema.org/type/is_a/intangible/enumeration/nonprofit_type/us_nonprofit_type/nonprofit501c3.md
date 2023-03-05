@@ -48,7 +48,5 @@ Nonprofit501c3: Non-profit type referring to Religious, Educational, Charitable,
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

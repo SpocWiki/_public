@@ -40,15 +40,9 @@ Class of all order_statuss.
 Tag Instances like this: 
 #is_/an_/order_status
 
-[ #is_/part_of ::  ]
-
 Enumerated status values for Order.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

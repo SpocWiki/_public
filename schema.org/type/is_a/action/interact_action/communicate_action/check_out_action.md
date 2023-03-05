@@ -40,8 +40,6 @@ Class of all check_out_actions.
 Tag Instances like this: 
 #is_/a_/check_out_action
 
-[ #is_/part_of ::  ]
-
 The act of an agent communicating (service provider, social media, etc) their departure of a previously reserved service (e.g. flight check-in) or place (e.g. hotel).<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -51,10 +49,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[CommunicateAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 

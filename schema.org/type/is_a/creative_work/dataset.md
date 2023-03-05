@@ -40,13 +40,9 @@ Class of all datasets.
 Tag Instances like this: 
 #is_/a_/dataset
 
-[ #is_/part_of ::  ]
-
 A body of structured information describing some topic(s) of interest.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ DataFeed ] ]
 

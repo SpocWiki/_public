@@ -40,15 +40,11 @@ Class of all cardiovascular_exams.
 Tag Instances like this: 
 #is_/a_/cardiovascular_exam
 
-[ #is_/part_of ::  ]
-
 Cardiovascular system assessment with clinical examination.
 
 [ #is_/sub_class_of :: [[PhysicalExam]] ]
 
 [ #is_/enum_of :: [[PhysicalExam]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

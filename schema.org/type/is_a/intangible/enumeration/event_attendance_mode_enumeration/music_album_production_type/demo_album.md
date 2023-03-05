@@ -40,15 +40,11 @@ Class of all demo_albums.
 Tag Instances like this: 
 #is_/a_/demo_album
 
-[ #is_/part_of ::  ]
-
 DemoAlbum.
 
 [ #is_/sub_class_of :: [[MusicAlbumProductionType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumProductionType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,13 +40,9 @@ Class of all contact_points.
 Tag Instances like this: 
 #is_/a_/contact_point
 
-[ #is_/part_of ::  ]
-
 A contact point&#x2014;for example, a Customer Complaints department.
 
 [ #is_/sub_class_of :: [[StructuredValue]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ PostalAddress ] ]
 

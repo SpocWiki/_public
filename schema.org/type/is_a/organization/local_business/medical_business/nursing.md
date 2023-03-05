@@ -40,15 +40,11 @@ Class of all nursings.
 Tag Instances like this: 
 #is_/a_/nursing
 
-[ #is_/part_of ::  ]
-
 A health profession of a person formally educated and trained in the care of the sick or infirm person.
 
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

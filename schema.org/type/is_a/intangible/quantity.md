@@ -40,13 +40,9 @@ Class of all quantitys.
 Tag Instances like this: 
 #is_/a_/quantity
 
-[ #is_/part_of ::  ]
-
 Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 kg' or '4 milligrams'.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Distance, Duration, Energy, Mass ] ]
 

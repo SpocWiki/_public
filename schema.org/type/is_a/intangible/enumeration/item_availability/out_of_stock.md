@@ -40,15 +40,11 @@ Class of all out_of_stocks.
 Tag Instances like this: 
 #is_/an_/out_of_stock
 
-[ #is_/part_of ::  ]
-
 Indicates that the item is out of stock.
 
 [ #is_/sub_class_of :: [[ItemAvailability]] ]
 
 [ #is_/enum_of :: [[ItemAvailability]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

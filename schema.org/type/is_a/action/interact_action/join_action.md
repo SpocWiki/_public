@@ -40,8 +40,6 @@ Class of all join_actions.
 Tag Instances like this: 
 #is_/a_/join_action
 
-[ #is_/part_of ::  ]
-
 An agent joins an event/group with participants/friends at a location.<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -51,10 +49,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[InteractAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

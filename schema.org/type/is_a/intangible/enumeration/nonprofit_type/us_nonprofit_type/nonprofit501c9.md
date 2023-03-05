@@ -48,7 +48,5 @@ Nonprofit501c9: Non-profit type referring to Voluntary Employee Beneficiary Asso
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,13 +40,9 @@ Class of all choose_actions.
 Tag Instances like this: 
 #is_/a_/choose_action
 
-[ #is_/part_of ::  ]
-
 The act of expressing a preference from a set of options or a large or unbounded set of choices/options.
 
 [ #is_/sub_class_of :: [[AssessAction]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ VoteAction ] ]
 

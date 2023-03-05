@@ -40,15 +40,11 @@ Class of all right_hand_drivings.
 Tag Instances like this: 
 #is_/a_/right_hand_driving
 
-[ #is_/part_of ::  ]
-
 The steering position is on the right side of the vehicle (viewed from the main direction of driving).
 
 [ #is_/sub_class_of :: [[SteeringPositionValue]] ]
 
 [ #is_/enum_of :: [[SteeringPositionValue]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

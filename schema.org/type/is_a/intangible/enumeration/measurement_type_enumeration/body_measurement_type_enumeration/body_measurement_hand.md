@@ -48,7 +48,5 @@ Maximum hand girth (measured over the knuckles of the open right hand excluding 
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

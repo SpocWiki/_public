@@ -40,13 +40,9 @@ Class of all audiences.
 Tag Instances like this: 
 #is_/an_/audience
 
-[ #is_/part_of ::  ]
-
 Intended audience for an item, i.e. the group for whom the item was created.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ] ]
 

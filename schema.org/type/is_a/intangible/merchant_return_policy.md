@@ -46,9 +46,5 @@ A MerchantReturnPolicy provides information about product return policies associ
 
 [ #is_/sub_class_of :: [[Intangible]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [ additionalProperty, additionalType, alternateName, applicableCountry, customerRemorseReturnFees, customerRemorseReturnLabelSource, customerRemorseReturnShippingFeesAmount, description, disambiguatingDescription, identifier, image, inStoreReturnsOffered, itemCondition, itemDefectReturnFees, itemDefectReturnLabelSource, itemDefectReturnShippingFeesAmount, mainEntityOfPage, merchantReturnDays, merchantReturnLink, name, potentialAction, refundType, restockingFee, returnFees, returnLabelSource, returnMethod, returnPolicyCategory, returnPolicyCountry, returnPolicySeasonalOverride, returnShippingFeesAmount, sameAs, subjectOf, url ] ]
 

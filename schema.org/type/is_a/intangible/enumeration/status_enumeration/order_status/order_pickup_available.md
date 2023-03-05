@@ -40,15 +40,11 @@ Class of all order_pickup_availables.
 Tag Instances like this: 
 #is_/an_/order_pickup_available
 
-[ #is_/part_of ::  ]
-
 OrderStatus representing availability of an order for pickup.
 
 [ #is_/sub_class_of :: [[OrderStatus]] ]
 
 [ #is_/enum_of :: [[OrderStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

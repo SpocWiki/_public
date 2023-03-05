@@ -40,15 +40,11 @@ Class of all medical_researchers.
 Tag Instances like this: 
 #is_/a_/medical_researcher
 
-[ #is_/part_of ::  ]
-
 Medical researchers.
 
 [ #is_/sub_class_of :: [[MedicalAudienceType]] ]
 
 [ #is_/enum_of :: [[MedicalAudienceType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

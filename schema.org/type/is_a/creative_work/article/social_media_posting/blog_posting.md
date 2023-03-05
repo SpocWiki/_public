@@ -40,13 +40,9 @@ Class of all blog_postings.
 Tag Instances like this: 
 #is_/a_/blog_posting
 
-[ #is_/part_of ::  ]
-
 A blog post.
 
 [ #is_/sub_class_of :: [[SocialMediaPosting]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ LiveBlogPosting ] ]
 

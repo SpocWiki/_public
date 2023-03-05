@@ -40,13 +40,9 @@ Class of all organize_actions.
 Tag Instances like this: 
 #is_/an_/organize_action
 
-[ #is_/part_of ::  ]
-
 The act of manipulating/administering/supervising/controlling one or more objects.
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AllocateAction, ApplyAction, BookmarkAction, PlanAction ] ]
 

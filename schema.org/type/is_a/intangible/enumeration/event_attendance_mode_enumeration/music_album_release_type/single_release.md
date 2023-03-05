@@ -40,15 +40,11 @@ Class of all single_releases.
 Tag Instances like this: 
 #is_/a_/single_release
 
-[ #is_/part_of ::  ]
-
 SingleRelease.
 
 [ #is_/sub_class_of :: [[MusicAlbumReleaseType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumReleaseType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

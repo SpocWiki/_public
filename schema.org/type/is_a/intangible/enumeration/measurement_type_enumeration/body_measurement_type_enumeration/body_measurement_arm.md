@@ -48,7 +48,5 @@ Arm length (measured between arms/shoulder line intersection and the prominent w
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

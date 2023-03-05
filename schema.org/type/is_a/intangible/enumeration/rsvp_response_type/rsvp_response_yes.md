@@ -40,15 +40,11 @@ Class of all rsvp_response_yess.
 Tag Instances like this: 
 #is_/a_/rsvp_response_yes
 
-[ #is_/part_of ::  ]
-
 The invitee will attend.
 
 [ #is_/sub_class_of :: [[RsvpResponseType]] ]
 
 [ #is_/enum_of :: [[RsvpResponseType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

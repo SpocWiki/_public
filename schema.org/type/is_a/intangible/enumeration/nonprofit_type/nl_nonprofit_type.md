@@ -46,9 +46,5 @@ NLNonprofitType: Non-profit organization type originating from the Netherlands.
 
 [ #is_/sub_class_of :: [[NonprofitType]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,13 +40,9 @@ Class of all dose_schedules.
 Tag Instances like this: 
 #is_/a_/dose_schedule
 
-[ #is_/part_of ::  ]
-
 A specific dosing schedule for a drug or supplement.
 
 [ #is_/sub_class_of :: [[MedicalIntangible]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MaximumDoseSchedule, RecommendedDoseSchedule, ReportedDoseSchedule ] ]
 

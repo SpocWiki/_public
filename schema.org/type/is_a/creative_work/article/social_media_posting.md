@@ -40,13 +40,9 @@ Class of all social_media_postings.
 Tag Instances like this: 
 #is_/a_/social_media_posting
 
-[ #is_/part_of ::  ]
-
 A post to a social media platform, including blog posts, tweets, Facebook posts, etc.
 
 [ #is_/sub_class_of :: [[Article]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BlogPosting, DiscussionForumPosting ] ]
 

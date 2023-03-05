@@ -40,13 +40,9 @@ Class of all financial_services.
 Tag Instances like this: 
 #is_/a_/financial_service
 
-[ #is_/part_of ::  ]
-
 Financial services business.
 
 [ #is_/sub_class_of :: [[LocalBusiness]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ AccountingService, AutomatedTeller, BankOrCreditUnion, InsuranceAgency ] ]
 

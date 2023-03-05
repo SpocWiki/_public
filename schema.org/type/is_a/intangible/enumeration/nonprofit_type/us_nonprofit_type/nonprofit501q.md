@@ -48,7 +48,5 @@ Nonprofit501q: Non-profit type referring to Credit Counseling Organizations.
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

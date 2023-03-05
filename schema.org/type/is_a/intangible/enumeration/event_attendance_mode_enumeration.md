@@ -46,9 +46,5 @@ An EventAttendanceModeEnumeration value is one of potentially several modes of o
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

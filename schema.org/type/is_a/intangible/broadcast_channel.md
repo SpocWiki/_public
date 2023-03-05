@@ -40,13 +40,9 @@ Class of all broadcast_channels.
 Tag Instances like this: 
 #is_/a_/broadcast_channel
 
-[ #is_/part_of ::  ]
-
 A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ RadioChannel, TelevisionChannel ] ]
 

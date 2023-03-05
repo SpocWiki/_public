@@ -40,15 +40,11 @@ Class of all not_yet_recruitings.
 Tag Instances like this: 
 #is_/a_/not_yet_recruiting
 
-[ #is_/part_of ::  ]
-
 Not yet recruiting.
 
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

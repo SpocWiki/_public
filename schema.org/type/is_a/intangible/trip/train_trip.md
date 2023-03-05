@@ -40,15 +40,9 @@ Class of all train_trips.
 Tag Instances like this: 
 #is_/a_/train_trip
 
-[ #is_/part_of ::  ]
-
 A trip on a commercial train line.
 
 [ #is_/sub_class_of :: [[Trip]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ] ]
 

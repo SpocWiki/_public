@@ -40,15 +40,11 @@ Class of all dermatologics.
 Tag Instances like this: 
 #is_/a_/dermatologic
 
-[ #is_/part_of ::  ]
-
 Something relating to or practicing dermatology.
 
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

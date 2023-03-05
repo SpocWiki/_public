@@ -40,13 +40,9 @@ Class of all digital_documents.
 Tag Instances like this: 
 #is_/a_/digital_document
 
-[ #is_/part_of ::  ]
-
 An electronic file or document.
 
 [ #is_/sub_class_of :: [[CreativeWork]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ NoteDigitalDocument, PresentationDigitalDocument, SpreadsheetDigitalDocument, TextDigitalDocument ] ]
 

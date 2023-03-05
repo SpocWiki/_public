@@ -40,15 +40,11 @@ Class of all podiatrics.
 Tag Instances like this: 
 #is_/a_/podiatric
 
-[ #is_/part_of ::  ]
-
 Podiatry is the care of the human foot, especially the diagnosis and treatment of foot disorders.
 
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

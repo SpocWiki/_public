@@ -48,7 +48,5 @@ Content about the real life experience of patients or people that have lived a s
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

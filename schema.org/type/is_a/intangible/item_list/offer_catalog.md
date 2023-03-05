@@ -40,15 +40,9 @@ Class of all offer_catalogs.
 Tag Instances like this: 
 #is_/an_/offer_catalog
 
-[ #is_/part_of ::  ]
-
 An OfferCatalog is an ItemList that contains related Offers and/or further OfferCatalogs that are offeredBy the same provider.
 
 [ #is_/sub_class_of :: [[ItemList]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
 

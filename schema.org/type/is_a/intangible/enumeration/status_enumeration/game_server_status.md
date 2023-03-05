@@ -40,15 +40,9 @@ Class of all game_server_statuss.
 Tag Instances like this: 
 #is_/a_/game_server_status
 
-[ #is_/part_of ::  ]
-
 Status of a game server.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

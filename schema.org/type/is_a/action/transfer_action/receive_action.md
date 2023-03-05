@@ -40,8 +40,6 @@ Class of all receive_actions.
 Tag Instances like this: 
 #is_/a_/receive_action
 
-[ #is_/part_of ::  ]
-
 The act of physically/electronically taking delivery of an object that has been transferred from an origin to a destination. Reciprocal of SendAction.<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -50,10 +48,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[TransferAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, sender, startTime, subjectOf, target, toLocation, url ] ]
 

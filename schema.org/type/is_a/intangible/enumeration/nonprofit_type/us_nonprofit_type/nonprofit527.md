@@ -48,7 +48,5 @@ Nonprofit527: Non-profit type referring to political organizations.
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

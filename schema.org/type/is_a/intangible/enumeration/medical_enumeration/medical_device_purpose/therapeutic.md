@@ -40,15 +40,11 @@ Class of all therapeutics.
 Tag Instances like this: 
 #is_/a_/therapeutic
 
-[ #is_/part_of ::  ]
-
 A medical device used for therapeutic purposes.
 
 [ #is_/sub_class_of :: [[MedicalDevicePurpose]] ]
 
 [ #is_/enum_of :: [[MedicalDevicePurpose]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

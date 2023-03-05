@@ -40,15 +40,9 @@ Class of all music_album_production_types.
 Tag Instances like this: 
 #is_/a_/music_album_production_type
 
-[ #is_/part_of ::  ]
-
 Classification of the album by its type of content: soundtrack, live album, studio album, etc.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

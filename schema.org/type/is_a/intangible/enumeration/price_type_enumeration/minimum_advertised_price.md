@@ -48,7 +48,5 @@ Represents the minimum advertised price ("MAP") (as dictated by the manufacturer
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

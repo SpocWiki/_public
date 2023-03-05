@@ -48,7 +48,5 @@ Content that discusses and explains how a particular health-related topic works,
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

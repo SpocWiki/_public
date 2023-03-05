@@ -40,15 +40,11 @@ Class of all prescription_onlys.
 Tag Instances like this: 
 #is_/a_/prescription_only
 
-[ #is_/part_of ::  ]
-
 Available by prescription only.
 
 [ #is_/sub_class_of :: [[DrugPrescriptionStatus]] ]
 
 [ #is_/enum_of :: [[DrugPrescriptionStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

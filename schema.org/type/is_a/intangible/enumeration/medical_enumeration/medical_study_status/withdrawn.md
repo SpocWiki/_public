@@ -40,15 +40,11 @@ Class of all withdrawns.
 Tag Instances like this: 
 #is_/a_/withdrawn
 
-[ #is_/part_of ::  ]
-
 Withdrawn.
 
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

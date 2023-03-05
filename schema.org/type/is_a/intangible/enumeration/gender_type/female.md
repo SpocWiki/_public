@@ -40,15 +40,11 @@ Class of all females.
 Tag Instances like this: 
 #is_/a_/female
 
-[ #is_/part_of ::  ]
-
 The female gender.
 
 [ #is_/sub_class_of :: [[GenderType]] ]
 
 [ #is_/enum_of :: [[GenderType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

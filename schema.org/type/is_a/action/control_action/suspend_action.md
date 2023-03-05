@@ -40,15 +40,9 @@ Class of all suspend_actions.
 Tag Instances like this: 
 #is_/a_/suspend_action
 
-[ #is_/part_of ::  ]
-
 The act of momentarily pausing a device or application (e.g. pause music playback or pause a timer).
 
 [ #is_/sub_class_of :: [[ControlAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

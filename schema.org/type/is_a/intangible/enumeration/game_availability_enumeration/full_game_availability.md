@@ -48,7 +48,5 @@ Indicates full game availability.
 
 [ #is_/enum_of :: [[GameAvailabilityEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

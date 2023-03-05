@@ -40,15 +40,11 @@ Class of all low_lactose_diets.
 Tag Instances like this: 
 #is_/a_/low_lactose_diet
 
-[ #is_/part_of ::  ]
-
 A diet appropriate for people with lactose intolerance.
 
 [ #is_/sub_class_of :: [[RestrictedDiet]] ]
 
 [ #is_/enum_of :: [[RestrictedDiet]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

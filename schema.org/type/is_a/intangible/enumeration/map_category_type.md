@@ -40,15 +40,9 @@ Class of all map_category_types.
 Tag Instances like this: 
 #is_/a_/map_category_type
 
-[ #is_/part_of ::  ]
-
 An enumeration of several kinds of Map.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

@@ -40,13 +40,9 @@ Class of all medical_sign_or_symptoms.
 Tag Instances like this: 
 #is_/a_/medical_sign_or_symptom
 
-[ #is_/part_of ::  ]
-
 Any feature associated or not with a medical condition. In medicine a symptom is generally subjective while a sign is objective.
 
 [ #is_/sub_class_of :: [[MedicalCondition]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ MedicalSign, MedicalSymptom ] ]
 

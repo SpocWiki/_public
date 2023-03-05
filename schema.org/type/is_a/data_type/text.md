@@ -40,13 +40,9 @@ Class of all texts.
 Tag Instances like this: 
 #is_/a_/text
 
-[ #is_/part_of ::  ]
-
 Data type: Text.
 
 [ #is_/sub_class_of :: [[]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
 

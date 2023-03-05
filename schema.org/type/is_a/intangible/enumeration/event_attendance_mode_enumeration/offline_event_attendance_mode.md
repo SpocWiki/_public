@@ -48,7 +48,5 @@ OfflineEventAttendanceMode - an event that is primarily conducted offline.
 
 [ #is_/enum_of :: [[EventAttendanceModeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

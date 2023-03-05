@@ -40,15 +40,11 @@ Class of all payment_dues.
 Tag Instances like this: 
 #is_/a_/payment_due
 
-[ #is_/part_of ::  ]
-
 The payment is due, but still within an acceptable time to be received.
 
 [ #is_/sub_class_of :: [[PaymentStatusType]] ]
 
 [ #is_/enum_of :: [[PaymentStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

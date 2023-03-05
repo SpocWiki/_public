@@ -40,15 +40,9 @@ Class of all gender_types.
 Tag Instances like this: 
 #is_/a_/gender_type
 
-[ #is_/part_of ::  ]
-
 An enumeration of genders.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

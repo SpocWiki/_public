@@ -40,13 +40,9 @@ Class of all data_types.
 Tag Instances like this: 
 #is_/a_/data_type
 
-[ #is_/part_of ::  ]
-
 The basic data types such as Integers, Strings, etc.
 
 [ #is_/sub_class_of :: [[rdfs:class]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Boolean, Time, DateTime, Date, Text, Number ] ]
 

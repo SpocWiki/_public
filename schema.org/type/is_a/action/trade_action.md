@@ -40,13 +40,9 @@ Class of all trade_actions.
 Tag Instances like this: 
 #is_/a_/trade_action
 
-[ #is_/part_of ::  ]
-
 The act of participating in an exchange of goods and services for monetary compensation. An agent trades an object, product or service with a participant in exchange for a one time or periodic payment.
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ BuyAction, DonateAction, OrderAction, PayAction, PreOrderAction, QuoteAction, RentAction, SellAction, TipAction ] ]
 

@@ -48,7 +48,5 @@ Nonprofit501c12: Non-profit type referring to Benevolent Life Insurance Associat
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

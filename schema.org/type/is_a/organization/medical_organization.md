@@ -40,13 +40,9 @@ Class of all medical_organizations.
 Tag Instances like this: 
 #is_/a_/medical_organization
 
-[ #is_/part_of ::  ]
-
 A medical organization (physical or not), such as hospital, institution or clinic.
 
 [ #is_/sub_class_of :: [[Organization]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Dentist, DiagnosticLab, Hospital, MedicalClinic, Pharmacy, Physician, VeterinaryCare ] ]
 

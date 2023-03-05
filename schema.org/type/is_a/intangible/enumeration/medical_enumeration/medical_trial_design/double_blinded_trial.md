@@ -40,15 +40,11 @@ Class of all double_blinded_trials.
 Tag Instances like this: 
 #is_/a_/double_blinded_trial
 
-[ #is_/part_of ::  ]
-
 A trial design in which neither the researcher nor the patient knows the details of the treatment the patient was randomly assigned to.
 
 [ #is_/sub_class_of :: [[MedicalTrialDesign]] ]
 
 [ #is_/enum_of :: [[MedicalTrialDesign]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

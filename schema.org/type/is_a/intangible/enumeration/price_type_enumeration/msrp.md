@@ -48,7 +48,5 @@ Represents the manufacturer suggested retail price ("MSRP") of an offered produc
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,11 @@ Class of all order_processings.
 Tag Instances like this: 
 #is_/an_/order_processing
 
-[ #is_/part_of ::  ]
-
 OrderStatus representing that an order is being processed.
 
 [ #is_/sub_class_of :: [[OrderStatus]] ]
 
 [ #is_/enum_of :: [[OrderStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

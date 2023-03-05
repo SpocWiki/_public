@@ -40,13 +40,9 @@ Class of all assess_actions.
 Tag Instances like this: 
 #is_/an_/assess_action
 
-[ #is_/part_of ::  ]
-
 The act of forming one's opinion, reaction or sentiment.
 
 [ #is_/sub_class_of :: [[Action]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ ChooseAction, IgnoreAction, ReactAction, ReviewAction ] ]
 

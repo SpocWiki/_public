@@ -40,15 +40,11 @@ Class of all vegetarian_diets.
 Tag Instances like this: 
 #is_/a_/vegetarian_diet
 
-[ #is_/part_of ::  ]
-
 A diet exclusive of animal meat.
 
 [ #is_/sub_class_of :: [[RestrictedDiet]] ]
 
 [ #is_/enum_of :: [[RestrictedDiet]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

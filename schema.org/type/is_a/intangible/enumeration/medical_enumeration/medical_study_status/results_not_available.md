@@ -40,15 +40,11 @@ Class of all results_not_availables.
 Tag Instances like this: 
 #is_/a_/results_not_available
 
-[ #is_/part_of ::  ]
-
 Results are not available.
 
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

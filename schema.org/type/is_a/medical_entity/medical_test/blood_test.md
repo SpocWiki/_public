@@ -40,15 +40,9 @@ Class of all blood_tests.
 Tag Instances like this: 
 #is_/a_/blood_test
 
-[ #is_/part_of ::  ]
-
 A medical test performed on a sample of a patient's blood.
 
 [ #is_/sub_class_of :: [[MedicalTest]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] ]
 

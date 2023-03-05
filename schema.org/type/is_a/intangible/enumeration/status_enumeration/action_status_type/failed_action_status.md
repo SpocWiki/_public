@@ -40,15 +40,11 @@ Class of all failed_action_statuss.
 Tag Instances like this: 
 #is_/a_/failed_action_status
 
-[ #is_/part_of ::  ]
-
 An action that failed to complete. The action's error property and the HTTP return code contain more information about the failure.
 
 [ #is_/sub_class_of :: [[ActionStatusType]] ]
 
 [ #is_/enum_of :: [[ActionStatusType]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

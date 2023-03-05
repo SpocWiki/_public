@@ -48,7 +48,5 @@ All the documents published by an official publisher should have at least the le
 
 [ #is_/enum_of :: [[LegalValueLevel]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

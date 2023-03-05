@@ -40,15 +40,11 @@ Class of all laboratory_sciences.
 Tag Instances like this: 
 #is_/a_/laboratory_science
 
-[ #is_/part_of ::  ]
-
 A medical science pertaining to chemical, hematological, immunologic, microscopic, or bacteriological diagnostic analyses or research.
 
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

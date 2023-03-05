@@ -40,15 +40,9 @@ Class of all digital_document_permissions.
 Tag Instances like this: 
 #is_/a_/digital_document_permission
 
-[ #is_/part_of ::  ]
-
 A permission for a particular person or group to access a particular file.
 
 [ #is_/sub_class_of :: [[Intangible]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ] ]
 

@@ -40,15 +40,9 @@ Class of all drug_cost_categorys.
 Tag Instances like this: 
 #is_/a_/drug_cost_category
 
-[ #is_/part_of ::  ]
-
 Enumerated categories of medical drug costs.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

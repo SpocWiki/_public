@@ -40,13 +40,9 @@ Class of all image_objects.
 Tag Instances like this: 
 #is_/an_/image_object
 
-[ #is_/part_of ::  ]
-
 An image file.
 
 [ #is_/sub_class_of :: [[MediaObject]] ]
-
-[ #is_/enum_of :: [[]] ]
 
 [ #has_/sub_classes :: [ Barcode, ImageObjectSnapshot ] ]
 

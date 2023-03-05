@@ -40,15 +40,9 @@ Class of all medical_trial_designs.
 Tag Instances like this: 
 #is_/a_/medical_trial_design
 
-[ #is_/part_of ::  ]
-
 Design models for medical trials. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

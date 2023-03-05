@@ -48,7 +48,5 @@ A general code for cases where relevance to children is reduced, e.g. adult educ
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
 
-[ #has_/sub_classes :: [  ] ]
-
 [ #has_/properties :: [  ] ]
 

@@ -40,15 +40,11 @@ Class of all reimbursement_caps.
 Tag Instances like this: 
 #is_/a_/reimbursement_cap
 
-[ #is_/part_of ::  ]
-
 The drug's cost represents the maximum reimbursement paid by an insurer for the drug.
 
 [ #is_/sub_class_of :: [[DrugCostCategory]] ]
 
 [ #is_/enum_of :: [[DrugCostCategory]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [  ] ]
 

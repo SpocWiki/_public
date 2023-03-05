@@ -40,8 +40,6 @@ Class of all borrow_actions.
 Tag Instances like this: 
 #is_/a_/borrow_action
 
-[ #is_/part_of ::  ]
-
 The act of obtaining an object under an agreement to return it at a later date. Reciprocal of LendAction.<br/><br/>
 Related actions:<br/><br/>
 <ul>
@@ -49,10 +47,6 @@ Related actions:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[TransferAction]] ]
-
-[ #is_/enum_of :: [[]] ]
-
-[ #has_/sub_classes :: [  ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, lender, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
