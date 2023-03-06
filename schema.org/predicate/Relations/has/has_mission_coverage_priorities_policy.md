@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_mission_coverage_priorities_policy :: CreativeWork, URL ] or 
 - [ has_mission_coverage_priorities_policy :: CreativeWork, URL ] 
 
-For a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/NewsMediaOrganization&quot;&gt;NewsMediaOrganization&lt;/a&gt;, a statement on coverage priorities, including any public agenda or stance on issues.
+For a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt;, a statement on coverage priorities, including any public agenda or stance on issues.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization ]

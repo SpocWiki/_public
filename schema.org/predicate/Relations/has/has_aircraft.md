@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_aircraft :: Text, Vehicle ] or 
 - [ has_aircraft :: Text, Vehicle ] 
 
-The kind of aircraft (e.g., &quot;Boeing 747&quot;).
+The kind of aircraft (e.g., "Boeing 747").
 
 Relation describes that: 
 [ #has_/domain  :: Flight ]

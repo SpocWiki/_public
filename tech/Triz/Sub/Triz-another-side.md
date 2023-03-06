@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22275]
 [TrizPrinciple::[[Triz-Moving_to_a_new_dimension]]]
 
-Use &#x27;another side&#x27; of a given area.
+Use 'another side' of a given area.

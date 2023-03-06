@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_global_location_number :: Text ] or 
 - [ has_text_about_global_location_number :: Text ] 
 
-The &lt;a href&#x3D;&quot;http://www.gs1.org/gln&quot;&gt;Global Location Number&lt;/a&gt; (GLN, sometimes also referred to as International Location Number or ILN) of the respective organization, person, or place. The GLN is a 13-digit number used to identify parties and physical locations.
+The &lt;a href="http://www.gs1.org/gln"&gt;Global Location Number&lt;/a&gt; (GLN, sometimes also referred to as International Location Number or ILN) of the respective organization, person, or place. The GLN is a 13-digit number used to identify parties and physical locations.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person, Place ]

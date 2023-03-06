@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22493]
 [Triz-Principle-Sub::[[Triz-use-waste]]]
 
-Use Heat from a Process to generate Electricity: &#x27;Co-generation&#x27;.
+Use Heat from a Process to generate Electricity: 'Co-generation'.

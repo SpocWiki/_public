@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22430]
 [Triz-Principle-Sub::[[Triz-movable-parts]]]
 
-The &#x27;Butterfly&#x27; Computer Keyboard, (also demonstrates Principle 7, &#x27;Nested Doll&#x27;.
+The 'Butterfly' Computer Keyboard, (also demonstrates Principle 7, 'Nested Doll'.

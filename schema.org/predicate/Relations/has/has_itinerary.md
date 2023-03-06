@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_itinerary :: ItemList, Place ] or 
 - [ has_itinerary :: ItemList, Place ] 
 
-Destination(s) ( &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Place&quot;&gt;Place&lt;/a&gt; ) that make up a trip. For a trip where destination order is important use &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ItemList&quot;&gt;ItemList&lt;/a&gt; to specify that order (see examples).
+Destination(s) ( &lt;a class="localLink" href="/Place"&gt;Place&lt;/a&gt; ) that make up a trip. For a trip where destination order is important use &lt;a class="localLink" href="/ItemList"&gt;ItemList&lt;/a&gt; to specify that order (see examples).
 
 Relation describes that: 
 [ #has_/domain  :: Trip ]

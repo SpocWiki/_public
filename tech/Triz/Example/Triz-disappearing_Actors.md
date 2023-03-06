@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22444]
 [Triz-Principle-Sub::[[Triz-multi-story]]]
 
-Employees &#x27;disappear&#x27; from the Customers in a Theme Park, descend into a Tunnel, and walk to their next Assignment, where they return to the Surface and magically reappear.
+Employees 'disappear' from the Customers in a Theme Park, descend into a Tunnel, and walk to their next Assignment, where they return to the Surface and magically reappear.

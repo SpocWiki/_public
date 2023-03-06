@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_service_type :: GovernmentBenefitsType, Text ] or 
 - [ has_service_type :: GovernmentBenefitsType, Text ] 
 
-The type of service being offered, e.g. veterans&#x27; benefits, emergency relief, etc.
+The type of service being offered, e.g. veterans' benefits, emergency relief, etc.
 
 Relation describes that: 
 [ #has_/domain  :: Service ]

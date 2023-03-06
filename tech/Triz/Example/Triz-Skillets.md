@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22412]
 [Triz-Principle-Sub::[[Triz-limit-changes]]]
 
-&#x27;Skillets&#x27; in an automobile plant that bring all tools to the right position (also demonstrates Principle 10, Preliminary Action)
+'Skillets' in an automobile plant that bring all tools to the right position (also demonstrates Principle 10, Preliminary Action)

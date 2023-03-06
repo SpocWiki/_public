@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_sub_organization :: Organization ] or 
 - [ has_sub_organization :: Organization ] 
 
-A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific &#x27;department&#x27; property.
+A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific 'department' property.
 
 Relation describes that: 
 [ #has_/domain  :: Organization ]

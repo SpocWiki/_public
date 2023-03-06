@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_included_data_catalog :: DataCatalog ] or 
 - [ has_included_data_catalog :: DataCatalog ] 
 
-A data catalog which contains this dataset (this property was previously &#x27;catalog&#x27;, preferred name is now &#x27;includedInDataCatalog&#x27;).
+A data catalog which contains this dataset (this property was previously 'catalog', preferred name is now 'includedInDataCatalog').
 
 Relation describes that: 
 [ #has_/domain  :: Dataset ]

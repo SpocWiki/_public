@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_legislation_transposes :: Legislation ] or 
 - [ has_legislation_transposes :: Legislation ] 
 
-Indicates that this legislation (or part of legislation) fulfills the objectives set by another legislation, by passing appropriate implementation measures. Typically, some legislations of European Union&#x27;s member states or regions transpose European Directives. This indicates a legally binding link between the 2 legislations.
+Indicates that this legislation (or part of legislation) fulfills the objectives set by another legislation, by passing appropriate implementation measures. Typically, some legislations of European Union's member states or regions transpose European Directives. This indicates a legally binding link between the 2 legislations.
 
 Relation describes that: 
 [ #has_/domain  :: Legislation ]

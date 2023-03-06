@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_knows_language :: Language, Text ] or 
 - [ has_knows_language :: Language, Text ] 
 
-Of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Person&quot;&gt;Person&lt;/a&gt;, and less typically of an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Organization&quot;&gt;Organization&lt;/a&gt;, to indicate a known language. We do not distinguish skill levels or reading/writing/speaking/signing here. Use language codes from the &lt;a href&#x3D;&quot;http://tools.ietf.org/html/bcp47&quot;&gt;IETF BCP 47 standard&lt;/a&gt;.
+Of a &lt;a class="localLink" href="/Person"&gt;Person&lt;/a&gt;, and less typically of an &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt;, to indicate a known language. We do not distinguish skill levels or reading/writing/speaking/signing here. Use language codes from the &lt;a href="http://tools.ietf.org/html/bcp47"&gt;IETF BCP 47 standard&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]

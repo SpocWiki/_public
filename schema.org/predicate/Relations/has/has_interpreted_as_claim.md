@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_interpreted_as_claim :: Claim ] or 
 - [ has_interpreted_as_claim :: Claim ] 
 
-Used to indicate a specific claim contained, implied, translated or refined from the content of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaObject&quot;&gt;MediaObject&lt;/a&gt; or other &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/CreativeWork&quot;&gt;CreativeWork&lt;/a&gt;. The interpreting party can be indicated using &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/claimInterpreter&quot;&gt;claimInterpreter&lt;/a&gt;.
+Used to indicate a specific claim contained, implied, translated or refined from the content of a &lt;a class="localLink" href="/MediaObject"&gt;MediaObject&lt;/a&gt; or other &lt;a class="localLink" href="/CreativeWork"&gt;CreativeWork&lt;/a&gt;. The interpreting party can be indicated using &lt;a class="localLink" href="/claimInterpreter"&gt;claimInterpreter&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, MediaObject ]

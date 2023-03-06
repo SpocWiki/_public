@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_sha256 :: Text ] or 
 - [ has_text_about_sha256 :: Text ] 
 
-The &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/SHA-2&quot;&gt;SHA-2&lt;/a&gt; SHA256 hash of the content of the item. For example, a zero-length input has value "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+The &lt;a href="https://en.wikipedia.org/wiki/SHA-2"&gt;SHA-2&lt;/a&gt; SHA256 hash of the content of the item. For example, a zero-length input has value "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 Predicated describes that: 
 [ #has_/domain  :: MediaObject ]

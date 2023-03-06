@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_suggested_gender :: GenderType, Text ] or 
 - [ has_suggested_gender :: GenderType, Text ] 
 
-The suggested gender of the intended person or audience, for example &quot;male&quot;, &quot;female&quot;, or &quot;unisex&quot;.
+The suggested gender of the intended person or audience, for example "male", "female", or "unisex".
 
 Relation describes that: 
 [ #has_/domain  :: PeopleAudience, SizeSpecification ]

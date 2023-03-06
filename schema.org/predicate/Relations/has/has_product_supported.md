@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_product_supported :: Product, Text ] or 
 - [ has_product_supported :: Product, Text ] 
 
-The product or service this support contact point is related to (such as product support for a particular product line). This can be a specific product or product line (e.g. &quot;iPhone&quot;) or a general category of products or services (e.g. &quot;smartphones&quot;).
+The product or service this support contact point is related to (such as product support for a particular product line). This can be a specific product or product line (e.g. "iPhone") or a general category of products or services (e.g. "smartphones").
 
 Relation describes that: 
 [ #has_/domain  :: ContactPoint ]

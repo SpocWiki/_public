@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22244]
 [TrizPrinciple::[[Triz-Local_quality]]]
 
-Change an object&#x27;s structure from uniform to non-uniform, change an external environment (or external influence) from uniform to non-uniform.
+Change an object's structure from uniform to non-uniform, change an external environment (or external influence) from uniform to non-uniform.

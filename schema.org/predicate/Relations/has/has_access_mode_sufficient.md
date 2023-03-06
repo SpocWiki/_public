@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_access_mode_sufficient :: ItemList ] or 
 - [ has_access_mode_sufficient :: ItemList ] 
 
-A list of single or combined accessModes that are sufficient to understand all the intellectual content of a resource. Values should be drawn from the &lt;a href&#x3D;&quot;https://www.w3.org/2021/a11y-discov-vocab/latest/#accessModeSufficient-vocabulary&quot;&gt;approved vocabulary&lt;/a&gt;.
+A list of single or combined accessModes that are sufficient to understand all the intellectual content of a resource. Values should be drawn from the &lt;a href="https://www.w3.org/2021/a11y-discov-vocab/latest/#accessModeSufficient-vocabulary"&gt;approved vocabulary&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]

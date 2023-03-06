@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_object :: Thing ] or 
 - [ has_object :: Thing ] 
 
-The object upon which the action is carried out, whose state is kept intact or changed. Also known as the semantic roles patient, affected or undergoer (which change their state) or theme (which doesn&#x27;t). E.g. John read &lt;em&gt;a book&lt;/em&gt;.
+The object upon which the action is carried out, whose state is kept intact or changed. Also known as the semantic roles patient, affected or undergoer (which change their state) or theme (which doesn't). E.g. John read &lt;em&gt;a book&lt;/em&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: Action ]

@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_credited_to :: Organization, Person ] or 
 - [ has_credited_to :: Organization, Person ] 
 
-The group the release is credited to if different than the byArtist. For example, Red and Blue is credited to &quot;Stefani Germanotta Band&quot;, but by Lady Gaga.
+The group the release is credited to if different than the byArtist. For example, Red and Blue is credited to "Stefani Germanotta Band", but by Lady Gaga.
 
 Relation describes that: 
 [ #has_/domain  :: MusicRelease ]

@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_occupation :: Occupation ] or 
 - [ has_occupation :: Occupation ] 
 
-The Person&#x27;s occupation. For past professions, use Role for expressing dates.
+The Person's occupation. For past professions, use Role for expressing dates.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]

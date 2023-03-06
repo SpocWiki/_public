@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_in_product_group_with_id :: Text ] or 
 - [ has_text_about_in_product_group_with_id :: Text ] 
 
-Indicates the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/productGroupID&quot;&gt;productGroupID&lt;/a&gt; for a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ProductGroup&quot;&gt;ProductGroup&lt;/a&gt; that this product &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/isVariantOf&quot;&gt;isVariantOf&lt;/a&gt;.
+Indicates the &lt;a class="localLink" href="/productGroupID"&gt;productGroupID&lt;/a&gt; for a &lt;a class="localLink" href="/ProductGroup"&gt;ProductGroup&lt;/a&gt; that this product &lt;a class="localLink" href="/isVariantOf"&gt;isVariantOf&lt;/a&gt;.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]

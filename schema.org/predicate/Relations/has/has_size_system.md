@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_size_system :: SizeSystemEnumeration, Text ] or 
 - [ has_size_system :: SizeSystemEnumeration, Text ] 
 
-The size system used to identify a product&#x27;s size. Typically either a standard (for example, &quot;GS1&quot; or &quot;ISO-EN13402&quot;), country code (for example &quot;US&quot; or &quot;JP&quot;), or a measuring system (for example &quot;Metric&quot; or &quot;Imperial&quot;).
+The size system used to identify a product's size. Typically either a standard (for example, "GS1" or "ISO-EN13402"), country code (for example "US" or "JP"), or a measuring system (for example "Metric" or "Imperial").
 
 Relation describes that: 
 [ #has_/domain  :: SizeSpecification ]

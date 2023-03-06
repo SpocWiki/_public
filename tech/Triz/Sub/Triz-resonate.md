@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22278]
 [TrizPrinciple::[[Triz-Mechanical_vibration]]]
 
-Use an object&#x27;s resonant frequency.
+Use an object's resonant frequency.

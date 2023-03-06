@@ -1,0 +1,48 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+
+#Obsidian well-known Keys
+cssclass: Predicate Quantity
+publish: true
+
+# Hugo Tags
+type: Predi_Quantity
+
+title: has_order-quantity
+linkTitle: has_order-quantity
+
+keywords: [order-quantity]
+layout: 
+draft: false
+publishDate:
+expiryDate: 
+
+supersedes: 
+superseded_by: 
+
+tags:
+- schema.org/Predicate/Quantity
+
+aliases:
+- order_quantity
+- order-quantity
+- orderQuantity
+- has_value_for_order_quantity
+---
+
+Predicate to describe the Quantity of OrderItem.
+
+Use it like this: 
+- [ #has_/value/_for_order_quantity :: Number ] or 
+- [ has_value_for_order_quantity :: Number ] 
+
+The number of the item ordered. If the property is not set, assume the quantity is one.
+
+Predicate describes that: 
+[ #has_/domain  :: OrderItem ]
+( #has_/name :: has_value_for_order_quantity )
+( #has_/range :: Number )
+

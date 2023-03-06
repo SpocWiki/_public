@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_funding :: Grant ] or 
 - [ has_funding :: Grant ] 
 
-A &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Grant&quot;&gt;Grant&lt;/a&gt; that directly or indirectly provide funding or sponsorship for this item. See also &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ownershipFundingInfo&quot;&gt;ownershipFundingInfo&lt;/a&gt;.
+A &lt;a class="localLink" href="/Grant"&gt;Grant&lt;/a&gt; that directly or indirectly provide funding or sponsorship for this item. See also &lt;a class="localLink" href="/ownershipFundingInfo"&gt;ownershipFundingInfo&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ]

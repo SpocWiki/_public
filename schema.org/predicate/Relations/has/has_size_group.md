@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_size_group :: SizeGroupEnumeration, Text ] or 
 - [ has_size_group :: SizeGroupEnumeration, Text ] 
 
-The size group (also known as &quot;size type&quot;) for a product&#x27;s size. Size groups are common in the fashion industry to define size segments and suggested audiences for wearable products. Multiple values can be combined, for example &quot;men&#x27;s big and tall&quot;, &quot;petite maternity&quot; or &quot;regular&quot;
+The size group (also known as "size type") for a product's size. Size groups are common in the fashion industry to define size segments and suggested audiences for wearable products. Multiple values can be combined, for example "men's big and tall", "petite maternity" or "regular"
 
 Relation describes that: 
 [ #has_/domain  :: SizeSpecification ]

@@ -13,7 +13,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::-0.1238]
 [geo-lat::51.5308]
-[name::King&#x27;s Cross St. Pancras]
+[name::King's Cross St. Pancras]
 [zone::1]
 [Num_lines::6]
 [switch-to-Rail::1]

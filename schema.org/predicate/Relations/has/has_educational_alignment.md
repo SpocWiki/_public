@@ -35,7 +35,7 @@ Use it like this:
 
 An alignment to an established educational framework.&lt;br/&gt;&lt;br/&gt;
 
-This property should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/teaches&quot;&gt;teaches&lt;/a&gt; or &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/assesses&quot;&gt;assesses&lt;/a&gt; a competency.
+This property should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource &lt;a class="localLink" href="/teaches"&gt;teaches&lt;/a&gt; or &lt;a class="localLink" href="/assesses"&gt;assesses&lt;/a&gt; a competency.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, LearningResource ]

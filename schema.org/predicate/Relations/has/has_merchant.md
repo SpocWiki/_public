@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_merchant :: Organization, Person ] or 
 - [ has_merchant :: Organization, Person ] 
 
-&#x27;merchant&#x27; is an out-dated term for &#x27;seller&#x27;.
+'merchant' is an out-dated term for 'seller'.
 
 Relation describes that: 
 [ #has_/domain  :: Order ]

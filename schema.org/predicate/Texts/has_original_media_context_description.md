@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_original_media_context_description :: Text ] or 
 - [ has_text_about_original_media_context_description :: Text ] 
 
-Describes, in a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaReview&quot;&gt;MediaReview&lt;/a&gt; when dealing with &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/DecontextualizedContent&quot;&gt;DecontextualizedContent&lt;/a&gt;, background information that can contribute to better interpretation of the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaObject&quot;&gt;MediaObject&lt;/a&gt;.
+Describes, in a &lt;a class="localLink" href="/MediaReview"&gt;MediaReview&lt;/a&gt; when dealing with &lt;a class="localLink" href="/DecontextualizedContent"&gt;DecontextualizedContent&lt;/a&gt;, background information that can contribute to better interpretation of the &lt;a class="localLink" href="/MediaObject"&gt;MediaObject&lt;/a&gt;.
 
 Predicated describes that: 
 [ #has_/domain  :: MediaReview ]

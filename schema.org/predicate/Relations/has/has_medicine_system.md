@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_medicine_system :: MedicineSystem ] or 
 - [ has_medicine_system :: MedicineSystem ] 
 
-The system of medicine that includes this MedicalEntity, for example &#x27;evidence-based&#x27;, &#x27;homeopathic&#x27;, &#x27;chiropractic&#x27;, etc.
+The system of medicine that includes this MedicalEntity, for example 'evidence-based', 'homeopathic', 'chiropractic', etc.
 
 Relation describes that: 
 [ #has_/domain  :: MedicalEntity ]

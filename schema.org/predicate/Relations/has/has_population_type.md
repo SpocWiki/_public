@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_population_type :: Class ] or 
 - [ has_population_type :: Class ] 
 
-Indicates the populationType common to all members of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/StatisticalPopulation&quot;&gt;StatisticalPopulation&lt;/a&gt;.
+Indicates the populationType common to all members of a &lt;a class="localLink" href="/StatisticalPopulation"&gt;StatisticalPopulation&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: StatisticalPopulation ]

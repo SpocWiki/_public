@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_asin :: Text, URL ] or 
 - [ has_text_about_asin :: Text, URL ] 
 
-An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization (summary from &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number&quot;&gt;Wikipedia&lt;/a&gt;"s article).&lt;br/&gt;&lt;br/&gt;
+An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization (summary from &lt;a href="https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number"&gt;Wikipedia&lt;/a&gt;"s article).&lt;br/&gt;&lt;br/&gt;
 
 Note also that this is a definition for how to include ASINs in Schema.org data, and not a definition of ASINs in general - see documentation from Amazon for authoritative details.
 ASINs are most commonly encoded as text strings, but the [asin] property supports URL/URI as potential values too.

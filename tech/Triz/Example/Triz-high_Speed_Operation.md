@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22468]
 [Triz-Principle-Sub::[[Triz-high-speed]]]
 
-Use a high Speed Dentist&#x27;s Drill to avoid Heating Tissue.
+Use a high Speed Dentist's Drill to avoid Heating Tissue.

@@ -18,4 +18,4 @@ confidential: public
 [switch-to-SPNV::Straßenbahn]
 [switch-to-ÖPNV::-]
 
-Der Bahnhof liegt in großer Tiefe unter einer Tiefgarage. Diese Station hieß bis ca. 2002 nur &quot;Römer&quot;.
+Der Bahnhof liegt in großer Tiefe unter einer Tiefgarage. Diese Station hieß bis ca. 2002 nur "Römer".

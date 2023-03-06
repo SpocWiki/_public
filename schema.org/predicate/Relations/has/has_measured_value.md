@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_measured_value :: DataType ] or 
 - [ has_measured_value :: DataType ] 
 
-The measuredValue of an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Observation&quot;&gt;Observation&lt;/a&gt;.
+The measuredValue of an &lt;a class="localLink" href="/Observation"&gt;Observation&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: Observation ]

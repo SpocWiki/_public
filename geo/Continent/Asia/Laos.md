@@ -12,7 +12,7 @@ confidential: public
 [ISO2::LA]
 [ISO3::LAO]
 [name-en::Laos]
-[name-de::Lao People&#x27;s Democratic Republic]
+[name-de::Lao People's Democratic Republic]
 [Area-Total::236800]
 [Area-Land::230800]
 [Continent::[[Asia]]]

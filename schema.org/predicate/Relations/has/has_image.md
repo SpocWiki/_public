@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_image :: ImageObject, URL ] or 
 - [ has_image :: ImageObject, URL ] 
 
-An image of the item. This can be a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/URL&quot;&gt;URL&lt;/a&gt; or a fully described &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ImageObject&quot;&gt;ImageObject&lt;/a&gt;.
+An image of the item. This can be a &lt;a class="localLink" href="/URL"&gt;URL&lt;/a&gt; or a fully described &lt;a class="localLink" href="/ImageObject"&gt;ImageObject&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: Thing ]

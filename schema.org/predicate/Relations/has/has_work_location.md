@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_work_location :: ContactPoint, Place ] or 
 - [ has_work_location :: ContactPoint, Place ] 
 
-A contact location for a person&#x27;s place of work.
+A contact location for a person's place of work.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]

@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_branch :: AnatomicalStructure ] or 
 - [ has_branch :: AnatomicalStructure ] 
 
-The branches that delineate from the nerve bundle. Not to be confused with &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/branchOf&quot;&gt;branchOf&lt;/a&gt;.
+The branches that delineate from the nerve bundle. Not to be confused with &lt;a class="localLink" href="/branchOf"&gt;branchOf&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: Nerve ]

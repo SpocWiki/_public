@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_blog_posts :: BlogPosting ] or 
 - [ has_blog_posts :: BlogPosting ] 
 
-Indicates a post that is part of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Blog&quot;&gt;Blog&lt;/a&gt;. Note that historically, what we term a &quot;Blog&quot; was once known as a &quot;weblog&quot;, and that what we term a &quot;BlogPosting&quot; is now often colloquially referred to as a &quot;blog&quot;.
+Indicates a post that is part of a &lt;a class="localLink" href="/Blog"&gt;Blog&lt;/a&gt;. Note that historically, what we term a "Blog" was once known as a "weblog", and that what we term a "BlogPosting" is now often colloquially referred to as a "blog".
 
 Relation describes that: 
 [ #has_/domain  :: Blog ]

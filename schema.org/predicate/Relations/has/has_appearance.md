@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_appearance :: CreativeWork ] or 
 - [ has_appearance :: CreativeWork ] 
 
-Indicates an occurrence of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Claim&quot;&gt;Claim&lt;/a&gt; in some &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/CreativeWork&quot;&gt;CreativeWork&lt;/a&gt;.
+Indicates an occurrence of a &lt;a class="localLink" href="/Claim"&gt;Claim&lt;/a&gt; in some &lt;a class="localLink" href="/CreativeWork"&gt;CreativeWork&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: Claim ]

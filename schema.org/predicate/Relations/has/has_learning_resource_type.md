@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_learning_resource_type :: DefinedTerm, Text ] or 
 - [ has_learning_resource_type :: DefinedTerm, Text ] 
 
-The predominant type or kind characterizing the learning resource. For example, &#x27;presentation&#x27;, &#x27;handout&#x27;.
+The predominant type or kind characterizing the learning resource. For example, 'presentation', 'handout'.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, LearningResource ]

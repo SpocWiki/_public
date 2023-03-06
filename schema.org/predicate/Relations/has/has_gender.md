@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_gender :: GenderType, Text ] or 
 - [ has_gender :: GenderType, Text ] 
 
-Gender of something, typically a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Person&quot;&gt;Person&lt;/a&gt;, but possibly also fictional characters, animals, etc. While Male and Female may be used, text strings are also acceptable for people who do not identify as a binary gender. The &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/gender&quot;&gt;gender&lt;/a&gt; property can also be used in an extended sense to cover e.g. the gender of sports teams. As with the gender of individuals, we do not try to enumerate all possibilities. A mixed-gender &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/SportsTeam&quot;&gt;SportsTeam&lt;/a&gt; can be indicated with a text value of &quot;Mixed&quot;.
+Gender of something, typically a &lt;a class="localLink" href="/Person"&gt;Person&lt;/a&gt;, but possibly also fictional characters, animals, etc. While Male and Female may be used, text strings are also acceptable for people who do not identify as a binary gender. The &lt;a class="localLink" href="/gender"&gt;gender&lt;/a&gt; property can also be used in an extended sense to cover e.g. the gender of sports teams. As with the gender of individuals, we do not try to enumerate all possibilities. A mixed-gender &lt;a class="localLink" href="/SportsTeam"&gt;SportsTeam&lt;/a&gt; can be indicated with a text value of "Mixed".
 
 Relation describes that: 
 [ #has_/domain  :: Person, SportsTeam ]

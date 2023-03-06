@@ -35,9 +35,9 @@ Use it like this:
 - [ #has/_positive_notes :: ItemList, ListItem, Text, WebContent ] or 
 - [ has_positive_notes :: ItemList, ListItem, Text, WebContent ] 
 
-Provides positive considerations regarding something, for example product highlights or (alongside &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/negativeNotes&quot;&gt;negativeNotes&lt;/a&gt;) pro/con lists for reviews.&lt;br/&gt;&lt;br/&gt;
+Provides positive considerations regarding something, for example product highlights or (alongside &lt;a class="localLink" href="/negativeNotes"&gt;negativeNotes&lt;/a&gt;) pro/con lists for reviews.&lt;br/&gt;&lt;br/&gt;
 
-In the case of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Review&quot;&gt;Review&lt;/a&gt;, the property describes the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/itemReviewed&quot;&gt;itemReviewed&lt;/a&gt; from the perspective of the review; in the case of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Product&quot;&gt;Product&lt;/a&gt;, the product itself is being described.&lt;br/&gt;&lt;br/&gt;
+In the case of a &lt;a class="localLink" href="/Review"&gt;Review&lt;/a&gt;, the property describes the &lt;a class="localLink" href="/itemReviewed"&gt;itemReviewed&lt;/a&gt; from the perspective of the review; in the case of a &lt;a class="localLink" href="/Product"&gt;Product&lt;/a&gt;, the product itself is being described.&lt;br/&gt;&lt;br/&gt;
 
 The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most positive is at the beginning of the list).
 

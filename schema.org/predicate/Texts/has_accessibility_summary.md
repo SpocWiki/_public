@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_accessibility_summary :: Text ] or 
 - [ has_text_about_accessibility_summary :: Text ] 
 
-A human-readable summary of specific accessibility features or deficiencies, consistent with the other accessibility metadata but expressing subtleties such as &quot;short descriptions are present but long descriptions will be needed for non-visual users&quot; or &quot;short descriptions are present and no long descriptions are needed.&quot;
+A human-readable summary of specific accessibility features or deficiencies, consistent with the other accessibility metadata but expressing subtleties such as "short descriptions are present but long descriptions will be needed for non-visual users" or "short descriptions are present and no long descriptions are needed."
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]

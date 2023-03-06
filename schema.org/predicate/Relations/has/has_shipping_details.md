@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_shipping_details :: OfferShippingDetails ] or 
 - [ has_shipping_details :: OfferShippingDetails ] 
 
-Indicates information about the shipping policies and options associated with an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Offer&quot;&gt;Offer&lt;/a&gt;.
+Indicates information about the shipping policies and options associated with an &lt;a class="localLink" href="/Offer"&gt;Offer&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: Offer ]

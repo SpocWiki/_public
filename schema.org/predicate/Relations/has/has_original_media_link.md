@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_original_media_link :: MediaObject, URL, WebPage ] or 
 - [ has_original_media_link :: MediaObject, URL, WebPage ] 
 
-Link to the page containing an original version of the content, or directly to an online copy of the original &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaObject&quot;&gt;MediaObject&lt;/a&gt; content, e.g. video file.
+Link to the page containing an original version of the content, or directly to an online copy of the original &lt;a class="localLink" href="/MediaObject"&gt;MediaObject&lt;/a&gt; content, e.g. video file.
 
 Relation describes that: 
 [ #has_/domain  :: MediaReview ]

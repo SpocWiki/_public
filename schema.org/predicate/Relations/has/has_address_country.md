@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_address_country :: Country, Text ] or 
 - [ has_address_country :: Country, Text ] 
 
-The country. For example, USA. You can also provide the two-letter &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/ISO_3166-1&quot;&gt;ISO 3166-1 alpha-2 country code&lt;/a&gt;.
+The country. For example, USA. You can also provide the two-letter &lt;a href="http://en.wikipedia.org/wiki/ISO_3166-1"&gt;ISO 3166-1 alpha-2 country code&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress ]

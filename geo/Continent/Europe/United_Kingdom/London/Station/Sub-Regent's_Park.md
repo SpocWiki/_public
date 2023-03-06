@@ -13,7 +13,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::-0.1466]
 [geo-lat::51.5234]
-[name::Regent&#x27;s Park]
+[name::Regent's Park]
 [zone::1]
 [Num_lines::1]
 [switch-to-Rail::0]

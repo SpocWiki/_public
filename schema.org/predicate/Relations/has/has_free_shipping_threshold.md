@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_free_shipping_threshold :: DeliveryChargeSpecification, MonetaryAmount ] or 
 - [ has_free_shipping_threshold :: DeliveryChargeSpecification, MonetaryAmount ] 
 
-A monetary value above (or at) which the shipping rate becomes free. Intended to be used via an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/OfferShippingDetails&quot;&gt;OfferShippingDetails&lt;/a&gt; with &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/shippingSettingsLink&quot;&gt;shippingSettingsLink&lt;/a&gt; matching this &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ShippingRateSettings&quot;&gt;ShippingRateSettings&lt;/a&gt;.
+A monetary value above (or at) which the shipping rate becomes free. Intended to be used via an &lt;a class="localLink" href="/OfferShippingDetails"&gt;OfferShippingDetails&lt;/a&gt; with &lt;a class="localLink" href="/shippingSettingsLink"&gt;shippingSettingsLink&lt;/a&gt; matching this &lt;a class="localLink" href="/ShippingRateSettings"&gt;ShippingRateSettings&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: ShippingRateSettings ]

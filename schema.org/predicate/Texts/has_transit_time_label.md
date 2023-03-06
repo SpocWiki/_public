@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_transit_time_label :: Text ] or 
 - [ has_text_about_transit_time_label :: Text ] 
 
-Label to match an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/OfferShippingDetails&quot;&gt;OfferShippingDetails&lt;/a&gt; with a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/DeliveryTimeSettings&quot;&gt;DeliveryTimeSettings&lt;/a&gt; (within the context of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/shippingSettingsLink&quot;&gt;shippingSettingsLink&lt;/a&gt; cross-reference).
+Label to match an &lt;a class="localLink" href="/OfferShippingDetails"&gt;OfferShippingDetails&lt;/a&gt; with a &lt;a class="localLink" href="/DeliveryTimeSettings"&gt;DeliveryTimeSettings&lt;/a&gt; (within the context of a &lt;a class="localLink" href="/shippingSettingsLink"&gt;shippingSettingsLink&lt;/a&gt; cross-reference).
 
 Predicated describes that: 
 [ #has_/domain  :: DeliveryTimeSettings, OfferShippingDetails ]

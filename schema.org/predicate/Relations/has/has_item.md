@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_item :: Thing ] or 
 - [ has_item :: Thing ] 
 
-An entity represented by an entry in a list or data feed (e.g. an &#x27;artist&#x27; in a list of &#x27;artists&#x27;).
+An entity represented by an entry in a list or data feed (e.g. an 'artist' in a list of 'artists').
 
 Relation describes that: 
 [ #has_/domain  :: DataFeedItem, ListItem ]

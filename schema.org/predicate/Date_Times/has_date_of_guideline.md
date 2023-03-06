@@ -37,7 +37,7 @@ Use it like this:
 - [has_date_of_guideline::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_of_guideline::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-Date on which this guideline&#x27;s recommendation was made.
+Date on which this guideline's recommendation was made.
 
 Formal Predicate: 
 [domain::MedicalGuideline]

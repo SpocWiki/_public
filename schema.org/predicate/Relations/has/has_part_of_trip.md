@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_part_of_trip :: Trip ] or 
 - [ has_part_of_trip :: Trip ] 
 
-Identifies that this &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Trip&quot;&gt;Trip&lt;/a&gt; is a subTrip of another Trip.  For example Day 1, Day 2, etc. of a multi-day trip.
+Identifies that this &lt;a class="localLink" href="/Trip"&gt;Trip&lt;/a&gt; is a subTrip of another Trip.  For example Day 1, Day 2, etc. of a multi-day trip.
 
 Relation describes that: 
 [ #has_/domain  :: Trip ]

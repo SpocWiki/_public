@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_product_id :: Text ] or 
 - [ has_text_about_product_id :: Text ] 
 
-The product identifier, such as ISBN. For example: &lt;code&gt;meta itemprop&#x3D;&quot;productID&quot; content&#x3D;&quot;isbn:123-456-789&quot;&lt;/code&gt;.
+The product identifier, such as ISBN. For example: &lt;code&gt;meta itemprop="productID" content="isbn:123-456-789"&lt;/code&gt;.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]

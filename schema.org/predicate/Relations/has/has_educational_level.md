@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_educational_level :: DefinedTerm, Text, URL ] or 
 - [ has_educational_level :: DefinedTerm, Text, URL ] 
 
-The level in terms of progression through an educational or training context. Examples of educational levels include &#x27;beginner&#x27;, &#x27;intermediate&#x27; or &#x27;advanced&#x27;, and formal sets of level indicators.
+The level in terms of progression through an educational or training context. Examples of educational levels include 'beginner', 'intermediate' or 'advanced', and formal sets of level indicators.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, EducationEvent, EducationalOccupationalCredential, LearningResource ]

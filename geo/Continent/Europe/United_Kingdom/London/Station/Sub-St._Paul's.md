@@ -13,7 +13,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::-0.0973]
 [geo-lat::51.5146]
-[name::St. Paul&#x27;s]
+[name::St. Paul's]
 [zone::1]
 [Num_lines::1]
 [switch-to-Rail::0]

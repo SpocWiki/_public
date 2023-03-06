@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_energy_consumption_details :: EnergyConsumptionDetails ] or 
 - [ has_energy_consumption_details :: EnergyConsumptionDetails ] 
 
-Defines the energy efficiency Category (also known as &quot;class&quot; or &quot;rating&quot;) for a product according to an international energy efficiency standard.
+Defines the energy efficiency Category (also known as "class" or "rating") for a product according to an international energy efficiency standard.
 
 Relation describes that: 
 [ #has_/domain  :: Product ]

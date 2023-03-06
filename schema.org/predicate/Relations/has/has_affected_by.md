@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_affected_by :: Drug ] or 
 - [ has_affected_by :: Drug ] 
 
-Drugs that affect the test&#x27;s results.
+Drugs that affect the test's results.
 
 Relation describes that: 
 [ #has_/domain  :: MedicalTest ]

@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_utterances :: Text ] or 
 - [ has_text_about_utterances :: Text ] 
 
-Text of an utterances (spoken words, lyrics etc.) that occurs at a certain section of a media object, represented as a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/HyperTocEntry&quot;&gt;HyperTocEntry&lt;/a&gt;.
+Text of an utterances (spoken words, lyrics etc.) that occurs at a certain section of a media object, represented as a &lt;a class="localLink" href="/HyperTocEntry"&gt;HyperTocEntry&lt;/a&gt;.
 
 Predicated describes that: 
 [ #has_/domain  :: HyperTocEntry ]

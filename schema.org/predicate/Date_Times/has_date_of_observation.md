@@ -37,7 +37,7 @@ Use it like this:
 - [has_date_of_observation::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_of_observation::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-The observationDate of an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Observation&quot;&gt;Observation&lt;/a&gt;.
+The observationDate of an &lt;a class="localLink" href="/Observation"&gt;Observation&lt;/a&gt;.
 
 Formal Predicate: 
 [domain::Observation]

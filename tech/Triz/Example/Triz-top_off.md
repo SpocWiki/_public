@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22436]
 [Triz-Principle-Sub::[[Triz-accept-less]]]
 
-Fill, then &#x27;top off&#x27; when filling the Gas Tank of your Car or a hot Water Bottle.
+Fill, then 'top off' when filling the Gas Tank of your Car or a hot Water Bottle.

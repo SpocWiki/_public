@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_educational_use :: DefinedTerm, Text ] or 
 - [ has_educational_use :: DefinedTerm, Text ] 
 
-The purpose of a work in the context of education; for example, &#x27;assignment&#x27;, &#x27;group work&#x27;.
+The purpose of a work in the context of education; for example, 'assignment', 'group work'.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, LearningResource ]

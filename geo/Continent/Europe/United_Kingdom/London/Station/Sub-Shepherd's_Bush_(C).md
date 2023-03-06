@@ -13,7 +13,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::-0.2187]
 [geo-lat::51.5046]
-[name::Shepherd&#x27;s Bush (C)]
+[name::Shepherd's Bush (C)]
 [zone::2]
 [Num_lines::1]
 [switch-to-Rail::0]

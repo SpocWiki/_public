@@ -13,7 +13,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::-0.1335]
 [geo-lat::51.4994]
-[name::St. James&#x27;s Park]
+[name::St. James's Park]
 [zone::1]
 [Num_lines::2]
 [switch-to-Rail::0]

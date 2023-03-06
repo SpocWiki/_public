@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_pattern :: DefinedTerm, Text ] or 
 - [ has_pattern :: DefinedTerm, Text ] 
 
-A pattern that something has, for example &#x27;polka dot&#x27;, &#x27;striped&#x27;, &#x27;Canadian flag&#x27;. Values are typically expressed as text, although links to controlled value schemes are also supported.
+A pattern that something has, for example 'polka dot', 'striped', 'Canadian flag'. Values are typically expressed as text, although links to controlled value schemes are also supported.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, Product ]

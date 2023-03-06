@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22170]
 [TrizParameterId::13]
 
-Stability of the object&#x27;s composition
+Stability of the object's composition

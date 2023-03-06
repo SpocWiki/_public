@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22264]
 [TrizPrinciple::[[Triz-Inversion]]]
 
-Turn the object (or process) &#x27;upside down&#x27;.
+Turn the object (or process) 'upside down'.

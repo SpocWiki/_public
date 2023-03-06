@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_uses_health_plan_id_standard :: Text, URL ] or 
 - [ has_text_about_uses_health_plan_id_standard :: Text, URL ] 
 
-The standard for interpreting the Plan ID. The preferred is &quot;HIOS&quot;. See the Centers for Medicare &amp;amp; Medicaid Services for more details.
+The standard for interpreting the Plan ID. The preferred is "HIOS". See the Centers for Medicare &amp;amp; Medicaid Services for more details.
 
 Predicated describes that: 
 [ #has_/domain  :: HealthInsurancePlan ]

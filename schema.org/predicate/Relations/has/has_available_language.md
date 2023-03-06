@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_available_language :: Language, Text ] or 
 - [ has_available_language :: Language, Text ] 
 
-A language someone may use with or at the item, service or place. Please use one of the language codes from the &lt;a href&#x3D;&quot;http://tools.ietf.org/html/bcp47&quot;&gt;IETF BCP 47 standard&lt;/a&gt;. See also &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/inLanguage&quot;&gt;inLanguage&lt;/a&gt;.
+A language someone may use with or at the item, service or place. Please use one of the language codes from the &lt;a href="http://tools.ietf.org/html/bcp47"&gt;IETF BCP 47 standard&lt;/a&gt;. See also &lt;a class="localLink" href="/inLanguage"&gt;inLanguage&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: ContactPoint, LodgingBusiness, ServiceChannel, TouristAttraction ]

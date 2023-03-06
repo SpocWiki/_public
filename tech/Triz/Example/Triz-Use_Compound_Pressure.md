@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22488]
 [Triz-Principle-Sub::[[Triz-add-functions]]]
 
-A Soda Fountain Pump that runs on the Pressure of the Carbon Dioxide that is used to &#x27;fizz&#x27; the Drinks. This assures that Drinks will not be flat, and eliminates the need for Sensors.
+A Soda Fountain Pump that runs on the Pressure of the Carbon Dioxide that is used to 'fizz' the Drinks. This assures that Drinks will not be flat, and eliminates the need for Sensors.

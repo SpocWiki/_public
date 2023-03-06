@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_legislation_type :: CategoryCode, Text ] or 
 - [ has_legislation_type :: CategoryCode, Text ] 
 
-The type of the legislation. Examples of values are &quot;law&quot;, &quot;act&quot;, &quot;directive&quot;, &quot;decree&quot;, &quot;regulation&quot;, &quot;statutory instrument&quot;, &quot;loi organique&quot;, &quot;r�glement grand-ducal&quot;, etc., depending on the country.
+The type of the legislation. Examples of values are "law", "act", "directive", "decree", "regulation", "statutory instrument", "loi organique", "r�glement grand-ducal", etc., depending on the country.
 
 Relation describes that: 
 [ #has_/domain  :: Legislation ]

@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_cvd_facility_id :: Text ] or 
 - [ has_text_about_cvd_facility_id :: Text ] 
 
-Identifier of the NHSN facility that this data record applies to. Use &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/cvdFacilityCounty&quot;&gt;cvdFacilityCounty&lt;/a&gt; to indicate the county. To provide other details, &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/healthcareReportingData&quot;&gt;healthcareReportingData&lt;/a&gt; can be used on a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Hospital&quot;&gt;Hospital&lt;/a&gt; entry.
+Identifier of the NHSN facility that this data record applies to. Use &lt;a class="localLink" href="/cvdFacilityCounty"&gt;cvdFacilityCounty&lt;/a&gt; to indicate the county. To provide other details, &lt;a class="localLink" href="/healthcareReportingData"&gt;healthcareReportingData&lt;/a&gt; can be used on a &lt;a class="localLink" href="/Hospital"&gt;Hospital&lt;/a&gt; entry.
 
 Predicated describes that: 
 [ #has_/domain  :: CDCPMDRecord ]

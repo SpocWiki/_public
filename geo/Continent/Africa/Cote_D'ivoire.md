@@ -11,7 +11,7 @@ confidential: public
 ---
 [ISO2::CI]
 [ISO3::CIV]
-[name-en::Cote D&#x27;ivoire]
+[name-en::Cote D'ivoire]
 [name-de::Elfenbeinküste]
 [Area-Total::322462]
 [Area-Land::318000]

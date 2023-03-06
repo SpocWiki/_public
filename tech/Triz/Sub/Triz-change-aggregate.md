@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22316]
 [TrizPrinciple::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
 
-Change an Object&#x27;s aggregate State(e.g. to a Gas, Liquid, or Solid).
+Change an Object's aggregate State(e.g. to a Gas, Liquid, or Solid).

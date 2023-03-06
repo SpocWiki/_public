@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_address_region :: Text ] or 
 - [ has_text_about_address_region :: Text ] 
 
-The region in which the locality is, and which is in the country. For example, California or another appropriate first-level &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country&quot;&gt;Administrative division&lt;/a&gt;.
+The region in which the locality is, and which is in the country. For example, California or another appropriate first-level &lt;a href="https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country"&gt;Administrative division&lt;/a&gt;.
 
 Predicated describes that: 
 [ #has_/domain  :: DefinedRegion, PostalAddress ]

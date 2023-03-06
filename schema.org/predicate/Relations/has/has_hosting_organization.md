@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_hosting_organization :: Organization ] or 
 - [ has_hosting_organization :: Organization ] 
 
-The organization (airline, travelers&#x27; club, etc.) the membership is made with.
+The organization (airline, travelers' club, etc.) the membership is made with.
 
 Relation describes that: 
 [ #has_/domain  :: ProgramMembership ]

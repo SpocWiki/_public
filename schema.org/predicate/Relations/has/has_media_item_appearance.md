@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_media_item_appearance :: MediaObject ] or 
 - [ has_media_item_appearance :: MediaObject ] 
 
-In the context of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaReview&quot;&gt;MediaReview&lt;/a&gt;, indicates specific media item(s) that are grouped using a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaReviewItem&quot;&gt;MediaReviewItem&lt;/a&gt;.
+In the context of a &lt;a class="localLink" href="/MediaReview"&gt;MediaReview&lt;/a&gt;, indicates specific media item(s) that are grouped using a &lt;a class="localLink" href="/MediaReviewItem"&gt;MediaReviewItem&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: MediaReviewItem ]

@@ -36,7 +36,7 @@ Use it like this:
 - [ has_sd_publisher :: Organization, Person ] 
 
 Indicates the party responsible for generating and publishing the current structured data markup, typically in cases where the structured data is derived automatically from existing published content but published on a different site. For example, student projects and open data initiatives often re-publish existing content with more explicitly structured metadata. The
-&lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/sdPublisher&quot;&gt;sdPublisher&lt;/a&gt; property helps make such practices more explicit.
+&lt;a class="localLink" href="/sdPublisher"&gt;sdPublisher&lt;/a&gt; property helps make such practices more explicit.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]

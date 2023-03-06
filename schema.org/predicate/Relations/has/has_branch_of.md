@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_branch_of :: Organization ] or 
 - [ has_branch_of :: Organization ] 
 
-The larger organization that this local business is a branch of, if any. Not to be confused with (anatomical) &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/branch&quot;&gt;branch&lt;/a&gt;.
+The larger organization that this local business is a branch of, if any. Not to be confused with (anatomical) &lt;a class="localLink" href="/branch"&gt;branch&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: LocalBusiness ]

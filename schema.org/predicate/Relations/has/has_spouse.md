@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_spouse :: Person ] or 
 - [ has_spouse :: Person ] 
 
-The person&#x27;s spouse.
+The person's spouse.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]

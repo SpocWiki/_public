@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_legal_status :: DrugLegalStatus, MedicalEnumeration, Text ] or 
 - [ has_legal_status :: DrugLegalStatus, MedicalEnumeration, Text ] 
 
-The drug or supplement&#x27;s legal status, including any controlled substance schedules that apply.
+The drug or supplement's legal status, including any controlled substance schedules that apply.
 
 Relation describes that: 
 [ #has_/domain  :: DietarySupplement, Drug, MedicalEntity ]

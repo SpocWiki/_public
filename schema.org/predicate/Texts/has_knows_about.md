@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_knows_about :: Text, Thing, URL ] or 
 - [ has_text_about_knows_about :: Text, Thing, URL ] 
 
-Of a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Person&quot;&gt;Person&lt;/a&gt;, and less typically of an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Organization&quot;&gt;Organization&lt;/a&gt;, to indicate a topic that is known about - suggesting possible expertise but not implying it. We do not distinguish skill levels here, or relate this to educational content, events, objectives or &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/JobPosting&quot;&gt;JobPosting&lt;/a&gt; descriptions.
+Of a &lt;a class="localLink" href="/Person"&gt;Person&lt;/a&gt;, and less typically of an &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt;, to indicate a topic that is known about - suggesting possible expertise but not implying it. We do not distinguish skill levels here, or relate this to educational content, events, objectives or &lt;a class="localLink" href="/JobPosting"&gt;JobPosting&lt;/a&gt; descriptions.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]

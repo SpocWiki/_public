@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_gtin8 :: Text ] or 
 - [ has_text_about_gtin8 :: Text ] 
 
-The GTIN-8 code of the product, or the product to which the offer refers. This code is also known as EAN/UCC-8 or 8-digit EAN. See &lt;a href&#x3D;&quot;http://www.gs1.org/barcodes/technical/idkeys/gtin&quot;&gt;GS1 GTIN Summary&lt;/a&gt; for more details.
+The GTIN-8 code of the product, or the product to which the offer refers. This code is also known as EAN/UCC-8 or 8-digit EAN. See &lt;a href="http://www.gs1.org/barcodes/technical/idkeys/gtin"&gt;GS1 GTIN Summary&lt;/a&gt; for more details.
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]

@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_legislation_passed_by :: Organization, Person ] or 
 - [ has_legislation_passed_by :: Organization, Person ] 
 
-The person or organization that originally passed or made the law: typically parliament (for primary legislation) or government (for secondary legislation). This indicates the &quot;legal author&quot; of the law, as opposed to its physical author.
+The person or organization that originally passed or made the law: typically parliament (for primary legislation) or government (for secondary legislation). This indicates the "legal author" of the law, as opposed to its physical author.
 
 Relation describes that: 
 [ #has_/domain  :: Legislation ]

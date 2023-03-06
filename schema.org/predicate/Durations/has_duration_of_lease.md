@@ -37,7 +37,7 @@ Use it like this:
 - [has_duration_of_lease::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration/_of_lease::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
-Length of the lease for some &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Accommodation&quot;&gt;Accommodation&lt;/a&gt;, either particular to some &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Offer&quot;&gt;Offer&lt;/a&gt; or in some cases intrinsic to the property.
+Length of the lease for some &lt;a class="localLink" href="/Accommodation"&gt;Accommodation&lt;/a&gt;, either particular to some &lt;a class="localLink" href="/Offer"&gt;Offer&lt;/a&gt; or in some cases intrinsic to the property.
 
 Formal Predicate: 
 [domain::Accommodation, Offer, RealEstateListing]

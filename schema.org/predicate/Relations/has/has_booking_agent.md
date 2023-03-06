@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_booking_agent :: Organization, Person ] or 
 - [ has_booking_agent :: Organization, Person ] 
 
-&#x27;bookingAgent&#x27; is an out-dated term indicating a &#x27;broker&#x27; that serves as a booking agent.
+'bookingAgent' is an out-dated term indicating a 'broker' that serves as a booking agent.
 
 Relation describes that: 
 [ #has_/domain  :: Reservation ]

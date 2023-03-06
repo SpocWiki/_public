@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_accessibility_api :: Text ] or 
 - [ has_text_about_accessibility_api :: Text ] 
 
-Indicates that the resource is compatible with the referenced accessibility API. Values should be drawn from the &lt;a href&#x3D;&quot;https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityAPI-vocabulary&quot;&gt;approved vocabulary&lt;/a&gt;.
+Indicates that the resource is compatible with the referenced accessibility API. Values should be drawn from the &lt;a href="https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityAPI-vocabulary"&gt;approved vocabulary&lt;/a&gt;.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]

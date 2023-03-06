@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_identifier :: PropertyValue, Text, URL ] or 
 - [ has_identifier :: PropertyValue, Text, URL ] 
 
-The identifier property represents any kind of identifier for any kind of &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Thing&quot;&gt;Thing&lt;/a&gt;, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See &lt;a href&#x3D;&quot;/docs/datamodel.html#identifierBg&quot;&gt;background notes&lt;/a&gt; for more details.
+The identifier property represents any kind of identifier for any kind of &lt;a class="localLink" href="/Thing"&gt;Thing&lt;/a&gt;, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See &lt;a href="/docs/datamodel.html#identifierBg"&gt;background notes&lt;/a&gt; for more details.
 
 Relation describes that: 
 [ #has_/domain  :: Thing ]

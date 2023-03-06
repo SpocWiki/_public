@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_credential_category :: DefinedTerm, Text, URL ] or 
 - [ has_credential_category :: DefinedTerm, Text, URL ] 
 
-The category or type of credential being described, for example &quot;degree�, �certificate�, �badge�, or more specific term.
+The category or type of credential being described, for example "degree�, �certificate�, �badge�, or more specific term.
 
 Relation describes that: 
 [ #has_/domain  :: EducationalOccupationalCredential ]

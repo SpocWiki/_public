@@ -13,7 +13,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::-0.174]
 [geo-lat::51.5347]
-[name::St. John&#x27;s Wood]
+[name::St. John's Wood]
 [zone::2]
 [Num_lines::1]
 [switch-to-Rail::0]

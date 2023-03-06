@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_parent_organization :: Organization ] or 
 - [ has_parent_organization :: Organization ] 
 
-The larger organization that this organization is a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/subOrganization&quot;&gt;subOrganization&lt;/a&gt; of, if any.
+The larger organization that this organization is a &lt;a class="localLink" href="/subOrganization"&gt;subOrganization&lt;/a&gt; of, if any.
 
 Relation describes that: 
 [ #has_/domain  :: Organization ]

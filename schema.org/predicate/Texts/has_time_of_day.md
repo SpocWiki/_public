@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_time_of_day :: Text ] or 
 - [ has_text_about_time_of_day :: Text ] 
 
-The time of day the program normally runs. For example, &quot;evenings&quot;.
+The time of day the program normally runs. For example, "evenings".
 
 Predicated describes that: 
 [ #has_/domain  :: EducationalOccupationalProgram ]

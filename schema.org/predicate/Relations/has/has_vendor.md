@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_vendor :: Organization, Person ] or 
 - [ has_vendor :: Organization, Person ] 
 
-&#x27;vendor&#x27; is an earlier term for &#x27;seller&#x27;.
+'vendor' is an earlier term for 'seller'.
 
 Relation describes that: 
 [ #has_/domain  :: BuyAction ]

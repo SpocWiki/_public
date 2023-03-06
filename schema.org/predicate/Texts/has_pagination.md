@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_pagination :: Text ] or 
 - [ has_text_about_pagination :: Text ] 
 
-Any description of pages that is not separated into pageStart and pageEnd; for example, &quot;1-6, 9, 55&quot; or &quot;10-12, 46-49&quot;.
+Any description of pages that is not separated into pageStart and pageEnd; for example, "1-6, 9, 55" or "10-12, 46-49".
 
 Predicated describes that: 
 [ #has_/domain  :: Article, Chapter, PublicationIssue, PublicationVolume ]

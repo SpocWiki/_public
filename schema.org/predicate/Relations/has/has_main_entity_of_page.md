@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_main_entity_of_page :: CreativeWork, URL ] or 
 - [ has_main_entity_of_page :: CreativeWork, URL ] 
 
-Indicates a page (or other CreativeWork) for which this thing is the main entity being described. See &lt;a href&#x3D;&quot;/docs/datamodel.html#mainEntityBackground&quot;&gt;background notes&lt;/a&gt; for details.
+Indicates a page (or other CreativeWork) for which this thing is the main entity being described. See &lt;a href="/docs/datamodel.html#mainEntityBackground"&gt;background notes&lt;/a&gt; for details.
 
 Relation describes that: 
 [ #has_/domain  :: Thing ]

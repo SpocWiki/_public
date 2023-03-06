@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_course_workload :: Text ] or 
 - [ has_text_about_course_workload :: Text ] 
 
-The amount of work expected of students taking the course, often provided as a figure per week or per month, and may be broken down by type. For example, &quot;2 hours of lectures, 1 hour of lab work and 3 hours of independent study per week&quot;.
+The amount of work expected of students taking the course, often provided as a figure per week or per month, and may be broken down by type. For example, "2 hours of lectures, 1 hour of lab work and 3 hours of independent study per week".
 
 Predicated describes that: 
 [ #has_/domain  :: CourseInstance ]

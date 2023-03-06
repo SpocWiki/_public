@@ -37,7 +37,7 @@ Use it like this:
 - [has_duration_required::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration/_required::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
-Approximate or typical time it takes to work with or through this learning resource for the typical intended target audience, e.g. &#x27;PT30M&#x27;, &#x27;PT1H25M&#x27;.
+Approximate or typical time it takes to work with or through this learning resource for the typical intended target audience, e.g. 'PT30M', 'PT1H25M'.
 
 Formal Predicate: 
 [domain::CreativeWork]

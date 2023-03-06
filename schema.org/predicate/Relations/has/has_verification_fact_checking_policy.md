@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_verification_fact_checking_policy :: CreativeWork, URL ] or 
 - [ has_verification_fact_checking_policy :: CreativeWork, URL ] 
 
-Disclosure about verification and fact-checking processes for a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/NewsMediaOrganization&quot;&gt;NewsMediaOrganization&lt;/a&gt; or other fact-checking &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Organization&quot;&gt;Organization&lt;/a&gt;.
+Disclosure about verification and fact-checking processes for a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt; or other fact-checking &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization ]

@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22442]
 [Triz-Principle-Sub::[[Triz-multi-story]]]
 
-Cassette with 6 CD&#x27;s to increase Music Time and Variety
+Cassette with 6 CD's to increase Music Time and Variety

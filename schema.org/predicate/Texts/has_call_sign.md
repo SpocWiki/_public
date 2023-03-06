@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_call_sign :: Text ] or 
 - [ has_text_about_call_sign :: Text ] 
 
-A &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/Call_sign&quot;&gt;callsign&lt;/a&gt;, as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles.
+A &lt;a href="https://en.wikipedia.org/wiki/Call_sign"&gt;callsign&lt;/a&gt;, as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles.
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastService, Person, Vehicle ]

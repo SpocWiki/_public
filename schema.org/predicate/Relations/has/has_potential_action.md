@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_potential_action :: Action ] or 
 - [ has_potential_action :: Action ] 
 
-Indicates a potential Action, which describes an idealized action in which this thing would play an &#x27;object&#x27; role.
+Indicates a potential Action, which describes an idealized action in which this thing would play an 'object' role.
 
 Relation describes that: 
 [ #has_/domain  :: Thing ]

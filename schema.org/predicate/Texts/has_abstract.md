@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_abstract :: Text ] or 
 - [ has_text_about_abstract :: Text ] 
 
-An abstract is a short description that summarizes a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/CreativeWork&quot;&gt;CreativeWork&lt;/a&gt;.
+An abstract is a short description that summarizes a &lt;a class="localLink" href="/CreativeWork"&gt;CreativeWork&lt;/a&gt;.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]

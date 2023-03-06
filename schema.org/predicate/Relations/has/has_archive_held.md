@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_archive_held :: ArchiveComponent ] or 
 - [ has_archive_held :: ArchiveComponent ] 
 
-Collection, &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/Fonds&quot;&gt;fonds&lt;/a&gt;, or item held, kept or maintained by an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ArchiveOrganization&quot;&gt;ArchiveOrganization&lt;/a&gt;.
+Collection, &lt;a href="https://en.wikipedia.org/wiki/Fonds"&gt;fonds&lt;/a&gt;, or item held, kept or maintained by an &lt;a class="localLink" href="/ArchiveOrganization"&gt;ArchiveOrganization&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: ArchiveOrganization ]

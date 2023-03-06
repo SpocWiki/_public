@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22533]
 [Triz-Principle-Sub::[[Triz-restore-consumable]]]
 
-Automobile Engines that give themselves a &#x27;tune up&#x27; while running (the ones that say &#x27;100_000 miles between tune ups&#x27;)
+Automobile Engines that give themselves a 'tune up' while running (the ones that say '100_000 miles between tune ups')

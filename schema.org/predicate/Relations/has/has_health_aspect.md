@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_health_aspect :: HealthAspectEnumeration ] or 
 - [ has_health_aspect :: HealthAspectEnumeration ] 
 
-Indicates the aspect or aspects specifically addressed in some &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/HealthTopicContent&quot;&gt;HealthTopicContent&lt;/a&gt;. For example, that the content is an overview, or that it talks about treatment, self-care, treatments or their side-effects.
+Indicates the aspect or aspects specifically addressed in some &lt;a class="localLink" href="/HealthTopicContent"&gt;HealthTopicContent&lt;/a&gt;. For example, that the content is an overview, or that it talks about treatment, self-care, treatments or their side-effects.
 
 Relation describes that: 
 [ #has_/domain  :: HealthTopicContent ]

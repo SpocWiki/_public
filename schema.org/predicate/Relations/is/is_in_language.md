@@ -35,7 +35,7 @@ Use it like this:
 - [ #is/_in_language :: Language, Text] or 
 - [ is_in_language :: Language, Text] 
 
-The language of the content or performance or used in an action. Please use one of the language codes from the &lt;a href&#x3D;&quot;http://tools.ietf.org/html/bcp47&quot;&gt;IETF BCP 47 standard&lt;/a&gt;. See also &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/availableLanguage&quot;&gt;availableLanguage&lt;/a&gt;.
+The language of the content or performance or used in an action. Please use one of the language codes from the &lt;a href="http://tools.ietf.org/html/bcp47"&gt;IETF BCP 47 standard&lt;/a&gt;. See also &lt;a class="localLink" href="/availableLanguage"&gt;availableLanguage&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: BroadcastService, CommunicateAction, CreativeWork, Event, LinkRole, PronounceableText, WriteAction]

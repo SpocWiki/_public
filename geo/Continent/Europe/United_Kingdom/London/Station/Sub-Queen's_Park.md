@@ -13,7 +13,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::-0.2047]
 [geo-lat::51.5341]
-[name::Queen&#x27;s Park]
+[name::Queen's Park]
 [zone::2]
 [Num_lines::1]
 [switch-to-Rail::1]

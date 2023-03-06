@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_diversity_policy :: CreativeWork, URL ] or 
 - [ has_diversity_policy :: CreativeWork, URL ] 
 
-Statement on diversity policy by an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Organization&quot;&gt;Organization&lt;/a&gt; e.g. a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/NewsMediaOrganization&quot;&gt;NewsMediaOrganization&lt;/a&gt;. For a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/NewsMediaOrganization&quot;&gt;NewsMediaOrganization&lt;/a&gt;, a statement describing the newsroom�s diversity policy on both staffing and sources, typically providing staffing data.
+Statement on diversity policy by an &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt; e.g. a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt;. For a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt;, a statement describing the newsroom�s diversity policy on both staffing and sources, typically providing staffing data.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]

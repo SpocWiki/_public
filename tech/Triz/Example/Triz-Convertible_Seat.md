@@ -14,4 +14,4 @@ tags:
 [SpocWebEntityId::22371]
 [Triz-Principle-Sub::[[Triz-multi-urpose]]]
 
-Child&#x27;s car safety seat converts to a stroller
+Child's car safety seat converts to a stroller

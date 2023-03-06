@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_embedded_text_caption :: Text ] or 
 - [ has_text_about_embedded_text_caption :: Text ] 
 
-Represents textual captioning from a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MediaObject&quot;&gt;MediaObject&lt;/a&gt;, e.g. text of a "meme".
+Represents textual captioning from a &lt;a class="localLink" href="/MediaObject"&gt;MediaObject&lt;/a&gt;, e.g. text of a "meme".
 
 Predicated describes that: 
 [ #has_/domain  :: AudioObject, ImageObject, VideoObject ]
