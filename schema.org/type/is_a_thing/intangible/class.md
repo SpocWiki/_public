@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: 
 equivalent_class: rdfs:class
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

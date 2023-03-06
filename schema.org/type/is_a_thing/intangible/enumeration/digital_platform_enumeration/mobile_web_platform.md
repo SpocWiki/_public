@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: DigitalPlatformEnumeration
 equivalent_class: 
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

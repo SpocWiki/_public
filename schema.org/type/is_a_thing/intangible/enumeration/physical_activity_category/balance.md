@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: PhysicalActivityCategory
 equivalent_class: 
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

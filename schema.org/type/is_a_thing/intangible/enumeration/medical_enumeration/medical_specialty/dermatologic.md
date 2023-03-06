@@ -23,7 +23,6 @@ expiryDate:
 enumerationtype: MedicalSpecialty
 equivalent_class: 
 
-supersedes: 
 superseded_by: Dermatology
 
 tags:

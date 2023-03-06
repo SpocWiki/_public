@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-supersedes: 
 superseded_by: significantLink
 
 tags:

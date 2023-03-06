@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: MedicalProcedureType
 equivalent_class: 
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

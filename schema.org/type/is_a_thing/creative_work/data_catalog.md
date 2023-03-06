@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: 
 equivalent_class: http://www.w3.org/ns/dcat#Catalog
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

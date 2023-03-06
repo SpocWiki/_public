@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: RestrictedDiet
 equivalent_class: 
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

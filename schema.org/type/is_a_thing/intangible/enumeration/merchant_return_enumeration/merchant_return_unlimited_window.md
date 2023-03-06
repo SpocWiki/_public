@@ -24,7 +24,6 @@ enumerationtype: MerchantReturnEnumeration
 equivalent_class: 
 
 supersedes: ProductReturnUnlimitedWindow
-superseded_by: 
 
 tags:
 - schema.org/Type

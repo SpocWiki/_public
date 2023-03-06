@@ -21,7 +21,6 @@ publishDate:
 expiryDate: 
 
 supersedes: significantLinks
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Url

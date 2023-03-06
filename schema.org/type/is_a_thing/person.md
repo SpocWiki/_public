@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: 
 equivalent_class: http://xmlns.com/foaf/0.1/Person
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

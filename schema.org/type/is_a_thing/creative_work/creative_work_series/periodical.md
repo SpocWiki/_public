@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: 
 equivalent_class: http://purl.org/ontology/bibo/Periodical
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

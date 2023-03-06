@@ -24,7 +24,6 @@ enumerationtype: MedicalSpecialty
 equivalent_class: 
 
 supersedes: Dermatologic
-superseded_by: 
 
 tags:
 - schema.org/Type

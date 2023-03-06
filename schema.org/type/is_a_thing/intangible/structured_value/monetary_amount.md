@@ -24,7 +24,6 @@ enumerationtype:
 equivalent_class: 
 
 supersedes: DatedMoneySpecification
-superseded_by: 
 
 tags:
 - schema.org/Type

@@ -24,7 +24,6 @@ enumerationtype:
 equivalent_class: 
 
 supersedes: UserPlusOnes, UserCheckins, UserBlocks, UserLikes, UserDownloads, UserPageVisits, UserComments, UserTweets, UserInteraction, UserPlays
-superseded_by: 
 
 tags:
 - schema.org/Type

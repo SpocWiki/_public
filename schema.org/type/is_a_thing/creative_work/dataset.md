@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: 
 equivalent_class: http://purl.org/dc/dcmitype/Dataset, http://www.w3.org/ns/dcat#Dataset, http://rdfs.org/ns/void#Dataset
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

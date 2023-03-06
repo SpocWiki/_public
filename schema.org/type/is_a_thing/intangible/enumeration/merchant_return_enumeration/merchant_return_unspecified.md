@@ -24,7 +24,6 @@ enumerationtype: MerchantReturnEnumeration
 equivalent_class: 
 
 supersedes: ProductReturnUnspecified
-superseded_by: 
 
 tags:
 - schema.org/Type

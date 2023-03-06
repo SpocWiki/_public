@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: MedicalSpecialty
 equivalent_class: 
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

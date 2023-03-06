@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: 
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/105590001
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

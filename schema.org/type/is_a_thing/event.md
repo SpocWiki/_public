@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: 
 equivalent_class: http://purl.org/dc/dcmitype/Event
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type

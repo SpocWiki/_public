@@ -23,7 +23,6 @@ expiryDate:
 enumerationtype: 
 equivalent_class: 
 
-supersedes: 
 superseded_by: CreativeWorkSeason
 
 tags:

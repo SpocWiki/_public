@@ -20,8 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Quantity

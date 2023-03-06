@@ -21,7 +21,6 @@ publishDate:
 expiryDate: 
 
 supersedes: productReturnLink
-superseded_by: 
 
 tags:
 - schema.org/Predicate/Url

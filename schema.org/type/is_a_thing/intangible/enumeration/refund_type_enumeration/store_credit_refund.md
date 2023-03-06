@@ -23,8 +23,6 @@ expiryDate:
 enumerationtype: RefundTypeEnumeration
 equivalent_class: 
 
-supersedes: 
-superseded_by: 
 
 tags:
 - schema.org/Type
