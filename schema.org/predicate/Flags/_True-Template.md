@@ -5,51 +5,53 @@ isDeleted: false
 isReadOnly: false
 
 #Obsidian well-known Keys
-cssclass: Predicate Flag
+cssclass: Predicate Boolean
 publish: true
 
 # Hugo Tags
-type: Pred_Flag
-title: {{is_label_snail}}
+type: Pred_Bool
 
-linkTitle: {{is_label_snail}}
-keywords: 
+title: is_{{has_label_snail}}
+linkTitle: is_{{has_label_snail}}
+
+keywords: [{{has_label_snail}}]
 layout: 
 draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: {{enumerationtype}}
-equivalent_class: {{equivalentProperty}}
-
 supersedes: {{supersedes}}
 superseded_by: {{supersededBy}}
 
 tags:
-- schema.org/Predicate
+- schema.org/Predicate/True
 
 aliases:
-- label-dash
-- label_snail
-- label
-- has_label_snail
+- {{label-dash}}
+- {{has_label_snail}}
+- {{label}}
+- is_{{has_label_snail}}
 ---
 
-[domain::{{domainIncludes}}]
-(name::{{has_label_snail}})
-(range::{{rangeIncludes}})
+[ #is_/part_of :: {{isPartOf}} ]
 
-Use this Tag to mark Instances: #{{has_label_snail}} 
-For Tag-Completion in YAML, enclose the Tags in Quotes with a leading Space before the #. 
+Use these simple Tags to mark Instances as True or False: 
+#is_/_/{{has_label_snail}} 
+#is_/not/{{has_label_snail}} 
 
-Use [{{has_label_snail}}::false] to explicitly untag it.
+Or write it as a Triple: 
+[ is_{{has_label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
-Is [inverse_of::{{inverseOf}}]
+Predicate describes that: 
+[ #has_/domain  :: {{domainIncludes}} ]
+( #has_/name :: is_{{has_label_snail}} )
+( #has_/range :: {{rangeIncludes}} )
 
-Is a [sub_property_of::{{subPropertyOf}}]
+[ #is_/inverse_of  :: {{inverseOf}} ]
 
-Has these [sub_properties::{{subproperties}}]
+[ #is_/sub_property_of  :: {{subPropertyOf}} ]
 
-[is_part_of::{{isPartOf}}]
+[ #has_/sub_properties :: [ {{subproperties}} ] ]
+
