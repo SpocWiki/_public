@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: NLNonprofitType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all nonprofit_sbbis.
+
 Tag Instances like this: 
 #is_/a_/nonprofit_sbbi
 
@@ -45,6 +44,4 @@ NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institut
 [ #is_/sub_class_of :: [[NLNonprofitType]] ]
 
 [ #is_/enum_of :: [[NLNonprofitType]] ]
-
-[ #has_/properties :: [  ] ]
 

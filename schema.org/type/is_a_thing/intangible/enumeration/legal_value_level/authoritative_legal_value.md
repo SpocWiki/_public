@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: LegalValueLevel
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all authoritative_legal_values.
+
 Tag Instances like this: 
 #is_/an_/authoritative_legal_value
 
@@ -45,6 +44,4 @@ Indicates that the publisher gives some special status to the publication of the
 [ #is_/sub_class_of :: [[LegalValueLevel]] ]
 
 [ #is_/enum_of :: [[LegalValueLevel]] ]
-
-[ #has_/properties :: [  ] ]
 

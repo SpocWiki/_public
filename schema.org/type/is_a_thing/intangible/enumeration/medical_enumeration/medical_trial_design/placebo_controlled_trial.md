@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalTrialDesign
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all placebo_controlled_trials.
+
 Tag Instances like this: 
 #is_/a_/placebo_controlled_trial
 
@@ -43,6 +42,4 @@ A placebo-controlled trial design.
 [ #is_/sub_class_of :: [[MedicalTrialDesign]] ]
 
 [ #is_/enum_of :: [[MedicalTrialDesign]] ]
-
-[ #has_/properties :: [  ] ]
 

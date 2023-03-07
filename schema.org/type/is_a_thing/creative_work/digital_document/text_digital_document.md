@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all text_digital_documents.
+
 Tag Instances like this: 
 #is_/a_/text_digital_document
 

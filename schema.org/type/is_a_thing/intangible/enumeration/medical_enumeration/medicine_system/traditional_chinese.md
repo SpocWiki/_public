@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicineSystem
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all traditional_chineses.
+
 Tag Instances like this: 
 #is_/a_/traditional_chinese
 
@@ -43,6 +42,4 @@ A system of medicine based on common theoretical concepts that originated in Chi
 [ #is_/sub_class_of :: [[MedicineSystem]] ]
 
 [ #is_/enum_of :: [[MedicineSystem]] ]
-
-[ #has_/properties :: [  ] ]
 

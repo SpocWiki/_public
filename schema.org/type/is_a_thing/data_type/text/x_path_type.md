@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all x_path_types.
+
 Tag Instances like this: 
 #is_/a_/x_path_type
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Text representing an XPath (typically but not necessarily version 1.0).
 
 [ #is_/sub_class_of :: [[Text]] ]
-
-[ #has_/properties :: [  ] ]
 

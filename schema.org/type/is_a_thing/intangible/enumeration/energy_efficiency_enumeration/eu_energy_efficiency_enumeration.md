@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all eu_energy_efficiency_enumerations.
+
 Tag Instances like this: 
 #is_/an_/eu_energy_efficiency_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Enumerates the EU energy efficiency classes A-G as well as A+, A++, and A+++ as defined in EU directive 2017/1369.
 
 [ #is_/sub_class_of :: [[EnergyEfficiencyEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

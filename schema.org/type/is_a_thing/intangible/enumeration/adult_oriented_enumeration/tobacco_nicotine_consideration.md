@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: AdultOrientedEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all tobacco_nicotine_considerations.
+
 Tag Instances like this: 
 #is_/a_/tobacco_nicotine_consideration
 
@@ -45,6 +44,4 @@ Item contains tobacco and/or nicotine, for example cigars, cigarettes, chewing t
 [ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

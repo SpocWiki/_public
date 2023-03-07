@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: DrugPrescriptionStatus
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all prescription_onlys.
+
 Tag Instances like this: 
 #is_/a_/prescription_only
 
@@ -43,6 +42,4 @@ Available by prescription only.
 [ #is_/sub_class_of :: [[DrugPrescriptionStatus]] ]
 
 [ #is_/enum_of :: [[DrugPrescriptionStatus]] ]
-
-[ #has_/properties :: [  ] ]
 

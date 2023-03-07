@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all psychiatrics.
+
 Tag Instances like this: 
 #is_/a_/psychiatric
 
@@ -43,6 +42,4 @@ A specific branch of medical science that is concerned with the study, treatment
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

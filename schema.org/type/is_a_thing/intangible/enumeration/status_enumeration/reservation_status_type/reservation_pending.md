@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReservationStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all reservation_pendings.
+
 Tag Instances like this: 
 #is_/a_/reservation_pending
 
@@ -43,6 +42,4 @@ The status of a reservation when a request has been sent, but not confirmed.
 [ #is_/sub_class_of :: [[ReservationStatusType]] ]
 
 [ #is_/enum_of :: [[ReservationStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

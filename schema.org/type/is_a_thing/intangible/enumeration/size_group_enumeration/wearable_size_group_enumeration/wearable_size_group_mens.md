@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: WearableSizeGroupEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all wearable_size_group_menss.
+
 Tag Instances like this: 
 #is_/a_/wearable_size_group_mens
 
@@ -45,6 +44,4 @@ Size group "Mens" for wearables.
 [ #is_/sub_class_of :: [[WearableSizeGroupEnumeration]] ]
 
 [ #is_/enum_of :: [[WearableSizeGroupEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

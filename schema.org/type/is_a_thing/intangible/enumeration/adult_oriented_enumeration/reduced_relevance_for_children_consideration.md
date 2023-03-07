@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: AdultOrientedEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all reduced_relevance_for_children_considerations.
+
 Tag Instances like this: 
 #is_/a_/reduced_relevance_for_children_consideration
 
@@ -45,6 +44,4 @@ A general code for cases where relevance to children is reduced, e.g. adult educ
 [ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all numbers.
+
 Tag Instances like this: 
 #is_/a_/number
 
@@ -46,6 +44,4 @@ Usage guidelines:<br/><br/>
 </ul>
 
 [ #has_/sub_classes :: [ Float, Integer ] ]
-
-[ #has_/properties :: [  ] ]
 

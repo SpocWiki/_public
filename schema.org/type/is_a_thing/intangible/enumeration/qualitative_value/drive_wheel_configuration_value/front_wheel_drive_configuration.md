@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: DriveWheelConfigurationValue
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all front_wheel_drive_configurations.
+
 Tag Instances like this: 
 #is_/a_/front_wheel_drive_configuration
 
@@ -43,6 +42,4 @@ Front-wheel drive is a transmission layout where the engine drives the front whe
 [ #is_/sub_class_of :: [[DriveWheelConfigurationValue]] ]
 
 [ #is_/enum_of :: [[DriveWheelConfigurationValue]] ]
-
-[ #has_/properties :: [  ] ]
 

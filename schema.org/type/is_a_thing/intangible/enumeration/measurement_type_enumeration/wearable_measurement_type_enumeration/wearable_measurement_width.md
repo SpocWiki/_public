@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: WearableMeasurementTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all wearable_measurement_widths.
+
 Tag Instances like this: 
 #is_/a_/wearable_measurement_width
 
@@ -45,6 +44,4 @@ Measurement of the width, for example of shoes
 [ #is_/sub_class_of :: [[WearableMeasurementTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

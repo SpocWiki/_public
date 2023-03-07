@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all list_prices.
+
 Tag Instances like this: 
 #is_/a_/list_price
 
@@ -45,6 +44,4 @@ Represents the list price (the price a product is actually advertised for) of an
 [ #is_/sub_class_of :: [[PriceTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

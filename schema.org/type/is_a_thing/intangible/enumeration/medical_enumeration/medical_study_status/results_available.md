@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalStudyStatus
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all results_availables.
+
 Tag Instances like this: 
 #is_/a_/results_available
 
@@ -43,6 +42,4 @@ Results are available.
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/properties :: [  ] ]
 

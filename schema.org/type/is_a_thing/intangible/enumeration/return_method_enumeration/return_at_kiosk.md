@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReturnMethodEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all return_at_kiosks.
+
 Tag Instances like this: 
 #is_/a_/return_at_kiosk
 
@@ -45,6 +44,4 @@ Specifies that product returns must be made at a kiosk.
 [ #is_/sub_class_of :: [[ReturnMethodEnumeration]] ]
 
 [ #is_/enum_of :: [[ReturnMethodEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

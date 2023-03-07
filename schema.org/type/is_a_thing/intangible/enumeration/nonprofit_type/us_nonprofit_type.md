@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all us_nonprofit_types.
+
 Tag Instances like this: 
 #is_/a_/us_nonprofit_type
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 USNonprofitType: Non-profit organization type originating from the United States.
 
 [ #is_/sub_class_of :: [[NonprofitType]] ]
-
-[ #has_/properties :: [  ] ]
 

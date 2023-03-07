@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all oncologics.
+
 Tag Instances like this: 
 #is_/an_/oncologic
 
@@ -43,6 +42,4 @@ A specific branch of medical science that deals with benign and malignant tumors
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

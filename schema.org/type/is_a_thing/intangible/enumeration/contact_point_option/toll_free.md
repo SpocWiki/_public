@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ContactPointOption
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all toll_frees.
+
 Tag Instances like this: 
 #is_/a_/toll_free
 
@@ -43,6 +42,4 @@ The associated telephone number is toll free.
 [ #is_/sub_class_of :: [[ContactPointOption]] ]
 
 [ #is_/enum_of :: [[ContactPointOption]] ]
-
-[ #has_/properties :: [  ] ]
 

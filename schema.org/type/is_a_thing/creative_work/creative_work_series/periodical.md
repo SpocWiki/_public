@@ -20,9 +20,7 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
 equivalent_class: http://purl.org/ontology/bibo/Periodical
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all periodicals.
+
 Tag Instances like this: 
 #is_/a_/periodical
 

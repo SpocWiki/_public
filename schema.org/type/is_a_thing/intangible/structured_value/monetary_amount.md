@@ -20,8 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
 
 supersedes: DatedMoneySpecification
 
@@ -36,6 +34,7 @@ aliases:
 ---
 
 Class of all monetary_amounts.
+
 Tag Instances like this: 
 #is_/a_/monetary_amount
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: DigitalDocumentPermissionType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all read_permissions.
+
 Tag Instances like this: 
 #is_/a_/read_permission
 
@@ -43,6 +42,4 @@ Permission to read or view the document.
 [ #is_/sub_class_of :: [[DigitalDocumentPermissionType]] ]
 
 [ #is_/enum_of :: [[DigitalDocumentPermissionType]] ]
-
-[ #has_/properties :: [  ] ]
 

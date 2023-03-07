@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all order_statuss.
+
 Tag Instances like this: 
 #is_/an_/order_status
 
 Enumerated status values for Order.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

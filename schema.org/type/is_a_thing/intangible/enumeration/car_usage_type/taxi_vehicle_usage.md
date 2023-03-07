@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: CarUsageType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all taxi_vehicle_usages.
+
 Tag Instances like this: 
 #is_/a_/taxi_vehicle_usage
 
@@ -45,6 +44,4 @@ Indicates the usage of the car as a taxi.
 [ #is_/sub_class_of :: [[CarUsageType]] ]
 
 [ #is_/enum_of :: [[CarUsageType]] ]
-
-[ #has_/properties :: [  ] ]
 

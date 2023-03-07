@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: EnergyStarEnergyEfficiencyEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all energy_star_certifieds.
+
 Tag Instances like this: 
 #is_/an_/energy_star_certified
 
@@ -45,6 +44,4 @@ Represents EnergyStar certification.
 [ #is_/sub_class_of :: [[EnergyStarEnergyEfficiencyEnumeration]] ]
 
 [ #is_/enum_of :: [[EnergyStarEnergyEfficiencyEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

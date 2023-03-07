@@ -21,7 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MerchantReturnEnumeration
-equivalent_class: 
 
 supersedes: ProductReturnNotPermitted
 
@@ -36,6 +35,7 @@ aliases:
 ---
 
 Class of all merchant_return_not_permitteds.
+
 Tag Instances like this: 
 #is_/a_/merchant_return_not_permitted
 
@@ -46,6 +46,4 @@ Specifies that product returns are not permitted.
 [ #is_/sub_class_of :: [[MerchantReturnEnumeration]] ]
 
 [ #is_/enum_of :: [[MerchantReturnEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,7 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MerchantReturnEnumeration
-equivalent_class: 
 
 supersedes: ProductReturnFiniteReturnWindow
 
@@ -36,6 +35,7 @@ aliases:
 ---
 
 Class of all merchant_return_finite_return_windows.
+
 Tag Instances like this: 
 #is_/a_/merchant_return_finite_return_window
 
@@ -46,6 +46,4 @@ Specifies that there is a finite window for product returns.
 [ #is_/sub_class_of :: [[MerchantReturnEnumeration]] ]
 
 [ #is_/enum_of :: [[MerchantReturnEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PaymentStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all payment_automatically_applieds.
+
 Tag Instances like this: 
 #is_/a_/payment_automatically_applied
 
@@ -43,6 +42,4 @@ An automatic payment system is in place and will be used.
 [ #is_/sub_class_of :: [[PaymentStatusType]] ]
 
 [ #is_/enum_of :: [[PaymentStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

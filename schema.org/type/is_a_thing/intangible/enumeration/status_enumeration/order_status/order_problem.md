@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: OrderStatus
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all order_problems.
+
 Tag Instances like this: 
 #is_/an_/order_problem
 
@@ -43,6 +42,4 @@ OrderStatus representing that there is a problem with the order.
 [ #is_/sub_class_of :: [[OrderStatus]] ]
 
 [ #is_/enum_of :: [[OrderStatus]] ]
-
-[ #has_/properties :: [  ] ]
 

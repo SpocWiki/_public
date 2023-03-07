@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all book_format_types.
+
 Tag Instances like this: 
 #is_/a_/book_format_type
 
 The publication format of the book.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: EventStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all event_scheduleds.
+
 Tag Instances like this: 
 #is_/an_/event_scheduled
 
@@ -43,6 +42,4 @@ The event is taking place or has taken place on the startDate as scheduled. Use 
 [ #is_/sub_class_of :: [[EventStatusType]] ]
 
 [ #is_/enum_of :: [[EventStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

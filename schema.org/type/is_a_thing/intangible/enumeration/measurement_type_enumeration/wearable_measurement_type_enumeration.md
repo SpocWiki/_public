@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all wearable_measurement_type_enumerations.
+
 Tag Instances like this: 
 #is_/a_/wearable_measurement_type_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Enumerates common types of measurement for wearables products.
 
 [ #is_/sub_class_of :: [[MeasurementTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

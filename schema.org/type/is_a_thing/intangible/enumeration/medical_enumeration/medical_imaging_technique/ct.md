@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalImagingTechnique
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all cts.
+
 Tag Instances like this: 
 #is_/a_/ct
 
@@ -43,6 +42,4 @@ X-ray computed tomography imaging.
 [ #is_/sub_class_of :: [[MedicalImagingTechnique]] ]
 
 [ #is_/enum_of :: [[MedicalImagingTechnique]] ]
-
-[ #has_/properties :: [  ] ]
 

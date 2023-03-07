@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all digital_document_permission_types.
+
 Tag Instances like this: 
 #is_/a_/digital_document_permission_type
 
 A type of permission which can be granted for accessing a digital document.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

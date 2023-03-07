@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all srps.
+
 Tag Instances like this: 
 #is_/a_/srp
 
@@ -45,6 +44,4 @@ Represents the suggested retail price ("SRP") of an offered product.
 [ #is_/sub_class_of :: [[PriceTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

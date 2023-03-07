@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all status_enumerations.
+
 Tag Instances like this: 
 #is_/a_/status_enumeration
 
@@ -43,6 +41,4 @@ Lists or enumerations dealing with status types.
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
 [ #has_/sub_classes :: [ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ] ]
-
-[ #has_/properties :: [  ] ]
 

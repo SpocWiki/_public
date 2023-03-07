@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReturnLabelSourceEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all return_label_in_boxs.
+
 Tag Instances like this: 
 #is_/a_/return_label_in_box
 
@@ -45,6 +44,4 @@ Specifies that a return label will be provided by the seller in the shipping box
 [ #is_/sub_class_of :: [[ReturnLabelSourceEnumeration]] ]
 
 [ #is_/enum_of :: [[ReturnLabelSourceEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

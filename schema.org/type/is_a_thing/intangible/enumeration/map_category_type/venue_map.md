@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MapCategoryType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all venue_maps.
+
 Tag Instances like this: 
 #is_/a_/venue_map
 
@@ -43,6 +42,4 @@ A venue map (e.g. for malls, auditoriums, museums, etc.).
 [ #is_/sub_class_of :: [[MapCategoryType]] ]
 
 [ #is_/enum_of :: [[MapCategoryType]] ]
-
-[ #has_/properties :: [  ] ]
 

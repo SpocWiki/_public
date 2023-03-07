@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all medical_procedure_types.
+
 Tag Instances like this: 
 #is_/a_/medical_procedure_type
 
 An enumeration that describes different types of medical procedures.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

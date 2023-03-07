@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: GameAvailabilityEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all full_game_availabilitys.
+
 Tag Instances like this: 
 #is_/a_/full_game_availability
 
@@ -45,6 +44,4 @@ Indicates full game availability.
 [ #is_/sub_class_of :: [[GameAvailabilityEnumeration]] ]
 
 [ #is_/enum_of :: [[GameAvailabilityEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

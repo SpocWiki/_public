@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all diet_nutritions.
+
 Tag Instances like this: 
 #is_/a_/diet_nutrition
 
@@ -43,6 +42,4 @@ Dietetics and nutrition as a medical specialty.
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

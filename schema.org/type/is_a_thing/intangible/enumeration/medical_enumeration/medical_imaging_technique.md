@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all medical_imaging_techniques.
+
 Tag Instances like this: 
 #is_/a_/medical_imaging_technique
 
 Any medical imaging modality typically used for diagnostic purposes. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all health_aspect_enumerations.
+
 Tag Instances like this: 
 #is_/a_/health_aspect_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 HealthAspectEnumeration enumerates several aspects of health content online, each of which might be described using <a class="localLink" href="/hasHealthAspect">hasHealthAspect</a> and <a class="localLink" href="/HealthTopicContent">HealthTopicContent</a>.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

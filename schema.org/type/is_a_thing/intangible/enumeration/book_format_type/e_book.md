@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: BookFormatType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all e_books.
+
 Tag Instances like this: 
 #is_/an_/e_book
 
@@ -43,6 +42,4 @@ Book format: Ebook.
 [ #is_/sub_class_of :: [[BookFormatType]] ]
 
 [ #is_/enum_of :: [[BookFormatType]] ]
-
-[ #has_/properties :: [  ] ]
 

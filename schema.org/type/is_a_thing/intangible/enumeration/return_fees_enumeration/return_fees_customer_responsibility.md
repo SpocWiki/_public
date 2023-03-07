@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReturnFeesEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all return_fees_customer_responsibilitys.
+
 Tag Instances like this: 
 #is_/a_/return_fees_customer_responsibility
 
@@ -45,6 +44,4 @@ Specifies that product returns must be paid for, and are the responsibility of, 
 [ #is_/sub_class_of :: [[ReturnFeesEnumeration]] ]
 
 [ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

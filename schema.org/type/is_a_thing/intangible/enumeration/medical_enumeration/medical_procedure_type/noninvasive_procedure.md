@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalProcedureType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all noninvasive_procedures.
+
 Tag Instances like this: 
 #is_/a_/noninvasive_procedure
 
@@ -43,6 +42,4 @@ A type of medical procedure that involves noninvasive techniques.
 [ #is_/sub_class_of :: [[MedicalProcedureType]] ]
 
 [ #is_/enum_of :: [[MedicalProcedureType]] ]
-
-[ #has_/properties :: [  ] ]
 

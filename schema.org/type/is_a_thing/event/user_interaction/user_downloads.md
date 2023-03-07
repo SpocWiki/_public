@@ -20,8 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
 
 superseded_by: InteractionCounter
 
@@ -36,6 +34,7 @@ aliases:
 ---
 
 Class of all user_downloadss.
+
 Tag Instances like this: 
 #is_/a_/user_downloads
 

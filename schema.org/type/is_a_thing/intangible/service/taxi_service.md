@@ -20,8 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
 
 supersedes: Taxi
 
@@ -36,6 +34,7 @@ aliases:
 ---
 
 Class of all taxi_services.
+
 Tag Instances like this: 
 #is_/a_/taxi_service
 

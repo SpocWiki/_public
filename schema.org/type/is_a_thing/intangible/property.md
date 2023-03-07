@@ -20,9 +20,7 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
 equivalent_class: http://www.w3.org/1999/02/22-rdf-syntax-ns#Property
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all propertys.
+
 Tag Instances like this: 
 #is_/a_/property
 

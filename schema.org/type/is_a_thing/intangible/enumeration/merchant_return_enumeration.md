@@ -20,8 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
 
 supersedes: ProductReturnEnumeration
 
@@ -36,6 +34,7 @@ aliases:
 ---
 
 Class of all merchant_return_enumerations.
+
 Tag Instances like this: 
 #is_/a_/merchant_return_enumeration
 
@@ -44,6 +43,4 @@ Tag Instances like this:
 Enumerates several kinds of product return policies.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

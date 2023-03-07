@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: UKNonprofitType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all unincorporated_association_charitys.
+
 Tag Instances like this: 
 #is_/an_/unincorporated_association_charity
 
@@ -45,6 +44,4 @@ UnincorporatedAssociationCharity: Non-profit type referring to a charitable comp
 [ #is_/sub_class_of :: [[UKNonprofitType]] ]
 
 [ #is_/enum_of :: [[UKNonprofitType]] ]
-
-[ #has_/properties :: [  ] ]
 

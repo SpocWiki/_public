@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: HealthAspectEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all getting_access_health_aspects.
+
 Tag Instances like this: 
 #is_/a_/getting_access_health_aspect
 
@@ -45,6 +44,4 @@ Content that discusses practical and policy aspects for getting access to specif
 [ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

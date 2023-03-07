@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all optometrics.
+
 Tag Instances like this: 
 #is_/an_/optometric
 
@@ -43,6 +42,4 @@ The science or practice of testing visual acuity and prescribing corrective lens
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

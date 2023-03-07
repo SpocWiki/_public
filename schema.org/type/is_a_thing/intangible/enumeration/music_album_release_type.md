@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all music_album_release_types.
+
 Tag Instances like this: 
 #is_/a_/music_album_release_type
 
 The kind of release which this album is: single, EP or album.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

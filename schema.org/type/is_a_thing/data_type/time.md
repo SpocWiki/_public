@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,10 +32,9 @@ aliases:
 ---
 
 Class of all times.
+
 Tag Instances like this: 
 #is_/a_/time
 
 A point in time recurring on multiple days in the form hh:mm:ss[Z|(+|-)hh:mm] (see <a href="http://www.w3.org/TR/xmlschema-2/#time">XML schema for details</a>).
-
-[ #has_/properties :: [  ] ]
 

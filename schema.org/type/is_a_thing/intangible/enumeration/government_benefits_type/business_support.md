@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: GovernmentBenefitsType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all business_supports.
+
 Tag Instances like this: 
 #is_/a_/business_support
 
@@ -45,6 +44,4 @@ BusinessSupport: this is a benefit for supporting businesses.
 [ #is_/sub_class_of :: [[GovernmentBenefitsType]] ]
 
 [ #is_/enum_of :: [[GovernmentBenefitsType]] ]
-
-[ #has_/properties :: [  ] ]
 

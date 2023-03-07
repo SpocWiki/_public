@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all integers.
+
 Tag Instances like this: 
 #is_/an_/integer
 
 Data type: Integer.
 
 [ #is_/sub_class_of :: [[Number]] ]
-
-[ #has_/properties :: [  ] ]
 

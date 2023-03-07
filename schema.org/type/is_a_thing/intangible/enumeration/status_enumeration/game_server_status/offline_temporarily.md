@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: GameServerStatus
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all offline_temporarilys.
+
 Tag Instances like this: 
 #is_/an_/offline_temporarily
 
@@ -43,6 +42,4 @@ Game server status: OfflineTemporarily. Server is offline now but it can be onli
 [ #is_/sub_class_of :: [[GameServerStatus]] ]
 
 [ #is_/enum_of :: [[GameServerStatus]] ]
-
-[ #has_/properties :: [  ] ]
 

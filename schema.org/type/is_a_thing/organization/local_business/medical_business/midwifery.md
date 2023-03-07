@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all midwiferys.
+
 Tag Instances like this: 
 #is_/a_/midwifery
 
@@ -43,6 +42,4 @@ A nurse-like health profession that deals with pregnancy, childbirth, and the po
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

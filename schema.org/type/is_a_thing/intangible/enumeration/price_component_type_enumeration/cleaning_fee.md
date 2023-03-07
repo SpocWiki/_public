@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceComponentTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all cleaning_fees.
+
 Tag Instances like this: 
 #is_/a_/cleaning_fee
 
@@ -45,6 +44,4 @@ Represents the cleaning fee part of the total price for an offered product, for 
 [ #is_/sub_class_of :: [[PriceComponentTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

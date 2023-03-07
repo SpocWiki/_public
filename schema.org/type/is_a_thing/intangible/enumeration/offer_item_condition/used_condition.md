@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: OfferItemCondition
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all used_conditions.
+
 Tag Instances like this: 
 #is_/a_/used_condition
 
@@ -43,6 +42,4 @@ Indicates that the item is used.
 [ #is_/sub_class_of :: [[OfferItemCondition]] ]
 
 [ #is_/enum_of :: [[OfferItemCondition]] ]
-
-[ #has_/properties :: [  ] ]
 

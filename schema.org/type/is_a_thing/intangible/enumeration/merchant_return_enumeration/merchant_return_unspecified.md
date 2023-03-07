@@ -21,7 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MerchantReturnEnumeration
-equivalent_class: 
 
 supersedes: ProductReturnUnspecified
 
@@ -36,6 +35,7 @@ aliases:
 ---
 
 Class of all merchant_return_unspecifieds.
+
 Tag Instances like this: 
 #is_/a_/merchant_return_unspecified
 
@@ -46,6 +46,4 @@ Specifies that a product return policy is not provided.
 [ #is_/sub_class_of :: [[MerchantReturnEnumeration]] ]
 
 [ #is_/enum_of :: [[MerchantReturnEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

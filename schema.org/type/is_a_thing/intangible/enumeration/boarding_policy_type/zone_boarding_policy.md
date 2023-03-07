@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: BoardingPolicyType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all zone_boarding_policys.
+
 Tag Instances like this: 
 #is_/a_/zone_boarding_policy
 
@@ -43,6 +42,4 @@ The airline boards by zones of the plane.
 [ #is_/sub_class_of :: [[BoardingPolicyType]] ]
 
 [ #is_/enum_of :: [[BoardingPolicyType]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all restricted_diets.
+
 Tag Instances like this: 
 #is_/a_/restricted_diet
 
 A diet restricted to certain foods or preparations for cultural, religious, health or lifestyle reasons.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

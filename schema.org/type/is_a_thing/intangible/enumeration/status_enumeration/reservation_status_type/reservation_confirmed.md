@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReservationStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all reservation_confirmeds.
+
 Tag Instances like this: 
 #is_/a_/reservation_confirmed
 
@@ -43,6 +42,4 @@ The status of a confirmed reservation.
 [ #is_/sub_class_of :: [[ReservationStatusType]] ]
 
 [ #is_/enum_of :: [[ReservationStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

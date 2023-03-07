@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all medical_device_purposes.
+
 Tag Instances like this: 
 #is_/a_/medical_device_purpose
 
 Categories of medical devices, organized by the purpose or intended use of the device.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

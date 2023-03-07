@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: WearableSizeSystemEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all wearable_size_system_mxs.
+
 Tag Instances like this: 
 #is_/a_/wearable_size_system_mx
 
@@ -45,6 +44,4 @@ Mexican size system for wearables.
 [ #is_/sub_class_of :: [[WearableSizeSystemEnumeration]] ]
 
 [ #is_/enum_of :: [[WearableSizeSystemEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

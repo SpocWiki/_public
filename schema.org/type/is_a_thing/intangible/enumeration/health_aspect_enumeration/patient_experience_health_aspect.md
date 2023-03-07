@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: HealthAspectEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all patient_experience_health_aspects.
+
 Tag Instances like this: 
 #is_/a_/patient_experience_health_aspect
 
@@ -45,6 +44,4 @@ Content about the real life experience of patients or people that have lived a s
 [ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

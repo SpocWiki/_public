@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all game_availability_enumerations.
+
 Tag Instances like this: 
 #is_/a_/game_availability_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 For a <a class="localLink" href="/VideoGame">VideoGame</a>, such as used with a <a class="localLink" href="/PlayGameAction">PlayGameAction</a>, an enumeration of the kind of game availability offered.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

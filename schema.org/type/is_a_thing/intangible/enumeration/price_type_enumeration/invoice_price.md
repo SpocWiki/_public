@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all invoice_prices.
+
 Tag Instances like this: 
 #is_/an_/invoice_price
 
@@ -45,6 +44,4 @@ Represents the invoice price of an offered product.
 [ #is_/sub_class_of :: [[PriceTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

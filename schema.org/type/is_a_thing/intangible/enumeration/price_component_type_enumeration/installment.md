@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceComponentTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all installments.
+
 Tag Instances like this: 
 #is_/an_/installment
 
@@ -45,6 +44,4 @@ Represents the installment pricing component of the total price for an offered p
 [ #is_/sub_class_of :: [[PriceComponentTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

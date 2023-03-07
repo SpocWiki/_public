@@ -20,9 +20,7 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/51114001
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all arterys.
+
 Tag Instances like this: 
 #is_/an_/artery
 

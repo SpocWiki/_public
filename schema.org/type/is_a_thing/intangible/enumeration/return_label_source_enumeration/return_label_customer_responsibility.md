@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReturnLabelSourceEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all return_label_customer_responsibilitys.
+
 Tag Instances like this: 
 #is_/a_/return_label_customer_responsibility
 
@@ -45,6 +44,4 @@ Indicated that creating a return label is the responsibility of the customer.
 [ #is_/sub_class_of :: [[ReturnLabelSourceEnumeration]] ]
 
 [ #is_/enum_of :: [[ReturnLabelSourceEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

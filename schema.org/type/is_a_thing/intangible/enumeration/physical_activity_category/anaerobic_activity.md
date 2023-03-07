@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PhysicalActivityCategory
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all anaerobic_activitys.
+
 Tag Instances like this: 
 #is_/an_/anaerobic_activity
 
@@ -43,6 +42,4 @@ Physical activity that is of high-intensity which utilizes the anaerobic metabol
 [ #is_/sub_class_of :: [[PhysicalActivityCategory]] ]
 
 [ #is_/enum_of :: [[PhysicalActivityCategory]] ]
-
-[ #has_/properties :: [  ] ]
 

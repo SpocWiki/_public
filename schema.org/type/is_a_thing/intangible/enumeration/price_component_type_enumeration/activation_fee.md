@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceComponentTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all activation_fees.
+
 Tag Instances like this: 
 #is_/an_/activation_fee
 
@@ -45,6 +44,4 @@ Represents the activation fee part of the total price for an offered product, fo
 [ #is_/sub_class_of :: [[PriceComponentTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

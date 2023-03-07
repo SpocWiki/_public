@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReservationStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all reservation_cancelleds.
+
 Tag Instances like this: 
 #is_/a_/reservation_cancelled
 
@@ -43,6 +42,4 @@ The status for a previously confirmed reservation that is now cancelled.
 [ #is_/sub_class_of :: [[ReservationStatusType]] ]
 
 [ #is_/enum_of :: [[ReservationStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: EventAttendanceModeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all offline_event_attendance_modes.
+
 Tag Instances like this: 
 #is_/an_/offline_event_attendance_mode
 
@@ -45,6 +44,4 @@ OfflineEventAttendanceMode - an event that is primarily conducted offline.
 [ #is_/sub_class_of :: [[EventAttendanceModeEnumeration]] ]
 
 [ #is_/enum_of :: [[EventAttendanceModeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

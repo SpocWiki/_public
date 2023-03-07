@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MusicReleaseFormatType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all dvd_formats.
+
 Tag Instances like this: 
 #is_/a_/dvd_format
 
@@ -43,6 +42,4 @@ DVDFormat.
 [ #is_/sub_class_of :: [[MusicReleaseFormatType]] ]
 
 [ #is_/enum_of :: [[MusicReleaseFormatType]] ]
-
-[ #has_/properties :: [  ] ]
 

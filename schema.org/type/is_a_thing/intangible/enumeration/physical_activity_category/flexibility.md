@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PhysicalActivityCategory
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all flexibilitys.
+
 Tag Instances like this: 
 #is_/a_/flexibility
 
@@ -43,6 +42,4 @@ Physical activity that is engaged in to improve joint and muscle flexibility.
 [ #is_/sub_class_of :: [[PhysicalActivityCategory]] ]
 
 [ #is_/enum_of :: [[PhysicalActivityCategory]] ]
-
-[ #has_/properties :: [  ] ]
 

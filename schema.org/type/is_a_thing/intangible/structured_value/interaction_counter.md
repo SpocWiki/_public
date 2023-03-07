@@ -20,8 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
 
 supersedes: UserPlusOnes, UserCheckins, UserBlocks, UserLikes, UserDownloads, UserPageVisits, UserComments, UserTweets, UserInteraction, UserPlays
 
@@ -36,6 +34,7 @@ aliases:
 ---
 
 Class of all interaction_counters.
+
 Tag Instances like this: 
 #is_/an_/interaction_counter
 

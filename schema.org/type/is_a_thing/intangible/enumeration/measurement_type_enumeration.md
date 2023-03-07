@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all measurement_type_enumerations.
+
 Tag Instances like this: 
 #is_/a_/measurement_type_enumeration
 
@@ -45,6 +43,4 @@ Enumeration of common measurement types (or dimensions), for example "chest" for
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
 [ #has_/sub_classes :: [ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ] ]
-
-[ #has_/properties :: [  ] ]
 

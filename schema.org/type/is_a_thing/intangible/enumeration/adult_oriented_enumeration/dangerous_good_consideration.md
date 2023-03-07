@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: AdultOrientedEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all dangerous_good_considerations.
+
 Tag Instances like this: 
 #is_/a_/dangerous_good_consideration
 
@@ -45,6 +44,4 @@ The item is dangerous and requires careful handling and/or special training of t
 [ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

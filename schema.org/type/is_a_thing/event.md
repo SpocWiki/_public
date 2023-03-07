@@ -20,9 +20,7 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
 equivalent_class: http://purl.org/dc/dcmitype/Event
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all events.
+
 Tag Instances like this: 
 #is_/an_/event
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: GenderType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all females.
+
 Tag Instances like this: 
 #is_/a_/female
 
@@ -43,6 +42,4 @@ The female gender.
 [ #is_/sub_class_of :: [[GenderType]] ]
 
 [ #is_/enum_of :: [[GenderType]] ]
-
-[ #has_/properties :: [  ] ]
 

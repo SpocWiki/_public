@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all music_release_format_types.
+
 Tag Instances like this: 
 #is_/a_/music_release_format_type
 
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ActionStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all failed_action_statuss.
+
 Tag Instances like this: 
 #is_/a_/failed_action_status
 
@@ -43,6 +42,4 @@ An action that failed to complete. The action's error property and the HTTP retu
 [ #is_/sub_class_of :: [[ActionStatusType]] ]
 
 [ #is_/enum_of :: [[ActionStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

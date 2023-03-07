@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: RefundTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all exchange_refunds.
+
 Tag Instances like this: 
 #is_/an_/exchange_refund
 
@@ -45,6 +44,4 @@ Specifies that a refund can be done as an exchange for the same product.
 [ #is_/sub_class_of :: [[RefundTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[RefundTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

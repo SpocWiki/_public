@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all infectious_agent_classs.
+
 Tag Instances like this: 
 #is_/an_/infectious_agent_class
 
 Classes of agents or pathogens that transmit infectious diseases. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

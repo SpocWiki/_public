@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: USNonprofitType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all nonprofit501c18s.
+
 Tag Instances like this: 
 #is_/a_/nonprofit501c18
 
@@ -45,6 +44,4 @@ Nonprofit501c18: Non-profit type referring to Employee Funded Pension Trust (cre
 [ #is_/sub_class_of :: [[USNonprofitType]] ]
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: DayOfWeek
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all public_holidayss.
+
 Tag Instances like this: 
 #is_/a_/public_holidays
 
@@ -43,6 +42,4 @@ This stands for any day that is a public holiday; it is a placeholder for all of
 [ #is_/sub_class_of :: [[DayOfWeek]] ]
 
 [ #is_/enum_of :: [[DayOfWeek]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all business_entity_types.
+
 Tag Instances like this: 
 #is_/a_/business_entity_type
 
@@ -48,6 +46,4 @@ Commonly used values:<br/><br/>
 </ul>
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

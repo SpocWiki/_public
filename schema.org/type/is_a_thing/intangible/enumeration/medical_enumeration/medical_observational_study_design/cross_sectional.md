@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalObservationalStudyDesign
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all cross_sectionals.
+
 Tag Instances like this: 
 #is_/a_/cross_sectional
 
@@ -43,6 +42,4 @@ Studies carried out on pre-existing data (usually from 'snapshot' surveys), such
 [ #is_/sub_class_of :: [[MedicalObservationalStudyDesign]] ]
 
 [ #is_/enum_of :: [[MedicalObservationalStudyDesign]] ]
-
-[ #has_/properties :: [  ] ]
 

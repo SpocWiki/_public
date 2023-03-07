@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: BodyMeasurementTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all body_measurement_hipss.
+
 Tag Instances like this: 
 #is_/a_/body_measurement_hips
 
@@ -45,6 +44,4 @@ Girth of hips (measured around the buttocks). Used, for example, to fit skirts.
 [ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

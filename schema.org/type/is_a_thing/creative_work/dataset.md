@@ -20,9 +20,7 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
 equivalent_class: http://purl.org/dc/dcmitype/Dataset, http://www.w3.org/ns/dcat#Dataset, http://rdfs.org/ns/void#Dataset
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all datasets.
+
 Tag Instances like this: 
 #is_/a_/dataset
 

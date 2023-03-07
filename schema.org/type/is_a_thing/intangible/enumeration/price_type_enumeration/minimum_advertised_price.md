@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all minimum_advertised_prices.
+
 Tag Instances like this: 
 #is_/a_/minimum_advertised_price
 
@@ -45,6 +44,4 @@ Represents the minimum advertised price ("MAP") (as dictated by the manufacturer
 [ #is_/sub_class_of :: [[PriceTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

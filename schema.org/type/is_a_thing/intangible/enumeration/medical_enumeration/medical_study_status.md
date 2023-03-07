@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all medical_study_statuss.
+
 Tag Instances like this: 
 #is_/a_/medical_study_status
 
 The status of a medical study. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

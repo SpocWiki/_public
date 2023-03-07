@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all laboratory_sciences.
+
 Tag Instances like this: 
 #is_/a_/laboratory_science
 
@@ -43,6 +42,4 @@ A medical science pertaining to chemical, hematological, immunologic, microscopi
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

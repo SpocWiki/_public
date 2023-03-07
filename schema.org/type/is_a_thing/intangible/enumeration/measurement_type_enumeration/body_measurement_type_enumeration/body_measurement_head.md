@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: BodyMeasurementTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all body_measurement_heads.
+
 Tag Instances like this: 
 #is_/a_/body_measurement_head
 
@@ -45,6 +44,4 @@ Maximum girth of head above the ears. Used, for example, to fit hats.
 [ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

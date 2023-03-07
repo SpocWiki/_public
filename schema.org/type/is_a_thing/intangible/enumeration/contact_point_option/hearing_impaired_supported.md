@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ContactPointOption
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all hearing_impaired_supporteds.
+
 Tag Instances like this: 
 #is_/a_/hearing_impaired_supported
 
@@ -43,6 +42,4 @@ Uses devices to support users with hearing impairments.
 [ #is_/sub_class_of :: [[ContactPointOption]] ]
 
 [ #is_/enum_of :: [[ContactPointOption]] ]
-
-[ #has_/properties :: [  ] ]
 

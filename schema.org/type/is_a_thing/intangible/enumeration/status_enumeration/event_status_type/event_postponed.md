@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: EventStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all event_postponeds.
+
 Tag Instances like this: 
 #is_/an_/event_postponed
 
@@ -43,6 +42,4 @@ The event has been postponed and no new date has been set. The event's previousS
 [ #is_/sub_class_of :: [[EventStatusType]] ]
 
 [ #is_/enum_of :: [[EventStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

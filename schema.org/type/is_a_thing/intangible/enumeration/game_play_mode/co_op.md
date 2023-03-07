@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: GamePlayMode
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all co_ops.
+
 Tag Instances like this: 
 #is_/a_/co_op
 
@@ -43,6 +42,4 @@ Play mode: CoOp. Co-operative games, where you play on the same team with friend
 [ #is_/sub_class_of :: [[GamePlayMode]] ]
 
 [ #is_/enum_of :: [[GamePlayMode]] ]
-
-[ #has_/properties :: [  ] ]
 

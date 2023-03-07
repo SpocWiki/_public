@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: DriveWheelConfigurationValue
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all all_wheel_drive_configurations.
+
 Tag Instances like this: 
 #is_/an_/all_wheel_drive_configuration
 
@@ -43,6 +42,4 @@ All-wheel Drive is a transmission layout where the engine drives all four wheels
 [ #is_/sub_class_of :: [[DriveWheelConfigurationValue]] ]
 
 [ #is_/enum_of :: [[DriveWheelConfigurationValue]] ]
-
-[ #has_/properties :: [  ] ]
 

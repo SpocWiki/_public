@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all legal_force_statuss.
+
 Tag Instances like this: 
 #is_/a_/legal_force_status
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 A list of possible statuses for the legal force of a legislation.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

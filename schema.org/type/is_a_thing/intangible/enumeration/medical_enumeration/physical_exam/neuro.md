@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PhysicalExam
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all neuros.
+
 Tag Instances like this: 
 #is_/a_/neuro
 
@@ -43,6 +42,4 @@ Neurological system clinical examination.
 [ #is_/sub_class_of :: [[PhysicalExam]] ]
 
 [ #is_/enum_of :: [[PhysicalExam]] ]
-
-[ #has_/properties :: [  ] ]
 

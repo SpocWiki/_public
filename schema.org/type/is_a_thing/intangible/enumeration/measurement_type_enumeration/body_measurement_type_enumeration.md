@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all body_measurement_type_enumerations.
+
 Tag Instances like this: 
 #is_/a_/body_measurement_type_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Enumerates types (or dimensions) of a person's body measurements, for example for fitting of clothes.
 
 [ #is_/sub_class_of :: [[MeasurementTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

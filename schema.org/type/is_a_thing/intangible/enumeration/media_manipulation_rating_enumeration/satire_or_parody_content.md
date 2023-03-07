@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MediaManipulationRatingEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all satire_or_parody_contents.
+
 Tag Instances like this: 
 #is_/a_/satire_or_parody_content
 
@@ -49,6 +48,4 @@ For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'satire or
 [ #is_/sub_class_of :: [[MediaManipulationRatingEnumeration]] ]
 
 [ #is_/enum_of :: [[MediaManipulationRatingEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: CarUsageType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all driving_school_vehicle_usages.
+
 Tag Instances like this: 
 #is_/a_/driving_school_vehicle_usage
 
@@ -45,6 +44,4 @@ Indicates the usage of the vehicle for driving school.
 [ #is_/sub_class_of :: [[CarUsageType]] ]
 
 [ #is_/enum_of :: [[CarUsageType]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -20,9 +20,7 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/63653004
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all medical_devices.
+
 Tag Instances like this: 
 #is_/a_/medical_device
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalTrialDesign
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all double_blinded_trials.
+
 Tag Instances like this: 
 #is_/a_/double_blinded_trial
 
@@ -43,6 +42,4 @@ A trial design in which neither the researcher nor the patient knows the details
 [ #is_/sub_class_of :: [[MedicalTrialDesign]] ]
 
 [ #is_/enum_of :: [[MedicalTrialDesign]] ]
-
-[ #has_/properties :: [  ] ]
 

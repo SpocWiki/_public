@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: RsvpResponseType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all rsvp_response_yess.
+
 Tag Instances like this: 
 #is_/a_/rsvp_response_yes
 
@@ -43,6 +42,4 @@ The invitee will attend.
 [ #is_/sub_class_of :: [[RsvpResponseType]] ]
 
 [ #is_/enum_of :: [[RsvpResponseType]] ]
-
-[ #has_/properties :: [  ] ]
 

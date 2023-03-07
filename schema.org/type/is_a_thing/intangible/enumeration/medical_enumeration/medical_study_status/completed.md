@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalStudyStatus
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all completeds.
+
 Tag Instances like this: 
 #is_/a_/completed
 
@@ -43,6 +42,4 @@ Completed.
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/properties :: [  ] ]
 

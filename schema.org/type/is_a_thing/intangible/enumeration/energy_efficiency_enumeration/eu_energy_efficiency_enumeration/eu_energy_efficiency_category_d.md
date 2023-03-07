@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: EUEnergyEfficiencyEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all eu_energy_efficiency_category_ds.
+
 Tag Instances like this: 
 #is_/an_/eu_energy_efficiency_category_d
 
@@ -45,6 +44,4 @@ Represents EU Energy Efficiency Class D as defined in EU energy labeling regulat
 [ #is_/sub_class_of :: [[EUEnergyEfficiencyEnumeration]] ]
 
 [ #is_/enum_of :: [[EUEnergyEfficiencyEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

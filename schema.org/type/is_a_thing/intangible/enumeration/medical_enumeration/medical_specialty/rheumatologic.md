@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all rheumatologics.
+
 Tag Instances like this: 
 #is_/a_/rheumatologic
 
@@ -43,6 +42,4 @@ A specific branch of medical science that deals with the study and treatment of 
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

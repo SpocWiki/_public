@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all texts.
+
 Tag Instances like this: 
 #is_/a_/text
 
 Data type: Text.
 
 [ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
-
-[ #has_/properties :: [  ] ]
 

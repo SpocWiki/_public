@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReturnMethodEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all return_by_mails.
+
 Tag Instances like this: 
 #is_/a_/return_by_mail
 
@@ -45,6 +44,4 @@ Specifies that product returns must be done by mail.
 [ #is_/sub_class_of :: [[ReturnMethodEnumeration]] ]
 
 [ #is_/enum_of :: [[ReturnMethodEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

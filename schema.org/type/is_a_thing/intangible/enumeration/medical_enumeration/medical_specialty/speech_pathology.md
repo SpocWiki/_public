@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all speech_pathologys.
+
 Tag Instances like this: 
 #is_/a_/speech_pathology
 
@@ -43,6 +42,4 @@ The scientific study and treatment of defects, disorders, and malfunctions of sp
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,7 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
 
 superseded_by: Dermatology
 
@@ -36,6 +35,7 @@ aliases:
 ---
 
 Class of all dermatologics.
+
 Tag Instances like this: 
 #is_/a_/dermatologic
 
@@ -44,6 +44,4 @@ Something relating to or practicing dermatology.
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

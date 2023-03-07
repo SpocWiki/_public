@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceComponentTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all distance_fees.
+
 Tag Instances like this: 
 #is_/a_/distance_fee
 
@@ -45,6 +44,4 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 [ #is_/sub_class_of :: [[PriceComponentTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

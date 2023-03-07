@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalStudyStatus
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all not_yet_recruitings.
+
 Tag Instances like this: 
 #is_/a_/not_yet_recruiting
 
@@ -43,6 +42,4 @@ Not yet recruiting.
 [ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
 
 [ #is_/enum_of :: [[MedicalStudyStatus]] ]
-
-[ #has_/properties :: [  ] ]
 

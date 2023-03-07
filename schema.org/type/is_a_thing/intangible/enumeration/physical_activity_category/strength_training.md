@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PhysicalActivityCategory
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all strength_trainings.
+
 Tag Instances like this: 
 #is_/a_/strength_training
 
@@ -43,6 +42,4 @@ Physical activity that is engaged in to improve muscle and bone strength. Also r
 [ #is_/sub_class_of :: [[PhysicalActivityCategory]] ]
 
 [ #is_/enum_of :: [[PhysicalActivityCategory]] ]
-
-[ #has_/properties :: [  ] ]
 

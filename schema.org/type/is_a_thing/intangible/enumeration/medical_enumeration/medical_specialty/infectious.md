@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all infectiouss.
+
 Tag Instances like this: 
 #is_/an_/infectious
 
@@ -43,6 +42,4 @@ Something in medical science that pertains to infectious diseases, i.e. caused b
 [ #is_/sub_class_of :: [[MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

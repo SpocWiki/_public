@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalAudienceType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all medical_researchers.
+
 Tag Instances like this: 
 #is_/a_/medical_researcher
 
@@ -43,6 +42,4 @@ Medical researchers.
 [ #is_/sub_class_of :: [[MedicalAudienceType]] ]
 
 [ #is_/enum_of :: [[MedicalAudienceType]] ]
-
-[ #has_/properties :: [  ] ]
 

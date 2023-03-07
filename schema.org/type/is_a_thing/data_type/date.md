@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,10 +32,9 @@ aliases:
 ---
 
 Class of all dates.
+
 Tag Instances like this: 
 #is_/a_/date
 
 A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date format</a>.
-
-[ #has_/properties :: [  ] ]
 

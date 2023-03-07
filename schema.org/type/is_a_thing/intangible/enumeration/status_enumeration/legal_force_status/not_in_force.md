@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: LegalForceStatus
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all not_in_forces.
+
 Tag Instances like this: 
 #is_/a_/not_in_force
 
@@ -45,6 +44,4 @@ Indicates that a legislation is currently not in force.
 [ #is_/sub_class_of :: [[LegalForceStatus]] ]
 
 [ #is_/enum_of :: [[LegalForceStatus]] ]
-
-[ #has_/properties :: [  ] ]
 

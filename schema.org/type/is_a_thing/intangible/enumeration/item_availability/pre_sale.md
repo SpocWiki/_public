@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ItemAvailability
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all pre_sales.
+
 Tag Instances like this: 
 #is_/a_/pre_sale
 
@@ -43,6 +42,4 @@ Indicates that the item is available for ordering and delivery before general av
 [ #is_/sub_class_of :: [[ItemAvailability]] ]
 
 [ #is_/enum_of :: [[ItemAvailability]] ]
-
-[ #has_/properties :: [  ] ]
 

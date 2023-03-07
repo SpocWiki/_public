@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalEvidenceLevel
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all evidence_level_cs.
+
 Tag Instances like this: 
 #is_/an_/evidence_level_c
 
@@ -43,6 +42,4 @@ Only consensus opinion of experts, case studies, or standard-of-care.
 [ #is_/sub_class_of :: [[MedicalEvidenceLevel]] ]
 
 [ #is_/enum_of :: [[MedicalEvidenceLevel]] ]
-
-[ #has_/properties :: [  ] ]
 

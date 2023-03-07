@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: DigitalPlatformEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all mobile_web_platforms.
+
 Tag Instances like this: 
 #is_/a_/mobile_web_platform
 
@@ -45,6 +44,4 @@ Represents the broad notion of 'mobile' browsers as a Web Platform.
 [ #is_/sub_class_of :: [[DigitalPlatformEnumeration]] ]
 
 [ #is_/enum_of :: [[DigitalPlatformEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

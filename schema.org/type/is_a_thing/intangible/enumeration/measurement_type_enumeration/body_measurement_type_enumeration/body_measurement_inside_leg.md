@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: BodyMeasurementTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all body_measurement_inside_legs.
+
 Tag Instances like this: 
 #is_/a_/body_measurement_inside_leg
 
@@ -45,6 +44,4 @@ Inside leg (measured between crotch and soles of feet). Used, for example, to fi
 [ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

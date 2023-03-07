@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MusicAlbumReleaseType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all broadcast_releases.
+
 Tag Instances like this: 
 #is_/a_/broadcast_release
 
@@ -43,6 +42,4 @@ BroadcastRelease.
 [ #is_/sub_class_of :: [[MusicAlbumReleaseType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumReleaseType]] ]
-
-[ #has_/properties :: [  ] ]
 

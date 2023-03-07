@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all energy_star_energy_efficiency_enumerations.
+
 Tag Instances like this: 
 #is_/an_/energy_star_energy_efficiency_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Used to indicate whether a product is EnergyStar certified.
 
 [ #is_/sub_class_of :: [[EnergyEfficiencyEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

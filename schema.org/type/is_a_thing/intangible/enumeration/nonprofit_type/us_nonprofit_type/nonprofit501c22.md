@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: USNonprofitType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all nonprofit501c22s.
+
 Tag Instances like this: 
 #is_/a_/nonprofit501c22
 
@@ -45,6 +44,4 @@ Nonprofit501c22: Non-profit type referring to Withdrawal Liability Payment Funds
 [ #is_/sub_class_of :: [[USNonprofitType]] ]
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
-
-[ #has_/properties :: [  ] ]
 

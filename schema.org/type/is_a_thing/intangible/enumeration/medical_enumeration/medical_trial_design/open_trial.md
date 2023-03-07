@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalTrialDesign
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all open_trials.
+
 Tag Instances like this: 
 #is_/an_/open_trial
 
@@ -43,6 +42,4 @@ A trial design in which the researcher knows the full details of the treatment, 
 [ #is_/sub_class_of :: [[MedicalTrialDesign]] ]
 
 [ #is_/enum_of :: [[MedicalTrialDesign]] ]
-
-[ #has_/properties :: [  ] ]
 

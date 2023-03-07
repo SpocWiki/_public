@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: LegalValueLevel
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all official_legal_values.
+
 Tag Instances like this: 
 #is_/an_/official_legal_value
 
@@ -45,6 +44,4 @@ All the documents published by an official publisher should have at least the le
 [ #is_/sub_class_of :: [[LegalValueLevel]] ]
 
 [ #is_/enum_of :: [[LegalValueLevel]] ]
-
-[ #has_/properties :: [  ] ]
 

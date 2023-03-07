@@ -37,6 +37,7 @@ aliases:
 ---
 
 Class of all {{label_snail}}s.
+
 Tag Instances like this: 
 #is_/a_/{{label_snail}}
 

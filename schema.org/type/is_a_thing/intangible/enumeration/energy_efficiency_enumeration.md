@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all energy_efficiency_enumerations.
+
 Tag Instances like this: 
 #is_/an_/energy_efficiency_enumeration
 
@@ -45,6 +43,4 @@ Enumerates energy efficiency levels (also known as "classes" or "ratings") and c
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
 [ #has_/sub_classes :: [ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ] ]
-
-[ #has_/properties :: [  ] ]
 

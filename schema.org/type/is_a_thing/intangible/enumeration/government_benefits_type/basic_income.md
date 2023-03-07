@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: GovernmentBenefitsType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all basic_incomes.
+
 Tag Instances like this: 
 #is_/a_/basic_income
 
@@ -45,6 +44,4 @@ BasicIncome: this is a benefit for basic income.
 [ #is_/sub_class_of :: [[GovernmentBenefitsType]] ]
 
 [ #is_/enum_of :: [[GovernmentBenefitsType]] ]
-
-[ #has_/properties :: [  ] ]
 

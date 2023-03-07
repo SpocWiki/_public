@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all refund_type_enumerations.
+
 Tag Instances like this: 
 #is_/a_/refund_type_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Enumerates several kinds of product return refund types.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

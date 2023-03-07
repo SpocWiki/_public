@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all return_label_source_enumerations.
+
 Tag Instances like this: 
 #is_/a_/return_label_source_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Enumerates several types of return labels for product returns.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

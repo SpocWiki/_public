@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReturnFeesEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all restocking_feess.
+
 Tag Instances like this: 
 #is_/a_/restocking_fees
 
@@ -45,6 +44,4 @@ Specifies that the customer must pay a restocking fee when returning a product.
 [ #is_/sub_class_of :: [[ReturnFeesEnumeration]] ]
 
 [ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

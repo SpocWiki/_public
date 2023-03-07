@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: USNonprofitType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all nonprofit501c20s.
+
 Tag Instances like this: 
 #is_/a_/nonprofit501c20
 
@@ -45,6 +44,4 @@ Nonprofit501c20: Non-profit type referring to Group Legal Services Plan Organiza
 [ #is_/sub_class_of :: [[USNonprofitType]] ]
 
 [ #is_/enum_of :: [[USNonprofitType]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicineSystem
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all western_conventionals.
+
 Tag Instances like this: 
 #is_/a_/western_conventional
 
@@ -43,6 +42,4 @@ The conventional Western system of medicine, that aims to apply the best availab
 [ #is_/sub_class_of :: [[MedicineSystem]] ]
 
 [ #is_/enum_of :: [[MedicineSystem]] ]
-
-[ #has_/properties :: [  ] ]
 

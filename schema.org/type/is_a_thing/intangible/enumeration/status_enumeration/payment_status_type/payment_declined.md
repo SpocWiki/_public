@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PaymentStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all payment_declineds.
+
 Tag Instances like this: 
 #is_/a_/payment_declined
 
@@ -43,6 +42,4 @@ The payee received the payment, but it was declined for some reason.
 [ #is_/sub_class_of :: [[PaymentStatusType]] ]
 
 [ #is_/enum_of :: [[PaymentStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

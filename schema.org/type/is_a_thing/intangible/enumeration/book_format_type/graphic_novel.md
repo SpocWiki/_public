@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: BookFormatType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all graphic_novels.
+
 Tag Instances like this: 
 #is_/a_/graphic_novel
 
@@ -45,6 +44,4 @@ Book format: GraphicNovel. May represent a bound collection of ComicIssue instan
 [ #is_/sub_class_of :: [[BookFormatType]] ]
 
 [ #is_/enum_of :: [[BookFormatType]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ItemAvailability
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all in_store_onlys.
+
 Tag Instances like this: 
 #is_/an_/in_store_only
 
@@ -43,6 +42,4 @@ Indicates that the item is available only at physical locations.
 [ #is_/sub_class_of :: [[ItemAvailability]] ]
 
 [ #is_/enum_of :: [[ItemAvailability]] ]
-
-[ #has_/properties :: [  ] ]
 

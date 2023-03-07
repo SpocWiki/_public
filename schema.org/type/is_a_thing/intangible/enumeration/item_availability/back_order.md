@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ItemAvailability
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all back_orders.
+
 Tag Instances like this: 
 #is_/a_/back_order
 
@@ -43,6 +42,4 @@ Indicates that the item is available on back order.
 [ #is_/sub_class_of :: [[ItemAvailability]] ]
 
 [ #is_/enum_of :: [[ItemAvailability]] ]
-
-[ #has_/properties :: [  ] ]
 

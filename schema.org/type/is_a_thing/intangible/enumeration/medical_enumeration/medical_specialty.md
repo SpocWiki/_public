@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all medical_specialtys.
+
 Tag Instances like this: 
 #is_/a_/medical_specialty
 
 Any specific branch of medical science or practice. Medical specialities include clinical specialties that pertain to particular organ systems and their respective disease states, as well as allied health specialties. Enumerated type.
 
 [ #is_/sub_class_of :: [[MedicalEnumeration, Specialty]] ]
-
-[ #has_/properties :: [  ] ]
 

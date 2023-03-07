@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: AdultOrientedEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all sexual_content_considerations.
+
 Tag Instances like this: 
 #is_/a_/sexual_content_consideration
 
@@ -45,6 +44,4 @@ The item contains sexually oriented content such as nudity, suggestive or explic
 [ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

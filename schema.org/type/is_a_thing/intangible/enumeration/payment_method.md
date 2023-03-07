@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all payment_methods.
+
 Tag Instances like this: 
 #is_/a_/payment_method
 
@@ -55,6 +53,4 @@ Commonly used values:<br/><br/>
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
 [ #has_/sub_classes :: [ PaymentCard ] ]
-
-[ #has_/properties :: [  ] ]
 

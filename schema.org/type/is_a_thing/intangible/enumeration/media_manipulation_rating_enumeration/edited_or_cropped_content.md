@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MediaManipulationRatingEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all edited_or_cropped_contents.
+
 Tag Instances like this: 
 #is_/an_/edited_or_cropped_content
 
@@ -49,6 +48,4 @@ For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'edited or
 [ #is_/sub_class_of :: [[MediaManipulationRatingEnumeration]] ]
 
 [ #is_/enum_of :: [[MediaManipulationRatingEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

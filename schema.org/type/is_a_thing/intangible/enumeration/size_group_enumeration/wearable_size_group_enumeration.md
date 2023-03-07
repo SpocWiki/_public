@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all wearable_size_group_enumerations.
+
 Tag Instances like this: 
 #is_/a_/wearable_size_group_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Enumerates common size groups (also known as "size types") for wearable products.
 
 [ #is_/sub_class_of :: [[SizeGroupEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

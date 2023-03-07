@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -34,7 +31,8 @@ aliases:
 - is_an_adult_oriented_enumeration
 ---
 
-Class of all adult_oriented_enumerations.
+Class of all adult_oriented_enumerations. 
+
 Tag Instances like this: 
 #is_/an_/adult_oriented_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Enumeration of considerations that make a product relevant or potentially restricted for adults only.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalDevicePurpose
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all therapeutics.
+
 Tag Instances like this: 
 #is_/a_/therapeutic
 
@@ -43,6 +42,4 @@ A medical device used for therapeutic purposes.
 [ #is_/sub_class_of :: [[MedicalDevicePurpose]] ]
 
 [ #is_/enum_of :: [[MedicalDevicePurpose]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all car_usage_types.
+
 Tag Instances like this: 
 #is_/a_/car_usage_type
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 A value indicating a special usage of a car, e.g. commercial rental, driving school, or as a taxi.
 
 [ #is_/sub_class_of :: [[Enumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

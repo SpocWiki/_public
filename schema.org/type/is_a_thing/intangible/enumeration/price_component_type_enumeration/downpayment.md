@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceComponentTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all downpayments.
+
 Tag Instances like this: 
 #is_/a_/downpayment
 
@@ -45,6 +44,4 @@ Represents the downpayment (up-front payment) price component of the total price
 [ #is_/sub_class_of :: [[PriceComponentTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

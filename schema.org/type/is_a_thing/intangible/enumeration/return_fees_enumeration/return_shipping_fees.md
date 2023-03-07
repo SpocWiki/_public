@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReturnFeesEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all return_shipping_feess.
+
 Tag Instances like this: 
 #is_/a_/return_shipping_fees
 
@@ -45,6 +44,4 @@ Specifies that the customer must pay the return shipping costs when returning a 
 [ #is_/sub_class_of :: [[ReturnFeesEnumeration]] ]
 
 [ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

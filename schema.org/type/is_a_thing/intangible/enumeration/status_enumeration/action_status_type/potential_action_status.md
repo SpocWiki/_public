@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ActionStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all potential_action_statuss.
+
 Tag Instances like this: 
 #is_/a_/potential_action_status
 
@@ -43,6 +42,4 @@ A description of an action that is supported.
 [ #is_/sub_class_of :: [[ActionStatusType]] ]
 
 [ #is_/enum_of :: [[ActionStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReservationStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all reservation_holds.
+
 Tag Instances like this: 
 #is_/a_/reservation_hold
 
@@ -43,6 +42,4 @@ The status of a reservation on hold pending an update like credit card number or
 [ #is_/sub_class_of :: [[ReservationStatusType]] ]
 
 [ #is_/enum_of :: [[ReservationStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

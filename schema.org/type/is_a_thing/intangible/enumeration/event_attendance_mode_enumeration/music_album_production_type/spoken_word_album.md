@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MusicAlbumProductionType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all spoken_word_albums.
+
 Tag Instances like this: 
 #is_/a_/spoken_word_album
 
@@ -43,6 +42,4 @@ SpokenWordAlbum.
 [ #is_/sub_class_of :: [[MusicAlbumProductionType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumProductionType]] ]
-
-[ #has_/properties :: [  ] ]
 

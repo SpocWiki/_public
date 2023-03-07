@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PriceTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all msrps.
+
 Tag Instances like this: 
 #is_/a_/msrp
 
@@ -45,6 +44,4 @@ Represents the manufacturer suggested retail price ("MSRP") of an offered produc
 [ #is_/sub_class_of :: [[PriceTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[PriceTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all wearable_size_system_enumerations.
+
 Tag Instances like this: 
 #is_/a_/wearable_size_system_enumeration
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Enumerates common size systems specific for wearable products
 
 [ #is_/sub_class_of :: [[SizeSystemEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

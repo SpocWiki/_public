@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: UKNonprofitType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all uk_trusts.
+
 Tag Instances like this: 
 #is_/a_/uk_trust
 
@@ -45,6 +44,4 @@ UKTrust: Non-profit type referring to a UK trust.
 [ #is_/sub_class_of :: [[UKNonprofitType]] ]
 
 [ #is_/enum_of :: [[UKNonprofitType]] ]
-
-[ #has_/properties :: [  ] ]
 

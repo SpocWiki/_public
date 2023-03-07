@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: EventStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all event_cancelleds.
+
 Tag Instances like this: 
 #is_/an_/event_cancelled
 
@@ -43,6 +42,4 @@ The event has been cancelled. If the event has multiple startDate values, all ar
 [ #is_/sub_class_of :: [[EventStatusType]] ]
 
 [ #is_/enum_of :: [[EventStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ItemListOrderType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all item_list_order_ascendings.
+
 Tag Instances like this: 
 #is_/an_/item_list_order_ascending
 
@@ -43,6 +42,4 @@ An ItemList ordered with lower values listed first.
 [ #is_/sub_class_of :: [[ItemListOrderType]] ]
 
 [ #is_/enum_of :: [[ItemListOrderType]] ]
-
-[ #has_/properties :: [  ] ]
 

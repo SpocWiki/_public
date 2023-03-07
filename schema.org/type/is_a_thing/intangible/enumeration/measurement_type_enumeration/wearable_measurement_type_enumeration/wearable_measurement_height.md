@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: WearableMeasurementTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all wearable_measurement_heights.
+
 Tag Instances like this: 
 #is_/a_/wearable_measurement_height
 
@@ -45,6 +44,4 @@ Measurement of the height, for example the heel height of a shoe
 [ #is_/sub_class_of :: [[WearableMeasurementTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

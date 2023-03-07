@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: LegalForceStatus
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all partially_in_forces.
+
 Tag Instances like this: 
 #is_/a_/partially_in_force
 
@@ -45,6 +44,4 @@ Indicates that parts of the legislation are in force, and parts are not.
 [ #is_/sub_class_of :: [[LegalForceStatus]] ]
 
 [ #is_/enum_of :: [[LegalForceStatus]] ]
-
-[ #has_/properties :: [  ] ]
 

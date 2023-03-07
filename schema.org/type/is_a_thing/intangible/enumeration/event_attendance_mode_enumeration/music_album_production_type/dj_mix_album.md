@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MusicAlbumProductionType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all dj_mix_albums.
+
 Tag Instances like this: 
 #is_/a_/dj_mix_album
 
@@ -43,6 +42,4 @@ DJMixAlbum.
 [ #is_/sub_class_of :: [[MusicAlbumProductionType]] ]
 
 [ #is_/enum_of :: [[MusicAlbumProductionType]] ]
-
-[ #has_/properties :: [  ] ]
 

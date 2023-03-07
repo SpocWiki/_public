@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all payment_status_types.
+
 Tag Instances like this: 
 #is_/a_/payment_status_type
 
 A specific payment status. For example, PaymentDue, PaymentComplete, etc.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all nonprofit_types.
+
 Tag Instances like this: 
 #is_/a_/nonprofit_type
 
@@ -45,6 +43,4 @@ NonprofitType enumerates several kinds of official non-profit types of which a n
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
 [ #has_/sub_classes :: [ NLNonprofitType, UKNonprofitType, USNonprofitType ] ]
-
-[ #has_/properties :: [  ] ]
 

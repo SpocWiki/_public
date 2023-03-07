@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: SizeSystemEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all size_system_imperials.
+
 Tag Instances like this: 
 #is_/a_/size_system_imperial
 
@@ -45,6 +44,4 @@ Imperial size system.
 [ #is_/sub_class_of :: [[SizeSystemEnumeration]] ]
 
 [ #is_/enum_of :: [[SizeSystemEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

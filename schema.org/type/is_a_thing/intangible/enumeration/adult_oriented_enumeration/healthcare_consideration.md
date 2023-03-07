@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: AdultOrientedEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all healthcare_considerations.
+
 Tag Instances like this: 
 #is_/a_/healthcare_consideration
 
@@ -45,6 +44,4 @@ Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medi
 [ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: AdultOrientedEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all narcotic_considerations.
+
 Tag Instances like this: 
 #is_/a_/narcotic_consideration
 
@@ -45,6 +44,4 @@ Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narco
 [ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

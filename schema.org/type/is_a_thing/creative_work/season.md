@@ -20,8 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
 
 superseded_by: CreativeWorkSeason
 
@@ -36,6 +34,7 @@ aliases:
 ---
 
 Class of all seasons.
+
 Tag Instances like this: 
 #is_/a_/season
 

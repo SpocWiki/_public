@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: BoardingPolicyType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all group_boarding_policys.
+
 Tag Instances like this: 
 #is_/a_/group_boarding_policy
 
@@ -43,6 +42,4 @@ The airline boards by groups based on check-in time, priority, etc.
 [ #is_/sub_class_of :: [[BoardingPolicyType]] ]
 
 [ #is_/enum_of :: [[BoardingPolicyType]] ]
-
-[ #has_/properties :: [  ] ]
 

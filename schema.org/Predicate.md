@@ -3,19 +3,19 @@
 
 Predicates add Properties or Relations to Notes in the Form of Key: Value Pairs, 
 - either in the Front-Matter 
-- or in the Text using 2 Colons and either square or round Brackets [ like :: this ]. 
-These Pairs form Connections/Sentences between the current Note (as the Subject), the Key Value (as the Verb/Predicate) and the Value (or Object).
+- or in the Text using 2 Colons and either round or square Brackets [ like :: this ]. 
+These Pairs form Connections/Sentences between the current Note (as the Subject), the Key (as the Verb/Predicate) and the Object (or Value).
 
 These S-P-O (Subject-Predicate-Object) Triples are also known as Claims. 
 The current Document/Note is always the (implied) Subject of a Relation or Property/Quantity. 
 Subjects and Objects are also named `Entities` due to their unique Names which give them an Id`entity` in contrast to Values which don't have/need relations or Metadata.
 
 S-P-O Claims form a semantic Graph, unlike the simple Links, which don't have a specific Meaning. 
-Semantic Graphs are much richer and sometimes allow for automated inference of Information. 
 
-* Relations: reference another Document/Object. Schema.org defines ca. 700 Relations 
+Semantic Graphs are much richer and allow for automated inference of Information: 
+* Relations: reference another Document/Object. 
+	* Tags and Names of Relations start with either #is/_ or #has/_ (Names drop the # and /). Schema.org defines ca. 700 Relations which are imported here
 	* TODO: ==Quantities with Enumerations as Values need to be decided on!== Enum Values are Singleton/Flyweight Instances
-	* Tags and Names of Relations start with either #is/_ or #has/_ (Names drop the # and /)
 * Properties: specify a Value. This can be a string, but also JSON Types like double, int, DateTime etc. and even Lists of Values are allowed. 
   Depending on the Value Type we distinguish: 
 	* Texts: Labels, Names, URLs, Descriptions etc. start with #has_/text/_about_  

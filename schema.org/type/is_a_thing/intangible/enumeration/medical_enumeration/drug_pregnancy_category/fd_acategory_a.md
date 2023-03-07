@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: DrugPregnancyCategory
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all fd_acategory_as.
+
 Tag Instances like this: 
 #is_/a_/fd_acategory_a
 
@@ -43,6 +42,4 @@ A designation by the US FDA signifying that adequate and well-controlled studies
 [ #is_/sub_class_of :: [[DrugPregnancyCategory]] ]
 
 [ #is_/enum_of :: [[DrugPregnancyCategory]] ]
-
-[ #has_/properties :: [  ] ]
 

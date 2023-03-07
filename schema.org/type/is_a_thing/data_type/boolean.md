@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all booleans.
+
 Tag Instances like this: 
 #is_/a_/boolean
 
 Boolean: True or False.
 
 [ #has_/sub_classes :: [ False, True ] ]
-
-[ #has_/properties :: [  ] ]
 

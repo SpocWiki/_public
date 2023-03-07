@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: DayOfWeek
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all thursdays.
+
 Tag Instances like this: 
 #is_/a_/thursday
 
@@ -43,6 +42,4 @@ The day of the week between Wednesday and Friday.
 [ #is_/sub_class_of :: [[DayOfWeek]] ]
 
 [ #is_/enum_of :: [[DayOfWeek]] ]
-
-[ #has_/properties :: [  ] ]
 

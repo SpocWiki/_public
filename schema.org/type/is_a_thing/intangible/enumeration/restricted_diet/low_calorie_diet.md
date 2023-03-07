@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: RestrictedDiet
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all low_calorie_diets.
+
 Tag Instances like this: 
 #is_/a_/low_calorie_diet
 
@@ -43,6 +42,4 @@ A diet focused on reduced calorie intake.
 [ #is_/sub_class_of :: [[RestrictedDiet]] ]
 
 [ #is_/enum_of :: [[RestrictedDiet]] ]
-
-[ #has_/properties :: [  ] ]
 

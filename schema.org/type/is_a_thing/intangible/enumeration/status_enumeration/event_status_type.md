@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all event_status_types.
+
 Tag Instances like this: 
 #is_/an_/event_status_type
 
 EventStatusType is an enumeration type whose instances represent several states that an Event may be in.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

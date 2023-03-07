@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicineSystem
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all homeopathics.
+
 Tag Instances like this: 
 #is_/a_/homeopathic
 
@@ -43,6 +42,4 @@ A system of medicine based on the principle that a disease can be cured by a sub
 [ #is_/sub_class_of :: [[MedicineSystem]] ]
 
 [ #is_/enum_of :: [[MedicineSystem]] ]
-
-[ #has_/properties :: [  ] ]
 

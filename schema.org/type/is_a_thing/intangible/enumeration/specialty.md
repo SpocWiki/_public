@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all specialtys.
+
 Tag Instances like this: 
 #is_/a_/specialty
 
@@ -43,6 +41,4 @@ Any branch of a field in which people typically develop specific expertise, usua
 [ #is_/sub_class_of :: [[Enumeration]] ]
 
 [ #has_/sub_classes :: [ MedicalSpecialty ] ]
-
-[ #has_/properties :: [  ] ]
 

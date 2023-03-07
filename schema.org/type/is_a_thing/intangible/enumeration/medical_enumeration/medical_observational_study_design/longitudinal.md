@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalObservationalStudyDesign
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all longitudinals.
+
 Tag Instances like this: 
 #is_/a_/longitudinal
 
@@ -43,6 +42,4 @@ Unlike cross-sectional studies, longitudinal studies track the same people, and 
 [ #is_/sub_class_of :: [[MedicalObservationalStudyDesign]] ]
 
 [ #is_/enum_of :: [[MedicalObservationalStudyDesign]] ]
-
-[ #has_/properties :: [  ] ]
 

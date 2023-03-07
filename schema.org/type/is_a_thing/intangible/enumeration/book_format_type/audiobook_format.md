@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: BookFormatType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all audiobook_formats.
+
 Tag Instances like this: 
 #is_/an_/audiobook_format
 
@@ -43,6 +42,4 @@ Book format: Audiobook. This is an enumerated value for use with the bookFormat 
 [ #is_/sub_class_of :: [[BookFormatType]] ]
 
 [ #is_/enum_of :: [[BookFormatType]] ]
-
-[ #has_/properties :: [  ] ]
 

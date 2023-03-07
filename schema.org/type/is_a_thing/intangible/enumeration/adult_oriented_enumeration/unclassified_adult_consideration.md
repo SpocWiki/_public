@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: AdultOrientedEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all unclassified_adult_considerations.
+
 Tag Instances like this: 
 #is_/an_/unclassified_adult_consideration
 
@@ -45,6 +44,4 @@ The item is suitable only for adults, without indicating why. Due to widespread 
 [ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
 
 [ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

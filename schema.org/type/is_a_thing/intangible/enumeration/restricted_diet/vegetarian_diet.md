@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: RestrictedDiet
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all vegetarian_diets.
+
 Tag Instances like this: 
 #is_/a_/vegetarian_diet
 
@@ -43,6 +42,4 @@ A diet exclusive of animal meat.
 [ #is_/sub_class_of :: [[RestrictedDiet]] ]
 
 [ #is_/enum_of :: [[RestrictedDiet]] ]
-
-[ #has_/properties :: [  ] ]
 

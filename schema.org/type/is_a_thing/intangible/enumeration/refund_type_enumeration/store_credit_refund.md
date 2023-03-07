@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: RefundTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all store_credit_refunds.
+
 Tag Instances like this: 
 #is_/a_/store_credit_refund
 
@@ -45,6 +44,4 @@ Specifies that the customer receives a store credit as refund when returning a p
 [ #is_/sub_class_of :: [[RefundTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[RefundTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

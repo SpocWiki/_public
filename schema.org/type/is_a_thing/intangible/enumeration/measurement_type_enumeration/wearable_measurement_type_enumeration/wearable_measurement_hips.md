@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: WearableMeasurementTypeEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all wearable_measurement_hipss.
+
 Tag Instances like this: 
 #is_/a_/wearable_measurement_hips
 
@@ -45,6 +44,4 @@ Measurement of the hip section, for example of a skirt
 [ #is_/sub_class_of :: [[WearableMeasurementTypeEnumeration]] ]
 
 [ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

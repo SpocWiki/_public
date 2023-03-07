@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: GamePlayMode
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all single_players.
+
 Tag Instances like this: 
 #is_/a_/single_player
 
@@ -43,6 +42,4 @@ Play mode: SinglePlayer. Which is played by a lone player.
 [ #is_/sub_class_of :: [[GamePlayMode]] ]
 
 [ #is_/enum_of :: [[GamePlayMode]] ]
-
-[ #has_/properties :: [  ] ]
 

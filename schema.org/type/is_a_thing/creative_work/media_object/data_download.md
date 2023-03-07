@@ -20,9 +20,7 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
 equivalent_class: http://www.w3.org/ns/dcat#Distribution
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all data_downloads.
+
 Tag Instances like this: 
 #is_/a_/data_download
 

@@ -20,9 +20,7 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/116154003
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all patients.
+
 Tag Instances like this: 
 #is_/a_/patient
 

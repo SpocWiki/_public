@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: UKNonprofitType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all limited_by_guarantee_charitys.
+
 Tag Instances like this: 
 #is_/a_/limited_by_guarantee_charity
 
@@ -45,6 +44,4 @@ LimitedByGuaranteeCharity: Non-profit type referring to a charitable company tha
 [ #is_/sub_class_of :: [[UKNonprofitType]] ]
 
 [ #is_/enum_of :: [[UKNonprofitType]] ]
-
-[ #has_/properties :: [  ] ]
 

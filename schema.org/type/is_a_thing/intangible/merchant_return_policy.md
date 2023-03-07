@@ -20,8 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
 
 supersedes: ProductReturnPolicy
 
@@ -36,6 +34,7 @@ aliases:
 ---
 
 Class of all merchant_return_policys.
+
 Tag Instances like this: 
 #is_/a_/merchant_return_policy
 

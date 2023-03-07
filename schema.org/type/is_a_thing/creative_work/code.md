@@ -20,8 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
 
 superseded_by: SoftwareSourceCode
 
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all codes.
+
 Tag Instances like this: 
 #is_/a_/code
 

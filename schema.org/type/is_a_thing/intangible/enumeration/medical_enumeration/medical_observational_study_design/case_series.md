@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalObservationalStudyDesign
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all case_seriess.
+
 Tag Instances like this: 
 #is_/a_/case_series
 
@@ -43,6 +42,4 @@ A case series (also known as a clinical series) is a medical research study that
 [ #is_/sub_class_of :: [[MedicalObservationalStudyDesign]] ]
 
 [ #is_/enum_of :: [[MedicalObservationalStudyDesign]] ]
-
-[ #has_/properties :: [  ] ]
 

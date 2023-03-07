@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,12 +32,11 @@ aliases:
 ---
 
 Class of all action_status_types.
+
 Tag Instances like this: 
 #is_/an_/action_status_type
 
 The status of an Action.
 
 [ #is_/sub_class_of :: [[StatusEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

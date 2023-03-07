@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PhysicalActivityCategory
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all occupational_activitys.
+
 Tag Instances like this: 
 #is_/an_/occupational_activity
 
@@ -43,6 +42,4 @@ Any physical activity engaged in for job-related purposes. Examples may include 
 [ #is_/sub_class_of :: [[PhysicalActivityCategory]] ]
 
 [ #is_/enum_of :: [[PhysicalActivityCategory]] ]
-
-[ #has_/properties :: [  ] ]
 

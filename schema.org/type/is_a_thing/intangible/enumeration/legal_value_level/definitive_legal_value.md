@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: LegalValueLevel
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all definitive_legal_values.
+
 Tag Instances like this: 
 #is_/a_/definitive_legal_value
 
@@ -46,6 +45,4 @@ Indicates a document for which the text is conclusively what the law says and is
 [ #is_/sub_class_of :: [[LegalValueLevel]] ]
 
 [ #is_/enum_of :: [[LegalValueLevel]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: InfectiousAgentClass
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all viruss.
+
 Tag Instances like this: 
 #is_/a_/virus
 
@@ -43,6 +42,4 @@ Pathogenic virus that causes viral infection.
 [ #is_/sub_class_of :: [[InfectiousAgentClass]] ]
 
 [ #is_/enum_of :: [[InfectiousAgentClass]] ]
-
-[ #has_/properties :: [  ] ]
 

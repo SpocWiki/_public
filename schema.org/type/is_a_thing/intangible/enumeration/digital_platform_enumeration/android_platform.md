@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: DigitalPlatformEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all android_platforms.
+
 Tag Instances like this: 
 #is_/an_/android_platform
 
@@ -45,6 +44,4 @@ Represents the broad notion of Android-based operating systems.
 [ #is_/sub_class_of :: [[DigitalPlatformEnumeration]] ]
 
 [ #is_/enum_of :: [[DigitalPlatformEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ActionStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all active_action_statuss.
+
 Tag Instances like this: 
 #is_/an_/active_action_status
 
@@ -43,6 +42,4 @@ An in-progress action (e.g., while watching the movie, or driving to a location)
 [ #is_/sub_class_of :: [[ActionStatusType]] ]
 
 [ #is_/enum_of :: [[ActionStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

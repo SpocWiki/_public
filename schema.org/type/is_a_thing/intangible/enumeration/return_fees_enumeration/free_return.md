@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: ReturnFeesEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all free_returns.
+
 Tag Instances like this: 
 #is_/a_/free_return
 
@@ -45,6 +44,4 @@ Specifies that product returns are free of charge for the customer.
 [ #is_/sub_class_of :: [[ReturnFeesEnumeration]] ]
 
 [ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

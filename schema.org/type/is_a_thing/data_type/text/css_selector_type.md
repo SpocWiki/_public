@@ -20,9 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: 
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +32,7 @@ aliases:
 ---
 
 Class of all css_selector_types.
+
 Tag Instances like this: 
 #is_/a_/css_selector_type
 
@@ -43,6 +41,4 @@ Tag Instances like this:
 Text representing a CSS selector.
 
 [ #is_/sub_class_of :: [[Text]] ]
-
-[ #has_/properties :: [  ] ]
 

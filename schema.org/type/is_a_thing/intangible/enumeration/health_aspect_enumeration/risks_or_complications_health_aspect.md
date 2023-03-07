@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: HealthAspectEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all risks_or_complications_health_aspects.
+
 Tag Instances like this: 
 #is_/a_/risks_or_complications_health_aspect
 
@@ -45,6 +44,4 @@ Information about the risk factors and possible complications that may follow a 
 [ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
 
 [ #is_/enum_of :: [[HealthAspectEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 

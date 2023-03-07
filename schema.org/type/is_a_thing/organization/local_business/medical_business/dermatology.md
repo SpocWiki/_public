@@ -21,7 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: MedicalSpecialty
-equivalent_class: 
 
 supersedes: Dermatologic
 
@@ -36,6 +35,7 @@ aliases:
 ---
 
 Class of all dermatologys.
+
 Tag Instances like this: 
 #is_/a_/dermatology
 
@@ -44,6 +44,4 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 [ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
 
 [ #is_/enum_of :: [[MedicalSpecialty]] ]
-
-[ #has_/properties :: [  ] ]
 

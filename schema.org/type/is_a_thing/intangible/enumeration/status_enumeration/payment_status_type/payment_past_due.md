@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: PaymentStatusType
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all payment_past_dues.
+
 Tag Instances like this: 
 #is_/a_/payment_past_due
 
@@ -43,6 +42,4 @@ The payment is due and considered late.
 [ #is_/sub_class_of :: [[PaymentStatusType]] ]
 
 [ #is_/enum_of :: [[PaymentStatusType]] ]
-
-[ #has_/properties :: [  ] ]
 

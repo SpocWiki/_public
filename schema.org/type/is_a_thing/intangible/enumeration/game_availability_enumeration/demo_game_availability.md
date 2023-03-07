@@ -21,8 +21,6 @@ publishDate:
 expiryDate: 
 
 enumerationtype: GameAvailabilityEnumeration
-equivalent_class: 
-
 
 tags:
 - schema.org/Type
@@ -35,6 +33,7 @@ aliases:
 ---
 
 Class of all demo_game_availabilitys.
+
 Tag Instances like this: 
 #is_/a_/demo_game_availability
 
@@ -45,6 +44,4 @@ Indicates demo game availability, i.e. a somehow limited demonstration of the fu
 [ #is_/sub_class_of :: [[GameAvailabilityEnumeration]] ]
 
 [ #is_/enum_of :: [[GameAvailabilityEnumeration]] ]
-
-[ #has_/properties :: [  ] ]
 
