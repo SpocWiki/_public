@@ -32,7 +32,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/available_generically 
-#is_/not/available_generically 
+#is_/not_/available_generically 
 
 Or write it as a Triple: 
 [ is_available_generically :: Boolean ] 

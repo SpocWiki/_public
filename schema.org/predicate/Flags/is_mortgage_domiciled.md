@@ -34,7 +34,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/mortgage_domiciled 
-#is_/not/mortgage_domiciled 
+#is_/not_/mortgage_domiciled 
 
 Or write it as a Triple: 
 [ is_mortgage_domiciled :: Boolean ] 

@@ -34,7 +34,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/resizable 
-#is_/not/resizable 
+#is_/not_/resizable 
 
 Or write it as a Triple: 
 [ is_resizable :: Boolean ] 

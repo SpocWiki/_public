@@ -34,7 +34,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/health_plan_cost_sharing 
-#is_/not/health_plan_cost_sharing 
+#is_/not_/health_plan_cost_sharing 
 
 Or write it as a Triple: 
 [ is_health_plan_cost_sharing :: Boolean ] 

@@ -34,7 +34,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/free 
-#is_/not/free 
+#is_/not_/free 
 
 Or write it as a Triple: 
 [ is_free :: Boolean ] 

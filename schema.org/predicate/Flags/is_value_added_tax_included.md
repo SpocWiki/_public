@@ -32,7 +32,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/value_added_tax_included 
-#is_/not/value_added_tax_included 
+#is_/not_/value_added_tax_included 
 
 Or write it as a Triple: 
 [ is_value_added_tax_included :: Boolean ] 

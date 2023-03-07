@@ -32,7 +32,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/for_a_gift 
-#is_/not/for_a_gift 
+#is_/not_/for_a_gift 
 
 Or write it as a Triple: 
 [ is_for_a_gift :: Boolean ] 

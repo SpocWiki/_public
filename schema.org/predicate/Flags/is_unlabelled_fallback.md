@@ -34,7 +34,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/unlabelled_fallback 
-#is_/not/unlabelled_fallback 
+#is_/not_/unlabelled_fallback 
 
 Or write it as a Triple: 
 [ is_unlabelled_fallback :: Boolean ] 

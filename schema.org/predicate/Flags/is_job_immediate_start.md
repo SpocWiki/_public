@@ -34,7 +34,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/job_immediate_start 
-#is_/not/job_immediate_start 
+#is_/not_/job_immediate_start 
 
 Or write it as a Triple: 
 [ is_job_immediate_start :: Boolean ] 

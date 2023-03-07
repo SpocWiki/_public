@@ -32,7 +32,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/value_required 
-#is_/not/value_required 
+#is_/not_/value_required 
 
 Or write it as a Triple: 
 [ is_value_required :: Boolean ] 

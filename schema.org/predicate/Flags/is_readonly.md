@@ -32,7 +32,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/readonly 
-#is_/not/readonly 
+#is_/not_/readonly 
 
 Or write it as a Triple: 
 [ is_readonly :: Boolean ] 

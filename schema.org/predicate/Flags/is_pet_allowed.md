@@ -32,7 +32,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/pet_allowed 
-#is_/not/pet_allowed 
+#is_/not_/pet_allowed 
 
 Or write it as a Triple: 
 [ is_pet_allowed :: Boolean, Text ] 

@@ -32,7 +32,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/representative_of_page 
-#is_/not/representative_of_page 
+#is_/not_/representative_of_page 
 
 Or write it as a Triple: 
 [ is_representative_of_page :: Boolean ] 

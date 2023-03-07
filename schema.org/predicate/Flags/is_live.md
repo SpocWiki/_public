@@ -32,7 +32,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/live 
-#is_/not/live 
+#is_/not_/live 
 
 Or write it as a Triple: 
 [ is_live :: Boolean ] 

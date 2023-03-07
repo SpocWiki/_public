@@ -34,7 +34,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/in_store_return_offered 
-#is_/not/in_store_return_offered 
+#is_/not_/in_store_return_offered 
 
 Or write it as a Triple: 
 [ is_in_store_return_offered :: Boolean ] 

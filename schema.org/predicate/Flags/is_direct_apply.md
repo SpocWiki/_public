@@ -34,7 +34,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/_/direct_apply 
-#is_/not/direct_apply 
+#is_/not_/direct_apply 
 
 Or write it as a Triple: 
 [ is_direct_apply :: Boolean ] 
