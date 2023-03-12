@@ -39,7 +39,7 @@ Tag Instances like this:
 
 An automatic payment system is in place and will be used.
 
-[ #is_/sub_class_of :: [[PaymentStatusType]] ]
+[ #is_/sub_class_of :: [[../PaymentStatusType]] ]
 
-[ #is_/enum_of :: [[PaymentStatusType]] ]
+[ #is_/enum_of :: [[../PaymentStatusType]] ]
 

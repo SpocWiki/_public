@@ -43,7 +43,7 @@ Related actions:<br/><br/>
 <li><a class="localLink" href="/ReceiveAction">ReceiveAction</a>: Unlike ReceiveAction, TakeAction implies that ownership has been transferred.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[TransferAction]] ]
+[ #is_/sub_class_of :: [[../TransferAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 

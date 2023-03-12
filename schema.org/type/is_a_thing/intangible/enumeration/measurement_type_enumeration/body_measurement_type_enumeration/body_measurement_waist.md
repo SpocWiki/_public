@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Girth of natural waistline (between hip bones and lower ribs). Used, for example, to fit pants.
 
-[ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 

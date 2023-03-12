@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of responding instinctively and emotionally to an object, expressing a sentiment.
 
-[ #is_/sub_class_of :: [[AssessAction]] ]
+[ #is_/sub_class_of :: [[../AssessAction]] ]
 
 [ #has_/sub_classes :: [ AgreeAction, DisagreeAction, DislikeAction, EndorseAction, LikeAction, WantAction ] ]
 

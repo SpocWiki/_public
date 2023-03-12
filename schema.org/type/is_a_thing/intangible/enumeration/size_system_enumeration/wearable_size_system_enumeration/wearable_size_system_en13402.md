@@ -41,7 +41,7 @@ Tag Instances like this:
 
 EN 13402 (joint European standard for size labelling of clothes).
 
-[ #is_/sub_class_of :: [[WearableSizeSystemEnumeration]] ]
+[ #is_/sub_class_of :: [[../WearableSizeSystemEnumeration]] ]
 
-[ #is_/enum_of :: [[WearableSizeSystemEnumeration]] ]
+[ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 

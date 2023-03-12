@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501c14: Non-profit type referring to State-Chartered Credit Unions, Mutual Reserve Funds.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

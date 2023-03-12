@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501k: Non-profit type referring to Child Care Organizations.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

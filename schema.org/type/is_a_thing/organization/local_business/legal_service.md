@@ -39,7 +39,7 @@ Tag Instances like this:
 A LegalService is a business that provides legally-oriented services, advice and representation, e.g. law firms.<br/><br/>
 As a <a class="localLink" href="/LocalBusiness">LocalBusiness</a> it can be described as a <a class="localLink" href="/provider">provider</a> of one or more <a class="localLink" href="/Service">Service</a>(s).
 
-[ #is_/sub_class_of :: [[LocalBusiness]] ]
+[ #is_/sub_class_of :: [[../LocalBusiness]] ]
 
 [ #has_/sub_classes :: [ Attorney, Notary ] ]
 

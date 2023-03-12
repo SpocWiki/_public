@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A short TV or radio program or a segment/part of a program.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ MovieClip, RadioClip, TVClip, VideoGameClip ] ]
 

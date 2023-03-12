@@ -45,7 +45,7 @@ For an <a class="localLink" href="/ImageObject">ImageObject</a> to be 'original'
 For an <a class="localLink" href="/ImageObject">ImageObject</a> with embedded text to be 'original': No evidence the image has been misleadingly altered or manipulated, though it may still contain false or misleading claims.<br/><br/>
 For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'original': No evidence the audio has been misleadingly altered or manipulated, though it may contain false or misleading claims.
 
-[ #is_/sub_class_of :: [[MediaManipulationRatingEnumeration]] ]
+[ #is_/sub_class_of :: [[../MediaManipulationRatingEnumeration]] ]
 
-[ #is_/enum_of :: [[MediaManipulationRatingEnumeration]] ]
+[ #is_/enum_of :: [[../MediaManipulationRatingEnumeration]] ]
 

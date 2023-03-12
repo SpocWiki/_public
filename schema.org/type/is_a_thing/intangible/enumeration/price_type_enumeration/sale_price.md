@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents a sale price (usually active for a limited period) of an offered product.
 
-[ #is_/sub_class_of :: [[PriceTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../PriceTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[PriceTypeEnumeration]] ]
+[ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 

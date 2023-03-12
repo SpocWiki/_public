@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A single message from a sender to one or more organizations or people.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ EmailMessage ] ]
 

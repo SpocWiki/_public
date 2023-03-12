@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Status of a game server.
 
-[ #is_/sub_class_of :: [[StatusEnumeration]] ]
+[ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 

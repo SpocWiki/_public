@@ -43,7 +43,7 @@ Tag Instances like this:
 
 Specifies that a product return policy is not provided.
 
-[ #is_/sub_class_of :: [[MerchantReturnEnumeration]] ]
+[ #is_/sub_class_of :: [[../MerchantReturnEnumeration]] ]
 
-[ #is_/enum_of :: [[MerchantReturnEnumeration]] ]
+[ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 

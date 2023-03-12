@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

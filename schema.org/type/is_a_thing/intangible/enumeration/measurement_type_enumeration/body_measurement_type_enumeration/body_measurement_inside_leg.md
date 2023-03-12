@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Inside leg (measured between crotch and soles of feet). Used, for example, to fit pants.
 
-[ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 

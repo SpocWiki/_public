@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A monetary grant.
 
-[ #is_/sub_class_of :: [[Grant]] ]
+[ #is_/sub_class_of :: [[../Grant]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, amount, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ] ]
 

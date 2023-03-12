@@ -41,7 +41,7 @@ For more specific types of accommodations not defined in schema.org, one can use
 <br /><br />
 See also the <a href="/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
-[ #is_/sub_class_of :: [[Place]] ]
+[ #is_/sub_class_of :: [[../Place]] ]
 
 [ #has_/sub_classes :: [ Apartment, CampingPitch, House, Room, Suite ] ]
 

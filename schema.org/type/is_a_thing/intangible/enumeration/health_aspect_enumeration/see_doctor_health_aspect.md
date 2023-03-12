@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Information about questions that may be asked, when to see a professional, measures before seeing a doctor or content about the first consultation.
 
-[ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
+[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
 
-[ #is_/enum_of :: [[HealthAspectEnumeration]] ]
+[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 

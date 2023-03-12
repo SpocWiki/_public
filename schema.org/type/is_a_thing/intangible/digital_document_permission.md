@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A permission for a particular person or group to access a particular file.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ] ]
 

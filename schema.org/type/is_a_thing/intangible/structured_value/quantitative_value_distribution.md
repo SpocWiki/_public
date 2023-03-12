@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A statistical distribution of values.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/sub_classes :: [ MonetaryAmountDistribution ] ]
 

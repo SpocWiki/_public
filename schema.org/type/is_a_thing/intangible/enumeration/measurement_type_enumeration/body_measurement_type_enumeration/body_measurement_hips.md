@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Girth of hips (measured around the buttocks). Used, for example, to fit skirts.
 
-[ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 

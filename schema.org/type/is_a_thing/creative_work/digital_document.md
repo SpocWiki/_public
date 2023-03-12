@@ -38,7 +38,7 @@ Tag Instances like this:
 
 An electronic file or document.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ NoteDigitalDocument, PresentationDigitalDocument, SpreadsheetDigitalDocument, TextDigitalDocument ] ]
 

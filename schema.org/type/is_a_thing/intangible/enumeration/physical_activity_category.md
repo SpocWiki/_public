@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Categories of physical activity, organized by physiologic classification.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

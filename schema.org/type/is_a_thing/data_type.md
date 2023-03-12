@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The basic data types such as Integers, Strings, etc.
 
-[ #is_/sub_class_of :: [[rdfs:class]] ]
+[ #is_/sub_class_of :: [[../rdfs:class]] ]
 
 [ #has_/sub_classes :: [ Boolean, Time, DateTime, Date, Text, Number ] ]
 

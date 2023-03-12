@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Indicated that a return label must be downloaded and printed by the customer.
 
-[ #is_/sub_class_of :: [[ReturnLabelSourceEnumeration]] ]
+[ #is_/sub_class_of :: [[../ReturnLabelSourceEnumeration]] ]
 
-[ #is_/enum_of :: [[ReturnLabelSourceEnumeration]] ]
+[ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
 

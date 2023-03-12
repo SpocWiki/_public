@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Specifies that product returns must be paid for, and are the responsibility of, the customer.
 
-[ #is_/sub_class_of :: [[ReturnFeesEnumeration]] ]
+[ #is_/sub_class_of :: [[../ReturnFeesEnumeration]] ]
 
-[ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
+[ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 

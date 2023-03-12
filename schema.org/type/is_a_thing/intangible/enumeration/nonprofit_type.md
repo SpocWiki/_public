@@ -40,7 +40,7 @@ Tag Instances like this:
 
 NonprofitType enumerates several kinds of official non-profit types of which a non-profit organization can be.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 
 [ #has_/sub_classes :: [ NLNonprofitType, UKNonprofitType, USNonprofitType ] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Maximum hand girth (measured over the knuckles of the open right hand excluding thumb, fingers together). Used, for example, to fit gloves.
 
-[ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 

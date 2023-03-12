@@ -42,7 +42,7 @@ The act of physically/electronically dispatching an object for transfer from an 
 <li><a class="localLink" href="/GiveAction">GiveAction</a>: Unlike GiveAction, SendAction does not imply the transfer of ownership (e.g. I can send you my laptop, but I'm not necessarily giving it to you).</li>
 </ul>
 
-[ #is_/sub_class_of :: [[TransferAction]] ]
+[ #is_/sub_class_of :: [[../TransferAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 

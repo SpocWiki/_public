@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Enumerations related to health and the practice of medicine: A concept that is used to attribute a quality to another concept, as a qualifier, a collection of items or a listing of all of the elements of a set in medicine practice.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 
 [ #has_/sub_classes :: [ DrugCostCategory, DrugPregnancyCategory, DrugPrescriptionStatus, InfectiousAgentClass, MedicalAudienceType, MedicalDevicePurpose, MedicalEvidenceLevel, MedicalImagingTechnique, MedicalObservationalStudyDesign, MedicalProcedureType, MedicalSpecialty, MedicalStudyStatus, MedicalTrialDesign, MedicineSystem, PhysicalExam ] ]
 

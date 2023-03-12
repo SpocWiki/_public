@@ -39,7 +39,7 @@ Tag Instances like this:
 
 The status for a previously confirmed reservation that is now cancelled.
 
-[ #is_/sub_class_of :: [[ReservationStatusType]] ]
+[ #is_/sub_class_of :: [[../ReservationStatusType]] ]
 
-[ #is_/enum_of :: [[ReservationStatusType]] ]
+[ #is_/enum_of :: [[../ReservationStatusType]] ]
 

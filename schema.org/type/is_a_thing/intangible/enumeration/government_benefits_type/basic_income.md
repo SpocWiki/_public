@@ -41,7 +41,7 @@ Tag Instances like this:
 
 BasicIncome: this is a benefit for basic income.
 
-[ #is_/sub_class_of :: [[GovernmentBenefitsType]] ]
+[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
 
-[ #is_/enum_of :: [[GovernmentBenefitsType]] ]
+[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 

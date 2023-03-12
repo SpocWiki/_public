@@ -40,7 +40,7 @@ Tag Instances like this:
 A publication in any medium issued in successive parts bearing numerical or chronological designations and intended to continue indefinitely, such as a magazine, scholarly journal, or newspaper.<br/><br/>
 See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliographic_2.html">blog post</a>.
 
-[ #is_/sub_class_of :: [[CreativeWorkSeries]] ]
+[ #is_/sub_class_of :: [[../CreativeWorkSeries]] ]
 
 [ #has_/sub_classes :: [ ComicSeries, Newspaper ] ]
 

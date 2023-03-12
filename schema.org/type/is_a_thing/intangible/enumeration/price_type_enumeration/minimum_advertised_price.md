@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents the minimum advertised price ("MAP") (as dictated by the manufacturer) of an offered product.
 
-[ #is_/sub_class_of :: [[PriceTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../PriceTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[PriceTypeEnumeration]] ]
+[ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 

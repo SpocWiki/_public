@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A product or service offered by a bank whereby one may deposit, withdraw or transfer money and in some cases be paid interest.
 
-[ #is_/sub_class_of :: [[FinancialProduct]] ]
+[ #is_/sub_class_of :: [[../FinancialProduct]] ]
 
 [ #has_/sub_classes :: [ DepositAccount ] ]
 

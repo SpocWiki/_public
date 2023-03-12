@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Enumerated status values for Order.
 
-[ #is_/sub_class_of :: [[StatusEnumeration]] ]
+[ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 

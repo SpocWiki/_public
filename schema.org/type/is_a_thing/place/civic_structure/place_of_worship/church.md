@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A church.
 
-[ #is_/sub_class_of :: [[PlaceOfWorship]] ]
+[ #is_/sub_class_of :: [[../PlaceOfWorship]] ]
 
 [ #has_/sub_classes :: [ CatholicChurch ] ]
 

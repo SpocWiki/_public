@@ -43,7 +43,7 @@ Tag Instances like this:
 
 Specifies that there is a finite window for product returns.
 
-[ #is_/sub_class_of :: [[MerchantReturnEnumeration]] ]
+[ #is_/sub_class_of :: [[../MerchantReturnEnumeration]] ]
 
-[ #is_/enum_of :: [[MerchantReturnEnumeration]] ]
+[ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 

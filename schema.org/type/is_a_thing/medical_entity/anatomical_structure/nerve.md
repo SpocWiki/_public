@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A common pathway for the electrochemical nerve impulses that are transmitted along each of the axons.
 
-[ #is_/sub_class_of :: [[AnatomicalStructure]] ]
+[ #is_/sub_class_of :: [[../AnatomicalStructure]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, branch, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, nerveMotor, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, sensoryUnit, sourcedFrom, study, subStructure, subjectOf, url ] ]
 

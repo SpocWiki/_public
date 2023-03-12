@@ -38,7 +38,7 @@ Tag Instances like this:
 
 An organization such as a school, NGO, corporation, club, etc.
 
-[ #is_/sub_class_of :: [[Thing]] ]
+[ #is_/sub_class_of :: [[../Thing]] ]
 
 [ #has_/sub_classes :: [ Airline, Consortium, Corporation, EducationalOrganization, FundingScheme, GovernmentOrganization, LibrarySystem, LocalBusiness, MedicalOrganization, NGO, NewsMediaOrganization, OnlineBusiness, PerformingGroup, Project, ResearchOrganization, SearchRescueOrganization, SportsOrganization, WorkersUnion ] ]
 

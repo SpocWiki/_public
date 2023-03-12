@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Level of evidence for a medical guideline. Enumerated type.
 
-[ #is_/sub_class_of :: [[MedicalEnumeration]] ]
+[ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 

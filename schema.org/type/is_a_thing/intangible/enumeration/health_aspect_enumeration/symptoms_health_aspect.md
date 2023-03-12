@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Symptoms or related symptoms of a Topic.
 
-[ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
+[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
 
-[ #is_/enum_of :: [[HealthAspectEnumeration]] ]
+[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A permit issued by a government agency.
 
-[ #is_/sub_class_of :: [[Permit]] ]
+[ #is_/sub_class_of :: [[../Permit]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ] ]
 

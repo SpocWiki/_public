@@ -39,7 +39,7 @@ Tag Instances like this:
 A reservation for an event like a concert, sporting event, or lecture.<br/><br/>
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, use <a class="localLink" href="/Offer">Offer</a>.
 
-[ #is_/sub_class_of :: [[Reservation]] ]
+[ #is_/sub_class_of :: [[../Reservation]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 

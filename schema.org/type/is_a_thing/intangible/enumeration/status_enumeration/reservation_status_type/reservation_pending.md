@@ -39,7 +39,7 @@ Tag Instances like this:
 
 The status of a reservation when a request has been sent, but not confirmed.
 
-[ #is_/sub_class_of :: [[ReservationStatusType]] ]
+[ #is_/sub_class_of :: [[../ReservationStatusType]] ]
 
-[ #is_/enum_of :: [[ReservationStatusType]] ]
+[ #is_/enum_of :: [[../ReservationStatusType]] ]
 

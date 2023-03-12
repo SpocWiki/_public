@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Not yet recruiting.
 
-[ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
+[ #is_/sub_class_of :: [[../MedicalStudyStatus]] ]
 
-[ #is_/enum_of :: [[MedicalStudyStatus]] ]
+[ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 

@@ -39,7 +39,7 @@ Tag Instances like this:
 
 X-ray imaging.
 
-[ #is_/sub_class_of :: [[MedicalImagingTechnique]] ]
+[ #is_/sub_class_of :: [[../MedicalImagingTechnique]] ]
 
-[ #is_/enum_of :: [[MedicalImagingTechnique]] ]
+[ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 

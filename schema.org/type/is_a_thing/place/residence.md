@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The place where a person lives.
 
-[ #is_/sub_class_of :: [[Place]] ]
+[ #is_/sub_class_of :: [[../Place]] ]
 
 [ #has_/sub_classes :: [ ApartmentComplex, GatedResidenceCommunity ] ]
 

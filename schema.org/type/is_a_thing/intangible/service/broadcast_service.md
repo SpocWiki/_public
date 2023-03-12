@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A delivery service through which content is provided via broadcast over the air or online.
 
-[ #is_/sub_class_of :: [[Service]] ]
+[ #is_/sub_class_of :: [[../Service]] ]
 
 [ #has_/sub_classes :: [ RadioBroadcastService ] ]
 

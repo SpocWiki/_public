@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A value indicating a steering position.
 
-[ #is_/sub_class_of :: [[QualitativeValue]] ]
+[ #is_/sub_class_of :: [[../QualitativeValue]] ]
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 

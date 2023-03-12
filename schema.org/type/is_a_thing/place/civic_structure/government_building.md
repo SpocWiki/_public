@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A government building.
 
-[ #is_/sub_class_of :: [[CivicStructure]] ]
+[ #is_/sub_class_of :: [[../CivicStructure]] ]
 
 [ #has_/sub_classes :: [ CityHall, Courthouse, DefenceEstablishment, Embassy, LegislativeBuilding ] ]
 

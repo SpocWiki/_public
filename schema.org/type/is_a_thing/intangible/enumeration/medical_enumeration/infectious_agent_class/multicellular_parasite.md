@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Multicellular parasite that causes an infection.
 
-[ #is_/sub_class_of :: [[InfectiousAgentClass]] ]
+[ #is_/sub_class_of :: [[../InfectiousAgentClass]] ]
 
-[ #is_/enum_of :: [[InfectiousAgentClass]] ]
+[ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 

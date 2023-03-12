@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Content about common misconceptions and myths that are related to a topic.
 
-[ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
+[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
 
-[ #is_/enum_of :: [[HealthAspectEnumeration]] ]
+[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 

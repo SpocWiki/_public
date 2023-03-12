@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501c9: Non-profit type referring to Voluntary Employee Beneficiary Associations.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

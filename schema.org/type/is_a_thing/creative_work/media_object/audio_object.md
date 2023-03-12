@@ -38,7 +38,7 @@ Tag Instances like this:
 
 An audio file.
 
-[ #is_/sub_class_of :: [[MediaObject]] ]
+[ #is_/sub_class_of :: [[../MediaObject]] ]
 
 [ #has_/sub_classes :: [ AudioObjectSnapshot, Audiobook ] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Measurement of the width, for example of shoes
 
-[ #is_/sub_class_of :: [[WearableMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 

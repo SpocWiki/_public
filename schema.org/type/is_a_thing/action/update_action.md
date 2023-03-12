@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of managing by changing/editing the state of the object.
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/sub_classes :: [ AddAction, DeleteAction, ReplaceAction ] ]
 

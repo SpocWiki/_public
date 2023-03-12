@@ -40,7 +40,7 @@ Tag Instances like this:
 
 Enumerates common size groups for various product categories.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 
 [ #has_/sub_classes :: [ WearableSizeGroupEnumeration ] ]
 

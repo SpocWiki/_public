@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of swallowing solid objects.
 
-[ #is_/sub_class_of :: [[ConsumeAction]] ]
+[ #is_/sub_class_of :: [[../ConsumeAction]] ]
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

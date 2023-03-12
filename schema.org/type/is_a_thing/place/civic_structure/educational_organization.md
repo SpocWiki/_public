@@ -38,7 +38,7 @@ Tag Instances like this:
 
 An educational organization.
 
-[ #is_/sub_class_of :: [[CivicStructure, Organization]] ]
+[ #is_/sub_class_of :: [[../CivicStructure, Organization]] ]
 
 [ #has_/sub_classes :: [ CollegeOrUniversity, ElementarySchool, HighSchool, MiddleSchool, Preschool, School ] ]
 

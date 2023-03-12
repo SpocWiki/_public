@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501c26: Non-profit type referring to State-Sponsored Organizations Providing Health Coverage for High-Risk Individuals.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

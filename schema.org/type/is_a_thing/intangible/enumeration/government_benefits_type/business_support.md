@@ -41,7 +41,7 @@ Tag Instances like this:
 
 BusinessSupport: this is a benefit for supporting businesses.
 
-[ #is_/sub_class_of :: [[GovernmentBenefitsType]] ]
+[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
 
-[ #is_/enum_of :: [[GovernmentBenefitsType]] ]
+[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 

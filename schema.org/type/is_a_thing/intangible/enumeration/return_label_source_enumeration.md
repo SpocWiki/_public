@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Enumerates several types of return labels for product returns.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

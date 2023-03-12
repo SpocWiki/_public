@@ -41,7 +41,7 @@ Tag Instances like this:
 
 NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institution (NL).
 
-[ #is_/sub_class_of :: [[NLNonprofitType]] ]
+[ #is_/sub_class_of :: [[../NLNonprofitType]] ]
 
-[ #is_/enum_of :: [[NLNonprofitType]] ]
+[ #is_/enum_of :: [[../NLNonprofitType]] ]
 

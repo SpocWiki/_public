@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A set of defined terms, for example a set of categories or a classification scheme, a glossary, dictionary or enumeration.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ CategoryCodeSet ] ]
 

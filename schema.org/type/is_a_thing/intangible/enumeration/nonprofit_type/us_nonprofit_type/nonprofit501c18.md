@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501c18: Non-profit type referring to Employee Funded Pension Trust (created before 25 June 1959).
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

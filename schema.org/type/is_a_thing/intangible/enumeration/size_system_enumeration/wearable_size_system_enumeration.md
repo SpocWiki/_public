@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Enumerates common size systems specific for wearable products
 
-[ #is_/sub_class_of :: [[SizeSystemEnumeration]] ]
+[ #is_/sub_class_of :: [[../SizeSystemEnumeration]] ]
 

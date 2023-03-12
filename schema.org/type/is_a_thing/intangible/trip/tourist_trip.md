@@ -41,7 +41,7 @@ Tag Instances like this:
 A tourist trip. A created itinerary of visits to one or more places of interest (<a class="localLink" href="/TouristAttraction">TouristAttraction</a>/<a class="localLink" href="/TouristDestination">TouristDestination</a>) often linked by a similar theme, geographic area, or interest to a particular <a class="localLink" href="/touristType">touristType</a>. The <a href="http://www2.unwto.org/">UNWTO</a> defines tourism trip as the Trip taken by visitors.
   (See examples below.)
 
-[ #is_/sub_class_of :: [[Trip]] ]
+[ #is_/sub_class_of :: [[../Trip]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, touristType, url ] ]
 

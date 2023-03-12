@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Enumerates several kinds of product return refund types.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A seasonal override of a return policy, for example used for holidays.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, merchantReturnDays, name, potentialAction, returnPolicyCategory, sameAs, startDate, subjectOf, url ] ]
 

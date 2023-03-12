@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Design models for observational medical studies. Enumerated type.
 
-[ #is_/sub_class_of :: [[MedicalEnumeration]] ]
+[ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 

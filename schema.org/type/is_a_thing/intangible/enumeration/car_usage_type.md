@@ -40,5 +40,5 @@ Tag Instances like this:
 
 A value indicating a special usage of a car, e.g. commercial rental, driving school, or as a taxi.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Content about contagion mechanisms and contagiousness information over the topic.
 
-[ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
+[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
 
-[ #is_/enum_of :: [[HealthAspectEnumeration]] ]
+[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 

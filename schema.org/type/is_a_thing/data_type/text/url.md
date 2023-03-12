@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Data type: URL.
 
-[ #is_/sub_class_of :: [[Text]] ]
+[ #is_/sub_class_of :: [[../Text]] ]
 

@@ -40,7 +40,7 @@ Tag Instances like this:
 
 Enumerates energy efficiency levels (also known as "classes" or "ratings") and certifications that are part of several international energy efficiency standards.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 
 [ #has_/sub_classes :: [ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ] ]
 

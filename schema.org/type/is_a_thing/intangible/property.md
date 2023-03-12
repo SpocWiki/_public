@@ -41,7 +41,7 @@ Tag Instances like this:
 
 A property, used to indicate attributes and relationships of some Thing; equivalent to rdf:Property.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, sameAs, subjectOf, supersededBy, url ] ]
 

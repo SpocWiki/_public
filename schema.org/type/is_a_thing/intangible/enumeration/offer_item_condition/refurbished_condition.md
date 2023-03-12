@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item is refurbished.
 
-[ #is_/sub_class_of :: [[OfferItemCondition]] ]
+[ #is_/sub_class_of :: [[../OfferItemCondition]] ]
 
-[ #is_/enum_of :: [[OfferItemCondition]] ]
+[ #is_/enum_of :: [[../OfferItemCondition]] ]
 

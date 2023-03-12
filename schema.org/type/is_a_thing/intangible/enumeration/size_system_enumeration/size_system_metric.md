@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Metric size system.
 
-[ #is_/sub_class_of :: [[SizeSystemEnumeration]] ]
+[ #is_/sub_class_of :: [[../SizeSystemEnumeration]] ]
 
-[ #is_/enum_of :: [[SizeSystemEnumeration]] ]
+[ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
 

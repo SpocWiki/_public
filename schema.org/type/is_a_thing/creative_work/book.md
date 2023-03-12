@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A book.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ Audiobook ] ]
 

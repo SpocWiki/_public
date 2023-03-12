@@ -9,3 +9,4 @@ SpocWebEntityId: 27156
 confidential: public
 [name-en::Africa]
 [name-de::Afrika]
+[ #has/_code  :: AF ]

@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Classification of the album by its type of content: soundtrack, live album, studio album, etc.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

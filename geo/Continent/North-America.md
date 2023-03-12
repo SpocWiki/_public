@@ -9,3 +9,4 @@ SpocWebEntityId: 27158
 confidential: public
 [name-en::North America]
 [name-de::Nordamerika]
+[ #has/_code  :: NA ]

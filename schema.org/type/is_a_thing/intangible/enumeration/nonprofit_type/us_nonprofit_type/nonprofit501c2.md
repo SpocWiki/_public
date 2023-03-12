@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501c2: Non-profit type referring to Title-holding Corporations for Exempt Organizations.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

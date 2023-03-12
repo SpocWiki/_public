@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A software application.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ MobileApplication, VideoGame, WebApplication ] ]
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,7 +39,4 @@ Tag Instances like this:
 
 Abdomen clinical examination.
 
-[ #is_/sub_class_of :: [[PhysicalExam]] ]
-
-[ #is_/enum_of :: [[PhysicalExam]] ]
-
+[ #is_/enum_of :: [[../Physical_Exam]] ]

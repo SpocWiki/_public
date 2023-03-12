@@ -41,7 +41,7 @@ Tag Instances like this:
 
 CharitableIncorporatedOrganization: Non-profit type referring to a Charitable Incorporated Organization (UK).
 
-[ #is_/sub_class_of :: [[UKNonprofitType]] ]
+[ #is_/sub_class_of :: [[../UKNonprofitType]] ]
 
-[ #is_/enum_of :: [[UKNonprofitType]] ]
+[ #is_/enum_of :: [[../UKNonprofitType]] ]
 

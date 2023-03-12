@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Enumerated categories of medical drug costs.
 
-[ #is_/sub_class_of :: [[MedicalEnumeration]] ]
+[ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 

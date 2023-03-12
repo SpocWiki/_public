@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Size group "Extra Tall" for wearables.
 
-[ #is_/sub_class_of :: [[WearableSizeGroupEnumeration]] ]
+[ #is_/sub_class_of :: [[../WearableSizeGroupEnumeration]] ]
 
-[ #is_/enum_of :: [[WearableSizeGroupEnumeration]] ]
+[ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
 

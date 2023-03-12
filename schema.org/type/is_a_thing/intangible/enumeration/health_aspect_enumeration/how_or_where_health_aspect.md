@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Information about how or where to find a topic. Also may contain location data that can be used for where to look for help if the topic is observed.
 
-[ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
+[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
 
-[ #is_/enum_of :: [[HealthAspectEnumeration]] ]
+[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 

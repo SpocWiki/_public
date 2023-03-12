@@ -40,7 +40,7 @@ Tag Instances like this:
 
 WebContent is a type representing all <a class="localLink" href="/WebPage">WebPage</a>, <a class="localLink" href="/WebSite">WebSite</a> and <a class="localLink" href="/WebPageElement">WebPageElement</a> content. It is sometimes the case that detailed distinctions between Web pages, sites and their parts are not always important or obvious. The  <a class="localLink" href="/WebContent">WebContent</a> type makes it easier to describe Web-addressable content without requiring such distinctions to always be stated. (The intent is that the existing types <a class="localLink" href="/WebPage">WebPage</a>, <a class="localLink" href="/WebSite">WebSite</a> and <a class="localLink" href="/WebPageElement">WebPageElement</a> will eventually be declared as subtypes of <a class="localLink" href="/WebContent">WebContent</a>.)
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ HealthTopicContent ] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A condition or factor that indicates use of a medical therapy, including signs, symptoms, risk factors, anatomical states, etc.
 
-[ #is_/sub_class_of :: [[MedicalEntity]] ]
+[ #is_/sub_class_of :: [[../MedicalEntity]] ]
 
 [ #has_/sub_classes :: [ ApprovedIndication, PreventionIndication, TreatmentIndication ] ]
 

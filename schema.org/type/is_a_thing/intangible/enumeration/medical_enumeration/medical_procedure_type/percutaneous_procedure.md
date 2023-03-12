@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A type of medical procedure that involves percutaneous techniques, where access to organs or tissue is achieved via needle-puncture of the skin. For example, catheter-based procedures like stent delivery.
 
-[ #is_/sub_class_of :: [[MedicalProcedureType]] ]
+[ #is_/sub_class_of :: [[../MedicalProcedureType]] ]
 
-[ #is_/enum_of :: [[MedicalProcedureType]] ]
+[ #is_/enum_of :: [[../MedicalProcedureType]] ]
 

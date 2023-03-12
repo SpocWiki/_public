@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A lodging business, such as a motel, hotel, or inn.
 
-[ #is_/sub_class_of :: [[LocalBusiness]] ]
+[ #is_/sub_class_of :: [[../LocalBusiness]] ]
 
 [ #has_/sub_classes :: [ BedAndBreakfast, Campground, Hostel, Hotel, Motel, Resort ] ]
 

@@ -49,5 +49,5 @@ Commonly used values:<br/><br/>
 <li>http://purl.org/goodrelations/v1#Buy</li>
 </ul>
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

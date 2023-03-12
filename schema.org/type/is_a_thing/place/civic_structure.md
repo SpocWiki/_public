@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A public structure, such as a town hall or concert hall.
 
-[ #is_/sub_class_of :: [[Place]] ]
+[ #is_/sub_class_of :: [[../Place]] ]
 
 [ #has_/sub_classes :: [ Airport, Aquarium, Beach, BoatTerminal, Bridge, BusStation, BusStop, Campground, Cemetery, Crematorium, EducationalOrganization, EventVenue, FireStation, GovernmentBuilding, Hospital, MovieTheater, Museum, MusicVenue, Park, ParkingFacility, PerformingArtsTheater, PlaceOfWorship, Playground, PoliceStation, PublicToilet, RVPark, StadiumOrArena, SubwayStation, TaxiStand, TrainStation, Zoo ] ]
 

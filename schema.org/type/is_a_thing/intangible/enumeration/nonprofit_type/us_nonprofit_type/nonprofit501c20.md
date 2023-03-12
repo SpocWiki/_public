@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501c20: Non-profit type referring to Group Legal Services Plan Organizations.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

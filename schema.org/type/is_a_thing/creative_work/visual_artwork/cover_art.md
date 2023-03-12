@@ -40,7 +40,7 @@ Tag Instances like this:
 
 The artwork on the outer surface of a CreativeWork.
 
-[ #is_/sub_class_of :: [[VisualArtwork]] ]
+[ #is_/sub_class_of :: [[../VisualArtwork]] ]
 
 [ #has_/sub_classes :: [ ComicCoverArt ] ]
 

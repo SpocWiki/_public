@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Lists or enumerationsâ€”for example, a list of cuisines or music genres, etc.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/sub_classes :: [ AdultOrientedEnumeration, BoardingPolicyType, BookFormatType, BusinessEntityType, BusinessFunction, CarUsageType, ContactPointOption, DayOfWeek, DeliveryMethod, DigitalDocumentPermissionType, DigitalPlatformEnumeration, EnergyEfficiencyEnumeration, EventAttendanceModeEnumeration, GameAvailabilityEnumeration, GamePlayMode, GenderType, GovernmentBenefitsType, HealthAspectEnumeration, ItemAvailability, ItemListOrderType, LegalValueLevel, MapCategoryType, MeasurementTypeEnumeration, MediaManipulationRatingEnumeration, MedicalEnumeration, MerchantReturnEnumeration, MusicAlbumProductionType, MusicAlbumReleaseType, MusicReleaseFormatType, NonprofitType, OfferItemCondition, PaymentMethod, PhysicalActivityCategory, PriceComponentTypeEnumeration, PriceTypeEnumeration, ProductReturnEnumeration, QualitativeValue, RefundTypeEnumeration, RestrictedDiet, ReturnFeesEnumeration, ReturnLabelSourceEnumeration, ReturnMethodEnumeration, RsvpResponseType, SizeGroupEnumeration, SizeSystemEnumeration, Specialty, StatusEnumeration, WarrantyScope ] ]
 

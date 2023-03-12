@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A Property value specification.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, defaultValue, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, multipleValues, name, potentialAction, readonlyValue, sameAs, stepValue, subjectOf, url, valueMaxLength, valueMinLength, valueName, valuePattern, valueRequired ] ]
 

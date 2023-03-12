@@ -38,5 +38,5 @@ Tag Instances like this:
 
 EventStatusType is an enumeration type whose instances represent several states that an Event may be in.
 
-[ #is_/sub_class_of :: [[StatusEnumeration]] ]
+[ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 

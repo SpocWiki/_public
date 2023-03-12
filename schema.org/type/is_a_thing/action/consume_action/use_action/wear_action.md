@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of dressing oneself in clothing.
 
-[ #is_/sub_class_of :: [[UseAction]] ]
+[ #is_/sub_class_of :: [[../UseAction]] ]
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

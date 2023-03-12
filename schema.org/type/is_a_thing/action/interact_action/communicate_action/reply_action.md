@@ -42,7 +42,7 @@ Related actions:<br/><br/>
 <li><a class="localLink" href="/AskAction">AskAction</a>: Appears generally as an origin of a ReplyAction.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[CommunicateAction]] ]
+[ #is_/sub_class_of :: [[../CommunicateAction]] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, resultComment, sameAs, startTime, subjectOf, target, url ] ]
 

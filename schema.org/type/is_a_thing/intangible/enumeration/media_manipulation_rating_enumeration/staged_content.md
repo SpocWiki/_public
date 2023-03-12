@@ -45,7 +45,7 @@ For an <a class="localLink" href="/ImageObject">ImageObject</a> to be 'staged co
 For an <a class="localLink" href="/ImageObject">ImageObject</a> with embedded text to be 'staged content': An image that was created using actors or similarly contrived, such as a screenshot of a fake tweet.<br/><br/>
 For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'staged content': Audio that has been created using actors or similarly contrived.
 
-[ #is_/sub_class_of :: [[MediaManipulationRatingEnumeration]] ]
+[ #is_/sub_class_of :: [[../MediaManipulationRatingEnumeration]] ]
 
-[ #is_/enum_of :: [[MediaManipulationRatingEnumeration]] ]
+[ #is_/enum_of :: [[../MediaManipulationRatingEnumeration]] ]
 

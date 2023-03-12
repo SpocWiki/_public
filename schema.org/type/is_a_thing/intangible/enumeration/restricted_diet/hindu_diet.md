@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A diet conforming to Hindu dietary practices, in particular, beef-free.
 
-[ #is_/sub_class_of :: [[RestrictedDiet]] ]
+[ #is_/sub_class_of :: [[../RestrictedDiet]] ]
 
-[ #is_/enum_of :: [[RestrictedDiet]] ]
+[ #is_/enum_of :: [[../RestrictedDiet]] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Place of worship, such as a church, synagogue, or mosque.
 
-[ #is_/sub_class_of :: [[CivicStructure]] ]
+[ #is_/sub_class_of :: [[../CivicStructure]] ]
 
 [ #has_/sub_classes :: [ BuddhistTemple, Church, HinduTemple, Mosque, Synagogue ] ]
 

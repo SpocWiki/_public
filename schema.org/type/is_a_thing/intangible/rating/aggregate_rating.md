@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The average rating based on multiple ratings or reviews.
 
-[ #is_/sub_class_of :: [[Rating]] ]
+[ #is_/sub_class_of :: [[../Rating]] ]
 
 [ #has_/sub_classes :: [ EmployerAggregateRating ] ]
 

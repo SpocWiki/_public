@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A contact point&#x2014;for example, a Customer Complaints department.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/sub_classes :: [ PostalAddress ] ]
 

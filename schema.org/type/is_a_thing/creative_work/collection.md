@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A collection of items, e.g. creative works or products.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ ProductCollection ] ]
 

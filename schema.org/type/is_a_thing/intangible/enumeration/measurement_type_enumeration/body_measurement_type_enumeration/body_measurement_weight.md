@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Body weight. Used, for example, to measure pantyhose.
 
-[ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 

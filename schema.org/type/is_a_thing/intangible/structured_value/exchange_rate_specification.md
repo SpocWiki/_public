@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A structured value representing exchange rate.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, currency, currentExchangeRate, description, disambiguatingDescription, exchangeRateSpread, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

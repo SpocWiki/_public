@@ -40,5 +40,5 @@ Tag Instances like this:
 
 A list of possible statuses for the legal force of a legislation.
 
-[ #is_/sub_class_of :: [[StatusEnumeration]] ]
+[ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 

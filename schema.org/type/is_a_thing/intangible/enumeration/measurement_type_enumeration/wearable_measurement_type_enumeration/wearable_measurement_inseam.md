@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Measurement of the inseam, for example of pants
 
-[ #is_/sub_class_of :: [[WearableMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 

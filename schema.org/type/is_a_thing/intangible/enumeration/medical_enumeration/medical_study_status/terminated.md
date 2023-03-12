@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Terminated.
 
-[ #is_/sub_class_of :: [[MedicalStudyStatus]] ]
+[ #is_/sub_class_of :: [[../MedicalStudyStatus]] ]
 
-[ #is_/enum_of :: [[MedicalStudyStatus]] ]
+[ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 

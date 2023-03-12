@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Indicates full game availability.
 
-[ #is_/sub_class_of :: [[GameAvailabilityEnumeration]] ]
+[ #is_/sub_class_of :: [[../GameAvailabilityEnumeration]] ]
 
-[ #is_/enum_of :: [[GameAvailabilityEnumeration]] ]
+[ #is_/enum_of :: [[../GameAvailabilityEnumeration]] ]
 

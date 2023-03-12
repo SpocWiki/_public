@@ -41,7 +41,7 @@ Tag Instances like this:
 
 A general code for cases where relevance to children is reduced, e.g. adult education, mortgages, retirement-related products, etc.
 
-[ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
 
-[ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 

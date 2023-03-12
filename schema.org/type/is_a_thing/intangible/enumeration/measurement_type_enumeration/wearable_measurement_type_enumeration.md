@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Enumerates common types of measurement for wearables products.
 
-[ #is_/sub_class_of :: [[MeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../MeasurementTypeEnumeration]] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501c8: Non-profit type referring to Fraternal Beneficiary Societies and Associations.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

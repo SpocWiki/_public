@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A retail good store.
 
-[ #is_/sub_class_of :: [[LocalBusiness]] ]
+[ #is_/sub_class_of :: [[../LocalBusiness]] ]
 
 [ #has_/sub_classes :: [ AutoPartsStore, BikeStore, BookStore, ClothingStore, ComputerStore, ConvenienceStore, DepartmentStore, ElectronicsStore, Florist, FurnitureStore, GardenStore, GroceryStore, HardwareStore, HobbyShop, HomeGoodsStore, JewelryStore, LiquorStore, MensClothingStore, MobilePhoneStore, MovieRentalStore, MusicStore, OfficeEquipmentStore, OutletStore, PawnShop, PetStore, ShoeStore, SportingGoodsStore, TireShop, ToyStore, WholesaleStore ] ]
 

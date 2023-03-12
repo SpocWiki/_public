@@ -40,5 +40,5 @@ Tag Instances like this:
 
 UKNonprofitType: Non-profit organization type originating from the United Kingdom.
 
-[ #is_/sub_class_of :: [[NonprofitType]] ]
+[ #is_/sub_class_of :: [[../NonprofitType]] ]
 

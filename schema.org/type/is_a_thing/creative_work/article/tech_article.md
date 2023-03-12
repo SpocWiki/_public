@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A technical article - Example: How-to (task) topics, step-by-step, procedural troubleshooting, specifications, etc.
 
-[ #is_/sub_class_of :: [[Article]] ]
+[ #is_/sub_class_of :: [[../Article]] ]
 
 [ #has_/sub_classes :: [ APIReference ] ]
 

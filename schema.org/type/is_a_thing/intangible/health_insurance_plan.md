@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, benefitsSummaryUrl, contactPoint, description, disambiguatingDescription, healthPlanDrugOption, healthPlanDrugTier, healthPlanId, healthPlanMarketingUrl, identifier, image, includesHealthPlanFormulary, includesHealthPlanNetwork, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, usesHealthPlanIdStandard ] ]
 

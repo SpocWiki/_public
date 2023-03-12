@@ -38,5 +38,5 @@ Tag Instances like this:
 
 A type of permission which can be granted for accessing a digital document.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

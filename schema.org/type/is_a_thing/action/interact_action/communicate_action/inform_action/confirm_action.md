@@ -42,7 +42,7 @@ Related actions:<br/><br/>
 <li><a class="localLink" href="/CancelAction">CancelAction</a>: The antonym of ConfirmAction.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[InformAction]] ]
+[ #is_/sub_class_of :: [[../InformAction]] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 

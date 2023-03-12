@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Specifies that a refund can be done in the full amount the customer paid for the product.
 
-[ #is_/sub_class_of :: [[RefundTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../RefundTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[RefundTypeEnumeration]] ]
+[ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 

@@ -40,7 +40,7 @@ Tag Instances like this:
 
 Data type: PronounceableText.
 
-[ #is_/sub_class_of :: [[Text]] ]
+[ #is_/sub_class_of :: [[../Text]] ]
 
 [ #has_/properties :: [ inLanguage, phoneticText, speechToTextMarkup, textValue ] ]
 

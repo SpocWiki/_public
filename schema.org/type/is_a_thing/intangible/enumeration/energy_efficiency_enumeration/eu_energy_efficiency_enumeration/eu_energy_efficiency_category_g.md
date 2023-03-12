@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents EU Energy Efficiency Class G as defined in EU energy labeling regulations.
 
-[ #is_/sub_class_of :: [[EUEnergyEfficiencyEnumeration]] ]
+[ #is_/sub_class_of :: [[../EUEnergyEfficiencyEnumeration]] ]
 
-[ #is_/enum_of :: [[EUEnergyEfficiencyEnumeration]] ]
+[ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
 

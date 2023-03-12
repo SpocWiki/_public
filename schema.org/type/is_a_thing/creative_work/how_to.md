@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Instructions that explain how to achieve a result by performing a sequence of steps.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ Recipe ] ]
 

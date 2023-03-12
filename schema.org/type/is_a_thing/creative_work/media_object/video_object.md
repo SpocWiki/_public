@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A video file.
 
-[ #is_/sub_class_of :: [[MediaObject]] ]
+[ #is_/sub_class_of :: [[../MediaObject]] ]
 
 [ #has_/sub_classes :: [ VideoObjectSnapshot ] ]
 

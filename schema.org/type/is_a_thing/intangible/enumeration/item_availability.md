@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -29,6 +29,7 @@ aliases:
 - item_availability
 - ItemAvailability
 - is_an_item_availability
+- is_available_for
 ---
 
 Class of all item_availabilitys.
@@ -36,7 +37,17 @@ Class of all item_availabilitys.
 Tag Instances like this: 
 #is_/an_/item_availability
 
-A list of possible product availability options.
+A list of possible product availability options:
+- [[item_availability/back_order]]
+- [[item_availability/discontinued]]
+- [[item_availability/in_stock]]
+- [[item_availability/in_store_only]]
+- [[item_availability/limited_availability|LimitedAvailability]]
+- [[item_availability/online_only]]
+- [[item_availability/out_of_stock|out_of_stock]]
+- [[item_availability/pre_order|is_a_pre_order]]
+- [[item_availability/pre_sale|pre-sale]]
+- [[item_availability/sold_out|is_sold_out]]
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

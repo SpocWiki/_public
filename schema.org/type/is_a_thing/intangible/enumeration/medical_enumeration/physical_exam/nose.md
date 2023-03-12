@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Nose function assessment with clinical examination.
 
-[ #is_/sub_class_of :: [[PhysicalExam]] ]
+[ #is_/sub_class_of :: [[../PhysicalExam]] ]
 
-[ #is_/enum_of :: [[PhysicalExam]] ]
+[ #is_/enum_of :: [[../PhysicalExam]] ]
 

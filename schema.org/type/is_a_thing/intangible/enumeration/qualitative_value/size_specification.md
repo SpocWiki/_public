@@ -40,7 +40,7 @@ Tag Instances like this:
 
 Size related properties of a product, typically a size code (<a class="localLink" href="/name">name</a>) and optionally a <a class="localLink" href="/sizeSystem">sizeSystem</a>, <a class="localLink" href="/sizeGroup">sizeGroup</a>, and product measurements (<a class="localLink" href="/hasMeasurement">hasMeasurement</a>). In addition, the intended audience can be defined through <a class="localLink" href="/suggestedAge">suggestedAge</a>, <a class="localLink" href="/suggestedGender">suggestedGender</a>, and suggested body measurements (<a class="localLink" href="/suggestedMeasurement">suggestedMeasurement</a>).
 
-[ #is_/sub_class_of :: [[QualitativeValue]] ]
+[ #is_/sub_class_of :: [[../QualitativeValue]] ]
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ] ]
 

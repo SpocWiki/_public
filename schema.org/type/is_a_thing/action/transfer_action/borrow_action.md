@@ -42,7 +42,7 @@ Related actions:<br/><br/>
 <li><a class="localLink" href="/LendAction">LendAction</a>: Reciprocal of BorrowAction.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[TransferAction]] ]
+[ #is_/sub_class_of :: [[../TransferAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, lender, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 

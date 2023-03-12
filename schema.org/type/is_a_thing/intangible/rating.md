@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A rating is an evaluation on a numeric scale, such as 1 to 5 stars.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/sub_classes :: [ AggregateRating, EndorsementRating ] ]
 

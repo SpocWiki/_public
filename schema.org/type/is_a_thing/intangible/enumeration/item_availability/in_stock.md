@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -29,7 +29,7 @@ aliases:
 - in-stock
 - in_stock
 - InStock
-- is_an_in_stock
+- is_in_stock
 ---
 
 Class of all in_stocks.
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item is in stock.
 
-[ #is_/sub_class_of :: [[ItemAvailability]] ]
+[ #is_/sub_class_of :: [[../ItemAvailability]] ]
 
-[ #is_/enum_of :: [[ItemAvailability]] ]
+[ #is_/enum_of :: [[../ItemAvailability]] ]
 

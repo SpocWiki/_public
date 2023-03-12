@@ -46,7 +46,7 @@ Two entities that are identical but differ in rate and time:<br/><br/>
 E.g. Cheaper and slower: $5 in 5-7 days
 or Fast and expensive: $15 in 1-2 days.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, deliveryTime, depth, description, disambiguatingDescription, doesNotShip, height, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingOrigin, shippingRate, shippingSettingsLink, subjectOf, transitTimeLabel, url, weight, width ] ]
 

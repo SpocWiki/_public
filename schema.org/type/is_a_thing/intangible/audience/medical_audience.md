@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Target audiences for medical web pages.
 
-[ #is_/sub_class_of :: [[Audience, PeopleAudience]] ]
+[ #is_/sub_class_of :: [[../Audience, PeopleAudience]] ]
 
 [ #has_/sub_classes :: [ Patient ] ]
 

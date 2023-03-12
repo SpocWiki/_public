@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Indicates the usage of the vehicle for driving school.
 
-[ #is_/sub_class_of :: [[CarUsageType]] ]
+[ #is_/sub_class_of :: [[../CarUsageType]] ]
 
-[ #is_/enum_of :: [[CarUsageType]] ]
+[ #is_/enum_of :: [[../CarUsageType]] ]
 

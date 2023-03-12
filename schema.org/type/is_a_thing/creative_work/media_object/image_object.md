@@ -39,7 +39,7 @@ Tag Instances like this:
 
 An image file.
 
-[ #is_/sub_class_of :: [[MediaObject]] ]
+[ #is_/sub_class_of :: [[../MediaObject]] ]
 
 [ #has_/sub_classes :: [ Barcode, ImageObjectSnapshot ] ]
 

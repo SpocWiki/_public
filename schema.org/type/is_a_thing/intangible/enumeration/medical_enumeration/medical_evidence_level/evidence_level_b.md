@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Data derived from a single randomized trial, or nonrandomized studies.
 
-[ #is_/sub_class_of :: [[MedicalEvidenceLevel]] ]
+[ #is_/sub_class_of :: [[../MedicalEvidenceLevel]] ]
 
-[ #is_/enum_of :: [[MedicalEvidenceLevel]] ]
+[ #is_/enum_of :: [[../MedicalEvidenceLevel]] ]
 

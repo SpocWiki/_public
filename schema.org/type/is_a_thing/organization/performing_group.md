@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A performance group, such as a band, an orchestra, or a circus.
 
-[ #is_/sub_class_of :: [[Organization]] ]
+[ #is_/sub_class_of :: [[../Organization]] ]
 
 [ #has_/sub_classes :: [ DanceGroup, MusicGroup, TheaterGroup ] ]
 

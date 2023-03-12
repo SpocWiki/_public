@@ -38,7 +38,7 @@ Tag Instances like this:
 
 An emergency service, such as a fire station or ER.
 
-[ #is_/sub_class_of :: [[LocalBusiness]] ]
+[ #is_/sub_class_of :: [[../LocalBusiness]] ]
 
 [ #has_/sub_classes :: [ FireStation, Hospital, PoliceStation ] ]
 

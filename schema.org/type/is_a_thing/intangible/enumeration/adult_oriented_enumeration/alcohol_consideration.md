@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Item contains alcohol or promotes alcohol consumption.
 
-[ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
 
-[ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 

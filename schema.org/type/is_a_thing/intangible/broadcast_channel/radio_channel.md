@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A unique instance of a radio BroadcastService on a CableOrSatelliteService lineup.
 
-[ #is_/sub_class_of :: [[BroadcastChannel]] ]
+[ #is_/sub_class_of :: [[../BroadcastChannel]] ]
 
 [ #has_/sub_classes :: [ AMRadioChannel, FMRadioChannel ] ]
 

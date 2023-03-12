@@ -38,5 +38,5 @@ Tag Instances like this:
 
 An enumeration of genders.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

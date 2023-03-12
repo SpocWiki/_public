@@ -45,7 +45,7 @@ For an <a class="localLink" href="/ImageObject">ImageObject</a> to be 'missing c
 For an <a class="localLink" href="/ImageObject">ImageObject</a> with embedded text to be 'missing context': An unaltered image presented in an inaccurate manner to misrepresent the image and mislead the viewer. For example, a common tactic is using an unaltered image but saying it came from a different time or place. (An 'original' image with inaccurate text would generally fall in this category.)<br/><br/>
 For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'missing context': Unaltered audio presented in an inaccurate manner that misrepresents it. For example, using incorrect dates or locations, or sharing brief clips from a longer recording to mislead viewers. (Audio rated â€œoriginalâ€ can also be missing context.)
 
-[ #is_/sub_class_of :: [[MediaManipulationRatingEnumeration]] ]
+[ #is_/sub_class_of :: [[../MediaManipulationRatingEnumeration]] ]
 
-[ #is_/enum_of :: [[MediaManipulationRatingEnumeration]] ]
+[ #is_/enum_of :: [[../MediaManipulationRatingEnumeration]] ]
 

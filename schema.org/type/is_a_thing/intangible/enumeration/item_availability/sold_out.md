@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_sold_out Class
-linkTitle: is_a_sold_out Class
+title: is_sold_out Class
+linkTitle: is_sold_out Class
 
 keywords: [sold_out]
 layout: 
@@ -29,7 +29,7 @@ aliases:
 - sold-out
 - sold_out
 - SoldOut
-- is_a_sold_out
+- is_sold_out
 ---
 
 Class of all sold_outs.
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item has sold out.
 
-[ #is_/sub_class_of :: [[ItemAvailability]] ]
+[ #is_/sub_class_of :: [[../ItemAvailability]] ]
 
-[ #is_/enum_of :: [[ItemAvailability]] ]
+[ #is_/enum_of :: [[../ItemAvailability]] ]
 

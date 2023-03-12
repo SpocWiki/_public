@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Entities that have a somewhat fixed, physical extension.
 
-[ #is_/sub_class_of :: [[Thing]] ]
+[ #is_/sub_class_of :: [[../Thing]] ]
 
 [ #has_/sub_classes :: [ Accommodation, AdministrativeArea, CivicStructure, Landform, LandmarksOrHistoricalBuildings, LocalBusiness, Residence, TouristAttraction, TouristDestination ] ]
 

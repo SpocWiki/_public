@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Residence type: Apartment complex.
 
-[ #is_/sub_class_of :: [[Residence]] ]
+[ #is_/sub_class_of :: [[../Residence]] ]
 
 [ #has_/properties :: [ accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBedrooms, openingHoursSpecification, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 

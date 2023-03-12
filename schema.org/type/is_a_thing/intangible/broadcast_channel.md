@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/sub_classes :: [ RadioChannel, TelevisionChannel ] ]
 

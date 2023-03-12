@@ -38,7 +38,7 @@ Tag Instances like this:
 
 An agent orders a (not yet released) object/product/service to be delivered/sent.
 
-[ #is_/sub_class_of :: [[TradeAction]] ]
+[ #is_/sub_class_of :: [[../TradeAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

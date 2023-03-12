@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A collection of music tracks in playlist form.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ MusicAlbum, MusicRelease ] ]
 

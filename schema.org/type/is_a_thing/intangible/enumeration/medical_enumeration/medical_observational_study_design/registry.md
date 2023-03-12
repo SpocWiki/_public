@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A registry-based study design.
 
-[ #is_/sub_class_of :: [[MedicalObservationalStudyDesign]] ]
+[ #is_/sub_class_of :: [[../MedicalObservationalStudyDesign]] ]
 
-[ #is_/enum_of :: [[MedicalObservationalStudyDesign]] ]
+[ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 

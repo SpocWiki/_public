@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A process of care involving exercise, changes to diet, fitness routines, and other lifestyle changes aimed at improving a health condition.
 
-[ #is_/sub_class_of :: [[MedicalEntity]] ]
+[ #is_/sub_class_of :: [[../MedicalEntity]] ]
 
 [ #has_/sub_classes :: [ Diet, PhysicalActivity ] ]
 

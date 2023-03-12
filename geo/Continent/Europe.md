@@ -9,6 +9,10 @@ tags:
 isDeleted: false
 ---
 
+[name-en::Europe]
+[name-de::Europa]
+[ #has/_code  :: EU ]
+
 Many european Countries have joined the European Union which started out as an Economic Union 
 after WW
 
@@ -20,5 +24,3 @@ after WW
 
 ![[Flag_of_Europe.svg|350]]
 
-[name-en::Europe]
-[name-de::Europa]

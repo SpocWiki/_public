@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents the broad notion of 'mobile' browsers as a Web Platform.
 
-[ #is_/sub_class_of :: [[DigitalPlatformEnumeration]] ]
+[ #is_/sub_class_of :: [[../DigitalPlatformEnumeration]] ]
 
-[ #is_/enum_of :: [[DigitalPlatformEnumeration]] ]
+[ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 

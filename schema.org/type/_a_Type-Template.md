@@ -45,9 +45,9 @@ Tag Instances like this:
 
 {{comment}}
 
-[ #is_/sub_class_of :: [[{{subTypeOf}}]] ]
+[ #is_/sub_class_of :: [[../{{subTypeOf}}]] ]
 
-[ #is_/enum_of :: [[{{enumerationtype}}]] ]
+[ #is_/enum_of :: [[../{{enumerationtype}}]] ]
 
 [ #has_/sub_classes :: [ {{subTypes}} ] ]
 

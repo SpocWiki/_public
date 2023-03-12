@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of forming one's opinion, reaction or sentiment.
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/sub_classes :: [ ChooseAction, IgnoreAction, ReactAction, ReviewAction ] ]
 

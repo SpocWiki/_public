@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents EnergyStar certification.
 
-[ #is_/sub_class_of :: [[EnergyStarEnergyEfficiencyEnumeration]] ]
+[ #is_/sub_class_of :: [[../EnergyStarEnergyEfficiencyEnumeration]] ]
 
-[ #is_/enum_of :: [[EnergyStarEnergyEfficiencyEnumeration]] ]
+[ #is_/enum_of :: [[../EnergyStarEnergyEfficiencyEnumeration]] ]
 

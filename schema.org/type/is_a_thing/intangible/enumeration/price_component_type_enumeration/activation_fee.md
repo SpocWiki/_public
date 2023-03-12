@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents the activation fee part of the total price for an offered product, for example a cellphone contract.
 
-[ #is_/sub_class_of :: [[PriceComponentTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../PriceComponentTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
+[ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 

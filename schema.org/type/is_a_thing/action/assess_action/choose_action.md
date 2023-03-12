@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of expressing a preference from a set of options or a large or unbounded set of choices/options.
 
-[ #is_/sub_class_of :: [[AssessAction]] ]
+[ #is_/sub_class_of :: [[../AssessAction]] ]
 
 [ #has_/sub_classes :: [ VoteAction ] ]
 

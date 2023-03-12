@@ -44,7 +44,7 @@ Related actions:<br/><br/>
 <li><a class="localLink" href="/SubscribeAction">SubscribeAction</a>: Unlike SubscribeAction, RegisterAction doesn't imply that the agent is expecting updates from the object.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[InteractAction]] ]
+[ #is_/sub_class_of :: [[../InteractAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

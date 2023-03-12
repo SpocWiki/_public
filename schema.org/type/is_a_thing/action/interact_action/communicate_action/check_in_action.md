@@ -44,7 +44,7 @@ Related actions:<br/><br/>
 <li><a class="localLink" href="/ConfirmAction">ConfirmAction</a>: Unlike ConfirmAction, CheckInAction implies that the agent is informing/confirming the <em>start</em> of a previously reserved service rather than its validity/existence.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[CommunicateAction]] ]
+[ #is_/sub_class_of :: [[../CommunicateAction]] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_an_out_of_stock Class
-linkTitle: is_an_out_of_stock Class
+title: is_out_of_stock Class
+linkTitle: is_out_of_stock Class
 
 keywords: [out_of_stock]
 layout: 
@@ -29,7 +29,7 @@ aliases:
 - out-of-stock
 - out_of_stock
 - OutOfStock
-- is_an_out_of_stock
+- is_out_of_stock
 ---
 
 Class of all out_of_stocks.
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item is out of stock.
 
-[ #is_/sub_class_of :: [[ItemAvailability]] ]
+[ #is_/sub_class_of :: [[../ItemAvailability]] ]
 
-[ #is_/enum_of :: [[ItemAvailability]] ]
+[ #is_/enum_of :: [[../ItemAvailability]] ]
 

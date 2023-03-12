@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of transferring/moving (abstract or concrete) animate or inanimate objects from one place to another.
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/sub_classes :: [ BorrowAction, DownloadAction, GiveAction, LendAction, MoneyTransfer, ReceiveAction, ReturnAction, SendAction, TakeAction ] ]
 

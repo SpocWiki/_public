@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A body of structured information describing some topic(s) of interest.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ DataFeed ] ]
 

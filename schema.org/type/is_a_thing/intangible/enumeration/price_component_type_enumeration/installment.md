@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents the installment pricing component of the total price for an offered product.
 
-[ #is_/sub_class_of :: [[PriceComponentTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../PriceComponentTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
+[ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 

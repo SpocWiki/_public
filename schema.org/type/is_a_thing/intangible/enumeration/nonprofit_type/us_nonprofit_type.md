@@ -40,5 +40,5 @@ Tag Instances like this:
 
 USNonprofitType: Non-profit organization type originating from the United States.
 
-[ #is_/sub_class_of :: [[NonprofitType]] ]
+[ #is_/sub_class_of :: [[../NonprofitType]] ]
 

@@ -40,7 +40,7 @@ Tag Instances like this:
 
 Indicates a range of postal codes, usually defined as the set of valid codes between <a class="localLink" href="/postalCodeBegin">postalCodeBegin</a> and <a class="localLink" href="/postalCodeEnd">postalCodeEnd</a>, inclusively.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ] ]
 

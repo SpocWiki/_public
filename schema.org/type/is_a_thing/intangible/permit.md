@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A permit issued by an organization, e.g. a parking pass.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/sub_classes :: [ GovernmentPermit ] ]
 

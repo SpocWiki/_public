@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Measurement of the height, for example the heel height of a shoe
 
-[ #is_/sub_class_of :: [[WearableMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 

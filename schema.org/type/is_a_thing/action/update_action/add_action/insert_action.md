@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of adding at a specific location in an ordered collection.
 
-[ #is_/sub_class_of :: [[AddAction]] ]
+[ #is_/sub_class_of :: [[../AddAction]] ]
 
 [ #has_/sub_classes :: [ AppendAction, PrependAction ] ]
 

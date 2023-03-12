@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A type of financial product that typically requires the client to transfer funds to a financial service in return for potential beneficial financial return.
 
-[ #is_/sub_class_of :: [[FinancialProduct]] ]
+[ #is_/sub_class_of :: [[../FinancialProduct]] ]
 
 [ #has_/sub_classes :: [ BrokerageAccount, DepositAccount, InvestmentFund ] ]
 

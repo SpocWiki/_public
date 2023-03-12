@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Text representing a CSS selector.
 
-[ #is_/sub_class_of :: [[Text]] ]
+[ #is_/sub_class_of :: [[../Text]] ]
 

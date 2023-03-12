@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Health and beauty.
 
-[ #is_/sub_class_of :: [[LocalBusiness]] ]
+[ #is_/sub_class_of :: [[../LocalBusiness]] ]
 
 [ #has_/sub_classes :: [ BeautySalon, DaySpa, HairSalon, HealthClub, NailSalon, TattooParlor ] ]
 

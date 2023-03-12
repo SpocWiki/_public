@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Car repair, sales, or parts.
 
-[ #is_/sub_class_of :: [[LocalBusiness]] ]
+[ #is_/sub_class_of :: [[../LocalBusiness]] ]
 
 [ #has_/sub_classes :: [ AutoBodyShop, AutoDealer, AutoPartsStore, AutoRental, AutoRepair, AutoWash, GasStation, MotorcycleDealer, MotorcycleRepair ] ]
 

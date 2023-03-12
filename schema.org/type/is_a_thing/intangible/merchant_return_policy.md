@@ -42,7 +42,7 @@ Tag Instances like this:
 
 A MerchantReturnPolicy provides information about product return policies associated with an <a class="localLink" href="/Organization">Organization</a>, <a class="localLink" href="/Product">Product</a>, or <a class="localLink" href="/Offer">Offer</a>.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalProperty, additionalType, alternateName, applicableCountry, customerRemorseReturnFees, customerRemorseReturnLabelSource, customerRemorseReturnShippingFeesAmount, description, disambiguatingDescription, identifier, image, inStoreReturnsOffered, itemCondition, itemDefectReturnFees, itemDefectReturnLabelSource, itemDefectReturnShippingFeesAmount, mainEntityOfPage, merchantReturnDays, merchantReturnLink, name, potentialAction, refundType, restockingFee, returnFees, returnLabelSource, returnMethod, returnPolicyCategory, returnPolicyCountry, returnPolicySeasonalOverride, returnShippingFeesAmount, sameAs, subjectOf, url ] ]
 

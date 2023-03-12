@@ -42,7 +42,7 @@ some <a class="localLink" href="/agent">agent</a>. As is common elsewhere in sch
 An <a class="localLink" href="/EndorsementRating">EndorsementRating</a> may be part of a numeric scale or organized system, but this is not required: having an explicit type for indicating a positive,
 endorsement rating is particularly useful in the absence of numeric scales as it helps consumers understand that the rating is broadly positive.
 
-[ #is_/sub_class_of :: [[Rating]] ]
+[ #is_/sub_class_of :: [[../Rating]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ] ]
 

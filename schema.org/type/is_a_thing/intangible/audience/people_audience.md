@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A set of characteristics belonging to people, e.g. who compose an item's target audience.
 
-[ #is_/sub_class_of :: [[Audience]] ]
+[ #is_/sub_class_of :: [[../Audience]] ]
 
 [ #has_/sub_classes :: [ MedicalAudience, ParentAudience ] ]
 

@@ -39,7 +39,7 @@ Tag Instances like this:
 
 An international trial.
 
-[ #is_/sub_class_of :: [[MedicalTrialDesign]] ]
+[ #is_/sub_class_of :: [[../MedicalTrialDesign]] ]
 
-[ #is_/enum_of :: [[MedicalTrialDesign]] ]
+[ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 

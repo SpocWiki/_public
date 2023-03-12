@@ -42,7 +42,7 @@ Related actions:<br/><br/>
 <li><a class="localLink" href="/SearchAction">SearchAction</a>: FindAction is generally lead by a SearchAction, but not necessarily.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/sub_classes :: [ CheckAction, DiscoverAction, TrackAction ] ]
 

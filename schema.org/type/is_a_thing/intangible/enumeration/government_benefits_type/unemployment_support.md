@@ -41,7 +41,7 @@ Tag Instances like this:
 
 UnemploymentSupport: this is a benefit for unemployment support.
 
-[ #is_/sub_class_of :: [[GovernmentBenefitsType]] ]
+[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
 
-[ #is_/enum_of :: [[GovernmentBenefitsType]] ]
+[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 

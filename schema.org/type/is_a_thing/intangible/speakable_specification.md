@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A SpeakableSpecification indicates (typically via <a class="localLink" href="/xpath">xpath</a> or <a class="localLink" href="/cssSelector">cssSelector</a>) sections of a document that are highlighted as particularly <a class="localLink" href="/speakable">speakable</a>. Instances of this type are expected to be used primarily as values of the <a class="localLink" href="/speakable">speakable</a> property.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, cssSelector, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, xpath ] ]
 

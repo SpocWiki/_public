@@ -38,5 +38,5 @@ Tag Instances like this:
 
 A specific payment status. For example, PaymentDue, PaymentComplete, etc.
 
-[ #is_/sub_class_of :: [[StatusEnumeration]] ]
+[ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 

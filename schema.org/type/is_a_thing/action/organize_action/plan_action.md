@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of planning the execution of an event/task/action/reservation/plan to a future date.
 
-[ #is_/sub_class_of :: [[OrganizeAction]] ]
+[ #is_/sub_class_of :: [[../OrganizeAction]] ]
 
 [ #has_/sub_classes :: [ CancelAction, ReserveAction, ScheduleAction ] ]
 

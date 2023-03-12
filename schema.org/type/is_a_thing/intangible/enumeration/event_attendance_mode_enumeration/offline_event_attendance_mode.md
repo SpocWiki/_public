@@ -41,7 +41,7 @@ Tag Instances like this:
 
 OfflineEventAttendanceMode - an event that is primarily conducted offline.
 
-[ #is_/sub_class_of :: [[EventAttendanceModeEnumeration]] ]
+[ #is_/sub_class_of :: [[../EventAttendanceModeEnumeration]] ]
 
-[ #is_/enum_of :: [[EventAttendanceModeEnumeration]] ]
+[ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 

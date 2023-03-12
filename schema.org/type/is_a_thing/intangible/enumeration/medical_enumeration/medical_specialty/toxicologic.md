@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A specific branch of medical science that is concerned with poisons, their nature, effects and detection and involved in the treatment of poisoning.
 
-[ #is_/sub_class_of :: [[MedicalSpecialty]] ]
+[ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
 
-[ #is_/enum_of :: [[MedicalSpecialty]] ]
+[ #is_/enum_of :: [[../MedicalSpecialty]] ]
 

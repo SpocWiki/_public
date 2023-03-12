@@ -40,5 +40,5 @@ Tag Instances like this:
 
 A list of possible levels for the legal validity of a legislation.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

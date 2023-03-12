@@ -39,7 +39,7 @@ Tag Instances like this:
 
 The steering position is on the left side of the vehicle (viewed from the main direction of driving).
 
-[ #is_/sub_class_of :: [[SteeringPositionValue]] ]
+[ #is_/sub_class_of :: [[../SteeringPositionValue]] ]
 
-[ #is_/enum_of :: [[SteeringPositionValue]] ]
+[ #is_/enum_of :: [[../SteeringPositionValue]] ]
 

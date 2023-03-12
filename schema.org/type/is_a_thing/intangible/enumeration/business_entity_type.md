@@ -45,5 +45,5 @@ Commonly used values:<br/><br/>
 <li>http://purl.org/goodrelations/v1#Reseller</li>
 </ul>
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

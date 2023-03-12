@@ -39,7 +39,7 @@ Tag Instances like this:
 
 The associated telephone number is toll free.
 
-[ #is_/sub_class_of :: [[ContactPointOption]] ]
+[ #is_/sub_class_of :: [[../ContactPointOption]] ]
 
-[ #is_/enum_of :: [[ContactPointOption]] ]
+[ #is_/enum_of :: [[../ContactPointOption]] ]
 

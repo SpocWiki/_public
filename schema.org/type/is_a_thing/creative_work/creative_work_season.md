@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A media season, e.g. TV, radio, video game etc.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ PodcastSeason, RadioSeason, TVSeason ] ]
 

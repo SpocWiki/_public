@@ -40,7 +40,7 @@ Tag Instances like this:
 
 The action that takes in a math expression and directs users to a page potentially capable of solving/simplifying that expression.
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, eduQuestionType, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

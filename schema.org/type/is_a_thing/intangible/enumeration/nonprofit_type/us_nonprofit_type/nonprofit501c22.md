@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501c22: Non-profit type referring to Withdrawal Liability Payment Funds.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A structured value providing information about when a certain organization or person owned a certain product.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ acquiredFrom, additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, ownedFrom, ownedThrough, potentialAction, sameAs, subjectOf, typeOfGood, url ] ]
 

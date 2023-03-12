@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A US-style health insurance plan network.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCostSharing, healthPlanNetworkId, healthPlanNetworkTier, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

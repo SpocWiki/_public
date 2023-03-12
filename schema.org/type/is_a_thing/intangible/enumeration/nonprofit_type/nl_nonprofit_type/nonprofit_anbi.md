@@ -41,7 +41,7 @@ Tag Instances like this:
 
 NonprofitANBI: Non-profit type referring to a Public Benefit Organization (NL).
 
-[ #is_/sub_class_of :: [[NLNonprofitType]] ]
+[ #is_/sub_class_of :: [[../NLNonprofitType]] ]
 
-[ #is_/enum_of :: [[NLNonprofitType]] ]
+[ #is_/enum_of :: [[../NLNonprofitType]] ]
 

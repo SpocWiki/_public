@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Indicates that a document has no particular or special standing (e.g. a republication of a law by a private publisher).
 
-[ #is_/sub_class_of :: [[LegalValueLevel]] ]
+[ #is_/sub_class_of :: [[../LegalValueLevel]] ]
 
-[ #is_/enum_of :: [[LegalValueLevel]] ]
+[ #is_/enum_of :: [[../LegalValueLevel]] ]
 

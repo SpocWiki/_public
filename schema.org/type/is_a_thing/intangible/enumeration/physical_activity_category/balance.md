@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Physical activity that is engaged to help maintain posture and balance.
 
-[ #is_/sub_class_of :: [[PhysicalActivityCategory]] ]
+[ #is_/sub_class_of :: [[../PhysicalActivityCategory]] ]
 
-[ #is_/enum_of :: [[PhysicalActivityCategory]] ]
+[ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 

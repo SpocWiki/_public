@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A trip or journey. An itinerary of visits to one or more places.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/sub_classes :: [ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ] ]
 

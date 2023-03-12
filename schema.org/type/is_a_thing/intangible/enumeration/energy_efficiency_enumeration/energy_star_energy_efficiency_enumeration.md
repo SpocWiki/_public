@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Used to indicate whether a product is EnergyStar certified.
 
-[ #is_/sub_class_of :: [[EnergyEfficiencyEnumeration]] ]
+[ #is_/sub_class_of :: [[../EnergyEfficiencyEnumeration]] ]
 

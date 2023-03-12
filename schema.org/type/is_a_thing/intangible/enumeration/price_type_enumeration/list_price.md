@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents the list price (the price a product is actually advertised for) of an offered product.
 
-[ #is_/sub_class_of :: [[PriceTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../PriceTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[PriceTypeEnumeration]] ]
+[ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Item contains tobacco and/or nicotine, for example cigars, cigarettes, chewing tobacco, e-cigarettes, or hookahs.
 
-[ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
 
-[ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 

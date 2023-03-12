@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of applying an object to its intended purpose.
 
-[ #is_/sub_class_of :: [[ConsumeAction]] ]
+[ #is_/sub_class_of :: [[../ConsumeAction]] ]
 
 [ #has_/sub_classes :: [ WearAction ] ]
 

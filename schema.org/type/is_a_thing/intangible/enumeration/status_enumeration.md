@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Lists or enumerations dealing with status types.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 
 [ #has_/sub_classes :: [ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ] ]
 

@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Pathogenic virus that causes viral infection.
 
-[ #is_/sub_class_of :: [[InfectiousAgentClass]] ]
+[ #is_/sub_class_of :: [[../InfectiousAgentClass]] ]
 
-[ #is_/enum_of :: [[InfectiousAgentClass]] ]
+[ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 

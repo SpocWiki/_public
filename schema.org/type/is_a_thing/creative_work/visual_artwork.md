@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A work of art that is primarily visual in character.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ CoverArt ] ]
 

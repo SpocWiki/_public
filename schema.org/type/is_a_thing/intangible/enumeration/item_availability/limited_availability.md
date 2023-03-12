@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -29,7 +29,7 @@ aliases:
 - limited-availability
 - limited_availability
 - LimitedAvailability
-- is_a_limited_availability
+- is_limited_available
 ---
 
 Class of all limited_availabilitys.
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item has limited availability.
 
-[ #is_/sub_class_of :: [[ItemAvailability]] ]
+[ #is_/sub_class_of :: [[../ItemAvailability]] ]
 
-[ #is_/enum_of :: [[ItemAvailability]] ]
+[ #is_/enum_of :: [[../ItemAvailability]] ]
 

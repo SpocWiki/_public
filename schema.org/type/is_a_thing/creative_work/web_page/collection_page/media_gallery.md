@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Web page type: Media gallery page. A mixed-media page that can contain media such as images, videos, and other multimedia.
 
-[ #is_/sub_class_of :: [[CollectionPage]] ]
+[ #is_/sub_class_of :: [[../CollectionPage]] ]
 
 [ #has_/sub_classes :: [ ImageGallery, VideoGallery ] ]
 

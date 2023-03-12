@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Any part of the human body, typically a component of an anatomical system. Organs, tissues, and cells are all anatomical structures.
 
-[ #is_/sub_class_of :: [[MedicalEntity]] ]
+[ #is_/sub_class_of :: [[../MedicalEntity]] ]
 
 [ #has_/sub_classes :: [ Bone, BrainStructure, Joint, Ligament, Muscle, Nerve, Vessel ] ]
 

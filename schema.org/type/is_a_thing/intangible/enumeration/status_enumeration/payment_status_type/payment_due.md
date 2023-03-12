@@ -39,7 +39,7 @@ Tag Instances like this:
 
 The payment is due, but still within an acceptable time to be received.
 
-[ #is_/sub_class_of :: [[PaymentStatusType]] ]
+[ #is_/sub_class_of :: [[../PaymentStatusType]] ]
 
-[ #is_/enum_of :: [[PaymentStatusType]] ]
+[ #is_/enum_of :: [[../PaymentStatusType]] ]
 

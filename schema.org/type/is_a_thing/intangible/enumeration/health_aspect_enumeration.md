@@ -40,5 +40,5 @@ Tag Instances like this:
 
 HealthAspectEnumeration enumerates several aspects of health content online, each of which might be described using <a class="localLink" href="/hasHealthAspect">hasHealthAspect</a> and <a class="localLink" href="/HealthTopicContent">HealthTopicContent</a>.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

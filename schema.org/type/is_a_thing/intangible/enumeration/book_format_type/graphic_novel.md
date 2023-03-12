@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,9 +39,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://bib.schema.org ]
 
-Book format: GraphicNovel. May represent a bound collection of ComicIssue instances.
+Book format: [[graphic_novel]]. May represent a bound collection of [[../../../creative_work/publication_issue/comic_issue|comic-issue]] instances.
 
-[ #is_/sub_class_of :: [[BookFormatType]] ]
-
-[ #is_/enum_of :: [[BookFormatType]] ]
+[ #is_/enum_of :: [[../Book_Format_Type]] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A web page element, like a table or an image.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ SiteNavigationElement, Table, WPAdBlock, WPFooter, WPHeader, WPSideBar ] ]
 

@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A medical procedure intended primarily for therapeutic purposes, aimed at improving a health condition.
 
-[ #is_/sub_class_of :: [[MedicalProcedure]] ]
+[ #is_/sub_class_of :: [[../MedicalProcedure]] ]
 
 [ #has_/sub_classes :: [ MedicalTherapy, PsychologicalTreatment ] ]
 

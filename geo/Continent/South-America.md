@@ -9,3 +9,4 @@ SpocWebEntityId: 27160
 confidential: public
 [name-en::South America]
 [name-de::Südamerika]
+[ #has/_code  :: SA ]

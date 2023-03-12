@@ -41,7 +41,7 @@ Tag Instances like this:
 
 MixedEventAttendanceMode - an event that is conducted as a combination of both offline and online modes.
 
-[ #is_/sub_class_of :: [[EventAttendanceModeEnumeration]] ]
+[ #is_/sub_class_of :: [[../EventAttendanceModeEnumeration]] ]
 
-[ #is_/enum_of :: [[EventAttendanceModeEnumeration]] ]
+[ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 

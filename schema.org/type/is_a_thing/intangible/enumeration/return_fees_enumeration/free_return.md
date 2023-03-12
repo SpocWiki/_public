@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Specifies that product returns are free of charge for the customer.
 
-[ #is_/sub_class_of :: [[ReturnFeesEnumeration]] ]
+[ #is_/sub_class_of :: [[../ReturnFeesEnumeration]] ]
 
-[ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
+[ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 

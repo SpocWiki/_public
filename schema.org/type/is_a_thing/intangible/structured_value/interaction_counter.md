@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A summary of how users have interacted with this CreativeWork. In most cases, authors will use a subtype to specify the specific type of interaction.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage, name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount ] ]
 

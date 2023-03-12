@@ -9,3 +9,4 @@ SpocWebEntityId: 27161
 confidential: public
 [name-en::Asia]
 [name-de::Asien]
+[ #has/_code  :: AS ]

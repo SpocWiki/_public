@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A class of medical drugs, e.g., statins. Classes can represent general pharmacological class, common mechanisms of action, common physiological effects, etc.
 
-[ #is_/sub_class_of :: [[MedicalEntity]] ]
+[ #is_/sub_class_of :: [[../MedicalEntity]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, drug, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 

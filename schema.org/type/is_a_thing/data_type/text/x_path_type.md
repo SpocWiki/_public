@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Text representing an XPath (typically but not necessarily version 1.0).
 
-[ #is_/sub_class_of :: [[Text]] ]
+[ #is_/sub_class_of :: [[../Text]] ]
 

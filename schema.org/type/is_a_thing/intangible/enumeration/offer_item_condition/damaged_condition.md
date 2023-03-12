@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item is damaged.
 
-[ #is_/sub_class_of :: [[OfferItemCondition]] ]
+[ #is_/sub_class_of :: [[../OfferItemCondition]] ]
 
-[ #is_/enum_of :: [[OfferItemCondition]] ]
+[ #is_/enum_of :: [[../OfferItemCondition]] ]
 

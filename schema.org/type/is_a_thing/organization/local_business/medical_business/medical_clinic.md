@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A facility, often associated with a hospital or medical school, that is devoted to the specific diagnosis and/or healthcare. Previously limited to outpatients but with evolution it may be open to inpatients as well.
 
-[ #is_/sub_class_of :: [[MedicalBusiness, MedicalOrganization]] ]
+[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalOrganization]] ]
 
 [ #has_/sub_classes :: [ CovidTestingFacility ] ]
 

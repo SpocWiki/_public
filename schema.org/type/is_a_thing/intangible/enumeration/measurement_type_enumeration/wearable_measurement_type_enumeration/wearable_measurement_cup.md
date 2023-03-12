@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Measurement of the cup, for example of a bra
 
-[ #is_/sub_class_of :: [[WearableMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[WearableMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 

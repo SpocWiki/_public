@@ -40,7 +40,7 @@ Tag Instances like this:
 
 Indicates employment-related experience requirements, e.g. <a class="localLink" href="/monthsOfExperience">monthsOfExperience</a>.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction, sameAs, subjectOf, url ] ]
 

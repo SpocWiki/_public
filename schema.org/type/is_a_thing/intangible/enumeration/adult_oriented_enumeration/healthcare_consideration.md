@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medical device.
 
-[ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
 
-[ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 

@@ -38,5 +38,5 @@ Tag Instances like this:
 
 A list of possible conditions for the item.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

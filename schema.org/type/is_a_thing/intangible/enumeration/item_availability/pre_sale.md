@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_pre_sale Class
-linkTitle: is_a_pre_sale Class
+title: is_pre_sale Class
+linkTitle: is_pre_sale Class
 
 keywords: [pre_sale]
 layout: 
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item is available for ordering and delivery before general availability.
 
-[ #is_/sub_class_of :: [[ItemAvailability]] ]
+[ #is_/sub_class_of :: [[../ItemAvailability]] ]
 
-[ #is_/enum_of :: [[ItemAvailability]] ]
+[ #is_/enum_of :: [[../ItemAvailability]] ]
 

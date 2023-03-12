@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A person (alive, dead, undead, or fictional).
 
-[ #is_/sub_class_of :: [[Thing]] ]
+[ #is_/sub_class_of :: [[../Thing]] ]
 
 [ #has_/sub_classes :: [ Patient ] ]
 

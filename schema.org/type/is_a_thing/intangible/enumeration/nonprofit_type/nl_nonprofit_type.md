@@ -40,5 +40,5 @@ Tag Instances like this:
 
 NLNonprofitType: Non-profit organization type originating from the Netherlands.
 
-[ #is_/sub_class_of :: [[NonprofitType]] ]
+[ #is_/sub_class_of :: [[../NonprofitType]] ]
 

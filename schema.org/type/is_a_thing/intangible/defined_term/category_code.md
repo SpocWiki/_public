@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A Category Code.
 
-[ #is_/sub_class_of :: [[DefinedTerm]] ]
+[ #is_/sub_class_of :: [[../DefinedTerm]] ]
 
 [ #has_/sub_classes :: [ MedicalCode ] ]
 

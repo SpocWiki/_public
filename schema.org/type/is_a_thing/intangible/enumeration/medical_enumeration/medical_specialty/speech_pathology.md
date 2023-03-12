@@ -39,7 +39,7 @@ Tag Instances like this:
 
 The scientific study and treatment of defects, disorders, and malfunctions of speech and voice, as stuttering, lisping, or lalling, and of language disturbances, as aphasia or delayed language acquisition.
 
-[ #is_/sub_class_of :: [[MedicalSpecialty]] ]
+[ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
 
-[ #is_/enum_of :: [[MedicalSpecialty]] ]
+[ #is_/enum_of :: [[../MedicalSpecialty]] ]
 

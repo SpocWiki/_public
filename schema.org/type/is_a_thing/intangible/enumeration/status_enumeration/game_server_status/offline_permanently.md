@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Game server status: OfflinePermanently. Server is offline and not available.
 
-[ #is_/sub_class_of :: [[GameServerStatus]] ]
+[ #is_/sub_class_of :: [[../GameServerStatus]] ]
 
-[ #is_/enum_of :: [[GameServerStatus]] ]
+[ #is_/enum_of :: [[../GameServerStatus]] ]
 

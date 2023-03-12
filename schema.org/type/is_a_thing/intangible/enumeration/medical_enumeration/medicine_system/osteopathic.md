@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A system of medicine focused on promoting the body's innate ability to heal itself.
 
-[ #is_/sub_class_of :: [[MedicineSystem]] ]
+[ #is_/sub_class_of :: [[../MedicineSystem]] ]
 
-[ #is_/enum_of :: [[MedicineSystem]] ]
+[ #is_/enum_of :: [[../MedicineSystem]] ]
 

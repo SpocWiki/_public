@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Any matter of defined composition that has discrete existence, whose origin may be biological, mineral or chemical.
 
-[ #is_/sub_class_of :: [[MedicalEntity]] ]
+[ #is_/sub_class_of :: [[../MedicalEntity]] ]
 
 [ #has_/sub_classes :: [ DietarySupplement, Drug ] ]
 

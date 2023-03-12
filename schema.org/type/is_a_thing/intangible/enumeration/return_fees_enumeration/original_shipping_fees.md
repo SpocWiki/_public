@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Specifies that the customer must pay the original shipping costs when returning a product.
 
-[ #is_/sub_class_of :: [[ReturnFeesEnumeration]] ]
+[ #is_/sub_class_of :: [[../ReturnFeesEnumeration]] ]
 
-[ #is_/enum_of :: [[ReturnFeesEnumeration]] ]
+[ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 

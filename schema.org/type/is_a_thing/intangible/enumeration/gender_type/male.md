@@ -39,7 +39,7 @@ Tag Instances like this:
 
 The male gender.
 
-[ #is_/sub_class_of :: [[GenderType]] ]
+[ #is_/sub_class_of :: [[../GenderType]] ]
 
-[ #is_/enum_of :: [[GenderType]] ]
+[ #is_/enum_of :: [[../GenderType]] ]
 

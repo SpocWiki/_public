@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_an_online_only Class
-linkTitle: is_an_online_only Class
+title: is_online_only Class
+linkTitle: is_online_only Class
 
 keywords: [online_only]
 layout: 
@@ -29,7 +29,7 @@ aliases:
 - online-only
 - online_only
 - OnlineOnly
-- is_an_online_only
+- is_online_only
 ---
 
 Class of all online_onlys.
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item is available only online.
 
-[ #is_/sub_class_of :: [[ItemAvailability]] ]
+[ #is_/sub_class_of :: [[../ItemAvailability]] ]
 
-[ #is_/enum_of :: [[ItemAvailability]] ]
+[ #is_/enum_of :: [[../ItemAvailability]] ]
 

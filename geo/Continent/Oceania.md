@@ -9,3 +9,4 @@ SpocWebEntityId: 27201
 confidential: public
 [name-en::Oceania]
 [name-de::Ozeanien]
+[ #has/_code  :: OC ]

@@ -1,4 +1,4 @@
-﻿---
+h---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,7 +40,7 @@ Tag Instances like this:
 
 Enumeration of common measurement types (or dimensions), for example "chest" for a person, "inseam" for pants, "gauge" for screws, or "wheel" for bicycles.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 
 [ #has_/sub_classes :: [ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501e: Non-profit type referring to Cooperative Hospital Service Organizations.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

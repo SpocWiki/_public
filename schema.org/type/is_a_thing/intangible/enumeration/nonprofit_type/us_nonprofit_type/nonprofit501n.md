@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501n: Non-profit type referring to Charitable Risk Pools.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

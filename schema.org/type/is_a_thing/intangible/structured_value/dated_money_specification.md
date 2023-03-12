@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A DatedMoneySpecification represents monetary values with optional start and end dates. For example, this could represent an employee's salary over a specific period of time. <strong>Note:</strong> This type has been superseded by <a class="localLink" href="/MonetaryAmount">MonetaryAmount</a>, use of that type is recommended.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, amount, currency, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, startDate, subjectOf, url ] ]
 

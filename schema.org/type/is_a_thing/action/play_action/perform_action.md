@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of participating in performance arts.
 
-[ #is_/sub_class_of :: [[PlayAction]] ]
+[ #is_/sub_class_of :: [[../PlayAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, entertainmentBusiness, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

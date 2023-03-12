@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Overview of the content. Contains a summarized view of the topic with the most relevant information for an introduction.
 
-[ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
+[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
 
-[ #is_/enum_of :: [[HealthAspectEnumeration]] ]
+[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 

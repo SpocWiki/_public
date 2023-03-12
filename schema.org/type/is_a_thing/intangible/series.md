@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A Series in schema.org is a group of related items, typically but not necessarily of the same kind. See also <a class="localLink" href="/CreativeWorkSeries">CreativeWorkSeries</a>, <a class="localLink" href="/EventSeries">EventSeries</a>.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/sub_classes :: [ CreativeWorkSeries, EventSeries ] ]
 

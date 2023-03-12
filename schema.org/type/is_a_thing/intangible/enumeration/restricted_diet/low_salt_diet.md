@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A diet focused on reduced sodium intake.
 
-[ #is_/sub_class_of :: [[RestrictedDiet]] ]
+[ #is_/sub_class_of :: [[../RestrictedDiet]] ]
 
-[ #is_/enum_of :: [[RestrictedDiet]] ]
+[ #is_/enum_of :: [[../RestrictedDiet]] ]
 

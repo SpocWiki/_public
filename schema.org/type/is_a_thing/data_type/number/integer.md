@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Data type: Integer.
 
-[ #is_/sub_class_of :: [[Number]] ]
+[ #is_/sub_class_of :: [[../Number]] ]
 

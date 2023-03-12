@@ -41,7 +41,7 @@ Tag Instances like this:
 
 OneTimePayments: this is a benefit for one-time payments for individuals.
 
-[ #is_/sub_class_of :: [[GovernmentBenefitsType]] ]
+[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
 
-[ #is_/enum_of :: [[GovernmentBenefitsType]] ]
+[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 

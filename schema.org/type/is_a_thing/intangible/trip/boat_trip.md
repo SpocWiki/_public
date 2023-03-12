@@ -40,7 +40,7 @@ Tag Instances like this:
 
 A trip on a commercial ferry line.
 
-[ #is_/sub_class_of :: [[Trip]] ]
+[ #is_/sub_class_of :: [[../Trip]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalBoatTerminal, arrivalTime, departureBoatTerminal, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
 

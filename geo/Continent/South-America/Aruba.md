@@ -30,3 +30,9 @@ confidential: public
 [geo-lon::-69.9933]
 [geo-lat::12.5083]
 
+```leaflet
+id: Aruba
+zoomFeatures: true
+geojsonFolder: ./Aruba
+```
+

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A specific dosing schedule for a drug or supplement.
 
-[ #is_/sub_class_of :: [[MedicalIntangible]] ]
+[ #is_/sub_class_of :: [[../MedicalIntangible]] ]
 
 [ #has_/sub_classes :: [ MaximumDoseSchedule, RecommendedDoseSchedule, ReportedDoseSchedule ] ]
 

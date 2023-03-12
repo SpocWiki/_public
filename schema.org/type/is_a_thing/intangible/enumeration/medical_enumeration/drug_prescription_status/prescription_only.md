@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Available by prescription only.
 
-[ #is_/sub_class_of :: [[DrugPrescriptionStatus]] ]
+[ #is_/sub_class_of :: [[../DrugPrescriptionStatus]] ]
 
-[ #is_/enum_of :: [[DrugPrescriptionStatus]] ]
+[ #is_/enum_of :: [[../DrugPrescriptionStatus]] ]
 

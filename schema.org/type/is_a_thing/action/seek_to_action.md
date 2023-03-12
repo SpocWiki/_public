@@ -40,7 +40,7 @@ Tag Instances like this:
 
 This is the <a class="localLink" href="/Action">Action</a> of navigating to a specific <a class="localLink" href="/startOffset">startOffset</a> timestamp within a <a class="localLink" href="/VideoObject">VideoObject</a>, typically represented with a URL template structure.
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startOffset, startTime, subjectOf, target, url ] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 UKTrust: Non-profit type referring to a UK trust.
 
-[ #is_/sub_class_of :: [[UKNonprofitType]] ]
+[ #is_/sub_class_of :: [[../UKNonprofitType]] ]
 
-[ #is_/enum_of :: [[UKNonprofitType]] ]
+[ #is_/enum_of :: [[../UKNonprofitType]] ]
 

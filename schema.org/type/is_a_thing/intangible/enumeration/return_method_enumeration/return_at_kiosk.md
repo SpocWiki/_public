@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Specifies that product returns must be made at a kiosk.
 
-[ #is_/sub_class_of :: [[ReturnMethodEnumeration]] ]
+[ #is_/sub_class_of :: [[../ReturnMethodEnumeration]] ]
 
-[ #is_/enum_of :: [[ReturnMethodEnumeration]] ]
+[ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 

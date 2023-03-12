@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_pre_order Class
-linkTitle: is_a_pre_order Class
+title: is_pre_ordered Class
+linkTitle: is_pre_ordered Class
 
 keywords: [pre_order]
 layout: 
@@ -29,7 +29,7 @@ aliases:
 - pre-order
 - pre_order
 - PreOrder
-- is_a_pre_order
+- is_pre_ordered
 ---
 
 Class of all pre_orders.
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item is available for pre-order.
 
-[ #is_/sub_class_of :: [[ItemAvailability]] ]
+[ #is_/sub_class_of :: [[../ItemAvailability]] ]
 
-[ #is_/enum_of :: [[ItemAvailability]] ]
+[ #is_/enum_of :: [[../ItemAvailability]] ]
 

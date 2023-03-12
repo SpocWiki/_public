@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Systems of medical practice.
 
-[ #is_/sub_class_of :: [[MedicalEnumeration]] ]
+[ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 

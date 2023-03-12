@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of deliberately creating/producing/generating/building a result out of the agent.
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/sub_classes :: [ CookAction, DrawAction, FilmAction, PaintAction, PhotographAction, WriteAction ] ]
 

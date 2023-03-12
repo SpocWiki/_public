@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Enumerates different price types, for example list price, invoice price, and sale price.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

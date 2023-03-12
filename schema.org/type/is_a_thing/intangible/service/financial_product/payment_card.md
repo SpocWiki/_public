@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A payment method using a credit, debit, store or other card to associate the payment with an account.
 
-[ #is_/sub_class_of :: [[FinancialProduct, PaymentMethod]] ]
+[ #is_/sub_class_of :: [[../FinancialProduct, PaymentMethod]] ]
 
 [ #has_/sub_classes :: [ CreditCard ] ]
 

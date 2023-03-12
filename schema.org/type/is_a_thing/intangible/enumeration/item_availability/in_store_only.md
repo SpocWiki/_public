@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_an_in_store_only Class
-linkTitle: is_an_in_store_only Class
+title: is_in_store_only Class
+linkTitle: is_in_store_only Class
 
 keywords: [in_store_only]
 layout: 
@@ -29,7 +29,7 @@ aliases:
 - in-store-only
 - in_store_only
 - InStoreOnly
-- is_an_in_store_only
+- is_in_store_only
 ---
 
 Class of all in_store_onlys.
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item is available only at physical locations.
 
-[ #is_/sub_class_of :: [[ItemAvailability]] ]
+[ #is_/sub_class_of :: [[../ItemAvailability]] ]
 
-[ #is_/enum_of :: [[ItemAvailability]] ]
+[ #is_/enum_of :: [[../ItemAvailability]] ]
 

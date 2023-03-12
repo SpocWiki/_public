@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Enumerates types (or dimensions) of a person's body measurements, for example for fitting of clothes.
 
-[ #is_/sub_class_of :: [[MeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../MeasurementTypeEnumeration]] ]
 

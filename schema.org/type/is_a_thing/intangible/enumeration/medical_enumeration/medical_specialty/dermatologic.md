@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Something relating to or practicing dermatology.
 
-[ #is_/sub_class_of :: [[MedicalSpecialty]] ]
+[ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
 
-[ #is_/enum_of :: [[MedicalSpecialty]] ]
+[ #is_/enum_of :: [[../MedicalSpecialty]] ]
 

@@ -39,7 +39,7 @@ Tag Instances like this:
 
 OrderStatus representing availability of an order for pickup.
 
-[ #is_/sub_class_of :: [[OrderStatus]] ]
+[ #is_/sub_class_of :: [[../OrderStatus]] ]
 
-[ #is_/enum_of :: [[OrderStatus]] ]
+[ #is_/enum_of :: [[../OrderStatus]] ]
 

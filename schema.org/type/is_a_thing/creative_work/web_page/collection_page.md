@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Web page type: Collection page.
 
-[ #is_/sub_class_of :: [[WebPage]] ]
+[ #is_/sub_class_of :: [[../WebPage]] ]
 
 [ #has_/sub_classes :: [ MediaGallery ] ]
 

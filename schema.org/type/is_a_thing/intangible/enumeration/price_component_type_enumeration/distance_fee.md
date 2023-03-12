@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents the distance fee (e.g., price per km or mile) part of the total price for an offered product, for example a car rental.
 
-[ #is_/sub_class_of :: [[PriceComponentTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../PriceComponentTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[PriceComponentTypeEnumeration]] ]
+[ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 

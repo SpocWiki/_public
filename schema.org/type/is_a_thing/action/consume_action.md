@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of ingesting information/resources/food.
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/sub_classes :: [ DrinkAction, EatAction, InstallAction, ListenAction, PlayGameAction, ReadAction, UseAction, ViewAction, WatchAction ] ]
 

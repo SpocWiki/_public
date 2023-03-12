@@ -9,3 +9,4 @@ SpocWebEntityId: 27159
 confidential: public
 [name-en::Antarctica]
 [name-de::Antarktis]
+[ #has/_code  :: AN ]

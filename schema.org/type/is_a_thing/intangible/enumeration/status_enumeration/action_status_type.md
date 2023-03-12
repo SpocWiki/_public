@@ -38,5 +38,5 @@ Tag Instances like this:
 
 The status of an Action.
 
-[ #is_/sub_class_of :: [[StatusEnumeration]] ]
+[ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 

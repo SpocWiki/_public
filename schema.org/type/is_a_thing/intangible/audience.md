@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Intended audience for an item, i.e. the group for whom the item was created.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/sub_classes :: [ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ] ]
 

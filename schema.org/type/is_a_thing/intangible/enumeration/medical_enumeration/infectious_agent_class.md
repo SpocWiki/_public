@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Classes of agents or pathogens that transmit infectious diseases. Enumerated type.
 
-[ #is_/sub_class_of :: [[MedicalEnumeration]] ]
+[ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 

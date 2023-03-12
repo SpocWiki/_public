@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A government office&#x2014;for example, an IRS or DMV office.
 
-[ #is_/sub_class_of :: [[LocalBusiness]] ]
+[ #is_/sub_class_of :: [[../LocalBusiness]] ]
 
 [ #has_/sub_classes :: [ PostOffice ] ]
 

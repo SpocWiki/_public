@@ -39,7 +39,7 @@ Tag Instances like this:
 
 The airline boards by groups based on check-in time, priority, etc.
 
-[ #is_/sub_class_of :: [[BoardingPolicyType]] ]
+[ #is_/sub_class_of :: [[../BoardingPolicyType]] ]
 
-[ #is_/enum_of :: [[BoardingPolicyType]] ]
+[ #is_/enum_of :: [[../BoardingPolicyType]] ]
 

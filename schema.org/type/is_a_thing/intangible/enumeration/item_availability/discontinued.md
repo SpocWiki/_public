@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Type
 
-title: is_a_discontinued Class
-linkTitle: is_a_discontinued Class
+title: is_discontinued Class
+linkTitle: is_discontinued Class
 
 keywords: [discontinued]
 layout: 
@@ -29,7 +29,7 @@ aliases:
 - discontinued
 - discontinued
 - Discontinued
-- is_a_discontinued
+- is_discontinued
 ---
 
 Class of all discontinueds.
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Indicates that the item has been discontinued.
 
-[ #is_/sub_class_of :: [[ItemAvailability]] ]
+[ #is_/sub_class_of :: [[../ItemAvailability]] ]
 
-[ #is_/enum_of :: [[ItemAvailability]] ]
+[ #is_/enum_of :: [[../ItemAvailability]] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of  departing from a place. An agent departs from a fromLocation for a destination, optionally with participants.
 
-[ #is_/sub_class_of :: [[MoveAction]] ]
+[ #is_/sub_class_of :: [[../MoveAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 

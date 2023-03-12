@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of accomplishing something via previous efforts. It is an instantaneous action rather than an ongoing process.
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/sub_classes :: [ LoseAction, TieAction, WinAction ] ]
 

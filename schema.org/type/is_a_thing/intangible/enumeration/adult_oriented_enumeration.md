@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Enumeration of considerations that make a product relevant or potentially restricted for adults only.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

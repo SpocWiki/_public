@@ -40,5 +40,5 @@ Tag Instances like this:
 
 Enumerates different price components that together make up the total price for an offered product.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

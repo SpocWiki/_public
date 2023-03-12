@@ -40,7 +40,7 @@ A CreativeWorkSeries in schema.org is a group of related items, typically but no
 Specific subtypes are available for describing <a class="localLink" href="/TVSeries">TVSeries</a>, <a class="localLink" href="/RadioSeries">RadioSeries</a>, <a class="localLink" href="/MovieSeries">MovieSeries</a>, <a class="localLink" href="/BookSeries">BookSeries</a>, <a class="localLink" href="/Periodical">Periodical</a> and <a class="localLink" href="/VideoGameSeries">VideoGameSeries</a>. In each case, the <a class="localLink" href="/hasPart">hasPart</a> / <a class="localLink" href="/isPartOf">isPartOf</a> properties can be used to relate the CreativeWorkSeries to its parts. The general CreativeWorkSeries type serves largely just to organize these more specific and practical subtypes.<br/><br/>
 It is common for properties applicable to an item from the series to be usefully applied to the containing group. Schema.org attempts to anticipate some of these cases, but publishers should be free to apply properties of the series parts to the series as a whole wherever they seem appropriate.
 
-[ #is_/sub_class_of :: [[CreativeWork, Series]] ]
+[ #is_/sub_class_of :: [[../CreativeWork, Series]] ]
 
 [ #has_/sub_classes :: [ BookSeries, MovieSeries, Periodical, PodcastSeries, RadioSeries, TVSeries, VideoGameSeries ] ]
 

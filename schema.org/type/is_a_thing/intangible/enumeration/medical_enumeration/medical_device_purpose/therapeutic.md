@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A medical device used for therapeutic purposes.
 
-[ #is_/sub_class_of :: [[MedicalDevicePurpose]] ]
+[ #is_/sub_class_of :: [[../MedicalDevicePurpose]] ]
 
-[ #is_/enum_of :: [[MedicalDevicePurpose]] ]
+[ #is_/enum_of :: [[../MedicalDevicePurpose]] ]
 

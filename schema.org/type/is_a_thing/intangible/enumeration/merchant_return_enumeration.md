@@ -42,5 +42,5 @@ Tag Instances like this:
 
 Enumerates several kinds of product return policies.
 
-[ #is_/sub_class_of :: [[Enumeration]] ]
+[ #is_/sub_class_of :: [[../Enumeration]] ]
 

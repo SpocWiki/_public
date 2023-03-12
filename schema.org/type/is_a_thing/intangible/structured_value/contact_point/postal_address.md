@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The mailing address.
 
-[ #is_/sub_class_of :: [[ContactPoint]] ]
+[ #is_/sub_class_of :: [[../ContactPoint]] ]
 
 [ #has_/properties :: [ additionalType, addressCountry, addressLocality, addressRegion, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, postOfficeBoxNumber, postalCode, potentialAction, productSupported, sameAs, serviceArea, streetAddress, subjectOf, telephone, url ] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 An item used as either a tool or supply when performing the instructions for how to achieve a result.
 
-[ #is_/sub_class_of :: [[ListItem]] ]
+[ #is_/sub_class_of :: [[../ListItem]] ]
 
 [ #has_/sub_classes :: [ HowToSupply, HowToTool ] ]
 

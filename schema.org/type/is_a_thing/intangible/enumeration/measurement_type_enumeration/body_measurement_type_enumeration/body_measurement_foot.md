@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Foot length (measured between end of the most prominent toe and the most prominent part of the heel). Used, for example, to measure socks.
 
-[ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 

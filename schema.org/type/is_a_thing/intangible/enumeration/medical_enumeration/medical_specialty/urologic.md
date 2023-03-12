@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A specific branch of medical science that is concerned with the diagnosis and treatment of diseases pertaining to the urinary tract and the urogenital system.
 
-[ #is_/sub_class_of :: [[MedicalSpecialty]] ]
+[ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
 
-[ #is_/enum_of :: [[MedicalSpecialty]] ]
+[ #is_/enum_of :: [[../MedicalSpecialty]] ]
 

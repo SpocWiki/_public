@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Financial services business.
 
-[ #is_/sub_class_of :: [[LocalBusiness]] ]
+[ #is_/sub_class_of :: [[../LocalBusiness]] ]
 
 [ #has_/sub_classes :: [ AccountingService, AutomatedTeller, BankOrCreditUnion, InsuranceAgency ] ]
 

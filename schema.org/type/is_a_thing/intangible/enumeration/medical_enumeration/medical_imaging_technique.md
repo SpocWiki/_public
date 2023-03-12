@@ -38,5 +38,5 @@ Tag Instances like this:
 
 Any medical imaging modality typically used for diagnostic purposes. Enumerated type.
 
-[ #is_/sub_class_of :: [[MedicalEnumeration]] ]
+[ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 

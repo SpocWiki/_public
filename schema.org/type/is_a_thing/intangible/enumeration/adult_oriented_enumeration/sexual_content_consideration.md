@@ -41,7 +41,7 @@ Tag Instances like this:
 
 The item contains sexually oriented content such as nudity, suggestive or explicit material, or related online services, or is intended to enhance sexual activity. Examples: Erotic videos or magazine, sexual enhancement devices, sex toys.
 
-[ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
 
-[ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 

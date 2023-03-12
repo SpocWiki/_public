@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501d: Non-profit type referring to Religious and Apostolic Associations.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

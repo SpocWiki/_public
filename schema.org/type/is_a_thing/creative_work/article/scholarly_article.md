@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A scholarly article.
 
-[ #is_/sub_class_of :: [[Article]] ]
+[ #is_/sub_class_of :: [[../Article]] ]
 
 [ #has_/sub_classes :: [ MedicalScholarlyArticle ] ]
 

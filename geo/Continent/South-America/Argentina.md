@@ -11,7 +11,7 @@ confidential: public
 ---
 [ISO2::AR]
 [ISO3::ARG]
-[name-en::Argentina 2]
+[name-en::Argentina]
 [name-de::Argentinien]
 [Area-Total::2766889]
 [Area-Land::2736690]

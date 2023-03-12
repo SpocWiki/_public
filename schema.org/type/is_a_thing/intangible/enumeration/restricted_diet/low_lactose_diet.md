@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A diet appropriate for people with lactose intolerance.
 
-[ #is_/sub_class_of :: [[RestrictedDiet]] ]
+[ #is_/sub_class_of :: [[../RestrictedDiet]] ]
 
-[ #is_/enum_of :: [[RestrictedDiet]] ]
+[ #is_/enum_of :: [[../RestrictedDiet]] ]
 

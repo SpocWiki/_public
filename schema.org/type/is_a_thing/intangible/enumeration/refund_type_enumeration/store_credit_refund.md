@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Specifies that the customer receives a store credit as refund when returning a product.
 
-[ #is_/sub_class_of :: [[RefundTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../RefundTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[RefundTypeEnumeration]] ]
+[ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 

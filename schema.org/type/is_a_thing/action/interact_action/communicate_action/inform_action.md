@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of notifying someone of information pertinent to them, with no expectation of a response.
 
-[ #is_/sub_class_of :: [[CommunicateAction]] ]
+[ #is_/sub_class_of :: [[../CommunicateAction]] ]
 
 [ #has_/sub_classes :: [ ConfirmAction, RsvpAction ] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Mexican size system for wearables.
 
-[ #is_/sub_class_of :: [[WearableSizeSystemEnumeration]] ]
+[ #is_/sub_class_of :: [[../WearableSizeSystemEnumeration]] ]
 
-[ #is_/enum_of :: [[WearableSizeSystemEnumeration]] ]
+[ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 

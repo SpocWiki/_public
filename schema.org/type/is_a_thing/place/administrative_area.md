@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A geographical region, typically under the jurisdiction of a particular government.
 
-[ #is_/sub_class_of :: [[Place]] ]
+[ #is_/sub_class_of :: [[../Place]] ]
 
 [ #has_/sub_classes :: [ City, Country, SchoolDistrict, State ] ]
 

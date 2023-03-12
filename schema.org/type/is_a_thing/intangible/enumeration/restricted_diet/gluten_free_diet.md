@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A diet exclusive of gluten.
 
-[ #is_/sub_class_of :: [[RestrictedDiet]] ]
+[ #is_/sub_class_of :: [[../RestrictedDiet]] ]
 
-[ #is_/enum_of :: [[RestrictedDiet]] ]
+[ #is_/enum_of :: [[../RestrictedDiet]] ]
 

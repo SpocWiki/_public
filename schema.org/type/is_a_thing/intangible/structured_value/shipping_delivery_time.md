@@ -40,7 +40,7 @@ Tag Instances like this:
 
 ShippingDeliveryTime provides various pieces of information about delivery times for shipping.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, businessDays, cutoffTime, description, disambiguatingDescription, handlingTime, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, transitTime, url ] ]
 

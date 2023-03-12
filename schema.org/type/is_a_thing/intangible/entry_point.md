@@ -38,7 +38,7 @@ Tag Instances like this:
 
 An entry point, within some Web-based protocol.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ] ]
 

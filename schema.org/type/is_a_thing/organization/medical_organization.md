@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A medical organization (physical or not), such as hospital, institution or clinic.
 
-[ #is_/sub_class_of :: [[Organization]] ]
+[ #is_/sub_class_of :: [[../Organization]] ]
 
 [ #has_/sub_classes :: [ Dentist, DiagnosticLab, Hospital, MedicalClinic, Pharmacy, Physician, VeterinaryCare ] ]
 

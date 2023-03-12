@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of producing a visual/graphical representation of an object, typically with a pen/pencil and paper as instruments.
 
-[ #is_/sub_class_of :: [[CreateAction]] ]
+[ #is_/sub_class_of :: [[../CreateAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 

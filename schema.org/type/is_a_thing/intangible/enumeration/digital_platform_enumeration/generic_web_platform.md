@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Represents the generic notion of the Web Platform. More specific codes include <a class="localLink" href="/MobileWebPlatform">MobileWebPlatform</a> and <a class="localLink" href="/DesktopWebPlatform">DesktopWebPlatform</a>, as an incomplete list.
 
-[ #is_/sub_class_of :: [[DigitalPlatformEnumeration]] ]
+[ #is_/sub_class_of :: [[../DigitalPlatformEnumeration]] ]
 
-[ #is_/enum_of :: [[DigitalPlatformEnumeration]] ]
+[ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 

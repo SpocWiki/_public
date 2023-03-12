@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Indicates that a legislation is currently not in force.
 
-[ #is_/sub_class_of :: [[LegalForceStatus]] ]
+[ #is_/sub_class_of :: [[../LegalForceStatus]] ]
 
-[ #is_/enum_of :: [[LegalForceStatus]] ]
+[ #is_/enum_of :: [[../LegalForceStatus]] ]
 

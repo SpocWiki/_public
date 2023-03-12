@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Represents the collection of all sports organizations, including sports teams, governing bodies, and sports associations.
 
-[ #is_/sub_class_of :: [[Organization]] ]
+[ #is_/sub_class_of :: [[../Organization]] ]
 
 [ #has_/sub_classes :: [ SportsTeam ] ]
 

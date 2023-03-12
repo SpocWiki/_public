@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narcotic-drugs/Yellowlist/yellow-list.html">1961 UN convention</a>, for example marijuana or heroin.
 
-[ #is_/sub_class_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
 
-[ #is_/enum_of :: [[AdultOrientedEnumeration]] ]
+[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 

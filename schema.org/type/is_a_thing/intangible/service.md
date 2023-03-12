@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A service provided by an organization, e.g. delivery service, print services, etc.
 
-[ #is_/sub_class_of :: [[Intangible]] ]
+[ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/sub_classes :: [ BroadcastService, CableOrSatelliteService, FinancialProduct, FoodService, GovernmentService, Taxi, TaxiService, WebAPI ] ]
 

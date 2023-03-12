@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A utility class that serves as the umbrella for a number of 'intangible' things such as quantities, structured values, etc.
 
-[ #is_/sub_class_of :: [[Thing]] ]
+[ #is_/sub_class_of :: [[../Thing]] ]
 
 [ #has_/sub_classes :: [ ActionAccessSpecification, AlignmentObject, Audience, BedDetails, Brand, BroadcastChannel, BroadcastFrequencySpecification, Class, ComputerLanguage, DataFeedItem, DefinedTerm, Demand, DigitalDocumentPermission, EducationalOccupationalProgram, EnergyConsumptionDetails, EntryPoint, Enumeration, FloorPlan, GameServer, GeospatialGeometry, Grant, HealthInsurancePlan, HealthPlanCostSharingSpecification, HealthPlanFormulary, HealthPlanNetwork, Invoice, ItemList, JobPosting, Language, ListItem, MediaSubscription, MenuItem, MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride, Observation, Occupation, OccupationalExperienceRequirements, Offer, Order, OrderItem, ParcelDelivery, Permit, ProductReturnPolicy, ProgramMembership, Property, PropertyValueSpecification, Quantity, Rating, Reservation, Role, Schedule, Seat, Series, Service, ServiceChannel, SpeakableSpecification, StatisticalPopulation, StructuredValue, Ticket, Trip, VirtualLocation ] ]
 

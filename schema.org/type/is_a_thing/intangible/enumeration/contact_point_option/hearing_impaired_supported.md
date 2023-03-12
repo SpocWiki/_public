@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Uses devices to support users with hearing impairments.
 
-[ #is_/sub_class_of :: [[ContactPointOption]] ]
+[ #is_/sub_class_of :: [[../ContactPointOption]] ]
 
-[ #is_/enum_of :: [[ContactPointOption]] ]
+[ #is_/enum_of :: [[../ContactPointOption]] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Information about actions or measures that can be taken to avoid getting the topic or reaching a critical situation related to the topic.
 
-[ #is_/sub_class_of :: [[HealthAspectEnumeration]] ]
+[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
 
-[ #is_/enum_of :: [[HealthAspectEnumeration]] ]
+[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 

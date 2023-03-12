@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A blog post.
 
-[ #is_/sub_class_of :: [[SocialMediaPosting]] ]
+[ #is_/sub_class_of :: [[../SocialMediaPosting]] ]
 
 [ #has_/sub_classes :: [ LiveBlogPosting ] ]
 

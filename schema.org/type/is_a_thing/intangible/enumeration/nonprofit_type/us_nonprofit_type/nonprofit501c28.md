@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Nonprofit501c28: Non-profit type referring to National Railroad Retirement Investment Trusts.
 
-[ #is_/sub_class_of :: [[USNonprofitType]] ]
+[ #is_/sub_class_of :: [[../USNonprofitType]] ]
 
-[ #is_/enum_of :: [[USNonprofitType]] ]
+[ #is_/enum_of :: [[../USNonprofitType]] ]
 

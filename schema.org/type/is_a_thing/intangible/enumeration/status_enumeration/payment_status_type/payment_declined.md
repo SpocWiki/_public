@@ -39,7 +39,7 @@ Tag Instances like this:
 
 The payee received the payment, but it was declined for some reason.
 
-[ #is_/sub_class_of :: [[PaymentStatusType]] ]
+[ #is_/sub_class_of :: [[../PaymentStatusType]] ]
 
-[ #is_/enum_of :: [[PaymentStatusType]] ]
+[ #is_/enum_of :: [[../PaymentStatusType]] ]
 

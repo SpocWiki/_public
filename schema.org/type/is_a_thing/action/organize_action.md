@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of manipulating/administering/supervising/controlling one or more objects.
 
-[ #is_/sub_class_of :: [[Action]] ]
+[ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/sub_classes :: [ AllocateAction, ApplyAction, BookmarkAction, PlanAction ] ]
 

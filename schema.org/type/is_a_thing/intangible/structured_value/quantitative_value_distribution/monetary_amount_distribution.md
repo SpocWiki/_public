@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A statistical distribution of monetary amounts.
 
-[ #is_/sub_class_of :: [[QuantitativeValueDistribution]] ]
+[ #is_/sub_class_of :: [[../QuantitativeValueDistribution]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ] ]
 

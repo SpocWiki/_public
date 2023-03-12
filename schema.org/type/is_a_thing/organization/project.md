@@ -41,7 +41,7 @@ Tag Instances like this:
 An enterprise (potentially individual but typically collaborative), planned to achieve a particular aim.
 Use properties from <a class="localLink" href="/Organization">Organization</a>, <a class="localLink" href="/subOrganization">subOrganization</a>/<a class="localLink" href="/parentOrganization">parentOrganization</a> to indicate project sub-structures.
 
-[ #is_/sub_class_of :: [[Organization]] ]
+[ #is_/sub_class_of :: [[../Organization]] ]
 
 [ #has_/sub_classes :: [ FundingAgency, ResearchProject ] ]
 

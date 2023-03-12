@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Indicates demo game availability, i.e. a somehow limited demonstration of the full game.
 
-[ #is_/sub_class_of :: [[GameAvailabilityEnumeration]] ]
+[ #is_/sub_class_of :: [[../GameAvailabilityEnumeration]] ]
 
-[ #is_/enum_of :: [[GameAvailabilityEnumeration]] ]
+[ #is_/enum_of :: [[../GameAvailabilityEnumeration]] ]
 

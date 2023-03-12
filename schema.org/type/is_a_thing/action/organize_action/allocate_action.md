@@ -38,7 +38,7 @@ Tag Instances like this:
 
 The act of organizing tasks/objects/events by associating resources to it.
 
-[ #is_/sub_class_of :: [[OrganizeAction]] ]
+[ #is_/sub_class_of :: [[../OrganizeAction]] ]
 
 [ #has_/sub_classes :: [ AcceptAction, AssignAction, AuthorizeAction, RejectAction ] ]
 

@@ -41,7 +41,7 @@ Tag Instances like this:
 
 Arm length (measured between arms/shoulder line intersection and the prominent wrist bone). Used, for example, to fit shirts.
 
-[ #is_/sub_class_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-[ #is_/enum_of :: [[BodyMeasurementTypeEnumeration]] ]
+[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 

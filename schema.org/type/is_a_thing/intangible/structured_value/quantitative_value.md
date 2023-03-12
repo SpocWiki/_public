@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A point value or interval for product characteristics and other purposes.
 
-[ #is_/sub_class_of :: [[StructuredValue]] ]
+[ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ additionalProperty, additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ] ]
 

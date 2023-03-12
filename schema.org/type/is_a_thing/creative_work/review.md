@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A review of an item - for example, of a restaurant, movie, or store.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ ClaimReview, CriticReview, EmployerReview, MediaReview, Recommendation, UserReview ] ]
 

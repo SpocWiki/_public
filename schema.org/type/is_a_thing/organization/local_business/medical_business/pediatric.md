@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A specific branch of medical science that specializes in the care of infants, children and adolescents.
 
-[ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
+[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
 
-[ #is_/enum_of :: [[MedicalSpecialty]] ]
+[ #is_/enum_of :: [[../MedicalSpecialty]] ]
 

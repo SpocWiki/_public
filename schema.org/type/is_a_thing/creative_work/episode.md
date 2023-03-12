@@ -38,7 +38,7 @@ Tag Instances like this:
 
 A media episode (e.g. TV, radio, video game) which can be part of a series or season.
 
-[ #is_/sub_class_of :: [[CreativeWork]] ]
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
 
 [ #has_/sub_classes :: [ PodcastEpisode, RadioEpisode, TVEpisode ] ]
 

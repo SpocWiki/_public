@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Branch of medicine that pertains to the health services to improve and protect community health, especially epidemiology, sanitation, immunization, and preventive medicine.
 
-[ #is_/sub_class_of :: [[MedicalBusiness, MedicalSpecialty]] ]
+[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
 
-[ #is_/enum_of :: [[MedicalSpecialty]] ]
+[ #is_/enum_of :: [[../MedicalSpecialty]] ]
 

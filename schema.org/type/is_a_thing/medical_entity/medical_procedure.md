@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A process of care used in either a diagnostic, therapeutic, preventive or palliative capacity that relies on invasive (surgical), non-invasive, or other techniques.
 
-[ #is_/sub_class_of :: [[MedicalEntity]] ]
+[ #is_/sub_class_of :: [[../MedicalEntity]] ]
 
 [ #has_/sub_classes :: [ DiagnosticProcedure, PalliativeProcedure, PhysicalExam, SurgicalProcedure, TherapeuticProcedure ] ]
 
