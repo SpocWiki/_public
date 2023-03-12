@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CK]
 [ISO3::COK]
+```leaflet
+id: Cook Islands
+zoomFeatures: true
+geojsonFolder: ./Cook Islands
+```
+
 [name-en::Cook Islands]
 [name-de::Cook Inseln]
 

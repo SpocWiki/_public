@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TP]
 [ISO3::TMP]
+```leaflet
+id: Timor-Leste
+zoomFeatures: true
+geojsonFolder: ./Timor-Leste
+```
+
 [name-en::Timor-Leste]
 [name-de::Osttimor]
 [Area-Total::0]

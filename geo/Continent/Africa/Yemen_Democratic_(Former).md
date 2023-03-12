@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Yemen Democratic (Former)
+zoomFeatures: true
+geojsonFolder: ./Yemen Democratic (Former)
+```
+
 [name-en::Yemen Democratic (Former)]
 [name-de::Süd Jemen]
 [Area-Total::]

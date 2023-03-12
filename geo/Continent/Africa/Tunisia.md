@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TN]
 [ISO3::TUN]
+```leaflet
+id: Tunisia
+zoomFeatures: true
+geojsonFolder: ./Tunisia
+```
+
 [name-en::Tunisia]
 [name-de::Tunesien]
 [Area-Total::163610]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: South Vietnam
+zoomFeatures: true
+geojsonFolder: ./South Vietnam
+```
+
 [name-en::South Vietnam]
 [name-de::Süd Vietnam]
 [Area-Total::]

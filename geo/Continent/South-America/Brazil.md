@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BR]
 [ISO3::BRA]
+```leaflet
+id: Brazil
+zoomFeatures: true
+geojsonFolder: ./Brazil
+```
+
 [name-en::Brazil]
 [name-de::Brasilien]
 [Area-Total::8511996]

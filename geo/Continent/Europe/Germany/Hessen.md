@@ -15,6 +15,12 @@ tags:
 
 ![[Flag_of_Hesse.svg|350]]
 
+```leaflet
+id: Hessen
+zoomFeatures: true
+geojsonFolder: ./Hessen/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Wiesbaden]]]
 [geo-lon::8.8478]

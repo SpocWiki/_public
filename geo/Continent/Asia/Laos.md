@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LA]
 [ISO3::LAO]
+```leaflet
+id: Laos
+zoomFeatures: true
+geojsonFolder: ./Laos
+```
+
 [name-en::Laos]
 [name-de::Lao People's Democratic Republic]
 [Area-Total::236800]

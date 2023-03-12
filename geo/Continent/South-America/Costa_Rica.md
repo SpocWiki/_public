@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CR]
 [ISO3::CRI]
+```leaflet
+id: Costa Rica
+zoomFeatures: true
+geojsonFolder: ./Costa Rica
+```
+
 [name-en::Costa Rica]
 [name-de::Costa Rica]
 [Area-Total::51100]

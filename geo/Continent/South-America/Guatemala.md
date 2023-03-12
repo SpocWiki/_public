@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GT]
 [ISO3::GTM]
+```leaflet
+id: Guatemala
+zoomFeatures: true
+geojsonFolder: ./Guatemala
+```
+
 [name-en::Guatemala]
 [name-de::Guatemala]
 [Area-Total::108889]

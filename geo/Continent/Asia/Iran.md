@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::IR]
 [ISO3::IRN]
+```leaflet
+id: Iran
+zoomFeatures: true
+geojsonFolder: ./Iran
+```
+
 [name-en::Iran]
 [name-de::Iran (Islamic Republic of)]
 

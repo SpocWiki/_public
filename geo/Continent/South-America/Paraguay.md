@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PY]
 [ISO3::PRY]
+```leaflet
+id: Paraguay
+zoomFeatures: true
+geojsonFolder: ./Paraguay
+```
+
 [name-en::Paraguay]
 [name-de::Paraguay]
 

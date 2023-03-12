@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PG]
 [ISO3::PNG]
+```leaflet
+id: Papua New Guinea
+zoomFeatures: true
+geojsonFolder: ./Papua New Guinea
+```
+
 [name-en::Papua New Guinea]
 [name-de::Papua-Neuguinea]
 

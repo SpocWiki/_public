@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::KM]
 [ISO3::COM]
+```leaflet
+id: Comoros
+zoomFeatures: true
+geojsonFolder: ./Comoros
+```
+
 [name-en::Comoros]
 [name-de::Komoren]
 [Area-Total::1862]

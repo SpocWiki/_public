@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::UZ]
 [ISO3::UZB]
+```leaflet
+id: Uzbekistan
+zoomFeatures: true
+geojsonFolder: ./Uzbekistan
+```
+
 [name-en::Uzbekistan]
 [name-de::Usbekistan]
 [Area-Total::447400]

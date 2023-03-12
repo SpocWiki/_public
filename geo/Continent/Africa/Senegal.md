@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SN]
 [ISO3::SEN]
+```leaflet
+id: Senegal
+zoomFeatures: true
+geojsonFolder: ./Senegal
+```
+
 [name-en::Senegal]
 [name-de::Senegal]
 [Area-Total::196722]

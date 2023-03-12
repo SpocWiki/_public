@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::DO]
 [ISO3::DOM]
+```leaflet
+id: Dominican Rep.
+zoomFeatures: true
+geojsonFolder: ./Dominican Rep.
+```
+
 [name-en::Dominican Rep.]
 [name-de::Dominikanische Republik]
 [Area-Total::48422]

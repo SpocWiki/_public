@@ -9,6 +9,12 @@ isDeleted: false
 confidential: public
 [ISO2::BG]
 [ISO3::BGR]
+```leaflet
+id: Bulgaria
+zoomFeatures: true
+geojsonFolder: ./Bulgaria
+```
+
 [name-en::Bulgaria]
 [name-de::Bulgarien]
 [Area-Total::110994]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CH]
 [ISO3::CHE]
+```leaflet
+id: Switzerland
+zoomFeatures: true
+geojsonFolder: ./Switzerland
+```
+
 [name-en::Switzerland]
 [name-de::Schweiz]
 [Area-Total::39988]

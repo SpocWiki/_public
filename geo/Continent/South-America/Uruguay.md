@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::UY]
 [ISO3::URY]
+```leaflet
+id: Uruguay
+zoomFeatures: true
+geojsonFolder: ./Uruguay
+```
+
 [name-en::Uruguay]
 [name-de::Uruguay]
 [Area-Total::176215]

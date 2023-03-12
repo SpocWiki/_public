@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::RO]
 [ISO3::ROM]
+```leaflet
+id: Romania
+zoomFeatures: true
+geojsonFolder: ./Romania
+```
+
 [name-en::Romania]
 [name-de::Rumänien]
 [Area-Total::238391]

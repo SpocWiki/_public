@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BS]
 [ISO3::BHS]
+```leaflet
+id: Bahamas
+zoomFeatures: true
+geojsonFolder: ./Bahamas
+```
+
 [name-en::Bahamas]
 [name-de::Bahamas]
 [Area-Total::13939]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::RW]
 [ISO3::RWA]
+```leaflet
+id: Rwanda
+zoomFeatures: true
+geojsonFolder: ./Rwanda
+```
+
 [name-en::Rwanda]
 [name-de::Rwanda]
 [Area-Total::26338]

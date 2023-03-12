@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::YT]
 [ISO3::MYT]
+```leaflet
+id: Mayotte
+zoomFeatures: true
+geojsonFolder: ./Mayotte
+```
+
 [name-en::Mayotte]
 [name-de::Mayotte]
 

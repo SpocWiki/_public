@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::DZ]
 [ISO3::DZA]
+```leaflet
+id: Algeria
+zoomFeatures: true
+geojsonFolder: ./Algeria
+```
+
 [name-en::Algeria]
 [name-de::Algerien]
 [Area-Total::2381741]

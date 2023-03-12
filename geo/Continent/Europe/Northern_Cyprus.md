@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Northern Cyprus
+zoomFeatures: true
+geojsonFolder: ./Northern Cyprus
+```
+
 [name-en::Northern Cyprus]
 [name-de::Nord Zypern]
 [Area-Total::]

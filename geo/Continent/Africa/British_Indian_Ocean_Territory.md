@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::IO]
 [ISO3::IOT]
+```leaflet
+id: British Indian Ocean Territory
+zoomFeatures: true
+geojsonFolder: ./British Indian Ocean Territory
+```
+
 [name-en::British Indian Ocean Territory]
 [name-de::Britisches Territorium im indischen Ozean]
 [Area-Total::0]

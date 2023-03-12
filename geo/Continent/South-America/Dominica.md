@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::DM]
 [ISO3::DMA]
+```leaflet
+id: Dominica
+zoomFeatures: true
+geojsonFolder: ./Dominica
+```
+
 [name-en::Dominica]
 [name-de::Dominica]
 [Area-Total::750]

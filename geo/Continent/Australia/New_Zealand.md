@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NZ]
 [ISO3::NZL]
+```leaflet
+id: New Zealand
+zoomFeatures: true
+geojsonFolder: ./New Zealand
+```
+
 [name-en::New Zealand]
 [name-de::Neuseeland]
 [Area-Total::270534]

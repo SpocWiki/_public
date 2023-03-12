@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TH]
 [ISO3::THA]
+```leaflet
+id: Thailand
+zoomFeatures: true
+geojsonFolder: ./Thailand
+```
+
 [name-en::Thailand]
 [name-de::Thailand]
 

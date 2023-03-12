@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SM]
 [ISO3::SMR]
+```leaflet
+id: San Marino
+zoomFeatures: true
+geojsonFolder: ./San Marino
+```
+
 [name-en::San Marino]
 [name-de::San Marino]
 ![[San_Marino/Coat_of_arms_of_San_Marino.svg|350]]

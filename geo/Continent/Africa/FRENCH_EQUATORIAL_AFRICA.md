@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: FRENCH EQUATORIAL AFRICA
+zoomFeatures: true
+geojsonFolder: ./FRENCH EQUATORIAL AFRICA
+```
+
 [name-en::FRENCH EQUATORIAL AFRICA]
 [name-de::Franz. Äquatorial-Afrika]
 [Area-Total::]

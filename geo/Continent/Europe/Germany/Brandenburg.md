@@ -15,6 +15,12 @@ tags:
 
 ![[Flag_of_Brandenburg.svg|350]]
 
+```leaflet
+id: Brandenburg
+zoomFeatures: true
+geojsonFolder: ./Brandenburg/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Potsdam]]]
 [geo-lon::13.3801]

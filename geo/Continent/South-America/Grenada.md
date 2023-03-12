@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GD]
 [ISO3::GRD]
+```leaflet
+id: Grenada
+zoomFeatures: true
+geojsonFolder: ./Grenada
+```
+
 [name-en::Grenada]
 [name-de::Grenada]
 

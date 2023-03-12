@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LY]
 [ISO3::LBY]
+```leaflet
+id: Libya
+zoomFeatures: true
+geojsonFolder: ./Libya
+```
+
 [name-en::Libya]
 [name-de::Libyen Libyan Arab. Jamahiriya]
 [Area-Total::1775500]

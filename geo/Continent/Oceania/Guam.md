@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GU]
 [ISO3::GUM]
+```leaflet
+id: Guam
+zoomFeatures: true
+geojsonFolder: ./Guam
+```
+
 [name-en::Guam]
 [name-de::Guam]
 

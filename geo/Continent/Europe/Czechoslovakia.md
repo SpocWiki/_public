@@ -9,6 +9,12 @@ isDeleted: false
 confidential: public
 [ISO2::CZ]
 [ISO3::]
+```leaflet
+id: Czechoslovakia
+zoomFeatures: true
+geojsonFolder: ./Czechoslovakia
+```
+
 [name-en::Czechoslovakia]
 [name-de::Tschechoslovakei]
 [Area-Total::]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MK]
 [ISO3::MKD]
+```leaflet
+id: Macedonia, FYR
+zoomFeatures: true
+geojsonFolder: ./Macedonia, FYR
+```
+
 [name-en::Macedonia, FYR]
 [name-de::Mazedonien]
 [Area-Total::25713]

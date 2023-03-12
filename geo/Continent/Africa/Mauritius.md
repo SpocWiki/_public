@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MU]
 [ISO3::MUS]
+```leaflet
+id: Mauritius
+zoomFeatures: true
+geojsonFolder: ./Mauritius
+```
+
 [name-en::Mauritius]
 [name-de::Mauritius]
 [Area-Total::2040]

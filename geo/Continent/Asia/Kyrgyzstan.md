@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::KG]
 [ISO3::KGZ]
+```leaflet
+id: Kyrgyzstan
+zoomFeatures: true
+geojsonFolder: ./Kyrgyzstan
+```
+
 [name-en::Kyrgyzstan]
 [name-de::Kirgisistan]
 [Area-Total::198500]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::KY]
 [ISO3::CYM]
+```leaflet
+id: Cayman Islands
+zoomFeatures: true
+geojsonFolder: ./Cayman Islands
+```
+
 [name-en::Cayman Islands]
 [name-de::Cayman Inseln]
 [Area-Total::0]

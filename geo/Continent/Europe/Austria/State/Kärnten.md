@@ -8,7 +8,13 @@ tags:
 [StateId::]
 isDeleted: false
 confidential: public
-[name::Kärnten]
+```leaflet
+id: Kärnten
+zoomFeatures: true
+geojsonFolder: ./Kärnten
+```
+
+[ name :: Kärnten ]
 [CountryId::]
 [geo-lon::]
 [geo-lat::]

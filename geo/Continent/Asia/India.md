@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::IN]
 [ISO3::IND]
+```leaflet
+id: India
+zoomFeatures: true
+geojsonFolder: ./India
+```
+
 [name-en::India]
 [name-de::Indien]
 [Area-Total::3287263]

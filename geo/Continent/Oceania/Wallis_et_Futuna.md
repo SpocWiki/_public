@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::WF]
 [ISO3::WLF]
+```leaflet
+id: Wallis et Futuna
+zoomFeatures: true
+geojsonFolder: ./Wallis et Futuna
+```
+
 [name-en::Wallis et Futuna]
 [name-de::Wallis und Futuna Inseln]
 [Area-Total::0]

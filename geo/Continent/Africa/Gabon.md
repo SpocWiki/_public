@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GA]
 [ISO3::GAB]
+```leaflet
+id: Gabon
+zoomFeatures: true
+geojsonFolder: ./Gabon
+```
+
 [name-en::Gabon]
 [name-de::Gabun]
 [Area-Total::267667]

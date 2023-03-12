@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MA]
 [ISO3::MAR]
+```leaflet
+id: Morocco
+zoomFeatures: true
+geojsonFolder: ./Morocco
+```
+
 [name-en::Morocco]
 [name-de::Marokko]
 [Area-Total::458730]

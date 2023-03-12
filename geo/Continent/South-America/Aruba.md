@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AW]
 [ISO3::ABW]
+```leaflet
+id: Aruba
+zoomFeatures: true
+geojsonFolder: ./Aruba
+```
+
 [name-en::Aruba]
 [name-de::Aruba]
 [Area-Total::0]

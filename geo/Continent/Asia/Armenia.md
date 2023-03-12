@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AM]
 [ISO3::ARM]
+```leaflet
+id: Armenia
+zoomFeatures: true
+geojsonFolder: ./Armenia
+```
+
 [name-en::Armenia]
 [name-de::Armenien]
 [Area-Total::29800]

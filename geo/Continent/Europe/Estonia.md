@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::EE]
 [ISO3::EST]
+```leaflet
+id: Estonia
+zoomFeatures: true
+geojsonFolder: ./Estonia
+```
+
 [name-en::Estonia]
 [name-de::Estland]
 [Area-Total::45227]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CN]
 [ISO3::CHN]
+```leaflet
+id: China
+zoomFeatures: true
+geojsonFolder: ./China
+```
+
 [name-en::China]
 [name-de::China]
 [Area-Total::9571300]

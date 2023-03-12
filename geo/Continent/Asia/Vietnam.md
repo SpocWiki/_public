@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::VN]
 [ISO3::VNM]
+```leaflet
+id: Vietnam
+zoomFeatures: true
+geojsonFolder: ./Vietnam
+```
+
 [name-en::Vietnam]
 [name-de::Vietnam]
 [Area-Total::331114]

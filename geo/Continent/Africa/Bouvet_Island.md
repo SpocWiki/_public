@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BV]
 [ISO3::BVT]
+```leaflet
+id: Bouvet Island
+zoomFeatures: true
+geojsonFolder: ./Bouvet Island
+```
+
 [name-en::Bouvet Island]
 [name-de::Bouvet Insel]
 [Area-Total::0]

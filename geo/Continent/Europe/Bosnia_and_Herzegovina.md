@@ -9,6 +9,12 @@ isDeleted: false
 confidential: public
 [ISO2::BA]
 [ISO3::BIH]
+```leaflet
+id: Bosnia and Herzegovina
+zoomFeatures: true
+geojsonFolder: ./Bosnia and Herzegovina
+```
+
 [name-en::Bosnia and Herzegovina]
 [name-de::Bosnien-Herzegowina]
 [Area-Total::51129]

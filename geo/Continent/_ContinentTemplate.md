@@ -14,5 +14,11 @@ aliases:
 ---
 SpocWebEntityId: {{Id}}
 
+```leaflet
+id: {{EnglishName}}
+zoomFeatures: true
+geojsonFolder: ./{{EnglishName}}
+```
+
 [name-en::{{EnglishName}}]
 [name-de::{{GermanName}}]

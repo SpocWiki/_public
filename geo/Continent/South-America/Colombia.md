@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CO]
 [ISO3::COL]
+```leaflet
+id: Colombia
+zoomFeatures: true
+geojsonFolder: ./Colombia
+```
+
 [name-en::Colombia]
 [name-de::Kolumbien]
 [Area-Total::1141784]

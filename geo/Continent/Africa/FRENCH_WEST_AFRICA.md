@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: FRENCH WEST AFRICA
+zoomFeatures: true
+geojsonFolder: ./FRENCH WEST AFRICA
+```
+
 [name-en::FRENCH WEST AFRICA]
 [name-de::Franz. Westafrika]
 [Area-Total::]

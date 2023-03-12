@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::UG]
 [ISO3::UGA]
+```leaflet
+id: Uganda
+zoomFeatures: true
+geojsonFolder: ./Uganda
+```
+
 [name-en::Uganda]
 [name-de::Uganda]
 [Area-Total::241139]

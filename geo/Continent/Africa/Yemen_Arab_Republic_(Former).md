@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Yemen Arab Republic (Former)
+zoomFeatures: true
+geojsonFolder: ./Yemen Arab Republic (Former)
+```
+
 [name-en::Yemen Arab Republic (Former)]
 [name-de::Nord Jemen]
 [Area-Total::]

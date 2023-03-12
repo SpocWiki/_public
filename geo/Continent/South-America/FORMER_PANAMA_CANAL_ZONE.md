@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: FORMER PANAMA CANAL ZONE
+zoomFeatures: true
+geojsonFolder: ./FORMER PANAMA CANAL ZONE
+```
+
 [name-en::FORMER PANAMA CANAL ZONE]
 [name-de::Panama Kanal Zone]
 [Area-Total::]

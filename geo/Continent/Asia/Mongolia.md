@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MN]
 [ISO3::MNG]
+```leaflet
+id: Mongolia
+zoomFeatures: true
+geojsonFolder: ./Mongolia
+```
+
 [name-en::Mongolia]
 [name-de::Mongolei]
 

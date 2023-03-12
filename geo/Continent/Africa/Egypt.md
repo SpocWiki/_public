@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::EG]
 [ISO3::EGY]
+```leaflet
+id: Egypt
+zoomFeatures: true
+geojsonFolder: ./Egypt
+```
+
 [name-en::Egypt]
 [name-de::Ägypten]
 [Area-Total::997739]

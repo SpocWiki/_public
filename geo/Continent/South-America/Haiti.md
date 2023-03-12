@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::HT]
 [ISO3::HTI]
+```leaflet
+id: Haiti
+zoomFeatures: true
+geojsonFolder: ./Haiti
+```
+
 [name-en::Haiti]
 [name-de::Haiti]
 [Area-Total::27750]

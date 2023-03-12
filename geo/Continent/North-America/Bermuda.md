@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BM]
 [ISO3::BMU]
+```leaflet
+id: Bermuda
+zoomFeatures: true
+geojsonFolder: ./Bermuda
+```
+
 [name-en::Bermuda]
 [name-de::Bermuda]
 [Area-Total::0]

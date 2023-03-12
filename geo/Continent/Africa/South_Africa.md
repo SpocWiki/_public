@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ZA]
 [ISO3::ZAF]
+```leaflet
+id: South Africa
+zoomFeatures: true
+geojsonFolder: ./South Africa
+```
+
 [name-en::South Africa]
 [name-de::Südafrika]
 [Area-Total::1221037]

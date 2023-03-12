@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MM]
 [ISO3::MMR]
+```leaflet
+id: Myanmar
+zoomFeatures: true
+geojsonFolder: ./Myanmar
+```
+
 [name-en::Myanmar]
 [name-de::Myanmar]
 

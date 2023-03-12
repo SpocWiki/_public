@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ET]
 [ISO3::ETH]
+```leaflet
+id: Ethiopia
+zoomFeatures: true
+geojsonFolder: ./Ethiopia
+```
+
 [name-en::Ethiopia]
 [name-de::Äthiopien]
 [Area-Total::1133380]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: LEEWARD ISLANDS
+zoomFeatures: true
+geojsonFolder: ./LEEWARD ISLANDS
+```
+
 [name-en::LEEWARD ISLANDS]
 [name-de::Inseln über dem Winde]
 [Area-Total::]

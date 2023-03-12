@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PK]
 [ISO3::PAK]
+```leaflet
+id: Pakistan
+zoomFeatures: true
+geojsonFolder: ./Pakistan
+```
+
 [name-en::Pakistan]
 [name-de::Pakistan]
 [Area-Total::796095]

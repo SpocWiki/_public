@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ZW]
 [ISO3::ZWE]
+```leaflet
+id: Zimbabwe
+zoomFeatures: true
+geojsonFolder: ./Zimbabwe
+```
+
 [name-en::Zimbabwe]
 [name-de::Zimbabwe]
 

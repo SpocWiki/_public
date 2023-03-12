@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ME]
 [ISO3::MNE]
+```leaflet
+id: Montenegro
+zoomFeatures: true
+geojsonFolder: ./Montenegro
+```
+
 [name-en::Montenegro]
 [name-de::Montenegro]
 [Area-Total::]

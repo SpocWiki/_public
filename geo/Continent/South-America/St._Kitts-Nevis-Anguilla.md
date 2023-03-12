@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: St. Kitts-Nevis-Anguilla
+zoomFeatures: true
+geojsonFolder: ./St. Kitts-Nevis-Anguilla
+```
+
 [name-en::St. Kitts-Nevis-Anguilla]
 [name-de::St. Christopher-Nevis-Anguilla]
 [Area-Total::]

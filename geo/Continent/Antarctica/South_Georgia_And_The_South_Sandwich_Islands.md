@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GS]
 [ISO3::SGS]
+```leaflet
+id: South Georgia And The South Sandwich Islands
+zoomFeatures: true
+geojsonFolder: ./South Georgia And The South Sandwich Islands
+```
+
 [name-en::South Georgia And The South Sandwich Islands]
 [name-de::Sandwich Inseln]
 [Area-Total::0]

@@ -17,6 +17,12 @@ aliases:
 
 [ISO2::DE]
 [ISO3::DEU]
+```leaflet
+id: Germany
+zoomFeatures: true
+geojsonFolder: ./Germany
+```
+
 [name-en::Germany]
 
 ![[Coat_of_arms_of_Germany.svg|350]]

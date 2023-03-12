@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::FJ]
 [ISO3::FJI]
+```leaflet
+id: Fiji
+zoomFeatures: true
+geojsonFolder: ./Fiji
+```
+
 [name-en::Fiji]
 [name-de::Fiji]
 

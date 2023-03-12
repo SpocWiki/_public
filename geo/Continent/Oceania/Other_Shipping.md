@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Other Shipping
+zoomFeatures: true
+geojsonFolder: ./Other Shipping
+```
+
 [name-en::Other Shipping]
 [name-de::Andere Schiffahrt]
 [Area-Total::]

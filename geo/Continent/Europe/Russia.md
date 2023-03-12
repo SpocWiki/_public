@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::RU]
 [ISO3::RUS]
+```leaflet
+id: Russia
+zoomFeatures: true
+geojsonFolder: ./Russia
+```
+
 [name-en::Russia]
 [name-de::Russland]
 [Area-Total::1.71E+07]

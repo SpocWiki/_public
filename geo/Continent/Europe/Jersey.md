@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Jersey
+zoomFeatures: true
+geojsonFolder: ./Jersey
+```
+
 [name-en::Jersey]
 [name-de::Jersey]
 [Area-Total::]

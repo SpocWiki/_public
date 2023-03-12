@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Saint Martin
+zoomFeatures: true
+geojsonFolder: ./Saint Martin
+```
+
 [name-en::Saint Martin]
 [name-de::St. Martin (Insel)]
 [Area-Total::]

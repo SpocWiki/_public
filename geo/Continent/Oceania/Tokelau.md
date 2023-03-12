@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TK]
 [ISO3::TKL]
+```leaflet
+id: Tokelau
+zoomFeatures: true
+geojsonFolder: ./Tokelau
+```
+
 [name-en::Tokelau]
 [name-de::Tokelau]
 

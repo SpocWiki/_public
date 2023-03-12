@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::DDR]
+```leaflet
+id: East Germany
+zoomFeatures: true
+geojsonFolder: ./East Germany
+```
+
 [name-en::East Germany]
 [name-de::DDR]
 [Area-Total::]

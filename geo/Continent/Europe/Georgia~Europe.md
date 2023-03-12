@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GE]
 [ISO3::GEO]
+```leaflet
+id: Georgia
+zoomFeatures: true
+geojsonFolder: ./Georgia
+```
+
 [name-en::Georgia]
 [name-de::Georgien]
 [Area-Total::69700]

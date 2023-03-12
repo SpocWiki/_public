@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AR]
 [ISO3::ARG]
+```leaflet
+id: Argentina
+zoomFeatures: true
+geojsonFolder: ./Argentina
+```
+
 [name-en::Argentina]
 [name-de::Argentinien]
 [Area-Total::2766889]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MW]
 [ISO3::MWI]
+```leaflet
+id: Malawi
+zoomFeatures: true
+geojsonFolder: ./Malawi
+```
+
 [name-en::Malawi]
 [name-de::Malawi]
 [Area-Total::118484]

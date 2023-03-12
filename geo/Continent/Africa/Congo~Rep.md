@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CG]
 [ISO3::COG]
+```leaflet
+id: Congo, Rep.
+zoomFeatures: true
+geojsonFolder: ./Congo, Rep.
+```
+
 [name-en::Congo, Rep.]
 [name-de::Kongo]
 [Area-Total::342000]

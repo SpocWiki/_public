@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TW]
 [ISO3::TWN]
+```leaflet
+id: Taiwan
+zoomFeatures: true
+geojsonFolder: ./Taiwan
+```
+
 [name-en::Taiwan]
 [name-de::Taiwan, Province Of China]
 [Area-Total::36000]

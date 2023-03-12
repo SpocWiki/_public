@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::KI]
 [ISO3::KIR]
+```leaflet
+id: Kiribati
+zoomFeatures: true
+geojsonFolder: ./Kiribati
+```
+
 [name-en::Kiribati]
 [name-de::Kiribati]
 

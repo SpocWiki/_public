@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: EAST &amp; WEST PAKISTAN
+zoomFeatures: true
+geojsonFolder: ./EAST &amp; WEST PAKISTAN
+```
+
 [name-en::EAST &amp; WEST PAKISTAN]
 [name-de::Pakistan]
 [Area-Total::]

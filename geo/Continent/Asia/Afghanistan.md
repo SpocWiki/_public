@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AF]
 [ISO3::AFG]
+```leaflet
+id: Afghanistan
+zoomFeatures: true
+geojsonFolder: ./Afghanistan
+```
+
 [name-en::Afghanistan]
 [name-de::Afghanistan]
 [Area-Total::652225]

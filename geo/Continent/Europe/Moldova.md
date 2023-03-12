@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MD]
 [ISO3::MDA]
+```leaflet
+id: Moldova
+zoomFeatures: true
+geojsonFolder: ./Moldova
+```
+
 [name-en::Moldova]
 [name-de::Moldawien, Republic of]
 [Area-Total::33700]

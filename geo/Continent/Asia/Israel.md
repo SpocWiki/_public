@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::IL]
 [ISO3::ISR]
+```leaflet
+id: Israel
+zoomFeatures: true
+geojsonFolder: ./Israel
+```
+
 [name-en::Israel]
 [name-de::Israel]
 [Area-Total::21946]

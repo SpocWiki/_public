@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::DK]
 [ISO3::DNK]
+```leaflet
+id: Denmark
+zoomFeatures: true
+geojsonFolder: ./Denmark
+```
+
 [name-en::Denmark]
 [name-de::Dänemark]
 [Area-Total::43094]

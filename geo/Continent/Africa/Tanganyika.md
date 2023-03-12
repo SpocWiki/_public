@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Tanganyika
+zoomFeatures: true
+geojsonFolder: ./Tanganyika
+```
+
 [name-en::Tanganyika]
 [name-de::Tanganjika]
 [Area-Total::]

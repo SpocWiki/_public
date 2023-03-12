@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BT]
 [ISO3::BTN]
+```leaflet
+id: Bhutan
+zoomFeatures: true
+geojsonFolder: ./Bhutan
+```
+
 [name-en::Bhutan]
 [name-de::Bhutan]
 

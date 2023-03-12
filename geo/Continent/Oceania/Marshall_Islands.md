@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MH]
 [ISO3::MHL]
+```leaflet
+id: Marshall Islands
+zoomFeatures: true
+geojsonFolder: ./Marshall Islands
+```
+
 [name-en::Marshall Islands]
 [name-de::Marshall-Inseln]
 [Area-Total::181]

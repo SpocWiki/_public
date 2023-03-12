@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ER]
 [ISO3::ERI]
+```leaflet
+id: Eritrea
+zoomFeatures: true
+geojsonFolder: ./Eritrea
+```
+
 [name-en::Eritrea]
 [name-de::Eritrea]
 [Area-Total::121144]

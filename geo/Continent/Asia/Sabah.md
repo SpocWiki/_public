@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Sabah
+zoomFeatures: true
+geojsonFolder: ./Sabah
+```
+
 [name-en::Sabah]
 [name-de::Sabah]
 [Area-Total::]

@@ -13,6 +13,12 @@ tags:
 ![[Coat_of_arms_of_Schleswig-Holstein.svg|350]]
 ![[Flag_of_Schleswig-Holstein.svg|350]]
 
+```leaflet
+id: Schleswig-Holstein
+zoomFeatures: true
+geojsonFolder: ./Schleswig-Holstein/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Kiel]]]
 [geo-lon::9.87324]

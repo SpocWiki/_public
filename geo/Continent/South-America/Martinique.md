@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MQ]
 [ISO3::MTQ]
+```leaflet
+id: Martinique
+zoomFeatures: true
+geojsonFolder: ./Martinique
+```
+
 [name-en::Martinique]
 [name-de::Martinique]
 

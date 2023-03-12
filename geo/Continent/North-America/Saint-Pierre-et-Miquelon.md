@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PM]
 [ISO3::SPM]
+```leaflet
+id: Saint-Pierre-et-Miquelon
+zoomFeatures: true
+geojsonFolder: ./Saint-Pierre-et-Miquelon
+```
+
 [name-en::Saint-Pierre-et-Miquelon]
 [name-de::St. Pierre und Miquelon]
 [Area-Total::0]

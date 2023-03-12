@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SV]
 [ISO3::SLV]
+```leaflet
+id: El Salvador
+zoomFeatures: true
+geojsonFolder: ./El Salvador
+```
+
 [name-en::El Salvador]
 [name-de::El Salvador]
 [Area-Total::21041]

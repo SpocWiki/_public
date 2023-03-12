@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Saint Barthélemy
+zoomFeatures: true
+geojsonFolder: ./Saint Barthélemy
+```
+
 [name-en::Saint Barthélemy]
 [name-de::St. Barts]
 [Area-Total::]

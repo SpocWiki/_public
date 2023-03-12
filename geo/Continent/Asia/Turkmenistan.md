@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TM]
 [ISO3::TKM]
+```leaflet
+id: Turkmenistan
+zoomFeatures: true
+geojsonFolder: ./Turkmenistan
+```
+
 [name-en::Turkmenistan]
 [name-de::Turkmenistan]
 [Area-Total::488100]

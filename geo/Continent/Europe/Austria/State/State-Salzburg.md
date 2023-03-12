@@ -8,7 +8,13 @@ tags:
 [StateId::]
 isDeleted: false
 confidential: public
-[name::Salzburg]
+```leaflet
+id: Salzburg
+zoomFeatures: true
+geojsonFolder: ./Salzburg
+```
+
+[ name :: Salzburg ]
 [CountryId::]
 [geo-lon::]
 [geo-lat::]

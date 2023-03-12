@@ -8,7 +8,13 @@ tags:
 [StateId::]
 isDeleted: false
 confidential: public
-[name::Steiermark]
+```leaflet
+id: Steiermark
+zoomFeatures: true
+geojsonFolder: ./Steiermark
+```
+
+[ name :: Steiermark ]
 [CountryId::]
 [geo-lon::]
 [geo-lat::]

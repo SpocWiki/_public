@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GP]
 [ISO3::GLP]
+```leaflet
+id: Guadeloupe
+zoomFeatures: true
+geojsonFolder: ./Guadeloupe
+```
+
 [name-en::Guadeloupe]
 [name-de::Guadeloupe]
 

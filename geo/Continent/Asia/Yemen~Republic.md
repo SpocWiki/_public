@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::YE]
 [ISO3::YEM]
+```leaflet
+id: Yemen, Rep.
+zoomFeatures: true
+geojsonFolder: ./Yemen, Rep.
+```
+
 [name-en::Yemen, Rep.]
 [name-de::Jemen]
 [Area-Total::536869]

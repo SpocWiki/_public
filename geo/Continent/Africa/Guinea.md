@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GN]
 [ISO3::GIN]
+```leaflet
+id: Guinea
+zoomFeatures: true
+geojsonFolder: ./Guinea
+```
+
 [name-en::Guinea]
 [name-de::Guinea]
 [Area-Total::245857]

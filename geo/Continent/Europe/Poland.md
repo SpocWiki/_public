@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PL]
 [ISO3::POL]
+```leaflet
+id: Poland
+zoomFeatures: true
+geojsonFolder: ./Poland
+```
+
 [name-en::Poland]
 [name-de::Polen]
 [Area-Total::312685]

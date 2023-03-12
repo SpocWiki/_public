@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::RS]
 [ISO3::SRB]
+```leaflet
+id: Serbia excluding Kosovo
+zoomFeatures: true
+geojsonFolder: ./Serbia excluding Kosovo
+```
+
 [name-en::Serbia excluding Kosovo]
 [name-de::Serbien]
 [Area-Total::]

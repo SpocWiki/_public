@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::KN]
 [ISO3::KNA]
+```leaflet
+id: Saint Kitts And Nevis
+zoomFeatures: true
+geojsonFolder: ./Saint Kitts And Nevis
+```
+
 [name-en::Saint Kitts And Nevis]
 [name-de::Saint Kitts und Nevis]
 [Area-Total::262]

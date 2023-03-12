@@ -16,6 +16,12 @@ confidential: public
 ---
 [ISO2::DJ]
 [ISO3::DJI]
+```leaflet
+id: Djibouti
+zoomFeatures: true
+geojsonFolder: ./Djibouti
+```
+
 [name-en::Djibouti]
 [name-de::Djibouti]
 [Area-Total::23200]

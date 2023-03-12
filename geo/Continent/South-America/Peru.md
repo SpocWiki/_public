@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PE]
 [ISO3::PER]
+```leaflet
+id: Peru
+zoomFeatures: true
+geojsonFolder: ./Peru
+```
+
 [name-en::Peru]
 [name-de::Peru]
 [Area-Total::1285216]

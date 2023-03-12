@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::VA]
 [ISO3::VAT]
+```leaflet
+id: Holy See (Vatican State)
+zoomFeatures: true
+geojsonFolder: ./Holy See (Vatican State)
+```
+
 [name-en::Holy See (Vatican State)]
 [name-de::Vatikanstadt]
 [Area-Total::0]

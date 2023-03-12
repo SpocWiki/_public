@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BZ]
 [ISO3::BLZ]
+```leaflet
+id: Belize
+zoomFeatures: true
+geojsonFolder: ./Belize
+```
+
 [name-en::Belize]
 [name-de::Belize]
 [Area-Total::22965]

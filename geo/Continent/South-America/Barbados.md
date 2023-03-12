@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BB]
 [ISO3::BRB]
+```leaflet
+id: Barbados
+zoomFeatures: true
+geojsonFolder: ./Barbados
+```
+
 [name-en::Barbados]
 [name-de::Barbados]
 [Area-Total::430]

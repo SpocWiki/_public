@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::EC]
 [ISO3::ECU]
+```leaflet
+id: Ecuador
+zoomFeatures: true
+geojsonFolder: ./Ecuador
+```
+
 [name-en::Ecuador]
 [name-de::Ecuador]
 [Area-Total::272045]

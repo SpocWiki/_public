@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CI]
 [ISO3::CIV]
+```leaflet
+id: Cote D'ivoire
+zoomFeatures: true
+geojsonFolder: ./Cote D'ivoire
+```
+
 [name-en::Cote D'ivoire]
 [name-de::Elfenbeinküste]
 [Area-Total::322462]

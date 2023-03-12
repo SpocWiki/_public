@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SZ]
 [ISO3::SWZ]
+```leaflet
+id: Swaziland
+zoomFeatures: true
+geojsonFolder: ./Swaziland
+```
+
 [name-en::Swaziland]
 [name-de::Swasiland]
 [Area-Total::17363]

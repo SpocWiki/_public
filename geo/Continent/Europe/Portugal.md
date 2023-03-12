@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PT]
 [ISO3::PRT]
+```leaflet
+id: Portugal
+zoomFeatures: true
+geojsonFolder: ./Portugal
+```
+
 [name-en::Portugal]
 [name-de::Portugal]
 [Area-Total::92270]

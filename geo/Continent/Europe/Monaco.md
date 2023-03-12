@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MC]
 [ISO3::MCO]
+```leaflet
+id: Monaco
+zoomFeatures: true
+geojsonFolder: ./Monaco
+```
+
 [name-en::Monaco]
 [name-de::Monaco]
 ![[Coat_of_arms_of_Monaco.svg|650]]

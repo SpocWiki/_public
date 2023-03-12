@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NL]
 [ISO3::NLD]
+```leaflet
+id: Netherlands
+zoomFeatures: true
+geojsonFolder: ./Netherlands
+```
+
 [name-en::Netherlands]
 [name-de::Niederlande]
 [Area-Total::41865]

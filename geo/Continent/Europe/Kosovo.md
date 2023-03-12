@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Kosovo
+zoomFeatures: true
+geojsonFolder: ./Kosovo
+```
+
 [name-en::Kosovo]
 [name-de::Kosovo]
 [Area-Total::]

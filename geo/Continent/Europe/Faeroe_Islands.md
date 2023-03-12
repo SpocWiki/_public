@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::FO]
 [ISO3::FRO]
+```leaflet
+id: Faeroe Islands
+zoomFeatures: true
+geojsonFolder: ./Faeroe Islands
+```
+
 [name-en::Faeroe Islands]
 [name-de::Färöer Inseln]
 [Area-Total::0]

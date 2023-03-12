@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GY]
 [ISO3::GUY]
+```leaflet
+id: Guyana
+zoomFeatures: true
+geojsonFolder: ./Guyana
+```
+
 [name-en::Guyana]
 [name-de::Guyana]
 [Area-Total::214969]

@@ -10,6 +10,12 @@ tags:
 ---
 [ISO2::GB]
 [ISO3::GBR]
+```leaflet
+id: United Kingdom
+zoomFeatures: true
+geojsonFolder: ./United Kingdom
+```
+
 [name-en::United Kingdom]
 [name-de::Großbritannien]
 

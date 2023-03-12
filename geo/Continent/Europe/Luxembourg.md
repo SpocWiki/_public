@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LU]
 [ISO3::LUX]
+```leaflet
+id: Luxembourg
+zoomFeatures: true
+geojsonFolder: ./Luxembourg
+```
+
 [name-en::Luxembourg]
 [name-de::Luxemburg]
 [Area-Total::2586]

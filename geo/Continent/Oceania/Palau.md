@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PW]
 [ISO3::PLW]
+```leaflet
+id: Palau
+zoomFeatures: true
+geojsonFolder: ./Palau
+```
+
 [name-en::Palau]
 [name-de::Palau]
 

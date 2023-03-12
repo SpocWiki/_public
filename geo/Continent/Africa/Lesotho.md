@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LS]
 [ISO3::LSO]
+```leaflet
+id: Lesotho
+zoomFeatures: true
+geojsonFolder: ./Lesotho
+```
+
 [name-en::Lesotho]
 [name-de::Lesotho]
 [Area-Total::30355]

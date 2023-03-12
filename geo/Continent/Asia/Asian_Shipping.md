@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Asian Shipping
+zoomFeatures: true
+geojsonFolder: ./Asian Shipping
+```
+
 [name-en::Asian Shipping]
 [name-de::Asien Schiffahrt]
 [Area-Total::]

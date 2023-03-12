@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LB]
 [ISO3::LBN]
+```leaflet
+id: Lebanon
+zoomFeatures: true
+geojsonFolder: ./Lebanon
+```
+
 [name-en::Lebanon]
 [name-de::Libanon]
 [Area-Total::10452]

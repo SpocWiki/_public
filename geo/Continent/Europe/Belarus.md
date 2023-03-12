@@ -10,6 +10,12 @@ tags:
 ---
 [ISO2::BY]
 [ISO3::BLR]
+```leaflet
+id: Belarus
+zoomFeatures: true
+geojsonFolder: ./Belarus
+```
+
 [name-en::Belarus]
 [name-de::Weißrussland]
 [Area-Total::207595]

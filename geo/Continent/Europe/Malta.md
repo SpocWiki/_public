@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MT]
 [ISO3::MLT]
+```leaflet
+id: Malta
+zoomFeatures: true
+geojsonFolder: ./Malta
+```
+
 [name-en::Malta]
 [name-de::Malta]
 [Area-Total::316]

@@ -9,6 +9,12 @@ isDeleted: false
 confidential: public
 [ISO2::AD]
 [ISO3::AND]
+```leaflet
+id: Andorra
+zoomFeatures: true
+geojsonFolder: ./Andorra
+```
+
 [name-en::Andorra]
 [name-de::Andorra]
 ![[Coat_of_arms_of_Andorra.svg|350]]

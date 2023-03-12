@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Netherland Antilles and Aruba
+zoomFeatures: true
+geojsonFolder: ./Netherland Antilles and Aruba
+```
+
 [name-en::Netherland Antilles and Aruba]
 [name-de::Niederländische Antillen]
 [Area-Total::]

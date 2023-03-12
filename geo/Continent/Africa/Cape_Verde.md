@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CV]
 [ISO3::CPV]
+```leaflet
+id: Cape Verde
+zoomFeatures: true
+geojsonFolder: ./Cape Verde
+```
+
 [name-en::Cape Verde]
 [name-de::Kap Verde]
 [Area-Total::4033]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SH]
 [ISO3::SHN]
+```leaflet
+id: Saint Helena
+zoomFeatures: true
+geojsonFolder: ./Saint Helena
+```
+
 [name-en::Saint Helena]
 [name-de::St. Helena]
 

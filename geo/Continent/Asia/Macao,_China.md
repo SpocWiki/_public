@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Macao, China
+zoomFeatures: true
+geojsonFolder: ./Macao, China
+```
+
 [name-en::Macao, China]
 [name-de::Macao, China]
 [Area-Total::]

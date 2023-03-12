@@ -12,6 +12,12 @@ confidential: public
 [ISO2::JP]
 [ISO3::JPN]
 EXCLUDING_THE_RUYUKU_ISLANDS
+```leaflet
+id: Japan
+zoomFeatures: true
+geojsonFolder: ./Japan
+```
+
 [name-en::Japan]
 [name-de::Japan]
 [Area-Total::377750]

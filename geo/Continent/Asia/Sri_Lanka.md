@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LK]
 [ISO3::LKA]
+```leaflet
+id: Sri Lanka
+zoomFeatures: true
+geojsonFolder: ./Sri Lanka
+```
+
 [name-en::Sri Lanka]
 [name-de::Sri Lanka]
 [Area-Total::65628]

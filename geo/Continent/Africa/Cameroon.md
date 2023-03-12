@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CM]
 [ISO3::CMR]
+```leaflet
+id: Cameroon
+zoomFeatures: true
+geojsonFolder: ./Cameroon
+```
+
 [name-en::Cameroon]
 [name-de::Kamerun]
 [Area-Total::475442]

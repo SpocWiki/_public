@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::HN]
 [ISO3::HND]
+```leaflet
+id: Honduras
+zoomFeatures: true
+geojsonFolder: ./Honduras
+```
+
 [name-en::Honduras]
 [name-de::Honduras]
 [Area-Total::112088]

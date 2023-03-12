@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TD]
 [ISO3::TCD]
+```leaflet
+id: Chad
+zoomFeatures: true
+geojsonFolder: ./Chad
+```
+
 [name-en::Chad]
 [name-de::Tschad]
 [Area-Total::1284000]

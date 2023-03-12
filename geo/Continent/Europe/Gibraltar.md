@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GI]
 [ISO3::GIB]
+```leaflet
+id: Gibraltar
+zoomFeatures: true
+geojsonFolder: ./Gibraltar
+```
+
 [name-en::Gibraltar]
 [name-de::Gibraltar]
 [Area-Total::0]

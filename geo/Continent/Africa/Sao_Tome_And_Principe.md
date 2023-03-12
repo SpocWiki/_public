@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ST]
 [ISO3::STP]
+```leaflet
+id: Sao Tome And Principe
+zoomFeatures: true
+geojsonFolder: ./Sao Tome And Principe
+```
+
 [name-en::Sao Tome And Principe]
 [name-de::São Tomé und Príncipe]
 [Area-Total::1001]

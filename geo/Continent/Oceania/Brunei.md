@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BN]
 [ISO3::BRN]
+```leaflet
+id: Brunei
+zoomFeatures: true
+geojsonFolder: ./Brunei
+```
+
 [name-en::Brunei]
 [name-de::Brunei]
 

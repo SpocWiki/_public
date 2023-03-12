@@ -15,6 +15,12 @@ tags:
 
 ![[Flag_of_Lower_Saxony.svg|350]]
 
+```leaflet
+id: Niedersachsen
+zoomFeatures: true
+geojsonFolder: ./Niedersachsen/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Hannover]]]
 [geo-lon::9.02868]

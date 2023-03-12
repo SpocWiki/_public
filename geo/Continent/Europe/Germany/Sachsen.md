@@ -13,6 +13,13 @@ tags:
 ![[Coat_of_arms_of_Saxony.svg|350]]
 
 ![[Flag_of_Saxony.svg|350]]
+
+```leaflet
+id: Sachsen
+zoomFeatures: true
+geojsonFolder: ./Sachsen/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Dresden]]]
 [geo-lon::13.2481]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ES]
 [ISO3::ESP]
+```leaflet
+id: Spain
+zoomFeatures: true
+geojsonFolder: ./Spain
+```
+
 [name-en::Spain]
 [name-de::Spanien]
 [Area-Total::505990]

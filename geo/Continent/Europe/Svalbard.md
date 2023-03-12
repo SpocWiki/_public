@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Svalbard
+zoomFeatures: true
+geojsonFolder: ./Svalbard
+```
+
 [name-en::Svalbard]
 [name-de::Spitzbergen]
 [Area-Total::]

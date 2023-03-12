@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NE]
 [ISO3::NER]
+```leaflet
+id: Niger
+zoomFeatures: true
+geojsonFolder: ./Niger
+```
+
 [name-en::Niger]
 [name-de::Niger]
 

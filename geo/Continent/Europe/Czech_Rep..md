@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CZ]
 [ISO3::CZE]
+```leaflet
+id: Czech Rep.
+zoomFeatures: true
+geojsonFolder: ./Czech Rep.
+```
+
 [name-en::Czech Rep.]
 [name-de::Tschechische Republik]
 [Area-Total::78860]

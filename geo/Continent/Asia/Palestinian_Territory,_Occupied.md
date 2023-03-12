@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PS]
 [ISO3::PSE]
+```leaflet
+id: Palestinian Territory, Occupied
+zoomFeatures: true
+geojsonFolder: ./Palestinian Territory, Occupied
+```
+
 [name-en::Palestinian Territory, Occupied]
 [name-de::Palästina]
 [Area-Total::0]

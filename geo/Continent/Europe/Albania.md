@@ -9,6 +9,12 @@ tags:
 ---
 [ISO2::AL]
 [ISO3::ALB]
+```leaflet
+id: Albania
+zoomFeatures: true
+geojsonFolder: ./Albania
+```
+
 [name-en::Albania]
 [name-de::Albanien]
 [Area-Total::28748]

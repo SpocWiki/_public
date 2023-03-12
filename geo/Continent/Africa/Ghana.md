@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GH]
 [ISO3::GHA]
+```leaflet
+id: Ghana
+zoomFeatures: true
+geojsonFolder: ./Ghana
+```
+
 [name-en::Ghana]
 [name-de::Ghana]
 [Area-Total::238537]

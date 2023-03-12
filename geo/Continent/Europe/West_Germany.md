@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::BRD]
+```leaflet
+id: West Germany
+zoomFeatures: true
+geojsonFolder: ./West Germany
+```
+
 [name-en::West Germany]
 [name-de::BRD]
 [Area-Total::]

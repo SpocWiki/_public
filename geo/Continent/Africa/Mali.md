@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ML]
 [ISO3::MLI]
+```leaflet
+id: Mali
+zoomFeatures: true
+geojsonFolder: ./Mali
+```
+
 [name-en::Mali]
 [name-de::Mali]
 [Area-Total::1240192]

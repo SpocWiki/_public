@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Rhodesia-Nyasaland
+zoomFeatures: true
+geojsonFolder: ./Rhodesia-Nyasaland
+```
+
 [name-en::Rhodesia-Nyasaland]
 [name-de::Rhodesien-Nyasaland]
 [Area-Total::]

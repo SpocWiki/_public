@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SB]
 [ISO3::SLB]
+```leaflet
+id: Solomon Islands
+zoomFeatures: true
+geojsonFolder: ./Solomon Islands
+```
+
 [name-en::Solomon Islands]
 [name-de::Salomonen]
 [Area-Total::29785]

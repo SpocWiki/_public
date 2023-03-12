@@ -9,6 +9,12 @@ isDeleted: false
 confidential: public
 [ISO2::CY]
 [ISO3::CYP]
+```leaflet
+id: Cyprus
+zoomFeatures: true
+geojsonFolder: ./Cyprus
+```
+
 [name-en::Cyprus]
 [name-de::Zypern]
 ![[Flag_of_Cyprus.svg|350]]

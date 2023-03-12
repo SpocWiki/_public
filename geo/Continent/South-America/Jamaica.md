@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::JM]
 [ISO3::JAM]
+```leaflet
+id: Jamaica
+zoomFeatures: true
+geojsonFolder: ./Jamaica
+```
+
 [name-en::Jamaica]
 [name-de::Jamaika]
 [Area-Total::10991]

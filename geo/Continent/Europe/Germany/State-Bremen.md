@@ -9,11 +9,18 @@ tags:
 
 ---
 
-[name::Bremen]
+[name::State-Bremen]
 [name-abbr::BN]
-![[Coat_of_arms_of_Berlin.svg|350]]
+![[Coat_of_arms_of_Bremen_greater.svg|350]]
 
-![[Flag_of_Berlin.svg|350]]
+![[Flag_of_Bremen.svg|350]]
+
+```leaflet
+id: State-Bremen
+zoomFeatures: true
+geojsonFolder: ./State-Bremen/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Bremen]]]
 [geo-lon::8.682]

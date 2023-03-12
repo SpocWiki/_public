@@ -8,11 +8,18 @@ tags:
 - geo/State
 
 ---
-[name::Berlin]
+[name::State-Berlin]
 [name-abbr::BL]
 ![[Coat_of_arms_of_Berlin.svg|350]]
 
 ![[Flag_of_Berlin.svg|350]]
+
+```leaflet
+id: State-Berlin
+zoomFeatures: true
+geojsonFolder: ./State-Berlin/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Berlin]]]
 [geo-lon::13.3689]

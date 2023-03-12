@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Isle of Man
+zoomFeatures: true
+geojsonFolder: ./Isle of Man
+```
+
 [name-en::Isle of Man]
 [name-de::Isle of Man]
 [Area-Total::]

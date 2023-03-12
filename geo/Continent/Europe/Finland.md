@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::FI]
 [ISO3::FIN]
+```leaflet
+id: Finland
+zoomFeatures: true
+geojsonFolder: ./Finland
+```
+
 [name-en::Finland]
 [name-de::Finnland]
 [Area-Total::338144]

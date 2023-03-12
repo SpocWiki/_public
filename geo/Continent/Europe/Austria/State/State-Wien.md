@@ -8,7 +8,13 @@ tags:
 [StateId::]
 isDeleted: false
 confidential: public
-[name::Wien]
+```leaflet
+id: Wien
+zoomFeatures: true
+geojsonFolder: ./Wien
+```
+
+[ name :: Wien ]
 [CountryId::]
 [geo-lon::]
 [geo-lat::]

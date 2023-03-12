@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TJ]
 [ISO3::TJK]
+```leaflet
+id: Tajikistan
+zoomFeatures: true
+geojsonFolder: ./Tajikistan
+```
+
 [name-en::Tajikistan]
 [name-de::Tadschikistan]
 [Area-Total::143100]

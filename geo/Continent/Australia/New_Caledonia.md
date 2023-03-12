@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NC]
 [ISO3::NCL]
+```leaflet
+id: New Caledonia
+zoomFeatures: true
+geojsonFolder: ./New Caledonia
+```
+
 [name-en::New Caledonia]
 [name-de::Neukaledonien]
 

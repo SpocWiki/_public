@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: FRENCH INDO-CHINA
+zoomFeatures: true
+geojsonFolder: ./FRENCH INDO-CHINA
+```
+
 [name-en::FRENCH INDO-CHINA]
 [name-de::Franz. Indochina]
 [Area-Total::]

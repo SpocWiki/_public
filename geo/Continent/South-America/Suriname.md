@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SR]
 [ISO3::SUR]
+```leaflet
+id: Suriname
+zoomFeatures: true
+geojsonFolder: ./Suriname
+```
+
 [name-en::Suriname]
 [name-de::Surinam]
 

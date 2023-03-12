@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NR]
 [ISO3::NRU]
+```leaflet
+id: Nauru
+zoomFeatures: true
+geojsonFolder: ./Nauru
+```
+
 [name-en::Nauru]
 [name-de::Nauru]
 

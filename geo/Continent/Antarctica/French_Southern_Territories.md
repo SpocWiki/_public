@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TF]
 [ISO3::ATF]
+```leaflet
+id: French Southern Territories
+zoomFeatures: true
+geojsonFolder: ./French Southern Territories
+```
+
 [name-en::French Southern Territories]
 [name-de::Französische südliche Territorien]
 [Area-Total::0]

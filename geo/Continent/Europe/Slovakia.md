@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SK]
 [ISO3::SVK]
+```leaflet
+id: Slovakia
+zoomFeatures: true
+geojsonFolder: ./Slovakia
+```
+
 [name-en::Slovakia]
 [name-de::Slowakei]
 [Area-Total::49036]

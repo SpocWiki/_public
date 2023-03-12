@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Eritrea and Ethiopia
+zoomFeatures: true
+geojsonFolder: ./Eritrea and Ethiopia
+```
+
 [name-en::Eritrea and Ethiopia]
 [name-de::Eritrea und Äthiopien]
 [Area-Total::]

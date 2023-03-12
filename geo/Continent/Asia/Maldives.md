@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MV]
 [ISO3::MDV]
+```leaflet
+id: Maldives
+zoomFeatures: true
+geojsonFolder: ./Maldives
+```
+
 [name-en::Maldives]
 [name-de::Malediven]
 [Area-Total::298]

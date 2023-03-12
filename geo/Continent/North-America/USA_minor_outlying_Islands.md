@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::UM]
 [ISO3::UMI]
+```leaflet
+id: USA minor outlying Islands
+zoomFeatures: true
+geojsonFolder: ./USA minor outlying Islands
+```
+
 [name-en::USA minor outlying Islands]
 [name-de::USA Inseln]
 [Area-Total::0]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Rwanda-Urundi
+zoomFeatures: true
+geojsonFolder: ./Rwanda-Urundi
+```
+
 [name-en::Rwanda-Urundi]
 [name-de::Ruanda-Urundi]
 [Area-Total::]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::FM]
 [ISO3::FSM]
+```leaflet
+id: Micronesia, Fed. States
+zoomFeatures: true
+geojsonFolder: ./Micronesia, Fed. States
+```
+
 [name-en::Micronesia, Fed. States]
 [name-de::Mikronesien]
 [Area-Total::700]

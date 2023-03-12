@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SE]
 [ISO3::SWE]
+```leaflet
+id: Sweden
+zoomFeatures: true
+geojsonFolder: ./Sweden
+```
+
 [name-en::Sweden]
 [name-de::Schweden]
 [Area-Total::449964]

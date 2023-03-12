@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::RE]
 [ISO3::REU]
+```leaflet
+id: Reunion
+zoomFeatures: true
+geojsonFolder: ./Reunion
+```
+
 [name-en::Reunion]
 [name-de::Réunion]
 [Area-Total::0]

@@ -13,6 +13,13 @@ tags:
 ![[Coat_of_arms_of_Sachsen-Anhalt.svg|350]]
 
 ![[Flag_of_Saxony-Anhalt_(state).svg|350]]
+
+```leaflet
+id: Sachsen-Anhalt
+zoomFeatures: true
+geojsonFolder: ./Sachsen-Anhalt/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Magdeburg]]]
 [geo-lon::11.7371]

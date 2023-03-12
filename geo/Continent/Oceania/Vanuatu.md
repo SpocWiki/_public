@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::VU]
 [ISO3::VUT]
+```leaflet
+id: Vanuatu
+zoomFeatures: true
+geojsonFolder: ./Vanuatu
+```
+
 [name-en::Vanuatu]
 [name-de::Vanuatu]
 

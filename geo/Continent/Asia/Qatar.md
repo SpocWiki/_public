@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::QA]
 [ISO3::QAT]
+```leaflet
+id: Qatar
+zoomFeatures: true
+geojsonFolder: ./Qatar
+```
+
 [name-en::Qatar]
 [name-de::Katar]
 [Area-Total::11437]

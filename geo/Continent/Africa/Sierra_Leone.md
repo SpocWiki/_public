@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SL]
 [ISO3::SLE]
+```leaflet
+id: Sierra Leone
+zoomFeatures: true
+geojsonFolder: ./Sierra Leone
+```
+
 [name-en::Sierra Leone]
 [name-de::Sierra Leone]
 [Area-Total::71740]

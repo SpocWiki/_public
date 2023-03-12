@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SD]
 [ISO3::SDN]
+```leaflet
+id: Sudan
+zoomFeatures: true
+geojsonFolder: ./Sudan
+```
+
 [name-en::Sudan]
 [name-de::Sudan]
 [Area-Total::2505813]

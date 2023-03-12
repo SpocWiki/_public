@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::VC]
 [ISO3::VCT]
+```leaflet
+id: Saint Vincent And The Grenadines
+zoomFeatures: true
+geojsonFolder: ./Saint Vincent And The Grenadines
+```
+
 [name-en::Saint Vincent And The Grenadines]
 [name-de::Saint Vincent und die Grenadinen]
 [Area-Total::389]

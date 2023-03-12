@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AO]
 [ISO3::AGO]
+```leaflet
+id: Angola
+zoomFeatures: true
+geojsonFolder: ./Angola
+```
+
 [name-en::Angola]
 [name-de::Angola]
 [Area-Total::1246700]

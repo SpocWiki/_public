@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LV]
 [ISO3::LVA]
+```leaflet
+id: Latvia
+zoomFeatures: true
+geojsonFolder: ./Latvia
+```
+
 [name-en::Latvia]
 [name-de::Lettland]
 [Area-Total::64589]

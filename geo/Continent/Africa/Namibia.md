@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NA]
 [ISO3::NAM]
+```leaflet
+id: Namibia
+zoomFeatures: true
+geojsonFolder: ./Namibia
+```
+
 [name-en::Namibia]
 [name-de::Namibia]
 [Area-Total::824292]

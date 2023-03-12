@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TV]
 [ISO3::TUV]
+```leaflet
+id: Tuvalu
+zoomFeatures: true
+geojsonFolder: ./Tuvalu
+```
+
 [name-en::Tuvalu]
 [name-de::Tuvalu]
 

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PH]
 [ISO3::PHL]
+```leaflet
+id: Philippines
+zoomFeatures: true
+geojsonFolder: ./Philippines
+```
+
 [name-en::Philippines]
 [name-de::Philippinen]
 [Area-Total::300000]

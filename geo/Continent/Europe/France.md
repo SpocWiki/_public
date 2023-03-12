@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::FR]
 [ISO3::FRA]
+```leaflet
+id: France
+zoomFeatures: true
+geojsonFolder: ./France
+```
+
 [name-en::France]
 [name-de::Frankreich]
 [Area-Total::543965]

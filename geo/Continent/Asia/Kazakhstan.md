@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::KZ]
 [ISO3::KAZ]
+```leaflet
+id: Kazakhstan
+zoomFeatures: true
+geojsonFolder: ./Kazakhstan
+```
+
 [name-en::Kazakhstan]
 [name-de::Kasachstan]
 [Area-Total::2717300]

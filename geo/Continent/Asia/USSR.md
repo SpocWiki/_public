@@ -15,6 +15,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: USSR
+zoomFeatures: true
+geojsonFolder: ./USSR
+```
+
 [name-en::USSR]
 [name-de::UdSSR]
 [Area-Total::]

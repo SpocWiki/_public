@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NI]
 [ISO3::NIC]
+```leaflet
+id: Nicaragua
+zoomFeatures: true
+geojsonFolder: ./Nicaragua
+```
+
 [name-en::Nicaragua]
 [name-de::Nicaragua]
 [Area-Total::120254]

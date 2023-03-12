@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GF]
 [ISO3::GUF]
+```leaflet
+id: French Guiana
+zoomFeatures: true
+geojsonFolder: ./French Guiana
+```
+
 [name-en::French Guiana]
 [name-de::Französisch Guayana]
 

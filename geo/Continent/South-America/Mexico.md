@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MX]
 [ISO3::MEX]
+```leaflet
+id: Mexico
+zoomFeatures: true
+geojsonFolder: ./Mexico
+```
+
 [name-en::Mexico]
 [name-de::Mexiko]
 [Area-Total::1958201]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NP]
 [ISO3::NPL]
+```leaflet
+id: Nepal
+zoomFeatures: true
+geojsonFolder: ./Nepal
+```
+
 [name-en::Nepal]
 [name-de::Nepal]
 [Area-Total::147181]

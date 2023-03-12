@@ -8,7 +8,13 @@ tags:
 [StateId::]
 isDeleted: false
 confidential: public
-[name::Burgenland]
+```leaflet
+id: Burgenland
+zoomFeatures: true
+geojsonFolder: ./Burgenland/
+```
+
+[ name :: Burgenland ]
 [CountryId::]
 [geo-lon::]
 [geo-lat::]

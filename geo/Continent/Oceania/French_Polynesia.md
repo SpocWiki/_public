@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PF]
 [ISO3::PYF]
+```leaflet
+id: French Polynesia
+zoomFeatures: true
+geojsonFolder: ./French Polynesia
+```
+
 [name-en::French Polynesia]
 [name-de::Französisch Polynesien]
 

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SJ]
 [ISO3::SJM]
+```leaflet
+id: Svalbard And Jan Mayen Islands
+zoomFeatures: true
+geojsonFolder: ./Svalbard And Jan Mayen Islands
+```
+
 [name-en::Svalbard And Jan Mayen Islands]
 [name-de::Svalbard Inseln]
 [Area-Total::0]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CL]
 [ISO3::CHL]
+```leaflet
+id: Chile
+zoomFeatures: true
+geojsonFolder: ./Chile
+```
+
 [name-en::Chile]
 [name-de::Chile]
 [Area-Total::756626]

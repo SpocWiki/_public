@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SA]
 [ISO3::SAU]
+```leaflet
+id: Saudi Arabia
+zoomFeatures: true
+geojsonFolder: ./Saudi Arabia
+```
+
 [name-en::Saudi Arabia]
 [name-de::Saudi-Arabien]
 [Area-Total::2240000]

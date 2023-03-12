@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::VE]
 [ISO3::VEN]
+```leaflet
+id: Venezuela
+zoomFeatures: true
+geojsonFolder: ./Venezuela
+```
+
 [name-en::Venezuela]
 [name-de::Venezuela]
 [Area-Total::912050]

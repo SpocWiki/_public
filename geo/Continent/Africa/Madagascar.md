@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MG]
 [ISO3::MDG]
+```leaflet
+id: Madagascar
+zoomFeatures: true
+geojsonFolder: ./Madagascar
+```
+
 [name-en::Madagascar]
 [name-de::Madagaskar]
 [Area-Total::587041]

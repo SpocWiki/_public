@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AE]
 [ISO3::ARE]
+```leaflet
+id: United Arab Emirates
+zoomFeatures: true
+geojsonFolder: ./United Arab Emirates
+```
+
 [name-en::United Arab Emirates]
 [name-de::Vereinigte Arabische Emirate]
 [Area-Total::77700]

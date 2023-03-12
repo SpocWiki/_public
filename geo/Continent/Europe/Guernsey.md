@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Guernsey
+zoomFeatures: true
+geojsonFolder: ./Guernsey
+```
+
 [name-en::Guernsey]
 [name-de::Guernsey]
 [Area-Total::]

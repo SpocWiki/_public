@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PR]
 [ISO3::PRI]
+```leaflet
+id: Puerto Rico
+zoomFeatures: true
+geojsonFolder: ./Puerto Rico
+```
+
 [name-en::Puerto Rico]
 [name-de::Puerto Rico]
 [Area-Total::0]

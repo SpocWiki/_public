@@ -8,7 +8,13 @@ tags:
 [StateId::]
 isDeleted: false
 confidential: public
-[name::Oberösterreich]
+```leaflet
+id: Oberösterreich
+zoomFeatures: true
+geojsonFolder: ./Oberösterreich
+```
+
+[ name :: Oberösterreich ]
 [CountryId::]
 [geo-lon::]
 [geo-lat::]

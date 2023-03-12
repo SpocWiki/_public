@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CC]
 [ISO3::CCK]
+```leaflet
+id: Cocos Island
+zoomFeatures: true
+geojsonFolder: ./Cocos Island
+```
+
 [name-en::Cocos Island]
 [name-de::Cocosinseln]
 [Area-Total::0]

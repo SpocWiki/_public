@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ID]
 [ISO3::IDN]
+```leaflet
+id: Indonesia
+zoomFeatures: true
+geojsonFolder: ./Indonesia
+```
+
 [name-en::Indonesia]
 [name-de::Indonesien]
 [Area-Total::1904443]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SC]
 [ISO3::SYC]
+```leaflet
+id: Seychelles
+zoomFeatures: true
+geojsonFolder: ./Seychelles
+```
+
 [name-en::Seychelles]
 [name-de::Seychellen]
 [Area-Total::454]

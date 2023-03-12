@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GR]
 [ISO3::GRC]
+```leaflet
+id: Greece
+zoomFeatures: true
+geojsonFolder: ./Greece
+```
+
 [name-en::Greece]
 [name-de::Griechenland]
 [Area-Total::131957]

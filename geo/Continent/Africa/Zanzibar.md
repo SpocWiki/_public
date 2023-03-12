@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Zanzibar
+zoomFeatures: true
+geojsonFolder: ./Zanzibar
+```
+
 [name-en::Zanzibar]
 [name-de::Sansibar]
 [Area-Total::]

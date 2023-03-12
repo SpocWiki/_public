@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BW]
 [ISO3::BWA]
+```leaflet
+id: Botswana
+zoomFeatures: true
+geojsonFolder: ./Botswana
+```
+
 [name-en::Botswana]
 [name-de::Botswana]
 [Area-Total::582000]

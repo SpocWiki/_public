@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::KH]
 [ISO3::KHM]
+```leaflet
+id: Cambodia
+zoomFeatures: true
+geojsonFolder: ./Cambodia
+```
+
 [name-en::Cambodia]
 [name-de::Kambodscha]
 [Area-Total::181035]

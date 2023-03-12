@@ -10,6 +10,12 @@ tags:
 ---
 [ISO2::AT]
 [ISO3::AUT]
+```leaflet
+id: Austria
+zoomFeatures: true
+geojsonFolder: ./Austria
+```
+
 [name-en::Austria]
 [name-de::Österreich]
 [Area-Total::8273]

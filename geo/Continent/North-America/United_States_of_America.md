@@ -9,6 +9,12 @@ tags:
 ---
 [ISO2::US]
 [ISO3::USA]
+```leaflet
+id: United States of America
+zoomFeatures: true
+geojsonFolder: ./United States of America
+```
+
 [name-en::United States of America]
 [name-de::Vereinigte Staaten von Amerika]
 ![[Coat_of_Arms_of_the_United_States_(obverse).svg|350]]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::IS]
 [ISO3::ISL]
+```leaflet
+id: Iceland
+zoomFeatures: true
+geojsonFolder: ./Iceland
+```
+
 [name-en::Iceland]
 [name-de::Island]
 [Area-Total::103000]

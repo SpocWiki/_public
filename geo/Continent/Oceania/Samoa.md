@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::WS]
 [ISO3::WSM]
+```leaflet
+id: Samoa
+zoomFeatures: true
+geojsonFolder: ./Samoa
+```
+
 [name-en::Samoa]
 [name-de::Samoa]
 

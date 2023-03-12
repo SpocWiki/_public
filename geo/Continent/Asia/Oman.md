@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::OM]
 [ISO3::OMN]
+```leaflet
+id: Oman
+zoomFeatures: true
+geojsonFolder: ./Oman
+```
+
 [name-en::Oman]
 [name-de::Oman]
 [Area-Total::212457]

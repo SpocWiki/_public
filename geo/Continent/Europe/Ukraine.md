@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::UA]
 [ISO3::UKR]
+```leaflet
+id: Ukraine
+zoomFeatures: true
+geojsonFolder: ./Ukraine
+```
+
 [name-en::Ukraine]
 [name-de::Ukraine]
 [Area-Total::603700]

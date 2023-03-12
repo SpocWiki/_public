@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::IT]
 [ISO3::ITA]
+```leaflet
+id: Italy
+zoomFeatures: true
+geojsonFolder: ./Italy
+```
+
 [name-en::Italy]
 [name-de::Italien]
 [Area-Total::301302]

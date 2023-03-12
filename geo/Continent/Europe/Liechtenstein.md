@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LI]
 [ISO3::LIE]
+```leaflet
+id: Liechtenstein
+zoomFeatures: true
+geojsonFolder: ./Liechtenstein
+```
+
 [name-en::Liechtenstein]
 [name-de::Liechtenstein]
 [Area-Total::160]

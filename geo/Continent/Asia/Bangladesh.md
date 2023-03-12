@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BD]
 [ISO3::BGD]
+```leaflet
+id: Bangladesh
+zoomFeatures: true
+geojsonFolder: ./Bangladesh
+```
+
 [name-en::Bangladesh]
 [name-de::Bangladesh]
 [Area-Total::147570]

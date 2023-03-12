@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Åland
+zoomFeatures: true
+geojsonFolder: ./Åland
+```
+
 [name-en::Åland]
 [name-de::Åland Inseln]
 [Area-Total::]

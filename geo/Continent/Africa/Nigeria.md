@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NG]
 [ISO3::NGA]
+```leaflet
+id: Nigeria
+zoomFeatures: true
+geojsonFolder: ./Nigeria
+```
+
 [name-en::Nigeria]
 [name-de::Nigeria]
 [Area-Total::923768]

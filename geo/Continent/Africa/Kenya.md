@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::KE]
 [ISO3::KEN]
+```leaflet
+id: Kenya
+zoomFeatures: true
+geojsonFolder: ./Kenya
+```
+
 [name-en::Kenya]
 [name-de::Kenia]
 [Area-Total::582646]

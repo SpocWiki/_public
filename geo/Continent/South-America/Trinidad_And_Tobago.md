@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TT]
 [ISO3::TTO]
+```leaflet
+id: Trinidad And Tobago
+zoomFeatures: true
+geojsonFolder: ./Trinidad And Tobago
+```
+
 [name-en::Trinidad And Tobago]
 [name-de::Trinidad und Tobago]
 [Area-Total::5128]

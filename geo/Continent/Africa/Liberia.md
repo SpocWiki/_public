@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LR]
 [ISO3::LBR]
+```leaflet
+id: Liberia
+zoomFeatures: true
+geojsonFolder: ./Liberia
+```
+
 [name-en::Liberia]
 [name-de::Liberia]
 [Area-Total::97754]

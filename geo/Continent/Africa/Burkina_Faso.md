@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BF]
 [ISO3::BFA]
+```leaflet
+id: Burkina Faso
+zoomFeatures: true
+geojsonFolder: ./Burkina Faso
+```
+
 [name-en::Burkina Faso]
 [name-de::Burkina Faso]
 [Area-Total::274200]

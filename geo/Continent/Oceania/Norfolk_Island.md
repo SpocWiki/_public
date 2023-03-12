@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NF]
 [ISO3::NFK]
+```leaflet
+id: Norfolk Island
+zoomFeatures: true
+geojsonFolder: ./Norfolk Island
+```
+
 [name-en::Norfolk Island]
 [name-de::Norfolk Insel]
 

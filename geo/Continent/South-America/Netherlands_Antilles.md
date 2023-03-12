@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AN]
 [ISO3::ANT]
+```leaflet
+id: Netherlands Antilles
+zoomFeatures: true
+geojsonFolder: ./Netherlands Antilles
+```
+
 [name-en::Netherlands Antilles]
 [name-de::Niederländische Antillen]
 [Area-Total::0]

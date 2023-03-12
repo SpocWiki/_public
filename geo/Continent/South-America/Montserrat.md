@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MS]
 [ISO3::MSR]
+```leaflet
+id: Montserrat
+zoomFeatures: true
+geojsonFolder: ./Montserrat
+```
+
 [name-en::Montserrat]
 [name-de::Montserrat]
 

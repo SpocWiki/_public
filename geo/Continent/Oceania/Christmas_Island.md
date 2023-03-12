@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CX]
 [ISO3::CXR]
+```leaflet
+id: Christmas Island
+zoomFeatures: true
+geojsonFolder: ./Christmas Island
+```
+
 [name-en::Christmas Island]
 [name-de::Weihnachtsinseln]
 

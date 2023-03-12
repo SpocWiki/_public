@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LT]
 [ISO3::LTU]
+```leaflet
+id: Lithuania
+zoomFeatures: true
+geojsonFolder: ./Lithuania
+```
+
 [name-en::Lithuania]
 [name-de::Litauen]
 [Area-Total::65300]

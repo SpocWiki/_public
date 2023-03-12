@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MO]
 [ISO3::MAC]
+```leaflet
+id: Macau
+zoomFeatures: true
+geojsonFolder: ./Macau
+```
+
 [name-en::Macau]
 [name-de::Macao]
 [Area-Total::0]

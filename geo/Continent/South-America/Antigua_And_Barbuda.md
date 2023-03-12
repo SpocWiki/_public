@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AG]
 [ISO3::ATG]
+```leaflet
+id: Antigua And Barbuda
+zoomFeatures: true
+geojsonFolder: ./Antigua And Barbuda
+```
+
 [name-en::Antigua And Barbuda]
 [name-de::Antigua und Barbuda]
 [Area-Total::441]

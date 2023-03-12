@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Hawaii
+zoomFeatures: true
+geojsonFolder: ./Hawaii
+```
+
 [name-en::Hawaii]
 [name-de::Hawaii]
 [Area-Total::28.3]

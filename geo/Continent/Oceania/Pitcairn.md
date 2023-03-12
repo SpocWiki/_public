@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PN]
 [ISO3::PCN]
+```leaflet
+id: Pitcairn
+zoomFeatures: true
+geojsonFolder: ./Pitcairn
+```
+
 [name-en::Pitcairn]
 [name-de::Pitcairn Inseln]
 [Area-Total::0]

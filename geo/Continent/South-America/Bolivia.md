@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BO]
 [ISO3::BOL]
+```leaflet
+id: Bolivia
+zoomFeatures: true
+geojsonFolder: ./Bolivia
+```
+
 [name-en::Bolivia]
 [name-de::Bolivien]
 [Area-Total::1098581]

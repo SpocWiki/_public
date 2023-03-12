@@ -7,6 +7,12 @@ isDeleted: false
 SpocWebEntityId: 27160
 []
 confidential: public
+```leaflet
+id: South America
+zoomFeatures: true
+geojsonFolder: ./South America
+```
+
 [name-en::South America]
 [name-de::Südamerika]
 [ #has/_code  :: SA ]

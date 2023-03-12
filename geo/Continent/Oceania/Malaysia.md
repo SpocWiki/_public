@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MY]
 [ISO3::MYS]
+```leaflet
+id: Malaysia
+zoomFeatures: true
+geojsonFolder: ./Malaysia
+```
+
 [name-en::Malaysia]
 [name-de::Malaysia]
 

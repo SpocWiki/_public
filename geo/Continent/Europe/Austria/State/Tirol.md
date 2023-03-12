@@ -8,7 +8,13 @@ tags:
 [StateId::]
 isDeleted: false
 confidential: public
-[name::Tirol]
+```leaflet
+id: Tirol
+zoomFeatures: true
+geojsonFolder: ./Tirol
+```
+
+[ name :: Tirol ]
 [CountryId::]
 [geo-lon::]
 [geo-lat::]

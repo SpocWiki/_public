@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TC]
 [ISO3::TCA]
+```leaflet
+id: Turks And Caicos Islands
+zoomFeatures: true
+geojsonFolder: ./Turks And Caicos Islands
+```
+
 [name-en::Turks And Caicos Islands]
 [name-de::Turks Inseln]
 [Area-Total::0]

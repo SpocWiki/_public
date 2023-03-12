@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::HU]
 [ISO3::HUN]
+```leaflet
+id: Hungary
+zoomFeatures: true
+geojsonFolder: ./Hungary
+```
+
 [name-en::Hungary]
 [name-de::Ungarn]
 [Area-Total::93030]

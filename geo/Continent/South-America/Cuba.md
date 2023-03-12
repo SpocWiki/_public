@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CU]
 [ISO3::CUB]
+```leaflet
+id: Cuba
+zoomFeatures: true
+geojsonFolder: ./Cuba
+```
+
 [name-en::Cuba]
 [name-de::Kuba]
 [Area-Total::110860]

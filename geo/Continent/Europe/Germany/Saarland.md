@@ -13,6 +13,13 @@ tags:
 ![[Coat_of_arms_of_Saarlands.svg|350]]
 
 ![[Flag_of_Saarland.svg|350]]
+
+```leaflet
+id: Saarland
+zoomFeatures: true
+geojsonFolder: ./Saarland/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Saarbruecken]]]
 [geo-lon::6.935]

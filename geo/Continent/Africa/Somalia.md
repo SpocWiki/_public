@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SO]
 [ISO3::SOM]
+```leaflet
+id: Somalia
+zoomFeatures: true
+geojsonFolder: ./Somalia
+```
+
 [name-en::Somalia]
 [name-de::Somalia]
 [Area-Total::637657]

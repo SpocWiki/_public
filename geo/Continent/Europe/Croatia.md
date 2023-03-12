@@ -9,6 +9,12 @@ isDeleted: false
 confidential: public
 [ISO2::HR]
 [ISO3::HRV]
+```leaflet
+id: Croatia
+zoomFeatures: true
+geojsonFolder: ./Croatia
+```
+
 [name-en::Croatia]
 [name-de::Kroatien]
 [Area-Total::56538]

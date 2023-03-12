@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::EH]
 [ISO3::ESH]
+```leaflet
+id: Western Sahara
+zoomFeatures: true
+geojsonFolder: ./Western Sahara
+```
+
 [name-en::Western Sahara]
 [name-de::Western Sahara]
 [Area-Total::267000]

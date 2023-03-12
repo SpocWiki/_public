@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.5,1.5]
 type: City
 tags:

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AQ]
 [ISO3::ATA]
+```leaflet
+id: Antarctica
+zoomFeatures: true
+geojsonFolder: ./Antarctica
+```
+
 [name-en::Antarctica]
 [name-de::Antarktis]
 [Area-Total::0]

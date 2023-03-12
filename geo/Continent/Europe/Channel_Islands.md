@@ -9,6 +9,12 @@ isDeleted: false
 confidential: public
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Channel Islands
+zoomFeatures: true
+geojsonFolder: ./Channel Islands
+```
+
 [name-en::Channel Islands]
 [name-de::Kanalinseln]
 [Area-Total::]

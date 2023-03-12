@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::KW]
 [ISO3::KWT]
+```leaflet
+id: Kuwait
+zoomFeatures: true
+geojsonFolder: ./Kuwait
+```
+
 [name-en::Kuwait]
 [name-de::Kuwait]
 [Area-Total::17818]

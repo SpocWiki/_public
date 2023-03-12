@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AS]
 [ISO3::ASM]
+```leaflet
+id: American Samoa
+zoomFeatures: true
+geojsonFolder: ./American Samoa
+```
+
 [name-en::American Samoa]
 [name-de::Amerikanisch Samoa]
 

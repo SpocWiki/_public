@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Serbia and Montenegro
+zoomFeatures: true
+geojsonFolder: ./Serbia and Montenegro
+```
+
 [name-en::Serbia and Montenegro]
 [name-de::Serbien-Montenegro]
 [Area-Total::]

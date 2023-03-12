@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::VI]
 [ISO3::VIR]
+```leaflet
+id: Virgin Islands (U.S.)
+zoomFeatures: true
+geojsonFolder: ./Virgin Islands (U.S.)
+```
+
 [name-en::Virgin Islands (U.S.)]
 [name-de::amerik. Jungfraueninseln]
 [Area-Total::0]

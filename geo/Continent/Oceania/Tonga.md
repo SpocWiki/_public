@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TO]
 [ISO3::TON]
+```leaflet
+id: Tonga
+zoomFeatures: true
+geojsonFolder: ./Tonga
+```
+
 [name-en::Tonga]
 [name-de::Tonga]
 

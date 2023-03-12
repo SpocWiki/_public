@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::ZM]
 [ISO3::ZMB]
+```leaflet
+id: Zambia
+zoomFeatures: true
+geojsonFolder: ./Zambia
+```
+
 [name-en::Zambia]
 [name-de::Sambia]
 

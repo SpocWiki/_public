@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Sarawak
+zoomFeatures: true
+geojsonFolder: ./Sarawak
+```
+
 [name-en::Sarawak]
 [name-de::Sarawak]
 

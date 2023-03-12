@@ -9,6 +9,12 @@ tags:
 isDeleted: false
 ---
 
+```leaflet
+id: Europe
+zoomFeatures: true
+geojsonFolder: ./Europe
+```
+
 [name-en::Europe]
 [name-de::Europa]
 [ #has/_code  :: EU ]

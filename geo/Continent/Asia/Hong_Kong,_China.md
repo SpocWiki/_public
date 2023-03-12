@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::HK]
 [ISO3::HKG]
+```leaflet
+id: Hong Kong, China
+zoomFeatures: true
+geojsonFolder: ./Hong Kong, China
+```
+
 [name-en::Hong Kong, China]
 [name-de::Hong Kong]
 [Area-Total::0]

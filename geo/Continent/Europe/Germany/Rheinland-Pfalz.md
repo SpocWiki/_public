@@ -13,6 +13,13 @@ tags:
 ![[Coat_of_arms_of_Rhineland-Palatinate.svg|350]]
 
 ![[Flag_of_Rhineland-Palatinate.svg|350]]
+
+```leaflet
+id: Rheinland-Pfalz
+zoomFeatures: true
+geojsonFolder: ./Rheinland-Pfalz/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Mainz]]]
 [geo-lon::7.57652]

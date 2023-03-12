@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Ryukyu Islands
+zoomFeatures: true
+geojsonFolder: ./Ryukyu Islands
+```
+
 [name-en::Ryukyu Islands]
 [name-de::Ryūkyū-Inseln]
 [Area-Total::]

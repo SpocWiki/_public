@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::IE]
 [ISO3::IRL]
+```leaflet
+id: Ireland
+zoomFeatures: true
+geojsonFolder: ./Ireland
+```
+
 [name-en::Ireland]
 [name-de::Irland]
 [Area-Total::70285]

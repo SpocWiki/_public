@@ -10,6 +10,12 @@ tags:
 ---
 [ISO2::CA]
 [ISO3::CAN]
+```leaflet
+id: Canada
+zoomFeatures: true
+geojsonFolder: ./Canada
+```
+
 [name-en::Canada]
 [name-de::Kanada]
 

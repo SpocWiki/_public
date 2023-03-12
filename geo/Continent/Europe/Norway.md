@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NO]
 [ISO3::NOR]
+```leaflet
+id: Norway
+zoomFeatures: true
+geojsonFolder: ./Norway
+```
+
 [name-en::Norway]
 [name-de::Norwegen]
 [Area-Total::323877]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BH]
 [ISO3::BHR]
+```leaflet
+id: Bahrain
+zoomFeatures: true
+geojsonFolder: ./Bahrain
+```
+
 [name-en::Bahrain]
 [name-de::Bahrain]
 [Area-Total::680]

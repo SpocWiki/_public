@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BI]
 [ISO3::BDI]
+```leaflet
+id: Burundi
+zoomFeatures: true
+geojsonFolder: ./Burundi
+```
+
 [name-en::Burundi]
 [name-de::Burundi]
 

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MP]
 [ISO3::MNP]
+```leaflet
+id: Northern Mariana Islands
+zoomFeatures: true
+geojsonFolder: ./Northern Mariana Islands
+```
+
 [name-en::Northern Mariana Islands]
 [name-de::Nördliche Marianen Inseln]
 [Area-Total::0]

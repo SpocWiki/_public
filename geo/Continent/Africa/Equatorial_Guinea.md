@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GQ]
 [ISO3::GNQ]
+```leaflet
+id: Equatorial Guinea
+zoomFeatures: true
+geojsonFolder: ./Equatorial Guinea
+```
+
 [name-en::Equatorial Guinea]
 [name-de::Äquatorial-Guinea]
 [Area-Total::28051]

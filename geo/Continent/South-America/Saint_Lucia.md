@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::LC]
 [ISO3::LCA]
+```leaflet
+id: Saint Lucia
+zoomFeatures: true
+geojsonFolder: ./Saint Lucia
+```
+
 [name-en::Saint Lucia]
 [name-de::Saint Lucia]
 

@@ -13,6 +13,12 @@ tags:
 ![[Coat_of_arms_of_Baden-Württemberg.svg|350]]
 ![[Flag_of_Baden-Württemberg.svg|350]]
 
+```leaflet
+id: Baden-Wuerttemberg
+zoomFeatures: true
+geojsonFolder: ./Baden-Wuerttemberg/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Stuttgart]]]
 [geo-lon::8.97421]

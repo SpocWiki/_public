@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TR]
 [ISO3::TUR]
+```leaflet
+id: Turkey
+zoomFeatures: true
+geojsonFolder: ./Turkey
+```
+
 [name-en::Turkey]
 [name-de::Türkei]
 [Area-Total::779452]

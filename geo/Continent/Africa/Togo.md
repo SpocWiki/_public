@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TG]
 [ISO3::TGO]
+```leaflet
+id: Togo
+zoomFeatures: true
+geojsonFolder: ./Togo
+```
+
 [name-en::Togo]
 [name-de::Togo]
 [Area-Total::56785]

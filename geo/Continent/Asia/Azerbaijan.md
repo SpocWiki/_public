@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AZ]
 [ISO3::AZE]
+```leaflet
+id: Azerbaijan
+zoomFeatures: true
+geojsonFolder: ./Azerbaijan
+```
+
 [name-en::Azerbaijan]
 [name-de::Aserbaidshan]
 [Area-Total::86600]

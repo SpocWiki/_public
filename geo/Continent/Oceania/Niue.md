@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::NU]
 [ISO3::NIU]
+```leaflet
+id: Niue
+zoomFeatures: true
+geojsonFolder: ./Niue
+```
+
 [name-en::Niue]
 [name-de::Niue]
 

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::JO]
 [ISO3::JOR]
+```leaflet
+id: Jordan
+zoomFeatures: true
+geojsonFolder: ./Jordan
+```
+
 [name-en::Jordan]
 [name-de::Jordanien]
 [Area-Total::88946]

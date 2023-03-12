@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MZ]
 [ISO3::MOZ]
+```leaflet
+id: Mozambique
+zoomFeatures: true
+geojsonFolder: ./Mozambique
+```
+
 [name-en::Mozambique]
 [name-de::Mozambique]
 [Area-Total::799380]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SI]
 [ISO3::SVN]
+```leaflet
+id: Slovenia
+zoomFeatures: true
+geojsonFolder: ./Slovenia
+```
+
 [name-en::Slovenia]
 [name-de::Slowenien]
 [Area-Total::20255]

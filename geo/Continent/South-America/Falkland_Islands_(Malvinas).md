@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::FK]
 [ISO3::FLK]
+```leaflet
+id: Falkland Islands (Malvinas)
+zoomFeatures: true
+geojsonFolder: ./Falkland Islands (Malvinas)
+```
+
 [name-en::Falkland Islands (Malvinas)]
 [name-de::Falkland Inseln]
 [Area-Total::0]

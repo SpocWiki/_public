@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GL]
 [ISO3::GRL]
+```leaflet
+id: Greenland
+zoomFeatures: true
+geojsonFolder: ./Greenland
+```
+
 [name-en::Greenland]
 [name-de::Grönland]
 ![[Greenland/Coat_of_arms_of_Greenland.svg|350]]

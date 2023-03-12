@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Akrotiri and Dhekelia
+zoomFeatures: true
+geojsonFolder: ./Akrotiri and Dhekelia
+```
+
 [name-en::Akrotiri and Dhekelia]
 [name-de::Akrotiri und Dhekelia (Zypern)]
 [Area-Total::]

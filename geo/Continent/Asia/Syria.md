@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SY]
 [ISO3::SYR]
+```leaflet
+id: Syria
+zoomFeatures: true
+geojsonFolder: ./Syria
+```
+
 [name-en::Syria]
 [name-de::Syrien, Syrian Arab Republic]
 

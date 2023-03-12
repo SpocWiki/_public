@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GM]
 [ISO3::GMB]
+```leaflet
+id: Gambia
+zoomFeatures: true
+geojsonFolder: ./Gambia
+```
+
 [name-en::Gambia]
 [name-de::Gambia]
 [Area-Total::11295]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::IQ]
 [ISO3::IRQ]
+```leaflet
+id: Iraq
+zoomFeatures: true
+geojsonFolder: ./Iraq
+```
+
 [name-en::Iraq]
 [name-de::Irak]
 [Area-Total::438317]

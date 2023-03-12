@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::VG]
 [ISO3::VGB]
+```leaflet
+id: British Virgin Islands
+zoomFeatures: true
+geojsonFolder: ./British Virgin Islands
+```
+
 [name-en::British Virgin Islands]
 [name-de::brit. Jungfraueninseln]
 [Area-Total::0]

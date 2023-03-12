@@ -14,6 +14,12 @@ aliases:
 ---
 [ISO2::KR]
 [ISO3::KOR]
+```leaflet
+id: Korea, Rep.
+zoomFeatures: true
+geojsonFolder: ./Korea, Rep.
+```
+
 [name-en::Korea, Rep.]
 [name-de::Südkorea]
 [Area-Total::99392]

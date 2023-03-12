@@ -15,6 +15,12 @@ aliases:
 ---
 [ISO2::KP]
 [ISO3::PRK]
+```leaflet
+id: Korea, Dem. Rep.
+zoomFeatures: true
+geojsonFolder: ./Korea, Dem. Rep.
+```
+
 [name-en::Korea, Dem. Rep.]
 [name-de::Nordkorea]
 [Area-Total::120538]

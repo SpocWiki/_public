@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+```leaflet
+id: Malaysia
+zoomFeatures: true
+geojsonFolder: ./Malaysia
+```
+
 [name-en::Malaysia]
 [name-de::Malaysia(West)]
 [Area-Total::]

@@ -17,6 +17,12 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 [ISO2::{{ISO2}}]
 [ISO3::{{ISO3}}]
+```leaflet
+id: {{EnglishName}}
+zoomFeatures: true
+geojsonFolder: ./{{EnglishName}}
+```
+
 [name-en::{{EnglishName}}]
 [name-de::{{GermanName}}]
 [Area-Total::{{AreaTotal}}]

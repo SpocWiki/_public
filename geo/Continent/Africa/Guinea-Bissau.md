@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::GW]
 [ISO3::GNB]
+```leaflet
+id: Guinea-Bissau
+zoomFeatures: true
+geojsonFolder: ./Guinea-Bissau
+```
+
 [name-en::Guinea-Bissau]
 [name-de::Guinea-Bissau]
 [Area-Total::36125]

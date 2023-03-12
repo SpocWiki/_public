@@ -9,6 +9,12 @@ isDeleted: false
 confidential: public
 [ISO2::BE]
 [ISO3::BEL]
+```leaflet
+id: Belgium
+zoomFeatures: true
+geojsonFolder: ./Belgium
+```
+
 [name-en::Belgium]
 [name-de::Belgien]
 [Area-Total::30518]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::YU]
 [ISO3::YUG]
+```leaflet
+id: Yugoslavia
+zoomFeatures: true
+geojsonFolder: ./Yugoslavia
+```
+
 [name-en::Yugoslavia]
 [name-de::Jugoslawien]
 [Area-Total::102173]

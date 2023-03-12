@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::MR]
 [ISO3::MRT]
+```leaflet
+id: Mauritania
+zoomFeatures: true
+geojsonFolder: ./Mauritania
+```
+
 [name-en::Mauritania]
 [name-de::Mauretanien]
 [Area-Total::1030700]

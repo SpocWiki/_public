@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AI]
 [ISO3::AIA]
+```leaflet
+id: Anguilla
+zoomFeatures: true
+geojsonFolder: ./Anguilla
+```
+
 [name-en::Anguilla]
 [name-de::Anguilla]
 

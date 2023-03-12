@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::TZ]
 [ISO3::TZA]
+```leaflet
+id: Tanzania
+zoomFeatures: true
+geojsonFolder: ./Tanzania
+```
+
 [name-en::Tanzania]
 [name-de::Tansania]
 [Area-Total::945087]

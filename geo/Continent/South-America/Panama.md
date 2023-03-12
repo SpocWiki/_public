@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::PA]
 [ISO3::PAN]
+```leaflet
+id: Panama
+zoomFeatures: true
+geojsonFolder: ./Panama
+```
+
 [name-en::Panama]
 [name-de::Panama]
 [Area-Total::75517]

@@ -15,6 +15,12 @@ tags:
 
 ![[Flag_of_Mecklenburg-Western_Pomerania.svg|350]]
 
+```leaflet
+id: Mecklenburg-Vorpommern
+zoomFeatures: true
+geojsonFolder: ./Mecklenburg-Vorpommern/
+```
+
 [Country::[[Germany]]]
 [Capital::[[Schwerin]]]
 [geo-lon::12.5967]

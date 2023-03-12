@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::FX]
 [ISO3::FXX]
+```leaflet
+id: France, Metropolitan
+zoomFeatures: true
+geojsonFolder: ./France, Metropolitan
+```
+
 [name-en::France, Metropolitan]
 [name-de::Frankreich, Metropolen]
 [Area-Total::0]

@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::AU]
 [ISO3::AUS]
+```leaflet
+id: Australia
+zoomFeatures: true
+geojsonFolder: ./Australia
+```
+
 [name-en::Australia]
 [name-de::Australien]
 [Area-Total::7682300]

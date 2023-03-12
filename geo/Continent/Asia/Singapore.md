@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::SG]
 [ISO3::SGP]
+```leaflet
+id: Singapore
+zoomFeatures: true
+geojsonFolder: ./Singapore
+```
+
 [name-en::Singapore]
 [name-de::Singapur]
 [Area-Total::641]

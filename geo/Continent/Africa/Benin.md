@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::BJ]
 [ISO3::BEN]
+```leaflet
+id: Benin
+zoomFeatures: true
+geojsonFolder: ./Benin
+```
+
 [name-en::Benin]
 [name-de::Benin]
 [Area-Total::112622]

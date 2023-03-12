@@ -11,6 +11,12 @@ confidential: public
 ---
 [ISO2::CF]
 [ISO3::CAF]
+```leaflet
+id: Central African Rep.
+zoomFeatures: true
+geojsonFolder: ./Central African Rep.
+```
+
 [name-en::Central African Rep.]
 [name-de::Zentralafrikanische Republik]
 [Area-Total::622984]
