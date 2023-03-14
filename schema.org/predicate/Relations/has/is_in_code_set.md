@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_in_code_set
+title: is_in_code_set
 
-linkTitle: has_in_code_set
+linkTitle: is_in_code_set
 keywords: [in, code, set]
 layout: 
 draft: false
@@ -26,16 +26,16 @@ aliases:
 - in-code-set
 - in_code_set
 - inCodeSet
-- has_in_code_set
+- is_in_code_set
 ---
 
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_in_code_set :: CategoryCodeSet, URL ] or 
-- [ has_in_code_set :: CategoryCodeSet, URL ] 
+- [ #is/_in_code_set :: CategoryCodeSet, URL ] or 
+- [ is_in_code_set :: CategoryCodeSet, URL ] 
 
-A &lt;a class="localLink" href="/CategoryCodeSet"&gt;CategoryCodeSet&lt;/a&gt; that contains this category code.
+A [[CategoryCodeSet]] that contains this category code.
 
 Relation describes that: 
 [ #has_/domain  :: CategoryCode ]

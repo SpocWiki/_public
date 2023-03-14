@@ -41,6 +41,6 @@ Note: The order of elements in your mark-up is not sufficient for indicating the
 
 Relation describes that: 
 [ #has_/domain  :: ItemList ]
-( #has_/name :: is_item_list_element )
+( #has_/name :: has_item_list_element )
 ( #has_/range :: ListItem, Text, Thing )
 

@@ -39,7 +39,7 @@ Indicates a legal jurisdiction, e.g. of some legislation, or where some governme
 
 Relation describes that: 
 [ #has_/domain  :: GovernmentService, Legislation ]
-( #has_/name :: is_jurisdiction )
+( #has_/name :: has_jurisdiction )
 ( #has_/range :: AdministrativeArea, Text )
 
 [ #has_/sub_properties :: [ legislationJurisdiction ] ]

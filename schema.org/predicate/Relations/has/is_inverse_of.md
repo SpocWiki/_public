@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_inverse_of
+title: is_inverse_of
 
-linkTitle: has_inverse_of
+linkTitle: is_inverse_of
 keywords: [inverse, of]
 layout: 
 draft: false
@@ -26,14 +26,14 @@ aliases:
 - inverse-of
 - inverse_of
 - inverseOf
-- has_inverse_of
+- is_inverse_of
 ---
 
 [ #is_/part_of :: https://meta.schema.org ]
 
 Use it like this: 
-- [ #has/_inverse_of :: Property ] or 
-- [ has_inverse_of :: Property ] 
+- [ #is/_inverse_of :: Property ] or 
+- [ is_inverse_of :: Property ] 
 
 Relates a property to a property that is its inverse. Inverse properties relate the same pairs of items to each other, but in reversed direction. For example, the 'alumni' and 'alumniOf' properties are inverseOf each other. Some properties don't have explicit inverses; in these situations RDFa and JSON-LD syntax for reverse properties can be used.
 

@@ -39,6 +39,6 @@ Destination(s) ( &lt;a class="localLink" href="/Place"&gt;Place&lt;/a&gt; ) that
 
 Relation describes that: 
 [ #has_/domain  :: Trip ]
-( #has_/name :: is_itinerary )
+( #has_/name :: has_itinerary )
 ( #has_/range :: ItemList, Place )
 

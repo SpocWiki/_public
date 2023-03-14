@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_issued_through
+title: is_issued_through
 
-linkTitle: has_issued_through
+linkTitle: is_issued_through
 keywords: [issued, through]
 layout: 
 draft: false
@@ -26,12 +26,12 @@ aliases:
 - issued-through
 - issued_through
 - issuedThrough
-- has_issued_through
+- is_issued_through
 ---
 
 Use it like this: 
-- [ #has/_issued_through :: Service ] or 
-- [ has_issued_through :: Service ] 
+- [ #is/_issued_through :: Service ] or 
+- [ is_issued_through :: Service ] 
 
 The service through which the permit was granted.
 

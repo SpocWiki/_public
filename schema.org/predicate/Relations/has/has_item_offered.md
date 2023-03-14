@@ -37,7 +37,7 @@ An item being offered (or demanded). The transactional nature of the offer or de
 
 Relation describes that: 
 [ #has_/domain  :: Demand, Offer ]
-( #has_/name :: is_item_offered )
+( #has_/name :: has_item_offered )
 ( #has_/range :: AggregateOffer, CreativeWork, Event, MenuItem, Product, Service, Trip )
 
 [ #is_/inverse_of  :: offers ]

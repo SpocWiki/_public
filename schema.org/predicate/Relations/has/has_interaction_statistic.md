@@ -39,6 +39,6 @@ The number of interactions for the CreativeWork using the WebSite or SoftwareApp
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, Organization, Person ]
-( #has_/name :: is_interaction_statistic )
+( #has_/name :: has_interaction_statistic )
 ( #has_/range :: InteractionCounter )
 

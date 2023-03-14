@@ -39,6 +39,6 @@ The job title of the person (for example, Financial Manager).
 
 Relation describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_job_title )
+( #has_/name :: has_job_title )
 ( #has_/range :: DefinedTerm, Text )
 

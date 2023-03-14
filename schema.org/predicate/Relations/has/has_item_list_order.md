@@ -37,6 +37,6 @@ Type of ordering (e.g. Ascending, Descending, Unordered).
 
 Relation describes that: 
 [ #has_/domain  :: ItemList ]
-( #has_/name :: is_item_list_order )
+( #has_/name :: has_item_list_order )
 ( #has_/range :: ItemListOrderType, Text )
 

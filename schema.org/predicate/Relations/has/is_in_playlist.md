@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_in_playlist
+title: is_in_playlist
 
-linkTitle: has_in_playlist
+linkTitle: is_in_playlist
 keywords: [in, playlist]
 layout: 
 draft: false
@@ -26,12 +26,12 @@ aliases:
 - in-playlist
 - in_playlist
 - inPlaylist
-- has_in_playlist
+- is_in_playlist
 ---
 
 Use it like this: 
-- [ #has/_in_playlist :: MusicPlaylist ] or 
-- [ has_in_playlist :: MusicPlaylist ] 
+- [ #is/_in_playlist :: MusicPlaylist ] or 
+- [ is_in_playlist :: MusicPlaylist ] 
 
 The playlist to which this recording belongs.
 

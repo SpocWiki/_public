@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_in_broadcast_lineup
+title: is_in_broadcast_lineup
 
-linkTitle: has_in_broadcast_lineup
+linkTitle: is_in_broadcast_lineup
 keywords: [in, broadcast, lineup]
 layout: 
 draft: false
@@ -26,12 +26,12 @@ aliases:
 - in-broadcast-lineup
 - in_broadcast_lineup
 - inBroadcastLineup
-- has_in_broadcast_lineup
+- is_in_broadcast_lineup
 ---
 
 Use it like this: 
-- [ #has/_in_broadcast_lineup :: CableOrSatelliteService ] or 
-- [ has_in_broadcast_lineup :: CableOrSatelliteService ] 
+- [ #is/_in_broadcast_lineup :: CableOrSatelliteService ] or 
+- [ is_in_broadcast_lineup :: CableOrSatelliteService ] 
 
 The CableOrSatelliteService offering the channel.
 

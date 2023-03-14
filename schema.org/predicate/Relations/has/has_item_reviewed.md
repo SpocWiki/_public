@@ -37,6 +37,6 @@ The item that is being reviewed/rated.
 
 Relation describes that: 
 [ #has_/domain  :: AggregateRating, Review ]
-( #has_/name :: is_item_reviewed )
+( #has_/name :: has_item_reviewed )
 ( #has_/range :: Thing )
 

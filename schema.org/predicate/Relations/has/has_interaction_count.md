@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -39,6 +39,6 @@ This property is deprecated, alongside the UserInteraction types on which it dep
 
 Relation describes that: 
 [ #has_/domain  ::  ]
-( #has_/name :: is_interaction_count )
+( #has_/name :: has_interaction_count )
 ( #has_/range ::  )
 

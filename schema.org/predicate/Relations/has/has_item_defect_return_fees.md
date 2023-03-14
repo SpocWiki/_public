@@ -39,6 +39,6 @@ The type of return fees for returns of defect products.
 
 Relation describes that: 
 [ #has_/domain  :: MerchantReturnPolicy ]
-( #has_/name :: is_item_defect_return_fees )
+( #has_/name :: has_item_defect_return_fees )
 ( #has_/range :: ReturnFeesEnumeration )
 

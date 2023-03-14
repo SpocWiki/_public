@@ -37,6 +37,6 @@ Keywords or tags used to describe some item. Multiple textual entries in a keywo
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, Event, Organization, Place, Product ]
-( #has_/name :: is_keywords )
+( #has_/name :: has_keywords )
 ( #has_/range :: DefinedTerm, Text, URL )
 

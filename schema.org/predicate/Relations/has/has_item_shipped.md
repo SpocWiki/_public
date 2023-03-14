@@ -37,6 +37,6 @@ Item(s) being shipped.
 
 Relation describes that: 
 [ #has_/domain  :: ParcelDelivery ]
-( #has_/name :: is_item_shipped )
+( #has_/name :: has_item_shipped )
 ( #has_/range :: Product )
 

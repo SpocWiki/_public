@@ -37,6 +37,6 @@ The Action representing the type of interaction. For up votes, +1s, etc. use &lt
 
 Relation describes that: 
 [ #has_/domain  :: InteractionCounter ]
-( #has_/name :: is_interaction_type )
+( #has_/name :: has_interaction_type )
 ( #has_/range :: Action )
 

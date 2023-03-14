@@ -37,6 +37,6 @@ A predefined value from OfferItemCondition specifying the condition of the produ
 
 Relation describes that: 
 [ #has_/domain  :: Demand, MerchantReturnPolicy, Offer, Product ]
-( #has_/name :: is_item_condition )
+( #has_/name :: has_item_condition )
 ( #has_/range :: OfferItemCondition )
 

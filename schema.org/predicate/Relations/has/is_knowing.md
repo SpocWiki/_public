@@ -10,10 +10,10 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_in_album
+title: is_knowing
 
-linkTitle: has_in_album
-keywords: [in, album]
+linkTitle: is_knowing
+keywords: [knows]
 layout: 
 draft: false
 publishDate:
@@ -23,20 +23,20 @@ tags:
 - schema.org/Predicate/Relation
 
 aliases:
-- in-album
-- in_album
-- inAlbum
-- has_in_album
+- knows
+- knows
+- knows
+- is_knowing
 ---
 
 Use it like this: 
-- [ #has/_in_album :: MusicAlbum ] or 
-- [ has_in_album :: MusicAlbum ] 
+- [ #is/_knowing :: Person ] or 
+- [ is_knowing :: Person ] 
 
-The album to which this recording belongs.
+The most generic bi-directional social/work relation.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRecording ]
-( #has_/name :: is_in_album )
-( #has_/range :: MusicAlbum )
+[ #has_/domain  :: Person ]
+( #has_/name :: is_knowing )
+( #has_/range :: Person )
 
