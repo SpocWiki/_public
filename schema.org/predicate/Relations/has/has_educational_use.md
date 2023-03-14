@@ -37,6 +37,6 @@ The purpose of a work in the context of education; for example, 'assignment', 'g
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, LearningResource ]
-( #has_/name :: is_educational_use )
+( #has_/name :: has_educational_use )
 ( #has_/range :: DefinedTerm, Text )
 

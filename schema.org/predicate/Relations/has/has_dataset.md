@@ -37,8 +37,8 @@ A dataset contained in this catalog.
 
 Relation describes that: 
 [ #has_/domain  :: DataCatalog ]
-( #has_/name :: is_dataset )
+( #has_/name :: has_dataset )
 ( #has_/range :: Dataset )
 
-[ #is_/inverse_of  :: includedInDataCatalog ]
+[ #is_/inverse_of  :: [[is_included_in_data_catalog]] ]
 

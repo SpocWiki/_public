@@ -39,6 +39,6 @@ Used to tag an item to be intended or suitable for consumption or use by adults 
 
 Relation describes that: 
 [ #has_/domain  :: Offer, Product ]
-( #has_/name :: is_adult_consideration )
+( #has_/name :: has_adult_consideration )
 ( #has_/range :: AdultOrientedEnumeration )
 

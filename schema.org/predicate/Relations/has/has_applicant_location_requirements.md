@@ -39,6 +39,6 @@ The location(s) applicants can apply from. This is usually used for telecommutin
 
 Relation describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_applicant_location_requirements )
+( #has_/name :: has_applicant_location_requirements )
 ( #has_/range :: AdministrativeArea )
 

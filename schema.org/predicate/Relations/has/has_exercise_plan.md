@@ -37,7 +37,7 @@ A sub property of instrument. The exercise plan used on this action.
 
 Relation describes that: 
 [ #has_/domain  :: ExerciseAction ]
-( #has_/name :: is_exercise_plan )
+( #has_/name :: has_exercise_plan )
 ( #has_/range :: ExercisePlan )
 
 [ #is_/sub_property_of  :: instrument ]

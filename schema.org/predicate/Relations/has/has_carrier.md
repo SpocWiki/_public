@@ -39,6 +39,6 @@ Use it like this:
 
 Relation describes that: 
 [ #has_/domain  :: Flight, ParcelDelivery ]
-( #has_/name :: is_carrier )
+( #has_/name :: has_carrier )
 ( #has_/range :: Organization )
 

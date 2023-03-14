@@ -37,6 +37,6 @@ The event being broadcast such as a sporting event or awards ceremony.
 
 Relation describes that: 
 [ #has_/domain  :: BroadcastEvent ]
-( #has_/name :: is_broadcast_of_event )
+( #has_/name :: has_broadcast_of_event )
 ( #has_/range :: Event )
 

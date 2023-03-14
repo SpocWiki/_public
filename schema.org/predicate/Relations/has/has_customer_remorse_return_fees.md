@@ -39,6 +39,6 @@ The type of return fees if the product is returned due to customer remorse.
 
 Relation describes that: 
 [ #has_/domain  :: MerchantReturnPolicy ]
-( #has_/name :: is_customer_remorse_return_fees )
+( #has_/name :: has_customer_remorse_return_fees )
 ( #has_/range :: ReturnFeesEnumeration )
 

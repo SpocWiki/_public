@@ -37,6 +37,6 @@ A downloadable form of this dataset, at a specific location, in a specific forma
 
 Relation describes that: 
 [ #has_/domain  :: Dataset ]
-( #has_/name :: is_distribution )
+( #has_/name :: has_distribution )
 ( #has_/range :: DataDownload )
 

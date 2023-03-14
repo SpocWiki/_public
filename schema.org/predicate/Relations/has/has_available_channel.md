@@ -37,6 +37,6 @@ A means of accessing the service (e.g. a phone bank, a web site, a location, etc
 
 Relation describes that: 
 [ #has_/domain  :: Service ]
-( #has_/name :: is_available_channel )
+( #has_/name :: has_available_channel )
 ( #has_/range :: ServiceChannel )
 

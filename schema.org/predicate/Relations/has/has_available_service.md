@@ -37,6 +37,6 @@ A medical service available from this provider.
 
 Relation describes that: 
 [ #has_/domain  :: Hospital, MedicalClinic, Physician ]
-( #has_/name :: is_available_service )
+( #has_/name :: has_available_service )
 ( #has_/range :: MedicalProcedure, MedicalTest, MedicalTherapy )
 

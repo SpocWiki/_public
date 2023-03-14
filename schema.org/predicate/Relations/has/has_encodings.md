@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: encoding
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_encodings
 ---
 
+[ superseded_by :: has_encoding ]
+
 Use it like this: 
-- [ #has/_encodings :: MediaObject ] or 
-- [ has_encodings :: MediaObject ] 
+- [ #has/_encoding :: MediaObject ] or 
+- [ has_encoding :: MediaObject ] 
 
 A media object that encodes this CreativeWork.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_encodings )
+( #has_/name :: has_encodings )
 ( #has_/range :: MediaObject )
 

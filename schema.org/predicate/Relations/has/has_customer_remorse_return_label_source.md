@@ -39,6 +39,6 @@ The method (from an enumeration) by which the customer obtains a return shipping
 
 Relation describes that: 
 [ #has_/domain  :: MerchantReturnPolicy ]
-( #has_/name :: is_customer_remorse_return_label_source )
+( #has_/name :: has_customer_remorse_return_label_source )
 ( #has_/range :: ReturnLabelSourceEnumeration )
 

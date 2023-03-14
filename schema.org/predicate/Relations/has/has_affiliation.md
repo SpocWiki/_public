@@ -37,7 +37,7 @@ An organization that this person is affiliated with. For example, a school/unive
 
 Relation describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_affiliation )
+( #has_/name :: has_affiliation )
 ( #has_/range :: Organization )
 
 [ #is_/sub_property_of  :: memberOf ]

@@ -39,6 +39,6 @@ A course or class that is one of the learning opportunities that constitute an e
 
 Relation describes that: 
 [ #has_/domain  :: EducationalOccupationalProgram ]
-( #has_/name :: is_course )
+( #has_/name :: has_course )
 ( #has_/range :: Course )
 

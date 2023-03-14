@@ -37,6 +37,6 @@ Classification of the album by its type of content: soundtrack, live album, stud
 
 Relation describes that: 
 [ #has_/domain  :: MusicAlbum ]
-( #has_/name :: is_album_production_type )
+( #has_/name :: has_album_production_type )
 ( #has_/range :: MusicAlbumProductionType )
 

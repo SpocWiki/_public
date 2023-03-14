@@ -37,6 +37,6 @@ The drive wheel configuration, i.e. which roadwheels will receive torque from th
 
 Relation describes that: 
 [ #has_/domain  :: Vehicle ]
-( #has_/name :: is_drive_wheel_configuration )
+( #has_/name :: has_drive_wheel_configuration )
 ( #has_/range :: DriveWheelConfigurationValue, Text )
 

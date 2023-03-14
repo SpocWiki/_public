@@ -37,6 +37,6 @@ The date and place the work was first performed.
 
 Relation describes that: 
 [ #has_/domain  :: MusicComposition ]
-( #has_/name :: is_first_performance )
+( #has_/name :: has_first_performance )
 ( #has_/range :: Event )
 

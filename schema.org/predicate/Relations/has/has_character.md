@@ -37,6 +37,6 @@ Fictional person connected with a creative work.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_character )
+( #has_/name :: has_character )
 ( #has_/range :: Person )
 

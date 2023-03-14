@@ -39,6 +39,6 @@ Contact details for further information relevant to this job posting.
 
 Relation describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_application_contact )
+( #has_/name :: has_application_contact )
 ( #has_/range :: ContactPoint )
 

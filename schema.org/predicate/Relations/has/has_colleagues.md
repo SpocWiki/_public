@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -31,14 +31,16 @@ aliases:
 - has_colleagues
 ---
 
+[ superseded_by: [[colleague]] ]
+
 Use it like this: 
-- [ #has/_colleagues :: Person ] or 
-- [ has_colleagues :: Person ] 
+- [ #has/_colleague :: Person ] or 
+- [ has_colleague :: Person ] 
 
 A colleague of the person.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_colleagues )
+( #has_/name :: has_colleagues )
 ( #has_/range :: Person )
 

@@ -37,6 +37,6 @@ The business function (e.g. sell, lease, repair, dispose) of the offer or compon
 
 Relation describes that: 
 [ #has_/domain  :: Demand, Offer, TypeAndQuantityNode ]
-( #has_/name :: is_business_function )
+( #has_/name :: has_business_function )
 ( #has_/range :: BusinessFunction )
 

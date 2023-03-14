@@ -37,6 +37,6 @@ Method used for delivery or shipping.
 
 Relation describes that: 
 [ #has_/domain  :: DeliveryEvent, ParcelDelivery ]
-( #has_/name :: is_delivery_method )
+( #has_/name :: has_delivery_method )
 ( #has_/range :: DeliveryMethod )
 

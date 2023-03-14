@@ -39,6 +39,6 @@ Indicates a correction to a &lt;a class="localLink" href="/CreativeWork"&gt;Crea
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_correction )
+( #has_/name :: has_correction )
 ( #has_/range :: CorrectionComment, Text, URL )
 

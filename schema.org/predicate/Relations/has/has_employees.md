@@ -39,6 +39,6 @@ People working for this organization.
 
 Relation describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: is_employees )
+( #has_/name :: has_employees )
 ( #has_/range :: Person )
 

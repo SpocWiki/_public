@@ -32,13 +32,13 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_action_application :: SoftwareApplication ] or 
-- [ has_action_application :: SoftwareApplication ] 
+- [ #has/_action_application :: [[Software_Application]] ] or 
+- [ has_action_application :: [[Software_Application]] ] 
 
 An application that can complete the request.
 
 Relation describes that: 
-[ #has_/domain  :: EntryPoint ]
-( #has_/name :: is_action_application )
-( #has_/range :: SoftwareApplication )
+[ #has_/domain  :: [[../../../Type/is_a_thing/intangible/entry_point]] ]
+( #has_/name :: has_action_application )
+( #has_/range :: [[Software_Application]] )
 

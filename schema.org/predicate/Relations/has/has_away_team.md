@@ -33,11 +33,11 @@ Use it like this:
 - [ #has/_away_team :: Person, SportsTeam ] or 
 - [ has_away_team :: Person, SportsTeam ] 
 
-The away team in a sports event.
+The 'away' team in a sports event.
 
 Relation describes that: 
 [ #has_/domain  :: SportsEvent ]
-( #has_/name :: is_away_team )
+( #has_/name :: has_away_team )
 ( #has_/range :: Person, SportsTeam )
 
 [ #is_/sub_property_of  :: competitor ]

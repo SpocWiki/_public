@@ -41,6 +41,6 @@ In the case of products, the country of origin of the product. The exact interpr
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, Movie, Product, TVEpisode, TVSeason, TVSeries ]
-( #has_/name :: is_country_of_origin )
+( #has_/name :: has_country_of_origin )
 ( #has_/range :: Country )
 

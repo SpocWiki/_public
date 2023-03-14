@@ -37,6 +37,6 @@ A CSS selector, e.g. of a &lt;a class="localLink" href="/SpeakableSpecification"
 
 Relation describes that: 
 [ #has_/domain  :: SpeakableSpecification, WebPageElement ]
-( #has_/name :: is_css_selector )
+( #has_/name :: has_css_selector )
 ( #has_/range :: CssSelectorType )
 

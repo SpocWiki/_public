@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: attendee
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,17 @@ aliases:
 - has_attendees
 ---
 
+[ superseded_by :: attendee ]
+
+
 Use it like this: 
-- [ #has/_attendees :: Organization, Person ] or 
-- [ has_attendees :: Organization, Person ] 
+- [ #has/_attendee :: Organization, Person ] or 
+- [ has_attendee :: Organization, Person ] 
 
 A person attending the event.
 
 Relation describes that: 
 [ #has_/domain  :: Event ]
-( #has_/name :: is_attendees )
+( #has_/name :: has_attendees )
 ( #has_/range :: Organization, Person )
 

@@ -37,6 +37,6 @@ Strength of evidence of the data used to formulate the guideline (enumerated).
 
 Relation describes that: 
 [ #has_/domain  :: MedicalGuideline ]
-( #has_/name :: is_evidence_level )
+( #has_/name :: has_evidence_level )
 ( #has_/range :: MedicalEvidenceLevel )
 

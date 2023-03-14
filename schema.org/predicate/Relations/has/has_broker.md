@@ -39,6 +39,6 @@ An entity that arranges for an exchange between a buyer and a seller.  In most c
 
 Relation describes that: 
 [ #has_/domain  :: Invoice, Order, Reservation, Service ]
-( #has_/name :: is_broker )
+( #has_/name :: has_broker )
 ( #has_/range :: Organization, Person )
 

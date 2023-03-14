@@ -39,6 +39,6 @@ A posting that is part of this blog.
 
 Relation describes that: 
 [ #has_/domain  :: Blog ]
-( #has_/name :: is_blog_post )
+( #has_/name :: has_blog_post )
 ( #has_/range :: BlogPosting )
 

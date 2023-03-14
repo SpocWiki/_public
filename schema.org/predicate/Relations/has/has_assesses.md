@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_assesses
+title: is_assessing
 
-linkTitle: has_assesses
+linkTitle: is_assessing
 keywords: [assesses]
 layout: 
 draft: false
@@ -26,19 +26,20 @@ aliases:
 - assesses
 - assesses
 - assesses
-- has_assesses
+- is_assessing
 ---
 
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
 - [ #has/_assesses :: DefinedTerm, Text ] or 
-- [ has_assesses :: DefinedTerm, Text ] 
+- [ is_assessing :: DefinedTerm, Text ] 
 
-The item being described is intended to assess the competency or learning outcome defined by the referenced term.
+The item being described is intended to assess the competency or learning outcome
+defined by the referenced term.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, EducationEvent, LearningResource ]
-( #has_/name :: is_assesses )
-( #has_/range :: DefinedTerm, Text )
+( #has_/name :: is_assessing )
+( #has_/range :: [[../../../Type/is_a_thing/intangible/defined_term]]], [[Text]] )
 

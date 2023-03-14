@@ -37,7 +37,7 @@ A broadcast channel of a broadcast service.
 
 Relation describes that: 
 [ #has_/domain  :: BroadcastService ]
-( #has_/name :: is_broadcast_channel )
+( #has_/name :: has_broadcast_channel )
 ( #has_/range :: BroadcastChannel )
 
 [ #is_/inverse_of  :: providesBroadcastService ]

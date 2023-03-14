@@ -40,5 +40,5 @@ Relation describes that:
 ( #has_/name :: is_encoding_creative_work)
 ( #has_/range :: CreativeWork)
 
-[ #is_/inverse_of  :: encoding]
+[ #is_/inverse_of  :: [[../has/has_encoding]] ]
 

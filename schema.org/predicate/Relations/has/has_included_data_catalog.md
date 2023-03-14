@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: includedInDataCatalog
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,9 +29,11 @@ aliases:
 - has_included_data_catalog
 ---
 
+[ superseded_by :: [[is_included_in_data_catalog]]] ]
+
 Use it like this: 
-- [ #has/_included_data_catalog :: DataCatalog ] or 
-- [ has_included_data_catalog :: DataCatalog ] 
+- [ #is/_included_in_data_catalog :: DataCatalog ] or 
+- [ is_included_in_data_catalog :: DataCatalog ] 
 
 A data catalog which contains this dataset (this property was previously 'catalog', preferred name is now 'includedInDataCatalog').
 

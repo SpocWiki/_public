@@ -39,7 +39,7 @@ A Defined Term contained in this term set.
 
 Relation describes that: 
 [ #has_/domain  :: DefinedTermSet, Taxon ]
-( #has_/name :: is_defined_term )
+( #has_/name :: has_defined_term )
 ( #has_/range :: DefinedTerm )
 
 [ #has_/sub_properties :: [ hasCategoryCode ] ]

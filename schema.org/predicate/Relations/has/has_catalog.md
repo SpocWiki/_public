@@ -39,6 +39,6 @@ A data catalog which contains this dataset.
 
 Relation describes that: 
 [ #has_/domain  :: Dataset ]
-( #has_/name :: is_catalog )
+( #has_/name :: has_catalog )
 ( #has_/range :: DataCatalog )
 

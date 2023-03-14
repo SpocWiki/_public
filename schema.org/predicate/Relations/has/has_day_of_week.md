@@ -37,6 +37,6 @@ The day of the week for which these opening hours are valid.
 
 Relation describes that: 
 [ #has_/domain  :: EducationalOccupationalProgram, OpeningHoursSpecification ]
-( #has_/name :: is_day_of_week )
+( #has_/name :: has_day_of_week )
 ( #has_/range :: DayOfWeek )
 

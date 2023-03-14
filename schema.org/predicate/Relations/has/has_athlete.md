@@ -37,6 +37,6 @@ A person that acts as performing member of a sports team; a player as opposed to
 
 Relation describes that: 
 [ #has_/domain  :: SportsTeam ]
-( #has_/name :: is_athlete )
+( #has_/name :: has_athlete )
 ( #has_/range :: Person )
 

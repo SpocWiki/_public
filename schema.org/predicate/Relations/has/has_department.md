@@ -37,6 +37,6 @@ A relationship between an organization and a department of that organization, al
 
 Relation describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: is_department )
+( #has_/name :: has_department )
 ( #has_/range :: Organization )
 

@@ -39,6 +39,6 @@ The end time of the clip expressed as the number of seconds from the beginning o
 
 Relation describes that: 
 [ #has_/domain  :: Clip ]
-( #has_/name :: is_end_offset )
+( #has_/name :: has_end_offset )
 ( #has_/range :: HyperTocEntry, Number )
 

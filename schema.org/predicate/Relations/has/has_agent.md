@@ -37,6 +37,6 @@ The direct performer or driver of the action (animate or inanimate). E.g. &lt;em
 
 Relation describes that: 
 [ #has_/domain  :: Action ]
-( #has_/name :: is_agent )
+( #has_/name :: has_agent )
 ( #has_/range :: Organization, Person )
 

@@ -37,6 +37,6 @@ The high level platform(s) where the Action can be performed for the given URL. 
 
 Relation describes that: 
 [ #has_/domain  :: EntryPoint ]
-( #has_/name :: is_action_platform )
+( #has_/name :: has_action_platform )
 ( #has_/range :: DigitalPlatformEnumeration, Text, URL )
 

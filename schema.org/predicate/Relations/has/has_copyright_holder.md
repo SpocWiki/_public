@@ -37,6 +37,6 @@ The party holding the legal copyright to the CreativeWork.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_copyright_holder )
+( #has_/name :: has_copyright_holder )
 ( #has_/range :: Organization, Person )
 

@@ -37,6 +37,6 @@ A diagnostic test or procedure offered by this lab.
 
 Relation describes that: 
 [ #has_/domain  :: DiagnosticLab ]
-( #has_/name :: is_available_test )
+( #has_/name :: has_available_test )
 ( #has_/range :: MedicalTest )
 

@@ -37,6 +37,6 @@ The type of boarding policy used by the airline (e.g. zone-based or group-based)
 
 Relation describes that: 
 [ #has_/domain  :: Airline, Flight ]
-( #has_/name :: is_boarding_policy )
+( #has_/name :: has_boarding_policy )
 ( #has_/range :: BoardingPolicyType )
 

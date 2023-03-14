@@ -37,6 +37,6 @@ The kind of aircraft (e.g., "Boeing 747").
 
 Relation describes that: 
 [ #has_/domain  :: Flight ]
-( #has_/name :: is_aircraft )
+( #has_/name :: has_aircraft )
 ( #has_/range :: Text, Vehicle )
 

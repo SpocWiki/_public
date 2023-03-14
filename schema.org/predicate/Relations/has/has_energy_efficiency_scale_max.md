@@ -39,6 +39,6 @@ Specifies the most energy efficient class on the regulated EU energy consumption
 
 Relation describes that: 
 [ #has_/domain  :: EnergyConsumptionDetails ]
-( #has_/name :: is_energy_efficiency_scale_max )
+( #has_/name :: has_energy_efficiency_scale_max )
 ( #has_/range :: EUEnergyEfficiencyEnumeration )
 

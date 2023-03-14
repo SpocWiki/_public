@@ -39,6 +39,6 @@ Statement on diversity policy by an &lt;a class="localLink" href="/Organization"
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]
-( #has_/name :: is_diversity_policy )
+( #has_/name :: has_diversity_policy )
 ( #has_/range :: CreativeWork, URL )
 

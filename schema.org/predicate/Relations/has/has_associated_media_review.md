@@ -39,7 +39,7 @@ An associated &lt;a class="localLink" href="/MediaReview"&gt;MediaReview&lt;/a&g
 
 Relation describes that: 
 [ #has_/domain  :: Review ]
-( #has_/name :: is_associated_media_review )
+( #has_/name :: has_associated_media_review )
 ( #has_/range :: Review )
 
 [ #is_/sub_property_of  :: associatedReview ]

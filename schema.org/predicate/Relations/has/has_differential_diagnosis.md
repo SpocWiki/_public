@@ -37,6 +37,6 @@ One of a set of differential diagnoses for the condition. Specifically, a closel
 
 Relation describes that: 
 [ #has_/domain  :: MedicalCondition ]
-( #has_/name :: is_differential_diagnosis )
+( #has_/name :: has_differential_diagnosis )
 ( #has_/range :: DDxElement )
 

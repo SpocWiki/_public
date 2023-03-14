@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: blogPost
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_blog_posts
 ---
 
+[ superseded_by :: blogPost]
+
 Use it like this: 
-- [ #has/_blog_posts :: BlogPosting ] or 
-- [ has_blog_posts :: BlogPosting ] 
+- [ #has/_blog_post :: BlogPosting ] or 
+- [ has_blog_post :: BlogPosting ] 
 
 Indicates a post that is part of a &lt;a class="localLink" href="/Blog"&gt;Blog&lt;/a&gt;. Note that historically, what we term a "Blog" was once known as a "weblog", and that what we term a "BlogPosting" is now often colloquially referred to as a "blog".
 
 Relation describes that: 
 [ #has_/domain  :: Blog ]
-( #has_/name :: is_blog_posts )
+( #has_/name :: has_blog_posts )
 ( #has_/range :: BlogPosting )
 

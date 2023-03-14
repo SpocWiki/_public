@@ -39,7 +39,7 @@ An actor, e.g. in TV, radio, movie, video games etc., or in an event. Actors can
 
 Relation describes that: 
 [ #has_/domain  :: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, PodcastSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject ]
-( #has_/name :: is_actor )
+( #has_/name :: has_actor )
 ( #has_/range :: Person )
 
 [ #has_/sub_properties :: [ readBy ] ]

@@ -37,7 +37,7 @@ The creator/author of this CreativeWork. This is the same as the Author property
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, UserComments ]
-( #has_/name :: is_creator )
+( #has_/name :: has_creator )
 ( #has_/range :: Organization, Person )
 
 [ #has_/sub_properties :: [ legislationPassedBy ] ]

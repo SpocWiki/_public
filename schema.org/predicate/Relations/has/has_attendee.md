@@ -39,6 +39,6 @@ A person or organization attending the event.
 
 Relation describes that: 
 [ #has_/domain  :: Event ]
-( #has_/name :: is_attendee )
+( #has_/name :: has_attendee )
 ( #has_/range :: Organization, Person )
 

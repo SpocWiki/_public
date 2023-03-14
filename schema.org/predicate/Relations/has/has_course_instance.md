@@ -37,6 +37,6 @@ An offering of the course at a specific time and place or through specific media
 
 Relation describes that: 
 [ #has_/domain  :: Course ]
-( #has_/name :: is_course_instance )
+( #has_/name :: has_course_instance )
 ( #has_/range :: CourseInstance )
 

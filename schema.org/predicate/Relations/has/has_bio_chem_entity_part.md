@@ -39,8 +39,8 @@ Indicates a BioChemEntity that (in some sense) has this BioChemEntity as a part.
 
 Relation describes that: 
 [ #has_/domain  :: BioChemEntity ]
-( #has_/name :: is_bio_chem_entity_part )
+( #has_/name :: has_bio_chem_entity_part )
 ( #has_/range :: BioChemEntity )
 
-[ #is_/inverse_of  :: isPartOfBioChemEntity ]
+[ #is_/inverse_of  :: [[../is/is_part_of_bio_chem_entity]] ]
 

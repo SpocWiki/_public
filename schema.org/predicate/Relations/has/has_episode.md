@@ -39,7 +39,7 @@ An episode of a TV, radio or game media within a series or season.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWorkSeason, RadioSeries, TVSeries, VideoGameSeries ]
-( #has_/name :: is_episode )
+( #has_/name :: has_episode )
 ( #has_/range :: Episode )
 
 [ #is_/sub_property_of  :: hasPart ]

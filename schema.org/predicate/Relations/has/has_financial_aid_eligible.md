@@ -39,6 +39,6 @@ A financial aid type or program which students may use to pay for tuition or fee
 
 Relation describes that: 
 [ #has_/domain  :: EducationalOccupationalProgram ]
-( #has_/name :: is_financial_aid_eligible )
+( #has_/name :: has_financial_aid_eligible )
 ( #has_/range :: DefinedTerm, Text )
 

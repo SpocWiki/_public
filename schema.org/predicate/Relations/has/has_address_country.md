@@ -37,6 +37,6 @@ The country. For example, USA. You can also provide the two-letter &lt;a href="h
 
 Relation describes that: 
 [ #has_/domain  :: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress ]
-( #has_/name :: is_address_country )
+( #has_/name :: has_address_country )
 ( #has_/range :: Country, Text )
 

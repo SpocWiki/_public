@@ -39,6 +39,6 @@ Educational background needed for the position or Occupation.
 
 Relation describes that: 
 [ #has_/domain  :: JobPosting, Occupation ]
-( #has_/name :: is_education_requirements )
+( #has_/name :: has_education_requirements )
 ( #has_/range :: EducationalOccupationalCredential, Text )
 

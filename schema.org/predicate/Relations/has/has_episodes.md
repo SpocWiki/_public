@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: episode
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_episodes
 ---
 
+[ superseded_by :: episode ]
+
 Use it like this: 
-- [ #has/_episodes :: Episode ] or 
-- [ has_episodes :: Episode ] 
+- [ #has/_episode :: Episode ] or 
+- [ has_episode :: Episode ] 
 
 An episode of a TV/radio series or season.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWorkSeason, RadioSeries, TVSeries, VideoGameSeries ]
-( #has_/name :: is_episodes )
+( #has_/name :: has_episodes )
 ( #has_/range :: Episode )
 

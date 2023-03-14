@@ -37,6 +37,6 @@ New entry added as the package passes through each leg of its journey (from ship
 
 Relation describes that: 
 [ #has_/domain  :: ParcelDelivery ]
-( #has_/name :: is_delivery_status )
+( #has_/name :: has_delivery_status )
 ( #has_/range :: DeliveryEvent )
 

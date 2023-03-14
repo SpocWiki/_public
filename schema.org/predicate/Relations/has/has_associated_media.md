@@ -37,6 +37,6 @@ A media object that encodes this CreativeWork. This property is a synonym for en
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, HyperToc, HyperTocEntry ]
-( #has_/name :: is_associated_media )
+( #has_/name :: has_associated_media )
 ( #has_/range :: MediaObject )
 

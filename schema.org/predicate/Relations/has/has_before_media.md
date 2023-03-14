@@ -37,6 +37,6 @@ A media object representing the circumstances before performing this direction.
 
 Relation describes that: 
 [ #has_/domain  :: HowToDirection ]
-( #has_/name :: is_before_media )
+( #has_/name :: has_before_media )
 ( #has_/range :: MediaObject, URL )
 

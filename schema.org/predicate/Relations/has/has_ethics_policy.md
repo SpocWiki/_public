@@ -39,6 +39,6 @@ Statement about ethics policy, e.g. of a &lt;a class="localLink" href="/NewsMedi
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]
-( #has_/name :: is_ethics_policy )
+( #has_/name :: has_ethics_policy )
 ( #has_/range :: CreativeWork, URL )
 

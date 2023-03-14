@@ -37,6 +37,6 @@ An additional offer that can only be obtained in combination with the first base
 
 Relation describes that: 
 [ #has_/domain  :: Offer ]
-( #has_/name :: is_add_on )
+( #has_/name :: has_add_on )
 ( #has_/range :: Offer )
 

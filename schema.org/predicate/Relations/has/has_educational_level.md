@@ -39,6 +39,6 @@ The level in terms of progression through an educational or training context. Ex
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, EducationEvent, EducationalOccupationalCredential, LearningResource ]
-( #has_/name :: is_educational_level )
+( #has_/name :: has_educational_level )
 ( #has_/range :: DefinedTerm, Text, URL )
 

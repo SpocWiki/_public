@@ -37,6 +37,6 @@ An amenity feature (e.g. a characteristic or service) of the Accommodation. This
 
 Relation describes that: 
 [ #has_/domain  :: Accommodation, FloorPlan, LodgingBusiness, Place ]
-( #has_/name :: is_amenity_feature )
+( #has_/name :: has_amenity_feature )
 ( #has_/range :: LocationFeatureSpecification )
 

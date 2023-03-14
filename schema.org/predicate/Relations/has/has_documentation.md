@@ -39,6 +39,6 @@ Further documentation describing the Web API in more detail.
 
 Relation describes that: 
 [ #has_/domain  :: WebAPI ]
-( #has_/name :: is_documentation )
+( #has_/name :: has_documentation )
 ( #has_/range :: CreativeWork, URL )
 

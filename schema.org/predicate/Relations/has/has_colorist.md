@@ -39,6 +39,6 @@ The individual who adds color to inked drawings.
 
 Relation describes that: 
 [ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
-( #has_/name :: is_colorist )
+( #has_/name :: has_colorist )
 ( #has_/range :: Person )
 

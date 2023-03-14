@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: album
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_albums
 ---
 
+[ superseded_by :: [[has_album]] ]
+
 Use it like this: 
-- [ #has/_albums :: MusicAlbum ] or 
-- [ has_albums :: MusicAlbum ] 
+- [ #has/_album :: [[Music_Album]] ] or 
+- [ has_album :: [[Music_Album]] ] 
 
 A collection of music albums.
 
 Relation describes that: 
-[ #has_/domain  :: MusicGroup ]
-( #has_/name :: is_albums )
-( #has_/range :: MusicAlbum )
+[ #has_/domain  :: [[Music_Group]] ]
+( #has_/name :: has_albums )
+( #has_/range :: [[Music_Album]] )
 

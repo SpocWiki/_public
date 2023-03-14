@@ -40,5 +40,5 @@ Relation describes that:
 ( #has_/name :: is_accepted_answer )
 ( #has_/range :: Answer, ItemList )
 
-[ #is_/sub_property_of  :: suggestedAnswer ]
+[ #is_/sub_property_of  :: [[has_suggested_answer]] ]
 

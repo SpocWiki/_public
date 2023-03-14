@@ -39,8 +39,8 @@ Collection, &lt;a href="https://en.wikipedia.org/wiki/Fonds"&gt;fonds&lt;/a&gt;,
 
 Relation describes that: 
 [ #has_/domain  :: ArchiveOrganization ]
-( #has_/name :: is_archive_held )
+( #has_/name :: has_archive_held )
 ( #has_/range :: ArchiveComponent )
 
-[ #is_/inverse_of  :: holdingArchive ]
+[ #is_/inverse_of  :: [[../is/is_holding_archive]] ]
 

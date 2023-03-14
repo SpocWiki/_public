@@ -39,7 +39,7 @@ Indicates a page documenting how licenses can be purchased or otherwise acquired
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_acquire_license_page )
+( #has_/name :: has_acquire_license_page )
 ( #has_/range :: CreativeWork, URL )
 
 [ #is_/sub_property_of  :: usageInfo ]

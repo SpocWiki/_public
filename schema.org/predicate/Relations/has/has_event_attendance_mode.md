@@ -39,6 +39,6 @@ The eventAttendanceMode of an event indicates whether it occurs online, offline,
 
 Relation describes that: 
 [ #has_/domain  :: Event ]
-( #has_/name :: is_event_attendance_mode )
+( #has_/name :: has_event_attendance_mode )
 ( #has_/range :: EventAttendanceModeEnumeration )
 

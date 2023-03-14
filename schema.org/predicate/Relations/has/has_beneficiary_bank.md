@@ -39,6 +39,6 @@ A bank or bank�s branch, financial institution or international financial inst
 
 Relation describes that: 
 [ #has_/domain  :: MoneyTransfer ]
-( #has_/name :: is_beneficiary_bank )
+( #has_/name :: has_beneficiary_bank )
 ( #has_/range :: BankOrCreditUnion, Text )
 

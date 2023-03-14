@@ -39,6 +39,6 @@ The total delay between the receipt of the order and the goods reaching the fina
 
 Relation describes that: 
 [ #has_/domain  :: DeliveryTimeSettings, OfferShippingDetails ]
-( #has_/name :: is_delivery_time )
+( #has_/name :: has_delivery_time )
 ( #has_/range :: ShippingDeliveryTime )
 

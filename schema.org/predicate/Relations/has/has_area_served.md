@@ -40,7 +40,7 @@ The geographic area where a service or offered item is provided.
 
 Relation describes that: 
 [ #has_/domain  :: ContactPoint, DeliveryChargeSpecification, Demand, Offer, Organization, Service ]
-( #has_/name :: is_area_served )
+( #has_/name :: has_area_served )
 ( #has_/range :: AdministrativeArea, GeoShape, Place, Text )
 
 [ #has_/sub_properties :: [ availableAtOrFrom, eligibleRegion ] ]

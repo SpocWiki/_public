@@ -39,6 +39,6 @@ Indicates the department, unit and/or facility where the employee reports and/or
 
 Relation describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_employment_unit )
+( #has_/name :: has_employment_unit )
 ( #has_/range :: Organization )
 

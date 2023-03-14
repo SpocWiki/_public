@@ -39,6 +39,6 @@ A role played by the BioChemEntity within a biological context.
 
 Relation describes that: 
 [ #has_/domain  :: BioChemEntity ]
-( #has_/name :: is_biological_role )
+( #has_/name :: has_biological_role )
 ( #has_/range :: DefinedTerm )
 

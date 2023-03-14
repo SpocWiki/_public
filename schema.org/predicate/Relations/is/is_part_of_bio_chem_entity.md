@@ -32,15 +32,15 @@ aliases:
 [ #is_/part_of :: pending:]
 
 Use it like this: 
-- [ #is/_part_of_bio_chem_entity :: BioChemEntity] or 
-- [ is_part_of_bio_chem_entity :: BioChemEntity] 
+- [ #is/_part_of_bio_chem_entity :: [[bio_chem_entity]] ] or 
+- [ is_part_of_bio_chem_entity :: [[../../../Type/is_a_thing/bio_chem_entity]]] 
 
 Indicates a BioChemEntity that is (in some sense) a part of this BioChemEntity.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity]
+[ #has_/domain  :: [[bio_chem_entity]] ]
 ( #has_/name :: is_part_of_bio_chem_entity)
-( #has_/range :: BioChemEntity)
+( #has_/range :: [[bio_chem_entity]] )
 
-[ #is_/inverse_of  :: hasBioChemEntityPart]
+[ #is_/inverse_of  :: [[../has/has_bio_chem_entity_part]]]
 

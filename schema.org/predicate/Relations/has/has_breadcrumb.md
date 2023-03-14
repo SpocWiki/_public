@@ -37,6 +37,6 @@ A set of links that can help a user understand and navigate a website hierarchy.
 
 Relation describes that: 
 [ #has_/domain  :: WebPage ]
-( #has_/name :: is_breadcrumb )
+( #has_/name :: has_breadcrumb )
 ( #has_/range :: BreadcrumbList, Text )
 

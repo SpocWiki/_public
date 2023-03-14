@@ -37,6 +37,6 @@ The offer(s) -- e.g., product, quantity and price combinations -- included in th
 
 Relation describes that: 
 [ #has_/domain  :: Order ]
-( #has_/name :: is_accepted_offer )
+( #has_/name :: has_accepted_offer )
 ( #has_/range :: Offer )
 

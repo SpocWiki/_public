@@ -37,6 +37,6 @@ Description of skills and experience needed for the position or Occupation.
 
 Relation describes that: 
 [ #has_/domain  :: JobPosting, Occupation ]
-( #has_/name :: is_experience_requirements )
+( #has_/name :: has_experience_requirements )
 ( #has_/range :: OccupationalExperienceRequirements, Text )
 

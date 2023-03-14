@@ -37,7 +37,7 @@ A category for the item. Greater signs or slashes can be used to informally indi
 
 Relation describes that: 
 [ #has_/domain  :: ActionAccessSpecification, Invoice, Offer, PhysicalActivity, Product, Recommendation, Service, SpecialAnnouncement ]
-( #has_/name :: is_category )
+( #has_/name :: has_category )
 ( #has_/range :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL )
 
 [ #has_/sub_properties :: [ accommodationCategory ] ]

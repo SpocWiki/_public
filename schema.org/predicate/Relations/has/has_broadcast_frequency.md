@@ -37,6 +37,6 @@ The frequency used for over-the-air broadcasts. Numeric values or simple ranges,
 
 Relation describes that: 
 [ #has_/domain  :: BroadcastChannel, BroadcastService ]
-( #has_/name :: is_broadcast_frequency )
+( #has_/name :: has_broadcast_frequency )
 ( #has_/range :: BroadcastFrequencySpecification, Text )
 

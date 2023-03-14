@@ -39,6 +39,6 @@ A role played by the BioChemEntity within a chemical context.
 
 Relation describes that: 
 [ #has_/domain  :: ChemicalSubstance, MolecularEntity ]
-( #has_/name :: is_chemical_role )
+( #has_/name :: has_chemical_role )
 ( #has_/range :: DefinedTerm )
 

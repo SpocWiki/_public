@@ -39,6 +39,6 @@ Order cutoff time allows merchants to describe the time after which they will no
 
 Relation describes that: 
 [ #has_/domain  :: ShippingDeliveryTime ]
-( #has_/name :: is_cutoff_time )
+( #has_/name :: has_cutoff_time )
 ( #has_/range :: Time )
 

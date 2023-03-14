@@ -38,6 +38,6 @@ The type of bed or beds included in the accommodation. For the single case of ju
 
 Relation describes that: 
 [ #has_/domain  :: HotelRoom, Suite ]
-( #has_/name :: is_bed )
+( #has_/name :: has_bed )
 ( #has_/range :: BedDetails, BedType, Text )
 

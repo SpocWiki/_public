@@ -37,6 +37,6 @@ An option available on this contact point (e.g. a toll-free number or support fo
 
 Relation describes that: 
 [ #has_/domain  :: ContactPoint ]
-( #has_/name :: is_contact_option )
+( #has_/name :: has_contact_option )
 ( #has_/range :: ContactPointOption )
 

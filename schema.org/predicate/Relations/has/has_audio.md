@@ -37,6 +37,6 @@ An embedded audio object.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_audio )
+( #has_/name :: has_audio )
 ( #has_/range :: AudioObject, Clip, MusicRecording )
 

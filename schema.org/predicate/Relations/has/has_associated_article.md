@@ -37,6 +37,6 @@ A NewsArticle associated with the Media Object.
 
 Relation describes that: 
 [ #has_/domain  :: MediaObject ]
-( #has_/name :: is_associated_article )
+( #has_/name :: has_associated_article )
 ( #has_/range :: NewsArticle )
 

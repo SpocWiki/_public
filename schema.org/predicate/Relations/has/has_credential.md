@@ -39,6 +39,6 @@ A credential awarded to the Person or Organization.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_credential )
+( #has_/name :: has_credential )
 ( #has_/range :: EducationalOccupationalCredential )
 

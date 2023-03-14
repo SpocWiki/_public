@@ -18,5 +18,5 @@ aliases:
 # Type Overview
 
 Types are classes of  Entities/Objects with Identity and defined Properties. 
-Types can be used to unify the Representation of Entities. 
+Types can be used to represent Sets of similar/substitutable Entities. 
 

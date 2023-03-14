@@ -37,6 +37,6 @@ For failed actions, more information on the cause of the failure.
 
 Relation describes that: 
 [ #has_/domain  :: Action ]
-( #has_/name :: is_error )
+( #has_/name :: has_error )
 ( #has_/range :: Thing )
 

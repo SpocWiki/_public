@@ -40,6 +40,6 @@ For a &lt;a class="localLink" href="/Claim"&gt;Claim&lt;/a&gt; interpreted from 
 
 Relation describes that: 
 [ #has_/domain  :: Claim ]
-( #has_/name :: is_claim_interpreter )
+( #has_/name :: has_claim_interpreter )
 ( #has_/range :: Organization, Person )
 

@@ -37,6 +37,6 @@ A permission related to the access to this document (e.g. permission to read or 
 
 Relation describes that: 
 [ #has_/domain  :: DigitalDocument ]
-( #has_/name :: is_digital_document_permission )
+( #has_/name :: has_digital_document_permission )
 ( #has_/range :: DigitalDocumentPermission )
 

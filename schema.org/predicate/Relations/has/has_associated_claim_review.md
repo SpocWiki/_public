@@ -39,7 +39,7 @@ An associated &lt;a class="localLink" href="/ClaimReview"&gt;ClaimReview&lt;/a&g
 
 Relation describes that: 
 [ #has_/domain  :: Review ]
-( #has_/name :: is_associated_claim_review )
+( #has_/name :: has_associated_claim_review )
 ( #has_/range :: Review )
 
 [ #is_/sub_property_of  :: associatedReview ]

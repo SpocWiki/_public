@@ -37,6 +37,6 @@ The transaction volume, in a monetary unit, for which the offer or price specifi
 
 Relation describes that: 
 [ #has_/domain  :: Demand, Offer, PriceSpecification ]
-( #has_/name :: is_eligible_transaction_volume )
+( #has_/name :: has_eligible_transaction_volume )
 ( #has_/range :: PriceSpecification )
 

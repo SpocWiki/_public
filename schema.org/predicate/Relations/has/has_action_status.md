@@ -37,6 +37,6 @@ Indicates the current disposition of the Action.
 
 Relation describes that: 
 [ #has_/domain  :: Action ]
-( #has_/name :: is_action_status )
+( #has_/name :: has_action_status )
 ( #has_/range :: ActionStatusType )
 

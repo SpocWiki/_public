@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: contactPoint
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_contact_points
 ---
 
+[ superseded_by :: contactPoint ]
+
 Use it like this: 
-- [ #has/_contact_points :: ContactPoint ] or 
-- [ has_contact_points :: ContactPoint ] 
+- [ #has/_contact_point :: ContactPoint ] or 
+- [ has_contact_point :: ContactPoint ] 
 
 A contact point for a person or organization.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_contact_points )
+( #has_/name :: has_contact_point )
 ( #has_/range :: ContactPoint )
 

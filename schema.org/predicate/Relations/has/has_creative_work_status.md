@@ -39,6 +39,6 @@ The status of a creative work in terms of its stage in a lifecycle. Example term
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_creative_work_status )
+( #has_/name :: has_creative_work_status )
 ( #has_/range :: DefinedTerm, Text )
 

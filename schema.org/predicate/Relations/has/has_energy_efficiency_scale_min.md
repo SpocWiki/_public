@@ -39,6 +39,6 @@ Specifies the least energy efficient class on the regulated EU energy consumptio
 
 Relation describes that: 
 [ #has_/domain  :: EnergyConsumptionDetails ]
-( #has_/name :: is_energy_efficiency_scale_min )
+( #has_/name :: has_energy_efficiency_scale_min )
 ( #has_/range :: EUEnergyEfficiencyEnumeration )
 

@@ -35,11 +35,14 @@ Use it like this:
 - [ #has/_actionable_feedback_policy :: CreativeWork, URL ] or 
 - [ has_actionable_feedback_policy :: CreativeWork, URL ] 
 
-For a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt; or other news-related &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt;, a statement about public engagement activities (for news media, the newsroom�s), including involving the public - digitally or otherwise -- in coverage decisions, reporting and activities after publication.
+For a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt; or other news-related &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt;;
+A statement about public engagement activities (for news media, the newsroom�s),
+including involving the public - digitally or otherwise -- 
+in coverage decisions, reporting and activities after publication.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]
-( #has_/name :: is_actionable_feedback_policy )
+( #has_/name :: has_actionable_feedback_policy )
 ( #has_/range :: CreativeWork, URL )
 
 [ #is_/sub_property_of  :: publishingPrinciples ]

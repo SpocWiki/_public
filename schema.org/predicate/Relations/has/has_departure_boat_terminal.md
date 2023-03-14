@@ -39,6 +39,6 @@ The terminal or port from which the boat departs.
 
 Relation describes that: 
 [ #has_/domain  :: BoatTrip ]
-( #has_/name :: is_departure_boat_terminal )
+( #has_/name :: has_departure_boat_terminal )
 ( #has_/range :: BoatTerminal )
 

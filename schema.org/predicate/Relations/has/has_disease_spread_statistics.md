@@ -41,6 +41,6 @@ Statistical information about the spread of a disease, either as &lt;a class="lo
 
 Relation describes that: 
 [ #has_/domain  :: SpecialAnnouncement ]
-( #has_/name :: is_disease_spread_statistics )
+( #has_/name :: has_disease_spread_statistics )
 ( #has_/range :: Dataset, Observation, URL, WebContent )
 

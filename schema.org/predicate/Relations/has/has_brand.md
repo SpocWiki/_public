@@ -37,6 +37,6 @@ The brand(s) associated with a product or service, or the brand(s) maintained by
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person, Product, Service ]
-( #has_/name :: is_brand )
+( #has_/name :: has_brand )
 ( #has_/range :: Brand, Organization )
 

@@ -37,7 +37,7 @@ A sub property of participant. The person/organization being supported.
 
 Relation describes that: 
 [ #has_/domain  :: EndorseAction ]
-( #has_/name :: is_endorsee )
+( #has_/name :: has_endorsee )
 ( #has_/range :: Organization, Person )
 
 [ #is_/sub_property_of  :: participant ]

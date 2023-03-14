@@ -39,6 +39,6 @@ The category or type of credential being described, for example "degree�, �c
 
 Relation describes that: 
 [ #has_/domain  :: EducationalOccupationalCredential ]
-( #has_/name :: is_credential_category )
+( #has_/name :: has_credential_category )
 ( #has_/range :: DefinedTerm, Text, URL )
 

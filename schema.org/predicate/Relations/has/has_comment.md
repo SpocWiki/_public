@@ -37,6 +37,6 @@ Comments, typically from users.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, RsvpAction ]
-( #has_/name :: is_comment )
+( #has_/name :: has_comment )
 ( #has_/range :: Comment )
 

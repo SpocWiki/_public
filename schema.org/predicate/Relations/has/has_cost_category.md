@@ -37,6 +37,6 @@ The category of cost, such as wholesale, retail, reimbursement cap, etc.
 
 Relation describes that: 
 [ #has_/domain  :: DrugCost ]
-( #has_/name :: is_cost_category )
+( #has_/name :: has_cost_category )
 ( #has_/range :: DrugCostCategory )
 

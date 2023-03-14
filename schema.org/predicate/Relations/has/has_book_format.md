@@ -37,6 +37,6 @@ The format of the book.
 
 Relation describes that: 
 [ #has_/domain  :: Book ]
-( #has_/name :: is_book_format )
+( #has_/name :: has_book_format )
 ( #has_/range :: BookFormatType )
 

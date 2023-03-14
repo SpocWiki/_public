@@ -37,6 +37,6 @@ The availability of this item&amp;#x2014;for example In stock, Out of stock, Pre
 
 Relation describes that: 
 [ #has_/domain  :: Demand, Offer ]
-( #has_/name :: is_availability )
+( #has_/name :: has_availability )
 ( #has_/range :: ItemAvailability )
 

@@ -39,6 +39,6 @@ Days of the week when the merchant typically operates, indicated via opening hou
 
 Relation describes that: 
 [ #has_/domain  :: ShippingDeliveryTime ]
-( #has_/name :: is_business_days )
+( #has_/name :: has_business_days )
 ( #has_/range :: OpeningHoursSpecification )
 

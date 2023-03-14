@@ -39,6 +39,6 @@ This property should not be used where the nature of the alignment can be descri
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, LearningResource ]
-( #has_/name :: is_educational_alignment )
+( #has_/name :: has_educational_alignment )
 ( #has_/range :: AlignmentObject )
 

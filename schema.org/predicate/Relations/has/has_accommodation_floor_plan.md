@@ -39,6 +39,6 @@ A floorplan of some &lt;a class="localLink" href="/Accommodation"&gt;Accommodati
 
 Relation describes that: 
 [ #has_/domain  :: Accommodation, Residence ]
-( #has_/name :: is_accommodation_floor_plan )
+( #has_/name :: has_accommodation_floor_plan )
 ( #has_/range :: FloorPlan )
 

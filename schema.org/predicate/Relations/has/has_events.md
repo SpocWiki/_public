@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -15,11 +15,9 @@ title: has_events
 linkTitle: has_events
 keywords: [events]
 layout: 
-draft: false
+draft: true
 publishDate:
 expiryDate: 
-
-superseded_by: event
 
 tags:
 - schema.org/Predicate/Relation
@@ -31,14 +29,16 @@ aliases:
 - has_events
 ---
 
+[ superseded_by :: event ]
+
 Use it like this: 
-- [ #has/_events :: Event ] or 
-- [ has_events :: Event ] 
+- [ #has/_event :: Event ] or 
+- [ has_event :: Event ] 
 
 Upcoming or past events associated with this place or organization.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Place ]
-( #has_/name :: is_events )
+( #has_/name :: has_events )
 ( #has_/range :: Event )
 

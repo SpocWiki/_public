@@ -37,6 +37,6 @@ An image containing a diagram that illustrates the structure and/or its componen
 
 Relation describes that: 
 [ #has_/domain  :: AnatomicalStructure ]
-( #has_/name :: is_diagram )
+( #has_/name :: has_diagram )
 ( #has_/range :: ImageObject )
 

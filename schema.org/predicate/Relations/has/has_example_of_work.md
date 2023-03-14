@@ -37,7 +37,7 @@ A creative work that this work is an example/instance/realization/derivation of.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_example_of_work )
+( #has_/name :: has_example_of_work )
 ( #has_/range :: CreativeWork )
 
 [ #is_/inverse_of  :: workExample ]

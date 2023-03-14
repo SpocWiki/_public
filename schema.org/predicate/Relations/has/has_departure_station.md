@@ -37,6 +37,6 @@ The station from which the train departs.
 
 Relation describes that: 
 [ #has_/domain  :: TrainTrip ]
-( #has_/name :: is_departure_station )
+( #has_/name :: has_departure_station )
 ( #has_/range :: TrainStation )
 

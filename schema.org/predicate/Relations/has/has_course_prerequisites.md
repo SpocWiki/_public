@@ -37,6 +37,6 @@ Requirements for taking the Course. May be completion of another &lt;a class="lo
 
 Relation describes that: 
 [ #has_/domain  :: Course ]
-( #has_/name :: is_course_prerequisites )
+( #has_/name :: has_course_prerequisites )
 ( #has_/range :: AlignmentObject, Course, Text )
 

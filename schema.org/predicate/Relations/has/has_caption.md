@@ -37,7 +37,7 @@ The caption for this object. For downloadable machine formats (closed caption, s
 
 Relation describes that: 
 [ #has_/domain  :: AudioObject, ImageObject, VideoObject ]
-( #has_/name :: is_caption )
+( #has_/name :: has_caption )
 ( #has_/range :: MediaObject, Text )
 
 [ #has_/sub_properties :: [ embeddedTextCaption ] ]

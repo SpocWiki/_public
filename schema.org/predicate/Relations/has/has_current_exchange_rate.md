@@ -39,6 +39,6 @@ The current price of a currency.
 
 Relation describes that: 
 [ #has_/domain  :: ExchangeRateSpecification ]
-( #has_/name :: is_current_exchange_rate )
+( #has_/name :: has_current_exchange_rate )
 ( #has_/range :: UnitPriceSpecification )
 

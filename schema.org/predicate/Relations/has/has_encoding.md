@@ -35,12 +35,13 @@ Use it like this:
 - [ #has/_encoding :: MediaObject ] or 
 - [ has_encoding :: MediaObject ] 
 
-A media object that encodes this CreativeWork. This property is a synonym for associatedMedia.
+A media object that encodes this CreativeWork.
+This property is a synonym for associatedMedia.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_encoding )
+( #has_/name :: has_encoding )
 ( #has_/range :: MediaObject )
 
-[ #is_/inverse_of  :: encodesCreativeWork ]
+[ #is_/inverse_of  :: [[../is/is_encoding_creative_work]] ]
 

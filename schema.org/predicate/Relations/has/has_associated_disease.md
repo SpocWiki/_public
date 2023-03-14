@@ -39,6 +39,6 @@ Disease associated to this BioChemEntity. Such disease can be a MedicalCondition
 
 Relation describes that: 
 [ #has_/domain  :: BioChemEntity ]
-( #has_/name :: is_associated_disease )
+( #has_/name :: has_associated_disease )
 ( #has_/range :: MedicalCondition, PropertyValue, URL )
 

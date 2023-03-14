@@ -44,6 +44,6 @@ Associates an &lt;a class="localLink" href="/Event"&gt;Event&lt;/a&gt; with a &l
 
 Relation describes that: 
 [ #has_/domain  :: Event ]
-( #has_/name :: is_event_schedule )
+( #has_/name :: has_event_schedule )
 ( #has_/range :: Schedule )
 

@@ -39,6 +39,6 @@ For an &lt;a class="localLink" href="/Article"&gt;Article&lt;/a&gt;, typically a
 
 Relation describes that: 
 [ #has_/domain  :: Article ]
-( #has_/name :: is_backstory )
+( #has_/name :: has_backstory )
 ( #has_/range :: CreativeWork, Text )
 

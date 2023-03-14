@@ -37,6 +37,6 @@ The anatomy of the underlying organ system or structures associated with this en
 
 Relation describes that: 
 [ #has_/domain  :: MedicalCondition, PhysicalActivity ]
-( #has_/name :: is_associated_anatomy )
+( #has_/name :: has_associated_anatomy )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy )
 

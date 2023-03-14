@@ -39,6 +39,6 @@ Knowledge, skill, ability or personal attribute that must be demonstrated by a p
 
 Relation describes that: 
 [ #has_/domain  :: EducationalOccupationalCredential, LearningResource ]
-( #has_/name :: is_competency_required )
+( #has_/name :: has_competency_required )
 ( #has_/range :: DefinedTerm, Text, URL )
 

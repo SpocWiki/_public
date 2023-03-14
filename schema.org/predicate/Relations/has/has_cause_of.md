@@ -37,6 +37,6 @@ The condition, complication, symptom, sign, etc. caused.
 
 Relation describes that: 
 [ #has_/domain  :: MedicalCause ]
-( #has_/name :: is_cause_of )
+( #has_/name :: has_cause_of )
 ( #has_/range :: MedicalEntity )
 

@@ -37,6 +37,6 @@ The blood vessel that carries blood from the heart to the muscle.
 
 Relation describes that: 
 [ #has_/domain  :: Muscle ]
-( #has_/name :: is_blood_supply )
+( #has_/name :: has_blood_supply )
 ( #has_/range :: Vessel )
 

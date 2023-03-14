@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: actor
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_actors
 ---
 
+[superseded_by :: [[has_actor]] ]
+
 Use it like this: 
-- [ #has/_actors :: Person ] or 
-- [ has_actors :: Person ] 
+- [ #has/_actor :: Person ] or 
+- [ has_actor :: Person ] 
 
 An actor, e.g. in TV, radio, movie, video games etc. Actors can be associated with individual items or with a series, episode, clip.
 
 Relation describes that: 
 [ #has_/domain  :: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject ]
-( #has_/name :: is_actors )
+( #has_/name :: has_actors )
 ( #has_/range :: Person )
 

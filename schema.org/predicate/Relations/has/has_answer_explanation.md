@@ -39,6 +39,6 @@ A step-by-step or full explanation about Answer. Can outline how this Answer was
 
 Relation describes that: 
 [ #has_/domain  :: Answer ]
-( #has_/name :: is_answer_explanation )
+( #has_/name :: has_answer_explanation )
 ( #has_/range :: Comment, WebContent )
 

@@ -37,6 +37,6 @@ The muscle whose action counteracts the specified muscle.
 
 Relation describes that: 
 [ #has_/domain  :: Muscle ]
-( #has_/name :: is_antagonist )
+( #has_/name :: has_antagonist )
 ( #has_/range :: Muscle )
 

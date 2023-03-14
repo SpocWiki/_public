@@ -39,6 +39,6 @@ Defines the energy efficiency Category (also known as "class" or "rating") for a
 
 Relation describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: is_energy_consumption_details )
+( #has_/name :: has_energy_consumption_details )
 ( #has_/range :: EnergyConsumptionDetails )
 

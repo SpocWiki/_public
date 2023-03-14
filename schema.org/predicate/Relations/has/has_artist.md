@@ -32,8 +32,8 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_artist :: Person ] or 
-- [ has_artist :: Person ] 
+- [ #has/_artist :: [[Person]] ] or 
+- [ has_artist :: [[Person]] ] 
 
 The primary artist for a work
         in a medium other than pencils or digital line art--for example, if the
@@ -41,6 +41,6 @@ The primary artist for a work
 
 Relation describes that: 
 [ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
-( #has_/name :: is_artist )
-( #has_/range :: Person )
+( #has_/name :: has_artist )
+( #has_/range :: [[Person]] )
 

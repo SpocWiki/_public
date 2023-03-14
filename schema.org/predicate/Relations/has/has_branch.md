@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: arterialBranch
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,17 @@ aliases:
 - has_branch
 ---
 
+[ superseded_by :: arterialBranch ]
+
 Use it like this: 
 - [ #has/_branch :: AnatomicalStructure ] or 
 - [ has_branch :: AnatomicalStructure ] 
 
-The branches that delineate from the nerve bundle. Not to be confused with &lt;a class="localLink" href="/branchOf"&gt;branchOf&lt;/a&gt;.
+The branches that delineate from the nerve bundle.
+Not to be confused with &lt;a class="localLink" href="/branchOf"&gt;branchOf&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: Nerve ]
-( #has_/name :: is_branch )
+( #has_/name :: has_branch )
 ( #has_/range :: AnatomicalStructure )
 

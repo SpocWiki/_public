@@ -37,6 +37,6 @@ An available dosage strength for the drug.
 
 Relation describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_available_strength )
+( #has_/name :: has_available_strength )
 ( #has_/range :: DrugStrength )
 

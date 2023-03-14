@@ -37,6 +37,6 @@ One or more alternative conditions considered in the differential diagnosis proc
 
 Relation describes that: 
 [ #has_/domain  :: DDxElement, Patient ]
-( #has_/name :: is_diagnosis )
+( #has_/name :: has_diagnosis )
 ( #has_/range :: MedicalCondition )
 

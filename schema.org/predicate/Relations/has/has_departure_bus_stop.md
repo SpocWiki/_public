@@ -37,6 +37,6 @@ The stop or station from which the bus departs.
 
 Relation describes that: 
 [ #has_/domain  :: BusTrip ]
-( #has_/name :: is_departure_bus_stop )
+( #has_/name :: has_departure_bus_stop )
 ( #has_/range :: BusStation, BusStop )
 

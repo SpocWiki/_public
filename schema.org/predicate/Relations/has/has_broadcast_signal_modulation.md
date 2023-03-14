@@ -39,6 +39,6 @@ The modulation (e.g. FM, AM, etc) used by a particular broadcast service.
 
 Relation describes that: 
 [ #has_/domain  :: BroadcastFrequencySpecification ]
-( #has_/name :: is_broadcast_signal_modulation )
+( #has_/name :: has_broadcast_signal_modulation )
 ( #has_/range :: QualitativeValue, Text )
 

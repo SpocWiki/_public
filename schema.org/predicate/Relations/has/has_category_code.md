@@ -39,7 +39,7 @@ A Category code contained in this code set.
 
 Relation describes that: 
 [ #has_/domain  :: CategoryCodeSet ]
-( #has_/name :: is_category_code )
+( #has_/name :: has_category_code )
 ( #has_/range :: CategoryCode )
 
 [ #is_/sub_property_of  :: hasDefinedTerm ]

@@ -37,7 +37,7 @@ A sub property of participant. The participant/person/organization that bought t
 
 Relation describes that: 
 [ #has_/domain  :: SellAction ]
-( #has_/name :: is_buyer )
+( #has_/name :: has_buyer )
 ( #has_/range :: Organization, Person )
 
 [ #is_/sub_property_of  :: participant ]

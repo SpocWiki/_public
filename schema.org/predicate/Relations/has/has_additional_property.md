@@ -39,6 +39,6 @@ Note: Publishers should be aware that applications designed to use specific sche
 
 Relation describes that: 
 [ #has_/domain  :: MerchantReturnPolicy, Place, Product, QualitativeValue, QuantitativeValue ]
-( #has_/name :: is_additional_property )
+( #has_/name :: has_additional_property )
 ( #has_/range :: PropertyValue )
 

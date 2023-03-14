@@ -37,6 +37,6 @@ The author of this content or rating. Please note that author is special in that
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, Rating ]
-( #has_/name :: is_author )
+( #has_/name :: has_author )
 ( #has_/range :: Organization, Person )
 

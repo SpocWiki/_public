@@ -37,6 +37,6 @@ The organization owning or operating the broadcast service.
 
 Relation describes that: 
 [ #has_/domain  :: BroadcastService ]
-( #has_/name :: is_broadcaster )
+( #has_/name :: has_broadcaster )
 ( #has_/range :: Organization )
 

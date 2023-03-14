@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.6175,23.0356]
 type: Country
 tags:
@@ -14,19 +14,22 @@ confidential: public
 ```leaflet
 id: Greece
 zoomFeatures: true
-geojsonFolder: ./Greece
+geojsonFolder: _public/geo/Continent/Europe/Greece
 ```
+
+
+geojsonFolder: [[_public/geo/Continent/Europe/Greece]]
 
 [name-en::Greece]
 [name-de::Griechenland]
 [Area-Total::131957]
 [Area-Land::128900]
-[Continent::[[Europe]]]
+[Continent::[[_public/geo/Continent/Europe]]]
 [VehicleCode::GR]
 [Capital::[[Athenas]]]
-![[Coat_of_arms_of_Greece.svg|350]]
-![[Anthem-Greece.mp3]]
-![[Flag_of_Greece.svg|350]]
+![[_public/geo/Continent/Europe/Greece/Coat_of_arms_of_Greece.svg|350]]
+![[_public/xLarge/National-Anthem/Anthem-Greece.mp3]]
+![[_public/geo/Continent/Europe/Greece/Flag_of_Greece.svg|350]]
 [Alcohol-l::10.8]
 [Language-Id::491]
 [geo-lon::23.0356]

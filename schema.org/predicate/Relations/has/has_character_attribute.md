@@ -37,6 +37,6 @@ A piece of data that represents a particular aspect of a fictional character (sk
 
 Relation describes that: 
 [ #has_/domain  :: Game, VideoGameSeries ]
-( #has_/name :: is_character_attribute )
+( #has_/name :: has_character_attribute )
 ( #has_/range :: Thing )
 

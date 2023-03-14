@@ -37,6 +37,6 @@ An eventStatus of an event represents its status; particularly useful when an ev
 
 Relation describes that: 
 [ #has_/domain  :: Event ]
-( #has_/name :: is_event_status )
+( #has_/name :: has_event_status )
 ( #has_/range :: EventStatusType )
 

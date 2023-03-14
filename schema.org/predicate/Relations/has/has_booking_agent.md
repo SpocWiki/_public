@@ -39,6 +39,6 @@ Use it like this:
 
 Relation describes that: 
 [ #has_/domain  :: Reservation ]
-( #has_/name :: is_booking_agent )
+( #has_/name :: has_booking_agent )
 ( #has_/range :: Organization, Person )
 

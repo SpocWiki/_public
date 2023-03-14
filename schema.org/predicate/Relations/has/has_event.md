@@ -39,6 +39,6 @@ Upcoming or past event associated with this place, organization, or action.
 
 Relation describes that: 
 [ #has_/domain  :: InformAction, InviteAction, JoinAction, LeaveAction, Organization, Place, PlayAction ]
-( #has_/name :: is_event )
+( #has_/name :: has_event )
 ( #has_/range :: Event )
 

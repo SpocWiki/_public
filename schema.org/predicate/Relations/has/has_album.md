@@ -39,6 +39,6 @@ A music album.
 
 Relation describes that: 
 [ #has_/domain  :: MusicGroup ]
-( #has_/name :: is_album )
+( #has_/name :: has_album )
 ( #has_/range :: MusicAlbum )
 

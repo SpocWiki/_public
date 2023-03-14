@@ -39,6 +39,6 @@ The type of engine or engines powering the vehicle.
 
 Relation describes that: 
 [ #has_/domain  :: EngineSpecification ]
-( #has_/name :: is_engine_type )
+( #has_/name :: has_engine_type )
 ( #has_/range :: QualitativeValue, Text, URL )
 
