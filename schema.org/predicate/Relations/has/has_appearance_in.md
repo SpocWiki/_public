@@ -27,6 +27,7 @@ aliases:
 - appearance
 - appearance
 - has_appearance_in
+- is_appearing_in
 ---
 
 [ #is_/part_of :: pending: ]
@@ -39,7 +40,7 @@ Indicates an occurrence of a [[Claim]] in some [[CreativeWork]].
 
 Relation describes that: 
 [ #has_/domain  :: Claim ]
-( #has_/name :: is_appearance )
+( #has_/name :: has_appearance_in )
 ( #has_/range :: CreativeWork )
 
 [ #is_/sub_property_of  :: workExample ]

@@ -37,6 +37,6 @@ The predominant type or kind characterizing the learning resource. For example, 
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, LearningResource ]
-( #has_/name :: is_learning_resource_type )
+( #has_/name :: has_learning_resource_type )
 ( #has_/range :: DefinedTerm, Text )
 

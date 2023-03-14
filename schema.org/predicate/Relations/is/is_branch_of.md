@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_branch_of
+title: is_branch_of
 
-linkTitle: has_branch_of
+linkTitle: is_branch_of
 keywords: [branch, of]
 layout: 
 draft: false
@@ -28,12 +28,12 @@ aliases:
 - branch-of
 - branch_of
 - branchOf
-- has_branch_of
+- is_branch_of
 ---
 
 Use it like this: 
-- [ #has/_branch_of :: Organization ] or 
-- [ has_branch_of :: Organization ] 
+- [ #is/_branch_of :: Organization ] or 
+- [ is_branch_of :: Organization ] 
 
 The larger organization that this local business is a branch of, if any. Not to be confused with (anatomical) &lt;a class="localLink" href="/branch"&gt;branch&lt;/a&gt;.
 

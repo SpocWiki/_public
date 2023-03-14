@@ -37,7 +37,7 @@ A sub property of participant. The owner of the real estate property.
 
 Relation describes that: 
 [ #has_/domain  :: RentAction ]
-( #has_/name :: is_landlord )
+( #has_/name :: has_landlord )
 ( #has_/range :: Organization, Person )
 
 [ #is_/sub_property_of  :: participant ]

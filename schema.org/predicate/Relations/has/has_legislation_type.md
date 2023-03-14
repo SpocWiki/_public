@@ -29,7 +29,7 @@ aliases:
 - has_legislation_type
 ---
 
-[ #is_/part_of :: pending: ]
+[ #has_/part_of :: pending: ]
 
 Use it like this: 
 - [ #has/_legislation_type :: CategoryCode, Text ] or 
@@ -39,8 +39,8 @@ The type of the legislation. Examples of values are "law", "act", "directive", "
 
 Relation describes that: 
 [ #has_/domain  :: Legislation ]
-( #has_/name :: is_legislation_type )
+( #has_/name :: has_legislation_type )
 ( #has_/range :: CategoryCode, Text )
 
-[ #is_/sub_property_of  :: genre ]
+[ #has_/sub_property_of  :: genre ]
 

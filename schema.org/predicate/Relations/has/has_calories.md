@@ -37,6 +37,6 @@ The number of calories.
 
 Relation describes that: 
 [ #has_/domain  :: NutritionInformation ]
-( #has_/name :: is_calories )
+( #has_/name :: has_calories )
 ( #has_/range :: Energy )
 

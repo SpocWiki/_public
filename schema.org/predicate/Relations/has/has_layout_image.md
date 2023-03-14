@@ -39,7 +39,7 @@ A schematic image showing the floorplan layout.
 
 Relation describes that: 
 [ #has_/domain  :: FloorPlan ]
-( #has_/name :: is_layout_image )
+( #has_/name :: has_layout_image )
 ( #has_/range :: ImageObject, URL )
 
 [ #is_/sub_property_of  :: image ]

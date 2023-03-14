@@ -35,10 +35,12 @@ Use it like this:
 - [ #has/_legislation_legal_value :: LegalValueLevel ] or 
 - [ has_legislation_legal_value :: LegalValueLevel ] 
 
-The legal value of this legislation file. The same legislation can be written in multiple files with different legal values. Typically a digitally signed PDF have a "stronger" legal value than the HTML file of the same act.
+The legal value of this legislation file.
+The same legislation can be written in multiple files with different legal values.
+Typically a digitally signed PDF have a "stronger" legal value than the HTML file of the same act.
 
 Relation describes that: 
 [ #has_/domain  :: LegislationObject ]
-( #has_/name :: is_legislation_legal_value )
+( #has_/name :: has_legislation_legal_value )
 ( #has_/range :: LegalValueLevel )
 

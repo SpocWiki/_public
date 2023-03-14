@@ -37,6 +37,6 @@ The drug or supplement's legal status, including any controlled substance schedu
 
 Relation describes that: 
 [ #has_/domain  :: DietarySupplement, Drug, MedicalEntity ]
-( #has_/name :: is_legal_status )
+( #has_/name :: has_legal_status )
 ( #has_/range :: DrugLegalStatus, MedicalEnumeration, Text )
 

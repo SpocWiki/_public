@@ -37,6 +37,6 @@ An update to the LiveBlog.
 
 Relation describes that: 
 [ #has_/domain  :: LiveBlogPosting ]
-( #has_/name :: is_live_blog_update )
+( #has_/name :: has_live_blog_update )
 ( #has_/range :: BlogPosting )
 

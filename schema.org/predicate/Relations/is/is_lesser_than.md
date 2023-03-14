@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_lesser
+title: is_lesser_than
 
-linkTitle: has_lesser
+linkTitle: is_lesser_than
 keywords: [lesser]
 layout: 
 draft: false
@@ -26,17 +26,21 @@ aliases:
 - lesser
 - lesser
 - lesser
-- has_lesser
+- is_lesser_than
 ---
 
 Use it like this: 
 - [ #has/_lesser :: QualitativeValue ] or 
-- [ has_lesser :: QualitativeValue ] 
+- [ is_lesser_than :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is lesser than the object.
 
 Relation describes that: 
 [ #has_/domain  :: QualitativeValue ]
-( #has_/name :: is_lesser )
+( #has_/name :: is_lesser_than )
 ( #has_/range :: QualitativeValue )
+
+[ #is_/complement_of :: [[is_greater_or_equal_to]]] 
+
+[ #is_/inverse_of :: [[is_greater_than]]] 
 

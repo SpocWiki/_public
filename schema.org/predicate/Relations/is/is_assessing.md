@@ -24,15 +24,13 @@ tags:
 
 aliases:
 - assesses
-- assesses
-- assesses
 - is_assessing
 ---
 
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_assesses :: DefinedTerm, Text ] or 
+- [ #is/_assessing :: DefinedTerm, Text ] or 
 - [ is_assessing :: DefinedTerm, Text ] 
 
 The item being described is intended to assess the competency or learning outcome

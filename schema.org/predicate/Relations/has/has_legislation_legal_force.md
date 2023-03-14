@@ -39,6 +39,6 @@ Whether the legislation is currently in force, not in force, or partially in for
 
 Relation describes that: 
 [ #has_/domain  :: Legislation ]
-( #has_/name :: is_legislation_legal_force )
+( #has_/name :: has_legislation_legal_force )
 ( #has_/range :: LegalForceStatus )
 

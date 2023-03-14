@@ -37,7 +37,7 @@ A sub property of participant. The person that lends the object being borrowed.
 
 Relation describes that: 
 [ #has_/domain  :: BorrowAction ]
-( #has_/name :: is_lender )
+( #has_/name :: has_lender )
 ( #has_/range :: Organization, Person )
 
 [ #is_/sub_property_of  :: participant ]

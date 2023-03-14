@@ -40,3 +40,7 @@ Relation describes that:
 ( #has_/name :: is_greater_or_equal_to )
 ( #has_/range :: QualitativeValue )
 
+[ #is_/inverse_of :: [[is_lesser_or_equal_to]]] 
+
+[ #is_/complement_of :: [[is_lesser_than]]] 
+

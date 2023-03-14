@@ -40,7 +40,7 @@ Relation describes that:
 ( #has_/name :: is_main_entity )
 ( #has_/range :: Thing )
 
-[ #is_/inverse_of  :: mainEntityOfPage ]
+[ #is_/inverse_of  :: [[is_main_entity_of_page]] ]
 
 [ #is_/sub_property_of  :: about ]
 

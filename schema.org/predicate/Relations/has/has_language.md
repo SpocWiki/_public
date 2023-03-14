@@ -39,7 +39,7 @@ A sub property of instrument. The language used on this action.
 
 Relation describes that: 
 [ #has_/domain  :: CommunicateAction, WriteAction ]
-( #has_/name :: is_language )
+( #has_/name :: has_language )
 ( #has_/range :: Language )
 
 [ #is_/sub_property_of  :: instrument ]
