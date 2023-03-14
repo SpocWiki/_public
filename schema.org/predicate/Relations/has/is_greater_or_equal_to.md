@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_greater_or_equal
+title: is_greater_or_equal_to
 
-linkTitle: has_greater_or_equal
+linkTitle: is_greater_or_equal_to
 keywords: [greater, or, equal]
 layout: 
 draft: false
@@ -26,17 +26,17 @@ aliases:
 - greater-or-equal
 - greater_or_equal
 - greaterOrEqual
-- has_greater_or_equal
+- is_greater_or_equal_to
 ---
 
 Use it like this: 
-- [ #has/_greater_or_equal :: QualitativeValue ] or 
-- [ has_greater_or_equal :: QualitativeValue ] 
+- [ #is/_greater_or_equal_to :: QualitativeValue ] or 
+- [ is_greater_or_equal_to :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is greater than or equal to the object.
 
 Relation describes that: 
 [ #has_/domain  :: QualitativeValue ]
-( #has_/name :: is_greater_or_equal )
+( #has_/name :: is_greater_or_equal_to )
 ( #has_/range :: QualitativeValue )
 

@@ -37,7 +37,7 @@ The home team in a sports event.
 
 Relation describes that: 
 [ #has_/domain  :: SportsEvent ]
-( #has_/name :: is_home_team )
+( #has_/name :: has_home_team )
 ( #has_/range :: Person, SportsTeam )
 
 [ #is_/sub_property_of  :: competitor ]

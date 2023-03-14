@@ -37,6 +37,6 @@ The person, organization, contact point, or audience that has been granted this 
 
 Relation describes that: 
 [ #has_/domain  :: DigitalDocumentPermission ]
-( #has_/name :: is_grantee )
+( #has_/name :: has_grantee )
 ( #has_/range :: Audience, ContactPoint, Organization, Person )
 

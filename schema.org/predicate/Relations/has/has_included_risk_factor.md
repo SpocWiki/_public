@@ -37,6 +37,6 @@ A modifiable or non-modifiable risk factor included in the calculation, e.g. age
 
 Relation describes that: 
 [ #has_/domain  :: MedicalRiskEstimator ]
-( #has_/name :: is_included_risk_factor )
+( #has_/name :: has_included_risk_factor )
 ( #has_/range :: MedicalRiskFactor )
 

@@ -37,6 +37,6 @@ The hours during which this service or contact is available.
 
 Relation describes that: 
 [ #has_/domain  :: ContactPoint, LocationFeatureSpecification, Service ]
-( #has_/name :: is_hours_available )
+( #has_/name :: has_hours_available )
 ( #has_/range :: OpeningHoursSpecification )
 

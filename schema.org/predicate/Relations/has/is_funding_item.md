@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_funded_item
+title: is_funding_item
 
-linkTitle: has_funded_item
+linkTitle: is_funding_item
 keywords: [funded, item]
 layout: 
 draft: false
@@ -24,23 +24,23 @@ tags:
 
 aliases:
 - funded-item
-- funded_item
+- funding_item
 - fundedItem
-- has_funded_item
+- is_funding_item
 ---
 
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_funded_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] or 
-- [ has_funded_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] 
+- [ #is/_funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] or 
+- [ is_funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] 
 
 Indicates something directly or indirectly funded or sponsored through a &lt;a class="localLink" href="/Grant"&gt;Grant&lt;/a&gt;. See also &lt;a class="localLink" href="/ownershipFundingInfo"&gt;ownershipFundingInfo&lt;/a&gt;.
 
 Relation describes that: 
 [ #has_/domain  :: Grant ]
-( #has_/name :: is_funded_item )
+( #has_/name :: is_funding_item )
 ( #has_/range :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product )
 
-[ #is_/inverse_of  :: funding ]
+[ #is_/inverse_of  :: [[has_funding]] ]
 

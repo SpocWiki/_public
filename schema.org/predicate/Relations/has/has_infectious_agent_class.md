@@ -37,6 +37,6 @@ The class of infectious agent (bacteria, prion, etc.) that causes the disease.
 
 Relation describes that: 
 [ #has_/domain  :: InfectiousDisease ]
-( #has_/name :: is_infectious_agent_class )
+( #has_/name :: has_infectious_agent_class )
 ( #has_/range :: InfectiousAgentClass )
 

@@ -39,6 +39,6 @@ Indicates the aspect or aspects specifically addressed in some &lt;a class="loca
 
 Relation describes that: 
 [ #has_/domain  :: HealthTopicContent ]
-( #has_/name :: is_health_aspect )
+( #has_/name :: has_health_aspect )
 ( #has_/range :: HealthAspectEnumeration )
 

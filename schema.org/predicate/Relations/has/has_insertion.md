@@ -37,6 +37,6 @@ The place of attachment of a muscle, or what the muscle moves.
 
 Relation describes that: 
 [ #has_/domain  :: Muscle ]
-( #has_/name :: is_insertion )
+( #has_/name :: has_insertion )
 ( #has_/range :: AnatomicalStructure )
 

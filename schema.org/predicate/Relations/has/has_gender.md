@@ -39,6 +39,6 @@ Gender of something, typically a &lt;a class="localLink" href="/Person"&gt;Perso
 
 Relation describes that: 
 [ #has_/domain  :: Person, SportsTeam ]
-( #has_/name :: is_gender )
+( #has_/name :: has_gender )
 ( #has_/range :: GenderType, Text )
 

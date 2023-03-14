@@ -37,6 +37,6 @@ A diagnostic test that can identify this sign.
 
 Relation describes that: 
 [ #has_/domain  :: MedicalSign ]
-( #has_/name :: is_identifying_test )
+( #has_/name :: has_identifying_test )
 ( #has_/range :: MedicalTest )
 

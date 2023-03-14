@@ -37,6 +37,6 @@ The type of fuel suitable for the engine or engines of the vehicle. If the vehic
 
 Relation describes that: 
 [ #has_/domain  :: EngineSpecification, Vehicle ]
-( #has_/name :: is_fuel_type )
+( #has_/name :: has_fuel_type )
 ( #has_/range :: QualitativeValue, Text, URL )
 

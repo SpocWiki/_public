@@ -39,6 +39,6 @@ Indicates the availability type of the game content associated with this action,
 
 Relation describes that: 
 [ #has_/domain  :: PlayGameAction ]
-( #has_/name :: is_game_availability_type )
+( #has_/name :: has_game_availability_type )
 ( #has_/range :: GameAvailabilityEnumeration, Text )
 

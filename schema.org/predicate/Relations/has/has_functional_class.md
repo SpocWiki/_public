@@ -37,6 +37,6 @@ The degree of mobility the joint allows.
 
 Relation describes that: 
 [ #has_/domain  :: Joint ]
-( #has_/name :: is_functional_class )
+( #has_/name :: has_functional_class )
 ( #has_/range :: MedicalEntity, Text )
 

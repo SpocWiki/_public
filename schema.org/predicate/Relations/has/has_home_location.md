@@ -37,7 +37,7 @@ A contact location for a person's residence.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_home_location )
+( #has_/name :: has_home_location )
 ( #has_/range :: ContactPoint, Place )
 
 [ #is_/sub_property_of  :: location ]

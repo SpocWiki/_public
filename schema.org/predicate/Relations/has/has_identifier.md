@@ -37,7 +37,7 @@ The identifier property represents any kind of identifier for any kind of &lt;a 
 
 Relation describes that: 
 [ #has_/domain  :: Thing ]
-( #has_/name :: is_identifier )
+( #has_/name :: has_identifier )
 ( #has_/range :: PropertyValue, Text, URL )
 
 [ #has_/sub_properties :: [ accountId, asin, callSign, confirmationNumber, duns, editEIDR, flightNumber, globalLocationNumber, gtin, gtin12, gtin13, gtin14, gtin8, isbn, issn, legislationIdentifier, leiCode, nsn, orderNumber, productID, serialNumber, sku, taxID, titleEIDR ] ]

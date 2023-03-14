@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_greater
+title: is_greater_than
 
-linkTitle: has_greater
+linkTitle: is_greater_than
 keywords: [greater]
 layout: 
 draft: false
@@ -26,17 +26,17 @@ aliases:
 - greater
 - greater
 - greater
-- has_greater
+- is_greater_than
 ---
 
 Use it like this: 
-- [ #has/_greater :: QualitativeValue ] or 
-- [ has_greater :: QualitativeValue ] 
+- [ #is/_greater_than :: QualitativeValue ] or 
+- [ is_greater_than :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is greater than the object.
 
 Relation describes that: 
 [ #has_/domain  :: QualitativeValue ]
-( #has_/name :: is_greater )
+( #has_/name :: is_greater_than )
 ( #has_/range :: QualitativeValue )
 

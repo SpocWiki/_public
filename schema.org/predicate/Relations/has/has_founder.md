@@ -39,6 +39,6 @@ A person who founded this organization.
 
 Relation describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: is_founder )
+( #has_/name :: has_founder )
 ( #has_/range :: Person )
 

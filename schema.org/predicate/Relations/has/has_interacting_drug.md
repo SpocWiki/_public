@@ -37,6 +37,6 @@ Another drug that is known to interact with this drug in a way that impacts the 
 
 Relation describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: is_interacting_drug )
+( #has_/name :: has_interacting_drug )
 ( #has_/range :: Drug )
 

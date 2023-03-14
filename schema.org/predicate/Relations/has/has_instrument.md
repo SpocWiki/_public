@@ -37,7 +37,7 @@ The object that helped the agent perform the action. E.g. John wrote a book with
 
 Relation describes that: 
 [ #has_/domain  :: Action ]
-( #has_/name :: is_instrument )
+( #has_/name :: has_instrument )
 ( #has_/range :: Thing )
 
 [ #has_/sub_properties :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ] ]

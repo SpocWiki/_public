@@ -37,6 +37,6 @@ A hospital with which the physician or office is affiliated.
 
 Relation describes that: 
 [ #has_/domain  :: Physician ]
-( #has_/name :: is_hospital_affiliation )
+( #has_/name :: has_hospital_affiliation )
 ( #has_/range :: Hospital )
 

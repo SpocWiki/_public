@@ -37,6 +37,6 @@ Organization or Person offering the job position.
 
 Relation describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_hiring_organization )
+( #has_/name :: has_hiring_organization )
 ( #has_/range :: Organization, Person )
 

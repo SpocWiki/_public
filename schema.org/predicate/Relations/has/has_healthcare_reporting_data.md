@@ -39,6 +39,6 @@ Indicates data describing a hospital, e.g. a CDC &lt;a class="localLink" href="/
 
 Relation describes that: 
 [ #has_/domain  :: Hospital ]
-( #has_/name :: is_healthcare_reporting_data )
+( #has_/name :: has_healthcare_reporting_data )
 ( #has_/range :: CDCPMDRecord, Dataset )
 

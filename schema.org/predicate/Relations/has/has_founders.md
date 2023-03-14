@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: founder
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_founders
 ---
 
+[ superseded_by :: founder ]
+
 Use it like this: 
-- [ #has/_founders :: Person ] or 
-- [ has_founders :: Person ] 
+- [ #has/_founder :: Person ] or 
+- [ has_founder :: Person ] 
 
 A person who founded this organization.
 
 Relation describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: is_founders )
+( #has_/name :: has_founders )
 ( #has_/range :: Person )
 

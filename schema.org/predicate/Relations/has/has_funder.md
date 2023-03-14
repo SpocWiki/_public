@@ -37,7 +37,7 @@ A person or organization that supports (sponsors) something through some kind of
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, Event, Grant, MonetaryGrant, Organization, Person ]
-( #has_/name :: is_funder )
+( #has_/name :: has_funder )
 ( #has_/range :: Organization, Person )
 
 [ #is_/sub_property_of  :: sponsor ]

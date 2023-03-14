@@ -39,6 +39,6 @@ The individual who traces over the pencil drawings in ink after pencils are comp
 
 Relation describes that: 
 [ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
-( #has_/name :: is_inker )
+( #has_/name :: has_inker )
 ( #has_/range :: Person )
 

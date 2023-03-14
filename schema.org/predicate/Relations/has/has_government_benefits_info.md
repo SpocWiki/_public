@@ -39,6 +39,6 @@ governmentBenefitsInfo provides information about government benefits associated
 
 Relation describes that: 
 [ #has_/domain  :: SpecialAnnouncement ]
-( #has_/name :: is_government_benefits_info )
+( #has_/name :: has_government_benefits_info )
 ( #has_/range :: GovernmentService )
 

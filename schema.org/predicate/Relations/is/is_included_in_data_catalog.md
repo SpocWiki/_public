@@ -27,6 +27,7 @@ aliases:
 - included_in_data_catalog
 - includedInDataCatalog
 - has_included_in_data_catalog
+- is_included_in_data_catalog
 ---
 
 [ supersedes :: [[has_catalog]], [[has_included_data_catalog]] ]

@@ -39,6 +39,6 @@ A monetary value above (or at) which the shipping rate becomes free. Intended to
 
 Relation describes that: 
 [ #has_/domain  :: ShippingRateSettings ]
-( #has_/name :: is_free_shipping_threshold )
+( #has_/name :: has_free_shipping_threshold )
 ( #has_/range :: DeliveryChargeSpecification, MonetaryAmount )
 

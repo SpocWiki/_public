@@ -37,6 +37,6 @@ The medical conditions, treatments, etc. that are the subject of the guideline.
 
 Relation describes that: 
 [ #has_/domain  :: MedicalGuideline ]
-( #has_/name :: is_guideline_subject )
+( #has_/name :: has_guideline_subject )
 ( #has_/range :: MedicalEntity )
 

@@ -39,6 +39,6 @@ A data catalog which contains this dataset (this property was previously 'catalo
 
 Relation describes that: 
 [ #has_/domain  :: Dataset ]
-( #has_/name :: is_included_data_catalog )
+( #has_/name :: has_included_data_catalog )
 ( #has_/range :: DataCatalog )
 

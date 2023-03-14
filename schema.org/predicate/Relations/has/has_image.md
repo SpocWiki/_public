@@ -37,7 +37,7 @@ An image of the item. This can be a &lt;a class="localLink" href="/URL"&gt;URL&l
 
 Relation describes that: 
 [ #has_/domain  :: Thing ]
-( #has_/name :: is_image )
+( #has_/name :: has_image )
 ( #has_/range :: ImageObject, URL )
 
 [ #has_/sub_properties :: [ layoutImage, logo, photo ] ]

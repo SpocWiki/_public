@@ -37,6 +37,6 @@ The organization (airline, travelers' club, etc.) the membership is made with.
 
 Relation describes that: 
 [ #has_/domain  :: ProgramMembership ]
-( #has_/name :: is_hosting_organization )
+( #has_/name :: has_hosting_organization )
 ( #has_/range :: Organization )
 

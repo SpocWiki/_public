@@ -37,6 +37,6 @@ The illustrator of the book.
 
 Relation describes that: 
 [ #has_/domain  :: Book ]
-( #has_/name :: is_illustrator )
+( #has_/name :: has_illustrator )
 ( #has_/range :: Person )
 

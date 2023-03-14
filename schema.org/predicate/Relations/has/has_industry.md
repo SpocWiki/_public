@@ -37,6 +37,6 @@ The industry associated with the job position.
 
 Relation describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: is_industry )
+( #has_/name :: has_industry )
 ( #has_/range :: DefinedTerm, Text )
 
