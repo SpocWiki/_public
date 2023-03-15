@@ -35,11 +35,12 @@ Use it like this:
 - [ #has/_no_bylines_policy :: CreativeWork, URL ] or 
 - [ has_no_bylines_policy :: CreativeWork, URL ] 
 
-For a [[NewsMediaOrganization]] or other news-related [[Organization]], a statement explaining when authors of articles are not named in bylines.
+For a [[NewsMediaOrganization]] or other news-related [[Organization]], 
+a statement explaining when authors of articles are not named in bylines.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization ]
-( #has_/name :: is_no_bylines_policy )
+( #has_/name :: has_no_bylines_policy )
 ( #has_/range :: CreativeWork, URL )
 
 [ #is_/sub_property_of  :: publishingPrinciples ]

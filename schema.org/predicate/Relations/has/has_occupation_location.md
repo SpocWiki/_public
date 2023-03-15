@@ -37,6 +37,6 @@ The region/country for which this occupational description is appropriate. Note 
 
 Relation describes that: 
 [ #has_/domain  :: Occupation ]
-( #has_/name :: is_occupation_location )
+( #has_/name :: has_occupation_location )
 ( #has_/range :: AdministrativeArea )
 

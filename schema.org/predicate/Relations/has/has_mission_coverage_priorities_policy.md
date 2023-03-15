@@ -39,7 +39,7 @@ For a [[NewsMediaOrganization]], a statement on coverage priorities, including a
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization ]
-( #has_/name :: is_mission_coverage_priorities_policy )
+( #has_/name :: has_mission_coverage_priorities_policy )
 ( #has_/range :: CreativeWork, URL )
 
 [ #is_/sub_property_of  :: publishingPrinciples ]

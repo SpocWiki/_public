@@ -41,6 +41,6 @@ Specifies a MerchantReturnPolicy that may be applicable.
 
 Relation describes that: 
 [ #has_/domain  :: Offer, Organization, Product ]
-( #has_/name :: is_merchant_return_policy )
+( #has_/name :: has_merchant_return_policy )
 ( #has_/range :: MerchantReturnPolicy )
 

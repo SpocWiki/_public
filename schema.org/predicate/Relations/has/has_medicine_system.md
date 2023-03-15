@@ -37,6 +37,6 @@ The system of medicine that includes this MedicalEntity, for example 'evidence-b
 
 Relation describes that: 
 [ #has_/domain  :: MedicalEntity ]
-( #has_/name :: is_medicine_system )
+( #has_/name :: has_medicine_system )
 ( #has_/range :: MedicineSystem )
 

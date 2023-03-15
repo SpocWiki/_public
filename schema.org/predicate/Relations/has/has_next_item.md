@@ -37,6 +37,6 @@ A link to the ListItem that follows the current one.
 
 Relation describes that: 
 [ #has_/domain  :: ListItem ]
-( #has_/name :: is_next_item )
+( #has_/name :: has_next_item )
 ( #has_/range :: ListItem )
 

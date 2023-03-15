@@ -37,6 +37,6 @@ Medical audience for page.
 
 Relation describes that: 
 [ #has_/domain  :: MedicalWebPage ]
-( #has_/name :: is_medical_audience )
+( #has_/name :: has_medical_audience )
 ( #has_/range :: MedicalAudience, MedicalAudienceType )
 

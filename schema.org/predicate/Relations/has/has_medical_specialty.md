@@ -37,6 +37,6 @@ A medical specialty of the provider.
 
 Relation describes that: 
 [ #has_/domain  :: Hospital, MedicalClinic, MedicalOrganization, Physician ]
-( #has_/name :: is_medical_specialty )
+( #has_/name :: has_medical_specialty )
 ( #has_/range :: MedicalSpecialty )
 

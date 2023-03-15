@@ -39,6 +39,6 @@ The observedNode of an [[Observation]], often a [[StatisticalPopulation]].
 
 Relation describes that: 
 [ #has_/domain  :: Observation ]
-( #has_/name :: is_observed_node )
+( #has_/name :: has_observed_node )
 ( #has_/range :: StatisticalPopulation )
 

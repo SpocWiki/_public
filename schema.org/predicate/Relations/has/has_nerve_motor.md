@@ -37,6 +37,6 @@ The neurological pathway extension that involves muscle control.
 
 Relation describes that: 
 [ #has_/domain  :: Nerve ]
-( #has_/name :: is_nerve_motor )
+( #has_/name :: has_nerve_motor )
 ( #has_/range :: Muscle )
 

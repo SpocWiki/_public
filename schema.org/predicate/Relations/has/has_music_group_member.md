@@ -39,6 +39,6 @@ A member of a music group&amp;#x2014;for example, John, Paul, George, or Ringo.
 
 Relation describes that: 
 [ #has_/domain  :: MusicGroup ]
-( #has_/name :: is_music_group_member )
+( #has_/name :: has_music_group_member )
 ( #has_/range :: Person )
 

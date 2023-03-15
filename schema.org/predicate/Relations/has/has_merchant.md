@@ -39,6 +39,6 @@ Use it like this:
 
 Relation describes that: 
 [ #has_/domain  :: Order ]
-( #has_/name :: is_merchant )
+( #has_/name :: has_merchant )
 ( #has_/range :: Organization, Person )
 

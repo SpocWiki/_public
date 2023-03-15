@@ -35,12 +35,13 @@ Use it like this:
 - [ #has/_member :: Organization, Person ] or 
 - [ has_member :: Organization, Person ] 
 
-A member of an Organization or a ProgramMembership. Organizations can be members of organizations; ProgramMembership is typically for individuals.
+A member of an Organization or a ProgramMembership. Organizations can be members of organizations; 
+ProgramMembership is typically for individuals.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, ProgramMembership ]
 ( #has_/name :: is_member )
 ( #has_/range :: Organization, Person )
 
-[ #is_/inverse_of  :: memberOf ]
+[ #is_/inverse_of  :: [[is_member_of]] ]
 

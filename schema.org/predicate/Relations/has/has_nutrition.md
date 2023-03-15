@@ -37,6 +37,6 @@ Nutrition information about the recipe or menu item.
 
 Relation describes that: 
 [ #has_/domain  :: MenuItem, Recipe ]
-( #has_/name :: is_nutrition )
+( #has_/name :: has_nutrition )
 ( #has_/range :: NutritionInformation )
 

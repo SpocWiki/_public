@@ -37,6 +37,6 @@ The Person's occupation. For past professions, use Role for expressing dates.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_occupation )
+( #has_/name :: has_occupation )
 ( #has_/range :: Occupation )
 

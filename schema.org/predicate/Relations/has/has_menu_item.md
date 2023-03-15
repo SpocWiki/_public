@@ -37,6 +37,6 @@ A food or drink item contained in a menu or menu section.
 
 Relation describes that: 
 [ #has_/domain  :: Menu, MenuSection ]
-( #has_/name :: is_menu_item )
+( #has_/name :: has_menu_item )
 ( #has_/range :: MenuItem )
 

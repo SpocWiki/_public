@@ -37,6 +37,6 @@ Format of this release (the type of recording media used, i.e. compact disc, dig
 
 Relation describes that: 
 [ #has_/domain  :: MusicRelease ]
-( #has_/name :: is_music_release_format )
+( #has_/name :: has_music_release_format )
 ( #has_/range :: MusicReleaseFormatType )
 

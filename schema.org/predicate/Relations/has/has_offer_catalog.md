@@ -37,6 +37,6 @@ Indicates an OfferCatalog listing for this Organization, Person, or Service.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person, Service ]
-( #has_/name :: is_offer_catalog )
+( #has_/name :: has_offer_catalog )
 ( #has_/range :: OfferCatalog )
 

@@ -37,6 +37,6 @@ A CreativeWork attached to the message.
 
 Relation describes that: 
 [ #has_/domain  :: Message ]
-( #has_/name :: is_message_attachment )
+( #has_/name :: has_message_attachment )
 ( #has_/range :: CreativeWork )
 

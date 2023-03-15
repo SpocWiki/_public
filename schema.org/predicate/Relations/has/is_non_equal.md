@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_non_equal
+title: is_non_equal
 
-linkTitle: has_non_equal
+linkTitle: is_non_equal
 keywords: [non, equal]
 layout: 
 draft: false
@@ -26,12 +26,13 @@ aliases:
 - non-equal
 - non_equal
 - nonEqual
-- has_non_equal
+- is_non_equal
+- is_not_equal
 ---
 
 Use it like this: 
-- [ #has/_non_equal :: QualitativeValue ] or 
-- [ has_non_equal :: QualitativeValue ] 
+- [ #is/_non_equal :: [[../../../Type/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] or 
+- [ is_non_equal :: [[../../../Type/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] 
 
 This ordering relation for qualitative values indicates that the subject is not equal to the object.
 

@@ -37,7 +37,7 @@ The object upon which the action is carried out, whose state is kept intact or c
 
 Relation describes that: 
 [ #has_/domain  :: Action ]
-( #has_/name :: is_object )
+( #has_/name :: has_object )
 ( #has_/range :: Thing )
 
 [ #has_/sub_properties :: [ actionOption, candidate, collection, followee, option, question, replacee, replacer, targetCollection ] ]

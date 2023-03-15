@@ -37,6 +37,6 @@ The underlying innervation associated with the muscle.
 
 Relation describes that: 
 [ #has_/domain  :: Muscle ]
-( #has_/name :: is_nerve )
+( #has_/name :: has_nerve )
 ( #has_/range :: Nerve )
 

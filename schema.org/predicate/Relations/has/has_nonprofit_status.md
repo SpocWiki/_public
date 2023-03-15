@@ -39,6 +39,6 @@ nonprofitStatus indicates the legal status of a non-profit organization in its p
 
 Relation describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: is_nonprofit_status )
+( #has_/name :: has_nonprofit_status )
 ( #has_/range :: NonprofitType )
 

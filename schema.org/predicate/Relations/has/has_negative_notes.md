@@ -44,6 +44,6 @@ The property values can be expressed either as unstructured text (repeated as ne
 
 Relation describes that: 
 [ #has_/domain  :: Product, Review ]
-( #has_/name :: is_negative_notes )
+( #has_/name :: has_negative_notes )
 ( #has_/range :: ItemList, ListItem, Text, WebContent )
 

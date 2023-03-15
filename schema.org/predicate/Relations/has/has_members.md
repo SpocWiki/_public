@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: member
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_members
 ---
 
+[ superseded_by :: member ]
+
 Use it like this: 
-- [ #has/_members :: Organization, Person ] or 
-- [ has_members :: Organization, Person ] 
+- [ #has/_member :: Organization, Person ] or 
+- [ has_member :: Organization, Person ] 
 
 A member of this organization.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, ProgramMembership ]
-( #has_/name :: is_members )
+( #has_/name :: has_members )
 ( #has_/range :: Organization, Person )
 

@@ -39,6 +39,6 @@ Molecular function performed by this BioChemEntity; please use PropertyValue if 
 
 Relation describes that: 
 [ #has_/domain  :: BioChemEntity ]
-( #has_/name :: is_molecular_function )
+( #has_/name :: has_molecular_function )
 ( #has_/range :: DefinedTerm, PropertyValue, URL )
 

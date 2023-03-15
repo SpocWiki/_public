@@ -37,6 +37,6 @@ Nationality of the person.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_nationality )
+( #has_/name :: has_nationality )
 ( #has_/range :: Country )
 
