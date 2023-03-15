@@ -37,7 +37,7 @@ Indicates the primary entity described in some page or other CreativeWork.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_main_entity )
+( #has_/name :: has_main_entity )
 ( #has_/range :: Thing )
 
 [ #is_/inverse_of  :: [[is_main_entity_of_page]] ]

@@ -37,6 +37,6 @@ Indicates the kind of Map, from the MapCategoryType Enumeration.
 
 Relation describes that: 
 [ #has_/domain  :: Map ]
-( #has_/name :: is_map_type )
+( #has_/name :: has_map_type )
 ( #has_/range :: MapCategoryType )
 

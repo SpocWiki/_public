@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_masthead :: CreativeWork, URL ] or 
 - [ has_masthead :: CreativeWork, URL ] 
 
-For a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt;, a link to the masthead page or a page listing top editorial management.
+For a [[NewsMediaOrganization]], a link to the masthead page or a page listing top editorial management.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization ]

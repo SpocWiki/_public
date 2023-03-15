@@ -39,6 +39,6 @@ A form of paying back money previously borrowed from a lender. Repayment usually
 
 Relation describes that: 
 [ #has_/domain  :: LoanOrCredit ]
-( #has_/name :: is_loan_repayment_form )
+( #has_/name :: has_loan_repayment_form )
 ( #has_/range :: RepaymentSpecification )
 

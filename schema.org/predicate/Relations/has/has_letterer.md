@@ -39,6 +39,6 @@ The individual who adds lettering, including speech balloons and sound effects, 
 
 Relation describes that: 
 [ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
-( #has_/name :: is_letterer )
+( #has_/name :: has_letterer )
 ( #has_/range :: Person )
 

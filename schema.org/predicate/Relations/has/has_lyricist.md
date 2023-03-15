@@ -37,6 +37,6 @@ The person who wrote the words.
 
 Relation describes that: 
 [ #has_/domain  :: MusicComposition ]
-( #has_/name :: is_lyricist )
+( #has_/name :: has_lyricist )
 ( #has_/range :: Person )
 

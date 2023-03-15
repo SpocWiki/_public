@@ -35,10 +35,11 @@ Use it like this:
 - [ #has/_media_authenticity_category :: MediaManipulationRatingEnumeration ] or 
 - [ has_media_authenticity_category :: MediaManipulationRatingEnumeration ] 
 
-Indicates a MediaManipulationRatingEnumeration classification of a media object (in the context of how it was published or shared).
+Indicates a MediaManipulationRatingEnumeration classification of a media object
+(in the context of how it was published or shared).
 
 Relation describes that: 
 [ #has_/domain  :: MediaReview ]
-( #has_/name :: is_media_authenticity_category )
-( #has_/range :: MediaManipulationRatingEnumeration )
+( #has_/name :: has_media_authenticity_category )
+( #has_/range :: [[../../../Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration]] )
 

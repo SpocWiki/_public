@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,7 +38,14 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Codes for use with the <a class="localLink" href="/mediaAuthenticityCategory">mediaAuthenticityCategory</a> property, indicating the authenticity of a media object (in the context of how it was published or shared). In general these codes are not mutually exclusive, although some combinations (such as 'original' versus 'transformed', 'edited' and 'staged') would be contradictory if applied in the same <a class="localLink" href="/MediaReview">MediaReview</a>. Note that the application of these codes is with regard to a piece of media shared or published in a particular context.
+Codes for use with the [[../../../../Predicate/Relations/has/has_media_authenticity_category]] property,
+indicating the authenticity of a media object (in the context of how it was published or shared).
+
+In general, these codes are not mutually exclusive,
+although some combinations (such as 'original' versus 'transformed', 'edited' and 'staged') would be contradictory
+if applied in the same [[../../creative_work/review/media_review]]. 
+
+Note that the application of these codes is with regard to a piece of media shared or published in a particular context.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 

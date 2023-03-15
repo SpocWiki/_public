@@ -29,7 +29,7 @@ aliases:
 - has_maintainer
 ---
 
-[ #is_/part_of :: pending: ]
+[ #</part_of :: pending: ]
 
 Use it like this: 
 - [ #has/_maintainer :: Organization, Person ] or 
@@ -39,6 +39,6 @@ A maintainer of a &lt;a class="localLink" href="/Dataset"&gt;Dataset&lt;/a&gt;, 
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_maintainer )
+( #has_/name :: has_maintainer )
 ( #has_/range :: Organization, Person )
 

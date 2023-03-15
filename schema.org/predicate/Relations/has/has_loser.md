@@ -37,7 +37,7 @@ A sub property of participant. The loser of the action.
 
 Relation describes that: 
 [ #has_/domain  :: WinAction ]
-( #has_/name :: is_loser )
+( #has_/name :: has_loser )
 ( #has_/range :: Person )
 
 [ #is_/sub_property_of  :: participant ]

@@ -37,6 +37,6 @@ A license document that applies to this content, typically indicated by URL.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_license )
+( #has_/name :: has_license )
 ( #has_/range :: CreativeWork, URL )
 

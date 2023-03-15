@@ -39,6 +39,6 @@ A URL to a map of the place.
 
 Relation describes that: 
 [ #has_/domain  :: Place ]
-( #has_/name :: is_map )
+( #has_/name :: has_map )
 ( #has_/range :: Map, URL )
 
