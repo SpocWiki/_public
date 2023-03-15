@@ -37,7 +37,7 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_public_access :: Boolean ] 
 
-A flag to signal that the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Place&quot;&gt;Place&lt;/a&gt; is open to public visitors.  If this property is omitted there is no assumed default boolean value
+A flag to signal that the [[Place]] is open to public visitors.  If this property is omitted there is no assumed default boolean value
 
 Predicate describes that: 
 [ #has_/domain  :: Place ]

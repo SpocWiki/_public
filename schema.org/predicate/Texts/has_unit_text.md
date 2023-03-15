@@ -37,7 +37,7 @@ Use it like this:
 - [ has_text_about_unit_text :: Text ] 
 
 A string or text indicating the unit of measurement. Useful if you cannot provide a standard unit code for
-&lt;a href="unitCode"&gt;unitCode&lt;/a&gt;.
+[unitCode](unitCode).
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification ]

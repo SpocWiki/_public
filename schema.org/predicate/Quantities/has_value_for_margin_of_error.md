@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/value/_for_margin_of_error :: QuantitativeValue ] or 
 - [ has_value_for_margin_of_error :: QuantitativeValue ] 
 
-A marginOfError for an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Observation&quot;&gt;Observation&lt;/a&gt;.
+A marginOfError for an [[Observation]].
 
 Predicate describes that: 
 [ #has_/domain  :: Observation ]

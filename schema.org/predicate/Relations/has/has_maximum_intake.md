@@ -37,6 +37,6 @@ Recommended intake of this supplement for a given population as defined by a spe
 
 Relation describes that: 
 [ #has_/domain  :: DietarySupplement, Drug, DrugStrength, Substance ]
-( #has_/name :: is_maximum_intake )
+( #has_/name :: has_maximum_intake )
 ( #has_/range :: MaximumDoseSchedule )
 

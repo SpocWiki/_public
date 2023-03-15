@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_shipping_label :: Text ] or 
 - [ has_text_about_shipping_label :: Text ] 
 
-Label to match an &lt;a class="localLink" href="/OfferShippingDetails"&gt;OfferShippingDetails&lt;/a&gt; with a &lt;a class="localLink" href="/ShippingRateSettings"&gt;ShippingRateSettings&lt;/a&gt; (within the context of a &lt;a class="localLink" href="/shippingSettingsLink"&gt;shippingSettingsLink&lt;/a&gt; cross-reference).
+Label to match an [[OfferShippingDetails]] with a [[ShippingRateSettings]] (within the context of a [[shippingSettingsLink]] cross-reference).
 
 Predicated describes that: 
 [ #has_/domain  :: OfferShippingDetails, ShippingRateSettings ]

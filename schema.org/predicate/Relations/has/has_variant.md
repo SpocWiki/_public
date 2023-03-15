@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_variant :: Product ] or 
 - [ has_variant :: Product ] 
 
-Indicates a &lt;a class="localLink" href="/Product"&gt;Product&lt;/a&gt; that is a member of this &lt;a class="localLink" href="/ProductGroup"&gt;ProductGroup&lt;/a&gt; (or &lt;a class="localLink" href="/ProductModel"&gt;ProductModel&lt;/a&gt;).
+Indicates a [[Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
 
 Relation describes that: 
 [ #has_/domain  :: ProductGroup ]

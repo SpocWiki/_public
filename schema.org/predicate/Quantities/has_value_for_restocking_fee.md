@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/value/_for_restocking_fee :: MonetaryAmount, Number ] or 
 - [ has_value_for_restocking_fee :: MonetaryAmount, Number ] 
 
-Use &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MonetaryAmount&quot;&gt;MonetaryAmount&lt;/a&gt; to specify a fixed restocking fee for product returns, or use &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Number&quot;&gt;Number&lt;/a&gt; to specify a percentage of the product price paid by the customer.
+Use [[MonetaryAmount]] to specify a fixed restocking fee for product returns, or use [[Number]] to specify a percentage of the product price paid by the customer.
 
 Predicate describes that: 
 [ #has_/domain  :: MerchantReturnPolicy ]

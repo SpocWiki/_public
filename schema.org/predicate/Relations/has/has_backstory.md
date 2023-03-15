@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_backstory :: CreativeWork, Text ] or 
 - [ has_backstory :: CreativeWork, Text ] 
 
-For an &lt;a class="localLink" href="/Article"&gt;Article&lt;/a&gt;, typically a &lt;a class="localLink" href="/NewsArticle"&gt;NewsArticle&lt;/a&gt;, the backstory property provides a textual summary giving a brief explanation of why and how an article was created. In a journalistic setting this could include information about reporting process, methods, interviews, data sources, etc.
+For an [[Article]], typically a [[NewsArticle]], the backstory property provides a textual summary giving a brief explanation of why and how an article was created. In a journalistic setting this could include information about reporting process, methods, interviews, data sources, etc.
 
 Relation describes that: 
 [ #has_/domain  :: Article ]

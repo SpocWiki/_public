@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_css_selector :: CssSelectorType ] or 
 - [ has_css_selector :: CssSelectorType ] 
 
-A CSS selector, e.g. of a &lt;a class="localLink" href="/SpeakableSpecification"&gt;SpeakableSpecification&lt;/a&gt; or &lt;a class="localLink" href="/WebPageElement"&gt;WebPageElement&lt;/a&gt;. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".
+A CSS selector, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".
 
 Relation describes that: 
 [ #has_/domain  :: SpeakableSpecification, WebPageElement ]

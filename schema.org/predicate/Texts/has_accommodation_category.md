@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_accommodation_category :: Text ] or 
 - [ has_text_about_accommodation_category :: Text ] 
 
-Category of an &lt;a class="localLink" href="/Accommodation"&gt;Accommodation&lt;/a&gt;, following real estate conventions, e.g. RESO (see &lt;a href="https://ddwiki.reso.org/display/DDW17/PropertySubType+Field"&gt;PropertySubType&lt;/a&gt;, and &lt;a href="https://ddwiki.reso.org/display/DDW17/PropertyType+Field"&gt;PropertyType&lt;/a&gt; fields  for suggested values).
+Category of an [[Accommodation]], following real estate conventions, e.g. RESO (see [PropertySubType](https://ddwiki.reso.org/display/DDW17/PropertySubType+Field), and [PropertyType](https://ddwiki.reso.org/display/DDW17/PropertyType+Field) fields  for suggested values).
 
 Predicated describes that: 
 [ #has_/domain  :: Accommodation ]

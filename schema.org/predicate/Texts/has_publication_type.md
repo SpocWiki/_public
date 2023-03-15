@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_publication_type :: Text ] or 
 - [ has_text_about_publication_type :: Text ] 
 
-The type of the medical article, taken from the US NLM MeSH publication type catalog. See also &lt;a href="http://www.nlm.nih.gov/mesh/pubtypes.html"&gt;MeSH documentation&lt;/a&gt;.
+The type of the medical article, taken from the US NLM MeSH publication type catalog. See also [MeSH documentation](http://www.nlm.nih.gov/mesh/pubtypes.html).
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalScholarlyArticle ]

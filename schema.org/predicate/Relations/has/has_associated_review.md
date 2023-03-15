@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_associated_review :: Review ] or 
 - [ has_associated_review :: Review ] 
 
-An associated &lt;a class="localLink" href="/Review"&gt;Review&lt;/a&gt;.
+An associated [[Review]].
 
 Relation describes that: 
 [ #has_/domain  :: Review ]

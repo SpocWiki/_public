@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_toc_continuation :: HyperTocEntry ] or 
 - [ has_toc_continuation :: HyperTocEntry ] 
 
-A &lt;a class="localLink" href="/HyperTocEntry"&gt;HyperTocEntry&lt;/a&gt; can have a &lt;a class="localLink" href="/tocContinuation"&gt;tocContinuation&lt;/a&gt; indicated, which is another &lt;a class="localLink" href="/HyperTocEntry"&gt;HyperTocEntry&lt;/a&gt; that would be the default next item to play or render.
+A [[HyperTocEntry]] can have a [[tocContinuation]] indicated, which is another [[HyperTocEntry]] that would be the default next item to play or render.
 
 Relation describes that: 
 [ #has_/domain  :: HyperTocEntry ]

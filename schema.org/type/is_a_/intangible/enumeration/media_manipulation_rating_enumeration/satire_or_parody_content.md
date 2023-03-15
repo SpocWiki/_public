@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,15 +41,17 @@ Tag Instances like this:
 
 Content coded 'satire or parody content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, considered in the context of how it was published or shared.
 
-For a <a class="localLink" href="/VideoObject">VideoObject</a> to be 'satire or parody content': A video that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
+# For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
+A video that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
 
-For an <a class="localLink" href="/ImageObject">ImageObject</a> to be 'satire or parody content': An image that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
+# For an [[../../../creative_work/media_object/image_object|ImageObject]]: 
+An image that was created as political or humorous commentary and is presented in that context.
+(Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
 
-For an <a class="localLink" href="/ImageObject">ImageObject</a> with embedded text to be 'satire or parody content': An image that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
+# For an [[../../../creative_work/media_object/audio_object|AudioObject]]: 
+Audio that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
 
-For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'satire or parody content': Audio that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
+[ #is_/sub_class_of :: [[../media_manipulation_rating_enumeration]] ]
 
-[ #is_/sub_class_of :: [[../MediaManipulationRatingEnumeration]] ]
-
-[ #is_/enum_of :: [[../MediaManipulationRatingEnumeration]] ]
+[ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 

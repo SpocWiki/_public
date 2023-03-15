@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_rating_explanation :: Text ] or 
 - [ has_text_about_rating_explanation :: Text ] 
 
-A short explanation (e.g. one to two sentences) providing background context and other information that led to the conclusion expressed in the rating. This is particularly applicable to ratings associated with "fact check" markup using &lt;a class="localLink" href="/ClaimReview"&gt;ClaimReview&lt;/a&gt;.
+A short explanation (e.g. one to two sentences) providing background context and other information that led to the conclusion expressed in the rating. This is particularly applicable to ratings associated with "fact check" markup using [[ClaimReview]].
 
 Predicated describes that: 
 [ #has_/domain  :: Rating ]

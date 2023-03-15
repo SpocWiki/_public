@@ -40,7 +40,7 @@ The available volume for cargo or luggage. For automobiles, this is usually the 
 
 Typical unit code(s): LTR for liters, FTQ for cubic foot/feet&lt;br/&gt;&lt;br/&gt;
 
-Note: You can use &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/minValue&quot;&gt;minValue&lt;/a&gt; and &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/maxValue&quot;&gt;maxValue&lt;/a&gt; to indicate ranges.
+Note: You can use [[minValue]] and [[maxValue]] to indicate ranges.
 
 Predicate describes that: 
 [ #has_/domain  :: Vehicle ]

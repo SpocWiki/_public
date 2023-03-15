@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_instructor :: Person ] or 
 - [ has_instructor :: Person ] 
 
-A person assigned to instruct or provide instructional assistance for the &lt;a class="localLink" href="/CourseInstance"&gt;CourseInstance&lt;/a&gt;.
+A person assigned to instruct or provide instructional assistance for the [[CourseInstance]].
 
 Relation describes that: 
 [ #has_/domain  :: CourseInstance ]

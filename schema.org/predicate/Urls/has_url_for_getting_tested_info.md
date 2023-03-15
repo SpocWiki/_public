@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/url/_for_getting_tested_info :: URL, WebContent ] or 
 - [ has_url_for_getting_tested_info :: URL, WebContent ] 
 
-Information about getting tested (for a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MedicalCondition&quot;&gt;MedicalCondition&lt;/a&gt;), e.g. in the context of a pandemic.
+Information about getting tested (for a [[MedicalCondition]]), e.g. in the context of a pandemic.
 
 Predicate describes that: 
 [ #has_/domain  :: SpecialAnnouncement ]

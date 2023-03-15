@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/url/_for_shipping_settings_link :: URL ] or 
 - [ has_url_for_shipping_settings_link :: URL ] 
 
-Link to a page containing &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ShippingRateSettings&quot;&gt;ShippingRateSettings&lt;/a&gt; and &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/DeliveryTimeSettings&quot;&gt;DeliveryTimeSettings&lt;/a&gt; details.
+Link to a page containing [[ShippingRateSettings]] and [[DeliveryTimeSettings]] details.
 
 Predicate describes that: 
 [ #has_/domain  :: OfferShippingDetails ]

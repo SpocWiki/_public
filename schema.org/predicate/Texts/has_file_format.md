@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_file_format :: Text, URL ] or 
 - [ has_text_about_file_format :: Text, URL ] 
 
-Media type, typically MIME format (see &lt;a href="http://www.iana.org/assignments/media-types/media-types.xhtml"&gt;IANA site&lt;/a&gt;) of the content, e.g. application/zip of a SoftwareApplication binary. In cases where a CreativeWork has several media type representations, "encoding" can be used to indicate each MediaObject alongside particular fileFormat information. Unregistered or niche file formats can be indicated instead via the most appropriate URL, e.g. defining Web page or a Wikipedia entry.
+Media type, typically MIME format (see [IANA site](http://www.iana.org/assignments/media-types/media-types.xhtml)) of the content, e.g. application/zip of a SoftwareApplication binary. In cases where a CreativeWork has several media type representations, "encoding" can be used to indicate each MediaObject alongside particular fileFormat information. Unregistered or niche file formats can be indicated instead via the most appropriate URL, e.g. defining Web page or a Wikipedia entry.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]

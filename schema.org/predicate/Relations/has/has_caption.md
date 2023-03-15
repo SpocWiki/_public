@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_caption :: MediaObject, Text ] or 
 - [ has_caption :: MediaObject, Text ] 
 
-The caption for this object. For downloadable machine formats (closed caption, subtitles etc.) use MediaObject and indicate the &lt;a class="localLink" href="/encodingFormat"&gt;encodingFormat&lt;/a&gt;.
+The caption for this object. For downloadable machine formats (closed caption, subtitles etc.) use MediaObject and indicate the [[encodingFormat]].
 
 Relation describes that: 
 [ #has_/domain  :: AudioObject, ImageObject, VideoObject ]

@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/geo/_that_intersects :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_intersects :: GeospatialGeometry, Place ] 
 
-Represents spatial relations in which two geometries (or the places they represent) have at least one point in common. As defined in &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;&gt;DE-9IM&lt;/a&gt;.
+Represents spatial relations in which two geometries (or the places they represent) have at least one point in common. As defined in &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;&gt;DE-9IM]].
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]

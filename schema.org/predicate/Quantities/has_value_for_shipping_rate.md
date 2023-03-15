@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/value/_for_shipping_rate :: MonetaryAmount ] or 
 - [ has_value_for_shipping_rate :: MonetaryAmount ] 
 
-The shipping rate is the cost of shipping to the specified destination. Typically, the maxValue and currency values (of the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/MonetaryAmount&quot;&gt;MonetaryAmount&lt;/a&gt;) are most appropriate.
+The shipping rate is the cost of shipping to the specified destination. Typically, the maxValue and currency values (of the [[MonetaryAmount]]) are most appropriate.
 
 Predicate describes that: 
 [ #has_/domain  :: OfferShippingDetails, ShippingRateSettings ]

@@ -35,7 +35,7 @@ Use it like this:
 
 The special opening hours of a certain place.&lt;br/&gt;&lt;br/&gt;
 
-Use this to explicitly override general opening hours brought in scope by &lt;a class="localLink" href="/openingHoursSpecification"&gt;openingHoursSpecification&lt;/a&gt; or &lt;a class="localLink" href="/openingHours"&gt;openingHours&lt;/a&gt;.
+Use this to explicitly override general opening hours brought in scope by [[openingHoursSpecification]] or [[openingHours]].
 
 Relation describes that: 
 [ #has_/domain  :: Place ]

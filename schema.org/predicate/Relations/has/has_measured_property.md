@@ -35,10 +35,10 @@ Use it like this:
 - [ #has/_measured_property :: Property ] or 
 - [ has_measured_property :: Property ] 
 
-The measuredProperty of an &lt;a class="localLink" href="/Observation"&gt;Observation&lt;/a&gt;, either a schema.org property, a property from other RDF-compatible systems, e.g. W3C RDF Data Cube, or schema.org extensions such as &lt;a href="https://www.gs1.org/voc/?show=properties"&gt;GS1's&lt;/a&gt;.
+The measuredProperty of an [[Observation]], either a schema.org property, a property from other RDF-compatible systems, e.g. W3C RDF Data Cube, or schema.org extensions such as [GS1's](https://www.gs1.org/voc/?show=properties).
 
 Relation describes that: 
 [ #has_/domain  :: Observation ]
-( #has_/name :: is_measured_property )
+( #has_/name :: has_measured_property )
 ( #has_/range :: Property )
 

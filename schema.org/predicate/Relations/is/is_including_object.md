@@ -33,7 +33,7 @@ Use it like this:
 - [ #is/_including_object :: TypeAndQuantityNode] or 
 - [ is_including_object :: TypeAndQuantityNode] 
 
-This links to a node or nodes indicating the exact quantity of the products included in  an &lt;a class="localLink" href="/Offer"&gt;Offer&lt;/a&gt; or &lt;a class="localLink" href="/ProductCollection"&gt;ProductCollection&lt;/a&gt;.
+This links to a node or nodes indicating the exact quantity of the products included in  an [[Offer]] or [[ProductCollection]].
 
 Relation describes that: 
 [ #has_/domain  :: Demand, Offer, ProductCollection]

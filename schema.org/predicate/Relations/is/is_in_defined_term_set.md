@@ -35,7 +35,7 @@ Use it like this:
 - [ #is/_in_defined_term_set :: DefinedTermSet, URL ] or 
 - [ is_in_defined_term_set :: DefinedTermSet, URL ] 
 
-A &lt;a class="localLink" href="/DefinedTermSet"&gt;DefinedTermSet&lt;/a&gt; that contains this term.
+A [[DefinedTermSet]] that contains this term.
 
 Relation describes that: 
 [ #has_/domain  :: DefinedTerm ]

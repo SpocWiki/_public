@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_xpath :: XPathType ] or 
 - [ has_xpath :: XPathType ] 
 
-An XPath, e.g. of a &lt;a class="localLink" href="/SpeakableSpecification"&gt;SpeakableSpecification&lt;/a&gt; or &lt;a class="localLink" href="/WebPageElement"&gt;WebPageElement&lt;/a&gt;. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".
+An XPath, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".
 
 Relation describes that: 
 [ #has_/domain  :: SpeakableSpecification, WebPageElement ]

@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_broadcast_timezone :: Text ] or 
 - [ has_text_about_broadcast_timezone :: Text ] 
 
-The timezone in &lt;a href="http://en.wikipedia.org/wiki/ISO_8601"&gt;ISO 8601 format&lt;/a&gt; for which the service bases its broadcasts.
+The timezone in [ISO 8601 format](http://en.wikipedia.org/wiki/ISO_8601) for which the service bases its broadcasts.
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastService ]

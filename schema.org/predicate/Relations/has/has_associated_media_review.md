@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_associated_media_review :: Review ] or 
 - [ has_associated_media_review :: Review ] 
 
-An associated &lt;a class="localLink" href="/MediaReview"&gt;MediaReview&lt;/a&gt;, related by specific common content, topic or claim. The expectation is that this property would be most typically used in cases where a single activity is conducting both claim reviews and media reviews, in which case &lt;a class="localLink" href="/relatedMediaReview"&gt;relatedMediaReview&lt;/a&gt; would commonly be used on a &lt;a class="localLink" href="/ClaimReview"&gt;ClaimReview&lt;/a&gt;, while &lt;a class="localLink" href="/relatedClaimReview"&gt;relatedClaimReview&lt;/a&gt; would be used on &lt;a class="localLink" href="/MediaReview"&gt;MediaReview&lt;/a&gt;.
+An associated [[MediaReview]], related by specific common content, topic or claim. The expectation is that this property would be most typically used in cases where a single activity is conducting both claim reviews and media reviews, in which case [[relatedMediaReview]] would commonly be used on a [[ClaimReview]], while [[relatedClaimReview]] would be used on [[MediaReview]].
 
 Relation describes that: 
 [ #has_/domain  :: Review ]

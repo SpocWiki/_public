@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_correction :: CorrectionComment, Text, URL ] or 
 - [ has_correction :: CorrectionComment, Text, URL ] 
 
-Indicates a correction to a &lt;a class="localLink" href="/CreativeWork"&gt;CreativeWork&lt;/a&gt;, either via a &lt;a class="localLink" href="/CorrectionComment"&gt;CorrectionComment&lt;/a&gt;, textually or in another document.
+Indicates a correction to a [[CreativeWork]], either via a [[CorrectionComment]], textually or in another document.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]

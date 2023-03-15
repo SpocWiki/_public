@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_game_platform :: Text, Thing, URL ] or 
 - [ has_text_about_game_platform :: Text, Thing, URL ] 
 
-The electronic systems used to play &lt;a href="http://en.wikipedia.org/wiki/Category:Video_game_platforms"&gt;video games&lt;/a&gt;.
+The electronic systems used to play [video games](http://en.wikipedia.org/wiki/Category:Video_game_platforms).
 
 Predicated describes that: 
 [ #has_/domain  :: VideoGame, VideoGameSeries ]

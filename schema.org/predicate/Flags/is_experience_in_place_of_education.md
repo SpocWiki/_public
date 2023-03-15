@@ -39,7 +39,7 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_experience_in_place_of_education :: Boolean ] 
 
-Indicates whether a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/JobPosting&quot;&gt;JobPosting&lt;/a&gt; will accept experience (as indicated by &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/OccupationalExperienceRequirements&quot;&gt;OccupationalExperienceRequirements&lt;/a&gt;) in place of its formal educational qualifications (as indicated by &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/educationRequirements&quot;&gt;educationRequirements&lt;/a&gt;). If true, indicates that satisfying one of these requirements is sufficient.
+Indicates whether a [[JobPosting]] will accept experience (as indicated by [[OccupationalExperienceRequirements]]) in place of its formal educational qualifications (as indicated by [[educationRequirements]]). If true, indicates that satisfying one of these requirements is sufficient.
 
 Predicate describes that: 
 [ #has_/domain  :: JobPosting ]

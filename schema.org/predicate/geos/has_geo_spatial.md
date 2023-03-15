@@ -37,7 +37,7 @@ Use it like this:
 - [ has_geo_spatial :: Place ] 
 
 The &quot;spatial&quot; property can be used in cases when more specific properties
-(e.g. &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/locationCreated&quot;&gt;locationCreated&lt;/a&gt;, &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/spatialCoverage&quot;&gt;spatialCoverage&lt;/a&gt;, &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/contentLocation&quot;&gt;contentLocation&lt;/a&gt;) are not known to be appropriate.
+(e.g. [[locationCreated]], [[spatialCoverage]], [[contentLocation]]) are not known to be appropriate.
 
 Predicate describes that: 
 [ #has_/domain  :: CreativeWork ]

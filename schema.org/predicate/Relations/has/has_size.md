@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_size :: DefinedTerm, QuantitativeValue, SizeSpecification, Text ] or 
 - [ has_size :: DefinedTerm, QuantitativeValue, SizeSpecification, Text ] 
 
-A standardized size of a product or creative work, specified either through a simple textual string (for example 'XL', '32Wx34L'), a  QuantitativeValue with a unitCode, or a comprehensive and structured &lt;a class="localLink" href="/SizeSpecification"&gt;SizeSpecification&lt;/a&gt;; in other cases, the &lt;a class="localLink" href="/width"&gt;width&lt;/a&gt;, &lt;a class="localLink" href="/height"&gt;height&lt;/a&gt;, &lt;a class="localLink" href="/depth"&gt;depth&lt;/a&gt; and &lt;a class="localLink" href="/weight"&gt;weight&lt;/a&gt; properties may be more applicable.
+A standardized size of a product or creative work, specified either through a simple textual string (for example 'XL', '32Wx34L'), a  QuantitativeValue with a unitCode, or a comprehensive and structured [[SizeSpecification]]; in other cases, the [[width]], [[height]], [[depth]] and [[weight]] properties may be more applicable.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, Product ]

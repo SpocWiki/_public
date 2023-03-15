@@ -36,7 +36,7 @@ Use it like this:
 A list of single or combined accessModes that are sufficient
 to understand all the intellectual content of a resource.
 
-Values should be drawn from the &lt;a href="https://www.w3.org/2021/a11y-discov-vocab/latest/#accessModeSufficient-vocabulary"&gt;approved vocabulary&lt;/a&gt;.
+Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessModeSufficient-vocabulary).
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]

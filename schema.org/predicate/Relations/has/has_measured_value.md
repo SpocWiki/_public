@@ -35,10 +35,10 @@ Use it like this:
 - [ #has/_measured_value :: DataType ] or 
 - [ has_measured_value :: DataType ] 
 
-The measuredValue of an &lt;a class="localLink" href="/Observation"&gt;Observation&lt;/a&gt;.
+The measuredValue of an [[Observation]].
 
 Relation describes that: 
 [ #has_/domain  :: Observation ]
-( #has_/name :: is_measured_value )
+( #has_/name :: has_measured_value )
 ( #has_/range :: DataType )
 

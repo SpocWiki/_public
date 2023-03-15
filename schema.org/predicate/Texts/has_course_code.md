@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_course_code :: Text ] or 
 - [ has_text_about_course_code :: Text ] 
 
-The identifier for the &lt;a class="localLink" href="/Course"&gt;Course&lt;/a&gt; used by the course &lt;a class="localLink" href="/provider"&gt;provider&lt;/a&gt; (e.g. CS101 or 6.001).
+The identifier for the [[Course]] used by the course [[provider]] (e.g. CS101 or 6.001).
 
 Predicated describes that: 
 [ #has_/domain  :: Course ]

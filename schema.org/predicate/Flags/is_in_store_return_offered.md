@@ -39,7 +39,7 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_in_store_return_offered :: Boolean ] 
 
-Are in-store returns offered? (For more advanced return methods use the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/returnMethod&quot;&gt;returnMethod&lt;/a&gt; property.)
+Are in-store returns offered? (For more advanced return methods use the [[returnMethod]] property.)
 
 Predicate describes that: 
 [ #has_/domain  :: MerchantReturnPolicy ]

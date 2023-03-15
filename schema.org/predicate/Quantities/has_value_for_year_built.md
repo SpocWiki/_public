@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/value/_for_year_built :: Number ] or 
 - [ has_value_for_year_built :: Number ] 
 
-The year an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Accommodation&quot;&gt;Accommodation&lt;/a&gt; was constructed. This corresponds to the &lt;a href&#x3D;&quot;https://ddwiki.reso.org/display/DDW17/YearBuilt+Field&quot;&gt;YearBuilt field in RESO&lt;/a&gt;.
+The year an [[Accommodation]] was constructed. This corresponds to the &lt;a href&#x3D;&quot;https://ddwiki.reso.org/display/DDW17/YearBuilt+Field&quot;&gt;YearBuilt field in RESO]].
 
 Predicate describes that: 
 [ #has_/domain  :: Accommodation ]

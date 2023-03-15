@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_return_policy_country :: Country, Text ] or 
 - [ has_return_policy_country :: Country, Text ] 
 
-The country where the product has to be sent to for returns, for example "Ireland" using the &lt;a class="localLink" href="/name"&gt;name&lt;/a&gt; property of &lt;a class="localLink" href="/Country"&gt;Country&lt;/a&gt;. You can also provide the two-letter &lt;a href="http://en.wikipedia.org/wiki/ISO_3166-1"&gt;ISO 3166-1 alpha-2 country code&lt;/a&gt;. Note that this can be different from the country where the product was originally shipped from or sent to.
+The country where the product has to be sent to for returns, for example "Ireland" using the [[name]] property of [[Country]]. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1). Note that this can be different from the country where the product was originally shipped from or sent to.
 
 Relation describes that: 
 [ #has_/domain  :: MerchantReturnPolicy ]

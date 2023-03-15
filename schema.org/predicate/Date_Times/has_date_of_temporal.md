@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/date/_of_temporal::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The "temporal" property can be used in cases where more specific properties
-(e.g. &lt;a class="localLink" href="/temporalCoverage"&gt;temporalCoverage&lt;/a&gt;, &lt;a class="localLink" href="/dateCreated"&gt;dateCreated&lt;/a&gt;, &lt;a class="localLink" href="/dateModified"&gt;dateModified&lt;/a&gt;, &lt;a class="localLink" href="/datePublished"&gt;datePublished&lt;/a&gt;) are not known to be appropriate.
+(e.g. [[temporalCoverage]], [[dateCreated]], [[dateModified]], [[datePublished]]) are not known to be appropriate.
 
 Formal Predicate: 
 [domain::CreativeWork]

@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/text/_about_salary_currency :: Text ] or 
 - [ has_text_about_salary_currency :: Text ] 
 
-The currency (coded using &lt;a href="http://en.wikipedia.org/wiki/ISO_4217"&gt;ISO 4217&lt;/a&gt;) used for the main salary information in this job posting or for this employee.
+The currency (coded using [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217)) used for the main salary information in this job posting or for this employee.
 
 Predicated describes that: 
 [ #has_/domain  :: EmployeeRole, JobPosting ]

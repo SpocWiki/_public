@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_diversity_staffing_report :: Article, URL ] or 
 - [ has_diversity_staffing_report :: Article, URL ] 
 
-For an &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt; (often but not necessarily a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt;), a report on staffing diversity issues. In a news context this might be for example ASNE or RTDNA (US) reports, or self-reported.
+For an [[Organization]] (often but not necessarily a [[NewsMediaOrganization]]), a report on staffing diversity issues. In a news context this might be for example ASNE or RTDNA (US) reports, or self-reported.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]

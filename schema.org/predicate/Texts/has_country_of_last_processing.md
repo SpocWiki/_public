@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_country_of_last_processing :: Text ] or 
 - [ has_text_about_country_of_last_processing :: Text ] 
 
-The place where the item (typically &lt;a class="localLink" href="/Product"&gt;Product&lt;/a&gt;) was last processed and tested before importation.
+The place where the item (typically [[Product]]) was last processed and tested before importation.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]

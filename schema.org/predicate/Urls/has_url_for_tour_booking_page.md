@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/url/_for_tour_booking_page :: URL ] or 
 - [ has_url_for_tour_booking_page :: URL ] 
 
-A page providing information on how to book a tour of some &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Place&quot;&gt;Place&lt;/a&gt;, such as an &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/Accommodation&quot;&gt;Accommodation&lt;/a&gt; or &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ApartmentComplex&quot;&gt;ApartmentComplex&lt;/a&gt; in a real estate setting, as well as other kinds of tours as appropriate.
+A page providing information on how to book a tour of some [[Place]], such as an [[Accommodation]] or [[ApartmentComplex]] in a real estate setting, as well as other kinds of tours as appropriate.
 
 Predicate describes that: 
 [ #has_/domain  :: Accommodation, ApartmentComplex, Place ]

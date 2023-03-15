@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_schedule_timezone :: Text ] or 
 - [ has_text_about_schedule_timezone :: Text ] 
 
-Indicates the timezone for which the time(s) indicated in the &lt;a class="localLink" href="/Schedule"&gt;Schedule&lt;/a&gt; are given. The value provided should be among those listed in the IANA Time Zone Database.
+Indicates the timezone for which the time(s) indicated in the [[Schedule]] are given. The value provided should be among those listed in the IANA Time Zone Database.
 
 Predicated describes that: 
 [ #has_/domain  :: Schedule ]

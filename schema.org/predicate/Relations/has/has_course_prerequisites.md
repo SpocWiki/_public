@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_course_prerequisites :: AlignmentObject, Course, Text ] or 
 - [ has_course_prerequisites :: AlignmentObject, Course, Text ] 
 
-Requirements for taking the Course. May be completion of another &lt;a class="localLink" href="/Course"&gt;Course&lt;/a&gt; or a textual description like "permission of instructor". Requirements may be a pre-requisite competency, referenced using &lt;a class="localLink" href="/AlignmentObject"&gt;AlignmentObject&lt;/a&gt;.
+Requirements for taking the Course. May be completion of another [[Course]] or a textual description like "permission of instructor". Requirements may be a pre-requisite competency, referenced using [[AlignmentObject]].
 
 Relation describes that: 
 [ #has_/domain  :: Course ]

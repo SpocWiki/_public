@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_unnamed_sources_policy :: CreativeWork, URL ] or 
 - [ has_unnamed_sources_policy :: CreativeWork, URL ] 
 
-For an &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt; (typically a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt;), a statement about policy on use of unnamed sources and the decision process required.
+For an [[Organization]] (typically a [[NewsMediaOrganization]]), a statement about policy on use of unnamed sources and the decision process required.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]

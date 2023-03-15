@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_term_code :: Text ] or 
 - [ has_text_about_term_code :: Text ] 
 
-A code that identifies this &lt;a class="localLink" href="/DefinedTerm"&gt;DefinedTerm&lt;/a&gt; within a &lt;a class="localLink" href="/DefinedTermSet"&gt;DefinedTermSet&lt;/a&gt;
+A code that identifies this [[DefinedTerm]] within a [[DefinedTermSet]]
 
 Predicated describes that: 
 [ #has_/domain  :: DefinedTerm ]

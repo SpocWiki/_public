@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_nsn :: Text ] or 
 - [ has_text_about_nsn :: Text ] 
 
-Indicates the &lt;a href="https://en.wikipedia.org/wiki/NATO_Stock_Number"&gt;NATO stock number&lt;/a&gt; (nsn) of a &lt;a class="localLink" href="/Product"&gt;Product&lt;/a&gt;.
+Indicates the [NATO stock number](https://en.wikipedia.org/wiki/NATO_Stock_Number) (nsn) of a [[Product]].
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]

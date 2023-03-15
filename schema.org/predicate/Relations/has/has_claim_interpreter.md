@@ -35,8 +35,8 @@ Use it like this:
 - [ #has/_claim_interpreter :: Organization, Person ] or 
 - [ has_claim_interpreter :: Organization, Person ] 
 
-For a &lt;a class="localLink" href="/Claim"&gt;Claim&lt;/a&gt; interpreted from &lt;a class="localLink" href="/MediaObject"&gt;MediaObject&lt;/a&gt; content
-    sed to indicate a claim contained, implied or refined from the content of a &lt;a class="localLink" href="/MediaObject"&gt;MediaObject&lt;/a&gt;.
+For a [[Claim]] interpreted from [[MediaObject]] content
+    sed to indicate a claim contained, implied or refined from the content of a [[MediaObject]].
 
 Relation describes that: 
 [ #has_/domain  :: Claim ]

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,15 +41,16 @@ Tag Instances like this:
 
 Content coded 'staged content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, considered in the context of how it was published or shared.
 
-For a <a class="localLink" href="/VideoObject">VideoObject</a> to be 'staged content': A video that has been created using actors or similarly contrived.
+# For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
+A video that has been created using actors or similarly contrived.
 
-For an <a class="localLink" href="/ImageObject">ImageObject</a> to be 'staged content': An image that was created using actors or similarly contrived, such as a screenshot of a fake tweet.
+# For an [[../../../creative_work/media_object/image_object|ImageObject]]: 
+An image that was created using actors or similarly contrived, such as a screenshot of a fake tweet.
 
-For an <a class="localLink" href="/ImageObject">ImageObject</a> with embedded text to be 'staged content': An image that was created using actors or similarly contrived, such as a screenshot of a fake tweet.
+# For an [[../../../creative_work/media_object/audio_object|AudioObject]]: 
+Audio that has been created using actors or similarly contrived.
 
-For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'staged content': Audio that has been created using actors or similarly contrived.
+[ #is_/sub_class_of :: [[../media_manipulation_rating_enumeration]] ]
 
-[ #is_/sub_class_of :: [[../MediaManipulationRatingEnumeration]] ]
-
-[ #is_/enum_of :: [[../MediaManipulationRatingEnumeration]] ]
+[ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 

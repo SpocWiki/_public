@@ -35,7 +35,7 @@ Use it like this:
 - [ #is/_holding_archive :: ArchiveOrganization] or 
 - [ is_holding_archive :: ArchiveOrganization] 
 
-&lt;a class="localLink" href="/ArchiveOrganization"&gt;ArchiveOrganization&lt;/a&gt; that holds, keeps or maintains the &lt;a class="localLink" href="/ArchiveComponent"&gt;ArchiveComponent&lt;/a&gt;.
+[[ArchiveOrganization]] that holds, keeps or maintains the [[ArchiveComponent]].
 
 Relation describes that: 
 [ #has_/domain  :: ArchiveComponent]

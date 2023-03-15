@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_no_bylines_policy :: CreativeWork, URL ] or 
 - [ has_no_bylines_policy :: CreativeWork, URL ] 
 
-For a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt; or other news-related &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt;, a statement explaining when authors of articles are not named in bylines.
+For a [[NewsMediaOrganization]] or other news-related [[Organization]], a statement explaining when authors of articles are not named in bylines.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization ]

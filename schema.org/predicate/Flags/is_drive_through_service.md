@@ -39,7 +39,7 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_drive_through_service :: Boolean ] 
 
-Indicates whether some facility (e.g. &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/FoodEstablishment&quot;&gt;FoodEstablishment&lt;/a&gt;, &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/CovidTestingFacility&quot;&gt;CovidTestingFacility&lt;/a&gt;) offers a service that can be used by driving through in a car. In the case of &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/CovidTestingFacility&quot;&gt;CovidTestingFacility&lt;/a&gt; such facilities could potentially help with social distancing from other potentially-infected users.
+Indicates whether some facility (e.g. [[FoodEstablishment]], [[CovidTestingFacility]]) offers a service that can be used by driving through in a car. In the case of [[CovidTestingFacility]] such facilities could potentially help with social distancing from other potentially-infected users.
 
 Predicate describes that: 
 [ #has_/domain  :: Place ]

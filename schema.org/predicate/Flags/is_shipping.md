@@ -39,7 +39,7 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_shipping :: Boolean ] 
 
-Indicates when shipping to a particular &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/shippingDestination&quot;&gt;shippingDestination&lt;/a&gt; is not available.
+Indicates when shipping to a particular [[shippingDestination]] is not available.
 
 Predicate describes that: 
 [ #has_/domain  :: OfferShippingDetails, ShippingRateSettings ]

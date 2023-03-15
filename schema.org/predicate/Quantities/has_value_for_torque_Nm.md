@@ -43,8 +43,8 @@ The torque (turning force) of the vehicle&#x27;s engine.&lt;br/&gt;&lt;br/&gt;
 Typical unit code(s): NU for newton metre (N m), F17 for pound-force per foot, or F48 for pound-force per inch&lt;br/&gt;&lt;br/&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Note 1: You can link to information about how the given value has been determined (e.g. reference RPM) using the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/valueReference&quot;&gt;valueReference&lt;/a&gt; property.&lt;/li&gt;
-&lt;li&gt;Note 2: You can use &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/minValue&quot;&gt;minValue&lt;/a&gt; and &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/maxValue&quot;&gt;maxValue&lt;/a&gt; to indicate ranges.&lt;/li&gt;
+&lt;li&gt;Note 1: You can link to information about how the given value has been determined (e.g. reference RPM) using the [[valueReference]] property.&lt;/li&gt;
+&lt;li&gt;Note 2: You can use [[minValue]] and [[maxValue]] to indicate ranges.&lt;/li&gt;
 &lt;/ul&gt;
 
 Predicate describes that: 

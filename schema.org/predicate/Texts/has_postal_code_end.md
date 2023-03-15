@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_postal_code_end :: Text ] or 
 - [ has_text_about_postal_code_end :: Text ] 
 
-Last postal code in the range (included). Needs to be after &lt;a class="localLink" href="/postalCodeBegin"&gt;postalCodeBegin&lt;/a&gt;.
+Last postal code in the range (included). Needs to be after [[postalCodeBegin]].
 
 Predicated describes that: 
 [ #has_/domain  :: PostalCodeRangeSpecification ]

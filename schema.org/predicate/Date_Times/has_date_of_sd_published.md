@@ -37,7 +37,7 @@ Use it like this:
 - [has_date_of_sd_published::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/date/_of_sd_published::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-Indicates the date on which the current structured data was generated / published. Typically used alongside &lt;a class="localLink" href="/sdPublisher"&gt;sdPublisher&lt;/a&gt;
+Indicates the date on which the current structured data was generated / published. Typically used alongside [[sdPublisher]]
 
 Formal Predicate: 
 [domain::CreativeWork]

@@ -38,14 +38,14 @@ Use it like this:
 - [ #has_/text/_about_measurement_technique :: Text, URL ] or 
 - [ has_text_about_measurement_technique :: Text, URL ] 
 
-A technique or technology used in a &lt;a class="localLink" href="/Dataset"&gt;Dataset&lt;/a&gt; (or &lt;a class="localLink" href="/DataDownload"&gt;DataDownload&lt;/a&gt;, &lt;a class="localLink" href="/DataCatalog"&gt;DataCatalog&lt;/a&gt;),
-corresponding to the method used for measuring the corresponding variable(s) (described using &lt;a class="localLink" href="/variableMeasured"&gt;variableMeasured&lt;/a&gt;). This is oriented towards scientific and scholarly dataset publication but may have broader applicability; it is not intended as a full representation of measurement, but rather as a high level summary for dataset discovery.&lt;br/&gt;&lt;br/&gt;
+A technique or technology used in a [[Dataset]] (or [[DataDownload]], [[DataCatalog]]),
+corresponding to the method used for measuring the corresponding variable(s) (described using [[variableMeasured]]). This is oriented towards scientific and scholarly dataset publication but may have broader applicability; it is not intended as a full representation of measurement, but rather as a high level summary for dataset discovery.&lt;br/&gt;&lt;br/&gt;
 
-For example, if &lt;a class="localLink" href="/variableMeasured"&gt;variableMeasured&lt;/a&gt; is: molecule concentration, &lt;a class="localLink" href="/measurementTechnique"&gt;measurementTechnique&lt;/a&gt; could be: "mass spectrometry" or "nmr spectroscopy" or "colorimetry" or "immunofluorescence".&lt;br/&gt;&lt;br/&gt;
+For example, if [[variableMeasured]] is: molecule concentration, [[measurementTechnique]] could be: "mass spectrometry" or "nmr spectroscopy" or "colorimetry" or "immunofluorescence".&lt;br/&gt;&lt;br/&gt;
 
-If the &lt;a class="localLink" href="/variableMeasured"&gt;variableMeasured&lt;/a&gt; is "depression rating", the &lt;a class="localLink" href="/measurementTechnique"&gt;measurementTechnique&lt;/a&gt; could be "Zung Scale" or "HAM-D" or "Beck Depression Inventory".&lt;br/&gt;&lt;br/&gt;
+If the [[variableMeasured]] is "depression rating", the [[measurementTechnique]] could be "Zung Scale" or "HAM-D" or "Beck Depression Inventory".&lt;br/&gt;&lt;br/&gt;
 
-If there are several &lt;a class="localLink" href="/variableMeasured"&gt;variableMeasured&lt;/a&gt; properties recorded for some given data object, use a &lt;a class="localLink" href="/PropertyValue"&gt;PropertyValue&lt;/a&gt; for each &lt;a class="localLink" href="/variableMeasured"&gt;variableMeasured&lt;/a&gt; and attach the corresponding &lt;a class="localLink" href="/measurementTechnique"&gt;measurementTechnique&lt;/a&gt;.
+If there are several [[variableMeasured]] properties recorded for some given data object, use a [[PropertyValue]] for each [[variableMeasured]] and attach the corresponding [[measurementTechnique]].
 
 Predicated describes that: 
 [ #has_/domain  :: DataCatalog, DataDownload, Dataset, PropertyValue ]

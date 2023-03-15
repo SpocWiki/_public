@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_toc_entry :: HyperTocEntry ] or 
 - [ has_toc_entry :: HyperTocEntry ] 
 
-Indicates a &lt;a class="localLink" href="/HyperTocEntry"&gt;HyperTocEntry&lt;/a&gt; in a &lt;a class="localLink" href="/HyperToc"&gt;HyperToc&lt;/a&gt;.
+Indicates a [[HyperTocEntry]] in a [[HyperToc]].
 
 Relation describes that: 
 [ #has_/domain  :: HyperToc ]

@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/value/_for_customer_remorse_return_shipping_fees_amount :: MonetaryAmount ] or 
 - [ has_value_for_customer_remorse_return_shipping_fees_amount :: MonetaryAmount ] 
 
-The amount of shipping costs if a product is returned due to customer remorse. Applicable when property &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/customerRemorseReturnFees&quot;&gt;customerRemorseReturnFees&lt;/a&gt; equals &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/ReturnShippingFees&quot;&gt;ReturnShippingFees&lt;/a&gt;.
+The amount of shipping costs if a product is returned due to customer remorse. Applicable when property [[customerRemorseReturnFees]] equals [[ReturnShippingFees]].
 
 Predicate describes that: 
 [ #has_/domain  :: MerchantReturnPolicy ]

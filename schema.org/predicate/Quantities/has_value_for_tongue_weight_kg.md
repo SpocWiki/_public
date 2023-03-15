@@ -43,9 +43,9 @@ The permitted vertical load (TWR) of a trailer attached to the vehicle. Also ref
 Typical unit code(s): KGM for kilogram, LBR for pound&lt;br/&gt;&lt;br/&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Note 1: You can indicate additional information in the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/name&quot;&gt;name&lt;/a&gt; of the &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/QuantitativeValue&quot;&gt;QuantitativeValue&lt;/a&gt; node.&lt;/li&gt;
-&lt;li&gt;Note 2: You may also link to a &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/QualitativeValue&quot;&gt;QualitativeValue&lt;/a&gt; node that provides additional information using &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/valueReference&quot;&gt;valueReference&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Note 3: Note that you can use &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/minValue&quot;&gt;minValue&lt;/a&gt; and &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/maxValue&quot;&gt;maxValue&lt;/a&gt; to indicate ranges.&lt;/li&gt;
+&lt;li&gt;Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.&lt;/li&gt;
+&lt;li&gt;Note 2: You may also link to a [[QualitativeValue]] node that provides additional information using [[valueReference]].&lt;/li&gt;
+&lt;li&gt;Note 3: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.&lt;/li&gt;
 &lt;/ul&gt;
 
 Predicate describes that: 

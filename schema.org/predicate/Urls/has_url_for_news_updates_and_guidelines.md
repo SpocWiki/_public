@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/url/_for_news_updates_and_guidelines :: URL, WebContent ] or 
 - [ has_url_for_news_updates_and_guidelines :: URL, WebContent ] 
 
-Indicates a page with news updates and guidelines. This could often be (but is not required to be) the main page containing &lt;a class&#x3D;&quot;localLink&quot; href&#x3D;&quot;/SpecialAnnouncement&quot;&gt;SpecialAnnouncement&lt;/a&gt; markup on a site.
+Indicates a page with news updates and guidelines. This could often be (but is not required to be) the main page containing [[SpecialAnnouncement]] markup on a site.
 
 Predicate describes that: 
 [ #has_/domain  :: SpecialAnnouncement ]

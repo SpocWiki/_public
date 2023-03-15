@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,15 +41,17 @@ Tag Instances like this:
 
 Content coded 'as original media content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, considered in the context of how it was published or shared.
 
-For a <a class="localLink" href="/VideoObject">VideoObject</a> to be 'original': No evidence the footage has been misleadingly altered or manipulated, though it may contain false or misleading claims.
+# For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
+No evidence the footage has been misleadingly altered or manipulated,
+though it may contain false or misleading claims.
 
-For an <a class="localLink" href="/ImageObject">ImageObject</a> to be 'original': No evidence the image has been misleadingly altered or manipulated, though it may still contain false or misleading claims.
+# For an [[../../../creative_work/media_object/image_object|ImageObject]]: 
+No evidence the image has been misleadingly altered or manipulated, though it may still contain false or misleading claims.
 
-For an <a class="localLink" href="/ImageObject">ImageObject</a> with embedded text to be 'original': No evidence the image has been misleadingly altered or manipulated, though it may still contain false or misleading claims.
+# For an [[../../../creative_work/media_object/audio_object|AudioObject]]: 
+No evidence the audio has been misleadingly altered or manipulated, though it may contain false or misleading claims.
 
-For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'original': No evidence the audio has been misleadingly altered or manipulated, though it may contain false or misleading claims.
+[ #is_/sub_class_of :: [[../media_manipulation_rating_enumeration]] ]
 
-[ #is_/sub_class_of :: [[../MediaManipulationRatingEnumeration]] ]
-
-[ #is_/enum_of :: [[../MediaManipulationRatingEnumeration]] ]
+[ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 

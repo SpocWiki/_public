@@ -35,7 +35,7 @@ Use it like this:
 - [ #is/_knowing_language :: Language, Text ] or 
 - [ is_knowing_language :: Language, Text ] 
 
-Of a &lt;a class="localLink" href="/Person"&gt;Person&lt;/a&gt;, and less typically of an &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt;, to indicate a known language. We do not distinguish skill levels or reading/writing/speaking/signing here. Use language codes from the &lt;a href="http://tools.ietf.org/html/bcp47"&gt;IETF BCP 47 standard&lt;/a&gt;.
+Of a [[Person]], and less typically of an [[Organization]], to indicate a known language. We do not distinguish skill levels or reading/writing/speaking/signing here. Use language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47).
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]

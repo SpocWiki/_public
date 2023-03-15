@@ -39,7 +39,7 @@ For a [[NewsMediaOrganization]], a link to the masthead page or a page listing t
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization ]
-( #has_/name :: is_masthead )
+( #has_/name :: has_masthead )
 ( #has_/range :: CreativeWork, URL )
 
 [ #is_/sub_property_of  :: publishingPrinciples ]

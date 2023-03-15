@@ -37,8 +37,8 @@ Use it like this:
 - [has_duration_until_repeat::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration/_until_repeat::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
-Defines the frequency at which &lt;a class="localLink" href="/Event"&gt;Event&lt;/a&gt;s will occur according to a schedule &lt;a class="localLink" href="/Schedule"&gt;Schedule&lt;/a&gt;. The intervals between
-      events should be defined as a &lt;a class="localLink" href="/Duration"&gt;Duration&lt;/a&gt; of time.
+Defines the frequency at which [[Event]]s will occur according to a schedule [[Schedule]]. The intervals between
+      events should be defined as a [[Duration]] of time.
 
 Formal Predicate: 
 [domain::Schedule]

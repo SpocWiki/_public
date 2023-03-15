@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_phonetic_text :: Text ] or 
 - [ has_text_about_phonetic_text :: Text ] 
 
-Representation of a text &lt;a class="localLink" href="/textValue"&gt;textValue&lt;/a&gt; using the specified &lt;a class="localLink" href="/speechToTextMarkup"&gt;speechToTextMarkup&lt;/a&gt;. For example the city name of Houston in IPA: /?hju?st?n/.
+Representation of a text [[textValue]] using the specified [[speechToTextMarkup]]. For example the city name of Houston in IPA: /?hju?st?n/.
 
 Predicated describes that: 
 [ #has_/domain  :: PronounceableText ]

@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_accommodation_floor_plan :: FloorPlan ] or 
 - [ has_accommodation_floor_plan :: FloorPlan ] 
 
-A floorplan of some &lt;a class="localLink" href="/Accommodation"&gt;Accommodation&lt;/a&gt;.
+A floorplan of some [[Accommodation]].
 
 Relation describes that: 
 [ #has_/domain  :: Accommodation, Residence ]

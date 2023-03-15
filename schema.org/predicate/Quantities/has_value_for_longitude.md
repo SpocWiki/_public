@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/value/_for_longitude :: Number, Text ] or 
 - [ has_value_for_longitude :: Number, Text ] 
 
-The longitude of a location. For example &lt;code&gt;-122.08585&lt;/code&gt; (&lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/World_Geodetic_System&quot;&gt;WGS 84&lt;/a&gt;).
+The longitude of a location. For example &lt;code&gt;-122.08585&lt;/code&gt; (&lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/World_Geodetic_System&quot;&gt;WGS 84]]).
 
 Predicate describes that: 
 [ #has_/domain  :: GeoCoordinates, Place ]

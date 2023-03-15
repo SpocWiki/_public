@@ -35,7 +35,7 @@ Use it like this:
 - [ #is/_funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] or 
 - [ is_funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] 
 
-Indicates something directly or indirectly funded or sponsored through a &lt;a class="localLink" href="/Grant"&gt;Grant&lt;/a&gt;. See also &lt;a class="localLink" href="/ownershipFundingInfo"&gt;ownershipFundingInfo&lt;/a&gt;.
+Indicates something directly or indirectly funded or sponsored through a [[Grant]]. See also [[ownershipFundingInfo]].
 
 Relation describes that: 
 [ #has_/domain  :: Grant ]

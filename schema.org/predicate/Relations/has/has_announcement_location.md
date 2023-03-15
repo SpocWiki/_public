@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_announcement_location :: CivicStructure, LocalBusiness ] or 
 - [ has_announcement_location :: CivicStructure, LocalBusiness ] 
 
-Indicates a specific &lt;a class="localLink" href="/CivicStructure"&gt;CivicStructure&lt;/a&gt; or &lt;a class="localLink" href="/LocalBusiness"&gt;LocalBusiness&lt;/a&gt; associated with the SpecialAnnouncement. For example, a specific testing facility or business with special opening hours. For a larger geographic region like a quarantine of an entire region, use &lt;a class="localLink" href="/spatialCoverage"&gt;spatialCoverage&lt;/a&gt;.
+Indicates a specific [[CivicStructure]] or [[LocalBusiness]] associated with the SpecialAnnouncement. For example, a specific testing facility or business with special opening hours. For a larger geographic region like a quarantine of an entire region, use [[spatialCoverage]].
 
 Relation describes that: 
 [ #has_/domain  :: SpecialAnnouncement ]

@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_observed_node :: StatisticalPopulation ] or 
 - [ has_observed_node :: StatisticalPopulation ] 
 
-The observedNode of an &lt;a class="localLink" href="/Observation"&gt;Observation&lt;/a&gt;, often a &lt;a class="localLink" href="/StatisticalPopulation"&gt;StatisticalPopulation&lt;/a&gt;.
+The observedNode of an [[Observation]], often a [[StatisticalPopulation]].
 
 Relation describes that: 
 [ #has_/domain  :: Observation ]

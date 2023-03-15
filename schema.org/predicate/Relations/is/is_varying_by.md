@@ -35,7 +35,7 @@ Use it like this:
 - [ #is/_varying_by :: DefinedTerm, Text] or 
 - [ is_varying_by :: DefinedTerm, Text] 
 
-Indicates the property or properties by which the variants in a &lt;a class="localLink" href="/ProductGroup"&gt;ProductGroup&lt;/a&gt; vary, e.g. their size, color etc. Schema.org properties can be referenced by their short name e.g. "color"; terms defined elsewhere can be referenced with their URIs.
+Indicates the property or properties by which the variants in a [[ProductGroup]] vary, e.g. their size, color etc. Schema.org properties can be referenced by their short name e.g. "color"; terms defined elsewhere can be referenced with their URIs.
 
 Relation describes that: 
 [ #has_/domain  :: ProductGroup]

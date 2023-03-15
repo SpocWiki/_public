@@ -33,7 +33,7 @@ Use it like this:
 - [ #has/_interaction_type :: Action ] or 
 - [ has_interaction_type :: Action ] 
 
-The Action representing the type of interaction. For up votes, +1s, etc. use &lt;a class="localLink" href="/LikeAction"&gt;LikeAction&lt;/a&gt;. For down votes use &lt;a class="localLink" href="/DislikeAction"&gt;DislikeAction&lt;/a&gt;. Otherwise, use the most specific Action.
+The Action representing the type of interaction. For up votes, +1s, etc. use [[LikeAction]]. For down votes use [[DislikeAction]]. Otherwise, use the most specific Action.
 
 Relation describes that: 
 [ #has_/domain  :: InteractionCounter ]

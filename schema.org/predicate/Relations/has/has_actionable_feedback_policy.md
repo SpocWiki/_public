@@ -35,7 +35,7 @@ Use it like this:
 - [ #has/_actionable_feedback_policy :: CreativeWork, URL ] or 
 - [ has_actionable_feedback_policy :: CreativeWork, URL ] 
 
-For a &lt;a class="localLink" href="/NewsMediaOrganization"&gt;NewsMediaOrganization&lt;/a&gt; or other news-related &lt;a class="localLink" href="/Organization"&gt;Organization&lt;/a&gt;;
+For a [[NewsMediaOrganization]] or other news-related [[Organization]];
 A statement about public engagement activities (for news media, the newsroom�s),
 including involving the public - digitally or otherwise -- 
 in coverage decisions, reporting and activities after publication.

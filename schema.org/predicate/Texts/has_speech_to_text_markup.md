@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/text/_about_speech_to_text_markup :: Text ] or 
 - [ has_text_about_speech_to_text_markup :: Text ] 
 
-Form of markup used. eg. &lt;a href="https://www.w3.org/TR/speech-synthesis11"&gt;SSML&lt;/a&gt; or &lt;a href="https://www.wikidata.org/wiki/Property:P898"&gt;IPA&lt;/a&gt;.
+Form of markup used. eg. [SSML](https://www.w3.org/TR/speech-synthesis11) or [IPA](https://www.wikidata.org/wiki/Property:P898).
 
 Predicated describes that: 
 [ #has_/domain  :: PronounceableText ]

@@ -38,8 +38,8 @@ Use it like this:
 - [ #has_/text/_about_floor_level :: Text ] or 
 - [ has_text_about_floor_level :: Text ] 
 
-The floor level for an &lt;a class="localLink" href="/Accommodation"&gt;Accommodation&lt;/a&gt; in a multi-storey building. Since counting
-  systems &lt;a href="https://en.wikipedia.org/wiki/Storey#Consecutive_number_floor_designations"&gt;vary internationally&lt;/a&gt;, the local system should be used where possible.
+The floor level for an [[Accommodation]] in a multi-storey building. Since counting
+  systems [vary internationally](https://en.wikipedia.org/wiki/Storey#Consecutive_number_floor_designations), the local system should be used where possible.
 
 Predicated describes that: 
 [ #has_/domain  :: Accommodation ]
