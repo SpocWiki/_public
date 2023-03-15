@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all take_actions.
 Tag Instances like this: 
 #is_/a_/take_action
 
-The act of gaining ownership of an object from an origin. Reciprocal of GiveAction.<br/><br/>
-Related actions:<br/><br/>
+The act of gaining ownership of an object from an origin. Reciprocal of GiveAction.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/GiveAction">GiveAction</a>: The reciprocal of TakeAction.</li>
 <li><a class="localLink" href="/ReceiveAction">ReceiveAction</a>: Unlike ReceiveAction, TakeAction implies that ownership has been transferred.</li>

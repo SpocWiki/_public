@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all search_actions.
 Tag Instances like this: 
 #is_/a_/search_action
 
-The act of searching for an object.<br/><br/>
-Related actions:<br/><br/>
+The act of searching for an object.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/FindAction">FindAction</a>: SearchAction generally leads to a FindAction, but not necessarily.</li>
 </ul>

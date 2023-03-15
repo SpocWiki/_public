@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all confirm_actions.
 Tag Instances like this: 
 #is_/a_/confirm_action
 
-The act of notifying someone that a future event/action is going to happen as expected.<br/><br/>
-Related actions:<br/><br/>
+The act of notifying someone that a future event/action is going to happen as expected.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/CancelAction">CancelAction</a>: The antonym of ConfirmAction.</li>
 </ul>

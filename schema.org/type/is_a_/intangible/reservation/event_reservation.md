@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all event_reservations.
 Tag Instances like this: 
 #is_/an_/event_reservation
 
-A reservation for an event like a concert, sporting event, or lecture.<br/><br/>
+A reservation for an event like a concert, sporting event, or lecture.
+
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, use <a class="localLink" href="/Offer">Offer</a>.
 
 [ #is_/sub_class_of :: [[../Reservation]] ]

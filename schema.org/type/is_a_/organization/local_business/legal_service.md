@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all legal_services.
 Tag Instances like this: 
 #is_/a_/legal_service
 
-A LegalService is a business that provides legally-oriented services, advice and representation, e.g. law firms.<br/><br/>
+A LegalService is a business that provides legally-oriented services, advice and representation, e.g. law firms.
+
 As a <a class="localLink" href="/LocalBusiness">LocalBusiness</a> it can be described as a <a class="localLink" href="/provider">provider</a> of one or more <a class="localLink" href="/Service">Service</a>(s).
 
 [ #is_/sub_class_of :: [[../LocalBusiness]] ]

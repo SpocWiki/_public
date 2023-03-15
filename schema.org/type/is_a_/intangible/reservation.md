@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all reservations.
 Tag Instances like this: 
 #is_/a_/reservation
 
-Describes a reservation for travel, dining or an event. Some reservations require tickets. <br/><br/>
+Describes a reservation for travel, dining or an event. Some reservations require tickets. 
+
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, restaurant reservations, flights, or rental cars, use <a class="localLink" href="/Offer">Offer</a>.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]

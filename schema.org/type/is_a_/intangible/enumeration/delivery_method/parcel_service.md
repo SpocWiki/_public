@@ -37,8 +37,10 @@ Class of all parcel_services.
 Tag Instances like this: 
 #is_/a_/parcel_service
 
-A private parcel service as the delivery mode available for a certain offer.<br/><br/>
-Commonly used values:<br/><br/>
+A private parcel service as the delivery mode available for a certain offer.
+
+Commonly used values:
+
 <ul>
 <li>http://purl.org/goodrelations/v1#DHL</li>
 <li>http://purl.org/goodrelations/v1#FederalExpress</li>

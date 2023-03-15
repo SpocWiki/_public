@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 superseded_by: SoftwareSourceCode
 
 tags:

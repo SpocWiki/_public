@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all bus_reservations.
 Tag Instances like this: 
 #is_/a_/bus_reservation
 
-A reservation for bus travel. <br/><br/>
+A reservation for bus travel. 
+
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, use <a class="localLink" href="/Offer">Offer</a>.
 
 [ #is_/sub_class_of :: [[../Reservation]] ]

@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all send_actions.
 Tag Instances like this: 
 #is_/a_/send_action
 
-The act of physically/electronically dispatching an object for transfer from an origin to a destination. Related actions:<br/><br/>
+The act of physically/electronically dispatching an object for transfer from an origin to a destination. Related actions:
+
 <ul>
 <li><a class="localLink" href="/ReceiveAction">ReceiveAction</a>: The reciprocal of SendAction.</li>
 <li><a class="localLink" href="/GiveAction">GiveAction</a>: Unlike GiveAction, SendAction does not imply the transfer of ownership (e.g. I can send you my laptop, but I'm not necessarily giving it to you).</li>

@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Predicate/Count
 
@@ -37,7 +36,9 @@ Use it like this:
 - [ #has_/number/_of_number_of_previous_owners :: Number, QuantitativeValue ] or 
 - [ has_number_of_number_of_previous_owners :: Number, QuantitativeValue ] 
 
-The number of owners of the vehicle, including the current one.<br/><br/>
+The number of owners of the vehicle, including the current one.
+
+
 
 Typical unit code(s): C62
 

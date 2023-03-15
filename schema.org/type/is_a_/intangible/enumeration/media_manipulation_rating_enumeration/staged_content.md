@@ -39,10 +39,14 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Content coded 'staged content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, considered in the context of how it was published or shared.<br/><br/>
-For a <a class="localLink" href="/VideoObject">VideoObject</a> to be 'staged content': A video that has been created using actors or similarly contrived.<br/><br/>
-For an <a class="localLink" href="/ImageObject">ImageObject</a> to be 'staged content': An image that was created using actors or similarly contrived, such as a screenshot of a fake tweet.<br/><br/>
-For an <a class="localLink" href="/ImageObject">ImageObject</a> with embedded text to be 'staged content': An image that was created using actors or similarly contrived, such as a screenshot of a fake tweet.<br/><br/>
+Content coded 'staged content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, considered in the context of how it was published or shared.
+
+For a <a class="localLink" href="/VideoObject">VideoObject</a> to be 'staged content': A video that has been created using actors or similarly contrived.
+
+For an <a class="localLink" href="/ImageObject">ImageObject</a> to be 'staged content': An image that was created using actors or similarly contrived, such as a screenshot of a fake tweet.
+
+For an <a class="localLink" href="/ImageObject">ImageObject</a> with embedded text to be 'staged content': An image that was created using actors or similarly contrived, such as a screenshot of a fake tweet.
+
 For an <a class="localLink" href="/AudioObject">AudioObject</a> to be 'staged content': Audio that has been created using actors or similarly contrived.
 
 [ #is_/sub_class_of :: [[../MediaManipulationRatingEnumeration]] ]

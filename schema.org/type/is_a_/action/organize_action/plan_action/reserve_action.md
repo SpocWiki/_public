@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all reserve_actions.
 Tag Instances like this: 
 #is_/a_/reserve_action
 
-Reserving a concrete object.<br/><br/>
-Related actions:<br/><br/>
+Reserving a concrete object.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/ScheduleAction">ScheduleAction</a>: Unlike ScheduleAction, ReserveAction reserves concrete objects (e.g. a table, a hotel) towards a time slot / spatial allocation.</li>
 </ul>

@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all play_actions.
 Tag Instances like this: 
 #is_/a_/play_action
 
-The act of playing/exercising/training/performing for enjoyment, leisure, recreation, competition or exercise.<br/><br/>
-Related actions:<br/><br/>
+The act of playing/exercising/training/performing for enjoyment, leisure, recreation, competition or exercise.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/ListenAction">ListenAction</a>: Unlike ListenAction (which is under ConsumeAction), PlayAction refers to performing for an audience or at an event, rather than consuming music.</li>
 <li><a class="localLink" href="/WatchAction">WatchAction</a>: Unlike WatchAction (which is under ConsumeAction), PlayAction refers to showing/displaying for an audience or at an event, rather than consuming visual content.</li>

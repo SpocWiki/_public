@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all give_actions.
 Tag Instances like this: 
 #is_/a_/give_action
 
-The act of transferring ownership of an object to a destination. Reciprocal of TakeAction.<br/><br/>
-Related actions:<br/><br/>
+The act of transferring ownership of an object to a destination. Reciprocal of TakeAction.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/TakeAction">TakeAction</a>: Reciprocal of GiveAction.</li>
 <li><a class="localLink" href="/SendAction">SendAction</a>: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).</li>

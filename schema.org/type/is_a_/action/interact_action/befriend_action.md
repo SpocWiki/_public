@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all befriend_actions.
 Tag Instances like this: 
 #is_/a_/befriend_action
 
-The act of forming a personal connection with someone (object) mutually/bidirectionally/symmetrically.<br/><br/>
-Related actions:<br/><br/>
+The act of forming a personal connection with someone (object) mutually/bidirectionally/symmetrically.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/FollowAction">FollowAction</a>: Unlike FollowAction, BefriendAction implies that the connection is reciprocal.</li>
 </ul>

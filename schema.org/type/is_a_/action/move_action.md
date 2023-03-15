@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all move_actions.
 Tag Instances like this: 
 #is_/a_/move_action
 
-The act of an agent relocating to a place.<br/><br/>
-Related actions:<br/><br/>
+The act of an agent relocating to a place.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/TransferAction">TransferAction</a>: Unlike TransferAction, the subject of the move is a living Person or Organization rather than an inanimate object.</li>
 </ul>

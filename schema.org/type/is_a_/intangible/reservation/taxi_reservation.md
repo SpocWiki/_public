@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all taxi_reservations.
 Tag Instances like this: 
 #is_/a_/taxi_reservation
 
-A reservation for a taxi.<br/><br/>
+A reservation for a taxi.
+
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, use <a class="localLink" href="/Offer">Offer</a>.
 
 [ #is_/sub_class_of :: [[../Reservation]] ]

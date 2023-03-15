@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all reject_actions.
 Tag Instances like this: 
 #is_/a_/reject_action
 
-The act of rejecting to/adopting an object.<br/><br/>
-Related actions:<br/><br/>
+The act of rejecting to/adopting an object.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/AcceptAction">AcceptAction</a>: The antonym of RejectAction.</li>
 </ul>

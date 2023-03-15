@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all un_register_actions.
 Tag Instances like this: 
 #is_/an_/un_register_action
 
-The act of un-registering from a service.<br/><br/>
-Related actions:<br/><br/>
+The act of un-registering from a service.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/RegisterAction">RegisterAction</a>: antonym of UnRegisterAction.</li>
 <li><a class="localLink" href="/LeaveAction">LeaveAction</a>: Unlike LeaveAction, UnRegisterAction implies that you are unregistering from a service you were previously registered, rather than leaving a team/group of people.</li>

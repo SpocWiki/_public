@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all aggregate_offers.
 Tag Instances like this: 
 #is_/an_/aggregate_offer
 
-When a single product is associated with multiple offers (for example, the same pair of shoes is offered by different merchants), then AggregateOffer can be used.<br/><br/>
+When a single product is associated with multiple offers (for example, the same pair of shoes is offered by different merchants), then AggregateOffer can be used.
+
 Note: AggregateOffers are normally expected to associate multiple offers that all share the same defined <a class="localLink" href="/businessFunction">businessFunction</a> value, or default to http://purl.org/goodrelations/v1#Sell if businessFunction is not explicitly defined.
 
 [ #is_/sub_class_of :: [[../Offer]] ]

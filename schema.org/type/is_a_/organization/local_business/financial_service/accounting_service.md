@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all accounting_services.
 Tag Instances like this: 
 #is_/an_/accounting_service
 
-Accountancy business.<br/><br/>
+Accountancy business.
+
 As a <a class="localLink" href="/LocalBusiness">LocalBusiness</a> it can be described as a <a class="localLink" href="/provider">provider</a> of one or more <a class="localLink" href="/Service">Service</a>(s).
 
 [ #is_/sub_class_of :: [[../FinancialService]] ]

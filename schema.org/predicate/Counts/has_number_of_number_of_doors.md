@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Predicate/Count
 
@@ -37,7 +36,9 @@ Use it like this:
 - [ #has_/number/_of_number_of_doors :: Number, QuantitativeValue ] or 
 - [ has_number_of_number_of_doors :: Number, QuantitativeValue ] 
 
-The number of doors.<br/><br/>
+The number of doors.
+
+
 
 Typical unit code(s): C62
 

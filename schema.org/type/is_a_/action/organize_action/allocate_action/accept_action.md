@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all accept_actions.
 Tag Instances like this: 
 #is_/an_/accept_action
 
-The act of committing to/adopting an object.<br/><br/>
-Related actions:<br/><br/>
+The act of committing to/adopting an object.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/RejectAction">RejectAction</a>: The antonym of AcceptAction.</li>
 </ul>

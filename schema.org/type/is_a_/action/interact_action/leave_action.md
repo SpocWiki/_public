@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all leave_actions.
 Tag Instances like this: 
 #is_/a_/leave_action
 
-An agent leaves an event / group with participants/friends at a location.<br/><br/>
-Related actions:<br/><br/>
+An agent leaves an event / group with participants/friends at a location.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/JoinAction">JoinAction</a>: The antonym of LeaveAction.</li>
 <li><a class="localLink" href="/UnRegisterAction">UnRegisterAction</a>: Unlike UnRegisterAction, LeaveAction implies leaving a group/team of people rather than a service.</li>

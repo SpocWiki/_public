@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all food_establishment_reservations.
 Tag Instances like this: 
 #is_/a_/food_establishment_reservation
 
-A reservation to dine at a food-related business.<br/><br/>
+A reservation to dine at a food-related business.
+
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations.
 
 [ #is_/sub_class_of :: [[../Reservation]] ]

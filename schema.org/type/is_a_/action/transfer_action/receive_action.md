@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all receive_actions.
 Tag Instances like this: 
 #is_/a_/receive_action
 
-The act of physically/electronically taking delivery of an object that has been transferred from an origin to a destination. Reciprocal of SendAction.<br/><br/>
-Related actions:<br/><br/>
+The act of physically/electronically taking delivery of an object that has been transferred from an origin to a destination. Reciprocal of SendAction.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/SendAction">SendAction</a>: The reciprocal of ReceiveAction.</li>
 <li><a class="localLink" href="/TakeAction">TakeAction</a>: Unlike TakeAction, ReceiveAction does not imply that the ownership has been transferred (e.g. I can receive a package, but it does not mean the package is now mine).</li>

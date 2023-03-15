@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all warranty_scopes.
 Tag Instances like this: 
 #is_/a_/warranty_scope
 
-A range of services that will be provided to a customer free of charge in case of a defect or malfunction of a product.<br/><br/>
-Commonly used values:<br/><br/>
+A range of services that will be provided to a customer free of charge in case of a defect or malfunction of a product.
+
+Commonly used values:
+
 <ul>
 <li>http://purl.org/goodrelations/v1#Labor-BringIn</li>
 <li>http://purl.org/goodrelations/v1#PartsAndLabor-BringIn</li>

@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all track_actions.
 Tag Instances like this: 
 #is_/a_/track_action
 
-An agent tracks an object for updates.<br/><br/>
-Related actions:<br/><br/>
+An agent tracks an object for updates.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/FollowAction">FollowAction</a>: Unlike FollowAction, TrackAction refers to the interest on the location of innanimates objects.</li>
 <li><a class="localLink" href="/SubscribeAction">SubscribeAction</a>: Unlike SubscribeAction, TrackAction refers to  the interest on the location of innanimate objects.</li>

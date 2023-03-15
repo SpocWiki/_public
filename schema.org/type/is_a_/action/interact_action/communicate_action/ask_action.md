@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all ask_actions.
 Tag Instances like this: 
 #is_/an_/ask_action
 
-The act of posing a question / favor to someone.<br/><br/>
-Related actions:<br/><br/>
+The act of posing a question / favor to someone.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/ReplyAction">ReplyAction</a>: Appears generally as a response to AskAction.</li>
 </ul>

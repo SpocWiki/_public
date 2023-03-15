@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all borrow_actions.
 Tag Instances like this: 
 #is_/a_/borrow_action
 
-The act of obtaining an object under an agreement to return it at a later date. Reciprocal of LendAction.<br/><br/>
-Related actions:<br/><br/>
+The act of obtaining an object under an agreement to return it at a later date. Reciprocal of LendAction.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/LendAction">LendAction</a>: Reciprocal of BorrowAction.</li>
 </ul>

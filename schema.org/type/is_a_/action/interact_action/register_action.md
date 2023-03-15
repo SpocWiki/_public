@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all register_actions.
 Tag Instances like this: 
 #is_/a_/register_action
 
-The act of registering to be a user of a service, product or web page.<br/><br/>
-Related actions:<br/><br/>
+The act of registering to be a user of a service, product or web page.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/JoinAction">JoinAction</a>: Unlike JoinAction, RegisterAction implies you are registering to be a user of a service, <em>not</em> a group/team of people.</li>
 <li><a class="localLink" href="/FollowAction">FollowAction</a>: Unlike FollowAction, RegisterAction doesn't imply that the agent is expecting to poll for updates from the object.</li>

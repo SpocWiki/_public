@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all alignment_objects.
 Tag Instances like this: 
 #is_/an_/alignment_object
 
-An intangible item that describes an alignment between a learning resource and a node in an educational framework.<br/><br/>
+An intangible item that describes an alignment between a learning resource and a node in an educational framework.
+
 Should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource <a class="localLink" href="/teaches">teaches</a> or <a class="localLink" href="/assesses">assesses</a> a competency.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]

@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all attorneys.
 Tag Instances like this: 
 #is_/an_/attorney
 
-Professional service: Attorney. <br/><br/>
+Professional service: Attorney. 
+
 This type is deprecated - <a class="localLink" href="/LegalService">LegalService</a> is more inclusive and less ambiguous.
 
 [ #is_/sub_class_of :: [[../LegalService]] ]

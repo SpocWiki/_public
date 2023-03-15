@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all news_articles.
 Tag Instances like this: 
 #is_/a_/news_article
 
-A NewsArticle is an article whose content reports news, or provides background context and supporting materials for understanding the news.<br/><br/>
+A NewsArticle is an article whose content reports news, or provides background context and supporting materials for understanding the news.
+
 A more detailed overview of <a href="/docs/news.html">schema.org News markup</a> is also available.
 
 [ #is_/sub_class_of :: [[../Article]] ]

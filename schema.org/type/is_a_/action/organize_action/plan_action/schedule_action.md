@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all schedule_actions.
 Tag Instances like this: 
 #is_/a_/schedule_action
 
-Scheduling future actions, events, or tasks.<br/><br/>
-Related actions:<br/><br/>
+Scheduling future actions, events, or tasks.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/ReserveAction">ReserveAction</a>: Unlike ReserveAction, ScheduleAction allocates future actions (e.g. an event, a task, etc) towards a time slot / spatial allocation.</li>
 </ul>

@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all apply_actions.
 Tag Instances like this: 
 #is_/an_/apply_action
 
-The act of registering to an organization/service without the guarantee to receive it.<br/><br/>
-Related actions:<br/><br/>
+The act of registering to an organization/service without the guarantee to receive it.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/RegisterAction">RegisterAction</a>: Unlike RegisterAction, ApplyAction has no guarantees that the application will be accepted.</li>
 </ul>

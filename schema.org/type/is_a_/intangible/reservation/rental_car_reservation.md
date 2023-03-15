@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,7 +35,8 @@ Class of all rental_car_reservations.
 Tag Instances like this: 
 #is_/a_/rental_car_reservation
 
-A reservation for a rental car.<br/><br/>
+A reservation for a rental car.
+
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations.
 
 [ #is_/sub_class_of :: [[../Reservation]] ]

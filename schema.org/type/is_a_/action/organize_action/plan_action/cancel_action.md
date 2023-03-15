@@ -20,7 +20,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-
 tags:
 - schema.org/Type
 
@@ -36,8 +35,10 @@ Class of all cancel_actions.
 Tag Instances like this: 
 #is_/a_/cancel_action
 
-The act of asserting that a future event/action is no longer going to happen.<br/><br/>
-Related actions:<br/><br/>
+The act of asserting that a future event/action is no longer going to happen.
+
+Related actions:
+
 <ul>
 <li><a class="localLink" href="/ConfirmAction">ConfirmAction</a>: The antonym of CancelAction.</li>
 </ul>

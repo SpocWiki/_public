@@ -37,7 +37,8 @@ Class of all periodicals.
 Tag Instances like this: 
 #is_/a_/periodical
 
-A publication in any medium issued in successive parts bearing numerical or chronological designations and intended to continue indefinitely, such as a magazine, scholarly journal, or newspaper.<br/><br/>
+A publication in any medium issued in successive parts bearing numerical or chronological designations and intended to continue indefinitely, such as a magazine, scholarly journal, or newspaper.
+
 See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliographic_2.html">blog post</a>.
 
 [ #is_/sub_class_of :: [[../CreativeWorkSeries]] ]
