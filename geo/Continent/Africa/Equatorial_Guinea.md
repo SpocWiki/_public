@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Equatorial Guinea
 zoomFeatures: true
-geojsonFolder: ./Equatorial Guinea
+geojsonFolder: ./Equatorial_Guinea
 ```
 
 [name-en::Equatorial Guinea]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Burkina Faso
 zoomFeatures: true
-geojsonFolder: ./Burkina Faso
+geojsonFolder: ./Burkina_Faso
 ```
 
 [name-en::Burkina Faso]

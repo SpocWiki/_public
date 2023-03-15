@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.85,-5.3]
 type: Country
 tags:
@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Cote D'ivoire
 zoomFeatures: true
-geojsonFolder: ./Cote D'ivoire
+geojsonFolder: ./Cote_D'ivoire
 ```
 
 [name-en::Cote D'ivoire]

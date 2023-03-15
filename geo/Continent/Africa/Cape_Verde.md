@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Cape Verde
 zoomFeatures: true
-geojsonFolder: ./Cape Verde
+geojsonFolder: ./Cape_Verde
 ```
 
 [name-en::Cape Verde]

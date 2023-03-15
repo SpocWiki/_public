@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Congo, Dem. Rep.
 zoomFeatures: true
-geojsonFolder: ./Congo, Dem. Rep.
+geojsonFolder: ./Congo~Dem_Rep
 ```
 
 [name-en::Congo, Dem. Rep.]

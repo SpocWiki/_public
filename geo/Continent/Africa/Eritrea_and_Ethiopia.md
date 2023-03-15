@@ -1,4 +1,4 @@
-﻿---
+---
 location: [9.03,38.74]
 type: Country
 tags:
@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Eritrea and Ethiopia
 zoomFeatures: true
-geojsonFolder: ./Eritrea and Ethiopia
+geojsonFolder: [./Eritrea,./Ethiopia]
 ```
 
 [name-en::Eritrea and Ethiopia]

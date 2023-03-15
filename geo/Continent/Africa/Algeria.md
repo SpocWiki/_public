@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Algeria
 zoomFeatures: true
-geojsonFolder: ./Algeria
+geojsonFolder: [./Algeria]
 ```
 
 [name-en::Algeria]

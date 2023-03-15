@@ -1,4 +1,4 @@
-﻿---
+---
 location: [4.36667,18.5833]
 type: Country
 tags:
@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Central African Rep.
 zoomFeatures: true
-geojsonFolder: ./Central African Rep.
+geojsonFolder: ./Central_African_Rep
 ```
 
 [name-en::Central African Rep.]
