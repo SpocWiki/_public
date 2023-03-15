@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Cayman Islands
 zoomFeatures: true
-geojsonFolder: ./Cayman Islands
+geojsonFolder: ./Cayman_Islands
 ```
 
 [name-en::Cayman Islands]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: French Guiana
 zoomFeatures: true
-geojsonFolder: ./French Guiana
+geojsonFolder: ./French_Guiana
 ```
 
 [name-en::French Guiana]

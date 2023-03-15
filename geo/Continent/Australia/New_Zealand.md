@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: New Zealand
 zoomFeatures: true
-geojsonFolder: ./New Zealand
+geojsonFolder: ./New_Zealand
 ```
 
 [name-en::New Zealand]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: United Arab Emirates
 zoomFeatures: true
-geojsonFolder: ./United Arab Emirates
+geojsonFolder: ./United_Arab_Emirates
 ```
 
 [name-en::United Arab Emirates]

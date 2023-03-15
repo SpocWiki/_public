@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: FORMER PANAMA CANAL ZONE
 zoomFeatures: true
-geojsonFolder: ./FORMER PANAMA CANAL ZONE
+geojsonFolder: ./FORMER_PANAMA_CANAL_ZONE
 ```
 
 [name-en::FORMER PANAMA CANAL ZONE]

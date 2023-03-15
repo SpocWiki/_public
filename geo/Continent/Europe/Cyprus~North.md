@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.1833,33.3667]
 type: Country
 tags:
@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Northern Cyprus
 zoomFeatures: true
-geojsonFolder: ./Northern Cyprus
+geojsonFolder: ./Cyprus
 ```
 
 [name-en::Northern Cyprus]

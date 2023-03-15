@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Saudi Arabia
 zoomFeatures: true
-geojsonFolder: ./Saudi Arabia
+geojsonFolder: ./Saudi_Arabia
 ```
 
 [name-en::Saudi Arabia]

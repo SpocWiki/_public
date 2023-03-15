@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Netherland Antilles and Aruba
 zoomFeatures: true
-geojsonFolder: ./Netherland Antilles and Aruba
+geojsonFolder: ./Netherland_Antilles_and_Aruba
 ```
 
 [name-en::Netherland Antilles and Aruba]

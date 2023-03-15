@@ -18,7 +18,7 @@ aliases:
 ```leaflet
 id: Korea, Dem. Rep.
 zoomFeatures: true
-geojsonFolder: ./Korea, Dem. Rep.
+geojsonFolder: ./Korea~North
 ```
 
 [name-en::Korea, Dem. Rep.]

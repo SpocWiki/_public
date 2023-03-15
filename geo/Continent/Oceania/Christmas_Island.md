@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Christmas Island
 zoomFeatures: true
-geojsonFolder: ./Christmas Island
+geojsonFolder: ./Christmas_Island
 ```
 
 [name-en::Christmas Island]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: USA minor outlying Islands
 zoomFeatures: true
-geojsonFolder: ./USA minor outlying Islands
+geojsonFolder: ./USA_minor_outlying_Islands
 ```
 
 [name-en::USA minor outlying Islands]

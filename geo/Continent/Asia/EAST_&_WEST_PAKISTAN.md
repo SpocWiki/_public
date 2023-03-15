@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: EAST &amp; WEST PAKISTAN
 zoomFeatures: true
-geojsonFolder: ./EAST &amp; WEST PAKISTAN
+geojsonFolder: ./EAST_&amp;_WEST_PAKISTAN
 ```
 
 [name-en::EAST &amp; WEST PAKISTAN]

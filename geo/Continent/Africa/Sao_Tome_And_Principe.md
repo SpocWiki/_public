@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Sao Tome And Principe
 zoomFeatures: true
-geojsonFolder: ./Sao Tome And Principe
+geojsonFolder: ./Sao_Tome_And_Principe
 ```
 
 [name-en::Sao Tome And Principe]

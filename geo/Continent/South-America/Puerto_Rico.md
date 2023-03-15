@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Puerto Rico
 zoomFeatures: true
-geojsonFolder: ./Puerto Rico
+geojsonFolder: ./Puerto_Rico
 ```
 
 [name-en::Puerto Rico]

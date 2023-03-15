@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Turks And Caicos Islands
 zoomFeatures: true
-geojsonFolder: ./Turks And Caicos Islands
+geojsonFolder: ./Turks_And_Caicos_Islands
 ```
 
 [name-en::Turks And Caicos Islands]

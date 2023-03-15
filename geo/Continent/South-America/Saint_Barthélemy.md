@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Saint Barthélemy
 zoomFeatures: true
-geojsonFolder: ./Saint Barthélemy
+geojsonFolder: ./Saint_Barthélemy
 ```
 
 [name-en::Saint Barthélemy]

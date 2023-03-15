@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Macao, China
 zoomFeatures: true
-geojsonFolder: ./Macao, China
+geojsonFolder: ./Macao,_China
 ```
 
 [name-en::Macao, China]

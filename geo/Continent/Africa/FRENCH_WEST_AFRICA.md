@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: FRENCH WEST AFRICA
 zoomFeatures: true
-geojsonFolder: ./FRENCH WEST AFRICA
+geojsonFolder: ./FRENCH_WEST_AFRICA
 ```
 
 [name-en::FRENCH WEST AFRICA]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: West Bank and Gaza
 zoomFeatures: true
-geojsonFolder: ./West Bank and Gaza
+geojsonFolder: ./West_Bank_and_Gaza
 ```
 
 [name-en::West Bank and Gaza]

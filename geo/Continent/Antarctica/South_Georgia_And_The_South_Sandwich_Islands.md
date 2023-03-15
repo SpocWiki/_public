@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: South Georgia And The South Sandwich Islands
 zoomFeatures: true
-geojsonFolder: ./South Georgia And The South Sandwich Islands
+geojsonFolder: ./South Georgia_And_The_South_Sandwich_Islands
 ```
 
 [name-en::South Georgia And The South Sandwich Islands]

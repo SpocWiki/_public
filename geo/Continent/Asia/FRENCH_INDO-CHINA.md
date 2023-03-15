@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: FRENCH INDO-CHINA
 zoomFeatures: true
-geojsonFolder: ./FRENCH INDO-CHINA
+geojsonFolder: ./FRENCH_INDO-CHINA
 ```
 
 [name-en::FRENCH INDO-CHINA]

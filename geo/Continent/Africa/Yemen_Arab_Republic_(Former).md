@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Yemen Arab Republic (Former)
 zoomFeatures: true
-geojsonFolder: ./Yemen Arab Republic (Former)
+geojsonFolder: ./Yemen_Arab_Republic_(Former)
 ```
 
 [name-en::Yemen Arab Republic (Former)]

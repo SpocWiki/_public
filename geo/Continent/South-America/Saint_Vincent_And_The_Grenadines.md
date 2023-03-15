@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Saint Vincent And The Grenadines
 zoomFeatures: true
-geojsonFolder: ./Saint Vincent And The Grenadines
+geojsonFolder: ./Saint_Vincent_And_The_Grenadines
 ```
 
 [name-en::Saint Vincent And The Grenadines]

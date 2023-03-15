@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: ANTARCTIC FISHERIES
 zoomFeatures: true
-geojsonFolder: ./ANTARCTIC FISHERIES
+geojsonFolder: ./ANTARCTIC_FISHERIES
 ```
 
 [name-en::ANTARCTIC FISHERIES]

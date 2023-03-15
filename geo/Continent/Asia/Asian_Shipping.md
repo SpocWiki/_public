@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Asian Shipping
 zoomFeatures: true
-geojsonFolder: ./Asian Shipping
+geojsonFolder: ./Asian_Shipping
 ```
 
 [name-en::Asian Shipping]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Papua New Guinea
 zoomFeatures: true
-geojsonFolder: ./Papua New Guinea
+geojsonFolder: ./Papua_New_Guinea
 ```
 
 [name-en::Papua New Guinea]

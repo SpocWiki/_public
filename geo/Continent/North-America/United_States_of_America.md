@@ -12,7 +12,7 @@ tags:
 ```leaflet
 id: United States of America
 zoomFeatures: true
-geojsonFolder: ./United States of America
+geojsonFolder: ./United_States_of_America
 ```
 
 [name-en::United States of America]

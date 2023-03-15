@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Palestinian Territory, Occupied
 zoomFeatures: true
-geojsonFolder: ./Palestinian Territory, Occupied
+geojsonFolder: ./Palestinian_Territory,_Occupied
 ```
 
 [name-en::Palestinian Territory, Occupied]

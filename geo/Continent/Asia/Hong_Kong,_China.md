@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Hong Kong, China
 zoomFeatures: true
-geojsonFolder: ./Hong Kong, China
+geojsonFolder: ./Hong_Kong,_China
 ```
 
 [name-en::Hong Kong, China]

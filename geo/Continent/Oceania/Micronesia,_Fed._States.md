@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Micronesia, Fed. States
 zoomFeatures: true
-geojsonFolder: ./Micronesia, Fed. States
+geojsonFolder: ./Micronesia,_Fed._States
 ```
 
 [name-en::Micronesia, Fed. States]

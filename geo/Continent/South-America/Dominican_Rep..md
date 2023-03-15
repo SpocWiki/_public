@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Dominican Rep.
 zoomFeatures: true
-geojsonFolder: ./Dominican Rep.
+geojsonFolder: ./Dominican_Rep.
 ```
 
 [name-en::Dominican Rep.]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: East Germany
 zoomFeatures: true
-geojsonFolder: ./East Germany
+geojsonFolder: ./East_Germany
 ```
 
 [name-en::East Germany]

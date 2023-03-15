@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Marshall Islands
 zoomFeatures: true
-geojsonFolder: ./Marshall Islands
+geojsonFolder: ./Marshall_Islands
 ```
 
 [name-en::Marshall Islands]

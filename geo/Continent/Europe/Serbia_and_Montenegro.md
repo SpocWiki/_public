@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Serbia and Montenegro
 zoomFeatures: true
-geojsonFolder: ./Serbia and Montenegro
+geojsonFolder: ./Serbia_and_Montenegro
 ```
 
 [name-en::Serbia and Montenegro]

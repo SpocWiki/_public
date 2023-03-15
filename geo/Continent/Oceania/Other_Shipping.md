@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Other Shipping
 zoomFeatures: true
-geojsonFolder: ./Other Shipping
+geojsonFolder: ./Other_Shipping
 ```
 
 [name-en::Other Shipping]

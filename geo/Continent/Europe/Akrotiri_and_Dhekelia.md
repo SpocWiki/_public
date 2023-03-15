@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Akrotiri and Dhekelia
 zoomFeatures: true
-geojsonFolder: ./Akrotiri and Dhekelia
+geojsonFolder: ./Akrotiri_and_Dhekelia
 ```
 
 [name-en::Akrotiri and Dhekelia]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Western Sahara
 zoomFeatures: true
-geojsonFolder: ./Western Sahara
+geojsonFolder: ./Western_Sahara
 ```
 
 [name-en::Western Sahara]

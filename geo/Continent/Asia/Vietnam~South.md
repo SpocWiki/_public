@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: South Vietnam
 zoomFeatures: true
-geojsonFolder: ./South Vietnam
+geojsonFolder: ./Vietnam~South
 ```
 
 [name-en::South Vietnam]

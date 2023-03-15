@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: St. Kitts-Nevis-Anguilla
 zoomFeatures: true
-geojsonFolder: ./St. Kitts-Nevis-Anguilla
+geojsonFolder: ./St._Kitts-Nevis-Anguilla
 ```
 
 [name-en::St. Kitts-Nevis-Anguilla]

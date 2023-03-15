@@ -10,7 +10,7 @@ confidential: public
 ```leaflet
 id: North America
 zoomFeatures: true
-geojsonFolder: ./North America
+geojsonFolder: ./North_America
 ```
 
 [name-en::North America]

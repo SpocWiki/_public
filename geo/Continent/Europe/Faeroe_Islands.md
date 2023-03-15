@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Faeroe Islands
 zoomFeatures: true
-geojsonFolder: ./Faeroe Islands
+geojsonFolder: ./Faeroe_Islands
 ```
 
 [name-en::Faeroe Islands]

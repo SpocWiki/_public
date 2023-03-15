@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Virgin Islands (U.S.)
 zoomFeatures: true
-geojsonFolder: ./Virgin Islands (U.S.)
+geojsonFolder: ./Virgin_Islands_(U.S.)
 ```
 
 [name-en::Virgin Islands (U.S.)]

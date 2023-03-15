@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Saint Kitts And Nevis
 zoomFeatures: true
-geojsonFolder: ./Saint Kitts And Nevis
+geojsonFolder: ./Saint_Kitts_And_Nevis
 ```
 
 [name-en::Saint Kitts And Nevis]

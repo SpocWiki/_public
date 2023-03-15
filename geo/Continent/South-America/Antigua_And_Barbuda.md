@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Antigua And Barbuda
 zoomFeatures: true
-geojsonFolder: ./Antigua And Barbuda
+geojsonFolder: ./Antigua_And_Barbuda
 ```
 
 [name-en::Antigua And Barbuda]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Cocos Island
 zoomFeatures: true
-geojsonFolder: ./Cocos Island
+geojsonFolder: ./Cocos_Island
 ```
 
 [name-en::Cocos Island]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: DEMOCRATIC REPUBLIC OF VIETNAM
 zoomFeatures: true
-geojsonFolder: ./DEMOCRATIC REPUBLIC OF VIETNAM
+geojsonFolder: ./DEMOCRATIC_REPUBLIC_OF_VIETNAM
 ```
 
 [name-en::DEMOCRATIC REPUBLIC OF VIETNAM]

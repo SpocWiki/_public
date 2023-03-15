@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Norfolk Island
 zoomFeatures: true
-geojsonFolder: ./Norfolk Island
+geojsonFolder: ./Norfolk_Island
 ```
 
 [name-en::Norfolk Island]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Costa Rica
 zoomFeatures: true
-geojsonFolder: ./Costa Rica
+geojsonFolder: ./Costa_Rica
 ```
 
 [name-en::Costa Rica]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Svalbard And Jan Mayen Islands
 zoomFeatures: true
-geojsonFolder: ./Svalbard And Jan Mayen Islands
+geojsonFolder: ./Svalbard_And_Jan_Mayen_Islands
 ```
 
 [name-en::Svalbard And Jan Mayen Islands]

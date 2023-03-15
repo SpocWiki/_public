@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: French Polynesia
 zoomFeatures: true
-geojsonFolder: ./French Polynesia
+geojsonFolder: ./French_Polynesia
 ```
 
 [name-en::French Polynesia]

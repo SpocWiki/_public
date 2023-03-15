@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: American Samoa
 zoomFeatures: true
-geojsonFolder: ./American Samoa
+geojsonFolder: ./American_Samoa
 ```
 
 [name-en::American Samoa]

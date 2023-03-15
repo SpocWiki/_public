@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Northern Mariana Islands
 zoomFeatures: true
-geojsonFolder: ./Northern Mariana Islands
+geojsonFolder: ./Northern_Mariana_Islands
 ```
 
 [name-en::Northern Mariana Islands]

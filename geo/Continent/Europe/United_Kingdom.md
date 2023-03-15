@@ -13,7 +13,7 @@ tags:
 ```leaflet
 id: United Kingdom
 zoomFeatures: true
-geojsonFolder: ./United Kingdom
+geojsonFolder: ./United_Kingdom
 ```
 
 [name-en::United Kingdom]

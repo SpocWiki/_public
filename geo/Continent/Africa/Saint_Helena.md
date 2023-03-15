@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Saint Helena
 zoomFeatures: true
-geojsonFolder: ./Saint Helena
+geojsonFolder: ./Saint_Helena
 ```
 
 [name-en::Saint Helena]

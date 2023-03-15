@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Bouvet Island
 zoomFeatures: true
-geojsonFolder: ./Bouvet Island
+geojsonFolder: ./Bouvet_Island
 ```
 
 [name-en::Bouvet Island]

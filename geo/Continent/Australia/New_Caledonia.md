@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: New Caledonia
 zoomFeatures: true
-geojsonFolder: ./New Caledonia
+geojsonFolder: ./New_Caledonia
 ```
 
 [name-en::New Caledonia]

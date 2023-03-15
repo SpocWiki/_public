@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: El Salvador
 zoomFeatures: true
-geojsonFolder: ./El Salvador
+geojsonFolder: ./El_Salvador
 ```
 
 [name-en::El Salvador]

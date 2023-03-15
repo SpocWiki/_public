@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Ryukyu Islands
 zoomFeatures: true
-geojsonFolder: ./Ryukyu Islands
+geojsonFolder: ./Ryukyu_Islands
 ```
 
 [name-en::Ryukyu Islands]

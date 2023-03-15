@@ -12,7 +12,7 @@ confidential: public
 ```leaflet
 id: Channel Islands
 zoomFeatures: true
-geojsonFolder: ./Channel Islands
+geojsonFolder: ./Channel_Islands
 ```
 
 [name-en::Channel Islands]

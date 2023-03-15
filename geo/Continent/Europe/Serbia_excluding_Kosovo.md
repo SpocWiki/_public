@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Serbia excluding Kosovo
 zoomFeatures: true
-geojsonFolder: ./Serbia excluding Kosovo
+geojsonFolder: ./Serbia_excluding_Kosovo
 ```
 
 [name-en::Serbia excluding Kosovo]

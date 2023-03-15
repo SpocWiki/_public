@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Yemen, Rep.
 zoomFeatures: true
-geojsonFolder: ./Yemen, Rep.
+geojsonFolder: ./Yemen~Republic
 ```
 
 [name-en::Yemen, Rep.]

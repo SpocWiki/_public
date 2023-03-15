@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: British Virgin Islands
 zoomFeatures: true
-geojsonFolder: ./British Virgin Islands
+geojsonFolder: ./British_Virgin_Islands
 ```
 
 [name-en::British Virgin Islands]

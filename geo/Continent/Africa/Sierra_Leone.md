@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Sierra Leone
 zoomFeatures: true
-geojsonFolder: ./Sierra Leone
+geojsonFolder: ./Sierra_Leone
 ```
 
 [name-en::Sierra Leone]

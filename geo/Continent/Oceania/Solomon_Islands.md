@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Solomon Islands
 zoomFeatures: true
-geojsonFolder: ./Solomon Islands
+geojsonFolder: ./Solomon_Islands
 ```
 
 [name-en::Solomon Islands]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Heard And Mc Donald Islands
 zoomFeatures: true
-geojsonFolder: ./Heard And Mc Donald Islands
+geojsonFolder: ./Heard_And_Mc_Donald_Islands
 ```
 
 [name-en::Heard And Mc Donald Islands]

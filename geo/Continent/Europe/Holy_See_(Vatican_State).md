@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Holy See (Vatican State)
 zoomFeatures: true
-geojsonFolder: ./Holy See (Vatican State)
+geojsonFolder: ./Holy_See_(Vatican_State)
 ```
 
 [name-en::Holy See (Vatican State)]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: LEEWARD ISLANDS
 zoomFeatures: true
-geojsonFolder: ./LEEWARD ISLANDS
+geojsonFolder: ./LEEWARD_ISLANDS
 ```
 
 [name-en::LEEWARD ISLANDS]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Netherlands Antilles
 zoomFeatures: true
-geojsonFolder: ./Netherlands Antilles
+geojsonFolder: ./Netherlands_Antilles
 ```
 
 [name-en::Netherlands Antilles]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: British Indian Ocean Territory
 zoomFeatures: true
-geojsonFolder: ./British Indian Ocean Territory
+geojsonFolder: ./British_Indian_Ocean_Territory
 ```
 
 [name-en::British Indian Ocean Territory]

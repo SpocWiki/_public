@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: West Germany
 zoomFeatures: true
-geojsonFolder: ./West Germany
+geojsonFolder: ./West_Germany
 ```
 
 [name-en::West Germany]

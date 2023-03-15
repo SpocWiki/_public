@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Saint Lucia
 zoomFeatures: true
-geojsonFolder: ./Saint Lucia
+geojsonFolder: ./Saint_Lucia
 ```
 
 [name-en::Saint Lucia]

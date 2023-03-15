@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Sri Lanka
 zoomFeatures: true
-geojsonFolder: ./Sri Lanka
+geojsonFolder: ./Sri_Lanka
 ```
 
 [name-en::Sri Lanka]

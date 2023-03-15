@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Cook Islands
 zoomFeatures: true
-geojsonFolder: ./Cook Islands
+geojsonFolder: ./Cook_Islands
 ```
 
 [name-en::Cook Islands]

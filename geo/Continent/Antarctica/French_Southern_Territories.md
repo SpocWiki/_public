@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: French Southern Territories
 zoomFeatures: true
-geojsonFolder: ./French Southern Territories
+geojsonFolder: ./French_Southern_Territories
 ```
 
 [name-en::French Southern Territories]

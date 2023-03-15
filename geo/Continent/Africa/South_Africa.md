@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: South Africa
 zoomFeatures: true
-geojsonFolder: ./South Africa
+geojsonFolder: ./South_Africa
 ```
 
 [name-en::South Africa]

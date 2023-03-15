@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Yemen Democratic (Former)
 zoomFeatures: true
-geojsonFolder: ./Yemen Democratic (Former)
+geojsonFolder: ./Yemen_Democratic_(Former)
 ```
 
 [name-en::Yemen Democratic (Former)]

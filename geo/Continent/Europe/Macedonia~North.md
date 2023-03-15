@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Macedonia, FYR
 zoomFeatures: true
-geojsonFolder: ./Macedonia, FYR
+geojsonFolder: ./Macedonia~North
 ```
 
 [name-en::Macedonia, FYR]

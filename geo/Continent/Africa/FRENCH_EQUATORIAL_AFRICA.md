@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: FRENCH EQUATORIAL AFRICA
 zoomFeatures: true
-geojsonFolder: ./FRENCH EQUATORIAL AFRICA
+geojsonFolder: ./FRENCH_EQUATORIAL_AFRICA
 ```
 
 [name-en::FRENCH EQUATORIAL AFRICA]

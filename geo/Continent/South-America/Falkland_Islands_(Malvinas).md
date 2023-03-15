@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Falkland Islands (Malvinas)
 zoomFeatures: true
-geojsonFolder: ./Falkland Islands (Malvinas)
+geojsonFolder: ./Falkland_Islands_(Malvinas)
 ```
 
 [name-en::Falkland Islands (Malvinas)]

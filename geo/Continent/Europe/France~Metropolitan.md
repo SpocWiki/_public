@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: France, Metropolitan
 zoomFeatures: true
-geojsonFolder: ./France, Metropolitan
+geojsonFolder: ./France~Metropolitan
 ```
 
 [name-en::France, Metropolitan]

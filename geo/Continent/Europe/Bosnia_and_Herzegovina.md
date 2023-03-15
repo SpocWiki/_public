@@ -12,7 +12,7 @@ confidential: public
 ```leaflet
 id: Bosnia and Herzegovina
 zoomFeatures: true
-geojsonFolder: ./Bosnia and Herzegovina
+geojsonFolder: ./Bosnia_and_Herzegovina
 ```
 
 [name-en::Bosnia and Herzegovina]

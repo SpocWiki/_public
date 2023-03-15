@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: San Marino
 zoomFeatures: true
-geojsonFolder: ./San Marino
+geojsonFolder: ./San_Marino
 ```
 
 [name-en::San Marino]

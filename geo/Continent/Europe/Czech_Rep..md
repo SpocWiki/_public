@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Czech Rep.
 zoomFeatures: true
-geojsonFolder: ./Czech Rep.
+geojsonFolder: ./Czech_Rep.
 ```
 
 [name-en::Czech Rep.]

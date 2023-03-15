@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Saint Martin
 zoomFeatures: true
-geojsonFolder: ./Saint Martin
+geojsonFolder: ./Saint_Martin
 ```
 
 [name-en::Saint Martin]

@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Isle of Man
 zoomFeatures: true
-geojsonFolder: ./Isle of Man
+geojsonFolder: ./Isle_of_Man
 ```
 
 [name-en::Isle of Man]

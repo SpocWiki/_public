@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Wallis et Futuna
 zoomFeatures: true
-geojsonFolder: ./Wallis et Futuna
+geojsonFolder: ./Wallis_et_Futuna
 ```
 
 [name-en::Wallis et Futuna]

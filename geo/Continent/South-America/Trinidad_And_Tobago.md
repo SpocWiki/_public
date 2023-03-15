@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Trinidad And Tobago
 zoomFeatures: true
-geojsonFolder: ./Trinidad And Tobago
+geojsonFolder: ./Trinidad_And_Tobago
 ```
 
 [name-en::Trinidad And Tobago]
