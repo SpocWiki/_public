@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_part_of_trip
+title: is_part_of_trip
 
-linkTitle: has_part_of_trip
+linkTitle: is_part_of_trip
 keywords: [part, of, trip]
 layout: 
 draft: false
@@ -26,14 +26,14 @@ aliases:
 - part-of-trip
 - part_of_trip
 - partOfTrip
-- has_part_of_trip
+- is_part_of_trip
 ---
 
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_part_of_trip :: Trip ] or 
-- [ has_part_of_trip :: Trip ] 
+- [ #is/_part_of_trip :: Trip ] or 
+- [ is_part_of_trip :: Trip ] 
 
 Identifies that this [[Trip]] is a subTrip of another Trip.  For example Day 1, Day 2, etc. of a multi-day trip.
 

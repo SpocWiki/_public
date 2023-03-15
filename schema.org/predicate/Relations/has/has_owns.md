@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_owns
+title: is_owning
 
-linkTitle: has_owns
+linkTitle: is_owning
 keywords: [owns]
 layout: 
 draft: false
@@ -24,19 +24,17 @@ tags:
 
 aliases:
 - owns
-- owns
-- owns
-- has_owns
+- is_owning
 ---
 
 Use it like this: 
-- [ #has/_owns :: OwnershipInfo, Product ] or 
-- [ has_owns :: OwnershipInfo, Product ] 
+- [ #is/_owning :: OwnershipInfo, Product ] or 
+- [ is_owning :: OwnershipInfo, Product ] 
 
 Products owned by the organization or person.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_owns )
+( #has_/name :: is_owning )
 ( #has_/range :: OwnershipInfo, Product )
 

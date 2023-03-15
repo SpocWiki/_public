@@ -25,9 +25,8 @@ tags:
 - schema.org/Predicate/Relation
 
 aliases:
-- parent
-- parent
-- parent
+- has_father
+- has_mother
 - has_parent
 ---
 
@@ -39,6 +38,6 @@ A parent of this person.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_parent )
+( #has_/name :: has_parent )
 ( #has_/range :: Person )
 

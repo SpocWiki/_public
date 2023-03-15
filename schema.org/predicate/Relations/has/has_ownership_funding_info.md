@@ -39,7 +39,7 @@ For an [[Organization]] (often but not necessarily a [[NewsMediaOrganization]]),
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]
-( #has_/name :: is_ownership_funding_info )
+( #has_/name :: has_ownership_funding_info )
 ( #has_/range :: AboutPage, CreativeWork, Text, URL )
 
 [ #is_/sub_property_of  :: publishingPrinciples ]

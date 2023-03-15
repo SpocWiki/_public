@@ -37,6 +37,6 @@ The opening hours of a certain place.
 
 Relation describes that: 
 [ #has_/domain  :: Place ]
-( #has_/name :: is_opening_hours_specification )
+( #has_/name :: has_opening_hours_specification )
 ( #has_/range :: OpeningHoursSpecification )
 

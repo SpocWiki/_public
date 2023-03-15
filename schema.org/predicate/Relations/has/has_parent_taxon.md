@@ -39,7 +39,7 @@ Closest parent taxon of the taxon in question.
 
 Relation describes that: 
 [ #has_/domain  :: Taxon ]
-( #has_/name :: is_parent_taxon )
+( #has_/name :: has_parent_taxon )
 ( #has_/range :: Taxon, Text, URL )
 
 [ #is_/inverse_of  :: childTaxon ]

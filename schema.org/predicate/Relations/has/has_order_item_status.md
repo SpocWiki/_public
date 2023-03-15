@@ -37,6 +37,6 @@ The current status of the order item.
 
 Relation describes that: 
 [ #has_/domain  :: OrderItem ]
-( #has_/name :: is_order_item_status )
+( #has_/name :: has_order_item_status )
 ( #has_/range :: OrderStatus )
 

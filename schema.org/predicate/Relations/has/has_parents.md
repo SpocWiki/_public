@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: parent
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_parents
 ---
 
+[ superseded_by :: parent ]
+
 Use it like this: 
-- [ #has/_parents :: Person ] or 
-- [ has_parents :: Person ] 
+- [ #has/_parent :: Person ] or 
+- [ has_parent :: Person ] 
 
 A parents of the person.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_parents )
+( #has_/name :: has_parents )
 ( #has_/range :: Person )
 

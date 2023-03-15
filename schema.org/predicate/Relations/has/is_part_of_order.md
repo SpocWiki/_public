@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_part_of_order
+title: is_part_of_order
 
-linkTitle: has_part_of_order
+linkTitle: is_part_of_order
 keywords: [part, of, order]
 layout: 
 draft: false
@@ -26,12 +26,12 @@ aliases:
 - part-of-order
 - part_of_order
 - partOfOrder
-- has_part_of_order
+- is_part_of_order
 ---
 
 Use it like this: 
-- [ #has/_part_of_order :: Order ] or 
-- [ has_part_of_order :: Order ] 
+- [ #is/_part_of_order :: Order ] or 
+- [ is_part_of_order :: Order ] 
 
 The overall order the items in this delivery were included in.
 

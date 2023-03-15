@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_part_of_system
+title: is_part_of_system
 
-linkTitle: has_part_of_system
+linkTitle: is_part_of_system
 keywords: [part, of, system]
 layout: 
 draft: false
@@ -26,12 +26,12 @@ aliases:
 - part-of-system
 - part_of_system
 - partOfSystem
-- has_part_of_system
+- is_part_of_system
 ---
 
 Use it like this: 
-- [ #has/_part_of_system :: AnatomicalSystem ] or 
-- [ has_part_of_system :: AnatomicalSystem ] 
+- [ #is/_part_of_system :: AnatomicalSystem ] or 
+- [ is_part_of_system :: AnatomicalSystem ] 
 
 The anatomical or organ system that this structure is part of.
 

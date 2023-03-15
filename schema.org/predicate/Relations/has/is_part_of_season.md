@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_part_of_season
+title: is_part_of_season
 
-linkTitle: has_part_of_season
+linkTitle: is_part_of_season
 keywords: [part, of, season]
 layout: 
 draft: false
@@ -26,12 +26,12 @@ aliases:
 - part-of-season
 - part_of_season
 - partOfSeason
-- has_part_of_season
+- is_part_of_season
 ---
 
 Use it like this: 
-- [ #has/_part_of_season :: CreativeWorkSeason ] or 
-- [ has_part_of_season :: CreativeWorkSeason ] 
+- [ #is/_part_of_season :: CreativeWorkSeason ] or 
+- [ is_part_of_season :: CreativeWorkSeason ] 
 
 The season to which this episode belongs.
 

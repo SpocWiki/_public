@@ -37,6 +37,6 @@ The delivery of the parcel related to this order or order item.
 
 Relation describes that: 
 [ #has_/domain  :: Order, OrderItem ]
-( #has_/name :: is_order_delivery )
+( #has_/name :: has_order_delivery )
 ( #has_/range :: ParcelDelivery )
 

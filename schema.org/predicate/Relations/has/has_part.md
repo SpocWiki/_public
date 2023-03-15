@@ -37,10 +37,10 @@ Indicates an item or CreativeWork that is part of this item, or CreativeWork (in
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: is_part )
+( #has_/name :: has_part )
 ( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: isPartOf ]
+[ #is_/inverse_of  :: [[../is_part_of]] ]
 
 [ #has_/sub_properties :: [ containsSeason, episode, season, tocEntry ] ]
 

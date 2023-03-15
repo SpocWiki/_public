@@ -39,7 +39,7 @@ The larger organization that this organization is a [[subOrganization]] of, if a
 
 Relation describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: is_parent_organization )
+( #has_/name :: has_parent_organization )
 ( #has_/range :: Organization )
 
 [ #is_/inverse_of  :: subOrganization ]

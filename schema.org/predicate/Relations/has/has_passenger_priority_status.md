@@ -37,6 +37,6 @@ The priority status assigned to a passenger for security or boarding (e.g. FastT
 
 Relation describes that: 
 [ #has_/domain  :: FlightReservation ]
-( #has_/name :: is_passenger_priority_status )
+( #has_/name :: has_passenger_priority_status )
 ( #has_/range :: QualitativeValue, Text )
 

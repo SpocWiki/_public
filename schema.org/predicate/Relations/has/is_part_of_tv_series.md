@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_part_of_tv_series
+title: is_part_of_tv_series
 
-linkTitle: has_part_of_tv_series
+linkTitle: is_part_of_tv_series
 keywords: [part, of, tv, series]
 layout: 
 draft: false
@@ -28,19 +28,19 @@ aliases:
 - part-of-tv-series
 - part_of_tv_series
 - partOfTVSeries
-- has_part_of_tv_series
+- is_part_of_tv_series
 ---
 
 Use it like this: 
-- [ #has/_part_of_tv_series :: TVSeries ] or 
-- [ has_part_of_tv_series :: TVSeries ] 
+- [ #is/_part_of_tv_series :: TVSeries ] or 
+- [ is_part_of_tv_series :: TVSeries ] 
 
 The TV series to which this episode or season belongs.
 
 Relation describes that: 
 [ #has_/domain  :: TVClip, TVEpisode, TVSeason ]
 ( #has_/name :: is_part_of_tv_series )
-( #has_/range :: TVSeries )
+( #has_/range :: [[../../../Type/is_a_/creative_work/tv_series|TV-Series]] )
 
-[ #is_/sub_property_of  :: isPartOf ]
+[ #is_/sub_property_of  :: [[../is_part_of]] ]
 

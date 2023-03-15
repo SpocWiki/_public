@@ -33,10 +33,11 @@ Use it like this:
 - [ #has/_parent_service :: BroadcastService ] or 
 - [ has_parent_service :: BroadcastService ] 
 
-A broadcast service to which the broadcast service may belong to such as regional variations of a national channel.
+A broadcast service to which the broadcast service may belong to 
+such as regional variations of a national channel.
 
 Relation describes that: 
 [ #has_/domain  :: BroadcastService ]
-( #has_/name :: is_parent_service )
+( #has_/name :: has_parent_service )
 ( #has_/range :: BroadcastService )
 

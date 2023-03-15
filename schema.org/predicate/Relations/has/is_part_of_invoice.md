@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_part_of_invoice
+title: is_part_of_invoice
 
-linkTitle: has_part_of_invoice
+linkTitle: is_part_of_invoice
 keywords: [part, of, invoice]
 layout: 
 draft: false
@@ -26,12 +26,12 @@ aliases:
 - part-of-invoice
 - part_of_invoice
 - partOfInvoice
-- has_part_of_invoice
+- is_part_of_invoice
 ---
 
 Use it like this: 
-- [ #has/_part_of_invoice :: Invoice ] or 
-- [ has_part_of_invoice :: Invoice ] 
+- [ #is/_part_of_invoice :: Invoice ] or 
+- [ is_part_of_invoice :: Invoice ] 
 
 The order is being paid as part of the referenced Invoice.
 

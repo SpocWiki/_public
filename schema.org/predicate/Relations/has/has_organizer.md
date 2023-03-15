@@ -37,6 +37,6 @@ An organizer of an Event.
 
 Relation describes that: 
 [ #has_/domain  :: Event ]
-( #has_/name :: is_organizer )
+( #has_/name :: has_organizer )
 ( #has_/range :: Organization, Person )
 

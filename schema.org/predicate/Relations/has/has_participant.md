@@ -37,7 +37,7 @@ Other co-agents that participated in the action indirectly. E.g. John wrote a bo
 
 Relation describes that: 
 [ #has_/domain  :: Action ]
-( #has_/name :: is_participant )
+( #has_/name :: has_participant )
 ( #has_/range :: Organization, Person )
 
 [ #has_/sub_properties :: [ borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner ] ]

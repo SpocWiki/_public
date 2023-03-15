@@ -10,9 +10,9 @@ publish: true
 
 # Hugo Tags
 type: Predi_Relation
-title: has_opens
+title: is_opening_at
 
-linkTitle: has_opens
+linkTitle: is_opening_at
 keywords: [opens]
 layout: 
 draft: false
@@ -26,17 +26,17 @@ aliases:
 - opens
 - opens
 - opens
-- has_opens
+- is_opening_at
 ---
 
 Use it like this: 
-- [ #has/_opens :: Time ] or 
-- [ has_opens :: Time ] 
+- [ #is/_opening_at :: Time ] or 
+- [ is_opening_at :: Time ] 
 
 The opening hour of the place or service on the given day(s) of the week.
 
 Relation describes that: 
 [ #has_/domain  :: OpeningHoursSpecification ]
-( #has_/name :: is_opens )
+( #has_/name :: is_opening_at )
 ( #has_/range :: Time )
 

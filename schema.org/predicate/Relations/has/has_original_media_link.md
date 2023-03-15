@@ -39,6 +39,6 @@ Link to the page containing an original version of the content, or directly to a
 
 Relation describes that: 
 [ #has_/domain  :: MediaReview ]
-( #has_/name :: is_original_media_link )
+( #has_/name :: has_original_media_link )
 ( #has_/range :: MediaObject, URL, WebPage )
 
