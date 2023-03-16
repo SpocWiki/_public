@@ -9,7 +9,8 @@ tags:
 
 ---
 [name::Saarland]
-[name-abbr::SL]![[West/Saarland/Coat_of_arms_of_Saarlands.svg|350]]]
+[name-abbr::SL]
+![[West/Saarland/Coat_of_arms_of_Saarlands.svg|350]]]
 ![[West/Saarland/Flag_of_Saarland.svg|350]]]
 
 ```leaflet

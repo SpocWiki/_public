@@ -10,7 +10,8 @@ tags:
 ---
 
 [name::State-Bremen]
-[name-abbr::BN]![[West/State-Bremen/Coat_of_arms_of_Bremen_greater.svg|350]]]
+[name-abbr::BN]
+![[West/State-Bremen/Coat_of_arms_of_Bremen_greater.svg|350]]]
 ![[West/State-Bremen/Flag_of_Bremen.svg|350]]]
 
 ```leaflet

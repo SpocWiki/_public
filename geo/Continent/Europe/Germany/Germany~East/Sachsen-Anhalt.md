@@ -9,7 +9,8 @@ tags:
 
 ---
 [name::Sachsen-Anhalt]
-[name-abbr::ST![[Sachsen-Anhalt/Coat_of_arms_of_Sachsen-Anhalt.svg|350]]]]![[Sachsen-Anhalt/Flag_of_Saxony-Anhalt_(state).svg|350]]]]
+[name-abbr::ST![[Sachsen-Anhalt/Coat_of_arms_of_Sachsen-Anhalt.svg|350]]]]
+![[Sachsen-Anhalt/Flag_of_Saxony-Anhalt_(state).svg|350]]]]
 
 ```leaflet
 id: Sachsen-Anhalt

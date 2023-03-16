@@ -9,7 +9,8 @@ tags:
 
 ---
 [name::Rheinland-Pfalz]
-[name-abbr::RZ]![[West/Rheinland-Pfalz/Coat_of_arms_of_Rhineland-Palatinate.svg|350]]]
+[name-abbr::RZ]
+![[West/Rheinland-Pfalz/Coat_of_arms_of_Rhineland-Palatinate.svg|350]]]
 ![[West/Rheinland-Pfalz/Flag_of_Rhineland-Palatinate.svg|350]]]
 
 ```leaflet

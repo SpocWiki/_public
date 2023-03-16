@@ -10,7 +10,8 @@ tags:
 ---
 
 [name::Thüringen]
-[name-abbr::TH![[Thüringen/Coat_of_arms_of_Thuringia.svg|350]]]]![[Thüringen/Flag_of_Thuringia.svg|350]]]]
+[name-abbr::TH![[Thüringen/Coat_of_arms_of_Thuringia.svg|350]]]]
+![[Thüringen/Flag_of_Thuringia.svg|350]]]]
 
 ```leaflet
 id: Thüringen

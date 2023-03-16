@@ -9,7 +9,8 @@ tags:
 
 ---
 [name::Sachsen]
-[name-abbr::SH![[Sachsen/Coat_of_arms_of_Saxony.svg|350]]]]![[Sachsen/Flag_of_Saxony.svg|350]]]]
+[name-abbr::SH![[Sachsen/Coat_of_arms_of_Saxony.svg|350]]]]
+![[Sachsen/Flag_of_Saxony.svg|350]]]]
 
 ```leaflet
 id: Sachsen

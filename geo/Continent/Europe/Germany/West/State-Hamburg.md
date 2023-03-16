@@ -10,7 +10,8 @@ tags:
 ---
 
 [name::State-Hamburg]
-[name-abbr::HG]![[West/State-Hamburg/Coat_of_arms_of_Hamburg_Bürgerschaft.svg|350]]]
+[name-abbr::HG]
+![[West/State-Hamburg/Coat_of_arms_of_Hamburg_Bürgerschaft.svg|350]]]
 ![[West/State-Hamburg/Flag_of_Hamburg.svg|350]]]
 
 ```leaflet
