@@ -26,8 +26,6 @@ tags:
 
 aliases:
 - performer
-- performer
-- performer
 - has_performer
 ---
 
@@ -39,6 +37,11 @@ A performer at the event&amp;#x2014;for example, a presenter, musician, musical 
 
 Relation describes that: 
 [ #has_/domain  :: Event ]
-( #has_/name :: is_performer )
+( #has_/name :: has_performer )
 ( #has_/range :: Organization, Person )
 
+[ #is/_inverse_of  :: [[is_performer_in]] ]
+
+[[../is_inverse_of]]
+
+[[../is_inverse_of]]

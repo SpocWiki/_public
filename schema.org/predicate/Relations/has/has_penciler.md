@@ -39,6 +39,6 @@ The individual who draws the primary narrative artwork.
 
 Relation describes that: 
 [ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
-( #has_/name :: is_penciler )
+( #has_/name :: has_penciler )
 ( #has_/range :: Person )
 

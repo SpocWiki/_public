@@ -9,10 +9,8 @@ tags:
 
 ---
 [name::Saarland]
-[name-abbr::SL]
-![[Coat_of_arms_of_Saarlands.svg|350]]
-
-![[Flag_of_Saarland.svg|350]]
+[name-abbr::SL]![[West/Saarland/Coat_of_arms_of_Saarlands.svg|350]]]
+![[West/Saarland/Flag_of_Saarland.svg|350]]]
 
 ```leaflet
 id: Saarland
@@ -21,7 +19,7 @@ geojsonFolder: ./Saarland/
 ```
 
 [Country::[[Germany]]]
-[Capital::[[Saarbruecken]]]
+[Capital:[[West/Saarland/City/Saarbruecken]]]]
 [geo-lon::6.935]
 [geo-lat::49.355]
 [Population::]

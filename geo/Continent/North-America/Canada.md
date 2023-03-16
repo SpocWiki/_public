@@ -13,7 +13,7 @@ tags:
 ```leaflet
 id: Canada
 zoomFeatures: true
-geojsonFolder: ./Canada
+geojsonFolder: ./Canada//
 ```
 
 [name-en::Canada]

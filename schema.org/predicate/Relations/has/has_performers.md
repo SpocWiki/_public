@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA 4.0
 confidential: public
-isDeleted: false
+isDeleted: true
 isReadOnly: false
 
 #Obsidian well-known Keys
 cssclass: Predicate Relation
-publish: true
+publish: false
 
 # Hugo Tags
 type: Predi_Relation
@@ -19,8 +19,6 @@ draft: false
 publishDate:
 expiryDate: 
 
-superseded_by: performer
-
 tags:
 - schema.org/Predicate/Relation
 
@@ -31,14 +29,16 @@ aliases:
 - has_performers
 ---
 
+[ superseded_by :: performer ]
+
 Use it like this: 
-- [ #has/_performers :: Organization, Person ] or 
-- [ has_performers :: Organization, Person ] 
+- [ #has/_performer :: Organization, Person ] or 
+- [ has_performer :: Organization, Person ] 
 
 The main performer or performers of the event&amp;#x2014;for example, a presenter, musician, or actor.
 
 Relation describes that: 
 [ #has_/domain  :: Event ]
-( #has_/name :: is_performers )
+( #has_/name :: has_performers )
 ( #has_/range :: Organization, Person )
 

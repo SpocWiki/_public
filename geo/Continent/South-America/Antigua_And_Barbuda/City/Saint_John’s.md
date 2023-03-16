@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::17.11667]
 [name::Saint John’s]
 [State::]
-[Country::[[Antigua_And_Barbuda]]]
+[Country::[[../../Antigua_and_Barbuda]]]
 [StateId::]
 [Population::]
 [Unknown::]

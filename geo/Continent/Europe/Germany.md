@@ -20,7 +20,7 @@ aliases:
 ```leaflet
 id: Germany
 zoomFeatures: true
-geojsonFolder: ./Germany
+geojsonFolder: ./Germany//
 ```
 
 [name-en::Germany]
@@ -36,7 +36,7 @@ geojsonFolder: ./Germany
 [Area-Land::349270]
 [Continent::[[Europe]]]
 [VehicleCode::D]
-[Capital::[[Berlin]]]
+[Capital::[[Germany/West/State-Berlin/City/Berlin]]]
 [Alcohol-l::12.8]
 [Language-Id::497]
 [geo-lon::10.1207]

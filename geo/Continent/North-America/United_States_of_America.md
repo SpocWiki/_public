@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.2641,-94.8153]
 type: Country
 SpocWebEntityId: 27047
@@ -12,7 +12,7 @@ tags:
 ```leaflet
 id: United States of America
 zoomFeatures: true
-geojsonFolder: ./United_States_of_America
+geojsonFolder: ./United_States_of_America/
 ```
 
 [name-en::United States of America]
