@@ -15,6 +15,7 @@ confidential: public
 id: Svalbard
 zoomFeatures: true
 geojsonFolder: ./Svalbard
+markerFolder: ./Svalbard/City
 ```
 
 [name-en::Svalbard]

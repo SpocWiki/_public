@@ -15,6 +15,7 @@ confidential: public
 id: Senegal
 zoomFeatures: true
 geojsonFolder: ./Senegal
+markerFolder: ./Senegal/City
 ```
 
 [name-en::Senegal]

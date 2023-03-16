@@ -15,6 +15,7 @@ confidential: public
 id: Mongolia
 zoomFeatures: true
 geojsonFolder: ./Mongolia
+markerFolder: ./Mongolia/City
 ```
 
 [name-en::Mongolia]

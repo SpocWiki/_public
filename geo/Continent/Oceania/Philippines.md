@@ -15,6 +15,7 @@ confidential: public
 id: Philippines
 zoomFeatures: true
 geojsonFolder: ./Philippines
+markerFolder: ./Philippines/City
 ```
 
 [name-en::Philippines]

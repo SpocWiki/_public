@@ -15,6 +15,7 @@ confidential: public
 id: Ireland
 zoomFeatures: true
 geojsonFolder: ./Ireland
+markerFolder: ./Ireland/City
 ```
 
 [name-en::Ireland]

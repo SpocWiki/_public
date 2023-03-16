@@ -12,6 +12,7 @@ confidential: public
 id: Niederösterreich
 zoomFeatures: true
 geojsonFolder: ./Niederösterreich
+markerFolder: ./Niederösterreich/City
 ```
 
 [ name :: Niederösterreich ]

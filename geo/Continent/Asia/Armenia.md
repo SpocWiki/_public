@@ -15,6 +15,7 @@ confidential: public
 id: Armenia
 zoomFeatures: true
 geojsonFolder: ./Armenia
+markerFolder: ./Armenia/City
 ```
 
 [name-en::Armenia]

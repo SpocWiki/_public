@@ -18,6 +18,7 @@ aliases:
 id: Korea, Rep.
 zoomFeatures: true
 geojsonFolder: ./Korea~South
+markerFolder: ./Korea~South/City
 ```
 
 [name-en::Korea, Rep.]

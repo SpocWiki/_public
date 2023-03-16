@@ -15,6 +15,7 @@ confidential: public
 id: Asian Shipping
 zoomFeatures: true
 geojsonFolder: ./Asian_Shipping
+markerFolder: ./Asian_Shipping/City
 ```
 
 [name-en::Asian Shipping]

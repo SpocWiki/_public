@@ -15,6 +15,7 @@ confidential: public
 id: Montenegro
 zoomFeatures: true
 geojsonFolder: ./Montenegro
+markerFolder: ./Montenegro/City
 ```
 
 [name-en::Montenegro]

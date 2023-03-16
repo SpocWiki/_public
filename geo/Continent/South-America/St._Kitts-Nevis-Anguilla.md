@@ -15,6 +15,7 @@ confidential: public
 id: St. Kitts-Nevis-Anguilla
 zoomFeatures: true
 geojsonFolder: ./St._Kitts-Nevis-Anguilla
+markerFolder: ./St._Kitts-Nevis-Anguilla/City
 ```
 
 [name-en::St. Kitts-Nevis-Anguilla]

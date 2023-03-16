@@ -15,6 +15,7 @@ confidential: public
 id: Ethiopia
 zoomFeatures: true
 geojsonFolder: ./Ethiopia
+markerFolder: ./Ethiopia/City
 ```
 
 [name-en::Ethiopia]

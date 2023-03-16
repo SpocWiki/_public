@@ -15,6 +15,7 @@ confidential: public
 id: Uruguay
 zoomFeatures: true
 geojsonFolder: ./Uruguay
+markerFolder: ./Uruguay/City
 ```
 
 [name-en::Uruguay]

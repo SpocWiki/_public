@@ -15,6 +15,7 @@ confidential: public
 id: Poland
 zoomFeatures: true
 geojsonFolder: ./Poland
+markerFolder: ./Poland/City
 ```
 
 [name-en::Poland]

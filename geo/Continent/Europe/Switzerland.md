@@ -15,6 +15,7 @@ confidential: public
 id: Switzerland
 zoomFeatures: true
 geojsonFolder: ./Switzerland
+markerFolder: ./Switzerland/City
 ```
 
 [name-en::Switzerland]

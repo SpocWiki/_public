@@ -15,6 +15,7 @@ confidential: public
 id: Lesotho
 zoomFeatures: true
 geojsonFolder: ./Lesotho
+markerFolder: ./Lesotho/City
 ```
 
 [name-en::Lesotho]

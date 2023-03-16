@@ -15,6 +15,7 @@ confidential: public
 id: Tanzania
 zoomFeatures: true
 geojsonFolder: ./Tanzania
+markerFolder: ./Tanzania/City
 ```
 
 [name-en::Tanzania]

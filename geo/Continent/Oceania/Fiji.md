@@ -15,6 +15,7 @@ confidential: public
 id: Fiji
 zoomFeatures: true
 geojsonFolder: ./Fiji
+markerFolder: ./Fiji/City
 ```
 
 [name-en::Fiji]

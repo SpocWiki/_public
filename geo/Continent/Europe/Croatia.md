@@ -13,6 +13,7 @@ confidential: public
 id: Croatia
 zoomFeatures: true
 geojsonFolder: ./Croatia
+markerFolder: ./Croatia/City
 ```
 
 [name-en::Croatia]

@@ -19,6 +19,7 @@ tags:
 id: Hessen
 zoomFeatures: true
 geojsonFolder: ./Hessen/
+markerFolder: ./Hessen/City
 ```
 
 [Country::[[Germany]]]

@@ -15,6 +15,7 @@ confidential: public
 id: Bangladesh
 zoomFeatures: true
 geojsonFolder: ./Bangladesh
+markerFolder: ./Bangladesh/City
 ```
 
 [name-en::Bangladesh]

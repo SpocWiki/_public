@@ -15,6 +15,7 @@ confidential: public
 id: Lebanon
 zoomFeatures: true
 geojsonFolder: ./Lebanon
+markerFolder: ./Lebanon/City
 ```
 
 [name-en::Lebanon]

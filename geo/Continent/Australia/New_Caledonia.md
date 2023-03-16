@@ -15,6 +15,7 @@ confidential: public
 id: New Caledonia
 zoomFeatures: true
 geojsonFolder: ./New_Caledonia
+markerFolder: ./New_Caledonia/City
 ```
 
 [name-en::New Caledonia]

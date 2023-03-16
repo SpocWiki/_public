@@ -15,6 +15,7 @@ confidential: public
 id: Russia
 zoomFeatures: true
 geojsonFolder: ./Russia
+markerFolder: ./Russia/City
 ```
 
 [name-en::Russia]

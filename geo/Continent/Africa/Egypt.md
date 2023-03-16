@@ -15,6 +15,7 @@ confidential: public
 id: Egypt
 zoomFeatures: true
 geojsonFolder: ./Egypt
+markerFolder: ./Egypt/City
 ```
 
 [name-en::Egypt]

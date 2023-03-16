@@ -15,6 +15,7 @@ confidential: public
 id: Other Shipping
 zoomFeatures: true
 geojsonFolder: ./Other_Shipping
+markerFolder: ./Other_Shipping/City
 ```
 
 [name-en::Other Shipping]

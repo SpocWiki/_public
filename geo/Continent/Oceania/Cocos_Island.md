@@ -15,6 +15,7 @@ confidential: public
 id: Cocos Island
 zoomFeatures: true
 geojsonFolder: ./Cocos_Island
+markerFolder: ./Cocos_Island/City
 ```
 
 [name-en::Cocos Island]

@@ -15,6 +15,7 @@ confidential: public
 id: Iran
 zoomFeatures: true
 geojsonFolder: ./Iran
+markerFolder: ./Iran/City
 ```
 
 [name-en::Iran]

@@ -15,6 +15,7 @@ confidential: public
 id: Angola
 zoomFeatures: true
 geojsonFolder: ./Angola
+markerFolder: ./Angola/City
 ```
 
 [name-en::Angola]

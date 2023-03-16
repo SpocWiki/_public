@@ -15,6 +15,7 @@ confidential: public
 id: Anguilla
 zoomFeatures: true
 geojsonFolder: ./Anguilla
+markerFolder: ./Anguilla/City
 ```
 
 [name-en::Anguilla]

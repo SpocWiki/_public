@@ -15,6 +15,7 @@ confidential: public
 id: China
 zoomFeatures: true
 geojsonFolder: ./China
+markerFolder: ./China/City
 ```
 
 [name-en::China]

@@ -18,6 +18,7 @@ SpocWebEntityId: {{Id}}
 id: {{EnglishName}}
 zoomFeatures: true
 geojsonFolder: ./{{EnglishName}}
+markerFolder: ./{{EnglishName}}/City
 ```
 
 [name-en::{{EnglishName}}]

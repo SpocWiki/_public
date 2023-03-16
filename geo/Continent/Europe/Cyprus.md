@@ -13,6 +13,7 @@ confidential: public
 id: Cyprus
 zoomFeatures: true
 geojsonFolder: ./Cyprus
+markerFolder: ./Cyprus/City
 ```
 
 [name-en::Cyprus]

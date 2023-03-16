@@ -11,6 +11,7 @@ confidential: public
 id: Africa
 zoomFeatures: true
 geojsonFolder: ./Africa
+markerFolder: ./Africa/City
 ```
 
 [name-en::Africa]

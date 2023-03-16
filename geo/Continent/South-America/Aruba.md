@@ -15,6 +15,7 @@ confidential: public
 id: Aruba
 zoomFeatures: true
 geojsonFolder: ./Aruba
+markerFolder: ./Aruba/City
 ```
 
 [name-en::Aruba]
@@ -40,5 +41,6 @@ geojsonFolder: ./Aruba
 id: Aruba
 zoomFeatures: true
 geojsonFolder: ./Aruba
+markerFolder: ./Aruba/City
 ```
 

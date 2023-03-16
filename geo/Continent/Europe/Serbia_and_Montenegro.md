@@ -15,6 +15,7 @@ confidential: public
 id: Serbia and Montenegro
 zoomFeatures: true
 geojsonFolder: ./Serbia_and_Montenegro
+markerFolder: ./Serbia_and_Montenegro/City
 ```
 
 [name-en::Serbia and Montenegro]

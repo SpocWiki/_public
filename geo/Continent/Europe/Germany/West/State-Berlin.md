@@ -17,6 +17,7 @@ tags:
 id: State-Berlin
 zoomFeatures: true
 geojsonFolder: ./State-Berlin/
+markerFolder: ./State-Berlin/City
 ```
 
 [Country::[[Germany]]]

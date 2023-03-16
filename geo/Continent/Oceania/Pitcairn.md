@@ -15,6 +15,7 @@ confidential: public
 id: Pitcairn
 zoomFeatures: true
 geojsonFolder: ./Pitcairn
+markerFolder: ./Pitcairn/City
 ```
 
 [name-en::Pitcairn]

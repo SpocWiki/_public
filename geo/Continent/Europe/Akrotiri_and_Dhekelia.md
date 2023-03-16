@@ -15,6 +15,7 @@ confidential: public
 id: Akrotiri and Dhekelia
 zoomFeatures: true
 geojsonFolder: ./Akrotiri_and_Dhekelia
+markerFolder: ./Akrotiri_and_Dhekelia/City
 ```
 
 [name-en::Akrotiri and Dhekelia]

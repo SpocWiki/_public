@@ -15,6 +15,7 @@ confidential: public
 id: Dominican Rep.
 zoomFeatures: true
 geojsonFolder: ./Dominican_Rep
+markerFolder: ./Dominican_Rep/City
 ```
 
 [name-en::Dominican Rep.]

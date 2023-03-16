@@ -15,6 +15,7 @@ confidential: public
 id: Greenland
 zoomFeatures: true
 geojsonFolder: ./Greenland
+markerFolder: ./Greenland/City
 ```
 
 [name-en::Greenland]

@@ -15,6 +15,7 @@ confidential: public
 id: Yugoslavia
 zoomFeatures: true
 geojsonFolder: ./Yugoslavia
+markerFolder: ./Yugoslavia/City
 ```
 
 [name-en::Yugoslavia]

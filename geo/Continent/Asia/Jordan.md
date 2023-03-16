@@ -15,6 +15,7 @@ confidential: public
 id: Jordan
 zoomFeatures: true
 geojsonFolder: ./Jordan
+markerFolder: ./Jordan/City
 ```
 
 [name-en::Jordan]

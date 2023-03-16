@@ -15,6 +15,7 @@ confidential: public
 id: Barbados
 zoomFeatures: true
 geojsonFolder: ./Barbados
+markerFolder: ./Barbados/City
 ```
 
 [name-en::Barbados]

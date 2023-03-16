@@ -15,6 +15,7 @@ confidential: public
 id: Malta
 zoomFeatures: true
 geojsonFolder: ./Malta
+markerFolder: ./Malta/City
 ```
 
 [name-en::Malta]

@@ -15,6 +15,7 @@ confidential: public
 id: Norway
 zoomFeatures: true
 geojsonFolder: ./Norway
+markerFolder: ./Norway/City
 ```
 
 [name-en::Norway]

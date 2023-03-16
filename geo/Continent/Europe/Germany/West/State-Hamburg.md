@@ -18,6 +18,7 @@ tags:
 id: State-Hamburg
 zoomFeatures: true
 geojsonFolder: ./State-Hamburg/
+markerFolder: ./State-Hamburg/City
 ```
 
 [Country:: [[Germany]] ]

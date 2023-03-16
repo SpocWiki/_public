@@ -15,6 +15,7 @@ confidential: public
 id: Yemen Arab Republic (Former)
 zoomFeatures: true
 geojsonFolder: ./Yemen_Arab_Republic_(Former)
+markerFolder: ./Yemen_Arab_Republic_(Former)/City
 ```
 
 [name-en::Yemen Arab Republic (Former)]

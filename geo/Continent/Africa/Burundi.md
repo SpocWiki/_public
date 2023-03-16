@@ -15,6 +15,7 @@ confidential: public
 id: Burundi
 zoomFeatures: true
 geojsonFolder: ./Burundi
+markerFolder: ./Burundi/City
 ```
 
 [name-en::Burundi]

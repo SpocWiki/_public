@@ -15,6 +15,7 @@ confidential: public
 id: Trinidad And Tobago
 zoomFeatures: true
 geojsonFolder: ./Trinidad_And_Tobago
+markerFolder: ./Trinidad_And_Tobago/City
 ```
 
 [name-en::Trinidad And Tobago]

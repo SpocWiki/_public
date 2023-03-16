@@ -15,6 +15,7 @@ confidential: public
 id: Costa Rica
 zoomFeatures: true
 geojsonFolder: ./Costa_Rica
+markerFolder: ./Costa_Rica/City
 ```
 
 [name-en::Costa Rica]

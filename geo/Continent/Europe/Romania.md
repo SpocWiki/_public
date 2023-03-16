@@ -15,6 +15,7 @@ confidential: public
 id: Romania
 zoomFeatures: true
 geojsonFolder: ./Romania
+markerFolder: ./Romania/City
 ```
 
 [name-en::Romania]

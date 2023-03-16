@@ -15,6 +15,7 @@ confidential: public
 id: Faeroe Islands
 zoomFeatures: true
 geojsonFolder: ./Faeroe_Islands
+markerFolder: ./Faeroe_Islands/City
 ```
 
 [name-en::Faeroe Islands]

@@ -15,6 +15,7 @@ confidential: public
 id: Nicaragua
 zoomFeatures: true
 geojsonFolder: ./Nicaragua
+markerFolder: ./Nicaragua/City
 ```
 
 [name-en::Nicaragua]

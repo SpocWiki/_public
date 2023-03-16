@@ -15,6 +15,7 @@ confidential: public
 id: Palestinian Territory, Occupied
 zoomFeatures: true
 geojsonFolder: ./Palestinian_Territory,_Occupied
+markerFolder: ./Palestinian_Territory,_Occupied/City
 ```
 
 [name-en::Palestinian Territory, Occupied]

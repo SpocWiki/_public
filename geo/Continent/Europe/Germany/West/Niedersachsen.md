@@ -17,6 +17,7 @@ tags:
 id: Niedersachsen
 zoomFeatures: true
 geojsonFolder: ./Niedersachsen/
+markerFolder: ./Niedersachsen/City
 ```
 
 [Country::[[Germany]]]

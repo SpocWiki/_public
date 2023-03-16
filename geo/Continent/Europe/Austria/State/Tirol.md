@@ -12,6 +12,7 @@ confidential: public
 id: Tirol
 zoomFeatures: true
 geojsonFolder: ./Tirol
+markerFolder: ./Tirol/City
 ```
 
 [ name :: Tirol ]

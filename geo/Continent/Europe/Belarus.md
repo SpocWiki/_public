@@ -14,6 +14,7 @@ tags:
 id: Belarus
 zoomFeatures: true
 geojsonFolder: ./Belarus
+markerFolder: ./Belarus/City
 ```
 
 [name-en::Belarus]

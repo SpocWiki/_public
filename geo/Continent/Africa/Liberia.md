@@ -15,6 +15,7 @@ confidential: public
 id: Liberia
 zoomFeatures: true
 geojsonFolder: ./Liberia
+markerFolder: ./Liberia/City
 ```
 
 [name-en::Liberia]

@@ -12,6 +12,7 @@ confidential: public
 id: Wien
 zoomFeatures: true
 geojsonFolder: ./Wien
+markerFolder: ./Wien/City
 ```
 
 [ name :: Wien ]

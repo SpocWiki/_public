@@ -15,6 +15,7 @@ confidential: public
 id: Cuba
 zoomFeatures: true
 geojsonFolder: ./Cuba
+markerFolder: ./Cuba/City
 ```
 
 [name-en::Cuba]

@@ -15,6 +15,7 @@ confidential: public
 id: Spain
 zoomFeatures: true
 geojsonFolder: ./Spain
+markerFolder: ./Spain/City
 ```
 
 [name-en::Spain]

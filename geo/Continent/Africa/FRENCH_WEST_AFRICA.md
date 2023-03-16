@@ -15,6 +15,7 @@ confidential: public
 id: FRENCH WEST AFRICA
 zoomFeatures: true
 geojsonFolder: ./FRENCH_WEST_AFRICA
+markerFolder: ./FRENCH_WEST_AFRICA/City
 ```
 
 [name-en::FRENCH WEST AFRICA]

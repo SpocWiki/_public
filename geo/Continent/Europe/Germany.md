@@ -21,6 +21,7 @@ aliases:
 id: Germany
 zoomFeatures: true
 geojsonFolder: ./Germany//
+markerFolder: ./Germany/City
 ```
 
 [name-en::Germany]

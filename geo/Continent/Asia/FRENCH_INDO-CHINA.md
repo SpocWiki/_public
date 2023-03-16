@@ -15,6 +15,7 @@ confidential: public
 id: FRENCH INDO-CHINA
 zoomFeatures: true
 geojsonFolder: ./FRENCH_INDO-CHINA
+markerFolder: ./FRENCH_INDO-CHINA/City
 ```
 
 [name-en::FRENCH INDO-CHINA]

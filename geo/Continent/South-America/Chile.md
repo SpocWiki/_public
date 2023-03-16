@@ -15,6 +15,7 @@ confidential: public
 id: Chile
 zoomFeatures: true
 geojsonFolder: ./Chile
+markerFolder: ./Chile/City
 ```
 
 [name-en::Chile]

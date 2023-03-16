@@ -15,6 +15,7 @@ confidential: public
 id: Togo
 zoomFeatures: true
 geojsonFolder: ./Togo
+markerFolder: ./Togo/City
 ```
 
 [name-en::Togo]

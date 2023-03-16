@@ -15,6 +15,7 @@ confidential: public
 id: Turkey
 zoomFeatures: true
 geojsonFolder: ./Turkey
+markerFolder: ./Turkey/City
 ```
 
 [name-en::Turkey]

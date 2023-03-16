@@ -20,6 +20,7 @@ confidential: public
 id: Djibouti
 zoomFeatures: true
 geojsonFolder: ./Djibouti
+markerFolder: ./Djibouti/City
 ```
 
 [name-en::Djibouti]

@@ -15,6 +15,7 @@ confidential: public
 id: British Virgin Islands
 zoomFeatures: true
 geojsonFolder: ./British_Virgin_Islands
+markerFolder: ./British_Virgin_Islands/City
 ```
 
 [name-en::British Virgin Islands]

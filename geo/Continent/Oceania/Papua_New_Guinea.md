@@ -15,6 +15,7 @@ confidential: public
 id: Papua New Guinea
 zoomFeatures: true
 geojsonFolder: ./Papua_New_Guinea
+markerFolder: ./Papua_New_Guinea/City
 ```
 
 [name-en::Papua New Guinea]

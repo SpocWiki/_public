@@ -15,6 +15,7 @@ confidential: public
 id: Estonia
 zoomFeatures: true
 geojsonFolder: ./Estonia
+markerFolder: ./Estonia/City
 ```
 
 [name-en::Estonia]

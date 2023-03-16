@@ -15,6 +15,7 @@ confidential: public
 id: Isle of Man
 zoomFeatures: true
 geojsonFolder: ./Isle_of_Man
+markerFolder: ./Isle_of_Man/City
 ```
 
 [name-en::Isle of Man]

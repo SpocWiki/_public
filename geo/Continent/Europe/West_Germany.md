@@ -15,6 +15,7 @@ confidential: public
 id: West Germany
 zoomFeatures: true
 geojsonFolder: ./West_Germany
+markerFolder: ./West_Germany/City
 ```
 
 [name-en::West Germany]

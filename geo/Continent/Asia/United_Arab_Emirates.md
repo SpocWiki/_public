@@ -15,6 +15,7 @@ confidential: public
 id: United Arab Emirates
 zoomFeatures: true
 geojsonFolder: ./United_Arab_Emirates
+markerFolder: ./United_Arab_Emirates/City
 ```
 
 [name-en::United Arab Emirates]

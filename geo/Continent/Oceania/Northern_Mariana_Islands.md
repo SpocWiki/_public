@@ -15,6 +15,7 @@ confidential: public
 id: Northern Mariana Islands
 zoomFeatures: true
 geojsonFolder: ./Northern_Mariana_Islands
+markerFolder: ./Northern_Mariana_Islands/City
 ```
 
 [name-en::Northern Mariana Islands]

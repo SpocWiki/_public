@@ -15,6 +15,7 @@ confidential: public
 id: Oman
 zoomFeatures: true
 geojsonFolder: ./Oman
+markerFolder: ./Oman/City
 ```
 
 [name-en::Oman]

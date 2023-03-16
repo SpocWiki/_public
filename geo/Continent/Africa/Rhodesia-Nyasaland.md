@@ -15,6 +15,7 @@ confidential: public
 id: Rhodesia-Nyasaland
 zoomFeatures: true
 geojsonFolder: ./Rhodesia-Nyasaland
+markerFolder: ./Rhodesia-Nyasaland/City
 ```
 
 [name-en::Rhodesia-Nyasaland]

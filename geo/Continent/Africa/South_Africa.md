@@ -15,6 +15,7 @@ confidential: public
 id: South Africa
 zoomFeatures: true
 geojsonFolder: ./South_Africa
+markerFolder: ./South_Africa/City
 ```
 
 [name-en::South Africa]

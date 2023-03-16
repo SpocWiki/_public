@@ -15,6 +15,7 @@ confidential: public
 id: Marshall Islands
 zoomFeatures: true
 geojsonFolder: ./Marshall_Islands
+markerFolder: ./Marshall_Islands/City
 ```
 
 [name-en::Marshall Islands]

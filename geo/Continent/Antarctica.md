@@ -11,6 +11,7 @@ confidential: public
 id: Antarctica
 zoomFeatures: true
 geojsonFolder: ./Antarctica
+markerFolder: ./Antarctica/City
 ```
 
 [name-en::Antarctica]

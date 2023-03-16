@@ -15,6 +15,7 @@ confidential: public
 id: Tanganyika
 zoomFeatures: true
 geojsonFolder: ./Tanganyika
+markerFolder: ./Tanganyika/City
 ```
 
 [name-en::Tanganyika]

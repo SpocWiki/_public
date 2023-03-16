@@ -15,6 +15,7 @@ confidential: public
 id: Bahamas
 zoomFeatures: true
 geojsonFolder: ./Bahamas
+markerFolder: ./Bahamas/City
 ```
 
 [name-en::Bahamas]

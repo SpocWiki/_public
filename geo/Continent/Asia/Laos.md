@@ -15,6 +15,7 @@ confidential: public
 id: Laos
 zoomFeatures: true
 geojsonFolder: ./Laos
+markerFolder: ./Laos/City
 ```
 
 [name-en::Laos]

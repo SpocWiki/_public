@@ -15,6 +15,7 @@ confidential: public
 id: Yemen Democratic (Former)
 zoomFeatures: true
 geojsonFolder: ./Yemen_Democratic_(Former)
+markerFolder: ./Yemen_Democratic_(Former)/City
 ```
 
 [name-en::Yemen Democratic (Former)]

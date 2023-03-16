@@ -15,6 +15,7 @@ confidential: public
 id: Zambia
 zoomFeatures: true
 geojsonFolder: ./Zambia
+markerFolder: ./Zambia/City
 ```
 
 [name-en::Zambia]

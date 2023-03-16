@@ -15,6 +15,7 @@ confidential: public
 id: Mexico
 zoomFeatures: true
 geojsonFolder: ./Mexico
+markerFolder: ./Mexico/City
 ```
 
 [name-en::Mexico]

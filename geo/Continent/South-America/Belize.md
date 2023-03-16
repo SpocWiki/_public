@@ -15,6 +15,7 @@ confidential: public
 id: Belize
 zoomFeatures: true
 geojsonFolder: ./Belize
+markerFolder: ./Belize/City
 ```
 
 [name-en::Belize]

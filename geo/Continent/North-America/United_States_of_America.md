@@ -13,6 +13,7 @@ tags:
 id: United States of America
 zoomFeatures: true
 geojsonFolder: ./United_States_of_America/
+markerFolder: ./United_States_of_America/City
 ```
 
 [name-en::United States of America]

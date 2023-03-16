@@ -15,6 +15,7 @@ confidential: public
 id: Finland
 zoomFeatures: true
 geojsonFolder: ./Finland
+markerFolder: ./Finland/City
 ```
 
 [name-en::Finland]

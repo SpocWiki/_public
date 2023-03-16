@@ -15,6 +15,7 @@ confidential: public
 id: Vanuatu
 zoomFeatures: true
 geojsonFolder: ./Vanuatu
+markerFolder: ./Vanuatu/City
 ```
 
 [name-en::Vanuatu]

@@ -15,6 +15,7 @@ confidential: public
 id: Malaysia
 zoomFeatures: true
 geojsonFolder: ./Malaysia
+markerFolder: ./Malaysia/City
 ```
 
 [name-en::Malaysia]

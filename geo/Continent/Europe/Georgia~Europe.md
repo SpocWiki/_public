@@ -15,6 +15,7 @@ confidential: public
 id: Georgia
 zoomFeatures: true
 geojsonFolder: ./Georgia
+markerFolder: ./Georgia/City
 ```
 
 [name-en::Georgia]

@@ -15,6 +15,7 @@ confidential: public
 id: Cook Islands
 zoomFeatures: true
 geojsonFolder: ./Cook_Islands
+markerFolder: ./Cook_Islands/City
 ```
 
 [name-en::Cook Islands]

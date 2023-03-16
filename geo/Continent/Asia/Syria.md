@@ -15,6 +15,7 @@ confidential: public
 id: Syria
 zoomFeatures: true
 geojsonFolder: ./Syria
+markerFolder: ./Syria/City
 ```
 
 [name-en::Syria]

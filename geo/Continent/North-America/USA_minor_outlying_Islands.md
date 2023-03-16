@@ -15,6 +15,7 @@ confidential: public
 id: USA minor outlying Islands
 zoomFeatures: true
 geojsonFolder: ./USA_minor_outlying_Islands
+markerFolder: ./USA_minor_outlying_Islands/City
 ```
 
 [name-en::USA minor outlying Islands]

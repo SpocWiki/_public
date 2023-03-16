@@ -15,6 +15,7 @@ confidential: public
 id: Antigua And Barbuda
 zoomFeatures: true
 geojsonFolder: ./Antigua_And_Barbuda
+markerFolder: ./Antigua_And_Barbuda/City
 ```
 
 [name-en::Antigua And Barbuda]

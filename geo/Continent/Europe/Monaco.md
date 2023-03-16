@@ -15,6 +15,7 @@ confidential: public
 id: Monaco
 zoomFeatures: true
 geojsonFolder: ./Monaco
+markerFolder: ./Monaco/City
 ```
 
 [name-en::Monaco]

@@ -13,6 +13,7 @@ confidential: public
 id: Andorra
 zoomFeatures: true
 geojsonFolder: ./Andorra
+markerFolder: ./Andorra/City
 ```
 
 [name-en::Andorra]

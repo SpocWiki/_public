@@ -15,6 +15,7 @@ confidential: public
 id: Rwanda-Urundi
 zoomFeatures: true
 geojsonFolder: ./Rwanda-Urundi
+markerFolder: ./Rwanda-Urundi/City
 ```
 
 [name-en::Rwanda-Urundi]

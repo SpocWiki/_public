@@ -15,6 +15,7 @@ confidential: public
 id: Honduras
 zoomFeatures: true
 geojsonFolder: ./Honduras
+markerFolder: ./Honduras/City
 ```
 
 [name-en::Honduras]

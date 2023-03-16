@@ -15,6 +15,7 @@ confidential: public
 id: Bhutan
 zoomFeatures: true
 geojsonFolder: ./Bhutan
+markerFolder: ./Bhutan/City
 ```
 
 [name-en::Bhutan]

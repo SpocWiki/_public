@@ -13,6 +13,7 @@ confidential: public
 id: Channel Islands
 zoomFeatures: true
 geojsonFolder: ./Channel_Islands
+markerFolder: ./Channel_Islands/City
 ```
 
 [name-en::Channel Islands]

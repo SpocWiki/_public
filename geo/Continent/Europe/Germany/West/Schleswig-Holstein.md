@@ -17,6 +17,7 @@ tags:
 id: Schleswig-Holstein
 zoomFeatures: true
 geojsonFolder: ./Schleswig-Holstein/
+markerFolder: ./Schleswig-Holstein/City
 ```
 
 [Country::[[Germany]]]

@@ -15,6 +15,7 @@ confidential: public
 id: French Guiana
 zoomFeatures: true
 geojsonFolder: ./French_Guiana
+markerFolder: ./French_Guiana/City
 ```
 
 [name-en::French Guiana]

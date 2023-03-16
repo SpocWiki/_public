@@ -15,6 +15,7 @@ confidential: public
 id: Madagascar
 zoomFeatures: true
 geojsonFolder: ./Madagascar
+markerFolder: ./Madagascar/City
 ```
 
 [name-en::Madagascar]

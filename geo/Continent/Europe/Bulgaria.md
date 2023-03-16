@@ -13,6 +13,7 @@ confidential: public
 id: Bulgaria
 zoomFeatures: true
 geojsonFolder: ./Bulgaria
+markerFolder: ./Bulgaria/City
 ```
 
 [name-en::Bulgaria]

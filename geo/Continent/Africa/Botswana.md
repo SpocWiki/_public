@@ -15,6 +15,7 @@ confidential: public
 id: Botswana
 zoomFeatures: true
 geojsonFolder: ./Botswana
+markerFolder: ./Botswana/City
 ```
 
 [name-en::Botswana]

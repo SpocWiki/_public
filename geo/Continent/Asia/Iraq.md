@@ -15,6 +15,7 @@ confidential: public
 id: Iraq
 zoomFeatures: true
 geojsonFolder: ./Iraq
+markerFolder: ./Iraq/City
 ```
 
 [name-en::Iraq]

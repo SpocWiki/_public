@@ -15,6 +15,7 @@ confidential: public
 id: Kenya
 zoomFeatures: true
 geojsonFolder: ./Kenya
+markerFolder: ./Kenya/City
 ```
 
 [name-en::Kenya]

@@ -15,6 +15,7 @@ confidential: public
 id: Swaziland
 zoomFeatures: true
 geojsonFolder: ./Swaziland
+markerFolder: ./Swaziland/City
 ```
 
 [name-en::Swaziland]

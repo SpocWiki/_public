@@ -15,6 +15,7 @@ confidential: public
 id: Gabon
 zoomFeatures: true
 geojsonFolder: ./Gabon
+markerFolder: ./Gabon/City
 ```
 
 [name-en::Gabon]

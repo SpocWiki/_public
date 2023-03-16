@@ -15,6 +15,7 @@ confidential: public
 id: Sri Lanka
 zoomFeatures: true
 geojsonFolder: ./Sri_Lanka
+markerFolder: ./Sri_Lanka/City
 ```
 
 [name-en::Sri Lanka]

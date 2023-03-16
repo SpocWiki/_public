@@ -15,6 +15,7 @@ confidential: public
 id: Singapore
 zoomFeatures: true
 geojsonFolder: ./Singapore
+markerFolder: ./Singapore/City
 ```
 
 [name-en::Singapore]

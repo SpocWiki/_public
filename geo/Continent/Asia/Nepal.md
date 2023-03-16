@@ -15,6 +15,7 @@ confidential: public
 id: Nepal
 zoomFeatures: true
 geojsonFolder: ./Nepal
+markerFolder: ./Nepal/City
 ```
 
 [name-en::Nepal]

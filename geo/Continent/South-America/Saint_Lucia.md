@@ -15,6 +15,7 @@ confidential: public
 id: Saint Lucia
 zoomFeatures: true
 geojsonFolder: ./Saint_Lucia
+markerFolder: ./Saint_Lucia/City
 ```
 
 [name-en::Saint Lucia]

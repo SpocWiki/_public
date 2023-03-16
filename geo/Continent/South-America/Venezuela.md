@@ -15,6 +15,7 @@ confidential: public
 id: Venezuela
 zoomFeatures: true
 geojsonFolder: ./Venezuela
+markerFolder: ./Venezuela/City
 ```
 
 [name-en::Venezuela]

@@ -15,6 +15,7 @@ confidential: public
 id: Mayotte
 zoomFeatures: true
 geojsonFolder: ./Mayotte
+markerFolder: ./Mayotte/City
 ```
 
 [name-en::Mayotte]

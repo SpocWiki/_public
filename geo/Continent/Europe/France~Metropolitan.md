@@ -15,6 +15,7 @@ confidential: public
 id: France, Metropolitan
 zoomFeatures: true
 geojsonFolder: ./France~Metropolitan
+markerFolder: ./France~Metropolitan/City
 ```
 
 [name-en::France, Metropolitan]

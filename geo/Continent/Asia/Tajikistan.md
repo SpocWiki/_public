@@ -15,6 +15,7 @@ confidential: public
 id: Tajikistan
 zoomFeatures: true
 geojsonFolder: ./Tajikistan
+markerFolder: ./Tajikistan/City
 ```
 
 [name-en::Tajikistan]

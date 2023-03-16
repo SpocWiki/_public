@@ -15,6 +15,7 @@ confidential: public
 id: Saudi Arabia
 zoomFeatures: true
 geojsonFolder: ./Saudi_Arabia
+markerFolder: ./Saudi_Arabia/City
 ```
 
 [name-en::Saudi Arabia]

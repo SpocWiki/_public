@@ -15,6 +15,7 @@ confidential: public
 id: Palau
 zoomFeatures: true
 geojsonFolder: ./Palau
+markerFolder: ./Palau/City
 ```
 
 [name-en::Palau]

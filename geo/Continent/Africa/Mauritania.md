@@ -15,6 +15,7 @@ confidential: public
 id: Mauritania
 zoomFeatures: true
 geojsonFolder: ./Mauritania
+markerFolder: ./Mauritania/City
 ```
 
 [name-en::Mauritania]

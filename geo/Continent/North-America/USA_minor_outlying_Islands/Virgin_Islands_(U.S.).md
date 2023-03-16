@@ -15,6 +15,7 @@ confidential: public
 id: Virgin Islands (U.S.)
 zoomFeatures: true
 geojsonFolder: ./Virgin_Islands_(U.S.)
+markerFolder: ./Virgin_Islands_(U.S.)/City
 ```
 
 [name-en::Virgin Islands (U.S.)]

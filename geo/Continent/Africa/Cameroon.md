@@ -15,6 +15,7 @@ confidential: public
 id: Cameroon
 zoomFeatures: true
 geojsonFolder: ./Cameroon
+markerFolder: ./Cameroon/City
 ```
 
 [name-en::Cameroon]

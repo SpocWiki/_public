@@ -15,6 +15,7 @@ confidential: public
 id: Bouvet Island
 zoomFeatures: true
 geojsonFolder: ./Bouvet_Island
+markerFolder: ./Bouvet_Island/City
 ```
 
 [name-en::Bouvet Island]

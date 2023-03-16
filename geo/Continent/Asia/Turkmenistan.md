@@ -15,6 +15,7 @@ confidential: public
 id: Turkmenistan
 zoomFeatures: true
 geojsonFolder: ./Turkmenistan
+markerFolder: ./Turkmenistan/City
 ```
 
 [name-en::Turkmenistan]

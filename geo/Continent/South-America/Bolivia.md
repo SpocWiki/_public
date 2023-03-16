@@ -15,6 +15,7 @@ confidential: public
 id: Bolivia
 zoomFeatures: true
 geojsonFolder: ./Bolivia
+markerFolder: ./Bolivia/City
 ```
 
 [name-en::Bolivia]

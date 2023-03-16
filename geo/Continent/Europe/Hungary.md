@@ -15,6 +15,7 @@ confidential: public
 id: Hungary
 zoomFeatures: true
 geojsonFolder: ./Hungary
+markerFolder: ./Hungary/City
 ```
 
 [name-en::Hungary]

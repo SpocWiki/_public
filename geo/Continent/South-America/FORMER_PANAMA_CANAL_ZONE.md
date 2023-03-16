@@ -15,6 +15,7 @@ confidential: public
 id: FORMER PANAMA CANAL ZONE
 zoomFeatures: true
 geojsonFolder: ./FORMER_PANAMA_CANAL_ZONE
+markerFolder: ./FORMER_PANAMA_CANAL_ZONE/City
 ```
 
 [name-en::FORMER PANAMA CANAL ZONE]

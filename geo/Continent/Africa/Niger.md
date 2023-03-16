@@ -15,6 +15,7 @@ confidential: public
 id: Niger
 zoomFeatures: true
 geojsonFolder: ./Niger
+markerFolder: ./Niger/City
 ```
 
 [name-en::Niger]

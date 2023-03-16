@@ -15,6 +15,7 @@ confidential: public
 id: Chad
 zoomFeatures: true
 geojsonFolder: ./Chad
+markerFolder: ./Chad/City
 ```
 
 [name-en::Chad]

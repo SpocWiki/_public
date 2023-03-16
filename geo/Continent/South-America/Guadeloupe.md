@@ -15,6 +15,7 @@ confidential: public
 id: Guadeloupe
 zoomFeatures: true
 geojsonFolder: ./Guadeloupe
+markerFolder: ./Guadeloupe/City
 ```
 
 [name-en::Guadeloupe]

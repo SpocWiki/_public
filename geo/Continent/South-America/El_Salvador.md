@@ -15,6 +15,7 @@ confidential: public
 id: El Salvador
 zoomFeatures: true
 geojsonFolder: ./El_Salvador
+markerFolder: ./El_Salvador/City
 ```
 
 [name-en::El Salvador]

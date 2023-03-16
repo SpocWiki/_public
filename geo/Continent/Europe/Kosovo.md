@@ -15,6 +15,7 @@ confidential: public
 id: Kosovo
 zoomFeatures: true
 geojsonFolder: ./Kosovo
+markerFolder: ./Kosovo/City
 ```
 
 [name-en::Kosovo]

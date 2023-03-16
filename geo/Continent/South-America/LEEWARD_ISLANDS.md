@@ -15,6 +15,7 @@ confidential: public
 id: LEEWARD ISLANDS
 zoomFeatures: true
 geojsonFolder: ./LEEWARD_ISLANDS
+markerFolder: ./LEEWARD_ISLANDS/City
 ```
 
 [name-en::LEEWARD ISLANDS]

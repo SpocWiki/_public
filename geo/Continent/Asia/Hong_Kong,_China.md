@@ -15,6 +15,7 @@ confidential: public
 id: Hong Kong, China
 zoomFeatures: true
 geojsonFolder: ./Hong_Kong,_China
+markerFolder: ./Hong_Kong,_China/City
 ```
 
 [name-en::Hong Kong, China]

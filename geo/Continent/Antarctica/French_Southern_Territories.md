@@ -15,6 +15,7 @@ confidential: public
 id: French Southern Territories
 zoomFeatures: true
 geojsonFolder: ./French_Southern_Territories
+markerFolder: ./French_Southern_Territories/City
 ```
 
 [name-en::French Southern Territories]

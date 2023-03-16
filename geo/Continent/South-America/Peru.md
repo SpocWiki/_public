@@ -15,6 +15,7 @@ confidential: public
 id: Peru
 zoomFeatures: true
 geojsonFolder: ./Peru
+markerFolder: ./Peru/City
 ```
 
 [name-en::Peru]

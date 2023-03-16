@@ -15,6 +15,7 @@ confidential: public
 id: Uzbekistan
 zoomFeatures: true
 geojsonFolder: ./Uzbekistan
+markerFolder: ./Uzbekistan/City
 ```
 
 [name-en::Uzbekistan]

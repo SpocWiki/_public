@@ -15,6 +15,7 @@ confidential: public
 id: Qatar
 zoomFeatures: true
 geojsonFolder: ./Qatar
+markerFolder: ./Qatar/City
 ```
 
 [name-en::Qatar]

@@ -15,6 +15,7 @@ confidential: public
 id: Ecuador
 zoomFeatures: true
 geojsonFolder: ./Ecuador
+markerFolder: ./Ecuador/City
 ```
 
 [name-en::Ecuador]

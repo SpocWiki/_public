@@ -15,6 +15,7 @@ confidential: public
 id: Indonesia
 zoomFeatures: true
 geojsonFolder: ./Indonesia
+markerFolder: ./Indonesia/City
 ```
 
 [name-en::Indonesia]

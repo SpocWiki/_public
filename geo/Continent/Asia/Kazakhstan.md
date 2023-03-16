@@ -15,6 +15,7 @@ confidential: public
 id: Kazakhstan
 zoomFeatures: true
 geojsonFolder: ./Kazakhstan
+markerFolder: ./Kazakhstan/City
 ```
 
 [name-en::Kazakhstan]

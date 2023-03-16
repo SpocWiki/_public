@@ -15,6 +15,7 @@ confidential: public
 id: Netherland Antilles and Aruba
 zoomFeatures: true
 geojsonFolder: ./Netherland_Antilles_and_Aruba
+markerFolder: ./Netherland_Antilles_and_Aruba/City
 ```
 
 [name-en::Netherland Antilles and Aruba]

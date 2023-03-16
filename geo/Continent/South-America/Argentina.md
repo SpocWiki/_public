@@ -15,6 +15,7 @@ confidential: public
 id: Argentina
 zoomFeatures: true
 geojsonFolder: ./Argentina
+markerFolder: ./Argentina/City
 ```
 
 [name-en::Argentina]

@@ -15,6 +15,7 @@ confidential: public
 id: Guinea
 zoomFeatures: true
 geojsonFolder: ./Guinea
+markerFolder: ./Guinea/City
 ```
 
 [name-en::Guinea]

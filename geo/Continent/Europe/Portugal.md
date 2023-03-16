@@ -15,6 +15,7 @@ confidential: public
 id: Portugal
 zoomFeatures: true
 geojsonFolder: ./Portugal
+markerFolder: ./Portugal/City
 ```
 
 [name-en::Portugal]

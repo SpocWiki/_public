@@ -15,6 +15,7 @@ confidential: public
 id: Northern Cyprus
 zoomFeatures: true
 geojsonFolder: ./Cyprus
+markerFolder: ./Cyprus/City
 ```
 
 [name-en::Northern Cyprus]

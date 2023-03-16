@@ -15,6 +15,7 @@ confidential: public
 id: Thailand
 zoomFeatures: true
 geojsonFolder: ./Thailand
+markerFolder: ./Thailand/City
 ```
 
 [name-en::Thailand]

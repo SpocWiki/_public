@@ -15,6 +15,7 @@ confidential: public
 id: Tonga
 zoomFeatures: true
 geojsonFolder: ./Tonga
+markerFolder: ./Tonga/City
 ```
 
 [name-en::Tonga]

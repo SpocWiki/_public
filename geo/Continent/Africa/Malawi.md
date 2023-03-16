@@ -15,6 +15,7 @@ confidential: public
 id: Malawi
 zoomFeatures: true
 geojsonFolder: ./Malawi
+markerFolder: ./Malawi/City
 ```
 
 [name-en::Malawi]

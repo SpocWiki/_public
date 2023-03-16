@@ -11,6 +11,7 @@ confidential: public
 id: Oceania
 zoomFeatures: true
 geojsonFolder: ./Oceania
+markerFolder: ./Oceania/City
 ```
 
 [name-en::Oceania]

@@ -12,6 +12,7 @@ confidential: public
 id: Steiermark
 zoomFeatures: true
 geojsonFolder: ./Steiermark
+markerFolder: ./Steiermark/City
 ```
 
 [ name :: Steiermark ]

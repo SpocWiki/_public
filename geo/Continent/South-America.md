@@ -11,6 +11,7 @@ confidential: public
 id: South America
 zoomFeatures: true
 geojsonFolder: ./South_America
+markerFolder: ./South_America/City
 ```
 
 [name-en::South America]

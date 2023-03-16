@@ -15,6 +15,7 @@ confidential: public
 id: Gambia
 zoomFeatures: true
 geojsonFolder: ./Gambia
+markerFolder: ./Gambia/City
 ```
 
 [name-en::Gambia]

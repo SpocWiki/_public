@@ -15,6 +15,7 @@ confidential: public
 id: Cape Verde
 zoomFeatures: true
 geojsonFolder: ./Cape_Verde
+markerFolder: ./Cape_Verde/City
 ```
 
 [name-en::Cape Verde]

@@ -19,6 +19,7 @@ aliases:
 id: Korea, Dem. Rep.
 zoomFeatures: true
 geojsonFolder: ./Korea~North
+markerFolder: ./Korea~North/City
 ```
 
 [name-en::Korea, Dem. Rep.]

@@ -15,6 +15,7 @@ confidential: public
 id: Zanzibar
 zoomFeatures: true
 geojsonFolder: ./Zanzibar
+markerFolder: ./Zanzibar/City
 ```
 
 [name-en::Zanzibar]

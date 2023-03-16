@@ -15,6 +15,7 @@ confidential: public
 id: Sabah
 zoomFeatures: true
 geojsonFolder: ./Sabah
+markerFolder: ./Sabah/City
 ```
 
 [name-en::Sabah]

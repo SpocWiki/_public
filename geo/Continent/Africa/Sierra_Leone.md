@@ -15,6 +15,7 @@ confidential: public
 id: Sierra Leone
 zoomFeatures: true
 geojsonFolder: ./Sierra_Leone
+markerFolder: ./Sierra_Leone/City
 ```
 
 [name-en::Sierra Leone]

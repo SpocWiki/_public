@@ -12,6 +12,7 @@ confidential: public
 id: Burgenland
 zoomFeatures: true
 geojsonFolder: ./Burgenland/
+markerFolder: ./Burgenland/City
 ```
 
 [ name :: Burgenland ]

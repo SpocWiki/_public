@@ -17,6 +17,7 @@ tags:
 id: Thüringen
 zoomFeatures: true
 geojsonFolder: ./Thüringen/
+markerFolder: ./Thüringen/City
 ```
 
 [Country::[[Germany]]]

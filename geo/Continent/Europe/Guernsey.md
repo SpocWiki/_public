@@ -15,6 +15,7 @@ confidential: public
 id: Guernsey
 zoomFeatures: true
 geojsonFolder: ./Guernsey
+markerFolder: ./Guernsey/City
 ```
 
 [name-en::Guernsey]

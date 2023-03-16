@@ -15,6 +15,7 @@ confidential: public
 id: Puerto Rico
 zoomFeatures: true
 geojsonFolder: ./Puerto_Rico
+markerFolder: ./Puerto_Rico/City
 ```
 
 [name-en::Puerto Rico]

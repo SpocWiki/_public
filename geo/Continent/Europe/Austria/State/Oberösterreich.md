@@ -12,6 +12,7 @@ confidential: public
 id: Oberösterreich
 zoomFeatures: true
 geojsonFolder: ./Oberösterreich
+markerFolder: ./Oberösterreich/City
 ```
 
 [ name :: Oberösterreich ]

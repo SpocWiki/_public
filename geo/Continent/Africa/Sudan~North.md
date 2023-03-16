@@ -15,6 +15,7 @@ confidential: public
 id: Sudan
 zoomFeatures: true
 geojsonFolder: ./Sudan
+markerFolder: ./Sudan/City
 ```
 
 [name-en::Sudan]

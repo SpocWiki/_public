@@ -15,6 +15,7 @@ confidential: public
 id: France
 zoomFeatures: true
 geojsonFolder: ./France
+markerFolder: ./France/City
 ```
 
 [name-en::France]

@@ -15,6 +15,7 @@ confidential: public
 id: Tunisia
 zoomFeatures: true
 geojsonFolder: ./Tunisia
+markerFolder: ./Tunisia/City
 ```
 
 [name-en::Tunisia]

@@ -15,6 +15,7 @@ confidential: public
 id: Norfolk Island
 zoomFeatures: true
 geojsonFolder: ./Norfolk_Island
+markerFolder: ./Norfolk_Island/City
 ```
 
 [name-en::Norfolk Island]

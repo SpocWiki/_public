@@ -11,6 +11,7 @@ confidential: public
 id: Australia
 zoomFeatures: true
 geojsonFolder: ./Australia
+markerFolder: ./Australia/City
 ```
 
 [name-en::Australia]

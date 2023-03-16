@@ -16,6 +16,7 @@ tags:
 id: Sachsen
 zoomFeatures: true
 geojsonFolder: ./Sachsen/
+markerFolder: ./Sachsen/City
 ```
 
 [Country::[[Germany]]]

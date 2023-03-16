@@ -15,6 +15,7 @@ confidential: public
 id: Suriname
 zoomFeatures: true
 geojsonFolder: ./Suriname
+markerFolder: ./Suriname/City
 ```
 
 [name-en::Suriname]

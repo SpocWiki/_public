@@ -15,6 +15,7 @@ confidential: public
 id: Vietnam
 zoomFeatures: true
 geojsonFolder: ./Vietnam
+markerFolder: ./Vietnam/City
 ```
 
 [name-en::Vietnam]

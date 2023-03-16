@@ -15,6 +15,7 @@ confidential: public
 id: Taiwan
 zoomFeatures: true
 geojsonFolder: ./Taiwan
+markerFolder: ./Taiwan/City
 ```
 
 [name-en::Taiwan]

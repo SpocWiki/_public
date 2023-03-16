@@ -12,6 +12,7 @@ confidential: public
 id: Kärnten
 zoomFeatures: true
 geojsonFolder: ./Kärnten
+markerFolder: ./Kärnten/City
 ```
 
 [ name :: Kärnten ]

@@ -15,6 +15,7 @@ confidential: public
 id: Brunei
 zoomFeatures: true
 geojsonFolder: ./Brunei
+markerFolder: ./Brunei/City
 ```
 
 [name-en::Brunei]

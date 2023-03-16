@@ -13,6 +13,7 @@ isDeleted: false
 id: Europe
 zoomFeatures: true
 geojsonFolder: ./Europe
+markerFolder: ./Europe/City
 ```
 
 [name-en::Europe]

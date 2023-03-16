@@ -17,6 +17,7 @@ tags:
 id: NordRhein-Westfalen
 zoomFeatures: true
 geojsonFolder: ./NordRhein-Westfalen/
+markerFolder: ./NordRhein-Westfalen/City
 ```
 
 [Country::[[Germany]]]

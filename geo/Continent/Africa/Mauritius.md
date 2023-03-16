@@ -15,6 +15,7 @@ confidential: public
 id: Mauritius
 zoomFeatures: true
 geojsonFolder: ./Mauritius
+markerFolder: ./Mauritius/City
 ```
 
 [name-en::Mauritius]

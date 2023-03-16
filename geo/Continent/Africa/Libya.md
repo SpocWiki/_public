@@ -15,6 +15,7 @@ confidential: public
 id: Libya
 zoomFeatures: true
 geojsonFolder: ./Libya
+markerFolder: ./Libya/City
 ```
 
 [name-en::Libya]

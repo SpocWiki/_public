@@ -15,6 +15,7 @@ confidential: public
 id: Mali
 zoomFeatures: true
 geojsonFolder: ./Mali
+markerFolder: ./Mali/City
 ```
 
 [name-en::Mali]

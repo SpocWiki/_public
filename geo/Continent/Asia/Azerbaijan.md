@@ -15,6 +15,7 @@ confidential: public
 id: Azerbaijan
 zoomFeatures: true
 geojsonFolder: ./Azerbaijan
+markerFolder: ./Azerbaijan/City
 ```
 
 [name-en::Azerbaijan]

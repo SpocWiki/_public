@@ -15,6 +15,7 @@ confidential: public
 id: Nigeria
 zoomFeatures: true
 geojsonFolder: ./Nigeria
+markerFolder: ./Nigeria/City
 ```
 
 [name-en::Nigeria]

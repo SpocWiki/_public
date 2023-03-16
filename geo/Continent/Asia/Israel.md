@@ -15,6 +15,7 @@ confidential: public
 id: Israel
 zoomFeatures: true
 geojsonFolder: ./Israel
+markerFolder: ./Israel/City
 ```
 
 [name-en::Israel]

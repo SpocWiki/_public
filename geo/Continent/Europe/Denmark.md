@@ -15,6 +15,7 @@ confidential: public
 id: Denmark
 zoomFeatures: true
 geojsonFolder: ./Denmark
+markerFolder: ./Denmark/City
 ```
 
 [name-en::Denmark]

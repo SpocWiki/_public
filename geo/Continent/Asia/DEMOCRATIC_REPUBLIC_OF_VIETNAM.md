@@ -15,6 +15,7 @@ confidential: public
 id: DEMOCRATIC REPUBLIC OF VIETNAM
 zoomFeatures: true
 geojsonFolder: ./DEMOCRATIC_REPUBLIC_OF_VIETNAM
+markerFolder: ./DEMOCRATIC_REPUBLIC_OF_VIETNAM/City
 ```
 
 [name-en::DEMOCRATIC REPUBLIC OF VIETNAM]

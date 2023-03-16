@@ -14,6 +14,7 @@ tags:
 id: Austria
 zoomFeatures: true
 geojsonFolder: ./Austria
+markerFolder: ./Austria/City
 ```
 
 [name-en::Austria]

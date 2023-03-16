@@ -15,6 +15,7 @@ confidential: public
 id: FRENCH EQUATORIAL AFRICA
 zoomFeatures: true
 geojsonFolder: ./FRENCH_EQUATORIAL_AFRICA
+markerFolder: ./FRENCH_EQUATORIAL_AFRICA/City
 ```
 
 [name-en::FRENCH EQUATORIAL AFRICA]

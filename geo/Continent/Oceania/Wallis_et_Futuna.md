@@ -15,6 +15,7 @@ confidential: public
 id: Wallis et Futuna
 zoomFeatures: true
 geojsonFolder: ./Wallis_et_Futuna
+markerFolder: ./Wallis_et_Futuna/City
 ```
 
 [name-en::Wallis et Futuna]

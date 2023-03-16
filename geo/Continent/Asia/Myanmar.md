@@ -15,6 +15,7 @@ confidential: public
 id: Myanmar
 zoomFeatures: true
 geojsonFolder: ./Myanmar
+markerFolder: ./Myanmar/City
 ```
 
 [name-en::Myanmar]

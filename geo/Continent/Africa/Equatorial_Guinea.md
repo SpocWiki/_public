@@ -15,6 +15,7 @@ confidential: public
 id: Equatorial Guinea
 zoomFeatures: true
 geojsonFolder: ./Equatorial_Guinea
+markerFolder: ./Equatorial_Guinea/City
 ```
 
 [name-en::Equatorial Guinea]

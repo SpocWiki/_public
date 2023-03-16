@@ -15,6 +15,7 @@ confidential: public
 id: Brazil
 zoomFeatures: true
 geojsonFolder: ./Brazil
+markerFolder: ./Brazil/City
 ```
 
 [name-en::Brazil]

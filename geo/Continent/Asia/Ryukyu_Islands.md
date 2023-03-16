@@ -15,6 +15,7 @@ confidential: public
 id: Ryukyu Islands
 zoomFeatures: true
 geojsonFolder: ./Ryukyu_Islands
+markerFolder: ./Ryukyu_Islands/City
 ```
 
 [name-en::Ryukyu Islands]

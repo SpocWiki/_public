@@ -13,6 +13,7 @@ confidential: public
 id: Czechoslovakia
 zoomFeatures: true
 geojsonFolder: ./Czechoslovakia
+markerFolder: ./Czechoslovakia/City
 ```
 
 [name-en::Czechoslovakia]

@@ -15,6 +15,7 @@ confidential: public
 id: Moldova
 zoomFeatures: true
 geojsonFolder: ./Moldova
+markerFolder: ./Moldova/City
 ```
 
 [name-en::Moldova]

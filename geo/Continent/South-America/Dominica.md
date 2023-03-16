@@ -15,6 +15,7 @@ confidential: public
 id: Dominica
 zoomFeatures: true
 geojsonFolder: ./Dominica
+markerFolder: ./Dominica/City
 ```
 
 [name-en::Dominica]

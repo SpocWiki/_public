@@ -15,6 +15,7 @@ confidential: public
 id: Zimbabwe
 zoomFeatures: true
 geojsonFolder: ./Zimbabwe
+markerFolder: ./Zimbabwe/City
 ```
 
 [name-en::Zimbabwe]

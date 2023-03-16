@@ -15,6 +15,7 @@ confidential: public
 id: Uganda
 zoomFeatures: true
 geojsonFolder: ./Uganda
+markerFolder: ./Uganda/City
 ```
 
 [name-en::Uganda]

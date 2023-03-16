@@ -15,6 +15,7 @@ confidential: public
 id: Guam
 zoomFeatures: true
 geojsonFolder: ./Guam
+markerFolder: ./Guam/City
 ```
 
 [name-en::Guam]

@@ -15,6 +15,7 @@ confidential: public
 id: Namibia
 zoomFeatures: true
 geojsonFolder: ./Namibia
+markerFolder: ./Namibia/City
 ```
 
 [name-en::Namibia]

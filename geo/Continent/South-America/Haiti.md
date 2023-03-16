@@ -15,6 +15,7 @@ confidential: public
 id: Haiti
 zoomFeatures: true
 geojsonFolder: ./Haiti
+markerFolder: ./Haiti/City
 ```
 
 [name-en::Haiti]

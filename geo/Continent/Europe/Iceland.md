@@ -15,6 +15,7 @@ confidential: public
 id: Iceland
 zoomFeatures: true
 geojsonFolder: ./Iceland
+markerFolder: ./Iceland/City
 ```
 
 [name-en::Iceland]

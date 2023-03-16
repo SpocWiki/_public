@@ -15,6 +15,7 @@ confidential: public
 id: Guyana
 zoomFeatures: true
 geojsonFolder: ./Guyana
+markerFolder: ./Guyana/City
 ```
 
 [name-en::Guyana]

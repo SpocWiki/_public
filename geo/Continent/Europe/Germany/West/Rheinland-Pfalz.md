@@ -17,6 +17,7 @@ tags:
 id: Rheinland-Pfalz
 zoomFeatures: true
 geojsonFolder: ./Rheinland-Pfalz/
+markerFolder: ./Rheinland-Pfalz/City
 ```
 
 [Country::[[Germany]]]

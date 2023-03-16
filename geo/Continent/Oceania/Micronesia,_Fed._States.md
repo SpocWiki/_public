@@ -15,6 +15,7 @@ confidential: public
 id: Micronesia, Fed. States
 zoomFeatures: true
 geojsonFolder: ./Micronesia,_Fed._States
+markerFolder: ./Micronesia,_Fed._States/City
 ```
 
 [name-en::Micronesia, Fed. States]

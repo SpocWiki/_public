@@ -15,6 +15,7 @@ confidential: public
 id: Holy See (Vatican State)
 zoomFeatures: true
 geojsonFolder: ./Holy_See_(Vatican_State)
+markerFolder: ./Holy_See_(Vatican_State)/City
 ```
 
 [name-en::Holy See (Vatican State)]

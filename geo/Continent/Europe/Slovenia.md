@@ -15,6 +15,7 @@ confidential: public
 id: Slovenia
 zoomFeatures: true
 geojsonFolder: ./Slovenia
+markerFolder: ./Slovenia/City
 ```
 
 [name-en::Slovenia]

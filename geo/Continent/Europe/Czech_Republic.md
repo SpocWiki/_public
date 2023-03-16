@@ -15,6 +15,7 @@ confidential: public
 id: Czech Rep.
 zoomFeatures: true
 geojsonFolder: ./Czech_Republic
+markerFolder: ./Czech_Republic/City
 ```
 
 [name-en::Czech Rep.]

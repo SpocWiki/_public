@@ -15,6 +15,7 @@ confidential: public
 id: Lithuania
 zoomFeatures: true
 geojsonFolder: ./Lithuania
+markerFolder: ./Lithuania/City
 ```
 
 [name-en::Lithuania]

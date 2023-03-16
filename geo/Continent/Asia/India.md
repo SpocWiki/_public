@@ -15,6 +15,7 @@ confidential: public
 id: India
 zoomFeatures: true
 geojsonFolder: ./India
+markerFolder: ./India/City
 ```
 
 [name-en::India]

@@ -15,6 +15,7 @@ confidential: public
 id: Pakistan
 zoomFeatures: true
 geojsonFolder: ./Pakistan
+markerFolder: ./Pakistan/City
 ```
 
 [name-en::Pakistan]

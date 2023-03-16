@@ -15,6 +15,7 @@ confidential: public
 id: Yemen, Rep.
 zoomFeatures: true
 geojsonFolder: ./Yemen~Republic
+markerFolder: ./Yemen~Republic/City
 ```
 
 [name-en::Yemen, Rep.]

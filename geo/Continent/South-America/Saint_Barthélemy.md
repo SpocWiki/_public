@@ -15,6 +15,7 @@ confidential: public
 id: Saint Barthélemy
 zoomFeatures: true
 geojsonFolder: ./Saint_Barthélemy
+markerFolder: ./Saint_Barthélemy/City
 ```
 
 [name-en::Saint Barthélemy]

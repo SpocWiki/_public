@@ -15,6 +15,7 @@ confidential: public
 id: Morocco
 zoomFeatures: true
 geojsonFolder: ./Morocco
+markerFolder: ./Morocco/City
 ```
 
 [name-en::Morocco]

@@ -15,6 +15,7 @@ confidential: public
 id: Macao, China
 zoomFeatures: true
 geojsonFolder: ./Macao,_China
+markerFolder: ./Macao,_China/City
 ```
 
 [name-en::Macao, China]

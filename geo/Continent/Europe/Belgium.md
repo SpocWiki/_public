@@ -13,6 +13,7 @@ confidential: public
 id: Belgium
 zoomFeatures: true
 geojsonFolder: ./Belgium
+markerFolder: ./Belgium/City
 ```
 
 [name-en::Belgium]

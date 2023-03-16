@@ -15,6 +15,7 @@ confidential: public
 id: Guatemala
 zoomFeatures: true
 geojsonFolder: ./Guatemala
+markerFolder: ./Guatemala/City
 ```
 
 [name-en::Guatemala]

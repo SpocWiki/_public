@@ -15,6 +15,7 @@ confidential: public
 id: EAST &amp; WEST PAKISTAN
 zoomFeatures: true
 geojsonFolder: ./EAST_&amp;_WEST_PAKISTAN
+markerFolder: ./EAST_&amp;_WEST_PAKISTAN/City
 ```
 
 [name-en::EAST &amp; WEST PAKISTAN]

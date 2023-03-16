@@ -15,6 +15,7 @@ confidential: public
 id: Western Sahara
 zoomFeatures: true
 geojsonFolder: ./Western_Sahara
+markerFolder: ./Western_Sahara/City
 ```
 
 [name-en::Western Sahara]

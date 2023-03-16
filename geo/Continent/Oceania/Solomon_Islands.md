@@ -15,6 +15,7 @@ confidential: public
 id: Solomon Islands
 zoomFeatures: true
 geojsonFolder: ./Solomon_Islands
+markerFolder: ./Solomon_Islands/City
 ```
 
 [name-en::Solomon Islands]

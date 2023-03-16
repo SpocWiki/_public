@@ -15,6 +15,7 @@ confidential: public
 id: ANTARCTIC FISHERIES
 zoomFeatures: true
 geojsonFolder: ./ANTARCTIC_FISHERIES
+markerFolder: ./ANTARCTIC_FISHERIES/City
 ```
 
 [name-en::ANTARCTIC FISHERIES]

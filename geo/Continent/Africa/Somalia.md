@@ -15,6 +15,7 @@ confidential: public
 id: Somalia
 zoomFeatures: true
 geojsonFolder: ./Somalia
+markerFolder: ./Somalia/City
 ```
 
 [name-en::Somalia]

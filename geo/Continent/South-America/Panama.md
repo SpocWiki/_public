@@ -15,6 +15,7 @@ confidential: public
 id: Panama
 zoomFeatures: true
 geojsonFolder: ./Panama
+markerFolder: ./Panama/City
 ```
 
 [name-en::Panama]

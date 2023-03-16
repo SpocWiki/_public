@@ -15,6 +15,7 @@ confidential: public
 id: Reunion
 zoomFeatures: true
 geojsonFolder: ./Reunion
+markerFolder: ./Reunion/City
 ```
 
 [name-en::Reunion]

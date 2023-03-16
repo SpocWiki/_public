@@ -15,6 +15,7 @@ confidential: public
 id: Bahrain
 zoomFeatures: true
 geojsonFolder: ./Bahrain
+markerFolder: ./Bahrain/City
 ```
 
 [name-en::Bahrain]

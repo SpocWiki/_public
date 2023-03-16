@@ -15,6 +15,7 @@ confidential: public
 id: Jersey
 zoomFeatures: true
 geojsonFolder: ./Jersey
+markerFolder: ./Jersey/City
 ```
 
 [name-en::Jersey]

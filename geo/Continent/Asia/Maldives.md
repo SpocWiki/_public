@@ -15,6 +15,7 @@ confidential: public
 id: Maldives
 zoomFeatures: true
 geojsonFolder: ./Maldives
+markerFolder: ./Maldives/City
 ```
 
 [name-en::Maldives]

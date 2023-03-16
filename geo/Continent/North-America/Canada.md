@@ -14,6 +14,7 @@ tags:
 id: Canada
 zoomFeatures: true
 geojsonFolder: ./Canada//
+markerFolder: ./Canada/City
 ```
 
 [name-en::Canada]

@@ -15,6 +15,7 @@ confidential: public
 id: Falkland Islands (Malvinas)
 zoomFeatures: true
 geojsonFolder: ./Falkland_Islands_(Malvinas)
+markerFolder: ./Falkland_Islands_(Malvinas)/City
 ```
 
 [name-en::Falkland Islands (Malvinas)]

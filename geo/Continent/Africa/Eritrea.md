@@ -15,6 +15,7 @@ confidential: public
 id: Eritrea
 zoomFeatures: true
 geojsonFolder: ./Eritrea
+markerFolder: ./Eritrea/City
 ```
 
 [name-en::Eritrea]

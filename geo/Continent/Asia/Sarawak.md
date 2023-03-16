@@ -15,6 +15,7 @@ confidential: public
 id: Sarawak
 zoomFeatures: true
 geojsonFolder: ./Sarawak
+markerFolder: ./Sarawak/City
 ```
 
 [name-en::Sarawak]

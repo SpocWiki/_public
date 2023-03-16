@@ -13,6 +13,7 @@ confidential: public
 id: Bosnia and Herzegovina
 zoomFeatures: true
 geojsonFolder: ./Bosnia_and_Herzegovina
+markerFolder: ./Bosnia_and_Herzegovina/City
 ```
 
 [name-en::Bosnia and Herzegovina]

@@ -15,6 +15,7 @@ confidential: public
 id: Timor-Leste
 zoomFeatures: true
 geojsonFolder: ./Timor-Leste
+markerFolder: ./Timor-Leste/City
 ```
 
 [name-en::Timor-Leste]

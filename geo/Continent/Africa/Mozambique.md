@@ -15,6 +15,7 @@ confidential: public
 id: Mozambique
 zoomFeatures: true
 geojsonFolder: ./Mozambique
+markerFolder: ./Mozambique/City
 ```
 
 [name-en::Mozambique]

@@ -15,6 +15,7 @@ confidential: public
 id: Svalbard And Jan Mayen Islands
 zoomFeatures: true
 geojsonFolder: ./Svalbard_And_Jan_Mayen_Islands
+markerFolder: ./Svalbard_And_Jan_Mayen_Islands/City
 ```
 
 [name-en::Svalbard And Jan Mayen Islands]

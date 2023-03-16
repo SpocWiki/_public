@@ -12,6 +12,7 @@ confidential: public
 id: Vorarlberg
 zoomFeatures: true
 geojsonFolder: ./Vorarlberg
+markerFolder: ./Vorarlberg/City
 ```
 
 [ name :: Vorarlberg ]

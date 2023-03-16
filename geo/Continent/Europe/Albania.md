@@ -13,6 +13,7 @@ tags:
 id: Albania
 zoomFeatures: true
 geojsonFolder: ./Albania
+markerFolder: ./Albania/City
 ```
 
 [name-en::Albania]

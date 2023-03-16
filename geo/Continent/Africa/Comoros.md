@@ -15,6 +15,7 @@ confidential: public
 id: Comoros
 zoomFeatures: true
 geojsonFolder: ./Comoros
+markerFolder: ./Comoros/City
 ```
 
 [name-en::Comoros]

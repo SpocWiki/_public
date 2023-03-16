@@ -15,6 +15,7 @@ confidential: public
 id: Central African Rep.
 zoomFeatures: true
 geojsonFolder: ./Central_African_Rep
+markerFolder: ./Central_African_Rep/City
 ```
 
 [name-en::Central African Rep.]

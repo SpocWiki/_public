@@ -15,6 +15,7 @@ confidential: public
 id: Niue
 zoomFeatures: true
 geojsonFolder: ./Niue
+markerFolder: ./Niue/City
 ```
 
 [name-en::Niue]

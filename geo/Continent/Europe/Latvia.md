@@ -15,6 +15,7 @@ confidential: public
 id: Latvia
 zoomFeatures: true
 geojsonFolder: ./Latvia
+markerFolder: ./Latvia/City
 ```
 
 [name-en::Latvia]

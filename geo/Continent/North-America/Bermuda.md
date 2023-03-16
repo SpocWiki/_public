@@ -15,6 +15,7 @@ confidential: public
 id: Bermuda
 zoomFeatures: true
 geojsonFolder: ./Bermuda
+markerFolder: ./Bermuda/City
 ```
 
 [name-en::Bermuda]

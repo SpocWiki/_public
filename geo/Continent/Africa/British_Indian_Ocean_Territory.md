@@ -15,6 +15,7 @@ confidential: public
 id: British Indian Ocean Territory
 zoomFeatures: true
 geojsonFolder: ./British_Indian_Ocean_Territory
+markerFolder: ./British_Indian_Ocean_Territory/City
 ```
 
 [name-en::British Indian Ocean Territory]

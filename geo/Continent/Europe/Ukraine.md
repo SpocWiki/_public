@@ -15,6 +15,7 @@ confidential: public
 id: Ukraine
 zoomFeatures: true
 geojsonFolder: ./Ukraine
+markerFolder: ./Ukraine/City
 ```
 
 [name-en::Ukraine]

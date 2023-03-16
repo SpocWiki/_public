@@ -15,6 +15,7 @@ confidential: public
 id: Tuvalu
 zoomFeatures: true
 geojsonFolder: ./Tuvalu
+markerFolder: ./Tuvalu/City
 ```
 
 [name-en::Tuvalu]

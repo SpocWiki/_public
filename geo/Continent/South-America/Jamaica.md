@@ -15,6 +15,7 @@ confidential: public
 id: Jamaica
 zoomFeatures: true
 geojsonFolder: ./Jamaica
+markerFolder: ./Jamaica/City
 ```
 
 [name-en::Jamaica]

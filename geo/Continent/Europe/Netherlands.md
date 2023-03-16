@@ -15,6 +15,7 @@ confidential: public
 id: Netherlands
 zoomFeatures: true
 geojsonFolder: ./Netherlands
+markerFolder: ./Netherlands/City
 ```
 
 [name-en::Netherlands]

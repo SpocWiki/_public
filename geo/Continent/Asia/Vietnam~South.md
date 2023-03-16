@@ -15,6 +15,7 @@ confidential: public
 id: South Vietnam
 zoomFeatures: true
 geojsonFolder: ./Vietnam~South
+markerFolder: ./Vietnam~South/City
 ```
 
 [name-en::South Vietnam]

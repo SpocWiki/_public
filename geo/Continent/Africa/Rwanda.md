@@ -15,6 +15,7 @@ confidential: public
 id: Rwanda
 zoomFeatures: true
 geojsonFolder: ./Rwanda
+markerFolder: ./Rwanda/City
 ```
 
 [name-en::Rwanda]

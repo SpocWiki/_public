@@ -15,6 +15,7 @@ confidential: public
 id: Benin
 zoomFeatures: true
 geojsonFolder: ./Benin
+markerFolder: ./Benin/City
 ```
 
 [name-en::Benin]

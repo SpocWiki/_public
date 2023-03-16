@@ -15,6 +15,7 @@ confidential: public
 id: West Bank and Gaza
 zoomFeatures: true
 geojsonFolder: ./West_Bank_and_Gaza
+markerFolder: ./West_Bank_and_Gaza/City
 ```
 
 [name-en::West Bank and Gaza]

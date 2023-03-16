@@ -17,6 +17,7 @@ tags:
 id: Saarland
 zoomFeatures: true
 geojsonFolder: ./Saarland/
+markerFolder: ./Saarland/City
 ```
 
 [Country::[[Germany]]]

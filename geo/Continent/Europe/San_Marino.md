@@ -15,6 +15,7 @@ confidential: public
 id: San Marino
 zoomFeatures: true
 geojsonFolder: ./San_Marino
+markerFolder: ./San_Marino/City
 ```
 
 [name-en::San Marino]

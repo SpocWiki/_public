@@ -17,6 +17,7 @@ tags:
 id: Bayern
 zoomFeatures: true
 geojsonFolder: ./Bayern/
+markerFolder: ./Bayern/City
 ```
 
 [Country::[[Germany]]]

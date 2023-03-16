@@ -15,6 +15,7 @@ confidential: public
 id: Kyrgyzstan
 zoomFeatures: true
 geojsonFolder: ./Kyrgyzstan
+markerFolder: ./Kyrgyzstan/City
 ```
 
 [name-en::Kyrgyzstan]

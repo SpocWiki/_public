@@ -15,6 +15,7 @@ confidential: public
 id: Serbia excluding Kosovo
 zoomFeatures: true
 geojsonFolder: ./Serbia
+markerFolder: ./Serbia/City
 ```
 
 [name-en::Serbia]  excluding [[Kosovo]]

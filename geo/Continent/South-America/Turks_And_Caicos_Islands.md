@@ -15,6 +15,7 @@ confidential: public
 id: Turks And Caicos Islands
 zoomFeatures: true
 geojsonFolder: ./Turks_And_Caicos_Islands
+markerFolder: ./Turks_And_Caicos_Islands/City
 ```
 
 [name-en::Turks And Caicos Islands]

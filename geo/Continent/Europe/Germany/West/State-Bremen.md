@@ -19,6 +19,7 @@ tags:
 id: State-Bremen
 zoomFeatures: true
 geojsonFolder: ./State-Bremen/
+markerFolder: ./State-Bremen/City
 ```
 
 [Country::[[Germany]]]

@@ -15,6 +15,7 @@ confidential: public
 id: Saint Martin
 zoomFeatures: true
 geojsonFolder: ./Saint_Martin
+markerFolder: ./Saint_Martin/City
 ```
 
 [name-en::Saint Martin]

@@ -15,6 +15,7 @@ confidential: public
 id: Gibraltar
 zoomFeatures: true
 geojsonFolder: ./Gibraltar
+markerFolder: ./Gibraltar/City
 ```
 
 [name-en::Gibraltar]

@@ -15,6 +15,7 @@ confidential: public
 id: Saint Helena
 zoomFeatures: true
 geojsonFolder: ./Saint_Helena
+markerFolder: ./Saint_Helena/City
 ```
 
 [name-en::Saint Helena]

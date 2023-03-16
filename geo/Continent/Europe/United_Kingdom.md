@@ -14,6 +14,7 @@ tags:
 id: United Kingdom
 zoomFeatures: true
 geojsonFolder: ./United_Kingdom
+markerFolder: ./United_Kingdom/City
 ```
 
 [name-en::United Kingdom]

@@ -15,6 +15,7 @@ confidential: public
 id: Macau
 zoomFeatures: true
 geojsonFolder: ./Macau
+markerFolder: ./Macau/City
 ```
 
 [name-en::Macau]

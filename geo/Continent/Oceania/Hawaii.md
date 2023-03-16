@@ -15,6 +15,7 @@ confidential: public
 id: Hawaii
 zoomFeatures: true
 geojsonFolder: ./Hawaii
+markerFolder: ./Hawaii/City
 ```
 
 [name-en::Hawaii]

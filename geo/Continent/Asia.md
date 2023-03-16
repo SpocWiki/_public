@@ -11,6 +11,7 @@ confidential: public
 id: Asia
 zoomFeatures: true
 geojsonFolder: ./Asia
+markerFolder: ./Asia/City
 ```
 
 [name-en::Asia]

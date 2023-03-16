@@ -15,6 +15,7 @@ confidential: public
 id: Sao Tome And Principe
 zoomFeatures: true
 geojsonFolder: ./Sao_Tome_And_Principe
+markerFolder: ./Sao_Tome_And_Principe/City
 ```
 
 [name-en::Sao Tome And Principe]

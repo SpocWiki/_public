@@ -15,6 +15,7 @@ confidential: public
 id: Afghanistan
 zoomFeatures: true
 geojsonFolder: ./Afghanistan
+markerFolder: ./Afghanistan/City
 ```
 
 [name-en::Afghanistan]

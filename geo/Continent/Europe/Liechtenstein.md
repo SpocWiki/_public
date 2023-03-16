@@ -15,6 +15,7 @@ confidential: public
 id: Liechtenstein
 zoomFeatures: true
 geojsonFolder: ./Liechtenstein
+markerFolder: ./Liechtenstein/City
 ```
 
 [name-en::Liechtenstein]

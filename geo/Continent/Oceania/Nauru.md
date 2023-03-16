@@ -15,6 +15,7 @@ confidential: public
 id: Nauru
 zoomFeatures: true
 geojsonFolder: ./Nauru
+markerFolder: ./Nauru/City
 ```
 
 [name-en::Nauru]

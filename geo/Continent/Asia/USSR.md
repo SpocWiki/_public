@@ -19,6 +19,7 @@ confidential: public
 id: USSR
 zoomFeatures: true
 geojsonFolder: ./USSR
+markerFolder: ./USSR/City
 ```
 
 [name-en::USSR]

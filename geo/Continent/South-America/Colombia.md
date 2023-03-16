@@ -15,6 +15,7 @@ confidential: public
 id: Colombia
 zoomFeatures: true
 geojsonFolder: ./Colombia
+markerFolder: ./Colombia/City
 ```
 
 [name-en::Colombia]

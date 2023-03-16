@@ -15,6 +15,7 @@ confidential: public
 id: Congo, Dem. Rep.
 zoomFeatures: true
 geojsonFolder: ./Congo~Dem_Rep
+markerFolder: ./Congo~Dem_Rep/City
 ```
 
 [name-en::Congo, Dem. Rep.]

@@ -15,6 +15,7 @@ confidential: public
 id: Christmas Island
 zoomFeatures: true
 geojsonFolder: ./Christmas_Island
+markerFolder: ./Christmas_Island/City
 ```
 
 [name-en::Christmas Island]

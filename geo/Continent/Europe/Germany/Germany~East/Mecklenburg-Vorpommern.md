@@ -17,6 +17,7 @@ tags:
 id: Mecklenburg-Vorpommern
 zoomFeatures: true
 geojsonFolder: ./Mecklenburg-Vorpommern/
+markerFolder: ./Mecklenburg-Vorpommern/City
 ```
 
 [Country::[[Germany]]]

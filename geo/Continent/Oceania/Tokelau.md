@@ -15,6 +15,7 @@ confidential: public
 id: Tokelau
 zoomFeatures: true
 geojsonFolder: ./Tokelau
+markerFolder: ./Tokelau/City
 ```
 
 [name-en::Tokelau]

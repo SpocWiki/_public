@@ -15,6 +15,7 @@ confidential: public
 id: Grenada
 zoomFeatures: true
 geojsonFolder: ./Grenada
+markerFolder: ./Grenada/City
 ```
 
 [name-en::Grenada]

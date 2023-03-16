@@ -15,6 +15,7 @@ confidential: public
 id: Saint-Pierre-et-Miquelon
 zoomFeatures: true
 geojsonFolder: ./Saint-Pierre-et-Miquelon
+markerFolder: ./Saint-Pierre-et-Miquelon/City
 ```
 
 [name-en::Saint-Pierre-et-Miquelon]

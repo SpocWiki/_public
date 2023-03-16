@@ -15,6 +15,7 @@ confidential: public
 id: Kiribati
 zoomFeatures: true
 geojsonFolder: ./Kiribati
+markerFolder: ./Kiribati/City
 ```
 
 [name-en::Kiribati]

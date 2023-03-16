@@ -15,6 +15,7 @@ confidential: public
 id: Heard And Mc Donald Islands
 zoomFeatures: true
 geojsonFolder: ./Heard_And_Mc_Donald_Islands
+markerFolder: ./Heard_And_Mc_Donald_Islands/City
 ```
 
 [name-en::Heard And Mc Donald Islands]

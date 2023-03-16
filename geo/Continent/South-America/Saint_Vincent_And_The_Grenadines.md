@@ -15,6 +15,7 @@ confidential: public
 id: Saint Vincent And The Grenadines
 zoomFeatures: true
 geojsonFolder: ./Saint_Vincent_And_The_Grenadines
+markerFolder: ./Saint_Vincent_And_The_Grenadines/City
 ```
 
 [name-en::Saint Vincent And The Grenadines]

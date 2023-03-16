@@ -15,6 +15,7 @@ confidential: public
 id: Kuwait
 zoomFeatures: true
 geojsonFolder: ./Kuwait
+markerFolder: ./Kuwait/City
 ```
 
 [name-en::Kuwait]

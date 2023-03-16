@@ -15,6 +15,7 @@ confidential: public
 id: Saint Kitts And Nevis
 zoomFeatures: true
 geojsonFolder: ./Saint_Kitts_And_Nevis
+markerFolder: ./Saint_Kitts_And_Nevis/City
 ```
 
 [name-en::Saint Kitts And Nevis]

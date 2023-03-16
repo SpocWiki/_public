@@ -15,6 +15,7 @@ confidential: public
 id: Samoa
 zoomFeatures: true
 geojsonFolder: ./Samoa
+markerFolder: ./Samoa/City
 ```
 
 [name-en::Samoa]

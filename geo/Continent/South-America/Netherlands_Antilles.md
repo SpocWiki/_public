@@ -15,6 +15,7 @@ confidential: public
 id: Netherlands Antilles
 zoomFeatures: true
 geojsonFolder: ./Netherlands_Antilles
+markerFolder: ./Netherlands_Antilles/City
 ```
 
 [name-en::Netherlands Antilles]

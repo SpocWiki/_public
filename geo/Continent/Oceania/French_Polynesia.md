@@ -15,6 +15,7 @@ confidential: public
 id: French Polynesia
 zoomFeatures: true
 geojsonFolder: ./French_Polynesia
+markerFolder: ./French_Polynesia/City
 ```
 
 [name-en::French Polynesia]

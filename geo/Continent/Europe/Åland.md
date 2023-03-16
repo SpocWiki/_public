@@ -15,6 +15,7 @@ confidential: public
 id: Åland
 zoomFeatures: true
 geojsonFolder: ./Åland
+markerFolder: ./Åland/City
 ```
 
 [name-en::Åland]

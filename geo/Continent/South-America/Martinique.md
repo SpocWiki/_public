@@ -15,6 +15,7 @@ confidential: public
 id: Martinique
 zoomFeatures: true
 geojsonFolder: ./Martinique
+markerFolder: ./Martinique/City
 ```
 
 [name-en::Martinique]

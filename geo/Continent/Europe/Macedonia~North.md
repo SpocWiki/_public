@@ -15,6 +15,7 @@ confidential: public
 id: Macedonia, FYR
 zoomFeatures: true
 geojsonFolder: ./Macedonia~North
+markerFolder: ./Macedonia~North/City
 ```
 
 [name-en::Macedonia, FYR]

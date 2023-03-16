@@ -15,6 +15,7 @@ confidential: public
 id: Paraguay
 zoomFeatures: true
 geojsonFolder: ./Paraguay
+markerFolder: ./Paraguay/City
 ```
 
 [name-en::Paraguay]

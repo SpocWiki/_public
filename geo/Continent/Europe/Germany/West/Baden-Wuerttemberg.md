@@ -17,6 +17,7 @@ tags:
 id: Baden-Wuerttemberg
 zoomFeatures: true
 geojsonFolder: ./Baden-Wuerttemberg/
+markerFolder: ./Baden-Wuerttemberg/City
 ```
 
 [Country::[[Germany]]]

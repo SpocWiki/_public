@@ -15,6 +15,7 @@ confidential: public
 id: Luxembourg
 zoomFeatures: true
 geojsonFolder: ./Luxembourg
+markerFolder: ./Luxembourg/City
 ```
 
 [name-en::Luxembourg]

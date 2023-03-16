@@ -15,6 +15,7 @@ confidential: public
 id: Montserrat
 zoomFeatures: true
 geojsonFolder: ./Montserrat
+markerFolder: ./Montserrat/City
 ```
 
 [name-en::Montserrat]

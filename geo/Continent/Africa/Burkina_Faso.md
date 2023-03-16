@@ -15,6 +15,7 @@ confidential: public
 id: Burkina Faso
 zoomFeatures: true
 geojsonFolder: ./Burkina_Faso
+markerFolder: ./Burkina_Faso/City
 ```
 
 [name-en::Burkina Faso]

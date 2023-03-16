@@ -16,6 +16,7 @@ tags:
 id: Sachsen-Anhalt
 zoomFeatures: true
 geojsonFolder: ./Sachsen-Anhalt/
+markerFolder: ./Sachsen-Anhalt/City
 ```
 
 [Country::[[Germany]]]

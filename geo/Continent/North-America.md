@@ -11,6 +11,7 @@ confidential: public
 id: North America
 zoomFeatures: true
 geojsonFolder: ./North_America
+markerFolder: ./North_America/City
 ```
 
 [name-en::North America]

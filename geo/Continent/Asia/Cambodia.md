@@ -15,6 +15,7 @@ confidential: public
 id: Cambodia
 zoomFeatures: true
 geojsonFolder: ./Cambodia
+markerFolder: ./Cambodia/City
 ```
 
 [name-en::Cambodia]

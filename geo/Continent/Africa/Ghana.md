@@ -15,6 +15,7 @@ confidential: public
 id: Ghana
 zoomFeatures: true
 geojsonFolder: ./Ghana
+markerFolder: ./Ghana/City
 ```
 
 [name-en::Ghana]

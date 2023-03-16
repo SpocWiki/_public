@@ -16,6 +16,7 @@ EXCLUDING_THE_RUYUKU_ISLANDS
 id: Japan
 zoomFeatures: true
 geojsonFolder: ./Japan
+markerFolder: ./Japan/City
 ```
 
 [name-en::Japan]

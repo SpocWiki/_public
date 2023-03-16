@@ -15,6 +15,7 @@ confidential: public
 id: Cote D'ivoire
 zoomFeatures: true
 geojsonFolder: ./Cote_D'ivoire
+markerFolder: ./Cote_D'ivoire/City
 ```
 
 [name-en::Cote D'ivoire]

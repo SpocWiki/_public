@@ -15,6 +15,7 @@ confidential: public
 id: Italy
 zoomFeatures: true
 geojsonFolder: ./Italy
+markerFolder: ./Italy/City
 ```
 
 [name-en::Italy]

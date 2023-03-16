@@ -15,6 +15,7 @@ confidential: public
 id: Seychelles
 zoomFeatures: true
 geojsonFolder: ./Seychelles
+markerFolder: ./Seychelles/City
 ```
 
 [name-en::Seychelles]

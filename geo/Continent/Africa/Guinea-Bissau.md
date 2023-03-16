@@ -15,6 +15,7 @@ confidential: public
 id: Guinea-Bissau
 zoomFeatures: true
 geojsonFolder: ./Guinea-Bissau
+markerFolder: ./Guinea-Bissau/City
 ```
 
 [name-en::Guinea-Bissau]

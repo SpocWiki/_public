@@ -15,6 +15,7 @@ confidential: public
 id: Cayman Islands
 zoomFeatures: true
 geojsonFolder: ./Cayman_Islands
+markerFolder: ./Cayman_Islands/City
 ```
 
 [name-en::Cayman Islands]

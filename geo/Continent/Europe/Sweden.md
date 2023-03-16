@@ -15,6 +15,7 @@ confidential: public
 id: Sweden
 zoomFeatures: true
 geojsonFolder: ./Sweden
+markerFolder: ./Sweden/City
 ```
 
 [name-en::Sweden]

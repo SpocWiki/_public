@@ -15,6 +15,7 @@ confidential: public
 id: New Zealand
 zoomFeatures: true
 geojsonFolder: ./New_Zealand
+markerFolder: ./New_Zealand/City
 ```
 
 [name-en::New Zealand]
