@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.83]
 [geo-lat::51.53]
-[name::Dreihausen@Westfahlen]
+[name::Dreihausen~Westfahlen]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

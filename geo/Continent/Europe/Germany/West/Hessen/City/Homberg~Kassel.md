@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.42]
 [geo-lat::51.03]
-[name::Homberg@Kassel]
+[name::Homberg~Kassel]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

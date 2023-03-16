@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::1.63]
 [geo-lat::50.18]
-[name::St.Valery@Picardie]
+[name::St.Valery~Picardie]
 [State::]
 [Country::[[France]]]
 [StateId::]

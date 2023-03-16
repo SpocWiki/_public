@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.1]
 [geo-lat::53.6]
-[name::Goldberg@Meklenburg]
+[name::Goldberg~Meklenburg]
 [Country::[[Germany]]]
 [State:[[../../Mecklenburg-Vorpommern]]]]
 [Population::]

@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.52797]
 [geo-lat::50.15435]
-[name::Schwalbach@Taunus Limes]
+[name::Schwalbach~Taunus Limes]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

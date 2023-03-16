@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.73]
 [geo-lat::50.62]
-[name::Marbach@Fulda]
+[name::Marbach~Fulda]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

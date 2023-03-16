@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.22]
 [geo-lat::50.32]
-[name::Neustadt@Saale]
+[name::Neustadt~Saale]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

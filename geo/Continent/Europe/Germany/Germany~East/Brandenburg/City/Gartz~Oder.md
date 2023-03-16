@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.4]
 [geo-lat::53.22]
-[name::Gartz@Oder]
+[name::Gartz~Oder]
 [Country::[[Germany]]]
 [State:[[../../Brandenburg]]]]
 [Population::]

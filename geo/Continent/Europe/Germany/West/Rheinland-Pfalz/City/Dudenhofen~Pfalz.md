@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.38]
 [geo-lat::49.32]
-[name::Dudenhofen@Pfalz]
+[name::Dudenhofen~Pfalz]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

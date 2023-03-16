@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.1]
 [geo-lat::54.2]
-[name::Heide@Holstein]
+[name::Heide~Holstein]
 [Country::[[Germany]]]
 [State:[[../../Schleswig-Holstein]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.15]
 [geo-lat::48.67]
-[name::Heidenheim@Wuerttemberg]
+[name::Heidenheim~Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

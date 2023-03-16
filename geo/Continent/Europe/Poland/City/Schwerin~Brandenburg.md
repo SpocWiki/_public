@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.5]
 [geo-lat::52.6]
-[name::Schwerin@Brandenburg]
+[name::Schwerin~Brandenburg]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

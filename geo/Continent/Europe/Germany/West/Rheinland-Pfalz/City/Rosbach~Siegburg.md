@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.62]
 [geo-lat::50.8]
-[name::Rosbach@Siegburg]
+[name::Rosbach~Siegburg]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

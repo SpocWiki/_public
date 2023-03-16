@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::18.42]
 [geo-lat::50.88]
-[name::Landsberg@Schlesien]
+[name::Landsberg~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.4]
 [geo-lat::50.52]
-[name::Auerbach@Vogtland]
+[name::Auerbach~Vogtland]
 [Country::[[Germany]]]
 [State::[[../../Sachsen]]]
 [Population::]

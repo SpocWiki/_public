@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.88]
 [geo-lat::48.03]
-[name::Muehlheim@Donau]
+[name::Muehlheim~Donau]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

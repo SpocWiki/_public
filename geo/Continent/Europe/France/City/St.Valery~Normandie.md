@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::1.07]
 [geo-lat::49.87]
-[name::St.Valery@Normandie]
+[name::St.Valery~Normandie]
 [State::]
 [Country::[[France]]]
 [StateId::]

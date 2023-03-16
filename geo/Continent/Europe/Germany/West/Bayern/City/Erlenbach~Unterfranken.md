@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.15]
 [geo-lat::49.8]
-[name::Erlenbach@Unterfranken]
+[name::Erlenbach~Unterfranken]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

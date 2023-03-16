@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.48]
 [geo-lat::50.2]
-[name::Koenigstein@Taunus]
+[name::Koenigstein~Taunus]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::17.75]
 [geo-lat::54.55]
-[name::Lauenburg@Pommern]
+[name::Lauenburg~Pommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7]
 [geo-lat::51.45]
-[name::Essen@Ruhr]
+[name::Essen~Ruhr]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

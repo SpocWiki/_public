@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.32]
 [geo-lat::50.55]
-[name::Leubsdorf@Rheinland]
+[name::Leubsdorf~Rheinland]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

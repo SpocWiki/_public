@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::17.5]
 [geo-lat::51.13]
-[name::Bernstadt@Schlesien]
+[name::Bernstadt~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

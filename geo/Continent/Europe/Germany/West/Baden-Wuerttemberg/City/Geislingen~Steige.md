@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.83]
 [geo-lat::48.63]
-[name::Geislingen@Steige]
+[name::Geislingen~Steige]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

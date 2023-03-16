@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.58]
 [geo-lat::48.38]
-[name::Mautern@Niederoesterreich]
+[name::Mautern~Niederoesterreich]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

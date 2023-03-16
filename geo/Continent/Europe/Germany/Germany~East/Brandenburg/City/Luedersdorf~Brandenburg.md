@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.07]
 [geo-lat::52.93]
-[name::Luedersdorf@Brandenburg]
+[name::Luedersdorf~Brandenburg]
 [Country::[[Germany]]]
 [State:[[../../Brandenburg]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.5]
 [geo-lat::51.22]
-[name::Maltsch@Oder]
+[name::Maltsch~Oder]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

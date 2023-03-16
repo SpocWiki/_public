@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.68]
 [geo-lat::48.78]
-[name::Harburg@Schwaben]
+[name::Harburg~Schwaben]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

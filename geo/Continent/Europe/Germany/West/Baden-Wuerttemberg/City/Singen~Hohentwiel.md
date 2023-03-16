@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.83]
 [geo-lat::47.77]
-[name::Singen@Hohentwiel]
+[name::Singen~Hohentwiel]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

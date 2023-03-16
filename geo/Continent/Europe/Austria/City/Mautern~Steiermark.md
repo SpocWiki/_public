@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.32]
 [geo-lat::47.4]
-[name::Mautern@Steiermark]
+[name::Mautern~Steiermark]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

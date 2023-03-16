@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.33]
 [geo-lat::50.65]
-[name::Sinn@Dillkreis]
+[name::Sinn~Dillkreis]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

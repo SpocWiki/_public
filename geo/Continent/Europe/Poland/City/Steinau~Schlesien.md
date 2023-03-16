@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.42]
 [geo-lat::51.43]
-[name::Steinau@Schlesien]
+[name::Steinau~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.98]
 [geo-lat::48.42]
-[name::Neuhaus@Donau]
+[name::Neuhaus~Donau]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

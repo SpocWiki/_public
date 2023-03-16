@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.6]
 [geo-lat::50.88]
-[name::Waldenburg@Sachsen]
+[name::Waldenburg~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

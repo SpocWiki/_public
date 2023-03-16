@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.3]
 [geo-lat::50.77]
-[name::Waldenburg@Oberschlesien]
+[name::Waldenburg~Oberschlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

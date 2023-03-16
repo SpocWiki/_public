@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::26.65]
 [geo-lat::67.37]
-[name::Sodankylae@Taeh.]
+[name::Sodankylae~Taeh.]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

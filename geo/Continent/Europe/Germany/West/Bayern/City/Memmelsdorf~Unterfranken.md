@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.85]
 [geo-lat::50.13]
-[name::Memmelsdorf@Unterfranken]
+[name::Memmelsdorf~Unterfranken]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

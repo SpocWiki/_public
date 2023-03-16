@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::18.93]
 [geo-lat::50.35]
-[name::Beuthen@Oberschlesien]
+[name::Beuthen~Oberschlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

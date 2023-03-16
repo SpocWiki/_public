@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.5]
 [geo-lat::48.63]
-[name::Bergheim@Dillingen]
+[name::Bergheim~Dillingen]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

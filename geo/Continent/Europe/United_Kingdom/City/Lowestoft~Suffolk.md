@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::1.75]
 [geo-lat::52.48]
-[name::Lowestoft@Suffolk]
+[name::Lowestoft~Suffolk]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]

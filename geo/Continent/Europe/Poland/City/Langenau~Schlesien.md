@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.67]
 [geo-lat::50.1]
-[name::Langenau@Schlesien]
+[name::Langenau~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

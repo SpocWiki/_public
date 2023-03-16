@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.2]
 [geo-lat::49.08]
-[name::Kandel@Pfalz]
+[name::Kandel~Pfalz]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

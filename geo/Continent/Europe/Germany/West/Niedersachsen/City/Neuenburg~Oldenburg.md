@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.95]
 [geo-lat::53.38]
-[name::Neuenburg@Oldenburg]
+[name::Neuenburg~Oldenburg]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

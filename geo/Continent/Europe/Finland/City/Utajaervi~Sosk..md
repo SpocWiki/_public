@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::26.25]
 [geo-lat::64.78]
-[name::Utajaervi@Sosk.]
+[name::Utajaervi~Sosk.]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

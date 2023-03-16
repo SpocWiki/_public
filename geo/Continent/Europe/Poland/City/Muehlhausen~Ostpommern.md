@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::19.73]
 [geo-lat::54.18]
-[name::Muehlhausen@Ostpommern]
+[name::Muehlhausen~Ostpommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

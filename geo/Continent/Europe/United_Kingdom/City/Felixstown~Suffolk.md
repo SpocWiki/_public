@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::1.33]
 [geo-lat::51.97]
-[name::Felixstown@Suffolk]
+[name::Felixstown~Suffolk]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]

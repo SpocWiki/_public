@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.68]
 [geo-lat::48.07]
-[name::Amberg@Schwaben]
+[name::Amberg~Schwaben]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.5]
 [geo-lat::53.45]
-[name::Goldenstaedt@Meklenburg]
+[name::Goldenstaedt~Meklenburg]
 [Country::[[Germany]]]
 [State:[[../../Mecklenburg-Vorpommern]]]]
 [Population::]

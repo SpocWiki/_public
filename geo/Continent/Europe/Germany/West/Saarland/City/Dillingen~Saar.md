@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::6.73]
 [geo-lat::49.35]
-[name::Dillingen@Saar]
+[name::Dillingen~Saar]
 [Country::[[Germany]]]
 [State::[[Saarland]]]
 [Population::]

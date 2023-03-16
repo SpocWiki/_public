@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.44]
 [geo-lat::49.47]
-[name::Ludwigshafen@Rhein]
+[name::Ludwigshafen~Rhein]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

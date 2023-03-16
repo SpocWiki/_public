@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.8]
 [geo-lat::51.45]
-[name::Menden@Iserlohn]
+[name::Menden~Iserlohn]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

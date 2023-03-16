@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.18]
 [geo-lat::50.67]
-[name::Friedland@Schlesien]
+[name::Friedland~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

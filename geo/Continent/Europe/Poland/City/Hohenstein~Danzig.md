@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::18.77]
 [geo-lat::54.15]
-[name::Hohenstein@Danzig]
+[name::Hohenstein~Danzig]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.08]
 [geo-lat::41.93]
-[name::Subiaco@Abruzzen]
+[name::Subiaco~Abruzzen]
 [State::]
 [Country::[[Italy]]]
 [StateId::]

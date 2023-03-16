@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.88]
 [geo-lat::54.29]
-[name::Oldenburg@Holstein]
+[name::Oldenburg~Holstein]
 [Country::[[Germany]]]
 [State:[[../../Schleswig-Holstein]]]]
 [Population::]

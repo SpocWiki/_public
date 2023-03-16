@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.5]
 [geo-lat::51.93]
-[name::Gruenberg@Schlesien]
+[name::Gruenberg~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

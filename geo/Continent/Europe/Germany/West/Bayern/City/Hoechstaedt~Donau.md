@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.58]
 [geo-lat::48.62]
-[name::Hoechstaedt@Donau]
+[name::Hoechstaedt~Donau]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

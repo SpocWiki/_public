@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.25]
 [geo-lat::52.63]
-[name::Nienburg@Weser]
+[name::Nienburg~Weser]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

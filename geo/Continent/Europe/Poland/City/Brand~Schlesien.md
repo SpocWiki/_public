@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.55]
 [geo-lat::50.28]
-[name::Brand@Schlesien]
+[name::Brand~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.23]
 [geo-lat::52.73]
-[name::Landsberg@Warthe]
+[name::Landsberg~Warthe]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

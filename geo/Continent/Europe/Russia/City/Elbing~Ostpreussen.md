@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::19.33]
 [geo-lat::54.17]
-[name::Elbing@Ostpreussen]
+[name::Elbing~Ostpreussen]
 [State::]
 [Country::[[Russia]]]
 [StateId::]

@@ -15,6 +15,7 @@ confidential: public
 id: East Germany
 zoomFeatures: true
 geojsonFolder: ./Germany~East/
+markerFolder: _public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City
 ```
 
 [name-en::East Germany]

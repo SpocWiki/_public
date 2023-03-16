@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.23]
 [geo-lat::48.07]
-[name::Wasserburg@Inn]
+[name::Wasserburg~Inn]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

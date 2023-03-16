@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.88]
 [geo-lat::50.52]
-[name::Kamenz@Schlesien]
+[name::Kamenz~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

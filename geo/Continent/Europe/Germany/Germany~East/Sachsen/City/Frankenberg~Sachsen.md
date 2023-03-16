@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.03]
 [geo-lat::50.67]
-[name::Frankenberg@Sachsen]
+[name::Frankenberg~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

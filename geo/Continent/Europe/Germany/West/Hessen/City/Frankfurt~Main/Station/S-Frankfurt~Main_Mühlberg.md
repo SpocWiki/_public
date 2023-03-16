@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.700277]
 [geo-lat::50.10167]
-[name::Frankfurt@Main Mühlberg]
+[name::Frankfurt~Main Mühlberg]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::112.75]
 [geo-lat::-7.25]
-[name::Surabaya@Java]
+[name::Surabaya~Java]
 [State::]
 [Country::[[Indonesia]]]
 [StateId::]

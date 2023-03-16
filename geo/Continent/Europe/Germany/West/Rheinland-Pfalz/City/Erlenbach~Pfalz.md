@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.78]
 [geo-lat::49.48]
-[name::Erlenbach@Pfalz]
+[name::Erlenbach~Pfalz]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

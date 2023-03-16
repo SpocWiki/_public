@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.2]
 [geo-lat::49.35]
-[name::Neunkirchen@Saar]
+[name::Neunkirchen~Saar]
 [Country::[[Germany]]]
 [State::[[Saarland]]]
 [Population::]

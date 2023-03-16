@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.48]
 [geo-lat::48.02]
-[name::Marbach@Baden]
+[name::Marbach~Baden]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

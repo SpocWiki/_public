@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::19.97]
 [geo-lat::53.7]
-[name::Osterode@Ostpommern]
+[name::Osterode~Ostpommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

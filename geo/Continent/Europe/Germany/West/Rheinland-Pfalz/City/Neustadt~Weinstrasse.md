@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.13]
 [geo-lat::49.35]
-[name::Neustadt@Weinstrasse]
+[name::Neustadt~Weinstrasse]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

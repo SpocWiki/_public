@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.53]
 [geo-lat::49.05]
-[name::Weingarten@Baden]
+[name::Weingarten~Baden]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

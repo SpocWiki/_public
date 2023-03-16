@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.3]
 [geo-lat::50.83]
-[name::Langenau@Sachsen]
+[name::Langenau~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.58]
 [geo-lat::51.17]
-[name::Neumarkt@Schlesien]
+[name::Neumarkt~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

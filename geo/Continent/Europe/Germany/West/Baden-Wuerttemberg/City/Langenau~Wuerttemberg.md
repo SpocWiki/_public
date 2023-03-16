@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.12]
 [geo-lat::48.5]
-[name::Langenau@Wuerttemberg]
+[name::Langenau~Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

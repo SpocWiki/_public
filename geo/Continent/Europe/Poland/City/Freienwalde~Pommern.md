@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.33]
 [geo-lat::53.47]
-[name::Freienwalde@Pommern]
+[name::Freienwalde~Pommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

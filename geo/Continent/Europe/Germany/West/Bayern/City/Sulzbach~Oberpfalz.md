@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.75]
 [geo-lat::49.5]
-[name::Sulzbach@Oberpfalz]
+[name::Sulzbach~Oberpfalz]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

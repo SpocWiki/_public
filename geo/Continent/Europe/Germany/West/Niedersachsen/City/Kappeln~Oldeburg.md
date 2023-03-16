@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.13]
 [geo-lat::52.82]
-[name::Kappeln@Oldeburg]
+[name::Kappeln~Oldeburg]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

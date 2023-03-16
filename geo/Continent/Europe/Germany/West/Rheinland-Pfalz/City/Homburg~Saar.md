@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.33]
 [geo-lat::49.33]
-[name::Homburg@Saar]
+[name::Homburg~Saar]
 [Country::[[Germany]]]
 [State::[[../../Rheinland-Pfalz]]]
 [Population::]

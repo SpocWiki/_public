@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.65]
 [geo-lat::50.73]
-[name::Reichenbach@Niederschlesien]
+[name::Reichenbach~Niederschlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

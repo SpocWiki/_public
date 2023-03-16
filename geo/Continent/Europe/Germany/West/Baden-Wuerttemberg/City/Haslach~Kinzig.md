@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.07]
 [geo-lat::48.27]
-[name::Haslach@Kinzig]
+[name::Haslach~Kinzig]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

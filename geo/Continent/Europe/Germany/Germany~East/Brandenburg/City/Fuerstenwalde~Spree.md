@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.07]
 [geo-lat::52.37]
-[name::Fuerstenwalde@Spree]
+[name::Fuerstenwalde~Spree]
 [Country::[[Germany]]]
 [State:[[../../Brandenburg]]]]
 [Population::]

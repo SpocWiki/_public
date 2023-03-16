@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.350764]
 [geo-lat::50.01083]
-[name::Hochheim@Main]
+[name::Hochheim~Main]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

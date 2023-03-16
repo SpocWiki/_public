@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.52]
 [geo-lat::50.18]
-[name::Kronberg@Taunus]
+[name::Kronberg~Taunus]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

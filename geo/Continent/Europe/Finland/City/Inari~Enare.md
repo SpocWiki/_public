@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::27.57]
 [geo-lat::68.67]
-[name::Inari@Enare]
+[name::Inari~Enare]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

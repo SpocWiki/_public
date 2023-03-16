@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.2]
 [geo-lat::50.58]
-[name::Limbach@Vogtland]
+[name::Limbach~Vogtland]
 [Country::[[Germany]]]
 [State::[[../../Sachsen]]]
 [Population::]

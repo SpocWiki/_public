@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.92]
 [geo-lat::51.7]
-[name::Hohndorf@Pretzsch]
+[name::Hohndorf~Pretzsch]
 [Country::[[Germany]]]
 [State:[[../../Sachsen-Anhalt]]]]
 [Population::]

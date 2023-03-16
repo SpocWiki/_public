@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::17.58]
 [geo-lat::50.32]
-[name::Neustadt@Oberschlesien]
+[name::Neustadt~Oberschlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

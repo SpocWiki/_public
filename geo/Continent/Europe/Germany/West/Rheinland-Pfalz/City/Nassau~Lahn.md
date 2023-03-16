@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.78]
 [geo-lat::50.32]
-[name::Nassau@Lahn]
+[name::Nassau~Lahn]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

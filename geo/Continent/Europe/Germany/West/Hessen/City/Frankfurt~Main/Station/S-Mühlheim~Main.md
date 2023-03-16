@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.83]
 [geo-lat::50.12569]
-[name::Mühlheim@Main]
+[name::Mühlheim~Main]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.17]
 [geo-lat::51.75]
-[name::Friedersdorf@Brandenburg]
+[name::Friedersdorf~Brandenburg]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

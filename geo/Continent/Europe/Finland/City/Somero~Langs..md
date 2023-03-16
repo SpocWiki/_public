@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::23.28]
 [geo-lat::60.67]
-[name::Somero@Langs.]
+[name::Somero~Langs.]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

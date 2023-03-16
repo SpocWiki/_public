@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::20.5]
 [geo-lat::54.28]
-[name::Landsberg@Ostpommern]
+[name::Landsberg~Ostpommern]
 [State::]
 [Country::[[Russia]]]
 [StateId::36942]

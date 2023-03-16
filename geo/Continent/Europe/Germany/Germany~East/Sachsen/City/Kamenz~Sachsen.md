@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.12]
 [geo-lat::51.25]
-[name::Kamenz@Sachsen]
+[name::Kamenz~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

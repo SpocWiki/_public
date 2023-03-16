@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.639444]
 [geo-lat::50.11917]
-[name::Frankfurt@Main West]
+[name::Frankfurt~Main West]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

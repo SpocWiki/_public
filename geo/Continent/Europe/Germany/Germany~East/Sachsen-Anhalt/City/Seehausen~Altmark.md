@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.77]
 [geo-lat::52.9]
-[name::Seehausen@Altmark]
+[name::Seehausen~Altmark]
 [Country::[[Germany]]]
 [State:[[../../Sachsen-Anhalt]]]]
 [Population::]

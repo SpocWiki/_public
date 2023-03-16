@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.68]
 [geo-lat::47.55]
-[name::Lindau@Bodensee]
+[name::Lindau~Bodensee]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

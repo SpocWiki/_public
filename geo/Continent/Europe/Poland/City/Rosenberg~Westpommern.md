@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::19.22]
 [geo-lat::53.72]
-[name::Rosenberg@Westpommern]
+[name::Rosenberg~Westpommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::6.7]
 [geo-lat::51.45]
-[name::Homberg@Niederrhein]
+[name::Homberg~Niederrhein]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

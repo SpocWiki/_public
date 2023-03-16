@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.17]
 [geo-lat::50.42]
-[name::Oelsnitz@Vogtland]
+[name::Oelsnitz~Vogtland]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

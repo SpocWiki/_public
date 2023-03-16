@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.9]
 [geo-lat::47.68]
-[name::Stein@Rhein]
+[name::Stein~Rhein]
 [State::]
 [Country::[[Switzerland]]]
 [StateId::]

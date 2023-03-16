@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.43]
 [geo-lat::54.42]
-[name::Bergen@Ruegen]
+[name::Bergen~Ruegen]
 [Country::[[Germany]]]
 [State:[[../../Mecklenburg-Vorpommern]]]]
 [Population::]

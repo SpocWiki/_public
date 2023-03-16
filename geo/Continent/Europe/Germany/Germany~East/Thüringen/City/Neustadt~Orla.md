@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.75]
 [geo-lat::50.73]
-[name::Neustadt@Orla]
+[name::Neustadt~Orla]
 [Country::[[Germany]]]
 [State:[[../../Thüringen]]]]
 [Population::]

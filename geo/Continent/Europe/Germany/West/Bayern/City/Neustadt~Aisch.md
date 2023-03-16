@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.63]
 [geo-lat::49.58]
-[name::Neustadt@Aisch]
+[name::Neustadt~Aisch]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

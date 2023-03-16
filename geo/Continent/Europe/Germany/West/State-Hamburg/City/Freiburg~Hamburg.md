@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.3]
 [geo-lat::53.83]
-[name::Freiburg@Hamburg]
+[name::Freiburg~Hamburg]
 [Country::[[Germany]]]
 [State::[[../../State-Hamburg]]]
 [Population::]

@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.656905]
 [geo-lat::49.99345]
-[name::Langen@Hess]
+[name::Langen~Hess]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

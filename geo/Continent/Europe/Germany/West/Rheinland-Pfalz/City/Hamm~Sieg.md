@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.73]
 [geo-lat::50.78]
-[name::Hamm@Sieg]
+[name::Hamm~Sieg]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

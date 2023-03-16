@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.7]
 [geo-lat::47.67]
-[name::Steinbach@Allg]
+[name::Steinbach~Allg]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

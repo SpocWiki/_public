@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.5]
 [geo-lat::48.58]
-[name::Dillingen@Donau]
+[name::Dillingen~Donau]
 [Country::[[Germany]]]
 [State::[[../../Bayern]]]
 [Population::]

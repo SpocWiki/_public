@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.52]
 [geo-lat::12]
-[name::Kano@Nigeria]
+[name::Kano~Nigeria]
 [State::]
 [Country::[[Nigeria]]]
 [StateId::]

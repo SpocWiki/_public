@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.528889]
 [geo-lat::50.13306]
-[name::Sulzbach@Taunus Nord]
+[name::Sulzbach~Taunus Nord]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.03]
 [geo-lat::54.33]
-[name::Neukirchen@Holstein]
+[name::Neukirchen~Holstein]
 [Country::[[Germany]]]
 [State:[[../../Schleswig-Holstein]]]]
 [Population::]

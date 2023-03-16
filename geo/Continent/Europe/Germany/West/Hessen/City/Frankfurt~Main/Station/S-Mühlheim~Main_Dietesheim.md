@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.857998]
 [geo-lat::50.12052]
-[name::Mühlheim@Main Dietesheim]
+[name::Mühlheim~Main Dietesheim]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

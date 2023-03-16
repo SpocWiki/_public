@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.02]
 [geo-lat::48.8]
-[name::Leonberg@Wuerttemberg]
+[name::Leonberg~Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

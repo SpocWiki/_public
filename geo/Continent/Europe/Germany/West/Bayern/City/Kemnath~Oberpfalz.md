@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.9]
 [geo-lat::49.87]
-[name::Kemnath@Oberpfalz]
+[name::Kemnath~Oberpfalz]
 [Country::[[Germany]]]
 [State::[[../../Bayern]]]
 [Population::]

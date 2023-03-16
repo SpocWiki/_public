@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.62]
 [geo-lat::48.97]
-[name::Koenigsbach@Baden]
+[name::Koenigsbach~Baden]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

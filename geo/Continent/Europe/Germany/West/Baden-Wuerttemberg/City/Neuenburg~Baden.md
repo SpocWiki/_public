@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.57]
 [geo-lat::47.82]
-[name::Neuenburg@Baden]
+[name::Neuenburg~Baden]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

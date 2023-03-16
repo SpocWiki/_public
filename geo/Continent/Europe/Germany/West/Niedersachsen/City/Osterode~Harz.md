@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.25]
 [geo-lat::51.72]
-[name::Osterode@Harz]
+[name::Osterode~Harz]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

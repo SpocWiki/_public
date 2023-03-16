@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::6.88]
 [geo-lat::51.08]
-[name::Monheim@Rheinland]
+[name::Monheim~Rheinland]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

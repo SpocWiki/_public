@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.43]
 [geo-lat::52.97]
-[name::Koenigsberg@Neumark]
+[name::Koenigsberg~Neumark]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::20.2]
 [geo-lat::53.52]
-[name::Muehlen@Ostpommern]
+[name::Muehlen~Ostpommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

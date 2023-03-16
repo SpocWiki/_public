@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::6.92]
 [geo-lat::51.52]
-[name::Osterfeld@Rhein-Ruhr]
+[name::Osterfeld~Rhein-Ruhr]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.33]
 [geo-lat::54.25]
-[name::Garz@Ruegen]
+[name::Garz~Ruegen]
 [Country::[[Germany]]]
 [State:[[../../Mecklenburg-Vorpommern]]]]
 [Population::]

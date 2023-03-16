@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.6]
 [geo-lat::50.85]
-[name::Petersdorf@Riesengebirge]
+[name::Petersdorf~Riesengebirge]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8]
 [geo-lat::49.87]
-[name::Sprendlingen@Rheinhessen]
+[name::Sprendlingen~Rheinhessen]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

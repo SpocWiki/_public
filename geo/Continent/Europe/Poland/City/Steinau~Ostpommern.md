@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::22.43]
 [geo-lat::54.12]
-[name::Steinau@Ostpommern]
+[name::Steinau~Ostpommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

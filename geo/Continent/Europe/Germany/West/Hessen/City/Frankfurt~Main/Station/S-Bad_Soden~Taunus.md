@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.499722]
 [geo-lat::50.14243]
-[name::Bad Soden@Taunus]
+[name::Bad Soden~Taunus]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

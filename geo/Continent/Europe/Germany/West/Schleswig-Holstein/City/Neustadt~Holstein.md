@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.83]
 [geo-lat::54.1]
-[name::Neustadt@Holstein]
+[name::Neustadt~Holstein]
 [Country::[[Germany]]]
 [State:[[../../Schleswig-Holstein]]]]
 [Population::]

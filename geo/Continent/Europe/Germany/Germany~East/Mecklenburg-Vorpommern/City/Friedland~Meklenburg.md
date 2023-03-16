@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.55]
 [geo-lat::53.67]
-[name::Friedland@Meklenburg]
+[name::Friedland~Meklenburg]
 [Country::[[Germany]]]
 [State:[[../../Mecklenburg-Vorpommern]]]]
 [Population::]

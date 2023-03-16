@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.73]
 [geo-lat::50.98]
-[name::Rotenburg@Fulda]
+[name::Rotenburg~Fulda]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

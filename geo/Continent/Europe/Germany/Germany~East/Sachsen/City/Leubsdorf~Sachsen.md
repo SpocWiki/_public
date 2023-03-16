@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.15]
 [geo-lat::50.8]
-[name::Leubsdorf@Sachsen]
+[name::Leubsdorf~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

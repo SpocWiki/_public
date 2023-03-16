@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.75]
 [geo-lat::51.05]
-[name::Bernstadt@Sachsen]
+[name::Bernstadt~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

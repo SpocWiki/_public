@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.87]
 [geo-lat::48.34]
-[name::Lahr@Schwarzwald]
+[name::Lahr~Schwarzwald]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

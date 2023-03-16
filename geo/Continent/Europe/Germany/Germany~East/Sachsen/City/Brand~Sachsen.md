@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.32]
 [geo-lat::50.87]
-[name::Brand@Sachsen]
+[name::Brand~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

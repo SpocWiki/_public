@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.17]
 [geo-lat::49.4]
-[name::Koenigsbach@Pfalz]
+[name::Koenigsbach~Pfalz]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.77]
 [geo-lat::49.75]
-[name::Muehlhausen@Oberfranken]
+[name::Muehlhausen~Oberfranken]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

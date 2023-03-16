@@ -18,7 +18,7 @@ aliases:
 
 [geo-lon::8.68]
 [geo-lat::50.11]
-[name::Frankfurt@Main]
+[name::Frankfurt~Main]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.12]
 [geo-lat::49.33]
-[name::Hambach@Pfalz]
+[name::Hambach~Pfalz]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

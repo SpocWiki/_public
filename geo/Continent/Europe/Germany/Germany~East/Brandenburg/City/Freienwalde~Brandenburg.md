@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.03]
 [geo-lat::52.78]
-[name::Freienwalde@Brandenburg]
+[name::Freienwalde~Brandenburg]
 [Country::[[Germany]]]
 [State:[[../../Brandenburg]]]]
 [Population::]

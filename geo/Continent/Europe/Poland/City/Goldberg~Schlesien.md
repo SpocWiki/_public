@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.92]
 [geo-lat::51.13]
-[name::Goldberg@Schlesien]
+[name::Goldberg~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

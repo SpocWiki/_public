@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.588284]
 [geo-lat::50.19889]
-[name::Oberursel@Taunus]
+[name::Oberursel~Taunus]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

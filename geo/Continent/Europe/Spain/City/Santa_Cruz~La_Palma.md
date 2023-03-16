@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::17.67]
 [geo-lat::28.5]
-[name::Santa Cruz@La Palma]
+[name::Santa Cruz~La Palma]
 [State::]
 [Country::[[Spain]]]
 [StateId::]

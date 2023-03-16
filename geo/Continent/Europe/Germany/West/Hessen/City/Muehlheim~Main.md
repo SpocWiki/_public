@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.83]
 [geo-lat::50.13]
-[name::Muehlheim@Main]
+[name::Muehlheim~Main]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

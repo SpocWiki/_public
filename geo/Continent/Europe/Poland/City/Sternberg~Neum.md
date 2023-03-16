@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.07]
 [geo-lat::52.32]
-[name::Sternberg@Neum]
+[name::Sternberg~Neum]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

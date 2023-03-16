@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.73]
 [geo-lat::50.3]
-[name::Rosbach@Frankfurt]
+[name::Rosbach~Frankfurt]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

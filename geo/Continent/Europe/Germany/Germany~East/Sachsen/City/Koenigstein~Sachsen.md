@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.07]
 [geo-lat::50.9]
-[name::Koenigstein@Sachsen]
+[name::Koenigstein~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

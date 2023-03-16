@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::18.32]
 [geo-lat::50.32]
-[name::Kosel@Oberschlesien]
+[name::Kosel~Oberschlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

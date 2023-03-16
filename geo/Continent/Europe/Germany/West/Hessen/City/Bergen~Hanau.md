@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.73]
 [geo-lat::50.15]
-[name::Bergen@Hanau]
+[name::Bergen~Hanau]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

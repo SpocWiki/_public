@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.65]
 [geo-lat::53.08]
-[name::Hannover@Oldenburg]
+[name::Hannover~Oldenburg]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.97]
 [geo-lat::51.48]
-[name::Halle@Saale]
+[name::Halle~Saale]
 [Country::[[Germany]]]
 [State:[[../../Sachsen-Anhalt]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.2]
 [geo-lat::48.25]
-[name::Neufra@Hohenzollern]
+[name::Neufra~Hohenzollern]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

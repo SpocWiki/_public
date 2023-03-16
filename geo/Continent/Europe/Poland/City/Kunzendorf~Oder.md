@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.48]
 [geo-lat::51.42]
-[name::Kunzendorf@Oder]
+[name::Kunzendorf~Oder]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

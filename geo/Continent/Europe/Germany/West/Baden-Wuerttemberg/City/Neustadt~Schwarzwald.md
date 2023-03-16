@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.22]
 [geo-lat::47.92]
-[name::Neustadt@Schwarzwald]
+[name::Neustadt~Schwarzwald]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

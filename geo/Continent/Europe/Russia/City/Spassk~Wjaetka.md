@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::49.37]
 [geo-lat::55.05]
-[name::Spassk@Wjaetka]
+[name::Spassk~Wjaetka]
 [State::]
 [Country::[[Russia]]]
 [StateId::]

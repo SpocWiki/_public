@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.07]
 [geo-lat::49.3]
-[name::Sulzbach@Saarland]
+[name::Sulzbach~Saarland]
 [Country::[[Germany]]]
 [State::[[Saarland]]]
 [Population::]

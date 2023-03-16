@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.534777]
 [geo-lat::50.15986]
-[name::Schwalbach@Taunus Nord]
+[name::Schwalbach~Taunus Nord]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

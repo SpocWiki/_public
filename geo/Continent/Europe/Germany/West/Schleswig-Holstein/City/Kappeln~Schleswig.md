@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.93]
 [geo-lat::54.67]
-[name::Kappeln@Schleswig]
+[name::Kappeln~Schleswig]
 [Country::[[Germany]]]
 [State:[[../../Schleswig-Holstein]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.67]
 [geo-lat::28]
-[name::Las Palmas@Gran Canaria]
+[name::Las Palmas~Gran Canaria]
 [State::]
 [Country::[[Spain]]]
 [StateId::]

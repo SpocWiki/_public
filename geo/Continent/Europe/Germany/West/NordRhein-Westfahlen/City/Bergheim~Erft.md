@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::6.63]
 [geo-lat::50.95]
-[name::Bergheim@Erft]
+[name::Bergheim~Erft]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

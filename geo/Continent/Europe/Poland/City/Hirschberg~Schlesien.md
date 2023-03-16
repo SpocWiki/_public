@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.73]
 [geo-lat::50.9]
-[name::Hirschberg@Schlesien]
+[name::Hirschberg~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

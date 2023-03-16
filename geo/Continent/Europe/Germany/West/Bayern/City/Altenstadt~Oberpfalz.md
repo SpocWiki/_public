@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.17]
 [geo-lat::49.8]
-[name::Altenstadt@Oberpfalz]
+[name::Altenstadt~Oberpfalz]
 [Country::[[Germany]]]
 [State::[[../../Bayern]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.02]
 [geo-lat::49.63]
-[name::Roethenbach@Oberpfalz]
+[name::Roethenbach~Oberpfalz]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

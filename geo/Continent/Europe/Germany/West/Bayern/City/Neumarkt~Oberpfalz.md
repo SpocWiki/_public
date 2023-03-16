@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.48]
 [geo-lat::49.27]
-[name::Neumarkt@Oberpfalz]
+[name::Neumarkt~Oberpfalz]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

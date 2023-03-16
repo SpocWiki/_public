@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::-1.32]
 [geo-lat::50.7]
-[name::Newport@Insel Wright]
+[name::Newport~Insel Wright]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]

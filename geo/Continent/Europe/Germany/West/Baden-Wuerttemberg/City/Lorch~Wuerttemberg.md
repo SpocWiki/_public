@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.7]
 [geo-lat::48.78]
-[name::Lorch@Wuerttemberg]
+[name::Lorch~Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

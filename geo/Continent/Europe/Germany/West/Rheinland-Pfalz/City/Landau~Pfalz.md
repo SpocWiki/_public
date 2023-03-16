@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.11]
 [geo-lat::49.19]
-[name::Landau@Pfalz]
+[name::Landau~Pfalz]
 [Country::[[Germany]]]
 [State::[[../../Rheinland-Pfalz]]]
 [Population::]

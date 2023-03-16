@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.37]
 [geo-lat::54.4]
-[name::Schoenberg@Holstein]
+[name::Schoenberg~Holstein]
 [Country::[[Germany]]]
 [State::[[../../Schleswig-Holstein]]]
 [Population::]

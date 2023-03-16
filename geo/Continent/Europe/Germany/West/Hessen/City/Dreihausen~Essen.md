@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.87]
 [geo-lat::50.73]
-[name::Dreihausen@Essen]
+[name::Dreihausen~Essen]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

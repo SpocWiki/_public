@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.32]
 [geo-lat::51.1]
-[name::Neukirch@Sachsen]
+[name::Neukirch~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

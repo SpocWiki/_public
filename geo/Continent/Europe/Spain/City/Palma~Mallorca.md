@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::2.65]
 [geo-lat::39.57]
-[name::Palma@Mallorca]
+[name::Palma~Mallorca]
 [State::]
 [Country::[[Spain]]]
 [StateId::]

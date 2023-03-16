@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::4.08]
 [geo-lat::45.67]
-[name::Lorette@St.Etienne]
+[name::Lorette~St.Etienne]
 [State::]
 [Country::[[France]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.73]
 [geo-lat::49.07]
-[name::Michelbach@Wuerttemberg]
+[name::Michelbach~Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::19.15]
 [geo-lat::53.63]
-[name::Wilkau@Westpommern]
+[name::Wilkau~Westpommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

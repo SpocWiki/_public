@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.52]
 [geo-lat::50.67]
-[name::Wilkau@Sachsen]
+[name::Wilkau~Sachsen]
 [Country::[[Germany]]]
 [State::[[../../Sachsen]]]
 [Population::]

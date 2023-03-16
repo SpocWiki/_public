@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::27.22]
 [geo-lat::69.1]
-[name::Inari@Kyronkylae]
+[name::Inari~Kyronkylae]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

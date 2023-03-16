@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.82]
 [geo-lat::51.68]
-[name::Hamm@Westfalen]
+[name::Hamm~Westfalen]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::43.18]
 [geo-lat::53.93]
-[name::Spassk@Tambow]
+[name::Spassk~Tambow]
 [State::]
 [Country::[[Russia]]]
 [StateId::]

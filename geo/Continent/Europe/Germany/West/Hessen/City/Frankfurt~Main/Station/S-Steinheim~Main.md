@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.906667]
 [geo-lat::50.12139]
-[name::Steinheim@Main]
+[name::Steinheim~Main]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

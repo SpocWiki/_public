@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.55]
 [geo-lat::53.38]
-[name::Lauenburg@Elbe]
+[name::Lauenburg~Elbe]
 [Country::[[Germany]]]
 [State:[[../../Schleswig-Holstein]]]]
 [Population::]

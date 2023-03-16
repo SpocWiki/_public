@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.03]
 [geo-lat::53.9]
-[name::Demmin@Pommern]
+[name::Demmin~Pommern]
 [Country::[[Germany]]]
 [State:[[../../Mecklenburg-Vorpommern]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.22]
 [geo-lat::50.3]
-[name::Mayen@Eifel]
+[name::Mayen~Eifel]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

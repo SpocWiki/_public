@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.32]
 [geo-lat::50.63]
-[name::Reichenbach@Vogtland]
+[name::Reichenbach~Vogtland]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

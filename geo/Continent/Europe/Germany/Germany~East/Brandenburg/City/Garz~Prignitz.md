@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.12]
 [geo-lat::53.07]
-[name::Garz@Prignitz]
+[name::Garz~Prignitz]
 [Country::[[Germany]]]
 [State:[[../../Brandenburg]]]]
 [Population::]

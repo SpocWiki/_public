@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.7]
 [geo-lat::50.07]
-[name::Gemuenden@Unterfranken]
+[name::Gemuenden~Unterfranken]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

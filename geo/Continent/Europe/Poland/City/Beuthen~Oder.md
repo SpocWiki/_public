@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.83]
 [geo-lat::51.73]
-[name::Beuthen@Oder]
+[name::Beuthen~Oder]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

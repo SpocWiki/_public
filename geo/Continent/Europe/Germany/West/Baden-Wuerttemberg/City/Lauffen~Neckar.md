@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.17]
 [geo-lat::49.13]
-[name::Lauffen@Neckar]
+[name::Lauffen~Neckar]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.35]
 [geo-lat::48.82]
-[name::Michelbach@Baden]
+[name::Michelbach~Baden]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.42]
 [geo-lat::48.38]
-[name::Marbach@Lauter]
+[name::Marbach~Lauter]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.15]
 [geo-lat::48.08]
-[name::Inning@Ammersee]
+[name::Inning~Ammersee]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

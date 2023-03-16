@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.67]
 [geo-lat::51.07]
-[name::Gehren@Brandenburg]
+[name::Gehren~Brandenburg]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

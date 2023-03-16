@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.27]
 [geo-lat::48.93]
-[name::Marbach@Neckar]
+[name::Marbach~Neckar]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

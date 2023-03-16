@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.02]
 [geo-lat::50.73]
-[name::Homberg@Oberrhein]
+[name::Homberg~Oberrhein]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

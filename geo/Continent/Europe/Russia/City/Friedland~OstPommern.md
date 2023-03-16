@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::21]
 [geo-lat::54.43]
-[name::Friedland@OstPommern]
+[name::Friedland~OstPommern]
 [State::]
 [Country::[[Russia]]]
 [StateId::36942]

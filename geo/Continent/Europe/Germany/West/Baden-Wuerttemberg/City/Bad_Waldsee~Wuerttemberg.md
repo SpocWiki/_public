@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.75]
 [geo-lat::47.92]
-[name::Bad Waldsee@Wuerttemberg]
+[name::Bad Waldsee~Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

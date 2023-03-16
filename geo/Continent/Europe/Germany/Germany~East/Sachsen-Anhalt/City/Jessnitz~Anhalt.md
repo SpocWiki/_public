@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.28]
 [geo-lat::51.68]
-[name::Jessnitz@Anhalt]
+[name::Jessnitz~Anhalt]
 [Country::[[Germany]]]
 [State:[[../../Sachsen-Anhalt]]]]
 [Population::]

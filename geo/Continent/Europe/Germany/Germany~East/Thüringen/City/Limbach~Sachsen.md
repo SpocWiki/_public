@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.75]
 [geo-lat::50.87]
-[name::Limbach@Sachsen]
+[name::Limbach~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Thüringen]]]]
 [Population::]

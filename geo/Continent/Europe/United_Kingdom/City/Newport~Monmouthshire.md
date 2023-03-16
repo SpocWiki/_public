@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::-3]
 [geo-lat::51.58]
-[name::Newport@Monmouthshire]
+[name::Newport~Monmouthshire]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]

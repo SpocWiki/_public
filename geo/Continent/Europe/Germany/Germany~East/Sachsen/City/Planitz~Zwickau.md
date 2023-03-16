@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.5]
 [geo-lat::50.72]
-[name::Planitz@Zwickau]
+[name::Planitz~Zwickau]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

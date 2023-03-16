@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.18]
 [geo-lat::40.85]
-[name::Calmadoli@Napoli]
+[name::Calmadoli~Napoli]
 [State::]
 [Country::[[Italy]]]
 [StateId::]

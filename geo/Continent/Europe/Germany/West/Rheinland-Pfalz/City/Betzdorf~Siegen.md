@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.88]
 [geo-lat::50.8]
-[name::Betzdorf@Siegen]
+[name::Betzdorf~Siegen]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

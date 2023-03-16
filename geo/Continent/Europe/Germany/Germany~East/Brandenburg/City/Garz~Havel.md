@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.22]
 [geo-lat::52.75]
-[name::Garz@Havel]
+[name::Garz~Havel]
 [Country::[[Germany]]]
 [State:[[../../Brandenburg]]]]
 [Population::]

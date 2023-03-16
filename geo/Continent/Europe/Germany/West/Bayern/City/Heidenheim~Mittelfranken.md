@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.75]
 [geo-lat::49.02]
-[name::Heidenheim@Mittelfranken]
+[name::Heidenheim~Mittelfranken]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

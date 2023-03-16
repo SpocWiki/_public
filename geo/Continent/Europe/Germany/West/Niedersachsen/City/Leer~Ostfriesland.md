@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.45]
 [geo-lat::53.23]
-[name::Leer@Ostfriesland]
+[name::Leer~Ostfriesland]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.7]
 [geo-lat::50.73]
-[name::Oelsnitz@Erzgebirge]
+[name::Oelsnitz~Erzgebirge]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

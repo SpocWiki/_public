@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.67]
 [geo-lat::50.09139]
-[name::Frankfurt@Main Stresemannallee]
+[name::Frankfurt~Main Stresemannallee]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.23]
 [geo-lat::52.62]
-[name::Muehlen@Oldenburg]
+[name::Muehlen~Oldenburg]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

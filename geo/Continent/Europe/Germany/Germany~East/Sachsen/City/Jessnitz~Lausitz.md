@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.275]
 [geo-lat::51.25]
-[name::Jessnitz@Lausitz]
+[name::Jessnitz~Lausitz]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

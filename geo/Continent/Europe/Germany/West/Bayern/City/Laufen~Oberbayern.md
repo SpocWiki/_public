@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.93]
 [geo-lat::47.93]
-[name::Laufen@Oberbayern]
+[name::Laufen~Oberbayern]
 [Country::[[Germany]]]
 [State::[[../../Bayern]]]
 [Population::]

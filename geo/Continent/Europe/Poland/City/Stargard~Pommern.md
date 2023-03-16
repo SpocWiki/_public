@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.05]
 [geo-lat::53.33]
-[name::Stargard@Pommern]
+[name::Stargard~Pommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

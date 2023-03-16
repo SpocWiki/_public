@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.48]
 [geo-lat::49.48]
-[name::Fuerth@Nuernberg]
+[name::Fuerth~Nuernberg]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

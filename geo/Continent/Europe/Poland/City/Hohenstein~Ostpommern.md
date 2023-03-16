@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::20.28]
 [geo-lat::53.58]
-[name::Hohenstein@Ostpommern]
+[name::Hohenstein~Ostpommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

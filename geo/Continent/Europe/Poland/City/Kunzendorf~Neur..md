@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.5]
 [geo-lat::50.6]
-[name::Kunzendorf@Neur.]
+[name::Kunzendorf~Neur.]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

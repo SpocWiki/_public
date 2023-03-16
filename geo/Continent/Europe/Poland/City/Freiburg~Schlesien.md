@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.32]
 [geo-lat::50.87]
-[name::Freiburg@Schlesien]
+[name::Freiburg~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

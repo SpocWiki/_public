@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.77]
 [geo-lat::53.95]
-[name::Kammin@Pommern]
+[name::Kammin~Pommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

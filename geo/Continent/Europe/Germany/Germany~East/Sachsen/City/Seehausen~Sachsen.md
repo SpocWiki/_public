@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.3]
 [geo-lat::52.1]
-[name::Seehausen@Sachsen]
+[name::Seehausen~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

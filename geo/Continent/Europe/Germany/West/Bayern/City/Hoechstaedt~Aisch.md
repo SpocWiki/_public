@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.82]
 [geo-lat::49.7]
-[name::Hoechstaedt@Aisch]
+[name::Hoechstaedt~Aisch]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

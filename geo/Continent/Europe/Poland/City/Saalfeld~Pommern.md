@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::19.57]
 [geo-lat::53.85]
-[name::Saalfeld@Pommern]
+[name::Saalfeld~Pommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

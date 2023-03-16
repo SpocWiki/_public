@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.4]
 [geo-lat::53.12]
-[name::Rotenburg@Wuemme]
+[name::Rotenburg~Wuemme]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

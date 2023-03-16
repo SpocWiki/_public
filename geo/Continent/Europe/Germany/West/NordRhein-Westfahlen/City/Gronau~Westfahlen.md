@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.03]
 [geo-lat::52.22]
-[name::Gronau@Westfahlen]
+[name::Gronau~Westfahlen]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

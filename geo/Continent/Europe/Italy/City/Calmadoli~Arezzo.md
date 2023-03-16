@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.83]
 [geo-lat::43.78]
-[name::Calmadoli@Arezzo]
+[name::Calmadoli~Arezzo]
 [State::]
 [Country::[[Italy]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.08]
 [geo-lat::52.03]
-[name::Lindau@Anhalt]
+[name::Lindau~Anhalt]
 [Country::[[Germany]]]
 [State::[[../../Sachsen-Anhalt]]]
 [Population::]

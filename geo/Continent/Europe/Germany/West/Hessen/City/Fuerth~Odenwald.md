@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.8]
 [geo-lat::49.65]
-[name::Fuerth@Odenwald]
+[name::Fuerth~Odenwald]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

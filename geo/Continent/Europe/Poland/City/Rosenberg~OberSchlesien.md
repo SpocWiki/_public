@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::18.42]
 [geo-lat::50.88]
-[name::Rosenberg@OberSchlesien]
+[name::Rosenberg~OberSchlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

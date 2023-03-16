@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.17]
 [geo-lat::49.92]
-[name::Sulzbach@Mainufer]
+[name::Sulzbach~Mainufer]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

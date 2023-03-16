@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.53]
 [geo-lat::50.8]
-[name::Frauenstein@Sachsen]
+[name::Frauenstein~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

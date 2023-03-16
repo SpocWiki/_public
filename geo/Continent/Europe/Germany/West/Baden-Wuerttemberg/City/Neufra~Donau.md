@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.48]
 [geo-lat::48.12]
-[name::Neufra@Donau]
+[name::Neufra~Donau]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

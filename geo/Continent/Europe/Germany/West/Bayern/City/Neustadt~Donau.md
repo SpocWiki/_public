@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.77]
 [geo-lat::48.82]
-[name::Neustadt@Donau]
+[name::Neustadt~Donau]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

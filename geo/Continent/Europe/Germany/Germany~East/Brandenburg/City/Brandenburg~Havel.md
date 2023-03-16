@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.56]
 [geo-lat::52.41]
-[name::Brandenburg@Havel]
+[name::Brandenburg~Havel]
 [Country::[[Germany]]]
 [State:[[../../Brandenburg]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.47]
 [geo-lat::50.93]
-[name::Wallau@Lahn]
+[name::Wallau~Lahn]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

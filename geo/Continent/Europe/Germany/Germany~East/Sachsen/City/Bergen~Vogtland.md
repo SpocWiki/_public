@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.28]
 [geo-lat::50.45]
-[name::Bergen@Vogtland]
+[name::Bergen~Vogtland]
 [Country::[[Germany]]]
 [State::[[../../Sachsen]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.4]
 [geo-lat::51.73]
-[name::Fuerstenberg@Westfahlen]
+[name::Fuerstenberg~Westfahlen]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.08]
 [geo-lat::48.18]
-[name::Ybbs@Donau]
+[name::Ybbs~Donau]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

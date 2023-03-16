@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.48618]
 [geo-lat::50.06972]
-[name::Hattersheim@Main]
+[name::Hattersheim~Main]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

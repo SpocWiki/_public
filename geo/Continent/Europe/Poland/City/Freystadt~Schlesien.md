@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.6]
 [geo-lat::51.75]
-[name::Freystadt@Schlesien]
+[name::Freystadt~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

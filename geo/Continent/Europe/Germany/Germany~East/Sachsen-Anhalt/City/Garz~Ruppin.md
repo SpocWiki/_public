@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.13]
 [geo-lat::52.83]
-[name::Garz@Ruppin]
+[name::Garz~Ruppin]
 [Country::[[Germany]]]
 [State:[[../../Sachsen-Anhalt]]]]
 [Population::]

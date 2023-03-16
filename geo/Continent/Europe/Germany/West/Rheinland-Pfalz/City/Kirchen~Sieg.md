@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.9]
 [geo-lat::50.82]
-[name::Kirchen@Sieg]
+[name::Kirchen~Sieg]
 [Country::[[Germany]]]
 [State:[[../../Rheinland-Pfalz]]]]
 [Population::]

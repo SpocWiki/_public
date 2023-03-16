@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.692223]
 [geo-lat::50.10305]
-[name::Frankfurt@Main Lokalbahnhof]
+[name::Frankfurt~Main Lokalbahnhof]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

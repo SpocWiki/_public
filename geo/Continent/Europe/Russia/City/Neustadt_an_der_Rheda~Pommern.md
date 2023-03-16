@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::18.33]
 [geo-lat::54.67]
-[name::Neustadt an der Rheda@Pommern]
+[name::Neustadt an der Rheda~Pommern]
 [State::]
 [Country::[[Russia]]]
 [StateId::]

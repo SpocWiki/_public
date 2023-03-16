@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::28.45]
 [geo-lat::64.12]
-[name::Sotkamo@Kirk.]
+[name::Sotkamo~Kirk.]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::-1.6]
 [geo-lat::48.83]
-[name::Granville@Normandie]
+[name::Granville~Normandie]
 [State::]
 [Country::[[France]]]
 [StateId::]

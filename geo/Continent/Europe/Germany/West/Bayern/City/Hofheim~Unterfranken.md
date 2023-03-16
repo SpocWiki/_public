@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.52]
 [geo-lat::50.15]
-[name::Hofheim@Unterfranken]
+[name::Hofheim~Unterfranken]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

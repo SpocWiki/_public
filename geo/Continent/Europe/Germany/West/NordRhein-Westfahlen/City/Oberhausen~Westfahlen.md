@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::6.87]
 [geo-lat::51.48]
-[name::Oberhausen@Westfahlen]
+[name::Oberhausen~Westfahlen]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

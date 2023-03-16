@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.1]
 [geo-lat::52.9]
-[name::Bergen@Dumme]
+[name::Bergen~Dumme]
 [Country::[[Germany]]]
 [State:[[../../Niedersachsen]]]]
 [Population::]

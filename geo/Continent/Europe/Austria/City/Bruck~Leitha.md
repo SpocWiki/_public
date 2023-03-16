@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::16.78]
 [geo-lat::48.02]
-[name::Bruck@Leitha]
+[name::Bruck~Leitha]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

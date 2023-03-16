@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.93]
 [geo-lat::48.95]
-[name::Dietfurt@Warthe]
+[name::Dietfurt~Warthe]
 [Country::[[Germany]]]
 [State::[[../../Bayern]]]
 [Population::]

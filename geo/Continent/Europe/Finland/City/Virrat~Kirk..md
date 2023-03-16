@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::23.73]
 [geo-lat::62.25]
-[name::Virrat@Kirk.]
+[name::Virrat~Kirk.]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

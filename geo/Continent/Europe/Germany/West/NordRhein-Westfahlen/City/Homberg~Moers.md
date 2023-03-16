@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::6.63]
 [geo-lat::51.47]
-[name::Homberg@Moers]
+[name::Homberg~Moers]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

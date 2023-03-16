@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::23.52]
 [geo-lat::60.62]
-[name::Somero@Kirk]
+[name::Somero~Kirk]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

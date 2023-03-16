@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.82]
 [geo-lat::51.13]
-[name::Reichenbach@Oberlausitz]
+[name::Reichenbach~Oberlausitz]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

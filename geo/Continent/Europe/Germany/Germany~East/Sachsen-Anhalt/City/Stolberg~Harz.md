@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::10.95]
 [geo-lat::51.58]
-[name::Stolberg@Harz]
+[name::Stolberg~Harz]
 [Country::[[Germany]]]
 [State:[[../../Sachsen-Anhalt]]]]
 [Population::]

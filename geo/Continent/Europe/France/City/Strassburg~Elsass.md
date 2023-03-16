@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.7]
 [geo-lat::48.58]
-[name::Strassburg@Elsass]
+[name::Strassburg~Elsass]
 [State::]
 [Country::[[France]]]
 [StateId::]

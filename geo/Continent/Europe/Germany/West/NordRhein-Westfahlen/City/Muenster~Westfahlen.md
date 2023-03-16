@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.62]
 [geo-lat::51.97]
-[name::Muenster@Westfahlen]
+[name::Muenster~Westfahlen]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

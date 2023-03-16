@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.82]
 [geo-lat::50.05]
-[name::Lorch@Rhein]
+[name::Lorch~Rhein]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

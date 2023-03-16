@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::25.27]
 [geo-lat::65.7]
-[name::Saarijaervi@Raj]
+[name::Saarijaervi~Raj]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

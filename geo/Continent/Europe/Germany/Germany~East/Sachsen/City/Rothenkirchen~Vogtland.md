@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.5]
 [geo-lat::50.55]
-[name::Rothenkirchen@Vogtland]
+[name::Rothenkirchen~Vogtland]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.85]
 [geo-lat::48]
-[name::Freiburg@Breisgau]
+[name::Freiburg~Breisgau]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

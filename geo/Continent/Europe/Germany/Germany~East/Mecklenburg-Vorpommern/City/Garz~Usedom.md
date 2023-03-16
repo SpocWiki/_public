@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.18]
 [geo-lat::53.88]
-[name::Garz@Usedom]
+[name::Garz~Usedom]
 [Country::[[Germany]]]
 [State:[[../../Mecklenburg-Vorpommern]]]]
 [Population::]

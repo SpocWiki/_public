@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::7.32]
 [geo-lat::51.45]
-[name::Witten@Ruhr]
+[name::Witten~Ruhr]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

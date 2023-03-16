@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.25]
 [geo-lat::49.4]
-[name::Meckenheim@Pfalz]
+[name::Meckenheim~Pfalz]
 [Country::[[Germany]]]
 [State::[[../../Rheinland-Pfalz]]]
 [Population::]

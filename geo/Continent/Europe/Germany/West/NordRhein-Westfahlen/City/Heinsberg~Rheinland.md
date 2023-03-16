@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::6.1]
 [geo-lat::51.07]
-[name::Heinsberg@Rheinland]
+[name::Heinsberg~Rheinland]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

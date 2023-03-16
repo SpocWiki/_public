@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.62]
 [geo-lat::47.55]
-[name::Wasserburg@Bodensee]
+[name::Wasserburg~Bodensee]
 [Country::[[Germany]]]
 [State:[[../../Bayern]]]]
 [Population::]

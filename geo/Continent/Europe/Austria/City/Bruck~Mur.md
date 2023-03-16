@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.28]
 [geo-lat::47.42]
-[name::Bruck@Mur]
+[name::Bruck~Mur]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

@@ -11,7 +11,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.755]
 [geo-lat::50.33528]
-[name::Friedberg@Hess]
+[name::Friedberg~Hess]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]]]]
 

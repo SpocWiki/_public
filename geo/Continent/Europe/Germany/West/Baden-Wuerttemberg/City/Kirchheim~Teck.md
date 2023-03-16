@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.45]
 [geo-lat::48.65]
-[name::Kirchheim@Teck]
+[name::Kirchheim~Teck]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

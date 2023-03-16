@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.2]
 [geo-lat::53.92]
-[name::Greifenberg@Pommern]
+[name::Greifenberg~Pommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::9.28]
 [geo-lat::48.3]
-[name::Metzingen@Baden Wuerttemberg]
+[name::Metzingen~Baden Wuerttemberg]
 [Country::[[Germany]]]
 [State::[[Baden-Wuerttemberg]]]
 [Population::]

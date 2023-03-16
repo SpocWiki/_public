@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::17.82]
 [geo-lat::54.45]
-[name::Labuhn@Lauenburg]
+[name::Labuhn~Lauenburg]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

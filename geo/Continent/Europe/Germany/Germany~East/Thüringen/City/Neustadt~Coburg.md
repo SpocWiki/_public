@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::11.13]
 [geo-lat::50.3]
-[name::Neustadt@Coburg]
+[name::Neustadt~Coburg]
 [Country::[[Germany]]]
 [State:[[../../Thüringen]]]]
 [Population::]

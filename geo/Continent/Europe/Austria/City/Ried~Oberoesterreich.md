@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::13.48]
 [geo-lat::48.22]
-[name::Ried@Oberoesterreich]
+[name::Ried~Oberoesterreich]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

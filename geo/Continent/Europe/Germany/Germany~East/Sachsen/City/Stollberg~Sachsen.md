@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::12.83]
 [geo-lat::50.4]
-[name::Stollberg@Sachsen]
+[name::Stollberg~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]

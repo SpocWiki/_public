@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::19.27]
 [geo-lat::53.6]
-[name::Freystadt@Pommern]
+[name::Freystadt~Pommern]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

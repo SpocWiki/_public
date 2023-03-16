@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::6.88]
 [geo-lat::51.43]
-[name::Muelheim@Ruhr]
+[name::Muelheim~Ruhr]
 [Country::[[Germany]]]
 [State::[[NordRhein-Westfahlen]]]
 [Population::]

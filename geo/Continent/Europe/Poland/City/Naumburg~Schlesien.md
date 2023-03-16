@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.25]
 [geo-lat::51.8]
-[name::Naumburg@Schlesien]
+[name::Naumburg~Schlesien]
 [State::]
 [Country::[[Poland]]]
 [StateId::]

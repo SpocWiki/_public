@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::8.7]
 [geo-lat::49.72]
-[name::Reichenbach@Bergstrasse]
+[name::Reichenbach~Bergstrasse]
 [Country::[[Germany]]]
 [State::[[Hessen]]]
 [Population::]

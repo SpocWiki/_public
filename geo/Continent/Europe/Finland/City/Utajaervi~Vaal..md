@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::26.82]
 [geo-lat::64.55]
-[name::Utajaervi@Vaal.]
+[name::Utajaervi~Vaal.]
 [State::]
 [Country::[[Finland]]]
 [StateId::]

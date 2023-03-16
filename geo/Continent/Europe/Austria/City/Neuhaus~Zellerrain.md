@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::15.18]
 [geo-lat::47.8]
-[name::Neuhaus@Zellerrain]
+[name::Neuhaus~Zellerrain]
 [State::]
 [Country::[[Austria]]]
 [StateId::]

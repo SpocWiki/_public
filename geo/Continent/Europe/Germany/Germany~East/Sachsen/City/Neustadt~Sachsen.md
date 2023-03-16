@@ -12,7 +12,7 @@ confidential: public
 ---
 [geo-lon::14.22]
 [geo-lat::51.03]
-[name::Neustadt@Sachsen]
+[name::Neustadt~Sachsen]
 [Country::[[Germany]]]
 [State:[[../../Sachsen]]]]
 [Population::]
