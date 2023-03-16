@@ -10,8 +10,8 @@ tags:
 ---
 [name::Schleswig-Holstein]
 [name-abbr::SG]
-![[West/Schleswig-Holstein/Coat_of_arms_of_Schleswig-Holstein.svg|350]]]
-![[West/Schleswig-Holstein/Flag_of_Schleswig-Holstein.svg|350]]]
+![[West/Schleswig-Holstein/Coat_of_arms_of_Schleswig-Holstein.svg|350]]
+![[West/Schleswig-Holstein/Flag_of_Schleswig-Holstein.svg|350]]
 
 ```leaflet
 id: Schleswig-Holstein

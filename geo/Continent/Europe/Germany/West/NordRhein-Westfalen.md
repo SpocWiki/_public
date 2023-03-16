@@ -10,8 +10,8 @@ tags:
 ---
 [name::NordRhein-Westfalen]
 [name-abbr::NW]
-![[West/NordRhein-Westfahlen/Coat_of_arms_of_North_Rhine-Westfalia.svg|350]]]
-![[West/NordRhein-Westfahlen/Flag_of_North_Rhine-Westphalia.svg|350]]]
+![[West/NordRhein-Westfahlen/Coat_of_arms_of_North_Rhine-Westfalia.svg|350]]
+![[West/NordRhein-Westfahlen/Flag_of_North_Rhine-Westphalia.svg|350]]
 
 ```leaflet
 id: NordRhein-Westfalen

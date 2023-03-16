@@ -10,8 +10,8 @@ tags:
 ---
 [name::Bayern]
 [name-abbr::BY]
-![[West/Bayern/Coat_of_arms_of_Bavaria.svg|350]]]
-![[West/Bayern/Flag_of_Bavaria_(lozengy).svg|350]]]
+![[West/Bayern/Coat_of_arms_of_Bavaria.svg|350]]
+![[West/Bayern/Flag_of_Bavaria_(lozengy).svg|350]]
 
 ```leaflet
 id: Bayern

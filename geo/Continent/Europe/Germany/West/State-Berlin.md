@@ -10,8 +10,8 @@ tags:
 ---
 [name::State-Berlin]
 [name-abbr::BL]
-![[West/State-Berlin/Coat_of_arms_of_Berlin.svg|350]]]
-![[West/State-Berlin/Flag_of_Berlin.svg|350]]]
+![[West/State-Berlin/Coat_of_arms_of_Berlin.svg|350]]
+![[West/State-Berlin/Flag_of_Berlin.svg|350]]
 
 ```leaflet
 id: State-Berlin
