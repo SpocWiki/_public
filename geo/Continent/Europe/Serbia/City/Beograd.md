@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::44.82]
 [name::Beograd]
 [State::]
-[Country::[[Serbia_excluding_Kosovo]]]
+[Country::[[../../Serbia]]]
 [StateId::]
 [Population::]
 [Unknown::]

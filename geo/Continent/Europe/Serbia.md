@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.82,20.48]
 type: Country
 tags:
@@ -14,10 +14,10 @@ confidential: public
 ```leaflet
 id: Serbia excluding Kosovo
 zoomFeatures: true
-geojsonFolder: ./Serbia_excluding_Kosovo
+geojsonFolder: ./Serbia
 ```
 
-[name-en::Serbia excluding Kosovo]
+[name-en::Serbia]  excluding [[Kosovo]]
 [name-de::Serbien]
 [Area-Total::]
 [Area-Land::]
