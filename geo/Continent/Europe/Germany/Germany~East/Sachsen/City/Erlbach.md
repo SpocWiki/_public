@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.32]
 [name::Erlbach]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

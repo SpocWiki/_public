@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.68]
 [name::Dorum]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

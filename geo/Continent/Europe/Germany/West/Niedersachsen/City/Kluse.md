@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.92]
 [name::Kluse]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

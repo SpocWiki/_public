@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11139]
 [name::Frankfurt Ostendstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

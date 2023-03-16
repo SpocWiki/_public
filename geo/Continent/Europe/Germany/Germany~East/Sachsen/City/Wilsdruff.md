@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.05]
 [name::Wilsdruff]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

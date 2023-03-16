@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.32]
 [name::Sehnde]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

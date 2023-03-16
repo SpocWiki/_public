@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.87]
 [name::Molbergen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

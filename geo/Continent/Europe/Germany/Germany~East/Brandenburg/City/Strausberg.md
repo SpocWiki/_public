@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.58]
 [name::Strausberg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

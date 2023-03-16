@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.77]
 [name::Lichtenstein]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

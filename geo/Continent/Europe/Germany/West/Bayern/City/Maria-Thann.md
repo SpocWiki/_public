@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.65]
 [name::Maria-Thann]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

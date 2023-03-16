@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.1]
 [name::Soyen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

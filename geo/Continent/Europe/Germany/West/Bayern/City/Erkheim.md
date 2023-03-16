@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.02]
 [name::Erkheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

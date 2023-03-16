@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.77]
 [name::Kottbus]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.92]
 [name::Wiesau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

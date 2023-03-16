@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.18]
 [name::Himmelpforten]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

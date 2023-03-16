@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.03]
 [name::Gruena]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

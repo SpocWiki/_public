@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.68]
 [name::Sulingen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

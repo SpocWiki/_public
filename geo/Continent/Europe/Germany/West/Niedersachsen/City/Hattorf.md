@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.65]
 [name::Hattorf]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

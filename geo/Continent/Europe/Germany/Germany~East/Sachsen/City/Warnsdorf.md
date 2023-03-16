@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.92]
 [name::Warnsdorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.78]
 [name::Stadtilm]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.15]
 [name::Pirach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.75]
 [name::Schliersee]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

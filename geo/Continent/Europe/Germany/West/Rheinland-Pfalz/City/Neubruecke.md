@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.6]
 [name::Neubruecke]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

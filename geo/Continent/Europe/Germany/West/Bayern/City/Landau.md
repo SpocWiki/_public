@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.67]
 [name::Landau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

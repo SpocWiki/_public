@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.52]
 [name::Alte Sternwarte]
 [Country::[[Germany]]]
-[State:[[../../State-Berlin]]]]
+[State :: [[../../State-Berlin]] ]
 [Population::]
 [Unknown::]
 

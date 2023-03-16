@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.8]
 [name::Rosbach~Siegburg]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

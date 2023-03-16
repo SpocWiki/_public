@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.98]
 [name::Memmingen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

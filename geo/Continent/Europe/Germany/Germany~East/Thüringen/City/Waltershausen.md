@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.9]
 [name::Waltershausen]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

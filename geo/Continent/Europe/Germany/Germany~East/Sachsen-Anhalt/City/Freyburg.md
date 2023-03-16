@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.22]
 [name::Freyburg]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

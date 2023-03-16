@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54]
 [name::Timmendorfer Strand]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

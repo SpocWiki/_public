@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.03]
 [name::Buchloe]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

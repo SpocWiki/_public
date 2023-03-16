@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.52]
 [name::Sans Soucis]
 [Country::[[Germany]]]
-[State:[[../../State-Berlin]]]]
+[State :: [[../../State-Berlin]] ]
 [Population::]
 [Unknown::]
 

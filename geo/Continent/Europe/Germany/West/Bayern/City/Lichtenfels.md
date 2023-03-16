@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.15]
 [name::Lichtenfels]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

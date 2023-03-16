@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.98]
 [name::Friemar]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

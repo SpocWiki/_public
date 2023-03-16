@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.33]
 [name::Penting]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.41]
 [name::Babelsberg]
 [Country::[[Germany]]]
-[State:[[../../State-Berlin]]]]
+[State :: [[../../State-Berlin]] ]
 [Population::]
 [Unknown::]
 

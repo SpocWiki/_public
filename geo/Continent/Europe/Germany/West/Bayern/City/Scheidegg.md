@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.58]
 [name::Scheidegg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

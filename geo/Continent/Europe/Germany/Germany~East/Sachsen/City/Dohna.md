@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.95]
 [name::Dohna]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

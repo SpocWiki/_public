@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.12]
 [name::Osternburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

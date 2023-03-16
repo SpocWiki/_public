@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12847]
 [name::Frauenfriedenskirche]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

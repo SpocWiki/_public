@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.8]
 [name::Bernburg]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.93]
 [name::Waging]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

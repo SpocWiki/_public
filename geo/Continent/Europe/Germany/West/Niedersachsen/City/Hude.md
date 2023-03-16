@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.13]
 [name::Hude]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

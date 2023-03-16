@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.5]
 [name::Klockow]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.78]
 [name::Orlamuende]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

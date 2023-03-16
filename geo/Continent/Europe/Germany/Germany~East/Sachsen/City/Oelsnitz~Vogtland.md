@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.42]
 [name::Oelsnitz~Vogtland]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

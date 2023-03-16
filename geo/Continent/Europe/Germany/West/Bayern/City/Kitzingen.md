@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.73]
 [name::Kitzingen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

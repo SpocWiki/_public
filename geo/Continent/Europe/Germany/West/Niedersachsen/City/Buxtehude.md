@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.45]
 [name::Buxtehude]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.95]
 [name::Lassan]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

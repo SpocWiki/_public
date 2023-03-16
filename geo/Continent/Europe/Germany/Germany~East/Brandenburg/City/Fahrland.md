@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.47]
 [name::Fahrland]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

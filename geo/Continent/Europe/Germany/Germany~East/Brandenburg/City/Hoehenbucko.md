@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.77]
 [name::Hoehenbucko]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

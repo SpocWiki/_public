@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.52]
 [name::Duderstadt]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

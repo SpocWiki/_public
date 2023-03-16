@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.52]
 [name::Liebenwerda]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

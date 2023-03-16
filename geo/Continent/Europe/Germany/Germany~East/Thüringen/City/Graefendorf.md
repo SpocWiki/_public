@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.67]
 [name::Graefendorf]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

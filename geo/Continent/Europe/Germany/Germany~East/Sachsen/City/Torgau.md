@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.57]
 [name::Torgau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

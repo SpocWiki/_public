@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.08]
 [name::Kastellaun]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

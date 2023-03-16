@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.82]
 [name::Fehrbellin]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

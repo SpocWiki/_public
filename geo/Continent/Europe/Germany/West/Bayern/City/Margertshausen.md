@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.32]
 [name::Margertshausen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

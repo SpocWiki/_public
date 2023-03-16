@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.92]
 [name::Wolfratshausen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.7]
 [name::Katlenburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

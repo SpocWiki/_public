@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.18527]
 [name::Bonames Mitte]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::27]
 

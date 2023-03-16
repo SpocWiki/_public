@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09945]
 [name::Frankfurt am Main Süd]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

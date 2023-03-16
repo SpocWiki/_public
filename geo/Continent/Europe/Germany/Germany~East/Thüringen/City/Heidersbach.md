@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.63]
 [name::Heidersbach]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

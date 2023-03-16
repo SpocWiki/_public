@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.95]
 [name::Luebben]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

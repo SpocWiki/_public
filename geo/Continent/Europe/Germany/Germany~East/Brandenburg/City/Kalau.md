@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.75]
 [name::Kalau]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

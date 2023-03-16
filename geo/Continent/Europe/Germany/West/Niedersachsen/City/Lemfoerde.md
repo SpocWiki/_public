@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.47]
 [name::Lemfoerde]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

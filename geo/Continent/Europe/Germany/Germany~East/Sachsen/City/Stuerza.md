@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.02]
 [name::Stuerza]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

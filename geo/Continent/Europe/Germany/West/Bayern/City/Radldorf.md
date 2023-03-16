@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.85]
 [name::Radldorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

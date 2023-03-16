@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.87]
 [name::Limbach~Sachsen]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

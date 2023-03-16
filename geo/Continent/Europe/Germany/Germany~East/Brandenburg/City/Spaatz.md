@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.72]
 [name::Spaatz]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

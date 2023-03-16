@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.97]
 [name::Kirchbrack]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

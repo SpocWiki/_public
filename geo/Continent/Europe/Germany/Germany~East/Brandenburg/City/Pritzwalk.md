@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.15]
 [name::Pritzwalk]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

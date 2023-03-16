@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.35]
 [name::Zillendorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

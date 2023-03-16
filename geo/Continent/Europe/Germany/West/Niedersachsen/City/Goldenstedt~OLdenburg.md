@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.8]
 [name::Goldenstedt~OLdenburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

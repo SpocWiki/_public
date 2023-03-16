@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.25]
 [name::Nortmoor]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

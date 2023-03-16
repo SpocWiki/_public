@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.57]
 [name::Schrobenhausen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

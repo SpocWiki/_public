@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.93]
 [name::Memmelsdorf~Oberfranken]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

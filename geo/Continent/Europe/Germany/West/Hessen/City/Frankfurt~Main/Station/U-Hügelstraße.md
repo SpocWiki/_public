@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.14798]
 [name::Hügelstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::39, 69]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.53]
 [name::Spandau]
 [Country::[[Germany]]]
-[State:[[../../State-Berlin]]]]
+[State :: [[../../State-Berlin]] ]
 [Population::]
 [Unknown::]
 

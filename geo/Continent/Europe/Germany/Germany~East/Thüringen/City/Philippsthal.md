@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.85]
 [name::Philippsthal]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

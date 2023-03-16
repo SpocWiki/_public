@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.07]
 [name::Sandkrug]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

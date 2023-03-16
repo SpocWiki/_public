@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.17324]
 [name::Oberursel-Weißkirchen/Steinbach]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.07]
 [name::Schwedt]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

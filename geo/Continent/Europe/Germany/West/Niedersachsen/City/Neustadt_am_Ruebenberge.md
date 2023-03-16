@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.52]
 [name::Neustadt am Ruebenberge]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

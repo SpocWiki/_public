@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.39]
 [name::Potsdam]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

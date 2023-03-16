@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.03]
 [name::Wilburgstetten]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

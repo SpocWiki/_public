@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.17]
 [name::Guentherberg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

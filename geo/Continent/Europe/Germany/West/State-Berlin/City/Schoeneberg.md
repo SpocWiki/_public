@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.48]
 [name::Schoeneberg]
 [Country::[[Germany]]]
-[State:[[../../State-Berlin]]]]
+[State :: [[../../State-Berlin]] ]
 [Population::]
 [Unknown::]
 

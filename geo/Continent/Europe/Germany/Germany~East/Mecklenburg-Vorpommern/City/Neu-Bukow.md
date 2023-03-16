@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.07]
 [name::Neu-Bukow]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

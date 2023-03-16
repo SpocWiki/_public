@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.52]
 [name::Stolzenau]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

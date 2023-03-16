@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.04]
 [name::Schweinfurt]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

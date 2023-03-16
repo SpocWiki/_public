@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.3]
 [name::Ansbach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

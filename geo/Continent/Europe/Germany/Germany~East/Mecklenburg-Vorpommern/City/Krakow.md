@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.65]
 [name::Krakow]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.58]
 [name::Dueben]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.62]
 [name::Drelsdorf]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

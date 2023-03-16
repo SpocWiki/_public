@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.38]
 [name::Lauchstedt]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.88]
 [name::Falkensthal]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

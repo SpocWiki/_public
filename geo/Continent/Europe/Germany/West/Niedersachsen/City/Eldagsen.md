@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.17]
 [name::Eldagsen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

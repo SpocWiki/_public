@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.97]
 [name::Altenburg]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.27]
 [name::Nerchau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.32]
 [name::Weferlingen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

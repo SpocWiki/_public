@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.17]
 [name::Groitzsch]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

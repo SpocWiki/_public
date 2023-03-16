@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.48]
 [name::Daserort]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

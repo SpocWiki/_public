@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.3]
 [name::Koenigs-Wusterhausen]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

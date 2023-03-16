@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.9]
 [name::Wadendorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

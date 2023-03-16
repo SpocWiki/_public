@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.67]
 [name::Marwitz]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

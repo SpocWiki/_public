@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.18]
 [name::Hilpoltstein]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

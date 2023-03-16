@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.4]
 [name::Schoeneck]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.75]
 [name::Bollstadt]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

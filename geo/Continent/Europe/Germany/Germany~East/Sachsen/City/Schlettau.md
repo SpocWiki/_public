@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.57]
 [name::Schlettau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.5]
 [name::Uchte]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.93]
 [name::Bockendorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

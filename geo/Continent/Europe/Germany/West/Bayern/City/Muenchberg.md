@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.2]
 [name::Muenchberg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

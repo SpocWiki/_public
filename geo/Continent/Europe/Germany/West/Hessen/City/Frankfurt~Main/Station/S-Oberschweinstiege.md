@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.07059]
 [name::Oberschweinstiege]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

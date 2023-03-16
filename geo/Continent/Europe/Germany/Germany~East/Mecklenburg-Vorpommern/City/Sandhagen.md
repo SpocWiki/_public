@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.05]
 [name::Sandhagen]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

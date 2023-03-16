@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.35]
 [name::Zeithain]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

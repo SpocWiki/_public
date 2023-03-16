@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.05]
 [name::Aschendorf]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

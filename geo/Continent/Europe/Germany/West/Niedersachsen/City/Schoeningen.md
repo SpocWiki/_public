@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.15]
 [name::Schoeningen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

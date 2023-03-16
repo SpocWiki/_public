@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.28]
 [name::Bleckendorf]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

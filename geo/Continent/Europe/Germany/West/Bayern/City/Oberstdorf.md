@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.4]
 [name::Oberstdorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

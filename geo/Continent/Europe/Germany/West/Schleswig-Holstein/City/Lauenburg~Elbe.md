@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.38]
 [name::Lauenburg~Elbe]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

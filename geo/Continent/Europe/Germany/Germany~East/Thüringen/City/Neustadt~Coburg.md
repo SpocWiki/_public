@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.3]
 [name::Neustadt~Coburg]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

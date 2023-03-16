@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.08]
 [name::Aylsdorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

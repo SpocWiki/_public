@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.37]
 [name::Strehla]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

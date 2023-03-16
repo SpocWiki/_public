@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.02]
 [name::Zapfendorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

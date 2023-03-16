@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.48]
 [name::Herzfelde]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

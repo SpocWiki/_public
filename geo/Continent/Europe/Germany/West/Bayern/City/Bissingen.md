@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.72]
 [name::Bissingen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

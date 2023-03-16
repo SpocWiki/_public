@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.52]
 [name::Schnaittenbach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

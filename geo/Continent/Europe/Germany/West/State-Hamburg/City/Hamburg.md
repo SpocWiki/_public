@@ -12,9 +12,12 @@ confidential: public
 ---
 [geo-lon::9.99]
 [geo-lat::53.54]
+
 [name::Hamburg]
+
 [Country::[[Germany]]]
+
 [State::[[../../State-Hamburg]]]
+
 [Population::]
-[Unknown::]
 

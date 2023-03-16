@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.3]
 [name::Uttenhofen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

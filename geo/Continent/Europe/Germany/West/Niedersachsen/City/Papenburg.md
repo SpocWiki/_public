@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.08]
 [name::Papenburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

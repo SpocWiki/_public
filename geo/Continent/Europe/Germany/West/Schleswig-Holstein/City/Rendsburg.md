@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.3]
 [name::Rendsburg]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

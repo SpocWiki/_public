@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.95]
 [name::Oettingen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

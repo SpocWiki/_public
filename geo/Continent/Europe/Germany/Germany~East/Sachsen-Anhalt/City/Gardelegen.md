@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.53]
 [name::Gardelegen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

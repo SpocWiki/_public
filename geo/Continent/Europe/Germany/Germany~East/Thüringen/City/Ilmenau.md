@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.68]
 [name::Ilmenau]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

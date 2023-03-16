@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.05]
 [name::Bad Woerishofen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

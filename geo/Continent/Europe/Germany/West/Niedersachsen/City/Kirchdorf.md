@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.6]
 [name::Kirchdorf]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

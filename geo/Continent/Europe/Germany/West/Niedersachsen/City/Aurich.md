@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.47]
 [name::Aurich]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

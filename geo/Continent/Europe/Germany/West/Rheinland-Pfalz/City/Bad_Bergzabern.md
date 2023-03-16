@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.12]
 [name::Bad Bergzabern]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

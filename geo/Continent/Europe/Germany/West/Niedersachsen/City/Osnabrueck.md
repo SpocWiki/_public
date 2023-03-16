@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.28]
 [name::Osnabrueck]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

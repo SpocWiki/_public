@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.52]
 [name::Sonthofen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

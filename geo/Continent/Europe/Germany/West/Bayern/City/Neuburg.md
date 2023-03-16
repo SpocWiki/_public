@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.73]
 [name::Neuburg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

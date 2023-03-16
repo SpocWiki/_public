@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.2]
 [name::Koelleda]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

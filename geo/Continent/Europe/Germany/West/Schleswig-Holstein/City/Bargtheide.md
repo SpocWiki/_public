@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.73]
 [name::Bargtheide]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

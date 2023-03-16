@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.4]
 [name::Hartkirchen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

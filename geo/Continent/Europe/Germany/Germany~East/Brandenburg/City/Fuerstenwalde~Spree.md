@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.37]
 [name::Fuerstenwalde~Spree]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

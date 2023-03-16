@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.9]
 [name::Bobritsch]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

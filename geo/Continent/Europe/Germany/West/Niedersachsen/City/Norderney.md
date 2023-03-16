@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.7]
 [name::Norderney]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

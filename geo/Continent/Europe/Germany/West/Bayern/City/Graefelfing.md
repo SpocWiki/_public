@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.12]
 [name::Graefelfing]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

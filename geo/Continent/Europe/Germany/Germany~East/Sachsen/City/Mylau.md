@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.62]
 [name::Mylau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

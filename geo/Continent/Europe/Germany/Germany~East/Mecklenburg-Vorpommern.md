@@ -10,8 +10,8 @@ tags:
 ---
 [name::Mecklenburg-Vorpommern]
 [name-abbr::MV]
-![[Mecklenburg-Vorpommern/Coat_of_arms_of_Mecklenburg-Western_Pomerania_(great).svg|350]]]]
-![[Mecklenburg-Vorpommern/Flag_of_Mecklenburg-Western_Pomerania.svg|350]]]]
+![[Mecklenburg-Vorpommern/Coat_of_arms_of_Mecklenburg-Western_Pomerania_(great).svg|350]] ]
+![[Mecklenburg-Vorpommern/Flag_of_Mecklenburg-Western_Pomerania.svg|350]] ]
 
 ```leaflet
 id: Mecklenburg-Vorpommern
@@ -20,7 +20,7 @@ geojsonFolder: ./Mecklenburg-Vorpommern/
 ```
 
 [Country::[[Germany]]]
-[Capital[[Mecklenburg-Vorpommern/City/Schwerin]]]]]
+[Capital[[Mecklenburg-Vorpommern/City/Schwerin]] ]]
 [geo-lon::12.5967]
 [geo-lat::53.7906]
 [Population::]

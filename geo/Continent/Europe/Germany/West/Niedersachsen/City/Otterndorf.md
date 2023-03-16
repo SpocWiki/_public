@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.82]
 [name::Otterndorf]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

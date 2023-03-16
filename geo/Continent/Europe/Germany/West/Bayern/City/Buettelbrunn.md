@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.88]
 [name::Buettelbrunn]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

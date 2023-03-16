@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.28]
 [name::Bleckede]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

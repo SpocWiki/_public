@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.48]
 [name::Garmisch-Partenkirchen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

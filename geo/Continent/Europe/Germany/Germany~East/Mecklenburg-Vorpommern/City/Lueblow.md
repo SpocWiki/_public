@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.42]
 [name::Lueblow]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

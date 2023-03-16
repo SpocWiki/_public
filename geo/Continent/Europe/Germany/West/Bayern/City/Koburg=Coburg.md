@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.27]
 [name::Koburg=Coburg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.85305]
 [name::Riedstadt-Wolfskehlen]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

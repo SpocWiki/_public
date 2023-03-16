@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.45]
 [name::Renwertshausen]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

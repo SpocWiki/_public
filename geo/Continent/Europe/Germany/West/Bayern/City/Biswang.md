@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.93]
 [name::Biswang]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.62]
 [name::Roethenbach~Oberbayern]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

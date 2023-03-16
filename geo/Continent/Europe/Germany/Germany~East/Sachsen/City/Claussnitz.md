@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.75]
 [name::Claussnitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

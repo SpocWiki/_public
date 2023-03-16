@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.87]
 [name::Dexheim]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

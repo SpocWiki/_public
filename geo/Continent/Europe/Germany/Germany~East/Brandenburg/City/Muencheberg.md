@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.5]
 [name::Muencheberg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.52]
 [name::Buechen]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

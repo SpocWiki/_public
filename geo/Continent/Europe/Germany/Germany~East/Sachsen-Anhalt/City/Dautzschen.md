@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.63]
 [name::Dautzschen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

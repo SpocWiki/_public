@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.29]
 [name::Oldenburg~Holstein]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.75]
 [name::Floh]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

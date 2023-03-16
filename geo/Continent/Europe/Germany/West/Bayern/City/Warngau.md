@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.83]
 [name::Warngau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

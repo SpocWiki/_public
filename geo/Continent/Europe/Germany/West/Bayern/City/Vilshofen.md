@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.64]
 [name::Vilshofen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

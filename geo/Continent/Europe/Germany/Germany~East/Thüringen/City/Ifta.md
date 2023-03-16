@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.07]
 [name::Ifta]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

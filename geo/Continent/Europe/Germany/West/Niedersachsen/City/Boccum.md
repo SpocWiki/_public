@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.58]
 [name::Boccum]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.92]
 [name::Mauerstetten]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

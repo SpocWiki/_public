@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.23]
 [name::Hassleben]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

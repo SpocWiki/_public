@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.17]
 [name::Olching]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

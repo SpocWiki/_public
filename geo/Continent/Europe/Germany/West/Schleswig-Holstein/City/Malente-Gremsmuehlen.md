@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.18]
 [name::Malente-Gremsmuehlen]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.2]
 [name::Allach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

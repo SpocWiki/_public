@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.48]
 [name::Eibenstock]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

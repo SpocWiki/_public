@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.62]
 [name::Muehlen~Oldenburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

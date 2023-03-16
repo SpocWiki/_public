@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.99635]
 [name::Rodgau-Dudenhofen]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

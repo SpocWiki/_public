@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.32]
 [name::Radbruch]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

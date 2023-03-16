@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.03]
 [name::Wunsiedel]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

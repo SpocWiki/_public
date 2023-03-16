@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.62]
 [name::Celle]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

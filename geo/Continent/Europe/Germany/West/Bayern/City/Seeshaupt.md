@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.82]
 [name::Seeshaupt]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.37]
 [name::Sandstedt]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

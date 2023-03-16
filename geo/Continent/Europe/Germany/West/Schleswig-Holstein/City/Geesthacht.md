@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.43]
 [name::Geesthacht]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

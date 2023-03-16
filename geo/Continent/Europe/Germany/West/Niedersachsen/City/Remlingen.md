@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.12]
 [name::Remlingen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

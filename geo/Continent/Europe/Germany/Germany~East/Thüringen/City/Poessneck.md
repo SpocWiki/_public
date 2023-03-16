@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.7]
 [name::Poessneck]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

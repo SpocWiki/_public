@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.23]
 [name::Rehau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.22]
 [name::Teublitz]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.42]
 [name::Borack]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

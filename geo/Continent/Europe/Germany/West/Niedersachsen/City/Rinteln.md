@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.18]
 [name::Rinteln]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

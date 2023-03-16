@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1]
 [name::Neuenmarkt]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.15]
 [name::Hofheim~Unterfranken]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

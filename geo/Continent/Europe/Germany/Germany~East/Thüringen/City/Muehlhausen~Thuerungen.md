@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.22]
 [name::Muehlhausen~Thuerungen]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

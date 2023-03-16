@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.23]
 [name::Moening]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

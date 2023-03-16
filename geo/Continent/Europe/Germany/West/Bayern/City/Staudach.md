@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.78]
 [name::Staudach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

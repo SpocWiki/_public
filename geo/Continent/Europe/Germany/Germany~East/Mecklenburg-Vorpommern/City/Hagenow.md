@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.45]
 [name::Hagenow]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

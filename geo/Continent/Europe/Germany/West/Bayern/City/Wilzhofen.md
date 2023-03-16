@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.88]
 [name::Wilzhofen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

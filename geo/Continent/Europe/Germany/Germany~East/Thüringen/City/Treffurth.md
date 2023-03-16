@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.13]
 [name::Treffurth]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

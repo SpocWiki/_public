@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.02]
 [name::Brinkum]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

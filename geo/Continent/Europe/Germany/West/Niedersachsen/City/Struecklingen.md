@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.12]
 [name::Struecklingen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

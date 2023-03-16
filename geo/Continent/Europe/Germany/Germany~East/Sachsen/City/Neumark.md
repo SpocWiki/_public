@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.65]
 [name::Neumark]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

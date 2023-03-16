@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.48]
 [name::Rehburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

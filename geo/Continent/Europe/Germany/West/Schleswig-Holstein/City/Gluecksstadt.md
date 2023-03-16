@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.78]
 [name::Gluecksstadt]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

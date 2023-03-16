@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.1]
 [name::Doberan]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

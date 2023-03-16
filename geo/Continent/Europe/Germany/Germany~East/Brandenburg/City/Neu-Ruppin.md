@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.93]
 [name::Neu-Ruppin]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

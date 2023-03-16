@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.62]
 [name::Hoechstaedt~Donau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

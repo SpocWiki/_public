@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.7]
 [name::Assel]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.1]
 [name::Hameln]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

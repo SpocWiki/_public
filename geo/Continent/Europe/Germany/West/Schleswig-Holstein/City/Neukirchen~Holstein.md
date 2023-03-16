@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.33]
 [name::Neukirchen~Holstein]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

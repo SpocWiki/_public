@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.02]
 [name::Goyaz]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

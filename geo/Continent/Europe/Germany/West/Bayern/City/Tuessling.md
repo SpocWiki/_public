@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.22]
 [name::Tuessling]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

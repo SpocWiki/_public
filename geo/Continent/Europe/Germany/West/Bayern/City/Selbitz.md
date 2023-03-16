@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.32]
 [name::Selbitz]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

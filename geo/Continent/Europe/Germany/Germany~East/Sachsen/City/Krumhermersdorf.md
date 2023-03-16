@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51]
 [name::Krumhermersdorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

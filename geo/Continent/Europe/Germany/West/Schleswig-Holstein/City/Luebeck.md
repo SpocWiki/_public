@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.87]
 [name::Luebeck]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

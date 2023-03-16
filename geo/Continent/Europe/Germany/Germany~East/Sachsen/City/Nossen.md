@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.05]
 [name::Nossen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

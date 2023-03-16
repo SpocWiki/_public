@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.65]
 [name::Amrum]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

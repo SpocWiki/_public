@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.35]
 [name::Golzwarden]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

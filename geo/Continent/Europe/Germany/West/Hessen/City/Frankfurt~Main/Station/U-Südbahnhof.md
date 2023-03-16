@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.0994]
 [name::Südbahnhof]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::Fern- und Regionalverkehr, S-Bahn, Straßenbahn]
 [switch-to-ÖPNV::45, 47, 48, 61, 78, 653, OF-50]
 

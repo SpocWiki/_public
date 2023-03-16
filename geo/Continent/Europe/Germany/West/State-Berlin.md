@@ -20,7 +20,7 @@ geojsonFolder: ./State-Berlin/
 ```
 
 [Country::[[Germany]]]
-[Capital:[[West/State-Berlin/City/Berlin]]]]
+[ Capital :: [[West/State-Berlin/City/Berlin]] ]
 [geo-lon::13.3689]
 [geo-lat::52.4926]
 [Population::]

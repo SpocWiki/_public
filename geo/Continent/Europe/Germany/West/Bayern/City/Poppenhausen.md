@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.12]
 [name::Poppenhausen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

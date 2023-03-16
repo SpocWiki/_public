@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.48]
 [name::Halle~Saale]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

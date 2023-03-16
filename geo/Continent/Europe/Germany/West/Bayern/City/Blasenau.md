@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.83]
 [name::Blasenau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

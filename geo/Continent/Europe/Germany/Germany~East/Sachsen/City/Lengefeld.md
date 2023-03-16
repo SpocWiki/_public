@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.72]
 [name::Lengefeld]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

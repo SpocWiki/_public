@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.75]
 [name::Lalendorf]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

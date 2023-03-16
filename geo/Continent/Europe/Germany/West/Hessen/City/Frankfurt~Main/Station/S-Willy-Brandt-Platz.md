@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.1088]
 [name::Willy-Brandt-Platz]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

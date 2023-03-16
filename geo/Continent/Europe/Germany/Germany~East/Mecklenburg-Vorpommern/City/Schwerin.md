@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.63]
 [name::Schwerin]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

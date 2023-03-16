@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.15821]
 [name::Frankfurt-Eschersheim]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

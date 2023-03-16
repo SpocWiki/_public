@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12442]
 [name::Saalburg-/Wittelsbacherallee]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

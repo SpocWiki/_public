@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.28]
 [name::Obernkirchen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

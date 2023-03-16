@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.87]
 [name::Cuxhafen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.22]
 [name::Gartz~Oder]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

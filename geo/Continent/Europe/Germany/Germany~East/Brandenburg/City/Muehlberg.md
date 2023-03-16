@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.43]
 [name::Muehlberg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

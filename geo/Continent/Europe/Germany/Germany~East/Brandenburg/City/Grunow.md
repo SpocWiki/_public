@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.17]
 [name::Grunow]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

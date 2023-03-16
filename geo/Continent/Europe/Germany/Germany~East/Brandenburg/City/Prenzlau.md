@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.32]
 [name::Prenzlau]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

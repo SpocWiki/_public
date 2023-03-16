@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.75]
 [name::Forst]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

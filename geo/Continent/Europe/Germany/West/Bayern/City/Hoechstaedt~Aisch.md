@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.7]
 [name::Hoechstaedt~Aisch]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

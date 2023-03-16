@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.62]
 [name::Finsterwalde]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

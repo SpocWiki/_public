@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.58]
 [name::Stolberg~Harz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

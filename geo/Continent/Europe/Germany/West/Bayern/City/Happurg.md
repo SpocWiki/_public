@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.5]
 [name::Happurg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

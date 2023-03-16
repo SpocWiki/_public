@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.17]
 [name::Seebach]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

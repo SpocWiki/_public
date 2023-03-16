@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.53]
 [name::Wesermuende]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

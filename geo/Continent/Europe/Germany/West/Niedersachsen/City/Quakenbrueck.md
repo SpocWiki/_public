@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.67]
 [name::Quakenbrueck]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

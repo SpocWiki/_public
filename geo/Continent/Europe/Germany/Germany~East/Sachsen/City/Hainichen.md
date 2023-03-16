@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.97]
 [name::Hainichen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

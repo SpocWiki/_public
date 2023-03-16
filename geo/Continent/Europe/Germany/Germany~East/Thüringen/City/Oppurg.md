@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.72]
 [name::Oppurg]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

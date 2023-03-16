@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.85]
 [name::Rosenheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

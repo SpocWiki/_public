@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.53]
 [name::Delitzsch]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

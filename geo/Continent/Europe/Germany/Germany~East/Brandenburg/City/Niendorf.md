@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.87]
 [name::Niendorf]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

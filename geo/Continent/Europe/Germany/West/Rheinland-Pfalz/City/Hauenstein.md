@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.18]
 [name::Hauenstein]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

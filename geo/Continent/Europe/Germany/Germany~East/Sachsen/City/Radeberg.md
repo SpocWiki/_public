@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.12]
 [name::Radeberg]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

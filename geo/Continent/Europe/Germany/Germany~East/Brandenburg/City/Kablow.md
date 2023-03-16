@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.28]
 [name::Kablow]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.83]
 [name::Bodenteich]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

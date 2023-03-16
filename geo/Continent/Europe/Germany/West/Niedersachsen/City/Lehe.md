@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.57]
 [name::Lehe]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

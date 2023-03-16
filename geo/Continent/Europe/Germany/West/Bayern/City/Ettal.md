@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.57]
 [name::Ettal]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

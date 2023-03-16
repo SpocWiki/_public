@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.37]
 [name::Rothenkirchen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

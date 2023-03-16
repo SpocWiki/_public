@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.95]
 [name::Arget]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

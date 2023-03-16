@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.6]
 [name::Uttenreuth]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

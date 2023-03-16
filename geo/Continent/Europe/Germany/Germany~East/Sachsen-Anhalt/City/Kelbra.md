@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.45]
 [name::Kelbra]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.08]
 [name::Niederlandin]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

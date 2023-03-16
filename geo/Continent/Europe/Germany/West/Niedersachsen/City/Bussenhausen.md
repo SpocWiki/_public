@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.62]
 [name::Bussenhausen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.82]
 [name::Stephansposching]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

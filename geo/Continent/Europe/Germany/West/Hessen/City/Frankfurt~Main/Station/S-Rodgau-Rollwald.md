@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.98798]
 [name::Rodgau-Rollwald]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

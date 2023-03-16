@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.62]
 [name::Nennhausen]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

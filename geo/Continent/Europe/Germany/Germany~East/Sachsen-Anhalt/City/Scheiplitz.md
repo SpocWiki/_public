@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.15]
 [name::Scheiplitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

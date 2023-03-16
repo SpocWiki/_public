@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.42]
 [name::Geilsdorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

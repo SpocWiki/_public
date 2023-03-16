@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.77]
 [name::Goessweinstein]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

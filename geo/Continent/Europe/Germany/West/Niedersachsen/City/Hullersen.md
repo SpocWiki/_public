@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.82]
 [name::Hullersen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

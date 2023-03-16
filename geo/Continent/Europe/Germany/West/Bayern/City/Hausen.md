@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.5]
 [name::Hausen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

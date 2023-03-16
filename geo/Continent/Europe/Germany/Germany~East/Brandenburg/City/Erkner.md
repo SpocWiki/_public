@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.43]
 [name::Erkner]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

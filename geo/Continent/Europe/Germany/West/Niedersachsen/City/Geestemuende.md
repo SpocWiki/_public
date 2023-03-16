@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.53]
 [name::Geestemuende]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

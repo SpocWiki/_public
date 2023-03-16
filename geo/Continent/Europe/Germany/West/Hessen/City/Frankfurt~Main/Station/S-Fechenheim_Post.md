@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12461]
 [name::Fechenheim Post]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

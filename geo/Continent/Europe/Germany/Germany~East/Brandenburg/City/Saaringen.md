@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.18]
 [name::Saaringen]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

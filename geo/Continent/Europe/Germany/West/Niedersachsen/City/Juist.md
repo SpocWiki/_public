@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.68]
 [name::Juist]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

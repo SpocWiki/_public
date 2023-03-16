@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.88]
 [name::Garz~Usedom]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

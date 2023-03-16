@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.18]
 [name::Schwaben]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

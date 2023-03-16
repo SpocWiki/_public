@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.02]
 [name::Luitpoldheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

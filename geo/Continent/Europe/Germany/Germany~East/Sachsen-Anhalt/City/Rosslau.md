@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.88]
 [name::Rosslau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

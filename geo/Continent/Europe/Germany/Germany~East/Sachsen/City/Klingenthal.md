@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.37]
 [name::Klingenthal]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.48]
 [name::Erlenbach~Pfalz]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

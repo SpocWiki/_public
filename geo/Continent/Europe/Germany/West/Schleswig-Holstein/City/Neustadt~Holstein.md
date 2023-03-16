@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.1]
 [name::Neustadt~Holstein]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.2]
 [name::Altenheustdorf]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

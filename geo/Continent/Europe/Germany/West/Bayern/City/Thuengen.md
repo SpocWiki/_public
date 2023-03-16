@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.95]
 [name::Thuengen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

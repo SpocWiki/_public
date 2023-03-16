@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.78]
 [name::Freienwalde~Brandenburg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

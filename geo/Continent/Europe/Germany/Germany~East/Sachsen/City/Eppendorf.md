@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.8]
 [name::Eppendorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

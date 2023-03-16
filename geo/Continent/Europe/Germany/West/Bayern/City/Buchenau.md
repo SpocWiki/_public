@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.03]
 [name::Buchenau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

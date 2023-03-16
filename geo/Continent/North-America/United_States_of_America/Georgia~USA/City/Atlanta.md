@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::33.76]
 [name::Atlanta]
 [Country::[[United_States_of_America]]]
-[State:[[../../../../Europe/Georgia~Europe]]]]
+[State :: [[../../../../Europe/Georgia~Europe]] ]
 [Population::]
 [Unknown::]
 

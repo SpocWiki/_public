@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.38]
 [name::Gabelbach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

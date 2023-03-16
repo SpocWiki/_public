@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.76]
 [name::Ingolstadt]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.6]
 [name::Langelohe]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

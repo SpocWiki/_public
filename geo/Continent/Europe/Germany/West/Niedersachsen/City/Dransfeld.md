@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.5]
 [name::Dransfeld]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.5]
 [name::Stargard]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

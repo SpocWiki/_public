@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.55]
 [name::Scheibenberg]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

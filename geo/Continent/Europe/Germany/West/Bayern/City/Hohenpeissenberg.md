@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.8]
 [name::Hohenpeissenberg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

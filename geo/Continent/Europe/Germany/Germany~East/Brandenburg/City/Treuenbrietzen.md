@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.1]
 [name::Treuenbrietzen]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.15]
 [name::Hitzacker]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

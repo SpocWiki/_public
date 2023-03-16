@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.25]
 [name::Gehlsdorf]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

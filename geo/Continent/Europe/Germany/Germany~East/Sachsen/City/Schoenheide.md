@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.5]
 [name::Schoenheide]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

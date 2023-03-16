@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.97]
 [name::Thiedinghausen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

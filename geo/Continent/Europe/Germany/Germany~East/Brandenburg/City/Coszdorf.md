@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.45]
 [name::Coszdorf]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

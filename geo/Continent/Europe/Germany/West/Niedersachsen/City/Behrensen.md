@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.13]
 [name::Behrensen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

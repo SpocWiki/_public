@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.55]
 [name::Klettwitz]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

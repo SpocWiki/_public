@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.77]
 [name::Sonnenberg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

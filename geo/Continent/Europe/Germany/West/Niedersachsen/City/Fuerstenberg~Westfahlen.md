@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.73]
 [name::Fuerstenberg~Westfahlen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

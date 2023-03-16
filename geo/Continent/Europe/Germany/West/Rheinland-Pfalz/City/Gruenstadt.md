@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.57]
 [name::Gruenstadt]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

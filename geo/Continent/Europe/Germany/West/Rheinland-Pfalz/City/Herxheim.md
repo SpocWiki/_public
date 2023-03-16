@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.28]
 [name::Herxheim]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

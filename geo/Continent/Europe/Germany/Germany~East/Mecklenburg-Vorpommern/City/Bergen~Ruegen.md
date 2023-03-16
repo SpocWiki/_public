@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.42]
 [name::Bergen~Ruegen]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

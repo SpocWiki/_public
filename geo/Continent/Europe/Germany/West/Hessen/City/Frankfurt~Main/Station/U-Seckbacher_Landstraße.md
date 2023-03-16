@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.13453]
 [name::Seckbacher Landstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::38, 43]
 

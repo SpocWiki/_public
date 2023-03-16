@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.7]
 [name::Northeim]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

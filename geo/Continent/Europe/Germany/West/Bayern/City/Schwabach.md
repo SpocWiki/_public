@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.33]
 [name::Schwabach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

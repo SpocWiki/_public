@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.05]
 [name::Dierdorf]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

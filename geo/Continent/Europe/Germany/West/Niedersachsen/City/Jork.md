@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.53]
 [name::Jork]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

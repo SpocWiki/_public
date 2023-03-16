@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.47]
 [name::Ludwigshafen~Rhein]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

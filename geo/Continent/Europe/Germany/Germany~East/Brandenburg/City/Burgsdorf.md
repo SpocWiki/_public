@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.47]
 [name::Burgsdorf]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

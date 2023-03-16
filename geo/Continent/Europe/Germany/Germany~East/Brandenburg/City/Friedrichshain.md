@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.6]
 [name::Friedrichshain]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

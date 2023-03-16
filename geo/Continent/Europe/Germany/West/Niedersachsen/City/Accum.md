@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.55]
 [name::Accum]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.87]
 [name::Ronneburg]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

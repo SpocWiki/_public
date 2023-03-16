@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.73]
 [name::Neustadt an der Waldnaab]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

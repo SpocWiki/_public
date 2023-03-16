@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.98]
 [name::Aulendorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

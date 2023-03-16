@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.38]
 [name::Waldmuenchen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

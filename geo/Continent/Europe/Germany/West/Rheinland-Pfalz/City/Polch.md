@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.3]
 [name::Polch]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

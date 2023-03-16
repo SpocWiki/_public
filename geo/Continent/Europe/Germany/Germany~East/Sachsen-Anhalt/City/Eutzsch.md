@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.82]
 [name::Eutzsch]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

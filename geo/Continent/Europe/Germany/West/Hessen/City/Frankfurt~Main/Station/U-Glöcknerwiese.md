@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.21313]
 [name::Glöcknerwiese]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::HTK-50]
 

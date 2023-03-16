@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.8]
 [name::Leubsdorf~Sachsen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

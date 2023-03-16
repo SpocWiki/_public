@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.27]
 [name::Rade]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

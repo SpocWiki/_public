@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.87]
 [name::Mecklenburg]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

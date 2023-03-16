@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.17]
 [name::Schwabmuenchen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

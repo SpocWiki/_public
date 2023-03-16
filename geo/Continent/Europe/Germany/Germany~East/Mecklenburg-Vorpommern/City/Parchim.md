@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.43]
 [name::Parchim]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

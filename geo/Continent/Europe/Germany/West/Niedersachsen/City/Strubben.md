@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.4]
 [name::Strubben]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

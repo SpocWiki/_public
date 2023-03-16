@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.92]
 [name::Ottendorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.43]
 [name::Haynrode]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

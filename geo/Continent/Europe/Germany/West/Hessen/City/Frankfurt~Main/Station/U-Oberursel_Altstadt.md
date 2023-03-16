@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.20632]
 [name::Oberursel Altstadt]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::Stadtverkehr Oberursel]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.52]
 [name::Hattstedt]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

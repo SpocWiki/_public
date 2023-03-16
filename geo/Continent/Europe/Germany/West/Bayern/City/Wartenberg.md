@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.5]
 [name::Wartenberg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

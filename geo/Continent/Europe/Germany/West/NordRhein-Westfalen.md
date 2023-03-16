@@ -20,7 +20,7 @@ geojsonFolder: ./NordRhein-Westfalen/
 ```
 
 [Country::[[Germany]]]
-[Capital:[[West/NordRhein-Westfahlen/City/Duesseldorf]]]]
+[ Capital :: [[West/NordRhein-Westfahlen/City/Duesseldorf]] ]
 [geo-lon::7.6153]
 [geo-lat::51.4279]
 [Population::]

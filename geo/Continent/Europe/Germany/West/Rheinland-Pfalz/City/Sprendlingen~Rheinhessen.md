@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.87]
 [name::Sprendlingen~Rheinhessen]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

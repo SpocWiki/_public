@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.03]
 [name::Greifendorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.9]
 [name::Demmin~Pommern]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

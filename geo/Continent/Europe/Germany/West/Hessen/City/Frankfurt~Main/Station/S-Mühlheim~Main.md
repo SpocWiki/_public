@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12569]
 [name::Mühlheim~Main]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

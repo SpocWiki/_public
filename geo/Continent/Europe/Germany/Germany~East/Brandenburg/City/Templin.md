@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.13]
 [name::Templin]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

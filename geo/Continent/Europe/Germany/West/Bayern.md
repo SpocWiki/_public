@@ -20,7 +20,7 @@ geojsonFolder: ./Bayern/
 ```
 
 [Country::[[Germany]]]
-[Capital:[[West/Bayern/City/München]]]]
+[ Capital :: [[West/Bayern/City/München]] ]
 [geo-lon::11.3382]
 [geo-lat::48.8642]
 [Population::]

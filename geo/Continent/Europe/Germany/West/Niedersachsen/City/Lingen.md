@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.53]
 [name::Lingen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

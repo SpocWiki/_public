@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.63]
 [name::Dommitzsch]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

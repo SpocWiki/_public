@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.23]
 [name::Klus]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

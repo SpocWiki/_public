@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.05]
 [name::Delmenhorst]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

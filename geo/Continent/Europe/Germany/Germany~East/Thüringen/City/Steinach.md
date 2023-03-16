@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.42]
 [name::Steinach]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

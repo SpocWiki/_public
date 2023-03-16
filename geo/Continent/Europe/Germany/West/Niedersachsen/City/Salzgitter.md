@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.04]
 [name::Salzgitter]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

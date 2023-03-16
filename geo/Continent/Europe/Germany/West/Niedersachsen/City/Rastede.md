@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.25]
 [name::Rastede]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

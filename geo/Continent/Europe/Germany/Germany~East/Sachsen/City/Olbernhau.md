@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.67]
 [name::Olbernhau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

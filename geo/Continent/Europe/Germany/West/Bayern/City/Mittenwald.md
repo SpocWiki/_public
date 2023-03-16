@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.45]
 [name::Mittenwald]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.57]
 [name::Pankow]
 [Country::[[Germany]]]
-[State:[[../../State-Berlin]]]]
+[State :: [[../../State-Berlin]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.6]
 [name::Westercelle]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

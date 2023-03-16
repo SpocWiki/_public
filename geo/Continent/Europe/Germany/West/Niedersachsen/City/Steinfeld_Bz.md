@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.58]
 [name::Steinfeld Bz]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

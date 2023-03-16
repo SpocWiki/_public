@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.72]
 [name::Wiesenthau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.07]
 [name::Gemuenden~Unterfranken]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

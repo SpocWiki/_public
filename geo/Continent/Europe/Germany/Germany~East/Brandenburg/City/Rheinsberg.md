@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.1]
 [name::Rheinsberg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

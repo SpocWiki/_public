@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.27]
 [name::Duengenheim]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.58]
 [name::Wickersdorf]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

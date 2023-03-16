@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.38]
 [name::Ortrand]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.15848]
 [name::Preungesheim]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::27, 39, 63]
 

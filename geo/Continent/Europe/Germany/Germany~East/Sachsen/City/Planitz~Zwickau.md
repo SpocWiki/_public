@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.72]
 [name::Planitz~Zwickau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

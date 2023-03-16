@@ -20,7 +20,7 @@ geojsonFolder: ./Rheinland-Pfalz/
 ```
 
 [Country::[[Germany]]]
-[Capital:[[West/Rheinland-Pfalz/City/Mainz]]]]
+[ Capital :: [[West/Rheinland-Pfalz/City/Mainz]] ]
 [geo-lon::7.57652]
 [geo-lat::49.914]
 [Population::]

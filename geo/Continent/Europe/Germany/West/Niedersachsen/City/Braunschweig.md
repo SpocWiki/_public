@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.27]
 [name::Braunschweig]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

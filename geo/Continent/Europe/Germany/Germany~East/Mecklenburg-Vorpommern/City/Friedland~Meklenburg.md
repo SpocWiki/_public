@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.67]
 [name::Friedland~Meklenburg]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

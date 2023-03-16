@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.48]
 [name::Belgern]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

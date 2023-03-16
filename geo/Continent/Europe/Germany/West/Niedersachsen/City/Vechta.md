@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.73]
 [name::Vechta]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

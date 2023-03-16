@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.47]
 [name::Moosburg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

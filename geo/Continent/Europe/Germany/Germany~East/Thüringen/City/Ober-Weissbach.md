@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.58]
 [name::Ober-Weissbach]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

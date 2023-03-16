@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.95]
 [name::Langelsheim]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

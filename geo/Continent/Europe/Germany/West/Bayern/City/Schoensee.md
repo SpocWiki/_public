@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.52]
 [name::Schoensee]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

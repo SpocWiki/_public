@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.4]
 [name::Nowawes]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11159]
 [name::Römer/Paulskirche]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

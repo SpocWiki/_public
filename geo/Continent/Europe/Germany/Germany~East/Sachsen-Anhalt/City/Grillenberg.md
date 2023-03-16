@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.53]
 [name::Grillenberg]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

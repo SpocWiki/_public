@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.82]
 [name::Waldhoefe]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

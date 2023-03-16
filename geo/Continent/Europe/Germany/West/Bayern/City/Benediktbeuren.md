@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.7]
 [name::Benediktbeuren]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

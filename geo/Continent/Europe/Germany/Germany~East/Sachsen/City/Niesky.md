@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.3]
 [name::Niesky]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

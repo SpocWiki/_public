@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.73]
 [name::Oelsnitz~Erzgebirge]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.5]
 [name::Muessen]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

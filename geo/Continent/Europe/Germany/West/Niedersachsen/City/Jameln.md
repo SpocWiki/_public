@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.05]
 [name::Jameln]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

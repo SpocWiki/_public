@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.08]
 [name::Luckenwalde]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

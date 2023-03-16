@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.15]
 [name::Tennstedt]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

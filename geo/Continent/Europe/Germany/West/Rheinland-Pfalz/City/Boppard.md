@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.23]
 [name::Boppard]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

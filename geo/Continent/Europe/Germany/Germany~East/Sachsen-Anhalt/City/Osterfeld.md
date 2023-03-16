@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.08]
 [name::Osterfeld]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

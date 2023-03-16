@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.63]
 [name::Reichenbach~Vogtland]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

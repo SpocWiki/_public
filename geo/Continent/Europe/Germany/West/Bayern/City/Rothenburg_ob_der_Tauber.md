@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.42]
 [name::Rothenburg ob der Tauber]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

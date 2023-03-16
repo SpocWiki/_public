@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.05]
 [name::Bernstadt~Sachsen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

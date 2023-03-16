@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.93]
 [name::Jarmen]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

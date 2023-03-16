@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.63]
 [name::Bergheim~Dillingen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

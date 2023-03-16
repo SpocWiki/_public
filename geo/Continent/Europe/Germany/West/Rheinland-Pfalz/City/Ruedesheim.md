@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.98]
 [name::Ruedesheim]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

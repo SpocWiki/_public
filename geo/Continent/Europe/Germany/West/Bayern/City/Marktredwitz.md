@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50]
 [name::Marktredwitz]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

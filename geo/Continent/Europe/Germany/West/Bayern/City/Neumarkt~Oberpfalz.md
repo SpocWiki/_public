@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.27]
 [name::Neumarkt~Oberpfalz]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

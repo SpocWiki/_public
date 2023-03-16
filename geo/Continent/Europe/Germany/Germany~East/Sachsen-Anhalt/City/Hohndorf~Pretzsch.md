@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.7]
 [name::Hohndorf~Pretzsch]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

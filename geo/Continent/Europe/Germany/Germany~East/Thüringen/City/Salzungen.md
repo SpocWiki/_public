@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.8]
 [name::Salzungen]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

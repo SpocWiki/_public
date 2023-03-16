@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.25]
 [name::Muehldorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

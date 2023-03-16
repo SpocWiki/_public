@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.32]
 [name::Oldisleben]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.92]
 [name::Wandersleben]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

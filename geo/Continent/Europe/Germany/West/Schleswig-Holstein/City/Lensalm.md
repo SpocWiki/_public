@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.22]
 [name::Lensalm]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

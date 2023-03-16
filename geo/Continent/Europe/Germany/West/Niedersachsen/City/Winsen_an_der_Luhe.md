@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.37]
 [name::Winsen an der Luhe]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

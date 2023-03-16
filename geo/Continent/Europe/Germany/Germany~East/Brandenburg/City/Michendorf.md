@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.32]
 [name::Michendorf]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

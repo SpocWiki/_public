@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.1]
 [name::Rosenhagen]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.18]
 [name::Leonberg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

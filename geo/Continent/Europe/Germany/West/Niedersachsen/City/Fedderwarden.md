@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.57]
 [name::Fedderwarden]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

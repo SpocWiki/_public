@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.48]
 [name::Sande]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

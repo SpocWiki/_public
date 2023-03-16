@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.98]
 [name::Wettelsheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

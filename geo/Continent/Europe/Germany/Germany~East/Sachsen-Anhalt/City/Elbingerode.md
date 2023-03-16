@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.78]
 [name::Elbingerode]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

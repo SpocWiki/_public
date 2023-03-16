@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.65]
 [name::Schoenfliess]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

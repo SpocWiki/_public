@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.05]
 [name::Gielde]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.53]
 [name::Waren]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

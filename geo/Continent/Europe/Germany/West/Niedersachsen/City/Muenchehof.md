@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.85]
 [name::Muenchehof]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

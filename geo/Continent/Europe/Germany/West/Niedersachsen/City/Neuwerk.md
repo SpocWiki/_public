@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.92]
 [name::Neuwerk]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.88]
 [name::Harzburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

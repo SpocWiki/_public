@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.72]
 [name::Gahlen]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

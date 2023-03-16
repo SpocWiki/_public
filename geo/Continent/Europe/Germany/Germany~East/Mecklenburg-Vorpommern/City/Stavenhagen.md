@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.7]
 [name::Stavenhagen]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

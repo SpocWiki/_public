@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.27]
 [name::Alsberg]
 [Country::[[Germany]]]
-[State:[[../../West/Hessen]]]]
+[State :: [[../../West/Hessen]] ]
 [Population::]
 [Unknown::]
 

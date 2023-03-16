@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.57]
 [name::Jever]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

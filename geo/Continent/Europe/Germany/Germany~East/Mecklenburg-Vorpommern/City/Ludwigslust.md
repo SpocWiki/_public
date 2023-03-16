@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.32]
 [name::Ludwigslust]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

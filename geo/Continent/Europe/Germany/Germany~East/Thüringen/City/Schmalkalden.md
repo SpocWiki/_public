@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.72]
 [name::Schmalkalden]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

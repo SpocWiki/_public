@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.58]
 [name::Raubach]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

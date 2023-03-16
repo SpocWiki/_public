@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.07]
 [name::Neumuenster]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

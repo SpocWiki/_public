@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.87]
 [name::Kampehl]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

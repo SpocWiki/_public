@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.43]
 [name::Burgdorf]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

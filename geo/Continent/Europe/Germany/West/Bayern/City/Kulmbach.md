@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.08]
 [name::Kulmbach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

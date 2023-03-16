@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.88]
 [name::Fresenburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

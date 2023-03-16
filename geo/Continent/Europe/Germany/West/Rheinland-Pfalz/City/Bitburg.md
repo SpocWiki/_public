@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.96]
 [name::Bitburg]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

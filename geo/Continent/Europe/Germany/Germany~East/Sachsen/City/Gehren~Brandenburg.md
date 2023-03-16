@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.07]
 [name::Gehren~Brandenburg]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.39]
 [name::Varel]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

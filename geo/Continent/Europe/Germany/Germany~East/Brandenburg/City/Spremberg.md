@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.57]
 [name::Spremberg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

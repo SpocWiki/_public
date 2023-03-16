@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.18]
 [name::Fintel]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

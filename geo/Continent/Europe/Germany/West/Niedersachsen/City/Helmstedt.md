@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.23]
 [name::Helmstedt]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

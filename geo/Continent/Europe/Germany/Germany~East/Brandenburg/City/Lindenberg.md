@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.22]
 [name::Lindenberg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

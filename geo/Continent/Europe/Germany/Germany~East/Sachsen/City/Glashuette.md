@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.85]
 [name::Glashuette]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

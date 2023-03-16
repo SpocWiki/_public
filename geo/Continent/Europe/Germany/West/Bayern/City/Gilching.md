@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.12]
 [name::Gilching]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

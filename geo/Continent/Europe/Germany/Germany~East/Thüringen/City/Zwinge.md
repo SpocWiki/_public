@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.57]
 [name::Zwinge]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

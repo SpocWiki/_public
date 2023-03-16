@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.15]
 [name::Muerlenbach]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

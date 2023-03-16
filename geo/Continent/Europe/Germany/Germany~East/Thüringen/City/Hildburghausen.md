@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.43]
 [name::Hildburghausen]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

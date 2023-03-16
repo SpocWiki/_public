@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.97]
 [name::Triefenried]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.92]
 [name::Itzehoe]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

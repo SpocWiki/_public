@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.58]
 [name::Neustadt~Aisch]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

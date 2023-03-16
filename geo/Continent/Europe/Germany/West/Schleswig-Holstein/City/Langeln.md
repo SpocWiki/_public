@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.8]
 [name::Langeln]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

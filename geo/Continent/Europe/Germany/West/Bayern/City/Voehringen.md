@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.28]
 [name::Voehringen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

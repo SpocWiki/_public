@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.43]
 [name::Hagenburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

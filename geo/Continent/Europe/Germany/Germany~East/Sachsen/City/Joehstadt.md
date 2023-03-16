@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.52]
 [name::Joehstadt]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

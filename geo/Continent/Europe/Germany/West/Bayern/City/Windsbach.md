@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.25]
 [name::Windsbach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

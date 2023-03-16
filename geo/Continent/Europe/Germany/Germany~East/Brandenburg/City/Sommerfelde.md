@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.83]
 [name::Sommerfelde]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

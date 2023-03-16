@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.8]
 [name::Kahla]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

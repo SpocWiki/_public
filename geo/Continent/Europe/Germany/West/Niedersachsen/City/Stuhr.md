@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.03]
 [name::Stuhr]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

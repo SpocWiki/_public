@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.55]
 [name::Uffenheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

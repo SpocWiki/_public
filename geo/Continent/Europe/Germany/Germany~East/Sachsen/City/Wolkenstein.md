@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.65]
 [name::Wolkenstein]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

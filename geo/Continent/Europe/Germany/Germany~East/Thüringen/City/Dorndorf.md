@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.83]
 [name::Dorndorf]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

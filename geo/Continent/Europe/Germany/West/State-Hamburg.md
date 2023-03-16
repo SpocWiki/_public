@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.54,9.93222]
 type: State
 SpocWebEntityId: 30742
@@ -20,8 +20,8 @@ zoomFeatures: true
 geojsonFolder: ./State-Hamburg/
 ```
 
-[Country::[[Germany]]]
-[Capital:[[West/State-Hamburg/City/Hamburg]]]]
+[Country:: [[Germany]] ]
+[Capital:: [[West/State-Hamburg/City/Hamburg]] ]
 [geo-lon::9.93222]
 [geo-lat::53.54]
 [Population::]

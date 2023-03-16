@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.02]
 [name::Herrnhut]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

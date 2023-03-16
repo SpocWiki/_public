@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.65]
 [name::Lohne]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

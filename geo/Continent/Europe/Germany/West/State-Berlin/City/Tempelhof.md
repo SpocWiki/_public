@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.45]
 [name::Tempelhof]
 [Country::[[Germany]]]
-[State:[[../../State-Berlin]]]]
+[State :: [[../../State-Berlin]] ]
 [Population::]
 [Unknown::]
 

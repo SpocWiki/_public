@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.48]
 [name::Neuoffingen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

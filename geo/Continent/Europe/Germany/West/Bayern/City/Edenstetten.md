@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.92]
 [name::Edenstetten]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

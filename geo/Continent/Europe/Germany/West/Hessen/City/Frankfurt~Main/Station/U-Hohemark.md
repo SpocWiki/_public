@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.2152]
 [name::Hohemark]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::Regionalbusse]
 

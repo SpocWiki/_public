@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.00972]
 [name::Mainz-Kastel]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

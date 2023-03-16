@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.53]
 [name::Groefenthal]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

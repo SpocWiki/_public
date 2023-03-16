@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.98]
 [name::Markendorf]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

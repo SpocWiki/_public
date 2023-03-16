@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.32]
 [name::Stadthagen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

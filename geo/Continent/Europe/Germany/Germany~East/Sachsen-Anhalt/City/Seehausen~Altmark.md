@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.9]
 [name::Seehausen~Altmark]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

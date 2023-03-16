@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.52]
 [name::Schleusingen]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

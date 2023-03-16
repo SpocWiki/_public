@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.88]
 [name::Bersenbrueck]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

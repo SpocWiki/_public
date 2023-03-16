@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.97]
 [name::Erfurt]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

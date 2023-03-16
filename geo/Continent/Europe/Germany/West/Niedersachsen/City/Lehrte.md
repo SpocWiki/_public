@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.37]
 [name::Lehrte]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

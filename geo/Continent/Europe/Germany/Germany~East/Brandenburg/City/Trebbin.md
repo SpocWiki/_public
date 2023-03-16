@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.22]
 [name::Trebbin]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

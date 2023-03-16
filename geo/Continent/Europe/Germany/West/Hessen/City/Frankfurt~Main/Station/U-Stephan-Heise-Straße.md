@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.13502]
 [name::Stephan-Heise-Straße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::-]
 

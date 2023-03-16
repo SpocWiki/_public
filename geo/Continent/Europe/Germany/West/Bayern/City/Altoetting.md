@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.23]
 [name::Altoetting]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

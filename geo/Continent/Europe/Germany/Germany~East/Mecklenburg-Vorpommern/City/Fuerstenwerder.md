@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.38]
 [name::Fuerstenwerder]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

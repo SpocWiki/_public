@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.53]
 [name::Schnaittach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

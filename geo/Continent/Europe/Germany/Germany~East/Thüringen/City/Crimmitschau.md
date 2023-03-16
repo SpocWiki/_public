@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.82]
 [name::Crimmitschau]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

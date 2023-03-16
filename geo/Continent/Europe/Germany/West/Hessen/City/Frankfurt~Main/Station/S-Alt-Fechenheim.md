@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12785]
 [name::Alt-Fechenheim]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

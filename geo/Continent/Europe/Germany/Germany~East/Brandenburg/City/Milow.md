@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.52]
 [name::Milow]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

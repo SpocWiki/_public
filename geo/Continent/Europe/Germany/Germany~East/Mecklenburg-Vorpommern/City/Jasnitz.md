@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.4]
 [name::Jasnitz]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

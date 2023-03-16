@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.08318]
 [name::Frankfurt-Louisa]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.79]
 [name::Wangerooge]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

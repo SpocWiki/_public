@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.8]
 [name::Dreetz]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

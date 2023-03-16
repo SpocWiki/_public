@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.68]
 [name::Lenggries]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

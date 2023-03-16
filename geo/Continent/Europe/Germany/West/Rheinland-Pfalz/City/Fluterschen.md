@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.67]
 [name::Fluterschen]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

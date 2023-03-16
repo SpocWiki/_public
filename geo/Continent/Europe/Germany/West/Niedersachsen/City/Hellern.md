@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.25]
 [name::Hellern]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

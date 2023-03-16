@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.33]
 [name::Brake U-Weser]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

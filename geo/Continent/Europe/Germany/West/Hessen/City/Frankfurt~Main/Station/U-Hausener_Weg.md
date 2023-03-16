@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.13187]
 [name::Hausener Weg]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::34]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.28]
 [name::Allendorf]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.3]
 [name::Grasleben]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

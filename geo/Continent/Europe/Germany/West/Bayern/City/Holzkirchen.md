@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.88]
 [name::Holzkirchen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

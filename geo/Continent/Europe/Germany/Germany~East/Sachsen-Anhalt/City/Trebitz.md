@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.75]
 [name::Trebitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.83]
 [name::Obernburg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

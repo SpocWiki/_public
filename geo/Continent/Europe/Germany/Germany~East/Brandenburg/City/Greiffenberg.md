@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.08]
 [name::Greiffenberg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

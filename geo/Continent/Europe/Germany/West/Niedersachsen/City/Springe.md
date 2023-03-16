@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.2]
 [name::Springe]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

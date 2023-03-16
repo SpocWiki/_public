@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.75]
 [name::Jeetze]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.42]
 [name::Obergriesbach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

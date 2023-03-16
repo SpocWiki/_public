@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.35]
 [name::Boitwarden]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

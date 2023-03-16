@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.22]
 [name::Ocholt]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

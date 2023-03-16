@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.95]
 [name::Mittestendorf]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

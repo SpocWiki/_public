@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.93]
 [name::Hallstadt]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

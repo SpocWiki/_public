@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.97]
 [name::Lamspringe]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

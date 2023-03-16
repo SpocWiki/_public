@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.65]
 [name::Oberaudorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

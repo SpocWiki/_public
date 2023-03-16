@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.186]
 [name::Weißkirchen Ost]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::Stadtverkehr Oberursel, 251]
 

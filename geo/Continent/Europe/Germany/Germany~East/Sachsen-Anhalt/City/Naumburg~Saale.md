@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.15]
 [name::Naumburg~Saale]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

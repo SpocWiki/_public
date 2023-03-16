@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.95]
 [name::Guben]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

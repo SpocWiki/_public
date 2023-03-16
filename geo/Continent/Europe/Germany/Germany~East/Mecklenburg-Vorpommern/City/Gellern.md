@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.47]
 [name::Gellern]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

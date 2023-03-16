@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.05]
 [name::Tensfeld]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

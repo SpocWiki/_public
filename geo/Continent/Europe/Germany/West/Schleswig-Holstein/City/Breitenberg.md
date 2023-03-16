@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.93]
 [name::Breitenberg]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

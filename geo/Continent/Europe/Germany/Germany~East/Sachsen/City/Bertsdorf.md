@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.88]
 [name::Bertsdorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

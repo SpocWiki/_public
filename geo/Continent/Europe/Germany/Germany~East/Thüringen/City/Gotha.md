@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.95]
 [name::Gotha]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

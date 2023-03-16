@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.9]
 [name::Freiberg]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

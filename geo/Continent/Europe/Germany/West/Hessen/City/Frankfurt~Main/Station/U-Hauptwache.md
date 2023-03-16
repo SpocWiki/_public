@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11389]
 [name::Hauptwache]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::A,C, S-Bahn]
 [switch-to-ÖPNV::-]
 

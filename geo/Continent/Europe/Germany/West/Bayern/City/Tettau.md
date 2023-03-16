@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.47]
 [name::Tettau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

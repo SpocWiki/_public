@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.85]
 [name::Gandersheim]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

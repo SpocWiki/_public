@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.83]
 [name::Vacha]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.85]
 [name::Lindern]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

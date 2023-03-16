@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.68]
 [name::Schoenhagen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.83]
 [name::Langenau~Sachsen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

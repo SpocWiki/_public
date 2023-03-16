@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.55]
 [name::Leubsdorf~Rheinland]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

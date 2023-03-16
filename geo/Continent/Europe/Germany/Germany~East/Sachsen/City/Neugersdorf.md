@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.82]
 [name::Neugersdorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

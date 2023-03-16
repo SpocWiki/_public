@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.12]
 [name::Schneverdingen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

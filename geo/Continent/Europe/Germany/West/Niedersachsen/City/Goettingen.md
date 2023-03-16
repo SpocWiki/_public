@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.53]
 [name::Goettingen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

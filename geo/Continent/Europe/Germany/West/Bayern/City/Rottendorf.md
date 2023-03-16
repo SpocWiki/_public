@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.8]
 [name::Rottendorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

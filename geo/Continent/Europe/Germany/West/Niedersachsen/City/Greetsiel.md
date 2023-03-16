@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.5]
 [name::Greetsiel]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

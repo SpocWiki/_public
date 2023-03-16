@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.62]
 [name::Netzschkau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

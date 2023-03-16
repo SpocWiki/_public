@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.9]
 [name::Eichstaett]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.67]
 [name::Pinneberg]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

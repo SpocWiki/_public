@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.37]
 [name::Moeser]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

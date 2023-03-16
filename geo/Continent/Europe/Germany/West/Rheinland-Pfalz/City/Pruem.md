@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.21]
 [name::Pruem]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

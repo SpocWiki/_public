@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.15]
 [name::Heideck]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

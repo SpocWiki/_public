@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.62]
 [name::Vernawahlshausen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

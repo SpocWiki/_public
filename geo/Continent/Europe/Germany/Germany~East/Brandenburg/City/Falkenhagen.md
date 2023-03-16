@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.43]
 [name::Falkenhagen]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

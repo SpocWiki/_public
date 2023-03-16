@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.35]
 [name::Alter Berg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

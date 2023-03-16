@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.27]
 [name::Ochtmissen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

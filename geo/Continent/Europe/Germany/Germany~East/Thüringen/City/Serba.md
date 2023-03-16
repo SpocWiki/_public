@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.95]
 [name::Serba]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

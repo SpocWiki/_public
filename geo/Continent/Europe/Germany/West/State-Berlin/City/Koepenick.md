@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.43]
 [name::Koepenick]
 [Country::[[Germany]]]
-[State:[[../../State-Berlin]]]]
+[State :: [[../../State-Berlin]] ]
 [Population::]
 [Unknown::]
 

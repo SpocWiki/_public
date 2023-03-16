@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.82]
 [name::Kappeln~Oldeburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

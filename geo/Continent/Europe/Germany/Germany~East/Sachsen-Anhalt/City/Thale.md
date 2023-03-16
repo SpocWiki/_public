@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.77]
 [name::Thale]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

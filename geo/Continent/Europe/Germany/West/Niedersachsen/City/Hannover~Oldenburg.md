@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.08]
 [name::Hannover~Oldenburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.6]
 [name::Schoo]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

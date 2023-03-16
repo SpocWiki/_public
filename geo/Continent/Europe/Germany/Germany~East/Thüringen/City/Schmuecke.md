@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.65]
 [name::Schmuecke]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

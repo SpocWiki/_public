@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.42]
 [name::Hannoversch Muenden]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

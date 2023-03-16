@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.22]
 [name::Carden]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

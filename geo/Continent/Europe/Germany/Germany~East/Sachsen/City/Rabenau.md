@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.97]
 [name::Rabenau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

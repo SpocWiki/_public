@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.8]
 [name::Gaimersheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

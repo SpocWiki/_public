@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.37]
 [name::Pritzier]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

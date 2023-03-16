@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11247]
 [name::Börneplatz/Stolzestraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

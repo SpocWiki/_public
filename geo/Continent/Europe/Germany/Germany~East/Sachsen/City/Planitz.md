@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.7]
 [name::Planitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

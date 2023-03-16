@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.77]
 [name::Kremmen]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

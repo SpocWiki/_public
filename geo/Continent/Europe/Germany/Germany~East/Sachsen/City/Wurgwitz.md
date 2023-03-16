@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.03]
 [name::Wurgwitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

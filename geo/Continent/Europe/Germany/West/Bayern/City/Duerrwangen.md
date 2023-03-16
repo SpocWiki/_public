@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.12]
 [name::Duerrwangen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

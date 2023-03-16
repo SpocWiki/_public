@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.48]
 [name::Offingen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

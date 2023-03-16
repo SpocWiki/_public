@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.72]
 [name::Gorndorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

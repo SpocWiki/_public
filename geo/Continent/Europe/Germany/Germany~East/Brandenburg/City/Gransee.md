@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.02]
 [name::Gransee]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.65]
 [name::Hohenthann]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

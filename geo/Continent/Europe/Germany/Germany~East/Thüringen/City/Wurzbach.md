@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.47]
 [name::Wurzbach]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

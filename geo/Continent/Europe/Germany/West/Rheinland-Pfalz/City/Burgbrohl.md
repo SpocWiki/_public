@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.47]
 [name::Burgbrohl]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

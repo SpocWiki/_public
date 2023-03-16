@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.78]
 [name::Harburg~Schwaben]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

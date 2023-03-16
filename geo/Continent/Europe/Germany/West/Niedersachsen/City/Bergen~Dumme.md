@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.9]
 [name::Bergen~Dumme]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

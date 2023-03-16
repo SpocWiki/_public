@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.14792]
 [name::Theobald-Ziegler-Straße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::-]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.03]
 [name::Trostberg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

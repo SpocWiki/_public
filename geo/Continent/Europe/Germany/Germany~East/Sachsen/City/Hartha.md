@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.1]
 [name::Hartha]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

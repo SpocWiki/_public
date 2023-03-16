@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.41]
 [name::Brandenburg~Havel]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

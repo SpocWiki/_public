@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.07]
 [name::Garz~Prignitz]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

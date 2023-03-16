@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.77]
 [name::Heiligenloh]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

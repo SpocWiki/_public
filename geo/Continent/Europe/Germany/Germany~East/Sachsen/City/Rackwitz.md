@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.45]
 [name::Rackwitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

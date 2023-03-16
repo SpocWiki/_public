@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.15]
 [name::Heiligendamm]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

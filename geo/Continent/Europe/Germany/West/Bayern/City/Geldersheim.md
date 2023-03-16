@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.05]
 [name::Geldersheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.8]
 [name::Clausthal]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

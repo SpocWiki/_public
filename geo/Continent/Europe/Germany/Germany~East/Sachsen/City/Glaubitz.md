@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.33]
 [name::Glaubitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

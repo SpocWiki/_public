@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.73]
 [name::Doernthal]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

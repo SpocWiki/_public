@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.95]
 [name::Kyritz]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

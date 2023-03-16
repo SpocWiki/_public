@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.01083]
 [name::Hochheim~Main]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

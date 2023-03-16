@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.35]
 [name::Neunburg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

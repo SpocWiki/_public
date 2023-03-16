@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.28]
 [name::Heldburg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

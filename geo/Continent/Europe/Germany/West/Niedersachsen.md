@@ -20,7 +20,7 @@ geojsonFolder: ./Niedersachsen/
 ```
 
 [Country::[[Germany]]]
-[Capital:[[West/Niedersachsen/City/Hannover]]]]
+[ Capital :: [[West/Niedersachsen/City/Hannover]] ]
 [geo-lon::9.02868]
 [geo-lat::52.7796]
 [Population::]

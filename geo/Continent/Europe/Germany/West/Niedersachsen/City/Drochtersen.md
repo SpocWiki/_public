@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.72]
 [name::Drochtersen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

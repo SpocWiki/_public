@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.42]
 [name::Bramsche]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

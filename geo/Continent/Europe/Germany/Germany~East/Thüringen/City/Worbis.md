@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.42]
 [name::Worbis]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

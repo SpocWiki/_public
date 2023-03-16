@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.88]
 [name::Surheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.57]
 [name::Meiningen]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.48]
 [name::Wilhermsdorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

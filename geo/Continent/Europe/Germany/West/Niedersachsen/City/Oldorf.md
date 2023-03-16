@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.63]
 [name::Oldorf]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -23,7 +23,7 @@ geojsonFolder: ./Congo~Dem_Rep
 [Area-Land::341500]
 [Continent::[[Africa]]]
 [VehicleCode::CGO]
-[Capital:[[Congo~Dem_Rep/City/Leopoldville]]]]
+[ Capital :: [[Congo~Dem_Rep/City/Leopoldville]] ]
 
 ![[Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg|350]]
 

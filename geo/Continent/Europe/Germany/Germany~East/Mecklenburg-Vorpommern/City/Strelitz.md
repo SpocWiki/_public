@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.33]
 [name::Strelitz]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

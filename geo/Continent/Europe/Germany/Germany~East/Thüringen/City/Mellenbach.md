@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.63]
 [name::Mellenbach]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

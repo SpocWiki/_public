@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.92]
 [name::Bernkastel]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

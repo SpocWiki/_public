@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.68]
 [name::Jessnitz~Anhalt]
 [Country::[[Germany]]]
-[State:[[../../Sachsen-Anhalt]]]]
+[State :: [[../../Sachsen-Anhalt]] ]
 [Population::]
 [Unknown::]
 

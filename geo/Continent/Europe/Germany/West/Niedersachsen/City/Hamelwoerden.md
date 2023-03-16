@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.8]
 [name::Hamelwoerden]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

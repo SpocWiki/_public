@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.9]
 [name::Ahlhorn]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

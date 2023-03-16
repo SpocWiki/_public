@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.83]
 [name::Holzminden]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

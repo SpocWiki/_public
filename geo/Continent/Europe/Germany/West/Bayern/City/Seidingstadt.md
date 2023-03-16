@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.33]
 [name::Seidingstadt]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

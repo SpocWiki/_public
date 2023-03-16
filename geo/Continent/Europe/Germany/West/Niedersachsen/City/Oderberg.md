@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.72]
 [name::Oderberg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

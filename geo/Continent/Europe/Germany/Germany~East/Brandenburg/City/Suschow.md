@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.8]
 [name::Suschow]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

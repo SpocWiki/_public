@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.47]
 [name::Eilenburg]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

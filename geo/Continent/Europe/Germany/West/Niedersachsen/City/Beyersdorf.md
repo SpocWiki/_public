@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.67]
 [name::Beyersdorf]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

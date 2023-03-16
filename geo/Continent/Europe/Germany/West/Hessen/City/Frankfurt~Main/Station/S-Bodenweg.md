@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.14219]
 [name::Bodenweg]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

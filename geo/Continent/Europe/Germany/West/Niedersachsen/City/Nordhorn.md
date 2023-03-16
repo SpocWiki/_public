@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.45]
 [name::Nordhorn]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

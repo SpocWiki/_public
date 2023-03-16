@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.8]
 [name::Betzdorf~Siegen]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

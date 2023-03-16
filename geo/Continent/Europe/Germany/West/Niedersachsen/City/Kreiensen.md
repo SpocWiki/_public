@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.87]
 [name::Kreiensen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

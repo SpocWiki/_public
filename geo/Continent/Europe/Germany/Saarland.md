@@ -20,7 +20,7 @@ geojsonFolder: ./Saarland/
 ```
 
 [Country::[[Germany]]]
-[Capital:[[West/Saarland/City/Saarbruecken]]]]
+[ Capital :: [[West/Saarland/City/Saarbruecken]] ]
 [geo-lon::6.935]
 [geo-lat::49.355]
 [Population::]

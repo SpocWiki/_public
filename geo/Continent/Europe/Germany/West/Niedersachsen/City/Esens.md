@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.65]
 [name::Esens]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

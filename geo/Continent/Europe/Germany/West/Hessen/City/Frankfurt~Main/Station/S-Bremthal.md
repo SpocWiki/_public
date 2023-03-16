@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.14029]
 [name::Bremthal]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

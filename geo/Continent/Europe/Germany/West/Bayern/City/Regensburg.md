@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.02]
 [name::Regensburg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

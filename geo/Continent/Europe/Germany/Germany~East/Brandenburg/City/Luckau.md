@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.85]
 [name::Luckau]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

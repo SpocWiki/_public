@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.17]
 [name::Parsberg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.38]
 [name::Neuenburg~Oldenburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.55]
 [name::Promoisel]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

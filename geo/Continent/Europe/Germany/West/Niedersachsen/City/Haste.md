@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.38]
 [name::Haste]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

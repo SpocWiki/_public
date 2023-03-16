@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.05]
 [name::Hemau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.43]
 [name::Leipheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

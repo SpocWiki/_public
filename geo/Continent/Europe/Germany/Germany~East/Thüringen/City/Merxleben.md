@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.13]
 [name::Merxleben]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

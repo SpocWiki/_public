@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.62]
 [name::Vilseck]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

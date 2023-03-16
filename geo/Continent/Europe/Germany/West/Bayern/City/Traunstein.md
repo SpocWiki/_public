@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.87]
 [name::Traunstein]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

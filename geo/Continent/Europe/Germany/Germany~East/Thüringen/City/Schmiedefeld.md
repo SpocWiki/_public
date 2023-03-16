@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.62]
 [name::Schmiedefeld]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

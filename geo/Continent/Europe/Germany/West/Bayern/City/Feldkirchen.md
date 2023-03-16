@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.13]
 [name::Feldkirchen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

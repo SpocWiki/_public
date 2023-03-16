@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.35]
 [name::Neustrelitz]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

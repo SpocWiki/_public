@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.08]
 [name::Koenigsberg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

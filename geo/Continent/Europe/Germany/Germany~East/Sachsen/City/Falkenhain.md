@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.4]
 [name::Falkenhain]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

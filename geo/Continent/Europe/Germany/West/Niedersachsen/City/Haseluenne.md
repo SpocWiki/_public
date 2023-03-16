@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.67]
 [name::Haseluenne]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

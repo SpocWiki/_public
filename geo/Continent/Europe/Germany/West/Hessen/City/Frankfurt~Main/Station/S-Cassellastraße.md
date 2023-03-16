@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.12964]
 [name::Cassellastraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

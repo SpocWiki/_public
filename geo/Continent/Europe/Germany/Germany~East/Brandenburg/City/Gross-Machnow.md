@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.27]
 [name::Gross-Machnow]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.18]
 [name::Heyrode]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

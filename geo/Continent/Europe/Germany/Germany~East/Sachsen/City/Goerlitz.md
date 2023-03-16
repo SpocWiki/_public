@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.15]
 [name::Goerlitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

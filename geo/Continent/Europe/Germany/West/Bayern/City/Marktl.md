@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.25]
 [name::Marktl]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

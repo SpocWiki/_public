@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.77]
 [name::Lindholm]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11315]
 [name::S-Bahn-Station Ostendstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

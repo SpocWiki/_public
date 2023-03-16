@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.67]
 [name::Steinbach~Allg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.23]
 [name::Wendisch-Warnow]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

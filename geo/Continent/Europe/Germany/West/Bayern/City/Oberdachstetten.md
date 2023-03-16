@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.42]
 [name::Oberdachstetten]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

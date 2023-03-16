@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.82]
 [name::Liebenstein]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

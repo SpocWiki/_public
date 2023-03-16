@@ -21,7 +21,7 @@ geojsonFolder: ./State-Bremen/
 ```
 
 [Country::[[Germany]]]
-[Capital:[[West/State-Bremen/City/Bremen]]]]
+[ Capital :: [[West/State-Bremen/City/Bremen]] ]
 [geo-lon::8.682]
 [geo-lat::53.222]
 [Population::]

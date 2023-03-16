@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.52]
 [name::Stollhamm]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

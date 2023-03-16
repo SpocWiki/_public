@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.37]
 [name::Sonneberg]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

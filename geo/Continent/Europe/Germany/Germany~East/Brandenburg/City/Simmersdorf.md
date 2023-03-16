@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.67]
 [name::Simmersdorf]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

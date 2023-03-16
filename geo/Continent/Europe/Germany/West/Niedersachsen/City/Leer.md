@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.23]
 [name::Leer]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.78]
 [name::Willershausen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

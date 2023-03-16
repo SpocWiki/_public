@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.53]
 [name::Bockau]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.03]
 [name::Biburg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.77]
 [name::Buchau]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

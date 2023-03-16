@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.68]
 [name::Schwante]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

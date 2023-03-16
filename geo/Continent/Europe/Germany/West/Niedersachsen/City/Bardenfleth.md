@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.23]
 [name::Bardenfleth]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

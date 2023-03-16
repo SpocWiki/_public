@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.05]
 [name::Alesheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

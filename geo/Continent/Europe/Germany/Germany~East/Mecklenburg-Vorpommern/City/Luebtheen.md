@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.3]
 [name::Luebtheen]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

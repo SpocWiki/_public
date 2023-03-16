@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.7]
 [name::Ergoldsbach]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

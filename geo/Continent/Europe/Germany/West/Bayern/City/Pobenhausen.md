@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.7]
 [name::Pobenhausen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

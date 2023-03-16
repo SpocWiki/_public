@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.48]
 [name::Lauscha]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

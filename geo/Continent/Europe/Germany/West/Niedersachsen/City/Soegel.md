@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.85]
 [name::Soegel]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

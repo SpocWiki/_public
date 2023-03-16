@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.93]
 [name::Ottobeuren]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.52]
 [name::Nordhausen]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

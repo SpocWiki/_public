@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.25]
 [name::Demitz-Thumitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

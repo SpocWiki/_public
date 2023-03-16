@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10188]
 [name::Mühlberg]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

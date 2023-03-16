@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.28]
 [name::Boritz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

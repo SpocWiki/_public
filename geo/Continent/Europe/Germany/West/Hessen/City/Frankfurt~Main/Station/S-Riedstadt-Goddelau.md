@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.83528]
 [name::Riedstadt-Goddelau]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

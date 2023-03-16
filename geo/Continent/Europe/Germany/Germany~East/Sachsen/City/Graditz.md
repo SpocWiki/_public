@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.55]
 [name::Graditz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

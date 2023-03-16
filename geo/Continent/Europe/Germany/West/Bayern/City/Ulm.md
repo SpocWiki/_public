@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.39]
 [name::Ulm]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

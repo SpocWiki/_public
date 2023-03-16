@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.82]
 [name::Schnabelwaid]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

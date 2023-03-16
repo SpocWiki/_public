@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.35]
 [name::Neustadt~Weinstrasse]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

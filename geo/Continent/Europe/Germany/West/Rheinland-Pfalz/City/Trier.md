@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.76]
 [name::Trier]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

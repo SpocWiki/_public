@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.08]
 [name::Eime]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

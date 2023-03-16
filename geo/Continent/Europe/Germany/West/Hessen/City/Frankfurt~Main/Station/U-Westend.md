@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1183]
 [name::Westend]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::36]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.73]
 [name::Neustadt~Orla]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

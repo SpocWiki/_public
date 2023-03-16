@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.17]
 [name::Bassel]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

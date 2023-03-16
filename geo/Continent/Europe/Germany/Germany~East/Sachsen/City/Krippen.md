@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.9]
 [name::Krippen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

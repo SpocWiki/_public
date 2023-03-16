@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.83]
 [name::Aalen]
 [Country::[[Germany]]]
-[State:[[../../West/Baden-Wuerttemberg]]]]
+[State :: [[../../West/Baden-Wuerttemberg]] ]
 [Population::]
 [Unknown::]
 

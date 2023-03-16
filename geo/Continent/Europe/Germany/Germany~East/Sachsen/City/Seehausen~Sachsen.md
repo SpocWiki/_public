@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.1]
 [name::Seehausen~Sachsen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

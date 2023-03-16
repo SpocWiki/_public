@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.77]
 [name::Plattling]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

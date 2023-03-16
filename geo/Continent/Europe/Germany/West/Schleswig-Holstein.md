@@ -20,7 +20,7 @@ geojsonFolder: ./Schleswig-Holstein/
 ```
 
 [Country::[[Germany]]]
-[Capital:[[West/Schleswig-Holstein/City/Kiel]]]]
+[ Capital :: [[West/Schleswig-Holstein/City/Kiel]] ]
 [geo-lon::9.87324]
 [geo-lat::54.1593]
 [Population::]

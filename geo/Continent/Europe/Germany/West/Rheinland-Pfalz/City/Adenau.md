@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.38]
 [name::Adenau]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

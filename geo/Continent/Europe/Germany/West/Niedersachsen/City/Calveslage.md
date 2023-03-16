@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.75]
 [name::Calveslage]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

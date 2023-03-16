@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.13]
 [name::Pollanten]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

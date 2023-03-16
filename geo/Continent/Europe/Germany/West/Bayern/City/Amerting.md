@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.58]
 [name::Amerting]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

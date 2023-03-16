@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.98]
 [name::Grossenaspe]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

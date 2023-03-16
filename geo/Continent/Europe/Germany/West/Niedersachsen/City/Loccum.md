@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.45]
 [name::Loccum]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

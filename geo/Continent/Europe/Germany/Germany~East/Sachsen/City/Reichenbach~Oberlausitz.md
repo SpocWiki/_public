@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.13]
 [name::Reichenbach~Oberlausitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

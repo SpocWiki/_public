@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.78]
 [name::Nordholz]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

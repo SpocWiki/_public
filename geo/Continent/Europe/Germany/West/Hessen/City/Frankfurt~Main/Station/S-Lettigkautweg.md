@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09977]
 [name::Lettigkautweg]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

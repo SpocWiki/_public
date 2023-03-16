@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.97]
 [name::Ober-Traubling]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

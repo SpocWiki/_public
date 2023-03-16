@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.07]
 [name::Geithaim]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

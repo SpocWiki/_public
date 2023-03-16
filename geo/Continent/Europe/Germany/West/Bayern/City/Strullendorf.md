@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.85]
 [name::Strullendorf]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

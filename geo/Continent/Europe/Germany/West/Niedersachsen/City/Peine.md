@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.33]
 [name::Peine]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

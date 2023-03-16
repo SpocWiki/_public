@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.72]
 [name::Bad Reichenhall]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

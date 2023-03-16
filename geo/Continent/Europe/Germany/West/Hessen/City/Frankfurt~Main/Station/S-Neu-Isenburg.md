@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.05278]
 [name::Neu-Isenburg]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

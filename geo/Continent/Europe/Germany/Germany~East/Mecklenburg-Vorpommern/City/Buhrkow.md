@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.65]
 [name::Buhrkow]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

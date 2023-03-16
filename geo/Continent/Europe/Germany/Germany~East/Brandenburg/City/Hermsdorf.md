@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.62]
 [name::Hermsdorf]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

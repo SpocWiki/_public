@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.25]
 [name::Muellrose]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

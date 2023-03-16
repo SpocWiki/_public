@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.1]
 [name::Dannenberg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

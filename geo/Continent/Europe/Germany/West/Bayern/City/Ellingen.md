@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.07]
 [name::Ellingen]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

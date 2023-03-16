@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.63]
 [name::Sankt Huelfe]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.25]
 [name::Muennerstadt]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

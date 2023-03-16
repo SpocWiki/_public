@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.17012]
 [name::Frankfurt-Frankfurter Berg]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

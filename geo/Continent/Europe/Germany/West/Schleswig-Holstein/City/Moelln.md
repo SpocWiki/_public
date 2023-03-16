@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.62]
 [name::Moelln]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

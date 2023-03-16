@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.17]
 [name::Selb]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

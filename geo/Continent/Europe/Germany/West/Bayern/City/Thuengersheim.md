@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.88]
 [name::Thuengersheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

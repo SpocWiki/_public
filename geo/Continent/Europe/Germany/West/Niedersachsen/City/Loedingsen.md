@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.58]
 [name::Loedingsen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

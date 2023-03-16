@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.4]
 [name::Hirschberg]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

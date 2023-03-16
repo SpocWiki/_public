@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.79]
 [name::Wuerzburg]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

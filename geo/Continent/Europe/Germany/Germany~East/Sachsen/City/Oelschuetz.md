@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.32]
 [name::Oelschuetz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

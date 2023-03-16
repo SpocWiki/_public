@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.7]
 [name::Mehlbergen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

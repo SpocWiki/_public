@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.58]
 [name::Schneeberg]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

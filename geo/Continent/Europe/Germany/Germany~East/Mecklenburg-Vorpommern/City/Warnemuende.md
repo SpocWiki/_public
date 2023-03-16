@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.175]
 [name::Warnemuende]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

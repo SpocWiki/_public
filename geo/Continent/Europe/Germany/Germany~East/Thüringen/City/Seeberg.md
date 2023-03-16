@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.93]
 [name::Seeberg]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

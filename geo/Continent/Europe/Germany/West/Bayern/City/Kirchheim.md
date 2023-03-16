@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.17]
 [name::Kirchheim]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

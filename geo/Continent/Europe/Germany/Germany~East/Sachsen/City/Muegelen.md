@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.23]
 [name::Muegelen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.42]
 [name::Plaue]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

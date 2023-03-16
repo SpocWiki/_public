@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.1]
 [name::Wilthen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

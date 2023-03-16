@@ -10,8 +10,8 @@ tags:
 ---
 
 [name::Thüringen]
-[name-abbr::TH![[Thüringen/Coat_of_arms_of_Thuringia.svg|350]]]]
-![[Thüringen/Flag_of_Thuringia.svg|350]]]]
+[name-abbr::TH![[Thüringen/Coat_of_arms_of_Thuringia.svg|350]] ]
+![[Thüringen/Flag_of_Thuringia.svg|350]] ]
 
 ```leaflet
 id: Thüringen
@@ -20,7 +20,7 @@ geojsonFolder: ./Thüringen/
 ```
 
 [Country::[[Germany]]]
-[Capital[[Thüringen/City/Erfurt]]]]]
+[Capital[[Thüringen/City/Erfurt]] ]]
 [geo-lon::11.0683]
 [geo-lat::50.8463]
 [Population::]

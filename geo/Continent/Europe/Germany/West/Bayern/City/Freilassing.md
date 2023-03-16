@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.83]
 [name::Freilassing]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.87]
 [name::Greene]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

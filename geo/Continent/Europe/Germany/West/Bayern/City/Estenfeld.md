@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.83]
 [name::Estenfeld]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

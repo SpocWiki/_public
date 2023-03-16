@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.24]
 [name::Lueneburg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

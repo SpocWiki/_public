@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.97]
 [name::Vargatz]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

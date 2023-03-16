@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.87]
 [name::Oederan]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

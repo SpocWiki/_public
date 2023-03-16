@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.43]
 [name::Carlsfeld]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

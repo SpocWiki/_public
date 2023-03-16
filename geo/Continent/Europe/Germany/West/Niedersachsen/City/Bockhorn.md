@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.4]
 [name::Bockhorn]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

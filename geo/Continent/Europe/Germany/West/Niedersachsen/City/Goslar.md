@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.9]
 [name::Goslar]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

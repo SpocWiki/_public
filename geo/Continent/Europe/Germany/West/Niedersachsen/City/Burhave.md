@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.58]
 [name::Burhave]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

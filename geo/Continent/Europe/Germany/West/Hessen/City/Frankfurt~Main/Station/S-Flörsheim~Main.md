@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.01167]
 [name::Flörsheim~Main]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

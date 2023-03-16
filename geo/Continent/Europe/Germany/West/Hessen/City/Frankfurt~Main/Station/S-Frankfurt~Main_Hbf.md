@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10695]
 [name::Frankfurt~Main Hbf]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

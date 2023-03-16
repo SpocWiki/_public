@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.6]
 [name::Nauen]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

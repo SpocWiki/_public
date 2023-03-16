@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.52]
 [name::Neu-Rhaese]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

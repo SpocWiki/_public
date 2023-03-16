@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.65]
 [name::Greiz]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

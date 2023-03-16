@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.75]
 [name::Oranienburg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

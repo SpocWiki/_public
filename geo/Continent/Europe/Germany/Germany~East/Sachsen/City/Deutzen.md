@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.13]
 [name::Deutzen]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

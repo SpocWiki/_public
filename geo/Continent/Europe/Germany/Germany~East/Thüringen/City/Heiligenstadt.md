@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.38]
 [name::Heiligenstadt]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

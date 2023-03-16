@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.03]
 [name::Thueste]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

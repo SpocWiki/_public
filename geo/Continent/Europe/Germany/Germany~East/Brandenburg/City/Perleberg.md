@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.08]
 [name::Perleberg]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

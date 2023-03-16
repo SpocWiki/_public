@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.95]
 [name::Travemuende]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

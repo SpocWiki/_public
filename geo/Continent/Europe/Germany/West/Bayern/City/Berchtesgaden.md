@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::47.63]
 [name::Berchtesgaden]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

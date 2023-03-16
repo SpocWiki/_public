@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.82]
 [name::Erdmannsdorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

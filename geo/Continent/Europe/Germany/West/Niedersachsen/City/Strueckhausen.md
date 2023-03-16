@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::53.32]
 [name::Strueckhausen]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

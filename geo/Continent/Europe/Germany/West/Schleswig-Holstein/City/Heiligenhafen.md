@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.37]
 [name::Heiligenhafen]
 [Country::[[Germany]]]
-[State:[[../../Schleswig-Holstein]]]]
+[State :: [[../../Schleswig-Holstein]] ]
 [Population::]
 [Unknown::]
 

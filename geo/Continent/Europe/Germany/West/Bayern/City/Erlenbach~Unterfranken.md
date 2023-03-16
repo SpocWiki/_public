@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.8]
 [name::Erlenbach~Unterfranken]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

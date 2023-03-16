@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.98]
 [name::Sebnitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

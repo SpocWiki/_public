@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.48]
 [name::Scheibe]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

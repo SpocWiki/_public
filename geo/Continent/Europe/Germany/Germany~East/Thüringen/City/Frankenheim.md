@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.55]
 [name::Frankenheim]
 [Country::[[Germany]]]
-[State:[[../../Thüringen]]]]
+[State :: [[../../Thüringen]] ]
 [Population::]
 [Unknown::]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::54.35]
 [name::Wustrow]
 [Country::[[Germany]]]
-[State:[[../../Mecklenburg-Vorpommern]]]]
+[State :: [[../../Mecklenburg-Vorpommern]] ]
 [Population::]
 [Unknown::]
 

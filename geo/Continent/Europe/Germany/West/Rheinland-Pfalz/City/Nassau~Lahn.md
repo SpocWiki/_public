@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.32]
 [name::Nassau~Lahn]
 [Country::[[Germany]]]
-[State:[[../../Rheinland-Pfalz]]]]
+[State :: [[../../Rheinland-Pfalz]] ]
 [Population::]
 [Unknown::]
 

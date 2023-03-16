@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.45]
 [name::Weischlitz]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

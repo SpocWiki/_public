@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.68]
 [name::Geisenfeld]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

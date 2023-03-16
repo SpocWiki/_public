@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.63]
 [name::Lauterberg]
 [Country::[[Germany]]]
-[State:[[../../Niedersachsen]]]]
+[State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 

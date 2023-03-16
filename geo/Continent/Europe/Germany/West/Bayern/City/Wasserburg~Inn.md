@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::48.07]
 [name::Wasserburg~Inn]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

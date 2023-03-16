@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.119]
 [name::Hessendenkmal]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]]]]
+[City:[[Frankfurt(Main)]] ]
 

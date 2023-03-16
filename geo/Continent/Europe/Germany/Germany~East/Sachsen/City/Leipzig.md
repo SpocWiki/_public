@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.35]
 [name::Leipzig]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 

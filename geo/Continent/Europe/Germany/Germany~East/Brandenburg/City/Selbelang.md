@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::52.65]
 [name::Selbelang]
 [Country::[[Germany]]]
-[State:[[../../Brandenburg]]]]
+[State :: [[../../Brandenburg]] ]
 [Population::]
 [Unknown::]
 

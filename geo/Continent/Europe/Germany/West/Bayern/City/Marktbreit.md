@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.67]
 [name::Marktbreit]
 [Country::[[Germany]]]
-[State:[[../../Bayern]]]]
+[State :: [[../../Bayern]] ]
 [Population::]
 [Unknown::]
 

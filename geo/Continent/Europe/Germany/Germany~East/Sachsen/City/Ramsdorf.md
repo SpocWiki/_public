@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.08]
 [name::Ramsdorf]
 [Country::[[Germany]]]
-[State:[[../../Sachsen]]]]
+[State :: [[../../Sachsen]] ]
 [Population::]
 [Unknown::]
 
