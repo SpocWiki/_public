@@ -1,12 +1,12 @@
 ---
 type: Continent
+confidential: public
+
 tags:
   - geo/Continent
 isDeleted: false
 ---
 SpocWebEntityId: 27156
-[]
-confidential: public
 ```leaflet
 id: Africa
 zoomFeatures: true 

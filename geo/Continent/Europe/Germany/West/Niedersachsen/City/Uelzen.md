@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+```leaflet
+id: Uelzen
+coordinates: [[Uelzen]]
+defaultZoom: 12 
+maxZoom: 18
+```
+
+
