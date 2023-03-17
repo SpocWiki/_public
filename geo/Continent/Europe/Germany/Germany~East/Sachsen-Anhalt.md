@@ -22,7 +22,7 @@ markerFolder: ./Sachsen-Anhalt/City
 ```
 
 [Country::[[Germany]]]
-[Capital[[Sachsen-Anhalt/City/Magdeburg]] ]]
+[Capital :: [[Sachsen-Anhalt/City/Magdeburg]] ]]
 [geo-lon::11.7371]
 [geo-lat::51.8905]
 [Population::]

@@ -22,7 +22,7 @@ markerFolder: ./Sachsen/City
 ```
 
 [Country::[[Germany]]]
-[Capital[[Sachsen/City/Dresden]] ]]
+[Capital :: [[Sachsen/City/Dresden]] ]
 [geo-lon::13.2481]
 [geo-lat::50.968]
 [Population::]

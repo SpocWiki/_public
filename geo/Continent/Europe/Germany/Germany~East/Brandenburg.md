@@ -25,7 +25,7 @@ markerFolder: ./Brandenburg/City
 ```
 
 [Country::[[Germany]]]
-[Capital[[Brandenburg/City/Potsdam]]]
+[Capital :: [[Brandenburg/City/Potsdam]] ]
 [geo-lon::13.3801]
 [geo-lat::52.3844]
 [Population::]

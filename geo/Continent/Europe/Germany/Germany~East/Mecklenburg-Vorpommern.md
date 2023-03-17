@@ -23,7 +23,7 @@ markerFolder: ./Mecklenburg-Vorpommern/City
 ```
 
 [Country::[[Germany]]]
-[Capital[[Mecklenburg-Vorpommern/City/Schwerin]] ]]
+[Capital :: [[Mecklenburg-Vorpommern/City/Schwerin]] ]]
 [geo-lon::12.5967]
 [geo-lat::53.7906]
 [Population::]

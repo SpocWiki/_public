@@ -23,7 +23,7 @@ markerFolder: ./Thüringen/City
 ```
 
 [Country::[[Germany]]]
-[Capital[[Thüringen/City/Erfurt]] ]]
+[Capital :: [[Thüringen/City/Erfurt]] ]
 [geo-lon::11.0683]
 [geo-lat::50.8463]
 [Population::]
