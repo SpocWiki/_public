@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.1134]
 [name::Ludwig-Erhard-Anlage]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

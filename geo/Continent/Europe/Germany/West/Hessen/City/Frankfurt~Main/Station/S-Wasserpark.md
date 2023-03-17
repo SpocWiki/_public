@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.13581]
 [name::Wasserpark]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

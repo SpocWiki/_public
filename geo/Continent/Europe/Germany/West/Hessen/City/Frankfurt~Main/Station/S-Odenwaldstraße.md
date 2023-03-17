@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.08648]
 [name::Odenwaldstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

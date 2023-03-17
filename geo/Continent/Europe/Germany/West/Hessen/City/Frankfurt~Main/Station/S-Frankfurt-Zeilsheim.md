@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09028]
 [name::Frankfurt-Zeilsheim]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

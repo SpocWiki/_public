@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.19919]
 [name::Oberursel Bahnhof]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::S-Bahn, Regionalbahn (Taunusbahn)]
 [switch-to-ÖPNV::Stadtverkehr Oberursel, 252, 261]
 

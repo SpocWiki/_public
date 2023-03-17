@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.11817]
 [name::Waldschmidtstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

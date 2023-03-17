@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.08898]
 [name::Niederräder Landstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

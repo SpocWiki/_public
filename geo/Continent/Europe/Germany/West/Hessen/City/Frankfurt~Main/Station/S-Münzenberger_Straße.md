@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.13278]
 [name::Münzenberger Straße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

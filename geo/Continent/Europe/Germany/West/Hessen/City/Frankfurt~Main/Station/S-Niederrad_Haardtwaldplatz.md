@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.0863]
 [name::Niederrad Haardtwaldplatz]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

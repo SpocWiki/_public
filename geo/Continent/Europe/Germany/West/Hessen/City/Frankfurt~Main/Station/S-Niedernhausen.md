@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.16167]
 [name::Niedernhausen]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

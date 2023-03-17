@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.08217]
 [name::Schwanheim Rheinlandstr.]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

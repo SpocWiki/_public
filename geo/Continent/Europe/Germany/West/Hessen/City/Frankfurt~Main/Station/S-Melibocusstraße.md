@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.08163]
 [name::Melibocusstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

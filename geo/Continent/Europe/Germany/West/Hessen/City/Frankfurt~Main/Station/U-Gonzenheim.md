@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.219]
 [name::Gonzenheim]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::Stadtverkehr Bad Homburg]
 

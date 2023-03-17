@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1175]
 [name::Eschenheimer Tor]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::36]
 

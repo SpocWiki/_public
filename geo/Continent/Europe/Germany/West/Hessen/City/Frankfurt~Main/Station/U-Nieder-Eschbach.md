@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.19913]
 [name::Nieder-Eschbach]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::27, 29]
 

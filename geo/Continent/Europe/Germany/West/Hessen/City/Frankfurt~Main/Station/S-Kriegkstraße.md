@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10113]
 [name::Kriegkstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

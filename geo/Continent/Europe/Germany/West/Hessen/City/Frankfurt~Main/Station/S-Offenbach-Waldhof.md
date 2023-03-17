@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.08169]
 [name::Offenbach-Waldhof]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

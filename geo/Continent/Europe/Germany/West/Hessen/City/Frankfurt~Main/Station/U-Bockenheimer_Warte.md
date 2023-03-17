@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11972]
 [name::Bockenheimer Warte]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::D, Straßenbahn]
 [switch-to-ÖPNV::32, 36, 50, 75]
 

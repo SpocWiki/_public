@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09686]
 [name::Schweizer Str./Mörfelder Ldstr.]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

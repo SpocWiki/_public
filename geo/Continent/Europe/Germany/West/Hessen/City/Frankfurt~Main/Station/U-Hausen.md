@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.13795]
 [name::Hausen]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::72, 73]
 

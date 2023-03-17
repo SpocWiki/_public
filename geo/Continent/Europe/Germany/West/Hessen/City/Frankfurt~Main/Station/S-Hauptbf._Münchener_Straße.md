@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10675]
 [name::Hauptbf./Münchener Straße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

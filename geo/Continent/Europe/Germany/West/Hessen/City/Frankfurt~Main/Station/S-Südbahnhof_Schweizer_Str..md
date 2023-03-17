@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09858]
 [name::Südbahnhof/Schweizer Str.]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

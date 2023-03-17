@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.25249]
 [name::Friedrichsdorf~Taunus]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

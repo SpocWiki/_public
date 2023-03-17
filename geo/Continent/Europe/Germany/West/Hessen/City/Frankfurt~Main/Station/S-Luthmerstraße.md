@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09928]
 [name::Luthmerstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

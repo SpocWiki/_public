@@ -21,7 +21,7 @@ StationUId: {{Id}}
 [geo-lat::{{GeoLat}}]
 [name::{{Bahnhof}}]
 [Country::[[Germany]]]
-[City::[[Frankfurt(Main)]]]
+[City::[[Frankfurt~Main]]]
 [switch-to-SPNV::{{SPNV-Umstieg}}]
 [switch-to-ÖPNV::{{ÖPNV-Umstieg}}]
 

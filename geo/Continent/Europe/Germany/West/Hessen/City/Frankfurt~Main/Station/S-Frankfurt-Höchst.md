@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.1025]
 [name::Frankfurt-Höchst]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

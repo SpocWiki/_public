@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.15493]
 [name::Sigmund-Freud-Straße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::-]
 

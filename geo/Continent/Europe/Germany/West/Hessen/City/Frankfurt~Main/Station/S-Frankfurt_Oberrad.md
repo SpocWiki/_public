@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.10444]
 [name::Frankfurt Oberrad]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

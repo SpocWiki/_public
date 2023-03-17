@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.1775]
 [name::Bad Vilbel]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

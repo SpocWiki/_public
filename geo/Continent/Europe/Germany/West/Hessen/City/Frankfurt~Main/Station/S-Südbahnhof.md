@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09966]
 [name::Südbahnhof]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

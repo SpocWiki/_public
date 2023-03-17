@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.1001]
 [name::Birminghamstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

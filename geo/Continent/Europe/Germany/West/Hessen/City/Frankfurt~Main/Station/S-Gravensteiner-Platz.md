@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.15539]
 [name::Gravensteiner-Platz]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.21004]
 [name::Lahnstraße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::-]
 

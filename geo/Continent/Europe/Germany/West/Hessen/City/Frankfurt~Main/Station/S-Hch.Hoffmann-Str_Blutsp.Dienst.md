@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09259]
 [name::Hch.Hoffmann-Str/Blutsp.Dienst]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

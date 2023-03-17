@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.14648]
 [name::Walter-Kolb-Siedlung]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

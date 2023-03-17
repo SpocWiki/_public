@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.12528]
 [name::Bornheim Mitte]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::Straßenbahn]
 [switch-to-ÖPNV::34, 38, 43, 103]
 

@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09332]
 [name::Breslauer Straße]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

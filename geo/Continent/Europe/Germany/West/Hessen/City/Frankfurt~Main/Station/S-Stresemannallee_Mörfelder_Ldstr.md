@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.08909]
 [name::Stresemannallee/Mörfelder Ldstr]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

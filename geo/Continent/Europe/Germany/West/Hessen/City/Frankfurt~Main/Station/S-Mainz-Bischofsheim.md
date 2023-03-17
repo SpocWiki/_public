@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.99031]
 [name::Mainz-Bischofsheim]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

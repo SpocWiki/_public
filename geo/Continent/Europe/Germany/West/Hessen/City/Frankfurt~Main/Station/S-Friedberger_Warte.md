@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.13954]
 [name::Friedberger Warte]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1567]
 [name::Weißer Stein]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::S-Bahn]
 [switch-to-ÖPNV::63, 66, 69]
 

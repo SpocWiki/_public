@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.14222]
 [name::Enkheim]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::42, 551, MKK-23, MKK-25]
 

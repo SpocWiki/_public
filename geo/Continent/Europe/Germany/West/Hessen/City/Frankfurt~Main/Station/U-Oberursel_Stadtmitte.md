@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.2025]
 [name::Oberursel Stadtmitte]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 [switch-to-SPNV::-]
 [switch-to-ÖPNV::-]
 

@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.09941]
 [name::Galluspark]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

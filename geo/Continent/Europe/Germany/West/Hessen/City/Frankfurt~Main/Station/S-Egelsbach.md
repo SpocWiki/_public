@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.96944]
 [name::Egelsbach]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

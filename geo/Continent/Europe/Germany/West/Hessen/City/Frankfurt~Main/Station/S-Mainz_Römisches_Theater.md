@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::49.99333]
 [name::Mainz Römisches Theater]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

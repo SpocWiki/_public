@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.02598]
 [name::Rodgau-Jügesheim]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

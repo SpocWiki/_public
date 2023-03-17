@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.03521]
 [name::Zeppelinheim]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

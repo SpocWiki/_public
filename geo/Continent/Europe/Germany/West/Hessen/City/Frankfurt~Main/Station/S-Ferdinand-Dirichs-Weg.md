@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.0826]
 [name::Ferdinand-Dirichs-Weg]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

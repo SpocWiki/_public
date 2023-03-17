@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.01889]
 [name::Dreieich-Buchschlag]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 

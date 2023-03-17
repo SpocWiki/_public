@@ -13,5 +13,5 @@ confidential: public
 [geo-lat::50.0965]
 [name::Universitätsklinikum]
 [Country::[[Germany]]]
-[City:[[Frankfurt(Main)]] ]
+[City:[[Frankfurt~Main]] ]
 
