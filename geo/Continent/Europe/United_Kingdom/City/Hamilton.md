@@ -1,5 +1,7 @@
 ﻿---
 location: [32.3,-64.78333]
+mapzoom: [7,12] 
+mapmarker: city 
 type: City
 tags:
 - geo/City

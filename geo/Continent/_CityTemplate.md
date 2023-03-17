@@ -1,4 +1,6 @@
 ---
+mapzoom: [7,12] 
+mapmarker: city 
 type: City
 license: CC BY-SA 4.0
 publish: true

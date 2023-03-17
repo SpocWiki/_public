@@ -1,5 +1,7 @@
 ---
 location: [50.11,8.68]
+mapzoom: [7,12] 
+mapmarker: city 
 type: City
 title: Frankfurt am Main
 tags:

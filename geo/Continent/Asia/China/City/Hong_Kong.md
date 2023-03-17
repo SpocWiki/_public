@@ -1,5 +1,7 @@
 ---
 location: [22.25,114.17]
+mapzoom: [7,12] 
+mapmarker: city 
 type: City
 SpocWebEntityId: 31015
 isDeleted: false
