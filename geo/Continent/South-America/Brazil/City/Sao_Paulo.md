@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Sao Paulo
-coordinates: [[Sao Paulo]]
-markerFile: [[Sao Paulo]]
+coordinates: [[Sao_Paulo]]
+markerFile: [[Sao_Paulo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

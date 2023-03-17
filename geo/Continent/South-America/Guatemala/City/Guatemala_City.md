@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Guatemala City
-coordinates: [[Guatemala City]]
-markerFile: [[Guatemala City]]
+coordinates: [[Guatemala_City]]
+markerFile: [[Guatemala_City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Stora Ekeberg
-coordinates: [[Stora Ekeberg]]
-markerFile: [[Stora Ekeberg]]
+coordinates: [[Stora_Ekeberg]]
+markerFile: [[Stora_Ekeberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

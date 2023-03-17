@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Osman Bazar
-coordinates: [[Osman Bazar]]
-markerFile: [[Osman Bazar]]
+coordinates: [[Osman_Bazar]]
+markerFile: [[Osman_Bazar]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: São Tomé
-coordinates: [[São Tomé]]
-markerFile: [[São Tomé]]
+coordinates: [[São_Tomé]]
+markerFile: [[São_Tomé]]
 defaultZoom: 11 
 maxZoom: 18
 ```

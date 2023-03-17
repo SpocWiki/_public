@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Citta Nuova
-coordinates: [[Citta Nuova]]
-markerFile: [[Citta Nuova]]
+coordinates: [[Citta_Nuova]]
+markerFile: [[Citta_Nuova]]
 defaultZoom: 11 
 maxZoom: 18
 ```

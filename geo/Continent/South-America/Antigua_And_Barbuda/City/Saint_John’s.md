@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Saint John’s
-coordinates: [[Saint John’s]]
-markerFile: [[Saint John’s]]
+coordinates: [[Saint_John’s]]
+markerFile: [[Saint_John’s]]
 defaultZoom: 11 
 maxZoom: 18
 ```

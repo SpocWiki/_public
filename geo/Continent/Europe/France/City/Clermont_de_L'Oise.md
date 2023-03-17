@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Clermont de L'Oise
-coordinates: [[Clermont de L'Oise]]
-markerFile: [[Clermont de L'Oise]]
+coordinates: [[Clermont_de_L'Oise]]
+markerFile: [[Clermont_de_L'Oise]]
 defaultZoom: 11 
 maxZoom: 18
 ```

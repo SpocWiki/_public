@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Le Mans
-coordinates: [[Le Mans]]
-markerFile: [[Le Mans]]
+coordinates: [[Le_Mans]]
+markerFile: [[Le_Mans]]
 defaultZoom: 11 
 maxZoom: 18
 ```

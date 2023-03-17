@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Golli Vrh
-coordinates: [[Golli Vrh]]
-markerFile: [[Golli Vrh]]
+coordinates: [[Golli_Vrh]]
+markerFile: [[Golli_Vrh]]
 defaultZoom: 11 
 maxZoom: 18
 ```

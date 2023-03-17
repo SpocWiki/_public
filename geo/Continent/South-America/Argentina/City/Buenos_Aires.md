@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Buenos Aires
-coordinates: [[Buenos Aires]]
-markerFile: [[Buenos Aires]]
+coordinates: [[Buenos_Aires]]
+markerFile: [[Buenos_Aires]]
 defaultZoom: 11 
 maxZoom: 18
 ```

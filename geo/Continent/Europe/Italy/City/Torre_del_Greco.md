@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Torre del Greco
-coordinates: [[Torre del Greco]]
-markerFile: [[Torre del Greco]]
+coordinates: [[Torre_del_Greco]]
+markerFile: [[Torre_del_Greco]]
 defaultZoom: 11 
 maxZoom: 18
 ```

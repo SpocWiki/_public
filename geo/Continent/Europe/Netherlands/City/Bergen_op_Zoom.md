@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bergen op Zoom
-coordinates: [[Bergen op Zoom]]
-markerFile: [[Bergen op Zoom]]
+coordinates: [[Bergen_op_Zoom]]
+markerFile: [[Bergen_op_Zoom]]
 defaultZoom: 11 
 maxZoom: 18
 ```

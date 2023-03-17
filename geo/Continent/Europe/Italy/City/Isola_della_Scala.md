@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Isola della Scala
-coordinates: [[Isola della Scala]]
-markerFile: [[Isola della Scala]]
+coordinates: [[Isola_della_Scala]]
+markerFile: [[Isola_della_Scala]]
 defaultZoom: 11 
 maxZoom: 18
 ```

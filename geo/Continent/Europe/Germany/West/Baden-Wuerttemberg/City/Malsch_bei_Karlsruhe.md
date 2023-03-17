@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Malsch bei Karlsruhe
-coordinates: [[Malsch bei Karlsruhe]]
-markerFile: [[Malsch bei Karlsruhe]]
+coordinates: [[Malsch_bei_Karlsruhe]]
+markerFile: [[Malsch_bei_Karlsruhe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

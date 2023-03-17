@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Jaun Jelgava
-coordinates: [[Jaun Jelgava]]
-markerFile: [[Jaun Jelgava]]
+coordinates: [[Jaun_Jelgava]]
+markerFile: [[Jaun_Jelgava]]
 defaultZoom: 11 
 maxZoom: 18
 ```

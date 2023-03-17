@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Castellon de la Plana
-coordinates: [[Castellon de la Plana]]
-markerFile: [[Castellon de la Plana]]
+coordinates: [[Castellon_de_la_Plana]]
+markerFile: [[Castellon_de_la_Plana]]
 defaultZoom: 11 
 maxZoom: 18
 ```

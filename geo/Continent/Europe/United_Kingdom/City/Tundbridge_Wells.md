@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Tundbridge Wells
-coordinates: [[Tundbridge Wells]]
-markerFile: [[Tundbridge Wells]]
+coordinates: [[Tundbridge_Wells]]
+markerFile: [[Tundbridge_Wells]]
 defaultZoom: 11 
 maxZoom: 18
 ```

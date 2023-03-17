@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: San Angelo
-coordinates: [[San Angelo]]
-markerFile: [[San Angelo]]
+coordinates: [[San_Angelo]]
+markerFile: [[San_Angelo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

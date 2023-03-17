@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.73,12.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Neustadt an der Waldnaab
-coordinates: [[Neustadt an der Waldnaab]]
-markerFile: [[Neustadt an der Waldnaab]]
+coordinates: [[Neustadt~Waldnaab]]
+markerFile: [[Neustadt~Waldnaab]]
 defaultZoom: 11 
 maxZoom: 18
 ```

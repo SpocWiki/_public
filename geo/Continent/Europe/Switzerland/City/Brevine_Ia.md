@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Brevine Ia
-coordinates: [[Brevine Ia]]
-markerFile: [[Brevine Ia]]
+coordinates: [[Brevine_Ia]]
+markerFile: [[Brevine_Ia]]
 defaultZoom: 11 
 maxZoom: 18
 ```

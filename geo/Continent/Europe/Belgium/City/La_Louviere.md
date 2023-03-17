@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: La Louviere
-coordinates: [[La Louviere]]
-markerFile: [[La Louviere]]
+coordinates: [[La_Louviere]]
+markerFile: [[La_Louviere]]
 defaultZoom: 11 
 maxZoom: 18
 ```

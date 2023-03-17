@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Caslae Monferrato
-coordinates: [[Caslae Monferrato]]
-markerFile: [[Caslae Monferrato]]
+coordinates: [[Caslae_Monferrato]]
+markerFile: [[Caslae_Monferrato]]
 defaultZoom: 11 
 maxZoom: 18
 ```

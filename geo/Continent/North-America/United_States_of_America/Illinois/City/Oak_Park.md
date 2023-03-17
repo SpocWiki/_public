@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Oak Park
-coordinates: [[Oak Park]]
-markerFile: [[Oak Park]]
+coordinates: [[Oak_Park]]
+markerFile: [[Oak_Park]]
 defaultZoom: 11 
 maxZoom: 18
 ```

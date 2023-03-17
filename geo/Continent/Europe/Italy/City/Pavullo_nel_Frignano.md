@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Pavullo nel Frignano
-coordinates: [[Pavullo nel Frignano]]
-markerFile: [[Pavullo nel Frignano]]
+coordinates: [[Pavullo_nel_Frignano]]
+markerFile: [[Pavullo_nel_Frignano]]
 defaultZoom: 11 
 maxZoom: 18
 ```

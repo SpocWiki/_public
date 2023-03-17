@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Novi Pazar
-coordinates: [[Novi Pazar]]
-markerFile: [[Novi Pazar]]
+coordinates: [[Novi_Pazar]]
+markerFile: [[Novi_Pazar]]
 defaultZoom: 11 
 maxZoom: 18
 ```

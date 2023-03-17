@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Brembate di Sotto
-coordinates: [[Brembate di Sotto]]
-markerFile: [[Brembate di Sotto]]
+coordinates: [[Brembate_di_Sotto]]
+markerFile: [[Brembate_di_Sotto]]
 defaultZoom: 11 
 maxZoom: 18
 ```

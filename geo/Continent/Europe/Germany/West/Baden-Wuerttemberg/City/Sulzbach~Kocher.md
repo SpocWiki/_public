@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.97,9.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Sulzbach am Kocher
-coordinates: [[Sulzbach am Kocher]]
-markerFile: [[Sulzbach am Kocher]]
+coordinates: [[Sulzbach~Kocher]]
+markerFile: [[Sulzbach~Kocher]]
 defaultZoom: 11 
 maxZoom: 18
 ```

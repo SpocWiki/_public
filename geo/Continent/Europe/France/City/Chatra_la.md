@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Chatra la
-coordinates: [[Chatra la]]
-markerFile: [[Chatra la]]
+coordinates: [[Chatra_la]]
+markerFile: [[Chatra_la]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: New Romney
-coordinates: [[New Romney]]
-markerFile: [[New Romney]]
+coordinates: [[New_Romney]]
+markerFile: [[New_Romney]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Neuenburg bei Pforzheim
-coordinates: [[Neuenburg bei Pforzheim]]
-markerFile: [[Neuenburg bei Pforzheim]]
+coordinates: [[Neuenburg_bei_Pforzheim]]
+markerFile: [[Neuenburg_bei_Pforzheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

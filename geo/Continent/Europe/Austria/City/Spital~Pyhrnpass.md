@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.67,14.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Spital am Pyhrnpass
-coordinates: [[Spital am Pyhrnpass]]
-markerFile: [[Spital am Pyhrnpass]]
+coordinates: [[Spital~Pyhrnpass]]
+markerFile: [[Spital~Pyhrnpass]]
 defaultZoom: 11 
 maxZoom: 18
 ```

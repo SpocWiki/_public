@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Varano Borghi
-coordinates: [[Varano Borghi]]
-markerFile: [[Varano Borghi]]
+coordinates: [[Varano_Borghi]]
+markerFile: [[Varano_Borghi]]
 defaultZoom: 11 
 maxZoom: 18
 ```

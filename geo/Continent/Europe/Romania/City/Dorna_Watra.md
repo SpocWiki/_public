@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Dorna Watra
-coordinates: [[Dorna Watra]]
-markerFile: [[Dorna Watra]]
+coordinates: [[Dorna_Watra]]
+markerFile: [[Dorna_Watra]]
 defaultZoom: 11 
 maxZoom: 18
 ```

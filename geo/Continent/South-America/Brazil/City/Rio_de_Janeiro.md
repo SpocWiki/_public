@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Rio de Janeiro
-coordinates: [[Rio de Janeiro]]
-markerFile: [[Rio de Janeiro]]
+coordinates: [[Rio_de_Janeiro]]
+markerFile: [[Rio_de_Janeiro]]
 defaultZoom: 11 
 maxZoom: 18
 ```

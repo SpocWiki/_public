@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Novi Sad
-coordinates: [[Novi Sad]]
-markerFile: [[Novi Sad]]
+coordinates: [[Novi_Sad]]
+markerFile: [[Novi_Sad]]
 defaultZoom: 11 
 maxZoom: 18
 ```

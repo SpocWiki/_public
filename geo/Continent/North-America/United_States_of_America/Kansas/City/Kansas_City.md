@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Kansas City
-coordinates: [[Kansas City]]
-markerFile: [[Kansas City]]
+coordinates: [[Kansas_City]]
+markerFile: [[Kansas_City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

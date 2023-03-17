@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Monvalvo Irpinio
-coordinates: [[Monvalvo Irpinio]]
-markerFile: [[Monvalvo Irpinio]]
+coordinates: [[Monvalvo_Irpinio]]
+markerFile: [[Monvalvo_Irpinio]]
 defaultZoom: 11 
 maxZoom: 18
 ```

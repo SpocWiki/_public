@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: St.Jean d`Angely
-coordinates: [[St.Jean d`Angely]]
-markerFile: [[St.Jean d`Angely]]
+coordinates: [[St.Jean_d`Angely]]
+markerFile: [[St.Jean_d`Angely]]
 defaultZoom: 11 
 maxZoom: 18
 ```

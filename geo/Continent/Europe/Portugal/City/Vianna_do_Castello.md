@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Vianna do Castello
-coordinates: [[Vianna do Castello]]
-markerFile: [[Vianna do Castello]]
+coordinates: [[Vianna_do_Castello]]
+markerFile: [[Vianna_do_Castello]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Syklyvkar=List Sysolske
-coordinates: [[Syklyvkar=List Sysolske]]
-markerFile: [[Syklyvkar=List Sysolske]]
+coordinates: [[Syklyvkar=List_Sysolske]]
+markerFile: [[Syklyvkar=List_Sysolske]]
 defaultZoom: 11 
 maxZoom: 18
 ```

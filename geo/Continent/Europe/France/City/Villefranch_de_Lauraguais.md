@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Villefranch de Lauraguais
-coordinates: [[Villefranch de Lauraguais]]
-markerFile: [[Villefranch de Lauraguais]]
+coordinates: [[Villefranch_de_Lauraguais]]
+markerFile: [[Villefranch_de_Lauraguais]]
 defaultZoom: 11 
 maxZoom: 18
 ```

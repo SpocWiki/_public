@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Neustadt im Schwarzwald
-coordinates: [[Neustadt im Schwarzwald]]
-markerFile: [[Neustadt im Schwarzwald]]
+coordinates: [[Neustadt_im_Schwarzwald]]
+markerFile: [[Neustadt_im_Schwarzwald]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Helder=Den Helder
-coordinates: [[Helder=Den Helder]]
-markerFile: [[Helder=Den Helder]]
+coordinates: [[Helder=Den_Helder]]
+markerFile: [[Helder=Den_Helder]]
 defaultZoom: 11 
 maxZoom: 18
 ```

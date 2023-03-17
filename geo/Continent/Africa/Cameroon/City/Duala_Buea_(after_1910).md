@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Duala Buea (after 1910)
-coordinates: [[Duala Buea (after 1910)]]
-markerFile: [[Duala Buea (after 1910)]]
+coordinates: [[Duala_Buea_(after_1910)]]
+markerFile: [[Duala_Buea_(after_1910)]]
 defaultZoom: 11 
 maxZoom: 18
 ```

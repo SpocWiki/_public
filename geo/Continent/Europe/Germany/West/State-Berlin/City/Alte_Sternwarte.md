@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Alte Sternwarte
-coordinates: [[Alte Sternwarte]]
-markerFile: [[Alte Sternwarte]]
+coordinates: [[Alte_Sternwarte]]
+markerFile: [[Alte_Sternwarte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

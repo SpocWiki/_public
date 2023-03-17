@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.02,10.03]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Rot an der Rot
-coordinates: [[Rot an der Rot]]
-markerFile: [[Rot an der Rot]]
+coordinates: [[Rot~Rot]]
+markerFile: [[Rot~Rot]]
 defaultZoom: 11 
 maxZoom: 18
 ```

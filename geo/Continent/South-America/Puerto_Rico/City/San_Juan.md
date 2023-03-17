@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Juan
-coordinates: [[San Juan]]
-markerFile: [[San Juan]]
+coordinates: [[San_Juan]]
+markerFile: [[San_Juan]]
 defaultZoom: 11 
 maxZoom: 18
 ```

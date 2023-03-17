@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Penns Grove
-coordinates: [[Penns Grove]]
-markerFile: [[Penns Grove]]
+coordinates: [[Penns_Grove]]
+markerFile: [[Penns_Grove]]
 defaultZoom: 11 
 maxZoom: 18
 ```

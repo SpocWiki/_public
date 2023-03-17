@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Sables d`Olonne
-coordinates: [[Sables d`Olonne]]
-markerFile: [[Sables d`Olonne]]
+coordinates: [[Sables_d`Olonne]]
+markerFile: [[Sables_d`Olonne]]
 defaultZoom: 11 
 maxZoom: 18
 ```

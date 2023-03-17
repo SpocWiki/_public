@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Newcastle upon Tyne
-coordinates: [[Newcastle upon Tyne]]
-markerFile: [[Newcastle upon Tyne]]
+coordinates: [[Newcastle_upon_Tyne]]
+markerFile: [[Newcastle_upon_Tyne]]
 defaultZoom: 11 
 maxZoom: 18
 ```

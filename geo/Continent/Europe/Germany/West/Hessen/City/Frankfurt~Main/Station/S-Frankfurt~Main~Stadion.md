@@ -1,17 +1,17 @@
 ---
-location: [50.09945,8.686111]
+location: [50.06805,8.633056]
 type: Station
 tags:
 - geo/Station
 
 ---
-SpocWebEntityId: 156425
+SpocWebEntityId: 156453
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.686111]
-[geo-lat::50.09945]
-[name::Frankfurt am Main Süd]
+[geo-lon::8.633056]
+[geo-lat::50.06805]
+[name::S-Bahn, Frankfurt am Main, Stadion]
 [Country::[[Germany]]]
 [City:[[Frankfurt(Main)]] ]
 

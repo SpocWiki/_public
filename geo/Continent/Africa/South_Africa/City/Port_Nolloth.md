@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Port Nolloth
-coordinates: [[Port Nolloth]]
-markerFile: [[Port Nolloth]]
+coordinates: [[Port_Nolloth]]
+markerFile: [[Port_Nolloth]]
 defaultZoom: 11 
 maxZoom: 18
 ```

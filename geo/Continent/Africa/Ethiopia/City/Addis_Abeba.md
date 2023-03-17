@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Addis Abeba
-coordinates: [[Addis Abeba]]
-markerFile: [[Addis Abeba]]
+coordinates: [[Addis_Abeba]]
+markerFile: [[Addis_Abeba]]
 defaultZoom: 11 
 maxZoom: 18
 ```

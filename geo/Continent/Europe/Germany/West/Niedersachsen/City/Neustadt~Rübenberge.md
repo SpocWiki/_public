@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.52,9.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -14,7 +14,7 @@ confidential: public
 ---
 [geo-lon::9.47]
 [geo-lat::52.52]
-[name::Neustadt am Ruebenberge]
+[name::Neustadt am Rübenberge]
 [Country::[[Germany]]]
 [State :: [[../../Niedersachsen]] ]
 [Population::]
@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Neustadt am Ruebenberge
-coordinates: [[Neustadt am Ruebenberge]]
-markerFile: [[Neustadt am Ruebenberge]]
+coordinates: [[Neustadt~Rübenberge]]
+markerFile: [[Neustadt~Rübenberge]]
 defaultZoom: 11 
 maxZoom: 18
 ```

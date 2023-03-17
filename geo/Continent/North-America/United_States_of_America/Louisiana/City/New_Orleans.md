@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: New Orleans
-coordinates: [[New Orleans]]
-markerFile: [[New Orleans]]
+coordinates: [[New_Orleans]]
+markerFile: [[New_Orleans]]
 defaultZoom: 11 
 maxZoom: 18
 ```

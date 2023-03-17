@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Felice sul Panard
-coordinates: [[San Felice sul Panard]]
-markerFile: [[San Felice sul Panard]]
+coordinates: [[San_Felice_sul_Panard]]
+markerFile: [[San_Felice_sul_Panard]]
 defaultZoom: 11 
 maxZoom: 18
 ```

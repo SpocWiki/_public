@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: St. George’s
-coordinates: [[St. George’s]]
-markerFile: [[St. George’s]]
+coordinates: [[St._George’s]]
+markerFile: [[St._George’s]]
 defaultZoom: 11 
 maxZoom: 18
 ```

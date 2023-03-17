@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: De Cocksdorp
-coordinates: [[De Cocksdorp]]
-markerFile: [[De Cocksdorp]]
+coordinates: [[De_Cocksdorp]]
+markerFile: [[De_Cocksdorp]]
 defaultZoom: 11 
 maxZoom: 18
 ```

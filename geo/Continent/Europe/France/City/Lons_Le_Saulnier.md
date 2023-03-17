@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Lons Le Saulnier
-coordinates: [[Lons Le Saulnier]]
-markerFile: [[Lons Le Saulnier]]
+coordinates: [[Lons_Le_Saulnier]]
+markerFile: [[Lons_Le_Saulnier]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Caldas da Reinha
-coordinates: [[Caldas da Reinha]]
-markerFile: [[Caldas da Reinha]]
+coordinates: [[Caldas_da_Reinha]]
+markerFile: [[Caldas_da_Reinha]]
 defaultZoom: 11 
 maxZoom: 18
 ```

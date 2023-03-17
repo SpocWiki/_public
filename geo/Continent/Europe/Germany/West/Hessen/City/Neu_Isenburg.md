@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Neu Isenburg
-coordinates: [[Neu Isenburg]]
-markerFile: [[Neu Isenburg]]
+coordinates: [[Neu_Isenburg]]
+markerFile: [[Neu_Isenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

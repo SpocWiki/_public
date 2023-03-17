@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Villa de Condé
-coordinates: [[Villa de Condé]]
-markerFile: [[Villa de Condé]]
+coordinates: [[Villa_de_Condé]]
+markerFile: [[Villa_de_Condé]]
 defaultZoom: 11 
 maxZoom: 18
 ```

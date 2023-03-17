@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Baume les Dames
-coordinates: [[Baume les Dames]]
-markerFile: [[Baume les Dames]]
+coordinates: [[Baume_les_Dames]]
+markerFile: [[Baume_les_Dames]]
 defaultZoom: 11 
 maxZoom: 18
 ```

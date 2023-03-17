@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Salvador
-coordinates: [[San Salvador]]
-markerFile: [[San Salvador]]
+coordinates: [[San_Salvador]]
+markerFile: [[San_Salvador]]
 defaultZoom: 11 
 maxZoom: 18
 ```

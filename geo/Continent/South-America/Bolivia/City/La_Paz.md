@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: La Paz
-coordinates: [[La Paz]]
-markerFile: [[La Paz]]
+coordinates: [[La_Paz]]
+markerFile: [[La_Paz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

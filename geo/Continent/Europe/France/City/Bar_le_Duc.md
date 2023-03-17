@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bar le Duc
-coordinates: [[Bar le Duc]]
-markerFile: [[Bar le Duc]]
+coordinates: [[Bar_le_Duc]]
+markerFile: [[Bar_le_Duc]]
 defaultZoom: 11 
 maxZoom: 18
 ```

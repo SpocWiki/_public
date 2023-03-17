@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Pamirski Post
-coordinates: [[Pamirski Post]]
-markerFile: [[Pamirski Post]]
+coordinates: [[Pamirski_Post]]
+markerFile: [[Pamirski_Post]]
 defaultZoom: 11 
 maxZoom: 18
 ```

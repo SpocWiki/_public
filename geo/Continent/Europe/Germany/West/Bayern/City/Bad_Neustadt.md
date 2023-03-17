@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Neustadt
-coordinates: [[Bad Neustadt]]
-markerFile: [[Bad Neustadt]]
+coordinates: [[Bad_Neustadt]]
+markerFile: [[Bad_Neustadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

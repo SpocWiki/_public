@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Reggio Emilia
-coordinates: [[Reggio Emilia]]
-markerFile: [[Reggio Emilia]]
+coordinates: [[Reggio_Emilia]]
+markerFile: [[Reggio_Emilia]]
 defaultZoom: 11 
 maxZoom: 18
 ```

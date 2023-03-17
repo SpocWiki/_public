@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bek Budi
-coordinates: [[Bek Budi]]
-markerFile: [[Bek Budi]]
+coordinates: [[Bek_Budi]]
+markerFile: [[Bek_Budi]]
 defaultZoom: 11 
 maxZoom: 18
 ```

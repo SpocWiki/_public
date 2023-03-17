@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Port Talbot
-coordinates: [[Port Talbot]]
-markerFile: [[Port Talbot]]
+coordinates: [[Port_Talbot]]
+markerFile: [[Port_Talbot]]
 defaultZoom: 11 
 maxZoom: 18
 ```

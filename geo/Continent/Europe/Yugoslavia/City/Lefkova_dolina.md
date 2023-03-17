@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Lefkova dolina
-coordinates: [[Lefkova dolina]]
-markerFile: [[Lefkova dolina]]
+coordinates: [[Lefkova_dolina]]
+markerFile: [[Lefkova_dolina]]
 defaultZoom: 11 
 maxZoom: 18
 ```

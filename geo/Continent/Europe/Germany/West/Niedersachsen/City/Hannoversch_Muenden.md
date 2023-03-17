@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Hannoversch Muenden
-coordinates: [[Hannoversch Muenden]]
-markerFile: [[Hannoversch Muenden]]
+coordinates: [[Hannoversch_Muenden]]
+markerFile: [[Hannoversch_Muenden]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Port Louis
-coordinates: [[Port Louis]]
-markerFile: [[Port Louis]]
+coordinates: [[Port_Louis]]
+markerFile: [[Port_Louis]]
 defaultZoom: 11 
 maxZoom: 18
 ```

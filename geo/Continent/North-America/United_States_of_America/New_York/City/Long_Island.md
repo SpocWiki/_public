@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Long Island
-coordinates: [[Long Island]]
-markerFile: [[Long Island]]
+coordinates: [[Long_Island]]
+markerFile: [[Long_Island]]
 defaultZoom: 11 
 maxZoom: 18
 ```

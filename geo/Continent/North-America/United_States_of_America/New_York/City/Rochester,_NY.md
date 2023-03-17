@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Rochester, NY
-coordinates: [[Rochester, NY]]
-markerFile: [[Rochester, NY]]
+coordinates: [[Rochester,_NY]]
+markerFile: [[Rochester,_NY]]
 defaultZoom: 11 
 maxZoom: 18
 ```

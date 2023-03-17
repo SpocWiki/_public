@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Monte Generoso
-coordinates: [[Monte Generoso]]
-markerFile: [[Monte Generoso]]
+coordinates: [[Monte_Generoso]]
+markerFile: [[Monte_Generoso]]
 defaultZoom: 11 
 maxZoom: 18
 ```

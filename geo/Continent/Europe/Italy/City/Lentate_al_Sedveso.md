@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Lentate al Sedveso
-coordinates: [[Lentate al Sedveso]]
-markerFile: [[Lentate al Sedveso]]
+coordinates: [[Lentate_al_Sedveso]]
+markerFile: [[Lentate_al_Sedveso]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Merhyr Tydfil
-coordinates: [[Merhyr Tydfil]]
-markerFile: [[Merhyr Tydfil]]
+coordinates: [[Merhyr_Tydfil]]
+markerFile: [[Merhyr_Tydfil]]
 defaultZoom: 11 
 maxZoom: 18
 ```

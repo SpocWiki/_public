@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Vila Real
-coordinates: [[Vila Real]]
-markerFile: [[Vila Real]]
+coordinates: [[Vila_Real]]
+markerFile: [[Vila_Real]]
 defaultZoom: 11 
 maxZoom: 18
 ```

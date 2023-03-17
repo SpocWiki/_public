@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Kirchhain am Eck
-coordinates: [[Kirchhain am Eck]]
-markerFile: [[Kirchhain am Eck]]
+coordinates: [[Kirchhain_am_Eck]]
+markerFile: [[Kirchhain_am_Eck]]
 defaultZoom: 11 
 maxZoom: 18
 ```

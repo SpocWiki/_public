@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Sankt Moritz
-coordinates: [[Sankt Moritz]]
-markerFile: [[Sankt Moritz]]
+coordinates: [[Sankt_Moritz]]
+markerFile: [[Sankt_Moritz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

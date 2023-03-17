@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Ulan Bator
-coordinates: [[Ulan Bator]]
-markerFile: [[Ulan Bator]]
+coordinates: [[Ulan_Bator]]
+markerFile: [[Ulan_Bator]]
 defaultZoom: 11 
 maxZoom: 18
 ```

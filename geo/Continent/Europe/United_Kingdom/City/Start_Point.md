@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Start Point
-coordinates: [[Start Point]]
-markerFile: [[Start Point]]
+coordinates: [[Start_Point]]
+markerFile: [[Start_Point]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Nazzario
-coordinates: [[San Nazzario]]
-markerFile: [[San Nazzario]]
+coordinates: [[San_Nazzario]]
+markerFile: [[San_Nazzario]]
 defaultZoom: 11 
 maxZoom: 18
 ```

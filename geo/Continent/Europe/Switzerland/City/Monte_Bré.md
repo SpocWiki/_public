@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Monte Bré
-coordinates: [[Monte Bré]]
-markerFile: [[Monte Bré]]
+coordinates: [[Monte_Bré]]
+markerFile: [[Monte_Bré]]
 defaultZoom: 11 
 maxZoom: 18
 ```

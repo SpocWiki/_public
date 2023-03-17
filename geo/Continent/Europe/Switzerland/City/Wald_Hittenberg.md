@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Wald Hittenberg
-coordinates: [[Wald Hittenberg]]
-markerFile: [[Wald Hittenberg]]
+coordinates: [[Wald_Hittenberg]]
+markerFile: [[Wald_Hittenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

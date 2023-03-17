@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Flying Fish Cove
-coordinates: [[Flying Fish Cove]]
-markerFile: [[Flying Fish Cove]]
+coordinates: [[Flying_Fish_Cove]]
+markerFile: [[Flying_Fish_Cove]]
 defaultZoom: 11 
 maxZoom: 18
 ```

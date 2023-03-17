@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Tel Aviv
-coordinates: [[Tel Aviv]]
-markerFile: [[Tel Aviv]]
+coordinates: [[Tel_Aviv]]
+markerFile: [[Tel_Aviv]]
 defaultZoom: 11 
 maxZoom: 18
 ```

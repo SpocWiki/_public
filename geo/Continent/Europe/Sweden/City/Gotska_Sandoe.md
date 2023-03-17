@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Gotska Sandoe
-coordinates: [[Gotska Sandoe]]
-markerFile: [[Gotska Sandoe]]
+coordinates: [[Gotska_Sandoe]]
+markerFile: [[Gotska_Sandoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

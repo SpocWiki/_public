@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Newport~Insel Wright
-coordinates: [[Newport~Insel Wright]]
-markerFile: [[Newport~Insel Wright]]
+coordinates: [[Newport~Insel_Wright]]
+markerFile: [[Newport~Insel_Wright]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Nizhny Novgorod
-coordinates: [[Nizhny Novgorod]]
-markerFile: [[Nizhny Novgorod]]
+coordinates: [[Nizhny_Novgorod]]
+markerFile: [[Nizhny_Novgorod]]
 defaultZoom: 11 
 maxZoom: 18
 ```

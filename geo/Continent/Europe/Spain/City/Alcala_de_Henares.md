@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Alcala de Henares
-coordinates: [[Alcala de Henares]]
-markerFile: [[Alcala de Henares]]
+coordinates: [[Alcala_de_Henares]]
+markerFile: [[Alcala_de_Henares]]
 defaultZoom: 11 
 maxZoom: 18
 ```

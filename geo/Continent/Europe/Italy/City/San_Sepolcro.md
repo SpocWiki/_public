@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Sepolcro
-coordinates: [[San Sepolcro]]
-markerFile: [[San Sepolcro]]
+coordinates: [[San_Sepolcro]]
+markerFile: [[San_Sepolcro]]
 defaultZoom: 11 
 maxZoom: 18
 ```

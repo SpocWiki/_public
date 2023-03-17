@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Piano di Sorento
-coordinates: [[Piano di Sorento]]
-markerFile: [[Piano di Sorento]]
+coordinates: [[Piano_di_Sorento]]
+markerFile: [[Piano_di_Sorento]]
 defaultZoom: 11 
 maxZoom: 18
 ```

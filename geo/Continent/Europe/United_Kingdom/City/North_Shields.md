@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: North Shields
-coordinates: [[North Shields]]
-markerFile: [[North Shields]]
+coordinates: [[North_Shields]]
+markerFile: [[North_Shields]]
 defaultZoom: 11 
 maxZoom: 18
 ```

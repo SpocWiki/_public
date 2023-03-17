@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Castel Sarrasin
-coordinates: [[Castel Sarrasin]]
-markerFile: [[Castel Sarrasin]]
+coordinates: [[Castel_Sarrasin]]
+markerFile: [[Castel_Sarrasin]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: La Coruna
-coordinates: [[La Coruna]]
-markerFile: [[La Coruna]]
+coordinates: [[La_Coruna]]
+markerFile: [[La_Coruna]]
 defaultZoom: 11 
 maxZoom: 18
 ```

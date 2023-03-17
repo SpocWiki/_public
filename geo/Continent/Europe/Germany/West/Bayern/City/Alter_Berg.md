@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Alter Berg
-coordinates: [[Alter Berg]]
-markerFile: [[Alter Berg]]
+coordinates: [[Alter_Berg]]
+markerFile: [[Alter_Berg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

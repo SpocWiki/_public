@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Werchne Udinsk=Ulan Lid
-coordinates: [[Werchne Udinsk=Ulan Lid]]
-markerFile: [[Werchne Udinsk=Ulan Lid]]
+coordinates: [[Werchne_Udinsk=Ulan_Lid]]
+markerFile: [[Werchne_Udinsk=Ulan_Lid]]
 defaultZoom: 11 
 maxZoom: 18
 ```

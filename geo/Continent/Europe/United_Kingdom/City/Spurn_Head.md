@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Spurn Head
-coordinates: [[Spurn Head]]
-markerFile: [[Spurn Head]]
+coordinates: [[Spurn_Head]]
+markerFile: [[Spurn_Head]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Boulogne sur mer
-coordinates: [[Boulogne sur mer]]
-markerFile: [[Boulogne sur mer]]
+coordinates: [[Boulogne_sur_mer]]
+markerFile: [[Boulogne_sur_mer]]
 defaultZoom: 11 
 maxZoom: 18
 ```

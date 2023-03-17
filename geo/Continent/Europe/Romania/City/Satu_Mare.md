@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Satu Mare
-coordinates: [[Satu Mare]]
-markerFile: [[Satu Mare]]
+coordinates: [[Satu_Mare]]
+markerFile: [[Satu_Mare]]
 defaultZoom: 11 
 maxZoom: 18
 ```

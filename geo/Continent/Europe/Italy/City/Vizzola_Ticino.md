@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Vizzola Ticino
-coordinates: [[Vizzola Ticino]]
-markerFile: [[Vizzola Ticino]]
+coordinates: [[Vizzola_Ticino]]
+markerFile: [[Vizzola_Ticino]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: South Shieldd
-coordinates: [[South Shieldd]]
-markerFile: [[South Shieldd]]
+coordinates: [[South_Shieldd]]
+markerFile: [[South_Shieldd]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Mexico City
-coordinates: [[Mexico City]]
-markerFile: [[Mexico City]]
+coordinates: [[Mexico_City]]
+markerFile: [[Mexico_City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

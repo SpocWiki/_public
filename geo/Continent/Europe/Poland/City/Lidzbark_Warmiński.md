@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Lidzbark Warmiński
-coordinates: [[Lidzbark Warmiński]]
-markerFile: [[Lidzbark Warmiński]]
+coordinates: [[Lidzbark_Warmiński]]
+markerFile: [[Lidzbark_Warmiński]]
 defaultZoom: 11 
 maxZoom: 18
 ```

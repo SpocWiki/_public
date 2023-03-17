@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Port Vila
-coordinates: [[Port Vila]]
-markerFile: [[Port Vila]]
+coordinates: [[Port_Vila]]
+markerFile: [[Port_Vila]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Vaprio d'Adda
-coordinates: [[Vaprio d'Adda]]
-markerFile: [[Vaprio d'Adda]]
+coordinates: [[Vaprio_d'Adda]]
+markerFile: [[Vaprio_d'Adda]]
 defaultZoom: 11 
 maxZoom: 18
 ```

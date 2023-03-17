@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: West Bromwich
-coordinates: [[West Bromwich]]
-markerFile: [[West Bromwich]]
+coordinates: [[West_Bromwich]]
+markerFile: [[West_Bromwich]]
 defaultZoom: 11 
 maxZoom: 18
 ```

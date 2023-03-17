@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: San Francisco
-coordinates: [[San Francisco]]
-markerFile: [[San Francisco]]
+coordinates: [[San_Francisco]]
+markerFile: [[San_Francisco]]
 defaultZoom: 11 
 maxZoom: 18
 ```

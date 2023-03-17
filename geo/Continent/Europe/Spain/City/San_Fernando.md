@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Fernando
-coordinates: [[San Fernando]]
-markerFile: [[San Fernando]]
+coordinates: [[San_Fernando]]
+markerFile: [[San_Fernando]]
 defaultZoom: 11 
 maxZoom: 18
 ```

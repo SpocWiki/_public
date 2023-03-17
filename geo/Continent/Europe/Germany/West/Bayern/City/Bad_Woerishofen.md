@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Woerishofen
-coordinates: [[Bad Woerishofen]]
-markerFile: [[Bad Woerishofen]]
+coordinates: [[Bad_Woerishofen]]
+markerFile: [[Bad_Woerishofen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

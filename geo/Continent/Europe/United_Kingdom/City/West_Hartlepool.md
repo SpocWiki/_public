@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: West Hartlepool
-coordinates: [[West Hartlepool]]
-markerFile: [[West Hartlepool]]
+coordinates: [[West_Hartlepool]]
+markerFile: [[West_Hartlepool]]
 defaultZoom: 11 
 maxZoom: 18
 ```

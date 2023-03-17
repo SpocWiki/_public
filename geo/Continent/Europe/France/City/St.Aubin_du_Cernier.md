@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: St.Aubin du Cernier
-coordinates: [[St.Aubin du Cernier]]
-markerFile: [[St.Aubin du Cernier]]
+coordinates: [[St.Aubin_du_Cernier]]
+markerFile: [[St.Aubin_du_Cernier]]
 defaultZoom: 11 
 maxZoom: 18
 ```

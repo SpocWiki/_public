@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Santa Barbara
-coordinates: [[Santa Barbara]]
-markerFile: [[Santa Barbara]]
+coordinates: [[Santa_Barbara]]
+markerFile: [[Santa_Barbara]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Gorla Minore
-coordinates: [[Gorla Minore]]
-markerFile: [[Gorla Minore]]
+coordinates: [[Gorla_Minore]]
+markerFile: [[Gorla_Minore]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Aibling
-coordinates: [[Bad Aibling]]
-markerFile: [[Bad Aibling]]
+coordinates: [[Bad_Aibling]]
+markerFile: [[Bad_Aibling]]
 defaultZoom: 11 
 maxZoom: 18
 ```

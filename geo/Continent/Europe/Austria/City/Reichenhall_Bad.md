@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Reichenhall Bad
-coordinates: [[Reichenhall Bad]]
-markerFile: [[Reichenhall Bad]]
+coordinates: [[Reichenhall_Bad]]
+markerFile: [[Reichenhall_Bad]]
 defaultZoom: 11 
 maxZoom: 18
 ```

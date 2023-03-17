@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Boehmisch Leipa
-coordinates: [[Boehmisch Leipa]]
-markerFile: [[Boehmisch Leipa]]
+coordinates: [[Boehmisch_Leipa]]
+markerFile: [[Boehmisch_Leipa]]
 defaultZoom: 11 
 maxZoom: 18
 ```

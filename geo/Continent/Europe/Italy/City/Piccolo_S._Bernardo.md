@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Piccolo S. Bernardo
-coordinates: [[Piccolo S. Bernardo]]
-markerFile: [[Piccolo S. Bernardo]]
+coordinates: [[Piccolo_S._Bernardo]]
+markerFile: [[Piccolo_S._Bernardo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

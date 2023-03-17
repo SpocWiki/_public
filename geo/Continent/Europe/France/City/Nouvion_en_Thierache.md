@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Nouvion en Thierache
-coordinates: [[Nouvion en Thierache]]
-markerFile: [[Nouvion en Thierache]]
+coordinates: [[Nouvion_en_Thierache]]
+markerFile: [[Nouvion_en_Thierache]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Cologna Veneta
-coordinates: [[Cologna Veneta]]
-markerFile: [[Cologna Veneta]]
+coordinates: [[Cologna_Veneta]]
+markerFile: [[Cologna_Veneta]]
 defaultZoom: 11 
 maxZoom: 18
 ```

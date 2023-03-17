@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Neuilly Sur Seine
-coordinates: [[Neuilly Sur Seine]]
-markerFile: [[Neuilly Sur Seine]]
+coordinates: [[Neuilly_Sur_Seine]]
+markerFile: [[Neuilly_Sur_Seine]]
 defaultZoom: 11 
 maxZoom: 18
 ```

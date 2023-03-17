@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Santa Fe
-coordinates: [[Santa Fe]]
-markerFile: [[Santa Fe]]
+coordinates: [[Santa_Fe]]
+markerFile: [[Santa_Fe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

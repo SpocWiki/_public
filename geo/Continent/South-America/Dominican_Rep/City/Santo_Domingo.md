@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Santo Domingo
-coordinates: [[Santo Domingo]]
-markerFile: [[Santo Domingo]]
+coordinates: [[Santo_Domingo]]
+markerFile: [[Santo_Domingo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

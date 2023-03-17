@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: East Ham
-coordinates: [[East Ham]]
-markerFile: [[East Ham]]
+coordinates: [[East_Ham]]
+markerFile: [[East_Ham]]
 defaultZoom: 11 
 maxZoom: 18
 ```

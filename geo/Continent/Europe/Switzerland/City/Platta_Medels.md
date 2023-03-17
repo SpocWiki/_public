@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Platta Medels
-coordinates: [[Platta Medels]]
-markerFile: [[Platta Medels]]
+coordinates: [[Platta_Medels]]
+markerFile: [[Platta_Medels]]
 defaultZoom: 11 
 maxZoom: 18
 ```

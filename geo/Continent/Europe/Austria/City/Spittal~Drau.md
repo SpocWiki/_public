@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8,13.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::46.8]
 [name::Spittal an der Drau]
 [State::]
-[Country::[[Austria]]]
+[Country:: [[Austria]]]
 [StateId::]
 [Population::]
 [Unknown::]
@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Spittal an der Drau
-coordinates: [[Spittal an der Drau]]
-markerFile: [[Spittal an der Drau]]
+coordinates: [[Spittal~Drau]]
+markerFile: [[Spittal~Drau]]
 defaultZoom: 11 
 maxZoom: 18
 ```

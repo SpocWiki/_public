@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Phnom Penh
-coordinates: [[Phnom Penh]]
-markerFile: [[Phnom Penh]]
+coordinates: [[Phnom_Penh]]
+markerFile: [[Phnom_Penh]]
 defaultZoom: 11 
 maxZoom: 18
 ```

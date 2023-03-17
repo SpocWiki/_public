@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Turc Sv. Martin
-coordinates: [[Turc Sv. Martin]]
-markerFile: [[Turc Sv. Martin]]
+coordinates: [[Turc_Sv._Martin]]
+markerFile: [[Turc_Sv._Martin]]
 defaultZoom: 11 
 maxZoom: 18
 ```

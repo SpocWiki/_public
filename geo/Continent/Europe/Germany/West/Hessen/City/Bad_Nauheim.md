@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Nauheim
-coordinates: [[Bad Nauheim]]
-markerFile: [[Bad Nauheim]]
+coordinates: [[Bad_Nauheim]]
+markerFile: [[Bad_Nauheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

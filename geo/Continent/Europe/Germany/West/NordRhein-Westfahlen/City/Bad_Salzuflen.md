@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Salzuflen
-coordinates: [[Bad Salzuflen]]
-markerFile: [[Bad Salzuflen]]
+coordinates: [[Bad_Salzuflen]]
+markerFile: [[Bad_Salzuflen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

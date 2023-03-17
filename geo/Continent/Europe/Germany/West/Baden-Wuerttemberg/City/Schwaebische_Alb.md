@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Schwaebische Alb
-coordinates: [[Schwaebische Alb]]
-markerFile: [[Schwaebische Alb]]
+coordinates: [[Schwaebische_Alb]]
+markerFile: [[Schwaebische_Alb]]
 defaultZoom: 11 
 maxZoom: 18
 ```

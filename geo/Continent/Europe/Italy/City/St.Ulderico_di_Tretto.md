@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: St.Ulderico di Tretto
-coordinates: [[St.Ulderico di Tretto]]
-markerFile: [[St.Ulderico di Tretto]]
+coordinates: [[St.Ulderico_di_Tretto]]
+markerFile: [[St.Ulderico_di_Tretto]]
 defaultZoom: 11 
 maxZoom: 18
 ```

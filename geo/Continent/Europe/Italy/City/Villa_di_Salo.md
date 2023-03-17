@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Villa di Salo
-coordinates: [[Villa di Salo]]
-markerFile: [[Villa di Salo]]
+coordinates: [[Villa_di_Salo]]
+markerFile: [[Villa_di_Salo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

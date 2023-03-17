@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: San Diego
-coordinates: [[San Diego]]
-markerFile: [[San Diego]]
+coordinates: [[San_Diego]]
+markerFile: [[San_Diego]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Pieve~Santo Stefano
-coordinates: [[Pieve~Santo Stefano]]
-markerFile: [[Pieve~Santo Stefano]]
+coordinates: [[Pieve~Santo_Stefano]]
+markerFile: [[Pieve~Santo_Stefano]]
 defaultZoom: 11 
 maxZoom: 18
 ```

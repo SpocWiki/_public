@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Kingstown=Dun Laoghaive
-coordinates: [[Kingstown=Dun Laoghaive]]
-markerFile: [[Kingstown=Dun Laoghaive]]
+coordinates: [[Kingstown=Dun_Laoghaive]]
+markerFile: [[Kingstown=Dun_Laoghaive]]
 defaultZoom: 11 
 maxZoom: 18
 ```

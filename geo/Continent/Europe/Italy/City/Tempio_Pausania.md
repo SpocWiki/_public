@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Tempio Pausania
-coordinates: [[Tempio Pausania]]
-markerFile: [[Tempio Pausania]]
+coordinates: [[Tempio_Pausania]]
+markerFile: [[Tempio_Pausania]]
 defaultZoom: 11 
 maxZoom: 18
 ```

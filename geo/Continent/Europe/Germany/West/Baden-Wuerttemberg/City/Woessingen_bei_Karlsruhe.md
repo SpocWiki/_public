@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Woessingen bei Karlsruhe
-coordinates: [[Woessingen bei Karlsruhe]]
-markerFile: [[Woessingen bei Karlsruhe]]
+coordinates: [[Woessingen_bei_Karlsruhe]]
+markerFile: [[Woessingen_bei_Karlsruhe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

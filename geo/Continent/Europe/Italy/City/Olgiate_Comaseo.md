@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Olgiate Comaseo
-coordinates: [[Olgiate Comaseo]]
-markerFile: [[Olgiate Comaseo]]
+coordinates: [[Olgiate_Comaseo]]
+markerFile: [[Olgiate_Comaseo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

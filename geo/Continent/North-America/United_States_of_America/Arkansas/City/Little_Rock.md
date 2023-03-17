@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Little Rock
-coordinates: [[Little Rock]]
-markerFile: [[Little Rock]]
+coordinates: [[Little_Rock]]
+markerFile: [[Little_Rock]]
 defaultZoom: 11 
 maxZoom: 18
 ```

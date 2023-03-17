@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Nizza Monferrato
-coordinates: [[Nizza Monferrato]]
-markerFile: [[Nizza Monferrato]]
+coordinates: [[Nizza_Monferrato]]
+markerFile: [[Nizza_Monferrato]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Kuttenberg=Kutna Hora
-coordinates: [[Kuttenberg=Kutna Hora]]
-markerFile: [[Kuttenberg=Kutna Hora]]
+coordinates: [[Kuttenberg=Kutna_Hora]]
+markerFile: [[Kuttenberg=Kutna_Hora]]
 defaultZoom: 11 
 maxZoom: 18
 ```

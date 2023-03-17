@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Le Havre
-coordinates: [[Le Havre]]
-markerFile: [[Le Havre]]
+coordinates: [[Le_Havre]]
+markerFile: [[Le_Havre]]
 defaultZoom: 11 
 maxZoom: 18
 ```

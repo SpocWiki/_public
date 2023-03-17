@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: St.Bees Head
-coordinates: [[St.Bees Head]]
-markerFile: [[St.Bees Head]]
+coordinates: [[St.Bees_Head]]
+markerFile: [[St.Bees_Head]]
 defaultZoom: 11 
 maxZoom: 18
 ```

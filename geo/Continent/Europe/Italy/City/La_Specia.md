@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: La Specia
-coordinates: [[La Specia]]
-markerFile: [[La Specia]]
+coordinates: [[La_Specia]]
+markerFile: [[La_Specia]]
 defaultZoom: 11 
 maxZoom: 18
 ```

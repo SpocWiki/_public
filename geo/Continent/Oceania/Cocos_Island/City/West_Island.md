@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: West Island
-coordinates: [[West Island]]
-markerFile: [[West Island]]
+coordinates: [[West_Island]]
+markerFile: [[West_Island]]
 defaultZoom: 11 
 maxZoom: 18
 ```

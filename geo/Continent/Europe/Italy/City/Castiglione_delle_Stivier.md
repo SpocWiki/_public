@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Castiglione delle Stivier
-coordinates: [[Castiglione delle Stivier]]
-markerFile: [[Castiglione delle Stivier]]
+coordinates: [[Castiglione_delle_Stivier]]
+markerFile: [[Castiglione_delle_Stivier]]
 defaultZoom: 11 
 maxZoom: 18
 ```

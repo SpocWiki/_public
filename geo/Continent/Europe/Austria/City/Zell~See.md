@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.32,12.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Zell am See
-coordinates: [[Zell am See]]
-markerFile: [[Zell am See]]
+coordinates: [[Zell~See]]
+markerFile: [[Zell~See]]
 defaultZoom: 11 
 maxZoom: 18
 ```

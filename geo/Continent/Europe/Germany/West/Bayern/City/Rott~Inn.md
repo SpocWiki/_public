@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.98,12.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Rott am Inn
-coordinates: [[Rott am Inn]]
-markerFile: [[Rott am Inn]]
+coordinates: [[Rott~Inn]]
+markerFile: [[Rott~Inn]]
 defaultZoom: 11 
 maxZoom: 18
 ```

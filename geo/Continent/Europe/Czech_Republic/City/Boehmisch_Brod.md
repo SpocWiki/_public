@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Boehmisch Brod
-coordinates: [[Boehmisch Brod]]
-markerFile: [[Boehmisch Brod]]
+coordinates: [[Boehmisch_Brod]]
+markerFile: [[Boehmisch_Brod]]
 defaultZoom: 11 
 maxZoom: 18
 ```

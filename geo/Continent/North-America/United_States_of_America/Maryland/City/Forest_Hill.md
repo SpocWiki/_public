@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Forest Hill
-coordinates: [[Forest Hill]]
-markerFile: [[Forest Hill]]
+coordinates: [[Forest_Hill]]
+markerFile: [[Forest_Hill]]
 defaultZoom: 11 
 maxZoom: 18
 ```

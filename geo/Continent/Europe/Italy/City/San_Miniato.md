@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Miniato
-coordinates: [[San Miniato]]
-markerFile: [[San Miniato]]
+coordinates: [[San_Miniato]]
+markerFile: [[San_Miniato]]
 defaultZoom: 11 
 maxZoom: 18
 ```

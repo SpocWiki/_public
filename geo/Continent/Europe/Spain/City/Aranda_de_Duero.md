@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Aranda de Duero
-coordinates: [[Aranda de Duero]]
-markerFile: [[Aranda de Duero]]
+coordinates: [[Aranda_de_Duero]]
+markerFile: [[Aranda_de_Duero]]
 defaultZoom: 11 
 maxZoom: 18
 ```

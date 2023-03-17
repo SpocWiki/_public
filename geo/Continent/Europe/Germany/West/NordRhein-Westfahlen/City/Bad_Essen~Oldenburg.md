@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Essen~Oldenburg
-coordinates: [[Bad Essen~Oldenburg]]
-markerFile: [[Bad Essen~Oldenburg]]
+coordinates: [[Bad_Essen~Oldenburg]]
+markerFile: [[Bad_Essen~Oldenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

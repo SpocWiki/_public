@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Villefranch de Rouergue
-coordinates: [[Villefranch de Rouergue]]
-markerFile: [[Villefranch de Rouergue]]
+coordinates: [[Villefranch_de_Rouergue]]
+markerFile: [[Villefranch_de_Rouergue]]
 defaultZoom: 11 
 maxZoom: 18
 ```

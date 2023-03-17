@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Hradec Kralove
-coordinates: [[Hradec Kralove]]
-markerFile: [[Hradec Kralove]]
+coordinates: [[Hradec_Kralove]]
+markerFile: [[Hradec_Kralove]]
 defaultZoom: 11 
 maxZoom: 18
 ```

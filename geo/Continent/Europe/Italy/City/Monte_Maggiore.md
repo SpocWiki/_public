@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Monte Maggiore
-coordinates: [[Monte Maggiore]]
-markerFile: [[Monte Maggiore]]
+coordinates: [[Monte_Maggiore]]
+markerFile: [[Monte_Maggiore]]
 defaultZoom: 11 
 maxZoom: 18
 ```

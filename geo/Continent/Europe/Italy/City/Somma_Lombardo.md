@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Somma Lombardo
-coordinates: [[Somma Lombardo]]
-markerFile: [[Somma Lombardo]]
+coordinates: [[Somma_Lombardo]]
+markerFile: [[Somma_Lombardo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

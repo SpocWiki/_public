@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Sestri Levante
-coordinates: [[Sestri Levante]]
-markerFile: [[Sestri Levante]]
+coordinates: [[Sestri_Levante]]
+markerFile: [[Sestri_Levante]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Mlada Boleslaw
-coordinates: [[Mlada Boleslaw]]
-markerFile: [[Mlada Boleslaw]]
+coordinates: [[Mlada_Boleslaw]]
+markerFile: [[Mlada_Boleslaw]]
 defaultZoom: 11 
 maxZoom: 18
 ```

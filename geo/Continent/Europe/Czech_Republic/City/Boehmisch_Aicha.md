@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Boehmisch Aicha
-coordinates: [[Boehmisch Aicha]]
-markerFile: [[Boehmisch Aicha]]
+coordinates: [[Boehmisch_Aicha]]
+markerFile: [[Boehmisch_Aicha]]
 defaultZoom: 11 
 maxZoom: 18
 ```

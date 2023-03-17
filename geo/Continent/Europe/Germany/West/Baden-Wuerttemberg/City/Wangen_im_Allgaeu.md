@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Wangen im Allgaeu
-coordinates: [[Wangen im Allgaeu]]
-markerFile: [[Wangen im Allgaeu]]
+coordinates: [[Wangen_im_Allgaeu]]
+markerFile: [[Wangen_im_Allgaeu]]
 defaultZoom: 11 
 maxZoom: 18
 ```

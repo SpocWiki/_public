@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Krivoi Rog
-coordinates: [[Krivoi Rog]]
-markerFile: [[Krivoi Rog]]
+coordinates: [[Krivoi_Rog]]
+markerFile: [[Krivoi_Rog]]
 defaultZoom: 11 
 maxZoom: 18
 ```

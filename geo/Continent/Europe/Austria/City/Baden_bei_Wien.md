@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Baden bei Wien
-coordinates: [[Baden bei Wien]]
-markerFile: [[Baden bei Wien]]
+coordinates: [[Baden_bei_Wien]]
+markerFile: [[Baden_bei_Wien]]
 defaultZoom: 11 
 maxZoom: 18
 ```

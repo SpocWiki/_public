@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Kapstadt=Cape Town
-coordinates: [[Kapstadt=Cape Town]]
-markerFile: [[Kapstadt=Cape Town]]
+coordinates: [[Kapstadt=Cape_Town]]
+markerFile: [[Kapstadt=Cape_Town]]
 defaultZoom: 11 
 maxZoom: 18
 ```

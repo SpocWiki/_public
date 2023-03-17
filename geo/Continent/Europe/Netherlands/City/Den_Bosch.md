@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Den Bosch
-coordinates: [[Den Bosch]]
-markerFile: [[Den Bosch]]
+coordinates: [[Den_Bosch]]
+markerFile: [[Den_Bosch]]
 defaultZoom: 11 
 maxZoom: 18
 ```

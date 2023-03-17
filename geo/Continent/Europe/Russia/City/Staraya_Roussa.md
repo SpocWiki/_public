@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Staraya Roussa
-coordinates: [[Staraya Roussa]]
-markerFile: [[Staraya Roussa]]
+coordinates: [[Staraya_Roussa]]
+markerFile: [[Staraya_Roussa]]
 defaultZoom: 11 
 maxZoom: 18
 ```

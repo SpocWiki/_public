@@ -23,8 +23,8 @@ tags:
 
 ```leaflet
 id: Hong Kong
-coordinates: [[Hong Kong]]
-markerFile: [[Hong Kong]]
+coordinates: [[Hong_Kong]]
+markerFile: [[Hong_Kong]]
 defaultZoom: 11 
 maxZoom: 18
 ```

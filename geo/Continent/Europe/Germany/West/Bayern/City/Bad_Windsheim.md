@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Windsheim
-coordinates: [[Bad Windsheim]]
-markerFile: [[Bad Windsheim]]
+coordinates: [[Bad_Windsheim]]
+markerFile: [[Bad_Windsheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

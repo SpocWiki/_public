@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Waldsee~Wuerttemberg
-coordinates: [[Bad Waldsee~Wuerttemberg]]
-markerFile: [[Bad Waldsee~Wuerttemberg]]
+coordinates: [[Bad_Waldsee~Wuerttemberg]]
+markerFile: [[Bad_Waldsee~Wuerttemberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Fort Worth
-coordinates: [[Fort Worth]]
-markerFile: [[Fort Worth]]
+coordinates: [[Fort_Worth]]
+markerFile: [[Fort_Worth]]
 defaultZoom: 11 
 maxZoom: 18
 ```

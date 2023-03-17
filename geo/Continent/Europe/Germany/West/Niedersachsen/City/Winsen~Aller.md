@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.68,9.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Winsen an der Aller
-coordinates: [[Winsen an der Aller]]
-markerFile: [[Winsen an der Aller]]
+coordinates: [[Winsen~Aller]]
+markerFile: [[Winsen~Aller]]
 defaultZoom: 11 
 maxZoom: 18
 ```

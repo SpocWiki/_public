@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Pieve pelago
-coordinates: [[Pieve pelago]]
-markerFile: [[Pieve pelago]]
+coordinates: [[Pieve_pelago]]
+markerFile: [[Pieve_pelago]]
 defaultZoom: 11 
 maxZoom: 18
 ```

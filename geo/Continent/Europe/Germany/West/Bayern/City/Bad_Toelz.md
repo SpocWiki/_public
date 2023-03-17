@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Toelz
-coordinates: [[Bad Toelz]]
-markerFile: [[Bad Toelz]]
+coordinates: [[Bad_Toelz]]
+markerFile: [[Bad_Toelz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Des Moines
-coordinates: [[Des Moines]]
-markerFile: [[Des Moines]]
+coordinates: [[Des_Moines]]
+markerFile: [[Des_Moines]]
 defaultZoom: 11 
 maxZoom: 18
 ```

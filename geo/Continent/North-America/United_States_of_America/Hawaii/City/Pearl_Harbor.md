@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Pearl Harbor
-coordinates: [[Pearl Harbor]]
-markerFile: [[Pearl Harbor]]
+coordinates: [[Pearl_Harbor]]
+markerFile: [[Pearl_Harbor]]
 defaultZoom: 11 
 maxZoom: 18
 ```

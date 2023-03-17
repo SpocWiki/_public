@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Ciudad Real
-coordinates: [[Ciudad Real]]
-markerFile: [[Ciudad Real]]
+coordinates: [[Ciudad_Real]]
+markerFile: [[Ciudad_Real]]
 defaultZoom: 11 
 maxZoom: 18
 ```

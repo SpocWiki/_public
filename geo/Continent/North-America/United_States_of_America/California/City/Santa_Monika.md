@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Santa Monika
-coordinates: [[Santa Monika]]
-markerFile: [[Santa Monika]]
+coordinates: [[Santa_Monika]]
+markerFile: [[Santa_Monika]]
 defaultZoom: 11 
 maxZoom: 18
 ```

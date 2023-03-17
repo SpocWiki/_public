@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Maehrisch Ostrau=Ostrava
-coordinates: [[Maehrisch Ostrau=Ostrava]]
-markerFile: [[Maehrisch Ostrau=Ostrava]]
+coordinates: [[Maehrisch_Ostrau=Ostrava]]
+markerFile: [[Maehrisch_Ostrau=Ostrava]]
 defaultZoom: 11 
 maxZoom: 18
 ```

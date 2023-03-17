@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Bergzabern
-coordinates: [[Bad Bergzabern]]
-markerFile: [[Bad Bergzabern]]
+coordinates: [[Bad_Bergzabern]]
+markerFile: [[Bad_Bergzabern]]
 defaultZoom: 11 
 maxZoom: 18
 ```

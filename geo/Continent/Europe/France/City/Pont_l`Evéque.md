@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Pont l`Evéque
-coordinates: [[Pont l`Evéque]]
-markerFile: [[Pont l`Evéque]]
+coordinates: [[Pont_l`Evéque]]
+markerFile: [[Pont_l`Evéque]]
 defaultZoom: 11 
 maxZoom: 18
 ```

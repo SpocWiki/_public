@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San José=San Jose
-coordinates: [[San José=San Jose]]
-markerFile: [[San José=San Jose]]
+coordinates: [[San_José=San_Jose]]
+markerFile: [[San_José=San_Jose]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Albergo Romobel
-coordinates: [[Albergo Romobel]]
-markerFile: [[Albergo Romobel]]
+coordinates: [[Albergo_Romobel]]
+markerFile: [[Albergo_Romobel]]
 defaultZoom: 11 
 maxZoom: 18
 ```

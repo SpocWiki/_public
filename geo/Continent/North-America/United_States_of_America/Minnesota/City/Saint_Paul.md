@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Saint Paul
-coordinates: [[Saint Paul]]
-markerFile: [[Saint Paul]]
+coordinates: [[Saint_Paul]]
+markerFile: [[Saint_Paul]]
 defaultZoom: 11 
 maxZoom: 18
 ```

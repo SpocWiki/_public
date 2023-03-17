@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Madonna a Brogli
-coordinates: [[Madonna a Brogli]]
-markerFile: [[Madonna a Brogli]]
+coordinates: [[Madonna_a_Brogli]]
+markerFile: [[Madonna_a_Brogli]]
 defaultZoom: 11 
 maxZoom: 18
 ```

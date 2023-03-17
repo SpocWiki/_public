@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Campobello di Mazzara
-coordinates: [[Campobello di Mazzara]]
-markerFile: [[Campobello di Mazzara]]
+coordinates: [[Campobello_di_Mazzara]]
+markerFile: [[Campobello_di_Mazzara]]
 defaultZoom: 11 
 maxZoom: 18
 ```

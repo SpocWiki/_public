@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: La Chaux de Fonds
-coordinates: [[La Chaux de Fonds]]
-markerFile: [[La Chaux de Fonds]]
+coordinates: [[La_Chaux_de_Fonds]]
+markerFile: [[La_Chaux_de_Fonds]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Villanueva d. I. S.
-coordinates: [[Villanueva d. I. S.]]
-markerFile: [[Villanueva d. I. S.]]
+coordinates: [[Villanueva_d._I._S.]]
+markerFile: [[Villanueva_d._I._S.]]
 defaultZoom: 11 
 maxZoom: 18
 ```

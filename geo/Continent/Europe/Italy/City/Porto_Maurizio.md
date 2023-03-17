@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Porto Maurizio
-coordinates: [[Porto Maurizio]]
-markerFile: [[Porto Maurizio]]
+coordinates: [[Porto_Maurizio]]
+markerFile: [[Porto_Maurizio]]
 defaultZoom: 11 
 maxZoom: 18
 ```

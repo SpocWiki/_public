@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Arles sur Rhone
-coordinates: [[Arles sur Rhone]]
-markerFile: [[Arles sur Rhone]]
+coordinates: [[Arles_sur_Rhone]]
+markerFile: [[Arles_sur_Rhone]]
 defaultZoom: 11 
 maxZoom: 18
 ```

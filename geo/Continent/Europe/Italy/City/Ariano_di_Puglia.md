@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Ariano di Puglia
-coordinates: [[Ariano di Puglia]]
-markerFile: [[Ariano di Puglia]]
+coordinates: [[Ariano_di_Puglia]]
+markerFile: [[Ariano_di_Puglia]]
 defaultZoom: 11 
 maxZoom: 18
 ```

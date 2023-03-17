@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Weil im Schoenbuch
-coordinates: [[Weil im Schoenbuch]]
-markerFile: [[Weil im Schoenbuch]]
+coordinates: [[Weil_im_Schoenbuch]]
+markerFile: [[Weil_im_Schoenbuch]]
 defaultZoom: 11 
 maxZoom: 18
 ```

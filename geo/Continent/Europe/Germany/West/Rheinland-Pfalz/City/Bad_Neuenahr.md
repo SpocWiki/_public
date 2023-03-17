@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Neuenahr
-coordinates: [[Bad Neuenahr]]
-markerFile: [[Bad Neuenahr]]
+coordinates: [[Bad_Neuenahr]]
+markerFile: [[Bad_Neuenahr]]
 defaultZoom: 11 
 maxZoom: 18
 ```

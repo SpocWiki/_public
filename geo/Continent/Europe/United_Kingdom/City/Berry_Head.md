@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Berry Head
-coordinates: [[Berry Head]]
-markerFile: [[Berry Head]]
+coordinates: [[Berry_Head]]
+markerFile: [[Berry_Head]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Fischau Bad
-coordinates: [[Fischau Bad]]
-markerFile: [[Fischau Bad]]
+coordinates: [[Fischau_Bad]]
+markerFile: [[Fischau_Bad]]
 defaultZoom: 11 
 maxZoom: 18
 ```

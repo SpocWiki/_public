@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Castiglione Fior
-coordinates: [[Castiglione Fior]]
-markerFile: [[Castiglione Fior]]
+coordinates: [[Castiglione_Fior]]
+markerFile: [[Castiglione_Fior]]
 defaultZoom: 11 
 maxZoom: 18
 ```

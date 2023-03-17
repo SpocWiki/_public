@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Benska Bystrica
-coordinates: [[Benska Bystrica]]
-markerFile: [[Benska Bystrica]]
+coordinates: [[Benska_Bystrica]]
+markerFile: [[Benska_Bystrica]]
 defaultZoom: 11 
 maxZoom: 18
 ```

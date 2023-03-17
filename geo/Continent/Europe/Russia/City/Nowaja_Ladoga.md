@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Nowaja Ladoga
-coordinates: [[Nowaja Ladoga]]
-markerFile: [[Nowaja Ladoga]]
+coordinates: [[Nowaja_Ladoga]]
+markerFile: [[Nowaja_Ladoga]]
 defaultZoom: 11 
 maxZoom: 18
 ```

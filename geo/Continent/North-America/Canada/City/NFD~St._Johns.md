@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: NFD~St. Johns
-coordinates: [[NFD~St. Johns]]
-markerFile: [[NFD~St. Johns]]
+coordinates: [[NFD~St._Johns]]
+markerFile: [[NFD~St._Johns]]
 defaultZoom: 11 
 maxZoom: 18
 ```

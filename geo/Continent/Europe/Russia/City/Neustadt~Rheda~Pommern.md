@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.67,18.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Neustadt an der Rheda~Pommern
-coordinates: [[Neustadt an der Rheda~Pommern]]
-markerFile: [[Neustadt an der Rheda~Pommern]]
+coordinates: [[Neustadt~Rheda~Pommern]]
+markerFile: [[Neustadt~Rheda~Pommern]]
 defaultZoom: 11 
 maxZoom: 18
 ```

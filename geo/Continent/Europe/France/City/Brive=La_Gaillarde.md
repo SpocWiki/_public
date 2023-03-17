@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Brive=La Gaillarde
-coordinates: [[Brive=La Gaillarde]]
-markerFile: [[Brive=La Gaillarde]]
+coordinates: [[Brive=La_Gaillarde]]
+markerFile: [[Brive=La_Gaillarde]]
 defaultZoom: 11 
 maxZoom: 18
 ```

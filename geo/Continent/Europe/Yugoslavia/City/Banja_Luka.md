@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Banja Luka
-coordinates: [[Banja Luka]]
-markerFile: [[Banja Luka]]
+coordinates: [[Banja_Luka]]
+markerFile: [[Banja_Luka]]
 defaultZoom: 11 
 maxZoom: 18
 ```

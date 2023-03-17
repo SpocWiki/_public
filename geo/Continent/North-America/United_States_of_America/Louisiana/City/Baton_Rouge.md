@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Baton Rouge
-coordinates: [[Baton Rouge]]
-markerFile: [[Baton Rouge]]
+coordinates: [[Baton_Rouge]]
+markerFile: [[Baton_Rouge]]
 defaultZoom: 11 
 maxZoom: 18
 ```

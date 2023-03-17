@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Campo Maier
-coordinates: [[Campo Maier]]
-markerFile: [[Campo Maier]]
+coordinates: [[Campo_Maier]]
+markerFile: [[Campo_Maier]]
 defaultZoom: 11 
 maxZoom: 18
 ```

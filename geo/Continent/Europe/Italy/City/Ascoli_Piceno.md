@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Ascoli Piceno
-coordinates: [[Ascoli Piceno]]
-markerFile: [[Ascoli Piceno]]
+coordinates: [[Ascoli_Piceno]]
+markerFile: [[Ascoli_Piceno]]
 defaultZoom: 11 
 maxZoom: 18
 ```

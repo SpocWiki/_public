@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Harburg bei Hamburg
-coordinates: [[Harburg bei Hamburg]]
-markerFile: [[Harburg bei Hamburg]]
+coordinates: [[Harburg_bei_Hamburg]]
+markerFile: [[Harburg_bei_Hamburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

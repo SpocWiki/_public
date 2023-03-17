@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Marino
-coordinates: [[San Marino]]
-markerFile: [[San Marino]]
+coordinates: [[San_Marino]]
+markerFile: [[San_Marino]]
 defaultZoom: 11 
 maxZoom: 18
 ```

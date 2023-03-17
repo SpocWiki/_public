@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bietigheim Bissingen
-coordinates: [[Bietigheim Bissingen]]
-markerFile: [[Bietigheim Bissingen]]
+coordinates: [[Bietigheim_Bissingen]]
+markerFile: [[Bietigheim_Bissingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

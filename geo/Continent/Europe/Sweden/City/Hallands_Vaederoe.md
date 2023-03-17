@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Hallands Vaederoe
-coordinates: [[Hallands Vaederoe]]
-markerFile: [[Hallands Vaederoe]]
+coordinates: [[Hallands_Vaederoe]]
+markerFile: [[Hallands_Vaederoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

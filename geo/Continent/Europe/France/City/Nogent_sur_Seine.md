@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Nogent sur Seine
-coordinates: [[Nogent sur Seine]]
-markerFile: [[Nogent sur Seine]]
+coordinates: [[Nogent_sur_Seine]]
+markerFile: [[Nogent_sur_Seine]]
 defaultZoom: 11 
 maxZoom: 18
 ```

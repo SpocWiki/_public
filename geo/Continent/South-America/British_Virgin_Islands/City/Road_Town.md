@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Road Town
-coordinates: [[Road Town]]
-markerFile: [[Road Town]]
+coordinates: [[Road_Town]]
+markerFile: [[Road_Town]]
 defaultZoom: 11 
 maxZoom: 18
 ```

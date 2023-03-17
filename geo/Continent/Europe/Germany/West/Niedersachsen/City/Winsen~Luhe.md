@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.37,10.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Winsen an der Luhe
-coordinates: [[Winsen an der Luhe]]
-markerFile: [[Winsen an der Luhe]]
+coordinates: [[Winsen~Luhe]]
+markerFile: [[Winsen~Luhe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

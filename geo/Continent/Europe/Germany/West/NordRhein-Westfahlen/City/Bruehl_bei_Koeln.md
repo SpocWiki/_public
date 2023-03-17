@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bruehl bei Koeln
-coordinates: [[Bruehl bei Koeln]]
-markerFile: [[Bruehl bei Koeln]]
+coordinates: [[Bruehl_bei_Koeln]]
+markerFile: [[Bruehl_bei_Koeln]]
 defaultZoom: 11 
 maxZoom: 18
 ```

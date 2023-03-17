@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Detskoje Selo
-coordinates: [[Detskoje Selo]]
-markerFile: [[Detskoje Selo]]
+coordinates: [[Detskoje_Selo]]
+markerFile: [[Detskoje_Selo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

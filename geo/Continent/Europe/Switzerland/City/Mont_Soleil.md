@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Mont Soleil
-coordinates: [[Mont Soleil]]
-markerFile: [[Mont Soleil]]
+coordinates: [[Mont_Soleil]]
+markerFile: [[Mont_Soleil]]
 defaultZoom: 11 
 maxZoom: 18
 ```

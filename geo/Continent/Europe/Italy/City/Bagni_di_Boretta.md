@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bagni di Boretta
-coordinates: [[Bagni di Boretta]]
-markerFile: [[Bagni di Boretta]]
+coordinates: [[Bagni_di_Boretta]]
+markerFile: [[Bagni_di_Boretta]]
 defaultZoom: 11 
 maxZoom: 18
 ```

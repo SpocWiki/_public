@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Reggio Calabria
-coordinates: [[Reggio Calabria]]
-markerFile: [[Reggio Calabria]]
+coordinates: [[Reggio_Calabria]]
+markerFile: [[Reggio_Calabria]]
 defaultZoom: 11 
 maxZoom: 18
 ```

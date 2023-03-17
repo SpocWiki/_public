@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Pago Pago
-coordinates: [[Pago Pago]]
-markerFile: [[Pago Pago]]
+coordinates: [[Pago_Pago]]
+markerFile: [[Pago_Pago]]
 defaultZoom: 11 
 maxZoom: 18
 ```

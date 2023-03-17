@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Schorndorf bei Stuttgart
-coordinates: [[Schorndorf bei Stuttgart]]
-markerFile: [[Schorndorf bei Stuttgart]]
+coordinates: [[Schorndorf_bei_Stuttgart]]
+markerFile: [[Schorndorf_bei_Stuttgart]]
 defaultZoom: 11 
 maxZoom: 18
 ```

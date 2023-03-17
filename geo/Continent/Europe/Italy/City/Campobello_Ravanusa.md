@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Campobello Ravanusa
-coordinates: [[Campobello Ravanusa]]
-markerFile: [[Campobello Ravanusa]]
+coordinates: [[Campobello_Ravanusa]]
+markerFile: [[Campobello_Ravanusa]]
 defaultZoom: 11 
 maxZoom: 18
 ```

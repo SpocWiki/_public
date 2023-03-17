@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Port Patrick
-coordinates: [[Port Patrick]]
-markerFile: [[Port Patrick]]
+coordinates: [[Port_Patrick]]
+markerFile: [[Port_Patrick]]
 defaultZoom: 11 
 maxZoom: 18
 ```

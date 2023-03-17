@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Den Haag
-coordinates: [[Den Haag]]
-markerFile: [[Den Haag]]
+coordinates: [[Den_Haag]]
+markerFile: [[Den_Haag]]
 defaultZoom: 11 
 maxZoom: 18
 ```

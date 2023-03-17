@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bela Crkva
-coordinates: [[Bela Crkva]]
-markerFile: [[Bela Crkva]]
+coordinates: [[Bela_Crkva]]
+markerFile: [[Bela_Crkva]]
 defaultZoom: 11 
 maxZoom: 18
 ```

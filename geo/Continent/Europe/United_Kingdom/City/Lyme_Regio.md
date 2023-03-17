@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Lyme Regio
-coordinates: [[Lyme Regio]]
-markerFile: [[Lyme Regio]]
+coordinates: [[Lyme_Regio]]
+markerFile: [[Lyme_Regio]]
 defaultZoom: 11 
 maxZoom: 18
 ```

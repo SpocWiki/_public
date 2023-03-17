@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Maehrisch Schoeneberg
-coordinates: [[Maehrisch Schoeneberg]]
-markerFile: [[Maehrisch Schoeneberg]]
+coordinates: [[Maehrisch_Schoeneberg]]
+markerFile: [[Maehrisch_Schoeneberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

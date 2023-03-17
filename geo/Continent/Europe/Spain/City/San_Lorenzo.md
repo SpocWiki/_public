@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Lorenzo
-coordinates: [[San Lorenzo]]
-markerFile: [[San Lorenzo]]
+coordinates: [[San_Lorenzo]]
+markerFile: [[San_Lorenzo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

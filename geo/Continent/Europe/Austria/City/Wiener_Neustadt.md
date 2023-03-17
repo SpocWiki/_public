@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Wiener Neustadt
-coordinates: [[Wiener Neustadt]]
-markerFile: [[Wiener Neustadt]]
+coordinates: [[Wiener_Neustadt]]
+markerFile: [[Wiener_Neustadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

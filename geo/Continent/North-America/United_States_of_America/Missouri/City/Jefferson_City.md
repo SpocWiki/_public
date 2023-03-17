@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Jefferson City
-coordinates: [[Jefferson City]]
-markerFile: [[Jefferson City]]
+coordinates: [[Jefferson_City]]
+markerFile: [[Jefferson_City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

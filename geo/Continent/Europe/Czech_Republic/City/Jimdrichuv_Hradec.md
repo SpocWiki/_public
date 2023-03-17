@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Jimdrichuv Hradec
-coordinates: [[Jimdrichuv Hradec]]
-markerFile: [[Jimdrichuv Hradec]]
+coordinates: [[Jimdrichuv_Hradec]]
+markerFile: [[Jimdrichuv_Hradec]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Windsor Castle
-coordinates: [[Windsor Castle]]
-markerFile: [[Windsor Castle]]
+coordinates: [[Windsor_Castle]]
+markerFile: [[Windsor_Castle]]
 defaultZoom: 11 
 maxZoom: 18
 ```

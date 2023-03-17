@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Kingston (Norfolkinsel)
-coordinates: [[Kingston (Norfolkinsel)]]
-markerFile: [[Kingston (Norfolkinsel)]]
+coordinates: [[Kingston_(Norfolkinsel)]]
+markerFile: [[Kingston_(Norfolkinsel)]]
 defaultZoom: 11 
 maxZoom: 18
 ```

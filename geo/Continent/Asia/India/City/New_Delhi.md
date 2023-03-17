@@ -23,8 +23,8 @@ tags:
 
 ```leaflet
 id: New Delhi
-coordinates: [[New Delhi]]
-markerFile: [[New Delhi]]
+coordinates: [[New_Delhi]]
+markerFile: [[New_Delhi]]
 defaultZoom: 11 
 maxZoom: 18
 ```

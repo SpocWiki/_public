@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Sans Soucis
-coordinates: [[Sans Soucis]]
-markerFile: [[Sans Soucis]]
+coordinates: [[Sans_Soucis]]
+markerFile: [[Sans_Soucis]]
 defaultZoom: 11 
 maxZoom: 18
 ```

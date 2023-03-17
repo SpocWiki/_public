@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Poggio Mirteto
-coordinates: [[Poggio Mirteto]]
-markerFile: [[Poggio Mirteto]]
+coordinates: [[Poggio_Mirteto]]
+markerFile: [[Poggio_Mirteto]]
 defaultZoom: 11 
 maxZoom: 18
 ```

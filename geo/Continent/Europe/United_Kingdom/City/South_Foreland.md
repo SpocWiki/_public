@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: South Foreland
-coordinates: [[South Foreland]]
-markerFile: [[South Foreland]]
+coordinates: [[South_Foreland]]
+markerFile: [[South_Foreland]]
 defaultZoom: 11 
 maxZoom: 18
 ```

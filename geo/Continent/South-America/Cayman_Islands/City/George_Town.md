@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: George Town
-coordinates: [[George Town]]
-markerFile: [[George Town]]
+coordinates: [[George_Town]]
+markerFile: [[George_Town]]
 defaultZoom: 11 
 maxZoom: 18
 ```

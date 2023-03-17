@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Schwaebisch Gmuend
-coordinates: [[Schwaebisch Gmuend]]
-markerFile: [[Schwaebisch Gmuend]]
+coordinates: [[Schwaebisch_Gmuend]]
+markerFile: [[Schwaebisch_Gmuend]]
 defaultZoom: 11 
 maxZoom: 18
 ```

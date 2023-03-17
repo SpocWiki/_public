@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Neusandetz=Newy Sacz
-coordinates: [[Neusandetz=Newy Sacz]]
-markerFile: [[Neusandetz=Newy Sacz]]
+coordinates: [[Neusandetz=Newy_Sacz]]
+markerFile: [[Neusandetz=Newy_Sacz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Carson City
-coordinates: [[Carson City]]
-markerFile: [[Carson City]]
+coordinates: [[Carson_City]]
+markerFile: [[Carson_City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Timmendorfer Strand
-coordinates: [[Timmendorfer Strand]]
-markerFile: [[Timmendorfer Strand]]
+coordinates: [[Timmendorfer_Strand]]
+markerFile: [[Timmendorfer_Strand]]
 defaultZoom: 11 
 maxZoom: 18
 ```

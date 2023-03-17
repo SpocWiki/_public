@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Brake U-Weser
-coordinates: [[Brake U-Weser]]
-markerFile: [[Brake U-Weser]]
+coordinates: [[Brake_U-Weser]]
+markerFile: [[Brake_U-Weser]]
 defaultZoom: 11 
 maxZoom: 18
 ```

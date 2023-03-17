@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Port Moresby
-coordinates: [[Port Moresby]]
-markerFile: [[Port Moresby]]
+coordinates: [[Port_Moresby]]
+markerFile: [[Port_Moresby]]
 defaultZoom: 11 
 maxZoom: 18
 ```

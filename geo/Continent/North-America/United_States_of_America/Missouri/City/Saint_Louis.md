@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Saint Louis
-coordinates: [[Saint Louis]]
-markerFile: [[Saint Louis]]
+coordinates: [[Saint_Louis]]
+markerFile: [[Saint_Louis]]
 defaultZoom: 11 
 maxZoom: 18
 ```

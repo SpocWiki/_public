@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Monte Carlo
-coordinates: [[Monte Carlo]]
-markerFile: [[Monte Carlo]]
+coordinates: [[Monte_Carlo]]
+markerFile: [[Monte_Carlo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

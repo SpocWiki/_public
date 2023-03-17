@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Desserto di Massalubrense
-coordinates: [[Desserto di Massalubrense]]
-markerFile: [[Desserto di Massalubrense]]
+coordinates: [[Desserto_di_Massalubrense]]
+markerFile: [[Desserto_di_Massalubrense]]
 defaultZoom: 11 
 maxZoom: 18
 ```

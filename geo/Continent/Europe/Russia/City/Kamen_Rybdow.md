@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Kamen Rybdow
-coordinates: [[Kamen Rybdow]]
-markerFile: [[Kamen Rybdow]]
+coordinates: [[Kamen_Rybdow]]
+markerFile: [[Kamen_Rybdow]]
 defaultZoom: 11 
 maxZoom: 18
 ```

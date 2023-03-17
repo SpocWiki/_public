@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Weil der Stadt
-coordinates: [[Weil der Stadt]]
-markerFile: [[Weil der Stadt]]
+coordinates: [[Weil_der_Stadt]]
+markerFile: [[Weil_der_Stadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

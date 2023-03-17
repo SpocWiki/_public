@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Las Palmas~Gran Canaria
-coordinates: [[Las Palmas~Gran Canaria]]
-markerFile: [[Las Palmas~Gran Canaria]]
+coordinates: [[Las_Palmas~Gran_Canaria]]
+markerFile: [[Las_Palmas~Gran_Canaria]]
 defaultZoom: 11 
 maxZoom: 18
 ```

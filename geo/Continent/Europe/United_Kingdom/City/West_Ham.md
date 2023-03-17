@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: West Ham
-coordinates: [[West Ham]]
-markerFile: [[West Ham]]
+coordinates: [[West_Ham]]
+markerFile: [[West_Ham]]
 defaultZoom: 11 
 maxZoom: 18
 ```

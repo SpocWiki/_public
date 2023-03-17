@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Civita Vecchia
-coordinates: [[Civita Vecchia]]
-markerFile: [[Civita Vecchia]]
+coordinates: [[Civita_Vecchia]]
+markerFile: [[Civita_Vecchia]]
 defaultZoom: 11 
 maxZoom: 18
 ```

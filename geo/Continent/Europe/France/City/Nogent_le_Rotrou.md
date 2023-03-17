@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Nogent le Rotrou
-coordinates: [[Nogent le Rotrou]]
-markerFile: [[Nogent le Rotrou]]
+coordinates: [[Nogent_le_Rotrou]]
+markerFile: [[Nogent_le_Rotrou]]
 defaultZoom: 11 
 maxZoom: 18
 ```

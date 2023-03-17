@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Pellegrino
-coordinates: [[San Pellegrino]]
-markerFile: [[San Pellegrino]]
+coordinates: [[San_Pellegrino]]
+markerFile: [[San_Pellegrino]]
 defaultZoom: 11 
 maxZoom: 18
 ```

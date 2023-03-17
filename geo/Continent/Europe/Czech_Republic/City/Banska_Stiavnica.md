@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Banska Stiavnica
-coordinates: [[Banska Stiavnica]]
-markerFile: [[Banska Stiavnica]]
+coordinates: [[Banska_Stiavnica]]
+markerFile: [[Banska_Stiavnica]]
 defaultZoom: 11 
 maxZoom: 18
 ```

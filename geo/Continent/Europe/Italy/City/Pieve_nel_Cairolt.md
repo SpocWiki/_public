@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Pieve nel Cairolt
-coordinates: [[Pieve nel Cairolt]]
-markerFile: [[Pieve nel Cairolt]]
+coordinates: [[Pieve_nel_Cairolt]]
+markerFile: [[Pieve_nel_Cairolt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

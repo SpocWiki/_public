@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bagneres de Bigorre
-coordinates: [[Bagneres de Bigorre]]
-markerFile: [[Bagneres de Bigorre]]
+coordinates: [[Bagneres_de_Bigorre]]
+markerFile: [[Bagneres_de_Bigorre]]
 defaultZoom: 11 
 maxZoom: 18
 ```

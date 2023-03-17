@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Great Yarmouth
-coordinates: [[Great Yarmouth]]
-markerFile: [[Great Yarmouth]]
+coordinates: [[Great_Yarmouth]]
+markerFile: [[Great_Yarmouth]]
 defaultZoom: 11 
 maxZoom: 18
 ```

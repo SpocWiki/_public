@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Schwaebisch Hall
-coordinates: [[Schwaebisch Hall]]
-markerFile: [[Schwaebisch Hall]]
+coordinates: [[Schwaebisch_Hall]]
+markerFile: [[Schwaebisch_Hall]]
 defaultZoom: 11 
 maxZoom: 18
 ```

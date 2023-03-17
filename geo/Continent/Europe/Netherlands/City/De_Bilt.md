@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: De Bilt
-coordinates: [[De Bilt]]
-markerFile: [[De Bilt]]
+coordinates: [[De_Bilt]]
+markerFile: [[De_Bilt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

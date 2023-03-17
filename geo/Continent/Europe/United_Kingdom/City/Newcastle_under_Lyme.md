@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Newcastle under Lyme
-coordinates: [[Newcastle under Lyme]]
-markerFile: [[Newcastle under Lyme]]
+coordinates: [[Newcastle_under_Lyme]]
+markerFile: [[Newcastle_under_Lyme]]
 defaultZoom: 11 
 maxZoom: 18
 ```

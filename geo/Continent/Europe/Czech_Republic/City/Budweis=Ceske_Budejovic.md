@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Budweis=Ceske Budejovic
-coordinates: [[Budweis=Ceske Budejovic]]
-markerFile: [[Budweis=Ceske Budejovic]]
+coordinates: [[Budweis=Ceske_Budejovic]]
+markerFile: [[Budweis=Ceske_Budejovic]]
 defaultZoom: 11 
 maxZoom: 18
 ```

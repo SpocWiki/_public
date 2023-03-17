@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Saint Denis
-coordinates: [[Saint Denis]]
-markerFile: [[Saint Denis]]
+coordinates: [[Saint_Denis]]
+markerFile: [[Saint_Denis]]
 defaultZoom: 11 
 maxZoom: 18
 ```

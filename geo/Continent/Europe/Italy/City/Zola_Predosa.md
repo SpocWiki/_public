@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Zola Predosa
-coordinates: [[Zola Predosa]]
-markerFile: [[Zola Predosa]]
+coordinates: [[Zola_Predosa]]
+markerFile: [[Zola_Predosa]]
 defaultZoom: 11 
 maxZoom: 18
 ```

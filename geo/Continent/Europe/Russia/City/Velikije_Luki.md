@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Velikije Luki
-coordinates: [[Velikije Luki]]
-markerFile: [[Velikije Luki]]
+coordinates: [[Velikije_Luki]]
+markerFile: [[Velikije_Luki]]
 defaultZoom: 11 
 maxZoom: 18
 ```

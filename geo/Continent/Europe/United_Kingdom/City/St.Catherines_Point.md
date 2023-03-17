@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: St.Catherines Point
-coordinates: [[St.Catherines Point]]
-markerFile: [[St.Catherines Point]]
+coordinates: [[St.Catherines_Point]]
+markerFile: [[St.Catherines_Point]]
 defaultZoom: 11 
 maxZoom: 18
 ```

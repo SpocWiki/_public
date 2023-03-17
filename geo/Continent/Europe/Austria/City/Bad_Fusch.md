@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bad Fusch
-coordinates: [[Bad Fusch]]
-markerFile: [[Bad Fusch]]
+coordinates: [[Bad_Fusch]]
+markerFile: [[Bad_Fusch]]
 defaultZoom: 11 
 maxZoom: 18
 ```

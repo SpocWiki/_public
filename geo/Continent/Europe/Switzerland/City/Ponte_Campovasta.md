@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Ponte Campovasta
-coordinates: [[Ponte Campovasta]]
-markerFile: [[Ponte Campovasta]]
+coordinates: [[Ponte_Campovasta]]
+markerFile: [[Ponte_Campovasta]]
 defaultZoom: 11 
 maxZoom: 18
 ```

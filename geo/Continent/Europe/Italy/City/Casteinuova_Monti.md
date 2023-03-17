@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Casteinuova Monti
-coordinates: [[Casteinuova Monti]]
-markerFile: [[Casteinuova Monti]]
+coordinates: [[Casteinuova_Monti]]
+markerFile: [[Casteinuova_Monti]]
 defaultZoom: 11 
 maxZoom: 18
 ```

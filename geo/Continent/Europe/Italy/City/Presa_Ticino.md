@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Presa Ticino
-coordinates: [[Presa Ticino]]
-markerFile: [[Presa Ticino]]
+coordinates: [[Presa_Ticino]]
+markerFile: [[Presa_Ticino]]
 defaultZoom: 11 
 maxZoom: 18
 ```

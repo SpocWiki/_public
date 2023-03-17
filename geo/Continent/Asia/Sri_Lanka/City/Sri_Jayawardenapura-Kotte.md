@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Sri Jayawardenapura-Kotte
-coordinates: [[Sri Jayawardenapura-Kotte]]
-markerFile: [[Sri Jayawardenapura-Kotte]]
+coordinates: [[Sri_Jayawardenapura-Kotte]]
+markerFile: [[Sri_Jayawardenapura-Kotte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

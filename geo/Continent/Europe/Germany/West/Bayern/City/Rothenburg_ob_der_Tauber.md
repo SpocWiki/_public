@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Rothenburg ob der Tauber
-coordinates: [[Rothenburg ob der Tauber]]
-markerFile: [[Rothenburg ob der Tauber]]
+coordinates: [[Rothenburg_ob_der_Tauber]]
+markerFile: [[Rothenburg_ob_der_Tauber]]
 defaultZoom: 11 
 maxZoom: 18
 ```

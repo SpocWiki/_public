@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Ulan Ude
-coordinates: [[Ulan Ude]]
-markerFile: [[Ulan Ude]]
+coordinates: [[Ulan_Ude]]
+markerFile: [[Ulan_Ude]]
 defaultZoom: 11 
 maxZoom: 18
 ```

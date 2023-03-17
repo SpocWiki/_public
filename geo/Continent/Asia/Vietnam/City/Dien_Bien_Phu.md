@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Dien Bien Phu
-coordinates: [[Dien Bien Phu]]
-markerFile: [[Dien Bien Phu]]
+coordinates: [[Dien_Bien_Phu]]
+markerFile: [[Dien_Bien_Phu]]
 defaultZoom: 11 
 maxZoom: 18
 ```

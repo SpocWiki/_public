@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Chaumoret sur Bassigny
-coordinates: [[Chaumoret sur Bassigny]]
-markerFile: [[Chaumoret sur Bassigny]]
+coordinates: [[Chaumoret_sur_Bassigny]]
+markerFile: [[Chaumoret_sur_Bassigny]]
 defaultZoom: 11 
 maxZoom: 18
 ```

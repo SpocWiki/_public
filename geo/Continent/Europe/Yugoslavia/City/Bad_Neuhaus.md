@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bad Neuhaus
-coordinates: [[Bad Neuhaus]]
-markerFile: [[Bad Neuhaus]]
+coordinates: [[Bad_Neuhaus]]
+markerFile: [[Bad_Neuhaus]]
 defaultZoom: 11 
 maxZoom: 18
 ```

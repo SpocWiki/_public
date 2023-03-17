@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: New Ross
-coordinates: [[New Ross]]
-markerFile: [[New Ross]]
+coordinates: [[New_Ross]]
+markerFile: [[New_Ross]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Escorial=San Lorenzo
-coordinates: [[Escorial=San Lorenzo]]
-markerFile: [[Escorial=San Lorenzo]]
+coordinates: [[Escorial=San_Lorenzo]]
+markerFile: [[Escorial=San_Lorenzo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

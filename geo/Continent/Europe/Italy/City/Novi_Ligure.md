@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Novi Ligure
-coordinates: [[Novi Ligure]]
-markerFile: [[Novi Ligure]]
+coordinates: [[Novi_Ligure]]
+markerFile: [[Novi_Ligure]]
 defaultZoom: 11 
 maxZoom: 18
 ```

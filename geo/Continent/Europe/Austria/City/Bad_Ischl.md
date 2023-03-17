@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bad Ischl
-coordinates: [[Bad Ischl]]
-markerFile: [[Bad Ischl]]
+coordinates: [[Bad_Ischl]]
+markerFile: [[Bad_Ischl]]
 defaultZoom: 11 
 maxZoom: 18
 ```

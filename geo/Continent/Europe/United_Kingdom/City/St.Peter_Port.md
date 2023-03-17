@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: St.Peter Port
-coordinates: [[St.Peter Port]]
-markerFile: [[St.Peter Port]]
+coordinates: [[St.Peter_Port]]
+markerFile: [[St.Peter_Port]]
 defaultZoom: 11 
 maxZoom: 18
 ```

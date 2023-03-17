@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Dun Laoghaire
-coordinates: [[Dun Laoghaire]]
-markerFile: [[Dun Laoghaire]]
+coordinates: [[Dun_Laoghaire]]
+markerFile: [[Dun_Laoghaire]]
 defaultZoom: 11 
 maxZoom: 18
 ```

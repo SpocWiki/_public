@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Turnu Severin
-coordinates: [[Turnu Severin]]
-markerFile: [[Turnu Severin]]
+coordinates: [[Turnu_Severin]]
+markerFile: [[Turnu_Severin]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Mukhor Shibir
-coordinates: [[Mukhor Shibir]]
-markerFile: [[Mukhor Shibir]]
+coordinates: [[Mukhor_Shibir]]
+markerFile: [[Mukhor_Shibir]]
 defaultZoom: 11 
 maxZoom: 18
 ```

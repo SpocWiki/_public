@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Mater domini
-coordinates: [[Mater domini]]
-markerFile: [[Mater domini]]
+coordinates: [[Mater_domini]]
+markerFile: [[Mater_domini]]
 defaultZoom: 11 
 maxZoom: 18
 ```

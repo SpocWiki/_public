@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: New York
-coordinates: [[New York]]
-markerFile: [[New York]]
+coordinates: [[New_York]]
+markerFile: [[New_York]]
 defaultZoom: 11 
 maxZoom: 18
 ```

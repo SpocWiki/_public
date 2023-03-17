@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Castel d'Ario
-coordinates: [[Castel d'Ario]]
-markerFile: [[Castel d'Ario]]
+coordinates: [[Castel_d'Ario]]
+markerFile: [[Castel_d'Ario]]
 defaultZoom: 11 
 maxZoom: 18
 ```

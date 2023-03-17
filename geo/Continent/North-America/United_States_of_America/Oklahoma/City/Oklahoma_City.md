@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Oklahoma City
-coordinates: [[Oklahoma City]]
-markerFile: [[Oklahoma City]]
+coordinates: [[Oklahoma_City]]
+markerFile: [[Oklahoma_City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

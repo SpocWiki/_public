@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Steinfeld Bz
-coordinates: [[Steinfeld Bz]]
-markerFile: [[Steinfeld Bz]]
+coordinates: [[Steinfeld_Bz]]
+markerFile: [[Steinfeld_Bz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Le Vesinet
-coordinates: [[Le Vesinet]]
-markerFile: [[Le Vesinet]]
+coordinates: [[Le_Vesinet]]
+markerFile: [[Le_Vesinet]]
 defaultZoom: 11 
 maxZoom: 18
 ```

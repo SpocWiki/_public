@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Rawa Ruska
-coordinates: [[Rawa Ruska]]
-markerFile: [[Rawa Ruska]]
+coordinates: [[Rawa_Ruska]]
+markerFile: [[Rawa_Ruska]]
 defaultZoom: 11 
 maxZoom: 18
 ```

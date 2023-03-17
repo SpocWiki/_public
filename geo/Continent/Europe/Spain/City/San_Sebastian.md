@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Sebastian
-coordinates: [[San Sebastian]]
-markerFile: [[San Sebastian]]
+coordinates: [[San_Sebastian]]
+markerFile: [[San_Sebastian]]
 defaultZoom: 11 
 maxZoom: 18
 ```

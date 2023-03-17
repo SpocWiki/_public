@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Yli Tornia
-coordinates: [[Yli Tornia]]
-markerFile: [[Yli Tornia]]
+coordinates: [[Yli_Tornia]]
+markerFile: [[Yli_Tornia]]
 defaultZoom: 11 
 maxZoom: 18
 ```

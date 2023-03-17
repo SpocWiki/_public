@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Finale Emilia
-coordinates: [[Finale Emilia]]
-markerFile: [[Finale Emilia]]
+coordinates: [[Finale_Emilia]]
+markerFile: [[Finale_Emilia]]
 defaultZoom: 11 
 maxZoom: 18
 ```

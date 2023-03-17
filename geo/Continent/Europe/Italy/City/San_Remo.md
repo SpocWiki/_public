@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: San Remo
-coordinates: [[San Remo]]
-markerFile: [[San Remo]]
+coordinates: [[San_Remo]]
+markerFile: [[San_Remo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

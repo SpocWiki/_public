@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Villefranch sur Saóne
-coordinates: [[Villefranch sur Saóne]]
-markerFile: [[Villefranch sur Saóne]]
+coordinates: [[Villefranch_sur_Saóne]]
+markerFile: [[Villefranch_sur_Saóne]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Grand Rapids
-coordinates: [[Grand Rapids]]
-markerFile: [[Grand Rapids]]
+coordinates: [[Grand_Rapids]]
+markerFile: [[Grand_Rapids]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Los Angeles
-coordinates: [[Los Angeles]]
-markerFile: [[Los Angeles]]
+coordinates: [[Los_Angeles]]
+markerFile: [[Los_Angeles]]
 defaultZoom: 11 
 maxZoom: 18
 ```

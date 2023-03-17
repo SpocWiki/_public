@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Torre Annunciata
-coordinates: [[Torre Annunciata]]
-markerFile: [[Torre Annunciata]]
+coordinates: [[Torre_Annunciata]]
+markerFile: [[Torre_Annunciata]]
 defaultZoom: 11 
 maxZoom: 18
 ```

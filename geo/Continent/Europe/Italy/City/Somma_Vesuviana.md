@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Somma Vesuviana
-coordinates: [[Somma Vesuviana]]
-markerFile: [[Somma Vesuviana]]
+coordinates: [[Somma_Vesuviana]]
+markerFile: [[Somma_Vesuviana]]
 defaultZoom: 11 
 maxZoom: 18
 ```

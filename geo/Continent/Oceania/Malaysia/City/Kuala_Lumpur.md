@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Kuala Lumpur
-coordinates: [[Kuala Lumpur]]
-markerFile: [[Kuala Lumpur]]
+coordinates: [[Kuala_Lumpur]]
+markerFile: [[Kuala_Lumpur]]
 defaultZoom: 11 
 maxZoom: 18
 ```

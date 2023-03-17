@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Karlstadt bei Wuerzburg
-coordinates: [[Karlstadt bei Wuerzburg]]
-markerFile: [[Karlstadt bei Wuerzburg]]
+coordinates: [[Karlstadt_bei_Wuerzburg]]
+markerFile: [[Karlstadt_bei_Wuerzburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

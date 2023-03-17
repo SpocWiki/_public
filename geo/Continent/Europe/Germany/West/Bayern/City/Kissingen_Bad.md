@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Kissingen Bad
-coordinates: [[Kissingen Bad]]
-markerFile: [[Kissingen Bad]]
+coordinates: [[Kissingen_Bad]]
+markerFile: [[Kissingen_Bad]]
 defaultZoom: 11 
 maxZoom: 18
 ```

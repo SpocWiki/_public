@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Birr Castle
-coordinates: [[Birr Castle]]
-markerFile: [[Birr Castle]]
+coordinates: [[Birr_Castle]]
+markerFile: [[Birr_Castle]]
 defaultZoom: 11 
 maxZoom: 18
 ```

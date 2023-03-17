@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.9,8.05]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Weidenau an der Sieg
-coordinates: [[Weidenau an der Sieg]]
-markerFile: [[Weidenau an der Sieg]]
+coordinates: [[Weidenau~Sieg]]
+markerFile: [[Weidenau~Sieg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

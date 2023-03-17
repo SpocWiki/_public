@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bad Cannstatt
-coordinates: [[Bad Cannstatt]]
-markerFile: [[Bad Cannstatt]]
+coordinates: [[Bad_Cannstatt]]
+markerFile: [[Bad_Cannstatt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Castellamaro di Golfo
-coordinates: [[Castellamaro di Golfo]]
-markerFile: [[Castellamaro di Golfo]]
+coordinates: [[Castellamaro_di_Golfo]]
+markerFile: [[Castellamaro_di_Golfo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

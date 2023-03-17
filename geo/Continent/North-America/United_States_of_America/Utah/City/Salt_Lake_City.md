@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Salt Lake City
-coordinates: [[Salt Lake City]]
-markerFile: [[Salt Lake City]]
+coordinates: [[Salt_Lake_City]]
+markerFile: [[Salt_Lake_City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bad Gastein
-coordinates: [[Bad Gastein]]
-markerFile: [[Bad Gastein]]
+coordinates: [[Bad_Gastein]]
+markerFile: [[Bad_Gastein]]
 defaultZoom: 11 
 maxZoom: 18
 ```

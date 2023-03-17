@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Kovima=la Basse
-coordinates: [[Kovima=la Basse]]
-markerFile: [[Kovima=la Basse]]
+coordinates: [[Kovima=la_Basse]]
+markerFile: [[Kovima=la_Basse]]
 defaultZoom: 11 
 maxZoom: 18
 ```

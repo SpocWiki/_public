@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Le Creusot
-coordinates: [[Le Creusot]]
-markerFile: [[Le Creusot]]
+coordinates: [[Le_Creusot]]
+markerFile: [[Le_Creusot]]
 defaultZoom: 11 
 maxZoom: 18
 ```

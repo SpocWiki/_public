@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: The Valley
-coordinates: [[The Valley]]
-markerFile: [[The Valley]]
+coordinates: [[The_Valley]]
+markerFile: [[The_Valley]]
 defaultZoom: 11 
 maxZoom: 18
 ```

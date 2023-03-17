@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Abu Dhabi
-coordinates: [[Abu Dhabi]]
-markerFile: [[Abu Dhabi]]
+coordinates: [[Abu_Dhabi]]
+markerFile: [[Abu_Dhabi]]
 defaultZoom: 11 
 maxZoom: 18
 ```

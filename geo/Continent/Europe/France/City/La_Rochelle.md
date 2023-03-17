@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: La Rochelle
-coordinates: [[La Rochelle]]
-markerFile: [[La Rochelle]]
+coordinates: [[La_Rochelle]]
+markerFile: [[La_Rochelle]]
 defaultZoom: 11 
 maxZoom: 18
 ```

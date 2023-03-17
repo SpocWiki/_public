@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: An Uaimh
-coordinates: [[An Uaimh]]
-markerFile: [[An Uaimh]]
+coordinates: [[An_Uaimh]]
+markerFile: [[An_Uaimh]]
 defaultZoom: 11 
 maxZoom: 18
 ```

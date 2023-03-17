@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Sankt Huelfe
-coordinates: [[Sankt Huelfe]]
-markerFile: [[Sankt Huelfe]]
+coordinates: [[Sankt_Huelfe]]
+markerFile: [[Sankt_Huelfe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

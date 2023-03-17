@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Metzingen~Baden Wuerttemberg
-coordinates: [[Metzingen~Baden Wuerttemberg]]
-markerFile: [[Metzingen~Baden Wuerttemberg]]
+coordinates: [[Metzingen~Baden_Wuerttemberg]]
+markerFile: [[Metzingen~Baden_Wuerttemberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Von der Heydt
-coordinates: [[Von der Heydt]]
-markerFile: [[Von der Heydt]]
+coordinates: [[Von_der_Heydt]]
+markerFile: [[Von_der_Heydt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

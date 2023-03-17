@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Borgo San Siro
-coordinates: [[Borgo San Siro]]
-markerFile: [[Borgo San Siro]]
+coordinates: [[Borgo_San_Siro]]
+markerFile: [[Borgo_San_Siro]]
 defaultZoom: 11 
 maxZoom: 18
 ```

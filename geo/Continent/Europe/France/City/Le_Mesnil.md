@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Le Mesnil
-coordinates: [[Le Mesnil]]
-markerFile: [[Le Mesnil]]
+coordinates: [[Le_Mesnil]]
+markerFile: [[Le_Mesnil]]
 defaultZoom: 11 
 maxZoom: 18
 ```

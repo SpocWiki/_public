@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: El Aaiún (Laâyoune)
-coordinates: [[El Aaiún (Laâyoune)]]
-markerFile: [[El Aaiún (Laâyoune)]]
+coordinates: [[El_Aaiún_(Laâyoune)]]
+markerFile: [[El_Aaiún_(Laâyoune)]]
 defaultZoom: 11 
 maxZoom: 18
 ```

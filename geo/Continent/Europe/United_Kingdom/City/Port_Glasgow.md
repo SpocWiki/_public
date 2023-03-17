@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Port Glasgow
-coordinates: [[Port Glasgow]]
-markerFile: [[Port Glasgow]]
+coordinates: [[Port_Glasgow]]
+markerFile: [[Port_Glasgow]]
 defaultZoom: 11 
 maxZoom: 18
 ```

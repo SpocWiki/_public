@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Torre del Mar
-coordinates: [[Torre del Mar]]
-markerFile: [[Torre del Mar]]
+coordinates: [[Torre_del_Mar]]
+markerFile: [[Torre_del_Mar]]
 defaultZoom: 11 
 maxZoom: 18
 ```

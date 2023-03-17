@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Wyk auf Foehr
-coordinates: [[Wyk auf Foehr]]
-markerFile: [[Wyk auf Foehr]]
+coordinates: [[Wyk_auf_Foehr]]
+markerFile: [[Wyk_auf_Foehr]]
 defaultZoom: 11 
 maxZoom: 18
 ```

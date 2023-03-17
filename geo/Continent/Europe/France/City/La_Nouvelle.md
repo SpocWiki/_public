@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: La Nouvelle
-coordinates: [[La Nouvelle]]
-markerFile: [[La Nouvelle]]
+coordinates: [[La_Nouvelle]]
+markerFile: [[La_Nouvelle]]
 defaultZoom: 11 
 maxZoom: 18
 ```

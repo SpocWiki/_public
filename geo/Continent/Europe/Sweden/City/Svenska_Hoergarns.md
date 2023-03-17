@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Svenska Hoergarns
-coordinates: [[Svenska Hoergarns]]
-markerFile: [[Svenska Hoergarns]]
+coordinates: [[Svenska_Hoergarns]]
+markerFile: [[Svenska_Hoergarns]]
 defaultZoom: 11 
 maxZoom: 18
 ```

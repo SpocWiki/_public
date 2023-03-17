@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Jerez de la Frontera
-coordinates: [[Jerez de la Frontera]]
-markerFile: [[Jerez de la Frontera]]
+coordinates: [[Jerez_de_la_Frontera]]
+markerFile: [[Jerez_de_la_Frontera]]
 defaultZoom: 11 
 maxZoom: 18
 ```

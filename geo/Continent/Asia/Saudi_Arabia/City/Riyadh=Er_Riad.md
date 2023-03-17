@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Riyadh=Er Riad
-coordinates: [[Riyadh=Er Riad]]
-markerFile: [[Riyadh=Er Riad]]
+coordinates: [[Riyadh=Er_Riad]]
+markerFile: [[Riyadh=Er_Riad]]
 defaultZoom: 11 
 maxZoom: 18
 ```

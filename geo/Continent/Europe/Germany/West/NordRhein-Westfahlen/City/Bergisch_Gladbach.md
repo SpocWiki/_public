@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Bergisch Gladbach
-coordinates: [[Bergisch Gladbach]]
-markerFile: [[Bergisch Gladbach]]
+coordinates: [[Bergisch_Gladbach]]
+markerFile: [[Bergisch_Gladbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```

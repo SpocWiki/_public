@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.01,15.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Rothenburg an der Oder
-coordinates: [[Rothenburg an der Oder]]
-markerFile: [[Rothenburg an der Oder]]
+coordinates: [[Rothenburg~Oder]]
+markerFile: [[Rothenburg~Oder]]
 defaultZoom: 11 
 maxZoom: 18
 ```

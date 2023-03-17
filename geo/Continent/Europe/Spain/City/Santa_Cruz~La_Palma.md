@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Santa Cruz~La Palma
-coordinates: [[Santa Cruz~La Palma]]
-markerFile: [[Santa Cruz~La Palma]]
+coordinates: [[Santa_Cruz~La_Palma]]
+markerFile: [[Santa_Cruz~La_Palma]]
 defaultZoom: 11 
 maxZoom: 18
 ```

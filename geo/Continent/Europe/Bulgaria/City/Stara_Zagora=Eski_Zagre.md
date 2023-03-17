@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Stara Zagora=Eski Zagre
-coordinates: [[Stara Zagora=Eski Zagre]]
-markerFile: [[Stara Zagora=Eski Zagre]]
+coordinates: [[Stara_Zagora=Eski_Zagre]]
+markerFile: [[Stara_Zagora=Eski_Zagre]]
 defaultZoom: 11 
 maxZoom: 18
 ```

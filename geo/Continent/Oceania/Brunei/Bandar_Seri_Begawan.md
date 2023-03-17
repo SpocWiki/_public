@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Bandar Seri Begawan
-coordinates: [[Bandar Seri Begawan]]
-markerFile: [[Bandar Seri Begawan]]
+coordinates: [[Bandar_Seri_Begawan]]
+markerFile: [[Bandar_Seri_Begawan]]
 defaultZoom: 11 
 maxZoom: 18
 ```

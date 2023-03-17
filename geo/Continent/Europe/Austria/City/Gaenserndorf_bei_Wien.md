@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Gaenserndorf bei Wien
-coordinates: [[Gaenserndorf bei Wien]]
-markerFile: [[Gaenserndorf bei Wien]]
+coordinates: [[Gaenserndorf_bei_Wien]]
+markerFile: [[Gaenserndorf_bei_Wien]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: North Foreland
-coordinates: [[North Foreland]]
-markerFile: [[North Foreland]]
+coordinates: [[North_Foreland]]
+markerFile: [[North_Foreland]]
 defaultZoom: 11 
 maxZoom: 18
 ```

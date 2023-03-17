@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Martina Franka
-coordinates: [[Martina Franka]]
-markerFile: [[Martina Franka]]
+coordinates: [[Martina_Franka]]
+markerFile: [[Martina_Franka]]
 defaultZoom: 11 
 maxZoom: 18
 ```

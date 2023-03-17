@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Villeneuve s. Lot.
-coordinates: [[Villeneuve s. Lot.]]
-markerFile: [[Villeneuve s. Lot.]]
+coordinates: [[Villeneuve_s._Lot.]]
+markerFile: [[Villeneuve_s._Lot.]]
 defaultZoom: 11 
 maxZoom: 18
 ```

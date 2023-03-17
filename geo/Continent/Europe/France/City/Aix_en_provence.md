@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Aix en provence
-coordinates: [[Aix en provence]]
-markerFile: [[Aix en provence]]
+coordinates: [[Aix_en_provence]]
+markerFile: [[Aix_en_provence]]
 defaultZoom: 11 
 maxZoom: 18
 ```

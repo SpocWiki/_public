@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Santiago de Compostela
-coordinates: [[Santiago de Compostela]]
-markerFile: [[Santiago de Compostela]]
+coordinates: [[Santiago_de_Compostela]]
+markerFile: [[Santiago_de_Compostela]]
 defaultZoom: 11 
 maxZoom: 18
 ```

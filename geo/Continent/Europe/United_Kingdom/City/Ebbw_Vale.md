@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Ebbw Vale
-coordinates: [[Ebbw Vale]]
-markerFile: [[Ebbw Vale]]
+coordinates: [[Ebbw_Vale]]
+markerFile: [[Ebbw_Vale]]
 defaultZoom: 11 
 maxZoom: 18
 ```

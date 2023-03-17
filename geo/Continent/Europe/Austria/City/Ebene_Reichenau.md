@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Ebene Reichenau
-coordinates: [[Ebene Reichenau]]
-markerFile: [[Ebene Reichenau]]
+coordinates: [[Ebene_Reichenau]]
+markerFile: [[Ebene_Reichenau]]
 defaultZoom: 11 
 maxZoom: 18
 ```

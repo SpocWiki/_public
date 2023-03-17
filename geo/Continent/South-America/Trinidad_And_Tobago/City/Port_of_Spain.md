@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Port of Spain
-coordinates: [[Port of Spain]]
-markerFile: [[Port of Spain]]
+coordinates: [[Port_of_Spain]]
+markerFile: [[Port_of_Spain]]
 defaultZoom: 11 
 maxZoom: 18
 ```

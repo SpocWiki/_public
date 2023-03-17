@@ -23,8 +23,8 @@ confidential: public
 
 ```leaflet
 id: Neukirch bei Furtwangen
-coordinates: [[Neukirch bei Furtwangen]]
-markerFile: [[Neukirch bei Furtwangen]]
+coordinates: [[Neukirch_bei_Furtwangen]]
+markerFile: [[Neukirch_bei_Furtwangen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
