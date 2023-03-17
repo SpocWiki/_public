@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wladiwostok
+coordinates: [[Wladiwostok]]
+markerFile: [[Wladiwostok]]
+defaultZoom: 11 
+maxZoom: 18
+```

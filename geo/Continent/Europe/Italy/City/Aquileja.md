@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.77,13.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aquileja
+coordinates: [[Aquileja]]
+markerFile: [[Aquileja]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flein
+coordinates: [[Flein]]
+markerFile: [[Flein]]
+defaultZoom: 11 
+maxZoom: 18
+```

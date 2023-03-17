@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torgelow
+coordinates: [[Torgelow]]
+markerFile: [[Torgelow]]
+defaultZoom: 11 
+maxZoom: 18
+```

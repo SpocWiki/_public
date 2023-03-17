@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stoke-upon-Trent
+coordinates: [[Stoke-upon-Trent]]
+markerFile: [[Stoke-upon-Trent]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.5,14.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stolzenhagen
+coordinates: [[Stolzenhagen]]
+markerFile: [[Stolzenhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Morbegno
+coordinates: [[Morbegno]]
+markerFile: [[Morbegno]]
+defaultZoom: 11 
+maxZoom: 18
+```

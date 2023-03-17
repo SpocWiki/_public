@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.33,6.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wallerfangen
+coordinates: [[Wallerfangen]]
+markerFile: [[Wallerfangen]]
+defaultZoom: 11 
+maxZoom: 18
+```

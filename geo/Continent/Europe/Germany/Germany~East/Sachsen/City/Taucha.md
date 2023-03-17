@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taucha
+coordinates: [[Taucha]]
+markerFile: [[Taucha]]
+defaultZoom: 11 
+maxZoom: 18
+```

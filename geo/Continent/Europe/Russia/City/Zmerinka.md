@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.03,28.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zmerinka
+coordinates: [[Zmerinka]]
+markerFile: [[Zmerinka]]
+defaultZoom: 11 
+maxZoom: 18
+```

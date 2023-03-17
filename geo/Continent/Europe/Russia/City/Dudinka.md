@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dudinka
+coordinates: [[Dudinka]]
+markerFile: [[Dudinka]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rottneros
+coordinates: [[Rottneros]]
+markerFile: [[Rottneros]]
+defaultZoom: 11 
+maxZoom: 18
+```

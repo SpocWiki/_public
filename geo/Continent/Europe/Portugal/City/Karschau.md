@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.77,17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karschau
+coordinates: [[Karschau]]
+markerFile: [[Karschau]]
+defaultZoom: 11 
+maxZoom: 18
+```

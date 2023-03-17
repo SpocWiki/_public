@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Worcester
+coordinates: [[Worcester]]
+markerFile: [[Worcester]]
+defaultZoom: 11 
+maxZoom: 18
+```

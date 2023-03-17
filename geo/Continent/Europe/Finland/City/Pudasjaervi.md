@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pudasjaervi
+coordinates: [[Pudasjaervi]]
+markerFile: [[Pudasjaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

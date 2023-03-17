@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jesi
+coordinates: [[Jesi]]
+markerFile: [[Jesi]]
+defaultZoom: 11 
+maxZoom: 18
+```

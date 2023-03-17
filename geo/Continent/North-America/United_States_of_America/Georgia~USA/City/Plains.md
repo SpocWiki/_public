@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plains
+coordinates: [[Plains]]
+markerFile: [[Plains]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.37,8.98]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mengeringhausen
+coordinates: [[Mengeringhausen]]
+markerFile: [[Mengeringhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

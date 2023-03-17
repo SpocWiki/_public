@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tating
+coordinates: [[Tating]]
+markerFile: [[Tating]]
+defaultZoom: 11 
+maxZoom: 18
+```

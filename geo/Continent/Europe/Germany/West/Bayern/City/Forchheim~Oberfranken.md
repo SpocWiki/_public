@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forchheim~Oberfranken
+coordinates: [[Forchheim~Oberfranken]]
+markerFile: [[Forchheim~Oberfranken]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kotor
+coordinates: [[Kotor]]
+markerFile: [[Kotor]]
+defaultZoom: 11 
+maxZoom: 18
+```

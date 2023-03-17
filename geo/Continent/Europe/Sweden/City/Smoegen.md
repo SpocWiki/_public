@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Smoegen
+coordinates: [[Smoegen]]
+markerFile: [[Smoegen]]
+defaultZoom: 11 
+maxZoom: 18
+```

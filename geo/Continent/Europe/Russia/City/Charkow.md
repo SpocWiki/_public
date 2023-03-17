@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.98,36.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Charkow
+coordinates: [[Charkow]]
+markerFile: [[Charkow]]
+defaultZoom: 11 
+maxZoom: 18
+```

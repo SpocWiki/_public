@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Diepholz
+coordinates: [[Diepholz]]
+markerFile: [[Diepholz]]
+defaultZoom: 11 
+maxZoom: 18
+```

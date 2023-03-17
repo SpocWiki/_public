@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deutsch-Kravern
+coordinates: [[Deutsch-Kravern]]
+markerFile: [[Deutsch-Kravern]]
+defaultZoom: 11 
+maxZoom: 18
+```

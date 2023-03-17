@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harthau
+coordinates: [[Harthau]]
+markerFile: [[Harthau]]
+defaultZoom: 11 
+maxZoom: 18
+```

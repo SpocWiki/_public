@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marienfels
+coordinates: [[Marienfels]]
+markerFile: [[Marienfels]]
+defaultZoom: 11 
+maxZoom: 18
+```

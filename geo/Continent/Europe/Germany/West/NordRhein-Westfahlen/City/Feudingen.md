@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Feudingen
+coordinates: [[Feudingen]]
+markerFile: [[Feudingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

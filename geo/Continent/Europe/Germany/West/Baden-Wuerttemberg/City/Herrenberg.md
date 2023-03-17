@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herrenberg
+coordinates: [[Herrenberg]]
+markerFile: [[Herrenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

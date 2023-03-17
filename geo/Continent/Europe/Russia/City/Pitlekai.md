@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pitlekai
+coordinates: [[Pitlekai]]
+markerFile: [[Pitlekai]]
+defaultZoom: 11 
+maxZoom: 18
+```

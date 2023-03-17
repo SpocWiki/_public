@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Josefsberg
+coordinates: [[Josefsberg]]
+markerFile: [[Josefsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

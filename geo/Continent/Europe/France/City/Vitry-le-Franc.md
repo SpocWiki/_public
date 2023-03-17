@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.73,4.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vitry-le-Franc
+coordinates: [[Vitry-le-Franc]]
+markerFile: [[Vitry-le-Franc]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belgard
+coordinates: [[Belgard]]
+markerFile: [[Belgard]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radenthein
+coordinates: [[Radenthein]]
+markerFile: [[Radenthein]]
+defaultZoom: 11 
+maxZoom: 18
+```

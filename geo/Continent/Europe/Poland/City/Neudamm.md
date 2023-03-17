@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neudamm
+coordinates: [[Neudamm]]
+markerFile: [[Neudamm]]
+defaultZoom: 11 
+maxZoom: 18
+```

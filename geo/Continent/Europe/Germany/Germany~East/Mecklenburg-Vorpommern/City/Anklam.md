@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Anklam
+coordinates: [[Anklam]]
+markerFile: [[Anklam]]
+defaultZoom: 11 
+maxZoom: 18
+```

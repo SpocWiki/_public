@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hille
+coordinates: [[Hille]]
+markerFile: [[Hille]]
+defaultZoom: 11 
+maxZoom: 18
+```

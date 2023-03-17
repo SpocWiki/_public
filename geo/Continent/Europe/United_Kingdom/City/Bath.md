@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bath
+coordinates: [[Bath]]
+markerFile: [[Bath]]
+defaultZoom: 11 
+maxZoom: 18
+```

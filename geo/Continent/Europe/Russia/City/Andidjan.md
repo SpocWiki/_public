@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Andidjan
+coordinates: [[Andidjan]]
+markerFile: [[Andidjan]]
+defaultZoom: 11 
+maxZoom: 18
+```

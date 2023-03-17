@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strumica
+coordinates: [[Strumica]]
+markerFile: [[Strumica]]
+defaultZoom: 11 
+maxZoom: 18
+```

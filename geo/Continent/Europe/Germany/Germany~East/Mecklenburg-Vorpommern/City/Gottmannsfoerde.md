@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gottmannsfoerde
+coordinates: [[Gottmannsfoerde]]
+markerFile: [[Gottmannsfoerde]]
+defaultZoom: 11 
+maxZoom: 18
+```

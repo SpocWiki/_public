@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koogiste
+coordinates: [[Koogiste]]
+markerFile: [[Koogiste]]
+defaultZoom: 11 
+maxZoom: 18
+```

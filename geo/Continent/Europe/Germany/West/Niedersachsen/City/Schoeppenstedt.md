@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoeppenstedt
+coordinates: [[Schoeppenstedt]]
+markerFile: [[Schoeppenstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

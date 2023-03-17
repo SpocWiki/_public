@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merijaervi
+coordinates: [[Merijaervi]]
+markerFile: [[Merijaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

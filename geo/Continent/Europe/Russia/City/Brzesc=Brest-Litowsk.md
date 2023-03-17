@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.1,23.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brzesc=Brest-Litowsk
+coordinates: [[Brzesc=Brest-Litowsk]]
+markerFile: [[Brzesc=Brest-Litowsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

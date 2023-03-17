@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strelitz
+coordinates: [[Strelitz]]
+markerFile: [[Strelitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

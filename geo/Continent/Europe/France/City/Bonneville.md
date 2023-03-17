@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bonneville
+coordinates: [[Bonneville]]
+markerFile: [[Bonneville]]
+defaultZoom: 11 
+maxZoom: 18
+```

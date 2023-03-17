@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuenburg~Oldenburg
+coordinates: [[Neuenburg~Oldenburg]]
+markerFile: [[Neuenburg~Oldenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Banja Luka
+coordinates: [[Banja Luka]]
+markerFile: [[Banja Luka]]
+defaultZoom: 11 
+maxZoom: 18
+```

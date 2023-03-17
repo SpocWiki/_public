@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lensalm
+coordinates: [[Lensalm]]
+markerFile: [[Lensalm]]
+defaultZoom: 11 
+maxZoom: 18
+```

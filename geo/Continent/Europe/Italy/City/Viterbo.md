@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.42,12.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Viterbo
+coordinates: [[Viterbo]]
+markerFile: [[Viterbo]]
+defaultZoom: 11 
+maxZoom: 18
+```

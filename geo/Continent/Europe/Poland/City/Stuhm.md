@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.92,19.05]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stuhm
+coordinates: [[Stuhm]]
+markerFile: [[Stuhm]]
+defaultZoom: 11 
+maxZoom: 18
+```

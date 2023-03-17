@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tralee
+coordinates: [[Tralee]]
+markerFile: [[Tralee]]
+defaultZoom: 11 
+maxZoom: 18
+```

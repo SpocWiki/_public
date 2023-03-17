@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bretten
+coordinates: [[Bretten]]
+markerFile: [[Bretten]]
+defaultZoom: 11 
+maxZoom: 18
+```

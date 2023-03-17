@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.53,1.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Etaples
+coordinates: [[Etaples]]
+markerFile: [[Etaples]]
+defaultZoom: 11 
+maxZoom: 18
+```

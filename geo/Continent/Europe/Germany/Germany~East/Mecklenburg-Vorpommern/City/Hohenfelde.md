@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohenfelde
+coordinates: [[Hohenfelde]]
+markerFile: [[Hohenfelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

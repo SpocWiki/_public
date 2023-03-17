@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schmalegg
+coordinates: [[Schmalegg]]
+markerFile: [[Schmalegg]]
+defaultZoom: 11 
+maxZoom: 18
+```

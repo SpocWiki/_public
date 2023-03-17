@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.07,18.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Studzienna
+coordinates: [[Studzienna]]
+markerFile: [[Studzienna]]
+defaultZoom: 11 
+maxZoom: 18
+```

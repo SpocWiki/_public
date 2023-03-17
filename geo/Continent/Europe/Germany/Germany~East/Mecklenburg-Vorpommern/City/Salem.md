@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salem
+coordinates: [[Salem]]
+markerFile: [[Salem]]
+defaultZoom: 11 
+maxZoom: 18
+```

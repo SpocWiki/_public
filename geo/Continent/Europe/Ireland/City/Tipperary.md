@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tipperary
+coordinates: [[Tipperary]]
+markerFile: [[Tipperary]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eger
+coordinates: [[Eger]]
+markerFile: [[Eger]]
+defaultZoom: 11 
+maxZoom: 18
+```

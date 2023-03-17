@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nieuport
+coordinates: [[Nieuport]]
+markerFile: [[Nieuport]]
+defaultZoom: 11 
+maxZoom: 18
+```

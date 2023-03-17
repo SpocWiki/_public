@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.9,16.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zobten
+coordinates: [[Zobten]]
+markerFile: [[Zobten]]
+defaultZoom: 11 
+maxZoom: 18
+```

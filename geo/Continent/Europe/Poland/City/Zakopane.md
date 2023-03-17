@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zakopane
+coordinates: [[Zakopane]]
+markerFile: [[Zakopane]]
+defaultZoom: 11 
+maxZoom: 18
+```

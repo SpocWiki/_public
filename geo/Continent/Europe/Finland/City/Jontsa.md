@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jontsa
+coordinates: [[Jontsa]]
+markerFile: [[Jontsa]]
+defaultZoom: 11 
+maxZoom: 18
+```

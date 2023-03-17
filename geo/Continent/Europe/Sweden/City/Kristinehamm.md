@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kristinehamm
+coordinates: [[Kristinehamm]]
+markerFile: [[Kristinehamm]]
+defaultZoom: 11 
+maxZoom: 18
+```

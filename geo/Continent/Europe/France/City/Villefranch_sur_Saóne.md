@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villefranch sur Saóne
+coordinates: [[Villefranch sur Saóne]]
+markerFile: [[Villefranch sur Saóne]]
+defaultZoom: 11 
+maxZoom: 18
+```

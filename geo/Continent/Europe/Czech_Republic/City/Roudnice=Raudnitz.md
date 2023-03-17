@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roudnice=Raudnitz
+coordinates: [[Roudnice=Raudnitz]]
+markerFile: [[Roudnice=Raudnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

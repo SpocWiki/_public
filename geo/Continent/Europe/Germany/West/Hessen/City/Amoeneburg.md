@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amoeneburg
+coordinates: [[Amoeneburg]]
+markerFile: [[Amoeneburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

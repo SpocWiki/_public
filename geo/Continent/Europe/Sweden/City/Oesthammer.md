@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oesthammer
+coordinates: [[Oesthammer]]
+markerFile: [[Oesthammer]]
+defaultZoom: 11 
+maxZoom: 18
+```

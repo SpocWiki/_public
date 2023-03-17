@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jueterbog
+coordinates: [[Jueterbog]]
+markerFile: [[Jueterbog]]
+defaultZoom: 11 
+maxZoom: 18
+```

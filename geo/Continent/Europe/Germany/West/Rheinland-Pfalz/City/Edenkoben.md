@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Edenkoben
+coordinates: [[Edenkoben]]
+markerFile: [[Edenkoben]]
+defaultZoom: 11 
+maxZoom: 18
+```

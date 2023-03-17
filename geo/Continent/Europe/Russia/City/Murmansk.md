@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Murmansk
+coordinates: [[Murmansk]]
+markerFile: [[Murmansk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vodja
+coordinates: [[Vodja]]
+markerFile: [[Vodja]]
+defaultZoom: 11 
+maxZoom: 18
+```

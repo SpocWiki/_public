@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salzbrunn
+coordinates: [[Salzbrunn]]
+markerFile: [[Salzbrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

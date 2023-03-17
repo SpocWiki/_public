@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kronberg
+coordinates: [[Kronberg]]
+markerFile: [[Kronberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schneeherz
+coordinates: [[Schneeherz]]
+markerFile: [[Schneeherz]]
+defaultZoom: 11 
+maxZoom: 18
+```

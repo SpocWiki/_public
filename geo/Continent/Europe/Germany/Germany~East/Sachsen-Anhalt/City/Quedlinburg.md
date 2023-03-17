@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quedlinburg
+coordinates: [[Quedlinburg]]
+markerFile: [[Quedlinburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

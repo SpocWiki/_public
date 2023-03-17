@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kursenau
+coordinates: [[Kursenau]]
+markerFile: [[Kursenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

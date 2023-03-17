@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Craveggia
+coordinates: [[Craveggia]]
+markerFile: [[Craveggia]]
+defaultZoom: 11 
+maxZoom: 18
+```

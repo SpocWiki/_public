@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montbard
+coordinates: [[Montbard]]
+markerFile: [[Montbard]]
+defaultZoom: 11 
+maxZoom: 18
+```

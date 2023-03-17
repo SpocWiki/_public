@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oropesa
+coordinates: [[Oropesa]]
+markerFile: [[Oropesa]]
+defaultZoom: 11 
+maxZoom: 18
+```

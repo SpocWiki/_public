@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Potsdam
+coordinates: [[Potsdam]]
+markerFile: [[Potsdam]]
+defaultZoom: 11 
+maxZoom: 18
+```

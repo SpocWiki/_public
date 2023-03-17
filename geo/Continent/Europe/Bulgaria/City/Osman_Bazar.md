@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.1,26.42]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osman Bazar
+coordinates: [[Osman Bazar]]
+markerFile: [[Osman Bazar]]
+defaultZoom: 11 
+maxZoom: 18
+```

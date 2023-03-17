@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.01,13.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zwiesel
+coordinates: [[Zwiesel]]
+markerFile: [[Zwiesel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kisil-arwat
+coordinates: [[Kisil-arwat]]
+markerFile: [[Kisil-arwat]]
+defaultZoom: 11 
+maxZoom: 18
+```

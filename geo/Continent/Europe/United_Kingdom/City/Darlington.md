@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Darlington
+coordinates: [[Darlington]]
+markerFile: [[Darlington]]
+defaultZoom: 11 
+maxZoom: 18
+```

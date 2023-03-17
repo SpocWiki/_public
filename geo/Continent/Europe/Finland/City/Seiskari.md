@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seiskari
+coordinates: [[Seiskari]]
+markerFile: [[Seiskari]]
+defaultZoom: 11 
+maxZoom: 18
+```

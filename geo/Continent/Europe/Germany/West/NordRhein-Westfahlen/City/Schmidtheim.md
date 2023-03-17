@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schmidtheim
+coordinates: [[Schmidtheim]]
+markerFile: [[Schmidtheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

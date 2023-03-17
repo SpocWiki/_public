@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neunkirchen~Saar
+coordinates: [[Neunkirchen~Saar]]
+markerFile: [[Neunkirchen~Saar]]
+defaultZoom: 11 
+maxZoom: 18
+```

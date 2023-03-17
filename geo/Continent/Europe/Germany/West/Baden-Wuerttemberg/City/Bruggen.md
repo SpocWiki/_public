@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruggen
+coordinates: [[Bruggen]]
+markerFile: [[Bruggen]]
+defaultZoom: 11 
+maxZoom: 18
+```

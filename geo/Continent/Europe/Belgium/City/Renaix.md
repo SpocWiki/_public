@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Renaix
+coordinates: [[Renaix]]
+markerFile: [[Renaix]]
+defaultZoom: 11 
+maxZoom: 18
+```

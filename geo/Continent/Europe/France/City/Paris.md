@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paris
+coordinates: [[Paris]]
+markerFile: [[Paris]]
+defaultZoom: 11 
+maxZoom: 18
+```

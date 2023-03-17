@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mt.Palomar
+coordinates: [[Mt.Palomar]]
+markerFile: [[Mt.Palomar]]
+defaultZoom: 11 
+maxZoom: 18
+```

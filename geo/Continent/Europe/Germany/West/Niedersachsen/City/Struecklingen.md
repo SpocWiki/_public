@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Struecklingen
+coordinates: [[Struecklingen]]
+markerFile: [[Struecklingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

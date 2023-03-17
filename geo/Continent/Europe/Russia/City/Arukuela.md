@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arukuela
+coordinates: [[Arukuela]]
+markerFile: [[Arukuela]]
+defaultZoom: 11 
+maxZoom: 18
+```

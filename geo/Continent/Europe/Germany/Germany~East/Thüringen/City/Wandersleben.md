@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wandersleben
+coordinates: [[Wandersleben]]
+markerFile: [[Wandersleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

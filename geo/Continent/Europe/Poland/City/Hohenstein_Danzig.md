@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohenstein/Danzig
+coordinates: [[Hohenstein/Danzig]]
+markerFile: [[Hohenstein/Danzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

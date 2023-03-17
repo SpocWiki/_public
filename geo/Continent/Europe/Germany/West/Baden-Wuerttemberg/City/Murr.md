@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.97,9.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Murr
+coordinates: [[Murr]]
+markerFile: [[Murr]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lerida
+coordinates: [[Lerida]]
+markerFile: [[Lerida]]
+defaultZoom: 11 
+maxZoom: 18
+```

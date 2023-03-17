@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vasvar
+coordinates: [[Vasvar]]
+markerFile: [[Vasvar]]
+defaultZoom: 11 
+maxZoom: 18
+```

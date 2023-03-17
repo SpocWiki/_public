@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Benediktbeuren
+coordinates: [[Benediktbeuren]]
+markerFile: [[Benediktbeuren]]
+defaultZoom: 11 
+maxZoom: 18
+```

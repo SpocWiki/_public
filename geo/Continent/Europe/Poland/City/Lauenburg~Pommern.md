@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.55,17.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lauenburg~Pommern
+coordinates: [[Lauenburg~Pommern]]
+markerFile: [[Lauenburg~Pommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

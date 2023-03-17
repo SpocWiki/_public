@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schirgiswalde
+coordinates: [[Schirgiswalde]]
+markerFile: [[Schirgiswalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

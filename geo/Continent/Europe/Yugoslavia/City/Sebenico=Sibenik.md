@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sebenico=Sibenik
+coordinates: [[Sebenico=Sibenik]]
+markerFile: [[Sebenico=Sibenik]]
+defaultZoom: 11 
+maxZoom: 18
+```

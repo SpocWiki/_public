@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschigirin
+coordinates: [[Tschigirin]]
+markerFile: [[Tschigirin]]
+defaultZoom: 11 
+maxZoom: 18
+```

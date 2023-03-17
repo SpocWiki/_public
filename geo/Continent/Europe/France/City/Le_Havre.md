@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Le Havre
+coordinates: [[Le Havre]]
+markerFile: [[Le Havre]]
+defaultZoom: 11 
+maxZoom: 18
+```

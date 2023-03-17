@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arolsen
+coordinates: [[Arolsen]]
+markerFile: [[Arolsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

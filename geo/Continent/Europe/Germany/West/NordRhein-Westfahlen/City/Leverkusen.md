@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leverkusen
+coordinates: [[Leverkusen]]
+markerFile: [[Leverkusen]]
+defaultZoom: 11 
+maxZoom: 18
+```

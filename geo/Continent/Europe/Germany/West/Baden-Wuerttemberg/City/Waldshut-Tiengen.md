@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldshut-Tiengen
+coordinates: [[Waldshut-Tiengen]]
+markerFile: [[Waldshut-Tiengen]]
+defaultZoom: 11 
+maxZoom: 18
+```

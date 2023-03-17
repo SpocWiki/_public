@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.07,9.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kahl
+coordinates: [[Kahl]]
+markerFile: [[Kahl]]
+defaultZoom: 11 
+maxZoom: 18
+```

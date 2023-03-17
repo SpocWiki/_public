@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wurmbrand
+coordinates: [[Wurmbrand]]
+markerFile: [[Wurmbrand]]
+defaultZoom: 11 
+maxZoom: 18
+```

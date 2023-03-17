@@ -1,4 +1,4 @@
----
+﻿---
 location: [70.37,31.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vardoe
+coordinates: [[Vardoe]]
+markerFile: [[Vardoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

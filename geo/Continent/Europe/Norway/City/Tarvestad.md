@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tarvestad
+coordinates: [[Tarvestad]]
+markerFile: [[Tarvestad]]
+defaultZoom: 11 
+maxZoom: 18
+```

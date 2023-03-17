@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rauschenberg
+coordinates: [[Rauschenberg]]
+markerFile: [[Rauschenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

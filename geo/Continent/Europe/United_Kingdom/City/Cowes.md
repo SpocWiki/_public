@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cowes
+coordinates: [[Cowes]]
+markerFile: [[Cowes]]
+defaultZoom: 11 
+maxZoom: 18
+```

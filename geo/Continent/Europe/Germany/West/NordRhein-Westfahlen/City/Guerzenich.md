@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guerzenich
+coordinates: [[Guerzenich]]
+markerFile: [[Guerzenich]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Argentan
+coordinates: [[Argentan]]
+markerFile: [[Argentan]]
+defaultZoom: 11 
+maxZoom: 18
+```

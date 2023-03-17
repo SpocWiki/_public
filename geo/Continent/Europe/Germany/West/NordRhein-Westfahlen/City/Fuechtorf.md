@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuechtorf
+coordinates: [[Fuechtorf]]
+markerFile: [[Fuechtorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

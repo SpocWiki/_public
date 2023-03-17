@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Essen~Oldenburg
+coordinates: [[Bad Essen~Oldenburg]]
+markerFile: [[Bad Essen~Oldenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

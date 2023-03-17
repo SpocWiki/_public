@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.42,7.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landstuhl
+coordinates: [[Landstuhl]]
+markerFile: [[Landstuhl]]
+defaultZoom: 11 
+maxZoom: 18
+```

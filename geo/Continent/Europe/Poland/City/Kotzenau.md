@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kotzenau
+coordinates: [[Kotzenau]]
+markerFile: [[Kotzenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

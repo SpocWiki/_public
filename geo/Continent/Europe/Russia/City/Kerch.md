@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kerch
+coordinates: [[Kerch]]
+markerFile: [[Kerch]]
+defaultZoom: 11 
+maxZoom: 18
+```

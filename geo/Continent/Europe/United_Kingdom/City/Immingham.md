@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Immingham
+coordinates: [[Immingham]]
+markerFile: [[Immingham]]
+defaultZoom: 11 
+maxZoom: 18
+```

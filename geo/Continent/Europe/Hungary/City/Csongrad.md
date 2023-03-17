@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Csongrad
+coordinates: [[Csongrad]]
+markerFile: [[Csongrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

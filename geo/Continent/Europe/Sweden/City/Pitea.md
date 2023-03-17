@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pitea
+coordinates: [[Pitea]]
+markerFile: [[Pitea]]
+defaultZoom: 11 
+maxZoom: 18
+```

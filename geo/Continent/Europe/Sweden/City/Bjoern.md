@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bjoern
+coordinates: [[Bjoern]]
+markerFile: [[Bjoern]]
+defaultZoom: 11 
+maxZoom: 18
+```

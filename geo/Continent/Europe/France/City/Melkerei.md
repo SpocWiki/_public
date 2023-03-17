@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Melkerei
+coordinates: [[Melkerei]]
+markerFile: [[Melkerei]]
+defaultZoom: 11 
+maxZoom: 18
+```

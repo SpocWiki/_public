@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kitzbuehel
+coordinates: [[Kitzbuehel]]
+markerFile: [[Kitzbuehel]]
+defaultZoom: 11 
+maxZoom: 18
+```

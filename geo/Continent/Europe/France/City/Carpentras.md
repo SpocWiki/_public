@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.05,5.05]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carpentras
+coordinates: [[Carpentras]]
+markerFile: [[Carpentras]]
+defaultZoom: 11 
+maxZoom: 18
+```

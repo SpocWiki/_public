@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rackwitz
+coordinates: [[Rackwitz]]
+markerFile: [[Rackwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

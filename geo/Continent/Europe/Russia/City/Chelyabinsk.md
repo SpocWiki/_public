@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.17,61.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chelyabinsk
+coordinates: [[Chelyabinsk]]
+markerFile: [[Chelyabinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

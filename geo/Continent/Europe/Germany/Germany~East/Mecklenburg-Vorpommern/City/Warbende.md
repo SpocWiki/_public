@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warbende
+coordinates: [[Warbende]]
+markerFile: [[Warbende]]
+defaultZoom: 11 
+maxZoom: 18
+```

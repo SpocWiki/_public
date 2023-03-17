@@ -1,4 +1,4 @@
----
+﻿---
 location: [62.65,18.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lungo
+coordinates: [[Lungo]]
+markerFile: [[Lungo]]
+defaultZoom: 11 
+maxZoom: 18
+```

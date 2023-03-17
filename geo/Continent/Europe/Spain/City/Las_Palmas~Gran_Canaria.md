@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Las Palmas~Gran Canaria
+coordinates: [[Las Palmas~Gran Canaria]]
+markerFile: [[Las Palmas~Gran Canaria]]
+defaultZoom: 11 
+maxZoom: 18
+```

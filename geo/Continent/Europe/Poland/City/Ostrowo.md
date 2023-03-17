@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ostrowo
+coordinates: [[Ostrowo]]
+markerFile: [[Ostrowo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.23,117.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strietensk
+coordinates: [[Strietensk]]
+markerFile: [[Strietensk]]
+defaultZoom: 11 
+maxZoom: 18
+```

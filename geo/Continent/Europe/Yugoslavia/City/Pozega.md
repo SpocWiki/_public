@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pozega
+coordinates: [[Pozega]]
+markerFile: [[Pozega]]
+defaultZoom: 11 
+maxZoom: 18
+```

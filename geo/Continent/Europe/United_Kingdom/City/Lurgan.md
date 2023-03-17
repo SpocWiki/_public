@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lurgan
+coordinates: [[Lurgan]]
+markerFile: [[Lurgan]]
+defaultZoom: 11 
+maxZoom: 18
+```

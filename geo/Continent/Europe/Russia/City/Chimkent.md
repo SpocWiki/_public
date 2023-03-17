@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.3,69.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chimkent
+coordinates: [[Chimkent]]
+markerFile: [[Chimkent]]
+defaultZoom: 11 
+maxZoom: 18
+```

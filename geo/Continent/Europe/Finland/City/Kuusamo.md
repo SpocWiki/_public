@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuusamo
+coordinates: [[Kuusamo]]
+markerFile: [[Kuusamo]]
+defaultZoom: 11 
+maxZoom: 18
+```

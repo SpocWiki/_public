@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frauenstein
+coordinates: [[Frauenstein]]
+markerFile: [[Frauenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

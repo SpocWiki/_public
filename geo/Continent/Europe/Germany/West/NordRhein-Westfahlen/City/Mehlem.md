@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mehlem
+coordinates: [[Mehlem]]
+markerFile: [[Mehlem]]
+defaultZoom: 11 
+maxZoom: 18
+```

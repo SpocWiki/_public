@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bertinovo
+coordinates: [[Bertinovo]]
+markerFile: [[Bertinovo]]
+defaultZoom: 11 
+maxZoom: 18
+```

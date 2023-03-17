@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mering
+coordinates: [[Mering]]
+markerFile: [[Mering]]
+defaultZoom: 11 
+maxZoom: 18
+```

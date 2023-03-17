@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ottersberg
+coordinates: [[Ottersberg]]
+markerFile: [[Ottersberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

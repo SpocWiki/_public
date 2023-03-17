@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.62,0.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yvetot
+coordinates: [[Yvetot]]
+markerFile: [[Yvetot]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montargis
+coordinates: [[Montargis]]
+markerFile: [[Montargis]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tilsit
+coordinates: [[Tilsit]]
+markerFile: [[Tilsit]]
+defaultZoom: 11 
+maxZoom: 18
+```

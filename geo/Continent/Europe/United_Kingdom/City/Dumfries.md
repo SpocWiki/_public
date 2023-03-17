@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dumfries
+coordinates: [[Dumfries]]
+markerFile: [[Dumfries]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mallow
+coordinates: [[Mallow]]
+markerFile: [[Mallow]]
+defaultZoom: 11 
+maxZoom: 18
+```

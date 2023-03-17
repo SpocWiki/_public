@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.4,3.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cette
+coordinates: [[Cette]]
+markerFile: [[Cette]]
+defaultZoom: 11 
+maxZoom: 18
+```

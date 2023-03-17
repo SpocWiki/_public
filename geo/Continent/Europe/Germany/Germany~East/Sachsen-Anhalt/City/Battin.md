@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Battin
+coordinates: [[Battin]]
+markerFile: [[Battin]]
+defaultZoom: 11 
+maxZoom: 18
+```

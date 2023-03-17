@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sabac
+coordinates: [[Sabac]]
+markerFile: [[Sabac]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fellin
+coordinates: [[Fellin]]
+markerFile: [[Fellin]]
+defaultZoom: 11 
+maxZoom: 18
+```

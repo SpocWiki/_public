@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Casteinuova Monti
+coordinates: [[Casteinuova Monti]]
+markerFile: [[Casteinuova Monti]]
+defaultZoom: 11 
+maxZoom: 18
+```

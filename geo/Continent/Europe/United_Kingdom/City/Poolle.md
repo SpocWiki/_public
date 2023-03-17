@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poolle
+coordinates: [[Poolle]]
+markerFile: [[Poolle]]
+defaultZoom: 11 
+maxZoom: 18
+```

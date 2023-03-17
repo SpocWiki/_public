@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plettenberg
+coordinates: [[Plettenberg]]
+markerFile: [[Plettenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

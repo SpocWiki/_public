@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paprotsch
+coordinates: [[Paprotsch]]
+markerFile: [[Paprotsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

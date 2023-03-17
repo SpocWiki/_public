@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Akkrum
+coordinates: [[Akkrum]]
+markerFile: [[Akkrum]]
+defaultZoom: 11 
+maxZoom: 18
+```

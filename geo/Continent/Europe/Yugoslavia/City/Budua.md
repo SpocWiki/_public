@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Budua
+coordinates: [[Budua]]
+markerFile: [[Budua]]
+defaultZoom: 11 
+maxZoom: 18
+```

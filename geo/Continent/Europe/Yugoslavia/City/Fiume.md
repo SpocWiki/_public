@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fiume
+coordinates: [[Fiume]]
+markerFile: [[Fiume]]
+defaultZoom: 11 
+maxZoom: 18
+```

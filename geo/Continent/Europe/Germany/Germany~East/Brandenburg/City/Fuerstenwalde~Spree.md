@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuerstenwalde~Spree
+coordinates: [[Fuerstenwalde~Spree]]
+markerFile: [[Fuerstenwalde~Spree]]
+defaultZoom: 11 
+maxZoom: 18
+```

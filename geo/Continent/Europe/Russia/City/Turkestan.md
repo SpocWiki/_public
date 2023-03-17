@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turkestan
+coordinates: [[Turkestan]]
+markerFile: [[Turkestan]]
+defaultZoom: 11 
+maxZoom: 18
+```

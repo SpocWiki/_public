@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Santa Cruz~La Palma
+coordinates: [[Santa Cruz~La Palma]]
+markerFile: [[Santa Cruz~La Palma]]
+defaultZoom: 11 
+maxZoom: 18
+```

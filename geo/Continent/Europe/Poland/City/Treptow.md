@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Treptow
+coordinates: [[Treptow]]
+markerFile: [[Treptow]]
+defaultZoom: 11 
+maxZoom: 18
+```

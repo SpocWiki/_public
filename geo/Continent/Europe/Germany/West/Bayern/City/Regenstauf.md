@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Regenstauf
+coordinates: [[Regenstauf]]
+markerFile: [[Regenstauf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nyons
+coordinates: [[Nyons]]
+markerFile: [[Nyons]]
+defaultZoom: 11 
+maxZoom: 18
+```

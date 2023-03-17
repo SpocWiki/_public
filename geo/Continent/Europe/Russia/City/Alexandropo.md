@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alexandropo
+coordinates: [[Alexandropo]]
+markerFile: [[Alexandropo]]
+defaultZoom: 11 
+maxZoom: 18
+```

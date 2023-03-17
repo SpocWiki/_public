@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tostedt
+coordinates: [[Tostedt]]
+markerFile: [[Tostedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

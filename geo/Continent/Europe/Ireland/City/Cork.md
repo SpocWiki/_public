@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cork
+coordinates: [[Cork]]
+markerFile: [[Cork]]
+defaultZoom: 11 
+maxZoom: 18
+```

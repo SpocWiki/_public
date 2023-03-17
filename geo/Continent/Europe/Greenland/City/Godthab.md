@@ -1,4 +1,4 @@
----
+﻿---
 location: [64.25,-51.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Godthab
+coordinates: [[Godthab]]
+markerFile: [[Godthab]]
+defaultZoom: 11 
+maxZoom: 18
+```

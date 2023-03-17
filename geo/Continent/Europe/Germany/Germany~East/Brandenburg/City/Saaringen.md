@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saaringen
+coordinates: [[Saaringen]]
+markerFile: [[Saaringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

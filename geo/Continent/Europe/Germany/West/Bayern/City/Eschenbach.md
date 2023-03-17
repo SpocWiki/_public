@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eschenbach
+coordinates: [[Eschenbach]]
+markerFile: [[Eschenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

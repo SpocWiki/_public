@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schrozberg
+coordinates: [[Schrozberg]]
+markerFile: [[Schrozberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ostachkow
+coordinates: [[Ostachkow]]
+markerFile: [[Ostachkow]]
+defaultZoom: 11 
+maxZoom: 18
+```

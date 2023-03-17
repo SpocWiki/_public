@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Winsen an der Aller
+coordinates: [[Winsen an der Aller]]
+markerFile: [[Winsen an der Aller]]
+defaultZoom: 11 
+maxZoom: 18
+```

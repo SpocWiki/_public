@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rott am Inn
+coordinates: [[Rott am Inn]]
+markerFile: [[Rott am Inn]]
+defaultZoom: 11 
+maxZoom: 18
+```

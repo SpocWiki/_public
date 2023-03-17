@@ -1,4 +1,4 @@
----
+﻿---
 location: [5.86,-55.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paramaribo
+coordinates: [[Paramaribo]]
+markerFile: [[Paramaribo]]
+defaultZoom: 11 
+maxZoom: 18
+```

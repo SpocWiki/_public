@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.22,21.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warszawa
+coordinates: [[Warszawa]]
+markerFile: [[Warszawa]]
+defaultZoom: 11 
+maxZoom: 18
+```

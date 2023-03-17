@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Labian
+coordinates: [[Labian]]
+markerFile: [[Labian]]
+defaultZoom: 11 
+maxZoom: 18
+```

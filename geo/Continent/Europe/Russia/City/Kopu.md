@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kopu
+coordinates: [[Kopu]]
+markerFile: [[Kopu]]
+defaultZoom: 11 
+maxZoom: 18
+```

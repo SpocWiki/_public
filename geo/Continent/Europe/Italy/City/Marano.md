@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marano
+coordinates: [[Marano]]
+markerFile: [[Marano]]
+defaultZoom: 11 
+maxZoom: 18
+```

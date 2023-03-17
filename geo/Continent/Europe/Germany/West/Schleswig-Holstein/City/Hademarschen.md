@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hademarschen
+coordinates: [[Hademarschen]]
+markerFile: [[Hademarschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

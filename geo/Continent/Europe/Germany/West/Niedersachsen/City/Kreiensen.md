@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kreiensen
+coordinates: [[Kreiensen]]
+markerFile: [[Kreiensen]]
+defaultZoom: 11 
+maxZoom: 18
+```

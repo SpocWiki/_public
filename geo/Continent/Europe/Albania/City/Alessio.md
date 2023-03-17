@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alessio
+coordinates: [[Alessio]]
+markerFile: [[Alessio]]
+defaultZoom: 11 
+maxZoom: 18
+```

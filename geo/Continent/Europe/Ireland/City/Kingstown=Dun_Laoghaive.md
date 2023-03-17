@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kingstown=Dun Laoghaive
+coordinates: [[Kingstown=Dun Laoghaive]]
+markerFile: [[Kingstown=Dun Laoghaive]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.4,11.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wulfen
+coordinates: [[Wulfen]]
+markerFile: [[Wulfen]]
+defaultZoom: 11 
+maxZoom: 18
+```

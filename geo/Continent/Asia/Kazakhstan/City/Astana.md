@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.16667,71.41666]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Astana
+coordinates: [[Astana]]
+markerFile: [[Astana]]
+defaultZoom: 11 
+maxZoom: 18
+```

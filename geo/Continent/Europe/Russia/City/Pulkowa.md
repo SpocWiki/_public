@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pulkowa
+coordinates: [[Pulkowa]]
+markerFile: [[Pulkowa]]
+defaultZoom: 11 
+maxZoom: 18
+```

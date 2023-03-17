@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirksville
+coordinates: [[Kirksville]]
+markerFile: [[Kirksville]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wendisch-Warnow
+coordinates: [[Wendisch-Warnow]]
+markerFile: [[Wendisch-Warnow]]
+defaultZoom: 11 
+maxZoom: 18
+```

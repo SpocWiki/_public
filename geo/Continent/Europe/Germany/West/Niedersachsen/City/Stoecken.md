@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stoecken
+coordinates: [[Stoecken]]
+markerFile: [[Stoecken]]
+defaultZoom: 11 
+maxZoom: 18
+```

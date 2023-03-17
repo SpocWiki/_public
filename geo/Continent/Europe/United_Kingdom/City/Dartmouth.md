@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dartmouth
+coordinates: [[Dartmouth]]
+markerFile: [[Dartmouth]]
+defaultZoom: 11 
+maxZoom: 18
+```

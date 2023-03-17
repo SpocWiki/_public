@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ales
+coordinates: [[Ales]]
+markerFile: [[Ales]]
+defaultZoom: 11 
+maxZoom: 18
+```

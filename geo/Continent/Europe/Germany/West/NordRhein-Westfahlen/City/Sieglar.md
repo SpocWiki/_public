@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sieglar
+coordinates: [[Sieglar]]
+markerFile: [[Sieglar]]
+defaultZoom: 11 
+maxZoom: 18
+```

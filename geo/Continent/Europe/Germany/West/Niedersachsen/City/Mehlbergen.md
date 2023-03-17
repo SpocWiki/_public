@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mehlbergen
+coordinates: [[Mehlbergen]]
+markerFile: [[Mehlbergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zapfendorf
+coordinates: [[Zapfendorf]]
+markerFile: [[Zapfendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

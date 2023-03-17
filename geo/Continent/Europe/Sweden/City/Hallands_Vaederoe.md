@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hallands Vaederoe
+coordinates: [[Hallands Vaederoe]]
+markerFile: [[Hallands Vaederoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

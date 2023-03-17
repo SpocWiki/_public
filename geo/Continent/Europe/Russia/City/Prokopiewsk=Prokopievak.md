@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prokopiewsk=Prokopievak
+coordinates: [[Prokopiewsk=Prokopievak]]
+markerFile: [[Prokopiewsk=Prokopievak]]
+defaultZoom: 11 
+maxZoom: 18
+```

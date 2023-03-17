@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchhellen
+coordinates: [[Kirchhellen]]
+markerFile: [[Kirchhellen]]
+defaultZoom: 11 
+maxZoom: 18
+```

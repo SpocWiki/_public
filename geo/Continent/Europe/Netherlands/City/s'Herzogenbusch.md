@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: s'Herzogenbusch
+coordinates: [[s'Herzogenbusch]]
+markerFile: [[s'Herzogenbusch]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arlon
+coordinates: [[Arlon]]
+markerFile: [[Arlon]]
+defaultZoom: 11 
+maxZoom: 18
+```

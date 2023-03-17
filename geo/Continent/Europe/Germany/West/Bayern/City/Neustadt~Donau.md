@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt~Donau
+coordinates: [[Neustadt~Donau]]
+markerFile: [[Neustadt~Donau]]
+defaultZoom: 11 
+maxZoom: 18
+```

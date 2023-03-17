@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hurst
+coordinates: [[Hurst]]
+markerFile: [[Hurst]]
+defaultZoom: 11 
+maxZoom: 18
+```

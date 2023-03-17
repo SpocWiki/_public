@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berwick
+coordinates: [[Berwick]]
+markerFile: [[Berwick]]
+defaultZoom: 11 
+maxZoom: 18
+```

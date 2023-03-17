@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedrichshafen
+coordinates: [[Friedrichshafen]]
+markerFile: [[Friedrichshafen]]
+defaultZoom: 11 
+maxZoom: 18
+```

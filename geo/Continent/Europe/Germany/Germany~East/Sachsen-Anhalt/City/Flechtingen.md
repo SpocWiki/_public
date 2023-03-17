@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flechtingen
+coordinates: [[Flechtingen]]
+markerFile: [[Flechtingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

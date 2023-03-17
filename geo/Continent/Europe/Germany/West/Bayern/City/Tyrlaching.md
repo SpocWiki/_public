@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tyrlaching
+coordinates: [[Tyrlaching]]
+markerFile: [[Tyrlaching]]
+defaultZoom: 11 
+maxZoom: 18
+```

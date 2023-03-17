@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.32,6.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaldenkirchen
+coordinates: [[Kaldenkirchen]]
+markerFile: [[Kaldenkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

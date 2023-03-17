@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lovisa
+coordinates: [[Lovisa]]
+markerFile: [[Lovisa]]
+defaultZoom: 11 
+maxZoom: 18
+```

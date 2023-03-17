@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Garm
+coordinates: [[Garm]]
+markerFile: [[Garm]]
+defaultZoom: 11 
+maxZoom: 18
+```

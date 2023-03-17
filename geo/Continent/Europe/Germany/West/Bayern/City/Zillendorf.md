@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zillendorf
+coordinates: [[Zillendorf]]
+markerFile: [[Zillendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

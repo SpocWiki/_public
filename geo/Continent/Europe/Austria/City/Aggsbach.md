@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aggsbach
+coordinates: [[Aggsbach]]
+markerFile: [[Aggsbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

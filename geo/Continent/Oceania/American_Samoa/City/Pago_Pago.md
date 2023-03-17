@@ -1,4 +1,4 @@
----
+﻿---
 location: [-14.28333,-170.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pago Pago
+coordinates: [[Pago Pago]]
+markerFile: [[Pago Pago]]
+defaultZoom: 11 
+maxZoom: 18
+```

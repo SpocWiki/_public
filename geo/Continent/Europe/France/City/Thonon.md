@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thonon
+coordinates: [[Thonon]]
+markerFile: [[Thonon]]
+defaultZoom: 11 
+maxZoom: 18
+```

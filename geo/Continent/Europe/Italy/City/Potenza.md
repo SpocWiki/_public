@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Potenza
+coordinates: [[Potenza]]
+markerFile: [[Potenza]]
+defaultZoom: 11 
+maxZoom: 18
+```

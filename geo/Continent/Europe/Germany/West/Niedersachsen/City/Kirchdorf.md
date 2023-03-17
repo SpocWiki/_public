@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchdorf
+coordinates: [[Kirchdorf]]
+markerFile: [[Kirchdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poessneck
+coordinates: [[Poessneck]]
+markerFile: [[Poessneck]]
+defaultZoom: 11 
+maxZoom: 18
+```

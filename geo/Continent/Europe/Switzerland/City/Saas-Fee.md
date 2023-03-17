@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saas-Fee
+coordinates: [[Saas-Fee]]
+markerFile: [[Saas-Fee]]
+defaultZoom: 11 
+maxZoom: 18
+```

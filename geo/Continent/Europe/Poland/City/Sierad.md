@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sierad
+coordinates: [[Sierad]]
+markerFile: [[Sierad]]
+defaultZoom: 11 
+maxZoom: 18
+```

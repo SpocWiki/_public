@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neschwitz
+coordinates: [[Neschwitz]]
+markerFile: [[Neschwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

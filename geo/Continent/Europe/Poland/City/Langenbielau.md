@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenbielau
+coordinates: [[Langenbielau]]
+markerFile: [[Langenbielau]]
+defaultZoom: 11 
+maxZoom: 18
+```

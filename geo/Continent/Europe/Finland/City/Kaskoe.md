@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaskoe
+coordinates: [[Kaskoe]]
+markerFile: [[Kaskoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

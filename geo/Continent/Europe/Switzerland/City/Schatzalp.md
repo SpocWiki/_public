@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schatzalp
+coordinates: [[Schatzalp]]
+markerFile: [[Schatzalp]]
+defaultZoom: 11 
+maxZoom: 18
+```

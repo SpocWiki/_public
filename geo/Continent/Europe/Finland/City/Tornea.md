@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tornea
+coordinates: [[Tornea]]
+markerFile: [[Tornea]]
+defaultZoom: 11 
+maxZoom: 18
+```

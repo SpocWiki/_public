@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herrenbreitungen
+coordinates: [[Herrenbreitungen]]
+markerFile: [[Herrenbreitungen]]
+defaultZoom: 11 
+maxZoom: 18
+```

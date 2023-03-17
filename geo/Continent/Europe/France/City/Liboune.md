@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liboune
+coordinates: [[Liboune]]
+markerFile: [[Liboune]]
+defaultZoom: 11 
+maxZoom: 18
+```

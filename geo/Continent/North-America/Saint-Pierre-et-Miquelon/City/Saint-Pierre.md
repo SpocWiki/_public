@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.78333,-56.16667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Saint-Pierre
+coordinates: [[Saint-Pierre]]
+markerFile: [[Saint-Pierre]]
+defaultZoom: 11 
+maxZoom: 18
+```

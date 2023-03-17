@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Consdorf
+coordinates: [[Consdorf]]
+markerFile: [[Consdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

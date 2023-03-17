@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.45,11.18]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laufamholz
+coordinates: [[Laufamholz]]
+markerFile: [[Laufamholz]]
+defaultZoom: 11 
+maxZoom: 18
+```

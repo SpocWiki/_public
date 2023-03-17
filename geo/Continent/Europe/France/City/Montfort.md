@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montfort
+coordinates: [[Montfort]]
+markerFile: [[Montfort]]
+defaultZoom: 11 
+maxZoom: 18
+```

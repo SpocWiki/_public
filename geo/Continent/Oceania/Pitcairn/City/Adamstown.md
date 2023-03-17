@@ -1,4 +1,4 @@
----
+﻿---
 location: [-25.06667,-130.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Adamstown
+coordinates: [[Adamstown]]
+markerFile: [[Adamstown]]
+defaultZoom: 11 
+maxZoom: 18
+```

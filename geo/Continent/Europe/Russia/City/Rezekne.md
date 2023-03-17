@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rezekne
+coordinates: [[Rezekne]]
+markerFile: [[Rezekne]]
+defaultZoom: 11 
+maxZoom: 18
+```

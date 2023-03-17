@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thourout
+coordinates: [[Thourout]]
+markerFile: [[Thourout]]
+defaultZoom: 11 
+maxZoom: 18
+```

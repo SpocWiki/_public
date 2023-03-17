@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tavira
+coordinates: [[Tavira]]
+markerFile: [[Tavira]]
+defaultZoom: 11 
+maxZoom: 18
+```

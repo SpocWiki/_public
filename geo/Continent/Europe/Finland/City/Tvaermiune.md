@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tvaermiune
+coordinates: [[Tvaermiune]]
+markerFile: [[Tvaermiune]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forssa
+coordinates: [[Forssa]]
+markerFile: [[Forssa]]
+defaultZoom: 11 
+maxZoom: 18
+```

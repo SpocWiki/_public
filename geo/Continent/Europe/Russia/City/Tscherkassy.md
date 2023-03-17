@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tscherkassy
+coordinates: [[Tscherkassy]]
+markerFile: [[Tscherkassy]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Utajaervi~Vaal.
+coordinates: [[Utajaervi~Vaal.]]
+markerFile: [[Utajaervi~Vaal.]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Schlottwitz
+coordinates: [[Ober-Schlottwitz]]
+markerFile: [[Ober-Schlottwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

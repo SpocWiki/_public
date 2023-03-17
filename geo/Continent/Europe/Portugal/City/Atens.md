@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.48,8.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Atens
+coordinates: [[Atens]]
+markerFile: [[Atens]]
+defaultZoom: 11 
+maxZoom: 18
+```

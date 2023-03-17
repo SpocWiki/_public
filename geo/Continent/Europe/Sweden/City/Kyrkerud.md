@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kyrkerud
+coordinates: [[Kyrkerud]]
+markerFile: [[Kyrkerud]]
+defaultZoom: 11 
+maxZoom: 18
+```

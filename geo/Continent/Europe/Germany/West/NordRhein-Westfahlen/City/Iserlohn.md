@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Iserlohn
+coordinates: [[Iserlohn]]
+markerFile: [[Iserlohn]]
+defaultZoom: 11 
+maxZoom: 18
+```

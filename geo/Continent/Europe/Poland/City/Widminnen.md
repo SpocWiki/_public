@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Widminnen
+coordinates: [[Widminnen]]
+markerFile: [[Widminnen]]
+defaultZoom: 11 
+maxZoom: 18
+```

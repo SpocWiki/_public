@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Asten
+coordinates: [[Asten]]
+markerFile: [[Asten]]
+defaultZoom: 11 
+maxZoom: 18
+```

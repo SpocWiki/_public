@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschern
+coordinates: [[Tschern]]
+markerFile: [[Tschern]]
+defaultZoom: 11 
+maxZoom: 18
+```

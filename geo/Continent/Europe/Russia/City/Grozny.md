@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grozny
+coordinates: [[Grozny]]
+markerFile: [[Grozny]]
+defaultZoom: 11 
+maxZoom: 18
+```

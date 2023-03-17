@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Egestorf
+coordinates: [[Egestorf]]
+markerFile: [[Egestorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

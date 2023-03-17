@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mahon
+coordinates: [[Mahon]]
+markerFile: [[Mahon]]
+defaultZoom: 11 
+maxZoom: 18
+```

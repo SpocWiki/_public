@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Drelsdorf
+coordinates: [[Drelsdorf]]
+markerFile: [[Drelsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Newry
+coordinates: [[Newry]]
+markerFile: [[Newry]]
+defaultZoom: 11 
+maxZoom: 18
+```

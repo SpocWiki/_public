@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aichach
+coordinates: [[Aichach]]
+markerFile: [[Aichach]]
+defaultZoom: 11 
+maxZoom: 18
+```

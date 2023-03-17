@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lauffen~Neckar
+coordinates: [[Lauffen~Neckar]]
+markerFile: [[Lauffen~Neckar]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Puget-Théniers
+coordinates: [[Puget-Théniers]]
+markerFile: [[Puget-Théniers]]
+defaultZoom: 11 
+maxZoom: 18
+```

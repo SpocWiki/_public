@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mellingen
+coordinates: [[Mellingen]]
+markerFile: [[Mellingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

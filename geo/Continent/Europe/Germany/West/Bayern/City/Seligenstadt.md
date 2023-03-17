@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seligenstadt
+coordinates: [[Seligenstadt]]
+markerFile: [[Seligenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

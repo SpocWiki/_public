@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Durham
+coordinates: [[Durham]]
+markerFile: [[Durham]]
+defaultZoom: 11 
+maxZoom: 18
+```

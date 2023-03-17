@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turin=Terino
+coordinates: [[Turin=Terino]]
+markerFile: [[Turin=Terino]]
+defaultZoom: 11 
+maxZoom: 18
+```

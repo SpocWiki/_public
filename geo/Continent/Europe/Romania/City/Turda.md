@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turda
+coordinates: [[Turda]]
+markerFile: [[Turda]]
+defaultZoom: 11 
+maxZoom: 18
+```

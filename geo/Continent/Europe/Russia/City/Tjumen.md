@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tjumen
+coordinates: [[Tjumen]]
+markerFile: [[Tjumen]]
+defaultZoom: 11 
+maxZoom: 18
+```

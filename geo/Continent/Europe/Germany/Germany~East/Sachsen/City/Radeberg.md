@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radeberg
+coordinates: [[Radeberg]]
+markerFile: [[Radeberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saentis
+coordinates: [[Saentis]]
+markerFile: [[Saentis]]
+defaultZoom: 11 
+maxZoom: 18
+```

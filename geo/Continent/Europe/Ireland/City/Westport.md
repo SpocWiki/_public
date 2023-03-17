@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Westport
+coordinates: [[Westport]]
+markerFile: [[Westport]]
+defaultZoom: 11 
+maxZoom: 18
+```

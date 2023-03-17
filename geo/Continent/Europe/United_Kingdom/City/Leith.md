@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leith
+coordinates: [[Leith]]
+markerFile: [[Leith]]
+defaultZoom: 11 
+maxZoom: 18
+```

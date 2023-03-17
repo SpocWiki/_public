@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Samter
+coordinates: [[Samter]]
+markerFile: [[Samter]]
+defaultZoom: 11 
+maxZoom: 18
+```

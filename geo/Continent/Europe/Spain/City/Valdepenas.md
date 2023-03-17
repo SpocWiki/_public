@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valdepenas
+coordinates: [[Valdepenas]]
+markerFile: [[Valdepenas]]
+defaultZoom: 11 
+maxZoom: 18
+```

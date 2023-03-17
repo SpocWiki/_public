@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gunnebo
+coordinates: [[Gunnebo]]
+markerFile: [[Gunnebo]]
+defaultZoom: 11 
+maxZoom: 18
+```

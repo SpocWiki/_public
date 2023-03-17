@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoboken
+coordinates: [[Hoboken]]
+markerFile: [[Hoboken]]
+defaultZoom: 11 
+maxZoom: 18
+```

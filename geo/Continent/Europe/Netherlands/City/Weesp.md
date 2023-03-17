@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weesp
+coordinates: [[Weesp]]
+markerFile: [[Weesp]]
+defaultZoom: 11 
+maxZoom: 18
+```

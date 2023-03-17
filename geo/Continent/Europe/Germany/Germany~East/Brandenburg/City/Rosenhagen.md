@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosenhagen
+coordinates: [[Rosenhagen]]
+markerFile: [[Rosenhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

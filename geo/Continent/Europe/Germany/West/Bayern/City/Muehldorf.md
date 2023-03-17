@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muehldorf
+coordinates: [[Muehldorf]]
+markerFile: [[Muehldorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

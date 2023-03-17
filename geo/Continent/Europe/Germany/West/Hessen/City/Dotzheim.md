@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dotzheim
+coordinates: [[Dotzheim]]
+markerFile: [[Dotzheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

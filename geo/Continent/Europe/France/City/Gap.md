@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gap
+coordinates: [[Gap]]
+markerFile: [[Gap]]
+defaultZoom: 11 
+maxZoom: 18
+```

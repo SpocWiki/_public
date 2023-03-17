@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaltenweide
+coordinates: [[Kaltenweide]]
+markerFile: [[Kaltenweide]]
+defaultZoom: 11 
+maxZoom: 18
+```

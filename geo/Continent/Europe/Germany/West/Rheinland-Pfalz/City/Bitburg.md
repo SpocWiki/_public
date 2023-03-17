@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bitburg
+coordinates: [[Bitburg]]
+markerFile: [[Bitburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

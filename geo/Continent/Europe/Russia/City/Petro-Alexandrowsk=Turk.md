@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petro-Alexandrowsk=Turk
+coordinates: [[Petro-Alexandrowsk=Turk]]
+markerFile: [[Petro-Alexandrowsk=Turk]]
+defaultZoom: 11 
+maxZoom: 18
+```

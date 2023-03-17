@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaesterhaninge
+coordinates: [[Vaesterhaninge]]
+markerFile: [[Vaesterhaninge]]
+defaultZoom: 11 
+maxZoom: 18
+```

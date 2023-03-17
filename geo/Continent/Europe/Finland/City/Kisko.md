@@ -1,4 +1,4 @@
----
+﻿---
 location: [60.25,23.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kisko
+coordinates: [[Kisko]]
+markerFile: [[Kisko]]
+defaultZoom: 11 
+maxZoom: 18
+```

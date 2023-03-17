@@ -1,4 +1,4 @@
----
+﻿---
 location: [59.27,15.22]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oerebro
+coordinates: [[Oerebro]]
+markerFile: [[Oerebro]]
+defaultZoom: 11 
+maxZoom: 18
+```

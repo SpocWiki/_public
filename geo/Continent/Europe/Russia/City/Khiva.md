@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Khiva
+coordinates: [[Khiva]]
+markerFile: [[Khiva]]
+defaultZoom: 11 
+maxZoom: 18
+```

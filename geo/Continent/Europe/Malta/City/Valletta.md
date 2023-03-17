@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.9,14.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valletta
+coordinates: [[Valletta]]
+markerFile: [[Valletta]]
+defaultZoom: 11 
+maxZoom: 18
+```

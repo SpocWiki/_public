@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salzwedel
+coordinates: [[Salzwedel]]
+markerFile: [[Salzwedel]]
+defaultZoom: 11 
+maxZoom: 18
+```

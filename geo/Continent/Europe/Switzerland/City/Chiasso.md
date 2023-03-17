@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chiasso
+coordinates: [[Chiasso]]
+markerFile: [[Chiasso]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Urgut
+coordinates: [[Urgut]]
+markerFile: [[Urgut]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Satteldorf
+coordinates: [[Satteldorf]]
+markerFile: [[Satteldorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Husari
+coordinates: [[Husari]]
+markerFile: [[Husari]]
+defaultZoom: 11 
+maxZoom: 18
+```

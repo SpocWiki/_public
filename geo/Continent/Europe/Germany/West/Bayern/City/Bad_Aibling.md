@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Aibling
+coordinates: [[Bad Aibling]]
+markerFile: [[Bad Aibling]]
+defaultZoom: 11 
+maxZoom: 18
+```

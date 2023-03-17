@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Triangel
+coordinates: [[Triangel]]
+markerFile: [[Triangel]]
+defaultZoom: 11 
+maxZoom: 18
+```

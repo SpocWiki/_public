@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.35,12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merseburg
+coordinates: [[Merseburg]]
+markerFile: [[Merseburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

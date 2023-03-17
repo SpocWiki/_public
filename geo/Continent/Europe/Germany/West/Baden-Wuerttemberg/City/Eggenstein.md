@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eggenstein
+coordinates: [[Eggenstein]]
+markerFile: [[Eggenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

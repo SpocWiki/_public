@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lietzensee
+coordinates: [[Lietzensee]]
+markerFile: [[Lietzensee]]
+defaultZoom: 11 
+maxZoom: 18
+```

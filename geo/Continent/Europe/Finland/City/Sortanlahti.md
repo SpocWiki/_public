@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sortanlahti
+coordinates: [[Sortanlahti]]
+markerFile: [[Sortanlahti]]
+defaultZoom: 11 
+maxZoom: 18
+```

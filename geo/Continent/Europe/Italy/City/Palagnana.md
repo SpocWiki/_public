@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Palagnana
+coordinates: [[Palagnana]]
+markerFile: [[Palagnana]]
+defaultZoom: 11 
+maxZoom: 18
+```

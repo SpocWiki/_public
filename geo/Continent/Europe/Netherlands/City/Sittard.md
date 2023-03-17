@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sittard
+coordinates: [[Sittard]]
+markerFile: [[Sittard]]
+defaultZoom: 11 
+maxZoom: 18
+```

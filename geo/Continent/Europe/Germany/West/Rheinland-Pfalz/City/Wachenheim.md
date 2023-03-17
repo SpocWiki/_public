@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wachenheim
+coordinates: [[Wachenheim]]
+markerFile: [[Wachenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

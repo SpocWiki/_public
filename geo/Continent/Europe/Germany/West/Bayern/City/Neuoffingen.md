@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuoffingen
+coordinates: [[Neuoffingen]]
+markerFile: [[Neuoffingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

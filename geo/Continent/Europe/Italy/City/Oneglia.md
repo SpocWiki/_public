@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oneglia
+coordinates: [[Oneglia]]
+markerFile: [[Oneglia]]
+defaultZoom: 11 
+maxZoom: 18
+```

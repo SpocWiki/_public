@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schrimm
+coordinates: [[Schrimm]]
+markerFile: [[Schrimm]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruchsal
+coordinates: [[Bruchsal]]
+markerFile: [[Bruchsal]]
+defaultZoom: 11 
+maxZoom: 18
+```

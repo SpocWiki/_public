@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cupertino
+coordinates: [[Cupertino]]
+markerFile: [[Cupertino]]
+defaultZoom: 11 
+maxZoom: 18
+```

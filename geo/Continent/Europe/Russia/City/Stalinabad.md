@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stalinabad
+coordinates: [[Stalinabad]]
+markerFile: [[Stalinabad]]
+defaultZoom: 11 
+maxZoom: 18
+```

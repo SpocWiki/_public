@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Damme
+coordinates: [[Damme]]
+markerFile: [[Damme]]
+defaultZoom: 11 
+maxZoom: 18
+```

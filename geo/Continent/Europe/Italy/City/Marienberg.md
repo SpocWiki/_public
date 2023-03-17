@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marienberg
+coordinates: [[Marienberg]]
+markerFile: [[Marienberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [12.05,-61.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: St. George’s
+coordinates: [[St. George’s]]
+markerFile: [[St. George’s]]
+defaultZoom: 11 
+maxZoom: 18
+```

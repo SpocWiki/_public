@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Canossa
+coordinates: [[Canossa]]
+markerFile: [[Canossa]]
+defaultZoom: 11 
+maxZoom: 18
+```

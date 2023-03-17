@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montembrara
+coordinates: [[Montembrara]]
+markerFile: [[Montembrara]]
+defaultZoom: 11 
+maxZoom: 18
+```

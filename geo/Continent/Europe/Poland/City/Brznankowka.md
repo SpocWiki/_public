@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brznankowka
+coordinates: [[Brznankowka]]
+markerFile: [[Brznankowka]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marienleuchte
+coordinates: [[Marienleuchte]]
+markerFile: [[Marienleuchte]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.66,6.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Xanten=Xanthen
+coordinates: [[Xanten=Xanthen]]
+markerFile: [[Xanten=Xanthen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hosingen
+coordinates: [[Hosingen]]
+markerFile: [[Hosingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moenichkirchen
+coordinates: [[Moenichkirchen]]
+markerFile: [[Moenichkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

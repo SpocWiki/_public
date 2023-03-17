@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klukhari
+coordinates: [[Klukhari]]
+markerFile: [[Klukhari]]
+defaultZoom: 11 
+maxZoom: 18
+```

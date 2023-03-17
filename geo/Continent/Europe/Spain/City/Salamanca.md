@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salamanca
+coordinates: [[Salamanca]]
+markerFile: [[Salamanca]]
+defaultZoom: 11 
+maxZoom: 18
+```

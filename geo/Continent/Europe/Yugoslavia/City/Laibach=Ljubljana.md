@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laibach=Ljubljana
+coordinates: [[Laibach=Ljubljana]]
+markerFile: [[Laibach=Ljubljana]]
+defaultZoom: 11 
+maxZoom: 18
+```

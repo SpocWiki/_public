@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolkenstein
+coordinates: [[Wolkenstein]]
+markerFile: [[Wolkenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

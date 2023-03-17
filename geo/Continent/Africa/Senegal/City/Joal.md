@@ -1,4 +1,4 @@
----
+﻿---
 location: [14.17,-16.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Joal
+coordinates: [[Joal]]
+markerFile: [[Joal]]
+defaultZoom: 11 
+maxZoom: 18
+```

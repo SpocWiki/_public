@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Astrachan
+coordinates: [[Astrachan]]
+markerFile: [[Astrachan]]
+defaultZoom: 11 
+maxZoom: 18
+```

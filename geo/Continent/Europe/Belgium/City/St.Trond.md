@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Trond
+coordinates: [[St.Trond]]
+markerFile: [[St.Trond]]
+defaultZoom: 11 
+maxZoom: 18
+```

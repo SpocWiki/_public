@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krainburg
+coordinates: [[Krainburg]]
+markerFile: [[Krainburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

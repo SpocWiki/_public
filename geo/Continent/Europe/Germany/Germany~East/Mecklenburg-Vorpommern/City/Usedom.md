@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Usedom
+coordinates: [[Usedom]]
+markerFile: [[Usedom]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Remich
+coordinates: [[Remich]]
+markerFile: [[Remich]]
+defaultZoom: 11 
+maxZoom: 18
+```

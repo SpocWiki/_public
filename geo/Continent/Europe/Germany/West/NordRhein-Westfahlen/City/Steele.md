@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steele
+coordinates: [[Steele]]
+markerFile: [[Steele]]
+defaultZoom: 11 
+maxZoom: 18
+```

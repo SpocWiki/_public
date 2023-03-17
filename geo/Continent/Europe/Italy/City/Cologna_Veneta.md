@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cologna Veneta
+coordinates: [[Cologna Veneta]]
+markerFile: [[Cologna Veneta]]
+defaultZoom: 11 
+maxZoom: 18
+```

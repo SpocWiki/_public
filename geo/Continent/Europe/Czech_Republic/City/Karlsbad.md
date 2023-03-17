@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlsbad
+coordinates: [[Karlsbad]]
+markerFile: [[Karlsbad]]
+defaultZoom: 11 
+maxZoom: 18
+```

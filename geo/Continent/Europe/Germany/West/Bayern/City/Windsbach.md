@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Windsbach
+coordinates: [[Windsbach]]
+markerFile: [[Windsbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

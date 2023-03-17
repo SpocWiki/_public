@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pistoia
+coordinates: [[Pistoia]]
+markerFile: [[Pistoia]]
+defaultZoom: 11 
+maxZoom: 18
+```

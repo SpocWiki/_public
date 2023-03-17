@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuktiskis
+coordinates: [[Kuktiskis]]
+markerFile: [[Kuktiskis]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Banbridge
+coordinates: [[Banbridge]]
+markerFile: [[Banbridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

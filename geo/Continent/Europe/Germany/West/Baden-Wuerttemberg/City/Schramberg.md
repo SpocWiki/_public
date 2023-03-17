@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schramberg
+coordinates: [[Schramberg]]
+markerFile: [[Schramberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

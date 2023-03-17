@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baltimore
+coordinates: [[Baltimore]]
+markerFile: [[Baltimore]]
+defaultZoom: 11 
+maxZoom: 18
+```

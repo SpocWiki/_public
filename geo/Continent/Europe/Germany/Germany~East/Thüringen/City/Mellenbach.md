@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mellenbach
+coordinates: [[Mellenbach]]
+markerFile: [[Mellenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

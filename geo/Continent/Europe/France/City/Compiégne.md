@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Compiégne
+coordinates: [[Compiégne]]
+markerFile: [[Compiégne]]
+defaultZoom: 11 
+maxZoom: 18
+```

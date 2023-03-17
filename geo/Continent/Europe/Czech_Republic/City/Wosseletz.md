@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wosseletz
+coordinates: [[Wosseletz]]
+markerFile: [[Wosseletz]]
+defaultZoom: 11 
+maxZoom: 18
+```

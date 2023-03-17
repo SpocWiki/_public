@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mainburg
+coordinates: [[Mainburg]]
+markerFile: [[Mainburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

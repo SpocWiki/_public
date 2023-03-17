@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kavaja
+coordinates: [[Kavaja]]
+markerFile: [[Kavaja]]
+defaultZoom: 11 
+maxZoom: 18
+```

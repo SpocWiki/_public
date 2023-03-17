@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.92,17.03]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Floetenstein
+coordinates: [[Floetenstein]]
+markerFile: [[Floetenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

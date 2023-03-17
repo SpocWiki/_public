@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montélimar
+coordinates: [[Montélimar]]
+markerFile: [[Montélimar]]
+defaultZoom: 11 
+maxZoom: 18
+```

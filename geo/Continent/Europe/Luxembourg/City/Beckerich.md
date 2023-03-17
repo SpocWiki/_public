@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beckerich
+coordinates: [[Beckerich]]
+markerFile: [[Beckerich]]
+defaultZoom: 11 
+maxZoom: 18
+```

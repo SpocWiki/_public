@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vadstena
+coordinates: [[Vadstena]]
+markerFile: [[Vadstena]]
+defaultZoom: 11 
+maxZoom: 18
+```

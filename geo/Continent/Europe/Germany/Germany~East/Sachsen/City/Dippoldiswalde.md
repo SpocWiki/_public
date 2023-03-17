@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dippoldiswalde
+coordinates: [[Dippoldiswalde]]
+markerFile: [[Dippoldiswalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

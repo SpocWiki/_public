@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nerchau
+coordinates: [[Nerchau]]
+markerFile: [[Nerchau]]
+defaultZoom: 11 
+maxZoom: 18
+```

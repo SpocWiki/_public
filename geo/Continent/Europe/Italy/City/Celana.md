@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Celana
+coordinates: [[Celana]]
+markerFile: [[Celana]]
+defaultZoom: 11 
+maxZoom: 18
+```

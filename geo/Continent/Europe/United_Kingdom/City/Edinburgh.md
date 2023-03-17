@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Edinburgh
+coordinates: [[Edinburgh]]
+markerFile: [[Edinburgh]]
+defaultZoom: 11 
+maxZoom: 18
+```

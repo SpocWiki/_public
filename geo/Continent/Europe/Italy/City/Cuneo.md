@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cuneo
+coordinates: [[Cuneo]]
+markerFile: [[Cuneo]]
+defaultZoom: 11 
+maxZoom: 18
+```

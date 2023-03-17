@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hamm~Westfalen
+coordinates: [[Hamm~Westfalen]]
+markerFile: [[Hamm~Westfalen]]
+defaultZoom: 11 
+maxZoom: 18
+```

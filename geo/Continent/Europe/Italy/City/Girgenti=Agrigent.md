@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Girgenti=Agrigent
+coordinates: [[Girgenti=Agrigent]]
+markerFile: [[Girgenti=Agrigent]]
+defaultZoom: 11 
+maxZoom: 18
+```

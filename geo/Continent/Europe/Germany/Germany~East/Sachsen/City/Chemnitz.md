@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chemnitz
+coordinates: [[Chemnitz]]
+markerFile: [[Chemnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

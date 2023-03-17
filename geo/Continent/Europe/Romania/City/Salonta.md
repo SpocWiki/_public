@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salonta
+coordinates: [[Salonta]]
+markerFile: [[Salonta]]
+defaultZoom: 11 
+maxZoom: 18
+```

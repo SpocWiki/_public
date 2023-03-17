@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bressanone
+coordinates: [[Bressanone]]
+markerFile: [[Bressanone]]
+defaultZoom: 11 
+maxZoom: 18
+```

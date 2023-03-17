@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muehlhausen=Mulhouse
+coordinates: [[Muehlhausen=Mulhouse]]
+markerFile: [[Muehlhausen=Mulhouse]]
+defaultZoom: 11 
+maxZoom: 18
+```

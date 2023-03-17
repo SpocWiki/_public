@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barssel
+coordinates: [[Barssel]]
+markerFile: [[Barssel]]
+defaultZoom: 11 
+maxZoom: 18
+```

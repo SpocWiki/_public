@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blaubeuren
+coordinates: [[Blaubeuren]]
+markerFile: [[Blaubeuren]]
+defaultZoom: 11 
+maxZoom: 18
+```

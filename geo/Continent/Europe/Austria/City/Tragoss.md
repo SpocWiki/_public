@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tragoss
+coordinates: [[Tragoss]]
+markerFile: [[Tragoss]]
+defaultZoom: 11 
+maxZoom: 18
+```

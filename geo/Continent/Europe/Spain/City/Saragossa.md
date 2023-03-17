@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saragossa
+coordinates: [[Saragossa]]
+markerFile: [[Saragossa]]
+defaultZoom: 11 
+maxZoom: 18
+```

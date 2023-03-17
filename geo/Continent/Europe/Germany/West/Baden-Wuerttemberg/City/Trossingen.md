@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trossingen
+coordinates: [[Trossingen]]
+markerFile: [[Trossingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

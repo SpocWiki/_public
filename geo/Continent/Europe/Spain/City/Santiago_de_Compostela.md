@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Santiago de Compostela
+coordinates: [[Santiago de Compostela]]
+markerFile: [[Santiago de Compostela]]
+defaultZoom: 11 
+maxZoom: 18
+```

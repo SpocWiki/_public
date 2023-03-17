@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tencin=Trencsen
+coordinates: [[Tencin=Trencsen]]
+markerFile: [[Tencin=Trencsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

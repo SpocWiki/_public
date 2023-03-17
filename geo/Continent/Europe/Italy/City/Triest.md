@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Triest
+coordinates: [[Triest]]
+markerFile: [[Triest]]
+defaultZoom: 11 
+maxZoom: 18
+```

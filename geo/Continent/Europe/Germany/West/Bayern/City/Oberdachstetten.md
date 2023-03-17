@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberdachstetten
+coordinates: [[Oberdachstetten]]
+markerFile: [[Oberdachstetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

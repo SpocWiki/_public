@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krasnogorsk
+coordinates: [[Krasnogorsk]]
+markerFile: [[Krasnogorsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

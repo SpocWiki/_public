@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.42,7.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoenenberg-Kuebelberg
+coordinates: [[Schoenenberg-Kuebelberg]]
+markerFile: [[Schoenenberg-Kuebelberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

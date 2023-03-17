@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soleure=Solothurn
+coordinates: [[Soleure=Solothurn]]
+markerFile: [[Soleure=Solothurn]]
+defaultZoom: 11 
+maxZoom: 18
+```

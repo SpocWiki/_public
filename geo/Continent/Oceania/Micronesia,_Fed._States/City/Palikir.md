@@ -1,4 +1,4 @@
----
+﻿---
 location: [6.916667,158.15]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Palikir
+coordinates: [[Palikir]]
+markerFile: [[Palikir]]
+defaultZoom: 11 
+maxZoom: 18
+```

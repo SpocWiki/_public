@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paavola
+coordinates: [[Paavola]]
+markerFile: [[Paavola]]
+defaultZoom: 11 
+maxZoom: 18
+```

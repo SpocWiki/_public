@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troisty
+coordinates: [[Troisty]]
+markerFile: [[Troisty]]
+defaultZoom: 11 
+maxZoom: 18
+```

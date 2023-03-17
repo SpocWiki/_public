@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rachelshof
+coordinates: [[Rachelshof]]
+markerFile: [[Rachelshof]]
+defaultZoom: 11 
+maxZoom: 18
+```

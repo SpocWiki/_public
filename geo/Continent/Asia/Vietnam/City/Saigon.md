@@ -1,4 +1,4 @@
----
+﻿---
 location: [10.75,106.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saigon
+coordinates: [[Saigon]]
+markerFile: [[Saigon]]
+defaultZoom: 11 
+maxZoom: 18
+```

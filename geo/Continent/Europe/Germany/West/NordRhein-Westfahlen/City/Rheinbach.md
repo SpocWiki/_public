@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rheinbach
+coordinates: [[Rheinbach]]
+markerFile: [[Rheinbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

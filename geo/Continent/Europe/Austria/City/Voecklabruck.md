@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Voecklabruck
+coordinates: [[Voecklabruck]]
+markerFile: [[Voecklabruck]]
+defaultZoom: 11 
+maxZoom: 18
+```

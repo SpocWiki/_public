@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kertsch
+coordinates: [[Kertsch]]
+markerFile: [[Kertsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

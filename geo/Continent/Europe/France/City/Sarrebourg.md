@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sarrebourg
+coordinates: [[Sarrebourg]]
+markerFile: [[Sarrebourg]]
+defaultZoom: 11 
+maxZoom: 18
+```

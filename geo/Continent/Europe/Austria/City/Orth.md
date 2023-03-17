@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orth
+coordinates: [[Orth]]
+markerFile: [[Orth]]
+defaultZoom: 11 
+maxZoom: 18
+```

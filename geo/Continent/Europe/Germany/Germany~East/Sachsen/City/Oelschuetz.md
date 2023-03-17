@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oelschuetz
+coordinates: [[Oelschuetz]]
+markerFile: [[Oelschuetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kickelhof
+coordinates: [[Kickelhof]]
+markerFile: [[Kickelhof]]
+defaultZoom: 11 
+maxZoom: 18
+```

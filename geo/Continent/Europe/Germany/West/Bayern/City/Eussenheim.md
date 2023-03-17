@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eussenheim
+coordinates: [[Eussenheim]]
+markerFile: [[Eussenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

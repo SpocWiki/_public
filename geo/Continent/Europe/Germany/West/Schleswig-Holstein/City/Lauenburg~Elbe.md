@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lauenburg~Elbe
+coordinates: [[Lauenburg~Elbe]]
+markerFile: [[Lauenburg~Elbe]]
+defaultZoom: 11 
+maxZoom: 18
+```

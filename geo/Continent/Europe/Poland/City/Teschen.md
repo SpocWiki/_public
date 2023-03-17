@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teschen
+coordinates: [[Teschen]]
+markerFile: [[Teschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

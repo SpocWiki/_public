@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuss
+coordinates: [[Neuss]]
+markerFile: [[Neuss]]
+defaultZoom: 11 
+maxZoom: 18
+```

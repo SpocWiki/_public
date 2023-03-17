@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ivanovo
+coordinates: [[Ivanovo]]
+markerFile: [[Ivanovo]]
+defaultZoom: 11 
+maxZoom: 18
+```

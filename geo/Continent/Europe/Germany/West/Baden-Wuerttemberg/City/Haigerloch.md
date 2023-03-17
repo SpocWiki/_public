@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haigerloch
+coordinates: [[Haigerloch]]
+markerFile: [[Haigerloch]]
+defaultZoom: 11 
+maxZoom: 18
+```

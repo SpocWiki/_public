@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Niederhermsdorf
+coordinates: [[Niederhermsdorf]]
+markerFile: [[Niederhermsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

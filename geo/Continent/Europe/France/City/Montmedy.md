@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montmedy
+coordinates: [[Montmedy]]
+markerFile: [[Montmedy]]
+defaultZoom: 11 
+maxZoom: 18
+```

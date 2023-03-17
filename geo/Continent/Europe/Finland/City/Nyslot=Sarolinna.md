@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nyslot=Sarolinna
+coordinates: [[Nyslot=Sarolinna]]
+markerFile: [[Nyslot=Sarolinna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boleszkowice
+coordinates: [[Boleszkowice]]
+markerFile: [[Boleszkowice]]
+defaultZoom: 11 
+maxZoom: 18
+```

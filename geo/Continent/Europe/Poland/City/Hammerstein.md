@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hammerstein
+coordinates: [[Hammerstein]]
+markerFile: [[Hammerstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

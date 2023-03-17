@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Georgsthal
+coordinates: [[Georgsthal]]
+markerFile: [[Georgsthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

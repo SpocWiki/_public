@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nackenheim
+coordinates: [[Nackenheim]]
+markerFile: [[Nackenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

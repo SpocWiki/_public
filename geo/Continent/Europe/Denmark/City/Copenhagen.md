@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Copenhagen
+coordinates: [[Copenhagen]]
+markerFile: [[Copenhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

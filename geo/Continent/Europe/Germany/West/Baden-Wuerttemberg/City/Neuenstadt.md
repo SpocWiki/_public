@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.23,9.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuenstadt
+coordinates: [[Neuenstadt]]
+markerFile: [[Neuenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

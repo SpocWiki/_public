@@ -1,4 +1,4 @@
----
+﻿---
 location: [57.62,18.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaellunge
+coordinates: [[Kaellunge]]
+markerFile: [[Kaellunge]]
+defaultZoom: 11 
+maxZoom: 18
+```

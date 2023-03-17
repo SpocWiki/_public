@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alcanar
+coordinates: [[Alcanar]]
+markerFile: [[Alcanar]]
+defaultZoom: 11 
+maxZoom: 18
+```

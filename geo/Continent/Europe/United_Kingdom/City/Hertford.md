@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hertford
+coordinates: [[Hertford]]
+markerFile: [[Hertford]]
+defaultZoom: 11 
+maxZoom: 18
+```

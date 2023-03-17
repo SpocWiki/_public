@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.38,7.62]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leukerbad
+coordinates: [[Leukerbad]]
+markerFile: [[Leukerbad]]
+defaultZoom: 11 
+maxZoom: 18
+```

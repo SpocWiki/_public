@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sievsk
+coordinates: [[Sievsk]]
+markerFile: [[Sievsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

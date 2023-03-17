@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Britz
+coordinates: [[Britz]]
+markerFile: [[Britz]]
+defaultZoom: 11 
+maxZoom: 18
+```

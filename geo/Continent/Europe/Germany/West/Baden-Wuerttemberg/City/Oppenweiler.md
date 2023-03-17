@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oppenweiler
+coordinates: [[Oppenweiler]]
+markerFile: [[Oppenweiler]]
+defaultZoom: 11 
+maxZoom: 18
+```

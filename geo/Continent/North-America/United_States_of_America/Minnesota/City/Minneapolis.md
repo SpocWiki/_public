@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Minneapolis
+coordinates: [[Minneapolis]]
+markerFile: [[Minneapolis]]
+defaultZoom: 11 
+maxZoom: 18
+```

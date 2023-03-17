@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stallupoenen
+coordinates: [[Stallupoenen]]
+markerFile: [[Stallupoenen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Attendorn
+coordinates: [[Attendorn]]
+markerFile: [[Attendorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

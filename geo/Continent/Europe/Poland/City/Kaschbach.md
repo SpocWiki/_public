@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaschbach
+coordinates: [[Kaschbach]]
+markerFile: [[Kaschbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dautzschen
+coordinates: [[Dautzschen]]
+markerFile: [[Dautzschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

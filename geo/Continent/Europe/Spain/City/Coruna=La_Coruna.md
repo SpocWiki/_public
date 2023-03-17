@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Coruna=La Coruna
+coordinates: [[Coruna=La Coruna]]
+markerFile: [[Coruna=La Coruna]]
+defaultZoom: 11 
+maxZoom: 18
+```

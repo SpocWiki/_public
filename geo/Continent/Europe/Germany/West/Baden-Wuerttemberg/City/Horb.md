@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Horb
+coordinates: [[Horb]]
+markerFile: [[Horb]]
+defaultZoom: 11 
+maxZoom: 18
+```

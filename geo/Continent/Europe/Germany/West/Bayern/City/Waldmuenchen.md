@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldmuenchen
+coordinates: [[Waldmuenchen]]
+markerFile: [[Waldmuenchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

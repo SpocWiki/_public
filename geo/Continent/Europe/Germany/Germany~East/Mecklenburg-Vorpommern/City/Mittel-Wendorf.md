@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mittel-Wendorf
+coordinates: [[Mittel-Wendorf]]
+markerFile: [[Mittel-Wendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

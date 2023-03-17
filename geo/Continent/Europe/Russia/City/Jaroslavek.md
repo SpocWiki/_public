@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jaroslavek
+coordinates: [[Jaroslavek]]
+markerFile: [[Jaroslavek]]
+defaultZoom: 11 
+maxZoom: 18
+```

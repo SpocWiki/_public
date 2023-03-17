@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschernyi-Sar
+coordinates: [[Tschernyi-Sar]]
+markerFile: [[Tschernyi-Sar]]
+defaultZoom: 11 
+maxZoom: 18
+```

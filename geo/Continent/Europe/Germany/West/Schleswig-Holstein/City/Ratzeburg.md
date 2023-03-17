@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ratzeburg
+coordinates: [[Ratzeburg]]
+markerFile: [[Ratzeburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

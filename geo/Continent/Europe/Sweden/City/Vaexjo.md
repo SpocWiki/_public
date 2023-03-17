@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaexjo
+coordinates: [[Vaexjo]]
+markerFile: [[Vaexjo]]
+defaultZoom: 11 
+maxZoom: 18
+```

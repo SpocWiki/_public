@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Oderwitz
+coordinates: [[Ober-Oderwitz]]
+markerFile: [[Ober-Oderwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montauban
+coordinates: [[Montauban]]
+markerFile: [[Montauban]]
+defaultZoom: 11 
+maxZoom: 18
+```

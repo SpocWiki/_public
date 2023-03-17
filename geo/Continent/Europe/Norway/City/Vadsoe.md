@@ -1,4 +1,4 @@
----
+﻿---
 location: [70.07,29.78]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vadsoe
+coordinates: [[Vadsoe]]
+markerFile: [[Vadsoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

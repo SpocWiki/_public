@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zargau
+coordinates: [[Zargau]]
+markerFile: [[Zargau]]
+defaultZoom: 11 
+maxZoom: 18
+```

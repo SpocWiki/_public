@@ -1,4 +1,4 @@
----
+﻿---
 location: [64.35,26.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kestilae
+coordinates: [[Kestilae]]
+markerFile: [[Kestilae]]
+defaultZoom: 11 
+maxZoom: 18
+```

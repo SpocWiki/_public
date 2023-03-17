@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waidhofen
+coordinates: [[Waidhofen]]
+markerFile: [[Waidhofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

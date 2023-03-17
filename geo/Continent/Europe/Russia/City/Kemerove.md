@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kemerove
+coordinates: [[Kemerove]]
+markerFile: [[Kemerove]]
+defaultZoom: 11 
+maxZoom: 18
+```

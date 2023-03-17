@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Giesdorf
+coordinates: [[Giesdorf]]
+markerFile: [[Giesdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

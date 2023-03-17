@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oldenburg~Holstein
+coordinates: [[Oldenburg~Holstein]]
+markerFile: [[Oldenburg~Holstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

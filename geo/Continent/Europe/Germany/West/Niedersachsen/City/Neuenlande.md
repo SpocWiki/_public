@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuenlande
+coordinates: [[Neuenlande]]
+markerFile: [[Neuenlande]]
+defaultZoom: 11 
+maxZoom: 18
+```

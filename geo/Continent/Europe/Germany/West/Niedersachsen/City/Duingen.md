@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duingen
+coordinates: [[Duingen]]
+markerFile: [[Duingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

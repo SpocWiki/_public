@@ -1,4 +1,4 @@
----
+﻿---
 location: [65.57,22.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lulea
+coordinates: [[Lulea]]
+markerFile: [[Lulea]]
+defaultZoom: 11 
+maxZoom: 18
+```

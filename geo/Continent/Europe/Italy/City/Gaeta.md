@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gaeta
+coordinates: [[Gaeta]]
+markerFile: [[Gaeta]]
+defaultZoom: 11 
+maxZoom: 18
+```

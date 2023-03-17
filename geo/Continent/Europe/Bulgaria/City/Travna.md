@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Travna
+coordinates: [[Travna]]
+markerFile: [[Travna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montevergine
+coordinates: [[Montevergine]]
+markerFile: [[Montevergine]]
+defaultZoom: 11 
+maxZoom: 18
+```

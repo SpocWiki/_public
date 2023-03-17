@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.88,2.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuilly Sur Seine
+coordinates: [[Neuilly Sur Seine]]
+markerFile: [[Neuilly Sur Seine]]
+defaultZoom: 11 
+maxZoom: 18
+```

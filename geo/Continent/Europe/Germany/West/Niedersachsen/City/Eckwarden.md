@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eckwarden
+coordinates: [[Eckwarden]]
+markerFile: [[Eckwarden]]
+defaultZoom: 11 
+maxZoom: 18
+```

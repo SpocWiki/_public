@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.98,8.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pilatus-Kulm
+coordinates: [[Pilatus-Kulm]]
+markerFile: [[Pilatus-Kulm]]
+defaultZoom: 11 
+maxZoom: 18
+```

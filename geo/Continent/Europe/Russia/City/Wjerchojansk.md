@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wjerchojansk
+coordinates: [[Wjerchojansk]]
+markerFile: [[Wjerchojansk]]
+defaultZoom: 11 
+maxZoom: 18
+```

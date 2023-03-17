@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Namangan
+coordinates: [[Namangan]]
+markerFile: [[Namangan]]
+defaultZoom: 11 
+maxZoom: 18
+```

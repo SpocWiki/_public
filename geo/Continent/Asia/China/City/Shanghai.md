@@ -1,4 +1,4 @@
----
+﻿---
 location: [31.23,121.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -19,3 +19,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Shanghai
+coordinates: [[Shanghai]]
+markerFile: [[Shanghai]]
+defaultZoom: 11 
+maxZoom: 18
+```

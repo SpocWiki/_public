@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carson City
+coordinates: [[Carson City]]
+markerFile: [[Carson City]]
+defaultZoom: 11 
+maxZoom: 18
+```

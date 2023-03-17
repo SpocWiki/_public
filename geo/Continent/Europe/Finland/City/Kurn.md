@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kurn
+coordinates: [[Kurn]]
+markerFile: [[Kurn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchlengern
+coordinates: [[Kirchlengern]]
+markerFile: [[Kirchlengern]]
+defaultZoom: 11 
+maxZoom: 18
+```

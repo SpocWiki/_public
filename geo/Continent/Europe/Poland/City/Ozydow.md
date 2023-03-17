@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.7,24.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ozydow
+coordinates: [[Ozydow]]
+markerFile: [[Ozydow]]
+defaultZoom: 11 
+maxZoom: 18
+```

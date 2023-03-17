@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pieve nel Cairolt
+coordinates: [[Pieve nel Cairolt]]
+markerFile: [[Pieve nel Cairolt]]
+defaultZoom: 11 
+maxZoom: 18
+```

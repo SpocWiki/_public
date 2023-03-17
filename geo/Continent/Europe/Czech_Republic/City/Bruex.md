@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruex
+coordinates: [[Bruex]]
+markerFile: [[Bruex]]
+defaultZoom: 11 
+maxZoom: 18
+```

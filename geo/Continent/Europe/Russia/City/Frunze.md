@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frunze
+coordinates: [[Frunze]]
+markerFile: [[Frunze]]
+defaultZoom: 11 
+maxZoom: 18
+```

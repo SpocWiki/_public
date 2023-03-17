@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waren
+coordinates: [[Waren]]
+markerFile: [[Waren]]
+defaultZoom: 11 
+maxZoom: 18
+```

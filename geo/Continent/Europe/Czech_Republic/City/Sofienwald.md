@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sofienwald
+coordinates: [[Sofienwald]]
+markerFile: [[Sofienwald]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hexenagger
+coordinates: [[Hexenagger]]
+markerFile: [[Hexenagger]]
+defaultZoom: 11 
+maxZoom: 18
+```

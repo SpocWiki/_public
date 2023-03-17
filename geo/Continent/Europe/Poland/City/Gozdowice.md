@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gozdowice
+coordinates: [[Gozdowice]]
+markerFile: [[Gozdowice]]
+defaultZoom: 11 
+maxZoom: 18
+```

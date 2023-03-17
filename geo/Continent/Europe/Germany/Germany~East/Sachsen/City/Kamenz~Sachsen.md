@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kamenz~Sachsen
+coordinates: [[Kamenz~Sachsen]]
+markerFile: [[Kamenz~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

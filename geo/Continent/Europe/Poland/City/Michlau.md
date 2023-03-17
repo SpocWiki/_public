@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Michlau
+coordinates: [[Michlau]]
+markerFile: [[Michlau]]
+defaultZoom: 11 
+maxZoom: 18
+```

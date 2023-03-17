@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buchloe
+coordinates: [[Buchloe]]
+markerFile: [[Buchloe]]
+defaultZoom: 11 
+maxZoom: 18
+```

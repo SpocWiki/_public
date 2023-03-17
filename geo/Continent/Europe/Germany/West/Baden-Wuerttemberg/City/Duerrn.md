@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duerrn
+coordinates: [[Duerrn]]
+markerFile: [[Duerrn]]
+defaultZoom: 11 
+maxZoom: 18
+```

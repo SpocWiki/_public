@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sligo
+coordinates: [[Sligo]]
+markerFile: [[Sligo]]
+defaultZoom: 11 
+maxZoom: 18
+```

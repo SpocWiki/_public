@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sauvo
+coordinates: [[Sauvo]]
+markerFile: [[Sauvo]]
+defaultZoom: 11 
+maxZoom: 18
+```

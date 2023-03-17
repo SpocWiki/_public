@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sartton
+coordinates: [[Sartton]]
+markerFile: [[Sartton]]
+defaultZoom: 11 
+maxZoom: 18
+```

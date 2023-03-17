@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halifax
+coordinates: [[Halifax]]
+markerFile: [[Halifax]]
+defaultZoom: 11 
+maxZoom: 18
+```

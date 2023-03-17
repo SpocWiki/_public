@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fredericton
+coordinates: [[Fredericton]]
+markerFile: [[Fredericton]]
+defaultZoom: 11 
+maxZoom: 18
+```

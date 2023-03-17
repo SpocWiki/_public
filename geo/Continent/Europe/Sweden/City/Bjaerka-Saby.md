@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bjaerka-Saby
+coordinates: [[Bjaerka-Saby]]
+markerFile: [[Bjaerka-Saby]]
+defaultZoom: 11 
+maxZoom: 18
+```

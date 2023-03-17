@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tulle
+coordinates: [[Tulle]]
+markerFile: [[Tulle]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vechta
+coordinates: [[Vechta]]
+markerFile: [[Vechta]]
+defaultZoom: 11 
+maxZoom: 18
+```

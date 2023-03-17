@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wriezen
+coordinates: [[Wriezen]]
+markerFile: [[Wriezen]]
+defaultZoom: 11 
+maxZoom: 18
+```

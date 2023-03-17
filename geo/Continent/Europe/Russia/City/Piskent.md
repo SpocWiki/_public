@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Piskent
+coordinates: [[Piskent]]
+markerFile: [[Piskent]]
+defaultZoom: 11 
+maxZoom: 18
+```

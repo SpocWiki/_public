@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tettnang
+coordinates: [[Tettnang]]
+markerFile: [[Tettnang]]
+defaultZoom: 11 
+maxZoom: 18
+```

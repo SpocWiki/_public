@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hopsten
+coordinates: [[Hopsten]]
+markerFile: [[Hopsten]]
+defaultZoom: 11 
+maxZoom: 18
+```

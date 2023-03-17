@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brand~Sachsen
+coordinates: [[Brand~Sachsen]]
+markerFile: [[Brand~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

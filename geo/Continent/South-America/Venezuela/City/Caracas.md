@@ -1,4 +1,4 @@
----
+﻿---
 location: [10.5,-66.93]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Caracas
+coordinates: [[Caracas]]
+markerFile: [[Caracas]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Donaustauf
+coordinates: [[Donaustauf]]
+markerFile: [[Donaustauf]]
+defaultZoom: 11 
+maxZoom: 18
+```

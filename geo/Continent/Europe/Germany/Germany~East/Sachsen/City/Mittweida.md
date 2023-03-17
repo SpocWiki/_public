@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.98,12.98]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mittweida
+coordinates: [[Mittweida]]
+markerFile: [[Mittweida]]
+defaultZoom: 11 
+maxZoom: 18
+```

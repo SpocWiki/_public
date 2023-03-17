@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lindau~Bodensee
+coordinates: [[Lindau~Bodensee]]
+markerFile: [[Lindau~Bodensee]]
+defaultZoom: 11 
+maxZoom: 18
+```

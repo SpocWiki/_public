@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.82,8.82]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Varese
+coordinates: [[Varese]]
+markerFile: [[Varese]]
+defaultZoom: 11 
+maxZoom: 18
+```

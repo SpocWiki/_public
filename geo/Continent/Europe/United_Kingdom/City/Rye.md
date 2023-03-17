@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rye
+coordinates: [[Rye]]
+markerFile: [[Rye]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brockwitz
+coordinates: [[Brockwitz]]
+markerFile: [[Brockwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

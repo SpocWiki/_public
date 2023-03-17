@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sterkrade
+coordinates: [[Sterkrade]]
+markerFile: [[Sterkrade]]
+defaultZoom: 11 
+maxZoom: 18
+```

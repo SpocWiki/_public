@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Targu-Mures
+coordinates: [[Targu-Mures]]
+markerFile: [[Targu-Mures]]
+defaultZoom: 11 
+maxZoom: 18
+```

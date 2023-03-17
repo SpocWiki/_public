@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Collagna
+coordinates: [[Collagna]]
+markerFile: [[Collagna]]
+defaultZoom: 11 
+maxZoom: 18
+```

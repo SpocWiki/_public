@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heinrichswalde
+coordinates: [[Heinrichswalde]]
+markerFile: [[Heinrichswalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

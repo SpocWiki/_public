@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oucesant
+coordinates: [[Oucesant]]
+markerFile: [[Oucesant]]
+defaultZoom: 11 
+maxZoom: 18
+```

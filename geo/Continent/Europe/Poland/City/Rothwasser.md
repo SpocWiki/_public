@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rothwasser
+coordinates: [[Rothwasser]]
+markerFile: [[Rothwasser]]
+defaultZoom: 11 
+maxZoom: 18
+```

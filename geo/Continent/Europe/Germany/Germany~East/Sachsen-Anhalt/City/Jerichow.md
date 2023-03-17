@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jerichow
+coordinates: [[Jerichow]]
+markerFile: [[Jerichow]]
+defaultZoom: 11 
+maxZoom: 18
+```

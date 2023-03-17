@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Braunschweig
+coordinates: [[Braunschweig]]
+markerFile: [[Braunschweig]]
+defaultZoom: 11 
+maxZoom: 18
+```

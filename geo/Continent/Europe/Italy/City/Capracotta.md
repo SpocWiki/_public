@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Capracotta
+coordinates: [[Capracotta]]
+markerFile: [[Capracotta]]
+defaultZoom: 11 
+maxZoom: 18
+```

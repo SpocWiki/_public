@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ludwigsstadt
+coordinates: [[Ludwigsstadt]]
+markerFile: [[Ludwigsstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

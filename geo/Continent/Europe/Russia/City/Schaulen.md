@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schaulen
+coordinates: [[Schaulen]]
+markerFile: [[Schaulen]]
+defaultZoom: 11 
+maxZoom: 18
+```

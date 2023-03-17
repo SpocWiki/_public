@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.53,7.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cannes
+coordinates: [[Cannes]]
+markerFile: [[Cannes]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aurillac
+coordinates: [[Aurillac]]
+markerFile: [[Aurillac]]
+defaultZoom: 11 
+maxZoom: 18
+```

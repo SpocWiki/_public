@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Akkermanovka
+coordinates: [[Akkermanovka]]
+markerFile: [[Akkermanovka]]
+defaultZoom: 11 
+maxZoom: 18
+```

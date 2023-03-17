@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ussel
+coordinates: [[Ussel]]
+markerFile: [[Ussel]]
+defaultZoom: 11 
+maxZoom: 18
+```

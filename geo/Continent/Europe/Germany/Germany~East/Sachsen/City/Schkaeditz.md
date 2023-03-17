@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schkaeditz
+coordinates: [[Schkaeditz]]
+markerFile: [[Schkaeditz]]
+defaultZoom: 11 
+maxZoom: 18
+```

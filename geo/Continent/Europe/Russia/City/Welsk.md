@@ -1,4 +1,4 @@
----
+﻿---
 location: [61.08,42.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Welsk
+coordinates: [[Welsk]]
+markerFile: [[Welsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leonberg~Wuerttemberg
+coordinates: [[Leonberg~Wuerttemberg]]
+markerFile: [[Leonberg~Wuerttemberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ploermel
+coordinates: [[Ploermel]]
+markerFile: [[Ploermel]]
+defaultZoom: 11 
+maxZoom: 18
+```

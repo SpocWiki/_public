@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neudorf
+coordinates: [[Neudorf]]
+markerFile: [[Neudorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

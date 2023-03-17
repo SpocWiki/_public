@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.58,14.65]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuestrin
+coordinates: [[Kuestrin]]
+markerFile: [[Kuestrin]]
+defaultZoom: 11 
+maxZoom: 18
+```

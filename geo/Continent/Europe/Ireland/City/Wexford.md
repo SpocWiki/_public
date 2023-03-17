@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wexford
+coordinates: [[Wexford]]
+markerFile: [[Wexford]]
+defaultZoom: 11 
+maxZoom: 18
+```

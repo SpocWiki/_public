@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barcelona
+coordinates: [[Barcelona]]
+markerFile: [[Barcelona]]
+defaultZoom: 11 
+maxZoom: 18
+```

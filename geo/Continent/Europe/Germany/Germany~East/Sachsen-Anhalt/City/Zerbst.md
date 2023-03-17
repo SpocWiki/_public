@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.97,12.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zerbst
+coordinates: [[Zerbst]]
+markerFile: [[Zerbst]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wieren
+coordinates: [[Wieren]]
+markerFile: [[Wieren]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wells
+coordinates: [[Wells]]
+markerFile: [[Wells]]
+defaultZoom: 11 
+maxZoom: 18
+```

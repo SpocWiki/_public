@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Willershausen
+coordinates: [[Willershausen]]
+markerFile: [[Willershausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

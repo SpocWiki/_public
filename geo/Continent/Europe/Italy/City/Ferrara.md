@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ferrara
+coordinates: [[Ferrara]]
+markerFile: [[Ferrara]]
+defaultZoom: 11 
+maxZoom: 18
+```

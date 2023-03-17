@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vilshofen
+coordinates: [[Vilshofen]]
+markerFile: [[Vilshofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

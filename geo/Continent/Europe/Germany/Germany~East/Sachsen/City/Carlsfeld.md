@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carlsfeld
+coordinates: [[Carlsfeld]]
+markerFile: [[Carlsfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oppeln
+coordinates: [[Oppeln]]
+markerFile: [[Oppeln]]
+defaultZoom: 11 
+maxZoom: 18
+```

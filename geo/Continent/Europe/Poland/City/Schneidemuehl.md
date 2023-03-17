@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.15,16.73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schneidemuehl
+coordinates: [[Schneidemuehl]]
+markerFile: [[Schneidemuehl]]
+defaultZoom: 11 
+maxZoom: 18
+```

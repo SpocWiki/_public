@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Munsvattnet
+coordinates: [[Munsvattnet]]
+markerFile: [[Munsvattnet]]
+defaultZoom: 11 
+maxZoom: 18
+```

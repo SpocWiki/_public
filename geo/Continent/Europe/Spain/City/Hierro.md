@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hierro
+coordinates: [[Hierro]]
+markerFile: [[Hierro]]
+defaultZoom: 11 
+maxZoom: 18
+```

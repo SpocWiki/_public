@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seeshaupt
+coordinates: [[Seeshaupt]]
+markerFile: [[Seeshaupt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tenby
+coordinates: [[Tenby]]
+markerFile: [[Tenby]]
+defaultZoom: 11 
+maxZoom: 18
+```

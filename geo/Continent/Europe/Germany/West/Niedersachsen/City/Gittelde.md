@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gittelde
+coordinates: [[Gittelde]]
+markerFile: [[Gittelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

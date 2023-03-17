@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kielce
+coordinates: [[Kielce]]
+markerFile: [[Kielce]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lappfjaerd
+coordinates: [[Lappfjaerd]]
+markerFile: [[Lappfjaerd]]
+defaultZoom: 11 
+maxZoom: 18
+```

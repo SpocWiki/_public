@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wunsiedel
+coordinates: [[Wunsiedel]]
+markerFile: [[Wunsiedel]]
+defaultZoom: 11 
+maxZoom: 18
+```

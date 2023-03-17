@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haessleby
+coordinates: [[Haessleby]]
+markerFile: [[Haessleby]]
+defaultZoom: 11 
+maxZoom: 18
+```

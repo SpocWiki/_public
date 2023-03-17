@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruck
+coordinates: [[Bruck]]
+markerFile: [[Bruck]]
+defaultZoom: 11 
+maxZoom: 18
+```

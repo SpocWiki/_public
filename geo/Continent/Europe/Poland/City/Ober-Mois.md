@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Mois
+coordinates: [[Ober-Mois]]
+markerFile: [[Ober-Mois]]
+defaultZoom: 11 
+maxZoom: 18
+```

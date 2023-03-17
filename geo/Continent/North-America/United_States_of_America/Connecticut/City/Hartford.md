@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hartford
+coordinates: [[Hartford]]
+markerFile: [[Hartford]]
+defaultZoom: 11 
+maxZoom: 18
+```

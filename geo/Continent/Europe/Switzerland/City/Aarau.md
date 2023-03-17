@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aarau
+coordinates: [[Aarau]]
+markerFile: [[Aarau]]
+defaultZoom: 11 
+maxZoom: 18
+```

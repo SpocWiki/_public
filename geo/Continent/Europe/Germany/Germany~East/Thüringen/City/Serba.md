@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Serba
+coordinates: [[Serba]]
+markerFile: [[Serba]]
+defaultZoom: 11 
+maxZoom: 18
+```

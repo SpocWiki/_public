@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fagersjoe
+coordinates: [[Fagersjoe]]
+markerFile: [[Fagersjoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldenburg~Oberschlesien
+coordinates: [[Waldenburg~Oberschlesien]]
+markerFile: [[Waldenburg~Oberschlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

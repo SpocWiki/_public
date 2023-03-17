@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koberwitz
+coordinates: [[Koberwitz]]
+markerFile: [[Koberwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

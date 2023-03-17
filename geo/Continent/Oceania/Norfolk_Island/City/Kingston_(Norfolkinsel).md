@@ -1,4 +1,4 @@
----
+﻿---
 location: [-29.06667,167.9667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kingston (Norfolkinsel)
+coordinates: [[Kingston (Norfolkinsel)]]
+markerFile: [[Kingston (Norfolkinsel)]]
+defaultZoom: 11 
+maxZoom: 18
+```

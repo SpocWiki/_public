@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Griesskirchen
+coordinates: [[Griesskirchen]]
+markerFile: [[Griesskirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

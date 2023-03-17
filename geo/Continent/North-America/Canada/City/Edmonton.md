@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Edmonton
+coordinates: [[Edmonton]]
+markerFile: [[Edmonton]]
+defaultZoom: 11 
+maxZoom: 18
+```

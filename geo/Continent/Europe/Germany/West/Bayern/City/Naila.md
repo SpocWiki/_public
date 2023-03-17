@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.33,11.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Naila
+coordinates: [[Naila]]
+markerFile: [[Naila]]
+defaultZoom: 11 
+maxZoom: 18
+```

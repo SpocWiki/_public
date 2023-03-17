@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strausberg
+coordinates: [[Strausberg]]
+markerFile: [[Strausberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

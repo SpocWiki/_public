@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bogschuetz
+coordinates: [[Bogschuetz]]
+markerFile: [[Bogschuetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rawitsch
+coordinates: [[Rawitsch]]
+markerFile: [[Rawitsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

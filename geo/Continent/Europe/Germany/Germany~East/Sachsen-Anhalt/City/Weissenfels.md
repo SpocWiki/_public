@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weissenfels
+coordinates: [[Weissenfels]]
+markerFile: [[Weissenfels]]
+defaultZoom: 11 
+maxZoom: 18
+```

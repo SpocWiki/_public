@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Triwandrum
+coordinates: [[Triwandrum]]
+markerFile: [[Triwandrum]]
+defaultZoom: 11 
+maxZoom: 18
+```

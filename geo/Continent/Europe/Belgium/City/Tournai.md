@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tournai
+coordinates: [[Tournai]]
+markerFile: [[Tournai]]
+defaultZoom: 11 
+maxZoom: 18
+```

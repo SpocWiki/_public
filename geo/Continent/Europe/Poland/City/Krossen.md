@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.03,15.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krossen
+coordinates: [[Krossen]]
+markerFile: [[Krossen]]
+defaultZoom: 11 
+maxZoom: 18
+```

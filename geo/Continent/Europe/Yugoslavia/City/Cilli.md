@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cilli
+coordinates: [[Cilli]]
+markerFile: [[Cilli]]
+defaultZoom: 11 
+maxZoom: 18
+```

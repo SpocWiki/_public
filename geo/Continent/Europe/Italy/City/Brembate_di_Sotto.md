@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.47,10.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brembate di Sotto
+coordinates: [[Brembate di Sotto]]
+markerFile: [[Brembate di Sotto]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gorio
+coordinates: [[Gorio]]
+markerFile: [[Gorio]]
+defaultZoom: 11 
+maxZoom: 18
+```

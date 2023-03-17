@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlsdorf
+coordinates: [[Karlsdorf]]
+markerFile: [[Karlsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forcalquier
+coordinates: [[Forcalquier]]
+markerFile: [[Forcalquier]]
+defaultZoom: 11 
+maxZoom: 18
+```

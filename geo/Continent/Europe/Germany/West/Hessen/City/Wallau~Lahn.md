@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wallau~Lahn
+coordinates: [[Wallau~Lahn]]
+markerFile: [[Wallau~Lahn]]
+defaultZoom: 11 
+maxZoom: 18
+```

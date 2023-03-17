@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Judenburg
+coordinates: [[Judenburg]]
+markerFile: [[Judenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

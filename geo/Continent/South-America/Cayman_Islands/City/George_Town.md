@@ -1,4 +1,4 @@
----
+﻿---
 location: [19.28333,-81.36667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: George Town
+coordinates: [[George Town]]
+markerFile: [[George Town]]
+defaultZoom: 11 
+maxZoom: 18
+```

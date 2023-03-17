@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marbach~Lauter
+coordinates: [[Marbach~Lauter]]
+markerFile: [[Marbach~Lauter]]
+defaultZoom: 11 
+maxZoom: 18
+```

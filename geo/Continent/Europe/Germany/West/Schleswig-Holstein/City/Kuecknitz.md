@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuecknitz
+coordinates: [[Kuecknitz]]
+markerFile: [[Kuecknitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

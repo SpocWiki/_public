@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchborchen
+coordinates: [[Kirchborchen]]
+markerFile: [[Kirchborchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

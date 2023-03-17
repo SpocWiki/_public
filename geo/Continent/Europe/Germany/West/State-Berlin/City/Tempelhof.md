@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tempelhof
+coordinates: [[Tempelhof]]
+markerFile: [[Tempelhof]]
+defaultZoom: 11 
+maxZoom: 18
+```

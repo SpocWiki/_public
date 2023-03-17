@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maubeuge
+coordinates: [[Maubeuge]]
+markerFile: [[Maubeuge]]
+defaultZoom: 11 
+maxZoom: 18
+```

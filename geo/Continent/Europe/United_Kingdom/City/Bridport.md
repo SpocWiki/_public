@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bridport
+coordinates: [[Bridport]]
+markerFile: [[Bridport]]
+defaultZoom: 11 
+maxZoom: 18
+```

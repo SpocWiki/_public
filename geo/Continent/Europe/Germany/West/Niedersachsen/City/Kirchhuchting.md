@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchhuchting
+coordinates: [[Kirchhuchting]]
+markerFile: [[Kirchhuchting]]
+defaultZoom: 11 
+maxZoom: 18
+```

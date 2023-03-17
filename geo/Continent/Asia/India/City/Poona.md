@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poona
+coordinates: [[Poona]]
+markerFile: [[Poona]]
+defaultZoom: 11 
+maxZoom: 18
+```

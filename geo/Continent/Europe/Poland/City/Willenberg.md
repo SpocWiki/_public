@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Willenberg
+coordinates: [[Willenberg]]
+markerFile: [[Willenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

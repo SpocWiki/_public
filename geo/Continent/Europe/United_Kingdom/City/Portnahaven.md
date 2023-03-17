@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Portnahaven
+coordinates: [[Portnahaven]]
+markerFile: [[Portnahaven]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchheim-Teck
+coordinates: [[Kirchheim-Teck]]
+markerFile: [[Kirchheim-Teck]]
+defaultZoom: 11 
+maxZoom: 18
+```

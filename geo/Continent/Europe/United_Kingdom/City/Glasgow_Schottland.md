@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glasgow/Schottland
+coordinates: [[Glasgow/Schottland]]
+markerFile: [[Glasgow/Schottland]]
+defaultZoom: 11 
+maxZoom: 18
+```

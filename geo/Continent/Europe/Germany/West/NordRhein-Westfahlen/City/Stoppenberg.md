@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stoppenberg
+coordinates: [[Stoppenberg]]
+markerFile: [[Stoppenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

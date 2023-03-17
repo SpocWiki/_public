@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lichtenstein
+coordinates: [[Lichtenstein]]
+markerFile: [[Lichtenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

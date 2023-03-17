@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.32,11.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alfonsine
+coordinates: [[Alfonsine]]
+markerFile: [[Alfonsine]]
+defaultZoom: 11 
+maxZoom: 18
+```

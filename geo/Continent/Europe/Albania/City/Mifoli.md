@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mifoli
+coordinates: [[Mifoli]]
+markerFile: [[Mifoli]]
+defaultZoom: 11 
+maxZoom: 18
+```

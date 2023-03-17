@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Coulommiers
+coordinates: [[Coulommiers]]
+markerFile: [[Coulommiers]]
+defaultZoom: 11 
+maxZoom: 18
+```

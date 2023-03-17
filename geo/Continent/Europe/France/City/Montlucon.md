@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montlucon
+coordinates: [[Montlucon]]
+markerFile: [[Montlucon]]
+defaultZoom: 11 
+maxZoom: 18
+```

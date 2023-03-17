@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heinaeluoto
+coordinates: [[Heinaeluoto]]
+markerFile: [[Heinaeluoto]]
+defaultZoom: 11 
+maxZoom: 18
+```

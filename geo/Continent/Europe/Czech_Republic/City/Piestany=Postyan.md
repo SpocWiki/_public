@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.62,17.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Piestany=Postyan
+coordinates: [[Piestany=Postyan]]
+markerFile: [[Piestany=Postyan]]
+defaultZoom: 11 
+maxZoom: 18
+```

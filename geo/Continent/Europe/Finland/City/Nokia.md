@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nokia
+coordinates: [[Nokia]]
+markerFile: [[Nokia]]
+defaultZoom: 11 
+maxZoom: 18
+```

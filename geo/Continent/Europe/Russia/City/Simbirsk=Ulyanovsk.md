@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Simbirsk=Ulyanovsk
+coordinates: [[Simbirsk=Ulyanovsk]]
+markerFile: [[Simbirsk=Ulyanovsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

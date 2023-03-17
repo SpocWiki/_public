@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wanne-Eickel
+coordinates: [[Wanne-Eickel]]
+markerFile: [[Wanne-Eickel]]
+defaultZoom: 11 
+maxZoom: 18
+```

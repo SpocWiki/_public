@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mitau
+coordinates: [[Mitau]]
+markerFile: [[Mitau]]
+defaultZoom: 11 
+maxZoom: 18
+```

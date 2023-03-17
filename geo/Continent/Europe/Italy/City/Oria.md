@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oria
+coordinates: [[Oria]]
+markerFile: [[Oria]]
+defaultZoom: 11 
+maxZoom: 18
+```

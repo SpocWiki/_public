@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ayan
+coordinates: [[Ayan]]
+markerFile: [[Ayan]]
+defaultZoom: 11 
+maxZoom: 18
+```

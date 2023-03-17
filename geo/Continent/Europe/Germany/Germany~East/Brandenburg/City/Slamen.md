@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Slamen
+coordinates: [[Slamen]]
+markerFile: [[Slamen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Simo
+coordinates: [[Simo]]
+markerFile: [[Simo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berezof
+coordinates: [[Berezof]]
+markerFile: [[Berezof]]
+defaultZoom: 11 
+maxZoom: 18
+```

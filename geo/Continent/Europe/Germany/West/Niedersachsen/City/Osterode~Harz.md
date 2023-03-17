@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osterode~Harz
+coordinates: [[Osterode~Harz]]
+markerFile: [[Osterode~Harz]]
+defaultZoom: 11 
+maxZoom: 18
+```

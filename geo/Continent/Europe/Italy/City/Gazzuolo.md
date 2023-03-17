@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gazzuolo
+coordinates: [[Gazzuolo]]
+markerFile: [[Gazzuolo]]
+defaultZoom: 11 
+maxZoom: 18
+```

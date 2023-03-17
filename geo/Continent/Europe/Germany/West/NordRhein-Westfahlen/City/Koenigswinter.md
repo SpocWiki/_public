@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigswinter
+coordinates: [[Koenigswinter]]
+markerFile: [[Koenigswinter]]
+defaultZoom: 11 
+maxZoom: 18
+```

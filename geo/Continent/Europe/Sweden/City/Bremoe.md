@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bremoe
+coordinates: [[Bremoe]]
+markerFile: [[Bremoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pravadija
+coordinates: [[Pravadija]]
+markerFile: [[Pravadija]]
+defaultZoom: 11 
+maxZoom: 18
+```

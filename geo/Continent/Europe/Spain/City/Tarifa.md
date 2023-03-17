@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tarifa
+coordinates: [[Tarifa]]
+markerFile: [[Tarifa]]
+defaultZoom: 11 
+maxZoom: 18
+```

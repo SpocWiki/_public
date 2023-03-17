@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pruem
+coordinates: [[Pruem]]
+markerFile: [[Pruem]]
+defaultZoom: 11 
+maxZoom: 18
+```

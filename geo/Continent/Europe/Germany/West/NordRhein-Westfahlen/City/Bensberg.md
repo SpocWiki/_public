@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bensberg
+coordinates: [[Bensberg]]
+markerFile: [[Bensberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

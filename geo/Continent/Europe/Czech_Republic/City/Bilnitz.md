@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.08,18.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bilnitz
+coordinates: [[Bilnitz]]
+markerFile: [[Bilnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

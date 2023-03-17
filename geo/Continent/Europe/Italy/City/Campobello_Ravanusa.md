@@ -1,4 +1,4 @@
----
+﻿---
 location: [37.32,13.98]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Campobello Ravanusa
+coordinates: [[Campobello Ravanusa]]
+markerFile: [[Campobello Ravanusa]]
+defaultZoom: 11 
+maxZoom: 18
+```

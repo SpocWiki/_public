@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liessau
+coordinates: [[Liessau]]
+markerFile: [[Liessau]]
+defaultZoom: 11 
+maxZoom: 18
+```

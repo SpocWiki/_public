@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruehl bei Koeln
+coordinates: [[Bruehl bei Koeln]]
+markerFile: [[Bruehl bei Koeln]]
+defaultZoom: 11 
+maxZoom: 18
+```

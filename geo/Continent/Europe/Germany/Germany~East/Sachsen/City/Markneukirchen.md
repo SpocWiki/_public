@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.32,12.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Markneukirchen
+coordinates: [[Markneukirchen]]
+markerFile: [[Markneukirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

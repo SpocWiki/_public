@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenau~Schlesien
+coordinates: [[Langenau~Schlesien]]
+markerFile: [[Langenau~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

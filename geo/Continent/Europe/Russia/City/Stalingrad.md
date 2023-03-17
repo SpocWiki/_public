@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stalingrad
+coordinates: [[Stalingrad]]
+markerFile: [[Stalingrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

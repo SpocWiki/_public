@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chiavenna
+coordinates: [[Chiavenna]]
+markerFile: [[Chiavenna]]
+defaultZoom: 11 
+maxZoom: 18
+```

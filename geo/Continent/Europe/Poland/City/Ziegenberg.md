@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ziegenberg
+coordinates: [[Ziegenberg]]
+markerFile: [[Ziegenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

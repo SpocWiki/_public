@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wildeshausen
+coordinates: [[Wildeshausen]]
+markerFile: [[Wildeshausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

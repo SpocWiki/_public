@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heydekrug
+coordinates: [[Heydekrug]]
+markerFile: [[Heydekrug]]
+defaultZoom: 11 
+maxZoom: 18
+```

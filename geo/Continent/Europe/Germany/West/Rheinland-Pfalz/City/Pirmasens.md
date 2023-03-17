@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.2,7.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pirmasens
+coordinates: [[Pirmasens]]
+markerFile: [[Pirmasens]]
+defaultZoom: 11 
+maxZoom: 18
+```

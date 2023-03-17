@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lombez
+coordinates: [[Lombez]]
+markerFile: [[Lombez]]
+defaultZoom: 11 
+maxZoom: 18
+```

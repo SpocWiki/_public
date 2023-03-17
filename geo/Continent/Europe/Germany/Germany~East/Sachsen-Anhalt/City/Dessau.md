@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dessau
+coordinates: [[Dessau]]
+markerFile: [[Dessau]]
+defaultZoom: 11 
+maxZoom: 18
+```

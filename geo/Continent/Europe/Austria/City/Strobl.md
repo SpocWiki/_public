@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strobl
+coordinates: [[Strobl]]
+markerFile: [[Strobl]]
+defaultZoom: 11 
+maxZoom: 18
+```

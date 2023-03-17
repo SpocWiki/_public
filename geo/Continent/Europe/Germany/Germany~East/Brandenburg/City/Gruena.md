@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gruena
+coordinates: [[Gruena]]
+markerFile: [[Gruena]]
+defaultZoom: 11 
+maxZoom: 18
+```

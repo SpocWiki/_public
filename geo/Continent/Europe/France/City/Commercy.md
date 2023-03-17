@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Commercy
+coordinates: [[Commercy]]
+markerFile: [[Commercy]]
+defaultZoom: 11 
+maxZoom: 18
+```

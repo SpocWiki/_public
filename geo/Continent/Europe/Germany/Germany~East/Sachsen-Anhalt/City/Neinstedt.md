@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neinstedt
+coordinates: [[Neinstedt]]
+markerFile: [[Neinstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werther
+coordinates: [[Werther]]
+markerFile: [[Werther]]
+defaultZoom: 11 
+maxZoom: 18
+```

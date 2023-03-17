@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sonneberg
+coordinates: [[Sonneberg]]
+markerFile: [[Sonneberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

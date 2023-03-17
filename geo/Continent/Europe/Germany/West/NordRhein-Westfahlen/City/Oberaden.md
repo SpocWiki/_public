@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberaden
+coordinates: [[Oberaden]]
+markerFile: [[Oberaden]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwarzach
+coordinates: [[Schwarzach]]
+markerFile: [[Schwarzach]]
+defaultZoom: 11 
+maxZoom: 18
+```

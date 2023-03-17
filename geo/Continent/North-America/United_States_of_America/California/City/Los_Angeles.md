@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Los Angeles
+coordinates: [[Los Angeles]]
+markerFile: [[Los Angeles]]
+defaultZoom: 11 
+maxZoom: 18
+```

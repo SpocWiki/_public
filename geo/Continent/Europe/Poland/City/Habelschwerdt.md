@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Habelschwerdt
+coordinates: [[Habelschwerdt]]
+markerFile: [[Habelschwerdt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thorne
+coordinates: [[Thorne]]
+markerFile: [[Thorne]]
+defaultZoom: 11 
+maxZoom: 18
+```

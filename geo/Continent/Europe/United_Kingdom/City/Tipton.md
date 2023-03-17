@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tipton
+coordinates: [[Tipton]]
+markerFile: [[Tipton]]
+defaultZoom: 11 
+maxZoom: 18
+```

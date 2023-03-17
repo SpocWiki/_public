@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Slatonst
+coordinates: [[Slatonst]]
+markerFile: [[Slatonst]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: South Foreland
+coordinates: [[South Foreland]]
+markerFile: [[South Foreland]]
+defaultZoom: 11 
+maxZoom: 18
+```

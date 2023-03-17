@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.06194,141.3542]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sapporo
+coordinates: [[Sapporo]]
+markerFile: [[Sapporo]]
+defaultZoom: 11 
+maxZoom: 18
+```

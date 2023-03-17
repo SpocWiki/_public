@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandersdorf
+coordinates: [[Sandersdorf]]
+markerFile: [[Sandersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

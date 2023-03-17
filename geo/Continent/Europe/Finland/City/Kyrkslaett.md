@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kyrkslaett
+coordinates: [[Kyrkslaett]]
+markerFile: [[Kyrkslaett]]
+defaultZoom: 11 
+maxZoom: 18
+```

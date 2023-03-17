@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muenstereifel
+coordinates: [[Muenstereifel]]
+markerFile: [[Muenstereifel]]
+defaultZoom: 11 
+maxZoom: 18
+```

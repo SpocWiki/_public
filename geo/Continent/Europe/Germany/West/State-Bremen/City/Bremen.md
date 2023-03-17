@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.08,8.81]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bremen
+coordinates: [[Bremen]]
+markerFile: [[Bremen]]
+defaultZoom: 11 
+maxZoom: 18
+```

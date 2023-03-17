@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberaudorf
+coordinates: [[Oberaudorf]]
+markerFile: [[Oberaudorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

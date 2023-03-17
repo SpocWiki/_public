@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tallahassee
+coordinates: [[Tallahassee]]
+markerFile: [[Tallahassee]]
+defaultZoom: 11 
+maxZoom: 18
+```

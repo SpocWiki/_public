@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peniche
+coordinates: [[Peniche]]
+markerFile: [[Peniche]]
+defaultZoom: 11 
+maxZoom: 18
+```

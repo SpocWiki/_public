@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deschney
+coordinates: [[Deschney]]
+markerFile: [[Deschney]]
+defaultZoom: 11 
+maxZoom: 18
+```

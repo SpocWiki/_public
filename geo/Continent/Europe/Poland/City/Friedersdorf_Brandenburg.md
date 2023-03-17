@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedersdorf/Brandenburg
+coordinates: [[Friedersdorf/Brandenburg]]
+markerFile: [[Friedersdorf/Brandenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bleiberg
+coordinates: [[Bleiberg]]
+markerFile: [[Bleiberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

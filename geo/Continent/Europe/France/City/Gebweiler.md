@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gebweiler
+coordinates: [[Gebweiler]]
+markerFile: [[Gebweiler]]
+defaultZoom: 11 
+maxZoom: 18
+```

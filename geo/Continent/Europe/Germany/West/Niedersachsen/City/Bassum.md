@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bassum
+coordinates: [[Bassum]]
+markerFile: [[Bassum]]
+defaultZoom: 11 
+maxZoom: 18
+```

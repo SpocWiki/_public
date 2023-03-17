@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wangen im Allgaeu
+coordinates: [[Wangen im Allgaeu]]
+markerFile: [[Wangen im Allgaeu]]
+defaultZoom: 11 
+maxZoom: 18
+```

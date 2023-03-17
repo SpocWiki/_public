@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altenheustdorf
+coordinates: [[Altenheustdorf]]
+markerFile: [[Altenheustdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

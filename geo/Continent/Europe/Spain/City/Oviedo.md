@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oviedo
+coordinates: [[Oviedo]]
+markerFile: [[Oviedo]]
+defaultZoom: 11 
+maxZoom: 18
+```

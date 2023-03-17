@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Milazzo
+coordinates: [[Milazzo]]
+markerFile: [[Milazzo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Naroi
+coordinates: [[Naroi]]
+markerFile: [[Naroi]]
+defaultZoom: 11 
+maxZoom: 18
+```

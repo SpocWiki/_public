@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ferrol
+coordinates: [[Ferrol]]
+markerFile: [[Ferrol]]
+defaultZoom: 11 
+maxZoom: 18
+```

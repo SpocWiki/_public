@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldbillig
+coordinates: [[Waldbillig]]
+markerFile: [[Waldbillig]]
+defaultZoom: 11 
+maxZoom: 18
+```

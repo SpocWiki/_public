@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jekaterinodar
+coordinates: [[Jekaterinodar]]
+markerFile: [[Jekaterinodar]]
+defaultZoom: 11 
+maxZoom: 18
+```

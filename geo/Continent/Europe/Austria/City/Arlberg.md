@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arlberg
+coordinates: [[Arlberg]]
+markerFile: [[Arlberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klausen
+coordinates: [[Klausen]]
+markerFile: [[Klausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

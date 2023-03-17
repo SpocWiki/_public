@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pragersko
+coordinates: [[Pragersko]]
+markerFile: [[Pragersko]]
+defaultZoom: 11 
+maxZoom: 18
+```

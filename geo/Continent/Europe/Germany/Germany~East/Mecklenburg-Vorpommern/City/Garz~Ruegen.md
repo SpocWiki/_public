@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Garz~Ruegen
+coordinates: [[Garz~Ruegen]]
+markerFile: [[Garz~Ruegen]]
+defaultZoom: 11 
+maxZoom: 18
+```

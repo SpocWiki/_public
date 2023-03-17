@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.5,10.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moorfleth
+coordinates: [[Moorfleth]]
+markerFile: [[Moorfleth]]
+defaultZoom: 11 
+maxZoom: 18
+```

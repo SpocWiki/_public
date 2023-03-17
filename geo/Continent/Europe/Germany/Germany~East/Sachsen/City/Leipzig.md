@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leipzig
+coordinates: [[Leipzig]]
+markerFile: [[Leipzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fichtenberg
+coordinates: [[Fichtenberg]]
+markerFile: [[Fichtenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

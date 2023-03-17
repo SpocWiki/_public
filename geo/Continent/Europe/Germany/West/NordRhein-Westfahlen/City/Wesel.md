@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wesel
+coordinates: [[Wesel]]
+markerFile: [[Wesel]]
+defaultZoom: 11 
+maxZoom: 18
+```

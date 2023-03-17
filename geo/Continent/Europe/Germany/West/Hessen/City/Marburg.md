@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.81,8.78]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marburg
+coordinates: [[Marburg]]
+markerFile: [[Marburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

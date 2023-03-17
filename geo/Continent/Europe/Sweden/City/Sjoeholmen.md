@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sjoeholmen
+coordinates: [[Sjoeholmen]]
+markerFile: [[Sjoeholmen]]
+defaultZoom: 11 
+maxZoom: 18
+```

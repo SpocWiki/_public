@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nowosibirsk
+coordinates: [[Nowosibirsk]]
+markerFile: [[Nowosibirsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

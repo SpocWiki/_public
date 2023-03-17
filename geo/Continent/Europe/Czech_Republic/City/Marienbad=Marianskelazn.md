@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marienbad=Marianskelazn
+coordinates: [[Marienbad=Marianskelazn]]
+markerFile: [[Marienbad=Marianskelazn]]
+defaultZoom: 11 
+maxZoom: 18
+```

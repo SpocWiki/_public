@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szentes
+coordinates: [[Szentes]]
+markerFile: [[Szentes]]
+defaultZoom: 11 
+maxZoom: 18
+```

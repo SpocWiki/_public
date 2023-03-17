@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Varanasi
+coordinates: [[Varanasi]]
+markerFile: [[Varanasi]]
+defaultZoom: 11 
+maxZoom: 18
+```

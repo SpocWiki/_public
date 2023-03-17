@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoeningen
+coordinates: [[Schoeningen]]
+markerFile: [[Schoeningen]]
+defaultZoom: 11 
+maxZoom: 18
+```

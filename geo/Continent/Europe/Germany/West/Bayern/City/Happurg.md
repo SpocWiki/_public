@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Happurg
+coordinates: [[Happurg]]
+markerFile: [[Happurg]]
+defaultZoom: 11 
+maxZoom: 18
+```

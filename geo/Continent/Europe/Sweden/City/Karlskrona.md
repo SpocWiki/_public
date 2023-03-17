@@ -1,4 +1,4 @@
----
+﻿---
 location: [56.15,15.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlskrona
+coordinates: [[Karlskrona]]
+markerFile: [[Karlskrona]]
+defaultZoom: 11 
+maxZoom: 18
+```

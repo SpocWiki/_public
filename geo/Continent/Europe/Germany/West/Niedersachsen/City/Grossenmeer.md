@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grossenmeer
+coordinates: [[Grossenmeer]]
+markerFile: [[Grossenmeer]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Figueras
+coordinates: [[Figueras]]
+markerFile: [[Figueras]]
+defaultZoom: 11 
+maxZoom: 18
+```

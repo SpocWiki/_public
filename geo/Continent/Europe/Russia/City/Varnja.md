@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Varnja
+coordinates: [[Varnja]]
+markerFile: [[Varnja]]
+defaultZoom: 11 
+maxZoom: 18
+```

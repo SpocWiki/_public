@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vlotho
+coordinates: [[Vlotho]]
+markerFile: [[Vlotho]]
+defaultZoom: 11 
+maxZoom: 18
+```

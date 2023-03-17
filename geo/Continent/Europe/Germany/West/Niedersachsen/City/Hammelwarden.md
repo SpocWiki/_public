@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hammelwarden
+coordinates: [[Hammelwarden]]
+markerFile: [[Hammelwarden]]
+defaultZoom: 11 
+maxZoom: 18
+```

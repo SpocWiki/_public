@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hull=Kingsten
+coordinates: [[Hull=Kingsten]]
+markerFile: [[Hull=Kingsten]]
+defaultZoom: 11 
+maxZoom: 18
+```

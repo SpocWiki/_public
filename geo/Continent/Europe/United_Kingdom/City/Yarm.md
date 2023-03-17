@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yarm
+coordinates: [[Yarm]]
+markerFile: [[Yarm]]
+defaultZoom: 11 
+maxZoom: 18
+```

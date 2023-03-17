@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eulo
+coordinates: [[Eulo]]
+markerFile: [[Eulo]]
+defaultZoom: 11 
+maxZoom: 18
+```

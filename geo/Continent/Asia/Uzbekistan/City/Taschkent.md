@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.33,69.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taschkent
+coordinates: [[Taschkent]]
+markerFile: [[Taschkent]]
+defaultZoom: 11 
+maxZoom: 18
+```

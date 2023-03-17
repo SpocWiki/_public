@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ungstein
+coordinates: [[Ungstein]]
+markerFile: [[Ungstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

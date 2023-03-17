@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uffenheim
+coordinates: [[Uffenheim]]
+markerFile: [[Uffenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

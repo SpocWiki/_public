@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.93,9.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monte Generoso
+coordinates: [[Monte Generoso]]
+markerFile: [[Monte Generoso]]
+defaultZoom: 11 
+maxZoom: 18
+```

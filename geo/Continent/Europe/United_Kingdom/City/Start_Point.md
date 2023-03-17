@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Start Point
+coordinates: [[Start Point]]
+markerFile: [[Start Point]]
+defaultZoom: 11 
+maxZoom: 18
+```

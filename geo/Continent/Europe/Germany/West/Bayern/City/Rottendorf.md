@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rottendorf
+coordinates: [[Rottendorf]]
+markerFile: [[Rottendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

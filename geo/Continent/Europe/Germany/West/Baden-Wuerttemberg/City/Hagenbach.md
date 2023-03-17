@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hagenbach
+coordinates: [[Hagenbach]]
+markerFile: [[Hagenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

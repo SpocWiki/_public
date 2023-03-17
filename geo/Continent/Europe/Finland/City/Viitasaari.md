@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Viitasaari
+coordinates: [[Viitasaari]]
+markerFile: [[Viitasaari]]
+defaultZoom: 11 
+maxZoom: 18
+```

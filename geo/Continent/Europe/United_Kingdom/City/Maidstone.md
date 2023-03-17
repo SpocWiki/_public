@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maidstone
+coordinates: [[Maidstone]]
+markerFile: [[Maidstone]]
+defaultZoom: 11 
+maxZoom: 18
+```

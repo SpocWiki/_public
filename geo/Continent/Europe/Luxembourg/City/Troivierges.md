@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troivierges
+coordinates: [[Troivierges]]
+markerFile: [[Troivierges]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sulzbach~Oberpfalz
+coordinates: [[Sulzbach~Oberpfalz]]
+markerFile: [[Sulzbach~Oberpfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

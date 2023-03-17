@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stamford
+coordinates: [[Stamford]]
+markerFile: [[Stamford]]
+defaultZoom: 11 
+maxZoom: 18
+```

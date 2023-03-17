@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brescia
+coordinates: [[Brescia]]
+markerFile: [[Brescia]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zengg
+coordinates: [[Zengg]]
+markerFile: [[Zengg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stolzenau
+coordinates: [[Stolzenau]]
+markerFile: [[Stolzenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

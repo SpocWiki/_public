@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rheindahlen
+coordinates: [[Rheindahlen]]
+markerFile: [[Rheindahlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

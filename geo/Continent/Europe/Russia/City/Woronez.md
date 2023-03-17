@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Woronez
+coordinates: [[Woronez]]
+markerFile: [[Woronez]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Smolnik
+coordinates: [[Smolnik]]
+markerFile: [[Smolnik]]
+defaultZoom: 11 
+maxZoom: 18
+```

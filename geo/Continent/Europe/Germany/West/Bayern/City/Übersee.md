@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Übersee
+coordinates: [[Übersee]]
+markerFile: [[Übersee]]
+defaultZoom: 11 
+maxZoom: 18
+```

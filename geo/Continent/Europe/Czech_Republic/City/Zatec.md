@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zatec
+coordinates: [[Zatec]]
+markerFile: [[Zatec]]
+defaultZoom: 11 
+maxZoom: 18
+```

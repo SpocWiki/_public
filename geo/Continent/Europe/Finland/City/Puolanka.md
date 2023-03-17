@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Puolanka
+coordinates: [[Puolanka]]
+markerFile: [[Puolanka]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vietz
+coordinates: [[Vietz]]
+markerFile: [[Vietz]]
+defaultZoom: 11 
+maxZoom: 18
+```

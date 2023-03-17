@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschistopol
+coordinates: [[Tschistopol]]
+markerFile: [[Tschistopol]]
+defaultZoom: 11 
+maxZoom: 18
+```

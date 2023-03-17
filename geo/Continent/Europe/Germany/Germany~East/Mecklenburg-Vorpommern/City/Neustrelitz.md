@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustrelitz
+coordinates: [[Neustrelitz]]
+markerFile: [[Neustrelitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

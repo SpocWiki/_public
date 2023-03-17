@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Caserta
+coordinates: [[Caserta]]
+markerFile: [[Caserta]]
+defaultZoom: 11 
+maxZoom: 18
+```

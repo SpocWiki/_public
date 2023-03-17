@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lich
+coordinates: [[Lich]]
+markerFile: [[Lich]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Newcastle under Lyme
+coordinates: [[Newcastle under Lyme]]
+markerFile: [[Newcastle under Lyme]]
+defaultZoom: 11 
+maxZoom: 18
+```

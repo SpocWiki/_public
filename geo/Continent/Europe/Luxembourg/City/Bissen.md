@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bissen
+coordinates: [[Bissen]]
+markerFile: [[Bissen]]
+defaultZoom: 11 
+maxZoom: 18
+```

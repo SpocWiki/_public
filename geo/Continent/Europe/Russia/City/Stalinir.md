@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stalinir
+coordinates: [[Stalinir]]
+markerFile: [[Stalinir]]
+defaultZoom: 11 
+maxZoom: 18
+```

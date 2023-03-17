@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wald Hittenberg
+coordinates: [[Wald Hittenberg]]
+markerFile: [[Wald Hittenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wick
+coordinates: [[Wick]]
+markerFile: [[Wick]]
+defaultZoom: 11 
+maxZoom: 18
+```

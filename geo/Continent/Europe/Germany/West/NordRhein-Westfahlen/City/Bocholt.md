@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bocholt
+coordinates: [[Bocholt]]
+markerFile: [[Bocholt]]
+defaultZoom: 11 
+maxZoom: 18
+```

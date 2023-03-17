@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malsch bei Karlsruhe
+coordinates: [[Malsch bei Karlsruhe]]
+markerFile: [[Malsch bei Karlsruhe]]
+defaultZoom: 11 
+maxZoom: 18
+```

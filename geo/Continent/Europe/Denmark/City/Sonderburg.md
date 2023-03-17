@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sonderburg
+coordinates: [[Sonderburg]]
+markerFile: [[Sonderburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

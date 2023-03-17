@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Verona
+coordinates: [[Verona]]
+markerFile: [[Verona]]
+defaultZoom: 11 
+maxZoom: 18
+```

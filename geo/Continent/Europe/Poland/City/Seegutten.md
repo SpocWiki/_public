@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.78,21.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seegutten
+coordinates: [[Seegutten]]
+markerFile: [[Seegutten]]
+defaultZoom: 11 
+maxZoom: 18
+```

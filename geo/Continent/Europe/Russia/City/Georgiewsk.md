@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Georgiewsk
+coordinates: [[Georgiewsk]]
+markerFile: [[Georgiewsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

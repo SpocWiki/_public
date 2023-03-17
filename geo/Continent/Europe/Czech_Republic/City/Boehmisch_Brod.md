@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.07,14.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boehmisch Brod
+coordinates: [[Boehmisch Brod]]
+markerFile: [[Boehmisch Brod]]
+defaultZoom: 11 
+maxZoom: 18
+```

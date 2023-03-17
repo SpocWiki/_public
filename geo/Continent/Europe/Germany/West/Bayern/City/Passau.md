@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Passau
+coordinates: [[Passau]]
+markerFile: [[Passau]]
+defaultZoom: 11 
+maxZoom: 18
+```

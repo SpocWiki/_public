@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seeberg
+coordinates: [[Seeberg]]
+markerFile: [[Seeberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

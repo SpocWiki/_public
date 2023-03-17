@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Puy-en-Velay
+coordinates: [[Puy-en-Velay]]
+markerFile: [[Puy-en-Velay]]
+defaultZoom: 11 
+maxZoom: 18
+```

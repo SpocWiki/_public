@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.6,5.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Verviers
+coordinates: [[Verviers]]
+markerFile: [[Verviers]]
+defaultZoom: 11 
+maxZoom: 18
+```

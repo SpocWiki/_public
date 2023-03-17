@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vigan
+coordinates: [[Vigan]]
+markerFile: [[Vigan]]
+defaultZoom: 11 
+maxZoom: 18
+```

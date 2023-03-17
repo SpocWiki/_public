@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loimaa
+coordinates: [[Loimaa]]
+markerFile: [[Loimaa]]
+defaultZoom: 11 
+maxZoom: 18
+```

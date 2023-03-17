@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frankfort
+coordinates: [[Frankfort]]
+markerFile: [[Frankfort]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grevesmuehlen
+coordinates: [[Grevesmuehlen]]
+markerFile: [[Grevesmuehlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

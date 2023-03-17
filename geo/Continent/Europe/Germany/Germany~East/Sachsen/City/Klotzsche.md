@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klotzsche
+coordinates: [[Klotzsche]]
+markerFile: [[Klotzsche]]
+defaultZoom: 11 
+maxZoom: 18
+```

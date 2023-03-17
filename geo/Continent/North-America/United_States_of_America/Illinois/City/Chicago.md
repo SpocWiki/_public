@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chicago
+coordinates: [[Chicago]]
+markerFile: [[Chicago]]
+defaultZoom: 11 
+maxZoom: 18
+```

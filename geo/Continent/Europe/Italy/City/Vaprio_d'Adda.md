@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.57,9.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaprio d'Adda
+coordinates: [[Vaprio d'Adda]]
+markerFile: [[Vaprio d'Adda]]
+defaultZoom: 11 
+maxZoom: 18
+```

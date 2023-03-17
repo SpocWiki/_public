@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mlada Boleslaw
+coordinates: [[Mlada Boleslaw]]
+markerFile: [[Mlada Boleslaw]]
+defaultZoom: 11 
+maxZoom: 18
+```

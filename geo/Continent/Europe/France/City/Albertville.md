@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Albertville
+coordinates: [[Albertville]]
+markerFile: [[Albertville]]
+defaultZoom: 11 
+maxZoom: 18
+```

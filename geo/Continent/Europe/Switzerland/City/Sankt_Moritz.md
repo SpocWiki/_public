@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sankt Moritz
+coordinates: [[Sankt Moritz]]
+markerFile: [[Sankt Moritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

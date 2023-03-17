@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montbeliard
+coordinates: [[Montbeliard]]
+markerFile: [[Montbeliard]]
+defaultZoom: 11 
+maxZoom: 18
+```

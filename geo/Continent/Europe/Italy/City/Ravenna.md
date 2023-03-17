@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.42,12.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ravenna
+coordinates: [[Ravenna]]
+markerFile: [[Ravenna]]
+defaultZoom: 11 
+maxZoom: 18
+```

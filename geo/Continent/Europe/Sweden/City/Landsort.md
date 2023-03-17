@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landsort
+coordinates: [[Landsort]]
+markerFile: [[Landsort]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wissen
+coordinates: [[Wissen]]
+markerFile: [[Wissen]]
+defaultZoom: 11 
+maxZoom: 18
+```

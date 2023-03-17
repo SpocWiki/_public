@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.72,11.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Ulderico di Tretto
+coordinates: [[St.Ulderico di Tretto]]
+markerFile: [[St.Ulderico di Tretto]]
+defaultZoom: 11 
+maxZoom: 18
+```

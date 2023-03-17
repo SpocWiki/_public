@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muessen
+coordinates: [[Muessen]]
+markerFile: [[Muessen]]
+defaultZoom: 11 
+maxZoom: 18
+```

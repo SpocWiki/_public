@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krivoi Rog
+coordinates: [[Krivoi Rog]]
+markerFile: [[Krivoi Rog]]
+defaultZoom: 11 
+maxZoom: 18
+```

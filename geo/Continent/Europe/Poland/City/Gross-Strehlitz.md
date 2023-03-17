@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gross-Strehlitz
+coordinates: [[Gross-Strehlitz]]
+markerFile: [[Gross-Strehlitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

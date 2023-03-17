@@ -1,4 +1,4 @@
----
+﻿---
 location: [68.45,22.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlsuando
+coordinates: [[Karlsuando]]
+markerFile: [[Karlsuando]]
+defaultZoom: 11 
+maxZoom: 18
+```

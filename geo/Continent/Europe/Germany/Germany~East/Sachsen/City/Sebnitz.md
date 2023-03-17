@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sebnitz
+coordinates: [[Sebnitz]]
+markerFile: [[Sebnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

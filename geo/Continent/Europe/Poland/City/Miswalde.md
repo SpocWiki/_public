@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Miswalde
+coordinates: [[Miswalde]]
+markerFile: [[Miswalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

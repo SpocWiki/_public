@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.52,14.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Terricciola
+coordinates: [[Terricciola]]
+markerFile: [[Terricciola]]
+defaultZoom: 11 
+maxZoom: 18
+```

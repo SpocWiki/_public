@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oulu
+coordinates: [[Oulu]]
+markerFile: [[Oulu]]
+defaultZoom: 11 
+maxZoom: 18
+```

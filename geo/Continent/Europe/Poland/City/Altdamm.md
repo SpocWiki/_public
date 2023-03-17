@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altdamm
+coordinates: [[Altdamm]]
+markerFile: [[Altdamm]]
+defaultZoom: 11 
+maxZoom: 18
+```

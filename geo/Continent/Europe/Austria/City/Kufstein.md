@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kufstein
+coordinates: [[Kufstein]]
+markerFile: [[Kufstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

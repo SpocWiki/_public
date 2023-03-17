@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Besancon
+coordinates: [[Besancon]]
+markerFile: [[Besancon]]
+defaultZoom: 11 
+maxZoom: 18
+```

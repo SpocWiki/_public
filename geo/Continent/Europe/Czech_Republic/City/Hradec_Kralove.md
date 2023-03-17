@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hradec Kralove
+coordinates: [[Hradec Kralove]]
+markerFile: [[Hradec Kralove]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [57.78,22.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Domesnaes
+coordinates: [[Domesnaes]]
+markerFile: [[Domesnaes]]
+defaultZoom: 11 
+maxZoom: 18
+```

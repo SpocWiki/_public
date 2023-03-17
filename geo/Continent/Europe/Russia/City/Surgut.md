@@ -1,4 +1,4 @@
----
+﻿---
 location: [61.23,73.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Surgut
+coordinates: [[Surgut]]
+markerFile: [[Surgut]]
+defaultZoom: 11 
+maxZoom: 18
+```

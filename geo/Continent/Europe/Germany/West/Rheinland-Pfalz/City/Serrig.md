@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.58,6.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Serrig
+coordinates: [[Serrig]]
+markerFile: [[Serrig]]
+defaultZoom: 11 
+maxZoom: 18
+```

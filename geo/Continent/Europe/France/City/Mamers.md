@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mamers
+coordinates: [[Mamers]]
+markerFile: [[Mamers]]
+defaultZoom: 11 
+maxZoom: 18
+```

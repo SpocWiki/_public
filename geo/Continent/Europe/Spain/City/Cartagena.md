@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cartagena
+coordinates: [[Cartagena]]
+markerFile: [[Cartagena]]
+defaultZoom: 11 
+maxZoom: 18
+```

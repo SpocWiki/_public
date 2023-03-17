@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Romont
+coordinates: [[Romont]]
+markerFile: [[Romont]]
+defaultZoom: 11 
+maxZoom: 18
+```

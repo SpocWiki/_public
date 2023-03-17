@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neugersdorf
+coordinates: [[Neugersdorf]]
+markerFile: [[Neugersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalau
+coordinates: [[Kalau]]
+markerFile: [[Kalau]]
+defaultZoom: 11 
+maxZoom: 18
+```

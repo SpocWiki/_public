@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kamenetz-Podolskij
+coordinates: [[Kamenetz-Podolskij]]
+markerFile: [[Kamenetz-Podolskij]]
+defaultZoom: 11 
+maxZoom: 18
+```

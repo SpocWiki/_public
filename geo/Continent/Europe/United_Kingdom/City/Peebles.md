@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peebles
+coordinates: [[Peebles]]
+markerFile: [[Peebles]]
+defaultZoom: 11 
+maxZoom: 18
+```

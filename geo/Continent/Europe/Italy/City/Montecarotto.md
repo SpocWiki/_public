@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montecarotto
+coordinates: [[Montecarotto]]
+markerFile: [[Montecarotto]]
+defaultZoom: 11 
+maxZoom: 18
+```

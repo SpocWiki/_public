@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ballymena
+coordinates: [[Ballymena]]
+markerFile: [[Ballymena]]
+defaultZoom: 11 
+maxZoom: 18
+```

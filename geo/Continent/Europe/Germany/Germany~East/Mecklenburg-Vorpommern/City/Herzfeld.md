@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herzfeld
+coordinates: [[Herzfeld]]
+markerFile: [[Herzfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hendaye
+coordinates: [[Hendaye]]
+markerFile: [[Hendaye]]
+defaultZoom: 11 
+maxZoom: 18
+```

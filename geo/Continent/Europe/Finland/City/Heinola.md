@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heinola
+coordinates: [[Heinola]]
+markerFile: [[Heinola]]
+defaultZoom: 11 
+maxZoom: 18
+```

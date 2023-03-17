@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lubny
+coordinates: [[Lubny]]
+markerFile: [[Lubny]]
+defaultZoom: 11 
+maxZoom: 18
+```

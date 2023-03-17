@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.93,14.88]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Myślibórz
+coordinates: [[Myślibórz]]
+markerFile: [[Myślibórz]]
+defaultZoom: 11 
+maxZoom: 18
+```

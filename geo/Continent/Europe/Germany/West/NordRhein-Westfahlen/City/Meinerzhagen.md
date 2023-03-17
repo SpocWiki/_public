@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meinerzhagen
+coordinates: [[Meinerzhagen]]
+markerFile: [[Meinerzhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

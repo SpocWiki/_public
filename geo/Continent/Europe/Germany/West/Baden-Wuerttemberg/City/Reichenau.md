@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichenau
+coordinates: [[Reichenau]]
+markerFile: [[Reichenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

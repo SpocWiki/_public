@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sheffield
+coordinates: [[Sheffield]]
+markerFile: [[Sheffield]]
+defaultZoom: 11 
+maxZoom: 18
+```

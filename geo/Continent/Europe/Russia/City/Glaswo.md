@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glaswo
+coordinates: [[Glaswo]]
+markerFile: [[Glaswo]]
+defaultZoom: 11 
+maxZoom: 18
+```

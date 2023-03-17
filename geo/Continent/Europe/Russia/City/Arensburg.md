@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arensburg
+coordinates: [[Arensburg]]
+markerFile: [[Arensburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

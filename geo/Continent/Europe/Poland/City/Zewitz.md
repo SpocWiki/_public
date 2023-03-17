@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zewitz
+coordinates: [[Zewitz]]
+markerFile: [[Zewitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

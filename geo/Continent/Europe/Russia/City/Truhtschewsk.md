@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Truhtschewsk
+coordinates: [[Truhtschewsk]]
+markerFile: [[Truhtschewsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Parma
+coordinates: [[Parma]]
+markerFile: [[Parma]]
+defaultZoom: 11 
+maxZoom: 18
+```

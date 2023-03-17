@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bialla
+coordinates: [[Bialla]]
+markerFile: [[Bialla]]
+defaultZoom: 11 
+maxZoom: 18
+```

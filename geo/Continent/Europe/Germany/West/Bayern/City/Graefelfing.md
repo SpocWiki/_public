@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Graefelfing
+coordinates: [[Graefelfing]]
+markerFile: [[Graefelfing]]
+defaultZoom: 11 
+maxZoom: 18
+```

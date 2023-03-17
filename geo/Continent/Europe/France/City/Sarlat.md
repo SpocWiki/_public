@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sarlat
+coordinates: [[Sarlat]]
+markerFile: [[Sarlat]]
+defaultZoom: 11 
+maxZoom: 18
+```

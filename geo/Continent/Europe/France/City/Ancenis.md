@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ancenis
+coordinates: [[Ancenis]]
+markerFile: [[Ancenis]]
+defaultZoom: 11 
+maxZoom: 18
+```

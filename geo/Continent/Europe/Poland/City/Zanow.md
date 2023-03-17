@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zanow
+coordinates: [[Zanow]]
+markerFile: [[Zanow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Suechteln
+coordinates: [[Suechteln]]
+markerFile: [[Suechteln]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchhoerde
+coordinates: [[Kirchhoerde]]
+markerFile: [[Kirchhoerde]]
+defaultZoom: 11 
+maxZoom: 18
+```

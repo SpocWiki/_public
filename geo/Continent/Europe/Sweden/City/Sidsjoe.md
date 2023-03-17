@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sidsjoe
+coordinates: [[Sidsjoe]]
+markerFile: [[Sidsjoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

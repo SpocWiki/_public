@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bilbao
+coordinates: [[Bilbao]]
+markerFile: [[Bilbao]]
+defaultZoom: 11 
+maxZoom: 18
+```

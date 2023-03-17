@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bricon
+coordinates: [[Bricon]]
+markerFile: [[Bricon]]
+defaultZoom: 11 
+maxZoom: 18
+```

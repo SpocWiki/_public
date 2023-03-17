@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rothenkirchen~Vogtland
+coordinates: [[Rothenkirchen~Vogtland]]
+markerFile: [[Rothenkirchen~Vogtland]]
+defaultZoom: 11 
+maxZoom: 18
+```

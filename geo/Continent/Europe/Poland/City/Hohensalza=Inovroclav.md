@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohensalza=Inovroclav
+coordinates: [[Hohensalza=Inovroclav]]
+markerFile: [[Hohensalza=Inovroclav]]
+defaultZoom: 11 
+maxZoom: 18
+```

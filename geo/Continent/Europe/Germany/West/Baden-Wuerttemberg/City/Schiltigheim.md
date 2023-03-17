@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schiltigheim
+coordinates: [[Schiltigheim]]
+markerFile: [[Schiltigheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

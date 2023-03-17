@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Qujetzo
+coordinates: [[Qujetzo]]
+markerFile: [[Qujetzo]]
+defaultZoom: 11 
+maxZoom: 18
+```

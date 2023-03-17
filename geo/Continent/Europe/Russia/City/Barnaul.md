@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barnaul
+coordinates: [[Barnaul]]
+markerFile: [[Barnaul]]
+defaultZoom: 11 
+maxZoom: 18
+```

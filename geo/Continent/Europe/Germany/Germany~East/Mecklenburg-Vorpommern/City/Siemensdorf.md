@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siemensdorf
+coordinates: [[Siemensdorf]]
+markerFile: [[Siemensdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hofheim~Unterfranken
+coordinates: [[Hofheim~Unterfranken]]
+markerFile: [[Hofheim~Unterfranken]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandwich
+coordinates: [[Sandwich]]
+markerFile: [[Sandwich]]
+defaultZoom: 11 
+maxZoom: 18
+```

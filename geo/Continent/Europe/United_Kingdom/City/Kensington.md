@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kensington
+coordinates: [[Kensington]]
+markerFile: [[Kensington]]
+defaultZoom: 11 
+maxZoom: 18
+```

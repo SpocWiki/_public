@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Velbert
+coordinates: [[Velbert]]
+markerFile: [[Velbert]]
+defaultZoom: 11 
+maxZoom: 18
+```

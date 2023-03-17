@@ -1,4 +1,4 @@
----
+﻿---
 location: [58.63,13.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoensaeter
+coordinates: [[Hoensaeter]]
+markerFile: [[Hoensaeter]]
+defaultZoom: 11 
+maxZoom: 18
+```

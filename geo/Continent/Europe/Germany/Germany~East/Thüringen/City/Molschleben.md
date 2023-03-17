@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Molschleben
+coordinates: [[Molschleben]]
+markerFile: [[Molschleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

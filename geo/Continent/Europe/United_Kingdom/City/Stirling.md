@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stirling
+coordinates: [[Stirling]]
+markerFile: [[Stirling]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altenbeken
+coordinates: [[Altenbeken]]
+markerFile: [[Altenbeken]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gloucester
+coordinates: [[Gloucester]]
+markerFile: [[Gloucester]]
+defaultZoom: 11 
+maxZoom: 18
+```

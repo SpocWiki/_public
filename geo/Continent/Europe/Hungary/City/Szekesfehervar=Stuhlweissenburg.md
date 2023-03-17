@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szekesfehervar=Stuhlweissenburg
+coordinates: [[Szekesfehervar=Stuhlweissenburg]]
+markerFile: [[Szekesfehervar=Stuhlweissenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

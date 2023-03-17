@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forres
+coordinates: [[Forres]]
+markerFile: [[Forres]]
+defaultZoom: 11 
+maxZoom: 18
+```

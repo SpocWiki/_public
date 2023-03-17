@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greifenhagen
+coordinates: [[Greifenhagen]]
+markerFile: [[Greifenhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

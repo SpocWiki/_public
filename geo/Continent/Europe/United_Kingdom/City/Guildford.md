@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guildford
+coordinates: [[Guildford]]
+markerFile: [[Guildford]]
+defaultZoom: 11 
+maxZoom: 18
+```

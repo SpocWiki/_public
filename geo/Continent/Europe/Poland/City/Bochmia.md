@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bochmia
+coordinates: [[Bochmia]]
+markerFile: [[Bochmia]]
+defaultZoom: 11 
+maxZoom: 18
+```

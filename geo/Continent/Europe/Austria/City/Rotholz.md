@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rotholz
+coordinates: [[Rotholz]]
+markerFile: [[Rotholz]]
+defaultZoom: 11 
+maxZoom: 18
+```

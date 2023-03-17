@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hadmersleben
+coordinates: [[Hadmersleben]]
+markerFile: [[Hadmersleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

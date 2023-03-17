@@ -1,4 +1,4 @@
----
+﻿---
 location: [36.72,-4.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torre del Mar
+coordinates: [[Torre del Mar]]
+markerFile: [[Torre del Mar]]
+defaultZoom: 11 
+maxZoom: 18
+```

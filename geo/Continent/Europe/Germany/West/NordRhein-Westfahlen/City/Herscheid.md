@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herscheid
+coordinates: [[Herscheid]]
+markerFile: [[Herscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

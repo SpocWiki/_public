@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zundert
+coordinates: [[Zundert]]
+markerFile: [[Zundert]]
+defaultZoom: 11 
+maxZoom: 18
+```

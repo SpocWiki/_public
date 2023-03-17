@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gosheim
+coordinates: [[Gosheim]]
+markerFile: [[Gosheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

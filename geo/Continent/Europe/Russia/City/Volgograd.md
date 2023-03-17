@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Volgograd
+coordinates: [[Volgograd]]
+markerFile: [[Volgograd]]
+defaultZoom: 11 
+maxZoom: 18
+```

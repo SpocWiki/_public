@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tuttlingen
+coordinates: [[Tuttlingen]]
+markerFile: [[Tuttlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jamma
+coordinates: [[Jamma]]
+markerFile: [[Jamma]]
+defaultZoom: 11 
+maxZoom: 18
+```

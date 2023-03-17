@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Telgte
+coordinates: [[Telgte]]
+markerFile: [[Telgte]]
+defaultZoom: 11 
+maxZoom: 18
+```

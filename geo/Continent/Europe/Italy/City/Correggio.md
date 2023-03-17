@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Correggio
+coordinates: [[Correggio]]
+markerFile: [[Correggio]]
+defaultZoom: 11 
+maxZoom: 18
+```

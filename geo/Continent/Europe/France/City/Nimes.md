@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.85,4.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nimes
+coordinates: [[Nimes]]
+markerFile: [[Nimes]]
+defaultZoom: 11 
+maxZoom: 18
+```

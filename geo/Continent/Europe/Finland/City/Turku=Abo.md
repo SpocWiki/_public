@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turku=Abo
+coordinates: [[Turku=Abo]]
+markerFile: [[Turku=Abo]]
+defaultZoom: 11 
+maxZoom: 18
+```

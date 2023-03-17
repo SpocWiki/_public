@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muenden
+coordinates: [[Muenden]]
+markerFile: [[Muenden]]
+defaultZoom: 11 
+maxZoom: 18
+```

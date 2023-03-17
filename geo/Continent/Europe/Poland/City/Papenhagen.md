@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.07,15.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Papenhagen
+coordinates: [[Papenhagen]]
+markerFile: [[Papenhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

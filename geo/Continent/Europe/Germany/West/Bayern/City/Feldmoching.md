@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Feldmoching
+coordinates: [[Feldmoching]]
+markerFile: [[Feldmoching]]
+defaultZoom: 11 
+maxZoom: 18
+```

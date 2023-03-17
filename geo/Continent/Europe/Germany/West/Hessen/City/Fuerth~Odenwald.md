@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuerth~Odenwald
+coordinates: [[Fuerth~Odenwald]]
+markerFile: [[Fuerth~Odenwald]]
+defaultZoom: 11 
+maxZoom: 18
+```

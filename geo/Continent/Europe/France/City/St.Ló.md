@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Ló
+coordinates: [[St.Ló]]
+markerFile: [[St.Ló]]
+defaultZoom: 11 
+maxZoom: 18
+```

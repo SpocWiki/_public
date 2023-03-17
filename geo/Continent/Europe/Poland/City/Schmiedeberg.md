@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schmiedeberg
+coordinates: [[Schmiedeberg]]
+markerFile: [[Schmiedeberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

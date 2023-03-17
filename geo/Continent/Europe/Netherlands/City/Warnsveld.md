@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warnsveld
+coordinates: [[Warnsveld]]
+markerFile: [[Warnsveld]]
+defaultZoom: 11 
+maxZoom: 18
+```

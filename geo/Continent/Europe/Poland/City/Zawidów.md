@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zawidów
+coordinates: [[Zawidów]]
+markerFile: [[Zawidów]]
+defaultZoom: 11 
+maxZoom: 18
+```

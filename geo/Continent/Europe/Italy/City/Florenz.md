@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Florenz
+coordinates: [[Florenz]]
+markerFile: [[Florenz]]
+defaultZoom: 11 
+maxZoom: 18
+```

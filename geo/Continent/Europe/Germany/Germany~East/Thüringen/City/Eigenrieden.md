@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eigenrieden
+coordinates: [[Eigenrieden]]
+markerFile: [[Eigenrieden]]
+defaultZoom: 11 
+maxZoom: 18
+```

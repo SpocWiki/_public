@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goeritzheim
+coordinates: [[Goeritzheim]]
+markerFile: [[Goeritzheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

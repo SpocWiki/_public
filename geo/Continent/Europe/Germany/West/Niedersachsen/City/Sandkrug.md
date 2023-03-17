@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandkrug
+coordinates: [[Sandkrug]]
+markerFile: [[Sandkrug]]
+defaultZoom: 11 
+maxZoom: 18
+```

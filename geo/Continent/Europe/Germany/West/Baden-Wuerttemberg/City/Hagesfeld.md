@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hagesfeld
+coordinates: [[Hagesfeld]]
+markerFile: [[Hagesfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

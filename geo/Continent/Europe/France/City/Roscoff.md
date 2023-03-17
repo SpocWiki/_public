@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roscoff
+coordinates: [[Roscoff]]
+markerFile: [[Roscoff]]
+defaultZoom: 11 
+maxZoom: 18
+```

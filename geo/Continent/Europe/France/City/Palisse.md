@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Palisse
+coordinates: [[Palisse]]
+markerFile: [[Palisse]]
+defaultZoom: 11 
+maxZoom: 18
+```

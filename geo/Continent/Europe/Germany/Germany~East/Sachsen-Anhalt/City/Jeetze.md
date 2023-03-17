@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jeetze
+coordinates: [[Jeetze]]
+markerFile: [[Jeetze]]
+defaultZoom: 11 
+maxZoom: 18
+```

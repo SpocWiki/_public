@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mixdorf
+coordinates: [[Mixdorf]]
+markerFile: [[Mixdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Runoe
+coordinates: [[Runoe]]
+markerFile: [[Runoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

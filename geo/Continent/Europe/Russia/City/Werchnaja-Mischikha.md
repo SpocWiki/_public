@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.5,105.88]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werchnaja-Mischikha
+coordinates: [[Werchnaja-Mischikha]]
+markerFile: [[Werchnaja-Mischikha]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brunate
+coordinates: [[Brunate]]
+markerFile: [[Brunate]]
+defaultZoom: 11 
+maxZoom: 18
+```

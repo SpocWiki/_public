@@ -1,4 +1,4 @@
----
+﻿---
 location: [21.3833,103.017]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dien Bien Phu
+coordinates: [[Dien Bien Phu]]
+markerFile: [[Dien Bien Phu]]
+defaultZoom: 11 
+maxZoom: 18
+```

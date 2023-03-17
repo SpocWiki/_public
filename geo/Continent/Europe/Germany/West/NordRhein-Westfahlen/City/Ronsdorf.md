@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ronsdorf
+coordinates: [[Ronsdorf]]
+markerFile: [[Ronsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

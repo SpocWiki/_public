@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lubsko
+coordinates: [[Lubsko]]
+markerFile: [[Lubsko]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Romorantin
+coordinates: [[Romorantin]]
+markerFile: [[Romorantin]]
+defaultZoom: 11 
+maxZoom: 18
+```

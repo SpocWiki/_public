@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.25,7.88]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Obertiefenbach~Lahn
+coordinates: [[Obertiefenbach~Lahn]]
+markerFile: [[Obertiefenbach~Lahn]]
+defaultZoom: 11 
+maxZoom: 18
+```

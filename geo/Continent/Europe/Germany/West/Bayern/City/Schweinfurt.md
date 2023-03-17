@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schweinfurt
+coordinates: [[Schweinfurt]]
+markerFile: [[Schweinfurt]]
+defaultZoom: 11 
+maxZoom: 18
+```

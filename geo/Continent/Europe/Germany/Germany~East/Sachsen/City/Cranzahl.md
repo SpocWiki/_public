@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cranzahl
+coordinates: [[Cranzahl]]
+markerFile: [[Cranzahl]]
+defaultZoom: 11 
+maxZoom: 18
+```

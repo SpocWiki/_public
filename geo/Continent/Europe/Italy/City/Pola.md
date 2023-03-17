@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pola
+coordinates: [[Pola]]
+markerFile: [[Pola]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kraguljevac
+coordinates: [[Kraguljevac]]
+markerFile: [[Kraguljevac]]
+defaultZoom: 11 
+maxZoom: 18
+```

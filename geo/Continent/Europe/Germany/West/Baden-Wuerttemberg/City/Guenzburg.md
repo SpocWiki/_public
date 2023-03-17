@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guenzburg
+coordinates: [[Guenzburg]]
+markerFile: [[Guenzburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sens
+coordinates: [[Sens]]
+markerFile: [[Sens]]
+defaultZoom: 11 
+maxZoom: 18
+```

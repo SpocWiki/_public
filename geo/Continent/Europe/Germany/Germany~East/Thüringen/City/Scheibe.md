@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scheibe
+coordinates: [[Scheibe]]
+markerFile: [[Scheibe]]
+defaultZoom: 11 
+maxZoom: 18
+```

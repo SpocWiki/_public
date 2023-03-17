@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wagersrott
+coordinates: [[Wagersrott]]
+markerFile: [[Wagersrott]]
+defaultZoom: 11 
+maxZoom: 18
+```

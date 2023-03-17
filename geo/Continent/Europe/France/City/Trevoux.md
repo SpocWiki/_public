@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trevoux
+coordinates: [[Trevoux]]
+markerFile: [[Trevoux]]
+defaultZoom: 11 
+maxZoom: 18
+```

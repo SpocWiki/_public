@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malmedy
+coordinates: [[Malmedy]]
+markerFile: [[Malmedy]]
+defaultZoom: 11 
+maxZoom: 18
+```

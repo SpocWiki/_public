@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kollautschen
+coordinates: [[Kollautschen]]
+markerFile: [[Kollautschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

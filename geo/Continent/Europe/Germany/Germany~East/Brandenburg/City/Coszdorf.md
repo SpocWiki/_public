@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Coszdorf
+coordinates: [[Coszdorf]]
+markerFile: [[Coszdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

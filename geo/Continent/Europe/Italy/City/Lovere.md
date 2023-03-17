@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lovere
+coordinates: [[Lovere]]
+markerFile: [[Lovere]]
+defaultZoom: 11 
+maxZoom: 18
+```

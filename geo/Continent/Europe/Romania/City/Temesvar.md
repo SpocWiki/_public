@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Temesvar
+coordinates: [[Temesvar]]
+markerFile: [[Temesvar]]
+defaultZoom: 11 
+maxZoom: 18
+```

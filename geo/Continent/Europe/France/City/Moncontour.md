@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moncontour
+coordinates: [[Moncontour]]
+markerFile: [[Moncontour]]
+defaultZoom: 11 
+maxZoom: 18
+```

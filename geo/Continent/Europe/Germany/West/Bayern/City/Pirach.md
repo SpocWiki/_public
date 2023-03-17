@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pirach
+coordinates: [[Pirach]]
+markerFile: [[Pirach]]
+defaultZoom: 11 
+maxZoom: 18
+```

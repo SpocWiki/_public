@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.64,8.64]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heppenheim
+coordinates: [[Heppenheim]]
+markerFile: [[Heppenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

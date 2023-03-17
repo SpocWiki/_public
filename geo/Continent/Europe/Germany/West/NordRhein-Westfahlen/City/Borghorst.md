@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borghorst
+coordinates: [[Borghorst]]
+markerFile: [[Borghorst]]
+defaultZoom: 11 
+maxZoom: 18
+```

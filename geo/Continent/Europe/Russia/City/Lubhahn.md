@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lubhahn
+coordinates: [[Lubhahn]]
+markerFile: [[Lubhahn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schaerbeck
+coordinates: [[Schaerbeck]]
+markerFile: [[Schaerbeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

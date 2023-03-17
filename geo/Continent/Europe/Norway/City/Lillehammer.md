@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lillehammer
+coordinates: [[Lillehammer]]
+markerFile: [[Lillehammer]]
+defaultZoom: 11 
+maxZoom: 18
+```

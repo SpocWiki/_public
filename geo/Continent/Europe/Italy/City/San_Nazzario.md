@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Nazzario
+coordinates: [[San Nazzario]]
+markerFile: [[San Nazzario]]
+defaultZoom: 11 
+maxZoom: 18
+```

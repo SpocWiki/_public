@@ -1,4 +1,4 @@
----
+﻿---
 location: [62.25,24.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Keuruu
+coordinates: [[Keuruu]]
+markerFile: [[Keuruu]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glogau
+coordinates: [[Glogau]]
+markerFile: [[Glogau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abbehausen
+coordinates: [[Abbehausen]]
+markerFile: [[Abbehausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

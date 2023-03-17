@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Crevalcuore
+coordinates: [[Crevalcuore]]
+markerFile: [[Crevalcuore]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herxheim
+coordinates: [[Herxheim]]
+markerFile: [[Herxheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

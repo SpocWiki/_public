@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hamelwoerden
+coordinates: [[Hamelwoerden]]
+markerFile: [[Hamelwoerden]]
+defaultZoom: 11 
+maxZoom: 18
+```

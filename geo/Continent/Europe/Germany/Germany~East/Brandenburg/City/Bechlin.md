@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bechlin
+coordinates: [[Bechlin]]
+markerFile: [[Bechlin]]
+defaultZoom: 11 
+maxZoom: 18
+```

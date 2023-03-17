@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Elista
+coordinates: [[Elista]]
+markerFile: [[Elista]]
+defaultZoom: 11 
+maxZoom: 18
+```

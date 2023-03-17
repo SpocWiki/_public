@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tullamore
+coordinates: [[Tullamore]]
+markerFile: [[Tullamore]]
+defaultZoom: 11 
+maxZoom: 18
+```

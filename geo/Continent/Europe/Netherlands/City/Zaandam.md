@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zaandam
+coordinates: [[Zaandam]]
+markerFile: [[Zaandam]]
+defaultZoom: 11 
+maxZoom: 18
+```

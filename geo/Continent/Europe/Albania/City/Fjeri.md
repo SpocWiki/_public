@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fjeri
+coordinates: [[Fjeri]]
+markerFile: [[Fjeri]]
+defaultZoom: 11 
+maxZoom: 18
+```

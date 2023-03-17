@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vitoria
+coordinates: [[Vitoria]]
+markerFile: [[Vitoria]]
+defaultZoom: 11 
+maxZoom: 18
+```

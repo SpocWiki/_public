@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Newport~Insel Wright
+coordinates: [[Newport~Insel Wright]]
+markerFile: [[Newport~Insel Wright]]
+defaultZoom: 11 
+maxZoom: 18
+```

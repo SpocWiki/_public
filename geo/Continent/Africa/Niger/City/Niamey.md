@@ -1,4 +1,4 @@
----
+﻿---
 location: [13.53333,2.083333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Niamey
+coordinates: [[Niamey]]
+markerFile: [[Niamey]]
+defaultZoom: 11 
+maxZoom: 18
+```

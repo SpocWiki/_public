@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sarreguemines
+coordinates: [[Sarreguemines]]
+markerFile: [[Sarreguemines]]
+defaultZoom: 11 
+maxZoom: 18
+```

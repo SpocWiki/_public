@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ronneby
+coordinates: [[Ronneby]]
+markerFile: [[Ronneby]]
+defaultZoom: 11 
+maxZoom: 18
+```

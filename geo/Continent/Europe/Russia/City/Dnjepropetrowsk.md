@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.45,35.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dnjepropetrowsk
+coordinates: [[Dnjepropetrowsk]]
+markerFile: [[Dnjepropetrowsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

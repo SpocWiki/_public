@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Helmstedt
+coordinates: [[Helmstedt]]
+markerFile: [[Helmstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

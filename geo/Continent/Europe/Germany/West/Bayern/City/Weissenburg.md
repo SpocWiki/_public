@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.03,10.97]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weissenburg
+coordinates: [[Weissenburg]]
+markerFile: [[Weissenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

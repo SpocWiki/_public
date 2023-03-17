@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jekaterinoslaw
+coordinates: [[Jekaterinoslaw]]
+markerFile: [[Jekaterinoslaw]]
+defaultZoom: 11 
+maxZoom: 18
+```

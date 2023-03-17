@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Madonna a Brogli
+coordinates: [[Madonna a Brogli]]
+markerFile: [[Madonna a Brogli]]
+defaultZoom: 11 
+maxZoom: 18
+```

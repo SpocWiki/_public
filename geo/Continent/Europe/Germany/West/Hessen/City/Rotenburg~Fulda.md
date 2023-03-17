@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rotenburg~Fulda
+coordinates: [[Rotenburg~Fulda]]
+markerFile: [[Rotenburg~Fulda]]
+defaultZoom: 11 
+maxZoom: 18
+```

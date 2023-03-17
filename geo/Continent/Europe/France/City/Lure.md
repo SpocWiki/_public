@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lure
+coordinates: [[Lure]]
+markerFile: [[Lure]]
+defaultZoom: 11 
+maxZoom: 18
+```

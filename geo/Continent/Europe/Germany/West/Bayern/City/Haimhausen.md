@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haimhausen
+coordinates: [[Haimhausen]]
+markerFile: [[Haimhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gautzsch
+coordinates: [[Gautzsch]]
+markerFile: [[Gautzsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

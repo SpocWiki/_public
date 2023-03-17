@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kew
+coordinates: [[Kew]]
+markerFile: [[Kew]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krnov
+coordinates: [[Krnov]]
+markerFile: [[Krnov]]
+defaultZoom: 11 
+maxZoom: 18
+```

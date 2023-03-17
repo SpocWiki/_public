@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castiglione Fior
+coordinates: [[Castiglione Fior]]
+markerFile: [[Castiglione Fior]]
+defaultZoom: 11 
+maxZoom: 18
+```

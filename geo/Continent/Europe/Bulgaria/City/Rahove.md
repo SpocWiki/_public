@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rahove
+coordinates: [[Rahove]]
+markerFile: [[Rahove]]
+defaultZoom: 11 
+maxZoom: 18
+```

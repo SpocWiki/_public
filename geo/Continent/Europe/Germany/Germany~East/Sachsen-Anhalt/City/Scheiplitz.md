@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scheiplitz
+coordinates: [[Scheiplitz]]
+markerFile: [[Scheiplitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

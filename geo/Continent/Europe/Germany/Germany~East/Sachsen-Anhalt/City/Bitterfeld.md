@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bitterfeld
+coordinates: [[Bitterfeld]]
+markerFile: [[Bitterfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

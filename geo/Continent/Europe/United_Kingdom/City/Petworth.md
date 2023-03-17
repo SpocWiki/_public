@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petworth
+coordinates: [[Petworth]]
+markerFile: [[Petworth]]
+defaultZoom: 11 
+maxZoom: 18
+```

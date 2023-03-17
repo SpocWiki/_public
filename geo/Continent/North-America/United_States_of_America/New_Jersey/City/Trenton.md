@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trenton
+coordinates: [[Trenton]]
+markerFile: [[Trenton]]
+defaultZoom: 11 
+maxZoom: 18
+```

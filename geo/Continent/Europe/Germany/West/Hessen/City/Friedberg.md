@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedberg
+coordinates: [[Friedberg]]
+markerFile: [[Friedberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

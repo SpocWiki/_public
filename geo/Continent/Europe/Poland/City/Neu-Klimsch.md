@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neu-Klimsch
+coordinates: [[Neu-Klimsch]]
+markerFile: [[Neu-Klimsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ilomantsi
+coordinates: [[Ilomantsi]]
+markerFile: [[Ilomantsi]]
+defaultZoom: 11 
+maxZoom: 18
+```

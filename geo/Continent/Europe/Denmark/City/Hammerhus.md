@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hammerhus
+coordinates: [[Hammerhus]]
+markerFile: [[Hammerhus]]
+defaultZoom: 11 
+maxZoom: 18
+```

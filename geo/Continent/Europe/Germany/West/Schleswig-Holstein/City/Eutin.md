@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eutin
+coordinates: [[Eutin]]
+markerFile: [[Eutin]]
+defaultZoom: 11 
+maxZoom: 18
+```

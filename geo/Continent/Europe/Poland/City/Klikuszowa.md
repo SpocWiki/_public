@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klikuszowa
+coordinates: [[Klikuszowa]]
+markerFile: [[Klikuszowa]]
+defaultZoom: 11 
+maxZoom: 18
+```

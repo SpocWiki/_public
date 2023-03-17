@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liebenzell
+coordinates: [[Liebenzell]]
+markerFile: [[Liebenzell]]
+defaultZoom: 11 
+maxZoom: 18
+```

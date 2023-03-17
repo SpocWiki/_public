@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schlebusch
+coordinates: [[Schlebusch]]
+markerFile: [[Schlebusch]]
+defaultZoom: 11 
+maxZoom: 18
+```

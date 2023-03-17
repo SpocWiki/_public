@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.63,9.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlshafen
+coordinates: [[Karlshafen]]
+markerFile: [[Karlshafen]]
+defaultZoom: 11 
+maxZoom: 18
+```

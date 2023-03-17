@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weferlingen
+coordinates: [[Weferlingen]]
+markerFile: [[Weferlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

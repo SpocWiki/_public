@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kattun
+coordinates: [[Kattun]]
+markerFile: [[Kattun]]
+defaultZoom: 11 
+maxZoom: 18
+```

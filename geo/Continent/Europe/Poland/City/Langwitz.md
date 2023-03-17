@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.83,17.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langwitz
+coordinates: [[Langwitz]]
+markerFile: [[Langwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

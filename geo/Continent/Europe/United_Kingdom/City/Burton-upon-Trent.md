@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burton-upon-Trent
+coordinates: [[Burton-upon-Trent]]
+markerFile: [[Burton-upon-Trent]]
+defaultZoom: 11 
+maxZoom: 18
+```

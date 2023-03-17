@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gravelines
+coordinates: [[Gravelines]]
+markerFile: [[Gravelines]]
+defaultZoom: 11 
+maxZoom: 18
+```

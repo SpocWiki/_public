@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spiegelsberge
+coordinates: [[Spiegelsberge]]
+markerFile: [[Spiegelsberge]]
+defaultZoom: 11 
+maxZoom: 18
+```

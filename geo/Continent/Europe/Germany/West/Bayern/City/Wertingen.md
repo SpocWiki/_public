@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wertingen
+coordinates: [[Wertingen]]
+markerFile: [[Wertingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

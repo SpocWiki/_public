@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gomaringen
+coordinates: [[Gomaringen]]
+markerFile: [[Gomaringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

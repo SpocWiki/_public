@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luenern
+coordinates: [[Luenern]]
+markerFile: [[Luenern]]
+defaultZoom: 11 
+maxZoom: 18
+```

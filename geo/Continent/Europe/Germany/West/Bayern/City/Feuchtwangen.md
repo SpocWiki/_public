@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Feuchtwangen
+coordinates: [[Feuchtwangen]]
+markerFile: [[Feuchtwangen]]
+defaultZoom: 11 
+maxZoom: 18
+```

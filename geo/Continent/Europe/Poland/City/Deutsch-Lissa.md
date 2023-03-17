@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deutsch-Lissa
+coordinates: [[Deutsch-Lissa]]
+markerFile: [[Deutsch-Lissa]]
+defaultZoom: 11 
+maxZoom: 18
+```

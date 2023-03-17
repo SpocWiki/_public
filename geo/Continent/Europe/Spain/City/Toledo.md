@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.87,-4.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Toledo
+coordinates: [[Toledo]]
+markerFile: [[Toledo]]
+defaultZoom: 11 
+maxZoom: 18
+```

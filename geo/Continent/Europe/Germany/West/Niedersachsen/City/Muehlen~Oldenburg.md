@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muehlen~Oldenburg
+coordinates: [[Muehlen~Oldenburg]]
+markerFile: [[Muehlen~Oldenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

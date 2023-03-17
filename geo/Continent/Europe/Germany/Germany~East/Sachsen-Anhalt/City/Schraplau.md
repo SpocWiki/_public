@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schraplau
+coordinates: [[Schraplau]]
+markerFile: [[Schraplau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.93,10.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Segeberg
+coordinates: [[Segeberg]]
+markerFile: [[Segeberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

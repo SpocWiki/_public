@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skanoer
+coordinates: [[Skanoer]]
+markerFile: [[Skanoer]]
+defaultZoom: 11 
+maxZoom: 18
+```

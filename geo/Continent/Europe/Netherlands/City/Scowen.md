@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scowen
+coordinates: [[Scowen]]
+markerFile: [[Scowen]]
+defaultZoom: 11 
+maxZoom: 18
+```

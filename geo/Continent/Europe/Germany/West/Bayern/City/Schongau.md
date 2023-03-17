@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schongau
+coordinates: [[Schongau]]
+markerFile: [[Schongau]]
+defaultZoom: 11 
+maxZoom: 18
+```

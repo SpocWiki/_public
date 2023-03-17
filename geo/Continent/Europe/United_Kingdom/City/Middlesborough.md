@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Middlesborough
+coordinates: [[Middlesborough]]
+markerFile: [[Middlesborough]]
+defaultZoom: 11 
+maxZoom: 18
+```

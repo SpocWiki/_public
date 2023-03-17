@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maulbronn
+coordinates: [[Maulbronn]]
+markerFile: [[Maulbronn]]
+defaultZoom: 11 
+maxZoom: 18
+```

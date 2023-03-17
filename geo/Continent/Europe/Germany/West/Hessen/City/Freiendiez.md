@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freiendiez
+coordinates: [[Freiendiez]]
+markerFile: [[Freiendiez]]
+defaultZoom: 11 
+maxZoom: 18
+```

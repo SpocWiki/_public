@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maentyhariju
+coordinates: [[Maentyhariju]]
+markerFile: [[Maentyhariju]]
+defaultZoom: 11 
+maxZoom: 18
+```

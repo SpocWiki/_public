@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Longhborough
+coordinates: [[Longhborough]]
+markerFile: [[Longhborough]]
+defaultZoom: 11 
+maxZoom: 18
+```

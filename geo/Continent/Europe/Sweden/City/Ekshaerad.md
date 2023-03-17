@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ekshaerad
+coordinates: [[Ekshaerad]]
+markerFile: [[Ekshaerad]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wildhaus
+coordinates: [[Wildhaus]]
+markerFile: [[Wildhaus]]
+defaultZoom: 11 
+maxZoom: 18
+```

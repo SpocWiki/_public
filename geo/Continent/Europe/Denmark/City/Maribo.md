@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maribo
+coordinates: [[Maribo]]
+markerFile: [[Maribo]]
+defaultZoom: 11 
+maxZoom: 18
+```

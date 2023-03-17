@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leubsdorf~Sachsen
+coordinates: [[Leubsdorf~Sachsen]]
+markerFile: [[Leubsdorf~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

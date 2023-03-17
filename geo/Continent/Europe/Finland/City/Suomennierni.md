@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Suomennierni
+coordinates: [[Suomennierni]]
+markerFile: [[Suomennierni]]
+defaultZoom: 11 
+maxZoom: 18
+```

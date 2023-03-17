@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rade
+coordinates: [[Rade]]
+markerFile: [[Rade]]
+defaultZoom: 11 
+maxZoom: 18
+```

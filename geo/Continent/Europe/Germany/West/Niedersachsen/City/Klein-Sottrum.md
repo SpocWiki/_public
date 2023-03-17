@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klein-Sottrum
+coordinates: [[Klein-Sottrum]]
+markerFile: [[Klein-Sottrum]]
+defaultZoom: 11 
+maxZoom: 18
+```

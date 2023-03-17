@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clervaux
+coordinates: [[Clervaux]]
+markerFile: [[Clervaux]]
+defaultZoom: 11 
+maxZoom: 18
+```

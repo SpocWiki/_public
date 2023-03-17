@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Shipurskoi-nos
+coordinates: [[Shipurskoi-nos]]
+markerFile: [[Shipurskoi-nos]]
+defaultZoom: 11 
+maxZoom: 18
+```

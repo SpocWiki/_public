@@ -1,4 +1,4 @@
-﻿---
+---
 location: [68.87,33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kola
+coordinates: [[Kola]]
+markerFile: [[Kola]]
+defaultZoom: 11 
+maxZoom: 18
+```

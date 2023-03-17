@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kavalla
+coordinates: [[Kavalla]]
+markerFile: [[Kavalla]]
+defaultZoom: 11 
+maxZoom: 18
+```

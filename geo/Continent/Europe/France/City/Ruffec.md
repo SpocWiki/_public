@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruffec
+coordinates: [[Ruffec]]
+markerFile: [[Ruffec]]
+defaultZoom: 11 
+maxZoom: 18
+```

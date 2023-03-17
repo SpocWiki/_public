@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merseritz
+coordinates: [[Merseritz]]
+markerFile: [[Merseritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

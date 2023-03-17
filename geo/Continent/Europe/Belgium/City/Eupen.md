@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eupen
+coordinates: [[Eupen]]
+markerFile: [[Eupen]]
+defaultZoom: 11 
+maxZoom: 18
+```

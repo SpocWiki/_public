@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lichtentanne
+coordinates: [[Lichtentanne]]
+markerFile: [[Lichtentanne]]
+defaultZoom: 11 
+maxZoom: 18
+```

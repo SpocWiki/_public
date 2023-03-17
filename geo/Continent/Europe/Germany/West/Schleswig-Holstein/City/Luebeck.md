@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luebeck
+coordinates: [[Luebeck]]
+markerFile: [[Luebeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

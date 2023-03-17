@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weinzierl
+coordinates: [[Weinzierl]]
+markerFile: [[Weinzierl]]
+defaultZoom: 11 
+maxZoom: 18
+```

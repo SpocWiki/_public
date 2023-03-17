@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Twickenham
+coordinates: [[Twickenham]]
+markerFile: [[Twickenham]]
+defaultZoom: 11 
+maxZoom: 18
+```

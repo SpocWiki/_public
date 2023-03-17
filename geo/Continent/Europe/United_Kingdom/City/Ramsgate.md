@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ramsgate
+coordinates: [[Ramsgate]]
+markerFile: [[Ramsgate]]
+defaultZoom: 11 
+maxZoom: 18
+```

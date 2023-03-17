@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Militello
+coordinates: [[Militello]]
+markerFile: [[Militello]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Konstanz
+coordinates: [[Konstanz]]
+markerFile: [[Konstanz]]
+defaultZoom: 11 
+maxZoom: 18
+```

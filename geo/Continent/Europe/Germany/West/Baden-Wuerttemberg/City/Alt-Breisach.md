@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alt-Breisach
+coordinates: [[Alt-Breisach]]
+markerFile: [[Alt-Breisach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aachen
+coordinates: [[Aachen]]
+markerFile: [[Aachen]]
+defaultZoom: 11 
+maxZoom: 18
+```

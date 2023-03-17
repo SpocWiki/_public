@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Isperdorf
+coordinates: [[Isperdorf]]
+markerFile: [[Isperdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

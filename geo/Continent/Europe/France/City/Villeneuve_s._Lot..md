@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villeneuve s. Lot.
+coordinates: [[Villeneuve s. Lot.]]
+markerFile: [[Villeneuve s. Lot.]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Sever
+coordinates: [[St.Sever]]
+markerFile: [[St.Sever]]
+defaultZoom: 11 
+maxZoom: 18
+```

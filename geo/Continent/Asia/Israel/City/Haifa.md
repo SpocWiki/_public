@@ -1,4 +1,4 @@
----
+﻿---
 location: [32.83,35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haifa
+coordinates: [[Haifa]]
+markerFile: [[Haifa]]
+defaultZoom: 11 
+maxZoom: 18
+```

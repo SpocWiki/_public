@@ -1,4 +1,4 @@
----
+﻿---
 location: [56.15,47.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cheboksary
+coordinates: [[Cheboksary]]
+markerFile: [[Cheboksary]]
+defaultZoom: 11 
+maxZoom: 18
+```

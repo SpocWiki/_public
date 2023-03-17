@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waltershausen
+coordinates: [[Waltershausen]]
+markerFile: [[Waltershausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

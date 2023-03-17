@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Matherrinken
+coordinates: [[Matherrinken]]
+markerFile: [[Matherrinken]]
+defaultZoom: 11 
+maxZoom: 18
+```

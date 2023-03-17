@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ange
+coordinates: [[Ange]]
+markerFile: [[Ange]]
+defaultZoom: 11 
+maxZoom: 18
+```

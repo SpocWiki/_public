@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goedereede
+coordinates: [[Goedereede]]
+markerFile: [[Goedereede]]
+defaultZoom: 11 
+maxZoom: 18
+```

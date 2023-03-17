@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolmirsleben
+coordinates: [[Wolmirsleben]]
+markerFile: [[Wolmirsleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Port Glasgow
+coordinates: [[Port Glasgow]]
+markerFile: [[Port Glasgow]]
+defaultZoom: 11 
+maxZoom: 18
+```

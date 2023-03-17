@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rothhausen
+coordinates: [[Rothhausen]]
+markerFile: [[Rothhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

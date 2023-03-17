@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sans Soucis
+coordinates: [[Sans Soucis]]
+markerFile: [[Sans Soucis]]
+defaultZoom: 11 
+maxZoom: 18
+```

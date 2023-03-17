@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barnsley
+coordinates: [[Barnsley]]
+markerFile: [[Barnsley]]
+defaultZoom: 11 
+maxZoom: 18
+```

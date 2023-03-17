@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ehrenfriedersdorf
+coordinates: [[Ehrenfriedersdorf]]
+markerFile: [[Ehrenfriedersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

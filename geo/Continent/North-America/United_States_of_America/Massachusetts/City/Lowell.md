@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lowell
+coordinates: [[Lowell]]
+markerFile: [[Lowell]]
+defaultZoom: 11 
+maxZoom: 18
+```

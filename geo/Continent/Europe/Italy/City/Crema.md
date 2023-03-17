@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Crema
+coordinates: [[Crema]]
+markerFile: [[Crema]]
+defaultZoom: 11 
+maxZoom: 18
+```

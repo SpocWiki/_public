@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wimpfen
+coordinates: [[Wimpfen]]
+markerFile: [[Wimpfen]]
+defaultZoom: 11 
+maxZoom: 18
+```

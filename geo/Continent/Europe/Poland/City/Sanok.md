@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sanok
+coordinates: [[Sanok]]
+markerFile: [[Sanok]]
+defaultZoom: 11 
+maxZoom: 18
+```

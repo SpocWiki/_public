@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Juve
+coordinates: [[Juve]]
+markerFile: [[Juve]]
+defaultZoom: 11 
+maxZoom: 18
+```

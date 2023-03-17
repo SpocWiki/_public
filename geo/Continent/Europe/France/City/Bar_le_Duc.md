@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bar le Duc
+coordinates: [[Bar le Duc]]
+markerFile: [[Bar le Duc]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abingdon
+coordinates: [[Abingdon]]
+markerFile: [[Abingdon]]
+defaultZoom: 11 
+maxZoom: 18
+```

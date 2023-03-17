@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wilkau~Westpommern
+coordinates: [[Wilkau~Westpommern]]
+markerFile: [[Wilkau~Westpommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

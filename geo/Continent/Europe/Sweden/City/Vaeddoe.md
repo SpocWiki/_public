@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaeddoe
+coordinates: [[Vaeddoe]]
+markerFile: [[Vaeddoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

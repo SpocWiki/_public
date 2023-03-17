@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.32,10.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weissenhorn
+coordinates: [[Weissenhorn]]
+markerFile: [[Weissenhorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

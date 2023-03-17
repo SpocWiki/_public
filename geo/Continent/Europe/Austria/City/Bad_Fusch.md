@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Fusch
+coordinates: [[Bad Fusch]]
+markerFile: [[Bad Fusch]]
+defaultZoom: 11 
+maxZoom: 18
+```

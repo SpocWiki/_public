@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maumke
+coordinates: [[Maumke]]
+markerFile: [[Maumke]]
+defaultZoom: 11 
+maxZoom: 18
+```

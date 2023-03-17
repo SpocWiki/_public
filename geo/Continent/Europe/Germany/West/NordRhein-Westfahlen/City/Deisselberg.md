@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deisselberg
+coordinates: [[Deisselberg]]
+markerFile: [[Deisselberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

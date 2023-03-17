@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pegnitz
+coordinates: [[Pegnitz]]
+markerFile: [[Pegnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

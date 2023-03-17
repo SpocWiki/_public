@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mergelstetten
+coordinates: [[Mergelstetten]]
+markerFile: [[Mergelstetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

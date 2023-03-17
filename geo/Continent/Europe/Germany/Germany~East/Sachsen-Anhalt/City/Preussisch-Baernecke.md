@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Preussisch-Baernecke
+coordinates: [[Preussisch-Baernecke]]
+markerFile: [[Preussisch-Baernecke]]
+defaultZoom: 11 
+maxZoom: 18
+```

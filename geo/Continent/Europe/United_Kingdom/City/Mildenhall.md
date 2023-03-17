@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mildenhall
+coordinates: [[Mildenhall]]
+markerFile: [[Mildenhall]]
+defaultZoom: 11 
+maxZoom: 18
+```

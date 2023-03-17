@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.62,19.28]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kiskoros
+coordinates: [[Kiskoros]]
+markerFile: [[Kiskoros]]
+defaultZoom: 11 
+maxZoom: 18
+```

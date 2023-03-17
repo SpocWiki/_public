@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prato
+coordinates: [[Prato]]
+markerFile: [[Prato]]
+defaultZoom: 11 
+maxZoom: 18
+```

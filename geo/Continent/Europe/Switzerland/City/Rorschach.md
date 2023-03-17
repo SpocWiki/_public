@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rorschach
+coordinates: [[Rorschach]]
+markerFile: [[Rorschach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alloa
+coordinates: [[Alloa]]
+markerFile: [[Alloa]]
+defaultZoom: 11 
+maxZoom: 18
+```

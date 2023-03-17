@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wustrow
+coordinates: [[Wustrow]]
+markerFile: [[Wustrow]]
+defaultZoom: 11 
+maxZoom: 18
+```

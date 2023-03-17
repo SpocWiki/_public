@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brattendorf
+coordinates: [[Brattendorf]]
+markerFile: [[Brattendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

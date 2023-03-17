@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Angoulème
+coordinates: [[Angoulème]]
+markerFile: [[Angoulème]]
+defaultZoom: 11 
+maxZoom: 18
+```

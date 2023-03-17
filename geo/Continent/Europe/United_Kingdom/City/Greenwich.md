@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greenwich
+coordinates: [[Greenwich]]
+markerFile: [[Greenwich]]
+defaultZoom: 11 
+maxZoom: 18
+```

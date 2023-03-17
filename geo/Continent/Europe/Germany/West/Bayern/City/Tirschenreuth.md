@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tirschenreuth
+coordinates: [[Tirschenreuth]]
+markerFile: [[Tirschenreuth]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scheibbs
+coordinates: [[Scheibbs]]
+markerFile: [[Scheibbs]]
+defaultZoom: 11 
+maxZoom: 18
+```

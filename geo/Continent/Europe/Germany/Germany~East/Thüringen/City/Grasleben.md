@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grasleben
+coordinates: [[Grasleben]]
+markerFile: [[Grasleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

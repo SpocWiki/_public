@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gurtnellen
+coordinates: [[Gurtnellen]]
+markerFile: [[Gurtnellen]]
+defaultZoom: 11 
+maxZoom: 18
+```

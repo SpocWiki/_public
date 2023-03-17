@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuenzelsau
+coordinates: [[Kuenzelsau]]
+markerFile: [[Kuenzelsau]]
+defaultZoom: 11 
+maxZoom: 18
+```

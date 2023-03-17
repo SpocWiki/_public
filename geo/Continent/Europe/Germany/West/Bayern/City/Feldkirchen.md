@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Feldkirchen
+coordinates: [[Feldkirchen]]
+markerFile: [[Feldkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

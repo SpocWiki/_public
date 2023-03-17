@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grimlinghausen
+coordinates: [[Grimlinghausen]]
+markerFile: [[Grimlinghausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

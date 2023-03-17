@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monchique
+coordinates: [[Monchique]]
+markerFile: [[Monchique]]
+defaultZoom: 11 
+maxZoom: 18
+```

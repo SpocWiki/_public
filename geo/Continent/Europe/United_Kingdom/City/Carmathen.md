@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carmathen
+coordinates: [[Carmathen]]
+markerFile: [[Carmathen]]
+defaultZoom: 11 
+maxZoom: 18
+```

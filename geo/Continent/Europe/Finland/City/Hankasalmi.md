@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hankasalmi
+coordinates: [[Hankasalmi]]
+markerFile: [[Hankasalmi]]
+defaultZoom: 11 
+maxZoom: 18
+```

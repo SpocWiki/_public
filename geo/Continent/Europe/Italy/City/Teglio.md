@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teglio
+coordinates: [[Teglio]]
+markerFile: [[Teglio]]
+defaultZoom: 11 
+maxZoom: 18
+```

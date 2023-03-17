@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aberystwith
+coordinates: [[Aberystwith]]
+markerFile: [[Aberystwith]]
+defaultZoom: 11 
+maxZoom: 18
+```

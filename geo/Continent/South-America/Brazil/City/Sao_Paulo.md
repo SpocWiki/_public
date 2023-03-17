@@ -1,4 +1,4 @@
----
+﻿---
 location: [-23.54,-46.64]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sao Paulo
+coordinates: [[Sao Paulo]]
+markerFile: [[Sao Paulo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lunde
+coordinates: [[Lunde]]
+markerFile: [[Lunde]]
+defaultZoom: 11 
+maxZoom: 18
+```

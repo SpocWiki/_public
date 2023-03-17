@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hook
+coordinates: [[Hook]]
+markerFile: [[Hook]]
+defaultZoom: 11 
+maxZoom: 18
+```

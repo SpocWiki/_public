@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goldberg~Schlesien
+coordinates: [[Goldberg~Schlesien]]
+markerFile: [[Goldberg~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

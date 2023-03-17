@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pausa
+coordinates: [[Pausa]]
+markerFile: [[Pausa]]
+defaultZoom: 11 
+maxZoom: 18
+```

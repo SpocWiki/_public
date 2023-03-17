@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoedic
+coordinates: [[Hoedic]]
+markerFile: [[Hoedic]]
+defaultZoom: 11 
+maxZoom: 18
+```

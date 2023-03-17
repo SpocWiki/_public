@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.82361,-71.42223]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Providence
+coordinates: [[Providence]]
+markerFile: [[Providence]]
+defaultZoom: 11 
+maxZoom: 18
+```

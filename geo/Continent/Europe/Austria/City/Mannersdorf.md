@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mannersdorf
+coordinates: [[Mannersdorf]]
+markerFile: [[Mannersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.28,16.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trani
+coordinates: [[Trani]]
+markerFile: [[Trani]]
+defaultZoom: 11 
+maxZoom: 18
+```

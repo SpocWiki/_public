@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Christiansfeld
+coordinates: [[Christiansfeld]]
+markerFile: [[Christiansfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

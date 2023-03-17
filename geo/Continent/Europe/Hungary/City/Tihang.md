@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tihang
+coordinates: [[Tihang]]
+markerFile: [[Tihang]]
+defaultZoom: 11 
+maxZoom: 18
+```

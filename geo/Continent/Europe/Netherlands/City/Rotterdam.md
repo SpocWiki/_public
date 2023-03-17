@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rotterdam
+coordinates: [[Rotterdam]]
+markerFile: [[Rotterdam]]
+defaultZoom: 11 
+maxZoom: 18
+```

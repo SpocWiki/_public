@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langeln
+coordinates: [[Langeln]]
+markerFile: [[Langeln]]
+defaultZoom: 11 
+maxZoom: 18
+```

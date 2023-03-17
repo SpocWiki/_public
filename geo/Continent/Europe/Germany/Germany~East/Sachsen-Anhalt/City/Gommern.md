@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gommern
+coordinates: [[Gommern]]
+markerFile: [[Gommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

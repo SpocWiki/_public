@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vasknarva
+coordinates: [[Vasknarva]]
+markerFile: [[Vasknarva]]
+defaultZoom: 11 
+maxZoom: 18
+```

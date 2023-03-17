@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Portadown
+coordinates: [[Portadown]]
+markerFile: [[Portadown]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Edderitz
+coordinates: [[Edderitz]]
+markerFile: [[Edderitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

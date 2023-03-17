@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuwied
+coordinates: [[Neuwied]]
+markerFile: [[Neuwied]]
+defaultZoom: 11 
+maxZoom: 18
+```

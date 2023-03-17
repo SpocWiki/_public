@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kohlscheid
+coordinates: [[Kohlscheid]]
+markerFile: [[Kohlscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

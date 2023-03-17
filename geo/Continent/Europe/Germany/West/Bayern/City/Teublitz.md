@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teublitz
+coordinates: [[Teublitz]]
+markerFile: [[Teublitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

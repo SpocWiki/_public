@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Temmikof
+coordinates: [[Temmikof]]
+markerFile: [[Temmikof]]
+defaultZoom: 11 
+maxZoom: 18
+```

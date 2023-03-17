@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troizk
+coordinates: [[Troizk]]
+markerFile: [[Troizk]]
+defaultZoom: 11 
+maxZoom: 18
+```

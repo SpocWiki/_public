@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steinfeld Bz
+coordinates: [[Steinfeld Bz]]
+markerFile: [[Steinfeld Bz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dolberg
+coordinates: [[Dolberg]]
+markerFile: [[Dolberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

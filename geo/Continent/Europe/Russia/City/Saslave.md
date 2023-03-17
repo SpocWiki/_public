@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saslave
+coordinates: [[Saslave]]
+markerFile: [[Saslave]]
+defaultZoom: 11 
+maxZoom: 18
+```

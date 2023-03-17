@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grimma
+coordinates: [[Grimma]]
+markerFile: [[Grimma]]
+defaultZoom: 11 
+maxZoom: 18
+```

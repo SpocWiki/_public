@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kreuzburg
+coordinates: [[Kreuzburg]]
+markerFile: [[Kreuzburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bunzlau
+coordinates: [[Bunzlau]]
+markerFile: [[Bunzlau]]
+defaultZoom: 11 
+maxZoom: 18
+```

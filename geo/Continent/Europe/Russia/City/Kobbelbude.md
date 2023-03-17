@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kobbelbude
+coordinates: [[Kobbelbude]]
+markerFile: [[Kobbelbude]]
+defaultZoom: 11 
+maxZoom: 18
+```

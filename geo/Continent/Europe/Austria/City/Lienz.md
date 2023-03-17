@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lienz
+coordinates: [[Lienz]]
+markerFile: [[Lienz]]
+defaultZoom: 11 
+maxZoom: 18
+```

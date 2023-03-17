@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plewna=Plewen
+coordinates: [[Plewna=Plewen]]
+markerFile: [[Plewna=Plewen]]
+defaultZoom: 11 
+maxZoom: 18
+```

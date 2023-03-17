@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brielle
+coordinates: [[Brielle]]
+markerFile: [[Brielle]]
+defaultZoom: 11 
+maxZoom: 18
+```

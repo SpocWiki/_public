@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosenbach
+coordinates: [[Rosenbach]]
+markerFile: [[Rosenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

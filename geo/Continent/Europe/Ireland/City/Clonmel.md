@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clonmel
+coordinates: [[Clonmel]]
+markerFile: [[Clonmel]]
+defaultZoom: 11 
+maxZoom: 18
+```

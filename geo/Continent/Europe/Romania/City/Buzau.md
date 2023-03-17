@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buzau
+coordinates: [[Buzau]]
+markerFile: [[Buzau]]
+defaultZoom: 11 
+maxZoom: 18
+```

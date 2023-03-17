@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Willemsaard
+coordinates: [[Willemsaard]]
+markerFile: [[Willemsaard]]
+defaultZoom: 11 
+maxZoom: 18
+```

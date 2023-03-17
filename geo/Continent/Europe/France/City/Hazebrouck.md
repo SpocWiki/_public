@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hazebrouck
+coordinates: [[Hazebrouck]]
+markerFile: [[Hazebrouck]]
+defaultZoom: 11 
+maxZoom: 18
+```

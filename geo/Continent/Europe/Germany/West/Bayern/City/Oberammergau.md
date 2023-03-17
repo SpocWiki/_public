@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.6,11.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberammergau
+coordinates: [[Oberammergau]]
+markerFile: [[Oberammergau]]
+defaultZoom: 11 
+maxZoom: 18
+```

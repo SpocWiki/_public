@@ -1,4 +1,4 @@
----
+﻿---
 location: [68.67,27.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Inari~Enare
+coordinates: [[Inari~Enare]]
+markerFile: [[Inari~Enare]]
+defaultZoom: 11 
+maxZoom: 18
+```

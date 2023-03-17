@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heidelberg
+coordinates: [[Heidelberg]]
+markerFile: [[Heidelberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.85,5.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maastricht
+coordinates: [[Maastricht]]
+markerFile: [[Maastricht]]
+defaultZoom: 11 
+maxZoom: 18
+```

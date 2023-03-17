@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirkcaldy
+coordinates: [[Kirkcaldy]]
+markerFile: [[Kirkcaldy]]
+defaultZoom: 11 
+maxZoom: 18
+```

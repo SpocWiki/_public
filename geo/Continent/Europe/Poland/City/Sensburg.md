@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sensburg
+coordinates: [[Sensburg]]
+markerFile: [[Sensburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

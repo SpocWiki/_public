@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Andrae
+coordinates: [[St.Andrae]]
+markerFile: [[St.Andrae]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neusandetz=Newy Sacz
+coordinates: [[Neusandetz=Newy Sacz]]
+markerFile: [[Neusandetz=Newy Sacz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Douai
+coordinates: [[Douai]]
+markerFile: [[Douai]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sosnitza
+coordinates: [[Sosnitza]]
+markerFile: [[Sosnitza]]
+defaultZoom: 11 
+maxZoom: 18
+```

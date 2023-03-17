@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greiffenberg~Schlesien
+coordinates: [[Greiffenberg~Schlesien]]
+markerFile: [[Greiffenberg~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wangen
+coordinates: [[Wangen]]
+markerFile: [[Wangen]]
+defaultZoom: 11 
+maxZoom: 18
+```

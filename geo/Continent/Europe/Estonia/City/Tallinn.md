@@ -1,4 +1,4 @@
----
+﻿---
 location: [59.41667,24.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Tallinn
+coordinates: [[Tallinn]]
+markerFile: [[Tallinn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Giarratana
+coordinates: [[Giarratana]]
+markerFile: [[Giarratana]]
+defaultZoom: 11 
+maxZoom: 18
+```

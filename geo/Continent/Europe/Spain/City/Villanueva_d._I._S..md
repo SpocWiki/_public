@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villanueva d. I. S.
+coordinates: [[Villanueva d. I. S.]]
+markerFile: [[Villanueva d. I. S.]]
+defaultZoom: 11 
+maxZoom: 18
+```

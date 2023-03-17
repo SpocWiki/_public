@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dinglingen
+coordinates: [[Dinglingen]]
+markerFile: [[Dinglingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

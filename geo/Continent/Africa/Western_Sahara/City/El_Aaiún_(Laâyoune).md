@@ -1,4 +1,4 @@
----
+﻿---
 location: [27.15361,-13.20333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: El Aaiún (Laâyoune)
+coordinates: [[El Aaiún (Laâyoune)]]
+markerFile: [[El Aaiún (Laâyoune)]]
+defaultZoom: 11 
+maxZoom: 18
+```

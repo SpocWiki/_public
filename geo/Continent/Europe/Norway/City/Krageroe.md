@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krageroe
+coordinates: [[Krageroe]]
+markerFile: [[Krageroe]]
+defaultZoom: 11 
+maxZoom: 18
+```

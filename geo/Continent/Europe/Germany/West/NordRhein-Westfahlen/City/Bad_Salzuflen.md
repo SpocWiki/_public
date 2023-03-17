@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Salzuflen
+coordinates: [[Bad Salzuflen]]
+markerFile: [[Bad Salzuflen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altenmarkt
+coordinates: [[Altenmarkt]]
+markerFile: [[Altenmarkt]]
+defaultZoom: 11 
+maxZoom: 18
+```

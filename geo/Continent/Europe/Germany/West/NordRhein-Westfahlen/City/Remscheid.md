@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Remscheid
+coordinates: [[Remscheid]]
+markerFile: [[Remscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

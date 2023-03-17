@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vancouver
+coordinates: [[Vancouver]]
+markerFile: [[Vancouver]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boccum
+coordinates: [[Boccum]]
+markerFile: [[Boccum]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hueckeswagen
+coordinates: [[Hueckeswagen]]
+markerFile: [[Hueckeswagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

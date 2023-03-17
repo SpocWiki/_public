@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saltcoats
+coordinates: [[Saltcoats]]
+markerFile: [[Saltcoats]]
+defaultZoom: 11 
+maxZoom: 18
+```

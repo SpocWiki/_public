@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Novi Pazar
+coordinates: [[Novi Pazar]]
+markerFile: [[Novi Pazar]]
+defaultZoom: 11 
+maxZoom: 18
+```

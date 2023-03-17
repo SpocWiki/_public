@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.42,13.98]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuhaus~Donau
+coordinates: [[Neuhaus~Donau]]
+markerFile: [[Neuhaus~Donau]]
+defaultZoom: 11 
+maxZoom: 18
+```

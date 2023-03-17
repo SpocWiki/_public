@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cesis
+coordinates: [[Cesis]]
+markerFile: [[Cesis]]
+defaultZoom: 11 
+maxZoom: 18
+```

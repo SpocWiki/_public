@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cannara
+coordinates: [[Cannara]]
+markerFile: [[Cannara]]
+defaultZoom: 11 
+maxZoom: 18
+```

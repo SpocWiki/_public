@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoysinghausen
+coordinates: [[Hoysinghausen]]
+markerFile: [[Hoysinghausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

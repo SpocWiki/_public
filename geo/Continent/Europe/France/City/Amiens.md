@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amiens
+coordinates: [[Amiens]]
+markerFile: [[Amiens]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [6.116667,1.216667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Lomé
+coordinates: [[Lomé]]
+markerFile: [[Lomé]]
+defaultZoom: 11 
+maxZoom: 18
+```

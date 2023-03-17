@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pasewalk
+coordinates: [[Pasewalk]]
+markerFile: [[Pasewalk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hainichen
+coordinates: [[Hainichen]]
+markerFile: [[Hainichen]]
+defaultZoom: 11 
+maxZoom: 18
+```

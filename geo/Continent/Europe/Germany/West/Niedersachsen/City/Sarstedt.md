@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sarstedt
+coordinates: [[Sarstedt]]
+markerFile: [[Sarstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

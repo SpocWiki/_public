@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krakow
+coordinates: [[Krakow]]
+markerFile: [[Krakow]]
+defaultZoom: 11 
+maxZoom: 18
+```

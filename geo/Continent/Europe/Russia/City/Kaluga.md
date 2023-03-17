@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.52,36.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaluga
+coordinates: [[Kaluga]]
+markerFile: [[Kaluga]]
+defaultZoom: 11 
+maxZoom: 18
+```

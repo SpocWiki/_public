@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jekabpils
+coordinates: [[Jekabpils]]
+markerFile: [[Jekabpils]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blenheim
+coordinates: [[Blenheim]]
+markerFile: [[Blenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

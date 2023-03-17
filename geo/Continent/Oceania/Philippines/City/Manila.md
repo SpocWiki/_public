@@ -1,4 +1,4 @@
----
+﻿---
 location: [14.59,120.97]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Manila
+coordinates: [[Manila]]
+markerFile: [[Manila]]
+defaultZoom: 11 
+maxZoom: 18
+```

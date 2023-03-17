@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Naunhof
+coordinates: [[Naunhof]]
+markerFile: [[Naunhof]]
+defaultZoom: 11 
+maxZoom: 18
+```

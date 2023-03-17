@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.83,17.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Podgoczyn
+coordinates: [[Podgoczyn]]
+markerFile: [[Podgoczyn]]
+defaultZoom: 11 
+maxZoom: 18
+```

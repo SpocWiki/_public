@@ -1,4 +1,4 @@
----
+﻿---
 location: [56.87,40]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalinin=Tver
+coordinates: [[Kalinin=Tver]]
+markerFile: [[Kalinin=Tver]]
+defaultZoom: 11 
+maxZoom: 18
+```

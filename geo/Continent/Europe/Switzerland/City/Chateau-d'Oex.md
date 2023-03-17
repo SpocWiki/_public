@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chateau-d'Oex
+coordinates: [[Chateau-d'Oex]]
+markerFile: [[Chateau-d'Oex]]
+defaultZoom: 11 
+maxZoom: 18
+```

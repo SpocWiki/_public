@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Redon
+coordinates: [[Redon]]
+markerFile: [[Redon]]
+defaultZoom: 11 
+maxZoom: 18
+```

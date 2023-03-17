@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brioude
+coordinates: [[Brioude]]
+markerFile: [[Brioude]]
+defaultZoom: 11 
+maxZoom: 18
+```

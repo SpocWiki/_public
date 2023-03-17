@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klingenthal
+coordinates: [[Klingenthal]]
+markerFile: [[Klingenthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

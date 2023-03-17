@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nikolajew
+coordinates: [[Nikolajew]]
+markerFile: [[Nikolajew]]
+defaultZoom: 11 
+maxZoom: 18
+```

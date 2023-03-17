@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goeschenen
+coordinates: [[Goeschenen]]
+markerFile: [[Goeschenen]]
+defaultZoom: 11 
+maxZoom: 18
+```

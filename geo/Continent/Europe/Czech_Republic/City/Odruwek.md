@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.4,16.88]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Odruwek
+coordinates: [[Odruwek]]
+markerFile: [[Odruwek]]
+defaultZoom: 11 
+maxZoom: 18
+```

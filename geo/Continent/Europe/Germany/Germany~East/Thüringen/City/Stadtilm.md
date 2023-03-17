@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stadtilm
+coordinates: [[Stadtilm]]
+markerFile: [[Stadtilm]]
+defaultZoom: 11 
+maxZoom: 18
+```

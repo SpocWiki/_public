@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Nauheim
+coordinates: [[Bad Nauheim]]
+markerFile: [[Bad Nauheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

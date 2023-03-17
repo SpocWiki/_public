@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aszod
+coordinates: [[Aszod]]
+markerFile: [[Aszod]]
+defaultZoom: 11 
+maxZoom: 18
+```

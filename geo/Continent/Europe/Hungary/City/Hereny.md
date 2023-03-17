@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.27,16.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hereny
+coordinates: [[Hereny]]
+markerFile: [[Hereny]]
+defaultZoom: 11 
+maxZoom: 18
+```

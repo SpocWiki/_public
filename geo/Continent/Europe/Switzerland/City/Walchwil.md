@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Walchwil
+coordinates: [[Walchwil]]
+markerFile: [[Walchwil]]
+defaultZoom: 11 
+maxZoom: 18
+```

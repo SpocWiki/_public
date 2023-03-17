@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pirna
+coordinates: [[Pirna]]
+markerFile: [[Pirna]]
+defaultZoom: 11 
+maxZoom: 18
+```

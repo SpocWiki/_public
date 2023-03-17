@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Keighley
+coordinates: [[Keighley]]
+markerFile: [[Keighley]]
+defaultZoom: 11 
+maxZoom: 18
+```

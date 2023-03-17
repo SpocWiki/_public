@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oyrot
+coordinates: [[Oyrot]]
+markerFile: [[Oyrot]]
+defaultZoom: 11 
+maxZoom: 18
+```

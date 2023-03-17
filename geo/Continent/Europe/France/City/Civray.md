@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.15,0.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Civray
+coordinates: [[Civray]]
+markerFile: [[Civray]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maselheim
+coordinates: [[Maselheim]]
+markerFile: [[Maselheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

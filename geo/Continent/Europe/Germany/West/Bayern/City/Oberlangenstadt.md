@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberlangenstadt
+coordinates: [[Oberlangenstadt]]
+markerFile: [[Oberlangenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zeulenroda
+coordinates: [[Zeulenroda]]
+markerFile: [[Zeulenroda]]
+defaultZoom: 11 
+maxZoom: 18
+```

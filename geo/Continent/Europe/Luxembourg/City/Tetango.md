@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tetango
+coordinates: [[Tetango]]
+markerFile: [[Tetango]]
+defaultZoom: 11 
+maxZoom: 18
+```

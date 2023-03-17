@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hassleben
+coordinates: [[Hassleben]]
+markerFile: [[Hassleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

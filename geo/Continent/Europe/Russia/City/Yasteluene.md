@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yasteluene
+coordinates: [[Yasteluene]]
+markerFile: [[Yasteluene]]
+defaultZoom: 11 
+maxZoom: 18
+```

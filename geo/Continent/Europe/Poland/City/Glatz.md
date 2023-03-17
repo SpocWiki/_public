@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glatz
+coordinates: [[Glatz]]
+markerFile: [[Glatz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rovigno
+coordinates: [[Rovigno]]
+markerFile: [[Rovigno]]
+defaultZoom: 11 
+maxZoom: 18
+```

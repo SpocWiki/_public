@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Staples
+coordinates: [[Staples]]
+markerFile: [[Staples]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwanebeck
+coordinates: [[Schwanebeck]]
+markerFile: [[Schwanebeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

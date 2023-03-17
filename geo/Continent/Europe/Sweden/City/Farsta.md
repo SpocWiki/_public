@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Farsta
+coordinates: [[Farsta]]
+markerFile: [[Farsta]]
+defaultZoom: 11 
+maxZoom: 18
+```

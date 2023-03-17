@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lieksa
+coordinates: [[Lieksa]]
+markerFile: [[Lieksa]]
+defaultZoom: 11 
+maxZoom: 18
+```

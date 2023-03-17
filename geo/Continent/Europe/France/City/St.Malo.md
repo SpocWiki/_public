@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Malo
+coordinates: [[St.Malo]]
+markerFile: [[St.Malo]]
+defaultZoom: 11 
+maxZoom: 18
+```

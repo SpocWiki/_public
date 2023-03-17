@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laband
+coordinates: [[Laband]]
+markerFile: [[Laband]]
+defaultZoom: 11 
+maxZoom: 18
+```

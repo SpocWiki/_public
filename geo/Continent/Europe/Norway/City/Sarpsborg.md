@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sarpsborg
+coordinates: [[Sarpsborg]]
+markerFile: [[Sarpsborg]]
+defaultZoom: 11 
+maxZoom: 18
+```

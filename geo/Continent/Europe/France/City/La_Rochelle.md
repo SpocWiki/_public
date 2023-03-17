@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: La Rochelle
+coordinates: [[La Rochelle]]
+markerFile: [[La Rochelle]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Puycerda
+coordinates: [[Puycerda]]
+markerFile: [[Puycerda]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Knaered
+coordinates: [[Knaered]]
+markerFile: [[Knaered]]
+defaultZoom: 11 
+maxZoom: 18
+```

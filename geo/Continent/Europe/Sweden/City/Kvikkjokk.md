@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kvikkjokk
+coordinates: [[Kvikkjokk]]
+markerFile: [[Kvikkjokk]]
+defaultZoom: 11 
+maxZoom: 18
+```

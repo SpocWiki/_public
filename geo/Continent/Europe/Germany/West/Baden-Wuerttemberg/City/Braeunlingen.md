@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Braeunlingen
+coordinates: [[Braeunlingen]]
+markerFile: [[Braeunlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

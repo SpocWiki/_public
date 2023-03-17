@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gramm
+coordinates: [[Gramm]]
+markerFile: [[Gramm]]
+defaultZoom: 11 
+maxZoom: 18
+```

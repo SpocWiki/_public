@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landau
+coordinates: [[Landau]]
+markerFile: [[Landau]]
+defaultZoom: 11 
+maxZoom: 18
+```

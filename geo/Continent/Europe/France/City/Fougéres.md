@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fougéres
+coordinates: [[Fougéres]]
+markerFile: [[Fougéres]]
+defaultZoom: 11 
+maxZoom: 18
+```

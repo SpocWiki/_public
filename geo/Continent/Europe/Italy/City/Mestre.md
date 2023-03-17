@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mestre
+coordinates: [[Mestre]]
+markerFile: [[Mestre]]
+defaultZoom: 11 
+maxZoom: 18
+```

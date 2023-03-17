@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grosscammin
+coordinates: [[Grosscammin]]
+markerFile: [[Grosscammin]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pfelling
+coordinates: [[Pfelling]]
+markerFile: [[Pfelling]]
+defaultZoom: 11 
+maxZoom: 18
+```

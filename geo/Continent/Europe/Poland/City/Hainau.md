@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hainau
+coordinates: [[Hainau]]
+markerFile: [[Hainau]]
+defaultZoom: 11 
+maxZoom: 18
+```

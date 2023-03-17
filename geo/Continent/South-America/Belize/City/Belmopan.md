@@ -1,4 +1,4 @@
----
+﻿---
 location: [17.25,-88.76667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Belmopan
+coordinates: [[Belmopan]]
+markerFile: [[Belmopan]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kerki
+coordinates: [[Kerki]]
+markerFile: [[Kerki]]
+defaultZoom: 11 
+maxZoom: 18
+```

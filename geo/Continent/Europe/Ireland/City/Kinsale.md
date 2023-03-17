@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kinsale
+coordinates: [[Kinsale]]
+markerFile: [[Kinsale]]
+defaultZoom: 11 
+maxZoom: 18
+```

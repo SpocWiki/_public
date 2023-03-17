@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carrara
+coordinates: [[Carrara]]
+markerFile: [[Carrara]]
+defaultZoom: 11 
+maxZoom: 18
+```

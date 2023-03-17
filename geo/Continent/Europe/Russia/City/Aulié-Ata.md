@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aulié-Ata
+coordinates: [[Aulié-Ata]]
+markerFile: [[Aulié-Ata]]
+defaultZoom: 11 
+maxZoom: 18
+```

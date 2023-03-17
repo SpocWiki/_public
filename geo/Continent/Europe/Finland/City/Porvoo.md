@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Porvoo
+coordinates: [[Porvoo]]
+markerFile: [[Porvoo]]
+defaultZoom: 11 
+maxZoom: 18
+```

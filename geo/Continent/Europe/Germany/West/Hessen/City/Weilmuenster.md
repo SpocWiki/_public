@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weilmuenster
+coordinates: [[Weilmuenster]]
+markerFile: [[Weilmuenster]]
+defaultZoom: 11 
+maxZoom: 18
+```

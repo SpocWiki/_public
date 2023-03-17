@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Avallon
+coordinates: [[Avallon]]
+markerFile: [[Avallon]]
+defaultZoom: 11 
+maxZoom: 18
+```

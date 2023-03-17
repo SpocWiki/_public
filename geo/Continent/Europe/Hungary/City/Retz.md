@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.77,15.95]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Retz
+coordinates: [[Retz]]
+markerFile: [[Retz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quaritz
+coordinates: [[Quaritz]]
+markerFile: [[Quaritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

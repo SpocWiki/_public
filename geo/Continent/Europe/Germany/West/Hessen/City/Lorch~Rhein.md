@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.05,7.82]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lorch~Rhein
+coordinates: [[Lorch~Rhein]]
+markerFile: [[Lorch~Rhein]]
+defaultZoom: 11 
+maxZoom: 18
+```

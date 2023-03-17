@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pordenone
+coordinates: [[Pordenone]]
+markerFile: [[Pordenone]]
+defaultZoom: 11 
+maxZoom: 18
+```

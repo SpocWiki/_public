@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borszczow
+coordinates: [[Borszczow]]
+markerFile: [[Borszczow]]
+defaultZoom: 11 
+maxZoom: 18
+```

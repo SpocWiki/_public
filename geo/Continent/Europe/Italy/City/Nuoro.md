@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nuoro
+coordinates: [[Nuoro]]
+markerFile: [[Nuoro]]
+defaultZoom: 11 
+maxZoom: 18
+```

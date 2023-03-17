@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glauchau
+coordinates: [[Glauchau]]
+markerFile: [[Glauchau]]
+defaultZoom: 11 
+maxZoom: 18
+```

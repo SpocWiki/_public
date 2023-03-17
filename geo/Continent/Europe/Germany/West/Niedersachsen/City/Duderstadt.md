@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duderstadt
+coordinates: [[Duderstadt]]
+markerFile: [[Duderstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

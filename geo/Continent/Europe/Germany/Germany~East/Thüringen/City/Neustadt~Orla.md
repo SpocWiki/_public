@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt~Orla
+coordinates: [[Neustadt~Orla]]
+markerFile: [[Neustadt~Orla]]
+defaultZoom: 11 
+maxZoom: 18
+```

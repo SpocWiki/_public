@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huntley
+coordinates: [[Huntley]]
+markerFile: [[Huntley]]
+defaultZoom: 11 
+maxZoom: 18
+```

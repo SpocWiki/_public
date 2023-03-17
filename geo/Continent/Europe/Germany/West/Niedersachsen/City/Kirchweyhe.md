@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchweyhe
+coordinates: [[Kirchweyhe]]
+markerFile: [[Kirchweyhe]]
+defaultZoom: 11 
+maxZoom: 18
+```

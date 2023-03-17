@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zarnowitz
+coordinates: [[Zarnowitz]]
+markerFile: [[Zarnowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

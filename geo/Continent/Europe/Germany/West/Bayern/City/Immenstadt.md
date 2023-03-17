@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Immenstadt
+coordinates: [[Immenstadt]]
+markerFile: [[Immenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

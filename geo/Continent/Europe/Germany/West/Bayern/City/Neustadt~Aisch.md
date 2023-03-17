@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt~Aisch
+coordinates: [[Neustadt~Aisch]]
+markerFile: [[Neustadt~Aisch]]
+defaultZoom: 11 
+maxZoom: 18
+```

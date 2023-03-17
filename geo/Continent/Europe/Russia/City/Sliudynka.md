@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sliudynka
+coordinates: [[Sliudynka]]
+markerFile: [[Sliudynka]]
+defaultZoom: 11 
+maxZoom: 18
+```

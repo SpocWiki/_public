@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Starnberg
+coordinates: [[Starnberg]]
+markerFile: [[Starnberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

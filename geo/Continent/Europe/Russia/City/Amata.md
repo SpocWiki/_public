@@ -1,4 +1,4 @@
-﻿---
+---
 location: [57.18,25.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amata
+coordinates: [[Amata]]
+markerFile: [[Amata]]
+defaultZoom: 11 
+maxZoom: 18
+```

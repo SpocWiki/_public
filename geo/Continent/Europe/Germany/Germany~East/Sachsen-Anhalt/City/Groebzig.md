@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Groebzig
+coordinates: [[Groebzig]]
+markerFile: [[Groebzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

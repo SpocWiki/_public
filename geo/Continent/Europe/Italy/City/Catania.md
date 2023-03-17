@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Catania
+coordinates: [[Catania]]
+markerFile: [[Catania]]
+defaultZoom: 11 
+maxZoom: 18
+```

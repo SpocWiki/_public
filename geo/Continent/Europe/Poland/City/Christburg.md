@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Christburg
+coordinates: [[Christburg]]
+markerFile: [[Christburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

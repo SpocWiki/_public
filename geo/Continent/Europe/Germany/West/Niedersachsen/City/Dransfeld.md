@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dransfeld
+coordinates: [[Dransfeld]]
+markerFile: [[Dransfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gmunden
+coordinates: [[Gmunden]]
+markerFile: [[Gmunden]]
+defaultZoom: 11 
+maxZoom: 18
+```

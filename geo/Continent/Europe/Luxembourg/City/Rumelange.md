@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rumelange
+coordinates: [[Rumelange]]
+markerFile: [[Rumelange]]
+defaultZoom: 11 
+maxZoom: 18
+```

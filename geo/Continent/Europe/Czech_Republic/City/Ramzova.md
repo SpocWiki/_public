@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ramzova
+coordinates: [[Ramzova]]
+markerFile: [[Ramzova]]
+defaultZoom: 11 
+maxZoom: 18
+```

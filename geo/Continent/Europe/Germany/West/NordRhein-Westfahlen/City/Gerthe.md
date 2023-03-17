@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gerthe
+coordinates: [[Gerthe]]
+markerFile: [[Gerthe]]
+defaultZoom: 11 
+maxZoom: 18
+```

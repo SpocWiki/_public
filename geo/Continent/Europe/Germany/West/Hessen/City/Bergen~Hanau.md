@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergen~Hanau
+coordinates: [[Bergen~Hanau]]
+markerFile: [[Bergen~Hanau]]
+defaultZoom: 11 
+maxZoom: 18
+```

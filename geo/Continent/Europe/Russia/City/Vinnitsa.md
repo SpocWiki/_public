@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vinnitsa
+coordinates: [[Vinnitsa]]
+markerFile: [[Vinnitsa]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.05,4.26]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stawropol=Voroshilovsk
+coordinates: [[Stawropol=Voroshilovsk]]
+markerFile: [[Stawropol=Voroshilovsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

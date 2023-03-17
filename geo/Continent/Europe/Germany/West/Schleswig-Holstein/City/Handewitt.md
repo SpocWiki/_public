@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Handewitt
+coordinates: [[Handewitt]]
+markerFile: [[Handewitt]]
+defaultZoom: 11 
+maxZoom: 18
+```

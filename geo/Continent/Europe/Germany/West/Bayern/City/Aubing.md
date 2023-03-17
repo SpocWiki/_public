@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aubing
+coordinates: [[Aubing]]
+markerFile: [[Aubing]]
+defaultZoom: 11 
+maxZoom: 18
+```

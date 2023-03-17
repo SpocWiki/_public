@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petershof
+coordinates: [[Petershof]]
+markerFile: [[Petershof]]
+defaultZoom: 11 
+maxZoom: 18
+```

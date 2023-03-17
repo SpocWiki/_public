@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Backnang
+coordinates: [[Backnang]]
+markerFile: [[Backnang]]
+defaultZoom: 11 
+maxZoom: 18
+```

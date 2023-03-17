@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bitolj=Monastir
+coordinates: [[Bitolj=Monastir]]
+markerFile: [[Bitolj=Monastir]]
+defaultZoom: 11 
+maxZoom: 18
+```

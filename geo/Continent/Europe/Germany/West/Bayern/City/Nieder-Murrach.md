@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nieder-Murrach
+coordinates: [[Nieder-Murrach]]
+markerFile: [[Nieder-Murrach]]
+defaultZoom: 11 
+maxZoom: 18
+```

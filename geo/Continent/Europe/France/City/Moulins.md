@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moulins
+coordinates: [[Moulins]]
+markerFile: [[Moulins]]
+defaultZoom: 11 
+maxZoom: 18
+```

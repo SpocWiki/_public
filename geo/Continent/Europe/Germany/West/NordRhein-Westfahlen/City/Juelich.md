@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.92,6.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Juelich
+coordinates: [[Juelich]]
+markerFile: [[Juelich]]
+defaultZoom: 11 
+maxZoom: 18
+```

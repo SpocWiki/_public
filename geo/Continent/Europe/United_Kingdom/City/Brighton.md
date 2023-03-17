@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brighton
+coordinates: [[Brighton]]
+markerFile: [[Brighton]]
+defaultZoom: 11 
+maxZoom: 18
+```

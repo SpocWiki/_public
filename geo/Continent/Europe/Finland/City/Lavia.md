@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lavia
+coordinates: [[Lavia]]
+markerFile: [[Lavia]]
+defaultZoom: 11 
+maxZoom: 18
+```

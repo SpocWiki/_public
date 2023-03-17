@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Planitz~Zwickau
+coordinates: [[Planitz~Zwickau]]
+markerFile: [[Planitz~Zwickau]]
+defaultZoom: 11 
+maxZoom: 18
+```

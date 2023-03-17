@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Reichenhall
+coordinates: [[Bad Reichenhall]]
+markerFile: [[Bad Reichenhall]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thionville
+coordinates: [[Thionville]]
+markerFile: [[Thionville]]
+defaultZoom: 11 
+maxZoom: 18
+```

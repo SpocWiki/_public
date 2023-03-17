@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Shepetovka
+coordinates: [[Shepetovka]]
+markerFile: [[Shepetovka]]
+defaultZoom: 11 
+maxZoom: 18
+```

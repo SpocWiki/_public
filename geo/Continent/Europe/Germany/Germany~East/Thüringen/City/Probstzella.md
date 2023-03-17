@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Probstzella
+coordinates: [[Probstzella]]
+markerFile: [[Probstzella]]
+defaultZoom: 11 
+maxZoom: 18
+```

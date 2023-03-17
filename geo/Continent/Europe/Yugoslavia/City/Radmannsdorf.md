@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radmannsdorf
+coordinates: [[Radmannsdorf]]
+markerFile: [[Radmannsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

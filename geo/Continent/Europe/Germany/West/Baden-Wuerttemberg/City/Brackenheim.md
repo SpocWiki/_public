@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brackenheim
+coordinates: [[Brackenheim]]
+markerFile: [[Brackenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

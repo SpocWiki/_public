@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bray
+coordinates: [[Bray]]
+markerFile: [[Bray]]
+defaultZoom: 11 
+maxZoom: 18
+```

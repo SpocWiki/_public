@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoenhausen
+coordinates: [[Schoenhausen]]
+markerFile: [[Schoenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

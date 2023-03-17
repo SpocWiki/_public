@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pritzier
+coordinates: [[Pritzier]]
+markerFile: [[Pritzier]]
+defaultZoom: 11 
+maxZoom: 18
+```

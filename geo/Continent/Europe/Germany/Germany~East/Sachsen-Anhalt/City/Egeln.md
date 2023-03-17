@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Egeln
+coordinates: [[Egeln]]
+markerFile: [[Egeln]]
+defaultZoom: 11 
+maxZoom: 18
+```

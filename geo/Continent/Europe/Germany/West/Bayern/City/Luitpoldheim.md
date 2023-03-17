@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luitpoldheim
+coordinates: [[Luitpoldheim]]
+markerFile: [[Luitpoldheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

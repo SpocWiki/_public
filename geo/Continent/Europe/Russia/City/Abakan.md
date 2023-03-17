@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abakan
+coordinates: [[Abakan]]
+markerFile: [[Abakan]]
+defaultZoom: 11 
+maxZoom: 18
+```

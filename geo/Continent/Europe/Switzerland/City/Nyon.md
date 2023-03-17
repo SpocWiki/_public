@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.38,3.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nyon
+coordinates: [[Nyon]]
+markerFile: [[Nyon]]
+defaultZoom: 11 
+maxZoom: 18
+```

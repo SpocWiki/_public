@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steinbach-Hallenberg
+coordinates: [[Steinbach-Hallenberg]]
+markerFile: [[Steinbach-Hallenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

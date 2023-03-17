@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.92,73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Djabal-Abad
+coordinates: [[Djabal-Abad]]
+markerFile: [[Djabal-Abad]]
+defaultZoom: 11 
+maxZoom: 18
+```

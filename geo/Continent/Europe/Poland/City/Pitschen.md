@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pitschen
+coordinates: [[Pitschen]]
+markerFile: [[Pitschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

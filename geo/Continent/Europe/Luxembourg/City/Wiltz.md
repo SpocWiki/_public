@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wiltz
+coordinates: [[Wiltz]]
+markerFile: [[Wiltz]]
+defaultZoom: 11 
+maxZoom: 18
+```

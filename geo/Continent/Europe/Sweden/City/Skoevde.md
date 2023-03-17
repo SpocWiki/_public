@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skoevde
+coordinates: [[Skoevde]]
+markerFile: [[Skoevde]]
+defaultZoom: 11 
+maxZoom: 18
+```

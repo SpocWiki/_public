@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Santa Monika
+coordinates: [[Santa Monika]]
+markerFile: [[Santa Monika]]
+defaultZoom: 11 
+maxZoom: 18
+```

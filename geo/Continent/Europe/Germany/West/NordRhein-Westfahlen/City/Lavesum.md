@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lavesum
+coordinates: [[Lavesum]]
+markerFile: [[Lavesum]]
+defaultZoom: 11 
+maxZoom: 18
+```

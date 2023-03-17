@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grossbeeren
+coordinates: [[Grossbeeren]]
+markerFile: [[Grossbeeren]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.6,2.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castres
+coordinates: [[Castres]]
+markerFile: [[Castres]]
+defaultZoom: 11 
+maxZoom: 18
+```

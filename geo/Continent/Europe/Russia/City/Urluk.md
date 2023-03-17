@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Urluk
+coordinates: [[Urluk]]
+markerFile: [[Urluk]]
+defaultZoom: 11 
+maxZoom: 18
+```

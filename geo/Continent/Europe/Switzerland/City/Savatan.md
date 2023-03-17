@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Savatan
+coordinates: [[Savatan]]
+markerFile: [[Savatan]]
+defaultZoom: 11 
+maxZoom: 18
+```

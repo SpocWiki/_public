@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oskarsham
+coordinates: [[Oskarsham]]
+markerFile: [[Oskarsham]]
+defaultZoom: 11 
+maxZoom: 18
+```

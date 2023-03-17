@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nouvion en Thierache
+coordinates: [[Nouvion en Thierache]]
+markerFile: [[Nouvion en Thierache]]
+defaultZoom: 11 
+maxZoom: 18
+```

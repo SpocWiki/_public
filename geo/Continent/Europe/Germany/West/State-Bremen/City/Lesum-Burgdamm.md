@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.17,8.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lesum-Burgdamm
+coordinates: [[Lesum-Burgdamm]]
+markerFile: [[Lesum-Burgdamm]]
+defaultZoom: 11 
+maxZoom: 18
+```

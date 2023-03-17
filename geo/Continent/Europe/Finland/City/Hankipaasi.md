@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hankipaasi
+coordinates: [[Hankipaasi]]
+markerFile: [[Hankipaasi]]
+defaultZoom: 11 
+maxZoom: 18
+```

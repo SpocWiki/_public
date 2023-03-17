@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Panemunis
+coordinates: [[Panemunis]]
+markerFile: [[Panemunis]]
+defaultZoom: 11 
+maxZoom: 18
+```

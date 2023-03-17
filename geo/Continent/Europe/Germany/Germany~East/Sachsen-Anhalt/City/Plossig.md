@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plossig
+coordinates: [[Plossig]]
+markerFile: [[Plossig]]
+defaultZoom: 11 
+maxZoom: 18
+```

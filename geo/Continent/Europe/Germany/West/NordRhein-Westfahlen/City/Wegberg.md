@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wegberg
+coordinates: [[Wegberg]]
+markerFile: [[Wegberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

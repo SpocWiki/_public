@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.03,15.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eugenienhof
+coordinates: [[Eugenienhof]]
+markerFile: [[Eugenienhof]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schelklingen
+coordinates: [[Schelklingen]]
+markerFile: [[Schelklingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

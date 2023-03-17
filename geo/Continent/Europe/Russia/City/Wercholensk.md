@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wercholensk
+coordinates: [[Wercholensk]]
+markerFile: [[Wercholensk]]
+defaultZoom: 11 
+maxZoom: 18
+```

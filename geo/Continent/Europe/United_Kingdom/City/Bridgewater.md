@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bridgewater
+coordinates: [[Bridgewater]]
+markerFile: [[Bridgewater]]
+defaultZoom: 11 
+maxZoom: 18
+```

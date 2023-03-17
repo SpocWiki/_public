@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heidelsheim
+coordinates: [[Heidelsheim]]
+markerFile: [[Heidelsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schweinsberg
+coordinates: [[Schweinsberg]]
+markerFile: [[Schweinsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

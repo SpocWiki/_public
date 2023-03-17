@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rudnik
+coordinates: [[Rudnik]]
+markerFile: [[Rudnik]]
+defaultZoom: 11 
+maxZoom: 18
+```

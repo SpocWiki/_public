@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stauden
+coordinates: [[Stauden]]
+markerFile: [[Stauden]]
+defaultZoom: 11 
+maxZoom: 18
+```

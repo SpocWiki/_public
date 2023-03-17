@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torsta
+coordinates: [[Torsta]]
+markerFile: [[Torsta]]
+defaultZoom: 11 
+maxZoom: 18
+```

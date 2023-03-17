@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: WÜstenrot
+coordinates: [[WÜstenrot]]
+markerFile: [[WÜstenrot]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cegled
+coordinates: [[Cegled]]
+markerFile: [[Cegled]]
+defaultZoom: 11 
+maxZoom: 18
+```

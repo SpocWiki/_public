@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torquay
+coordinates: [[Torquay]]
+markerFile: [[Torquay]]
+defaultZoom: 11 
+maxZoom: 18
+```

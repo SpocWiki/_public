@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mengen
+coordinates: [[Mengen]]
+markerFile: [[Mengen]]
+defaultZoom: 11 
+maxZoom: 18
+```

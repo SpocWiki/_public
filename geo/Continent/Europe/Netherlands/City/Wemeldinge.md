@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wemeldinge
+coordinates: [[Wemeldinge]]
+markerFile: [[Wemeldinge]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoffenheim
+coordinates: [[Hoffenheim]]
+markerFile: [[Hoffenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

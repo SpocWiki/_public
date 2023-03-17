@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gernsheim
+coordinates: [[Gernsheim]]
+markerFile: [[Gernsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

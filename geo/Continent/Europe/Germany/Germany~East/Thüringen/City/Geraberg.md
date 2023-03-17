@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geraberg
+coordinates: [[Geraberg]]
+markerFile: [[Geraberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

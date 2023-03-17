@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valmy
+coordinates: [[Valmy]]
+markerFile: [[Valmy]]
+defaultZoom: 11 
+maxZoom: 18
+```

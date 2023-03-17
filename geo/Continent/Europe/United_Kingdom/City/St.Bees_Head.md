@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Bees Head
+coordinates: [[St.Bees Head]]
+markerFile: [[St.Bees Head]]
+defaultZoom: 11 
+maxZoom: 18
+```

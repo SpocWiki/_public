@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dittmannsdorf
+coordinates: [[Dittmannsdorf]]
+markerFile: [[Dittmannsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

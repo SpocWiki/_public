@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haemeenlinna
+coordinates: [[Haemeenlinna]]
+markerFile: [[Haemeenlinna]]
+defaultZoom: 11 
+maxZoom: 18
+```

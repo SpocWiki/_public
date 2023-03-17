@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Erdmannsdorf
+coordinates: [[Erdmannsdorf]]
+markerFile: [[Erdmannsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

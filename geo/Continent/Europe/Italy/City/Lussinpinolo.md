@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lussinpinolo
+coordinates: [[Lussinpinolo]]
+markerFile: [[Lussinpinolo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blanj
+coordinates: [[Blanj]]
+markerFile: [[Blanj]]
+defaultZoom: 11 
+maxZoom: 18
+```

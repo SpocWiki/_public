@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sollbacken
+coordinates: [[Sollbacken]]
+markerFile: [[Sollbacken]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldowshof
+coordinates: [[Waldowshof]]
+markerFile: [[Waldowshof]]
+defaultZoom: 11 
+maxZoom: 18
+```

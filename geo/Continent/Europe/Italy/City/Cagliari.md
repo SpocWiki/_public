@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cagliari
+coordinates: [[Cagliari]]
+markerFile: [[Cagliari]]
+defaultZoom: 11 
+maxZoom: 18
+```

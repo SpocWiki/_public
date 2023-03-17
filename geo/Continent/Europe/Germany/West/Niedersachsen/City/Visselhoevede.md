@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Visselhoevede
+coordinates: [[Visselhoevede]]
+markerFile: [[Visselhoevede]]
+defaultZoom: 11 
+maxZoom: 18
+```

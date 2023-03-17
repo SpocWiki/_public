@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.98,20.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seeburg
+coordinates: [[Seeburg]]
+markerFile: [[Seeburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

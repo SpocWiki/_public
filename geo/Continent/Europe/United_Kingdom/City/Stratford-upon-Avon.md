@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stratford-upon-Avon
+coordinates: [[Stratford-upon-Avon]]
+markerFile: [[Stratford-upon-Avon]]
+defaultZoom: 11 
+maxZoom: 18
+```

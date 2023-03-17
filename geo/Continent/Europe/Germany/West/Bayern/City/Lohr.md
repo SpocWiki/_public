@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lohr
+coordinates: [[Lohr]]
+markerFile: [[Lohr]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Twistringen
+coordinates: [[Twistringen]]
+markerFile: [[Twistringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

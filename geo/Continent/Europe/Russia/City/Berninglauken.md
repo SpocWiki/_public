@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berninglauken
+coordinates: [[Berninglauken]]
+markerFile: [[Berninglauken]]
+defaultZoom: 11 
+maxZoom: 18
+```

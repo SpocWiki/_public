@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Foligno
+coordinates: [[Foligno]]
+markerFile: [[Foligno]]
+defaultZoom: 11 
+maxZoom: 18
+```

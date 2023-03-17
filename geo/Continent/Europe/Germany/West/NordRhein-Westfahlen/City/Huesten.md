@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huesten
+coordinates: [[Huesten]]
+markerFile: [[Huesten]]
+defaultZoom: 11 
+maxZoom: 18
+```

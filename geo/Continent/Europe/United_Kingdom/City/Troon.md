@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troon
+coordinates: [[Troon]]
+markerFile: [[Troon]]
+defaultZoom: 11 
+maxZoom: 18
+```

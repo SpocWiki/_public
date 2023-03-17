@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wohlenberg
+coordinates: [[Wohlenberg]]
+markerFile: [[Wohlenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

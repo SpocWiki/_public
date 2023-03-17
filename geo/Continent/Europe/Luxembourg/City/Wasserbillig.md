@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wasserbillig
+coordinates: [[Wasserbillig]]
+markerFile: [[Wasserbillig]]
+defaultZoom: 11 
+maxZoom: 18
+```

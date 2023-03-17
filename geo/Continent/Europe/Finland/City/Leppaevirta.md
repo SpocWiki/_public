@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leppaevirta
+coordinates: [[Leppaevirta]]
+markerFile: [[Leppaevirta]]
+defaultZoom: 11 
+maxZoom: 18
+```

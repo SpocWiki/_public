@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Savona
+coordinates: [[Savona]]
+markerFile: [[Savona]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mazzara
+coordinates: [[Mazzara]]
+markerFile: [[Mazzara]]
+defaultZoom: 11 
+maxZoom: 18
+```

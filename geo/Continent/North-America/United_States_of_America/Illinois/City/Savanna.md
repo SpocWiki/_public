@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Savanna
+coordinates: [[Savanna]]
+markerFile: [[Savanna]]
+defaultZoom: 11 
+maxZoom: 18
+```

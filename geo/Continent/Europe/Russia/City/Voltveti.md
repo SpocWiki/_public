@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Voltveti
+coordinates: [[Voltveti]]
+markerFile: [[Voltveti]]
+defaultZoom: 11 
+maxZoom: 18
+```

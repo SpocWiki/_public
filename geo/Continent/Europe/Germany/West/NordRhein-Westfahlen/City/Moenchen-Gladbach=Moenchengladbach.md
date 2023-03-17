@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moenchen-Gladbach=Moenchengladbach
+coordinates: [[Moenchen-Gladbach=Moenchengladbach]]
+markerFile: [[Moenchen-Gladbach=Moenchengladbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gavirate
+coordinates: [[Gavirate]]
+markerFile: [[Gavirate]]
+defaultZoom: 11 
+maxZoom: 18
+```

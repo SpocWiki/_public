@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merano
+coordinates: [[Merano]]
+markerFile: [[Merano]]
+defaultZoom: 11 
+maxZoom: 18
+```

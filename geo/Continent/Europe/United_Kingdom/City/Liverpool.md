@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liverpool
+coordinates: [[Liverpool]]
+markerFile: [[Liverpool]]
+defaultZoom: 11 
+maxZoom: 18
+```

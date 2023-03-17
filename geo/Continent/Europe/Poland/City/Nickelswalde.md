@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nickelswalde
+coordinates: [[Nickelswalde]]
+markerFile: [[Nickelswalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

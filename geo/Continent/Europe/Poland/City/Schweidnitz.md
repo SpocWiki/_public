@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schweidnitz
+coordinates: [[Schweidnitz]]
+markerFile: [[Schweidnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

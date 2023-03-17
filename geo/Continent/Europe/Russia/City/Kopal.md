@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kopal
+coordinates: [[Kopal]]
+markerFile: [[Kopal]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.52,8.28]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lamsheim
+coordinates: [[Lamsheim]]
+markerFile: [[Lamsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

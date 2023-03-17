@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ludlow
+coordinates: [[Ludlow]]
+markerFile: [[Ludlow]]
+defaultZoom: 11 
+maxZoom: 18
+```

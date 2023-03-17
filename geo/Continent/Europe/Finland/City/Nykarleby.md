@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nykarleby
+coordinates: [[Nykarleby]]
+markerFile: [[Nykarleby]]
+defaultZoom: 11 
+maxZoom: 18
+```

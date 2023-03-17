@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zasenbeck
+coordinates: [[Zasenbeck]]
+markerFile: [[Zasenbeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

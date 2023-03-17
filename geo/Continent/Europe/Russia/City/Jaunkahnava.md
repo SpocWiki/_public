@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jaunkahnava
+coordinates: [[Jaunkahnava]]
+markerFile: [[Jaunkahnava]]
+defaultZoom: 11 
+maxZoom: 18
+```

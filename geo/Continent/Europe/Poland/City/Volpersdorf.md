@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Volpersdorf
+coordinates: [[Volpersdorf]]
+markerFile: [[Volpersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

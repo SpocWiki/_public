@@ -1,4 +1,4 @@
----
+﻿---
 location: [-33.94,18.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kapstadt=Cape Town
+coordinates: [[Kapstadt=Cape Town]]
+markerFile: [[Kapstadt=Cape Town]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.22,16.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ebersdorf-Neurode
+coordinates: [[Ebersdorf-Neurode]]
+markerFile: [[Ebersdorf-Neurode]]
+defaultZoom: 11 
+maxZoom: 18
+```

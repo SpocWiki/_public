@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Unter-Drauburg
+coordinates: [[Unter-Drauburg]]
+markerFile: [[Unter-Drauburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

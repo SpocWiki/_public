@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lobositz
+coordinates: [[Lobositz]]
+markerFile: [[Lobositz]]
+defaultZoom: 11 
+maxZoom: 18
+```

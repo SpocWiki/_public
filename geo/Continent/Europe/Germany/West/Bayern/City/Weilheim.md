@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.83,11.16]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weilheim
+coordinates: [[Weilheim]]
+markerFile: [[Weilheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

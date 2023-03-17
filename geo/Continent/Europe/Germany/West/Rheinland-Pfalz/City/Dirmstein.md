@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dirmstein
+coordinates: [[Dirmstein]]
+markerFile: [[Dirmstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

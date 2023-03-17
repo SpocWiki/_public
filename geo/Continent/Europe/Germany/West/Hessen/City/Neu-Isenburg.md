@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.07,8.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neu-Isenburg
+coordinates: [[Neu-Isenburg]]
+markerFile: [[Neu-Isenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

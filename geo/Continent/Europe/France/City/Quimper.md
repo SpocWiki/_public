@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quimper
+coordinates: [[Quimper]]
+markerFile: [[Quimper]]
+defaultZoom: 11 
+maxZoom: 18
+```

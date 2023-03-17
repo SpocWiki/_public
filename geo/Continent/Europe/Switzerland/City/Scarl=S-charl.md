@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scarl=S-charl
+coordinates: [[Scarl=S-charl]]
+markerFile: [[Scarl=S-charl]]
+defaultZoom: 11 
+maxZoom: 18
+```

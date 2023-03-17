@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teplitz-Schoenau=Teplice
+coordinates: [[Teplitz-Schoenau=Teplice]]
+markerFile: [[Teplitz-Schoenau=Teplice]]
+defaultZoom: 11 
+maxZoom: 18
+```

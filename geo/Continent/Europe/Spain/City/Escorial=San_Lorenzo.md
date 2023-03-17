@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Escorial=San Lorenzo
+coordinates: [[Escorial=San Lorenzo]]
+markerFile: [[Escorial=San Lorenzo]]
+defaultZoom: 11 
+maxZoom: 18
+```

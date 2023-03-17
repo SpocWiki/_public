@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altenburg
+coordinates: [[Altenburg]]
+markerFile: [[Altenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

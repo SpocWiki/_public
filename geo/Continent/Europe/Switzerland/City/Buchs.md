@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buchs
+coordinates: [[Buchs]]
+markerFile: [[Buchs]]
+defaultZoom: 11 
+maxZoom: 18
+```

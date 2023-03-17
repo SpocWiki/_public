@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pisa
+coordinates: [[Pisa]]
+markerFile: [[Pisa]]
+defaultZoom: 11 
+maxZoom: 18
+```

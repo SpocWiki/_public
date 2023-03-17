@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teufenbach
+coordinates: [[Teufenbach]]
+markerFile: [[Teufenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

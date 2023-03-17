@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenau~Sachsen
+coordinates: [[Langenau~Sachsen]]
+markerFile: [[Langenau~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fischau Bad
+coordinates: [[Fischau Bad]]
+markerFile: [[Fischau Bad]]
+defaultZoom: 11 
+maxZoom: 18
+```

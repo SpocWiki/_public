@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rixdorf
+coordinates: [[Rixdorf]]
+markerFile: [[Rixdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harrow
+coordinates: [[Harrow]]
+markerFile: [[Harrow]]
+defaultZoom: 11 
+maxZoom: 18
+```

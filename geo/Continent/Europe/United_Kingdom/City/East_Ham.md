@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: East Ham
+coordinates: [[East Ham]]
+markerFile: [[East Ham]]
+defaultZoom: 11 
+maxZoom: 18
+```

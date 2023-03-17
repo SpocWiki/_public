@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pillkallen
+coordinates: [[Pillkallen]]
+markerFile: [[Pillkallen]]
+defaultZoom: 11 
+maxZoom: 18
+```

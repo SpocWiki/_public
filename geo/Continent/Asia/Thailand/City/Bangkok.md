@@ -1,4 +1,4 @@
----
+﻿---
 location: [13.73,100.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bangkok
+coordinates: [[Bangkok]]
+markerFile: [[Bangkok]]
+defaultZoom: 11 
+maxZoom: 18
+```

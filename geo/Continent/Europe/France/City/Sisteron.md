@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sisteron
+coordinates: [[Sisteron]]
+markerFile: [[Sisteron]]
+defaultZoom: 11 
+maxZoom: 18
+```

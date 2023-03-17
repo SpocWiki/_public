@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harrisburg
+coordinates: [[Harrisburg]]
+markerFile: [[Harrisburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

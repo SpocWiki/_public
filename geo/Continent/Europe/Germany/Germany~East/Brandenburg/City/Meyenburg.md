@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meyenburg
+coordinates: [[Meyenburg]]
+markerFile: [[Meyenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

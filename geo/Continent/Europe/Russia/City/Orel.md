@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.95,36.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orel
+coordinates: [[Orel]]
+markerFile: [[Orel]]
+defaultZoom: 11 
+maxZoom: 18
+```

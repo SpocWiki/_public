@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Portglenone
+coordinates: [[Portglenone]]
+markerFile: [[Portglenone]]
+defaultZoom: 11 
+maxZoom: 18
+```

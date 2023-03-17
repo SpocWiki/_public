@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heinitz
+coordinates: [[Heinitz]]
+markerFile: [[Heinitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

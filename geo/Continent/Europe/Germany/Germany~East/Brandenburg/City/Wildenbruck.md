@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.03,14.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wildenbruck
+coordinates: [[Wildenbruck]]
+markerFile: [[Wildenbruck]]
+defaultZoom: 11 
+maxZoom: 18
+```

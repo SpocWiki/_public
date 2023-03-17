@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dreihausen~Essen
+coordinates: [[Dreihausen~Essen]]
+markerFile: [[Dreihausen~Essen]]
+defaultZoom: 11 
+maxZoom: 18
+```

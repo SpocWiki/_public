@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ludza
+coordinates: [[Ludza]]
+markerFile: [[Ludza]]
+defaultZoom: 11 
+maxZoom: 18
+```

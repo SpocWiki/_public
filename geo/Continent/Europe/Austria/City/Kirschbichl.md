@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirschbichl
+coordinates: [[Kirschbichl]]
+markerFile: [[Kirschbichl]]
+defaultZoom: 11 
+maxZoom: 18
+```

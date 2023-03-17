@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwindegg
+coordinates: [[Schwindegg]]
+markerFile: [[Schwindegg]]
+defaultZoom: 11 
+maxZoom: 18
+```

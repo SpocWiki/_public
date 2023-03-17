@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.62,9.92]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Milseburg
+coordinates: [[Milseburg]]
+markerFile: [[Milseburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

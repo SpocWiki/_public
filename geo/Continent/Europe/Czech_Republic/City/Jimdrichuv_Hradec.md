@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jimdrichuv Hradec
+coordinates: [[Jimdrichuv Hradec]]
+markerFile: [[Jimdrichuv Hradec]]
+defaultZoom: 11 
+maxZoom: 18
+```

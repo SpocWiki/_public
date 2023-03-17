@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Fleur
+coordinates: [[St.Fleur]]
+markerFile: [[St.Fleur]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Long Island
+coordinates: [[Long Island]]
+markerFile: [[Long Island]]
+defaultZoom: 11 
+maxZoom: 18
+```

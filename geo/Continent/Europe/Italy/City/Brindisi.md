@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brindisi
+coordinates: [[Brindisi]]
+markerFile: [[Brindisi]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Traben-Trarbach
+coordinates: [[Traben-Trarbach]]
+markerFile: [[Traben-Trarbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

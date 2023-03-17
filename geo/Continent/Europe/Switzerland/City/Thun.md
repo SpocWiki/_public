@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thun
+coordinates: [[Thun]]
+markerFile: [[Thun]]
+defaultZoom: 11 
+maxZoom: 18
+```

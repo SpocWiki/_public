@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ekersund
+coordinates: [[Ekersund]]
+markerFile: [[Ekersund]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Novara
+coordinates: [[Novara]]
+markerFile: [[Novara]]
+defaultZoom: 11 
+maxZoom: 18
+```

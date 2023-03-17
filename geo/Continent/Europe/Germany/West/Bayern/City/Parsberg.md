@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Parsberg
+coordinates: [[Parsberg]]
+markerFile: [[Parsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

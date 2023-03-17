@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bublitz
+coordinates: [[Bublitz]]
+markerFile: [[Bublitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.38,15.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mautern~Niederoesterreich
+coordinates: [[Mautern~Niederoesterreich]]
+markerFile: [[Mautern~Niederoesterreich]]
+defaultZoom: 11 
+maxZoom: 18
+```

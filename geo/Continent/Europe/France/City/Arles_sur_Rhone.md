@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arles sur Rhone
+coordinates: [[Arles sur Rhone]]
+markerFile: [[Arles sur Rhone]]
+defaultZoom: 11 
+maxZoom: 18
+```

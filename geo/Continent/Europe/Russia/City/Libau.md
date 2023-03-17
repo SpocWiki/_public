@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Libau
+coordinates: [[Libau]]
+markerFile: [[Libau]]
+defaultZoom: 11 
+maxZoom: 18
+```

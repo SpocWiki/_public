@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Znaim=Znojmo
+coordinates: [[Znaim=Znojmo]]
+markerFile: [[Znaim=Znojmo]]
+defaultZoom: 11 
+maxZoom: 18
+```

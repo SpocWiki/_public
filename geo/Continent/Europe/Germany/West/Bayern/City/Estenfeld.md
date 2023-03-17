@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Estenfeld
+coordinates: [[Estenfeld]]
+markerFile: [[Estenfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

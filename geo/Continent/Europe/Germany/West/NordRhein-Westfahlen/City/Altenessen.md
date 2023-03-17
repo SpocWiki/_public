@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altenessen
+coordinates: [[Altenessen]]
+markerFile: [[Altenessen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Joehstadt
+coordinates: [[Joehstadt]]
+markerFile: [[Joehstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

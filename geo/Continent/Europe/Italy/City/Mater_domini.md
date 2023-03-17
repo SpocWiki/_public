@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mater domini
+coordinates: [[Mater domini]]
+markerFile: [[Mater domini]]
+defaultZoom: 11 
+maxZoom: 18
+```

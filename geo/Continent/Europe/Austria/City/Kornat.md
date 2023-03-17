@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kornat
+coordinates: [[Kornat]]
+markerFile: [[Kornat]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pr.-Uedem
+coordinates: [[Pr.-Uedem]]
+markerFile: [[Pr.-Uedem]]
+defaultZoom: 11 
+maxZoom: 18
+```

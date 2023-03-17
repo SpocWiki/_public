@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sliven
+coordinates: [[Sliven]]
+markerFile: [[Sliven]]
+defaultZoom: 11 
+maxZoom: 18
+```

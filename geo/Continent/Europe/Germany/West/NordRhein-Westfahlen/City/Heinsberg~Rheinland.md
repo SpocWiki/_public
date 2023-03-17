@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heinsberg~Rheinland
+coordinates: [[Heinsberg~Rheinland]]
+markerFile: [[Heinsberg~Rheinland]]
+defaultZoom: 11 
+maxZoom: 18
+```

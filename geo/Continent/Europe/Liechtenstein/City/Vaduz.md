@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.13,9.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaduz
+coordinates: [[Vaduz]]
+markerFile: [[Vaduz]]
+defaultZoom: 11 
+maxZoom: 18
+```

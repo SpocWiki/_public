@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barnstorf
+coordinates: [[Barnstorf]]
+markerFile: [[Barnstorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

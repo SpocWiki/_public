@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wilburgstetten
+coordinates: [[Wilburgstetten]]
+markerFile: [[Wilburgstetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

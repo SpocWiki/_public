@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vergorac
+coordinates: [[Vergorac]]
+markerFile: [[Vergorac]]
+defaultZoom: 11 
+maxZoom: 18
+```

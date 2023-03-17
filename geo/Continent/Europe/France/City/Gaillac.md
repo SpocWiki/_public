@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gaillac
+coordinates: [[Gaillac]]
+markerFile: [[Gaillac]]
+defaultZoom: 11 
+maxZoom: 18
+```

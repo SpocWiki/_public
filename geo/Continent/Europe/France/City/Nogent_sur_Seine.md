@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nogent sur Seine
+coordinates: [[Nogent sur Seine]]
+markerFile: [[Nogent sur Seine]]
+defaultZoom: 11 
+maxZoom: 18
+```

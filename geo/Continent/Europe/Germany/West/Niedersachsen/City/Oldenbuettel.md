@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oldenbuettel
+coordinates: [[Oldenbuettel]]
+markerFile: [[Oldenbuettel]]
+defaultZoom: 11 
+maxZoom: 18
+```

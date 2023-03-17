@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bleesern
+coordinates: [[Bleesern]]
+markerFile: [[Bleesern]]
+defaultZoom: 11 
+maxZoom: 18
+```

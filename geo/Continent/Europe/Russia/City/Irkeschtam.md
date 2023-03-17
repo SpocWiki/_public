@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Irkeschtam
+coordinates: [[Irkeschtam]]
+markerFile: [[Irkeschtam]]
+defaultZoom: 11 
+maxZoom: 18
+```

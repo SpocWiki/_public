@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trento=Trient
+coordinates: [[Trento=Trient]]
+markerFile: [[Trento=Trient]]
+defaultZoom: 11 
+maxZoom: 18
+```

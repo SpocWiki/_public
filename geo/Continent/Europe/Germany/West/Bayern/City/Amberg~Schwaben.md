@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amberg~Schwaben
+coordinates: [[Amberg~Schwaben]]
+markerFile: [[Amberg~Schwaben]]
+defaultZoom: 11 
+maxZoom: 18
+```

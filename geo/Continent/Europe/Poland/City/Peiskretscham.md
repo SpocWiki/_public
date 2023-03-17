@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peiskretscham
+coordinates: [[Peiskretscham]]
+markerFile: [[Peiskretscham]]
+defaultZoom: 11 
+maxZoom: 18
+```

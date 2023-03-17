@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greifenberg~Pommern
+coordinates: [[Greifenberg~Pommern]]
+markerFile: [[Greifenberg~Pommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

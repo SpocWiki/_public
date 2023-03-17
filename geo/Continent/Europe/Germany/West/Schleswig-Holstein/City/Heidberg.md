@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heidberg
+coordinates: [[Heidberg]]
+markerFile: [[Heidberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

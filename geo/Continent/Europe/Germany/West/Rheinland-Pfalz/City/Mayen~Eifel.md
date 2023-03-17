@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mayen~Eifel
+coordinates: [[Mayen~Eifel]]
+markerFile: [[Mayen~Eifel]]
+defaultZoom: 11 
+maxZoom: 18
+```

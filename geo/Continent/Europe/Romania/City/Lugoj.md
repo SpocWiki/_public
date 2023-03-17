@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lugoj
+coordinates: [[Lugoj]]
+markerFile: [[Lugoj]]
+defaultZoom: 11 
+maxZoom: 18
+```

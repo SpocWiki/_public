@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Selkirk
+coordinates: [[Selkirk]]
+markerFile: [[Selkirk]]
+defaultZoom: 11 
+maxZoom: 18
+```

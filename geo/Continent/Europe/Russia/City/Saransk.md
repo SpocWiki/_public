@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saransk
+coordinates: [[Saransk]]
+markerFile: [[Saransk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taronwitz
+coordinates: [[Taronwitz]]
+markerFile: [[Taronwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

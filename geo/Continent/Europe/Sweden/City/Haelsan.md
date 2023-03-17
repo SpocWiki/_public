@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haelsan
+coordinates: [[Haelsan]]
+markerFile: [[Haelsan]]
+defaultZoom: 11 
+maxZoom: 18
+```

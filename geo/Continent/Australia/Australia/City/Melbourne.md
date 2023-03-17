@@ -1,4 +1,4 @@
----
+﻿---
 location: [-37.83,144.97]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Melbourne
+coordinates: [[Melbourne]]
+markerFile: [[Melbourne]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valki
+coordinates: [[Valki]]
+markerFile: [[Valki]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Labes
+coordinates: [[Labes]]
+markerFile: [[Labes]]
+defaultZoom: 11 
+maxZoom: 18
+```

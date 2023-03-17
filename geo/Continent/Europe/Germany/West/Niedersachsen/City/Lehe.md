@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lehe
+coordinates: [[Lehe]]
+markerFile: [[Lehe]]
+defaultZoom: 11 
+maxZoom: 18
+```

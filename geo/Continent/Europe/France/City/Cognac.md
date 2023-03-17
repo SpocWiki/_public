@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cognac
+coordinates: [[Cognac]]
+markerFile: [[Cognac]]
+defaultZoom: 11 
+maxZoom: 18
+```

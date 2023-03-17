@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sjoetorp
+coordinates: [[Sjoetorp]]
+markerFile: [[Sjoetorp]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Portsmouth
+coordinates: [[Portsmouth]]
+markerFile: [[Portsmouth]]
+defaultZoom: 11 
+maxZoom: 18
+```

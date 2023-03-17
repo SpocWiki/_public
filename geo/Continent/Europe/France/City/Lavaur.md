@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lavaur
+coordinates: [[Lavaur]]
+markerFile: [[Lavaur]]
+defaultZoom: 11 
+maxZoom: 18
+```

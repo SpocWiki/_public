@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: New York
+coordinates: [[New York]]
+markerFile: [[New York]]
+defaultZoom: 11 
+maxZoom: 18
+```

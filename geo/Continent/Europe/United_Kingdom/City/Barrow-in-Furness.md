@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barrow-in-Furness
+coordinates: [[Barrow-in-Furness]]
+markerFile: [[Barrow-in-Furness]]
+defaultZoom: 11 
+maxZoom: 18
+```

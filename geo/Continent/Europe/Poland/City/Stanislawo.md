@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stanislawo
+coordinates: [[Stanislawo]]
+markerFile: [[Stanislawo]]
+defaultZoom: 11 
+maxZoom: 18
+```

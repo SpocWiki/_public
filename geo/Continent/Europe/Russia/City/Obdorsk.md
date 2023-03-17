@@ -1,4 +1,4 @@
----
+﻿---
 location: [66.52,66.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Obdorsk
+coordinates: [[Obdorsk]]
+markerFile: [[Obdorsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yambol
+coordinates: [[Yambol]]
+markerFile: [[Yambol]]
+defaultZoom: 11 
+maxZoom: 18
+```

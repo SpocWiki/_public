@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lizzano
+coordinates: [[Lizzano]]
+markerFile: [[Lizzano]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Niemberg
+coordinates: [[Niemberg]]
+markerFile: [[Niemberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

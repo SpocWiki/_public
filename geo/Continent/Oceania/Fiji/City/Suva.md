@@ -1,4 +1,4 @@
----
+﻿---
 location: [-18.16667,178.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Suva
+coordinates: [[Suva]]
+markerFile: [[Suva]]
+defaultZoom: 11 
+maxZoom: 18
+```

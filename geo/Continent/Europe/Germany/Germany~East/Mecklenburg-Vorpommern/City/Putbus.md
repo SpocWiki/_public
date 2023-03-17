@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Putbus
+coordinates: [[Putbus]]
+markerFile: [[Putbus]]
+defaultZoom: 11 
+maxZoom: 18
+```

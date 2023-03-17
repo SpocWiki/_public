@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mons
+coordinates: [[Mons]]
+markerFile: [[Mons]]
+defaultZoom: 11 
+maxZoom: 18
+```

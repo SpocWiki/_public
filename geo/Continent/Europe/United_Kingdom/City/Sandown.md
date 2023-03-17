@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandown
+coordinates: [[Sandown]]
+markerFile: [[Sandown]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.73,1.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neufchátel
+coordinates: [[Neufchátel]]
+markerFile: [[Neufchátel]]
+defaultZoom: 11 
+maxZoom: 18
+```

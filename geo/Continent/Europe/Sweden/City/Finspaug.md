@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Finspaug
+coordinates: [[Finspaug]]
+markerFile: [[Finspaug]]
+defaultZoom: 11 
+maxZoom: 18
+```

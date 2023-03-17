@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trendelburg
+coordinates: [[Trendelburg]]
+markerFile: [[Trendelburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dohma
+coordinates: [[Dohma]]
+markerFile: [[Dohma]]
+defaultZoom: 11 
+maxZoom: 18
+```

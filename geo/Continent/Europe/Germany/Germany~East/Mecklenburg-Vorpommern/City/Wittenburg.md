@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wittenburg
+coordinates: [[Wittenburg]]
+markerFile: [[Wittenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

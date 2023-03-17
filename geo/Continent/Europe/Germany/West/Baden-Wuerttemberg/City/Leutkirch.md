@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leutkirch
+coordinates: [[Leutkirch]]
+markerFile: [[Leutkirch]]
+defaultZoom: 11 
+maxZoom: 18
+```

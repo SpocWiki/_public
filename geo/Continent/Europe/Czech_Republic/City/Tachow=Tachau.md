@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tachow=Tachau
+coordinates: [[Tachow=Tachau]]
+markerFile: [[Tachow=Tachau]]
+defaultZoom: 11 
+maxZoom: 18
+```

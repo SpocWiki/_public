@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muemling-Grumbach
+coordinates: [[Muemling-Grumbach]]
+markerFile: [[Muemling-Grumbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

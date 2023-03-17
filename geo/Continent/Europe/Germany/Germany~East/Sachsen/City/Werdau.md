@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.73,12.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werdau
+coordinates: [[Werdau]]
+markerFile: [[Werdau]]
+defaultZoom: 11 
+maxZoom: 18
+```

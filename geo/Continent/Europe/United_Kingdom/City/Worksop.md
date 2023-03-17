@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Worksop
+coordinates: [[Worksop]]
+markerFile: [[Worksop]]
+defaultZoom: 11 
+maxZoom: 18
+```

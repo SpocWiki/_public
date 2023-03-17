@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rautavaara
+coordinates: [[Rautavaara]]
+markerFile: [[Rautavaara]]
+defaultZoom: 11 
+maxZoom: 18
+```

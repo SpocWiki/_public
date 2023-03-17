@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hove
+coordinates: [[Hove]]
+markerFile: [[Hove]]
+defaultZoom: 11 
+maxZoom: 18
+```

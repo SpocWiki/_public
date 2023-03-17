@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guels
+coordinates: [[Guels]]
+markerFile: [[Guels]]
+defaultZoom: 11 
+maxZoom: 18
+```

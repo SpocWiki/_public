@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soligalitsch
+coordinates: [[Soligalitsch]]
+markerFile: [[Soligalitsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

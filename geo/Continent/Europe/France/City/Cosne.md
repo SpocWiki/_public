@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cosne
+coordinates: [[Cosne]]
+markerFile: [[Cosne]]
+defaultZoom: 11 
+maxZoom: 18
+```

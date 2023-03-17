@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Almelo
+coordinates: [[Almelo]]
+markerFile: [[Almelo]]
+defaultZoom: 11 
+maxZoom: 18
+```

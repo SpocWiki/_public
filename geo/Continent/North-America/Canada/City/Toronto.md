@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Toronto
+coordinates: [[Toronto]]
+markerFile: [[Toronto]]
+defaultZoom: 11 
+maxZoom: 18
+```

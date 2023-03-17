@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Porchester
+coordinates: [[Porchester]]
+markerFile: [[Porchester]]
+defaultZoom: 11 
+maxZoom: 18
+```

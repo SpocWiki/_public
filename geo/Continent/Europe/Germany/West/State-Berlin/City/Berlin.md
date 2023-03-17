@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berlin
+coordinates: [[Berlin]]
+markerFile: [[Berlin]]
+defaultZoom: 11 
+maxZoom: 18
+```

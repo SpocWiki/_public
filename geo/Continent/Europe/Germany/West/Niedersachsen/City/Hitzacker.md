@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hitzacker
+coordinates: [[Hitzacker]]
+markerFile: [[Hitzacker]]
+defaultZoom: 11 
+maxZoom: 18
+```

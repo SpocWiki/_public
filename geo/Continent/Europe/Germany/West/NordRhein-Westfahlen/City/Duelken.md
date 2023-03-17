@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duelken
+coordinates: [[Duelken]]
+markerFile: [[Duelken]]
+defaultZoom: 11 
+maxZoom: 18
+```

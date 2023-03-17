@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gex
+coordinates: [[Gex]]
+markerFile: [[Gex]]
+defaultZoom: 11 
+maxZoom: 18
+```

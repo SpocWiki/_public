@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Courtrai
+coordinates: [[Courtrai]]
+markerFile: [[Courtrai]]
+defaultZoom: 11 
+maxZoom: 18
+```

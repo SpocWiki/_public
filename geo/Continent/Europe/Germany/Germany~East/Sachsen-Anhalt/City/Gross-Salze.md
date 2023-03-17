@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gross-Salze
+coordinates: [[Gross-Salze]]
+markerFile: [[Gross-Salze]]
+defaultZoom: 11 
+maxZoom: 18
+```

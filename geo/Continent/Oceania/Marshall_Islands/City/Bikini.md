@@ -1,4 +1,4 @@
----
+﻿---
 location: [11.58,165.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bikini
+coordinates: [[Bikini]]
+markerFile: [[Bikini]]
+defaultZoom: 11 
+maxZoom: 18
+```

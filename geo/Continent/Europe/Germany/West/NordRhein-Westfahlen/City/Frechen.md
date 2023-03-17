@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frechen
+coordinates: [[Frechen]]
+markerFile: [[Frechen]]
+defaultZoom: 11 
+maxZoom: 18
+```

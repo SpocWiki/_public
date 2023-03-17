@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meersburg
+coordinates: [[Meersburg]]
+markerFile: [[Meersburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

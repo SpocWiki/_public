@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dreileben
+coordinates: [[Dreileben]]
+markerFile: [[Dreileben]]
+defaultZoom: 11 
+maxZoom: 18
+```

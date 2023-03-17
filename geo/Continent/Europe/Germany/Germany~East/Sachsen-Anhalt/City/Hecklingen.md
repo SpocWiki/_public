@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hecklingen
+coordinates: [[Hecklingen]]
+markerFile: [[Hecklingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

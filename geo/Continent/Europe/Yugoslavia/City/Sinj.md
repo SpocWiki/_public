@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sinj
+coordinates: [[Sinj]]
+markerFile: [[Sinj]]
+defaultZoom: 11 
+maxZoom: 18
+```

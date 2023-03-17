@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Voeslau
+coordinates: [[Voeslau]]
+markerFile: [[Voeslau]]
+defaultZoom: 11 
+maxZoom: 18
+```

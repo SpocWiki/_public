@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weigmannsdorf
+coordinates: [[Weigmannsdorf]]
+markerFile: [[Weigmannsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

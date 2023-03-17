@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kingston-upon-Thames
+coordinates: [[Kingston-upon-Thames]]
+markerFile: [[Kingston-upon-Thames]]
+defaultZoom: 11 
+maxZoom: 18
+```

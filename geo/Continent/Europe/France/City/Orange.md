@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orange
+coordinates: [[Orange]]
+markerFile: [[Orange]]
+defaultZoom: 11 
+maxZoom: 18
+```

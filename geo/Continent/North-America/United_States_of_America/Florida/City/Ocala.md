@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ocala
+coordinates: [[Ocala]]
+markerFile: [[Ocala]]
+defaultZoom: 11 
+maxZoom: 18
+```

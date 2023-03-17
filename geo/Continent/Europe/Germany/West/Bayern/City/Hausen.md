@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hausen
+coordinates: [[Hausen]]
+markerFile: [[Hausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

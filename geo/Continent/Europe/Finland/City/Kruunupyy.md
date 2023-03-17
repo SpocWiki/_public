@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kruunupyy
+coordinates: [[Kruunupyy]]
+markerFile: [[Kruunupyy]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Graditz
+coordinates: [[Graditz]]
+markerFile: [[Graditz]]
+defaultZoom: 11 
+maxZoom: 18
+```

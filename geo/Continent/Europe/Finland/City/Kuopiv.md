@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuopiv
+coordinates: [[Kuopiv]]
+markerFile: [[Kuopiv]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hogland
+coordinates: [[Hogland]]
+markerFile: [[Hogland]]
+defaultZoom: 11 
+maxZoom: 18
+```

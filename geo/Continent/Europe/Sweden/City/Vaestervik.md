@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaestervik
+coordinates: [[Vaestervik]]
+markerFile: [[Vaestervik]]
+defaultZoom: 11 
+maxZoom: 18
+```

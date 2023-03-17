@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nauen
+coordinates: [[Nauen]]
+markerFile: [[Nauen]]
+defaultZoom: 11 
+maxZoom: 18
+```

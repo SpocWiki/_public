@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Simbach
+coordinates: [[Simbach]]
+markerFile: [[Simbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

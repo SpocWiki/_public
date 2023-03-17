@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Svitavy
+coordinates: [[Svitavy]]
+markerFile: [[Svitavy]]
+defaultZoom: 11 
+maxZoom: 18
+```

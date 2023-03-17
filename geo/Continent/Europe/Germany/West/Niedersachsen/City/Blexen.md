@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blexen
+coordinates: [[Blexen]]
+markerFile: [[Blexen]]
+defaultZoom: 11 
+maxZoom: 18
+```

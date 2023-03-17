@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lottin
+coordinates: [[Lottin]]
+markerFile: [[Lottin]]
+defaultZoom: 11 
+maxZoom: 18
+```

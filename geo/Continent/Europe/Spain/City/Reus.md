@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reus
+coordinates: [[Reus]]
+markerFile: [[Reus]]
+defaultZoom: 11 
+maxZoom: 18
+```

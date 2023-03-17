@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gambatesa
+coordinates: [[Gambatesa]]
+markerFile: [[Gambatesa]]
+defaultZoom: 11 
+maxZoom: 18
+```

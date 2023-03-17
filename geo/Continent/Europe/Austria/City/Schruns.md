@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schruns
+coordinates: [[Schruns]]
+markerFile: [[Schruns]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lindholm
+coordinates: [[Lindholm]]
+markerFile: [[Lindholm]]
+defaultZoom: 11 
+maxZoom: 18
+```

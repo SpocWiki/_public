@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burg
+coordinates: [[Burg]]
+markerFile: [[Burg]]
+defaultZoom: 11 
+maxZoom: 18
+```

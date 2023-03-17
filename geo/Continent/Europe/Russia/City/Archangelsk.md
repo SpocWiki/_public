@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Archangelsk
+coordinates: [[Archangelsk]]
+markerFile: [[Archangelsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

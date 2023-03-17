@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruchkoebel
+coordinates: [[Bruchkoebel]]
+markerFile: [[Bruchkoebel]]
+defaultZoom: 11 
+maxZoom: 18
+```

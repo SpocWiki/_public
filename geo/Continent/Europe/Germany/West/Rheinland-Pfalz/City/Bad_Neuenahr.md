@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Neuenahr
+coordinates: [[Bad Neuenahr]]
+markerFile: [[Bad Neuenahr]]
+defaultZoom: 11 
+maxZoom: 18
+```

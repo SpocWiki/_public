@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hof
+coordinates: [[Hof]]
+markerFile: [[Hof]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weingarten~Wuerttemberg
+coordinates: [[Weingarten~Wuerttemberg]]
+markerFile: [[Weingarten~Wuerttemberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

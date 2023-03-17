@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zienkow
+coordinates: [[Zienkow]]
+markerFile: [[Zienkow]]
+defaultZoom: 11 
+maxZoom: 18
+```

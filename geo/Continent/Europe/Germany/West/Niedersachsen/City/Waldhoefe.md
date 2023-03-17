@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldhoefe
+coordinates: [[Waldhoefe]]
+markerFile: [[Waldhoefe]]
+defaultZoom: 11 
+maxZoom: 18
+```

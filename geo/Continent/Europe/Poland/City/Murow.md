@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Murow
+coordinates: [[Murow]]
+markerFile: [[Murow]]
+defaultZoom: 11 
+maxZoom: 18
+```

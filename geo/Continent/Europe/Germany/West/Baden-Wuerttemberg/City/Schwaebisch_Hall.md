@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwaebisch Hall
+coordinates: [[Schwaebisch Hall]]
+markerFile: [[Schwaebisch Hall]]
+defaultZoom: 11 
+maxZoom: 18
+```

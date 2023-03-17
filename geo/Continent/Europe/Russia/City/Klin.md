@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klin
+coordinates: [[Klin]]
+markerFile: [[Klin]]
+defaultZoom: 11 
+maxZoom: 18
+```

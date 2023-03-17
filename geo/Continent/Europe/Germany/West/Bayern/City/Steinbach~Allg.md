@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steinbach~Allg
+coordinates: [[Steinbach~Allg]]
+markerFile: [[Steinbach~Allg]]
+defaultZoom: 11 
+maxZoom: 18
+```

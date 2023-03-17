@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.87,17.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mosonmagyrovar
+coordinates: [[Mosonmagyrovar]]
+markerFile: [[Mosonmagyrovar]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tennstedt
+coordinates: [[Tennstedt]]
+markerFile: [[Tennstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

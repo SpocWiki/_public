@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wildungen
+coordinates: [[Wildungen]]
+markerFile: [[Wildungen]]
+defaultZoom: 11 
+maxZoom: 18
+```

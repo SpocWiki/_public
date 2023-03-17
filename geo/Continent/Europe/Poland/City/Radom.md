@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radom
+coordinates: [[Radom]]
+markerFile: [[Radom]]
+defaultZoom: 11 
+maxZoom: 18
+```

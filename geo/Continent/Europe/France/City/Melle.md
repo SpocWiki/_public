@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Melle
+coordinates: [[Melle]]
+markerFile: [[Melle]]
+defaultZoom: 11 
+maxZoom: 18
+```

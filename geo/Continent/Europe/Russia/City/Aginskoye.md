@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aginskoye
+coordinates: [[Aginskoye]]
+markerFile: [[Aginskoye]]
+defaultZoom: 11 
+maxZoom: 18
+```

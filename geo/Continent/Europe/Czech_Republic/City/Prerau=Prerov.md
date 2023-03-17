@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.45,17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prerau=Prerov
+coordinates: [[Prerau=Prerov]]
+markerFile: [[Prerau=Prerov]]
+defaultZoom: 11 
+maxZoom: 18
+```

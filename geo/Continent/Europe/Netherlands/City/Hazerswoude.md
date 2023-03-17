@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hazerswoude
+coordinates: [[Hazerswoude]]
+markerFile: [[Hazerswoude]]
+defaultZoom: 11 
+maxZoom: 18
+```

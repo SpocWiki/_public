@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.85,8.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuenburg bei Pforzheim
+coordinates: [[Neuenburg bei Pforzheim]]
+markerFile: [[Neuenburg bei Pforzheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

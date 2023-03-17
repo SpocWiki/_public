@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Valery-en-Caux
+coordinates: [[St.Valery-en-Caux]]
+markerFile: [[St.Valery-en-Caux]]
+defaultZoom: 11 
+maxZoom: 18
+```

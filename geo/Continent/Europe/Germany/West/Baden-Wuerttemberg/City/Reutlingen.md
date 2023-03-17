@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reutlingen
+coordinates: [[Reutlingen]]
+markerFile: [[Reutlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

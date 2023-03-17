@@ -1,4 +1,4 @@
-﻿---
+---
 location: [4.890283,114.9422]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Bandar Seri Begawan
+coordinates: [[Bandar Seri Begawan]]
+markerFile: [[Bandar Seri Begawan]]
+defaultZoom: 11 
+maxZoom: 18
+```

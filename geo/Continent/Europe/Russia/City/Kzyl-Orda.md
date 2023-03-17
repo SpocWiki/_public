@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kzyl-Orda
+coordinates: [[Kzyl-Orda]]
+markerFile: [[Kzyl-Orda]]
+defaultZoom: 11 
+maxZoom: 18
+```

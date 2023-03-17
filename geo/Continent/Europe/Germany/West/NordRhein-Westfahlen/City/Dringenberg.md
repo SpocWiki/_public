@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dringenberg
+coordinates: [[Dringenberg]]
+markerFile: [[Dringenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

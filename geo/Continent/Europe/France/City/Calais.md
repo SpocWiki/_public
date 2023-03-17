@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.96,1.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Calais
+coordinates: [[Calais]]
+markerFile: [[Calais]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neutitschein
+coordinates: [[Neutitschein]]
+markerFile: [[Neutitschein]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.95,22.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mateszalka
+coordinates: [[Mateszalka]]
+markerFile: [[Mateszalka]]
+defaultZoom: 11 
+maxZoom: 18
+```

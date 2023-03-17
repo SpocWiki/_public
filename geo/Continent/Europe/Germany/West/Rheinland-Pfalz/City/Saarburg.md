@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.62,6.55]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saarburg
+coordinates: [[Saarburg]]
+markerFile: [[Saarburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

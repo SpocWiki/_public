@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lasswalde
+coordinates: [[Lasswalde]]
+markerFile: [[Lasswalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

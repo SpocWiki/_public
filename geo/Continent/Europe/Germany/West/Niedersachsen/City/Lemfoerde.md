@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lemfoerde
+coordinates: [[Lemfoerde]]
+markerFile: [[Lemfoerde]]
+defaultZoom: 11 
+maxZoom: 18
+```

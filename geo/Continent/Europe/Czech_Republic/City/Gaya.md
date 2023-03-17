@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gaya
+coordinates: [[Gaya]]
+markerFile: [[Gaya]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gefell
+coordinates: [[Gefell]]
+markerFile: [[Gefell]]
+defaultZoom: 11 
+maxZoom: 18
+```

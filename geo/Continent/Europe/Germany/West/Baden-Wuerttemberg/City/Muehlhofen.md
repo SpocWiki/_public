@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muehlhofen
+coordinates: [[Muehlhofen]]
+markerFile: [[Muehlhofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

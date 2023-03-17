@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jablonec
+coordinates: [[Jablonec]]
+markerFile: [[Jablonec]]
+defaultZoom: 11 
+maxZoom: 18
+```

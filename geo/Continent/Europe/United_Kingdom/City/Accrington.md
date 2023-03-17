@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Accrington
+coordinates: [[Accrington]]
+markerFile: [[Accrington]]
+defaultZoom: 11 
+maxZoom: 18
+```

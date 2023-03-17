@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mohilef
+coordinates: [[Mohilef]]
+markerFile: [[Mohilef]]
+defaultZoom: 11 
+maxZoom: 18
+```

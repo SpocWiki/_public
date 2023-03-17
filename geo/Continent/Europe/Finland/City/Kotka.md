@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kotka
+coordinates: [[Kotka]]
+markerFile: [[Kotka]]
+defaultZoom: 11 
+maxZoom: 18
+```

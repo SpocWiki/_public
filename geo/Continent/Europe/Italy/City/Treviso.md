@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Treviso
+coordinates: [[Treviso]]
+markerFile: [[Treviso]]
+defaultZoom: 11 
+maxZoom: 18
+```

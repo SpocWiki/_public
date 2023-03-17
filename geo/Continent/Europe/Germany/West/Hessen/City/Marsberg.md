@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.47,8.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marsberg
+coordinates: [[Marsberg]]
+markerFile: [[Marsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

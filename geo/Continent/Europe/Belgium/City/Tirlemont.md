@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tirlemont
+coordinates: [[Tirlemont]]
+markerFile: [[Tirlemont]]
+defaultZoom: 11 
+maxZoom: 18
+```

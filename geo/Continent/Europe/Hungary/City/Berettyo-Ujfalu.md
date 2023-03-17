@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berettyo-Ujfalu
+coordinates: [[Berettyo-Ujfalu]]
+markerFile: [[Berettyo-Ujfalu]]
+defaultZoom: 11 
+maxZoom: 18
+```

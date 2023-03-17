@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Douglas
+coordinates: [[Douglas]]
+markerFile: [[Douglas]]
+defaultZoom: 11 
+maxZoom: 18
+```

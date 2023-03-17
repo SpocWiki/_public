@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borssum
+coordinates: [[Borssum]]
+markerFile: [[Borssum]]
+defaultZoom: 11 
+maxZoom: 18
+```

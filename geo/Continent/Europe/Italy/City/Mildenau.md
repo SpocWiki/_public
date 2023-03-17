@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mildenau
+coordinates: [[Mildenau]]
+markerFile: [[Mildenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

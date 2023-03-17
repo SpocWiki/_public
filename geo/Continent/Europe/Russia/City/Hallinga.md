@@ -1,4 +1,4 @@
-﻿---
+---
 location: [58.62,24.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hallinga
+coordinates: [[Hallinga]]
+markerFile: [[Hallinga]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zwischenalm
+coordinates: [[Zwischenalm]]
+markerFile: [[Zwischenalm]]
+defaultZoom: 11 
+maxZoom: 18
+```

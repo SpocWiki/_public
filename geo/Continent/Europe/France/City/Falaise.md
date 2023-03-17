@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.9,-0.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falaise
+coordinates: [[Falaise]]
+markerFile: [[Falaise]]
+defaultZoom: 11 
+maxZoom: 18
+```

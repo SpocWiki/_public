@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kolkwitz
+coordinates: [[Kolkwitz]]
+markerFile: [[Kolkwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

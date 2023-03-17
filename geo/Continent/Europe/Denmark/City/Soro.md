@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soro
+coordinates: [[Soro]]
+markerFile: [[Soro]]
+defaultZoom: 11 
+maxZoom: 18
+```

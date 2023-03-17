@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Birmingham
+coordinates: [[Birmingham]]
+markerFile: [[Birmingham]]
+defaultZoom: 11 
+maxZoom: 18
+```

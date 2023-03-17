@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.77,48.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lenkoran
+coordinates: [[Lenkoran]]
+markerFile: [[Lenkoran]]
+defaultZoom: 11 
+maxZoom: 18
+```

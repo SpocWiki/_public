@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aldershof
+coordinates: [[Aldershof]]
+markerFile: [[Aldershof]]
+defaultZoom: 11 
+maxZoom: 18
+```

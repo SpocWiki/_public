@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Raahe
+coordinates: [[Raahe]]
+markerFile: [[Raahe]]
+defaultZoom: 11 
+maxZoom: 18
+```

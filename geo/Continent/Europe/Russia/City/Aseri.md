@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aseri
+coordinates: [[Aseri]]
+markerFile: [[Aseri]]
+defaultZoom: 11 
+maxZoom: 18
+```

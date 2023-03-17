@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sorrento
+coordinates: [[Sorrento]]
+markerFile: [[Sorrento]]
+defaultZoom: 11 
+maxZoom: 18
+```

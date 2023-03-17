@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.13,11.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: München
+coordinates: [[München]]
+markerFile: [[München]]
+defaultZoom: 11 
+maxZoom: 18
+```

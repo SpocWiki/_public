@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohnstein
+coordinates: [[Hohnstein]]
+markerFile: [[Hohnstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

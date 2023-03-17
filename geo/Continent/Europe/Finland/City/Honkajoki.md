@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Honkajoki
+coordinates: [[Honkajoki]]
+markerFile: [[Honkajoki]]
+defaultZoom: 11 
+maxZoom: 18
+```

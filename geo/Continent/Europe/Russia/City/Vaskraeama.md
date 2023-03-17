@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaskraeama
+coordinates: [[Vaskraeama]]
+markerFile: [[Vaskraeama]]
+defaultZoom: 11 
+maxZoom: 18
+```

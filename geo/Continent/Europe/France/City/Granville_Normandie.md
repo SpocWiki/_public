@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Granville/Normandie
+coordinates: [[Granville/Normandie]]
+markerFile: [[Granville/Normandie]]
+defaultZoom: 11 
+maxZoom: 18
+```

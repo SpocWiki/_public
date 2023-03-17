@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.28,7.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wuppertal-Barmen
+coordinates: [[Wuppertal-Barmen]]
+markerFile: [[Wuppertal-Barmen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Virrat~Kirk.
+coordinates: [[Virrat~Kirk.]]
+markerFile: [[Virrat~Kirk.]]
+defaultZoom: 11 
+maxZoom: 18
+```

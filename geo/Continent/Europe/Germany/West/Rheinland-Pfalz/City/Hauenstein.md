@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hauenstein
+coordinates: [[Hauenstein]]
+markerFile: [[Hauenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

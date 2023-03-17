@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teterow
+coordinates: [[Teterow]]
+markerFile: [[Teterow]]
+defaultZoom: 11 
+maxZoom: 18
+```

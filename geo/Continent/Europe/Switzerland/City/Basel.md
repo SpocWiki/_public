@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Basel
+coordinates: [[Basel]]
+markerFile: [[Basel]]
+defaultZoom: 11 
+maxZoom: 18
+```

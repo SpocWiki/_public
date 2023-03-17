@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Serpuchow
+coordinates: [[Serpuchow]]
+markerFile: [[Serpuchow]]
+defaultZoom: 11 
+maxZoom: 18
+```

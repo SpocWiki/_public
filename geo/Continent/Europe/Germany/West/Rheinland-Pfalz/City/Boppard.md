@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boppard
+coordinates: [[Boppard]]
+markerFile: [[Boppard]]
+defaultZoom: 11 
+maxZoom: 18
+```

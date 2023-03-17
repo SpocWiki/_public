@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigsbrueck
+coordinates: [[Koenigsbrueck]]
+markerFile: [[Koenigsbrueck]]
+defaultZoom: 11 
+maxZoom: 18
+```

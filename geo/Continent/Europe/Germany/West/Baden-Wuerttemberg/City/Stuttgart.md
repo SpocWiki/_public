@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stuttgart
+coordinates: [[Stuttgart]]
+markerFile: [[Stuttgart]]
+defaultZoom: 11 
+maxZoom: 18
+```

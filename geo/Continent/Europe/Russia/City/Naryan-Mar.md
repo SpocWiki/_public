@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Naryan-Mar
+coordinates: [[Naryan-Mar]]
+markerFile: [[Naryan-Mar]]
+defaultZoom: 11 
+maxZoom: 18
+```

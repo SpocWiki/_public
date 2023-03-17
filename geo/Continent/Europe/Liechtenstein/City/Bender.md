@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bender
+coordinates: [[Bender]]
+markerFile: [[Bender]]
+defaultZoom: 11 
+maxZoom: 18
+```

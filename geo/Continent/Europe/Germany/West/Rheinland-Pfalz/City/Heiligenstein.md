@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heiligenstein
+coordinates: [[Heiligenstein]]
+markerFile: [[Heiligenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

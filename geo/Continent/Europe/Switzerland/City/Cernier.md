@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cernier
+coordinates: [[Cernier]]
+markerFile: [[Cernier]]
+defaultZoom: 11 
+maxZoom: 18
+```

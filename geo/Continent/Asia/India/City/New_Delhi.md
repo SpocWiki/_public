@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: New Delhi
+coordinates: [[New Delhi]]
+markerFile: [[New Delhi]]
+defaultZoom: 11 
+maxZoom: 18
+```

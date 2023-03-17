@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Silistria
+coordinates: [[Silistria]]
+markerFile: [[Silistria]]
+defaultZoom: 11 
+maxZoom: 18
+```

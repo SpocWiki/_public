@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forst
+coordinates: [[Forst]]
+markerFile: [[Forst]]
+defaultZoom: 11 
+maxZoom: 18
+```

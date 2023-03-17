@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwandorf
+coordinates: [[Schwandorf]]
+markerFile: [[Schwandorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

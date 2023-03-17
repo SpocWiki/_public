@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ujpest
+coordinates: [[Ujpest]]
+markerFile: [[Ujpest]]
+defaultZoom: 11 
+maxZoom: 18
+```

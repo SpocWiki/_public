@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montdidier
+coordinates: [[Montdidier]]
+markerFile: [[Montdidier]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Khabarovka
+coordinates: [[Khabarovka]]
+markerFile: [[Khabarovka]]
+defaultZoom: 11 
+maxZoom: 18
+```

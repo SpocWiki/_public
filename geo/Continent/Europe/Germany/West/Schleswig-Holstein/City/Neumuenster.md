@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neumuenster
+coordinates: [[Neumuenster]]
+markerFile: [[Neumuenster]]
+defaultZoom: 11 
+maxZoom: 18
+```

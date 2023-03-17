@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heusden
+coordinates: [[Heusden]]
+markerFile: [[Heusden]]
+defaultZoom: 11 
+maxZoom: 18
+```

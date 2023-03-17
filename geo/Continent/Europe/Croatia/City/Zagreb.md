@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.8,15.97]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zagreb
+coordinates: [[Zagreb]]
+markerFile: [[Zagreb]]
+defaultZoom: 11 
+maxZoom: 18
+```

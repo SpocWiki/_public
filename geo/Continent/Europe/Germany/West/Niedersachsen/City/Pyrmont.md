@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pyrmont
+coordinates: [[Pyrmont]]
+markerFile: [[Pyrmont]]
+defaultZoom: 11 
+maxZoom: 18
+```

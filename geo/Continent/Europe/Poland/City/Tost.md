@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tost
+coordinates: [[Tost]]
+markerFile: [[Tost]]
+defaultZoom: 11 
+maxZoom: 18
+```

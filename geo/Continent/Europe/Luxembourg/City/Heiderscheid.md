@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heiderscheid
+coordinates: [[Heiderscheid]]
+markerFile: [[Heiderscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radweg
+coordinates: [[Radweg]]
+markerFile: [[Radweg]]
+defaultZoom: 11 
+maxZoom: 18
+```

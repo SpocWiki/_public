@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.65,7.62]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lauterecken
+coordinates: [[Lauterecken]]
+markerFile: [[Lauterecken]]
+defaultZoom: 11 
+maxZoom: 18
+```

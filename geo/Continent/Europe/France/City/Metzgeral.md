@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Metzgeral
+coordinates: [[Metzgeral]]
+markerFile: [[Metzgeral]]
+defaultZoom: 11 
+maxZoom: 18
+```

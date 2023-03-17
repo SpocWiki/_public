@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bleckendorf
+coordinates: [[Bleckendorf]]
+markerFile: [[Bleckendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

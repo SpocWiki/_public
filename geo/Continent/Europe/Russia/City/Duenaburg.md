@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duenaburg
+coordinates: [[Duenaburg]]
+markerFile: [[Duenaburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.73,8.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meiringen
+coordinates: [[Meiringen]]
+markerFile: [[Meiringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

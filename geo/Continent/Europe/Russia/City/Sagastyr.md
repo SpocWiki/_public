@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sagastyr
+coordinates: [[Sagastyr]]
+markerFile: [[Sagastyr]]
+defaultZoom: 11 
+maxZoom: 18
+```

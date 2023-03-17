@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Neustadt
+coordinates: [[Bad Neustadt]]
+markerFile: [[Bad Neustadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

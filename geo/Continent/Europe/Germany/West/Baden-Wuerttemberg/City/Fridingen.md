@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fridingen
+coordinates: [[Fridingen]]
+markerFile: [[Fridingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

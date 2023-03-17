@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mauléon
+coordinates: [[Mauléon]]
+markerFile: [[Mauléon]]
+defaultZoom: 11 
+maxZoom: 18
+```

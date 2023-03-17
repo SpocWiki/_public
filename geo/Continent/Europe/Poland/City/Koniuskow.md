@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koniuskow
+coordinates: [[Koniuskow]]
+markerFile: [[Koniuskow]]
+defaultZoom: 11 
+maxZoom: 18
+```

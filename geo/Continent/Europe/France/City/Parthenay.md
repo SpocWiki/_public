@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Parthenay
+coordinates: [[Parthenay]]
+markerFile: [[Parthenay]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kehrberg
+coordinates: [[Kehrberg]]
+markerFile: [[Kehrberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

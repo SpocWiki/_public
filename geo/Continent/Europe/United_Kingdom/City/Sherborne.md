@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sherborne
+coordinates: [[Sherborne]]
+markerFile: [[Sherborne]]
+defaultZoom: 11 
+maxZoom: 18
+```

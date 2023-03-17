@@ -1,4 +1,4 @@
----
+﻿---
 location: [37.55,126.97]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seoul
+coordinates: [[Seoul]]
+markerFile: [[Seoul]]
+defaultZoom: 11 
+maxZoom: 18
+```

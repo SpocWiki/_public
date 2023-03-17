@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reval
+coordinates: [[Reval]]
+markerFile: [[Reval]]
+defaultZoom: 11 
+maxZoom: 18
+```

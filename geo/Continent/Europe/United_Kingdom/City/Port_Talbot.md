@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Port Talbot
+coordinates: [[Port Talbot]]
+markerFile: [[Port Talbot]]
+defaultZoom: 11 
+maxZoom: 18
+```

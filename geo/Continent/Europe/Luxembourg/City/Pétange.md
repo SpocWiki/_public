@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pétange
+coordinates: [[Pétange]]
+markerFile: [[Pétange]]
+defaultZoom: 11 
+maxZoom: 18
+```

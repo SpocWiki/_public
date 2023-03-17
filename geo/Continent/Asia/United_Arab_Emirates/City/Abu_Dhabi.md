@@ -1,4 +1,4 @@
----
+﻿---
 location: [24.47,54.42]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abu Dhabi
+coordinates: [[Abu Dhabi]]
+markerFile: [[Abu Dhabi]]
+defaultZoom: 11 
+maxZoom: 18
+```

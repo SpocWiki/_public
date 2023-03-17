@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cavalese
+coordinates: [[Cavalese]]
+markerFile: [[Cavalese]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.47,9.98]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harburg bei Hamburg
+coordinates: [[Harburg bei Hamburg]]
+markerFile: [[Harburg bei Hamburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barry
+coordinates: [[Barry]]
+markerFile: [[Barry]]
+defaultZoom: 11 
+maxZoom: 18
+```

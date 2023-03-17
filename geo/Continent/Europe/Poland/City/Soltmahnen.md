@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.7,22.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soltmahnen
+coordinates: [[Soltmahnen]]
+markerFile: [[Soltmahnen]]
+defaultZoom: 11 
+maxZoom: 18
+```

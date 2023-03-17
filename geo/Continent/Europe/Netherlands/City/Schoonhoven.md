@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoonhoven
+coordinates: [[Schoonhoven]]
+markerFile: [[Schoonhoven]]
+defaultZoom: 11 
+maxZoom: 18
+```

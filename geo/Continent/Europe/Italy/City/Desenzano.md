@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Desenzano
+coordinates: [[Desenzano]]
+markerFile: [[Desenzano]]
+defaultZoom: 11 
+maxZoom: 18
+```

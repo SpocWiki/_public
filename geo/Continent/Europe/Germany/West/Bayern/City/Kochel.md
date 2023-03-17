@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kochel
+coordinates: [[Kochel]]
+markerFile: [[Kochel]]
+defaultZoom: 11 
+maxZoom: 18
+```

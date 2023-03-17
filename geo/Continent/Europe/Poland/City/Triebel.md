@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Triebel
+coordinates: [[Triebel]]
+markerFile: [[Triebel]]
+defaultZoom: 11 
+maxZoom: 18
+```

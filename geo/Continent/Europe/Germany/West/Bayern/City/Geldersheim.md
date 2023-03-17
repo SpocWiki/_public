@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geldersheim
+coordinates: [[Geldersheim]]
+markerFile: [[Geldersheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

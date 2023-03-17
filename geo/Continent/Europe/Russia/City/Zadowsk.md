@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zadowsk
+coordinates: [[Zadowsk]]
+markerFile: [[Zadowsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

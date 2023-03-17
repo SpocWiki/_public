@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuppenheim
+coordinates: [[Kuppenheim]]
+markerFile: [[Kuppenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

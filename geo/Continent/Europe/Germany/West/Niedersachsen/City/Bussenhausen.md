@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bussenhausen
+coordinates: [[Bussenhausen]]
+markerFile: [[Bussenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

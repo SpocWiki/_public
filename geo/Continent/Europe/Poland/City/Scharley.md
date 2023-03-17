@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scharley
+coordinates: [[Scharley]]
+markerFile: [[Scharley]]
+defaultZoom: 11 
+maxZoom: 18
+```

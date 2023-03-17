@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: An Uaimh
+coordinates: [[An Uaimh]]
+markerFile: [[An Uaimh]]
+defaultZoom: 11 
+maxZoom: 18
+```

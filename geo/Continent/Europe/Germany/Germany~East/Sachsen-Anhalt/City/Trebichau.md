@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trebichau
+coordinates: [[Trebichau]]
+markerFile: [[Trebichau]]
+defaultZoom: 11 
+maxZoom: 18
+```

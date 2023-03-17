@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landskron
+coordinates: [[Landskron]]
+markerFile: [[Landskron]]
+defaultZoom: 11 
+maxZoom: 18
+```

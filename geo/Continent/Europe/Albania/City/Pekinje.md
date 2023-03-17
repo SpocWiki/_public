@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pekinje
+coordinates: [[Pekinje]]
+markerFile: [[Pekinje]]
+defaultZoom: 11 
+maxZoom: 18
+```

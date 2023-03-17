@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bonn
+coordinates: [[Bonn]]
+markerFile: [[Bonn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altjauer
+coordinates: [[Altjauer]]
+markerFile: [[Altjauer]]
+defaultZoom: 11 
+maxZoom: 18
+```

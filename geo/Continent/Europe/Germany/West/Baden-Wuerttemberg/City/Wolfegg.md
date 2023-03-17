@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolfegg
+coordinates: [[Wolfegg]]
+markerFile: [[Wolfegg]]
+defaultZoom: 11 
+maxZoom: 18
+```

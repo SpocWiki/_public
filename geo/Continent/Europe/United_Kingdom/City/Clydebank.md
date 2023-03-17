@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clydebank
+coordinates: [[Clydebank]]
+markerFile: [[Clydebank]]
+defaultZoom: 11 
+maxZoom: 18
+```

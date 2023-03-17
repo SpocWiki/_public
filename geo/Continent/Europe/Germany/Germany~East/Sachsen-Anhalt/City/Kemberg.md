@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kemberg
+coordinates: [[Kemberg]]
+markerFile: [[Kemberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

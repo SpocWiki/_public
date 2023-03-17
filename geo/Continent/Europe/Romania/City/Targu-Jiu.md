@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Targu-Jiu
+coordinates: [[Targu-Jiu]]
+markerFile: [[Targu-Jiu]]
+defaultZoom: 11 
+maxZoom: 18
+```

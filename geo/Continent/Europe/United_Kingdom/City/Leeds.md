@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leeds
+coordinates: [[Leeds]]
+markerFile: [[Leeds]]
+defaultZoom: 11 
+maxZoom: 18
+```

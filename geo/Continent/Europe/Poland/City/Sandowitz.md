@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandowitz
+coordinates: [[Sandowitz]]
+markerFile: [[Sandowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

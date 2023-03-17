@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Novi
+coordinates: [[Novi]]
+markerFile: [[Novi]]
+defaultZoom: 11 
+maxZoom: 18
+```

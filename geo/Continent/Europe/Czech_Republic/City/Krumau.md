@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krumau
+coordinates: [[Krumau]]
+markerFile: [[Krumau]]
+defaultZoom: 11 
+maxZoom: 18
+```

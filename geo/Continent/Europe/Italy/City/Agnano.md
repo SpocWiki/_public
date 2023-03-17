@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Agnano
+coordinates: [[Agnano]]
+markerFile: [[Agnano]]
+defaultZoom: 11 
+maxZoom: 18
+```

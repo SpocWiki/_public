@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.17,0.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chinon
+coordinates: [[Chinon]]
+markerFile: [[Chinon]]
+defaultZoom: 11 
+maxZoom: 18
+```

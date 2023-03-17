@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leichlingen
+coordinates: [[Leichlingen]]
+markerFile: [[Leichlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castelo-Branco
+coordinates: [[Castelo-Branco]]
+markerFile: [[Castelo-Branco]]
+defaultZoom: 11 
+maxZoom: 18
+```

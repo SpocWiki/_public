@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thommendorf
+coordinates: [[Thommendorf]]
+markerFile: [[Thommendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

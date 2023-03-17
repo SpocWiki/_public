@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.7,8.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wyk auf Foehr
+coordinates: [[Wyk auf Foehr]]
+markerFile: [[Wyk auf Foehr]]
+defaultZoom: 11 
+maxZoom: 18
+```

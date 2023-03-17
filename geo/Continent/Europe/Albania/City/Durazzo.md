@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Durazzo
+coordinates: [[Durazzo]]
+markerFile: [[Durazzo]]
+defaultZoom: 11 
+maxZoom: 18
+```

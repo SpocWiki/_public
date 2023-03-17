@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mermingen
+coordinates: [[Mermingen]]
+markerFile: [[Mermingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loeffingen
+coordinates: [[Loeffingen]]
+markerFile: [[Loeffingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

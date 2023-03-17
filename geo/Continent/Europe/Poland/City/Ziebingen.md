@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ziebingen
+coordinates: [[Ziebingen]]
+markerFile: [[Ziebingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

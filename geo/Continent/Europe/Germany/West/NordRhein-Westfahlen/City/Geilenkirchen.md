@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geilenkirchen
+coordinates: [[Geilenkirchen]]
+markerFile: [[Geilenkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

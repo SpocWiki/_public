@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jever
+coordinates: [[Jever]]
+markerFile: [[Jever]]
+defaultZoom: 11 
+maxZoom: 18
+```

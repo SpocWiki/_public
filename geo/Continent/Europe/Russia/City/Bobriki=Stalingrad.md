@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.07,38.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bobriki=Stalingrad
+coordinates: [[Bobriki=Stalingrad]]
+markerFile: [[Bobriki=Stalingrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

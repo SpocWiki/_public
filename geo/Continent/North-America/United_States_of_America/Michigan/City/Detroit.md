@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Detroit
+coordinates: [[Detroit]]
+markerFile: [[Detroit]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tegel
+coordinates: [[Tegel]]
+markerFile: [[Tegel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.34,8.79]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neckargemuend
+coordinates: [[Neckargemuend]]
+markerFile: [[Neckargemuend]]
+defaultZoom: 11 
+maxZoom: 18
+```

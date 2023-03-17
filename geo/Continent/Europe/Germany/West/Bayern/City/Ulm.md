@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ulm
+coordinates: [[Ulm]]
+markerFile: [[Ulm]]
+defaultZoom: 11 
+maxZoom: 18
+```

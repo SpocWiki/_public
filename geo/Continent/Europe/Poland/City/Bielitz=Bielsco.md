@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bielitz=Bielsco
+coordinates: [[Bielitz=Bielsco]]
+markerFile: [[Bielitz=Bielsco]]
+defaultZoom: 11 
+maxZoom: 18
+```

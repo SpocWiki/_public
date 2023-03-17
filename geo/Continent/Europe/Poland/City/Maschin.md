@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maschin
+coordinates: [[Maschin]]
+markerFile: [[Maschin]]
+defaultZoom: 11 
+maxZoom: 18
+```

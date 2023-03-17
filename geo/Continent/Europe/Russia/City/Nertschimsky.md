@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nertschimsky
+coordinates: [[Nertschimsky]]
+markerFile: [[Nertschimsky]]
+defaultZoom: 11 
+maxZoom: 18
+```

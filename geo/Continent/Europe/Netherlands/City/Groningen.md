@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Groningen
+coordinates: [[Groningen]]
+markerFile: [[Groningen]]
+defaultZoom: 11 
+maxZoom: 18
+```

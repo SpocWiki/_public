@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blackburn
+coordinates: [[Blackburn]]
+markerFile: [[Blackburn]]
+defaultZoom: 11 
+maxZoom: 18
+```

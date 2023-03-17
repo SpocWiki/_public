@@ -1,4 +1,4 @@
----
+﻿---
 location: [-22.27583,166.4581]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Nouméa
+coordinates: [[Nouméa]]
+markerFile: [[Nouméa]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Panningkau
+coordinates: [[Panningkau]]
+markerFile: [[Panningkau]]
+defaultZoom: 11 
+maxZoom: 18
+```

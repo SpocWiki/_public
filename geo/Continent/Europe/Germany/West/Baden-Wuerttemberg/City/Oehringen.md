@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oehringen
+coordinates: [[Oehringen]]
+markerFile: [[Oehringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

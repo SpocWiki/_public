@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwarzenborn
+coordinates: [[Schwarzenborn]]
+markerFile: [[Schwarzenborn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mont-de-Marsan
+coordinates: [[Mont-de-Marsan]]
+markerFile: [[Mont-de-Marsan]]
+defaultZoom: 11 
+maxZoom: 18
+```

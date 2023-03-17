@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolgast
+coordinates: [[Wolgast]]
+markerFile: [[Wolgast]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ahlhorn
+coordinates: [[Ahlhorn]]
+markerFile: [[Ahlhorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

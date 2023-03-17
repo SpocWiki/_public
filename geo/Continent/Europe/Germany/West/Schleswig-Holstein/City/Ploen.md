@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ploen
+coordinates: [[Ploen]]
+markerFile: [[Ploen]]
+defaultZoom: 11 
+maxZoom: 18
+```

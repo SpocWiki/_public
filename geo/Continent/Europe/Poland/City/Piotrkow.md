@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Piotrkow
+coordinates: [[Piotrkow]]
+markerFile: [[Piotrkow]]
+defaultZoom: 11 
+maxZoom: 18
+```

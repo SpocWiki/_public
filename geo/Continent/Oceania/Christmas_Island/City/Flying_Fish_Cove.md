@@ -1,4 +1,4 @@
----
+﻿---
 location: [-10.41667,105.6833]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flying Fish Cove
+coordinates: [[Flying Fish Cove]]
+markerFile: [[Flying Fish Cove]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cuxhafen
+coordinates: [[Cuxhafen]]
+markerFile: [[Cuxhafen]]
+defaultZoom: 11 
+maxZoom: 18
+```

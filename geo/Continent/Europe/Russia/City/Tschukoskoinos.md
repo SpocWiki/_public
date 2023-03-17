@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschukoskoinos
+coordinates: [[Tschukoskoinos]]
+markerFile: [[Tschukoskoinos]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loegumkloster
+coordinates: [[Loegumkloster]]
+markerFile: [[Loegumkloster]]
+defaultZoom: 11 
+maxZoom: 18
+```

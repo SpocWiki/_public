@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergheim~Erft
+coordinates: [[Bergheim~Erft]]
+markerFile: [[Bergheim~Erft]]
+defaultZoom: 11 
+maxZoom: 18
+```

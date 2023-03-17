@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fachsenfeld
+coordinates: [[Fachsenfeld]]
+markerFile: [[Fachsenfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

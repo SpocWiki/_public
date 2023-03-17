@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kulmbach
+coordinates: [[Kulmbach]]
+markerFile: [[Kulmbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

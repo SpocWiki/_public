@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bohlschau
+coordinates: [[Bohlschau]]
+markerFile: [[Bohlschau]]
+defaultZoom: 11 
+maxZoom: 18
+```

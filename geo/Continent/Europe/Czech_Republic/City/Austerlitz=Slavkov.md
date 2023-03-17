@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Austerlitz=Slavkov
+coordinates: [[Austerlitz=Slavkov]]
+markerFile: [[Austerlitz=Slavkov]]
+defaultZoom: 11 
+maxZoom: 18
+```

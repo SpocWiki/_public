@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolfenbuettel
+coordinates: [[Wolfenbuettel]]
+markerFile: [[Wolfenbuettel]]
+defaultZoom: 11 
+maxZoom: 18
+```

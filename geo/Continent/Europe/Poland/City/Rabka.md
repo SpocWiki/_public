@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rabka
+coordinates: [[Rabka]]
+markerFile: [[Rabka]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poitiers
+coordinates: [[Poitiers]]
+markerFile: [[Poitiers]]
+defaultZoom: 11 
+maxZoom: 18
+```

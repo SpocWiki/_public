@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goeding
+coordinates: [[Goeding]]
+markerFile: [[Goeding]]
+defaultZoom: 11 
+maxZoom: 18
+```

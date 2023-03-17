@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kreuzau
+coordinates: [[Kreuzau]]
+markerFile: [[Kreuzau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaukehnen
+coordinates: [[Kaukehnen]]
+markerFile: [[Kaukehnen]]
+defaultZoom: 11 
+maxZoom: 18
+```

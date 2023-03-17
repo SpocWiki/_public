@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stimpfach
+coordinates: [[Stimpfach]]
+markerFile: [[Stimpfach]]
+defaultZoom: 11 
+maxZoom: 18
+```

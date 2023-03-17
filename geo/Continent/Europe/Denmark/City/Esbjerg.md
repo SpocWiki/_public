@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Esbjerg
+coordinates: [[Esbjerg]]
+markerFile: [[Esbjerg]]
+defaultZoom: 11 
+maxZoom: 18
+```

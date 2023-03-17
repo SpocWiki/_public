@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Lorenzo
+coordinates: [[San Lorenzo]]
+markerFile: [[San Lorenzo]]
+defaultZoom: 11 
+maxZoom: 18
+```

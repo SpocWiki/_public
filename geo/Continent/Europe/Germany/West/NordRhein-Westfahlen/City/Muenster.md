@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muenster
+coordinates: [[Muenster]]
+markerFile: [[Muenster]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kowahlen
+coordinates: [[Kowahlen]]
+markerFile: [[Kowahlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tunbridge
+coordinates: [[Tunbridge]]
+markerFile: [[Tunbridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

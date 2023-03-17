@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mariabrunn
+coordinates: [[Mariabrunn]]
+markerFile: [[Mariabrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

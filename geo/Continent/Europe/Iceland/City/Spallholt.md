@@ -1,4 +1,4 @@
----
+﻿---
 location: [64,-23.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spallholt
+coordinates: [[Spallholt]]
+markerFile: [[Spallholt]]
+defaultZoom: 11 
+maxZoom: 18
+```

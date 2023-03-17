@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Amand-Montrond
+coordinates: [[St.Amand-Montrond]]
+markerFile: [[St.Amand-Montrond]]
+defaultZoom: 11 
+maxZoom: 18
+```

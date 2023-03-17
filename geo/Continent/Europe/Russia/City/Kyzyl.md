@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.71667,94.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kyzyl
+coordinates: [[Kyzyl]]
+markerFile: [[Kyzyl]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cattaro=Kotor
+coordinates: [[Cattaro=Kotor]]
+markerFile: [[Cattaro=Kotor]]
+defaultZoom: 11 
+maxZoom: 18
+```

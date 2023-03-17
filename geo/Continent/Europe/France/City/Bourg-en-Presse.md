@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bourg-en-Presse
+coordinates: [[Bourg-en-Presse]]
+markerFile: [[Bourg-en-Presse]]
+defaultZoom: 11 
+maxZoom: 18
+```

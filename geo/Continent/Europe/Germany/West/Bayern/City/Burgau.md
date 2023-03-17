@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burgau
+coordinates: [[Burgau]]
+markerFile: [[Burgau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Helder=Den Helder
+coordinates: [[Helder=Den Helder]]
+markerFile: [[Helder=Den Helder]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orbetello
+coordinates: [[Orbetello]]
+markerFile: [[Orbetello]]
+defaultZoom: 11 
+maxZoom: 18
+```

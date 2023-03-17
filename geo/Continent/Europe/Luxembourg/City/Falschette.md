@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falschette
+coordinates: [[Falschette]]
+markerFile: [[Falschette]]
+defaultZoom: 11 
+maxZoom: 18
+```

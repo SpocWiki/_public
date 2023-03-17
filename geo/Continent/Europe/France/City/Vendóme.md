@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vendóme
+coordinates: [[Vendóme]]
+markerFile: [[Vendóme]]
+defaultZoom: 11 
+maxZoom: 18
+```

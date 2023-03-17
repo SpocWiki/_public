@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plattling
+coordinates: [[Plattling]]
+markerFile: [[Plattling]]
+defaultZoom: 11 
+maxZoom: 18
+```

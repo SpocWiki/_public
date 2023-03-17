@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Serdobol
+coordinates: [[Serdobol]]
+markerFile: [[Serdobol]]
+defaultZoom: 11 
+maxZoom: 18
+```

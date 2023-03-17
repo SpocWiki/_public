@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spurn Head
+coordinates: [[Spurn Head]]
+markerFile: [[Spurn Head]]
+defaultZoom: 11 
+maxZoom: 18
+```

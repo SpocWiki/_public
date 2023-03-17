@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wald
+coordinates: [[Wald]]
+markerFile: [[Wald]]
+defaultZoom: 11 
+maxZoom: 18
+```

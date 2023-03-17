@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Esens
+coordinates: [[Esens]]
+markerFile: [[Esens]]
+defaultZoom: 11 
+maxZoom: 18
+```

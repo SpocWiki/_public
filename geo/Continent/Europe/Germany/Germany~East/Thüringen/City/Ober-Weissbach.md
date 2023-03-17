@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Weissbach
+coordinates: [[Ober-Weissbach]]
+markerFile: [[Ober-Weissbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

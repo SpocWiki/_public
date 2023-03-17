@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altenesch
+coordinates: [[Altenesch]]
+markerFile: [[Altenesch]]
+defaultZoom: 11 
+maxZoom: 18
+```

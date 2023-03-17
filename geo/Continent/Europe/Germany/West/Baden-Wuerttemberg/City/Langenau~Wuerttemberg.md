@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenau~Wuerttemberg
+coordinates: [[Langenau~Wuerttemberg]]
+markerFile: [[Langenau~Wuerttemberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

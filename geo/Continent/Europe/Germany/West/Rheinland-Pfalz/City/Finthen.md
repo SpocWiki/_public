@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Finthen
+coordinates: [[Finthen]]
+markerFile: [[Finthen]]
+defaultZoom: 11 
+maxZoom: 18
+```

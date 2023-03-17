@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kangasala
+coordinates: [[Kangasala]]
+markerFile: [[Kangasala]]
+defaultZoom: 11 
+maxZoom: 18
+```

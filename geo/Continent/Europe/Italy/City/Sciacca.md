@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sciacca
+coordinates: [[Sciacca]]
+markerFile: [[Sciacca]]
+defaultZoom: 11 
+maxZoom: 18
+```

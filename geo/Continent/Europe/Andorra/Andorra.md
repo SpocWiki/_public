@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.5,1.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Andorra
+coordinates: [[Andorra]]
+markerFile: [[Andorra]]
+defaultZoom: 11 
+maxZoom: 18
+```

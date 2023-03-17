@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Madrid
+coordinates: [[Madrid]]
+markerFile: [[Madrid]]
+defaultZoom: 11 
+maxZoom: 18
+```

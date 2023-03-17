@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ledburg
+coordinates: [[Ledburg]]
+markerFile: [[Ledburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

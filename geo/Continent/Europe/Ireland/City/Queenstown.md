@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Queenstown
+coordinates: [[Queenstown]]
+markerFile: [[Queenstown]]
+defaultZoom: 11 
+maxZoom: 18
+```

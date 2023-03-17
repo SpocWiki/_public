@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Albans
+coordinates: [[St.Albans]]
+markerFile: [[St.Albans]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liedolsheim
+coordinates: [[Liedolsheim]]
+markerFile: [[Liedolsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saroca
+coordinates: [[Saroca]]
+markerFile: [[Saroca]]
+defaultZoom: 11 
+maxZoom: 18
+```

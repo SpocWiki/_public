@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haynau
+coordinates: [[Haynau]]
+markerFile: [[Haynau]]
+defaultZoom: 11 
+maxZoom: 18
+```

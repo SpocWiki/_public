@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grevenmacher
+coordinates: [[Grevenmacher]]
+markerFile: [[Grevenmacher]]
+defaultZoom: 11 
+maxZoom: 18
+```

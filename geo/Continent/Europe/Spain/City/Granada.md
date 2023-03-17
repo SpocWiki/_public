@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Granada
+coordinates: [[Granada]]
+markerFile: [[Granada]]
+defaultZoom: 11 
+maxZoom: 18
+```

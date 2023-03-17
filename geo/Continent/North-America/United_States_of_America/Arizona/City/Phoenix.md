@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Phoenix
+coordinates: [[Phoenix]]
+markerFile: [[Phoenix]]
+defaultZoom: 11 
+maxZoom: 18
+```

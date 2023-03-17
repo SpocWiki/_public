@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Menden~Iserlohn
+coordinates: [[Menden~Iserlohn]]
+markerFile: [[Menden~Iserlohn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pevensey
+coordinates: [[Pevensey]]
+markerFile: [[Pevensey]]
+defaultZoom: 11 
+maxZoom: 18
+```

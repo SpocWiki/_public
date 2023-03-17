@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hilversum
+coordinates: [[Hilversum]]
+markerFile: [[Hilversum]]
+defaultZoom: 11 
+maxZoom: 18
+```

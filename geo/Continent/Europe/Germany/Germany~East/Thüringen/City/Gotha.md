@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gotha
+coordinates: [[Gotha]]
+markerFile: [[Gotha]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kornwestheim
+coordinates: [[Kornwestheim]]
+markerFile: [[Kornwestheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

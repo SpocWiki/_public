@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hirschfeldau
+coordinates: [[Hirschfeldau]]
+markerFile: [[Hirschfeldau]]
+defaultZoom: 11 
+maxZoom: 18
+```

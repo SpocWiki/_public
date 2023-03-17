@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forbach
+coordinates: [[Forbach]]
+markerFile: [[Forbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

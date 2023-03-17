@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.05,3.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chateau-Thierry
+coordinates: [[Chateau-Thierry]]
+markerFile: [[Chateau-Thierry]]
+defaultZoom: 11 
+maxZoom: 18
+```

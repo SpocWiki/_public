@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hochredlau
+coordinates: [[Hochredlau]]
+markerFile: [[Hochredlau]]
+defaultZoom: 11 
+maxZoom: 18
+```

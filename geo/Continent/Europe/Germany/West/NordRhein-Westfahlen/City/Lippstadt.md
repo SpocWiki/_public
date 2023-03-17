@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lippstadt
+coordinates: [[Lippstadt]]
+markerFile: [[Lippstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

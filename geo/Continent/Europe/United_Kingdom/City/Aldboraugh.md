@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aldboraugh
+coordinates: [[Aldboraugh]]
+markerFile: [[Aldboraugh]]
+defaultZoom: 11 
+maxZoom: 18
+```

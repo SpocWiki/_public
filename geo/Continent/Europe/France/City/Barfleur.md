@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barfleur
+coordinates: [[Barfleur]]
+markerFile: [[Barfleur]]
+defaultZoom: 11 
+maxZoom: 18
+```

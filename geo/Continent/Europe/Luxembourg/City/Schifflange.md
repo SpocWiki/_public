@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schifflange
+coordinates: [[Schifflange]]
+markerFile: [[Schifflange]]
+defaultZoom: 11 
+maxZoom: 18
+```

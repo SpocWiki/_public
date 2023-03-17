@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schroop
+coordinates: [[Schroop]]
+markerFile: [[Schroop]]
+defaultZoom: 11 
+maxZoom: 18
+```

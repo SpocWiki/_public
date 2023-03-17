@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Linderode
+coordinates: [[Linderode]]
+markerFile: [[Linderode]]
+defaultZoom: 11 
+maxZoom: 18
+```

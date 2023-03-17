@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.76,13.59]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlsbach
+coordinates: [[Karlsbach]]
+markerFile: [[Karlsbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

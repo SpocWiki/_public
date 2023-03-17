@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lagfors
+coordinates: [[Lagfors]]
+markerFile: [[Lagfors]]
+defaultZoom: 11 
+maxZoom: 18
+```

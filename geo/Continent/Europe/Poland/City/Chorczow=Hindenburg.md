@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chorczow=Hindenburg
+coordinates: [[Chorczow=Hindenburg]]
+markerFile: [[Chorczow=Hindenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

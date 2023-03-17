@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krummhuebel
+coordinates: [[Krummhuebel]]
+markerFile: [[Krummhuebel]]
+defaultZoom: 11 
+maxZoom: 18
+```

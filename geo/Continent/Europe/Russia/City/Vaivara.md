@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaivara
+coordinates: [[Vaivara]]
+markerFile: [[Vaivara]]
+defaultZoom: 11 
+maxZoom: 18
+```

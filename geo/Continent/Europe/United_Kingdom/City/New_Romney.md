@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: New Romney
+coordinates: [[New Romney]]
+markerFile: [[New Romney]]
+defaultZoom: 11 
+maxZoom: 18
+```

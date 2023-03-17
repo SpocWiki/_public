@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gauting
+coordinates: [[Gauting]]
+markerFile: [[Gauting]]
+defaultZoom: 11 
+maxZoom: 18
+```

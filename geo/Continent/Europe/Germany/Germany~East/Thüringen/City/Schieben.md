@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schieben
+coordinates: [[Schieben]]
+markerFile: [[Schieben]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ichim
+coordinates: [[Ichim]]
+markerFile: [[Ichim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arneburg
+coordinates: [[Arneburg]]
+markerFile: [[Arneburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

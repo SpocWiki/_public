@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eskilstuna
+coordinates: [[Eskilstuna]]
+markerFile: [[Eskilstuna]]
+defaultZoom: 11 
+maxZoom: 18
+```

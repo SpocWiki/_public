@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Anton
+coordinates: [[St.Anton]]
+markerFile: [[St.Anton]]
+defaultZoom: 11 
+maxZoom: 18
+```

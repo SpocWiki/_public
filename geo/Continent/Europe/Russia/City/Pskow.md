@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pskow
+coordinates: [[Pskow]]
+markerFile: [[Pskow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monheim
+coordinates: [[Monheim]]
+markerFile: [[Monheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

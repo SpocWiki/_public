@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Le Creusot
+coordinates: [[Le Creusot]]
+markerFile: [[Le Creusot]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steinrain
+coordinates: [[Steinrain]]
+markerFile: [[Steinrain]]
+defaultZoom: 11 
+maxZoom: 18
+```

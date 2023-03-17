@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Motala
+coordinates: [[Motala]]
+markerFile: [[Motala]]
+defaultZoom: 11 
+maxZoom: 18
+```

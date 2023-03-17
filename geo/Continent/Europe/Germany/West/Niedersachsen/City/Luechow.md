@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luechow
+coordinates: [[Luechow]]
+markerFile: [[Luechow]]
+defaultZoom: 11 
+maxZoom: 18
+```

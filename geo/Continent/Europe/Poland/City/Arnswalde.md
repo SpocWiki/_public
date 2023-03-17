@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arnswalde
+coordinates: [[Arnswalde]]
+markerFile: [[Arnswalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

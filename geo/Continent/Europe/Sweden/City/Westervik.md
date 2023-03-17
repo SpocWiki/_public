@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Westervik
+coordinates: [[Westervik]]
+markerFile: [[Westervik]]
+defaultZoom: 11 
+maxZoom: 18
+```

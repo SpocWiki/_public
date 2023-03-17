@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ballenstedt
+coordinates: [[Ballenstedt]]
+markerFile: [[Ballenstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

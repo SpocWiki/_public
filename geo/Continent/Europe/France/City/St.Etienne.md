@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Etienne
+coordinates: [[St.Etienne]]
+markerFile: [[St.Etienne]]
+defaultZoom: 11 
+maxZoom: 18
+```

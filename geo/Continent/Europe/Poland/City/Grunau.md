@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grunau
+coordinates: [[Grunau]]
+markerFile: [[Grunau]]
+defaultZoom: 11 
+maxZoom: 18
+```

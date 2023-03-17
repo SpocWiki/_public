@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Melegnano
+coordinates: [[Melegnano]]
+markerFile: [[Melegnano]]
+defaultZoom: 11 
+maxZoom: 18
+```

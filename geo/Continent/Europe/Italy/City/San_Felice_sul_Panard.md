@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Felice sul Panard
+coordinates: [[San Felice sul Panard]]
+markerFile: [[San Felice sul Panard]]
+defaultZoom: 11 
+maxZoom: 18
+```

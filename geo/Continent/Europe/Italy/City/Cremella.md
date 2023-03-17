@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cremella
+coordinates: [[Cremella]]
+markerFile: [[Cremella]]
+defaultZoom: 11 
+maxZoom: 18
+```

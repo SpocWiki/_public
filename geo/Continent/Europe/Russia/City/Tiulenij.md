@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tiulenij
+coordinates: [[Tiulenij]]
+markerFile: [[Tiulenij]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kulab=Kulyab
+coordinates: [[Kulab=Kulyab]]
+markerFile: [[Kulab=Kulyab]]
+defaultZoom: 11 
+maxZoom: 18
+```

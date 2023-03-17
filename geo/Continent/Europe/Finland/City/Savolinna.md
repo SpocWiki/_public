@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Savolinna
+coordinates: [[Savolinna]]
+markerFile: [[Savolinna]]
+defaultZoom: 11 
+maxZoom: 18
+```

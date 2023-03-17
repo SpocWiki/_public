@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Joehlingen
+coordinates: [[Joehlingen]]
+markerFile: [[Joehlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.17,8.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zug
+coordinates: [[Zug]]
+markerFile: [[Zug]]
+defaultZoom: 11 
+maxZoom: 18
+```

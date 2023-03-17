@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szabadka=Subotica
+coordinates: [[Szabadka=Subotica]]
+markerFile: [[Szabadka=Subotica]]
+defaultZoom: 11 
+maxZoom: 18
+```

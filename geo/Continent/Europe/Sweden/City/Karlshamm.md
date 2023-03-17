@@ -1,4 +1,4 @@
----
+﻿---
 location: [56.17,18.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlshamm
+coordinates: [[Karlshamm]]
+markerFile: [[Karlshamm]]
+defaultZoom: 11 
+maxZoom: 18
+```

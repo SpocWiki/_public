@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ust-Sysolsk=Syktivkar
+coordinates: [[Ust-Sysolsk=Syktivkar]]
+markerFile: [[Ust-Sysolsk=Syktivkar]]
+defaultZoom: 11 
+maxZoom: 18
+```

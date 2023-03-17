@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zaporozhya
+coordinates: [[Zaporozhya]]
+markerFile: [[Zaporozhya]]
+defaultZoom: 11 
+maxZoom: 18
+```

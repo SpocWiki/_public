@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Voelklingen
+coordinates: [[Voelklingen]]
+markerFile: [[Voelklingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

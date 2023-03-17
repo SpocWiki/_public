@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kazan
+coordinates: [[Kazan]]
+markerFile: [[Kazan]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Worbis
+coordinates: [[Worbis]]
+markerFile: [[Worbis]]
+defaultZoom: 11 
+maxZoom: 18
+```

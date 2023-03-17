@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.25,19.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strasburg
+coordinates: [[Strasburg]]
+markerFile: [[Strasburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

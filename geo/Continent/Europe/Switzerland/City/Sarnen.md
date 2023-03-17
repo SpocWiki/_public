@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sarnen
+coordinates: [[Sarnen]]
+markerFile: [[Sarnen]]
+defaultZoom: 11 
+maxZoom: 18
+```

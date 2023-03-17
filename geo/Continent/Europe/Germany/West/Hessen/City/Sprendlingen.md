@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sprendlingen
+coordinates: [[Sprendlingen]]
+markerFile: [[Sprendlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

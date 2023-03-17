@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beziers
+coordinates: [[Beziers]]
+markerFile: [[Beziers]]
+defaultZoom: 11 
+maxZoom: 18
+```

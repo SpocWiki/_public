@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Przemysl
+coordinates: [[Przemysl]]
+markerFile: [[Przemysl]]
+defaultZoom: 11 
+maxZoom: 18
+```

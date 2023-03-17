@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sils-Maria
+coordinates: [[Sils-Maria]]
+markerFile: [[Sils-Maria]]
+defaultZoom: 11 
+maxZoom: 18
+```

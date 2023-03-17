@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dudenhofen~Pfalz
+coordinates: [[Dudenhofen~Pfalz]]
+markerFile: [[Dudenhofen~Pfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

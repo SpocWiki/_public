@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poppelsdorf
+coordinates: [[Poppelsdorf]]
+markerFile: [[Poppelsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

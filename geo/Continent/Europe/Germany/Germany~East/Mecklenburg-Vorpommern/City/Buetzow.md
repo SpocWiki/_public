@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buetzow
+coordinates: [[Buetzow]]
+markerFile: [[Buetzow]]
+defaultZoom: 11 
+maxZoom: 18
+```

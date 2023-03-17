@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.05,19.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nagyvarad
+coordinates: [[Nagyvarad]]
+markerFile: [[Nagyvarad]]
+defaultZoom: 11 
+maxZoom: 18
+```

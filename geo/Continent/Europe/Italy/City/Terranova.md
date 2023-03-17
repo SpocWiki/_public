@@ -1,4 +1,4 @@
-﻿---
+---
 location: [37.08,14.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Terranova
+coordinates: [[Terranova]]
+markerFile: [[Terranova]]
+defaultZoom: 11 
+maxZoom: 18
+```

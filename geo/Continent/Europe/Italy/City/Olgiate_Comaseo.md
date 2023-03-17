@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Olgiate Comaseo
+coordinates: [[Olgiate Comaseo]]
+markerFile: [[Olgiate Comaseo]]
+defaultZoom: 11 
+maxZoom: 18
+```

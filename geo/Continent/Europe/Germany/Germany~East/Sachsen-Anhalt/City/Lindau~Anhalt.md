@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.03,12.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lindau~Anhalt
+coordinates: [[Lindau~Anhalt]]
+markerFile: [[Lindau~Anhalt]]
+defaultZoom: 11 
+maxZoom: 18
+```

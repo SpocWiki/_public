@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heinaevesi
+coordinates: [[Heinaevesi]]
+markerFile: [[Heinaevesi]]
+defaultZoom: 11 
+maxZoom: 18
+```

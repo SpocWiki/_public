@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duengenheim
+coordinates: [[Duengenheim]]
+markerFile: [[Duengenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

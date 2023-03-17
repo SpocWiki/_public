@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Volkmarsen
+coordinates: [[Volkmarsen]]
+markerFile: [[Volkmarsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Inning~Ammersee
+coordinates: [[Inning~Ammersee]]
+markerFile: [[Inning~Ammersee]]
+defaultZoom: 11 
+maxZoom: 18
+```

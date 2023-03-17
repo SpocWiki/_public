@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Porbandar
+coordinates: [[Porbandar]]
+markerFile: [[Porbandar]]
+defaultZoom: 11 
+maxZoom: 18
+```

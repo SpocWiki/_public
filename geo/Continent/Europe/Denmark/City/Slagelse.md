@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Slagelse
+coordinates: [[Slagelse]]
+markerFile: [[Slagelse]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosdorf
+coordinates: [[Rosdorf]]
+markerFile: [[Rosdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wetzlar
+coordinates: [[Wetzlar]]
+markerFile: [[Wetzlar]]
+defaultZoom: 11 
+maxZoom: 18
+```

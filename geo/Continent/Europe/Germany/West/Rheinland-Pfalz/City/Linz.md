@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Linz
+coordinates: [[Linz]]
+markerFile: [[Linz]]
+defaultZoom: 11 
+maxZoom: 18
+```

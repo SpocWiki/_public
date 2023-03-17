@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tongres
+coordinates: [[Tongres]]
+markerFile: [[Tongres]]
+defaultZoom: 11 
+maxZoom: 18
+```

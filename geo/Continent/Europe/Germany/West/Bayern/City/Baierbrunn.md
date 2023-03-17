@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baierbrunn
+coordinates: [[Baierbrunn]]
+markerFile: [[Baierbrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

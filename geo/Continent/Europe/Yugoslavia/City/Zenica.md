@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zenica
+coordinates: [[Zenica]]
+markerFile: [[Zenica]]
+defaultZoom: 11 
+maxZoom: 18
+```

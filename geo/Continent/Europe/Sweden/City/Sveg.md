@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sveg
+coordinates: [[Sveg]]
+markerFile: [[Sveg]]
+defaultZoom: 11 
+maxZoom: 18
+```

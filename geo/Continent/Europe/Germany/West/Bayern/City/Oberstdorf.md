@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberstdorf
+coordinates: [[Oberstdorf]]
+markerFile: [[Oberstdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

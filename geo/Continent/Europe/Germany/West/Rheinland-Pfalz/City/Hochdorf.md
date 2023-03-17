@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.42,8.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hochdorf
+coordinates: [[Hochdorf]]
+markerFile: [[Hochdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

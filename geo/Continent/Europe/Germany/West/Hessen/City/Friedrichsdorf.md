@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedrichsdorf
+coordinates: [[Friedrichsdorf]]
+markerFile: [[Friedrichsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

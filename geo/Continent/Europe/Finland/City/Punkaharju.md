@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Punkaharju
+coordinates: [[Punkaharju]]
+markerFile: [[Punkaharju]]
+defaultZoom: 11 
+maxZoom: 18
+```

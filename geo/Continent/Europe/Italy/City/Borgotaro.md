@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.3,10.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borgotaro
+coordinates: [[Borgotaro]]
+markerFile: [[Borgotaro]]
+defaultZoom: 11 
+maxZoom: 18
+```

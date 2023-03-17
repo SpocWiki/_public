@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Franzburg
+coordinates: [[Franzburg]]
+markerFile: [[Franzburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

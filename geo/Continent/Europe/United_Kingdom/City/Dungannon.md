@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dungannon
+coordinates: [[Dungannon]]
+markerFile: [[Dungannon]]
+defaultZoom: 11 
+maxZoom: 18
+```

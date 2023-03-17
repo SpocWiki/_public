@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seewis
+coordinates: [[Seewis]]
+markerFile: [[Seewis]]
+defaultZoom: 11 
+maxZoom: 18
+```

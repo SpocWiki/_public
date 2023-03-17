@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langelohe
+coordinates: [[Langelohe]]
+markerFile: [[Langelohe]]
+defaultZoom: 11 
+maxZoom: 18
+```

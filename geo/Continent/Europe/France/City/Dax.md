@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dax
+coordinates: [[Dax]]
+markerFile: [[Dax]]
+defaultZoom: 11 
+maxZoom: 18
+```

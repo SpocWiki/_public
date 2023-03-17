@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Storkow
+coordinates: [[Storkow]]
+markerFile: [[Storkow]]
+defaultZoom: 11 
+maxZoom: 18
+```

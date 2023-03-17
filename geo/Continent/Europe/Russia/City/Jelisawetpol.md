@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jelisawetpol
+coordinates: [[Jelisawetpol]]
+markerFile: [[Jelisawetpol]]
+defaultZoom: 11 
+maxZoom: 18
+```

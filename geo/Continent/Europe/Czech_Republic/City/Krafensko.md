@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krafensko
+coordinates: [[Krafensko]]
+markerFile: [[Krafensko]]
+defaultZoom: 11 
+maxZoom: 18
+```

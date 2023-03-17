@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.75,14.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torre Annunciata
+coordinates: [[Torre Annunciata]]
+markerFile: [[Torre Annunciata]]
+defaultZoom: 11 
+maxZoom: 18
+```

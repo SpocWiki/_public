@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Magnitogorsk
+coordinates: [[Magnitogorsk]]
+markerFile: [[Magnitogorsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

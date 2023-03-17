@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zwoetzen
+coordinates: [[Zwoetzen]]
+markerFile: [[Zwoetzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

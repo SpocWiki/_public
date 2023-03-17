@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sienno
+coordinates: [[Sienno]]
+markerFile: [[Sienno]]
+defaultZoom: 11 
+maxZoom: 18
+```

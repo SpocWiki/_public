@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.5,42.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zymlianskaja
+coordinates: [[Zymlianskaja]]
+markerFile: [[Zymlianskaja]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.82,13.15]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Metzdorf
+coordinates: [[Metzdorf]]
+markerFile: [[Metzdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuenterrabia
+coordinates: [[Fuenterrabia]]
+markerFile: [[Fuenterrabia]]
+defaultZoom: 11 
+maxZoom: 18
+```

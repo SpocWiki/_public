@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alton
+coordinates: [[Alton]]
+markerFile: [[Alton]]
+defaultZoom: 11 
+maxZoom: 18
+```

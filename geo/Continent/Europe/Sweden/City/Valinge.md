@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valinge
+coordinates: [[Valinge]]
+markerFile: [[Valinge]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.4,17.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bistritz
+coordinates: [[Bistritz]]
+markerFile: [[Bistritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

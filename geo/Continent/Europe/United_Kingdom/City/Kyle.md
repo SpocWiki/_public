@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kyle
+coordinates: [[Kyle]]
+markerFile: [[Kyle]]
+defaultZoom: 11 
+maxZoom: 18
+```

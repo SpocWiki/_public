@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maentsaela
+coordinates: [[Maentsaela]]
+markerFile: [[Maentsaela]]
+defaultZoom: 11 
+maxZoom: 18
+```

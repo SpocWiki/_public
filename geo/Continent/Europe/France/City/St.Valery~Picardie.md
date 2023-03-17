@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Valery~Picardie
+coordinates: [[St.Valery~Picardie]]
+markerFile: [[St.Valery~Picardie]]
+defaultZoom: 11 
+maxZoom: 18
+```

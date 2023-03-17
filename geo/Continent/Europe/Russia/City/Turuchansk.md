@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turuchansk
+coordinates: [[Turuchansk]]
+markerFile: [[Turuchansk]]
+defaultZoom: 11 
+maxZoom: 18
+```

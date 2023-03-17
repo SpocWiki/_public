@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lisieux
+coordinates: [[Lisieux]]
+markerFile: [[Lisieux]]
+defaultZoom: 11 
+maxZoom: 18
+```

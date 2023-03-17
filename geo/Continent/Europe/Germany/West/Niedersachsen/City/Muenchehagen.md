@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muenchehagen
+coordinates: [[Muenchehagen]]
+markerFile: [[Muenchehagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peschiera
+coordinates: [[Peschiera]]
+markerFile: [[Peschiera]]
+defaultZoom: 11 
+maxZoom: 18
+```

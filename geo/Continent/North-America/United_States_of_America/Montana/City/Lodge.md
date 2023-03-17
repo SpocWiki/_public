@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lodge
+coordinates: [[Lodge]]
+markerFile: [[Lodge]]
+defaultZoom: 11 
+maxZoom: 18
+```

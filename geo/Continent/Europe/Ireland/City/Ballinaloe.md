@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ballinaloe
+coordinates: [[Ballinaloe]]
+markerFile: [[Ballinaloe]]
+defaultZoom: 11 
+maxZoom: 18
+```

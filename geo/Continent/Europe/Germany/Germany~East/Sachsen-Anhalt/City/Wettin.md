@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wettin
+coordinates: [[Wettin]]
+markerFile: [[Wettin]]
+defaultZoom: 11 
+maxZoom: 18
+```

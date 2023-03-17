@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valltraesk
+coordinates: [[Valltraesk]]
+markerFile: [[Valltraesk]]
+defaultZoom: 11 
+maxZoom: 18
+```

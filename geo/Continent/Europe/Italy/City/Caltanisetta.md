@@ -1,4 +1,4 @@
----
+﻿---
 location: [37.48,14.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Caltanisetta
+coordinates: [[Caltanisetta]]
+markerFile: [[Caltanisetta]]
+defaultZoom: 11 
+maxZoom: 18
+```

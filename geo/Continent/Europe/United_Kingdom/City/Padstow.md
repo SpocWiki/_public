@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Padstow
+coordinates: [[Padstow]]
+markerFile: [[Padstow]]
+defaultZoom: 11 
+maxZoom: 18
+```

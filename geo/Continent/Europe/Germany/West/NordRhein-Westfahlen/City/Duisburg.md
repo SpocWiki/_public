@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duisburg
+coordinates: [[Duisburg]]
+markerFile: [[Duisburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

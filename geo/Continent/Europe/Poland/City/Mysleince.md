@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.83,19.95]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mysleince
+coordinates: [[Mysleince]]
+markerFile: [[Mysleince]]
+defaultZoom: 11 
+maxZoom: 18
+```

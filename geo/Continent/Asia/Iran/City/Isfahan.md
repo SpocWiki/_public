@@ -1,4 +1,4 @@
----
+﻿---
 location: [32.68,51.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Isfahan
+coordinates: [[Isfahan]]
+markerFile: [[Isfahan]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karaganda
+coordinates: [[Karaganda]]
+markerFile: [[Karaganda]]
+defaultZoom: 11 
+maxZoom: 18
+```

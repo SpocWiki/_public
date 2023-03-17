@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tesebend
+coordinates: [[Tesebend]]
+markerFile: [[Tesebend]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berdichef
+coordinates: [[Berdichef]]
+markerFile: [[Berdichef]]
+defaultZoom: 11 
+maxZoom: 18
+```

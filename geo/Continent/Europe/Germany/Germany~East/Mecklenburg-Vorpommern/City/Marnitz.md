@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marnitz
+coordinates: [[Marnitz]]
+markerFile: [[Marnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

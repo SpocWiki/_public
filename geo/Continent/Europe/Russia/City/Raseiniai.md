@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Raseiniai
+coordinates: [[Raseiniai]]
+markerFile: [[Raseiniai]]
+defaultZoom: 11 
+maxZoom: 18
+```

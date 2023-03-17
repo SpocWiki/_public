@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kothmaissling
+coordinates: [[Kothmaissling]]
+markerFile: [[Kothmaissling]]
+defaultZoom: 11 
+maxZoom: 18
+```

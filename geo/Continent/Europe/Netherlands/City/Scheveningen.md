@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scheveningen
+coordinates: [[Scheveningen]]
+markerFile: [[Scheveningen]]
+defaultZoom: 11 
+maxZoom: 18
+```

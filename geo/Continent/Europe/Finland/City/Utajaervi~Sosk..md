@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Utajaervi~Sosk.
+coordinates: [[Utajaervi~Sosk.]]
+markerFile: [[Utajaervi~Sosk.]]
+defaultZoom: 11 
+maxZoom: 18
+```

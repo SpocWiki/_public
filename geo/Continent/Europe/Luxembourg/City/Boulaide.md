@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boulaide
+coordinates: [[Boulaide]]
+markerFile: [[Boulaide]]
+defaultZoom: 11 
+maxZoom: 18
+```

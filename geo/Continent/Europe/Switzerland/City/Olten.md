@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.35,7.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Olten
+coordinates: [[Olten]]
+markerFile: [[Olten]]
+defaultZoom: 11 
+maxZoom: 18
+```

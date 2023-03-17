@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uttenhofen
+coordinates: [[Uttenhofen]]
+markerFile: [[Uttenhofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schaffhausen
+coordinates: [[Schaffhausen]]
+markerFile: [[Schaffhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

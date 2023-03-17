@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nagpur
+coordinates: [[Nagpur]]
+markerFile: [[Nagpur]]
+defaultZoom: 11 
+maxZoom: 18
+```

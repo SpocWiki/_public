@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weichering
+coordinates: [[Weichering]]
+markerFile: [[Weichering]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doerscheid
+coordinates: [[Doerscheid]]
+markerFile: [[Doerscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

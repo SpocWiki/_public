@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Novi Sad
+coordinates: [[Novi Sad]]
+markerFile: [[Novi Sad]]
+defaultZoom: 11 
+maxZoom: 18
+```

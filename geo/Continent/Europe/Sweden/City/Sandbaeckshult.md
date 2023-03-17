@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandbaeckshult
+coordinates: [[Sandbaeckshult]]
+markerFile: [[Sandbaeckshult]]
+defaultZoom: 11 
+maxZoom: 18
+```

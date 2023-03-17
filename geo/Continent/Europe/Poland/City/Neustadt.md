@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt
+coordinates: [[Neustadt]]
+markerFile: [[Neustadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

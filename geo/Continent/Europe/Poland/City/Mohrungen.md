@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mohrungen
+coordinates: [[Mohrungen]]
+markerFile: [[Mohrungen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kungshalmen
+coordinates: [[Kungshalmen]]
+markerFile: [[Kungshalmen]]
+defaultZoom: 11 
+maxZoom: 18
+```

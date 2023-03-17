@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt an der Waldnaab
+coordinates: [[Neustadt an der Waldnaab]]
+markerFile: [[Neustadt an der Waldnaab]]
+defaultZoom: 11 
+maxZoom: 18
+```

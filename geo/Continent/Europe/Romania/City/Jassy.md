@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jassy
+coordinates: [[Jassy]]
+markerFile: [[Jassy]]
+defaultZoom: 11 
+maxZoom: 18
+```

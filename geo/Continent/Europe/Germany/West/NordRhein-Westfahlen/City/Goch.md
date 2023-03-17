@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goch
+coordinates: [[Goch]]
+markerFile: [[Goch]]
+defaultZoom: 11 
+maxZoom: 18
+```

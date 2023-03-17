@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fluterschen
+coordinates: [[Fluterschen]]
+markerFile: [[Fluterschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

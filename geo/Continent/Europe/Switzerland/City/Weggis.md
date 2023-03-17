@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weggis
+coordinates: [[Weggis]]
+markerFile: [[Weggis]]
+defaultZoom: 11 
+maxZoom: 18
+```

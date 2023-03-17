@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lectoure
+coordinates: [[Lectoure]]
+markerFile: [[Lectoure]]
+defaultZoom: 11 
+maxZoom: 18
+```

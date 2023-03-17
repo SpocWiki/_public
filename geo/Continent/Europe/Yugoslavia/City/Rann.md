@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rann
+coordinates: [[Rann]]
+markerFile: [[Rann]]
+defaultZoom: 11 
+maxZoom: 18
+```

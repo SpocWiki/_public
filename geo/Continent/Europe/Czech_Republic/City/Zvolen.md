@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zvolen
+coordinates: [[Zvolen]]
+markerFile: [[Zvolen]]
+defaultZoom: 11 
+maxZoom: 18
+```

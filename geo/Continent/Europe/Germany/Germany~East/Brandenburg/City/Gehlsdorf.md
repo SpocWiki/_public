@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gehlsdorf
+coordinates: [[Gehlsdorf]]
+markerFile: [[Gehlsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

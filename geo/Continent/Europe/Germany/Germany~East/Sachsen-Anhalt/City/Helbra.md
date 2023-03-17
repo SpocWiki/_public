@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Helbra
+coordinates: [[Helbra]]
+markerFile: [[Helbra]]
+defaultZoom: 11 
+maxZoom: 18
+```

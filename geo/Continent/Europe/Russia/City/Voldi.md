@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Voldi
+coordinates: [[Voldi]]
+markerFile: [[Voldi]]
+defaultZoom: 11 
+maxZoom: 18
+```

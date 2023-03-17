@@ -1,4 +1,4 @@
----
+﻿---
 location: [63.22,22.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Woera
+coordinates: [[Woera]]
+markerFile: [[Woera]]
+defaultZoom: 11 
+maxZoom: 18
+```

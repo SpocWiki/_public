@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: La Nouvelle
+coordinates: [[La Nouvelle]]
+markerFile: [[La Nouvelle]]
+defaultZoom: 11 
+maxZoom: 18
+```

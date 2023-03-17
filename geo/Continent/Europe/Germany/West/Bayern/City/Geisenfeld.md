@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geisenfeld
+coordinates: [[Geisenfeld]]
+markerFile: [[Geisenfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

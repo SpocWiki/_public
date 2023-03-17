@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rethel
+coordinates: [[Rethel]]
+markerFile: [[Rethel]]
+defaultZoom: 11 
+maxZoom: 18
+```

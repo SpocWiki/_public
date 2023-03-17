@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brest-Litowsk
+coordinates: [[Brest-Litowsk]]
+markerFile: [[Brest-Litowsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

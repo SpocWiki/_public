@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schlawe
+coordinates: [[Schlawe]]
+markerFile: [[Schlawe]]
+defaultZoom: 11 
+maxZoom: 18
+```

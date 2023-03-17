@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.83,6.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chateau-Salines
+coordinates: [[Chateau-Salines]]
+markerFile: [[Chateau-Salines]]
+defaultZoom: 11 
+maxZoom: 18
+```

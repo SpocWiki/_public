@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaikeala
+coordinates: [[Vaikeala]]
+markerFile: [[Vaikeala]]
+defaultZoom: 11 
+maxZoom: 18
+```

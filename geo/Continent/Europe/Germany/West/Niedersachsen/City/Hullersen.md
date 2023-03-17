@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hullersen
+coordinates: [[Hullersen]]
+markerFile: [[Hullersen]]
+defaultZoom: 11 
+maxZoom: 18
+```

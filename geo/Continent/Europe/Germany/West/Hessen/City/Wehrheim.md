@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wehrheim
+coordinates: [[Wehrheim]]
+markerFile: [[Wehrheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

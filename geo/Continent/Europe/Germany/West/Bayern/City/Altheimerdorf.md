@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altheimerdorf
+coordinates: [[Altheimerdorf]]
+markerFile: [[Altheimerdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

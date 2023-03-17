@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castasegna
+coordinates: [[Castasegna]]
+markerFile: [[Castasegna]]
+defaultZoom: 11 
+maxZoom: 18
+```

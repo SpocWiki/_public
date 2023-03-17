@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freudenthal
+coordinates: [[Freudenthal]]
+markerFile: [[Freudenthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

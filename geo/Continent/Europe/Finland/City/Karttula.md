@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karttula
+coordinates: [[Karttula]]
+markerFile: [[Karttula]]
+defaultZoom: 11 
+maxZoom: 18
+```

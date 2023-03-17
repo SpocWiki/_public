@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mariager
+coordinates: [[Mariager]]
+markerFile: [[Mariager]]
+defaultZoom: 11 
+maxZoom: 18
+```

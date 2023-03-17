@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.68,17.65]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gyor
+coordinates: [[Gyor]]
+markerFile: [[Gyor]]
+defaultZoom: 11 
+maxZoom: 18
+```

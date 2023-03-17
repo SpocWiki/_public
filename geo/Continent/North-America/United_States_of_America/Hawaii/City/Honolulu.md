@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Honolulu
+coordinates: [[Honolulu]]
+markerFile: [[Honolulu]]
+defaultZoom: 11 
+maxZoom: 18
+```

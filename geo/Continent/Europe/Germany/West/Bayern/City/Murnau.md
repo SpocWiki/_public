@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.68,11.22]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Murnau
+coordinates: [[Murnau]]
+markerFile: [[Murnau]]
+defaultZoom: 11 
+maxZoom: 18
+```

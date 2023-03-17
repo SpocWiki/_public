@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sulzbach am Kocher
+coordinates: [[Sulzbach am Kocher]]
+markerFile: [[Sulzbach am Kocher]]
+defaultZoom: 11 
+maxZoom: 18
+```

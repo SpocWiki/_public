@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ochtmissen
+coordinates: [[Ochtmissen]]
+markerFile: [[Ochtmissen]]
+defaultZoom: 11 
+maxZoom: 18
+```

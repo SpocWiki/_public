@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skellefted
+coordinates: [[Skellefted]]
+markerFile: [[Skellefted]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [56.67,16.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalmar
+coordinates: [[Kalmar]]
+markerFile: [[Kalmar]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ospedaletto
+coordinates: [[Ospedaletto]]
+markerFile: [[Ospedaletto]]
+defaultZoom: 11 
+maxZoom: 18
+```

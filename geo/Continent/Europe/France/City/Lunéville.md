@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lunéville
+coordinates: [[Lunéville]]
+markerFile: [[Lunéville]]
+defaultZoom: 11 
+maxZoom: 18
+```

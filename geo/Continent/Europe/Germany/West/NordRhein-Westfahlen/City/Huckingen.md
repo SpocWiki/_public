@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huckingen
+coordinates: [[Huckingen]]
+markerFile: [[Huckingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

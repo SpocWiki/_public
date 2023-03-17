@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.77,8.73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Varano Borghi
+coordinates: [[Varano Borghi]]
+markerFile: [[Varano Borghi]]
+defaultZoom: 11 
+maxZoom: 18
+```

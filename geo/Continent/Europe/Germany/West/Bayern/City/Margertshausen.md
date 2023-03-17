@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Margertshausen
+coordinates: [[Margertshausen]]
+markerFile: [[Margertshausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

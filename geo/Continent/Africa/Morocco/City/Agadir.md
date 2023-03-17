@@ -1,4 +1,4 @@
----
+﻿---
 location: [30.43,-9.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Agadir
+coordinates: [[Agadir]]
+markerFile: [[Agadir]]
+defaultZoom: 11 
+maxZoom: 18
+```

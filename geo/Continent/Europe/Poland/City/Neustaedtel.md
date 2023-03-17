@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustaedtel
+coordinates: [[Neustaedtel]]
+markerFile: [[Neustaedtel]]
+defaultZoom: 11 
+maxZoom: 18
+```

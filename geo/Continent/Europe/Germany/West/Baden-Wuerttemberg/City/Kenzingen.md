@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kenzingen
+coordinates: [[Kenzingen]]
+markerFile: [[Kenzingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

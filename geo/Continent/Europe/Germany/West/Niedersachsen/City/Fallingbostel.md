@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fallingbostel
+coordinates: [[Fallingbostel]]
+markerFile: [[Fallingbostel]]
+defaultZoom: 11 
+maxZoom: 18
+```

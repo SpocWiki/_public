@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pyhaejaervi
+coordinates: [[Pyhaejaervi]]
+markerFile: [[Pyhaejaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

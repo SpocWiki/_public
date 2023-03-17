@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Veszprem
+coordinates: [[Veszprem]]
+markerFile: [[Veszprem]]
+defaultZoom: 11 
+maxZoom: 18
+```

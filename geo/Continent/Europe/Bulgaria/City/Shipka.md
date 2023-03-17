@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Shipka
+coordinates: [[Shipka]]
+markerFile: [[Shipka]]
+defaultZoom: 11 
+maxZoom: 18
+```

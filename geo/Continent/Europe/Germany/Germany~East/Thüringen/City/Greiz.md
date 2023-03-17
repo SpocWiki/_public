@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greiz
+coordinates: [[Greiz]]
+markerFile: [[Greiz]]
+defaultZoom: 11 
+maxZoom: 18
+```

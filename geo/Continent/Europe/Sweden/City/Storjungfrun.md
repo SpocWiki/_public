@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Storjungfrun
+coordinates: [[Storjungfrun]]
+markerFile: [[Storjungfrun]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mantova
+coordinates: [[Mantova]]
+markerFile: [[Mantova]]
+defaultZoom: 11 
+maxZoom: 18
+```

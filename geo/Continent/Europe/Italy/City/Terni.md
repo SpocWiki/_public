@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.65,12.65]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Terni
+coordinates: [[Terni]]
+markerFile: [[Terni]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohentauern
+coordinates: [[Hohentauern]]
+markerFile: [[Hohentauern]]
+defaultZoom: 11 
+maxZoom: 18
+```

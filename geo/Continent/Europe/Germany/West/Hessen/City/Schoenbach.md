@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoenbach
+coordinates: [[Schoenbach]]
+markerFile: [[Schoenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

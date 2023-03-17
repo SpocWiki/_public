@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gumbinnen
+coordinates: [[Gumbinnen]]
+markerFile: [[Gumbinnen]]
+defaultZoom: 11 
+maxZoom: 18
+```

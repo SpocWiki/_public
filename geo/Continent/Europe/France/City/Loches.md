@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loches
+coordinates: [[Loches]]
+markerFile: [[Loches]]
+defaultZoom: 11 
+maxZoom: 18
+```

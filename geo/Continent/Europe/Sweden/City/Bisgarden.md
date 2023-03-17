@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bisgarden
+coordinates: [[Bisgarden]]
+markerFile: [[Bisgarden]]
+defaultZoom: 11 
+maxZoom: 18
+```

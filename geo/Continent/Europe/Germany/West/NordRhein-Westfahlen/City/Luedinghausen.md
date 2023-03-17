@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luedinghausen
+coordinates: [[Luedinghausen]]
+markerFile: [[Luedinghausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

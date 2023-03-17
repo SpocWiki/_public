@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.55,13.93]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Donnersberg
+coordinates: [[Donnersberg]]
+markerFile: [[Donnersberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

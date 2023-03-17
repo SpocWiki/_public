@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Méziers
+coordinates: [[Méziers]]
+markerFile: [[Méziers]]
+defaultZoom: 11 
+maxZoom: 18
+```

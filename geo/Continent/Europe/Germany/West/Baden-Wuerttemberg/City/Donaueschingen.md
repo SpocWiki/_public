@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Donaueschingen
+coordinates: [[Donaueschingen]]
+markerFile: [[Donaueschingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

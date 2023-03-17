@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Memmo
+coordinates: [[Memmo]]
+markerFile: [[Memmo]]
+defaultZoom: 11 
+maxZoom: 18
+```

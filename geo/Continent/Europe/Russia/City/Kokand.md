@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kokand
+coordinates: [[Kokand]]
+markerFile: [[Kokand]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jakobshagen
+coordinates: [[Jakobshagen]]
+markerFile: [[Jakobshagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

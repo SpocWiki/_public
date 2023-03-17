@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.63,6.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ockfen
+coordinates: [[Ockfen]]
+markerFile: [[Ockfen]]
+defaultZoom: 11 
+maxZoom: 18
+```

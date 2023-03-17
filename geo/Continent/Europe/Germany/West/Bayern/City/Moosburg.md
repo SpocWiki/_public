@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moosburg
+coordinates: [[Moosburg]]
+markerFile: [[Moosburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

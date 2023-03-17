@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.9,8.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tortona
+coordinates: [[Tortona]]
+markerFile: [[Tortona]]
+defaultZoom: 11 
+maxZoom: 18
+```

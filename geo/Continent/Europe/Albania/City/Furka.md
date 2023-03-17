@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Furka
+coordinates: [[Furka]]
+markerFile: [[Furka]]
+defaultZoom: 11 
+maxZoom: 18
+```

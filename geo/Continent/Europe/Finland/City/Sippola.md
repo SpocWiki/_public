@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sippola
+coordinates: [[Sippola]]
+markerFile: [[Sippola]]
+defaultZoom: 11 
+maxZoom: 18
+```

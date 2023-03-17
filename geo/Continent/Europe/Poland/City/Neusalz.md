@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neusalz
+coordinates: [[Neusalz]]
+markerFile: [[Neusalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

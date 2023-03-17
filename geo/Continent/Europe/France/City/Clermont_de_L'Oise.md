@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clermont de L'Oise
+coordinates: [[Clermont de L'Oise]]
+markerFile: [[Clermont de L'Oise]]
+defaultZoom: 11 
+maxZoom: 18
+```

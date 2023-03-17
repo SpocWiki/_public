@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Santa Barbara
+coordinates: [[Santa Barbara]]
+markerFile: [[Santa Barbara]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.02,15.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liebenthal
+coordinates: [[Liebenthal]]
+markerFile: [[Liebenthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

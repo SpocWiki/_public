@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zgozda
+coordinates: [[Zgozda]]
+markerFile: [[Zgozda]]
+defaultZoom: 11 
+maxZoom: 18
+```

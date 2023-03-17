@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Erbach
+coordinates: [[Erbach]]
+markerFile: [[Erbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

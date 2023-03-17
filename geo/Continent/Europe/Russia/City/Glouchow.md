@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glouchow
+coordinates: [[Glouchow]]
+markerFile: [[Glouchow]]
+defaultZoom: 11 
+maxZoom: 18
+```

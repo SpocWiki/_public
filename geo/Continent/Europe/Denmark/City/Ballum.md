@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.1,8.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ballum
+coordinates: [[Ballum]]
+markerFile: [[Ballum]]
+defaultZoom: 11 
+maxZoom: 18
+```

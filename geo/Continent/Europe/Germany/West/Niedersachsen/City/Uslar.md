@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uslar
+coordinates: [[Uslar]]
+markerFile: [[Uslar]]
+defaultZoom: 11 
+maxZoom: 18
+```

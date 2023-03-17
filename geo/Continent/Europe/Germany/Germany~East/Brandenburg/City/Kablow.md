@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kablow
+coordinates: [[Kablow]]
+markerFile: [[Kablow]]
+defaultZoom: 11 
+maxZoom: 18
+```

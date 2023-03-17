@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Smedenova=Semendria
+coordinates: [[Smedenova=Semendria]]
+markerFile: [[Smedenova=Semendria]]
+defaultZoom: 11 
+maxZoom: 18
+```

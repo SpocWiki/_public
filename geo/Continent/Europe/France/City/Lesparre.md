@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lesparre
+coordinates: [[Lesparre]]
+markerFile: [[Lesparre]]
+defaultZoom: 11 
+maxZoom: 18
+```

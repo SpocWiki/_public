@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Darjeeling
+coordinates: [[Darjeeling]]
+markerFile: [[Darjeeling]]
+defaultZoom: 11 
+maxZoom: 18
+```

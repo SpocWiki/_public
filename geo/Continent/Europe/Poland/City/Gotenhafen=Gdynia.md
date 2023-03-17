@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gotenhafen=Gdynia
+coordinates: [[Gotenhafen=Gdynia]]
+markerFile: [[Gotenhafen=Gdynia]]
+defaultZoom: 11 
+maxZoom: 18
+```

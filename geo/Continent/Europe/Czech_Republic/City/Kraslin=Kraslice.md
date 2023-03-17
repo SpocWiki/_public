@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kraslin=Kraslice
+coordinates: [[Kraslin=Kraslice]]
+markerFile: [[Kraslin=Kraslice]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chiavari
+coordinates: [[Chiavari]]
+markerFile: [[Chiavari]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.93,8.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laasphe
+coordinates: [[Laasphe]]
+markerFile: [[Laasphe]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duerrwangen
+coordinates: [[Duerrwangen]]
+markerFile: [[Duerrwangen]]
+defaultZoom: 11 
+maxZoom: 18
+```

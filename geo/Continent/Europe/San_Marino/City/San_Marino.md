@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.93,12.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Marino
+coordinates: [[San Marino]]
+markerFile: [[San Marino]]
+defaultZoom: 11 
+maxZoom: 18
+```

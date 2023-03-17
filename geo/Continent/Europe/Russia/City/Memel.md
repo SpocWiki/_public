@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Memel
+coordinates: [[Memel]]
+markerFile: [[Memel]]
+defaultZoom: 11 
+maxZoom: 18
+```

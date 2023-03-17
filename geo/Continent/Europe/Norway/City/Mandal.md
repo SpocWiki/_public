@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mandal
+coordinates: [[Mandal]]
+markerFile: [[Mandal]]
+defaultZoom: 11 
+maxZoom: 18
+```

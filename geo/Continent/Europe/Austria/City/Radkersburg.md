@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radkersburg
+coordinates: [[Radkersburg]]
+markerFile: [[Radkersburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [14.63333,-90.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Guatemala City
+coordinates: [[Guatemala City]]
+markerFile: [[Guatemala City]]
+defaultZoom: 11 
+maxZoom: 18
+```

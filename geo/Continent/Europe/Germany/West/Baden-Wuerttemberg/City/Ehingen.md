@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ehingen
+coordinates: [[Ehingen]]
+markerFile: [[Ehingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

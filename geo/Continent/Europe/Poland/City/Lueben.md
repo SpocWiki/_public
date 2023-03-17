@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.4,16.22]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lueben
+coordinates: [[Lueben]]
+markerFile: [[Lueben]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.23,10.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herrieden
+coordinates: [[Herrieden]]
+markerFile: [[Herrieden]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rozinka
+coordinates: [[Rozinka]]
+markerFile: [[Rozinka]]
+defaultZoom: 11 
+maxZoom: 18
+```

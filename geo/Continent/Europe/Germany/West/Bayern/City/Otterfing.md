@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.92,11.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Otterfing
+coordinates: [[Otterfing]]
+markerFile: [[Otterfing]]
+defaultZoom: 11 
+maxZoom: 18
+```

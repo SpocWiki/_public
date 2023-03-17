@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bastad
+coordinates: [[Bastad]]
+markerFile: [[Bastad]]
+defaultZoom: 11 
+maxZoom: 18
+```

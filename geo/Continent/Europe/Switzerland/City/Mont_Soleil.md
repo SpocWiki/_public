@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.15,7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mont Soleil
+coordinates: [[Mont Soleil]]
+markerFile: [[Mont Soleil]]
+defaultZoom: 11 
+maxZoom: 18
+```

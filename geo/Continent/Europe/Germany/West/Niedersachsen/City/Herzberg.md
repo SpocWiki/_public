@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herzberg
+coordinates: [[Herzberg]]
+markerFile: [[Herzberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

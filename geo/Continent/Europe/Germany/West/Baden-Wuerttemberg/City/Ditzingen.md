@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ditzingen
+coordinates: [[Ditzingen]]
+markerFile: [[Ditzingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

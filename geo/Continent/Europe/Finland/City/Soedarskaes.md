@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soedarskaes
+coordinates: [[Soedarskaes]]
+markerFile: [[Soedarskaes]]
+defaultZoom: 11 
+maxZoom: 18
+```

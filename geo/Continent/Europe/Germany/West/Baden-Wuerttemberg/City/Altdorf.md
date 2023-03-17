@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altdorf
+coordinates: [[Altdorf]]
+markerFile: [[Altdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

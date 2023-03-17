@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heerlen
+coordinates: [[Heerlen]]
+markerFile: [[Heerlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Civita Vecchia
+coordinates: [[Civita Vecchia]]
+markerFile: [[Civita Vecchia]]
+defaultZoom: 11 
+maxZoom: 18
+```

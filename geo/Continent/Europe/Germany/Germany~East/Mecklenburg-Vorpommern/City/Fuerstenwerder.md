@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuerstenwerder
+coordinates: [[Fuerstenwerder]]
+markerFile: [[Fuerstenwerder]]
+defaultZoom: 11 
+maxZoom: 18
+```

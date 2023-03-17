@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pontevedra
+coordinates: [[Pontevedra]]
+markerFile: [[Pontevedra]]
+defaultZoom: 11 
+maxZoom: 18
+```

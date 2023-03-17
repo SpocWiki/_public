@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.62,9.73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marbach~Fulda
+coordinates: [[Marbach~Fulda]]
+markerFile: [[Marbach~Fulda]]
+defaultZoom: 11 
+maxZoom: 18
+```

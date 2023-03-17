@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.1,23.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brest
+coordinates: [[Brest]]
+markerFile: [[Brest]]
+defaultZoom: 11 
+maxZoom: 18
+```

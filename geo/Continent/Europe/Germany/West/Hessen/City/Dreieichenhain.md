@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dreieichenhain
+coordinates: [[Dreieichenhain]]
+markerFile: [[Dreieichenhain]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turtkul
+coordinates: [[Turtkul]]
+markerFile: [[Turtkul]]
+defaultZoom: 11 
+maxZoom: 18
+```

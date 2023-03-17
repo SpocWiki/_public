@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bobritsch
+coordinates: [[Bobritsch]]
+markerFile: [[Bobritsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

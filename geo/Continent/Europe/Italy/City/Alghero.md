@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.55,8.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alghero
+coordinates: [[Alghero]]
+markerFile: [[Alghero]]
+defaultZoom: 11 
+maxZoom: 18
+```

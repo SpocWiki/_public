@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bernstadt/Schlesien
+coordinates: [[Bernstadt/Schlesien]]
+markerFile: [[Bernstadt/Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

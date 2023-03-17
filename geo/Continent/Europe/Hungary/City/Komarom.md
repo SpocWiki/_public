@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.73,18.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Komarom
+coordinates: [[Komarom]]
+markerFile: [[Komarom]]
+defaultZoom: 11 
+maxZoom: 18
+```

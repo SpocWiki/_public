@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kamen Rybdow
+coordinates: [[Kamen Rybdow]]
+markerFile: [[Kamen Rybdow]]
+defaultZoom: 11 
+maxZoom: 18
+```

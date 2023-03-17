@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hawick
+coordinates: [[Hawick]]
+markerFile: [[Hawick]]
+defaultZoom: 11 
+maxZoom: 18
+```

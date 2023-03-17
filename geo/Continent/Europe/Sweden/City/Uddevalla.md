@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uddevalla
+coordinates: [[Uddevalla]]
+markerFile: [[Uddevalla]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bie
+coordinates: [[Bie]]
+markerFile: [[Bie]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muenchehof
+coordinates: [[Muenchehof]]
+markerFile: [[Muenchehof]]
+defaultZoom: 11 
+maxZoom: 18
+```

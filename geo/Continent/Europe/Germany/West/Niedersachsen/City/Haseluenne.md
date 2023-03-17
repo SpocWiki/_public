@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haseluenne
+coordinates: [[Haseluenne]]
+markerFile: [[Haseluenne]]
+defaultZoom: 11 
+maxZoom: 18
+```

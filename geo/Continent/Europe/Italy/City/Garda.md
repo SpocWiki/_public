@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Garda
+coordinates: [[Garda]]
+markerFile: [[Garda]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [61.67,50.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Syklyvkar=List Sysolske
+coordinates: [[Syklyvkar=List Sysolske]]
+markerFile: [[Syklyvkar=List Sysolske]]
+defaultZoom: 11 
+maxZoom: 18
+```

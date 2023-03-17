@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gaildorf
+coordinates: [[Gaildorf]]
+markerFile: [[Gaildorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

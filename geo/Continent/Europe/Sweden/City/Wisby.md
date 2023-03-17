@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wisby
+coordinates: [[Wisby]]
+markerFile: [[Wisby]]
+defaultZoom: 11 
+maxZoom: 18
+```

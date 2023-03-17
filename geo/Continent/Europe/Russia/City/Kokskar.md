@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kokskar
+coordinates: [[Kokskar]]
+markerFile: [[Kokskar]]
+defaultZoom: 11 
+maxZoom: 18
+```

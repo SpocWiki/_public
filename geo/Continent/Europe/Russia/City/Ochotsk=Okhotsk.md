@@ -1,4 +1,4 @@
----
+﻿---
 location: [59.35,143.28]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ochotsk=Okhotsk
+coordinates: [[Ochotsk=Okhotsk]]
+markerFile: [[Ochotsk=Okhotsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaiseringen
+coordinates: [[Kaiseringen]]
+markerFile: [[Kaiseringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

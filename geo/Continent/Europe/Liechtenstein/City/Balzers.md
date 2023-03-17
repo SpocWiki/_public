@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Balzers
+coordinates: [[Balzers]]
+markerFile: [[Balzers]]
+defaultZoom: 11 
+maxZoom: 18
+```

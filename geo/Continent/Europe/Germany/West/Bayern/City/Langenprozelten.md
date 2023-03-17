@@ -1,4 +1,4 @@
----
+﻿---
 location: [50,9.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenprozelten
+coordinates: [[Langenprozelten]]
+markerFile: [[Langenprozelten]]
+defaultZoom: 11 
+maxZoom: 18
+```

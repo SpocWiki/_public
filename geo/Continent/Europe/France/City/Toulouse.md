@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Toulouse
+coordinates: [[Toulouse]]
+markerFile: [[Toulouse]]
+defaultZoom: 11 
+maxZoom: 18
+```

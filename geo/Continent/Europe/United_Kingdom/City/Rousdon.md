@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rousdon
+coordinates: [[Rousdon]]
+markerFile: [[Rousdon]]
+defaultZoom: 11 
+maxZoom: 18
+```

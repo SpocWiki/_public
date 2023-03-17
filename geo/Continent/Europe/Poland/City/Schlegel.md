@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schlegel
+coordinates: [[Schlegel]]
+markerFile: [[Schlegel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.33,7.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Homburg~Saar
+coordinates: [[Homburg~Saar]]
+markerFile: [[Homburg~Saar]]
+defaultZoom: 11 
+maxZoom: 18
+```

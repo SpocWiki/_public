@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turnu Severin
+coordinates: [[Turnu Severin]]
+markerFile: [[Turnu Severin]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sottomarina
+coordinates: [[Sottomarina]]
+markerFile: [[Sottomarina]]
+defaultZoom: 11 
+maxZoom: 18
+```

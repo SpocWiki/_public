@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Anne
+coordinates: [[St.Anne]]
+markerFile: [[St.Anne]]
+defaultZoom: 11 
+maxZoom: 18
+```

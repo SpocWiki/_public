@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stuhr
+coordinates: [[Stuhr]]
+markerFile: [[Stuhr]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kinnared
+coordinates: [[Kinnared]]
+markerFile: [[Kinnared]]
+defaultZoom: 11 
+maxZoom: 18
+```

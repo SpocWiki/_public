@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castellamaro di Golfo
+coordinates: [[Castellamaro di Golfo]]
+markerFile: [[Castellamaro di Golfo]]
+defaultZoom: 11 
+maxZoom: 18
+```

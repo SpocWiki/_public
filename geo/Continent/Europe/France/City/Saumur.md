@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saumur
+coordinates: [[Saumur]]
+markerFile: [[Saumur]]
+defaultZoom: 11 
+maxZoom: 18
+```

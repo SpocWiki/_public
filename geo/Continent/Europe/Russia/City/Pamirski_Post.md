@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pamirski Post
+coordinates: [[Pamirski Post]]
+markerFile: [[Pamirski Post]]
+defaultZoom: 11 
+maxZoom: 18
+```

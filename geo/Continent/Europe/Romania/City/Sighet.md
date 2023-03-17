@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sighet
+coordinates: [[Sighet]]
+markerFile: [[Sighet]]
+defaultZoom: 11 
+maxZoom: 18
+```

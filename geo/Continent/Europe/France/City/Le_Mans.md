@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Le Mans
+coordinates: [[Le Mans]]
+markerFile: [[Le Mans]]
+defaultZoom: 11 
+maxZoom: 18
+```

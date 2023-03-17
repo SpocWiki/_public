@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschernohye
+coordinates: [[Tschernohye]]
+markerFile: [[Tschernohye]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fontanella
+coordinates: [[Fontanella]]
+markerFile: [[Fontanella]]
+defaultZoom: 11 
+maxZoom: 18
+```

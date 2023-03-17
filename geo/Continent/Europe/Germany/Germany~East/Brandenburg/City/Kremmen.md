@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kremmen
+coordinates: [[Kremmen]]
+markerFile: [[Kremmen]]
+defaultZoom: 11 
+maxZoom: 18
+```

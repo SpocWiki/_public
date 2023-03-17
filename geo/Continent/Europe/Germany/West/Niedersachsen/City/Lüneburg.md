@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.24,10.41]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -14,9 +14,17 @@ confidential: public
 ---
 [geo-lon::10.41]
 [geo-lat::53.24]
-[name::Lueneburg]
+[name::Lüneburg]
 [Country::[[Germany]]]
 [State :: [[../../Niedersachsen]] ]
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lueneburg
+coordinates: [[Lueneburg]]
+markerFile: [[Lueneburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

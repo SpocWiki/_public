@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schliersee
+coordinates: [[Schliersee]]
+markerFile: [[Schliersee]]
+defaultZoom: 11 
+maxZoom: 18
+```

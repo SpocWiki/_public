@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.18,5.62]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ciotat
+coordinates: [[Ciotat]]
+markerFile: [[Ciotat]]
+defaultZoom: 11 
+maxZoom: 18
+```

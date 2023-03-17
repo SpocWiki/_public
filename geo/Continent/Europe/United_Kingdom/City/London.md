@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: London
+coordinates: [[London]]
+markerFile: [[London]]
+defaultZoom: 11 
+maxZoom: 18
+```

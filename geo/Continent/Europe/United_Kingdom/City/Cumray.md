@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cumray
+coordinates: [[Cumray]]
+markerFile: [[Cumray]]
+defaultZoom: 11 
+maxZoom: 18
+```

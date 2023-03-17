@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wallerode
+coordinates: [[Wallerode]]
+markerFile: [[Wallerode]]
+defaultZoom: 11 
+maxZoom: 18
+```

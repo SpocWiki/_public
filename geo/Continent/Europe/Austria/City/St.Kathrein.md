@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Kathrein
+coordinates: [[St.Kathrein]]
+markerFile: [[St.Kathrein]]
+defaultZoom: 11 
+maxZoom: 18
+```

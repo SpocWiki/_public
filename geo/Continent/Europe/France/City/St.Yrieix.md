@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Yrieix
+coordinates: [[St.Yrieix]]
+markerFile: [[St.Yrieix]]
+defaultZoom: 11 
+maxZoom: 18
+```

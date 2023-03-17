@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beilngries
+coordinates: [[Beilngries]]
+markerFile: [[Beilngries]]
+defaultZoom: 11 
+maxZoom: 18
+```

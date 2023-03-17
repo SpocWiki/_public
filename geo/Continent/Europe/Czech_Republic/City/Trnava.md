@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trnava
+coordinates: [[Trnava]]
+markerFile: [[Trnava]]
+defaultZoom: 11 
+maxZoom: 18
+```

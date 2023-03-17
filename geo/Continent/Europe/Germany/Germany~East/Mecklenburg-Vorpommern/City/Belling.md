@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belling
+coordinates: [[Belling]]
+markerFile: [[Belling]]
+defaultZoom: 11 
+maxZoom: 18
+```

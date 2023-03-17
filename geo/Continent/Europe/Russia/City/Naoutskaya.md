@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Naoutskaya
+coordinates: [[Naoutskaya]]
+markerFile: [[Naoutskaya]]
+defaultZoom: 11 
+maxZoom: 18
+```

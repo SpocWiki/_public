@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boitwarden
+coordinates: [[Boitwarden]]
+markerFile: [[Boitwarden]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oelde
+coordinates: [[Oelde]]
+markerFile: [[Oelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

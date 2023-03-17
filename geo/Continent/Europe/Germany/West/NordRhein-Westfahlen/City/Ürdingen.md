@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ürdingen
+coordinates: [[Ürdingen]]
+markerFile: [[Ürdingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

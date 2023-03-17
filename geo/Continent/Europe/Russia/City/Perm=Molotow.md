@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perm=Molotow
+coordinates: [[Perm=Molotow]]
+markerFile: [[Perm=Molotow]]
+defaultZoom: 11 
+maxZoom: 18
+```

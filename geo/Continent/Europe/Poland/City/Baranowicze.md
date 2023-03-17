@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baranowicze
+coordinates: [[Baranowicze]]
+markerFile: [[Baranowicze]]
+defaultZoom: 11 
+maxZoom: 18
+```

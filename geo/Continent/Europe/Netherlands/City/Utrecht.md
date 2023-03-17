@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Utrecht
+coordinates: [[Utrecht]]
+markerFile: [[Utrecht]]
+defaultZoom: 11 
+maxZoom: 18
+```

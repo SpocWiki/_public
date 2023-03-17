@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plymouth
+coordinates: [[Plymouth]]
+markerFile: [[Plymouth]]
+defaultZoom: 11 
+maxZoom: 18
+```

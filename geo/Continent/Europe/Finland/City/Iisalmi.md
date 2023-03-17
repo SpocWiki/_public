@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Iisalmi
+coordinates: [[Iisalmi]]
+markerFile: [[Iisalmi]]
+defaultZoom: 11 
+maxZoom: 18
+```

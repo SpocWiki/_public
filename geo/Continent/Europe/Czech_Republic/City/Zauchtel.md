@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zauchtel
+coordinates: [[Zauchtel]]
+markerFile: [[Zauchtel]]
+defaultZoom: 11 
+maxZoom: 18
+```

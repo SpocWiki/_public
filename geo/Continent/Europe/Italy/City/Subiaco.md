@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Subiaco
+coordinates: [[Subiaco]]
+markerFile: [[Subiaco]]
+defaultZoom: 11 
+maxZoom: 18
+```

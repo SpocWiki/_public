@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.12,6.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: La Chaux de Fonds
+coordinates: [[La Chaux de Fonds]]
+markerFile: [[La Chaux de Fonds]]
+defaultZoom: 11 
+maxZoom: 18
+```

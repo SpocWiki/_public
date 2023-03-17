@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.23,6.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaarst
+coordinates: [[Kaarst]]
+markerFile: [[Kaarst]]
+defaultZoom: 11 
+maxZoom: 18
+```

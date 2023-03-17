@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalksburg
+coordinates: [[Kalksburg]]
+markerFile: [[Kalksburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

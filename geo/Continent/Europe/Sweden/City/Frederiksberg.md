@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frederiksberg
+coordinates: [[Frederiksberg]]
+markerFile: [[Frederiksberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

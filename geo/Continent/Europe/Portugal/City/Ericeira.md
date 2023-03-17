@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ericeira
+coordinates: [[Ericeira]]
+markerFile: [[Ericeira]]
+defaultZoom: 11 
+maxZoom: 18
+```

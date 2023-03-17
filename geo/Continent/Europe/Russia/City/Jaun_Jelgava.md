@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jaun Jelgava
+coordinates: [[Jaun Jelgava]]
+markerFile: [[Jaun Jelgava]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.67,-9.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Almada
+coordinates: [[Almada]]
+markerFile: [[Almada]]
+defaultZoom: 11 
+maxZoom: 18
+```

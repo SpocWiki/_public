@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liedberg
+coordinates: [[Liedberg]]
+markerFile: [[Liedberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

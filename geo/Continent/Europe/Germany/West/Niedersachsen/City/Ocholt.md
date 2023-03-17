@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ocholt
+coordinates: [[Ocholt]]
+markerFile: [[Ocholt]]
+defaultZoom: 11 
+maxZoom: 18
+```

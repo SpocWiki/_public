@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laage
+coordinates: [[Laage]]
+markerFile: [[Laage]]
+defaultZoom: 11 
+maxZoom: 18
+```

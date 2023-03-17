@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quebec
+coordinates: [[Quebec]]
+markerFile: [[Quebec]]
+defaultZoom: 11 
+maxZoom: 18
+```

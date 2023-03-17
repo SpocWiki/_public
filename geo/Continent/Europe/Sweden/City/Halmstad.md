@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halmstad
+coordinates: [[Halmstad]]
+markerFile: [[Halmstad]]
+defaultZoom: 11 
+maxZoom: 18
+```

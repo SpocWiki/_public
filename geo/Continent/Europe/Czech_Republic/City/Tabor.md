@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tabor
+coordinates: [[Tabor]]
+markerFile: [[Tabor]]
+defaultZoom: 11 
+maxZoom: 18
+```

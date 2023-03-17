@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.53,72.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osh
+coordinates: [[Osh]]
+markerFile: [[Osh]]
+defaultZoom: 11 
+maxZoom: 18
+```

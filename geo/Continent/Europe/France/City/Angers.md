@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Angers
+coordinates: [[Angers]]
+markerFile: [[Angers]]
+defaultZoom: 11 
+maxZoom: 18
+```

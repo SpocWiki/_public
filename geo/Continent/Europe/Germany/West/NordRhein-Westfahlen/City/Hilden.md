@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hilden
+coordinates: [[Hilden]]
+markerFile: [[Hilden]]
+defaultZoom: 11 
+maxZoom: 18
+```

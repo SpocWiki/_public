@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alter Berg
+coordinates: [[Alter Berg]]
+markerFile: [[Alter Berg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.13,13.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Camerino
+coordinates: [[Camerino]]
+markerFile: [[Camerino]]
+defaultZoom: 11 
+maxZoom: 18
+```

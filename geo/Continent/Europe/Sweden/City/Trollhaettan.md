@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trollhaettan
+coordinates: [[Trollhaettan]]
+markerFile: [[Trollhaettan]]
+defaultZoom: 11 
+maxZoom: 18
+```

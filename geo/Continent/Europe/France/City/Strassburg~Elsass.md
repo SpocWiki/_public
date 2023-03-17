@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.58,7.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strassburg~Elsass
+coordinates: [[Strassburg~Elsass]]
+markerFile: [[Strassburg~Elsass]]
+defaultZoom: 11 
+maxZoom: 18
+```

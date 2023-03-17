@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Parchim
+coordinates: [[Parchim]]
+markerFile: [[Parchim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valkenberg
+coordinates: [[Valkenberg]]
+markerFile: [[Valkenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weinboehla
+coordinates: [[Weinboehla]]
+markerFile: [[Weinboehla]]
+defaultZoom: 11 
+maxZoom: 18
+```

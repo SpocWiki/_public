@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ammerfeld
+coordinates: [[Ammerfeld]]
+markerFile: [[Ammerfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

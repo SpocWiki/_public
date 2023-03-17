@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mehlauken
+coordinates: [[Mehlauken]]
+markerFile: [[Mehlauken]]
+defaultZoom: 11 
+maxZoom: 18
+```

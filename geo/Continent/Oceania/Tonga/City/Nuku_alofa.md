@@ -1,4 +1,4 @@
----
+﻿---
 location: [-21.13333,-175.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Nuku?alofa
+coordinates: [[Nuku?alofa]]
+markerFile: [[Nuku?alofa]]
+defaultZoom: 11 
+maxZoom: 18
+```

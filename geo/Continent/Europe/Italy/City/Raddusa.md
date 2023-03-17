@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Raddusa
+coordinates: [[Raddusa]]
+markerFile: [[Raddusa]]
+defaultZoom: 11 
+maxZoom: 18
+```

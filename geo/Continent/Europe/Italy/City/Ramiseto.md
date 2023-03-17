@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ramiseto
+coordinates: [[Ramiseto]]
+markerFile: [[Ramiseto]]
+defaultZoom: 11 
+maxZoom: 18
+```

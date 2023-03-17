@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Coudouan
+coordinates: [[Coudouan]]
+markerFile: [[Coudouan]]
+defaultZoom: 11 
+maxZoom: 18
+```

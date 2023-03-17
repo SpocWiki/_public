@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Miami
+coordinates: [[Miami]]
+markerFile: [[Miami]]
+defaultZoom: 11 
+maxZoom: 18
+```

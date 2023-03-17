@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuenkirchen
+coordinates: [[Neuenkirchen]]
+markerFile: [[Neuenkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

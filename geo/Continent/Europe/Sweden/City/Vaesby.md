@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaesby
+coordinates: [[Vaesby]]
+markerFile: [[Vaesby]]
+defaultZoom: 11 
+maxZoom: 18
+```

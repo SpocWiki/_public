@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Niederheide
+coordinates: [[Niederheide]]
+markerFile: [[Niederheide]]
+defaultZoom: 11 
+maxZoom: 18
+```

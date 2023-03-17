@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.75,8.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lohn
+coordinates: [[Lohn]]
+markerFile: [[Lohn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gross-Olbersdorf
+coordinates: [[Gross-Olbersdorf]]
+markerFile: [[Gross-Olbersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

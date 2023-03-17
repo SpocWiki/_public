@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gussing
+coordinates: [[Gussing]]
+markerFile: [[Gussing]]
+defaultZoom: 11 
+maxZoom: 18
+```

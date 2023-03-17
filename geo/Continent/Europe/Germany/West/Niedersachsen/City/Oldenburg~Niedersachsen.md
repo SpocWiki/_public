@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oldenburg~Niedersachsen
+coordinates: [[Oldenburg~Niedersachsen]]
+markerFile: [[Oldenburg~Niedersachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

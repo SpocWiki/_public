@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huelva
+coordinates: [[Huelva]]
+markerFile: [[Huelva]]
+defaultZoom: 11 
+maxZoom: 18
+```

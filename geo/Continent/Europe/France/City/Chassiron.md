@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.03,-1.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chassiron
+coordinates: [[Chassiron]]
+markerFile: [[Chassiron]]
+defaultZoom: 11 
+maxZoom: 18
+```

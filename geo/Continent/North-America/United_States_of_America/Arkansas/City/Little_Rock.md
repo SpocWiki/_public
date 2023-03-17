@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Little Rock
+coordinates: [[Little Rock]]
+markerFile: [[Little Rock]]
+defaultZoom: 11 
+maxZoom: 18
+```

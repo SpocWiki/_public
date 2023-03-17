@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cardigan
+coordinates: [[Cardigan]]
+markerFile: [[Cardigan]]
+defaultZoom: 11 
+maxZoom: 18
+```

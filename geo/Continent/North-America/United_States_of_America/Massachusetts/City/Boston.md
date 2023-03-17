@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boston
+coordinates: [[Boston]]
+markerFile: [[Boston]]
+defaultZoom: 11 
+maxZoom: 18
+```

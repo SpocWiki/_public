@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Woessingen bei Karlsruhe
+coordinates: [[Woessingen bei Karlsruhe]]
+markerFile: [[Woessingen bei Karlsruhe]]
+defaultZoom: 11 
+maxZoom: 18
+```

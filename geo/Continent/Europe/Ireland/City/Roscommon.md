@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roscommon
+coordinates: [[Roscommon]]
+markerFile: [[Roscommon]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schenklengsfeld
+coordinates: [[Schenklengsfeld]]
+markerFile: [[Schenklengsfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

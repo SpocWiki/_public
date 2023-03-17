@@ -1,4 +1,4 @@
----
+﻿---
 location: [27.417,90.435]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Thimphu
+coordinates: [[Thimphu]]
+markerFile: [[Thimphu]]
+defaultZoom: 11 
+maxZoom: 18
+```

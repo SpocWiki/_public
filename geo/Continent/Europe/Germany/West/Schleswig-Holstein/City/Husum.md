@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Husum
+coordinates: [[Husum]]
+markerFile: [[Husum]]
+defaultZoom: 11 
+maxZoom: 18
+```

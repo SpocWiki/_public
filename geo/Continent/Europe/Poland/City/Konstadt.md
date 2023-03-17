@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Konstadt
+coordinates: [[Konstadt]]
+markerFile: [[Konstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

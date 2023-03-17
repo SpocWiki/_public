@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roma
+coordinates: [[Roma]]
+markerFile: [[Roma]]
+defaultZoom: 11 
+maxZoom: 18
+```

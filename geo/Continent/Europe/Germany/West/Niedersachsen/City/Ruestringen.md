@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruestringen
+coordinates: [[Ruestringen]]
+markerFile: [[Ruestringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

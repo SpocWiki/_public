@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sables d`Olonne
+coordinates: [[Sables d`Olonne]]
+markerFile: [[Sables d`Olonne]]
+defaultZoom: 11 
+maxZoom: 18
+```

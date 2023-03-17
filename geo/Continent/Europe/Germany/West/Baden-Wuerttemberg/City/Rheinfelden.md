@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rheinfelden
+coordinates: [[Rheinfelden]]
+markerFile: [[Rheinfelden]]
+defaultZoom: 11 
+maxZoom: 18
+```

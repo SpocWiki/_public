@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luckau
+coordinates: [[Luckau]]
+markerFile: [[Luckau]]
+defaultZoom: 11 
+maxZoom: 18
+```

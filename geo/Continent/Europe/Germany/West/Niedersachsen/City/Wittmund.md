@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wittmund
+coordinates: [[Wittmund]]
+markerFile: [[Wittmund]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Autun
+coordinates: [[Autun]]
+markerFile: [[Autun]]
+defaultZoom: 11 
+maxZoom: 18
+```

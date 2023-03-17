@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steyr
+coordinates: [[Steyr]]
+markerFile: [[Steyr]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altenkirchen
+coordinates: [[Altenkirchen]]
+markerFile: [[Altenkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

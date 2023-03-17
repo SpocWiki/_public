@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Insterburg
+coordinates: [[Insterburg]]
+markerFile: [[Insterburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

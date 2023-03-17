@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fischhausen
+coordinates: [[Fischhausen]]
+markerFile: [[Fischhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

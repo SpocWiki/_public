@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.78,17.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Keszthely
+coordinates: [[Keszthely]]
+markerFile: [[Keszthely]]
+defaultZoom: 11 
+maxZoom: 18
+```

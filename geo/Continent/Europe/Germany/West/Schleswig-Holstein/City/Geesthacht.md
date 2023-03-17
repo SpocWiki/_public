@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geesthacht
+coordinates: [[Geesthacht]]
+markerFile: [[Geesthacht]]
+defaultZoom: 11 
+maxZoom: 18
+```

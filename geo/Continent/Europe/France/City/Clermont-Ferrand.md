@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clermont-Ferrand
+coordinates: [[Clermont-Ferrand]]
+markerFile: [[Clermont-Ferrand]]
+defaultZoom: 11 
+maxZoom: 18
+```

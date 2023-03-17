@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.47,11.22]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mieste
+coordinates: [[Mieste]]
+markerFile: [[Mieste]]
+defaultZoom: 11 
+maxZoom: 18
+```

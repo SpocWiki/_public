@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osterburken
+coordinates: [[Osterburken]]
+markerFile: [[Osterburken]]
+defaultZoom: 11 
+maxZoom: 18
+```

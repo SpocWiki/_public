@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Massbach
+coordinates: [[Massbach]]
+markerFile: [[Massbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

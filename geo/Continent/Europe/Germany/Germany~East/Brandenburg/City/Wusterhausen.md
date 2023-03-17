@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.9,12.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wusterhausen
+coordinates: [[Wusterhausen]]
+markerFile: [[Wusterhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perinaldo
+coordinates: [[Perinaldo]]
+markerFile: [[Perinaldo]]
+defaultZoom: 11 
+maxZoom: 18
+```

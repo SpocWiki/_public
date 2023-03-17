@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dischingen
+coordinates: [[Dischingen]]
+markerFile: [[Dischingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

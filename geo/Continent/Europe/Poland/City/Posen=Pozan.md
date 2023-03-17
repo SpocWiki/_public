@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Posen=Pozan
+coordinates: [[Posen=Pozan]]
+markerFile: [[Posen=Pozan]]
+defaultZoom: 11 
+maxZoom: 18
+```

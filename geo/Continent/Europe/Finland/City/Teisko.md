@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teisko
+coordinates: [[Teisko]]
+markerFile: [[Teisko]]
+defaultZoom: 11 
+maxZoom: 18
+```

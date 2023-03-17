@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arendal
+coordinates: [[Arendal]]
+markerFile: [[Arendal]]
+defaultZoom: 11 
+maxZoom: 18
+```

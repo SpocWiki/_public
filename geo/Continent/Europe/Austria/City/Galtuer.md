@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Galtuer
+coordinates: [[Galtuer]]
+markerFile: [[Galtuer]]
+defaultZoom: 11 
+maxZoom: 18
+```

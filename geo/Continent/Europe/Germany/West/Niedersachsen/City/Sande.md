@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sande
+coordinates: [[Sande]]
+markerFile: [[Sande]]
+defaultZoom: 11 
+maxZoom: 18
+```

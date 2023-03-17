@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Woerishofen
+coordinates: [[Bad Woerishofen]]
+markerFile: [[Bad Woerishofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

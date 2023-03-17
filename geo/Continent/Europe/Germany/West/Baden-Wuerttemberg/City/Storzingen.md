@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Storzingen
+coordinates: [[Storzingen]]
+markerFile: [[Storzingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boesewig
+coordinates: [[Boesewig]]
+markerFile: [[Boesewig]]
+defaultZoom: 11 
+maxZoom: 18
+```

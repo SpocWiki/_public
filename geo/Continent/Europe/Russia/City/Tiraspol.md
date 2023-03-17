@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tiraspol
+coordinates: [[Tiraspol]]
+markerFile: [[Tiraspol]]
+defaultZoom: 11 
+maxZoom: 18
+```

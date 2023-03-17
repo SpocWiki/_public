@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luebberstedt
+coordinates: [[Luebberstedt]]
+markerFile: [[Luebberstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

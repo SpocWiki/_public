@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dulverton
+coordinates: [[Dulverton]]
+markerFile: [[Dulverton]]
+defaultZoom: 11 
+maxZoom: 18
+```

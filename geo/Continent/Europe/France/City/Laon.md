@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laon
+coordinates: [[Laon]]
+markerFile: [[Laon]]
+defaultZoom: 11 
+maxZoom: 18
+```

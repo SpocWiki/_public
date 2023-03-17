@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arnhem
+coordinates: [[Arnhem]]
+markerFile: [[Arnhem]]
+defaultZoom: 11 
+maxZoom: 18
+```

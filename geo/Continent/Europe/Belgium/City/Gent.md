@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gent
+coordinates: [[Gent]]
+markerFile: [[Gent]]
+defaultZoom: 11 
+maxZoom: 18
+```

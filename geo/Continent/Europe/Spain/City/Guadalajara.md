@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guadalajara
+coordinates: [[Guadalajara]]
+markerFile: [[Guadalajara]]
+defaultZoom: 11 
+maxZoom: 18
+```

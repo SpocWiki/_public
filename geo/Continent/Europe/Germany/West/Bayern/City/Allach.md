@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Allach
+coordinates: [[Allach]]
+markerFile: [[Allach]]
+defaultZoom: 11 
+maxZoom: 18
+```

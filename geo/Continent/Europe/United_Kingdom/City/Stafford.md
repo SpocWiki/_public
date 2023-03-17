@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stafford
+coordinates: [[Stafford]]
+markerFile: [[Stafford]]
+defaultZoom: 11 
+maxZoom: 18
+```

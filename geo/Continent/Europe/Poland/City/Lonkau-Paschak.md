@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lonkau-Paschak
+coordinates: [[Lonkau-Paschak]]
+markerFile: [[Lonkau-Paschak]]
+defaultZoom: 11 
+maxZoom: 18
+```

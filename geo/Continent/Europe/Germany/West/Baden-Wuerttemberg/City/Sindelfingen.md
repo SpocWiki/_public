@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sindelfingen
+coordinates: [[Sindelfingen]]
+markerFile: [[Sindelfingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

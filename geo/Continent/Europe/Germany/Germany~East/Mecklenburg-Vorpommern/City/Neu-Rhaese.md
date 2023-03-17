@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neu-Rhaese
+coordinates: [[Neu-Rhaese]]
+markerFile: [[Neu-Rhaese]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sceaux
+coordinates: [[Sceaux]]
+markerFile: [[Sceaux]]
+defaultZoom: 11 
+maxZoom: 18
+```

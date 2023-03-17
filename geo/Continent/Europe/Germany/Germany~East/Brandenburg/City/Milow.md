@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Milow
+coordinates: [[Milow]]
+markerFile: [[Milow]]
+defaultZoom: 11 
+maxZoom: 18
+```

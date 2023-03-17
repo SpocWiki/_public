@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petrovgrad
+coordinates: [[Petrovgrad]]
+markerFile: [[Petrovgrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

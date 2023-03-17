@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fairmount
+coordinates: [[Fairmount]]
+markerFile: [[Fairmount]]
+defaultZoom: 11 
+maxZoom: 18
+```

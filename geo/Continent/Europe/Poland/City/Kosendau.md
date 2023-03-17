@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kosendau
+coordinates: [[Kosendau]]
+markerFile: [[Kosendau]]
+defaultZoom: 11 
+maxZoom: 18
+```

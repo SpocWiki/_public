@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beeskow
+coordinates: [[Beeskow]]
+markerFile: [[Beeskow]]
+defaultZoom: 11 
+maxZoom: 18
+```

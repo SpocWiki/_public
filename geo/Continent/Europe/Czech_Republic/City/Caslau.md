@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Caslau
+coordinates: [[Caslau]]
+markerFile: [[Caslau]]
+defaultZoom: 11 
+maxZoom: 18
+```

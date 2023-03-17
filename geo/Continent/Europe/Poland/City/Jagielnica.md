@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jagielnica
+coordinates: [[Jagielnica]]
+markerFile: [[Jagielnica]]
+defaultZoom: 11 
+maxZoom: 18
+```

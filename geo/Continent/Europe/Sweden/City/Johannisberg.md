@@ -1,4 +1,4 @@
----
+﻿---
 location: [65.37,18.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Johannisberg
+coordinates: [[Johannisberg]]
+markerFile: [[Johannisberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

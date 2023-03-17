@@ -1,4 +1,4 @@
----
+﻿---
 location: [-64.62305,18.4314]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Road Town
+coordinates: [[Road Town]]
+markerFile: [[Road Town]]
+defaultZoom: 11 
+maxZoom: 18
+```

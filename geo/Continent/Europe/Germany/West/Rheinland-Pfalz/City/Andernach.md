@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Andernach
+coordinates: [[Andernach]]
+markerFile: [[Andernach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lyon
+coordinates: [[Lyon]]
+markerFile: [[Lyon]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gouda
+coordinates: [[Gouda]]
+markerFile: [[Gouda]]
+defaultZoom: 11 
+maxZoom: 18
+```

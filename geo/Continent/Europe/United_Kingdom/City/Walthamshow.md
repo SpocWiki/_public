@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Walthamshow
+coordinates: [[Walthamshow]]
+markerFile: [[Walthamshow]]
+defaultZoom: 11 
+maxZoom: 18
+```

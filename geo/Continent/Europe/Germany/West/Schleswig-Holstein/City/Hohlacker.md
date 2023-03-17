@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohlacker
+coordinates: [[Hohlacker]]
+markerFile: [[Hohlacker]]
+defaultZoom: 11 
+maxZoom: 18
+```

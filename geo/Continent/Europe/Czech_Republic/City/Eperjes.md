@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.98,21.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eperjes
+coordinates: [[Eperjes]]
+markerFile: [[Eperjes]]
+defaultZoom: 11 
+maxZoom: 18
+```

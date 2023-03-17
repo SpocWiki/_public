@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schopfheim
+coordinates: [[Schopfheim]]
+markerFile: [[Schopfheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

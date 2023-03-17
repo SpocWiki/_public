@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pyritz
+coordinates: [[Pyritz]]
+markerFile: [[Pyritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

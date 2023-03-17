@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grado
+coordinates: [[Grado]]
+markerFile: [[Grado]]
+defaultZoom: 11 
+maxZoom: 18
+```

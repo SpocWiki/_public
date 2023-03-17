@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Helsingfors
+coordinates: [[Helsingfors]]
+markerFile: [[Helsingfors]]
+defaultZoom: 11 
+maxZoom: 18
+```

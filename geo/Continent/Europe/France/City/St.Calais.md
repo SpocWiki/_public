@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Calais
+coordinates: [[St.Calais]]
+markerFile: [[St.Calais]]
+defaultZoom: 11 
+maxZoom: 18
+```

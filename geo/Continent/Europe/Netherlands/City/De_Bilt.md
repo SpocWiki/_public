@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: De Bilt
+coordinates: [[De Bilt]]
+markerFile: [[De Bilt]]
+defaultZoom: 11 
+maxZoom: 18
+```

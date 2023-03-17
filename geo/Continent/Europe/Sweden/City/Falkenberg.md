@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falkenberg
+coordinates: [[Falkenberg]]
+markerFile: [[Falkenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

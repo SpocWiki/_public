@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kolberg
+coordinates: [[Kolberg]]
+markerFile: [[Kolberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

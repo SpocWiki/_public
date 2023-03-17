@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bleckede
+coordinates: [[Bleckede]]
+markerFile: [[Bleckede]]
+defaultZoom: 11 
+maxZoom: 18
+```

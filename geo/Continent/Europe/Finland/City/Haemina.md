@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haemina
+coordinates: [[Haemina]]
+markerFile: [[Haemina]]
+defaultZoom: 11 
+maxZoom: 18
+```

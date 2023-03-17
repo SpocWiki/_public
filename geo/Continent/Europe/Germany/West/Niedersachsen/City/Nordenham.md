@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nordenham
+coordinates: [[Nordenham]]
+markerFile: [[Nordenham]]
+defaultZoom: 11 
+maxZoom: 18
+```

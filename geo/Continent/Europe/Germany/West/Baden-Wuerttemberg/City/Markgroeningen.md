@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Markgroeningen
+coordinates: [[Markgroeningen]]
+markerFile: [[Markgroeningen]]
+defaultZoom: 11 
+maxZoom: 18
+```

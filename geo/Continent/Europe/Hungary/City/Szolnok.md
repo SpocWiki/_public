@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szolnok
+coordinates: [[Szolnok]]
+markerFile: [[Szolnok]]
+defaultZoom: 11 
+maxZoom: 18
+```

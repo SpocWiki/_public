@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.5,7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Delle
+coordinates: [[Delle]]
+markerFile: [[Delle]]
+defaultZoom: 11 
+maxZoom: 18
+```

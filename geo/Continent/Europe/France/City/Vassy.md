@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vassy
+coordinates: [[Vassy]]
+markerFile: [[Vassy]]
+defaultZoom: 11 
+maxZoom: 18
+```

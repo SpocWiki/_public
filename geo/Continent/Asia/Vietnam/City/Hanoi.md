@@ -1,4 +1,4 @@
----
+﻿---
 location: [21.0333,105.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hanoi
+coordinates: [[Hanoi]]
+markerFile: [[Hanoi]]
+defaultZoom: 11 
+maxZoom: 18
+```

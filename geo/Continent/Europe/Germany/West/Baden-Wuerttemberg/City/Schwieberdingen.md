@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwieberdingen
+coordinates: [[Schwieberdingen]]
+markerFile: [[Schwieberdingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

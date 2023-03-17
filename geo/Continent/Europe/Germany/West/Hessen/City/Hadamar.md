@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hadamar
+coordinates: [[Hadamar]]
+markerFile: [[Hadamar]]
+defaultZoom: 11 
+maxZoom: 18
+```

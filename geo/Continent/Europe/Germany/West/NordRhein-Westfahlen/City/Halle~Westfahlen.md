@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halle~Westfahlen
+coordinates: [[Halle~Westfahlen]]
+markerFile: [[Halle~Westfahlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

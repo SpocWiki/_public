@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prizren
+coordinates: [[Prizren]]
+markerFile: [[Prizren]]
+defaultZoom: 11 
+maxZoom: 18
+```

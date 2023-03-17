@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marktredwitz
+coordinates: [[Marktredwitz]]
+markerFile: [[Marktredwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

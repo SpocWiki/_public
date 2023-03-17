@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tessin
+coordinates: [[Tessin]]
+markerFile: [[Tessin]]
+defaultZoom: 11 
+maxZoom: 18
+```

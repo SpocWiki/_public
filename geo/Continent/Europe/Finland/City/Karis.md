@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karis
+coordinates: [[Karis]]
+markerFile: [[Karis]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haugsdorf
+coordinates: [[Haugsdorf]]
+markerFile: [[Haugsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

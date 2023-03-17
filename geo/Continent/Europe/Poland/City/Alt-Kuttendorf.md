@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alt-Kuttendorf
+coordinates: [[Alt-Kuttendorf]]
+markerFile: [[Alt-Kuttendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

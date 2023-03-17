@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.95,20.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gyoma
+coordinates: [[Gyoma]]
+markerFile: [[Gyoma]]
+defaultZoom: 11 
+maxZoom: 18
+```

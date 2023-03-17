@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valsjoebyn
+coordinates: [[Valsjoebyn]]
+markerFile: [[Valsjoebyn]]
+defaultZoom: 11 
+maxZoom: 18
+```

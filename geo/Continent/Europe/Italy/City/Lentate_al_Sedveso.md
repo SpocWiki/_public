@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lentate al Sedveso
+coordinates: [[Lentate al Sedveso]]
+markerFile: [[Lentate al Sedveso]]
+defaultZoom: 11 
+maxZoom: 18
+```

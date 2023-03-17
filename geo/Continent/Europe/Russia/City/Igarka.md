@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Igarka
+coordinates: [[Igarka]]
+markerFile: [[Igarka]]
+defaultZoom: 11 
+maxZoom: 18
+```

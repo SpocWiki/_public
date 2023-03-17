@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Setubel
+coordinates: [[Setubel]]
+markerFile: [[Setubel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Horn-Meinberg
+coordinates: [[Horn-Meinberg]]
+markerFile: [[Horn-Meinberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

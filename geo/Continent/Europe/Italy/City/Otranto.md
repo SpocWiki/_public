@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Otranto
+coordinates: [[Otranto]]
+markerFile: [[Otranto]]
+defaultZoom: 11 
+maxZoom: 18
+```

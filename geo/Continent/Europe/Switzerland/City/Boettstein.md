@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boettstein
+coordinates: [[Boettstein]]
+markerFile: [[Boettstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

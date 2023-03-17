@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liaskowik
+coordinates: [[Liaskowik]]
+markerFile: [[Liaskowik]]
+defaultZoom: 11 
+maxZoom: 18
+```

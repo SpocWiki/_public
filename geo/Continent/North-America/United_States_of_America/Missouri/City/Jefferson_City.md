@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jefferson City
+coordinates: [[Jefferson City]]
+markerFile: [[Jefferson City]]
+defaultZoom: 11 
+maxZoom: 18
+```

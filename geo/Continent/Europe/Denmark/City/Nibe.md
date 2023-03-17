@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nibe
+coordinates: [[Nibe]]
+markerFile: [[Nibe]]
+defaultZoom: 11 
+maxZoom: 18
+```

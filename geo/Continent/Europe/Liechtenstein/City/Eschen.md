@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eschen
+coordinates: [[Eschen]]
+markerFile: [[Eschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

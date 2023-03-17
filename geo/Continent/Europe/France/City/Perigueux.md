@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perigueux
+coordinates: [[Perigueux]]
+markerFile: [[Perigueux]]
+defaultZoom: 11 
+maxZoom: 18
+```

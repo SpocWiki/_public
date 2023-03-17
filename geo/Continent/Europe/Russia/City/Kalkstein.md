@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalkstein
+coordinates: [[Kalkstein]]
+markerFile: [[Kalkstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

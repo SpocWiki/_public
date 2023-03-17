@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaettis
+coordinates: [[Vaettis]]
+markerFile: [[Vaettis]]
+defaultZoom: 11 
+maxZoom: 18
+```

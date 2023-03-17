@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meckelfeld
+coordinates: [[Meckelfeld]]
+markerFile: [[Meckelfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waltrop
+coordinates: [[Waltrop]]
+markerFile: [[Waltrop]]
+defaultZoom: 11 
+maxZoom: 18
+```

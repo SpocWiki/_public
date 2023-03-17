@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herrnhut
+coordinates: [[Herrnhut]]
+markerFile: [[Herrnhut]]
+defaultZoom: 11 
+maxZoom: 18
+```

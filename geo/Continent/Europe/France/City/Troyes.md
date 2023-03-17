@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troyes
+coordinates: [[Troyes]]
+markerFile: [[Troyes]]
+defaultZoom: 11 
+maxZoom: 18
+```

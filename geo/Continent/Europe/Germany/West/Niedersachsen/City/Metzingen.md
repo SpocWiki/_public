@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Metzingen
+coordinates: [[Metzingen]]
+markerFile: [[Metzingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

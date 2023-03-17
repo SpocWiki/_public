@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laval
+coordinates: [[Laval]]
+markerFile: [[Laval]]
+defaultZoom: 11 
+maxZoom: 18
+```

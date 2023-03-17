@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Achern
+coordinates: [[Achern]]
+markerFile: [[Achern]]
+defaultZoom: 11 
+maxZoom: 18
+```

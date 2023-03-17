@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bietigheim Bissingen
+coordinates: [[Bietigheim Bissingen]]
+markerFile: [[Bietigheim Bissingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

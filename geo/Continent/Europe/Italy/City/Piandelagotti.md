@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Piandelagotti
+coordinates: [[Piandelagotti]]
+markerFile: [[Piandelagotti]]
+defaultZoom: 11 
+maxZoom: 18
+```

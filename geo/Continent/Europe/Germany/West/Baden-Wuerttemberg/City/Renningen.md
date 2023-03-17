@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Renningen
+coordinates: [[Renningen]]
+markerFile: [[Renningen]]
+defaultZoom: 11 
+maxZoom: 18
+```

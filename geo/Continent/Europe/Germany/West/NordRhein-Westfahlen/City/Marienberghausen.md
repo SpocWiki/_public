@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marienberghausen
+coordinates: [[Marienberghausen]]
+markerFile: [[Marienberghausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

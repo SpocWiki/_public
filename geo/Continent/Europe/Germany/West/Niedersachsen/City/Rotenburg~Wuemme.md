@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rotenburg~Wuemme
+coordinates: [[Rotenburg~Wuemme]]
+markerFile: [[Rotenburg~Wuemme]]
+defaultZoom: 11 
+maxZoom: 18
+```

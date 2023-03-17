@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grodno
+coordinates: [[Grodno]]
+markerFile: [[Grodno]]
+defaultZoom: 11 
+maxZoom: 18
+```

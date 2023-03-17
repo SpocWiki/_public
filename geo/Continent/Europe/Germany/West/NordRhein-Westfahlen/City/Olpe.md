@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Olpe
+coordinates: [[Olpe]]
+markerFile: [[Olpe]]
+defaultZoom: 11 
+maxZoom: 18
+```

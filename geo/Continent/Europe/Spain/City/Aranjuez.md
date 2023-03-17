@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aranjuez
+coordinates: [[Aranjuez]]
+markerFile: [[Aranjuez]]
+defaultZoom: 11 
+maxZoom: 18
+```

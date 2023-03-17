@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szombathely
+coordinates: [[Szombathely]]
+markerFile: [[Szombathely]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mitterteich
+coordinates: [[Mitterteich]]
+markerFile: [[Mitterteich]]
+defaultZoom: 11 
+maxZoom: 18
+```

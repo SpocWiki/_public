@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wegeleben
+coordinates: [[Wegeleben]]
+markerFile: [[Wegeleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

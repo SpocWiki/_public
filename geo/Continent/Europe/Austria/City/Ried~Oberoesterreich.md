@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.22,13.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ried~Oberoesterreich
+coordinates: [[Ried~Oberoesterreich]]
+markerFile: [[Ried~Oberoesterreich]]
+defaultZoom: 11 
+maxZoom: 18
+```

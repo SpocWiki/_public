@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nieder-Marschacht
+coordinates: [[Nieder-Marschacht]]
+markerFile: [[Nieder-Marschacht]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Crispiano
+coordinates: [[Crispiano]]
+markerFile: [[Crispiano]]
+defaultZoom: 11 
+maxZoom: 18
+```

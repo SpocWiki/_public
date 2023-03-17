@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goeteborg
+coordinates: [[Goeteborg]]
+markerFile: [[Goeteborg]]
+defaultZoom: 11 
+maxZoom: 18
+```

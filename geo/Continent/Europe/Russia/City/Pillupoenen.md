@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pillupoenen
+coordinates: [[Pillupoenen]]
+markerFile: [[Pillupoenen]]
+defaultZoom: 11 
+maxZoom: 18
+```

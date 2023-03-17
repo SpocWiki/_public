@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuehren
+coordinates: [[Kuehren]]
+markerFile: [[Kuehren]]
+defaultZoom: 11 
+maxZoom: 18
+```

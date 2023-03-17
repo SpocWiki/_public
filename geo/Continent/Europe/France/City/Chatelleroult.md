@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.82,0.55]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chatelleroult
+coordinates: [[Chatelleroult]]
+markerFile: [[Chatelleroult]]
+defaultZoom: 11 
+maxZoom: 18
+```

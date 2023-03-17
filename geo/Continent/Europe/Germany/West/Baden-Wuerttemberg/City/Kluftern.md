@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kluftern
+coordinates: [[Kluftern]]
+markerFile: [[Kluftern]]
+defaultZoom: 11 
+maxZoom: 18
+```

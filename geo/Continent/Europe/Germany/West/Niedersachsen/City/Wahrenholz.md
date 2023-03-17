@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wahrenholz
+coordinates: [[Wahrenholz]]
+markerFile: [[Wahrenholz]]
+defaultZoom: 11 
+maxZoom: 18
+```

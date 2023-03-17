@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muenster~Westfahlen
+coordinates: [[Muenster~Westfahlen]]
+markerFile: [[Muenster~Westfahlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

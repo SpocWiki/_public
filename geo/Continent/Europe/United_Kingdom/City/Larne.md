@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Larne
+coordinates: [[Larne]]
+markerFile: [[Larne]]
+defaultZoom: 11 
+maxZoom: 18
+```

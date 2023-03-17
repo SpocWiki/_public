@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigs-Wusterhausen
+coordinates: [[Koenigs-Wusterhausen]]
+markerFile: [[Koenigs-Wusterhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

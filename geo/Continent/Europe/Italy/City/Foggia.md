@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Foggia
+coordinates: [[Foggia]]
+markerFile: [[Foggia]]
+defaultZoom: 11 
+maxZoom: 18
+```

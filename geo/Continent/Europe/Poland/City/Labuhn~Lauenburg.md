@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Labuhn~Lauenburg
+coordinates: [[Labuhn~Lauenburg]]
+markerFile: [[Labuhn~Lauenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

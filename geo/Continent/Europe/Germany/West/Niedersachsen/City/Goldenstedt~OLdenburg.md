@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goldenstedt~OLdenburg
+coordinates: [[Goldenstedt~OLdenburg]]
+markerFile: [[Goldenstedt~OLdenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

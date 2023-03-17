@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pontarlier
+coordinates: [[Pontarlier]]
+markerFile: [[Pontarlier]]
+defaultZoom: 11 
+maxZoom: 18
+```

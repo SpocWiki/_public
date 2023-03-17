@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.88,25.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lida
+coordinates: [[Lida]]
+markerFile: [[Lida]]
+defaultZoom: 11 
+maxZoom: 18
+```

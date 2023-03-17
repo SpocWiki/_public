@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.08,35.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sukhinitchi
+coordinates: [[Sukhinitchi]]
+markerFile: [[Sukhinitchi]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moskwa
+coordinates: [[Moskwa]]
+markerFile: [[Moskwa]]
+defaultZoom: 11 
+maxZoom: 18
+```

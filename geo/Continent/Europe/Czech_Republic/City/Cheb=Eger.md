@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cheb=Eger
+coordinates: [[Cheb=Eger]]
+markerFile: [[Cheb=Eger]]
+defaultZoom: 11 
+maxZoom: 18
+```

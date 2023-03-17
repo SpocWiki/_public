@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.43,22.03]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Darkehmen
+coordinates: [[Darkehmen]]
+markerFile: [[Darkehmen]]
+defaultZoom: 11 
+maxZoom: 18
+```

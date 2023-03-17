@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Raisting
+coordinates: [[Raisting]]
+markerFile: [[Raisting]]
+defaultZoom: 11 
+maxZoom: 18
+```

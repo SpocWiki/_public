@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lublinitz
+coordinates: [[Lublinitz]]
+markerFile: [[Lublinitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

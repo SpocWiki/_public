@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldeck
+coordinates: [[Waldeck]]
+markerFile: [[Waldeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

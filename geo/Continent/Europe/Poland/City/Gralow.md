@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gralow
+coordinates: [[Gralow]]
+markerFile: [[Gralow]]
+defaultZoom: 11 
+maxZoom: 18
+```

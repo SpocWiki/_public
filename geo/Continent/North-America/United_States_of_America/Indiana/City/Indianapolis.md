@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Indianapolis
+coordinates: [[Indianapolis]]
+markerFile: [[Indianapolis]]
+defaultZoom: 11 
+maxZoom: 18
+```

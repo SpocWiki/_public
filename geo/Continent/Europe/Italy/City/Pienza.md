@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pienza
+coordinates: [[Pienza]]
+markerFile: [[Pienza]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falkirk
+coordinates: [[Falkirk]]
+markerFile: [[Falkirk]]
+defaultZoom: 11 
+maxZoom: 18
+```

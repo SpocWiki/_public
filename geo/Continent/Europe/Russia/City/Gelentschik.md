@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gelentschik
+coordinates: [[Gelentschik]]
+markerFile: [[Gelentschik]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flehingen
+coordinates: [[Flehingen]]
+markerFile: [[Flehingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwader
+coordinates: [[Schwader]]
+markerFile: [[Schwader]]
+defaultZoom: 11 
+maxZoom: 18
+```

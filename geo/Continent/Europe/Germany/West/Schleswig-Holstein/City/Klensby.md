@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klensby
+coordinates: [[Klensby]]
+markerFile: [[Klensby]]
+defaultZoom: 11 
+maxZoom: 18
+```

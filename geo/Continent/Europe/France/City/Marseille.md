@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marseille
+coordinates: [[Marseille]]
+markerFile: [[Marseille]]
+defaultZoom: 11 
+maxZoom: 18
+```

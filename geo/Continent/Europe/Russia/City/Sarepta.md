@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sarepta
+coordinates: [[Sarepta]]
+markerFile: [[Sarepta]]
+defaultZoom: 11 
+maxZoom: 18
+```

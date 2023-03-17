@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gehren
+coordinates: [[Gehren]]
+markerFile: [[Gehren]]
+defaultZoom: 11 
+maxZoom: 18
+```

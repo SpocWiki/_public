@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vohwinkel
+coordinates: [[Vohwinkel]]
+markerFile: [[Vohwinkel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weidenau an der Sieg
+coordinates: [[Weidenau an der Sieg]]
+markerFile: [[Weidenau an der Sieg]]
+defaultZoom: 11 
+maxZoom: 18
+```

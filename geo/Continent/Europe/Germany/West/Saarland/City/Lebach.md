@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lebach
+coordinates: [[Lebach]]
+markerFile: [[Lebach]]
+defaultZoom: 11 
+maxZoom: 18
+```

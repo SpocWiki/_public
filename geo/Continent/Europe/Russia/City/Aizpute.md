@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aizpute
+coordinates: [[Aizpute]]
+markerFile: [[Aizpute]]
+defaultZoom: 11 
+maxZoom: 18
+```

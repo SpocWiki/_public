@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lodz=Litzmannstadt
+coordinates: [[Lodz=Litzmannstadt]]
+markerFile: [[Lodz=Litzmannstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

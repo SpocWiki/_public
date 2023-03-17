@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwabsberg
+coordinates: [[Schwabsberg]]
+markerFile: [[Schwabsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

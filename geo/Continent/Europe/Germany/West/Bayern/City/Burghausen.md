@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burghausen
+coordinates: [[Burghausen]]
+markerFile: [[Burghausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

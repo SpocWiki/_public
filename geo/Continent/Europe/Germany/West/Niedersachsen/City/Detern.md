@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Detern
+coordinates: [[Detern]]
+markerFile: [[Detern]]
+defaultZoom: 11 
+maxZoom: 18
+```

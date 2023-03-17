@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wuerselen
+coordinates: [[Wuerselen]]
+markerFile: [[Wuerselen]]
+defaultZoom: 11 
+maxZoom: 18
+```

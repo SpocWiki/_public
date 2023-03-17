@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grondischken
+coordinates: [[Grondischken]]
+markerFile: [[Grondischken]]
+defaultZoom: 11 
+maxZoom: 18
+```

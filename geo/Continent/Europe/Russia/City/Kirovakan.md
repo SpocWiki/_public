@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirovakan
+coordinates: [[Kirovakan]]
+markerFile: [[Kirovakan]]
+defaultZoom: 11 
+maxZoom: 18
+```

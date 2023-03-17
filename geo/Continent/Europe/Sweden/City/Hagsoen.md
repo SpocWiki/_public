@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hagsoen
+coordinates: [[Hagsoen]]
+markerFile: [[Hagsoen]]
+defaultZoom: 11 
+maxZoom: 18
+```

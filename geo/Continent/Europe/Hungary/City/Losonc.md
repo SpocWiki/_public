@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.33,19.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Losonc
+coordinates: [[Losonc]]
+markerFile: [[Losonc]]
+defaultZoom: 11 
+maxZoom: 18
+```

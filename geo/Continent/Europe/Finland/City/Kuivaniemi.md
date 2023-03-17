@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuivaniemi
+coordinates: [[Kuivaniemi]]
+markerFile: [[Kuivaniemi]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neukirch~Sachsen
+coordinates: [[Neukirch~Sachsen]]
+markerFile: [[Neukirch~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

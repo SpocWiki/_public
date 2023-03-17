@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Denbigh
+coordinates: [[Denbigh]]
+markerFile: [[Denbigh]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoyerswerda
+coordinates: [[Hoyerswerda]]
+markerFile: [[Hoyerswerda]]
+defaultZoom: 11 
+maxZoom: 18
+```

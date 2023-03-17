@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quierschied
+coordinates: [[Quierschied]]
+markerFile: [[Quierschied]]
+defaultZoom: 11 
+maxZoom: 18
+```

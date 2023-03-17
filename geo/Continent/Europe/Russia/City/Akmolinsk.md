@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Akmolinsk
+coordinates: [[Akmolinsk]]
+markerFile: [[Akmolinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

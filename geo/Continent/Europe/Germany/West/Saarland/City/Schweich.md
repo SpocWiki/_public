@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schweich
+coordinates: [[Schweich]]
+markerFile: [[Schweich]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Suursaari
+coordinates: [[Suursaari]]
+markerFile: [[Suursaari]]
+defaultZoom: 11 
+maxZoom: 18
+```

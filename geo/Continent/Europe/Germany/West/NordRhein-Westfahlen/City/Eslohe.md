@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eslohe
+coordinates: [[Eslohe]]
+markerFile: [[Eslohe]]
+defaultZoom: 11 
+maxZoom: 18
+```

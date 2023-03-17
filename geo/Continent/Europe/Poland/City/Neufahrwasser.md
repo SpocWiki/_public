@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neufahrwasser
+coordinates: [[Neufahrwasser]]
+markerFile: [[Neufahrwasser]]
+defaultZoom: 11 
+maxZoom: 18
+```

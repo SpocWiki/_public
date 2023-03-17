@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weilburg
+coordinates: [[Weilburg]]
+markerFile: [[Weilburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

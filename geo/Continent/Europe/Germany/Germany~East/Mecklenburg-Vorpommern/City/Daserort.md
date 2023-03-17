@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Daserort
+coordinates: [[Daserort]]
+markerFile: [[Daserort]]
+defaultZoom: 11 
+maxZoom: 18
+```

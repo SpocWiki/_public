@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nontron
+coordinates: [[Nontron]]
+markerFile: [[Nontron]]
+defaultZoom: 11 
+maxZoom: 18
+```

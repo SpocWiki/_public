@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berloch
+coordinates: [[Berloch]]
+markerFile: [[Berloch]]
+defaultZoom: 11 
+maxZoom: 18
+```

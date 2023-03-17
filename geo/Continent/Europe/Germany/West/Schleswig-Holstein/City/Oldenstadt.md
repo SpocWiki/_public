@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oldenstadt
+coordinates: [[Oldenstadt]]
+markerFile: [[Oldenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rantasalmi
+coordinates: [[Rantasalmi]]
+markerFile: [[Rantasalmi]]
+defaultZoom: 11 
+maxZoom: 18
+```

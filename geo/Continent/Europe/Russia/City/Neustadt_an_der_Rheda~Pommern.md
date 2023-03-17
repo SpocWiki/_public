@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt an der Rheda~Pommern
+coordinates: [[Neustadt an der Rheda~Pommern]]
+markerFile: [[Neustadt an der Rheda~Pommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

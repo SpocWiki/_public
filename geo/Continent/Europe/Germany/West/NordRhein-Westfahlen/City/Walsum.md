@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Walsum
+coordinates: [[Walsum]]
+markerFile: [[Walsum]]
+defaultZoom: 11 
+maxZoom: 18
+```

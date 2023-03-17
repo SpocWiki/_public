@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sinn~Dillkreis
+coordinates: [[Sinn~Dillkreis]]
+markerFile: [[Sinn~Dillkreis]]
+defaultZoom: 11 
+maxZoom: 18
+```

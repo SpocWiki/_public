@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ronneburg
+coordinates: [[Ronneburg]]
+markerFile: [[Ronneburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

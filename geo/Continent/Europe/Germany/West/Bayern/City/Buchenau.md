@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buchenau
+coordinates: [[Buchenau]]
+markerFile: [[Buchenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

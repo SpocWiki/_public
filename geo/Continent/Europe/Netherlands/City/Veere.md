@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Veere
+coordinates: [[Veere]]
+markerFile: [[Veere]]
+defaultZoom: 11 
+maxZoom: 18
+```

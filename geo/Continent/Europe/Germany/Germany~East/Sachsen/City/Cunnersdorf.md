@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cunnersdorf
+coordinates: [[Cunnersdorf]]
+markerFile: [[Cunnersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

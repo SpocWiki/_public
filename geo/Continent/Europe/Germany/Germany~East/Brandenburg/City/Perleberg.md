@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perleberg
+coordinates: [[Perleberg]]
+markerFile: [[Perleberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

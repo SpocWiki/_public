@@ -1,4 +1,4 @@
----
+﻿---
 location: [64.37,21.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loevanger
+coordinates: [[Loevanger]]
+markerFile: [[Loevanger]]
+defaultZoom: 11 
+maxZoom: 18
+```

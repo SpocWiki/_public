@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mundenheim
+coordinates: [[Mundenheim]]
+markerFile: [[Mundenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [64.27,35.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Suma
+coordinates: [[Suma]]
+markerFile: [[Suma]]
+defaultZoom: 11 
+maxZoom: 18
+```

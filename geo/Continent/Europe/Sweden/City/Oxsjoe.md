@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oxsjoe
+coordinates: [[Oxsjoe]]
+markerFile: [[Oxsjoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

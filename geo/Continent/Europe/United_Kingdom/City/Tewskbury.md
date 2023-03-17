@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tewskbury
+coordinates: [[Tewskbury]]
+markerFile: [[Tewskbury]]
+defaultZoom: 11 
+maxZoom: 18
+```

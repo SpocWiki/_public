@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirkwall
+coordinates: [[Kirkwall]]
+markerFile: [[Kirkwall]]
+defaultZoom: 11 
+maxZoom: 18
+```

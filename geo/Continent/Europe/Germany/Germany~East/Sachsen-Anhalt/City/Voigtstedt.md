@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Voigtstedt
+coordinates: [[Voigtstedt]]
+markerFile: [[Voigtstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

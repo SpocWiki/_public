@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arendsee
+coordinates: [[Arendsee]]
+markerFile: [[Arendsee]]
+defaultZoom: 11 
+maxZoom: 18
+```

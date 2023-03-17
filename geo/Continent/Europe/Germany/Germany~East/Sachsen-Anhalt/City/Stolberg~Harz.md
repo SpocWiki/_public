@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stolberg~Harz
+coordinates: [[Stolberg~Harz]]
+markerFile: [[Stolberg~Harz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.15,11.03]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marwedel
+coordinates: [[Marwedel]]
+markerFile: [[Marwedel]]
+defaultZoom: 11 
+maxZoom: 18
+```

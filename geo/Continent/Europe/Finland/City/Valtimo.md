@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valtimo
+coordinates: [[Valtimo]]
+markerFile: [[Valtimo]]
+defaultZoom: 11 
+maxZoom: 18
+```

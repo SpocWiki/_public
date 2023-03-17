@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosswein
+coordinates: [[Rosswein]]
+markerFile: [[Rosswein]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Danzig
+coordinates: [[Danzig]]
+markerFile: [[Danzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

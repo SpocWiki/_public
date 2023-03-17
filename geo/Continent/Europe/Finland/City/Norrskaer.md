@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Norrskaer
+coordinates: [[Norrskaer]]
+markerFile: [[Norrskaer]]
+defaultZoom: 11 
+maxZoom: 18
+```

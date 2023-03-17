@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Miang
+coordinates: [[Miang]]
+markerFile: [[Miang]]
+defaultZoom: 11 
+maxZoom: 18
+```

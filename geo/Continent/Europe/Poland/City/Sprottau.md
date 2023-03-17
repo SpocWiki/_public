@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sprottau
+coordinates: [[Sprottau]]
+markerFile: [[Sprottau]]
+defaultZoom: 11 
+maxZoom: 18
+```

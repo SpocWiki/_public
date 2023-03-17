@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.53,18.38]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alessano
+coordinates: [[Alessano]]
+markerFile: [[Alessano]]
+defaultZoom: 11 
+maxZoom: 18
+```

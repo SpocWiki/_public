@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Piacenza
+coordinates: [[Piacenza]]
+markerFile: [[Piacenza]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tuchola
+coordinates: [[Tuchola]]
+markerFile: [[Tuchola]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Termez
+coordinates: [[Termez]]
+markerFile: [[Termez]]
+defaultZoom: 11 
+maxZoom: 18
+```

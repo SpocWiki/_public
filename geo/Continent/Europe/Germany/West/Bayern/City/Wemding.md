@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wemding
+coordinates: [[Wemding]]
+markerFile: [[Wemding]]
+defaultZoom: 11 
+maxZoom: 18
+```

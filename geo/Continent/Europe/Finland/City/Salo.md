@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salo
+coordinates: [[Salo]]
+markerFile: [[Salo]]
+defaultZoom: 11 
+maxZoom: 18
+```

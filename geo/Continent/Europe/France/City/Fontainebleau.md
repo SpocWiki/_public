@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fontainebleau
+coordinates: [[Fontainebleau]]
+markerFile: [[Fontainebleau]]
+defaultZoom: 11 
+maxZoom: 18
+```

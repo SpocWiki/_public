@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tremessen
+coordinates: [[Tremessen]]
+markerFile: [[Tremessen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nossentin
+coordinates: [[Nossentin]]
+markerFile: [[Nossentin]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plock
+coordinates: [[Plock]]
+markerFile: [[Plock]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weisenbach
+coordinates: [[Weisenbach]]
+markerFile: [[Weisenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

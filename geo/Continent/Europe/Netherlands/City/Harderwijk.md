@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harderwijk
+coordinates: [[Harderwijk]]
+markerFile: [[Harderwijk]]
+defaultZoom: 11 
+maxZoom: 18
+```

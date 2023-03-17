@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monteponi
+coordinates: [[Monteponi]]
+markerFile: [[Monteponi]]
+defaultZoom: 11 
+maxZoom: 18
+```

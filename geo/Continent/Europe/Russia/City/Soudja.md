@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soudja
+coordinates: [[Soudja]]
+markerFile: [[Soudja]]
+defaultZoom: 11 
+maxZoom: 18
+```

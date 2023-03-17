@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bantschikowo
+coordinates: [[Bantschikowo]]
+markerFile: [[Bantschikowo]]
+defaultZoom: 11 
+maxZoom: 18
+```

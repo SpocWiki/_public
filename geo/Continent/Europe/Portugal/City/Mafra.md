@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.93,-9.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mafra
+coordinates: [[Mafra]]
+markerFile: [[Mafra]]
+defaultZoom: 11 
+maxZoom: 18
+```

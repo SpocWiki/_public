@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.62,15.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eckersdorf
+coordinates: [[Eckersdorf]]
+markerFile: [[Eckersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

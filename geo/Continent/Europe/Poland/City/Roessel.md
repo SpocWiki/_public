@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.05,21.15]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roessel
+coordinates: [[Roessel]]
+markerFile: [[Roessel]]
+defaultZoom: 11 
+maxZoom: 18
+```

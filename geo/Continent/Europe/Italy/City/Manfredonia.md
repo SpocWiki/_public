@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Manfredonia
+coordinates: [[Manfredonia]]
+markerFile: [[Manfredonia]]
+defaultZoom: 11 
+maxZoom: 18
+```

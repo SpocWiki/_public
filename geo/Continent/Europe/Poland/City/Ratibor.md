@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ratibor
+coordinates: [[Ratibor]]
+markerFile: [[Ratibor]]
+defaultZoom: 11 
+maxZoom: 18
+```

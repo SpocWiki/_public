@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perovsk
+coordinates: [[Perovsk]]
+markerFile: [[Perovsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

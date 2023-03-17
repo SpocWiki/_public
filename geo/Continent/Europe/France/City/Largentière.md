@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Largentière
+coordinates: [[Largentière]]
+markerFile: [[Largentière]]
+defaultZoom: 11 
+maxZoom: 18
+```

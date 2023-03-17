@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Girons
+coordinates: [[St.Girons]]
+markerFile: [[St.Girons]]
+defaultZoom: 11 
+maxZoom: 18
+```

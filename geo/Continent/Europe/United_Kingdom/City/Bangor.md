@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bangor
+coordinates: [[Bangor]]
+markerFile: [[Bangor]]
+defaultZoom: 11 
+maxZoom: 18
+```

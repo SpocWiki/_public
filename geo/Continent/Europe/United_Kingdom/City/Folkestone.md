@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Folkestone
+coordinates: [[Folkestone]]
+markerFile: [[Folkestone]]
+defaultZoom: 11 
+maxZoom: 18
+```

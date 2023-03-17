@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barrehead
+coordinates: [[Barrehead]]
+markerFile: [[Barrehead]]
+defaultZoom: 11 
+maxZoom: 18
+```

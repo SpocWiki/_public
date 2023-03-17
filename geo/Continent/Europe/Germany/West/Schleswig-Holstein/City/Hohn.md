@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohn
+coordinates: [[Hohn]]
+markerFile: [[Hohn]]
+defaultZoom: 11 
+maxZoom: 18
+```

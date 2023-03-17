@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loewen=Lourian
+coordinates: [[Loewen=Lourian]]
+markerFile: [[Loewen=Lourian]]
+defaultZoom: 11 
+maxZoom: 18
+```

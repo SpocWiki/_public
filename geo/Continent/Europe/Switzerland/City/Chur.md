@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chur
+coordinates: [[Chur]]
+markerFile: [[Chur]]
+defaultZoom: 11 
+maxZoom: 18
+```

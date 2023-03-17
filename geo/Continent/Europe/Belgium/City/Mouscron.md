@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mouscron
+coordinates: [[Mouscron]]
+markerFile: [[Mouscron]]
+defaultZoom: 11 
+maxZoom: 18
+```

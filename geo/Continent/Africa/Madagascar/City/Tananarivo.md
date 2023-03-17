@@ -1,4 +1,4 @@
----
+﻿---
 location: [-18.87,47.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tananarivo
+coordinates: [[Tananarivo]]
+markerFile: [[Tananarivo]]
+defaultZoom: 11 
+maxZoom: 18
+```

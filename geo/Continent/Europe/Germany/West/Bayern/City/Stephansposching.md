@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stephansposching
+coordinates: [[Stephansposching]]
+markerFile: [[Stephansposching]]
+defaultZoom: 11 
+maxZoom: 18
+```

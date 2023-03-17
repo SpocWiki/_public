@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ibbenbueren
+coordinates: [[Ibbenbueren]]
+markerFile: [[Ibbenbueren]]
+defaultZoom: 11 
+maxZoom: 18
+```

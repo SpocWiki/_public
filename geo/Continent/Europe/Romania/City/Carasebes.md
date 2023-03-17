@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carasebes
+coordinates: [[Carasebes]]
+markerFile: [[Carasebes]]
+defaultZoom: 11 
+maxZoom: 18
+```

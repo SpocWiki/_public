@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lenggries
+coordinates: [[Lenggries]]
+markerFile: [[Lenggries]]
+defaultZoom: 11 
+maxZoom: 18
+```

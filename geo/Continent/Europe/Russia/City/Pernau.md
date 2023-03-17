@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pernau
+coordinates: [[Pernau]]
+markerFile: [[Pernau]]
+defaultZoom: 11 
+maxZoom: 18
+```

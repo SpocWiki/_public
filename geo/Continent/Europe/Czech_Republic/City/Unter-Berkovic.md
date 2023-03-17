@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Unter-Berkovic
+coordinates: [[Unter-Berkovic]]
+markerFile: [[Unter-Berkovic]]
+defaultZoom: 11 
+maxZoom: 18
+```

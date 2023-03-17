@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grasse
+coordinates: [[Grasse]]
+markerFile: [[Grasse]]
+defaultZoom: 11 
+maxZoom: 18
+```

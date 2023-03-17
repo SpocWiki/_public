@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deutsch-Krone
+coordinates: [[Deutsch-Krone]]
+markerFile: [[Deutsch-Krone]]
+defaultZoom: 11 
+maxZoom: 18
+```

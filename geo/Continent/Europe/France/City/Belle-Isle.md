@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belle-Isle
+coordinates: [[Belle-Isle]]
+markerFile: [[Belle-Isle]]
+defaultZoom: 11 
+maxZoom: 18
+```

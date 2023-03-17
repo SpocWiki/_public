@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Groensinka
+coordinates: [[Groensinka]]
+markerFile: [[Groensinka]]
+defaultZoom: 11 
+maxZoom: 18
+```

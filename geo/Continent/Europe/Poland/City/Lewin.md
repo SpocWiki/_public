@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.4,16.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lewin
+coordinates: [[Lewin]]
+markerFile: [[Lewin]]
+defaultZoom: 11 
+maxZoom: 18
+```

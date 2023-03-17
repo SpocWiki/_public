@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.15,12.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Miltach
+coordinates: [[Miltach]]
+markerFile: [[Miltach]]
+defaultZoom: 11 
+maxZoom: 18
+```

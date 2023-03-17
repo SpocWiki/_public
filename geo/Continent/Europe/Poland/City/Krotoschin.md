@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krotoschin
+coordinates: [[Krotoschin]]
+markerFile: [[Krotoschin]]
+defaultZoom: 11 
+maxZoom: 18
+```

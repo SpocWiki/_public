@@ -1,4 +1,4 @@
----
+﻿---
 location: [13.66667,-89.16666]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: San Salvador
+coordinates: [[San Salvador]]
+markerFile: [[San Salvador]]
+defaultZoom: 11 
+maxZoom: 18
+```

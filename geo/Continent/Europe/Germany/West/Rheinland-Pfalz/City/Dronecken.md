@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dronecken
+coordinates: [[Dronecken]]
+markerFile: [[Dronecken]]
+defaultZoom: 11 
+maxZoom: 18
+```

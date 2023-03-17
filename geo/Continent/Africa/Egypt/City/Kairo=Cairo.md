@@ -1,4 +1,4 @@
----
+﻿---
 location: [30.05,31.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kairo=Cairo
+coordinates: [[Kairo=Cairo]]
+markerFile: [[Kairo=Cairo]]
+defaultZoom: 11 
+maxZoom: 18
+```

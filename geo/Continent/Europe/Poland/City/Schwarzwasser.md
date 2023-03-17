@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwarzwasser
+coordinates: [[Schwarzwasser]]
+markerFile: [[Schwarzwasser]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Northeim
+coordinates: [[Northeim]]
+markerFile: [[Northeim]]
+defaultZoom: 11 
+maxZoom: 18
+```

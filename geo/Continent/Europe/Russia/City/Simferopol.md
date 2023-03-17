@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Simferopol
+coordinates: [[Simferopol]]
+markerFile: [[Simferopol]]
+defaultZoom: 11 
+maxZoom: 18
+```

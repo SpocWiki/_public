@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwenningen
+coordinates: [[Schwenningen]]
+markerFile: [[Schwenningen]]
+defaultZoom: 11 
+maxZoom: 18
+```

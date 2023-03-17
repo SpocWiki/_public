@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petrovorets
+coordinates: [[Petrovorets]]
+markerFile: [[Petrovorets]]
+defaultZoom: 11 
+maxZoom: 18
+```

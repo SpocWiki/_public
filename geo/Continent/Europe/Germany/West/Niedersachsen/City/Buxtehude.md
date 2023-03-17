@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buxtehude
+coordinates: [[Buxtehude]]
+markerFile: [[Buxtehude]]
+defaultZoom: 11 
+maxZoom: 18
+```

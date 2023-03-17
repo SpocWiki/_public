@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Jean d`Angely
+coordinates: [[St.Jean d`Angely]]
+markerFile: [[St.Jean d`Angely]]
+defaultZoom: 11 
+maxZoom: 18
+```

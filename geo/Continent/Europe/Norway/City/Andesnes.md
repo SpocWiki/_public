@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Andesnes
+coordinates: [[Andesnes]]
+markerFile: [[Andesnes]]
+defaultZoom: 11 
+maxZoom: 18
+```

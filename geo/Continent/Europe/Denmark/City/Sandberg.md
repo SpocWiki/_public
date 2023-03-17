@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandberg
+coordinates: [[Sandberg]]
+markerFile: [[Sandberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

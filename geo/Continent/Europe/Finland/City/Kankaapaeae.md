@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kankaapaeae
+coordinates: [[Kankaapaeae]]
+markerFile: [[Kankaapaeae]]
+defaultZoom: 11 
+maxZoom: 18
+```

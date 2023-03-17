@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.93,7.78]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langnau
+coordinates: [[Langnau]]
+markerFile: [[Langnau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salcava
+coordinates: [[Salcava]]
+markerFile: [[Salcava]]
+defaultZoom: 11 
+maxZoom: 18
+```

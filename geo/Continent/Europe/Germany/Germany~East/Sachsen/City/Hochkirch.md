@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hochkirch
+coordinates: [[Hochkirch]]
+markerFile: [[Hochkirch]]
+defaultZoom: 11 
+maxZoom: 18
+```

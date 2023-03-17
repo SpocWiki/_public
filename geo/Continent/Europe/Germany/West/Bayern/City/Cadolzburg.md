@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cadolzburg
+coordinates: [[Cadolzburg]]
+markerFile: [[Cadolzburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

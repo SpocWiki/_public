@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Himmelpforten
+coordinates: [[Himmelpforten]]
+markerFile: [[Himmelpforten]]
+defaultZoom: 11 
+maxZoom: 18
+```

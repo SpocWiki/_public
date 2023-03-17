@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flers
+coordinates: [[Flers]]
+markerFile: [[Flers]]
+defaultZoom: 11 
+maxZoom: 18
+```

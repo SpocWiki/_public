@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thuengen
+coordinates: [[Thuengen]]
+markerFile: [[Thuengen]]
+defaultZoom: 11 
+maxZoom: 18
+```

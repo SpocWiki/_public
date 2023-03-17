@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Issoire
+coordinates: [[Issoire]]
+markerFile: [[Issoire]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goro
+coordinates: [[Goro]]
+markerFile: [[Goro]]
+defaultZoom: 11 
+maxZoom: 18
+```

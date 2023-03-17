@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.67,9.22]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weilbach
+coordinates: [[Weilbach]]
+markerFile: [[Weilbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.45,15.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zielenzig
+coordinates: [[Zielenzig]]
+markerFile: [[Zielenzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

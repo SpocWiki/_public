@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greding
+coordinates: [[Greding]]
+markerFile: [[Greding]]
+defaultZoom: 11 
+maxZoom: 18
+```

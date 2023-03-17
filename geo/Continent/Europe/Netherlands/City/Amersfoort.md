@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amersfoort
+coordinates: [[Amersfoort]]
+markerFile: [[Amersfoort]]
+defaultZoom: 11 
+maxZoom: 18
+```

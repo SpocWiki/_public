@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberhemsdorf
+coordinates: [[Oberhemsdorf]]
+markerFile: [[Oberhemsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

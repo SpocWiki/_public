@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gollnow
+coordinates: [[Gollnow]]
+markerFile: [[Gollnow]]
+defaultZoom: 11 
+maxZoom: 18
+```

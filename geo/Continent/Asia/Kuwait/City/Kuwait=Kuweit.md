@@ -1,4 +1,4 @@
----
+﻿---
 location: [29.33,48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuwait=Kuweit
+coordinates: [[Kuwait=Kuweit]]
+markerFile: [[Kuwait=Kuweit]]
+defaultZoom: 11 
+maxZoom: 18
+```

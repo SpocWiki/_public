@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turinsk
+coordinates: [[Turinsk]]
+markerFile: [[Turinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

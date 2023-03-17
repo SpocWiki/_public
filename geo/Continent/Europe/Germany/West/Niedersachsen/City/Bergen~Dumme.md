@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergen~Dumme
+coordinates: [[Bergen~Dumme]]
+markerFile: [[Bergen~Dumme]]
+defaultZoom: 11 
+maxZoom: 18
+```

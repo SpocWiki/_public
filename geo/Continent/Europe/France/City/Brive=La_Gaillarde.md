@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brive=La Gaillarde
+coordinates: [[Brive=La Gaillarde]]
+markerFile: [[Brive=La Gaillarde]]
+defaultZoom: 11 
+maxZoom: 18
+```

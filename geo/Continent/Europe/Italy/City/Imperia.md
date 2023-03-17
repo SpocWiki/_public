@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Imperia
+coordinates: [[Imperia]]
+markerFile: [[Imperia]]
+defaultZoom: 11 
+maxZoom: 18
+```

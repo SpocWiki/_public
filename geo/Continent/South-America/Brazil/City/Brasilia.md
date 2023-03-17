@@ -1,4 +1,4 @@
----
+﻿---
 location: [-15.78,-47.92]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brasilia
+coordinates: [[Brasilia]]
+markerFile: [[Brasilia]]
+defaultZoom: 11 
+maxZoom: 18
+```

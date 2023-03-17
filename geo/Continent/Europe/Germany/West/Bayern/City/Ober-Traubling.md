@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Traubling
+coordinates: [[Ober-Traubling]]
+markerFile: [[Ober-Traubling]]
+defaultZoom: 11 
+maxZoom: 18
+```

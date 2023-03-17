@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Metzingen~Baden Wuerttemberg
+coordinates: [[Metzingen~Baden Wuerttemberg]]
+markerFile: [[Metzingen~Baden Wuerttemberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

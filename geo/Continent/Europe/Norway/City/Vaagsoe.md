@@ -1,4 +1,4 @@
----
+﻿---
 location: [62.03,5.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaagsoe
+coordinates: [[Vaagsoe]]
+markerFile: [[Vaagsoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

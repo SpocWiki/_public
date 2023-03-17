@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Iqualuit
+coordinates: [[Iqualuit]]
+markerFile: [[Iqualuit]]
+defaultZoom: 11 
+maxZoom: 18
+```

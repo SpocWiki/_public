@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Somma Vesuviana
+coordinates: [[Somma Vesuviana]]
+markerFile: [[Somma Vesuviana]]
+defaultZoom: 11 
+maxZoom: 18
+```

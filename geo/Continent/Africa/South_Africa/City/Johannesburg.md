@@ -1,4 +1,4 @@
----
+﻿---
 location: [-26.25,28]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Johannesburg
+coordinates: [[Johannesburg]]
+markerFile: [[Johannesburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

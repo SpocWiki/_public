@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Agnone
+coordinates: [[Agnone]]
+markerFile: [[Agnone]]
+defaultZoom: 11 
+maxZoom: 18
+```

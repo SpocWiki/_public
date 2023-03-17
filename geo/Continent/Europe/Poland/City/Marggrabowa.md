@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marggrabowa
+coordinates: [[Marggrabowa]]
+markerFile: [[Marggrabowa]]
+defaultZoom: 11 
+maxZoom: 18
+```

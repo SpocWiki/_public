@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gander
+coordinates: [[Gander]]
+markerFile: [[Gander]]
+defaultZoom: 11 
+maxZoom: 18
+```

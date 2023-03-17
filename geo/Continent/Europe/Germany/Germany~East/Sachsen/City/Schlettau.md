@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schlettau
+coordinates: [[Schlettau]]
+markerFile: [[Schlettau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nordholz
+coordinates: [[Nordholz]]
+markerFile: [[Nordholz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Atlanta
+coordinates: [[Atlanta]]
+markerFile: [[Atlanta]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dueben
+coordinates: [[Dueben]]
+markerFile: [[Dueben]]
+defaultZoom: 11 
+maxZoom: 18
+```

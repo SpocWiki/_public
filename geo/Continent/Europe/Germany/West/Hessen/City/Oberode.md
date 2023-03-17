@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.87,9.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberode
+coordinates: [[Oberode]]
+markerFile: [[Oberode]]
+defaultZoom: 11 
+maxZoom: 18
+```

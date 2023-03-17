@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigswalde
+coordinates: [[Koenigswalde]]
+markerFile: [[Koenigswalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

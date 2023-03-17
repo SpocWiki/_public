@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lowokowitz
+coordinates: [[Lowokowitz]]
+markerFile: [[Lowokowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

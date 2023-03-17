@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Brieuc
+coordinates: [[St.Brieuc]]
+markerFile: [[St.Brieuc]]
+defaultZoom: 11 
+maxZoom: 18
+```

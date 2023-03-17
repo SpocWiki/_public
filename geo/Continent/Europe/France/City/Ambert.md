@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ambert
+coordinates: [[Ambert]]
+markerFile: [[Ambert]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herleshausen
+coordinates: [[Herleshausen]]
+markerFile: [[Herleshausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

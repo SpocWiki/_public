@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Solnytschégodsk
+coordinates: [[Solnytschégodsk]]
+markerFile: [[Solnytschégodsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

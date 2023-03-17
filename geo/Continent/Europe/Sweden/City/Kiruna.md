@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kiruna
+coordinates: [[Kiruna]]
+markerFile: [[Kiruna]]
+defaultZoom: 11 
+maxZoom: 18
+```

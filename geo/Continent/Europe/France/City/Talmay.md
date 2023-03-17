@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Talmay
+coordinates: [[Talmay]]
+markerFile: [[Talmay]]
+defaultZoom: 11 
+maxZoom: 18
+```

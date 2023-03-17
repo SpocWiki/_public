@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tuusula
+coordinates: [[Tuusula]]
+markerFile: [[Tuusula]]
+defaultZoom: 11 
+maxZoom: 18
+```

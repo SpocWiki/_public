@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Utena
+coordinates: [[Utena]]
+markerFile: [[Utena]]
+defaultZoom: 11 
+maxZoom: 18
+```

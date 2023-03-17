@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.36666,127.5167]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blagoveshchensk
+coordinates: [[Blagoveshchensk]]
+markerFile: [[Blagoveshchensk]]
+defaultZoom: 11 
+maxZoom: 18
+```

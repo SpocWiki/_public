@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.05,12.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trapani
+coordinates: [[Trapani]]
+markerFile: [[Trapani]]
+defaultZoom: 11 
+maxZoom: 18
+```

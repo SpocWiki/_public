@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zaisan
+coordinates: [[Zaisan]]
+markerFile: [[Zaisan]]
+defaultZoom: 11 
+maxZoom: 18
+```

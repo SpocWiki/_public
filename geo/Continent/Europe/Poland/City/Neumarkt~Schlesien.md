@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neumarkt~Schlesien
+coordinates: [[Neumarkt~Schlesien]]
+markerFile: [[Neumarkt~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Adra
+coordinates: [[Adra]]
+markerFile: [[Adra]]
+defaultZoom: 11 
+maxZoom: 18
+```

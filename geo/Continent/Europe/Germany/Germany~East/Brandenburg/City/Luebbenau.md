@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luebbenau
+coordinates: [[Luebbenau]]
+markerFile: [[Luebbenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

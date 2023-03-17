@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.53,34.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nikopol
+coordinates: [[Nikopol]]
+markerFile: [[Nikopol]]
+defaultZoom: 11 
+maxZoom: 18
+```

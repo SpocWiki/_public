@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dillingen~Saar
+coordinates: [[Dillingen~Saar]]
+markerFile: [[Dillingen~Saar]]
+defaultZoom: 11 
+maxZoom: 18
+```

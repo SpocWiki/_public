@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.87,4.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chatillon-sur-Seine
+coordinates: [[Chatillon-sur-Seine]]
+markerFile: [[Chatillon-sur-Seine]]
+defaultZoom: 11 
+maxZoom: 18
+```

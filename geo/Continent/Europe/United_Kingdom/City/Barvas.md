@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barvas
+coordinates: [[Barvas]]
+markerFile: [[Barvas]]
+defaultZoom: 11 
+maxZoom: 18
+```

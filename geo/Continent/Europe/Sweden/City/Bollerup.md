@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bollerup
+coordinates: [[Bollerup]]
+markerFile: [[Bollerup]]
+defaultZoom: 11 
+maxZoom: 18
+```

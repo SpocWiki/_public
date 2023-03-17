@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Visby
+coordinates: [[Visby]]
+markerFile: [[Visby]]
+defaultZoom: 11 
+maxZoom: 18
+```

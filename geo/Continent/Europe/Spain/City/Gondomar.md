@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gondomar
+coordinates: [[Gondomar]]
+markerFile: [[Gondomar]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castiglione delle Stivier
+coordinates: [[Castiglione delle Stivier]]
+markerFile: [[Castiglione delle Stivier]]
+defaultZoom: 11 
+maxZoom: 18
+```

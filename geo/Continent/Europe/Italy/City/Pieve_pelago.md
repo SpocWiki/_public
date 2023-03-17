@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pieve pelago
+coordinates: [[Pieve pelago]]
+markerFile: [[Pieve pelago]]
+defaultZoom: 11 
+maxZoom: 18
+```

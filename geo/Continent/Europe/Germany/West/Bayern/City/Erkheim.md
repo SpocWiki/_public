@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Erkheim
+coordinates: [[Erkheim]]
+markerFile: [[Erkheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

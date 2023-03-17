@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cleverns
+coordinates: [[Cleverns]]
+markerFile: [[Cleverns]]
+defaultZoom: 11 
+maxZoom: 18
+```

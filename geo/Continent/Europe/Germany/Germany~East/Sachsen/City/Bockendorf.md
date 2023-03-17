@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bockendorf
+coordinates: [[Bockendorf]]
+markerFile: [[Bockendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

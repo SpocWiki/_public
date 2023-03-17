@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wetter
+coordinates: [[Wetter]]
+markerFile: [[Wetter]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Albany
+coordinates: [[Albany]]
+markerFile: [[Albany]]
+defaultZoom: 11 
+maxZoom: 18
+```

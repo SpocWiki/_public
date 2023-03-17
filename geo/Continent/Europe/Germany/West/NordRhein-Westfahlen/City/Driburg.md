@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Driburg
+coordinates: [[Driburg]]
+markerFile: [[Driburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

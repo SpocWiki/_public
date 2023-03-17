@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ohlstadt
+coordinates: [[Ohlstadt]]
+markerFile: [[Ohlstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

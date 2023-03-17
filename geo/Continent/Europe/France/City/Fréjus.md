@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fréjus
+coordinates: [[Fréjus]]
+markerFile: [[Fréjus]]
+defaultZoom: 11 
+maxZoom: 18
+```

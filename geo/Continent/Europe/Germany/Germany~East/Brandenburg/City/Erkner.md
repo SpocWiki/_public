@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Erkner
+coordinates: [[Erkner]]
+markerFile: [[Erkner]]
+defaultZoom: 11 
+maxZoom: 18
+```

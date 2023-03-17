@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.25,-72.56667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montpelier
+coordinates: [[Montpelier]]
+markerFile: [[Montpelier]]
+defaultZoom: 11 
+maxZoom: 18
+```

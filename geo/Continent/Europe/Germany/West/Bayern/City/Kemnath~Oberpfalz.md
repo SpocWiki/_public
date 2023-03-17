@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.87,11.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kemnath~Oberpfalz
+coordinates: [[Kemnath~Oberpfalz]]
+markerFile: [[Kemnath~Oberpfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

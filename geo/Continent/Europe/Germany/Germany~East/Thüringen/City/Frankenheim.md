@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frankenheim
+coordinates: [[Frankenheim]]
+markerFile: [[Frankenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

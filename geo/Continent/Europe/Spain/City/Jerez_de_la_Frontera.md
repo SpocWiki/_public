@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jerez de la Frontera
+coordinates: [[Jerez de la Frontera]]
+markerFile: [[Jerez de la Frontera]]
+defaultZoom: 11 
+maxZoom: 18
+```

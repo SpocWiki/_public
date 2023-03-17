@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pontivy
+coordinates: [[Pontivy]]
+markerFile: [[Pontivy]]
+defaultZoom: 11 
+maxZoom: 18
+```

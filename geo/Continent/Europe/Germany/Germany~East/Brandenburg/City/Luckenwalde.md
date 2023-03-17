@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luckenwalde
+coordinates: [[Luckenwalde]]
+markerFile: [[Luckenwalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

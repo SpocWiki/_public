@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Memmelsdorf~Unterfranken
+coordinates: [[Memmelsdorf~Unterfranken]]
+markerFile: [[Memmelsdorf~Unterfranken]]
+defaultZoom: 11 
+maxZoom: 18
+```

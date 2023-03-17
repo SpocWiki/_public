@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stockach
+coordinates: [[Stockach]]
+markerFile: [[Stockach]]
+defaultZoom: 11 
+maxZoom: 18
+```

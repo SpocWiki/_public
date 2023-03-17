@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gemuend
+coordinates: [[Gemuend]]
+markerFile: [[Gemuend]]
+defaultZoom: 11 
+maxZoom: 18
+```

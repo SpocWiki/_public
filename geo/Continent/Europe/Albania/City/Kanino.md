@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kanino
+coordinates: [[Kanino]]
+markerFile: [[Kanino]]
+defaultZoom: 11 
+maxZoom: 18
+```

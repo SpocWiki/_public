@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turc Sv. Martin
+coordinates: [[Turc Sv. Martin]]
+markerFile: [[Turc Sv. Martin]]
+defaultZoom: 11 
+maxZoom: 18
+```

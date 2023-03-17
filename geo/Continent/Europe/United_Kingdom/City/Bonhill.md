@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bonhill
+coordinates: [[Bonhill]]
+markerFile: [[Bonhill]]
+defaultZoom: 11 
+maxZoom: 18
+```

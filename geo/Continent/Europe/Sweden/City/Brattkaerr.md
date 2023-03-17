@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brattkaerr
+coordinates: [[Brattkaerr]]
+markerFile: [[Brattkaerr]]
+defaultZoom: 11 
+maxZoom: 18
+```

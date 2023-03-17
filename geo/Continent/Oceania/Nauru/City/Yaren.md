@@ -1,4 +1,4 @@
----
+﻿---
 location: [-0.5477778,166.9208]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yaren
+coordinates: [[Yaren]]
+markerFile: [[Yaren]]
+defaultZoom: 11 
+maxZoom: 18
+```

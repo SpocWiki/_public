@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spornitz
+coordinates: [[Spornitz]]
+markerFile: [[Spornitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

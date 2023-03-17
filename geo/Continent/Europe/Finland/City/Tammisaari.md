@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tammisaari
+coordinates: [[Tammisaari]]
+markerFile: [[Tammisaari]]
+defaultZoom: 11 
+maxZoom: 18
+```

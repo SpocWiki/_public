@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Philadelphia
+coordinates: [[Philadelphia]]
+markerFile: [[Philadelphia]]
+defaultZoom: 11 
+maxZoom: 18
+```

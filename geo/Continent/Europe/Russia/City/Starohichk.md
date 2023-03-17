@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.28,38.93]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Starohichk
+coordinates: [[Starohichk]]
+markerFile: [[Starohichk]]
+defaultZoom: 11 
+maxZoom: 18
+```

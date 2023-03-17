@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.97,12.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tivoli
+coordinates: [[Tivoli]]
+markerFile: [[Tivoli]]
+defaultZoom: 11 
+maxZoom: 18
+```

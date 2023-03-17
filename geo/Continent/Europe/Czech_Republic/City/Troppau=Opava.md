@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troppau=Opava
+coordinates: [[Troppau=Opava]]
+markerFile: [[Troppau=Opava]]
+defaultZoom: 11 
+maxZoom: 18
+```

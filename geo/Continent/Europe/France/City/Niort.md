@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Niort
+coordinates: [[Niort]]
+markerFile: [[Niort]]
+defaultZoom: 11 
+maxZoom: 18
+```

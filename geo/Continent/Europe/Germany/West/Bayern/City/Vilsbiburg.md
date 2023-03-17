@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vilsbiburg
+coordinates: [[Vilsbiburg]]
+markerFile: [[Vilsbiburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

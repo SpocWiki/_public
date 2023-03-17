@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cookstown
+coordinates: [[Cookstown]]
+markerFile: [[Cookstown]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.3,25.93]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Czernowitz
+coordinates: [[Czernowitz]]
+markerFile: [[Czernowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

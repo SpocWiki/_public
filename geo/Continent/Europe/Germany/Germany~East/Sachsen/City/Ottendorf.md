@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ottendorf
+coordinates: [[Ottendorf]]
+markerFile: [[Ottendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

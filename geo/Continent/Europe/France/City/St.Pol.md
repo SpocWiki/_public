@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Pol
+coordinates: [[St.Pol]]
+markerFile: [[St.Pol]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dittmannsdorf-Schlesien
+coordinates: [[Dittmannsdorf-Schlesien]]
+markerFile: [[Dittmannsdorf-Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

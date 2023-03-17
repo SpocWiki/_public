@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kupferdreh
+coordinates: [[Kupferdreh]]
+markerFile: [[Kupferdreh]]
+defaultZoom: 11 
+maxZoom: 18
+```

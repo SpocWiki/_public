@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Canillo
+coordinates: [[Canillo]]
+markerFile: [[Canillo]]
+defaultZoom: 11 
+maxZoom: 18
+```

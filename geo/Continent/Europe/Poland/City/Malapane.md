@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malapane
+coordinates: [[Malapane]]
+markerFile: [[Malapane]]
+defaultZoom: 11 
+maxZoom: 18
+```

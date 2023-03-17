@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bahn
+coordinates: [[Bahn]]
+markerFile: [[Bahn]]
+defaultZoom: 11 
+maxZoom: 18
+```

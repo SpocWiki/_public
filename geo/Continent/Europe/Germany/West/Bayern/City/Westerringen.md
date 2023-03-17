@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Westerringen
+coordinates: [[Westerringen]]
+markerFile: [[Westerringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

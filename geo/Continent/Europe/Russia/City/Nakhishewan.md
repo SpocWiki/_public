@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nakhishewan
+coordinates: [[Nakhishewan]]
+markerFile: [[Nakhishewan]]
+defaultZoom: 11 
+maxZoom: 18
+```

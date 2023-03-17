@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Echternach
+coordinates: [[Echternach]]
+markerFile: [[Echternach]]
+defaultZoom: 11 
+maxZoom: 18
+```

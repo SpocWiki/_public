@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tampico
+coordinates: [[Tampico]]
+markerFile: [[Tampico]]
+defaultZoom: 11 
+maxZoom: 18
+```

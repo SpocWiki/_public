@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waterloo
+coordinates: [[Waterloo]]
+markerFile: [[Waterloo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Devonport
+coordinates: [[Devonport]]
+markerFile: [[Devonport]]
+defaultZoom: 11 
+maxZoom: 18
+```

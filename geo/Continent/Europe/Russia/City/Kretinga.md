@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kretinga
+coordinates: [[Kretinga]]
+markerFile: [[Kretinga]]
+defaultZoom: 11 
+maxZoom: 18
+```

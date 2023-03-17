@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tyrnau=Trnava
+coordinates: [[Tyrnau=Trnava]]
+markerFile: [[Tyrnau=Trnava]]
+defaultZoom: 11 
+maxZoom: 18
+```

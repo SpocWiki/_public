@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergen op Zoom
+coordinates: [[Bergen op Zoom]]
+markerFile: [[Bergen op Zoom]]
+defaultZoom: 11 
+maxZoom: 18
+```

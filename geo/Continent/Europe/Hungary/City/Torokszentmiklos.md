@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torokszentmiklos
+coordinates: [[Torokszentmiklos]]
+markerFile: [[Torokszentmiklos]]
+defaultZoom: 11 
+maxZoom: 18
+```

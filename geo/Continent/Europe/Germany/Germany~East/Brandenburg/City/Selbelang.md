@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Selbelang
+coordinates: [[Selbelang]]
+markerFile: [[Selbelang]]
+defaultZoom: 11 
+maxZoom: 18
+```

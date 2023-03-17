@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muegelen
+coordinates: [[Muegelen]]
+markerFile: [[Muegelen]]
+defaultZoom: 11 
+maxZoom: 18
+```

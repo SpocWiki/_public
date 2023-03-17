@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gourdon
+coordinates: [[Gourdon]]
+markerFile: [[Gourdon]]
+defaultZoom: 11 
+maxZoom: 18
+```

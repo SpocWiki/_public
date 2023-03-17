@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brunnthal
+coordinates: [[Brunnthal]]
+markerFile: [[Brunnthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

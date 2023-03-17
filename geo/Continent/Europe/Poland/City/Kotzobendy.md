@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kotzobendy
+coordinates: [[Kotzobendy]]
+markerFile: [[Kotzobendy]]
+defaultZoom: 11 
+maxZoom: 18
+```

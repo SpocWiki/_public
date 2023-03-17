@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neu-Brandenburg
+coordinates: [[Neu-Brandenburg]]
+markerFile: [[Neu-Brandenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

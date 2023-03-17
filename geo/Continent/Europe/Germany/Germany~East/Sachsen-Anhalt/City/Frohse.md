@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frohse
+coordinates: [[Frohse]]
+markerFile: [[Frohse]]
+defaultZoom: 11 
+maxZoom: 18
+```

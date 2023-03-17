@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mageroe
+coordinates: [[Mageroe]]
+markerFile: [[Mageroe]]
+defaultZoom: 11 
+maxZoom: 18
+```

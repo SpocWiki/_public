@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carlisle
+coordinates: [[Carlisle]]
+markerFile: [[Carlisle]]
+defaultZoom: 11 
+maxZoom: 18
+```

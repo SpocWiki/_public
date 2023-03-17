@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sées
+coordinates: [[Sées]]
+markerFile: [[Sées]]
+defaultZoom: 11 
+maxZoom: 18
+```

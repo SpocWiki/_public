@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paimboeuf
+coordinates: [[Paimboeuf]]
+markerFile: [[Paimboeuf]]
+defaultZoom: 11 
+maxZoom: 18
+```

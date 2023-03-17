@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radeburg
+coordinates: [[Radeburg]]
+markerFile: [[Radeburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

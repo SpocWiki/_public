@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schussenried
+coordinates: [[Schussenried]]
+markerFile: [[Schussenried]]
+defaultZoom: 11 
+maxZoom: 18
+```

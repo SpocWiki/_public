@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montreal
+coordinates: [[Montreal]]
+markerFile: [[Montreal]]
+defaultZoom: 11 
+maxZoom: 18
+```

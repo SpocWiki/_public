@@ -1,4 +1,4 @@
----
+﻿---
 location: [63.32,19.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kasa
+coordinates: [[Kasa]]
+markerFile: [[Kasa]]
+defaultZoom: 11 
+maxZoom: 18
+```

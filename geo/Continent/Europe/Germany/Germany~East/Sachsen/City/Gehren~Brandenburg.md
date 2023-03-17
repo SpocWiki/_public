@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gehren~Brandenburg
+coordinates: [[Gehren~Brandenburg]]
+markerFile: [[Gehren~Brandenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

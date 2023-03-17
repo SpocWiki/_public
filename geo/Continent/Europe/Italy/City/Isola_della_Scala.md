@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Isola della Scala
+coordinates: [[Isola della Scala]]
+markerFile: [[Isola della Scala]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlsruhe
+coordinates: [[Karlsruhe]]
+markerFile: [[Karlsruhe]]
+defaultZoom: 11 
+maxZoom: 18
+```

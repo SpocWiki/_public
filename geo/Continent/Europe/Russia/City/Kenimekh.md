@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kenimekh
+coordinates: [[Kenimekh]]
+markerFile: [[Kenimekh]]
+defaultZoom: 11 
+maxZoom: 18
+```

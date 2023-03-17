@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.02,41.03]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sukhumi
+coordinates: [[Sukhumi]]
+markerFile: [[Sukhumi]]
+defaultZoom: 11 
+maxZoom: 18
+```

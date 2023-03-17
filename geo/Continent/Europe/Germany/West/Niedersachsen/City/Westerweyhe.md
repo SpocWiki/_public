@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Westerweyhe
+coordinates: [[Westerweyhe]]
+markerFile: [[Westerweyhe]]
+defaultZoom: 11 
+maxZoom: 18
+```

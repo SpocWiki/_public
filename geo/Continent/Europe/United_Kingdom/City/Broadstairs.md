@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Broadstairs
+coordinates: [[Broadstairs]]
+markerFile: [[Broadstairs]]
+defaultZoom: 11 
+maxZoom: 18
+```

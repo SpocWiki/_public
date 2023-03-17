@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.17,12.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wittstock
+coordinates: [[Wittstock]]
+markerFile: [[Wittstock]]
+defaultZoom: 11 
+maxZoom: 18
+```

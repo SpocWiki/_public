@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Port Patrick
+coordinates: [[Port Patrick]]
+markerFile: [[Port Patrick]]
+defaultZoom: 11 
+maxZoom: 18
+```

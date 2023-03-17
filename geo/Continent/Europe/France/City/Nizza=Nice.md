@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nizza=Nice
+coordinates: [[Nizza=Nice]]
+markerFile: [[Nizza=Nice]]
+defaultZoom: 11 
+maxZoom: 18
+```

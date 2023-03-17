@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Santarem
+coordinates: [[Santarem]]
+markerFile: [[Santarem]]
+defaultZoom: 11 
+maxZoom: 18
+```

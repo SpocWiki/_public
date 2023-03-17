@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ragnit
+coordinates: [[Ragnit]]
+markerFile: [[Ragnit]]
+defaultZoom: 11 
+maxZoom: 18
+```

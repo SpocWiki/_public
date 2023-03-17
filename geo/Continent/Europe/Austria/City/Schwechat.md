@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwechat
+coordinates: [[Schwechat]]
+markerFile: [[Schwechat]]
+defaultZoom: 11 
+maxZoom: 18
+```

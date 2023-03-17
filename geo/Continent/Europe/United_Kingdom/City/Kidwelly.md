@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kidwelly
+coordinates: [[Kidwelly]]
+markerFile: [[Kidwelly]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Versailles
+coordinates: [[Versailles]]
+markerFile: [[Versailles]]
+defaultZoom: 11 
+maxZoom: 18
+```

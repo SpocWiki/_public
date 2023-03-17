@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montigny
+coordinates: [[Montigny]]
+markerFile: [[Montigny]]
+defaultZoom: 11 
+maxZoom: 18
+```

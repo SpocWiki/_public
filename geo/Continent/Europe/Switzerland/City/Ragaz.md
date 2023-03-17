@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.02,9.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ragaz
+coordinates: [[Ragaz]]
+markerFile: [[Ragaz]]
+defaultZoom: 11 
+maxZoom: 18
+```

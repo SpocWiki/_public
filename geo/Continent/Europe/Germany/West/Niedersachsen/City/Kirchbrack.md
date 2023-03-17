@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchbrack
+coordinates: [[Kirchbrack]]
+markerFile: [[Kirchbrack]]
+defaultZoom: 11 
+maxZoom: 18
+```

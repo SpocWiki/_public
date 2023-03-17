@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Inzell
+coordinates: [[Inzell]]
+markerFile: [[Inzell]]
+defaultZoom: 11 
+maxZoom: 18
+```

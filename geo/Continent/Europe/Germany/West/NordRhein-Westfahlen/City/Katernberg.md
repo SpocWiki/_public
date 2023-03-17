@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.5,7.05]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Katernberg
+coordinates: [[Katernberg]]
+markerFile: [[Katernberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

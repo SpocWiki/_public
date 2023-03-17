@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chardju
+coordinates: [[Chardju]]
+markerFile: [[Chardju]]
+defaultZoom: 11 
+maxZoom: 18
+```

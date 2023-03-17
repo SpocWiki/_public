@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eisenstadt
+coordinates: [[Eisenstadt]]
+markerFile: [[Eisenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

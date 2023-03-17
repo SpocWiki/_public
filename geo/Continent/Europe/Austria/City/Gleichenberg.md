@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gleichenberg
+coordinates: [[Gleichenberg]]
+markerFile: [[Gleichenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

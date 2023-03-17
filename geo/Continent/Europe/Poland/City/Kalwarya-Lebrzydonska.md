@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalwarya-Lebrzydonska
+coordinates: [[Kalwarya-Lebrzydonska]]
+markerFile: [[Kalwarya-Lebrzydonska]]
+defaultZoom: 11 
+maxZoom: 18
+```

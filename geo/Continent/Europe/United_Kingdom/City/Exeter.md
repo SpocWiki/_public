@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Exeter
+coordinates: [[Exeter]]
+markerFile: [[Exeter]]
+defaultZoom: 11 
+maxZoom: 18
+```

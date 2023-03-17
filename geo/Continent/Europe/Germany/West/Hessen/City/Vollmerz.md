@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vollmerz
+coordinates: [[Vollmerz]]
+markerFile: [[Vollmerz]]
+defaultZoom: 11 
+maxZoom: 18
+```

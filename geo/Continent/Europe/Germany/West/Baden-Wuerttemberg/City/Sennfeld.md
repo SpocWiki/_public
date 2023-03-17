@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sennfeld
+coordinates: [[Sennfeld]]
+markerFile: [[Sennfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

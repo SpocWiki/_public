@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: NFD~St. Johns
+coordinates: [[NFD~St. Johns]]
+markerFile: [[NFD~St. Johns]]
+defaultZoom: 11 
+maxZoom: 18
+```

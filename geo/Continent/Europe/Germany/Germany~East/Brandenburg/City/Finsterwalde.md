@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Finsterwalde
+coordinates: [[Finsterwalde]]
+markerFile: [[Finsterwalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

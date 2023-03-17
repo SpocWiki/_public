@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wishaw
+coordinates: [[Wishaw]]
+markerFile: [[Wishaw]]
+defaultZoom: 11 
+maxZoom: 18
+```

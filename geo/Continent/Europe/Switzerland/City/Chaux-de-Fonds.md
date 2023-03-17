@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chaux-de-Fonds
+coordinates: [[Chaux-de-Fonds]]
+markerFile: [[Chaux-de-Fonds]]
+defaultZoom: 11 
+maxZoom: 18
+```

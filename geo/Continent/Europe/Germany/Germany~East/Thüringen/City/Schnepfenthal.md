@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schnepfenthal
+coordinates: [[Schnepfenthal]]
+markerFile: [[Schnepfenthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

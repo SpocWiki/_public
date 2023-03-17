@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuttenplan
+coordinates: [[Kuttenplan]]
+markerFile: [[Kuttenplan]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [-12.78056,45.22778]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Mamoudzou
+coordinates: [[Mamoudzou]]
+markerFile: [[Mamoudzou]]
+defaultZoom: 11 
+maxZoom: 18
+```

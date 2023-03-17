@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vajangu
+coordinates: [[Vajangu]]
+markerFile: [[Vajangu]]
+defaultZoom: 11 
+maxZoom: 18
+```

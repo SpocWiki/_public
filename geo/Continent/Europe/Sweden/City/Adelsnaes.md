@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Adelsnaes
+coordinates: [[Adelsnaes]]
+markerFile: [[Adelsnaes]]
+defaultZoom: 11 
+maxZoom: 18
+```

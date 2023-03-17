@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Umea
+coordinates: [[Umea]]
+markerFile: [[Umea]]
+defaultZoom: 11 
+maxZoom: 18
+```

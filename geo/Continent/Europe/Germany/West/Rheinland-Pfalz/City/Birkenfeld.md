@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Birkenfeld
+coordinates: [[Birkenfeld]]
+markerFile: [[Birkenfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

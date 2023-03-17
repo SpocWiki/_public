@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Padua=Padova
+coordinates: [[Padua=Padova]]
+markerFile: [[Padua=Padova]]
+defaultZoom: 11 
+maxZoom: 18
+```

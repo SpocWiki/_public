@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merzig
+coordinates: [[Merzig]]
+markerFile: [[Merzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Slaviansk
+coordinates: [[Slaviansk]]
+markerFile: [[Slaviansk]]
+defaultZoom: 11 
+maxZoom: 18
+```

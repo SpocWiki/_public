@@ -1,4 +1,4 @@
----
+﻿---
 location: [59.33,26.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Udriku
+coordinates: [[Udriku]]
+markerFile: [[Udriku]]
+defaultZoom: 11 
+maxZoom: 18
+```

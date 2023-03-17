@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blarney
+coordinates: [[Blarney]]
+markerFile: [[Blarney]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quilleboeuf
+coordinates: [[Quilleboeuf]]
+markerFile: [[Quilleboeuf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schivelbein
+coordinates: [[Schivelbein]]
+markerFile: [[Schivelbein]]
+defaultZoom: 11 
+maxZoom: 18
+```

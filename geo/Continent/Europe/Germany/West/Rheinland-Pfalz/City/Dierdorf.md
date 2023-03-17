@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dierdorf
+coordinates: [[Dierdorf]]
+markerFile: [[Dierdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

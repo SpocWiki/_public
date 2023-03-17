@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hachen
+coordinates: [[Hachen]]
+markerFile: [[Hachen]]
+defaultZoom: 11 
+maxZoom: 18
+```

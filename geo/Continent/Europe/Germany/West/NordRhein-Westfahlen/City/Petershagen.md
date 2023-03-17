@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petershagen
+coordinates: [[Petershagen]]
+markerFile: [[Petershagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sunderland
+coordinates: [[Sunderland]]
+markerFile: [[Sunderland]]
+defaultZoom: 11 
+maxZoom: 18
+```

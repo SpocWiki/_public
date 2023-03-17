@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rehfelde
+coordinates: [[Rehfelde]]
+markerFile: [[Rehfelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

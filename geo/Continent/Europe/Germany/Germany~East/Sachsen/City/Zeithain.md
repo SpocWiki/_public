@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zeithain
+coordinates: [[Zeithain]]
+markerFile: [[Zeithain]]
+defaultZoom: 11 
+maxZoom: 18
+```

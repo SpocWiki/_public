@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Iglau=Jihlava
+coordinates: [[Iglau=Jihlava]]
+markerFile: [[Iglau=Jihlava]]
+defaultZoom: 11 
+maxZoom: 18
+```

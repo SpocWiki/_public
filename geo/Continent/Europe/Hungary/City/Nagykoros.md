@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.03,19.78]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nagykoros
+coordinates: [[Nagykoros]]
+markerFile: [[Nagykoros]]
+defaultZoom: 11 
+maxZoom: 18
+```

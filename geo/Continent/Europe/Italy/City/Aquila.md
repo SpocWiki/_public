@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.35,13.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aquila
+coordinates: [[Aquila]]
+markerFile: [[Aquila]]
+defaultZoom: 11 
+maxZoom: 18
+```

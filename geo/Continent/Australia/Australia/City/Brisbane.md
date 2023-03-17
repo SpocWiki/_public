@@ -1,4 +1,4 @@
----
+﻿---
 location: [-27.5,152.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brisbane
+coordinates: [[Brisbane]]
+markerFile: [[Brisbane]]
+defaultZoom: 11 
+maxZoom: 18
+```

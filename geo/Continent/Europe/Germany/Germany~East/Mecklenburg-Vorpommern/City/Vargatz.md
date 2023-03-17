@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vargatz
+coordinates: [[Vargatz]]
+markerFile: [[Vargatz]]
+defaultZoom: 11 
+maxZoom: 18
+```

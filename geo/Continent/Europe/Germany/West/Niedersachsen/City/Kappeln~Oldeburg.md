@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kappeln~Oldeburg
+coordinates: [[Kappeln~Oldeburg]]
+markerFile: [[Kappeln~Oldeburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

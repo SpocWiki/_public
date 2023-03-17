@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Claussnitz
+coordinates: [[Claussnitz]]
+markerFile: [[Claussnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

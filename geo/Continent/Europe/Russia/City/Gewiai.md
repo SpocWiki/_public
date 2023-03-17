@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gewiai
+coordinates: [[Gewiai]]
+markerFile: [[Gewiai]]
+defaultZoom: 11 
+maxZoom: 18
+```

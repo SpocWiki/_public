@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szegedin
+coordinates: [[Szegedin]]
+markerFile: [[Szegedin]]
+defaultZoom: 11 
+maxZoom: 18
+```

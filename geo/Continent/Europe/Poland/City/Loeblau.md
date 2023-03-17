@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loeblau
+coordinates: [[Loeblau]]
+markerFile: [[Loeblau]]
+defaultZoom: 11 
+maxZoom: 18
+```

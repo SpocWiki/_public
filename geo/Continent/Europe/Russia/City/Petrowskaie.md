@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petrowskaie
+coordinates: [[Petrowskaie]]
+markerFile: [[Petrowskaie]]
+defaultZoom: 11 
+maxZoom: 18
+```

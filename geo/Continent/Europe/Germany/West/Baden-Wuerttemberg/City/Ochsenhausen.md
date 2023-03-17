@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ochsenhausen
+coordinates: [[Ochsenhausen]]
+markerFile: [[Ochsenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kleinpertenschlag
+coordinates: [[Kleinpertenschlag]]
+markerFile: [[Kleinpertenschlag]]
+defaultZoom: 11 
+maxZoom: 18
+```

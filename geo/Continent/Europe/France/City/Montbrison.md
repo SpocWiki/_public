@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montbrison
+coordinates: [[Montbrison]]
+markerFile: [[Montbrison]]
+defaultZoom: 11 
+maxZoom: 18
+```

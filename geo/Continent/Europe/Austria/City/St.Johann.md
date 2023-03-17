@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Johann
+coordinates: [[St.Johann]]
+markerFile: [[St.Johann]]
+defaultZoom: 11 
+maxZoom: 18
+```

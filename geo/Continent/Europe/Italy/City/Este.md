@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Este
+coordinates: [[Este]]
+markerFile: [[Este]]
+defaultZoom: 11 
+maxZoom: 18
+```

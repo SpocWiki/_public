@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.22,19.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tiegenhof
+coordinates: [[Tiegenhof]]
+markerFile: [[Tiegenhof]]
+defaultZoom: 11 
+maxZoom: 18
+```

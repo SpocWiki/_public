@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ennis
+coordinates: [[Ennis]]
+markerFile: [[Ennis]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geisenheim
+coordinates: [[Geisenheim]]
+markerFile: [[Geisenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

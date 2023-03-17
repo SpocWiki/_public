@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monmouth
+coordinates: [[Monmouth]]
+markerFile: [[Monmouth]]
+defaultZoom: 11 
+maxZoom: 18
+```

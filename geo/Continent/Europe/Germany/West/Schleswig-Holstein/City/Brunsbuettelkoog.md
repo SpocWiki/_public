@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brunsbuettelkoog
+coordinates: [[Brunsbuettelkoog]]
+markerFile: [[Brunsbuettelkoog]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.37,17.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaposvar
+coordinates: [[Kaposvar]]
+markerFile: [[Kaposvar]]
+defaultZoom: 11 
+maxZoom: 18
+```

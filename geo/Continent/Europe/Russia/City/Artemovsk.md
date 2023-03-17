@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Artemovsk
+coordinates: [[Artemovsk]]
+markerFile: [[Artemovsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

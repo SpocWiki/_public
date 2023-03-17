@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Capri
+coordinates: [[Capri]]
+markerFile: [[Capri]]
+defaultZoom: 11 
+maxZoom: 18
+```

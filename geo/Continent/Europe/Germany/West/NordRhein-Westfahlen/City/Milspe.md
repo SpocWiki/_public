@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Milspe
+coordinates: [[Milspe]]
+markerFile: [[Milspe]]
+defaultZoom: 11 
+maxZoom: 18
+```

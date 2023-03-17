@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Colditz
+coordinates: [[Colditz]]
+markerFile: [[Colditz]]
+defaultZoom: 11 
+maxZoom: 18
+```

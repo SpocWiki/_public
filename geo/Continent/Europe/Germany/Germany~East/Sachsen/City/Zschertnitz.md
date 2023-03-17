@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.05,13.73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zschertnitz
+coordinates: [[Zschertnitz]]
+markerFile: [[Zschertnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Edam
+coordinates: [[Edam]]
+markerFile: [[Edam]]
+defaultZoom: 11 
+maxZoom: 18
+```

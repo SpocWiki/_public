@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goddelau
+coordinates: [[Goddelau]]
+markerFile: [[Goddelau]]
+defaultZoom: 11 
+maxZoom: 18
+```

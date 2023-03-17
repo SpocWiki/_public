@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baden bei Wien
+coordinates: [[Baden bei Wien]]
+markerFile: [[Baden bei Wien]]
+defaultZoom: 11 
+maxZoom: 18
+```

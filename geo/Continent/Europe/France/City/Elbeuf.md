@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Elbeuf
+coordinates: [[Elbeuf]]
+markerFile: [[Elbeuf]]
+defaultZoom: 11 
+maxZoom: 18
+```

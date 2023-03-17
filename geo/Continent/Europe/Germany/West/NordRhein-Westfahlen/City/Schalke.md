@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schalke
+coordinates: [[Schalke]]
+markerFile: [[Schalke]]
+defaultZoom: 11 
+maxZoom: 18
+```

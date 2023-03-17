@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herbern
+coordinates: [[Herbern]]
+markerFile: [[Herbern]]
+defaultZoom: 11 
+maxZoom: 18
+```

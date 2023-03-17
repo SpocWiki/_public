@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Henley
+coordinates: [[Henley]]
+markerFile: [[Henley]]
+defaultZoom: 11 
+maxZoom: 18
+```

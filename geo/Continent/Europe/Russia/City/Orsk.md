@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orsk
+coordinates: [[Orsk]]
+markerFile: [[Orsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

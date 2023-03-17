@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tammela
+coordinates: [[Tammela]]
+markerFile: [[Tammela]]
+defaultZoom: 11 
+maxZoom: 18
+```

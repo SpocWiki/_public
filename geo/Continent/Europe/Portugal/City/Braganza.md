@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Braganza
+coordinates: [[Braganza]]
+markerFile: [[Braganza]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwarmstedt
+coordinates: [[Schwarmstedt]]
+markerFile: [[Schwarmstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

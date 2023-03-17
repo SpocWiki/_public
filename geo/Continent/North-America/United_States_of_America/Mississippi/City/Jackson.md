@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jackson
+coordinates: [[Jackson]]
+markerFile: [[Jackson]]
+defaultZoom: 11 
+maxZoom: 18
+```

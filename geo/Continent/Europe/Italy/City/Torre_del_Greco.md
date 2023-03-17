@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.78,14.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torre del Greco
+coordinates: [[Torre del Greco]]
+markerFile: [[Torre del Greco]]
+defaultZoom: 11 
+maxZoom: 18
+```

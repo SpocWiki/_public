@@ -1,4 +1,4 @@
----
+﻿---
 location: [62.63,18.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hernoesand
+coordinates: [[Hernoesand]]
+markerFile: [[Hernoesand]]
+defaultZoom: 11 
+maxZoom: 18
+```

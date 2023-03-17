@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alt-Boick
+coordinates: [[Alt-Boick]]
+markerFile: [[Alt-Boick]]
+defaultZoom: 11 
+maxZoom: 18
+```

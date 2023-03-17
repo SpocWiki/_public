@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waibstadt
+coordinates: [[Waibstadt]]
+markerFile: [[Waibstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

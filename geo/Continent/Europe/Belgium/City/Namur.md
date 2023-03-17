@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Namur
+coordinates: [[Namur]]
+markerFile: [[Namur]]
+defaultZoom: 11 
+maxZoom: 18
+```

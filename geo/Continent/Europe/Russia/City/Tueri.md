@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tueri
+coordinates: [[Tueri]]
+markerFile: [[Tueri]]
+defaultZoom: 11 
+maxZoom: 18
+```

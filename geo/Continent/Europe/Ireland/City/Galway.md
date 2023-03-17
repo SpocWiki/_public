@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Galway
+coordinates: [[Galway]]
+markerFile: [[Galway]]
+defaultZoom: 11 
+maxZoom: 18
+```

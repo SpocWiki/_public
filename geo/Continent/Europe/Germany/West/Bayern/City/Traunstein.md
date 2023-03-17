@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Traunstein
+coordinates: [[Traunstein]]
+markerFile: [[Traunstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

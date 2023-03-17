@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Garmisch-Partenkirchen
+coordinates: [[Garmisch-Partenkirchen]]
+markerFile: [[Garmisch-Partenkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.27,10.28]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bismantova
+coordinates: [[Bismantova]]
+markerFile: [[Bismantova]]
+defaultZoom: 11 
+maxZoom: 18
+```

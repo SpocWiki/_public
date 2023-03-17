@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amorbach
+coordinates: [[Amorbach]]
+markerFile: [[Amorbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

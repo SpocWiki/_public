@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Catanzaro
+coordinates: [[Catanzaro]]
+markerFile: [[Catanzaro]]
+defaultZoom: 11 
+maxZoom: 18
+```

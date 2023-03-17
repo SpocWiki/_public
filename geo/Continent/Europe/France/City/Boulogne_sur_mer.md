@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boulogne sur mer
+coordinates: [[Boulogne sur mer]]
+markerFile: [[Boulogne sur mer]]
+defaultZoom: 11 
+maxZoom: 18
+```

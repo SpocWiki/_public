@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: BethuneUSA
+coordinates: [[BethuneUSA]]
+markerFile: [[BethuneUSA]]
+defaultZoom: 11 
+maxZoom: 18
+```

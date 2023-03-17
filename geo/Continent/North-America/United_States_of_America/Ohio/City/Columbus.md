@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Columbus
+coordinates: [[Columbus]]
+markerFile: [[Columbus]]
+defaultZoom: 11 
+maxZoom: 18
+```

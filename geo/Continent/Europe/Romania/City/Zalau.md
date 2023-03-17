@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.18,23.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zalau
+coordinates: [[Zalau]]
+markerFile: [[Zalau]]
+defaultZoom: 11 
+maxZoom: 18
+```

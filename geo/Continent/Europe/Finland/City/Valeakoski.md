@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valeakoski
+coordinates: [[Valeakoski]]
+markerFile: [[Valeakoski]]
+defaultZoom: 11 
+maxZoom: 18
+```

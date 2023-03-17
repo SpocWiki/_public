@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldenburg
+coordinates: [[Waldenburg]]
+markerFile: [[Waldenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

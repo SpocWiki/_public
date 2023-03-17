@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Knesebeck
+coordinates: [[Knesebeck]]
+markerFile: [[Knesebeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

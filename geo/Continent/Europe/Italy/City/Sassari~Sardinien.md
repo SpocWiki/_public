@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sassari~Sardinien
+coordinates: [[Sassari~Sardinien]]
+markerFile: [[Sassari~Sardinien]]
+defaultZoom: 11 
+maxZoom: 18
+```

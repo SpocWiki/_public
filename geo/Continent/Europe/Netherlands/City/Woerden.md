@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.08,4.88]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Woerden
+coordinates: [[Woerden]]
+markerFile: [[Woerden]]
+defaultZoom: 11 
+maxZoom: 18
+```

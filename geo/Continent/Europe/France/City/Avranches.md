@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Avranches
+coordinates: [[Avranches]]
+markerFile: [[Avranches]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eppertshausen
+coordinates: [[Eppertshausen]]
+markerFile: [[Eppertshausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

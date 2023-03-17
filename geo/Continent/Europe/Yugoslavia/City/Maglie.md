@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maglie
+coordinates: [[Maglie]]
+markerFile: [[Maglie]]
+defaultZoom: 11 
+maxZoom: 18
+```

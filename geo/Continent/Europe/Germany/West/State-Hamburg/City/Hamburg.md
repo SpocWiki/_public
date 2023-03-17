@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.54,9.99]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -23,3 +23,11 @@ confidential: public
 
 [Population::]
 
+
+```leaflet
+id: Hamburg
+coordinates: [[Hamburg]]
+markerFile: [[Hamburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

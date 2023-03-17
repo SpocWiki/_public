@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bekes-Csaba
+coordinates: [[Bekes-Csaba]]
+markerFile: [[Bekes-Csaba]]
+defaultZoom: 11 
+maxZoom: 18
+```

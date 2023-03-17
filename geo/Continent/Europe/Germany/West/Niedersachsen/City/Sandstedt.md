@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandstedt
+coordinates: [[Sandstedt]]
+markerFile: [[Sandstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

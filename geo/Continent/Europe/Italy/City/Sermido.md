@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45,11.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sermido
+coordinates: [[Sermido]]
+markerFile: [[Sermido]]
+defaultZoom: 11 
+maxZoom: 18
+```

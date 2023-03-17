@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alicante
+coordinates: [[Alicante]]
+markerFile: [[Alicante]]
+defaultZoom: 11 
+maxZoom: 18
+```

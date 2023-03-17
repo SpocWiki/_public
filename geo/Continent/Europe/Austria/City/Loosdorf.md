@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loosdorf
+coordinates: [[Loosdorf]]
+markerFile: [[Loosdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

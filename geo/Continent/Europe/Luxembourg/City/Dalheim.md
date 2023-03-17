@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dalheim
+coordinates: [[Dalheim]]
+markerFile: [[Dalheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teana
+coordinates: [[Teana]]
+markerFile: [[Teana]]
+defaultZoom: 11 
+maxZoom: 18
+```

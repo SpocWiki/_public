@@ -1,4 +1,4 @@
----
+﻿---
 location: [6.466667,2.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Porto-Novo1
+coordinates: [[Porto-Novo1]]
+markerFile: [[Porto-Novo1]]
+defaultZoom: 11 
+maxZoom: 18
+```

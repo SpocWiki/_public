@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hude
+coordinates: [[Hude]]
+markerFile: [[Hude]]
+defaultZoom: 11 
+maxZoom: 18
+```

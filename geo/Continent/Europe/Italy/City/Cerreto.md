@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cerreto
+coordinates: [[Cerreto]]
+markerFile: [[Cerreto]]
+defaultZoom: 11 
+maxZoom: 18
+```

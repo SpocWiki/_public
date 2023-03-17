@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bargtheide
+coordinates: [[Bargtheide]]
+markerFile: [[Bargtheide]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ligonchio
+coordinates: [[Ligonchio]]
+markerFile: [[Ligonchio]]
+defaultZoom: 11 
+maxZoom: 18
+```

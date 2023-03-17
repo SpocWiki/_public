@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quiestello
+coordinates: [[Quiestello]]
+markerFile: [[Quiestello]]
+defaultZoom: 11 
+maxZoom: 18
+```

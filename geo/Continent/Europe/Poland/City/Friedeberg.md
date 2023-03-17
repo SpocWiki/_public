@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedeberg
+coordinates: [[Friedeberg]]
+markerFile: [[Friedeberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

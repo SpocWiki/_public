@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koritza
+coordinates: [[Koritza]]
+markerFile: [[Koritza]]
+defaultZoom: 11 
+maxZoom: 18
+```

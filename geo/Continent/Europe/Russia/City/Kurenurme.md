@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kurenurme
+coordinates: [[Kurenurme]]
+markerFile: [[Kurenurme]]
+defaultZoom: 11 
+maxZoom: 18
+```

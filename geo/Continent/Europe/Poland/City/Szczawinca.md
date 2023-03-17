@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.43,20.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szczawinca
+coordinates: [[Szczawinca]]
+markerFile: [[Szczawinca]]
+defaultZoom: 11 
+maxZoom: 18
+```

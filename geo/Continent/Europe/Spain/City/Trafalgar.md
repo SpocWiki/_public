@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trafalgar
+coordinates: [[Trafalgar]]
+markerFile: [[Trafalgar]]
+defaultZoom: 11 
+maxZoom: 18
+```

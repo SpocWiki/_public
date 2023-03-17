@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.9,14.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Avellino
+coordinates: [[Avellino]]
+markerFile: [[Avellino]]
+defaultZoom: 11 
+maxZoom: 18
+```

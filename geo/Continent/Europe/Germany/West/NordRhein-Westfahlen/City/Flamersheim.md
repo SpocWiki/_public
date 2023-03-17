@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flamersheim
+coordinates: [[Flamersheim]]
+markerFile: [[Flamersheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

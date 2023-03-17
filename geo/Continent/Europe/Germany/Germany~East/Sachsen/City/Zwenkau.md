@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.23,12.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zwenkau
+coordinates: [[Zwenkau]]
+markerFile: [[Zwenkau]]
+defaultZoom: 11 
+maxZoom: 18
+```

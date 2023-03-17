@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Linguaglossa
+coordinates: [[Linguaglossa]]
+markerFile: [[Linguaglossa]]
+defaultZoom: 11 
+maxZoom: 18
+```

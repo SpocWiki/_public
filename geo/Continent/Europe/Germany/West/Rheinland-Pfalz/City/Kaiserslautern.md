@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaiserslautern
+coordinates: [[Kaiserslautern]]
+markerFile: [[Kaiserslautern]]
+defaultZoom: 11 
+maxZoom: 18
+```

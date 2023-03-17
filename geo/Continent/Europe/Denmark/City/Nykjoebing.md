@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nykjoebing
+coordinates: [[Nykjoebing]]
+markerFile: [[Nykjoebing]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [-3.5,30]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Bujumbura
+coordinates: [[Bujumbura]]
+markerFile: [[Bujumbura]]
+defaultZoom: 11 
+maxZoom: 18
+```

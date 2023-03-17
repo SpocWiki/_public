@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuivastu
+coordinates: [[Kuivastu]]
+markerFile: [[Kuivastu]]
+defaultZoom: 11 
+maxZoom: 18
+```

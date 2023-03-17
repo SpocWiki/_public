@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schuh=Schuls
+coordinates: [[Schuh=Schuls]]
+markerFile: [[Schuh=Schuls]]
+defaultZoom: 11 
+maxZoom: 18
+```

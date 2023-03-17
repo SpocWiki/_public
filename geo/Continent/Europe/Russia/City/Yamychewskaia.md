@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yamychewskaia
+coordinates: [[Yamychewskaia]]
+markerFile: [[Yamychewskaia]]
+defaultZoom: 11 
+maxZoom: 18
+```

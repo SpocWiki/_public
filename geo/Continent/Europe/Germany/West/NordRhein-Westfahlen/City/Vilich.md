@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vilich
+coordinates: [[Vilich]]
+markerFile: [[Vilich]]
+defaultZoom: 11 
+maxZoom: 18
+```

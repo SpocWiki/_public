@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Limbach~Sachsen
+coordinates: [[Limbach~Sachsen]]
+markerFile: [[Limbach~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gengenbach
+coordinates: [[Gengenbach]]
+markerFile: [[Gengenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

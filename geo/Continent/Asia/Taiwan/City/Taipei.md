@@ -1,4 +1,4 @@
----
+﻿---
 location: [25.08,121.55]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taipei
+coordinates: [[Taipei]]
+markerFile: [[Taipei]]
+defaultZoom: 11 
+maxZoom: 18
+```

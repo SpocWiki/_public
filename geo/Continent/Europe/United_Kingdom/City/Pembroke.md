@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pembroke
+coordinates: [[Pembroke]]
+markerFile: [[Pembroke]]
+defaultZoom: 11 
+maxZoom: 18
+```

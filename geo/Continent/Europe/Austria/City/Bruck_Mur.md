@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruck/Mur
+coordinates: [[Bruck/Mur]]
+markerFile: [[Bruck/Mur]]
+defaultZoom: 11 
+maxZoom: 18
+```

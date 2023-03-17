@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rovereto
+coordinates: [[Rovereto]]
+markerFile: [[Rovereto]]
+defaultZoom: 11 
+maxZoom: 18
+```

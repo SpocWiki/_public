@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bothkamp
+coordinates: [[Bothkamp]]
+markerFile: [[Bothkamp]]
+defaultZoom: 11 
+maxZoom: 18
+```

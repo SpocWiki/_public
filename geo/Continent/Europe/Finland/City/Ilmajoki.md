@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ilmajoki
+coordinates: [[Ilmajoki]]
+markerFile: [[Ilmajoki]]
+defaultZoom: 11 
+maxZoom: 18
+```

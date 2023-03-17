@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wang
+coordinates: [[Wang]]
+markerFile: [[Wang]]
+defaultZoom: 11 
+maxZoom: 18
+```

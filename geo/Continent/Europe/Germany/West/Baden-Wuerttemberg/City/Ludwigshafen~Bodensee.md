@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ludwigshafen~Bodensee
+coordinates: [[Ludwigshafen~Bodensee]]
+markerFile: [[Ludwigshafen~Bodensee]]
+defaultZoom: 11 
+maxZoom: 18
+```

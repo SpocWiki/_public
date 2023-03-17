@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Helfta
+coordinates: [[Helfta]]
+markerFile: [[Helfta]]
+defaultZoom: 11 
+maxZoom: 18
+```

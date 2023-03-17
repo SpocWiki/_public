@@ -1,4 +1,4 @@
----
+﻿---
 location: [-13.83333,-171.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Apia
+coordinates: [[Apia]]
+markerFile: [[Apia]]
+defaultZoom: 11 
+maxZoom: 18
+```

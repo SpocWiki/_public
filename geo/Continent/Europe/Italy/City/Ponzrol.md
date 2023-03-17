@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ponzrol
+coordinates: [[Ponzrol]]
+markerFile: [[Ponzrol]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koblenz
+coordinates: [[Koblenz]]
+markerFile: [[Koblenz]]
+defaultZoom: 11 
+maxZoom: 18
+```

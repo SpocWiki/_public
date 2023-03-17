@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bagneres de Bigorre
+coordinates: [[Bagneres de Bigorre]]
+markerFile: [[Bagneres de Bigorre]]
+defaultZoom: 11 
+maxZoom: 18
+```

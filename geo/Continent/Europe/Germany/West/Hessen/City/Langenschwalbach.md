@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.15,8.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenschwalbach
+coordinates: [[Langenschwalbach]]
+markerFile: [[Langenschwalbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herning
+coordinates: [[Herning]]
+markerFile: [[Herning]]
+defaultZoom: 11 
+maxZoom: 18
+```

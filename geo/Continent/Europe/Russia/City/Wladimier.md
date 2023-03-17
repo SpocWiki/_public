@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wladimier
+coordinates: [[Wladimier]]
+markerFile: [[Wladimier]]
+defaultZoom: 11 
+maxZoom: 18
+```

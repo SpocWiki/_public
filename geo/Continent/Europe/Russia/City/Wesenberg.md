@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wesenberg
+coordinates: [[Wesenberg]]
+markerFile: [[Wesenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Winiary
+coordinates: [[Winiary]]
+markerFile: [[Winiary]]
+defaultZoom: 11 
+maxZoom: 18
+```

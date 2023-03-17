@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prades
+coordinates: [[Prades]]
+markerFile: [[Prades]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -26,3 +26,11 @@ SpocWebEntityId: {{SpocWebEntityId}}
 [Population::{{Population}}]
 [Unknown::{{_0}}]
 
+
+```leaflet
+id: {{City}}
+coordinates: [[{{City}}]]
+markerFile: [[{{City}}]]
+defaultZoom: 11 
+maxZoom: 18
+```

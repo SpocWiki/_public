@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Godesberg
+coordinates: [[Godesberg]]
+markerFile: [[Godesberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

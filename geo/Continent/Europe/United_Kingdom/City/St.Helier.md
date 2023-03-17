@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Helier
+coordinates: [[St.Helier]]
+markerFile: [[St.Helier]]
+defaultZoom: 11 
+maxZoom: 18
+```

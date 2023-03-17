@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.67,11.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlshuld
+coordinates: [[Karlshuld]]
+markerFile: [[Karlshuld]]
+defaultZoom: 11 
+maxZoom: 18
+```

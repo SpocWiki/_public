@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haemenkyroe
+coordinates: [[Haemenkyroe]]
+markerFile: [[Haemenkyroe]]
+defaultZoom: 11 
+maxZoom: 18
+```

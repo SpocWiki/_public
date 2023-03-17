@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cromarty
+coordinates: [[Cromarty]]
+markerFile: [[Cromarty]]
+defaultZoom: 11 
+maxZoom: 18
+```

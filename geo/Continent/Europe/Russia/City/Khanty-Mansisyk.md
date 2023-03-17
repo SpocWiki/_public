@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Khanty-Mansisyk
+coordinates: [[Khanty-Mansisyk]]
+markerFile: [[Khanty-Mansisyk]]
+defaultZoom: 11 
+maxZoom: 18
+```

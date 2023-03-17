@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schluckenau
+coordinates: [[Schluckenau]]
+markerFile: [[Schluckenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gummersbach
+coordinates: [[Gummersbach]]
+markerFile: [[Gummersbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

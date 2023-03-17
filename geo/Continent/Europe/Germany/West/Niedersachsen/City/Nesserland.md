@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nesserland
+coordinates: [[Nesserland]]
+markerFile: [[Nesserland]]
+defaultZoom: 11 
+maxZoom: 18
+```

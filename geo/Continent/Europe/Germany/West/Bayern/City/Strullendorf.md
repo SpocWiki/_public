@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strullendorf
+coordinates: [[Strullendorf]]
+markerFile: [[Strullendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kilkenny
+coordinates: [[Kilkenny]]
+markerFile: [[Kilkenny]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stavanger
+coordinates: [[Stavanger]]
+markerFile: [[Stavanger]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weener
+coordinates: [[Weener]]
+markerFile: [[Weener]]
+defaultZoom: 11 
+maxZoom: 18
+```

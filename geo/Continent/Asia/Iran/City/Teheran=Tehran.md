@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.67,51.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teheran=Tehran
+coordinates: [[Teheran=Tehran]]
+markerFile: [[Teheran=Tehran]]
+defaultZoom: 11 
+maxZoom: 18
+```

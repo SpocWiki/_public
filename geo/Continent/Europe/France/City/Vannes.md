@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vannes
+coordinates: [[Vannes]]
+markerFile: [[Vannes]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Charlottenburg
+coordinates: [[Charlottenburg]]
+markerFile: [[Charlottenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

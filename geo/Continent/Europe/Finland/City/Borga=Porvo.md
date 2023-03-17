@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borga=Porvo
+coordinates: [[Borga=Porvo]]
+markerFile: [[Borga=Porvo]]
+defaultZoom: 11 
+maxZoom: 18
+```

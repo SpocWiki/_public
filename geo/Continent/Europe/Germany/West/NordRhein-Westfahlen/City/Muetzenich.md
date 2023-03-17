@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muetzenich
+coordinates: [[Muetzenich]]
+markerFile: [[Muetzenich]]
+defaultZoom: 11 
+maxZoom: 18
+```

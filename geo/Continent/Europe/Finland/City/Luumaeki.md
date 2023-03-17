@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luumaeki
+coordinates: [[Luumaeki]]
+markerFile: [[Luumaeki]]
+defaultZoom: 11 
+maxZoom: 18
+```

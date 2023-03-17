@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spandau
+coordinates: [[Spandau]]
+markerFile: [[Spandau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.78,18]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lugnian
+coordinates: [[Lugnian]]
+markerFile: [[Lugnian]]
+defaultZoom: 11 
+maxZoom: 18
+```

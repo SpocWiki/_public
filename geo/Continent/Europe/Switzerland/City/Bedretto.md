@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bedretto
+coordinates: [[Bedretto]]
+markerFile: [[Bedretto]]
+defaultZoom: 11 
+maxZoom: 18
+```

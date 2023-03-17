@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.9,8.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Westerland
+coordinates: [[Westerland]]
+markerFile: [[Westerland]]
+defaultZoom: 11 
+maxZoom: 18
+```

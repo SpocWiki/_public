@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.17,140.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nikolajewsk
+coordinates: [[Nikolajewsk]]
+markerFile: [[Nikolajewsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

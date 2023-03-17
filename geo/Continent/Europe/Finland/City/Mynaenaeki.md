@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mynaenaeki
+coordinates: [[Mynaenaeki]]
+markerFile: [[Mynaenaeki]]
+defaultZoom: 11 
+maxZoom: 18
+```

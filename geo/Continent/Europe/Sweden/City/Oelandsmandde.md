@@ -1,4 +1,4 @@
----
+﻿---
 location: [57.37,17.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oelandsmandde
+coordinates: [[Oelandsmandde]]
+markerFile: [[Oelandsmandde]]
+defaultZoom: 11 
+maxZoom: 18
+```

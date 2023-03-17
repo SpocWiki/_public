@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lestijaervi
+coordinates: [[Lestijaervi]]
+markerFile: [[Lestijaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

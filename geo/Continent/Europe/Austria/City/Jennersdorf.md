@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jennersdorf
+coordinates: [[Jennersdorf]]
+markerFile: [[Jennersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

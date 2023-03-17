@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skagerrak
+coordinates: [[Skagerrak]]
+markerFile: [[Skagerrak]]
+defaultZoom: 11 
+maxZoom: 18
+```

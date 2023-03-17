@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ekefors
+coordinates: [[Ekefors]]
+markerFile: [[Ekefors]]
+defaultZoom: 11 
+maxZoom: 18
+```

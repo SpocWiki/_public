@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brezinek
+coordinates: [[Brezinek]]
+markerFile: [[Brezinek]]
+defaultZoom: 11 
+maxZoom: 18
+```

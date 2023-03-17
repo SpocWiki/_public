@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Modena
+coordinates: [[Modena]]
+markerFile: [[Modena]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Welda
+coordinates: [[Welda]]
+markerFile: [[Welda]]
+defaultZoom: 11 
+maxZoom: 18
+```

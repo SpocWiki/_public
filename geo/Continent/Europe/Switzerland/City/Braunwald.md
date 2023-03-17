@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Braunwald
+coordinates: [[Braunwald]]
+markerFile: [[Braunwald]]
+defaultZoom: 11 
+maxZoom: 18
+```

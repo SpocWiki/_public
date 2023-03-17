@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Edesheim
+coordinates: [[Edesheim]]
+markerFile: [[Edesheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

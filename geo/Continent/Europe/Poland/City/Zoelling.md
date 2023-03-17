@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.73,15.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zoelling
+coordinates: [[Zoelling]]
+markerFile: [[Zoelling]]
+defaultZoom: 11 
+maxZoom: 18
+```

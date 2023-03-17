@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.25,-11.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moroni
+coordinates: [[Moroni]]
+markerFile: [[Moroni]]
+defaultZoom: 11 
+maxZoom: 18
+```

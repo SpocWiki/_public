@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ramsdorf
+coordinates: [[Ramsdorf]]
+markerFile: [[Ramsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

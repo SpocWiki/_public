@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vesoul
+coordinates: [[Vesoul]]
+markerFile: [[Vesoul]]
+defaultZoom: 11 
+maxZoom: 18
+```

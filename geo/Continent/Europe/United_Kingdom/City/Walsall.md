@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Walsall
+coordinates: [[Walsall]]
+markerFile: [[Walsall]]
+defaultZoom: 11 
+maxZoom: 18
+```

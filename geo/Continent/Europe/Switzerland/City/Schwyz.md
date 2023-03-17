@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwyz
+coordinates: [[Schwyz]]
+markerFile: [[Schwyz]]
+defaultZoom: 11 
+maxZoom: 18
+```

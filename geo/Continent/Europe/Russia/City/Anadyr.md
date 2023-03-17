@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Anadyr
+coordinates: [[Anadyr]]
+markerFile: [[Anadyr]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loetzen
+coordinates: [[Loetzen]]
+markerFile: [[Loetzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

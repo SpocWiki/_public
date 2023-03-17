@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oak Park
+coordinates: [[Oak Park]]
+markerFile: [[Oak Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Staraya Roussa
+coordinates: [[Staraya Roussa]]
+markerFile: [[Staraya Roussa]]
+defaultZoom: 11 
+maxZoom: 18
+```

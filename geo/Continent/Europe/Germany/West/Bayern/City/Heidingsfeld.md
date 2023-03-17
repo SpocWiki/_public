@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heidingsfeld
+coordinates: [[Heidingsfeld]]
+markerFile: [[Heidingsfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amstelveen
+coordinates: [[Amstelveen]]
+markerFile: [[Amstelveen]]
+defaultZoom: 11 
+maxZoom: 18
+```

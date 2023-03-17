@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwante
+coordinates: [[Schwante]]
+markerFile: [[Schwante]]
+defaultZoom: 11 
+maxZoom: 18
+```

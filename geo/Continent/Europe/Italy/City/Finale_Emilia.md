@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Finale Emilia
+coordinates: [[Finale Emilia]]
+markerFile: [[Finale Emilia]]
+defaultZoom: 11 
+maxZoom: 18
+```

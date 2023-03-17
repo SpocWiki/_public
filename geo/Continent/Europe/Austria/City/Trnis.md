@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trnis
+coordinates: [[Trnis]]
+markerFile: [[Trnis]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mercatello
+coordinates: [[Mercatello]]
+markerFile: [[Mercatello]]
+defaultZoom: 11 
+maxZoom: 18
+```

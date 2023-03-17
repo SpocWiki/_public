@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Urk
+coordinates: [[Urk]]
+markerFile: [[Urk]]
+defaultZoom: 11 
+maxZoom: 18
+```

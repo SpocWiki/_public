@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rummelsburg
+coordinates: [[Rummelsburg]]
+markerFile: [[Rummelsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

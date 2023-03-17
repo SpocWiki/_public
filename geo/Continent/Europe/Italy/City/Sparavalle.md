@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sparavalle
+coordinates: [[Sparavalle]]
+markerFile: [[Sparavalle]]
+defaultZoom: 11 
+maxZoom: 18
+```

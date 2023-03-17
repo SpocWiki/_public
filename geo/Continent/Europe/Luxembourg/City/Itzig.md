@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Itzig
+coordinates: [[Itzig]]
+markerFile: [[Itzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

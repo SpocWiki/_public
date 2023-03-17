@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bury
+coordinates: [[Bury]]
+markerFile: [[Bury]]
+defaultZoom: 11 
+maxZoom: 18
+```

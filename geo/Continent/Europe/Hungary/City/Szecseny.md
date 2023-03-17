@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szecseny
+coordinates: [[Szecseny]]
+markerFile: [[Szecseny]]
+defaultZoom: 11 
+maxZoom: 18
+```

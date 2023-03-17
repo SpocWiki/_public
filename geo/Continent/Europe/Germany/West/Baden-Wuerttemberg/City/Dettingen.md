@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dettingen
+coordinates: [[Dettingen]]
+markerFile: [[Dettingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

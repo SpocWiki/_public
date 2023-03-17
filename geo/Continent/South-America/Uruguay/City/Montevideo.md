@@ -1,4 +1,4 @@
----
+﻿---
 location: [-34.91,-56.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montevideo
+coordinates: [[Montevideo]]
+markerFile: [[Montevideo]]
+defaultZoom: 11 
+maxZoom: 18
+```

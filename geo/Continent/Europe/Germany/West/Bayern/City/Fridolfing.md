@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fridolfing
+coordinates: [[Fridolfing]]
+markerFile: [[Fridolfing]]
+defaultZoom: 11 
+maxZoom: 18
+```

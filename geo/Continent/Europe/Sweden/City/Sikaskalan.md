@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sikaskalan
+coordinates: [[Sikaskalan]]
+markerFile: [[Sikaskalan]]
+defaultZoom: 11 
+maxZoom: 18
+```

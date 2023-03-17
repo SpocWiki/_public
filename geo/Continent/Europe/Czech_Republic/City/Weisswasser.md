@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weisswasser
+coordinates: [[Weisswasser]]
+markerFile: [[Weisswasser]]
+defaultZoom: 11 
+maxZoom: 18
+```

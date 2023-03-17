@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brzezany
+coordinates: [[Brzezany]]
+markerFile: [[Brzezany]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldei
+coordinates: [[Waldei]]
+markerFile: [[Waldei]]
+defaultZoom: 11 
+maxZoom: 18
+```

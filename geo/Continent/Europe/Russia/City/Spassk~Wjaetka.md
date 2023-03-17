@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spassk~Wjaetka
+coordinates: [[Spassk~Wjaetka]]
+markerFile: [[Spassk~Wjaetka]]
+defaultZoom: 11 
+maxZoom: 18
+```

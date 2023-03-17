@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ottobeuren
+coordinates: [[Ottobeuren]]
+markerFile: [[Ottobeuren]]
+defaultZoom: 11 
+maxZoom: 18
+```

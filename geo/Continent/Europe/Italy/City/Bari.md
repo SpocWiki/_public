@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bari
+coordinates: [[Bari]]
+markerFile: [[Bari]]
+defaultZoom: 11 
+maxZoom: 18
+```

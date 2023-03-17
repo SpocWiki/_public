@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weitmar
+coordinates: [[Weitmar]]
+markerFile: [[Weitmar]]
+defaultZoom: 11 
+maxZoom: 18
+```

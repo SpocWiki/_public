@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Graudenz
+coordinates: [[Graudenz]]
+markerFile: [[Graudenz]]
+defaultZoom: 11 
+maxZoom: 18
+```

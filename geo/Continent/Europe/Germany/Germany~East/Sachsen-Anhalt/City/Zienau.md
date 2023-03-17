@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zienau
+coordinates: [[Zienau]]
+markerFile: [[Zienau]]
+defaultZoom: 11 
+maxZoom: 18
+```

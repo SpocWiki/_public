@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beverungen
+coordinates: [[Beverungen]]
+markerFile: [[Beverungen]]
+defaultZoom: 11 
+maxZoom: 18
+```

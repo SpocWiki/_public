@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Adenau
+coordinates: [[Adenau]]
+markerFile: [[Adenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [16.78,96.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rangoon
+coordinates: [[Rangoon]]
+markerFile: [[Rangoon]]
+defaultZoom: 11 
+maxZoom: 18
+```

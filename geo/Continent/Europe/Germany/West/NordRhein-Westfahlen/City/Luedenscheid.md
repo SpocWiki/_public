@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luedenscheid
+coordinates: [[Luedenscheid]]
+markerFile: [[Luedenscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

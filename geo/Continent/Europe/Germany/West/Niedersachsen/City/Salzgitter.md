@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salzgitter
+coordinates: [[Salzgitter]]
+markerFile: [[Salzgitter]]
+defaultZoom: 11 
+maxZoom: 18
+```

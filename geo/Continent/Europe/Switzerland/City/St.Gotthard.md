@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Gotthard
+coordinates: [[St.Gotthard]]
+markerFile: [[St.Gotthard]]
+defaultZoom: 11 
+maxZoom: 18
+```

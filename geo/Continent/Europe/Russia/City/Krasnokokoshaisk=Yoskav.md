@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krasnokokoshaisk=Yoskav
+coordinates: [[Krasnokokoshaisk=Yoskav]]
+markerFile: [[Krasnokokoshaisk=Yoskav]]
+defaultZoom: 11 
+maxZoom: 18
+```

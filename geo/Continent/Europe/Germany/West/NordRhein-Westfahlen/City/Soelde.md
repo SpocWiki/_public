@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soelde
+coordinates: [[Soelde]]
+markerFile: [[Soelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

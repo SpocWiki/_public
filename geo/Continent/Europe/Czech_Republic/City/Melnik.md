@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Melnik
+coordinates: [[Melnik]]
+markerFile: [[Melnik]]
+defaultZoom: 11 
+maxZoom: 18
+```

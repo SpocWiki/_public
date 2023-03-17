@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Budapest
+coordinates: [[Budapest]]
+markerFile: [[Budapest]]
+defaultZoom: 11 
+maxZoom: 18
+```

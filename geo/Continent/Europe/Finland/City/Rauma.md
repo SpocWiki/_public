@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rauma
+coordinates: [[Rauma]]
+markerFile: [[Rauma]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leyton
+coordinates: [[Leyton]]
+markerFile: [[Leyton]]
+defaultZoom: 11 
+maxZoom: 18
+```

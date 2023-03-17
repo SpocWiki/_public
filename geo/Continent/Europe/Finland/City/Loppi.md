@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loppi
+coordinates: [[Loppi]]
+markerFile: [[Loppi]]
+defaultZoom: 11 
+maxZoom: 18
+```

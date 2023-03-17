@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mainz
+coordinates: [[Mainz]]
+markerFile: [[Mainz]]
+defaultZoom: 11 
+maxZoom: 18
+```

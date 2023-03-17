@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landeshut
+coordinates: [[Landeshut]]
+markerFile: [[Landeshut]]
+defaultZoom: 11 
+maxZoom: 18
+```

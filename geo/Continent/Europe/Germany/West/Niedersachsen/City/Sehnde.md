@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sehnde
+coordinates: [[Sehnde]]
+markerFile: [[Sehnde]]
+defaultZoom: 11 
+maxZoom: 18
+```

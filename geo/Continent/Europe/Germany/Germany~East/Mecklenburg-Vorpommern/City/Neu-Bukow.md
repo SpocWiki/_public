@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neu-Bukow
+coordinates: [[Neu-Bukow]]
+markerFile: [[Neu-Bukow]]
+defaultZoom: 11 
+maxZoom: 18
+```

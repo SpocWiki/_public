@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alte Sternwarte
+coordinates: [[Alte Sternwarte]]
+markerFile: [[Alte Sternwarte]]
+defaultZoom: 11 
+maxZoom: 18
+```

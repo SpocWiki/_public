@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ikaalinen
+coordinates: [[Ikaalinen]]
+markerFile: [[Ikaalinen]]
+defaultZoom: 11 
+maxZoom: 18
+```

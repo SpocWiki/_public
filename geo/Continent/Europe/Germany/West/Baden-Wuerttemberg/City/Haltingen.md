@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haltingen
+coordinates: [[Haltingen]]
+markerFile: [[Haltingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

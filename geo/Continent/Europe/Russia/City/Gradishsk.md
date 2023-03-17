@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gradishsk
+coordinates: [[Gradishsk]]
+markerFile: [[Gradishsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

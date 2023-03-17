@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luzzara
+coordinates: [[Luzzara]]
+markerFile: [[Luzzara]]
+defaultZoom: 11 
+maxZoom: 18
+```

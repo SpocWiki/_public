@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Penckowo
+coordinates: [[Penckowo]]
+markerFile: [[Penckowo]]
+defaultZoom: 11 
+maxZoom: 18
+```

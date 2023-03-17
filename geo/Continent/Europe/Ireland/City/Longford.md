@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Longford
+coordinates: [[Longford]]
+markerFile: [[Longford]]
+defaultZoom: 11 
+maxZoom: 18
+```

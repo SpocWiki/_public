@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.48,9.92]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moorburg
+coordinates: [[Moorburg]]
+markerFile: [[Moorburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

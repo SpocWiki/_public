@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leitmeritz=Litomerice
+coordinates: [[Leitmeritz=Litomerice]]
+markerFile: [[Leitmeritz=Litomerice]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stenegard
+coordinates: [[Stenegard]]
+markerFile: [[Stenegard]]
+defaultZoom: 11 
+maxZoom: 18
+```

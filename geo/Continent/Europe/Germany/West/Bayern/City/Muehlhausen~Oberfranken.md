@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muehlhausen~Oberfranken
+coordinates: [[Muehlhausen~Oberfranken]]
+markerFile: [[Muehlhausen~Oberfranken]]
+defaultZoom: 11 
+maxZoom: 18
+```

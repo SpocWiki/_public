@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mannheim
+coordinates: [[Mannheim]]
+markerFile: [[Mannheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

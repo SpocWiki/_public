@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wohlau
+coordinates: [[Wohlau]]
+markerFile: [[Wohlau]]
+defaultZoom: 11 
+maxZoom: 18
+```

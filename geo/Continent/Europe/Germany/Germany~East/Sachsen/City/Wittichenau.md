@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wittichenau
+coordinates: [[Wittichenau]]
+markerFile: [[Wittichenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

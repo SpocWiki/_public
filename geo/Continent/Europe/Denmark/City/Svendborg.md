@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Svendborg
+coordinates: [[Svendborg]]
+markerFile: [[Svendborg]]
+defaultZoom: 11 
+maxZoom: 18
+```

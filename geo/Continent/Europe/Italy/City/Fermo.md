@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fermo
+coordinates: [[Fermo]]
+markerFile: [[Fermo]]
+defaultZoom: 11 
+maxZoom: 18
+```

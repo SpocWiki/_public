@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ulvoberg
+coordinates: [[Ulvoberg]]
+markerFile: [[Ulvoberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

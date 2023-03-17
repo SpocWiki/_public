@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.2,47.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nukla
+coordinates: [[Nukla]]
+markerFile: [[Nukla]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hornburg
+coordinates: [[Hornburg]]
+markerFile: [[Hornburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

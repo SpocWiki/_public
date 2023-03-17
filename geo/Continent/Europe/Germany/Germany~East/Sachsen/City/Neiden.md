@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neiden
+coordinates: [[Neiden]]
+markerFile: [[Neiden]]
+defaultZoom: 11 
+maxZoom: 18
+```

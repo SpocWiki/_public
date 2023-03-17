@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seitenberg
+coordinates: [[Seitenberg]]
+markerFile: [[Seitenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

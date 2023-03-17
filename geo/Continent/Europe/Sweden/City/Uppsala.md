@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uppsala
+coordinates: [[Uppsala]]
+markerFile: [[Uppsala]]
+defaultZoom: 11 
+maxZoom: 18
+```

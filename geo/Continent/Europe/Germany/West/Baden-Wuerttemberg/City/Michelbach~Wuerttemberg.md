@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.07,9.73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Michelbach~Wuerttemberg
+coordinates: [[Michelbach~Wuerttemberg]]
+markerFile: [[Michelbach~Wuerttemberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

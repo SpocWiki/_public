@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.78,7.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sobernheim
+coordinates: [[Sobernheim]]
+markerFile: [[Sobernheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

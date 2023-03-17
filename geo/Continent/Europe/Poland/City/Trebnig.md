@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trebnig
+coordinates: [[Trebnig]]
+markerFile: [[Trebnig]]
+defaultZoom: 11 
+maxZoom: 18
+```

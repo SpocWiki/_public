@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trelleborg
+coordinates: [[Trelleborg]]
+markerFile: [[Trelleborg]]
+defaultZoom: 11 
+maxZoom: 18
+```

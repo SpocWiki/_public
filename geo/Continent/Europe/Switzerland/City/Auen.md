@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Auen
+coordinates: [[Auen]]
+markerFile: [[Auen]]
+defaultZoom: 11 
+maxZoom: 18
+```

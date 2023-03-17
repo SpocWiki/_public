@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bathgate
+coordinates: [[Bathgate]]
+markerFile: [[Bathgate]]
+defaultZoom: 11 
+maxZoom: 18
+```

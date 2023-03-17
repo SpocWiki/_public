@@ -1,4 +1,4 @@
----
+﻿---
 location: [25.05,-77.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nassau
+coordinates: [[Nassau]]
+markerFile: [[Nassau]]
+defaultZoom: 11 
+maxZoom: 18
+```

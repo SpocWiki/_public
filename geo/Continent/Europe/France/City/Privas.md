@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Privas
+coordinates: [[Privas]]
+markerFile: [[Privas]]
+defaultZoom: 11 
+maxZoom: 18
+```

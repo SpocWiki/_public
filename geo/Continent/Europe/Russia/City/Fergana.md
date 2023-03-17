@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fergana
+coordinates: [[Fergana]]
+markerFile: [[Fergana]]
+defaultZoom: 11 
+maxZoom: 18
+```

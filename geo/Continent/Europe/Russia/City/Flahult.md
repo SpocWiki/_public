@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flahult
+coordinates: [[Flahult]]
+markerFile: [[Flahult]]
+defaultZoom: 11 
+maxZoom: 18
+```

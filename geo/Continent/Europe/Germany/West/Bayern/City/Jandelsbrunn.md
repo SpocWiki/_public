@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jandelsbrunn
+coordinates: [[Jandelsbrunn]]
+markerFile: [[Jandelsbrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

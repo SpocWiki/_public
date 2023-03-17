@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Babelsberg
+coordinates: [[Babelsberg]]
+markerFile: [[Babelsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

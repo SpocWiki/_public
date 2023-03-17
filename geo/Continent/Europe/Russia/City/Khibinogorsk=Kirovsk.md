@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Khibinogorsk=Kirovsk
+coordinates: [[Khibinogorsk=Kirovsk]]
+markerFile: [[Khibinogorsk=Kirovsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

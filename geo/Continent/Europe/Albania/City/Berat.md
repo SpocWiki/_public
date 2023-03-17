@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berat
+coordinates: [[Berat]]
+markerFile: [[Berat]]
+defaultZoom: 11 
+maxZoom: 18
+```

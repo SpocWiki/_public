@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Whitehorse
+coordinates: [[Whitehorse]]
+markerFile: [[Whitehorse]]
+defaultZoom: 11 
+maxZoom: 18
+```

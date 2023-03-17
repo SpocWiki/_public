@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krasnodar
+coordinates: [[Krasnodar]]
+markerFile: [[Krasnodar]]
+defaultZoom: 11 
+maxZoom: 18
+```

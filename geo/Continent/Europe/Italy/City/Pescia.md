@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pescia
+coordinates: [[Pescia]]
+markerFile: [[Pescia]]
+defaultZoom: 11 
+maxZoom: 18
+```

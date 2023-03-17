@@ -1,4 +1,4 @@
----
+﻿---
 location: [-17.83333,31.05]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Harare
+coordinates: [[Harare]]
+markerFile: [[Harare]]
+defaultZoom: 11 
+maxZoom: 18
+```

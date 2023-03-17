@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skopin
+coordinates: [[Skopin]]
+markerFile: [[Skopin]]
+defaultZoom: 11 
+maxZoom: 18
+```

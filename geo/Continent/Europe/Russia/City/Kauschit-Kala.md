@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kauschit-Kala
+coordinates: [[Kauschit-Kala]]
+markerFile: [[Kauschit-Kala]]
+defaultZoom: 11 
+maxZoom: 18
+```

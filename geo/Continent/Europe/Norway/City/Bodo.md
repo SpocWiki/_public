@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bodo
+coordinates: [[Bodo]]
+markerFile: [[Bodo]]
+defaultZoom: 11 
+maxZoom: 18
+```

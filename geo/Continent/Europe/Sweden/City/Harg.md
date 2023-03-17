@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harg
+coordinates: [[Harg]]
+markerFile: [[Harg]]
+defaultZoom: 11 
+maxZoom: 18
+```

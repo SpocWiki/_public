@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.73,37.18]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tarussa
+coordinates: [[Tarussa]]
+markerFile: [[Tarussa]]
+defaultZoom: 11 
+maxZoom: 18
+```

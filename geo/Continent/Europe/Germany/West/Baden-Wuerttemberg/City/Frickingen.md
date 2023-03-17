@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frickingen
+coordinates: [[Frickingen]]
+markerFile: [[Frickingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

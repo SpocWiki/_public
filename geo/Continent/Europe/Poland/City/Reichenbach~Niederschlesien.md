@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichenbach~Niederschlesien
+coordinates: [[Reichenbach~Niederschlesien]]
+markerFile: [[Reichenbach~Niederschlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

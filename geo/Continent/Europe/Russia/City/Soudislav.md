@@ -1,4 +1,4 @@
-﻿---
+---
 location: [57.88,41.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soudislav
+coordinates: [[Soudislav]]
+markerFile: [[Soudislav]]
+defaultZoom: 11 
+maxZoom: 18
+```

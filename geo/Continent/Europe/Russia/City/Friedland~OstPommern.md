@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedland~OstPommern
+coordinates: [[Friedland~OstPommern]]
+markerFile: [[Friedland~OstPommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.32,12.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Adorf
+coordinates: [[Adorf]]
+markerFile: [[Adorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

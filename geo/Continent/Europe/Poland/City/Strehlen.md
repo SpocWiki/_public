@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.78,17.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strehlen
+coordinates: [[Strehlen]]
+markerFile: [[Strehlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

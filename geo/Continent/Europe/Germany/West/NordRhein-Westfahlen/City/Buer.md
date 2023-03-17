@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buer
+coordinates: [[Buer]]
+markerFile: [[Buer]]
+defaultZoom: 11 
+maxZoom: 18
+```

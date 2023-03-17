@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolfsburg
+coordinates: [[Wolfsburg]]
+markerFile: [[Wolfsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

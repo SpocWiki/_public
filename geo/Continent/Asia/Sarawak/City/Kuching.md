@@ -1,4 +1,4 @@
----
+﻿---
 location: [1.56,110.345]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuching
+coordinates: [[Kuching]]
+markerFile: [[Kuching]]
+defaultZoom: 11 
+maxZoom: 18
+```

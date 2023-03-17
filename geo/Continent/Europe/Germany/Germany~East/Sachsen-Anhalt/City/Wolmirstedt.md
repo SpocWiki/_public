@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.25,11.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolmirstedt
+coordinates: [[Wolmirstedt]]
+markerFile: [[Wolmirstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

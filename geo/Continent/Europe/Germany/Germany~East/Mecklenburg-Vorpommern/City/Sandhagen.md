@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandhagen
+coordinates: [[Sandhagen]]
+markerFile: [[Sandhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

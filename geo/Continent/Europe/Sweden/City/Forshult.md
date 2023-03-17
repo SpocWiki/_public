@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forshult
+coordinates: [[Forshult]]
+markerFile: [[Forshult]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Egelsbach
+coordinates: [[Egelsbach]]
+markerFile: [[Egelsbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

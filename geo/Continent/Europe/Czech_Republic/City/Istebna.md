@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Istebna
+coordinates: [[Istebna]]
+markerFile: [[Istebna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bristol
+coordinates: [[Bristol]]
+markerFile: [[Bristol]]
+defaultZoom: 11 
+maxZoom: 18
+```

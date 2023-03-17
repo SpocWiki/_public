@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paldiski
+coordinates: [[Paldiski]]
+markerFile: [[Paldiski]]
+defaultZoom: 11 
+maxZoom: 18
+```

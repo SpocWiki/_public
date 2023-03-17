@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.71667,43.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tambow
+coordinates: [[Tambow]]
+markerFile: [[Tambow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwarmitz
+coordinates: [[Schwarmitz]]
+markerFile: [[Schwarmitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

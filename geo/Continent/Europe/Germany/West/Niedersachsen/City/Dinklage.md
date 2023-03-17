@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dinklage
+coordinates: [[Dinklage]]
+markerFile: [[Dinklage]]
+defaultZoom: 11 
+maxZoom: 18
+```

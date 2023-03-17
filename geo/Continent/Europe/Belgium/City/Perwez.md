@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perwez
+coordinates: [[Perwez]]
+markerFile: [[Perwez]]
+defaultZoom: 11 
+maxZoom: 18
+```

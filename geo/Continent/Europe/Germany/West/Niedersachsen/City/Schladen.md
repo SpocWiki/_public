@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schladen
+coordinates: [[Schladen]]
+markerFile: [[Schladen]]
+defaultZoom: 11 
+maxZoom: 18
+```

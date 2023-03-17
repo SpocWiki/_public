@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blankenburg
+coordinates: [[Blankenburg]]
+markerFile: [[Blankenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

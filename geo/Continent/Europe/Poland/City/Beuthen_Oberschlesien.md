@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beuthen/Oberschlesien
+coordinates: [[Beuthen/Oberschlesien]]
+markerFile: [[Beuthen/Oberschlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

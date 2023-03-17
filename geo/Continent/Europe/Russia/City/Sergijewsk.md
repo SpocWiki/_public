@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sergijewsk
+coordinates: [[Sergijewsk]]
+markerFile: [[Sergijewsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

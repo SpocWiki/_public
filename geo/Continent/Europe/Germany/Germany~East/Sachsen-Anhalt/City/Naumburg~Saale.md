@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Naumburg~Saale
+coordinates: [[Naumburg~Saale]]
+markerFile: [[Naumburg~Saale]]
+defaultZoom: 11 
+maxZoom: 18
+```

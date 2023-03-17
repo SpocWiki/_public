@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ladbergen
+coordinates: [[Ladbergen]]
+markerFile: [[Ladbergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

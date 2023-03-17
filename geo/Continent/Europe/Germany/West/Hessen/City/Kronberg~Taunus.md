@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.18,8.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kronberg~Taunus
+coordinates: [[Kronberg~Taunus]]
+markerFile: [[Kronberg~Taunus]]
+defaultZoom: 11 
+maxZoom: 18
+```

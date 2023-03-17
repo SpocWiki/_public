@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pearl Harbor
+coordinates: [[Pearl Harbor]]
+markerFile: [[Pearl Harbor]]
+defaultZoom: 11 
+maxZoom: 18
+```

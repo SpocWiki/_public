@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolsk
+coordinates: [[Wolsk]]
+markerFile: [[Wolsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Auch
+coordinates: [[Auch]]
+markerFile: [[Auch]]
+defaultZoom: 11 
+maxZoom: 18
+```

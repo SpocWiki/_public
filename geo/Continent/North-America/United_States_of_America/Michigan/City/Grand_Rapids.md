@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grand Rapids
+coordinates: [[Grand Rapids]]
+markerFile: [[Grand Rapids]]
+defaultZoom: 11 
+maxZoom: 18
+```

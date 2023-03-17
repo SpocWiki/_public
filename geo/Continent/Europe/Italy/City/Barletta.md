@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barletta
+coordinates: [[Barletta]]
+markerFile: [[Barletta]]
+defaultZoom: 11 
+maxZoom: 18
+```

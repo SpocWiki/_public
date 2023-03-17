@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ettenheim
+coordinates: [[Ettenheim]]
+markerFile: [[Ettenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

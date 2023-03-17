@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mostar
+coordinates: [[Mostar]]
+markerFile: [[Mostar]]
+defaultZoom: 11 
+maxZoom: 18
+```

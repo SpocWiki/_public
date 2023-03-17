@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Norrtelje
+coordinates: [[Norrtelje]]
+markerFile: [[Norrtelje]]
+defaultZoom: 11 
+maxZoom: 18
+```

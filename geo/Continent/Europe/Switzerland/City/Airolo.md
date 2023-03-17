@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Airolo
+coordinates: [[Airolo]]
+markerFile: [[Airolo]]
+defaultZoom: 11 
+maxZoom: 18
+```

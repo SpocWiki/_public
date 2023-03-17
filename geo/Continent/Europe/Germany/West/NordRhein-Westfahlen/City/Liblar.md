@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liblar
+coordinates: [[Liblar]]
+markerFile: [[Liblar]]
+defaultZoom: 11 
+maxZoom: 18
+```

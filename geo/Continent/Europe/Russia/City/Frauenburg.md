@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frauenburg
+coordinates: [[Frauenburg]]
+markerFile: [[Frauenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

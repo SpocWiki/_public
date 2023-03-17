@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meudon
+coordinates: [[Meudon]]
+markerFile: [[Meudon]]
+defaultZoom: 11 
+maxZoom: 18
+```

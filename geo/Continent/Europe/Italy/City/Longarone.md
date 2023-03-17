@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Longarone
+coordinates: [[Longarone]]
+markerFile: [[Longarone]]
+defaultZoom: 11 
+maxZoom: 18
+```

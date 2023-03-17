@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pfronten
+coordinates: [[Pfronten]]
+markerFile: [[Pfronten]]
+defaultZoom: 11 
+maxZoom: 18
+```

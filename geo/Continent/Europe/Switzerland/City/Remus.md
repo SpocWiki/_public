@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Remus
+coordinates: [[Remus]]
+markerFile: [[Remus]]
+defaultZoom: 11 
+maxZoom: 18
+```

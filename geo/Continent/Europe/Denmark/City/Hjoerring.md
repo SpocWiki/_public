@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hjoerring
+coordinates: [[Hjoerring]]
+markerFile: [[Hjoerring]]
+defaultZoom: 11 
+maxZoom: 18
+```

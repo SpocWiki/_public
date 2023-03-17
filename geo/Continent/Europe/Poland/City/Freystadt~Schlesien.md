@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freystadt~Schlesien
+coordinates: [[Freystadt~Schlesien]]
+markerFile: [[Freystadt~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

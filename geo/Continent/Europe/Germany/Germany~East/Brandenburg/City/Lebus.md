@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.43,14.53]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lebus
+coordinates: [[Lebus]]
+markerFile: [[Lebus]]
+defaultZoom: 11 
+maxZoom: 18
+```

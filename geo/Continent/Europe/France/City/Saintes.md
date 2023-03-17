@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saintes
+coordinates: [[Saintes]]
+markerFile: [[Saintes]]
+defaultZoom: 11 
+maxZoom: 18
+```

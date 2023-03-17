@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zantoch
+coordinates: [[Zantoch]]
+markerFile: [[Zantoch]]
+defaultZoom: 11 
+maxZoom: 18
+```

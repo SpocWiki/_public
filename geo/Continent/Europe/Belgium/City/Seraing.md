@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seraing
+coordinates: [[Seraing]]
+markerFile: [[Seraing]]
+defaultZoom: 11 
+maxZoom: 18
+```

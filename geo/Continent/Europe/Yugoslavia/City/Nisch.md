@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nisch
+coordinates: [[Nisch]]
+markerFile: [[Nisch]]
+defaultZoom: 11 
+maxZoom: 18
+```

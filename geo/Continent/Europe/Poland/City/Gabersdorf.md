@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gabersdorf
+coordinates: [[Gabersdorf]]
+markerFile: [[Gabersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

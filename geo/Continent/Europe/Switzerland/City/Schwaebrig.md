@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwaebrig
+coordinates: [[Schwaebrig]]
+markerFile: [[Schwaebrig]]
+defaultZoom: 11 
+maxZoom: 18
+```

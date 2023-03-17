@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.34722,-81.63333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Charleston
+coordinates: [[Charleston]]
+markerFile: [[Charleston]]
+defaultZoom: 11 
+maxZoom: 18
+```

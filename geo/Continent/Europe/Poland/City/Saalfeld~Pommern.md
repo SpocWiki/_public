@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saalfeld~Pommern
+coordinates: [[Saalfeld~Pommern]]
+markerFile: [[Saalfeld~Pommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mineo
+coordinates: [[Mineo]]
+markerFile: [[Mineo]]
+defaultZoom: 11 
+maxZoom: 18
+```

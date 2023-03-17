@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedrichshain
+coordinates: [[Friedrichshain]]
+markerFile: [[Friedrichshain]]
+defaultZoom: 11 
+maxZoom: 18
+```

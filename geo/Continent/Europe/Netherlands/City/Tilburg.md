@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tilburg
+coordinates: [[Tilburg]]
+markerFile: [[Tilburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

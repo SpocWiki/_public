@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Balti
+coordinates: [[Balti]]
+markerFile: [[Balti]]
+defaultZoom: 11 
+maxZoom: 18
+```

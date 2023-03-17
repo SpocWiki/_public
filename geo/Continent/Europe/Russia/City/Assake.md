@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Assake
+coordinates: [[Assake]]
+markerFile: [[Assake]]
+defaultZoom: 11 
+maxZoom: 18
+```

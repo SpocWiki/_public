@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eisenerz
+coordinates: [[Eisenerz]]
+markerFile: [[Eisenerz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oschatz
+coordinates: [[Oschatz]]
+markerFile: [[Oschatz]]
+defaultZoom: 11 
+maxZoom: 18
+```

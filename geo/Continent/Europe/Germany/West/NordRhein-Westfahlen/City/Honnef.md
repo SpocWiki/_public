@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Honnef
+coordinates: [[Honnef]]
+markerFile: [[Honnef]]
+defaultZoom: 11 
+maxZoom: 18
+```

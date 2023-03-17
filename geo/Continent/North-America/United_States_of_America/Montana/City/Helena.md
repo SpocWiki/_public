@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Helena
+coordinates: [[Helena]]
+markerFile: [[Helena]]
+defaultZoom: 11 
+maxZoom: 18
+```

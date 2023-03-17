@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Erlenbach~Pfalz
+coordinates: [[Erlenbach~Pfalz]]
+markerFile: [[Erlenbach~Pfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sinigaglia
+coordinates: [[Sinigaglia]]
+markerFile: [[Sinigaglia]]
+defaultZoom: 11 
+maxZoom: 18
+```

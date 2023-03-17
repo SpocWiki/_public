@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sodertalge
+coordinates: [[Sodertalge]]
+markerFile: [[Sodertalge]]
+defaultZoom: 11 
+maxZoom: 18
+```

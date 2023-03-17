@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poppenhausen
+coordinates: [[Poppenhausen]]
+markerFile: [[Poppenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

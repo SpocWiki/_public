@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seiffersdorf
+coordinates: [[Seiffersdorf]]
+markerFile: [[Seiffersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

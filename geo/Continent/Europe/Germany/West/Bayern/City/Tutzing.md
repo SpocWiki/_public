@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tutzing
+coordinates: [[Tutzing]]
+markerFile: [[Tutzing]]
+defaultZoom: 11 
+maxZoom: 18
+```

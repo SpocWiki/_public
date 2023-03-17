@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hanoe
+coordinates: [[Hanoe]]
+markerFile: [[Hanoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

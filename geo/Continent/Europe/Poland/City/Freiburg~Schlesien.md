@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.87,16.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freiburg~Schlesien
+coordinates: [[Freiburg~Schlesien]]
+markerFile: [[Freiburg~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

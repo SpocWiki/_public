@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ischl
+coordinates: [[Ischl]]
+markerFile: [[Ischl]]
+defaultZoom: 11 
+maxZoom: 18
+```

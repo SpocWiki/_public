@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: s'Gravenhage=Den Haag
+coordinates: [[s'Gravenhage=Den Haag]]
+markerFile: [[s'Gravenhage=Den Haag]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fehrbellin
+coordinates: [[Fehrbellin]]
+markerFile: [[Fehrbellin]]
+defaultZoom: 11 
+maxZoom: 18
+```

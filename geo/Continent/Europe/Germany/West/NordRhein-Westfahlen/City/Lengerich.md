@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lengerich
+coordinates: [[Lengerich]]
+markerFile: [[Lengerich]]
+defaultZoom: 11 
+maxZoom: 18
+```

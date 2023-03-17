@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Florian
+coordinates: [[St.Florian]]
+markerFile: [[St.Florian]]
+defaultZoom: 11 
+maxZoom: 18
+```

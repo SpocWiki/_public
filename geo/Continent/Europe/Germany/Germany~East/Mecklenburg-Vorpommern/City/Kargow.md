@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kargow
+coordinates: [[Kargow]]
+markerFile: [[Kargow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belomorsk
+coordinates: [[Belomorsk]]
+markerFile: [[Belomorsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

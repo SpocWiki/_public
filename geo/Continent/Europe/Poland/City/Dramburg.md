@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.53,15.82]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dramburg
+coordinates: [[Dramburg]]
+markerFile: [[Dramburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

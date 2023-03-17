@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.98,8.55]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hatzfeld
+coordinates: [[Hatzfeld]]
+markerFile: [[Hatzfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruovesi
+coordinates: [[Ruovesi]]
+markerFile: [[Ruovesi]]
+defaultZoom: 11 
+maxZoom: 18
+```

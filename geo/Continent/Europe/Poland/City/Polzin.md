@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.77,16.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Polzin
+coordinates: [[Polzin]]
+markerFile: [[Polzin]]
+defaultZoom: 11 
+maxZoom: 18
+```

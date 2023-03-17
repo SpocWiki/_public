@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.98,14.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bernikow
+coordinates: [[Bernikow]]
+markerFile: [[Bernikow]]
+defaultZoom: 11 
+maxZoom: 18
+```

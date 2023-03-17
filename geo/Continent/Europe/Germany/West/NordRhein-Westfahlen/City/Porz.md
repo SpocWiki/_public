@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Porz
+coordinates: [[Porz]]
+markerFile: [[Porz]]
+defaultZoom: 11 
+maxZoom: 18
+```

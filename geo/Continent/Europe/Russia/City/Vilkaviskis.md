@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vilkaviskis
+coordinates: [[Vilkaviskis]]
+markerFile: [[Vilkaviskis]]
+defaultZoom: 11 
+maxZoom: 18
+```

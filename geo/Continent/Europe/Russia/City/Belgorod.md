@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belgorod
+coordinates: [[Belgorod]]
+markerFile: [[Belgorod]]
+defaultZoom: 11 
+maxZoom: 18
+```

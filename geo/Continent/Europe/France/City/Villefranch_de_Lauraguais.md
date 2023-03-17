@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villefranch de Lauraguais
+coordinates: [[Villefranch de Lauraguais]]
+markerFile: [[Villefranch de Lauraguais]]
+defaultZoom: 11 
+maxZoom: 18
+```

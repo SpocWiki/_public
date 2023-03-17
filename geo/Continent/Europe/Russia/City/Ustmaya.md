@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ustmaya
+coordinates: [[Ustmaya]]
+markerFile: [[Ustmaya]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Newburgh
+coordinates: [[Newburgh]]
+markerFile: [[Newburgh]]
+defaultZoom: 11 
+maxZoom: 18
+```

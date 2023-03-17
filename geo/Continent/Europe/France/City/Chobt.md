@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.05,-0.98]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chobt
+coordinates: [[Chobt]]
+markerFile: [[Chobt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kolomya=Kolomea
+coordinates: [[Kolomya=Kolomea]]
+markerFile: [[Kolomya=Kolomea]]
+defaultZoom: 11 
+maxZoom: 18
+```

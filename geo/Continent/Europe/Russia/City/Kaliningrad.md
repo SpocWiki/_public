@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaliningrad
+coordinates: [[Kaliningrad]]
+markerFile: [[Kaliningrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

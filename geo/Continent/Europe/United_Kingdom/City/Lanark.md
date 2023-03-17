@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lanark
+coordinates: [[Lanark]]
+markerFile: [[Lanark]]
+defaultZoom: 11 
+maxZoom: 18
+```

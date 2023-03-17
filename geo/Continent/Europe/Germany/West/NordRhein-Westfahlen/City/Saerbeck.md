@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saerbeck
+coordinates: [[Saerbeck]]
+markerFile: [[Saerbeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

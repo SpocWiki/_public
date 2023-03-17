@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.13334,33.46667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Nicosia
+coordinates: [[Nicosia]]
+markerFile: [[Nicosia]]
+defaultZoom: 11 
+maxZoom: 18
+```

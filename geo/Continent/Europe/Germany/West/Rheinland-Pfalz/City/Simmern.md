@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.98,7.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Simmern
+coordinates: [[Simmern]]
+markerFile: [[Simmern]]
+defaultZoom: 11 
+maxZoom: 18
+```

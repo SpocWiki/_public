@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eichstaett
+coordinates: [[Eichstaett]]
+markerFile: [[Eichstaett]]
+defaultZoom: 11 
+maxZoom: 18
+```

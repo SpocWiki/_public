@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hirschhorn
+coordinates: [[Hirschhorn]]
+markerFile: [[Hirschhorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

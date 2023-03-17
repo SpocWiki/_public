@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rostow=Rostov-na-Donu
+coordinates: [[Rostow=Rostov-na-Donu]]
+markerFile: [[Rostow=Rostov-na-Donu]]
+defaultZoom: 11 
+maxZoom: 18
+```

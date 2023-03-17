@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grossblandau
+coordinates: [[Grossblandau]]
+markerFile: [[Grossblandau]]
+defaultZoom: 11 
+maxZoom: 18
+```

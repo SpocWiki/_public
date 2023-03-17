@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Limoux
+coordinates: [[Limoux]]
+markerFile: [[Limoux]]
+defaultZoom: 11 
+maxZoom: 18
+```

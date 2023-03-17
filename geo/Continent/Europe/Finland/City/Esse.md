@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Esse
+coordinates: [[Esse]]
+markerFile: [[Esse]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reinickendorf
+coordinates: [[Reinickendorf]]
+markerFile: [[Reinickendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

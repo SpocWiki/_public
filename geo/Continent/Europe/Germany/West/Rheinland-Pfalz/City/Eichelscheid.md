@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eichelscheid
+coordinates: [[Eichelscheid]]
+markerFile: [[Eichelscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

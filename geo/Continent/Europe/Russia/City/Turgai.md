@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turgai
+coordinates: [[Turgai]]
+markerFile: [[Turgai]]
+defaultZoom: 11 
+maxZoom: 18
+```

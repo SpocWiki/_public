@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandfoerde
+coordinates: [[Sandfoerde]]
+markerFile: [[Sandfoerde]]
+defaultZoom: 11 
+maxZoom: 18
+```

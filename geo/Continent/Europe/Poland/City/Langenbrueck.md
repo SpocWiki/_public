@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.3,17.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenbrueck
+coordinates: [[Langenbrueck]]
+markerFile: [[Langenbrueck]]
+defaultZoom: 11 
+maxZoom: 18
+```

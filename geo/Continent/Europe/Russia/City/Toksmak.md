@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Toksmak
+coordinates: [[Toksmak]]
+markerFile: [[Toksmak]]
+defaultZoom: 11 
+maxZoom: 18
+```

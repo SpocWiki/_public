@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Praesto
+coordinates: [[Praesto]]
+markerFile: [[Praesto]]
+defaultZoom: 11 
+maxZoom: 18
+```

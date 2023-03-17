@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beachy Head
+coordinates: [[Beachy Head]]
+markerFile: [[Beachy Head]]
+defaultZoom: 11 
+maxZoom: 18
+```

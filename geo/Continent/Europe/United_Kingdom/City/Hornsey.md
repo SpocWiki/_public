@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hornsey
+coordinates: [[Hornsey]]
+markerFile: [[Hornsey]]
+defaultZoom: 11 
+maxZoom: 18
+```

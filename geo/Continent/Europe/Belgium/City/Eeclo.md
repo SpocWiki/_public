@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eeclo
+coordinates: [[Eeclo]]
+markerFile: [[Eeclo]]
+defaultZoom: 11 
+maxZoom: 18
+```

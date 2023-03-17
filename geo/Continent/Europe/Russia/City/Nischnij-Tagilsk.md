@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nischnij-Tagilsk
+coordinates: [[Nischnij-Tagilsk]]
+markerFile: [[Nischnij-Tagilsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

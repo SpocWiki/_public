@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troki
+coordinates: [[Troki]]
+markerFile: [[Troki]]
+defaultZoom: 11 
+maxZoom: 18
+```

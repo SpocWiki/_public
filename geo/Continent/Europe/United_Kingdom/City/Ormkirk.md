@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ormkirk
+coordinates: [[Ormkirk]]
+markerFile: [[Ormkirk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muensterberg
+coordinates: [[Muensterberg]]
+markerFile: [[Muensterberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

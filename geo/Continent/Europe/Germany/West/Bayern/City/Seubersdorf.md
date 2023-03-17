@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seubersdorf
+coordinates: [[Seubersdorf]]
+markerFile: [[Seubersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

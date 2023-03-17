@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Jean de Luz
+coordinates: [[St.Jean de Luz]]
+markerFile: [[St.Jean de Luz]]
+defaultZoom: 11 
+maxZoom: 18
+```

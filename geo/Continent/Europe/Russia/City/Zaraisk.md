@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zaraisk
+coordinates: [[Zaraisk]]
+markerFile: [[Zaraisk]]
+defaultZoom: 11 
+maxZoom: 18
+```

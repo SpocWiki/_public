@@ -1,4 +1,4 @@
----
+﻿---
 location: [61.73,17.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hudiksvall
+coordinates: [[Hudiksvall]]
+markerFile: [[Hudiksvall]]
+defaultZoom: 11 
+maxZoom: 18
+```

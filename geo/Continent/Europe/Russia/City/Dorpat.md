@@ -1,4 +1,4 @@
----
+﻿---
 location: [58.38,26.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dorpat
+coordinates: [[Dorpat]]
+markerFile: [[Dorpat]]
+defaultZoom: 11 
+maxZoom: 18
+```

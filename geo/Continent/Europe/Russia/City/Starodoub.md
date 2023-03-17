@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.58,32.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Starodoub
+coordinates: [[Starodoub]]
+markerFile: [[Starodoub]]
+defaultZoom: 11 
+maxZoom: 18
+```

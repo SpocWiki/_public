@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heldburg
+coordinates: [[Heldburg]]
+markerFile: [[Heldburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Padasjoki
+coordinates: [[Padasjoki]]
+markerFile: [[Padasjoki]]
+defaultZoom: 11 
+maxZoom: 18
+```

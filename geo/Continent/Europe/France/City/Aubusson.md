@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aubusson
+coordinates: [[Aubusson]]
+markerFile: [[Aubusson]]
+defaultZoom: 11 
+maxZoom: 18
+```

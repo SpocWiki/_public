@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quakenbrueck
+coordinates: [[Quakenbrueck]]
+markerFile: [[Quakenbrueck]]
+defaultZoom: 11 
+maxZoom: 18
+```

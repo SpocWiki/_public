@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herischdorf
+coordinates: [[Herischdorf]]
+markerFile: [[Herischdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

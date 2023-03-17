@@ -1,4 +1,4 @@
----
+﻿---
 location: [45,78.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taldy-Kurgan
+coordinates: [[Taldy-Kurgan]]
+markerFile: [[Taldy-Kurgan]]
+defaultZoom: 11 
+maxZoom: 18
+```

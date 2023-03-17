@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sostegno
+coordinates: [[Sostegno]]
+markerFile: [[Sostegno]]
+defaultZoom: 11 
+maxZoom: 18
+```

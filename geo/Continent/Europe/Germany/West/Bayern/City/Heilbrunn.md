@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heilbrunn
+coordinates: [[Heilbrunn]]
+markerFile: [[Heilbrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

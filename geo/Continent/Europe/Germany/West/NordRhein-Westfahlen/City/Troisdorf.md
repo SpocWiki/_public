@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troisdorf
+coordinates: [[Troisdorf]]
+markerFile: [[Troisdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

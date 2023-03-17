@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Genthin
+coordinates: [[Genthin]]
+markerFile: [[Genthin]]
+defaultZoom: 11 
+maxZoom: 18
+```

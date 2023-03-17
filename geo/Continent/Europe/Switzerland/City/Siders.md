@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siders
+coordinates: [[Siders]]
+markerFile: [[Siders]]
+defaultZoom: 11 
+maxZoom: 18
+```

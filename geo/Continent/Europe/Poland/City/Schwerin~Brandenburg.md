@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.6,15.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwerin~Brandenburg
+coordinates: [[Schwerin~Brandenburg]]
+markerFile: [[Schwerin~Brandenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

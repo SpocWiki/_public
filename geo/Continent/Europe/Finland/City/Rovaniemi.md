@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rovaniemi
+coordinates: [[Rovaniemi]]
+markerFile: [[Rovaniemi]]
+defaultZoom: 11 
+maxZoom: 18
+```

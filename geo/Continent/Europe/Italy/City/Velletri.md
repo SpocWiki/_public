@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.68,12.78]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Velletri
+coordinates: [[Velletri]]
+markerFile: [[Velletri]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [3.17,101.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuala Lumpur
+coordinates: [[Kuala Lumpur]]
+markerFile: [[Kuala Lumpur]]
+defaultZoom: 11 
+maxZoom: 18
+```

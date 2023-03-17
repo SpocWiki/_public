@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oxford
+coordinates: [[Oxford]]
+markerFile: [[Oxford]]
+defaultZoom: 11 
+maxZoom: 18
+```

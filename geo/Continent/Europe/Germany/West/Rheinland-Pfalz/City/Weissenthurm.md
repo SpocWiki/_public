@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weissenthurm
+coordinates: [[Weissenthurm]]
+markerFile: [[Weissenthurm]]
+defaultZoom: 11 
+maxZoom: 18
+```

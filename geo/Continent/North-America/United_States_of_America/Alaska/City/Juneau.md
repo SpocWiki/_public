@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Juneau
+coordinates: [[Juneau]]
+markerFile: [[Juneau]]
+defaultZoom: 11 
+maxZoom: 18
+```

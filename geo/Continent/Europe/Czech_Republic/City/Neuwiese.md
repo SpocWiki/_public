@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuwiese
+coordinates: [[Neuwiese]]
+markerFile: [[Neuwiese]]
+defaultZoom: 11 
+maxZoom: 18
+```

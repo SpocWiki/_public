@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigshain
+coordinates: [[Koenigshain]]
+markerFile: [[Koenigshain]]
+defaultZoom: 11 
+maxZoom: 18
+```

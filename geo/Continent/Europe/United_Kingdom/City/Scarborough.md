@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scarborough
+coordinates: [[Scarborough]]
+markerFile: [[Scarborough]]
+defaultZoom: 11 
+maxZoom: 18
+```

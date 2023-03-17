@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Palestrina
+coordinates: [[Palestrina]]
+markerFile: [[Palestrina]]
+defaultZoom: 11 
+maxZoom: 18
+```

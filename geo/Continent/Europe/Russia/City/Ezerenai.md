@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ezerenai
+coordinates: [[Ezerenai]]
+markerFile: [[Ezerenai]]
+defaultZoom: 11 
+maxZoom: 18
+```

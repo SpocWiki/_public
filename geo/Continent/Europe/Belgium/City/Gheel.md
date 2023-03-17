@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gheel
+coordinates: [[Gheel]]
+markerFile: [[Gheel]]
+defaultZoom: 11 
+maxZoom: 18
+```

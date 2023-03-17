@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uster
+coordinates: [[Uster]]
+markerFile: [[Uster]]
+defaultZoom: 11 
+maxZoom: 18
+```

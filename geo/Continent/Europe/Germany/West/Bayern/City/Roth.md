@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roth
+coordinates: [[Roth]]
+markerFile: [[Roth]]
+defaultZoom: 11 
+maxZoom: 18
+```

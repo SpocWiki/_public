@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Von der Heydt
+coordinates: [[Von der Heydt]]
+markerFile: [[Von der Heydt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.25,15.53]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwiebus
+coordinates: [[Schwiebus]]
+markerFile: [[Schwiebus]]
+defaultZoom: 11 
+maxZoom: 18
+```

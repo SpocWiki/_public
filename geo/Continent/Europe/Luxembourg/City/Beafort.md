@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beafort
+coordinates: [[Beafort]]
+markerFile: [[Beafort]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hellevoetsluis
+coordinates: [[Hellevoetsluis]]
+markerFile: [[Hellevoetsluis]]
+defaultZoom: 11 
+maxZoom: 18
+```

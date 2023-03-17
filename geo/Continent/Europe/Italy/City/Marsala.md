@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marsala
+coordinates: [[Marsala]]
+markerFile: [[Marsala]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Medicina
+coordinates: [[Medicina]]
+markerFile: [[Medicina]]
+defaultZoom: 11 
+maxZoom: 18
+```

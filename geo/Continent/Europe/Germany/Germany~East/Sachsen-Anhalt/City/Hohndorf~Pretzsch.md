@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohndorf~Pretzsch
+coordinates: [[Hohndorf~Pretzsch]]
+markerFile: [[Hohndorf~Pretzsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

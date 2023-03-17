@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.82,8.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Michelbach~Baden
+coordinates: [[Michelbach~Baden]]
+markerFile: [[Michelbach~Baden]]
+defaultZoom: 11 
+maxZoom: 18
+```

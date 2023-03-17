@@ -1,4 +1,4 @@
----
+﻿---
 location: [-15.41667,28.28333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Lusaka
+coordinates: [[Lusaka]]
+markerFile: [[Lusaka]]
+defaultZoom: 11 
+maxZoom: 18
+```

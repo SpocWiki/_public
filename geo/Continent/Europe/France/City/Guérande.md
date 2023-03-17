@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guérande
+coordinates: [[Guérande]]
+markerFile: [[Guérande]]
+defaultZoom: 11 
+maxZoom: 18
+```

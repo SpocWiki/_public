@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borgholm
+coordinates: [[Borgholm]]
+markerFile: [[Borgholm]]
+defaultZoom: 11 
+maxZoom: 18
+```

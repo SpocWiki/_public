@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zierikzee
+coordinates: [[Zierikzee]]
+markerFile: [[Zierikzee]]
+defaultZoom: 11 
+maxZoom: 18
+```

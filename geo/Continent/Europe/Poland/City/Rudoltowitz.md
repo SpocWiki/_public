@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rudoltowitz
+coordinates: [[Rudoltowitz]]
+markerFile: [[Rudoltowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

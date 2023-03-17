@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bohnsack
+coordinates: [[Bohnsack]]
+markerFile: [[Bohnsack]]
+defaultZoom: 11 
+maxZoom: 18
+```

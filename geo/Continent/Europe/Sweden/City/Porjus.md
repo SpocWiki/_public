@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Porjus
+coordinates: [[Porjus]]
+markerFile: [[Porjus]]
+defaultZoom: 11 
+maxZoom: 18
+```

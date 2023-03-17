@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.25,28.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borizow
+coordinates: [[Borizow]]
+markerFile: [[Borizow]]
+defaultZoom: 11 
+maxZoom: 18
+```

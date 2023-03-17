@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoechstaedt~Donau
+coordinates: [[Hoechstaedt~Donau]]
+markerFile: [[Hoechstaedt~Donau]]
+defaultZoom: 11 
+maxZoom: 18
+```

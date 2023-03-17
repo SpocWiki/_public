@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Elgin
+coordinates: [[Elgin]]
+markerFile: [[Elgin]]
+defaultZoom: 11 
+maxZoom: 18
+```

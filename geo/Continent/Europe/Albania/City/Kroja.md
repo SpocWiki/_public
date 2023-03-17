@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kroja
+coordinates: [[Kroja]]
+markerFile: [[Kroja]]
+defaultZoom: 11 
+maxZoom: 18
+```

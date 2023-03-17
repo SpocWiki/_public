@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.55,15.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kunau
+coordinates: [[Kunau]]
+markerFile: [[Kunau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bek Budi
+coordinates: [[Bek Budi]]
+markerFile: [[Bek Budi]]
+defaultZoom: 11 
+maxZoom: 18
+```

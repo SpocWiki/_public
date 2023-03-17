@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.13,117.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tianjin=Tientsin
+coordinates: [[Tianjin=Tientsin]]
+markerFile: [[Tianjin=Tientsin]]
+defaultZoom: 11 
+maxZoom: 18
+```

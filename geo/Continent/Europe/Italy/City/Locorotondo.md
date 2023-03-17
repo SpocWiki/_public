@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Locorotondo
+coordinates: [[Locorotondo]]
+markerFile: [[Locorotondo]]
+defaultZoom: 11 
+maxZoom: 18
+```

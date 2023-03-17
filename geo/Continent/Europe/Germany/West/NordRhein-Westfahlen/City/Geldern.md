@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geldern
+coordinates: [[Geldern]]
+markerFile: [[Geldern]]
+defaultZoom: 11 
+maxZoom: 18
+```

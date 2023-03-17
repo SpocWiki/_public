@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osnabrueck
+coordinates: [[Osnabrueck]]
+markerFile: [[Osnabrueck]]
+defaultZoom: 11 
+maxZoom: 18
+```

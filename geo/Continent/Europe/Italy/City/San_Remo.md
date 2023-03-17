@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Remo
+coordinates: [[San Remo]]
+markerFile: [[San Remo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Honfleur
+coordinates: [[Honfleur]]
+markerFile: [[Honfleur]]
+defaultZoom: 11 
+maxZoom: 18
+```

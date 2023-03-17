@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montefiascone
+coordinates: [[Montefiascone]]
+markerFile: [[Montefiascone]]
+defaultZoom: 11 
+maxZoom: 18
+```

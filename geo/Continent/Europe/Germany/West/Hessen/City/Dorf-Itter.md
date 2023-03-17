@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dorf-Itter
+coordinates: [[Dorf-Itter]]
+markerFile: [[Dorf-Itter]]
+defaultZoom: 11 
+maxZoom: 18
+```

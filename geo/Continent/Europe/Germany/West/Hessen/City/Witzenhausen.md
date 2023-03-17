@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Witzenhausen
+coordinates: [[Witzenhausen]]
+markerFile: [[Witzenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

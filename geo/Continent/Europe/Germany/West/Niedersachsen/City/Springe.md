@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Springe
+coordinates: [[Springe]]
+markerFile: [[Springe]]
+defaultZoom: 11 
+maxZoom: 18
+```

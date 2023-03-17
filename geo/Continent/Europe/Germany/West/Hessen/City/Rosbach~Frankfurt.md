@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosbach~Frankfurt
+coordinates: [[Rosbach~Frankfurt]]
+markerFile: [[Rosbach~Frankfurt]]
+defaultZoom: 11 
+maxZoom: 18
+```

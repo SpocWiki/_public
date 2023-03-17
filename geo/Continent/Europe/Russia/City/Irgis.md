@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Irgis
+coordinates: [[Irgis]]
+markerFile: [[Irgis]]
+defaultZoom: 11 
+maxZoom: 18
+```

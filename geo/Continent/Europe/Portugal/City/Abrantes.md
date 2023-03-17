@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.47,-8.22]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abrantes
+coordinates: [[Abrantes]]
+markerFile: [[Abrantes]]
+defaultZoom: 11 
+maxZoom: 18
+```

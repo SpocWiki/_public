@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forli
+coordinates: [[Forli]]
+markerFile: [[Forli]]
+defaultZoom: 11 
+maxZoom: 18
+```

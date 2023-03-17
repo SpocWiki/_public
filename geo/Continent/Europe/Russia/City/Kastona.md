@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kastona
+coordinates: [[Kastona]]
+markerFile: [[Kastona]]
+defaultZoom: 11 
+maxZoom: 18
+```

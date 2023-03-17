@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kottbus
+coordinates: [[Kottbus]]
+markerFile: [[Kottbus]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sentenhart
+coordinates: [[Sentenhart]]
+markerFile: [[Sentenhart]]
+defaultZoom: 11 
+maxZoom: 18
+```

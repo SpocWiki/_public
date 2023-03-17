@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.97,8.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Ingelheim
+coordinates: [[Ober-Ingelheim]]
+markerFile: [[Ober-Ingelheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

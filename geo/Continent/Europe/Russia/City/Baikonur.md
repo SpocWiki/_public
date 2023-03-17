@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baikonur
+coordinates: [[Baikonur]]
+markerFile: [[Baikonur]]
+defaultZoom: 11 
+maxZoom: 18
+```

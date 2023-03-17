@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geithaim
+coordinates: [[Geithaim]]
+markerFile: [[Geithaim]]
+defaultZoom: 11 
+maxZoom: 18
+```

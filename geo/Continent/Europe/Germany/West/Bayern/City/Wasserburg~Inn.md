@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wasserburg~Inn
+coordinates: [[Wasserburg~Inn]]
+markerFile: [[Wasserburg~Inn]]
+defaultZoom: 11 
+maxZoom: 18
+```

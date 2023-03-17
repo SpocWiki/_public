@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Penzance
+coordinates: [[Penzance]]
+markerFile: [[Penzance]]
+defaultZoom: 11 
+maxZoom: 18
+```

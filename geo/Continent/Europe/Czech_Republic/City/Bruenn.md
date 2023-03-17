@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruenn
+coordinates: [[Bruenn]]
+markerFile: [[Bruenn]]
+defaultZoom: 11 
+maxZoom: 18
+```

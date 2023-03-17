@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gillingham
+coordinates: [[Gillingham]]
+markerFile: [[Gillingham]]
+defaultZoom: 11 
+maxZoom: 18
+```

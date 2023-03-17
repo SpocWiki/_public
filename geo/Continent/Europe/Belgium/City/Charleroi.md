@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Charleroi
+coordinates: [[Charleroi]]
+markerFile: [[Charleroi]]
+defaultZoom: 11 
+maxZoom: 18
+```

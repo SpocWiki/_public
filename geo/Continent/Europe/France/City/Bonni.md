@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bonni
+coordinates: [[Bonni]]
+markerFile: [[Bonni]]
+defaultZoom: 11 
+maxZoom: 18
+```

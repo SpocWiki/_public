@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mantera
+coordinates: [[Mantera]]
+markerFile: [[Mantera]]
+defaultZoom: 11 
+maxZoom: 18
+```

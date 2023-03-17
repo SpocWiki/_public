@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bismarck
+coordinates: [[Bismarck]]
+markerFile: [[Bismarck]]
+defaultZoom: 11 
+maxZoom: 18
+```

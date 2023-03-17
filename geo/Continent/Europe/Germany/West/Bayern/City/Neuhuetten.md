@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuhuetten
+coordinates: [[Neuhuetten]]
+markerFile: [[Neuhuetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

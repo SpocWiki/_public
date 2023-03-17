@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Madona
+coordinates: [[Madona]]
+markerFile: [[Madona]]
+defaultZoom: 11 
+maxZoom: 18
+```

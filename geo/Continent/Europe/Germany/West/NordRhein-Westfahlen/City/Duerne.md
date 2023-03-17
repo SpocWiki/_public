@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duerne
+coordinates: [[Duerne]]
+markerFile: [[Duerne]]
+defaultZoom: 11 
+maxZoom: 18
+```

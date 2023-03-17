@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schmallenberg
+coordinates: [[Schmallenberg]]
+markerFile: [[Schmallenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.6,9.48]
 mapmarker: city
 mapzoom: [5,10]
@@ -22,3 +22,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stade
+coordinates: [[Stade]]
+markerFile: [[Stade]]
+defaultZoom: 11 
+maxZoom: 18
+```

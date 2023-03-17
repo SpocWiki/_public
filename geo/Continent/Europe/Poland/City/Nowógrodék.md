@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nowógrodék
+coordinates: [[Nowógrodék]]
+markerFile: [[Nowógrodék]]
+defaultZoom: 11 
+maxZoom: 18
+```

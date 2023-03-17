@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werdohl
+coordinates: [[Werdohl]]
+markerFile: [[Werdohl]]
+defaultZoom: 11 
+maxZoom: 18
+```

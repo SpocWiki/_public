@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Varel
+coordinates: [[Varel]]
+markerFile: [[Varel]]
+defaultZoom: 11 
+maxZoom: 18
+```

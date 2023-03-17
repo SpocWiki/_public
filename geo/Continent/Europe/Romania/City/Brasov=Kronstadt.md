@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brasov=Kronstadt
+coordinates: [[Brasov=Kronstadt]]
+markerFile: [[Brasov=Kronstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

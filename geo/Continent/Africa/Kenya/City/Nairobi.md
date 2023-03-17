@@ -1,4 +1,4 @@
----
+﻿---
 location: [-1.28,36.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nairobi
+coordinates: [[Nairobi]]
+markerFile: [[Nairobi]]
+defaultZoom: 11 
+maxZoom: 18
+```

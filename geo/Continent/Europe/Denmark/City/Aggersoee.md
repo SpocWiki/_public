@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.25,11.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aggersoee
+coordinates: [[Aggersoee]]
+markerFile: [[Aggersoee]]
+defaultZoom: 11 
+maxZoom: 18
+```

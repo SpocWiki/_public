@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oregon~Salem
+coordinates: [[Oregon~Salem]]
+markerFile: [[Oregon~Salem]]
+defaultZoom: 11 
+maxZoom: 18
+```

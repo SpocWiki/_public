@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.65,19.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leslau=Wieclawek
+coordinates: [[Leslau=Wieclawek]]
+markerFile: [[Leslau=Wieclawek]]
+defaultZoom: 11 
+maxZoom: 18
+```

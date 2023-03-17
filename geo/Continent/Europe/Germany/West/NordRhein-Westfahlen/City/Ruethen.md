@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruethen
+coordinates: [[Ruethen]]
+markerFile: [[Ruethen]]
+defaultZoom: 11 
+maxZoom: 18
+```

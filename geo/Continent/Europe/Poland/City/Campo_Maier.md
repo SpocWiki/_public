@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Campo Maier
+coordinates: [[Campo Maier]]
+markerFile: [[Campo Maier]]
+defaultZoom: 11 
+maxZoom: 18
+```

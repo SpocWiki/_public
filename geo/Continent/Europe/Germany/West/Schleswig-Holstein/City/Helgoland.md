@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Helgoland
+coordinates: [[Helgoland]]
+markerFile: [[Helgoland]]
+defaultZoom: 11 
+maxZoom: 18
+```

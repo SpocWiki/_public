@@ -1,4 +1,4 @@
----
+﻿---
 location: [59.48,24.38]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Surop
+coordinates: [[Surop]]
+markerFile: [[Surop]]
+defaultZoom: 11 
+maxZoom: 18
+```

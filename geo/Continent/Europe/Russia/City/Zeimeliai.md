@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zeimeliai
+coordinates: [[Zeimeliai]]
+markerFile: [[Zeimeliai]]
+defaultZoom: 11 
+maxZoom: 18
+```

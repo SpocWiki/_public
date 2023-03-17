@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goslar
+coordinates: [[Goslar]]
+markerFile: [[Goslar]]
+defaultZoom: 11 
+maxZoom: 18
+```

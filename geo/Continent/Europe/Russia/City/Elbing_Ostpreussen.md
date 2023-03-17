@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Elbing/Ostpreussen
+coordinates: [[Elbing/Ostpreussen]]
+markerFile: [[Elbing/Ostpreussen]]
+defaultZoom: 11 
+maxZoom: 18
+```

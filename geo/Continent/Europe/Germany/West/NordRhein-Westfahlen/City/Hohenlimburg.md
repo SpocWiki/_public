@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohenlimburg
+coordinates: [[Hohenlimburg]]
+markerFile: [[Hohenlimburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

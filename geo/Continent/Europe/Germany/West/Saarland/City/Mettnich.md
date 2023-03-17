@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mettnich
+coordinates: [[Mettnich]]
+markerFile: [[Mettnich]]
+defaultZoom: 11 
+maxZoom: 18
+```

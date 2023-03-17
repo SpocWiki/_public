@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alpl
+coordinates: [[Alpl]]
+markerFile: [[Alpl]]
+defaultZoom: 11 
+maxZoom: 18
+```

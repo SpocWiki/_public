@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Adolfsfors
+coordinates: [[Adolfsfors]]
+markerFile: [[Adolfsfors]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [58.75,11.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mariestad
+coordinates: [[Mariestad]]
+markerFile: [[Mariestad]]
+defaultZoom: 11 
+maxZoom: 18
+```

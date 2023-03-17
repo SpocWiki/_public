@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osterfeld
+coordinates: [[Osterfeld]]
+markerFile: [[Osterfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

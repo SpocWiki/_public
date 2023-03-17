@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oranienbaum
+coordinates: [[Oranienbaum]]
+markerFile: [[Oranienbaum]]
+defaultZoom: 11 
+maxZoom: 18
+```

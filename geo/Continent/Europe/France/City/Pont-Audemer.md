@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pont-Audemer
+coordinates: [[Pont-Audemer]]
+markerFile: [[Pont-Audemer]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kosmac
+coordinates: [[Kosmac]]
+markerFile: [[Kosmac]]
+defaultZoom: 11 
+maxZoom: 18
+```

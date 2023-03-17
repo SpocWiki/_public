@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bertrange
+coordinates: [[Bertrange]]
+markerFile: [[Bertrange]]
+defaultZoom: 11 
+maxZoom: 18
+```

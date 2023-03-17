@@ -1,4 +1,4 @@
----
+﻿---
 location: [59.92,30.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leningrad
+coordinates: [[Leningrad]]
+markerFile: [[Leningrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

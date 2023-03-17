@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Inselberg
+coordinates: [[Inselberg]]
+markerFile: [[Inselberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

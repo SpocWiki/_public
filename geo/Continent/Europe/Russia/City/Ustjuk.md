@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ustjuk
+coordinates: [[Ustjuk]]
+markerFile: [[Ustjuk]]
+defaultZoom: 11 
+maxZoom: 18
+```

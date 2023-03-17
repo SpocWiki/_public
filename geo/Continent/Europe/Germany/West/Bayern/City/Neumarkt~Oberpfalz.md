@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neumarkt~Oberpfalz
+coordinates: [[Neumarkt~Oberpfalz]]
+markerFile: [[Neumarkt~Oberpfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

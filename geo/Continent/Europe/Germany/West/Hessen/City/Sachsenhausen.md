@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sachsenhausen
+coordinates: [[Sachsenhausen]]
+markerFile: [[Sachsenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

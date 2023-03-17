@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warngau
+coordinates: [[Warngau]]
+markerFile: [[Warngau]]
+defaultZoom: 11 
+maxZoom: 18
+```

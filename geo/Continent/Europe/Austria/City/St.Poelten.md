@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Poelten
+coordinates: [[St.Poelten]]
+markerFile: [[St.Poelten]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muonionniika
+coordinates: [[Muonionniika]]
+markerFile: [[Muonionniika]]
+defaultZoom: 11 
+maxZoom: 18
+```

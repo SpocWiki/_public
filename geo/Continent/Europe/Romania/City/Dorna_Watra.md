@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dorna Watra
+coordinates: [[Dorna Watra]]
+markerFile: [[Dorna Watra]]
+defaultZoom: 11 
+maxZoom: 18
+```

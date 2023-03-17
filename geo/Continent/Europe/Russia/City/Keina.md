@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Keina
+coordinates: [[Keina]]
+markerFile: [[Keina]]
+defaultZoom: 11 
+maxZoom: 18
+```

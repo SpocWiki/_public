@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Menton
+coordinates: [[Menton]]
+markerFile: [[Menton]]
+defaultZoom: 11 
+maxZoom: 18
+```

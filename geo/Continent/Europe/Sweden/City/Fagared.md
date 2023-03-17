@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fagared
+coordinates: [[Fagared]]
+markerFile: [[Fagared]]
+defaultZoom: 11 
+maxZoom: 18
+```

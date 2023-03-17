@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kopitz
+coordinates: [[Kopitz]]
+markerFile: [[Kopitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

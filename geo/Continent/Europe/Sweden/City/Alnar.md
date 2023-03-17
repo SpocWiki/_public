@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alnar
+coordinates: [[Alnar]]
+markerFile: [[Alnar]]
+defaultZoom: 11 
+maxZoom: 18
+```

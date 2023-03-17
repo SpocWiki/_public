@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Noiermoutier
+coordinates: [[Noiermoutier]]
+markerFile: [[Noiermoutier]]
+defaultZoom: 11 
+maxZoom: 18
+```

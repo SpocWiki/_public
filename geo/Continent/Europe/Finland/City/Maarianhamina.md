@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maarianhamina
+coordinates: [[Maarianhamina]]
+markerFile: [[Maarianhamina]]
+defaultZoom: 11 
+maxZoom: 18
+```

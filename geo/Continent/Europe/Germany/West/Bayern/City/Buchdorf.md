@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buchdorf
+coordinates: [[Buchdorf]]
+markerFile: [[Buchdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

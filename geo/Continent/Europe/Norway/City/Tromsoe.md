@@ -1,4 +1,4 @@
----
+﻿---
 location: [69.63,18.97]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tromsoe
+coordinates: [[Tromsoe]]
+markerFile: [[Tromsoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

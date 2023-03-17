@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ojebyn
+coordinates: [[Ojebyn]]
+markerFile: [[Ojebyn]]
+defaultZoom: 11 
+maxZoom: 18
+```

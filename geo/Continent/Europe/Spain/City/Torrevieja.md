@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torrevieja
+coordinates: [[Torrevieja]]
+markerFile: [[Torrevieja]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldbuettelbrunn
+coordinates: [[Waldbuettelbrunn]]
+markerFile: [[Waldbuettelbrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

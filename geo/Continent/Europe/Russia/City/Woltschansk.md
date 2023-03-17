@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Woltschansk
+coordinates: [[Woltschansk]]
+markerFile: [[Woltschansk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herne
+coordinates: [[Herne]]
+markerFile: [[Herne]]
+defaultZoom: 11 
+maxZoom: 18
+```

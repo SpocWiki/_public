@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bernstadt~Sachsen
+coordinates: [[Bernstadt~Sachsen]]
+markerFile: [[Bernstadt~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

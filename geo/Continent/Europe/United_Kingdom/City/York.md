@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: York
+coordinates: [[York]]
+markerFile: [[York]]
+defaultZoom: 11 
+maxZoom: 18
+```

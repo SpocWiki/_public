@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalinino
+coordinates: [[Kalinino]]
+markerFile: [[Kalinino]]
+defaultZoom: 11 
+maxZoom: 18
+```

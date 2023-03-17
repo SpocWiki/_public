@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Giessen
+coordinates: [[Giessen]]
+markerFile: [[Giessen]]
+defaultZoom: 11 
+maxZoom: 18
+```

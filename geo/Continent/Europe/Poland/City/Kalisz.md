@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalisz
+coordinates: [[Kalisz]]
+markerFile: [[Kalisz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.05,41.98333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stavropol
+coordinates: [[Stavropol]]
+markerFile: [[Stavropol]]
+defaultZoom: 11 
+maxZoom: 18
+```

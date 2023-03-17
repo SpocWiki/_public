@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.52,6.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lausanne
+coordinates: [[Lausanne]]
+markerFile: [[Lausanne]]
+defaultZoom: 11 
+maxZoom: 18
+```

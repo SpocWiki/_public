@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Albarese
+coordinates: [[Albarese]]
+markerFile: [[Albarese]]
+defaultZoom: 11 
+maxZoom: 18
+```

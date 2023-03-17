@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ailly
+coordinates: [[Ailly]]
+markerFile: [[Ailly]]
+defaultZoom: 11 
+maxZoom: 18
+```

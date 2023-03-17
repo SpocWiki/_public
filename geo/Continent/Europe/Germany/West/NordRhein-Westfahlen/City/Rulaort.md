@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rulaort
+coordinates: [[Rulaort]]
+markerFile: [[Rulaort]]
+defaultZoom: 11 
+maxZoom: 18
+```

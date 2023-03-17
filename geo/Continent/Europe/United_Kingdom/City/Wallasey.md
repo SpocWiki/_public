@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wallasey
+coordinates: [[Wallasey]]
+markerFile: [[Wallasey]]
+defaultZoom: 11 
+maxZoom: 18
+```

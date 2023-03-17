@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gijon
+coordinates: [[Gijon]]
+markerFile: [[Gijon]]
+defaultZoom: 11 
+maxZoom: 18
+```

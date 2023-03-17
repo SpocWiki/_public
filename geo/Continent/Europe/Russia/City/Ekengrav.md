@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ekengrav
+coordinates: [[Ekengrav]]
+markerFile: [[Ekengrav]]
+defaultZoom: 11 
+maxZoom: 18
+```

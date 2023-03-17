@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fouras
+coordinates: [[Fouras]]
+markerFile: [[Fouras]]
+defaultZoom: 11 
+maxZoom: 18
+```

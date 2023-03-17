@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aberdeen
+coordinates: [[Aberdeen]]
+markerFile: [[Aberdeen]]
+defaultZoom: 11 
+maxZoom: 18
+```

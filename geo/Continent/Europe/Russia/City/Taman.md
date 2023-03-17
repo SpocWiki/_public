@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.22,36.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taman
+coordinates: [[Taman]]
+markerFile: [[Taman]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wartenburg
+coordinates: [[Wartenburg]]
+markerFile: [[Wartenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

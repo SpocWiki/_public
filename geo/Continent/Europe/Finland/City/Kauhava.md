@@ -1,4 +1,4 @@
----
+﻿---
 location: [63.1,23.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kauhava
+coordinates: [[Kauhava]]
+markerFile: [[Kauhava]]
+defaultZoom: 11 
+maxZoom: 18
+```

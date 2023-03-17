@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.03,1.15]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Evreux
+coordinates: [[Evreux]]
+markerFile: [[Evreux]]
+defaultZoom: 11 
+maxZoom: 18
+```

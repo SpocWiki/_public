@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perugia
+coordinates: [[Perugia]]
+markerFile: [[Perugia]]
+defaultZoom: 11 
+maxZoom: 18
+```

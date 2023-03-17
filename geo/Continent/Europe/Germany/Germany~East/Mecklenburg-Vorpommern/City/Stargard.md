@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stargard
+coordinates: [[Stargard]]
+markerFile: [[Stargard]]
+defaultZoom: 11 
+maxZoom: 18
+```

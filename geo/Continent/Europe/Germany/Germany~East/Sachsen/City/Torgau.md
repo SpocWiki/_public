@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torgau
+coordinates: [[Torgau]]
+markerFile: [[Torgau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Joigny
+coordinates: [[Joigny]]
+markerFile: [[Joigny]]
+defaultZoom: 11 
+maxZoom: 18
+```

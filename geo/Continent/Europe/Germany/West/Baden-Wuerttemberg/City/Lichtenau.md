@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lichtenau
+coordinates: [[Lichtenau]]
+markerFile: [[Lichtenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siklos
+coordinates: [[Siklos]]
+markerFile: [[Siklos]]
+defaultZoom: 11 
+maxZoom: 18
+```

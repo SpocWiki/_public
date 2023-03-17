@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kammin/Pommern
+coordinates: [[Kammin/Pommern]]
+markerFile: [[Kammin/Pommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

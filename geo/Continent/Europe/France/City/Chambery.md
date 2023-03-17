@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.55,5.97]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chambery
+coordinates: [[Chambery]]
+markerFile: [[Chambery]]
+defaultZoom: 11 
+maxZoom: 18
+```

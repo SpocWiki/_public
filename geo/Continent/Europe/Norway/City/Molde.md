@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Molde
+coordinates: [[Molde]]
+markerFile: [[Molde]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Djursholm
+coordinates: [[Djursholm]]
+markerFile: [[Djursholm]]
+defaultZoom: 11 
+maxZoom: 18
+```

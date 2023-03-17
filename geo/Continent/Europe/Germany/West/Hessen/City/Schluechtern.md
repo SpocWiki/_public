@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schluechtern
+coordinates: [[Schluechtern]]
+markerFile: [[Schluechtern]]
+defaultZoom: 11 
+maxZoom: 18
+```

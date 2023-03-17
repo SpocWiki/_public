@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Diso
+coordinates: [[Diso]]
+markerFile: [[Diso]]
+defaultZoom: 11 
+maxZoom: 18
+```

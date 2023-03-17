@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.33,17.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Papa
+coordinates: [[Papa]]
+markerFile: [[Papa]]
+defaultZoom: 11 
+maxZoom: 18
+```

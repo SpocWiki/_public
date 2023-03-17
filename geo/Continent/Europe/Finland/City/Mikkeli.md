@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mikkeli
+coordinates: [[Mikkeli]]
+markerFile: [[Mikkeli]]
+defaultZoom: 11 
+maxZoom: 18
+```

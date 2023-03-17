@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borrowstounness
+coordinates: [[Borrowstounness]]
+markerFile: [[Borrowstounness]]
+defaultZoom: 11 
+maxZoom: 18
+```

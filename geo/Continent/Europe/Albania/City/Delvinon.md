@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Delvinon
+coordinates: [[Delvinon]]
+markerFile: [[Delvinon]]
+defaultZoom: 11 
+maxZoom: 18
+```

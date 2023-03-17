@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pontypridd
+coordinates: [[Pontypridd]]
+markerFile: [[Pontypridd]]
+defaultZoom: 11 
+maxZoom: 18
+```

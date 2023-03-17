@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kemlitz
+coordinates: [[Kemlitz]]
+markerFile: [[Kemlitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

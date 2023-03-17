@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schiers
+coordinates: [[Schiers]]
+markerFile: [[Schiers]]
+defaultZoom: 11 
+maxZoom: 18
+```

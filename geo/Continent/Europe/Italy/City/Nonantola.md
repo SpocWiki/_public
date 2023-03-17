@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nonantola
+coordinates: [[Nonantola]]
+markerFile: [[Nonantola]]
+defaultZoom: 11 
+maxZoom: 18
+```

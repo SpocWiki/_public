@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ziegenrueck
+coordinates: [[Ziegenrueck]]
+markerFile: [[Ziegenrueck]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dudweiler
+coordinates: [[Dudweiler]]
+markerFile: [[Dudweiler]]
+defaultZoom: 11 
+maxZoom: 18
+```

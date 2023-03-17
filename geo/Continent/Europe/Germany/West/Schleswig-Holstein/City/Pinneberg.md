@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pinneberg
+coordinates: [[Pinneberg]]
+markerFile: [[Pinneberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

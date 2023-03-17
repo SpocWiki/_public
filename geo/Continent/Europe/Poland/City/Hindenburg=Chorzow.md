@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hindenburg=Chorzow
+coordinates: [[Hindenburg=Chorzow]]
+markerFile: [[Hindenburg=Chorzow]]
+defaultZoom: 11 
+maxZoom: 18
+```

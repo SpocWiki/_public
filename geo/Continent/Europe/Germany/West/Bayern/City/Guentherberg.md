@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guentherberg
+coordinates: [[Guentherberg]]
+markerFile: [[Guentherberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

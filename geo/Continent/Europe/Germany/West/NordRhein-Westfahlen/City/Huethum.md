@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huethum
+coordinates: [[Huethum]]
+markerFile: [[Huethum]]
+defaultZoom: 11 
+maxZoom: 18
+```

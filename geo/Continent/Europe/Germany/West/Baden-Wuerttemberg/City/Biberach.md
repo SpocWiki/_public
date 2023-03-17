@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Biberach
+coordinates: [[Biberach]]
+markerFile: [[Biberach]]
+defaultZoom: 11 
+maxZoom: 18
+```

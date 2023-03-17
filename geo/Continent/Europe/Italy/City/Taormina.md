@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taormina
+coordinates: [[Taormina]]
+markerFile: [[Taormina]]
+defaultZoom: 11 
+maxZoom: 18
+```

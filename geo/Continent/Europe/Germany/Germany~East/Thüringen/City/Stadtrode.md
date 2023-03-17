@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stadtrode
+coordinates: [[Stadtrode]]
+markerFile: [[Stadtrode]]
+defaultZoom: 11 
+maxZoom: 18
+```

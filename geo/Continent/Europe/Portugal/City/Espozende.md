@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Espozende
+coordinates: [[Espozende]]
+markerFile: [[Espozende]]
+defaultZoom: 11 
+maxZoom: 18
+```

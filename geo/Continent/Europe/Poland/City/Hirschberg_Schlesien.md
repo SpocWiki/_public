@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hirschberg/Schlesien
+coordinates: [[Hirschberg/Schlesien]]
+markerFile: [[Hirschberg/Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

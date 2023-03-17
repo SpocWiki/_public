@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klinkum
+coordinates: [[Klinkum]]
+markerFile: [[Klinkum]]
+defaultZoom: 11 
+maxZoom: 18
+```

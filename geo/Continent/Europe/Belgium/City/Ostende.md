@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ostende
+coordinates: [[Ostende]]
+markerFile: [[Ostende]]
+defaultZoom: 11 
+maxZoom: 18
+```

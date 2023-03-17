@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolfsfeld
+coordinates: [[Wolfsfeld]]
+markerFile: [[Wolfsfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

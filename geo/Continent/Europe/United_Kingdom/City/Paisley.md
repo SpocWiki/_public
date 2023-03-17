@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paisley
+coordinates: [[Paisley]]
+markerFile: [[Paisley]]
+defaultZoom: 11 
+maxZoom: 18
+```

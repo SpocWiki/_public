@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moers
+coordinates: [[Moers]]
+markerFile: [[Moers]]
+defaultZoom: 11 
+maxZoom: 18
+```

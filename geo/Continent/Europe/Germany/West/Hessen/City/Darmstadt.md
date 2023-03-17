@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Darmstadt
+coordinates: [[Darmstadt]]
+markerFile: [[Darmstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

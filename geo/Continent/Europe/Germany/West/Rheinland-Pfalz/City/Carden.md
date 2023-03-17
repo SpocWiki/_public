@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carden
+coordinates: [[Carden]]
+markerFile: [[Carden]]
+defaultZoom: 11 
+maxZoom: 18
+```

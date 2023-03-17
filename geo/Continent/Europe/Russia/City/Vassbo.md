@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vassbo
+coordinates: [[Vassbo]]
+markerFile: [[Vassbo]]
+defaultZoom: 11 
+maxZoom: 18
+```

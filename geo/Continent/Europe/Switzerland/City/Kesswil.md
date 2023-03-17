@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.6,9.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kesswil
+coordinates: [[Kesswil]]
+markerFile: [[Kesswil]]
+defaultZoom: 11 
+maxZoom: 18
+```

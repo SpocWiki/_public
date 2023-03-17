@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Totma
+coordinates: [[Totma]]
+markerFile: [[Totma]]
+defaultZoom: 11 
+maxZoom: 18
+```

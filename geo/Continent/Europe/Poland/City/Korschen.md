@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Korschen
+coordinates: [[Korschen]]
+markerFile: [[Korschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stockheim
+coordinates: [[Stockheim]]
+markerFile: [[Stockheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

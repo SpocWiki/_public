@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reinsfeld
+coordinates: [[Reinsfeld]]
+markerFile: [[Reinsfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

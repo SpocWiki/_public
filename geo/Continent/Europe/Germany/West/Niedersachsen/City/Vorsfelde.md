@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vorsfelde
+coordinates: [[Vorsfelde]]
+markerFile: [[Vorsfelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

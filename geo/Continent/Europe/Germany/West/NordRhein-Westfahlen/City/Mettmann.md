@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mettmann
+coordinates: [[Mettmann]]
+markerFile: [[Mettmann]]
+defaultZoom: 11 
+maxZoom: 18
+```

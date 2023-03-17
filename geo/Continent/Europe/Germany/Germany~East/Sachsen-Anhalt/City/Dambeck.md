@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dambeck
+coordinates: [[Dambeck]]
+markerFile: [[Dambeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

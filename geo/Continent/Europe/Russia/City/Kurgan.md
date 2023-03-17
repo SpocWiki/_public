@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kurgan
+coordinates: [[Kurgan]]
+markerFile: [[Kurgan]]
+defaultZoom: 11 
+maxZoom: 18
+```

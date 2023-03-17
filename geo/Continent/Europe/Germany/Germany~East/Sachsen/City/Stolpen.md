@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stolpen
+coordinates: [[Stolpen]]
+markerFile: [[Stolpen]]
+defaultZoom: 11 
+maxZoom: 18
+```

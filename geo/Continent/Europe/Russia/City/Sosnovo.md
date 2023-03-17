@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sosnovo
+coordinates: [[Sosnovo]]
+markerFile: [[Sosnovo]]
+defaultZoom: 11 
+maxZoom: 18
+```

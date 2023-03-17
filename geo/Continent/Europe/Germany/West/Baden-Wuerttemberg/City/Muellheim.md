@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muellheim
+coordinates: [[Muellheim]]
+markerFile: [[Muellheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

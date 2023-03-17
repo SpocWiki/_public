@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sulzbach~Saarland
+coordinates: [[Sulzbach~Saarland]]
+markerFile: [[Sulzbach~Saarland]]
+defaultZoom: 11 
+maxZoom: 18
+```

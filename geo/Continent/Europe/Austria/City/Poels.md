@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poels
+coordinates: [[Poels]]
+markerFile: [[Poels]]
+defaultZoom: 11 
+maxZoom: 18
+```

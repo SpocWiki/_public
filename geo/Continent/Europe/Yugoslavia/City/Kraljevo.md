@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kraljevo
+coordinates: [[Kraljevo]]
+markerFile: [[Kraljevo]]
+defaultZoom: 11 
+maxZoom: 18
+```

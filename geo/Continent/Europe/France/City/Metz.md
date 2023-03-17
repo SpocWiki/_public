@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Metz
+coordinates: [[Metz]]
+markerFile: [[Metz]]
+defaultZoom: 11 
+maxZoom: 18
+```

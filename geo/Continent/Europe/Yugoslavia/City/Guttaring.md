@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guttaring
+coordinates: [[Guttaring]]
+markerFile: [[Guttaring]]
+defaultZoom: 11 
+maxZoom: 18
+```

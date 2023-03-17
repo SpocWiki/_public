@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jena
+coordinates: [[Jena]]
+markerFile: [[Jena]]
+defaultZoom: 11 
+maxZoom: 18
+```

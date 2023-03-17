@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spittal an der Drau
+coordinates: [[Spittal an der Drau]]
+markerFile: [[Spittal an der Drau]]
+defaultZoom: 11 
+maxZoom: 18
+```

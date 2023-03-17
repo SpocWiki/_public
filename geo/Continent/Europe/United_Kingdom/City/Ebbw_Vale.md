@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ebbw Vale
+coordinates: [[Ebbw Vale]]
+markerFile: [[Ebbw Vale]]
+defaultZoom: 11 
+maxZoom: 18
+```

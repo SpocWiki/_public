@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dorsten
+coordinates: [[Dorsten]]
+markerFile: [[Dorsten]]
+defaultZoom: 11 
+maxZoom: 18
+```

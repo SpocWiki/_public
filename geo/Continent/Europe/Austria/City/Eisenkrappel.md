@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eisenkrappel
+coordinates: [[Eisenkrappel]]
+markerFile: [[Eisenkrappel]]
+defaultZoom: 11 
+maxZoom: 18
+```

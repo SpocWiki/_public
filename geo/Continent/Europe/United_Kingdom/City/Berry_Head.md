@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berry Head
+coordinates: [[Berry Head]]
+markerFile: [[Berry Head]]
+defaultZoom: 11 
+maxZoom: 18
+```

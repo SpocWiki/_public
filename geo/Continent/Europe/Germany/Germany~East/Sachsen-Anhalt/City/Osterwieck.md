@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osterwieck
+coordinates: [[Osterwieck]]
+markerFile: [[Osterwieck]]
+defaultZoom: 11 
+maxZoom: 18
+```

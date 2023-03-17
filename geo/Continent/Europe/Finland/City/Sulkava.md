@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sulkava
+coordinates: [[Sulkava]]
+markerFile: [[Sulkava]]
+defaultZoom: 11 
+maxZoom: 18
+```

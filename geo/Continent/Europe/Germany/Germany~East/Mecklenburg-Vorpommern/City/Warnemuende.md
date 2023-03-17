@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warnemuende
+coordinates: [[Warnemuende]]
+markerFile: [[Warnemuende]]
+defaultZoom: 11 
+maxZoom: 18
+```

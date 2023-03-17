@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sevilla
+coordinates: [[Sevilla]]
+markerFile: [[Sevilla]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: BC~Victoria
+coordinates: [[BC~Victoria]]
+markerFile: [[BC~Victoria]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burgas
+coordinates: [[Burgas]]
+markerFile: [[Burgas]]
+defaultZoom: 11 
+maxZoom: 18
+```

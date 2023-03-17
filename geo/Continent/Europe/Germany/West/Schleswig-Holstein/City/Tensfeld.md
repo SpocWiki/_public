@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tensfeld
+coordinates: [[Tensfeld]]
+markerFile: [[Tensfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

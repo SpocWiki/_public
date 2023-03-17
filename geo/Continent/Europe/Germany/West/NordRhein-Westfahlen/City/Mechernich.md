@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mechernich
+coordinates: [[Mechernich]]
+markerFile: [[Mechernich]]
+defaultZoom: 11 
+maxZoom: 18
+```

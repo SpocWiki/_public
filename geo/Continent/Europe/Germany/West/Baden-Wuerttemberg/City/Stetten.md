@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stetten
+coordinates: [[Stetten]]
+markerFile: [[Stetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

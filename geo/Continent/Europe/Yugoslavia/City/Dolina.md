@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dolina
+coordinates: [[Dolina]]
+markerFile: [[Dolina]]
+defaultZoom: 11 
+maxZoom: 18
+```

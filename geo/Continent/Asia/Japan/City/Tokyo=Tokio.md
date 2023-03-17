@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.7,139.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tokyo=Tokio
+coordinates: [[Tokyo=Tokio]]
+markerFile: [[Tokyo=Tokio]]
+defaultZoom: 11 
+maxZoom: 18
+```

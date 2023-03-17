@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Helens
+coordinates: [[St.Helens]]
+markerFile: [[St.Helens]]
+defaultZoom: 11 
+maxZoom: 18
+```

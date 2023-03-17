@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Garz~Havel
+coordinates: [[Garz~Havel]]
+markerFile: [[Garz~Havel]]
+defaultZoom: 11 
+maxZoom: 18
+```

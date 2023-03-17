@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hattingen
+coordinates: [[Hattingen]]
+markerFile: [[Hattingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

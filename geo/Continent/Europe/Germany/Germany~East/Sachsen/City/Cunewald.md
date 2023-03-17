@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cunewald
+coordinates: [[Cunewald]]
+markerFile: [[Cunewald]]
+defaultZoom: 11 
+maxZoom: 18
+```

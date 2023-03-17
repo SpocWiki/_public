@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hapsal
+coordinates: [[Hapsal]]
+markerFile: [[Hapsal]]
+defaultZoom: 11 
+maxZoom: 18
+```

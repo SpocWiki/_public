@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Truebau
+coordinates: [[Truebau]]
+markerFile: [[Truebau]]
+defaultZoom: 11 
+maxZoom: 18
+```

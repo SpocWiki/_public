@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scunthorpe
+coordinates: [[Scunthorpe]]
+markerFile: [[Scunthorpe]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castel d'Ario
+coordinates: [[Castel d'Ario]]
+markerFile: [[Castel d'Ario]]
+defaultZoom: 11 
+maxZoom: 18
+```

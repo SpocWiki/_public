@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salisbury
+coordinates: [[Salisbury]]
+markerFile: [[Salisbury]]
+defaultZoom: 11 
+maxZoom: 18
+```

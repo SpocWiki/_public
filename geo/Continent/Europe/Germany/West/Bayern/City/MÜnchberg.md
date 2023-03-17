@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.18,11.78]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: MÜnchberg
+coordinates: [[MÜnchberg]]
+markerFile: [[MÜnchberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

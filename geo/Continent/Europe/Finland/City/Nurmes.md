@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nurmes
+coordinates: [[Nurmes]]
+markerFile: [[Nurmes]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mylau
+coordinates: [[Mylau]]
+markerFile: [[Mylau]]
+defaultZoom: 11 
+maxZoom: 18
+```

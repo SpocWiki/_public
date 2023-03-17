@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wermelskirchen
+coordinates: [[Wermelskirchen]]
+markerFile: [[Wermelskirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Euren
+coordinates: [[Euren]]
+markerFile: [[Euren]]
+defaultZoom: 11 
+maxZoom: 18
+```

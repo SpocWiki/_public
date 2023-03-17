@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dieblich
+coordinates: [[Dieblich]]
+markerFile: [[Dieblich]]
+defaultZoom: 11 
+maxZoom: 18
+```

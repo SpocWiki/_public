@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.87,47.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zivilsk
+coordinates: [[Zivilsk]]
+markerFile: [[Zivilsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

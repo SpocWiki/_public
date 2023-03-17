@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.35,18.42]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kulm
+coordinates: [[Kulm]]
+markerFile: [[Kulm]]
+defaultZoom: 11 
+maxZoom: 18
+```

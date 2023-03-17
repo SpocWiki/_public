@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigsbach~Pfalz
+coordinates: [[Koenigsbach~Pfalz]]
+markerFile: [[Koenigsbach~Pfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

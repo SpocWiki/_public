@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Isenbuettel
+coordinates: [[Isenbuettel]]
+markerFile: [[Isenbuettel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.45,1.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cahors
+coordinates: [[Cahors]]
+markerFile: [[Cahors]]
+defaultZoom: 11 
+maxZoom: 18
+```

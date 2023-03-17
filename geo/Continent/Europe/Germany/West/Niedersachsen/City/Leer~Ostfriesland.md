@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leer~Ostfriesland
+coordinates: [[Leer~Ostfriesland]]
+markerFile: [[Leer~Ostfriesland]]
+defaultZoom: 11 
+maxZoom: 18
+```

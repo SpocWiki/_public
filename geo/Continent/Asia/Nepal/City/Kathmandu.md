@@ -1,4 +1,4 @@
----
+﻿---
 location: [27.7,85.31667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Kathmandu
+coordinates: [[Kathmandu]]
+markerFile: [[Kathmandu]]
+defaultZoom: 11 
+maxZoom: 18
+```

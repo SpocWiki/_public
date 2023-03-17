@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Somero~Kirk
+coordinates: [[Somero~Kirk]]
+markerFile: [[Somero~Kirk]]
+defaultZoom: 11 
+maxZoom: 18
+```

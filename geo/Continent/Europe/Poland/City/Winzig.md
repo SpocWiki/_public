@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Winzig
+coordinates: [[Winzig]]
+markerFile: [[Winzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

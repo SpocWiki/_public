@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Penafiel
+coordinates: [[Penafiel]]
+markerFile: [[Penafiel]]
+defaultZoom: 11 
+maxZoom: 18
+```

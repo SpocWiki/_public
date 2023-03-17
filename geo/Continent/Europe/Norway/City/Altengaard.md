@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altengaard
+coordinates: [[Altengaard]]
+markerFile: [[Altengaard]]
+defaultZoom: 11 
+maxZoom: 18
+```

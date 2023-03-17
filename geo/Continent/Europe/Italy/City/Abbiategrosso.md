@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abbiategrosso
+coordinates: [[Abbiategrosso]]
+markerFile: [[Abbiategrosso]]
+defaultZoom: 11 
+maxZoom: 18
+```

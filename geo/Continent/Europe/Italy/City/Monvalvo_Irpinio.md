@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monvalvo Irpinio
+coordinates: [[Monvalvo Irpinio]]
+markerFile: [[Monvalvo Irpinio]]
+defaultZoom: 11 
+maxZoom: 18
+```

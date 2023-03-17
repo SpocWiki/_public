@@ -1,4 +1,4 @@
-﻿---
+---
 location: [56.03,24.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Joniskelis
+coordinates: [[Joniskelis]]
+markerFile: [[Joniskelis]]
+defaultZoom: 11 
+maxZoom: 18
+```

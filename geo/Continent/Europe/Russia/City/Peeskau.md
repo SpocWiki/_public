@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peeskau
+coordinates: [[Peeskau]]
+markerFile: [[Peeskau]]
+defaultZoom: 11 
+maxZoom: 18
+```

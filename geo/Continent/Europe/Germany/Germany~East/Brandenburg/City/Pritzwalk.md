@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pritzwalk
+coordinates: [[Pritzwalk]]
+markerFile: [[Pritzwalk]]
+defaultZoom: 11 
+maxZoom: 18
+```

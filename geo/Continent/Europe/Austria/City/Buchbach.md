@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buchbach
+coordinates: [[Buchbach]]
+markerFile: [[Buchbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

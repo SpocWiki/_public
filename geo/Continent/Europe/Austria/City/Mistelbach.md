@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mistelbach
+coordinates: [[Mistelbach]]
+markerFile: [[Mistelbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

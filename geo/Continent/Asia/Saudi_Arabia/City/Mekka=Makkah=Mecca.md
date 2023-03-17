@@ -1,4 +1,4 @@
----
+﻿---
 location: [21.45,39.82]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mekka=Makkah=Mecca
+coordinates: [[Mekka=Makkah=Mecca]]
+markerFile: [[Mekka=Makkah=Mecca]]
+defaultZoom: 11 
+maxZoom: 18
+```

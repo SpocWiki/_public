@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vallmiera
+coordinates: [[Vallmiera]]
+markerFile: [[Vallmiera]]
+defaultZoom: 11 
+maxZoom: 18
+```

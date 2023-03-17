@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freiburg
+coordinates: [[Freiburg]]
+markerFile: [[Freiburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

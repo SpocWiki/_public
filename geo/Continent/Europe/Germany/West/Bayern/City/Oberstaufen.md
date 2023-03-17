@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberstaufen
+coordinates: [[Oberstaufen]]
+markerFile: [[Oberstaufen]]
+defaultZoom: 11 
+maxZoom: 18
+```

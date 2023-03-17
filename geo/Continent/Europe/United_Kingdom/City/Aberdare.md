@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aberdare
+coordinates: [[Aberdare]]
+markerFile: [[Aberdare]]
+defaultZoom: 11 
+maxZoom: 18
+```

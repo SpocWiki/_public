@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Le Mesnil
+coordinates: [[Le Mesnil]]
+markerFile: [[Le Mesnil]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.53,10.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wakendorf
+coordinates: [[Wakendorf]]
+markerFile: [[Wakendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

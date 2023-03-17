@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wasseralfingen
+coordinates: [[Wasseralfingen]]
+markerFile: [[Wasseralfingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

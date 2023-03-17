@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kerpen
+coordinates: [[Kerpen]]
+markerFile: [[Kerpen]]
+defaultZoom: 11 
+maxZoom: 18
+```

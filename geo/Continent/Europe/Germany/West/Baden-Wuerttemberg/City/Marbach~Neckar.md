@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marbach~Neckar
+coordinates: [[Marbach~Neckar]]
+markerFile: [[Marbach~Neckar]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sohland
+coordinates: [[Sohland]]
+markerFile: [[Sohland]]
+defaultZoom: 11 
+maxZoom: 18
+```

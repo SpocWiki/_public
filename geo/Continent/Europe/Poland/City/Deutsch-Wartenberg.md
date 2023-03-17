@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deutsch-Wartenberg
+coordinates: [[Deutsch-Wartenberg]]
+markerFile: [[Deutsch-Wartenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

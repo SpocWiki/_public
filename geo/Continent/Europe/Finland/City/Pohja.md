@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pohja
+coordinates: [[Pohja]]
+markerFile: [[Pohja]]
+defaultZoom: 11 
+maxZoom: 18
+```

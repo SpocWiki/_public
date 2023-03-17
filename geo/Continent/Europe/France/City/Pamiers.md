@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pamiers
+coordinates: [[Pamiers]]
+markerFile: [[Pamiers]]
+defaultZoom: 11 
+maxZoom: 18
+```

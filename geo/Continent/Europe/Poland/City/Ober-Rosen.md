@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Rosen
+coordinates: [[Ober-Rosen]]
+markerFile: [[Ober-Rosen]]
+defaultZoom: 11 
+maxZoom: 18
+```

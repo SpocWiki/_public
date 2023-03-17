@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teramo
+coordinates: [[Teramo]]
+markerFile: [[Teramo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Newport
+coordinates: [[Newport]]
+markerFile: [[Newport]]
+defaultZoom: 11 
+maxZoom: 18
+```

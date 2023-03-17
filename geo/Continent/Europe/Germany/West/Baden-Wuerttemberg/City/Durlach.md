@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Durlach
+coordinates: [[Durlach]]
+markerFile: [[Durlach]]
+defaultZoom: 11 
+maxZoom: 18
+```

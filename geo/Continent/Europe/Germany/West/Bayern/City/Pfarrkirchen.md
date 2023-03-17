@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pfarrkirchen
+coordinates: [[Pfarrkirchen]]
+markerFile: [[Pfarrkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

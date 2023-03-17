@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krappitz
+coordinates: [[Krappitz]]
+markerFile: [[Krappitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

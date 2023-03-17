@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harlange
+coordinates: [[Harlange]]
+markerFile: [[Harlange]]
+defaultZoom: 11 
+maxZoom: 18
+```

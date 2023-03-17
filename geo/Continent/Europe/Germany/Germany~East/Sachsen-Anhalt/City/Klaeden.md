@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klaeden
+coordinates: [[Klaeden]]
+markerFile: [[Klaeden]]
+defaultZoom: 11 
+maxZoom: 18
+```

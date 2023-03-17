@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nortmoor
+coordinates: [[Nortmoor]]
+markerFile: [[Nortmoor]]
+defaultZoom: 11 
+maxZoom: 18
+```

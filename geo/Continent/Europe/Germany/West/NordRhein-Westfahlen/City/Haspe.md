@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haspe
+coordinates: [[Haspe]]
+markerFile: [[Haspe]]
+defaultZoom: 11 
+maxZoom: 18
+```

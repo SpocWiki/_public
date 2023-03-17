@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frankenberg
+coordinates: [[Frankenberg]]
+markerFile: [[Frankenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

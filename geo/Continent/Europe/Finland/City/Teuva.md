@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teuva
+coordinates: [[Teuva]]
+markerFile: [[Teuva]]
+defaultZoom: 11 
+maxZoom: 18
+```

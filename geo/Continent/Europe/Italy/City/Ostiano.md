@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ostiano
+coordinates: [[Ostiano]]
+markerFile: [[Ostiano]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Overath
+coordinates: [[Overath]]
+markerFile: [[Overath]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.43,12.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Venedig=Venecia
+coordinates: [[Venedig=Venecia]]
+markerFile: [[Venedig=Venecia]]
+defaultZoom: 11 
+maxZoom: 18
+```

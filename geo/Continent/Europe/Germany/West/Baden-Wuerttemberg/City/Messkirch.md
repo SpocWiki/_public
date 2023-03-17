@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Messkirch
+coordinates: [[Messkirch]]
+markerFile: [[Messkirch]]
+defaultZoom: 11 
+maxZoom: 18
+```

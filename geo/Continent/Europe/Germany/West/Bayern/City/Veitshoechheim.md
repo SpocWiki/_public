@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Veitshoechheim
+coordinates: [[Veitshoechheim]]
+markerFile: [[Veitshoechheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

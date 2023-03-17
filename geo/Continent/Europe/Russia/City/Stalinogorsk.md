@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stalinogorsk
+coordinates: [[Stalinogorsk]]
+markerFile: [[Stalinogorsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.35,14.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Atina
+coordinates: [[Atina]]
+markerFile: [[Atina]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heilbronn
+coordinates: [[Heilbronn]]
+markerFile: [[Heilbronn]]
+defaultZoom: 11 
+maxZoom: 18
+```

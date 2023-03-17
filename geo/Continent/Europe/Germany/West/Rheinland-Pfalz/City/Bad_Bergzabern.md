@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Bergzabern
+coordinates: [[Bad Bergzabern]]
+markerFile: [[Bad Bergzabern]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ketsch
+coordinates: [[Ketsch]]
+markerFile: [[Ketsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

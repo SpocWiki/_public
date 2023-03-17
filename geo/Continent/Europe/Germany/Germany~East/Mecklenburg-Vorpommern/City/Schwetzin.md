@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwetzin
+coordinates: [[Schwetzin]]
+markerFile: [[Schwetzin]]
+defaultZoom: 11 
+maxZoom: 18
+```

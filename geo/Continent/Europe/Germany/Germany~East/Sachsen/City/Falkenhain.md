@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falkenhain
+coordinates: [[Falkenhain]]
+markerFile: [[Falkenhain]]
+defaultZoom: 11 
+maxZoom: 18
+```

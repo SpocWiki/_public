@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neukirchen~Holstein
+coordinates: [[Neukirchen~Holstein]]
+markerFile: [[Neukirchen~Holstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

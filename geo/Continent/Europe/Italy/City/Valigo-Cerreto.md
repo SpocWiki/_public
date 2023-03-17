@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valigo-Cerreto
+coordinates: [[Valigo-Cerreto]]
+markerFile: [[Valigo-Cerreto]]
+defaultZoom: 11 
+maxZoom: 18
+```

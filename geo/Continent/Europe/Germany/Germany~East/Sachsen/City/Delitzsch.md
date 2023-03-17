@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Delitzsch
+coordinates: [[Delitzsch]]
+markerFile: [[Delitzsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

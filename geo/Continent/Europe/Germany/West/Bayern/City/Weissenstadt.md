@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.1,11.88]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weissenstadt
+coordinates: [[Weissenstadt]]
+markerFile: [[Weissenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

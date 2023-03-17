@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schlanstedt
+coordinates: [[Schlanstedt]]
+markerFile: [[Schlanstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Golli Vrh
+coordinates: [[Golli Vrh]]
+markerFile: [[Golli Vrh]]
+defaultZoom: 11 
+maxZoom: 18
+```

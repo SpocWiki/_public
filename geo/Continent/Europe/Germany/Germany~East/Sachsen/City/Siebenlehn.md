@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siebenlehn
+coordinates: [[Siebenlehn]]
+markerFile: [[Siebenlehn]]
+defaultZoom: 11 
+maxZoom: 18
+```

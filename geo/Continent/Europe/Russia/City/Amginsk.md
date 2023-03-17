@@ -1,4 +1,4 @@
-﻿---
+---
 location: [61,132.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amginsk
+coordinates: [[Amginsk]]
+markerFile: [[Amginsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

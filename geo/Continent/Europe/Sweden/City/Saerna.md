@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saerna
+coordinates: [[Saerna]]
+markerFile: [[Saerna]]
+defaultZoom: 11 
+maxZoom: 18
+```

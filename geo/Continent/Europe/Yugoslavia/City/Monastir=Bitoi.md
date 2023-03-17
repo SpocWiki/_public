@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monastir=Bitoi
+coordinates: [[Monastir=Bitoi]]
+markerFile: [[Monastir=Bitoi]]
+defaultZoom: 11 
+maxZoom: 18
+```

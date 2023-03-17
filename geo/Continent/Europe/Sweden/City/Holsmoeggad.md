@@ -1,4 +1,4 @@
----
+﻿---
 location: [63.6,20.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Holsmoeggad
+coordinates: [[Holsmoeggad]]
+markerFile: [[Holsmoeggad]]
+defaultZoom: 11 
+maxZoom: 18
+```

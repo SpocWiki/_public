@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peterswald
+coordinates: [[Peterswald]]
+markerFile: [[Peterswald]]
+defaultZoom: 11 
+maxZoom: 18
+```

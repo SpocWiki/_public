@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seivaestoe
+coordinates: [[Seivaestoe]]
+markerFile: [[Seivaestoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

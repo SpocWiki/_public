@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yoshkar-Ola
+coordinates: [[Yoshkar-Ola]]
+markerFile: [[Yoshkar-Ola]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Redruth
+coordinates: [[Redruth]]
+markerFile: [[Redruth]]
+defaultZoom: 11 
+maxZoom: 18
+```

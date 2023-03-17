@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Obererbach
+coordinates: [[Obererbach]]
+markerFile: [[Obererbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.18,9.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nieder-Mittlau
+coordinates: [[Nieder-Mittlau]]
+markerFile: [[Nieder-Mittlau]]
+defaultZoom: 11 
+maxZoom: 18
+```

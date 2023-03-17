@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kollerschlag
+coordinates: [[Kollerschlag]]
+markerFile: [[Kollerschlag]]
+defaultZoom: 11 
+maxZoom: 18
+```

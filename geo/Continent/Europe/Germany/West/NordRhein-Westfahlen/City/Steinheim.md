@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steinheim
+coordinates: [[Steinheim]]
+markerFile: [[Steinheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

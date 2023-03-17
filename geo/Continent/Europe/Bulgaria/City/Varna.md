@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Varna
+coordinates: [[Varna]]
+markerFile: [[Varna]]
+defaultZoom: 11 
+maxZoom: 18
+```

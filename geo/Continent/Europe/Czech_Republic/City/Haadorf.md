@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haadorf
+coordinates: [[Haadorf]]
+markerFile: [[Haadorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

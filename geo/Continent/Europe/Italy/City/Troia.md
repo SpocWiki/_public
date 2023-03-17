@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troia
+coordinates: [[Troia]]
+markerFile: [[Troia]]
+defaultZoom: 11 
+maxZoom: 18
+```

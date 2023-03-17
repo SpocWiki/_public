@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kisliar
+coordinates: [[Kisliar]]
+markerFile: [[Kisliar]]
+defaultZoom: 11 
+maxZoom: 18
+```

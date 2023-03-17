@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosenberg~Westpommern
+coordinates: [[Rosenberg~Westpommern]]
+markerFile: [[Rosenberg~Westpommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

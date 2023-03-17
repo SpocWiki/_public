@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.85,9.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt im Schwarzwald
+coordinates: [[Neustadt im Schwarzwald]]
+markerFile: [[Neustadt im Schwarzwald]]
+defaultZoom: 11 
+maxZoom: 18
+```

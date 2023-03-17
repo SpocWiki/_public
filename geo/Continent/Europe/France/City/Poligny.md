@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poligny
+coordinates: [[Poligny]]
+markerFile: [[Poligny]]
+defaultZoom: 11 
+maxZoom: 18
+```

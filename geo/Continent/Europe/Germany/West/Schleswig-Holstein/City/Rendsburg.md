@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rendsburg
+coordinates: [[Rendsburg]]
+markerFile: [[Rendsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

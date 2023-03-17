@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaihingen
+coordinates: [[Vaihingen]]
+markerFile: [[Vaihingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

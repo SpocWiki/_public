@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kansas City
+coordinates: [[Kansas City]]
+markerFile: [[Kansas City]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cannstatt
+coordinates: [[Cannstatt]]
+markerFile: [[Cannstatt]]
+defaultZoom: 11 
+maxZoom: 18
+```

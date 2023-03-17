@@ -1,4 +1,4 @@
----
+﻿---
 location: [60.35,25.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Korso
+coordinates: [[Korso]]
+markerFile: [[Korso]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lorenzdorf
+coordinates: [[Lorenzdorf]]
+markerFile: [[Lorenzdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

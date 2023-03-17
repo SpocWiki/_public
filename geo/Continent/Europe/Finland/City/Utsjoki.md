@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Utsjoki
+coordinates: [[Utsjoki]]
+markerFile: [[Utsjoki]]
+defaultZoom: 11 
+maxZoom: 18
+```

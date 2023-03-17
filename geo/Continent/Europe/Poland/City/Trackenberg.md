@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trackenberg
+coordinates: [[Trackenberg]]
+markerFile: [[Trackenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

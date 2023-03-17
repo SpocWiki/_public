@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Messina
+coordinates: [[Messina]]
+markerFile: [[Messina]]
+defaultZoom: 11 
+maxZoom: 18
+```

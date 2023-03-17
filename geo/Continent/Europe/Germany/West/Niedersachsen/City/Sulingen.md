@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sulingen
+coordinates: [[Sulingen]]
+markerFile: [[Sulingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

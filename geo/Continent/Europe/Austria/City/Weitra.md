@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weitra
+coordinates: [[Weitra]]
+markerFile: [[Weitra]]
+defaultZoom: 11 
+maxZoom: 18
+```

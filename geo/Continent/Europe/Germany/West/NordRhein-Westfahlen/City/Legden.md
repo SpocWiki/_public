@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Legden
+coordinates: [[Legden]]
+markerFile: [[Legden]]
+defaultZoom: 11 
+maxZoom: 18
+```

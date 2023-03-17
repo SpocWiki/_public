@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leipheim
+coordinates: [[Leipheim]]
+markerFile: [[Leipheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

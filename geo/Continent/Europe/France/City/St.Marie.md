@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Marie
+coordinates: [[St.Marie]]
+markerFile: [[St.Marie]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.4,19.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Braunsberg
+coordinates: [[Braunsberg]]
+markerFile: [[Braunsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Johnstone
+coordinates: [[Johnstone]]
+markerFile: [[Johnstone]]
+defaultZoom: 11 
+maxZoom: 18
+```

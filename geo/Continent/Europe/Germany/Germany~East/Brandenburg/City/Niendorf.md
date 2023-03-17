@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Niendorf
+coordinates: [[Niendorf]]
+markerFile: [[Niendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

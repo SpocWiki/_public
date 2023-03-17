@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wiesloch
+coordinates: [[Wiesloch]]
+markerFile: [[Wiesloch]]
+defaultZoom: 11 
+maxZoom: 18
+```

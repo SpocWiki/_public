@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: South Tarawa
+coordinates: [[South Tarawa]]
+markerFile: [[South Tarawa]]
+defaultZoom: 11 
+maxZoom: 18
+```

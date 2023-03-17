@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berchtesgaden
+coordinates: [[Berchtesgaden]]
+markerFile: [[Berchtesgaden]]
+defaultZoom: 11 
+maxZoom: 18
+```

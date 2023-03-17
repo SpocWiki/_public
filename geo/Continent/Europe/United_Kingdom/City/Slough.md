@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Slough
+coordinates: [[Slough]]
+markerFile: [[Slough]]
+defaultZoom: 11 
+maxZoom: 18
+```

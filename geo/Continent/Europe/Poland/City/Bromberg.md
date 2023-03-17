@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bromberg
+coordinates: [[Bromberg]]
+markerFile: [[Bromberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

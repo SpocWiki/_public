@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bevers
+coordinates: [[Bevers]]
+markerFile: [[Bevers]]
+defaultZoom: 11 
+maxZoom: 18
+```

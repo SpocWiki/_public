@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Planitz
+coordinates: [[Planitz]]
+markerFile: [[Planitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

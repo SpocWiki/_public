@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Modesto
+coordinates: [[Modesto]]
+markerFile: [[Modesto]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sprendlingen~Rheinhessen
+coordinates: [[Sprendlingen~Rheinhessen]]
+markerFile: [[Sprendlingen~Rheinhessen]]
+defaultZoom: 11 
+maxZoom: 18
+```

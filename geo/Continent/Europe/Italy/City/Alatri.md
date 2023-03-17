@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alatri
+coordinates: [[Alatri]]
+markerFile: [[Alatri]]
+defaultZoom: 11 
+maxZoom: 18
+```

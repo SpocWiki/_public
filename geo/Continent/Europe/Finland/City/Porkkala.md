@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Porkkala
+coordinates: [[Porkkala]]
+markerFile: [[Porkkala]]
+defaultZoom: 11 
+maxZoom: 18
+```

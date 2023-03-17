@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halstenbek
+coordinates: [[Halstenbek]]
+markerFile: [[Halstenbek]]
+defaultZoom: 11 
+maxZoom: 18
+```

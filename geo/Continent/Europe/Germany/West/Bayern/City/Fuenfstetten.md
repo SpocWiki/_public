@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuenfstetten
+coordinates: [[Fuenfstetten]]
+markerFile: [[Fuenfstetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

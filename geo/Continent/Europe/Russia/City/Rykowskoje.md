@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rykowskoje
+coordinates: [[Rykowskoje]]
+markerFile: [[Rykowskoje]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuilenburg
+coordinates: [[Kuilenburg]]
+markerFile: [[Kuilenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

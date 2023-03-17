@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halloe
+coordinates: [[Halloe]]
+markerFile: [[Halloe]]
+defaultZoom: 11 
+maxZoom: 18
+```

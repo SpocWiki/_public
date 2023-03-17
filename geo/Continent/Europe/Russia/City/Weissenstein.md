@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weissenstein
+coordinates: [[Weissenstein]]
+markerFile: [[Weissenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

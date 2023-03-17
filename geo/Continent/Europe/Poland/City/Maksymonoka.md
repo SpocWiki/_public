@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maksymonoka
+coordinates: [[Maksymonoka]]
+markerFile: [[Maksymonoka]]
+defaultZoom: 11 
+maxZoom: 18
+```

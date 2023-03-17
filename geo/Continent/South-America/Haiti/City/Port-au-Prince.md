@@ -1,4 +1,4 @@
----
+﻿---
 location: [18.53333,-72.33334]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Port-au-Prince
+coordinates: [[Port-au-Prince]]
+markerFile: [[Port-au-Prince]]
+defaultZoom: 11 
+maxZoom: 18
+```

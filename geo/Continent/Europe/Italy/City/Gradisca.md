@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gradisca
+coordinates: [[Gradisca]]
+markerFile: [[Gradisca]]
+defaultZoom: 11 
+maxZoom: 18
+```

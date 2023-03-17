@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gross-Stanglau
+coordinates: [[Gross-Stanglau]]
+markerFile: [[Gross-Stanglau]]
+defaultZoom: 11 
+maxZoom: 18
+```

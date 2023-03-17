@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Puettlingen
+coordinates: [[Puettlingen]]
+markerFile: [[Puettlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gateshead
+coordinates: [[Gateshead]]
+markerFile: [[Gateshead]]
+defaultZoom: 11 
+maxZoom: 18
+```

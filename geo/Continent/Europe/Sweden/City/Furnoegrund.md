@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Furnoegrund
+coordinates: [[Furnoegrund]]
+markerFile: [[Furnoegrund]]
+defaultZoom: 11 
+maxZoom: 18
+```

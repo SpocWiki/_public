@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reims
+coordinates: [[Reims]]
+markerFile: [[Reims]]
+defaultZoom: 11 
+maxZoom: 18
+```

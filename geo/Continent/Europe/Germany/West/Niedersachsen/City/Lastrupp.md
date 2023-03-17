@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lastrupp
+coordinates: [[Lastrupp]]
+markerFile: [[Lastrupp]]
+defaultZoom: 11 
+maxZoom: 18
+```

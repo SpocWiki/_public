@@ -1,4 +1,4 @@
----
+﻿---
 location: [59.33,14.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karlskoga
+coordinates: [[Karlskoga]]
+markerFile: [[Karlskoga]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cleve
+coordinates: [[Cleve]]
+markerFile: [[Cleve]]
+defaultZoom: 11 
+maxZoom: 18
+```

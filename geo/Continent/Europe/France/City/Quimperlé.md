@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quimperlé
+coordinates: [[Quimperlé]]
+markerFile: [[Quimperlé]]
+defaultZoom: 11 
+maxZoom: 18
+```

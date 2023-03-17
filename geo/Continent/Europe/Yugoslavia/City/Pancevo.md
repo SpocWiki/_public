@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pancevo
+coordinates: [[Pancevo]]
+markerFile: [[Pancevo]]
+defaultZoom: 11 
+maxZoom: 18
+```

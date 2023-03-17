@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Llandes
+coordinates: [[Llandes]]
+markerFile: [[Llandes]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abdalliar
+coordinates: [[Abdalliar]]
+markerFile: [[Abdalliar]]
+defaultZoom: 11 
+maxZoom: 18
+```

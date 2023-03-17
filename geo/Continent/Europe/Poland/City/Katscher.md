@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Katscher
+coordinates: [[Katscher]]
+markerFile: [[Katscher]]
+defaultZoom: 11 
+maxZoom: 18
+```

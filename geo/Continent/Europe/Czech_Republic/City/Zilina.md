@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zilina
+coordinates: [[Zilina]]
+markerFile: [[Zilina]]
+defaultZoom: 11 
+maxZoom: 18
+```

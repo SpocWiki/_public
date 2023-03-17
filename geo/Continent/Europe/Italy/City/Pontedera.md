@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pontedera
+coordinates: [[Pontedera]]
+markerFile: [[Pontedera]]
+defaultZoom: 11 
+maxZoom: 18
+```

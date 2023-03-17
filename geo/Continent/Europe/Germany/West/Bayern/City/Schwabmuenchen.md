@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwabmuenchen
+coordinates: [[Schwabmuenchen]]
+markerFile: [[Schwabmuenchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

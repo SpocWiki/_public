@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lannaskede
+coordinates: [[Lannaskede]]
+markerFile: [[Lannaskede]]
+defaultZoom: 11 
+maxZoom: 18
+```

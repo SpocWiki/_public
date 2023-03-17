@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Markoe
+coordinates: [[Markoe]]
+markerFile: [[Markoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

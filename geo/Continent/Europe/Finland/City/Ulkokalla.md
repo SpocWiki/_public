@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ulkokalla
+coordinates: [[Ulkokalla]]
+markerFile: [[Ulkokalla]]
+defaultZoom: 11 
+maxZoom: 18
+```

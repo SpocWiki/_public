@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brinkum
+coordinates: [[Brinkum]]
+markerFile: [[Brinkum]]
+defaultZoom: 11 
+maxZoom: 18
+```

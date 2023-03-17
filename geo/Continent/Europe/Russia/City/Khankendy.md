@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Khankendy
+coordinates: [[Khankendy]]
+markerFile: [[Khankendy]]
+defaultZoom: 11 
+maxZoom: 18
+```

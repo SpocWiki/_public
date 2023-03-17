@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cadiz
+coordinates: [[Cadiz]]
+markerFile: [[Cadiz]]
+defaultZoom: 11 
+maxZoom: 18
+```

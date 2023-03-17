@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hannoversch Muenden
+coordinates: [[Hannoversch Muenden]]
+markerFile: [[Hannoversch Muenden]]
+defaultZoom: 11 
+maxZoom: 18
+```

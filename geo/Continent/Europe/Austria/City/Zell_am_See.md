@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zell am See
+coordinates: [[Zell am See]]
+markerFile: [[Zell am See]]
+defaultZoom: 11 
+maxZoom: 18
+```

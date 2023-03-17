@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jagstzell
+coordinates: [[Jagstzell]]
+markerFile: [[Jagstzell]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doebeln
+coordinates: [[Doebeln]]
+markerFile: [[Doebeln]]
+defaultZoom: 11 
+maxZoom: 18
+```

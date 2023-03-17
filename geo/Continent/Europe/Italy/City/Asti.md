@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.9,8.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Asti
+coordinates: [[Asti]]
+markerFile: [[Asti]]
+defaultZoom: 11 
+maxZoom: 18
+```

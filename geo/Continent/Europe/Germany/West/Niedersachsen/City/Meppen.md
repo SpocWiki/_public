@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meppen
+coordinates: [[Meppen]]
+markerFile: [[Meppen]]
+defaultZoom: 11 
+maxZoom: 18
+```

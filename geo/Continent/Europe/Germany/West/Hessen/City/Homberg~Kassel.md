@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.03,9.42]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Homberg~Kassel
+coordinates: [[Homberg~Kassel]]
+markerFile: [[Homberg~Kassel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sodankylae~Taeh.
+coordinates: [[Sodankylae~Taeh.]]
+markerFile: [[Sodankylae~Taeh.]]
+defaultZoom: 11 
+maxZoom: 18
+```

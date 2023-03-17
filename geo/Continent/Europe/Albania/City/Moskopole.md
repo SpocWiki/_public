@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moskopole
+coordinates: [[Moskopole]]
+markerFile: [[Moskopole]]
+defaultZoom: 11 
+maxZoom: 18
+```

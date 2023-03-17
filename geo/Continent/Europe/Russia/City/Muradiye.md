@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muradiye
+coordinates: [[Muradiye]]
+markerFile: [[Muradiye]]
+defaultZoom: 11 
+maxZoom: 18
+```

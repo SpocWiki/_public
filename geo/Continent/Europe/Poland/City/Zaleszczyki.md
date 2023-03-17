@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zaleszczyki
+coordinates: [[Zaleszczyki]]
+markerFile: [[Zaleszczyki]]
+defaultZoom: 11 
+maxZoom: 18
+```

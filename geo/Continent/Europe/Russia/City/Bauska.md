@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bauska
+coordinates: [[Bauska]]
+markerFile: [[Bauska]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.83,-7.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Estremoz
+coordinates: [[Estremoz]]
+markerFile: [[Estremoz]]
+defaultZoom: 11 
+maxZoom: 18
+```

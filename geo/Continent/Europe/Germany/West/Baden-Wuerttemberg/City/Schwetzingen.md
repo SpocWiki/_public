@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwetzingen
+coordinates: [[Schwetzingen]]
+markerFile: [[Schwetzingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

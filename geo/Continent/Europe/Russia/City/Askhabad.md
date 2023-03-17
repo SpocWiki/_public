@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Askhabad
+coordinates: [[Askhabad]]
+markerFile: [[Askhabad]]
+defaultZoom: 11 
+maxZoom: 18
+```

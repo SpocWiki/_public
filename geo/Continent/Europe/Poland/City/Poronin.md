@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poronin
+coordinates: [[Poronin]]
+markerFile: [[Poronin]]
+defaultZoom: 11 
+maxZoom: 18
+```

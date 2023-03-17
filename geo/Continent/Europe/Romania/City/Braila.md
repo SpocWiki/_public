@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Braila
+coordinates: [[Braila]]
+markerFile: [[Braila]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cheltenham
+coordinates: [[Cheltenham]]
+markerFile: [[Cheltenham]]
+defaultZoom: 11 
+maxZoom: 18
+```

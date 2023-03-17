@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flekkeroe
+coordinates: [[Flekkeroe]]
+markerFile: [[Flekkeroe]]
+defaultZoom: 11 
+maxZoom: 18
+```

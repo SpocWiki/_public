@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rottweil
+coordinates: [[Rottweil]]
+markerFile: [[Rottweil]]
+defaultZoom: 11 
+maxZoom: 18
+```

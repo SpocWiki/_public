@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wiedenbrueck
+coordinates: [[Wiedenbrueck]]
+markerFile: [[Wiedenbrueck]]
+defaultZoom: 11 
+maxZoom: 18
+```

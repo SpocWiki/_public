@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Revonhahbi
+coordinates: [[Revonhahbi]]
+markerFile: [[Revonhahbi]]
+defaultZoom: 11 
+maxZoom: 18
+```

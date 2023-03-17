@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.2,8.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigstein~Taunus
+coordinates: [[Koenigstein~Taunus]]
+markerFile: [[Koenigstein~Taunus]]
+defaultZoom: 11 
+maxZoom: 18
+```

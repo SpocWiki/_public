@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torjok
+coordinates: [[Torjok]]
+markerFile: [[Torjok]]
+defaultZoom: 11 
+maxZoom: 18
+```

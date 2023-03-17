@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Killarney
+coordinates: [[Killarney]]
+markerFile: [[Killarney]]
+defaultZoom: 11 
+maxZoom: 18
+```

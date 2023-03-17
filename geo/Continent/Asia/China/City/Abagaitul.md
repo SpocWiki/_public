@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.58,117.92]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abagaitul
+coordinates: [[Abagaitul]]
+markerFile: [[Abagaitul]]
+defaultZoom: 11 
+maxZoom: 18
+```

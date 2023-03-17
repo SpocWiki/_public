@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.3,-7.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vila Real
+coordinates: [[Vila Real]]
+markerFile: [[Vila Real]]
+defaultZoom: 11 
+maxZoom: 18
+```

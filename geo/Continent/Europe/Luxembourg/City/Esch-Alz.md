@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Esch-Alz
+coordinates: [[Esch-Alz]]
+markerFile: [[Esch-Alz]]
+defaultZoom: 11 
+maxZoom: 18
+```

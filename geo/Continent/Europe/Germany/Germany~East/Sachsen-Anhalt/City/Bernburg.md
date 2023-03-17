@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bernburg
+coordinates: [[Bernburg]]
+markerFile: [[Bernburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

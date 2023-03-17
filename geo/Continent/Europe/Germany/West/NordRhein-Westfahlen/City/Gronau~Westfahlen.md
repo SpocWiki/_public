@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gronau~Westfahlen
+coordinates: [[Gronau~Westfahlen]]
+markerFile: [[Gronau~Westfahlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

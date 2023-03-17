@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boxberg
+coordinates: [[Boxberg]]
+markerFile: [[Boxberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

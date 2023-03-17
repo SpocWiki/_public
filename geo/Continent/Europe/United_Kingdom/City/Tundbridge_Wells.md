@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tundbridge Wells
+coordinates: [[Tundbridge Wells]]
+markerFile: [[Tundbridge Wells]]
+defaultZoom: 11 
+maxZoom: 18
+```

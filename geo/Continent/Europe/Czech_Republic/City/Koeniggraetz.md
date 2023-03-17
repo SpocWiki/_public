@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koeniggraetz
+coordinates: [[Koeniggraetz]]
+markerFile: [[Koeniggraetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

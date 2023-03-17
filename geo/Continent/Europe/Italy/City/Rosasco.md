@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosasco
+coordinates: [[Rosasco]]
+markerFile: [[Rosasco]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoerde
+coordinates: [[Hoerde]]
+markerFile: [[Hoerde]]
+defaultZoom: 11 
+maxZoom: 18
+```

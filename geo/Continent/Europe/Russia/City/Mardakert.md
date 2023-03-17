@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.2,46.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mardakert
+coordinates: [[Mardakert]]
+markerFile: [[Mardakert]]
+defaultZoom: 11 
+maxZoom: 18
+```

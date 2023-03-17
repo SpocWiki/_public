@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bautsch
+coordinates: [[Bautsch]]
+markerFile: [[Bautsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Selenginsk
+coordinates: [[Selenginsk]]
+markerFile: [[Selenginsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

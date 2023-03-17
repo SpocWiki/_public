@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gehlenbeck
+coordinates: [[Gehlenbeck]]
+markerFile: [[Gehlenbeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

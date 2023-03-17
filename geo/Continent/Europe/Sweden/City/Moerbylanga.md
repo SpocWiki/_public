@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moerbylanga
+coordinates: [[Moerbylanga]]
+markerFile: [[Moerbylanga]]
+defaultZoom: 11 
+maxZoom: 18
+```

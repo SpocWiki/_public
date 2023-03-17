@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.24,12.74]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cham
+coordinates: [[Cham]]
+markerFile: [[Cham]]
+defaultZoom: 11 
+maxZoom: 18
+```

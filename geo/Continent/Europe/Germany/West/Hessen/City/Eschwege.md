@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eschwege
+coordinates: [[Eschwege]]
+markerFile: [[Eschwege]]
+defaultZoom: 11 
+maxZoom: 18
+```

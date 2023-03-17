@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gimborn
+coordinates: [[Gimborn]]
+markerFile: [[Gimborn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Melk
+coordinates: [[Melk]]
+markerFile: [[Melk]]
+defaultZoom: 11 
+maxZoom: 18
+```

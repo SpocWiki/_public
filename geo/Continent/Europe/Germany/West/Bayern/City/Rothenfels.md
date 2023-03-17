@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rothenfels
+coordinates: [[Rothenfels]]
+markerFile: [[Rothenfels]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tavastehns
+coordinates: [[Tavastehns]]
+markerFile: [[Tavastehns]]
+defaultZoom: 11 
+maxZoom: 18
+```

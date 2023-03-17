@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eupatoria
+coordinates: [[Eupatoria]]
+markerFile: [[Eupatoria]]
+defaultZoom: 11 
+maxZoom: 18
+```

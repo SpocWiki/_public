@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.2,17.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leobschuetz
+coordinates: [[Leobschuetz]]
+markerFile: [[Leobschuetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hastings
+coordinates: [[Hastings]]
+markerFile: [[Hastings]]
+defaultZoom: 11 
+maxZoom: 18
+```

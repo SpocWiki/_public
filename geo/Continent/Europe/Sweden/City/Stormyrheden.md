@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stormyrheden
+coordinates: [[Stormyrheden]]
+markerFile: [[Stormyrheden]]
+defaultZoom: 11 
+maxZoom: 18
+```

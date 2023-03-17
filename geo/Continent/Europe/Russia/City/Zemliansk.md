@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zemliansk
+coordinates: [[Zemliansk]]
+markerFile: [[Zemliansk]]
+defaultZoom: 11 
+maxZoom: 18
+```

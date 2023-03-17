@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aalesund
+coordinates: [[Aalesund]]
+markerFile: [[Aalesund]]
+defaultZoom: 11 
+maxZoom: 18
+```

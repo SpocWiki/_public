@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lowestoft~Suffolk
+coordinates: [[Lowestoft~Suffolk]]
+markerFile: [[Lowestoft~Suffolk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bazas
+coordinates: [[Bazas]]
+markerFile: [[Bazas]]
+defaultZoom: 11 
+maxZoom: 18
+```

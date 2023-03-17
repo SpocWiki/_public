@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alberga
+coordinates: [[Alberga]]
+markerFile: [[Alberga]]
+defaultZoom: 11 
+maxZoom: 18
+```

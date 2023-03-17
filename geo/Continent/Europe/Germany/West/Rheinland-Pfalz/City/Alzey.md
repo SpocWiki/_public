@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alzey
+coordinates: [[Alzey]]
+markerFile: [[Alzey]]
+defaultZoom: 11 
+maxZoom: 18
+```

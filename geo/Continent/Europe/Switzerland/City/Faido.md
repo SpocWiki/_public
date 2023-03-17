@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Faido
+coordinates: [[Faido]]
+markerFile: [[Faido]]
+defaultZoom: 11 
+maxZoom: 18
+```

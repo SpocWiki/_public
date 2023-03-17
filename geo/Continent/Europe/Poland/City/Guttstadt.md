@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guttstadt
+coordinates: [[Guttstadt]]
+markerFile: [[Guttstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

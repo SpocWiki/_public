@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gaustadt
+coordinates: [[Gaustadt]]
+markerFile: [[Gaustadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

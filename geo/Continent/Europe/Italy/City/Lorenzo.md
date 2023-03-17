@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lorenzo
+coordinates: [[Lorenzo]]
+markerFile: [[Lorenzo]]
+defaultZoom: 11 
+maxZoom: 18
+```

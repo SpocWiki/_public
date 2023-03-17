@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gersdorf
+coordinates: [[Gersdorf]]
+markerFile: [[Gersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

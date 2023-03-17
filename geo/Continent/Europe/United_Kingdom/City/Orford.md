@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orford
+coordinates: [[Orford]]
+markerFile: [[Orford]]
+defaultZoom: 11 
+maxZoom: 18
+```

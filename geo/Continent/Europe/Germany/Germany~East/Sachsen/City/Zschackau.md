@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zschackau
+coordinates: [[Zschackau]]
+markerFile: [[Zschackau]]
+defaultZoom: 11 
+maxZoom: 18
+```

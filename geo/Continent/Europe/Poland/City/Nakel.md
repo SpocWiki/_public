@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nakel
+coordinates: [[Nakel]]
+markerFile: [[Nakel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuburg
+coordinates: [[Neuburg]]
+markerFile: [[Neuburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

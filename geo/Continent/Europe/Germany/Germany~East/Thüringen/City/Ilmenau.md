@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ilmenau
+coordinates: [[Ilmenau]]
+markerFile: [[Ilmenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

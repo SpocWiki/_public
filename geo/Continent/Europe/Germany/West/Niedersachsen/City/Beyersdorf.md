@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beyersdorf
+coordinates: [[Beyersdorf]]
+markerFile: [[Beyersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

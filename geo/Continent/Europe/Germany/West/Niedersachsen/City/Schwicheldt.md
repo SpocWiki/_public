@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwicheldt
+coordinates: [[Schwicheldt]]
+markerFile: [[Schwicheldt]]
+defaultZoom: 11 
+maxZoom: 18
+```

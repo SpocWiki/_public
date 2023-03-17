@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gruenberg~Schlesien
+coordinates: [[Gruenberg~Schlesien]]
+markerFile: [[Gruenberg~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weil im Schoenbuch
+coordinates: [[Weil im Schoenbuch]]
+markerFile: [[Weil im Schoenbuch]]
+defaultZoom: 11 
+maxZoom: 18
+```

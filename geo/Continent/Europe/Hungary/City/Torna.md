@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torna
+coordinates: [[Torna]]
+markerFile: [[Torna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lille
+coordinates: [[Lille]]
+markerFile: [[Lille]]
+defaultZoom: 11 
+maxZoom: 18
+```

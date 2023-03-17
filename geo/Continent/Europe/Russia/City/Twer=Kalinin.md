@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Twer=Kalinin
+coordinates: [[Twer=Kalinin]]
+markerFile: [[Twer=Kalinin]]
+defaultZoom: 11 
+maxZoom: 18
+```

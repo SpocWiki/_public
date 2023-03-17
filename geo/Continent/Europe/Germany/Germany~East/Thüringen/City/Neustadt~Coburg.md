@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt~Coburg
+coordinates: [[Neustadt~Coburg]]
+markerFile: [[Neustadt~Coburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

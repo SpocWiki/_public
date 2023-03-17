@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lucca
+coordinates: [[Lucca]]
+markerFile: [[Lucca]]
+defaultZoom: 11 
+maxZoom: 18
+```

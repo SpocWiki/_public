@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frimmersdorf
+coordinates: [[Frimmersdorf]]
+markerFile: [[Frimmersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

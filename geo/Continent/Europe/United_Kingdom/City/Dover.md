@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dover
+coordinates: [[Dover]]
+markerFile: [[Dover]]
+defaultZoom: 11 
+maxZoom: 18
+```

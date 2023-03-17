@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soest
+coordinates: [[Soest]]
+markerFile: [[Soest]]
+defaultZoom: 11 
+maxZoom: 18
+```

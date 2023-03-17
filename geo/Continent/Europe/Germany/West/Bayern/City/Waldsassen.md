@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldsassen
+coordinates: [[Waldsassen]]
+markerFile: [[Waldsassen]]
+defaultZoom: 11 
+maxZoom: 18
+```

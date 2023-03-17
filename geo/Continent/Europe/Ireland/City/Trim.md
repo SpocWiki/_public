@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trim
+coordinates: [[Trim]]
+markerFile: [[Trim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huntingdon
+coordinates: [[Huntingdon]]
+markerFile: [[Huntingdon]]
+defaultZoom: 11 
+maxZoom: 18
+```

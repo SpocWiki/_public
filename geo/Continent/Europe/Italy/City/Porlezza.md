@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Porlezza
+coordinates: [[Porlezza]]
+markerFile: [[Porlezza]]
+defaultZoom: 11 
+maxZoom: 18
+```

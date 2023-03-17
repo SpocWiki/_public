@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gorlice
+coordinates: [[Gorlice]]
+markerFile: [[Gorlice]]
+defaultZoom: 11 
+maxZoom: 18
+```

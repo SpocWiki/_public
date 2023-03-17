@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eppendorf
+coordinates: [[Eppendorf]]
+markerFile: [[Eppendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

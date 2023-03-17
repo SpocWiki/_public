@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sztutowo
+coordinates: [[Sztutowo]]
+markerFile: [[Sztutowo]]
+defaultZoom: 11 
+maxZoom: 18
+```

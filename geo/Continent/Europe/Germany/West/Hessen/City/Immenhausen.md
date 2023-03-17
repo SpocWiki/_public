@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.42,9.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Immenhausen
+coordinates: [[Immenhausen]]
+markerFile: [[Immenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

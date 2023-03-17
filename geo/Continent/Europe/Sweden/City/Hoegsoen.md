@@ -1,4 +1,4 @@
----
+﻿---
 location: [65.9,22.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoegsoen
+coordinates: [[Hoegsoen]]
+markerFile: [[Hoegsoen]]
+defaultZoom: 11 
+maxZoom: 18
+```

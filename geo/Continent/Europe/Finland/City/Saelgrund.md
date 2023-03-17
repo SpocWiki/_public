@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saelgrund
+coordinates: [[Saelgrund]]
+markerFile: [[Saelgrund]]
+defaultZoom: 11 
+maxZoom: 18
+```

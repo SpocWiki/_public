@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kosel~Oberschlesien
+coordinates: [[Kosel~Oberschlesien]]
+markerFile: [[Kosel~Oberschlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

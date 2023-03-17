@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hasbergen
+coordinates: [[Hasbergen]]
+markerFile: [[Hasbergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

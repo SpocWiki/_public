@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thiers
+coordinates: [[Thiers]]
+markerFile: [[Thiers]]
+defaultZoom: 11 
+maxZoom: 18
+```

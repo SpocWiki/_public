@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altoetting
+coordinates: [[Altoetting]]
+markerFile: [[Altoetting]]
+defaultZoom: 11 
+maxZoom: 18
+```

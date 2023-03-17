@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Adamovo
+coordinates: [[Adamovo]]
+markerFile: [[Adamovo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Raisaelae
+coordinates: [[Raisaelae]]
+markerFile: [[Raisaelae]]
+defaultZoom: 11 
+maxZoom: 18
+```

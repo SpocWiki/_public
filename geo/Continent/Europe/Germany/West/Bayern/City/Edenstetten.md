@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Edenstetten
+coordinates: [[Edenstetten]]
+markerFile: [[Edenstetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

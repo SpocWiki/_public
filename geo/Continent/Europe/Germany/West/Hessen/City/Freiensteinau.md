@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freiensteinau
+coordinates: [[Freiensteinau]]
+markerFile: [[Freiensteinau]]
+defaultZoom: 11 
+maxZoom: 18
+```

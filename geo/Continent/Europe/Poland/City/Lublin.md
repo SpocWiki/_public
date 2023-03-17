@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lublin
+coordinates: [[Lublin]]
+markerFile: [[Lublin]]
+defaultZoom: 11 
+maxZoom: 18
+```

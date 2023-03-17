@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eslarn
+coordinates: [[Eslarn]]
+markerFile: [[Eslarn]]
+defaultZoom: 11 
+maxZoom: 18
+```

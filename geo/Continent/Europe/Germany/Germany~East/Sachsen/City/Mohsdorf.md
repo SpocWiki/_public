@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mohsdorf
+coordinates: [[Mohsdorf]]
+markerFile: [[Mohsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

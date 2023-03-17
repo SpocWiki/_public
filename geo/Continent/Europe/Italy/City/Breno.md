@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.57,9.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Breno
+coordinates: [[Breno]]
+markerFile: [[Breno]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kahla
+coordinates: [[Kahla]]
+markerFile: [[Kahla]]
+defaultZoom: 11 
+maxZoom: 18
+```

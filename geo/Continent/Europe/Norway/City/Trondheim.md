@@ -1,4 +1,4 @@
----
+﻿---
 location: [63.43,10.42]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trondheim
+coordinates: [[Trondheim]]
+markerFile: [[Trondheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

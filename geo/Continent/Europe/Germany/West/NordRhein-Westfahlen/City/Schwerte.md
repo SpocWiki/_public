@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.43,7.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwerte
+coordinates: [[Schwerte]]
+markerFile: [[Schwerte]]
+defaultZoom: 11 
+maxZoom: 18
+```

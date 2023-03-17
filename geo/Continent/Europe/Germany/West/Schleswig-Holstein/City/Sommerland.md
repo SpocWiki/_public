@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.8,9.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sommerland
+coordinates: [[Sommerland]]
+markerFile: [[Sommerland]]
+defaultZoom: 11 
+maxZoom: 18
+```

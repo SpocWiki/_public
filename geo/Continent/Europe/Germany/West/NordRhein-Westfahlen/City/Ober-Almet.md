@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Almet
+coordinates: [[Ober-Almet]]
+markerFile: [[Ober-Almet]]
+defaultZoom: 11 
+maxZoom: 18
+```

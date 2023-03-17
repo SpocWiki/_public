@@ -1,4 +1,4 @@
----
+﻿---
 location: [12.15,-86.28]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Managua
+coordinates: [[Managua]]
+markerFile: [[Managua]]
+defaultZoom: 11 
+maxZoom: 18
+```

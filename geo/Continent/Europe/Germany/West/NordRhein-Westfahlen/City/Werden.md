@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werden
+coordinates: [[Werden]]
+markerFile: [[Werden]]
+defaultZoom: 11 
+maxZoom: 18
+```

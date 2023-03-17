@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peterwarad
+coordinates: [[Peterwarad]]
+markerFile: [[Peterwarad]]
+defaultZoom: 11 
+maxZoom: 18
+```

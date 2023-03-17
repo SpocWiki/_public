@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.07,141.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yokohama
+coordinates: [[Yokohama]]
+markerFile: [[Yokohama]]
+defaultZoom: 11 
+maxZoom: 18
+```

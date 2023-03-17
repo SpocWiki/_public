@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ortrand
+coordinates: [[Ortrand]]
+markerFile: [[Ortrand]]
+defaultZoom: 11 
+maxZoom: 18
+```

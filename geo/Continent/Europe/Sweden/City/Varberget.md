@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Varberget
+coordinates: [[Varberget]]
+markerFile: [[Varberget]]
+defaultZoom: 11 
+maxZoom: 18
+```

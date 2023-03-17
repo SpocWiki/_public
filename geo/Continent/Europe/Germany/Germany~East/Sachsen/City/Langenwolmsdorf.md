@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenwolmsdorf
+coordinates: [[Langenwolmsdorf]]
+markerFile: [[Langenwolmsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

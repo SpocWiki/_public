@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teschow
+coordinates: [[Teschow]]
+markerFile: [[Teschow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Papeete
+coordinates: [[Papeete]]
+markerFile: [[Papeete]]
+defaultZoom: 11 
+maxZoom: 18
+```

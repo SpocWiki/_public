@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rovellasca
+coordinates: [[Rovellasca]]
+markerFile: [[Rovellasca]]
+defaultZoom: 11 
+maxZoom: 18
+```

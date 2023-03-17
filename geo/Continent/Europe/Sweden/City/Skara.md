@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skara
+coordinates: [[Skara]]
+markerFile: [[Skara]]
+defaultZoom: 11 
+maxZoom: 18
+```

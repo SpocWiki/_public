@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wormeldange
+coordinates: [[Wormeldange]]
+markerFile: [[Wormeldange]]
+defaultZoom: 11 
+maxZoom: 18
+```

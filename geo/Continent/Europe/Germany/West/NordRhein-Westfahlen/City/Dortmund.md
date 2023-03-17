@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dortmund
+coordinates: [[Dortmund]]
+markerFile: [[Dortmund]]
+defaultZoom: 11 
+maxZoom: 18
+```

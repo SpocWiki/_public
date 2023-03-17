@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ottawa
+coordinates: [[Ottawa]]
+markerFile: [[Ottawa]]
+defaultZoom: 11 
+maxZoom: 18
+```

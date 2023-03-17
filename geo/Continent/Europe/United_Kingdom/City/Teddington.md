@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teddington
+coordinates: [[Teddington]]
+markerFile: [[Teddington]]
+defaultZoom: 11 
+maxZoom: 18
+```

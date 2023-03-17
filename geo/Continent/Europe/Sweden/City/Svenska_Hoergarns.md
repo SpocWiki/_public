@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Svenska Hoergarns
+coordinates: [[Svenska Hoergarns]]
+markerFile: [[Svenska Hoergarns]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ahaus
+coordinates: [[Ahaus]]
+markerFile: [[Ahaus]]
+defaultZoom: 11 
+maxZoom: 18
+```

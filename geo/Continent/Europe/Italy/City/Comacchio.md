@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Comacchio
+coordinates: [[Comacchio]]
+markerFile: [[Comacchio]]
+defaultZoom: 11 
+maxZoom: 18
+```

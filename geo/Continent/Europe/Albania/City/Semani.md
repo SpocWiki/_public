@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Semani
+coordinates: [[Semani]]
+markerFile: [[Semani]]
+defaultZoom: 11 
+maxZoom: 18
+```

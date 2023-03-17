@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bjuroeklubb
+coordinates: [[Bjuroeklubb]]
+markerFile: [[Bjuroeklubb]]
+defaultZoom: 11 
+maxZoom: 18
+```

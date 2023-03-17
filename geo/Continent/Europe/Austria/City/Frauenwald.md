@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frauenwald
+coordinates: [[Frauenwald]]
+markerFile: [[Frauenwald]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bourganeuf
+coordinates: [[Bourganeuf]]
+markerFile: [[Bourganeuf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.77,13.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altenberg
+coordinates: [[Altenberg]]
+markerFile: [[Altenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

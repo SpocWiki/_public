@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedrichsstadt
+coordinates: [[Friedrichsstadt]]
+markerFile: [[Friedrichsstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

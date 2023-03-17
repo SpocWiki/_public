@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldenburg~Sachsen
+coordinates: [[Waldenburg~Sachsen]]
+markerFile: [[Waldenburg~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

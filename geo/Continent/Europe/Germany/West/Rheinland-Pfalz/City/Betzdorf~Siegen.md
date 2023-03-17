@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Betzdorf~Siegen
+coordinates: [[Betzdorf~Siegen]]
+markerFile: [[Betzdorf~Siegen]]
+defaultZoom: 11 
+maxZoom: 18
+```

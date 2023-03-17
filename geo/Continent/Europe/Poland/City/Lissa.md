@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lissa
+coordinates: [[Lissa]]
+markerFile: [[Lissa]]
+defaultZoom: 11 
+maxZoom: 18
+```

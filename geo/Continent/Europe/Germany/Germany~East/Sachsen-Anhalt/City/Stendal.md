@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stendal
+coordinates: [[Stendal]]
+markerFile: [[Stendal]]
+defaultZoom: 11 
+maxZoom: 18
+```

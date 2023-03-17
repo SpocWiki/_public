@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Southampton
+coordinates: [[Southampton]]
+markerFile: [[Southampton]]
+defaultZoom: 11 
+maxZoom: 18
+```

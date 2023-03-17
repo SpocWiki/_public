@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hettstedt
+coordinates: [[Hettstedt]]
+markerFile: [[Hettstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

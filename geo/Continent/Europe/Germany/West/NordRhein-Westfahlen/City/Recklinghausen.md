@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Recklinghausen
+coordinates: [[Recklinghausen]]
+markerFile: [[Recklinghausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

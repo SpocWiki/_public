@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Biarritz
+coordinates: [[Biarritz]]
+markerFile: [[Biarritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

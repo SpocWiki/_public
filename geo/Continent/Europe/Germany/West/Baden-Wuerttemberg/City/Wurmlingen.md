@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wurmlingen
+coordinates: [[Wurmlingen]]
+markerFile: [[Wurmlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Obernkirchen
+coordinates: [[Obernkirchen]]
+markerFile: [[Obernkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

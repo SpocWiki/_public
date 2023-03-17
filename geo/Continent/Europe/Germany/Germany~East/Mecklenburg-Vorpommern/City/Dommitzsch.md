@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dommitzsch
+coordinates: [[Dommitzsch]]
+markerFile: [[Dommitzsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

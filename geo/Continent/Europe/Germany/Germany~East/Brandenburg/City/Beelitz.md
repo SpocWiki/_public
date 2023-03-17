@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beelitz
+coordinates: [[Beelitz]]
+markerFile: [[Beelitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nieuwediep
+coordinates: [[Nieuwediep]]
+markerFile: [[Nieuwediep]]
+defaultZoom: 11 
+maxZoom: 18
+```

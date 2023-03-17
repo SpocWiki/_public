@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuehtelysvaara
+coordinates: [[Kuehtelysvaara]]
+markerFile: [[Kuehtelysvaara]]
+defaultZoom: 11 
+maxZoom: 18
+```

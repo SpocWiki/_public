@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.13,12.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lobstaedt
+coordinates: [[Lobstaedt]]
+markerFile: [[Lobstaedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

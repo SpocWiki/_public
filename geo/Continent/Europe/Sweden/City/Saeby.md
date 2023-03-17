@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saeby
+coordinates: [[Saeby]]
+markerFile: [[Saeby]]
+defaultZoom: 11 
+maxZoom: 18
+```

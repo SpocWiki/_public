@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guetaria
+coordinates: [[Guetaria]]
+markerFile: [[Guetaria]]
+defaultZoom: 11 
+maxZoom: 18
+```

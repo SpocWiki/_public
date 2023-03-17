@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kongsbacka
+coordinates: [[Kongsbacka]]
+markerFile: [[Kongsbacka]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Windsheim
+coordinates: [[Bad Windsheim]]
+markerFile: [[Bad Windsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

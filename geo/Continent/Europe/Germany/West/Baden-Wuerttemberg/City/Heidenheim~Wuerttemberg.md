@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.67,10.15]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heidenheim~Wuerttemberg
+coordinates: [[Heidenheim~Wuerttemberg]]
+markerFile: [[Heidenheim~Wuerttemberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

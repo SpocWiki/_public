@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Senta
+coordinates: [[Senta]]
+markerFile: [[Senta]]
+defaultZoom: 11 
+maxZoom: 18
+```

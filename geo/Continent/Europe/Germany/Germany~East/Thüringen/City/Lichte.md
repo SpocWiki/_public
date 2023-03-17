@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lichte
+coordinates: [[Lichte]]
+markerFile: [[Lichte]]
+defaultZoom: 11 
+maxZoom: 18
+```

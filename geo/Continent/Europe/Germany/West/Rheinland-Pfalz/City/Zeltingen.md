@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zeltingen
+coordinates: [[Zeltingen]]
+markerFile: [[Zeltingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

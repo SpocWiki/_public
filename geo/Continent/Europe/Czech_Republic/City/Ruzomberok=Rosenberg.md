@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruzomberok=Rosenberg
+coordinates: [[Ruzomberok=Rosenberg]]
+markerFile: [[Ruzomberok=Rosenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Umago
+coordinates: [[Umago]]
+markerFile: [[Umago]]
+defaultZoom: 11 
+maxZoom: 18
+```

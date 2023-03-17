@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jauer
+coordinates: [[Jauer]]
+markerFile: [[Jauer]]
+defaultZoom: 11 
+maxZoom: 18
+```

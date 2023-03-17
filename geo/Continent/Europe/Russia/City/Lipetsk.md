@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lipetsk
+coordinates: [[Lipetsk]]
+markerFile: [[Lipetsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

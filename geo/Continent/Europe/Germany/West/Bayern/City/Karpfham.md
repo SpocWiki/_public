@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.42,13.18]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karpfham
+coordinates: [[Karpfham]]
+markerFile: [[Karpfham]]
+defaultZoom: 11 
+maxZoom: 18
+```

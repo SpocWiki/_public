@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reinerz
+coordinates: [[Reinerz]]
+markerFile: [[Reinerz]]
+defaultZoom: 11 
+maxZoom: 18
+```

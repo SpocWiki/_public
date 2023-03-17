@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Holbaek
+coordinates: [[Holbaek]]
+markerFile: [[Holbaek]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kowel
+coordinates: [[Kowel]]
+markerFile: [[Kowel]]
+defaultZoom: 11 
+maxZoom: 18
+```

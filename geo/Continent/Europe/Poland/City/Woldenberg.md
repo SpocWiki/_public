@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Woldenberg
+coordinates: [[Woldenberg]]
+markerFile: [[Woldenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

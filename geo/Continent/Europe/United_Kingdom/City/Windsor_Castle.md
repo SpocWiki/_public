@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Windsor Castle
+coordinates: [[Windsor Castle]]
+markerFile: [[Windsor Castle]]
+defaultZoom: 11 
+maxZoom: 18
+```

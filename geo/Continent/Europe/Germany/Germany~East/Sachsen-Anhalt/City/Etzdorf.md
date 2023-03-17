@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Etzdorf
+coordinates: [[Etzdorf]]
+markerFile: [[Etzdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

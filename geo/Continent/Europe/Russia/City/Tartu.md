@@ -1,4 +1,4 @@
----
+﻿---
 location: [58.38,26.73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tartu
+coordinates: [[Tartu]]
+markerFile: [[Tartu]]
+defaultZoom: 11 
+maxZoom: 18
+```

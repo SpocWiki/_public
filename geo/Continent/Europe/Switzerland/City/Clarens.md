@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clarens
+coordinates: [[Clarens]]
+markerFile: [[Clarens]]
+defaultZoom: 11 
+maxZoom: 18
+```

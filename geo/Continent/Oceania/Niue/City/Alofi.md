@@ -1,4 +1,4 @@
----
+﻿---
 location: [-19.05887,-169.8754]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alofi
+coordinates: [[Alofi]]
+markerFile: [[Alofi]]
+defaultZoom: 11 
+maxZoom: 18
+```

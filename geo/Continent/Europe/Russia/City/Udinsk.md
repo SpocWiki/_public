@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Udinsk
+coordinates: [[Udinsk]]
+markerFile: [[Udinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

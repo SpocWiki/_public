@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boritz
+coordinates: [[Boritz]]
+markerFile: [[Boritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

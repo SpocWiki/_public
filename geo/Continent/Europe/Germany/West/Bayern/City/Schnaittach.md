@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schnaittach
+coordinates: [[Schnaittach]]
+markerFile: [[Schnaittach]]
+defaultZoom: 11 
+maxZoom: 18
+```

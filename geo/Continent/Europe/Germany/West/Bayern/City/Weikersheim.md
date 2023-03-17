@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.48,9.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weikersheim
+coordinates: [[Weikersheim]]
+markerFile: [[Weikersheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

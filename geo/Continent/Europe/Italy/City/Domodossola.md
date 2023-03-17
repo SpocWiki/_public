@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Domodossola
+coordinates: [[Domodossola]]
+markerFile: [[Domodossola]]
+defaultZoom: 11 
+maxZoom: 18
+```

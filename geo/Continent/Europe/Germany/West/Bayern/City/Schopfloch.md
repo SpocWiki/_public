@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schopfloch
+coordinates: [[Schopfloch]]
+markerFile: [[Schopfloch]]
+defaultZoom: 11 
+maxZoom: 18
+```

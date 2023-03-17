@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Biedenkopf
+coordinates: [[Biedenkopf]]
+markerFile: [[Biedenkopf]]
+defaultZoom: 11 
+maxZoom: 18
+```

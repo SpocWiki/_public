@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Macduff
+coordinates: [[Macduff]]
+markerFile: [[Macduff]]
+defaultZoom: 11 
+maxZoom: 18
+```

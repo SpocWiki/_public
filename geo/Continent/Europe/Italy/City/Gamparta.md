@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gamparta
+coordinates: [[Gamparta]]
+markerFile: [[Gamparta]]
+defaultZoom: 11 
+maxZoom: 18
+```

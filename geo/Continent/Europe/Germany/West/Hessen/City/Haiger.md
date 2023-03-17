@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haiger
+coordinates: [[Haiger]]
+markerFile: [[Haiger]]
+defaultZoom: 11 
+maxZoom: 18
+```

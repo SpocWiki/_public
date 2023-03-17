@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt~Oberschlesien
+coordinates: [[Neustadt~Oberschlesien]]
+markerFile: [[Neustadt~Oberschlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.47,1.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muret
+coordinates: [[Muret]]
+markerFile: [[Muret]]
+defaultZoom: 11 
+maxZoom: 18
+```

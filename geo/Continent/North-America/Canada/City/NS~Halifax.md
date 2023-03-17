@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: NS~Halifax
+coordinates: [[NS~Halifax]]
+markerFile: [[NS~Halifax]]
+defaultZoom: 11 
+maxZoom: 18
+```

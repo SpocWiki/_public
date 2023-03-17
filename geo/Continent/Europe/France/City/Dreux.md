@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dreux
+coordinates: [[Dreux]]
+markerFile: [[Dreux]]
+defaultZoom: 11 
+maxZoom: 18
+```

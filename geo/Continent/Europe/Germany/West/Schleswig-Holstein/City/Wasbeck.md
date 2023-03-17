@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.08,9.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wasbeck
+coordinates: [[Wasbeck]]
+markerFile: [[Wasbeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

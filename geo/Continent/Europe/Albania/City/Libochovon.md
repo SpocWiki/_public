@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Libochovon
+coordinates: [[Libochovon]]
+markerFile: [[Libochovon]]
+defaultZoom: 11 
+maxZoom: 18
+```

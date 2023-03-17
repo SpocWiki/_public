@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werchoturje
+coordinates: [[Werchoturje]]
+markerFile: [[Werchoturje]]
+defaultZoom: 11 
+maxZoom: 18
+```

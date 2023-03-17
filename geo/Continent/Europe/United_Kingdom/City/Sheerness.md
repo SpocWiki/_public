@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sheerness
+coordinates: [[Sheerness]]
+markerFile: [[Sheerness]]
+defaultZoom: 11 
+maxZoom: 18
+```

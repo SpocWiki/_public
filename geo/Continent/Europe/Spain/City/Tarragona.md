@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.1,1.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tarragona
+coordinates: [[Tarragona]]
+markerFile: [[Tarragona]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Gaudens
+coordinates: [[St.Gaudens]]
+markerFile: [[St.Gaudens]]
+defaultZoom: 11 
+maxZoom: 18
+```

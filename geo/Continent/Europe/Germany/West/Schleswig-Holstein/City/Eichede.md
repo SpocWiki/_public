@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eichede
+coordinates: [[Eichede]]
+markerFile: [[Eichede]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cervittela
+coordinates: [[Cervittela]]
+markerFile: [[Cervittela]]
+defaultZoom: 11 
+maxZoom: 18
+```

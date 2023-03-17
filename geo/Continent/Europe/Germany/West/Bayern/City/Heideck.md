@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heideck
+coordinates: [[Heideck]]
+markerFile: [[Heideck]]
+defaultZoom: 11 
+maxZoom: 18
+```

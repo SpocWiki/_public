@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grueneberg
+coordinates: [[Grueneberg]]
+markerFile: [[Grueneberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tovehult
+coordinates: [[Tovehult]]
+markerFile: [[Tovehult]]
+defaultZoom: 11 
+maxZoom: 18
+```

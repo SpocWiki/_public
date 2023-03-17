@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koschkow
+coordinates: [[Koschkow]]
+markerFile: [[Koschkow]]
+defaultZoom: 11 
+maxZoom: 18
+```

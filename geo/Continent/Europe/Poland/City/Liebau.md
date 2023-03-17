@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.72,16]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liebau
+coordinates: [[Liebau]]
+markerFile: [[Liebau]]
+defaultZoom: 11 
+maxZoom: 18
+```

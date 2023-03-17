@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hennen
+coordinates: [[Hennen]]
+markerFile: [[Hennen]]
+defaultZoom: 11 
+maxZoom: 18
+```

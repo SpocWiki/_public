@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedland/Schlesien
+coordinates: [[Friedland/Schlesien]]
+markerFile: [[Friedland/Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

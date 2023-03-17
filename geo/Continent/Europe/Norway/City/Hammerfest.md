@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hammerfest
+coordinates: [[Hammerfest]]
+markerFile: [[Hammerfest]]
+defaultZoom: 11 
+maxZoom: 18
+```

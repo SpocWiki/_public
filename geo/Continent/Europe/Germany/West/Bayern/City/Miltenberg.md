@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.7,9.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Miltenberg
+coordinates: [[Miltenberg]]
+markerFile: [[Miltenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

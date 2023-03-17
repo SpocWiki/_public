@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.7,13.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lund
+coordinates: [[Lund]]
+markerFile: [[Lund]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.52,2.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Espalion
+coordinates: [[Espalion]]
+markerFile: [[Espalion]]
+defaultZoom: 11 
+maxZoom: 18
+```

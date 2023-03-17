@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Misdroy
+coordinates: [[Misdroy]]
+markerFile: [[Misdroy]]
+defaultZoom: 11 
+maxZoom: 18
+```

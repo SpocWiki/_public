@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hartlieb
+coordinates: [[Hartlieb]]
+markerFile: [[Hartlieb]]
+defaultZoom: 11 
+maxZoom: 18
+```

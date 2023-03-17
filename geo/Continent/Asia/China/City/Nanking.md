@@ -1,4 +1,4 @@
----
+﻿---
 location: [32.05,118.78]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -19,3 +19,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nanking
+coordinates: [[Nanking]]
+markerFile: [[Nanking]]
+defaultZoom: 11 
+maxZoom: 18
+```

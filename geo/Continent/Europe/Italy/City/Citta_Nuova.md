@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Citta Nuova
+coordinates: [[Citta Nuova]]
+markerFile: [[Citta Nuova]]
+defaultZoom: 11 
+maxZoom: 18
+```

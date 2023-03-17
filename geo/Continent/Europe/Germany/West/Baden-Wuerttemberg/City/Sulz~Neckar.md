@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sulz~Neckar
+coordinates: [[Sulz~Neckar]]
+markerFile: [[Sulz~Neckar]]
+defaultZoom: 11 
+maxZoom: 18
+```

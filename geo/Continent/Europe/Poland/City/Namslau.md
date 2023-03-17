@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Namslau
+coordinates: [[Namslau]]
+markerFile: [[Namslau]]
+defaultZoom: 11 
+maxZoom: 18
+```

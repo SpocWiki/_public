@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Talamone
+coordinates: [[Talamone]]
+markerFile: [[Talamone]]
+defaultZoom: 11 
+maxZoom: 18
+```

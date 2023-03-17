@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.67,11.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigsee
+coordinates: [[Koenigsee]]
+markerFile: [[Koenigsee]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Armagh
+coordinates: [[Armagh]]
+markerFile: [[Armagh]]
+defaultZoom: 11 
+maxZoom: 18
+```

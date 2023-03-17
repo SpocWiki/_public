@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Irkutsk
+coordinates: [[Irkutsk]]
+markerFile: [[Irkutsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

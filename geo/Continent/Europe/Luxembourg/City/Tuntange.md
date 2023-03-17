@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tuntange
+coordinates: [[Tuntange]]
+markerFile: [[Tuntange]]
+defaultZoom: 11 
+maxZoom: 18
+```

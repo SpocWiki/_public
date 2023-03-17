@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klitzschen
+coordinates: [[Klitzschen]]
+markerFile: [[Klitzschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

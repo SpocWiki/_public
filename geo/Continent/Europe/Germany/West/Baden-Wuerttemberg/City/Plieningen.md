@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plieningen
+coordinates: [[Plieningen]]
+markerFile: [[Plieningen]]
+defaultZoom: 11 
+maxZoom: 18
+```

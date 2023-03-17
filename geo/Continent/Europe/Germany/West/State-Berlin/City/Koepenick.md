@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koepenick
+coordinates: [[Koepenick]]
+markerFile: [[Koepenick]]
+defaultZoom: 11 
+maxZoom: 18
+```

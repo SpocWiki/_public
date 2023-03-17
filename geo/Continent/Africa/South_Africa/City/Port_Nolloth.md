@@ -1,4 +1,4 @@
----
+﻿---
 location: [-29.33,16.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Port Nolloth
+coordinates: [[Port Nolloth]]
+markerFile: [[Port Nolloth]]
+defaultZoom: 11 
+maxZoom: 18
+```

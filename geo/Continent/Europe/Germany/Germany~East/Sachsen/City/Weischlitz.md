@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weischlitz
+coordinates: [[Weischlitz]]
+markerFile: [[Weischlitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

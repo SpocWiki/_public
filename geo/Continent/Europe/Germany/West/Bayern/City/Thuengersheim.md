@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thuengersheim
+coordinates: [[Thuengersheim]]
+markerFile: [[Thuengersheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

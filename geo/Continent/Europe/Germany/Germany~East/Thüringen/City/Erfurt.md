@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Erfurt
+coordinates: [[Erfurt]]
+markerFile: [[Erfurt]]
+defaultZoom: 11 
+maxZoom: 18
+```

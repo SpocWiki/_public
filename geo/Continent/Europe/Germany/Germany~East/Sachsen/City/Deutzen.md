@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deutzen
+coordinates: [[Deutzen]]
+markerFile: [[Deutzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

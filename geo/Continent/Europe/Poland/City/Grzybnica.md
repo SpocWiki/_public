@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grzybnica
+coordinates: [[Grzybnica]]
+markerFile: [[Grzybnica]]
+defaultZoom: 11 
+maxZoom: 18
+```

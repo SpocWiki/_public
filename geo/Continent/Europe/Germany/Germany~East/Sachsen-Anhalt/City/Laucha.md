@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.23,11.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laucha
+coordinates: [[Laucha]]
+markerFile: [[Laucha]]
+defaultZoom: 11 
+maxZoom: 18
+```

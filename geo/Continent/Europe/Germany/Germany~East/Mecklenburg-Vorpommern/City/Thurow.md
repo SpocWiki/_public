@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thurow
+coordinates: [[Thurow]]
+markerFile: [[Thurow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jessnitz~Lausitz
+coordinates: [[Jessnitz~Lausitz]]
+markerFile: [[Jessnitz~Lausitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

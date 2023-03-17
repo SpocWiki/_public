@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Ischl
+coordinates: [[Bad Ischl]]
+markerFile: [[Bad Ischl]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jumet
+coordinates: [[Jumet]]
+markerFile: [[Jumet]]
+defaultZoom: 11 
+maxZoom: 18
+```

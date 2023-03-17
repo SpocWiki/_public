@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alba-Julia
+coordinates: [[Alba-Julia]]
+markerFile: [[Alba-Julia]]
+defaultZoom: 11 
+maxZoom: 18
+```

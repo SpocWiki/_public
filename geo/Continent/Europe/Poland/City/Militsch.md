@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Militsch
+coordinates: [[Militsch]]
+markerFile: [[Militsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

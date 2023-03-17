@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arad
+coordinates: [[Arad]]
+markerFile: [[Arad]]
+defaultZoom: 11 
+maxZoom: 18
+```

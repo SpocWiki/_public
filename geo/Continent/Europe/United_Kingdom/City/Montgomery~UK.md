@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montgomery~UK
+coordinates: [[Montgomery~UK]]
+markerFile: [[Montgomery~UK]]
+defaultZoom: 11 
+maxZoom: 18
+```

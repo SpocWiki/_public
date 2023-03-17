@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saelskaer
+coordinates: [[Saelskaer]]
+markerFile: [[Saelskaer]]
+defaultZoom: 11 
+maxZoom: 18
+```

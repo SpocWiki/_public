@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goetlunda
+coordinates: [[Goetlunda]]
+markerFile: [[Goetlunda]]
+defaultZoom: 11 
+maxZoom: 18
+```

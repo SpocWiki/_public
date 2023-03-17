@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weisskirchen
+coordinates: [[Weisskirchen]]
+markerFile: [[Weisskirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

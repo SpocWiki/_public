@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cosenza
+coordinates: [[Cosenza]]
+markerFile: [[Cosenza]]
+defaultZoom: 11 
+maxZoom: 18
+```

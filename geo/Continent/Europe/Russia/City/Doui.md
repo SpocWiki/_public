@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.83,142.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doui
+coordinates: [[Doui]]
+markerFile: [[Doui]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zwolle
+coordinates: [[Zwolle]]
+markerFile: [[Zwolle]]
+defaultZoom: 11 
+maxZoom: 18
+```

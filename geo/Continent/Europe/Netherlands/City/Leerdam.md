@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leerdam
+coordinates: [[Leerdam]]
+markerFile: [[Leerdam]]
+defaultZoom: 11 
+maxZoom: 18
+```

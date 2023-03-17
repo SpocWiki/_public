@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Penns Grove
+coordinates: [[Penns Grove]]
+markerFile: [[Penns Grove]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Esztergom
+coordinates: [[Esztergom]]
+markerFile: [[Esztergom]]
+defaultZoom: 11 
+maxZoom: 18
+```

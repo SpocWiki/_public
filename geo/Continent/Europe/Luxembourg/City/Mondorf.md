@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mondorf
+coordinates: [[Mondorf]]
+markerFile: [[Mondorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

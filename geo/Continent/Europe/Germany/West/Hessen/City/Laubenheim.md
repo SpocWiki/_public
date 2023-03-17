@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laubenheim
+coordinates: [[Laubenheim]]
+markerFile: [[Laubenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

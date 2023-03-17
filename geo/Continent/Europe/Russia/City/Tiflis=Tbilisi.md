@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tiflis=Tbilisi
+coordinates: [[Tiflis=Tbilisi]]
+markerFile: [[Tiflis=Tbilisi]]
+defaultZoom: 11 
+maxZoom: 18
+```

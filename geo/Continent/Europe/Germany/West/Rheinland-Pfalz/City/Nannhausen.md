@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nannhausen
+coordinates: [[Nannhausen]]
+markerFile: [[Nannhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

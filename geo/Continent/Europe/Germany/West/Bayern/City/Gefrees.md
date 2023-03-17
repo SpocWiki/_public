@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gefrees
+coordinates: [[Gefrees]]
+markerFile: [[Gefrees]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [58.43,8.95]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tromoe
+coordinates: [[Tromoe]]
+markerFile: [[Tromoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

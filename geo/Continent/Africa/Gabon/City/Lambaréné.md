@@ -1,4 +1,4 @@
----
+﻿---
 location: [-0.688333,10.2319]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lambaréné
+coordinates: [[Lambaréné]]
+markerFile: [[Lambaréné]]
+defaultZoom: 11 
+maxZoom: 18
+```

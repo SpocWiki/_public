@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pfullingen
+coordinates: [[Pfullingen]]
+markerFile: [[Pfullingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

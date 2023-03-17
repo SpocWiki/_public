@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gymnich
+coordinates: [[Gymnich]]
+markerFile: [[Gymnich]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paimio
+coordinates: [[Paimio]]
+markerFile: [[Paimio]]
+defaultZoom: 11 
+maxZoom: 18
+```

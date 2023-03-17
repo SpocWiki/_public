@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saarbruecken
+coordinates: [[Saarbruecken]]
+markerFile: [[Saarbruecken]]
+defaultZoom: 11 
+maxZoom: 18
+```

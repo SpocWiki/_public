@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bhopal
+coordinates: [[Bhopal]]
+markerFile: [[Bhopal]]
+defaultZoom: 11 
+maxZoom: 18
+```

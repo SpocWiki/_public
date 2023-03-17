@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tupelo
+coordinates: [[Tupelo]]
+markerFile: [[Tupelo]]
+defaultZoom: 11 
+maxZoom: 18
+```

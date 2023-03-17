@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sagard
+coordinates: [[Sagard]]
+markerFile: [[Sagard]]
+defaultZoom: 11 
+maxZoom: 18
+```

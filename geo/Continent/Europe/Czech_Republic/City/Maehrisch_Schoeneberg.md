@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maehrisch Schoeneberg
+coordinates: [[Maehrisch Schoeneberg]]
+markerFile: [[Maehrisch Schoeneberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

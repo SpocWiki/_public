@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scheessel
+coordinates: [[Scheessel]]
+markerFile: [[Scheessel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rouen
+coordinates: [[Rouen]]
+markerFile: [[Rouen]]
+defaultZoom: 11 
+maxZoom: 18
+```

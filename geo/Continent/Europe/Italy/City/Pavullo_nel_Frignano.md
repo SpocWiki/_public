@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pavullo nel Frignano
+coordinates: [[Pavullo nel Frignano]]
+markerFile: [[Pavullo nel Frignano]]
+defaultZoom: 11 
+maxZoom: 18
+```

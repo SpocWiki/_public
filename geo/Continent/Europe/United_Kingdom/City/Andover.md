@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Andover
+coordinates: [[Andover]]
+markerFile: [[Andover]]
+defaultZoom: 11 
+maxZoom: 18
+```

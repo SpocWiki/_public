@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Londonderry
+coordinates: [[Londonderry]]
+markerFile: [[Londonderry]]
+defaultZoom: 11 
+maxZoom: 18
+```

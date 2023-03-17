@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kellinghusen
+coordinates: [[Kellinghusen]]
+markerFile: [[Kellinghusen]]
+defaultZoom: 11 
+maxZoom: 18
+```

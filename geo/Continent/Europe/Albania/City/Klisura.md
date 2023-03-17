@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klisura
+coordinates: [[Klisura]]
+markerFile: [[Klisura]]
+defaultZoom: 11 
+maxZoom: 18
+```

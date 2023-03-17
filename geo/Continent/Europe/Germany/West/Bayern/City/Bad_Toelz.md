@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Toelz
+coordinates: [[Bad Toelz]]
+markerFile: [[Bad Toelz]]
+defaultZoom: 11 
+maxZoom: 18
+```

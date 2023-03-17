@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Mathieu
+coordinates: [[St.Mathieu]]
+markerFile: [[St.Mathieu]]
+defaultZoom: 11 
+maxZoom: 18
+```

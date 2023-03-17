@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soroka=Belomorsk
+coordinates: [[Soroka=Belomorsk]]
+markerFile: [[Soroka=Belomorsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

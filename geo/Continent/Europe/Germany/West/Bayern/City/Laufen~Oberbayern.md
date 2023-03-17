@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.93,12.93]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laufen~Oberbayern
+coordinates: [[Laufen~Oberbayern]]
+markerFile: [[Laufen~Oberbayern]]
+defaultZoom: 11 
+maxZoom: 18
+```

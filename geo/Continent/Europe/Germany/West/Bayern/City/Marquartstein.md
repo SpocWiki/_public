@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.75,12.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marquartstein
+coordinates: [[Marquartstein]]
+markerFile: [[Marquartstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

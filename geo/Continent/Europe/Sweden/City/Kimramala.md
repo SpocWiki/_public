@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kimramala
+coordinates: [[Kimramala]]
+markerFile: [[Kimramala]]
+defaultZoom: 11 
+maxZoom: 18
+```

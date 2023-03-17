@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skrunda
+coordinates: [[Skrunda]]
+markerFile: [[Skrunda]]
+defaultZoom: 11 
+maxZoom: 18
+```

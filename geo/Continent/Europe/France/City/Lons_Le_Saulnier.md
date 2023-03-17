@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lons Le Saulnier
+coordinates: [[Lons Le Saulnier]]
+markerFile: [[Lons Le Saulnier]]
+defaultZoom: 11 
+maxZoom: 18
+```

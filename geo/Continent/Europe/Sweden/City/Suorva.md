@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Suorva
+coordinates: [[Suorva]]
+markerFile: [[Suorva]]
+defaultZoom: 11 
+maxZoom: 18
+```

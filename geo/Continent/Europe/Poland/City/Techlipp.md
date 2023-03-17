@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Techlipp
+coordinates: [[Techlipp]]
+markerFile: [[Techlipp]]
+defaultZoom: 11 
+maxZoom: 18
+```

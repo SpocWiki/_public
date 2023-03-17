@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hedwigsschacht
+coordinates: [[Hedwigsschacht]]
+markerFile: [[Hedwigsschacht]]
+defaultZoom: 11 
+maxZoom: 18
+```

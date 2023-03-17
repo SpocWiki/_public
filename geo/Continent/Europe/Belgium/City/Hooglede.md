@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hooglede
+coordinates: [[Hooglede]]
+markerFile: [[Hooglede]]
+defaultZoom: 11 
+maxZoom: 18
+```

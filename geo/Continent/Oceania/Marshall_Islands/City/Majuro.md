@@ -1,4 +1,4 @@
----
+﻿---
 location: [7.116667,171.3667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Majuro
+coordinates: [[Majuro]]
+markerFile: [[Majuro]]
+defaultZoom: 11 
+maxZoom: 18
+```

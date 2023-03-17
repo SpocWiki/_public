@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Westkirchen
+coordinates: [[Westkirchen]]
+markerFile: [[Westkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

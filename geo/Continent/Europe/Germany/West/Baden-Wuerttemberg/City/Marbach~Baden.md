@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marbach~Baden
+coordinates: [[Marbach~Baden]]
+markerFile: [[Marbach~Baden]]
+defaultZoom: 11 
+maxZoom: 18
+```

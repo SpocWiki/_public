@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muennerstadt
+coordinates: [[Muennerstadt]]
+markerFile: [[Muennerstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

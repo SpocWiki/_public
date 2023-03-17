@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loehne
+coordinates: [[Loehne]]
+markerFile: [[Loehne]]
+defaultZoom: 11 
+maxZoom: 18
+```

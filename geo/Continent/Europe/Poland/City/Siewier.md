@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.47,19.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siewier
+coordinates: [[Siewier]]
+markerFile: [[Siewier]]
+defaultZoom: 11 
+maxZoom: 18
+```

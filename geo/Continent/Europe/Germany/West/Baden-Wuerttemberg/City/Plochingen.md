@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plochingen
+coordinates: [[Plochingen]]
+markerFile: [[Plochingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

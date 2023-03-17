@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kupferzell
+coordinates: [[Kupferzell]]
+markerFile: [[Kupferzell]]
+defaultZoom: 11 
+maxZoom: 18
+```

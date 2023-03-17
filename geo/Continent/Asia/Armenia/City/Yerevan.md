@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.18,44.51667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yerevan
+coordinates: [[Yerevan]]
+markerFile: [[Yerevan]]
+defaultZoom: 11 
+maxZoom: 18
+```

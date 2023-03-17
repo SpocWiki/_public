@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falmouth
+coordinates: [[Falmouth]]
+markerFile: [[Falmouth]]
+defaultZoom: 11 
+maxZoom: 18
+```

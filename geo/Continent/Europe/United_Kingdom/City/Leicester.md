@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leicester
+coordinates: [[Leicester]]
+markerFile: [[Leicester]]
+defaultZoom: 11 
+maxZoom: 18
+```

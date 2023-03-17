@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rehau
+coordinates: [[Rehau]]
+markerFile: [[Rehau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altenbruch
+coordinates: [[Altenbruch]]
+markerFile: [[Altenbruch]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strugnango
+coordinates: [[Strugnango]]
+markerFile: [[Strugnango]]
+defaultZoom: 11 
+maxZoom: 18
+```

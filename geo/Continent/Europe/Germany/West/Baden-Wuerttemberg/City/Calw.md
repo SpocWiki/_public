@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Calw
+coordinates: [[Calw]]
+markerFile: [[Calw]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karkeln
+coordinates: [[Karkeln]]
+markerFile: [[Karkeln]]
+defaultZoom: 11 
+maxZoom: 18
+```

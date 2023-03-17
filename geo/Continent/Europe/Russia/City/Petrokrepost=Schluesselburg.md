@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petrokrepost=Schluesselburg
+coordinates: [[Petrokrepost=Schluesselburg]]
+markerFile: [[Petrokrepost=Schluesselburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

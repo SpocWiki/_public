@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muenchhausen
+coordinates: [[Muenchhausen]]
+markerFile: [[Muenchhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Struckum
+coordinates: [[Struckum]]
+markerFile: [[Struckum]]
+defaultZoom: 11 
+maxZoom: 18
+```

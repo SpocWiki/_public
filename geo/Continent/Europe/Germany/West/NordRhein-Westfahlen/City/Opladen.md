@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Opladen
+coordinates: [[Opladen]]
+markerFile: [[Opladen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chivasso
+coordinates: [[Chivasso]]
+markerFile: [[Chivasso]]
+defaultZoom: 11 
+maxZoom: 18
+```

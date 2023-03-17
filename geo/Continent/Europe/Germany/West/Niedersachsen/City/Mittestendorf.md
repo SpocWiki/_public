@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.95,9.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -24,3 +24,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mittestendorf
+coordinates: [[Mittestendorf]]
+markerFile: [[Mittestendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

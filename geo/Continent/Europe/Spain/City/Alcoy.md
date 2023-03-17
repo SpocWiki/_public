@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alcoy
+coordinates: [[Alcoy]]
+markerFile: [[Alcoy]]
+defaultZoom: 11 
+maxZoom: 18
+```

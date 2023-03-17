@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landsberg~Schlesien
+coordinates: [[Landsberg~Schlesien]]
+markerFile: [[Landsberg~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

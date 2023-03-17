@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valencia
+coordinates: [[Valencia]]
+markerFile: [[Valencia]]
+defaultZoom: 11 
+maxZoom: 18
+```

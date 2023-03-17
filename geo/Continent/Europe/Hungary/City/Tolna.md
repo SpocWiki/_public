@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tolna
+coordinates: [[Tolna]]
+markerFile: [[Tolna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tukumus
+coordinates: [[Tukumus]]
+markerFile: [[Tukumus]]
+defaultZoom: 11 
+maxZoom: 18
+```

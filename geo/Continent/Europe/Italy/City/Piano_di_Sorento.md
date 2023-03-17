@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Piano di Sorento
+coordinates: [[Piano di Sorento]]
+markerFile: [[Piano di Sorento]]
+defaultZoom: 11 
+maxZoom: 18
+```

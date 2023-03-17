@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glindow
+coordinates: [[Glindow]]
+markerFile: [[Glindow]]
+defaultZoom: 11 
+maxZoom: 18
+```

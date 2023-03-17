@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bayreuth
+coordinates: [[Bayreuth]]
+markerFile: [[Bayreuth]]
+defaultZoom: 11 
+maxZoom: 18
+```

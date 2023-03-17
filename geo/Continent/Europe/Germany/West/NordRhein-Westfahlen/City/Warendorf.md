@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warendorf
+coordinates: [[Warendorf]]
+markerFile: [[Warendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

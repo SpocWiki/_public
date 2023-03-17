@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Virolahti
+coordinates: [[Virolahti]]
+markerFile: [[Virolahti]]
+defaultZoom: 11 
+maxZoom: 18
+```

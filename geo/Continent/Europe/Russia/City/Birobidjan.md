@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.8,132.95]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Birobidjan
+coordinates: [[Birobidjan]]
+markerFile: [[Birobidjan]]
+defaultZoom: 11 
+maxZoom: 18
+```

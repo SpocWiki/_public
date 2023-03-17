@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaederoebo
+coordinates: [[Vaederoebo]]
+markerFile: [[Vaederoebo]]
+defaultZoom: 11 
+maxZoom: 18
+```

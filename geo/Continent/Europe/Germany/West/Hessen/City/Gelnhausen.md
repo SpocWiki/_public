@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gelnhausen
+coordinates: [[Gelnhausen]]
+markerFile: [[Gelnhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

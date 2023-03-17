@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paderborn
+coordinates: [[Paderborn]]
+markerFile: [[Paderborn]]
+defaultZoom: 11 
+maxZoom: 18
+```

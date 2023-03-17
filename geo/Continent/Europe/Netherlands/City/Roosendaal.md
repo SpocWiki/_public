@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roosendaal
+coordinates: [[Roosendaal]]
+markerFile: [[Roosendaal]]
+defaultZoom: 11 
+maxZoom: 18
+```

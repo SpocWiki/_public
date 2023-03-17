@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gabel
+coordinates: [[Gabel]]
+markerFile: [[Gabel]]
+defaultZoom: 11 
+maxZoom: 18
+```

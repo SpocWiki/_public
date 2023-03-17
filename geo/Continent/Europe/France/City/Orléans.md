@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orléans
+coordinates: [[Orléans]]
+markerFile: [[Orléans]]
+defaultZoom: 11 
+maxZoom: 18
+```

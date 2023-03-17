@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jasnitz
+coordinates: [[Jasnitz]]
+markerFile: [[Jasnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

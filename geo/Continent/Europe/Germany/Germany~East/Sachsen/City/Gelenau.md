@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gelenau
+coordinates: [[Gelenau]]
+markerFile: [[Gelenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.73,41.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tamhof
+coordinates: [[Tamhof]]
+markerFile: [[Tamhof]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pillau
+coordinates: [[Pillau]]
+markerFile: [[Pillau]]
+defaultZoom: 11 
+maxZoom: 18
+```

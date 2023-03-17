@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.07,11.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lanz
+coordinates: [[Lanz]]
+markerFile: [[Lanz]]
+defaultZoom: 11 
+maxZoom: 18
+```

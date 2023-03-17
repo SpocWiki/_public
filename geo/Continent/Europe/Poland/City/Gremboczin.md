@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gremboczin
+coordinates: [[Gremboczin]]
+markerFile: [[Gremboczin]]
+defaultZoom: 11 
+maxZoom: 18
+```

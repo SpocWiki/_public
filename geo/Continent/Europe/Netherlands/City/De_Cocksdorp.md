@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: De Cocksdorp
+coordinates: [[De Cocksdorp]]
+markerFile: [[De Cocksdorp]]
+defaultZoom: 11 
+maxZoom: 18
+```

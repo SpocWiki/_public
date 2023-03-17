@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.62,8.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Varde
+coordinates: [[Varde]]
+markerFile: [[Varde]]
+defaultZoom: 11 
+maxZoom: 18
+```

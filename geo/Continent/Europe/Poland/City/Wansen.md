@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wansen
+coordinates: [[Wansen]]
+markerFile: [[Wansen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.47,16.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Exau
+coordinates: [[Exau]]
+markerFile: [[Exau]]
+defaultZoom: 11 
+maxZoom: 18
+```

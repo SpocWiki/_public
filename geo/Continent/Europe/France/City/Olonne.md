@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Olonne
+coordinates: [[Olonne]]
+markerFile: [[Olonne]]
+defaultZoom: 11 
+maxZoom: 18
+```

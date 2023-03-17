@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rothenkirchen
+coordinates: [[Rothenkirchen]]
+markerFile: [[Rothenkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prats-de-Mollo
+coordinates: [[Prats-de-Mollo]]
+markerFile: [[Prats-de-Mollo]]
+defaultZoom: 11 
+maxZoom: 18
+```

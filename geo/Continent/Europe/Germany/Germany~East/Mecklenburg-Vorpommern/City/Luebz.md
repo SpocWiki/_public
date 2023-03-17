@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luebz
+coordinates: [[Luebz]]
+markerFile: [[Luebz]]
+defaultZoom: 11 
+maxZoom: 18
+```

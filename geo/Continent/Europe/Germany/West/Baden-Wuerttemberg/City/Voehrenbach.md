@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Voehrenbach
+coordinates: [[Voehrenbach]]
+markerFile: [[Voehrenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

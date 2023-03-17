@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malmsheim
+coordinates: [[Malmsheim]]
+markerFile: [[Malmsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

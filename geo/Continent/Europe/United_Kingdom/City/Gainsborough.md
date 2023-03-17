@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gainsborough
+coordinates: [[Gainsborough]]
+markerFile: [[Gainsborough]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uzbekskaja
+coordinates: [[Uzbekskaja]]
+markerFile: [[Uzbekskaja]]
+defaultZoom: 11 
+maxZoom: 18
+```

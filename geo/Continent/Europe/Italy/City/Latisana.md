@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Latisana
+coordinates: [[Latisana]]
+markerFile: [[Latisana]]
+defaultZoom: 11 
+maxZoom: 18
+```

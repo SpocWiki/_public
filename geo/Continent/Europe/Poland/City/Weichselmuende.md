@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weichselmuende
+coordinates: [[Weichselmuende]]
+markerFile: [[Weichselmuende]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merzdorf
+coordinates: [[Merzdorf]]
+markerFile: [[Merzdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Renchen
+coordinates: [[Renchen]]
+markerFile: [[Renchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

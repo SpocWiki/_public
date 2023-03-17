@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.05,12.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zeitz
+coordinates: [[Zeitz]]
+markerFile: [[Zeitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

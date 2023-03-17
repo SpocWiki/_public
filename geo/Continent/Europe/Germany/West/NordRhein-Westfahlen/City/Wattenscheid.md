@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wattenscheid
+coordinates: [[Wattenscheid]]
+markerFile: [[Wattenscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

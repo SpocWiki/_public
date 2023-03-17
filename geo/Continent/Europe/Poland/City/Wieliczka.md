@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wieliczka
+coordinates: [[Wieliczka]]
+markerFile: [[Wieliczka]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sabadell
+coordinates: [[Sabadell]]
+markerFile: [[Sabadell]]
+defaultZoom: 11 
+maxZoom: 18
+```

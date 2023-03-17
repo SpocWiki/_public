@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Palos
+coordinates: [[Palos]]
+markerFile: [[Palos]]
+defaultZoom: 11 
+maxZoom: 18
+```

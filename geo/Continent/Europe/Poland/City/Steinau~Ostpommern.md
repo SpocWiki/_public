@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steinau~Ostpommern
+coordinates: [[Steinau~Ostpommern]]
+markerFile: [[Steinau~Ostpommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

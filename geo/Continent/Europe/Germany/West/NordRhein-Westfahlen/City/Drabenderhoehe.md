@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Drabenderhoehe
+coordinates: [[Drabenderhoehe]]
+markerFile: [[Drabenderhoehe]]
+defaultZoom: 11 
+maxZoom: 18
+```

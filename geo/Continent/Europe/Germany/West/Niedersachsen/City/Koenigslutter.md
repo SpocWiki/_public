@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigslutter
+coordinates: [[Koenigslutter]]
+markerFile: [[Koenigslutter]]
+defaultZoom: 11 
+maxZoom: 18
+```

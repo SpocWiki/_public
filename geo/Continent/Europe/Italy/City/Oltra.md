@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oltra
+coordinates: [[Oltra]]
+markerFile: [[Oltra]]
+defaultZoom: 11 
+maxZoom: 18
+```

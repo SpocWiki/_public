@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Santa Fe
+coordinates: [[Santa Fe]]
+markerFile: [[Santa Fe]]
+defaultZoom: 11 
+maxZoom: 18
+```

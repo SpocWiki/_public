@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Magas
+coordinates: [[Magas]]
+markerFile: [[Magas]]
+defaultZoom: 11 
+maxZoom: 18
+```

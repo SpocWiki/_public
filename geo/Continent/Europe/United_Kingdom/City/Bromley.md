@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bromley
+coordinates: [[Bromley]]
+markerFile: [[Bromley]]
+defaultZoom: 11 
+maxZoom: 18
+```

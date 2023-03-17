@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peitschendorf
+coordinates: [[Peitschendorf]]
+markerFile: [[Peitschendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.17,8.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Locarno
+coordinates: [[Locarno]]
+markerFile: [[Locarno]]
+defaultZoom: 11 
+maxZoom: 18
+```

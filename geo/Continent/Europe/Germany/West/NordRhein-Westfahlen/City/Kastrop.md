@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.55,7.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kastrop
+coordinates: [[Kastrop]]
+markerFile: [[Kastrop]]
+defaultZoom: 11 
+maxZoom: 18
+```

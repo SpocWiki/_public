@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wiesenthau
+coordinates: [[Wiesenthau]]
+markerFile: [[Wiesenthau]]
+defaultZoom: 11 
+maxZoom: 18
+```

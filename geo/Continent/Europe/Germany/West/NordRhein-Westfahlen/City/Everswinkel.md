@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Everswinkel
+coordinates: [[Everswinkel]]
+markerFile: [[Everswinkel]]
+defaultZoom: 11 
+maxZoom: 18
+```

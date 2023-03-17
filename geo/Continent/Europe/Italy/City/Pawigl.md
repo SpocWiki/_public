@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pawigl
+coordinates: [[Pawigl]]
+markerFile: [[Pawigl]]
+defaultZoom: 11 
+maxZoom: 18
+```

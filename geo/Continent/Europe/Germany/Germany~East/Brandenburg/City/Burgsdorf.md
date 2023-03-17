@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burgsdorf
+coordinates: [[Burgsdorf]]
+markerFile: [[Burgsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

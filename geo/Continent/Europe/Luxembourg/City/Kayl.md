@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kayl
+coordinates: [[Kayl]]
+markerFile: [[Kayl]]
+defaultZoom: 11 
+maxZoom: 18
+```

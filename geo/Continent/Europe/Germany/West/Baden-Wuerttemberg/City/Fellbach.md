@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fellbach
+coordinates: [[Fellbach]]
+markerFile: [[Fellbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

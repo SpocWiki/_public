@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vervins
+coordinates: [[Vervins]]
+markerFile: [[Vervins]]
+defaultZoom: 11 
+maxZoom: 18
+```

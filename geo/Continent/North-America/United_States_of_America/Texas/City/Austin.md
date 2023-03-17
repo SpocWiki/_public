@@ -1,4 +1,4 @@
----
+﻿---
 location: [30.25,-97.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Austin
+coordinates: [[Austin]]
+markerFile: [[Austin]]
+defaultZoom: 11 
+maxZoom: 18
+```

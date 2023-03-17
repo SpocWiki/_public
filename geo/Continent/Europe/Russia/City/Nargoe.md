@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nargoe
+coordinates: [[Nargoe]]
+markerFile: [[Nargoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

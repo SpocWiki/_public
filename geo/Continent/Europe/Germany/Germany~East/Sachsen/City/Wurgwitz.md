@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wurgwitz
+coordinates: [[Wurgwitz]]
+markerFile: [[Wurgwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

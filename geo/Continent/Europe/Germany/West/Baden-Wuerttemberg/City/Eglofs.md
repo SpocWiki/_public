@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eglofs
+coordinates: [[Eglofs]]
+markerFile: [[Eglofs]]
+defaultZoom: 11 
+maxZoom: 18
+```

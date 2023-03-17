@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergheim~Dillingen
+coordinates: [[Bergheim~Dillingen]]
+markerFile: [[Bergheim~Dillingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

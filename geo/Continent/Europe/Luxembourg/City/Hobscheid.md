@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hobscheid
+coordinates: [[Hobscheid]]
+markerFile: [[Hobscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

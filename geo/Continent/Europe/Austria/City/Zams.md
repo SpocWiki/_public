@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zams
+coordinates: [[Zams]]
+markerFile: [[Zams]]
+defaultZoom: 11 
+maxZoom: 18
+```

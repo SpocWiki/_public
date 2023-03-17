@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hardingen
+coordinates: [[Hardingen]]
+markerFile: [[Hardingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

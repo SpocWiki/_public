@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haiterbach
+coordinates: [[Haiterbach]]
+markerFile: [[Haiterbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

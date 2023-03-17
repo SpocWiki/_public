@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaunas=Kowno
+coordinates: [[Kaunas=Kowno]]
+markerFile: [[Kaunas=Kowno]]
+defaultZoom: 11 
+maxZoom: 18
+```

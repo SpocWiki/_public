@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jaispitz
+coordinates: [[Jaispitz]]
+markerFile: [[Jaispitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Homberg~Niederrhein
+coordinates: [[Homberg~Niederrhein]]
+markerFile: [[Homberg~Niederrhein]]
+defaultZoom: 11 
+maxZoom: 18
+```

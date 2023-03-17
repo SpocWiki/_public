@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ullersdorf
+coordinates: [[Ullersdorf]]
+markerFile: [[Ullersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

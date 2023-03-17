@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heiligenloh
+coordinates: [[Heiligenloh]]
+markerFile: [[Heiligenloh]]
+defaultZoom: 11 
+maxZoom: 18
+```

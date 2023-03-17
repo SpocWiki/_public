@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Breitenberg
+coordinates: [[Breitenberg]]
+markerFile: [[Breitenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lugo
+coordinates: [[Lugo]]
+markerFile: [[Lugo]]
+defaultZoom: 11 
+maxZoom: 18
+```

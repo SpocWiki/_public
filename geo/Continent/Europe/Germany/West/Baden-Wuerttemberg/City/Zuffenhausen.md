@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zuffenhausen
+coordinates: [[Zuffenhausen]]
+markerFile: [[Zuffenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

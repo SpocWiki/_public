@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eisental
+coordinates: [[Eisental]]
+markerFile: [[Eisental]]
+defaultZoom: 11 
+maxZoom: 18
+```

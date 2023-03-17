@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gueglingen
+coordinates: [[Gueglingen]]
+markerFile: [[Gueglingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

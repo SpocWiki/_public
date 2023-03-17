@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falkensthal
+coordinates: [[Falkensthal]]
+markerFile: [[Falkensthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

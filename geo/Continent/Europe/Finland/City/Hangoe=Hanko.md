@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hangoe=Hanko
+coordinates: [[Hangoe=Hanko]]
+markerFile: [[Hangoe=Hanko]]
+defaultZoom: 11 
+maxZoom: 18
+```

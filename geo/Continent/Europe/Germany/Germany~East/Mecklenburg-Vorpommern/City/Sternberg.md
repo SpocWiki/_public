@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.72,11.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sternberg
+coordinates: [[Sternberg]]
+markerFile: [[Sternberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

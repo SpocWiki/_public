@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dubrovnik
+coordinates: [[Dubrovnik]]
+markerFile: [[Dubrovnik]]
+defaultZoom: 11 
+maxZoom: 18
+```

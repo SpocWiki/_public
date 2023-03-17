@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bernkastel
+coordinates: [[Bernkastel]]
+markerFile: [[Bernkastel]]
+defaultZoom: 11 
+maxZoom: 18
+```

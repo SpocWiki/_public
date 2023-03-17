@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pisino
+coordinates: [[Pisino]]
+markerFile: [[Pisino]]
+defaultZoom: 11 
+maxZoom: 18
+```

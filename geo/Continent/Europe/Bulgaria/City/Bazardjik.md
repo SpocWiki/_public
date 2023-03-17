@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bazardjik
+coordinates: [[Bazardjik]]
+markerFile: [[Bazardjik]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belrock
+coordinates: [[Belrock]]
+markerFile: [[Belrock]]
+defaultZoom: 11 
+maxZoom: 18
+```

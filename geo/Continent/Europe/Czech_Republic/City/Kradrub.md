@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kradrub
+coordinates: [[Kradrub]]
+markerFile: [[Kradrub]]
+defaultZoom: 11 
+maxZoom: 18
+```

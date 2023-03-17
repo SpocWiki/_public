@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beuthen/Oder
+coordinates: [[Beuthen/Oder]]
+markerFile: [[Beuthen/Oder]]
+defaultZoom: 11 
+maxZoom: 18
+```

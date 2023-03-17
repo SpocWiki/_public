@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soestdijk
+coordinates: [[Soestdijk]]
+markerFile: [[Soestdijk]]
+defaultZoom: 11 
+maxZoom: 18
+```

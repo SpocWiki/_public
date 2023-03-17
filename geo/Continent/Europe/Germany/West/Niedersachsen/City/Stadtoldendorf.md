@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stadtoldendorf
+coordinates: [[Stadtoldendorf]]
+markerFile: [[Stadtoldendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

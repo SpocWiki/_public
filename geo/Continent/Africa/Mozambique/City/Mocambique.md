@@ -1,4 +1,4 @@
----
+﻿---
 location: [-18.25,35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mocambique
+coordinates: [[Mocambique]]
+markerFile: [[Mocambique]]
+defaultZoom: 11 
+maxZoom: 18
+```

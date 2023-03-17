@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marienwerder
+coordinates: [[Marienwerder]]
+markerFile: [[Marienwerder]]
+defaultZoom: 11 
+maxZoom: 18
+```

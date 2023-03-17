@@ -1,4 +1,4 @@
----
+﻿---
 location: [4.166667,73.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Malé
+coordinates: [[Malé]]
+markerFile: [[Malé]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Senftenberg
+coordinates: [[Senftenberg]]
+markerFile: [[Senftenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

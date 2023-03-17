@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abbas-Tourmau
+coordinates: [[Abbas-Tourmau]]
+markerFile: [[Abbas-Tourmau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Minsk
+coordinates: [[Minsk]]
+markerFile: [[Minsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

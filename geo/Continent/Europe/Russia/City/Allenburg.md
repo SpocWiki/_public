@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Allenburg
+coordinates: [[Allenburg]]
+markerFile: [[Allenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

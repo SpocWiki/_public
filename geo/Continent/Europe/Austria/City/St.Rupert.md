@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Rupert
+coordinates: [[St.Rupert]]
+markerFile: [[St.Rupert]]
+defaultZoom: 11 
+maxZoom: 18
+```

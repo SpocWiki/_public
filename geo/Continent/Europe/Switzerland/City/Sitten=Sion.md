@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sitten=Sion
+coordinates: [[Sitten=Sion]]
+markerFile: [[Sitten=Sion]]
+defaultZoom: 11 
+maxZoom: 18
+```

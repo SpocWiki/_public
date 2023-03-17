@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Derby
+coordinates: [[Derby]]
+markerFile: [[Derby]]
+defaultZoom: 11 
+maxZoom: 18
+```

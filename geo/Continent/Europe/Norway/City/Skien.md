@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skien
+coordinates: [[Skien]]
+markerFile: [[Skien]]
+defaultZoom: 11 
+maxZoom: 18
+```

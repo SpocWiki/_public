@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Groefenthal
+coordinates: [[Groefenthal]]
+markerFile: [[Groefenthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

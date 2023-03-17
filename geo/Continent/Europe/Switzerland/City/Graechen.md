@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Graechen
+coordinates: [[Graechen]]
+markerFile: [[Graechen]]
+defaultZoom: 11 
+maxZoom: 18
+```

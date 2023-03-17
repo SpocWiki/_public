@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maniaw
+coordinates: [[Maniaw]]
+markerFile: [[Maniaw]]
+defaultZoom: 11 
+maxZoom: 18
+```

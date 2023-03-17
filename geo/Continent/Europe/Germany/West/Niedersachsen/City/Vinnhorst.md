@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vinnhorst
+coordinates: [[Vinnhorst]]
+markerFile: [[Vinnhorst]]
+defaultZoom: 11 
+maxZoom: 18
+```

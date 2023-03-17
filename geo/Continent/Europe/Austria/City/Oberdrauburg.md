@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberdrauburg
+coordinates: [[Oberdrauburg]]
+markerFile: [[Oberdrauburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

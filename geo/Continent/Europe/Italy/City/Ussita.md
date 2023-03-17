@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ussita
+coordinates: [[Ussita]]
+markerFile: [[Ussita]]
+defaultZoom: 11 
+maxZoom: 18
+```

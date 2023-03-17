@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Branna
+coordinates: [[Branna]]
+markerFile: [[Branna]]
+defaultZoom: 11 
+maxZoom: 18
+```

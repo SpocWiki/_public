@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greenock
+coordinates: [[Greenock]]
+markerFile: [[Greenock]]
+defaultZoom: 11 
+maxZoom: 18
+```

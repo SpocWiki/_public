@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Newport~Monmouthshire
+coordinates: [[Newport~Monmouthshire]]
+markerFile: [[Newport~Monmouthshire]]
+defaultZoom: 11 
+maxZoom: 18
+```

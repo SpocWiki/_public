@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roermond
+coordinates: [[Roermond]]
+markerFile: [[Roermond]]
+defaultZoom: 11 
+maxZoom: 18
+```

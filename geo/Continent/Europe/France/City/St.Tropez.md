@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Tropez
+coordinates: [[St.Tropez]]
+markerFile: [[St.Tropez]]
+defaultZoom: 11 
+maxZoom: 18
+```

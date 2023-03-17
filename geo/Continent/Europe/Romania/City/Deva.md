@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.9,22.92]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deva
+coordinates: [[Deva]]
+markerFile: [[Deva]]
+defaultZoom: 11 
+maxZoom: 18
+```

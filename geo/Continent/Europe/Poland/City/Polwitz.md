@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.92,17.18]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Polwitz
+coordinates: [[Polwitz]]
+markerFile: [[Polwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

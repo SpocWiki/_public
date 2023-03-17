@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montreuil
+coordinates: [[Montreuil]]
+markerFile: [[Montreuil]]
+defaultZoom: 11 
+maxZoom: 18
+```

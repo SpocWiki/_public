@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruhla
+coordinates: [[Ruhla]]
+markerFile: [[Ruhla]]
+defaultZoom: 11 
+maxZoom: 18
+```

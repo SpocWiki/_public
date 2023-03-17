@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Utajaervi~Juor.
+coordinates: [[Utajaervi~Juor.]]
+markerFile: [[Utajaervi~Juor.]]
+defaultZoom: 11 
+maxZoom: 18
+```

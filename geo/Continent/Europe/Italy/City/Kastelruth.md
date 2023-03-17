@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kastelruth
+coordinates: [[Kastelruth]]
+markerFile: [[Kastelruth]]
+defaultZoom: 11 
+maxZoom: 18
+```

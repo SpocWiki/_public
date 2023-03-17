@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pendjekent
+coordinates: [[Pendjekent]]
+markerFile: [[Pendjekent]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grenzach
+coordinates: [[Grenzach]]
+markerFile: [[Grenzach]]
+defaultZoom: 11 
+maxZoom: 18
+```

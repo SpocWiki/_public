@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osimo
+coordinates: [[Osimo]]
+markerFile: [[Osimo]]
+defaultZoom: 11 
+maxZoom: 18
+```

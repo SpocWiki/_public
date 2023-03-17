@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.52,30.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Staryi-Bykhof
+coordinates: [[Staryi-Bykhof]]
+markerFile: [[Staryi-Bykhof]]
+defaultZoom: 11 
+maxZoom: 18
+```

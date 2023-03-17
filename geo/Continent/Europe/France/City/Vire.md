@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vire
+coordinates: [[Vire]]
+markerFile: [[Vire]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.88,63.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kala-Ata
+coordinates: [[Kala-Ata]]
+markerFile: [[Kala-Ata]]
+defaultZoom: 11 
+maxZoom: 18
+```

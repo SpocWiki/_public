@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jarmen
+coordinates: [[Jarmen]]
+markerFile: [[Jarmen]]
+defaultZoom: 11 
+maxZoom: 18
+```

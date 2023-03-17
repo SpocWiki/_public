@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bloomingtown
+coordinates: [[Bloomingtown]]
+markerFile: [[Bloomingtown]]
+defaultZoom: 11 
+maxZoom: 18
+```

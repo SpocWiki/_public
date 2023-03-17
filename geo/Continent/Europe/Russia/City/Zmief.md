@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.68,36.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zmief
+coordinates: [[Zmief]]
+markerFile: [[Zmief]]
+defaultZoom: 11 
+maxZoom: 18
+```

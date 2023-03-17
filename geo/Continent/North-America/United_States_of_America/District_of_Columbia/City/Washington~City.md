@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.89,-77.01]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Washington~City
+coordinates: [[Washington~City]]
+markerFile: [[Washington~City]]
+defaultZoom: 11 
+maxZoom: 18
+```

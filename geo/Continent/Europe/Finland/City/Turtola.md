@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turtola
+coordinates: [[Turtola]]
+markerFile: [[Turtola]]
+defaultZoom: 11 
+maxZoom: 18
+```

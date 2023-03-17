@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sneek
+coordinates: [[Sneek]]
+markerFile: [[Sneek]]
+defaultZoom: 11 
+maxZoom: 18
+```

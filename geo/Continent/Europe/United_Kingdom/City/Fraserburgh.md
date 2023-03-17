@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fraserburgh
+coordinates: [[Fraserburgh]]
+markerFile: [[Fraserburgh]]
+defaultZoom: 11 
+maxZoom: 18
+```

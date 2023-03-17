@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hengelo
+coordinates: [[Hengelo]]
+markerFile: [[Hengelo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.82,11.28]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nachterstedt
+coordinates: [[Nachterstedt]]
+markerFile: [[Nachterstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grossenaspe
+coordinates: [[Grossenaspe]]
+markerFile: [[Grossenaspe]]
+defaultZoom: 11 
+maxZoom: 18
+```

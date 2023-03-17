@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wapakoneta
+coordinates: [[Wapakoneta]]
+markerFile: [[Wapakoneta]]
+defaultZoom: 11 
+maxZoom: 18
+```

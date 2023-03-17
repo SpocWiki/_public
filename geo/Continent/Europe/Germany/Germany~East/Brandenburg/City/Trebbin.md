@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trebbin
+coordinates: [[Trebbin]]
+markerFile: [[Trebbin]]
+defaultZoom: 11 
+maxZoom: 18
+```

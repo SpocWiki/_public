@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monheim~Rheinland
+coordinates: [[Monheim~Rheinland]]
+markerFile: [[Monheim~Rheinland]]
+defaultZoom: 11 
+maxZoom: 18
+```

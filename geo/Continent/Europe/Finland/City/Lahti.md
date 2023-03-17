@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lahti
+coordinates: [[Lahti]]
+markerFile: [[Lahti]]
+defaultZoom: 11 
+maxZoom: 18
+```

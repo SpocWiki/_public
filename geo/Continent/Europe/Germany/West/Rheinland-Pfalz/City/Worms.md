@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Worms
+coordinates: [[Worms]]
+markerFile: [[Worms]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wilkomier
+coordinates: [[Wilkomier]]
+markerFile: [[Wilkomier]]
+defaultZoom: 11 
+maxZoom: 18
+```

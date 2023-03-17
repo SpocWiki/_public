@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abbeyfeale
+coordinates: [[Abbeyfeale]]
+markerFile: [[Abbeyfeale]]
+defaultZoom: 11 
+maxZoom: 18
+```

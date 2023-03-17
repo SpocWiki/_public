@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herdecke
+coordinates: [[Herdecke]]
+markerFile: [[Herdecke]]
+defaultZoom: 11 
+maxZoom: 18
+```

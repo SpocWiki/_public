@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Novadoniskaia
+coordinates: [[Novadoniskaia]]
+markerFile: [[Novadoniskaia]]
+defaultZoom: 11 
+maxZoom: 18
+```

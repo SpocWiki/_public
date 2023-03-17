@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salzderhelden
+coordinates: [[Salzderhelden]]
+markerFile: [[Salzderhelden]]
+defaultZoom: 11 
+maxZoom: 18
+```

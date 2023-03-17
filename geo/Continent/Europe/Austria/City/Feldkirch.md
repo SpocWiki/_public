@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Feldkirch
+coordinates: [[Feldkirch]]
+markerFile: [[Feldkirch]]
+defaultZoom: 11 
+maxZoom: 18
+```

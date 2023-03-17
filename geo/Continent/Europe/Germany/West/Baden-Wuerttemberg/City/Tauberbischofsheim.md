@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tauberbischofsheim
+coordinates: [[Tauberbischofsheim]]
+markerFile: [[Tauberbischofsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

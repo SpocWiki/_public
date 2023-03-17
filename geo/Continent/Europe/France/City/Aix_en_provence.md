@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aix en provence
+coordinates: [[Aix en provence]]
+markerFile: [[Aix en provence]]
+defaultZoom: 11 
+maxZoom: 18
+```

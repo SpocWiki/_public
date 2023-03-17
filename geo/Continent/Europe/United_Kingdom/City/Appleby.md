@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Appleby
+coordinates: [[Appleby]]
+markerFile: [[Appleby]]
+defaultZoom: 11 
+maxZoom: 18
+```

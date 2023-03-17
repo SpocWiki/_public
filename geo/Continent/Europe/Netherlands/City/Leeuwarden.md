@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leeuwarden
+coordinates: [[Leeuwarden]]
+markerFile: [[Leeuwarden]]
+defaultZoom: 11 
+maxZoom: 18
+```

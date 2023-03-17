@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brevine Ia
+coordinates: [[Brevine Ia]]
+markerFile: [[Brevine Ia]]
+defaultZoom: 11 
+maxZoom: 18
+```

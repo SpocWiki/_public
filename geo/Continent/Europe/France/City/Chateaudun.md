@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.07,1.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chateaudun
+coordinates: [[Chateaudun]]
+markerFile: [[Chateaudun]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gleiwitz
+coordinates: [[Gleiwitz]]
+markerFile: [[Gleiwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

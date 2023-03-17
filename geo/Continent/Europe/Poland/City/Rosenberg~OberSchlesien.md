@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.88,18.42]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosenberg~OberSchlesien
+coordinates: [[Rosenberg~OberSchlesien]]
+markerFile: [[Rosenberg~OberSchlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Aubin du Cernier
+coordinates: [[St.Aubin du Cernier]]
+markerFile: [[St.Aubin du Cernier]]
+defaultZoom: 11 
+maxZoom: 18
+```

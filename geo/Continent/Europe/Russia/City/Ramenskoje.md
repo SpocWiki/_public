@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ramenskoje
+coordinates: [[Ramenskoje]]
+markerFile: [[Ramenskoje]]
+defaultZoom: 11 
+maxZoom: 18
+```

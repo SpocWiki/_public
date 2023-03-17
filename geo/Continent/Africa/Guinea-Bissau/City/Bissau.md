@@ -1,4 +1,4 @@
----
+﻿---
 location: [11.86667,-15.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Bissau
+coordinates: [[Bissau]]
+markerFile: [[Bissau]]
+defaultZoom: 11 
+maxZoom: 18
+```

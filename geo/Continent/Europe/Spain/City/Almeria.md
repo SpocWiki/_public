@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Almeria
+coordinates: [[Almeria]]
+markerFile: [[Almeria]]
+defaultZoom: 11 
+maxZoom: 18
+```

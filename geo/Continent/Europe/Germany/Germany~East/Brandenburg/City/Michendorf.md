@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Michendorf
+coordinates: [[Michendorf]]
+markerFile: [[Michendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

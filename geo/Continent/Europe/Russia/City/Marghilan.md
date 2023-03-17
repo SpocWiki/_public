@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marghilan
+coordinates: [[Marghilan]]
+markerFile: [[Marghilan]]
+defaultZoom: 11 
+maxZoom: 18
+```

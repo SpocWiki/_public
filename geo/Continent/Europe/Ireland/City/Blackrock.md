@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blackrock
+coordinates: [[Blackrock]]
+markerFile: [[Blackrock]]
+defaultZoom: 11 
+maxZoom: 18
+```

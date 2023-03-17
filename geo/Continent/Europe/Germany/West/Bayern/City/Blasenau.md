@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blasenau
+coordinates: [[Blasenau]]
+markerFile: [[Blasenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

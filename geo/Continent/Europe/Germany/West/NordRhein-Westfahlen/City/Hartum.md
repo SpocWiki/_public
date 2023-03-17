@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hartum
+coordinates: [[Hartum]]
+markerFile: [[Hartum]]
+defaultZoom: 11 
+maxZoom: 18
+```

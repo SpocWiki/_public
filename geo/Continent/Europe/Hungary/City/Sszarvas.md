@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sszarvas
+coordinates: [[Sszarvas]]
+markerFile: [[Sszarvas]]
+defaultZoom: 11 
+maxZoom: 18
+```

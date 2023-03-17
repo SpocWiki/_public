@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marvejols
+coordinates: [[Marvejols]]
+markerFile: [[Marvejols]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Treuenbrietzen
+coordinates: [[Treuenbrietzen]]
+markerFile: [[Treuenbrietzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

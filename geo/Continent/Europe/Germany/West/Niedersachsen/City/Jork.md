@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jork
+coordinates: [[Jork]]
+markerFile: [[Jork]]
+defaultZoom: 11 
+maxZoom: 18
+```

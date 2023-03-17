@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teltsch
+coordinates: [[Teltsch]]
+markerFile: [[Teltsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

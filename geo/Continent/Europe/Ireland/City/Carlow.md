@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carlow
+coordinates: [[Carlow]]
+markerFile: [[Carlow]]
+defaultZoom: 11 
+maxZoom: 18
+```

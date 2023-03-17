@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sternbergen
+coordinates: [[Sternbergen]]
+markerFile: [[Sternbergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

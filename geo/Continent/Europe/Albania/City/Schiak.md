@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schiak
+coordinates: [[Schiak]]
+markerFile: [[Schiak]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Augustow
+coordinates: [[Augustow]]
+markerFile: [[Augustow]]
+defaultZoom: 11 
+maxZoom: 18
+```

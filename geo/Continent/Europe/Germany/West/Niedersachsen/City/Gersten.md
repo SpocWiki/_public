@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gersten
+coordinates: [[Gersten]]
+markerFile: [[Gersten]]
+defaultZoom: 11 
+maxZoom: 18
+```

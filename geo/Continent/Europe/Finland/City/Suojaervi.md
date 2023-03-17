@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Suojaervi
+coordinates: [[Suojaervi]]
+markerFile: [[Suojaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

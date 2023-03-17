@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lindau
+coordinates: [[Lindau]]
+markerFile: [[Lindau]]
+defaultZoom: 11 
+maxZoom: 18
+```

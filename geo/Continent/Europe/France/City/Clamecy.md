@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clamecy
+coordinates: [[Clamecy]]
+markerFile: [[Clamecy]]
+defaultZoom: 11 
+maxZoom: 18
+```

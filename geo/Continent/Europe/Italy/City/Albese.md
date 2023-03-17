@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.47,9.28]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Albese
+coordinates: [[Albese]]
+markerFile: [[Albese]]
+defaultZoom: 11 
+maxZoom: 18
+```

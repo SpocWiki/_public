@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Varkaus
+coordinates: [[Varkaus]]
+markerFile: [[Varkaus]]
+defaultZoom: 11 
+maxZoom: 18
+```

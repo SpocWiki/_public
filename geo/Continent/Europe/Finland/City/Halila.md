@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halila
+coordinates: [[Halila]]
+markerFile: [[Halila]]
+defaultZoom: 11 
+maxZoom: 18
+```

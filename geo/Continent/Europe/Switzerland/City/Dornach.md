@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dornach
+coordinates: [[Dornach]]
+markerFile: [[Dornach]]
+defaultZoom: 11 
+maxZoom: 18
+```

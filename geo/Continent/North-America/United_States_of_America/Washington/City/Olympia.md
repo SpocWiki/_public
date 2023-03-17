@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.0425,-122.8931]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Olympia
+coordinates: [[Olympia]]
+markerFile: [[Olympia]]
+defaultZoom: 11 
+maxZoom: 18
+```

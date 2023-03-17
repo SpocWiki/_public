@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mosbach
+coordinates: [[Mosbach]]
+markerFile: [[Mosbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

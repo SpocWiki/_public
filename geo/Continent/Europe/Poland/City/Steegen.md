@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steegen
+coordinates: [[Steegen]]
+markerFile: [[Steegen]]
+defaultZoom: 11 
+maxZoom: 18
+```

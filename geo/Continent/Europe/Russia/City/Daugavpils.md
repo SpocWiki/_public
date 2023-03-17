@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.88,26.55]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Daugavpils
+coordinates: [[Daugavpils]]
+markerFile: [[Daugavpils]]
+defaultZoom: 11 
+maxZoom: 18
+```

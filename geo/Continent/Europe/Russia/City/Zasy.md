@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zasy
+coordinates: [[Zasy]]
+markerFile: [[Zasy]]
+defaultZoom: 11 
+maxZoom: 18
+```

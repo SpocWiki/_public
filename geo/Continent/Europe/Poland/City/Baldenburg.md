@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baldenburg
+coordinates: [[Baldenburg]]
+markerFile: [[Baldenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

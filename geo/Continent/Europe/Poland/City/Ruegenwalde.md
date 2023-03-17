@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruegenwalde
+coordinates: [[Ruegenwalde]]
+markerFile: [[Ruegenwalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

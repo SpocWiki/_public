@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Diersburg
+coordinates: [[Diersburg]]
+markerFile: [[Diersburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

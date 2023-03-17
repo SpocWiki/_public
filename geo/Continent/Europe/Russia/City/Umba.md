@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Umba
+coordinates: [[Umba]]
+markerFile: [[Umba]]
+defaultZoom: 11 
+maxZoom: 18
+```

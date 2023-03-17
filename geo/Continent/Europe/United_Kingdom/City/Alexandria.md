@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alexandria
+coordinates: [[Alexandria]]
+markerFile: [[Alexandria]]
+defaultZoom: 11 
+maxZoom: 18
+```

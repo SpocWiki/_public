@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sausenberg
+coordinates: [[Sausenberg]]
+markerFile: [[Sausenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

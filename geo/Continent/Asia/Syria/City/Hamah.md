@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.17,37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hamah
+coordinates: [[Hamah]]
+markerFile: [[Hamah]]
+defaultZoom: 11 
+maxZoom: 18
+```

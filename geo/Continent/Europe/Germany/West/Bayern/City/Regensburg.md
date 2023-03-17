@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Regensburg
+coordinates: [[Regensburg]]
+markerFile: [[Regensburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

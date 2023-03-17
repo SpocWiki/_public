@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seinajoki
+coordinates: [[Seinajoki]]
+markerFile: [[Seinajoki]]
+defaultZoom: 11 
+maxZoom: 18
+```

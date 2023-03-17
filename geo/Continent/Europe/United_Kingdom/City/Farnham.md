@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Farnham
+coordinates: [[Farnham]]
+markerFile: [[Farnham]]
+defaultZoom: 11 
+maxZoom: 18
+```

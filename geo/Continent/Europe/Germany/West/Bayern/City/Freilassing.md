@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freilassing
+coordinates: [[Freilassing]]
+markerFile: [[Freilassing]]
+defaultZoom: 11 
+maxZoom: 18
+```

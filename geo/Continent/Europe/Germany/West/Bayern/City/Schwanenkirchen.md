@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwanenkirchen
+coordinates: [[Schwanenkirchen]]
+markerFile: [[Schwanenkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

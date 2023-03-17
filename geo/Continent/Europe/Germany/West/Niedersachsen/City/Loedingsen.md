@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loedingsen
+coordinates: [[Loedingsen]]
+markerFile: [[Loedingsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

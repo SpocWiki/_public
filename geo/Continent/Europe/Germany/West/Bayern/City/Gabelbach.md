@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gabelbach
+coordinates: [[Gabelbach]]
+markerFile: [[Gabelbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

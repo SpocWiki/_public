@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buffalora
+coordinates: [[Buffalora]]
+markerFile: [[Buffalora]]
+defaultZoom: 11 
+maxZoom: 18
+```

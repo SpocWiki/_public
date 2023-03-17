@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Juuka
+coordinates: [[Juuka]]
+markerFile: [[Juuka]]
+defaultZoom: 11 
+maxZoom: 18
+```

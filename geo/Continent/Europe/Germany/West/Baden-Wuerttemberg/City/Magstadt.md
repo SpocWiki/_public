@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Magstadt
+coordinates: [[Magstadt]]
+markerFile: [[Magstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

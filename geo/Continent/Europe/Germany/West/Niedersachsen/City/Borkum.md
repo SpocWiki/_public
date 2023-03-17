@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borkum
+coordinates: [[Borkum]]
+markerFile: [[Borkum]]
+defaultZoom: 11 
+maxZoom: 18
+```

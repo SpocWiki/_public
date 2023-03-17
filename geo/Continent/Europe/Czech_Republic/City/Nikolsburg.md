@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nikolsburg
+coordinates: [[Nikolsburg]]
+markerFile: [[Nikolsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

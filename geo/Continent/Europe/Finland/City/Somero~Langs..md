@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Somero~Langs.
+coordinates: [[Somero~Langs.]]
+markerFile: [[Somero~Langs.]]
+defaultZoom: 11 
+maxZoom: 18
+```

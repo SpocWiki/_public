@@ -1,4 +1,4 @@
----
+﻿---
 location: [33.5,36.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Damascus=Damaskus
+coordinates: [[Damascus=Damaskus]]
+markerFile: [[Damascus=Damaskus]]
+defaultZoom: 11 
+maxZoom: 18
+```

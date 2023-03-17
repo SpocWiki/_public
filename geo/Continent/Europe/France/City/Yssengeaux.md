@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.15,4.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yssengeaux
+coordinates: [[Yssengeaux]]
+markerFile: [[Yssengeaux]]
+defaultZoom: 11 
+maxZoom: 18
+```

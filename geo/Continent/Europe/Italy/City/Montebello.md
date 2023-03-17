@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montebello
+coordinates: [[Montebello]]
+markerFile: [[Montebello]]
+defaultZoom: 11 
+maxZoom: 18
+```

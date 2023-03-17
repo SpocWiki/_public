@@ -1,4 +1,4 @@
----
+﻿---
 location: [-51.7,-57.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Stanley
+coordinates: [[Stanley]]
+markerFile: [[Stanley]]
+defaultZoom: 11 
+maxZoom: 18
+```

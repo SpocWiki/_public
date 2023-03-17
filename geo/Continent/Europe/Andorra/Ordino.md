@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ordino
+coordinates: [[Ordino]]
+markerFile: [[Ordino]]
+defaultZoom: 11 
+maxZoom: 18
+```

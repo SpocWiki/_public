@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.55,14.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alicudie
+coordinates: [[Alicudie]]
+markerFile: [[Alicudie]]
+defaultZoom: 11 
+maxZoom: 18
+```

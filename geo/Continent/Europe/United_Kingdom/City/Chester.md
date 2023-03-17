@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chester
+coordinates: [[Chester]]
+markerFile: [[Chester]]
+defaultZoom: 11 
+maxZoom: 18
+```

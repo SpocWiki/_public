@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Voghera
+coordinates: [[Voghera]]
+markerFile: [[Voghera]]
+defaultZoom: 11 
+maxZoom: 18
+```

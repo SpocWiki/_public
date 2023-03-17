@@ -1,4 +1,4 @@
----
+﻿---
 location: [4.92,-52.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cayenne=Franz.
+coordinates: [[Cayenne=Franz.]]
+markerFile: [[Cayenne=Franz.]]
+defaultZoom: 11 
+maxZoom: 18
+```

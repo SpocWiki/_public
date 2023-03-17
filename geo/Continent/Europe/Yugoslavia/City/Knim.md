@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Knim
+coordinates: [[Knim]]
+markerFile: [[Knim]]
+defaultZoom: 11 
+maxZoom: 18
+```

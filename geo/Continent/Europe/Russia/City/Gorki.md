@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gorki
+coordinates: [[Gorki]]
+markerFile: [[Gorki]]
+defaultZoom: 11 
+maxZoom: 18
+```

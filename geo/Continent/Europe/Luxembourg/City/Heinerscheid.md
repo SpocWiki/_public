@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heinerscheid
+coordinates: [[Heinerscheid]]
+markerFile: [[Heinerscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

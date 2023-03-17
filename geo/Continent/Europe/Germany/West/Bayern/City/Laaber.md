@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laaber
+coordinates: [[Laaber]]
+markerFile: [[Laaber]]
+defaultZoom: 11 
+maxZoom: 18
+```

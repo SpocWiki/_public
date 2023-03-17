@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malching
+coordinates: [[Malching]]
+markerFile: [[Malching]]
+defaultZoom: 11 
+maxZoom: 18
+```

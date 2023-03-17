@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tyrvaea
+coordinates: [[Tyrvaea]]
+markerFile: [[Tyrvaea]]
+defaultZoom: 11 
+maxZoom: 18
+```

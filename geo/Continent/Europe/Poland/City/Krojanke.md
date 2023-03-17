@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krojanke
+coordinates: [[Krojanke]]
+markerFile: [[Krojanke]]
+defaultZoom: 11 
+maxZoom: 18
+```

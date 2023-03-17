@@ -1,4 +1,4 @@
----
+﻿---
 location: [22.25,114.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hong Kong
+coordinates: [[Hong Kong]]
+markerFile: [[Hong Kong]]
+defaultZoom: 11 
+maxZoom: 18
+```

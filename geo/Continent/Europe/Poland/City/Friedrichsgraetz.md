@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedrichsgraetz
+coordinates: [[Friedrichsgraetz]]
+markerFile: [[Friedrichsgraetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

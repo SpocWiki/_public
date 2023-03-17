@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lapinlahti
+coordinates: [[Lapinlahti]]
+markerFile: [[Lapinlahti]]
+defaultZoom: 11 
+maxZoom: 18
+```

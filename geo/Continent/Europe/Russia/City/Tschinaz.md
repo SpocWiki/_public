@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschinaz
+coordinates: [[Tschinaz]]
+markerFile: [[Tschinaz]]
+defaultZoom: 11 
+maxZoom: 18
+```

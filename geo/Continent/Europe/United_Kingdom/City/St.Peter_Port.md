@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Peter Port
+coordinates: [[St.Peter Port]]
+markerFile: [[St.Peter Port]]
+defaultZoom: 11 
+maxZoom: 18
+```

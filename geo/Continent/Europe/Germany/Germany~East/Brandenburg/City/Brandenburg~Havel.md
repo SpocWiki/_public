@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brandenburg~Havel
+coordinates: [[Brandenburg~Havel]]
+markerFile: [[Brandenburg~Havel]]
+defaultZoom: 11 
+maxZoom: 18
+```

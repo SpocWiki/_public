@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.58,11.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mansfeld
+coordinates: [[Mansfeld]]
+markerFile: [[Mansfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

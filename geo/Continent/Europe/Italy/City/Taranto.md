@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taranto
+coordinates: [[Taranto]]
+markerFile: [[Taranto]]
+defaultZoom: 11 
+maxZoom: 18
+```

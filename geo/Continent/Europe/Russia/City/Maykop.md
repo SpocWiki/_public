@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maykop
+coordinates: [[Maykop]]
+markerFile: [[Maykop]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trostberg
+coordinates: [[Trostberg]]
+markerFile: [[Trostberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

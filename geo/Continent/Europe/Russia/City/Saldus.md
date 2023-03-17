@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saldus
+coordinates: [[Saldus]]
+markerFile: [[Saldus]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergerac
+coordinates: [[Bergerac]]
+markerFile: [[Bergerac]]
+defaultZoom: 11 
+maxZoom: 18
+```

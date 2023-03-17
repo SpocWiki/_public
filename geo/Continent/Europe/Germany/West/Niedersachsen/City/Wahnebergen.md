@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wahnebergen
+coordinates: [[Wahnebergen]]
+markerFile: [[Wahnebergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

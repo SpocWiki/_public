@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rueppur
+coordinates: [[Rueppur]]
+markerFile: [[Rueppur]]
+defaultZoom: 11 
+maxZoom: 18
+```

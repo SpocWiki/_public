@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Augsburg
+coordinates: [[Augsburg]]
+markerFile: [[Augsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

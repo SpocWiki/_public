@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hameln
+coordinates: [[Hameln]]
+markerFile: [[Hameln]]
+defaultZoom: 11 
+maxZoom: 18
+```

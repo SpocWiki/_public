@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hainburg
+coordinates: [[Hainburg]]
+markerFile: [[Hainburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

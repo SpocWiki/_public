@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Purmerend
+coordinates: [[Purmerend]]
+markerFile: [[Purmerend]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marennes
+coordinates: [[Marennes]]
+markerFile: [[Marennes]]
+defaultZoom: 11 
+maxZoom: 18
+```

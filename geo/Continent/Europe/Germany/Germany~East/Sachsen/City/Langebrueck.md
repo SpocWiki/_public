@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langebrueck
+coordinates: [[Langebrueck]]
+markerFile: [[Langebrueck]]
+defaultZoom: 11 
+maxZoom: 18
+```

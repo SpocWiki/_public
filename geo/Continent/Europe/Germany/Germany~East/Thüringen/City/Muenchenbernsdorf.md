@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muenchenbernsdorf
+coordinates: [[Muenchenbernsdorf]]
+markerFile: [[Muenchenbernsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

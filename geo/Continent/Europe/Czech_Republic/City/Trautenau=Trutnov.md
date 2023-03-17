@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trautenau=Trutnov
+coordinates: [[Trautenau=Trutnov]]
+markerFile: [[Trautenau=Trutnov]]
+defaultZoom: 11 
+maxZoom: 18
+```

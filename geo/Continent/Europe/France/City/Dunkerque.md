@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dunkerque
+coordinates: [[Dunkerque]]
+markerFile: [[Dunkerque]]
+defaultZoom: 11 
+maxZoom: 18
+```

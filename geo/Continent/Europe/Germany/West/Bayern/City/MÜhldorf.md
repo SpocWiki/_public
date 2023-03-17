@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.23,12.53]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: MÜhldorf
+coordinates: [[MÜhldorf]]
+markerFile: [[MÜhldorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langelsheim
+coordinates: [[Langelsheim]]
+markerFile: [[Langelsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

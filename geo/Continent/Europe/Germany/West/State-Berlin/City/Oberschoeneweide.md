@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberschoeneweide
+coordinates: [[Oberschoeneweide]]
+markerFile: [[Oberschoeneweide]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [22.13,-82.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Habana=Havana=Havanna
+coordinates: [[Habana=Havana=Havanna]]
+markerFile: [[Habana=Havana=Havanna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Levico
+coordinates: [[Levico]]
+markerFile: [[Levico]]
+defaultZoom: 11 
+maxZoom: 18
+```

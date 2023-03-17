@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soemmerda
+coordinates: [[Soemmerda]]
+markerFile: [[Soemmerda]]
+defaultZoom: 11 
+maxZoom: 18
+```

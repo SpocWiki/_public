@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tylicz
+coordinates: [[Tylicz]]
+markerFile: [[Tylicz]]
+defaultZoom: 11 
+maxZoom: 18
+```

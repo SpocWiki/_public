@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bernay
+coordinates: [[Bernay]]
+markerFile: [[Bernay]]
+defaultZoom: 11 
+maxZoom: 18
+```

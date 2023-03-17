@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mittel-Stiepel
+coordinates: [[Mittel-Stiepel]]
+markerFile: [[Mittel-Stiepel]]
+defaultZoom: 11 
+maxZoom: 18
+```

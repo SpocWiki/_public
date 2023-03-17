@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Havert
+coordinates: [[Havert]]
+markerFile: [[Havert]]
+defaultZoom: 11 
+maxZoom: 18
+```

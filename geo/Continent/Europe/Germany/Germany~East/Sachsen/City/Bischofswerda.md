@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bischofswerda
+coordinates: [[Bischofswerda]]
+markerFile: [[Bischofswerda]]
+defaultZoom: 11 
+maxZoom: 18
+```

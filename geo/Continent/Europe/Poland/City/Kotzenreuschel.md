@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kotzenreuschel
+coordinates: [[Kotzenreuschel]]
+markerFile: [[Kotzenreuschel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orvicza=Oravita
+coordinates: [[Orvicza=Oravita]]
+markerFile: [[Orvicza=Oravita]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ealing
+coordinates: [[Ealing]]
+markerFile: [[Ealing]]
+defaultZoom: 11 
+maxZoom: 18
+```

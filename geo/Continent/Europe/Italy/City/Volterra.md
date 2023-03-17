@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Volterra
+coordinates: [[Volterra]]
+markerFile: [[Volterra]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Einfeld
+coordinates: [[Einfeld]]
+markerFile: [[Einfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

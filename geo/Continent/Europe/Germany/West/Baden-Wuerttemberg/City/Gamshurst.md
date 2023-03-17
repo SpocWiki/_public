@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gamshurst
+coordinates: [[Gamshurst]]
+markerFile: [[Gamshurst]]
+defaultZoom: 11 
+maxZoom: 18
+```

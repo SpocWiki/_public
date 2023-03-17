@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marstal
+coordinates: [[Marstal]]
+markerFile: [[Marstal]]
+defaultZoom: 11 
+maxZoom: 18
+```

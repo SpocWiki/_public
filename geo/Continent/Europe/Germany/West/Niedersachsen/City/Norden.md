@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Norden
+coordinates: [[Norden]]
+markerFile: [[Norden]]
+defaultZoom: 11 
+maxZoom: 18
+```

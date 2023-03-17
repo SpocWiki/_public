@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolfersdorf
+coordinates: [[Wolfersdorf]]
+markerFile: [[Wolfersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

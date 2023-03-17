@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kurwien
+coordinates: [[Kurwien]]
+markerFile: [[Kurwien]]
+defaultZoom: 11 
+maxZoom: 18
+```

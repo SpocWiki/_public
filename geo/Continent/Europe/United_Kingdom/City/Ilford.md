@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ilford
+coordinates: [[Ilford]]
+markerFile: [[Ilford]]
+defaultZoom: 11 
+maxZoom: 18
+```

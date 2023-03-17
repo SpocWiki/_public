@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Irboska
+coordinates: [[Irboska]]
+markerFile: [[Irboska]]
+defaultZoom: 11 
+maxZoom: 18
+```

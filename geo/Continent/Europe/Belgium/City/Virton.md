@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Virton
+coordinates: [[Virton]]
+markerFile: [[Virton]]
+defaultZoom: 11 
+maxZoom: 18
+```

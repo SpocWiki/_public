@@ -1,4 +1,4 @@
----
+﻿---
 location: [62.17,129.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marschinskoje
+coordinates: [[Marschinskoje]]
+markerFile: [[Marschinskoje]]
+defaultZoom: 11 
+maxZoom: 18
+```

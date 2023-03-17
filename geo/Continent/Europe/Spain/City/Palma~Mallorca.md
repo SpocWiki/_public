@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Palma~Mallorca
+coordinates: [[Palma~Mallorca]]
+markerFile: [[Palma~Mallorca]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Omaha
+coordinates: [[Omaha]]
+markerFile: [[Omaha]]
+defaultZoom: 11 
+maxZoom: 18
+```

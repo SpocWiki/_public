@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karvia
+coordinates: [[Karvia]]
+markerFile: [[Karvia]]
+defaultZoom: 11 
+maxZoom: 18
+```

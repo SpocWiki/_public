@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wengern
+coordinates: [[Wengern]]
+markerFile: [[Wengern]]
+defaultZoom: 11 
+maxZoom: 18
+```

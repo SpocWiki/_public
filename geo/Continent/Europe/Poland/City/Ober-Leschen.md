@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Leschen
+coordinates: [[Ober-Leschen]]
+markerFile: [[Ober-Leschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

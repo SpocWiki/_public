@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stalino
+coordinates: [[Stalino]]
+markerFile: [[Stalino]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ettelbrueck
+coordinates: [[Ettelbrueck]]
+markerFile: [[Ettelbrueck]]
+defaultZoom: 11 
+maxZoom: 18
+```

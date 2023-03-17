@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.47,11.88]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arezzo
+coordinates: [[Arezzo]]
+markerFile: [[Arezzo]]
+defaultZoom: 11 
+maxZoom: 18
+```

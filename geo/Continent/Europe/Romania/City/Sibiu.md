@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sibiu
+coordinates: [[Sibiu]]
+markerFile: [[Sibiu]]
+defaultZoom: 11 
+maxZoom: 18
+```

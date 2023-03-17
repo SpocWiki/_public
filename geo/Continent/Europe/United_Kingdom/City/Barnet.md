@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barnet
+coordinates: [[Barnet]]
+markerFile: [[Barnet]]
+defaultZoom: 11 
+maxZoom: 18
+```

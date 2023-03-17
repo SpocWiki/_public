@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fréhel
+coordinates: [[Fréhel]]
+markerFile: [[Fréhel]]
+defaultZoom: 11 
+maxZoom: 18
+```

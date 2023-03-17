@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alby
+coordinates: [[Alby]]
+markerFile: [[Alby]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ovre-Graensoe
+coordinates: [[Ovre-Graensoe]]
+markerFile: [[Ovre-Graensoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

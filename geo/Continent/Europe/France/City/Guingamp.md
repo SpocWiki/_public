@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guingamp
+coordinates: [[Guingamp]]
+markerFile: [[Guingamp]]
+defaultZoom: 11 
+maxZoom: 18
+```

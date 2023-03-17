@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tynemouth
+coordinates: [[Tynemouth]]
+markerFile: [[Tynemouth]]
+defaultZoom: 11 
+maxZoom: 18
+```

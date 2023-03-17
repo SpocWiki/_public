@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Esna
+coordinates: [[Esna]]
+markerFile: [[Esna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [34.00056,-81.04417]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Columbia
+coordinates: [[Columbia]]
+markerFile: [[Columbia]]
+defaultZoom: 11 
+maxZoom: 18
+```

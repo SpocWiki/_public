@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.72,-9.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lissabon=Lisboa=Lisbon
+coordinates: [[Lissabon=Lisboa=Lisbon]]
+markerFile: [[Lissabon=Lisboa=Lisbon]]
+defaultZoom: 11 
+maxZoom: 18
+```

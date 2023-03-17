@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jonava
+coordinates: [[Jonava]]
+markerFile: [[Jonava]]
+defaultZoom: 11 
+maxZoom: 18
+```

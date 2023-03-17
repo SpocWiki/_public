@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sustamo
+coordinates: [[Sustamo]]
+markerFile: [[Sustamo]]
+defaultZoom: 11 
+maxZoom: 18
+```

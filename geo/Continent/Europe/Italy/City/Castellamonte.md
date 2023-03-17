@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castellamonte
+coordinates: [[Castellamonte]]
+markerFile: [[Castellamonte]]
+defaultZoom: 11 
+maxZoom: 18
+```

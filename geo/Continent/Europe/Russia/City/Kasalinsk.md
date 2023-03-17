@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kasalinsk
+coordinates: [[Kasalinsk]]
+markerFile: [[Kasalinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

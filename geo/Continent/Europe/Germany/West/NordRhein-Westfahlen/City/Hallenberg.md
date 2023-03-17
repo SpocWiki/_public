@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hallenberg
+coordinates: [[Hallenberg]]
+markerFile: [[Hallenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

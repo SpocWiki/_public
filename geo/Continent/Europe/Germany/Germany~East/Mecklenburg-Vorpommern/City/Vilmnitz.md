@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vilmnitz
+coordinates: [[Vilmnitz]]
+markerFile: [[Vilmnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Veit
+coordinates: [[St.Veit]]
+markerFile: [[St.Veit]]
+defaultZoom: 11 
+maxZoom: 18
+```

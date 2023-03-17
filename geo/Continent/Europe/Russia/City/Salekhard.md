@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salekhard
+coordinates: [[Salekhard]]
+markerFile: [[Salekhard]]
+defaultZoom: 11 
+maxZoom: 18
+```

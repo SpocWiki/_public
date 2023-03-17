@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.18,-0.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Caen
+coordinates: [[Caen]]
+markerFile: [[Caen]]
+defaultZoom: 11 
+maxZoom: 18
+```

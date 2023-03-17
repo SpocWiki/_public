@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Coatbridge
+coordinates: [[Coatbridge]]
+markerFile: [[Coatbridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

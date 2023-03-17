@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Paul
+coordinates: [[St.Paul]]
+markerFile: [[St.Paul]]
+defaultZoom: 11 
+maxZoom: 18
+```

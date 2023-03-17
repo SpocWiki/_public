@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Germain en Laye
+coordinates: [[St.Germain en Laye]]
+markerFile: [[St.Germain en Laye]]
+defaultZoom: 11 
+maxZoom: 18
+```

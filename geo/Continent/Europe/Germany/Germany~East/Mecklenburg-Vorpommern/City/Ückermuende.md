@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ückermuende
+coordinates: [[Ückermuende]]
+markerFile: [[Ückermuende]]
+defaultZoom: 11 
+maxZoom: 18
+```

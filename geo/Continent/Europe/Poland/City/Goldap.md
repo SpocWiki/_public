@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goldap
+coordinates: [[Goldap]]
+markerFile: [[Goldap]]
+defaultZoom: 11 
+maxZoom: 18
+```

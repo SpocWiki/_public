@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lippspringe
+coordinates: [[Lippspringe]]
+markerFile: [[Lippspringe]]
+defaultZoom: 11 
+maxZoom: 18
+```

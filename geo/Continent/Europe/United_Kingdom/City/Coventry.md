@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Coventry
+coordinates: [[Coventry]]
+markerFile: [[Coventry]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wernberg
+coordinates: [[Wernberg]]
+markerFile: [[Wernberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

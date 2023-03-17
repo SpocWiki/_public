@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nowocherkassk
+coordinates: [[Nowocherkassk]]
+markerFile: [[Nowocherkassk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halsbruecke
+coordinates: [[Halsbruecke]]
+markerFile: [[Halsbruecke]]
+defaultZoom: 11 
+maxZoom: 18
+```

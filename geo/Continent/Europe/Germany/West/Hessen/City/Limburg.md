@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Limburg
+coordinates: [[Limburg]]
+markerFile: [[Limburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

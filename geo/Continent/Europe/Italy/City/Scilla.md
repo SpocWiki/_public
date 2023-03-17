@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.25,15.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scilla
+coordinates: [[Scilla]]
+markerFile: [[Scilla]]
+defaultZoom: 11 
+maxZoom: 18
+```

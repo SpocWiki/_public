@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Essen~Ruhr
+coordinates: [[Essen~Ruhr]]
+markerFile: [[Essen~Ruhr]]
+defaultZoom: 11 
+maxZoom: 18
+```

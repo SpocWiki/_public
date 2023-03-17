@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Leonhard
+coordinates: [[St.Leonhard]]
+markerFile: [[St.Leonhard]]
+defaultZoom: 11 
+maxZoom: 18
+```

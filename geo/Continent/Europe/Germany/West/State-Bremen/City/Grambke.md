@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.13,8.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grambke
+coordinates: [[Grambke]]
+markerFile: [[Grambke]]
+defaultZoom: 11 
+maxZoom: 18
+```

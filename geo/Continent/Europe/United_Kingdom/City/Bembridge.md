@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bembridge
+coordinates: [[Bembridge]]
+markerFile: [[Bembridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

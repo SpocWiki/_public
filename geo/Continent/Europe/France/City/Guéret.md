@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guéret
+coordinates: [[Guéret]]
+markerFile: [[Guéret]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sarzana
+coordinates: [[Sarzana]]
+markerFile: [[Sarzana]]
+defaultZoom: 11 
+maxZoom: 18
+```

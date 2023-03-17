@@ -1,4 +1,4 @@
----
+﻿---
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -26,3 +26,19 @@ SpocWebEntityId: {{SpocWebEntityId}}
 [Population::{{Population}}]
 [Unknown::{{_0}}]
 
+
+```leaflet
+id: {{City}}
+coordinates: [[{{City}}]]
+markerFile: [[{{City}}]]
+defaultZoom: 11 
+maxZoom: 18
+```
+
+```leaflet
+id: {{City}}
+coordinates: [[{{City}}]]
+markerFile: [[{{City}}]]
+defaultZoom: 11 
+maxZoom: 18
+```

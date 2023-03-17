@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borken
+coordinates: [[Borken]]
+markerFile: [[Borken]]
+defaultZoom: 11 
+maxZoom: 18
+```

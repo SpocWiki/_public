@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohenberg
+coordinates: [[Hohenberg]]
+markerFile: [[Hohenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

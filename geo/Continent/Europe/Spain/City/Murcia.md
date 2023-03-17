@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Murcia
+coordinates: [[Murcia]]
+markerFile: [[Murcia]]
+defaultZoom: 11 
+maxZoom: 18
+```

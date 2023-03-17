@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Toul
+coordinates: [[Toul]]
+markerFile: [[Toul]]
+defaultZoom: 11 
+maxZoom: 18
+```

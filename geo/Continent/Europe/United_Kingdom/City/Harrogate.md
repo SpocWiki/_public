@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harrogate
+coordinates: [[Harrogate]]
+markerFile: [[Harrogate]]
+defaultZoom: 11 
+maxZoom: 18
+```

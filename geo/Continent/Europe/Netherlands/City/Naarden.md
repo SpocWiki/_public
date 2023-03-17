@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Naarden
+coordinates: [[Naarden]]
+markerFile: [[Naarden]]
+defaultZoom: 11 
+maxZoom: 18
+```

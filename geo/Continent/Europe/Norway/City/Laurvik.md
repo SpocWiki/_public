@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laurvik
+coordinates: [[Laurvik]]
+markerFile: [[Laurvik]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Minden
+coordinates: [[Minden]]
+markerFile: [[Minden]]
+defaultZoom: 11 
+maxZoom: 18
+```

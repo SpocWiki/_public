@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castellaneta
+coordinates: [[Castellaneta]]
+markerFile: [[Castellaneta]]
+defaultZoom: 11 
+maxZoom: 18
+```

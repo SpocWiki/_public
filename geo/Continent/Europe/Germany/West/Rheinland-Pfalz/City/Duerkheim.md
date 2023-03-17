@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duerkheim
+coordinates: [[Duerkheim]]
+markerFile: [[Duerkheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

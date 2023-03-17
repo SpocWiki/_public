@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tomsk
+coordinates: [[Tomsk]]
+markerFile: [[Tomsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

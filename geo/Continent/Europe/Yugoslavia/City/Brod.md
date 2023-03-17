@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brod
+coordinates: [[Brod]]
+markerFile: [[Brod]]
+defaultZoom: 11 
+maxZoom: 18
+```

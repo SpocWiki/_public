@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petsamo
+coordinates: [[Petsamo]]
+markerFile: [[Petsamo]]
+defaultZoom: 11 
+maxZoom: 18
+```

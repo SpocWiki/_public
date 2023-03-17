@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oudenbosch
+coordinates: [[Oudenbosch]]
+markerFile: [[Oudenbosch]]
+defaultZoom: 11 
+maxZoom: 18
+```

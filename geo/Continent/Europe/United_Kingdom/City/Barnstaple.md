@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barnstaple
+coordinates: [[Barnstaple]]
+markerFile: [[Barnstaple]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valognes
+coordinates: [[Valognes]]
+markerFile: [[Valognes]]
+defaultZoom: 11 
+maxZoom: 18
+```

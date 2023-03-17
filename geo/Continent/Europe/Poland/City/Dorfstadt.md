@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dorfstadt
+coordinates: [[Dorfstadt]]
+markerFile: [[Dorfstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

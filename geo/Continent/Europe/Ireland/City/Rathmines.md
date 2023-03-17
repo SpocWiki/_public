@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rathmines
+coordinates: [[Rathmines]]
+markerFile: [[Rathmines]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Margate
+coordinates: [[Margate]]
+markerFile: [[Margate]]
+defaultZoom: 11 
+maxZoom: 18
+```

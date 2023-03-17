@@ -1,4 +1,4 @@
----
+﻿---
 location: [4.6,-74.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bogota
+coordinates: [[Bogota]]
+markerFile: [[Bogota]]
+defaultZoom: 11 
+maxZoom: 18
+```

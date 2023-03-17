@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hartenstein
+coordinates: [[Hartenstein]]
+markerFile: [[Hartenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

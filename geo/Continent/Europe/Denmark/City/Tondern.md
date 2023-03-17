@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tondern
+coordinates: [[Tondern]]
+markerFile: [[Tondern]]
+defaultZoom: 11 
+maxZoom: 18
+```

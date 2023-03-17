@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ploiesti
+coordinates: [[Ploiesti]]
+markerFile: [[Ploiesti]]
+defaultZoom: 11 
+maxZoom: 18
+```

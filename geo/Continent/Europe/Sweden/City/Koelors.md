@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koelors
+coordinates: [[Koelors]]
+markerFile: [[Koelors]]
+defaultZoom: 11 
+maxZoom: 18
+```

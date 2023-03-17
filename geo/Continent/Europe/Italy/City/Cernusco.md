@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cernusco
+coordinates: [[Cernusco]]
+markerFile: [[Cernusco]]
+defaultZoom: 11 
+maxZoom: 18
+```

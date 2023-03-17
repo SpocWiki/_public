@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaesteras
+coordinates: [[Vaesteras]]
+markerFile: [[Vaesteras]]
+defaultZoom: 11 
+maxZoom: 18
+```

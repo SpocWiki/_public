@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.5,11.38]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bozen=Bolzano
+coordinates: [[Bozen=Bolzano]]
+markerFile: [[Bozen=Bolzano]]
+defaultZoom: 11 
+maxZoom: 18
+```

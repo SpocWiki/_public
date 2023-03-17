@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jasenitz
+coordinates: [[Jasenitz]]
+markerFile: [[Jasenitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigsberg~Neumark
+coordinates: [[Koenigsberg~Neumark]]
+markerFile: [[Koenigsberg~Neumark]]
+defaultZoom: 11 
+maxZoom: 18
+```

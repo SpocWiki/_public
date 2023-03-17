@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vimmersby
+coordinates: [[Vimmersby]]
+markerFile: [[Vimmersby]]
+defaultZoom: 11 
+maxZoom: 18
+```

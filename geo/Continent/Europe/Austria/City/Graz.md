@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Graz
+coordinates: [[Graz]]
+markerFile: [[Graz]]
+defaultZoom: 11 
+maxZoom: 18
+```

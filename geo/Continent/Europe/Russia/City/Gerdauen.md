@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gerdauen
+coordinates: [[Gerdauen]]
+markerFile: [[Gerdauen]]
+defaultZoom: 11 
+maxZoom: 18
+```

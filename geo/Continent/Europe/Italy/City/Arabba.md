@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.5,11.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arabba
+coordinates: [[Arabba]]
+markerFile: [[Arabba]]
+defaultZoom: 11 
+maxZoom: 18
+```

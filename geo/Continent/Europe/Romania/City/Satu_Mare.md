@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Satu Mare
+coordinates: [[Satu Mare]]
+markerFile: [[Satu Mare]]
+defaultZoom: 11 
+maxZoom: 18
+```

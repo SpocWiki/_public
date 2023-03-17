@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vitebsk
+coordinates: [[Vitebsk]]
+markerFile: [[Vitebsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

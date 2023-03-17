@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.92,116.42]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beijing=Peking
+coordinates: [[Beijing=Peking]]
+markerFile: [[Beijing=Peking]]
+defaultZoom: 11 
+maxZoom: 18
+```

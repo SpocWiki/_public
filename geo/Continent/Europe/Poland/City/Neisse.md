@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neisse
+coordinates: [[Neisse]]
+markerFile: [[Neisse]]
+defaultZoom: 11 
+maxZoom: 18
+```

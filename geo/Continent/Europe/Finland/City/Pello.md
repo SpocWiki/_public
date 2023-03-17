@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pello
+coordinates: [[Pello]]
+markerFile: [[Pello]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wasserleben
+coordinates: [[Wasserleben]]
+markerFile: [[Wasserleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

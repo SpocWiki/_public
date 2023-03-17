@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poti
+coordinates: [[Poti]]
+markerFile: [[Poti]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [-29.46667,27.93333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Maseru
+coordinates: [[Maseru]]
+markerFile: [[Maseru]]
+defaultZoom: 11 
+maxZoom: 18
+```

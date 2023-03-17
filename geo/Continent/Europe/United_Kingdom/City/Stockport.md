@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stockport
+coordinates: [[Stockport]]
+markerFile: [[Stockport]]
+defaultZoom: 11 
+maxZoom: 18
+```

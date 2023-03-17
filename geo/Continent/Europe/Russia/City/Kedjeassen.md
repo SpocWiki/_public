@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kedjeassen
+coordinates: [[Kedjeassen]]
+markerFile: [[Kedjeassen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.5,9.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hofgeismar
+coordinates: [[Hofgeismar]]
+markerFile: [[Hofgeismar]]
+defaultZoom: 11 
+maxZoom: 18
+```

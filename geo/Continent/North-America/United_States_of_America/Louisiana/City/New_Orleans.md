@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: New Orleans
+coordinates: [[New Orleans]]
+markerFile: [[New Orleans]]
+defaultZoom: 11 
+maxZoom: 18
+```

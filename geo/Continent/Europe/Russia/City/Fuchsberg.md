@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuchsberg
+coordinates: [[Fuchsberg]]
+markerFile: [[Fuchsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

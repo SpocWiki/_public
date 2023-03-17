@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Donauwoerth
+coordinates: [[Donauwoerth]]
+markerFile: [[Donauwoerth]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: West Ham
+coordinates: [[West Ham]]
+markerFile: [[West Ham]]
+defaultZoom: 11 
+maxZoom: 18
+```

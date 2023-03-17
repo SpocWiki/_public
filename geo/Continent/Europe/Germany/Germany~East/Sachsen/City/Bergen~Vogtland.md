@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.45,12.28]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergen~Vogtland
+coordinates: [[Bergen~Vogtland]]
+markerFile: [[Bergen~Vogtland]]
+defaultZoom: 11 
+maxZoom: 18
+```

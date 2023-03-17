@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perth
+coordinates: [[Perth]]
+markerFile: [[Perth]]
+defaultZoom: 11 
+maxZoom: 18
+```

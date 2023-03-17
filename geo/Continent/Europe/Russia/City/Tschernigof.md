@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschernigof
+coordinates: [[Tschernigof]]
+markerFile: [[Tschernigof]]
+defaultZoom: 11 
+maxZoom: 18
+```

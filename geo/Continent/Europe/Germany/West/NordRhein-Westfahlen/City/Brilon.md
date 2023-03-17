@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brilon
+coordinates: [[Brilon]]
+markerFile: [[Brilon]]
+defaultZoom: 11 
+maxZoom: 18
+```

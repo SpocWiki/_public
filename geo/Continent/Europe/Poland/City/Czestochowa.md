@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Czestochowa
+coordinates: [[Czestochowa]]
+markerFile: [[Czestochowa]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pejo
+coordinates: [[Pejo]]
+markerFile: [[Pejo]]
+defaultZoom: 11 
+maxZoom: 18
+```

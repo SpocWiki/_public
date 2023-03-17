@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tregnier
+coordinates: [[Tregnier]]
+markerFile: [[Tregnier]]
+defaultZoom: 11 
+maxZoom: 18
+```

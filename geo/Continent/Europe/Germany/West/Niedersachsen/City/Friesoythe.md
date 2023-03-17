@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friesoythe
+coordinates: [[Friesoythe]]
+markerFile: [[Friesoythe]]
+defaultZoom: 11 
+maxZoom: 18
+```

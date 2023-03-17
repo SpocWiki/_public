@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Finisterre
+coordinates: [[Finisterre]]
+markerFile: [[Finisterre]]
+defaultZoom: 11 
+maxZoom: 18
+```

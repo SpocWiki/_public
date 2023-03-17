@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frickenhofen
+coordinates: [[Frickenhofen]]
+markerFile: [[Frickenhofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

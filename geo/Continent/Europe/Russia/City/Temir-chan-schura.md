@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.83,47.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Temir-chan-schura
+coordinates: [[Temir-chan-schura]]
+markerFile: [[Temir-chan-schura]]
+defaultZoom: 11 
+maxZoom: 18
+```

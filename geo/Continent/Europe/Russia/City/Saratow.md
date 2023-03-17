@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saratow
+coordinates: [[Saratow]]
+markerFile: [[Saratow]]
+defaultZoom: 11 
+maxZoom: 18
+```

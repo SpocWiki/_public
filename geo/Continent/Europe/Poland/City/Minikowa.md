@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Minikowa
+coordinates: [[Minikowa]]
+markerFile: [[Minikowa]]
+defaultZoom: 11 
+maxZoom: 18
+```

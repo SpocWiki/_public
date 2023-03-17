@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wimbledon
+coordinates: [[Wimbledon]]
+markerFile: [[Wimbledon]]
+defaultZoom: 11 
+maxZoom: 18
+```

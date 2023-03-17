@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Genua
+coordinates: [[Genua]]
+markerFile: [[Genua]]
+defaultZoom: 11 
+maxZoom: 18
+```

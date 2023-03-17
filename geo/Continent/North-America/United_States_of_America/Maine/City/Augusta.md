@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Augusta
+coordinates: [[Augusta]]
+markerFile: [[Augusta]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [26.2,50.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Manama
+coordinates: [[Manama]]
+markerFile: [[Manama]]
+defaultZoom: 11 
+maxZoom: 18
+```

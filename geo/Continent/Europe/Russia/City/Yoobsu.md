@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yoobsu
+coordinates: [[Yoobsu]]
+markerFile: [[Yoobsu]]
+defaultZoom: 11 
+maxZoom: 18
+```

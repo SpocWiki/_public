@@ -1,4 +1,4 @@
----
+﻿---
 location: [36.8,10.18]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tunis
+coordinates: [[Tunis]]
+markerFile: [[Tunis]]
+defaultZoom: 11 
+maxZoom: 18
+```

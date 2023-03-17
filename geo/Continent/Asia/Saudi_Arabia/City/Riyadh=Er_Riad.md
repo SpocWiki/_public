@@ -1,4 +1,4 @@
----
+﻿---
 location: [24.65,46.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Riyadh=Er Riad
+coordinates: [[Riyadh=Er Riad]]
+markerFile: [[Riyadh=Er Riad]]
+defaultZoom: 11 
+maxZoom: 18
+```

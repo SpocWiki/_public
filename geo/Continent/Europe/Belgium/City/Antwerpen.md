@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Antwerpen
+coordinates: [[Antwerpen]]
+markerFile: [[Antwerpen]]
+defaultZoom: 11 
+maxZoom: 18
+```

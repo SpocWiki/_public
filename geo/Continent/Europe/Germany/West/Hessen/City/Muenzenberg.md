@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muenzenberg
+coordinates: [[Muenzenberg]]
+markerFile: [[Muenzenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

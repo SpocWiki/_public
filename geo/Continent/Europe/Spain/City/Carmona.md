@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carmona
+coordinates: [[Carmona]]
+markerFile: [[Carmona]]
+defaultZoom: 11 
+maxZoom: 18
+```

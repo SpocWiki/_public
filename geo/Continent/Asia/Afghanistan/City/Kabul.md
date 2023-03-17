@@ -1,4 +1,4 @@
----
+﻿---
 location: [34.5,69.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kabul
+coordinates: [[Kabul]]
+markerFile: [[Kabul]]
+defaultZoom: 11 
+maxZoom: 18
+```

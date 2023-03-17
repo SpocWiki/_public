@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Logrono
+coordinates: [[Logrono]]
+markerFile: [[Logrono]]
+defaultZoom: 11 
+maxZoom: 18
+```

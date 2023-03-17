@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Felixstown~Suffolk
+coordinates: [[Felixstown~Suffolk]]
+markerFile: [[Felixstown~Suffolk]]
+defaultZoom: 11 
+maxZoom: 18
+```

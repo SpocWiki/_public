@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salzdetfurth
+coordinates: [[Salzdetfurth]]
+markerFile: [[Salzdetfurth]]
+defaultZoom: 11 
+maxZoom: 18
+```

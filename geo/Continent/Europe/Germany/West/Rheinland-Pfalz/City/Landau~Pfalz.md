@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.19,8.11]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landau~Pfalz
+coordinates: [[Landau~Pfalz]]
+markerFile: [[Landau~Pfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sumen=Shumen
+coordinates: [[Sumen=Shumen]]
+markerFile: [[Sumen=Shumen]]
+defaultZoom: 11 
+maxZoom: 18
+```

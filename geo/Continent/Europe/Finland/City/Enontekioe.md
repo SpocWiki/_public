@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Enontekioe
+coordinates: [[Enontekioe]]
+markerFile: [[Enontekioe]]
+defaultZoom: 11 
+maxZoom: 18
+```

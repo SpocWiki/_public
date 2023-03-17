@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.37,8.22]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Niederbrechen
+coordinates: [[Niederbrechen]]
+markerFile: [[Niederbrechen]]
+defaultZoom: 11 
+maxZoom: 18
+```

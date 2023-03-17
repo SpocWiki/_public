@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedland
+coordinates: [[Friedland]]
+markerFile: [[Friedland]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [3.75,8.783334]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Malabo
+coordinates: [[Malabo]]
+markerFile: [[Malabo]]
+defaultZoom: 11 
+maxZoom: 18
+```

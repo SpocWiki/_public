@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Sebastian
+coordinates: [[San Sebastian]]
+markerFile: [[San Sebastian]]
+defaultZoom: 11 
+maxZoom: 18
+```

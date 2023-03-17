@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.68,13.05]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marktschellenberg
+coordinates: [[Marktschellenberg]]
+markerFile: [[Marktschellenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

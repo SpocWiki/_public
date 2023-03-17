@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taernaby
+coordinates: [[Taernaby]]
+markerFile: [[Taernaby]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peterborough
+coordinates: [[Peterborough]]
+markerFile: [[Peterborough]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goertz=Goriza
+coordinates: [[Goertz=Goriza]]
+markerFile: [[Goertz=Goriza]]
+defaultZoom: 11 
+maxZoom: 18
+```

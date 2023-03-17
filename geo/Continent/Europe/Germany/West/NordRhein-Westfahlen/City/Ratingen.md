@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ratingen
+coordinates: [[Ratingen]]
+markerFile: [[Ratingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

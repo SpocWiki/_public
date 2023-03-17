@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wertheim
+coordinates: [[Wertheim]]
+markerFile: [[Wertheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

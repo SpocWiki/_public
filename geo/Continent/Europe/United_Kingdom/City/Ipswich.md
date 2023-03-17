@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ipswich
+coordinates: [[Ipswich]]
+markerFile: [[Ipswich]]
+defaultZoom: 11 
+maxZoom: 18
+```

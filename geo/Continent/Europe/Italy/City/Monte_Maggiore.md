@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monte Maggiore
+coordinates: [[Monte Maggiore]]
+markerFile: [[Monte Maggiore]]
+defaultZoom: 11 
+maxZoom: 18
+```

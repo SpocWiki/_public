@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freising
+coordinates: [[Freising]]
+markerFile: [[Freising]]
+defaultZoom: 11 
+maxZoom: 18
+```

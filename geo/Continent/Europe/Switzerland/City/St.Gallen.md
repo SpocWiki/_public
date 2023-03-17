@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Gallen
+coordinates: [[St.Gallen]]
+markerFile: [[St.Gallen]]
+defaultZoom: 11 
+maxZoom: 18
+```

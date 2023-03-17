@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vallstanaes
+coordinates: [[Vallstanaes]]
+markerFile: [[Vallstanaes]]
+defaultZoom: 11 
+maxZoom: 18
+```

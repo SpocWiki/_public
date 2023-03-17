@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kasan
+coordinates: [[Kasan]]
+markerFile: [[Kasan]]
+defaultZoom: 11 
+maxZoom: 18
+```

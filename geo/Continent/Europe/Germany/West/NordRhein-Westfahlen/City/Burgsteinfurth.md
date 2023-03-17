@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burgsteinfurth
+coordinates: [[Burgsteinfurth]]
+markerFile: [[Burgsteinfurth]]
+defaultZoom: 11 
+maxZoom: 18
+```

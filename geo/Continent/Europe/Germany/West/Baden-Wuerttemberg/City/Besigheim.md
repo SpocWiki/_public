@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Besigheim
+coordinates: [[Besigheim]]
+markerFile: [[Besigheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

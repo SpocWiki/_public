@@ -1,4 +1,4 @@
-﻿---
+---
 location: [58.15,25.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halliste
+coordinates: [[Halliste]]
+markerFile: [[Halliste]]
+defaultZoom: 11 
+maxZoom: 18
+```

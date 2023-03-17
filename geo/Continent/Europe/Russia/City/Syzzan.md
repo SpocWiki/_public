@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.15,48.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Syzzan
+coordinates: [[Syzzan]]
+markerFile: [[Syzzan]]
+defaultZoom: 11 
+maxZoom: 18
+```

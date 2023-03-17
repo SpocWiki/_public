@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Filipstadt
+coordinates: [[Filipstadt]]
+markerFile: [[Filipstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

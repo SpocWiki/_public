@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Macerata
+coordinates: [[Macerata]]
+markerFile: [[Macerata]]
+defaultZoom: 11 
+maxZoom: 18
+```

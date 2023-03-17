@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tonsberg
+coordinates: [[Tonsberg]]
+markerFile: [[Tonsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

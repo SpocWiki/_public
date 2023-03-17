@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szentendro
+coordinates: [[Szentendro]]
+markerFile: [[Szentendro]]
+defaultZoom: 11 
+maxZoom: 18
+```

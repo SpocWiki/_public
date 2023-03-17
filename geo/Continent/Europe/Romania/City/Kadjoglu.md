@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kadjoglu
+coordinates: [[Kadjoglu]]
+markerFile: [[Kadjoglu]]
+defaultZoom: 11 
+maxZoom: 18
+```

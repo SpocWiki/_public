@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rustschuk
+coordinates: [[Rustschuk]]
+markerFile: [[Rustschuk]]
+defaultZoom: 11 
+maxZoom: 18
+```

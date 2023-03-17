@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lodi
+coordinates: [[Lodi]]
+markerFile: [[Lodi]]
+defaultZoom: 11 
+maxZoom: 18
+```

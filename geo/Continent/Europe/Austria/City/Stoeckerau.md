@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stoeckerau
+coordinates: [[Stoeckerau]]
+markerFile: [[Stoeckerau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Allenstein
+coordinates: [[Allenstein]]
+markerFile: [[Allenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

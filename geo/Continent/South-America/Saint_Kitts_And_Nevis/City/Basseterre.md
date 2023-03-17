@@ -1,4 +1,4 @@
----
+﻿---
 location: [17.3,-62.73333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Basseterre
+coordinates: [[Basseterre]]
+markerFile: [[Basseterre]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ansbach
+coordinates: [[Ansbach]]
+markerFile: [[Ansbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

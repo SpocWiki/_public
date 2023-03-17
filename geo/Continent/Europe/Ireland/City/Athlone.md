@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Athlone
+coordinates: [[Athlone]]
+markerFile: [[Athlone]]
+defaultZoom: 11 
+maxZoom: 18
+```

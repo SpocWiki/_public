@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mayenne
+coordinates: [[Mayenne]]
+markerFile: [[Mayenne]]
+defaultZoom: 11 
+maxZoom: 18
+```

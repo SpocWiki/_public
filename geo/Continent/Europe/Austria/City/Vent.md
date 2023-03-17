@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vent
+coordinates: [[Vent]]
+markerFile: [[Vent]]
+defaultZoom: 11 
+maxZoom: 18
+```

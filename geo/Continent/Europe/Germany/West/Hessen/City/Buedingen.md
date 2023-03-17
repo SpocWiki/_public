@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buedingen
+coordinates: [[Buedingen]]
+markerFile: [[Buedingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

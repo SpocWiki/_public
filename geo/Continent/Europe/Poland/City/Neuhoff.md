@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuhoff
+coordinates: [[Neuhoff]]
+markerFile: [[Neuhoff]]
+defaultZoom: 11 
+maxZoom: 18
+```

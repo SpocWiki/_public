@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tamisto
+coordinates: [[Tamisto]]
+markerFile: [[Tamisto]]
+defaultZoom: 11 
+maxZoom: 18
+```

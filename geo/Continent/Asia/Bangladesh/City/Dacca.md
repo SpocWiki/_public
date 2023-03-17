@@ -1,4 +1,4 @@
----
+﻿---
 location: [23.7,90.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dacca
+coordinates: [[Dacca]]
+markerFile: [[Dacca]]
+defaultZoom: 11 
+maxZoom: 18
+```

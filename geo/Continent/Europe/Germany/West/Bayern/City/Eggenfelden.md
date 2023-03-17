@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eggenfelden
+coordinates: [[Eggenfelden]]
+markerFile: [[Eggenfelden]]
+defaultZoom: 11 
+maxZoom: 18
+```

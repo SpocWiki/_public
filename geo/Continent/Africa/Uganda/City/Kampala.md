@@ -1,4 +1,4 @@
----
+﻿---
 location: [0.3136111,32.58111]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Kampala
+coordinates: [[Kampala]]
+markerFile: [[Kampala]]
+defaultZoom: 11 
+maxZoom: 18
+```

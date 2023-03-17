@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salder
+coordinates: [[Salder]]
+markerFile: [[Salder]]
+defaultZoom: 11 
+maxZoom: 18
+```

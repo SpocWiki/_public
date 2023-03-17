@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Drochtersen
+coordinates: [[Drochtersen]]
+markerFile: [[Drochtersen]]
+defaultZoom: 11 
+maxZoom: 18
+```

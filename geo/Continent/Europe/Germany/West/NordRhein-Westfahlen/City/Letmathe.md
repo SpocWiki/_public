@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Letmathe
+coordinates: [[Letmathe]]
+markerFile: [[Letmathe]]
+defaultZoom: 11 
+maxZoom: 18
+```

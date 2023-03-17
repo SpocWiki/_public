@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salsomaggiore
+coordinates: [[Salsomaggiore]]
+markerFile: [[Salsomaggiore]]
+defaultZoom: 11 
+maxZoom: 18
+```

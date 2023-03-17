@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mirandola
+coordinates: [[Mirandola]]
+markerFile: [[Mirandola]]
+defaultZoom: 11 
+maxZoom: 18
+```

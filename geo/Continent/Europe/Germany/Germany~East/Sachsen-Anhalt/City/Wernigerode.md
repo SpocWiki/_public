@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wernigerode
+coordinates: [[Wernigerode]]
+markerFile: [[Wernigerode]]
+defaultZoom: 11 
+maxZoom: 18
+```

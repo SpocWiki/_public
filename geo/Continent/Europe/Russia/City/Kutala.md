@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kutala
+coordinates: [[Kutala]]
+markerFile: [[Kutala]]
+defaultZoom: 11 
+maxZoom: 18
+```

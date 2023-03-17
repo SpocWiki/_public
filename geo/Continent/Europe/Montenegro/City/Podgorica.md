@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.78333,19.46667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Podgorica
+coordinates: [[Podgorica]]
+markerFile: [[Podgorica]]
+defaultZoom: 11 
+maxZoom: 18
+```

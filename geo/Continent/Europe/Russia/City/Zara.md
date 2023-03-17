@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zara
+coordinates: [[Zara]]
+markerFile: [[Zara]]
+defaultZoom: 11 
+maxZoom: 18
+```

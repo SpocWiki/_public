@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wirtheim
+coordinates: [[Wirtheim]]
+markerFile: [[Wirtheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Detmold
+coordinates: [[Detmold]]
+markerFile: [[Detmold]]
+defaultZoom: 11 
+maxZoom: 18
+```

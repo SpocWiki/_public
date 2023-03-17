@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sistovo=Swichtov
+coordinates: [[Sistovo=Swichtov]]
+markerFile: [[Sistovo=Swichtov]]
+defaultZoom: 11 
+maxZoom: 18
+```

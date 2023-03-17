@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nerchinsk
+coordinates: [[Nerchinsk]]
+markerFile: [[Nerchinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

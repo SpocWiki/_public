@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sambor
+coordinates: [[Sambor]]
+markerFile: [[Sambor]]
+defaultZoom: 11 
+maxZoom: 18
+```

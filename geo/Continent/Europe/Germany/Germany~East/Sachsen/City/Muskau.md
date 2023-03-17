@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muskau
+coordinates: [[Muskau]]
+markerFile: [[Muskau]]
+defaultZoom: 11 
+maxZoom: 18
+```

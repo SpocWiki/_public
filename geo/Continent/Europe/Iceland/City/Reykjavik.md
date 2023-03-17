@@ -1,4 +1,4 @@
----
+﻿---
 location: [64.15,-21.95]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reykjavik
+coordinates: [[Reykjavik]]
+markerFile: [[Reykjavik]]
+defaultZoom: 11 
+maxZoom: 18
+```

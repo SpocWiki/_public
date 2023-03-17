@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Domfront
+coordinates: [[Domfront]]
+markerFile: [[Domfront]]
+defaultZoom: 11 
+maxZoom: 18
+```

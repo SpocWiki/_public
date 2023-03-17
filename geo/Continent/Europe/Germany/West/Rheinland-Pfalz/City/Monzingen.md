@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.8,7.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monzingen
+coordinates: [[Monzingen]]
+markerFile: [[Monzingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

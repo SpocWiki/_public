@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luebbecke
+coordinates: [[Luebbecke]]
+markerFile: [[Luebbecke]]
+defaultZoom: 11 
+maxZoom: 18
+```

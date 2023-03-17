@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.48,35.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borodino
+coordinates: [[Borodino]]
+markerFile: [[Borodino]]
+defaultZoom: 11 
+maxZoom: 18
+```

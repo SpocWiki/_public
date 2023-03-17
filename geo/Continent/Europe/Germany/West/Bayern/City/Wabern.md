@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wabern
+coordinates: [[Wabern]]
+markerFile: [[Wabern]]
+defaultZoom: 11 
+maxZoom: 18
+```

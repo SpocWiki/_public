@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heide~Holstein
+coordinates: [[Heide~Holstein]]
+markerFile: [[Heide~Holstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

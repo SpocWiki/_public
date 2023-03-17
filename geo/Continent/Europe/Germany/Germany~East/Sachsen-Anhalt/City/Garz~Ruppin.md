@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Garz~Ruppin
+coordinates: [[Garz~Ruppin]]
+markerFile: [[Garz~Ruppin]]
+defaultZoom: 11 
+maxZoom: 18
+```

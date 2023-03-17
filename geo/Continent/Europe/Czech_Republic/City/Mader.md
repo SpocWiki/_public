@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mader
+coordinates: [[Mader]]
+markerFile: [[Mader]]
+defaultZoom: 11 
+maxZoom: 18
+```

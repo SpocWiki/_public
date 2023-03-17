@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.05,11.55]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenweddingen
+coordinates: [[Langenweddingen]]
+markerFile: [[Langenweddingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

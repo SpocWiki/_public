@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blois
+coordinates: [[Blois]]
+markerFile: [[Blois]]
+defaultZoom: 11 
+maxZoom: 18
+```

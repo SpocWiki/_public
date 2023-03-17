@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kisslegg
+coordinates: [[Kisslegg]]
+markerFile: [[Kisslegg]]
+defaultZoom: 11 
+maxZoom: 18
+```

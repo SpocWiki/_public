@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Magadan
+coordinates: [[Magadan]]
+markerFile: [[Magadan]]
+defaultZoom: 11 
+maxZoom: 18
+```

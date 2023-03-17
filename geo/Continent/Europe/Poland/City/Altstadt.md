@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altstadt
+coordinates: [[Altstadt]]
+markerFile: [[Altstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

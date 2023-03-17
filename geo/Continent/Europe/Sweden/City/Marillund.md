@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marillund
+coordinates: [[Marillund]]
+markerFile: [[Marillund]]
+defaultZoom: 11 
+maxZoom: 18
+```

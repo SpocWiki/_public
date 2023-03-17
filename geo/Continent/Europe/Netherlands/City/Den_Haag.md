@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Den Haag
+coordinates: [[Den Haag]]
+markerFile: [[Den Haag]]
+defaultZoom: 11 
+maxZoom: 18
+```

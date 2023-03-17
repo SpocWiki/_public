@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.61,13.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malmoe
+coordinates: [[Malmoe]]
+markerFile: [[Malmoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

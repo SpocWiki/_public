@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weida
+coordinates: [[Weida]]
+markerFile: [[Weida]]
+defaultZoom: 11 
+maxZoom: 18
+```

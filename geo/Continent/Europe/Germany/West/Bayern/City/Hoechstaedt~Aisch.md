@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoechstaedt~Aisch
+coordinates: [[Hoechstaedt~Aisch]]
+markerFile: [[Hoechstaedt~Aisch]]
+defaultZoom: 11 
+maxZoom: 18
+```

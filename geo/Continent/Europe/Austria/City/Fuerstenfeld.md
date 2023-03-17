@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuerstenfeld
+coordinates: [[Fuerstenfeld]]
+markerFile: [[Fuerstenfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

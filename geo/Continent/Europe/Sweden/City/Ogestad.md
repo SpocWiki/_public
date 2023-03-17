@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ogestad
+coordinates: [[Ogestad]]
+markerFile: [[Ogestad]]
+defaultZoom: 11 
+maxZoom: 18
+```

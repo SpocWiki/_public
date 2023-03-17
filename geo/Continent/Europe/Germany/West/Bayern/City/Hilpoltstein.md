@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hilpoltstein
+coordinates: [[Hilpoltstein]]
+markerFile: [[Hilpoltstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

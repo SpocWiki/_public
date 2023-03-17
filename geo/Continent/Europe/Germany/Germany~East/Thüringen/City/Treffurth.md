@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Treffurth
+coordinates: [[Treffurth]]
+markerFile: [[Treffurth]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuerstenberg
+coordinates: [[Fuerstenberg]]
+markerFile: [[Fuerstenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

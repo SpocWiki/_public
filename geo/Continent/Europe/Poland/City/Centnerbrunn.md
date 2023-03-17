@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Centnerbrunn
+coordinates: [[Centnerbrunn]]
+markerFile: [[Centnerbrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marlborough
+coordinates: [[Marlborough]]
+markerFile: [[Marlborough]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ungvar
+coordinates: [[Ungvar]]
+markerFile: [[Ungvar]]
+defaultZoom: 11 
+maxZoom: 18
+```

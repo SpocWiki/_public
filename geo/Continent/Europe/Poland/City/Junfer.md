@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Junfer
+coordinates: [[Junfer]]
+markerFile: [[Junfer]]
+defaultZoom: 11 
+maxZoom: 18
+```

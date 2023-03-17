@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stein
+coordinates: [[Stein]]
+markerFile: [[Stein]]
+defaultZoom: 11 
+maxZoom: 18
+```

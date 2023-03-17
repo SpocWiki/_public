@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frankfurt~Oder
+coordinates: [[Frankfurt~Oder]]
+markerFile: [[Frankfurt~Oder]]
+defaultZoom: 11 
+maxZoom: 18
+```

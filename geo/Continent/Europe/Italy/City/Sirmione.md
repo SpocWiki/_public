@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sirmione
+coordinates: [[Sirmione]]
+markerFile: [[Sirmione]]
+defaultZoom: 11 
+maxZoom: 18
+```

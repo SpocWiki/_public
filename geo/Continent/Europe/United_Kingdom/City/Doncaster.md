@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doncaster
+coordinates: [[Doncaster]]
+markerFile: [[Doncaster]]
+defaultZoom: 11 
+maxZoom: 18
+```

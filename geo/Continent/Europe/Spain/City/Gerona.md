@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gerona
+coordinates: [[Gerona]]
+markerFile: [[Gerona]]
+defaultZoom: 11 
+maxZoom: 18
+```

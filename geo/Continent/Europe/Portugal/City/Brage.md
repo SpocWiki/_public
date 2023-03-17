@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brage
+coordinates: [[Brage]]
+markerFile: [[Brage]]
+defaultZoom: 11 
+maxZoom: 18
+```

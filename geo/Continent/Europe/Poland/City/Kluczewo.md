@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kluczewo
+coordinates: [[Kluczewo]]
+markerFile: [[Kluczewo]]
+defaultZoom: 11 
+maxZoom: 18
+```

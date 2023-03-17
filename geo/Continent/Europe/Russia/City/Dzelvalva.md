@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dzelvalva
+coordinates: [[Dzelvalva]]
+markerFile: [[Dzelvalva]]
+defaultZoom: 11 
+maxZoom: 18
+```

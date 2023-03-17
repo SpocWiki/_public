@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rudolstadt
+coordinates: [[Rudolstadt]]
+markerFile: [[Rudolstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

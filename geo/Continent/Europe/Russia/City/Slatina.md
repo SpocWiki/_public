@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Slatina
+coordinates: [[Slatina]]
+markerFile: [[Slatina]]
+defaultZoom: 11 
+maxZoom: 18
+```

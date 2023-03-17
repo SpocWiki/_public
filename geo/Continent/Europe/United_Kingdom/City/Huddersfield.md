@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huddersfield
+coordinates: [[Huddersfield]]
+markerFile: [[Huddersfield]]
+defaultZoom: 11 
+maxZoom: 18
+```

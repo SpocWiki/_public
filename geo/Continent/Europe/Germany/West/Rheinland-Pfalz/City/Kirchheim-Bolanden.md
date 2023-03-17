@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchheim-Bolanden
+coordinates: [[Kirchheim-Bolanden]]
+markerFile: [[Kirchheim-Bolanden]]
+defaultZoom: 11 
+maxZoom: 18
+```

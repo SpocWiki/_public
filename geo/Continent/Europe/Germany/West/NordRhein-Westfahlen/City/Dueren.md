@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dueren
+coordinates: [[Dueren]]
+markerFile: [[Dueren]]
+defaultZoom: 11 
+maxZoom: 18
+```

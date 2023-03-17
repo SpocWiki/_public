@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: New Ross
+coordinates: [[New Ross]]
+markerFile: [[New Ross]]
+defaultZoom: 11 
+maxZoom: 18
+```

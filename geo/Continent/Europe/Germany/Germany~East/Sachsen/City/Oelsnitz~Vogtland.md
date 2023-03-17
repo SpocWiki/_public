@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oelsnitz~Vogtland
+coordinates: [[Oelsnitz~Vogtland]]
+markerFile: [[Oelsnitz~Vogtland]]
+defaultZoom: 11 
+maxZoom: 18
+```

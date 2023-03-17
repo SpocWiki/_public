@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pescara
+coordinates: [[Pescara]]
+markerFile: [[Pescara]]
+defaultZoom: 11 
+maxZoom: 18
+```

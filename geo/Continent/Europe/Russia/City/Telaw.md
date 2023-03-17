@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.92,45.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Telaw
+coordinates: [[Telaw]]
+markerFile: [[Telaw]]
+defaultZoom: 11 
+maxZoom: 18
+```

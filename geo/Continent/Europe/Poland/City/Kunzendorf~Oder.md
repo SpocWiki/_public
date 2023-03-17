@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kunzendorf~Oder
+coordinates: [[Kunzendorf~Oder]]
+markerFile: [[Kunzendorf~Oder]]
+defaultZoom: 11 
+maxZoom: 18
+```

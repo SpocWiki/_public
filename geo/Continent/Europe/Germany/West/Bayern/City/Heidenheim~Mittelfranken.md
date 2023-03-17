@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heidenheim~Mittelfranken
+coordinates: [[Heidenheim~Mittelfranken]]
+markerFile: [[Heidenheim~Mittelfranken]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orensa
+coordinates: [[Orensa]]
+markerFile: [[Orensa]]
+defaultZoom: 11 
+maxZoom: 18
+```

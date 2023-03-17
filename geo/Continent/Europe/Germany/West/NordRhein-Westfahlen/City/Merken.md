@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merken
+coordinates: [[Merken]]
+markerFile: [[Merken]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warnsdorf
+coordinates: [[Warnsdorf]]
+markerFile: [[Warnsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

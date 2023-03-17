@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aschaffenburg
+coordinates: [[Aschaffenburg]]
+markerFile: [[Aschaffenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

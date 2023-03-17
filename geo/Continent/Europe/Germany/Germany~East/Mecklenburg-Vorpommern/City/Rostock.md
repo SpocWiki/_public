@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rostock
+coordinates: [[Rostock]]
+markerFile: [[Rostock]]
+defaultZoom: 11 
+maxZoom: 18
+```

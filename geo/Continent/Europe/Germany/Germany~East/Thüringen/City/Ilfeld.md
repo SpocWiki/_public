@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ilfeld
+coordinates: [[Ilfeld]]
+markerFile: [[Ilfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

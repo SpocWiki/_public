@@ -1,4 +1,4 @@
----
+﻿---
 location: [10.66667,-61.51667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Port of Spain
+coordinates: [[Port of Spain]]
+markerFile: [[Port of Spain]]
+defaultZoom: 11 
+maxZoom: 18
+```

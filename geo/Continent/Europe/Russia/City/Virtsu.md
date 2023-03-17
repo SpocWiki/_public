@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Virtsu
+coordinates: [[Virtsu]]
+markerFile: [[Virtsu]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rastenburgfelde
+coordinates: [[Rastenburgfelde]]
+markerFile: [[Rastenburgfelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Menin
+coordinates: [[Menin]]
+markerFile: [[Menin]]
+defaultZoom: 11 
+maxZoom: 18
+```

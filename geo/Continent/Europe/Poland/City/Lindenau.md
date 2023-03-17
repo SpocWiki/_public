@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lindenau
+coordinates: [[Lindenau]]
+markerFile: [[Lindenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Keltsch
+coordinates: [[Keltsch]]
+markerFile: [[Keltsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grottkau
+coordinates: [[Grottkau]]
+markerFile: [[Grottkau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jaegerndorf=Kunov
+coordinates: [[Jaegerndorf=Kunov]]
+markerFile: [[Jaegerndorf=Kunov]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paullo
+coordinates: [[Paullo]]
+markerFile: [[Paullo]]
+defaultZoom: 11 
+maxZoom: 18
+```

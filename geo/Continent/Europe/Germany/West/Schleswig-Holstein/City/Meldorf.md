@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meldorf
+coordinates: [[Meldorf]]
+markerFile: [[Meldorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

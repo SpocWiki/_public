@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lappeenranta
+coordinates: [[Lappeenranta]]
+markerFile: [[Lappeenranta]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lesina
+coordinates: [[Lesina]]
+markerFile: [[Lesina]]
+defaultZoom: 11 
+maxZoom: 18
+```

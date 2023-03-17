@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ust-Kamenogorsk
+coordinates: [[Ust-Kamenogorsk]]
+markerFile: [[Ust-Kamenogorsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

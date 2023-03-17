@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falsterbo
+coordinates: [[Falsterbo]]
+markerFile: [[Falsterbo]]
+defaultZoom: 11 
+maxZoom: 18
+```

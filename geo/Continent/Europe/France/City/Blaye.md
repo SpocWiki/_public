@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blaye
+coordinates: [[Blaye]]
+markerFile: [[Blaye]]
+defaultZoom: 11 
+maxZoom: 18
+```

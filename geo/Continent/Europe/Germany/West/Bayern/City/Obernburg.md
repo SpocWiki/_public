@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Obernburg
+coordinates: [[Obernburg]]
+markerFile: [[Obernburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

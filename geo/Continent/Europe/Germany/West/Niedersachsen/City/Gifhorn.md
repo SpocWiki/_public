@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gifhorn
+coordinates: [[Gifhorn]]
+markerFile: [[Gifhorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

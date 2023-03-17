@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grillenberg
+coordinates: [[Grillenberg]]
+markerFile: [[Grillenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

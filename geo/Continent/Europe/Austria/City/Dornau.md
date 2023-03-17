@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dornau
+coordinates: [[Dornau]]
+markerFile: [[Dornau]]
+defaultZoom: 11 
+maxZoom: 18
+```

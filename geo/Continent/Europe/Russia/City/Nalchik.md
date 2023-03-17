@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nalchik
+coordinates: [[Nalchik]]
+markerFile: [[Nalchik]]
+defaultZoom: 11 
+maxZoom: 18
+```

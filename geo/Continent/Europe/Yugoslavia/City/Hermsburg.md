@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hermsburg
+coordinates: [[Hermsburg]]
+markerFile: [[Hermsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

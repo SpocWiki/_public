@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goslawitz
+coordinates: [[Goslawitz]]
+markerFile: [[Goslawitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

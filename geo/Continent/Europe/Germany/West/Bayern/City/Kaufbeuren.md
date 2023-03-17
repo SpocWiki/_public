@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.88,10.61]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaufbeuren
+coordinates: [[Kaufbeuren]]
+markerFile: [[Kaufbeuren]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skerries
+coordinates: [[Skerries]]
+markerFile: [[Skerries]]
+defaultZoom: 11 
+maxZoom: 18
+```

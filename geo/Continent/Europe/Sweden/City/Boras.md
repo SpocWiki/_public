@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boras
+coordinates: [[Boras]]
+markerFile: [[Boras]]
+defaultZoom: 11 
+maxZoom: 18
+```

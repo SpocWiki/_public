@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stollhofen
+coordinates: [[Stollhofen]]
+markerFile: [[Stollhofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

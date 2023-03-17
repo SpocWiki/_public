@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reigate
+coordinates: [[Reigate]]
+markerFile: [[Reigate]]
+defaultZoom: 11 
+maxZoom: 18
+```

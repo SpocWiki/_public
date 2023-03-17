@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaxholm
+coordinates: [[Vaxholm]]
+markerFile: [[Vaxholm]]
+defaultZoom: 11 
+maxZoom: 18
+```

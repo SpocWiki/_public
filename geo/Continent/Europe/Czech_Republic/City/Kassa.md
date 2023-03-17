@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kassa
+coordinates: [[Kassa]]
+markerFile: [[Kassa]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duenamuende
+coordinates: [[Duenamuende]]
+markerFile: [[Duenamuende]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petersdorf~Riesengebirge
+coordinates: [[Petersdorf~Riesengebirge]]
+markerFile: [[Petersdorf~Riesengebirge]]
+defaultZoom: 11 
+maxZoom: 18
+```

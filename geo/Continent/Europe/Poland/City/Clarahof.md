@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clarahof
+coordinates: [[Clarahof]]
+markerFile: [[Clarahof]]
+defaultZoom: 11 
+maxZoom: 18
+```

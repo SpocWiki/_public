@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt~Holstein
+coordinates: [[Neustadt~Holstein]]
+markerFile: [[Neustadt~Holstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

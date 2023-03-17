@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Palencia
+coordinates: [[Palencia]]
+markerFile: [[Palencia]]
+defaultZoom: 11 
+maxZoom: 18
+```

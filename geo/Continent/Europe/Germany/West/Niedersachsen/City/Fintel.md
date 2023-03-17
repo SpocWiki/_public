@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fintel
+coordinates: [[Fintel]]
+markerFile: [[Fintel]]
+defaultZoom: 11 
+maxZoom: 18
+```

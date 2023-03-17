@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Korsenz
+coordinates: [[Korsenz]]
+markerFile: [[Korsenz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vastorf
+coordinates: [[Vastorf]]
+markerFile: [[Vastorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

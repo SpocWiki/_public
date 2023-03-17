@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichenbach~Vogtland
+coordinates: [[Reichenbach~Vogtland]]
+markerFile: [[Reichenbach~Vogtland]]
+defaultZoom: 11 
+maxZoom: 18
+```

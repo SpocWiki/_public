@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Assel
+coordinates: [[Assel]]
+markerFile: [[Assel]]
+defaultZoom: 11 
+maxZoom: 18
+```

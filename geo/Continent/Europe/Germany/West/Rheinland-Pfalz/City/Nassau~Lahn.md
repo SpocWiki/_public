@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nassau~Lahn
+coordinates: [[Nassau~Lahn]]
+markerFile: [[Nassau~Lahn]]
+defaultZoom: 11 
+maxZoom: 18
+```

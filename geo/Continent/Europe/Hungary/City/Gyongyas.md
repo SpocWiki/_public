@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.78,19.93]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gyongyas
+coordinates: [[Gyongyas]]
+markerFile: [[Gyongyas]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Storonetz-Putilla
+coordinates: [[Storonetz-Putilla]]
+markerFile: [[Storonetz-Putilla]]
+defaultZoom: 11 
+maxZoom: 18
+```

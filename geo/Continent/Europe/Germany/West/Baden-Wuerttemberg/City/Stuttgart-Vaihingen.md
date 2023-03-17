@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stuttgart-Vaihingen
+coordinates: [[Stuttgart-Vaihingen]]
+markerFile: [[Stuttgart-Vaihingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

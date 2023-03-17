@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werl
+coordinates: [[Werl]]
+markerFile: [[Werl]]
+defaultZoom: 11 
+maxZoom: 18
+```

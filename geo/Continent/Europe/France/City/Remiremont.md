@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Remiremont
+coordinates: [[Remiremont]]
+markerFile: [[Remiremont]]
+defaultZoom: 11 
+maxZoom: 18
+```

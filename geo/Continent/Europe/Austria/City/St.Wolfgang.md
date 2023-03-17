@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Wolfgang
+coordinates: [[St.Wolfgang]]
+markerFile: [[St.Wolfgang]]
+defaultZoom: 11 
+maxZoom: 18
+```

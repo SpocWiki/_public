@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Murau
+coordinates: [[Murau]]
+markerFile: [[Murau]]
+defaultZoom: 11 
+maxZoom: 18
+```

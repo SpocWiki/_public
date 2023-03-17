@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vallendar
+coordinates: [[Vallendar]]
+markerFile: [[Vallendar]]
+defaultZoom: 11 
+maxZoom: 18
+```

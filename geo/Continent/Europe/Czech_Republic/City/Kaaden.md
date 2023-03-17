@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaaden
+coordinates: [[Kaaden]]
+markerFile: [[Kaaden]]
+defaultZoom: 11 
+maxZoom: 18
+```

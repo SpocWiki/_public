@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nottingham
+coordinates: [[Nottingham]]
+markerFile: [[Nottingham]]
+defaultZoom: 11 
+maxZoom: 18
+```

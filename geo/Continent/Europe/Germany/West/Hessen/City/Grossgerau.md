@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grossgerau
+coordinates: [[Grossgerau]]
+markerFile: [[Grossgerau]]
+defaultZoom: 11 
+maxZoom: 18
+```

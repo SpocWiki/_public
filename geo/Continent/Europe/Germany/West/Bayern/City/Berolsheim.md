@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berolsheim
+coordinates: [[Berolsheim]]
+markerFile: [[Berolsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

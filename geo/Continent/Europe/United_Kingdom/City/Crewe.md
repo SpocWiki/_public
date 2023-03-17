@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Crewe
+coordinates: [[Crewe]]
+markerFile: [[Crewe]]
+defaultZoom: 11 
+maxZoom: 18
+```

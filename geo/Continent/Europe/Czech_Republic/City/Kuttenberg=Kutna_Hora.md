@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuttenberg=Kutna Hora
+coordinates: [[Kuttenberg=Kutna Hora]]
+markerFile: [[Kuttenberg=Kutna Hora]]
+defaultZoom: 11 
+maxZoom: 18
+```

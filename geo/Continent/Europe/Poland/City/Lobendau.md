@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lobendau
+coordinates: [[Lobendau]]
+markerFile: [[Lobendau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [24.86,67.04]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karachi
+coordinates: [[Karachi]]
+markerFile: [[Karachi]]
+defaultZoom: 11 
+maxZoom: 18
+```

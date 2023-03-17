@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orsoy
+coordinates: [[Orsoy]]
+markerFile: [[Orsoy]]
+defaultZoom: 11 
+maxZoom: 18
+```

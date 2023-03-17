@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sulzburg
+coordinates: [[Sulzburg]]
+markerFile: [[Sulzburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

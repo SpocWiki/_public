@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zedlitz
+coordinates: [[Zedlitz]]
+markerFile: [[Zedlitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

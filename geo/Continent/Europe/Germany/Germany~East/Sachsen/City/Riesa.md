@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Riesa
+coordinates: [[Riesa]]
+markerFile: [[Riesa]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koknese
+coordinates: [[Koknese]]
+markerFile: [[Koknese]]
+defaultZoom: 11 
+maxZoom: 18
+```

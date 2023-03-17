@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Shitomir
+coordinates: [[Shitomir]]
+markerFile: [[Shitomir]]
+defaultZoom: 11 
+maxZoom: 18
+```

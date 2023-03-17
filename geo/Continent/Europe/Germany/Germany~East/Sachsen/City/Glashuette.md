@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glashuette
+coordinates: [[Glashuette]]
+markerFile: [[Glashuette]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baia-Mara
+coordinates: [[Baia-Mara]]
+markerFile: [[Baia-Mara]]
+defaultZoom: 11 
+maxZoom: 18
+```

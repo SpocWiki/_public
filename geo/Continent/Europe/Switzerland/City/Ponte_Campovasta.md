@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.58,9.93]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ponte Campovasta
+coordinates: [[Ponte Campovasta]]
+markerFile: [[Ponte Campovasta]]
+defaultZoom: 11 
+maxZoom: 18
+```

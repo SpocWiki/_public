@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Shaftesbury
+coordinates: [[Shaftesbury]]
+markerFile: [[Shaftesbury]]
+defaultZoom: 11 
+maxZoom: 18
+```

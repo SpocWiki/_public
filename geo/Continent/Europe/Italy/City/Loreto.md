@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loreto
+coordinates: [[Loreto]]
+markerFile: [[Loreto]]
+defaultZoom: 11 
+maxZoom: 18
+```

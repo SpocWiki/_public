@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sulina
+coordinates: [[Sulina]]
+markerFile: [[Sulina]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oelsnitz~Erzgebirge
+coordinates: [[Oelsnitz~Erzgebirge]]
+markerFile: [[Oelsnitz~Erzgebirge]]
+defaultZoom: 11 
+maxZoom: 18
+```

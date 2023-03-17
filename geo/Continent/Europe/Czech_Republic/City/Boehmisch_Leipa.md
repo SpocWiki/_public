@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boehmisch Leipa
+coordinates: [[Boehmisch Leipa]]
+markerFile: [[Boehmisch Leipa]]
+defaultZoom: 11 
+maxZoom: 18
+```

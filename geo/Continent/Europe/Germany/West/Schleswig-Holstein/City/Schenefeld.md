@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schenefeld
+coordinates: [[Schenefeld]]
+markerFile: [[Schenefeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

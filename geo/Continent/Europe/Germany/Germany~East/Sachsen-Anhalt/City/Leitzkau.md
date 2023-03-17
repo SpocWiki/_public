@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.07,11.95]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leitzkau
+coordinates: [[Leitzkau]]
+markerFile: [[Leitzkau]]
+defaultZoom: 11 
+maxZoom: 18
+```

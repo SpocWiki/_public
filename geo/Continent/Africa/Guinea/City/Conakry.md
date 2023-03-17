@@ -1,4 +1,4 @@
----
+﻿---
 location: [9.516666,-13.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Conakry
+coordinates: [[Conakry]]
+markerFile: [[Conakry]]
+defaultZoom: 11 
+maxZoom: 18
+```

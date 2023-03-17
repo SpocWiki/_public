@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lidingo
+coordinates: [[Lidingo]]
+markerFile: [[Lidingo]]
+defaultZoom: 11 
+maxZoom: 18
+```

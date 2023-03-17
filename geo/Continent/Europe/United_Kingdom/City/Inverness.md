@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Inverness
+coordinates: [[Inverness]]
+markerFile: [[Inverness]]
+defaultZoom: 11 
+maxZoom: 18
+```

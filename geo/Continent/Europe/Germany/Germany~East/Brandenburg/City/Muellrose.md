@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muellrose
+coordinates: [[Muellrose]]
+markerFile: [[Muellrose]]
+defaultZoom: 11 
+maxZoom: 18
+```

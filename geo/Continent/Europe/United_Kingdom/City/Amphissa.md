@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amphissa
+coordinates: [[Amphissa]]
+markerFile: [[Amphissa]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaekisalmi
+coordinates: [[Kaekisalmi]]
+markerFile: [[Kaekisalmi]]
+defaultZoom: 11 
+maxZoom: 18
+```

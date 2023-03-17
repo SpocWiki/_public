@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liegnitz
+coordinates: [[Liegnitz]]
+markerFile: [[Liegnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

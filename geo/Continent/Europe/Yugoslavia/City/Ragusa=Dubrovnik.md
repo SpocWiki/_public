@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ragusa=Dubrovnik
+coordinates: [[Ragusa=Dubrovnik]]
+markerFile: [[Ragusa=Dubrovnik]]
+defaultZoom: 11 
+maxZoom: 18
+```

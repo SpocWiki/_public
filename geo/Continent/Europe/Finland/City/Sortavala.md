@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sortavala
+coordinates: [[Sortavala]]
+markerFile: [[Sortavala]]
+defaultZoom: 11 
+maxZoom: 18
+```

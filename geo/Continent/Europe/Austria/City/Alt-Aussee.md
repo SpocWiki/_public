@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alt-Aussee
+coordinates: [[Alt-Aussee]]
+markerFile: [[Alt-Aussee]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [6.78,-58.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Georgetown
+coordinates: [[Georgetown]]
+markerFile: [[Georgetown]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Imst
+coordinates: [[Imst]]
+markerFile: [[Imst]]
+defaultZoom: 11 
+maxZoom: 18
+```

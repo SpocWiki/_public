@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salerno
+coordinates: [[Salerno]]
+markerFile: [[Salerno]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hartlepool
+coordinates: [[Hartlepool]]
+markerFile: [[Hartlepool]]
+defaultZoom: 11 
+maxZoom: 18
+```

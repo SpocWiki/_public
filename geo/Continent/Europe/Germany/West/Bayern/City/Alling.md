@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alling
+coordinates: [[Alling]]
+markerFile: [[Alling]]
+defaultZoom: 11 
+maxZoom: 18
+```

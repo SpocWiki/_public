@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zamdorf
+coordinates: [[Zamdorf]]
+markerFile: [[Zamdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

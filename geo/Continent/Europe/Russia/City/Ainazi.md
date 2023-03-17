@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ainazi
+coordinates: [[Ainazi]]
+markerFile: [[Ainazi]]
+defaultZoom: 11 
+maxZoom: 18
+```

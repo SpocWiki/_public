@@ -1,4 +1,4 @@
----
+﻿---
 location: [32.89,13.19]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tripolis=Tripoli
+coordinates: [[Tripolis=Tripoli]]
+markerFile: [[Tripolis=Tripoli]]
+defaultZoom: 11 
+maxZoom: 18
+```

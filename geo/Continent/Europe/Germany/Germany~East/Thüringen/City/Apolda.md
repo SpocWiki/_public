@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Apolda
+coordinates: [[Apolda]]
+markerFile: [[Apolda]]
+defaultZoom: 11 
+maxZoom: 18
+```

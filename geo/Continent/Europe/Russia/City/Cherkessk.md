@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.23,42.05]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cherkessk
+coordinates: [[Cherkessk]]
+markerFile: [[Cherkessk]]
+defaultZoom: 11 
+maxZoom: 18
+```

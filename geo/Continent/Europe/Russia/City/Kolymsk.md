@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kolymsk
+coordinates: [[Kolymsk]]
+markerFile: [[Kolymsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

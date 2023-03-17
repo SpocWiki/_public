@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.02,11.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wittenberge
+coordinates: [[Wittenberge]]
+markerFile: [[Wittenberge]]
+defaultZoom: 11 
+maxZoom: 18
+```

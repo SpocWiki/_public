@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radomier
+coordinates: [[Radomier]]
+markerFile: [[Radomier]]
+defaultZoom: 11 
+maxZoom: 18
+```

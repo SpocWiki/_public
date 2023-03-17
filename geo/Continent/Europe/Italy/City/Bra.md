@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.68,7.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bra
+coordinates: [[Bra]]
+markerFile: [[Bra]]
+defaultZoom: 11 
+maxZoom: 18
+```

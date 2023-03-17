@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brecon
+coordinates: [[Brecon]]
+markerFile: [[Brecon]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dunfermline
+coordinates: [[Dunfermline]]
+markerFile: [[Dunfermline]]
+defaultZoom: 11 
+maxZoom: 18
+```

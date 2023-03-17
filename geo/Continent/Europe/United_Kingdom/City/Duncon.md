@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duncon
+coordinates: [[Duncon]]
+markerFile: [[Duncon]]
+defaultZoom: 11 
+maxZoom: 18
+```

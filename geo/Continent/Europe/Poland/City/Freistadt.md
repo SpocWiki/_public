@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freistadt
+coordinates: [[Freistadt]]
+markerFile: [[Freistadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

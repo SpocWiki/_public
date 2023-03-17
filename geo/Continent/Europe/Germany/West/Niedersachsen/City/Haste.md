@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haste
+coordinates: [[Haste]]
+markerFile: [[Haste]]
+defaultZoom: 11 
+maxZoom: 18
+```

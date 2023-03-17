@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merxleben
+coordinates: [[Merxleben]]
+markerFile: [[Merxleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

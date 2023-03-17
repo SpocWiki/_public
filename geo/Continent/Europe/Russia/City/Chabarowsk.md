@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chabarowsk
+coordinates: [[Chabarowsk]]
+markerFile: [[Chabarowsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

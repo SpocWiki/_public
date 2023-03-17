@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strubben
+coordinates: [[Strubben]]
+markerFile: [[Strubben]]
+defaultZoom: 11 
+maxZoom: 18
+```

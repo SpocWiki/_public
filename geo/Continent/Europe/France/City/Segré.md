@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Segré
+coordinates: [[Segré]]
+markerFile: [[Segré]]
+defaultZoom: 11 
+maxZoom: 18
+```

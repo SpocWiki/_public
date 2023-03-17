@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rawa Ruska
+coordinates: [[Rawa Ruska]]
+markerFile: [[Rawa Ruska]]
+defaultZoom: 11 
+maxZoom: 18
+```

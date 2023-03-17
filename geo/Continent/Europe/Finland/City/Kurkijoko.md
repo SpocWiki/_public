@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kurkijoko
+coordinates: [[Kurkijoko]]
+markerFile: [[Kurkijoko]]
+defaultZoom: 11 
+maxZoom: 18
+```

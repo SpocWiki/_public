@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orlamuende
+coordinates: [[Orlamuende]]
+markerFile: [[Orlamuende]]
+defaultZoom: 11 
+maxZoom: 18
+```

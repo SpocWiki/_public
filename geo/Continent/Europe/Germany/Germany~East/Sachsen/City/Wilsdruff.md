@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wilsdruff
+coordinates: [[Wilsdruff]]
+markerFile: [[Wilsdruff]]
+defaultZoom: 11 
+maxZoom: 18
+```

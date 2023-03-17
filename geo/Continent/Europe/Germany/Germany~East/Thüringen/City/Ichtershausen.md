@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ichtershausen
+coordinates: [[Ichtershausen]]
+markerFile: [[Ichtershausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

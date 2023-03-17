@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bucheben
+coordinates: [[Bucheben]]
+markerFile: [[Bucheben]]
+defaultZoom: 11 
+maxZoom: 18
+```

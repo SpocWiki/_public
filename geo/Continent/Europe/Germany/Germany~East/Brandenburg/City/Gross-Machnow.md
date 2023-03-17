@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gross-Machnow
+coordinates: [[Gross-Machnow]]
+markerFile: [[Gross-Machnow]]
+defaultZoom: 11 
+maxZoom: 18
+```

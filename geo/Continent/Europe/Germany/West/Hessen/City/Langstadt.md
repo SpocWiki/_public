@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langstadt
+coordinates: [[Langstadt]]
+markerFile: [[Langstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

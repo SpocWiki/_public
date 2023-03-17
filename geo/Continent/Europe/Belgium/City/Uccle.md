@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.8,4.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uccle
+coordinates: [[Uccle]]
+markerFile: [[Uccle]]
+defaultZoom: 11 
+maxZoom: 18
+```

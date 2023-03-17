@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oederan
+coordinates: [[Oederan]]
+markerFile: [[Oederan]]
+defaultZoom: 11 
+maxZoom: 18
+```

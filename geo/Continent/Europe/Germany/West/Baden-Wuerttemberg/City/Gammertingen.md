@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gammertingen
+coordinates: [[Gammertingen]]
+markerFile: [[Gammertingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

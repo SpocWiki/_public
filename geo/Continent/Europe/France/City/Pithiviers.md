@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pithiviers
+coordinates: [[Pithiviers]]
+markerFile: [[Pithiviers]]
+defaultZoom: 11 
+maxZoom: 18
+```

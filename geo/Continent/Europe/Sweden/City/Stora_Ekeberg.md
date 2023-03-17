@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stora Ekeberg
+coordinates: [[Stora Ekeberg]]
+markerFile: [[Stora Ekeberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

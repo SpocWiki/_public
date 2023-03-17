@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.35,13.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zeuthen
+coordinates: [[Zeuthen]]
+markerFile: [[Zeuthen]]
+defaultZoom: 11 
+maxZoom: 18
+```

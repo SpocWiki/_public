@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eckernfoerde
+coordinates: [[Eckernfoerde]]
+markerFile: [[Eckernfoerde]]
+defaultZoom: 11 
+maxZoom: 18
+```

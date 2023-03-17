@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.6,16.82]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frankenstein
+coordinates: [[Frankenstein]]
+markerFile: [[Frankenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

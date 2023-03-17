@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alatornio
+coordinates: [[Alatornio]]
+markerFile: [[Alatornio]]
+defaultZoom: 11 
+maxZoom: 18
+```

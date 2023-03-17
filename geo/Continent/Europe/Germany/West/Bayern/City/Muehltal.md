@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muehltal
+coordinates: [[Muehltal]]
+markerFile: [[Muehltal]]
+defaultZoom: 11 
+maxZoom: 18
+```

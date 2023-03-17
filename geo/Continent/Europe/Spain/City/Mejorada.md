@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mejorada
+coordinates: [[Mejorada]]
+markerFile: [[Mejorada]]
+defaultZoom: 11 
+maxZoom: 18
+```

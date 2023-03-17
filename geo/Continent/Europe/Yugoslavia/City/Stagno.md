@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stagno
+coordinates: [[Stagno]]
+markerFile: [[Stagno]]
+defaultZoom: 11 
+maxZoom: 18
+```

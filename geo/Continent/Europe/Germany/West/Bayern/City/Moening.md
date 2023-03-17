@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moening
+coordinates: [[Moening]]
+markerFile: [[Moening]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wellenstein
+coordinates: [[Wellenstein]]
+markerFile: [[Wellenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

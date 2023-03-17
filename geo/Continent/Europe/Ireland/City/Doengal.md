@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doengal
+coordinates: [[Doengal]]
+markerFile: [[Doengal]]
+defaultZoom: 11 
+maxZoom: 18
+```

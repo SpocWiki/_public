@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Denzlingen
+coordinates: [[Denzlingen]]
+markerFile: [[Denzlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

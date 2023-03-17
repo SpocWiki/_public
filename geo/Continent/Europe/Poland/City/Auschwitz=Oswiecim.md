@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Auschwitz=Oswiecim
+coordinates: [[Auschwitz=Oswiecim]]
+markerFile: [[Auschwitz=Oswiecim]]
+defaultZoom: 11 
+maxZoom: 18
+```

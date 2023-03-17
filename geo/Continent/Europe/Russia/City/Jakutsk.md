@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jakutsk
+coordinates: [[Jakutsk]]
+markerFile: [[Jakutsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

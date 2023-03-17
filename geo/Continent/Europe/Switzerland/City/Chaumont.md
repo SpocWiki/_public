@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chaumont
+coordinates: [[Chaumont]]
+markerFile: [[Chaumont]]
+defaultZoom: 11 
+maxZoom: 18
+```

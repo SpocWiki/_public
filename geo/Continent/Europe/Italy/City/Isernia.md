@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Isernia
+coordinates: [[Isernia]]
+markerFile: [[Isernia]]
+defaultZoom: 11 
+maxZoom: 18
+```

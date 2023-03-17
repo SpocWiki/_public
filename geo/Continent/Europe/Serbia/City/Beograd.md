@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.82,20.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beograd
+coordinates: [[Beograd]]
+markerFile: [[Beograd]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Daun
+coordinates: [[Daun]]
+markerFile: [[Daun]]
+defaultZoom: 11 
+maxZoom: 18
+```

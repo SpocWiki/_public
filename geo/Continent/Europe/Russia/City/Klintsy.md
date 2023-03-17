@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klintsy
+coordinates: [[Klintsy]]
+markerFile: [[Klintsy]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruhstorf
+coordinates: [[Ruhstorf]]
+markerFile: [[Ruhstorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

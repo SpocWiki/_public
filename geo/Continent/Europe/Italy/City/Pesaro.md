@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pesaro
+coordinates: [[Pesaro]]
+markerFile: [[Pesaro]]
+defaultZoom: 11 
+maxZoom: 18
+```

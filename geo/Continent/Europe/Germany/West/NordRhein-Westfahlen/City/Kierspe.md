@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kierspe
+coordinates: [[Kierspe]]
+markerFile: [[Kierspe]]
+defaultZoom: 11 
+maxZoom: 18
+```

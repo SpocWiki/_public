@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldil
+coordinates: [[Waldil]]
+markerFile: [[Waldil]]
+defaultZoom: 11 
+maxZoom: 18
+```

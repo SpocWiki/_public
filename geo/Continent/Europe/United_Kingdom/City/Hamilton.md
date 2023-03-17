@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Hamilton
+coordinates: [[Hamilton]]
+markerFile: [[Hamilton]]
+defaultZoom: 11 
+maxZoom: 18
+```

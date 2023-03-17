@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beja
+coordinates: [[Beja]]
+markerFile: [[Beja]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frederikshavn
+coordinates: [[Frederikshavn]]
+markerFile: [[Frederikshavn]]
+defaultZoom: 11 
+maxZoom: 18
+```

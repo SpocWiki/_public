@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tettau
+coordinates: [[Tettau]]
+markerFile: [[Tettau]]
+defaultZoom: 11 
+maxZoom: 18
+```

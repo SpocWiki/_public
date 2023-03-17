@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.62,9.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vimercate
+coordinates: [[Vimercate]]
+markerFile: [[Vimercate]]
+defaultZoom: 11 
+maxZoom: 18
+```

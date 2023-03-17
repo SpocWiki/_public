@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valladolid
+coordinates: [[Valladolid]]
+markerFile: [[Valladolid]]
+defaultZoom: 11 
+maxZoom: 18
+```

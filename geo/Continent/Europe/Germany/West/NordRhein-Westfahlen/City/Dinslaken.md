@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dinslaken
+coordinates: [[Dinslaken]]
+markerFile: [[Dinslaken]]
+defaultZoom: 11 
+maxZoom: 18
+```

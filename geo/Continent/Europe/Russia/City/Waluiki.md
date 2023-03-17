@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waluiki
+coordinates: [[Waluiki]]
+markerFile: [[Waluiki]]
+defaultZoom: 11 
+maxZoom: 18
+```

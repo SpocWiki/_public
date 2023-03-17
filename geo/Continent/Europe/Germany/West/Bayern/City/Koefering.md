@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koefering
+coordinates: [[Koefering]]
+markerFile: [[Koefering]]
+defaultZoom: 11 
+maxZoom: 18
+```

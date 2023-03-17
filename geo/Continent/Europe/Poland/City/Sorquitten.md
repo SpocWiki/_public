@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sorquitten
+coordinates: [[Sorquitten]]
+markerFile: [[Sorquitten]]
+defaultZoom: 11 
+maxZoom: 18
+```

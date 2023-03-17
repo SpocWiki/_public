@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zawoja
+coordinates: [[Zawoja]]
+markerFile: [[Zawoja]]
+defaultZoom: 11 
+maxZoom: 18
+```

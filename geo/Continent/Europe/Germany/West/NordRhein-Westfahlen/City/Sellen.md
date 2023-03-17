@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.17,7.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sellen
+coordinates: [[Sellen]]
+markerFile: [[Sellen]]
+defaultZoom: 11 
+maxZoom: 18
+```

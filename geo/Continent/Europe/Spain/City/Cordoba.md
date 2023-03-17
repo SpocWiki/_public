@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cordoba
+coordinates: [[Cordoba]]
+markerFile: [[Cordoba]]
+defaultZoom: 11 
+maxZoom: 18
+```

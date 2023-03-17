@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.95,11.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Diessen
+coordinates: [[Diessen]]
+markerFile: [[Diessen]]
+defaultZoom: 11 
+maxZoom: 18
+```

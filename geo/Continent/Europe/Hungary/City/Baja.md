@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baja
+coordinates: [[Baja]]
+markerFile: [[Baja]]
+defaultZoom: 11 
+maxZoom: 18
+```

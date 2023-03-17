@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Quentin
+coordinates: [[St.Quentin]]
+markerFile: [[St.Quentin]]
+defaultZoom: 11 
+maxZoom: 18
+```

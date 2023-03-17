@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ifta
+coordinates: [[Ifta]]
+markerFile: [[Ifta]]
+defaultZoom: 11 
+maxZoom: 18
+```

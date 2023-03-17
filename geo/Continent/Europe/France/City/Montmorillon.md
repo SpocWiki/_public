@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montmorillon
+coordinates: [[Montmorillon]]
+markerFile: [[Montmorillon]]
+defaultZoom: 11 
+maxZoom: 18
+```

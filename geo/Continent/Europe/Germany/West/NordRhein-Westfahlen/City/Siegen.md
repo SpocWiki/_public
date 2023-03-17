@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siegen
+coordinates: [[Siegen]]
+markerFile: [[Siegen]]
+defaultZoom: 11 
+maxZoom: 18
+```

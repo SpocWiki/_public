@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steinau~Schlesien
+coordinates: [[Steinau~Schlesien]]
+markerFile: [[Steinau~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

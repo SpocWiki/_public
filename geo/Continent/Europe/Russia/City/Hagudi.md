@@ -1,4 +1,4 @@
-﻿---
+---
 location: [59.08,24.82]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hagudi
+coordinates: [[Hagudi]]
+markerFile: [[Hagudi]]
+defaultZoom: 11 
+maxZoom: 18
+```

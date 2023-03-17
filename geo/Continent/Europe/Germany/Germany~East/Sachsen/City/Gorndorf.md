@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gorndorf
+coordinates: [[Gorndorf]]
+markerFile: [[Gorndorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

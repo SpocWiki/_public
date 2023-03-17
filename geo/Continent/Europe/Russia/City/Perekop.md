@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perekop
+coordinates: [[Perekop]]
+markerFile: [[Perekop]]
+defaultZoom: 11 
+maxZoom: 18
+```

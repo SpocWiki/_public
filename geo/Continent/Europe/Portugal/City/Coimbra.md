@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Coimbra
+coordinates: [[Coimbra]]
+markerFile: [[Coimbra]]
+defaultZoom: 11 
+maxZoom: 18
+```

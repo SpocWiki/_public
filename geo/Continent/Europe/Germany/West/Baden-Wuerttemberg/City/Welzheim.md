@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Welzheim
+coordinates: [[Welzheim]]
+markerFile: [[Welzheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

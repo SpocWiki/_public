@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bethan
+coordinates: [[Bethan]]
+markerFile: [[Bethan]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [31.78,35.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jerusalem
+coordinates: [[Jerusalem]]
+markerFile: [[Jerusalem]]
+defaultZoom: 11 
+maxZoom: 18
+```

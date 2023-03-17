@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lilienthal
+coordinates: [[Lilienthal]]
+markerFile: [[Lilienthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

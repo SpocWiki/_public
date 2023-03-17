@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Elbasan
+coordinates: [[Elbasan]]
+markerFile: [[Elbasan]]
+defaultZoom: 11 
+maxZoom: 18
+```

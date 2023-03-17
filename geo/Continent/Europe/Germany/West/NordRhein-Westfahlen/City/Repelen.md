@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Repelen
+coordinates: [[Repelen]]
+markerFile: [[Repelen]]
+defaultZoom: 11 
+maxZoom: 18
+```

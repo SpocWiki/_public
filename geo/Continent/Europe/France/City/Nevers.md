@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.98,3.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nevers
+coordinates: [[Nevers]]
+markerFile: [[Nevers]]
+defaultZoom: 11 
+maxZoom: 18
+```

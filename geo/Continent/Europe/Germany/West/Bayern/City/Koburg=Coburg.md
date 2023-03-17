@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koburg=Coburg
+coordinates: [[Koburg=Coburg]]
+markerFile: [[Koburg=Coburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

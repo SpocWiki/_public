@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hindenburg
+coordinates: [[Hindenburg]]
+markerFile: [[Hindenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

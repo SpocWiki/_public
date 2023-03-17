@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Levern
+coordinates: [[Levern]]
+markerFile: [[Levern]]
+defaultZoom: 11 
+maxZoom: 18
+```

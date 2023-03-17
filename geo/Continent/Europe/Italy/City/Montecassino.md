@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montecassino
+coordinates: [[Montecassino]]
+markerFile: [[Montecassino]]
+defaultZoom: 11 
+maxZoom: 18
+```

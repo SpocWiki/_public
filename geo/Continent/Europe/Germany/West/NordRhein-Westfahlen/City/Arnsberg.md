@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arnsberg
+coordinates: [[Arnsberg]]
+markerFile: [[Arnsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

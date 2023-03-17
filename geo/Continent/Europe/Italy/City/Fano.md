@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fano
+coordinates: [[Fano]]
+markerFile: [[Fano]]
+defaultZoom: 11 
+maxZoom: 18
+```

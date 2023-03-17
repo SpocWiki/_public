@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sonthofen
+coordinates: [[Sonthofen]]
+markerFile: [[Sonthofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuerth~Nuernberg
+coordinates: [[Fuerth~Nuernberg]]
+markerFile: [[Fuerth~Nuernberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

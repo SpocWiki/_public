@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Macon
+coordinates: [[Macon]]
+markerFile: [[Macon]]
+defaultZoom: 11 
+maxZoom: 18
+```

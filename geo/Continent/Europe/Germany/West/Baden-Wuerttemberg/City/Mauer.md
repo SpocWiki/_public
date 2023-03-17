@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mauer
+coordinates: [[Mauer]]
+markerFile: [[Mauer]]
+defaultZoom: 11 
+maxZoom: 18
+```

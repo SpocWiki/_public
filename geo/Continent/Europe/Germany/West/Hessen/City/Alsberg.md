@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alsberg
+coordinates: [[Alsberg]]
+markerFile: [[Alsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

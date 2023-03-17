@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Feldberg
+coordinates: [[Feldberg]]
+markerFile: [[Feldberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

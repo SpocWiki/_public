@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neumarkt
+coordinates: [[Neumarkt]]
+markerFile: [[Neumarkt]]
+defaultZoom: 11 
+maxZoom: 18
+```

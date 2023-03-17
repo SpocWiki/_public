@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Obersiebenbrunn
+coordinates: [[Obersiebenbrunn]]
+markerFile: [[Obersiebenbrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichersberg
+coordinates: [[Reichersberg]]
+markerFile: [[Reichersberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Badajoz
+coordinates: [[Badajoz]]
+markerFile: [[Badajoz]]
+defaultZoom: 11 
+maxZoom: 18
+```

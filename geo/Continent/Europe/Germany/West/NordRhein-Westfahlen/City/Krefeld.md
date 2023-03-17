@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krefeld
+coordinates: [[Krefeld]]
+markerFile: [[Krefeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

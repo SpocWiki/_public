@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hallbach
+coordinates: [[Hallbach]]
+markerFile: [[Hallbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

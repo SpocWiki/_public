@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt~Saale
+coordinates: [[Neustadt~Saale]]
+markerFile: [[Neustadt~Saale]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tiegenort
+coordinates: [[Tiegenort]]
+markerFile: [[Tiegenort]]
+defaultZoom: 11 
+maxZoom: 18
+```

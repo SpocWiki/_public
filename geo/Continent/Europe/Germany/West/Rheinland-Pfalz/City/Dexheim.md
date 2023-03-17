@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dexheim
+coordinates: [[Dexheim]]
+markerFile: [[Dexheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

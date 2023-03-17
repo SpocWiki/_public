@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salzkotten
+coordinates: [[Salzkotten]]
+markerFile: [[Salzkotten]]
+defaultZoom: 11 
+maxZoom: 18
+```

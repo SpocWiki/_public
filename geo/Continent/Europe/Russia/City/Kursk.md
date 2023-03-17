@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kursk
+coordinates: [[Kursk]]
+markerFile: [[Kursk]]
+defaultZoom: 11 
+maxZoom: 18
+```

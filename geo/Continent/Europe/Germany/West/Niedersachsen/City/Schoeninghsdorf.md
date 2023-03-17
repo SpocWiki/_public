@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoeninghsdorf
+coordinates: [[Schoeninghsdorf]]
+markerFile: [[Schoeninghsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

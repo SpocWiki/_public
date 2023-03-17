@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leigh
+coordinates: [[Leigh]]
+markerFile: [[Leigh]]
+defaultZoom: 11 
+maxZoom: 18
+```

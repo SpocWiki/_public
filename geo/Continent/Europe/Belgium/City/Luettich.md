@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luettich
+coordinates: [[Luettich]]
+markerFile: [[Luettich]]
+defaultZoom: 11 
+maxZoom: 18
+```

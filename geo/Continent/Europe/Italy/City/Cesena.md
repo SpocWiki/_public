@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cesena
+coordinates: [[Cesena]]
+markerFile: [[Cesena]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duerrhennersdorf
+coordinates: [[Duerrhennersdorf]]
+markerFile: [[Duerrhennersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

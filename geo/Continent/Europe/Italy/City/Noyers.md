@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Noyers
+coordinates: [[Noyers]]
+markerFile: [[Noyers]]
+defaultZoom: 11 
+maxZoom: 18
+```

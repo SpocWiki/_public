@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tempio Pausania
+coordinates: [[Tempio Pausania]]
+markerFile: [[Tempio Pausania]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jelgava
+coordinates: [[Jelgava]]
+markerFile: [[Jelgava]]
+defaultZoom: 11 
+maxZoom: 18
+```

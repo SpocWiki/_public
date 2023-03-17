@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hamburn
+coordinates: [[Hamburn]]
+markerFile: [[Hamburn]]
+defaultZoom: 11 
+maxZoom: 18
+```

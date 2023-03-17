@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Subiaco~Abruzzen
+coordinates: [[Subiaco~Abruzzen]]
+markerFile: [[Subiaco~Abruzzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

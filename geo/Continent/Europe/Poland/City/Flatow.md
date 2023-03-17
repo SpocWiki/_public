@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.37,17.03]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flatow
+coordinates: [[Flatow]]
+markerFile: [[Flatow]]
+defaultZoom: 11 
+maxZoom: 18
+```

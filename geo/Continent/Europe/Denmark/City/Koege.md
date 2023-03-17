@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koege
+coordinates: [[Koege]]
+markerFile: [[Koege]]
+defaultZoom: 11 
+maxZoom: 18
+```

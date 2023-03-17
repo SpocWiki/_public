@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freiwaldau
+coordinates: [[Freiwaldau]]
+markerFile: [[Freiwaldau]]
+defaultZoom: 11 
+maxZoom: 18
+```

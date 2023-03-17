@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nurmijaervi
+coordinates: [[Nurmijaervi]]
+markerFile: [[Nurmijaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

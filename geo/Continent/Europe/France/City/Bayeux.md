@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bayeux
+coordinates: [[Bayeux]]
+markerFile: [[Bayeux]]
+defaultZoom: 11 
+maxZoom: 18
+```

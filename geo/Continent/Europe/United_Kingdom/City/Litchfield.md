@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Litchfield
+coordinates: [[Litchfield]]
+markerFile: [[Litchfield]]
+defaultZoom: 11 
+maxZoom: 18
+```

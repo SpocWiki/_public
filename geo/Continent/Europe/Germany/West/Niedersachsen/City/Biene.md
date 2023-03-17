@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Biene
+coordinates: [[Biene]]
+markerFile: [[Biene]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Christiansand
+coordinates: [[Christiansand]]
+markerFile: [[Christiansand]]
+defaultZoom: 11 
+maxZoom: 18
+```

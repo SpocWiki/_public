@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gilgenburg
+coordinates: [[Gilgenburg]]
+markerFile: [[Gilgenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

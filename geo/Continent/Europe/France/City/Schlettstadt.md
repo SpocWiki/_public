@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schlettstadt
+coordinates: [[Schlettstadt]]
+markerFile: [[Schlettstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

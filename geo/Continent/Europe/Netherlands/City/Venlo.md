@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Venlo
+coordinates: [[Venlo]]
+markerFile: [[Venlo]]
+defaultZoom: 11 
+maxZoom: 18
+```

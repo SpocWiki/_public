@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.93,156.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bolcherietz
+coordinates: [[Bolcherietz]]
+markerFile: [[Bolcherietz]]
+defaultZoom: 11 
+maxZoom: 18
+```

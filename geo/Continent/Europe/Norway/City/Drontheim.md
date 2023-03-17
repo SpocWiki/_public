@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Drontheim
+coordinates: [[Drontheim]]
+markerFile: [[Drontheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

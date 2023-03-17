@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wloklawek=Leslau
+coordinates: [[Wloklawek=Leslau]]
+markerFile: [[Wloklawek=Leslau]]
+defaultZoom: 11 
+maxZoom: 18
+```

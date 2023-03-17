@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kroepelin
+coordinates: [[Kroepelin]]
+markerFile: [[Kroepelin]]
+defaultZoom: 11 
+maxZoom: 18
+```

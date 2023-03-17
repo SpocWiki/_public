@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teichwolframsdorf
+coordinates: [[Teichwolframsdorf]]
+markerFile: [[Teichwolframsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

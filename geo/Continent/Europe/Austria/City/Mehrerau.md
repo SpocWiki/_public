@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mehrerau
+coordinates: [[Mehrerau]]
+markerFile: [[Mehrerau]]
+defaultZoom: 11 
+maxZoom: 18
+```

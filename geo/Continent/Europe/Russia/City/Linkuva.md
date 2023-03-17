@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Linkuva
+coordinates: [[Linkuva]]
+markerFile: [[Linkuva]]
+defaultZoom: 11 
+maxZoom: 18
+```

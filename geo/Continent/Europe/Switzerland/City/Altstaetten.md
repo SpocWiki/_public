@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altstaetten
+coordinates: [[Altstaetten]]
+markerFile: [[Altstaetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

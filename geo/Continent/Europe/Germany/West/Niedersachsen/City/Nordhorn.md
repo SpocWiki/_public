@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nordhorn
+coordinates: [[Nordhorn]]
+markerFile: [[Nordhorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

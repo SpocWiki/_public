@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luton
+coordinates: [[Luton]]
+markerFile: [[Luton]]
+defaultZoom: 11 
+maxZoom: 18
+```

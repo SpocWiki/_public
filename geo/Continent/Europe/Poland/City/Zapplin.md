@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zapplin
+coordinates: [[Zapplin]]
+markerFile: [[Zapplin]]
+defaultZoom: 11 
+maxZoom: 18
+```

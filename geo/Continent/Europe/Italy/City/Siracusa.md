@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siracusa
+coordinates: [[Siracusa]]
+markerFile: [[Siracusa]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borna
+coordinates: [[Borna]]
+markerFile: [[Borna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Otmar
+coordinates: [[St.Otmar]]
+markerFile: [[St.Otmar]]
+defaultZoom: 11 
+maxZoom: 18
+```

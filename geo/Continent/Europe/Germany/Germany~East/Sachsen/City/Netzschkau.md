@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Netzschkau
+coordinates: [[Netzschkau]]
+markerFile: [[Netzschkau]]
+defaultZoom: 11 
+maxZoom: 18
+```

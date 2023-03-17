@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Slobodskai
+coordinates: [[Slobodskai]]
+markerFile: [[Slobodskai]]
+defaultZoom: 11 
+maxZoom: 18
+```

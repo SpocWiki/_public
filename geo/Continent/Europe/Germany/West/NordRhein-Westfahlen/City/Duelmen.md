@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Duelmen
+coordinates: [[Duelmen]]
+markerFile: [[Duelmen]]
+defaultZoom: 11 
+maxZoom: 18
+```

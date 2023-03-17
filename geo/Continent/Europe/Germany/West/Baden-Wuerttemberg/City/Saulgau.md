@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saulgau
+coordinates: [[Saulgau]]
+markerFile: [[Saulgau]]
+defaultZoom: 11 
+maxZoom: 18
+```

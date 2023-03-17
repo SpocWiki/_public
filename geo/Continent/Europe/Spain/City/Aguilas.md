@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aguilas
+coordinates: [[Aguilas]]
+markerFile: [[Aguilas]]
+defaultZoom: 11 
+maxZoom: 18
+```

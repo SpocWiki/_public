@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schneeberg
+coordinates: [[Schneeberg]]
+markerFile: [[Schneeberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

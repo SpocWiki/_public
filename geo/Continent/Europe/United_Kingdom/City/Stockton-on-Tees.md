@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stockton-on-Tees
+coordinates: [[Stockton-on-Tees]]
+markerFile: [[Stockton-on-Tees]]
+defaultZoom: 11 
+maxZoom: 18
+```

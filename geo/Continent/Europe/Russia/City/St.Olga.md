@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Olga
+coordinates: [[St.Olga]]
+markerFile: [[St.Olga]]
+defaultZoom: 11 
+maxZoom: 18
+```

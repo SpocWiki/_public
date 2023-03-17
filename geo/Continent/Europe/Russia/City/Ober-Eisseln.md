@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.02,22.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Eisseln
+coordinates: [[Ober-Eisseln]]
+markerFile: [[Ober-Eisseln]]
+defaultZoom: 11 
+maxZoom: 18
+```

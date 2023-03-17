@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heve
+coordinates: [[Heve]]
+markerFile: [[Heve]]
+defaultZoom: 11 
+maxZoom: 18
+```

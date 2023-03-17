@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.4,9.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neckargerach
+coordinates: [[Neckargerach]]
+markerFile: [[Neckargerach]]
+defaultZoom: 11 
+maxZoom: 18
+```

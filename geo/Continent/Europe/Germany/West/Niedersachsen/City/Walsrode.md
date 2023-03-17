@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Walsrode
+coordinates: [[Walsrode]]
+markerFile: [[Walsrode]]
+defaultZoom: 11 
+maxZoom: 18
+```

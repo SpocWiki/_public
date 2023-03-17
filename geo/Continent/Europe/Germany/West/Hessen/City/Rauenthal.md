@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rauenthal
+coordinates: [[Rauenthal]]
+markerFile: [[Rauenthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

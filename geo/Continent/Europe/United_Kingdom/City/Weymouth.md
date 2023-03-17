@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weymouth
+coordinates: [[Weymouth]]
+markerFile: [[Weymouth]]
+defaultZoom: 11 
+maxZoom: 18
+```

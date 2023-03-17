@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langwarden
+coordinates: [[Langwarden]]
+markerFile: [[Langwarden]]
+defaultZoom: 11 
+maxZoom: 18
+```

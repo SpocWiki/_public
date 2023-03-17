@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tyrtaersaari
+coordinates: [[Tyrtaersaari]]
+markerFile: [[Tyrtaersaari]]
+defaultZoom: 11 
+maxZoom: 18
+```

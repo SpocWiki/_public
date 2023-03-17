@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luxemburg
+coordinates: [[Luxemburg]]
+markerFile: [[Luxemburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Whitehaven
+coordinates: [[Whitehaven]]
+markerFile: [[Whitehaven]]
+defaultZoom: 11 
+maxZoom: 18
+```

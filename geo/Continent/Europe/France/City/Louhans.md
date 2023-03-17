@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Louhans
+coordinates: [[Louhans]]
+markerFile: [[Louhans]]
+defaultZoom: 11 
+maxZoom: 18
+```

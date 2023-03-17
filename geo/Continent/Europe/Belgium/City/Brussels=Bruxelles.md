@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brussels=Bruxelles
+coordinates: [[Brussels=Bruxelles]]
+markerFile: [[Brussels=Bruxelles]]
+defaultZoom: 11 
+maxZoom: 18
+```

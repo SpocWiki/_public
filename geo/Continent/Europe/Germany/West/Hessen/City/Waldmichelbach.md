@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldmichelbach
+coordinates: [[Waldmichelbach]]
+markerFile: [[Waldmichelbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

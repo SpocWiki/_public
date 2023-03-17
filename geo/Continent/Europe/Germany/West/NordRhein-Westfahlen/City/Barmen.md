@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barmen
+coordinates: [[Barmen]]
+markerFile: [[Barmen]]
+defaultZoom: 11 
+maxZoom: 18
+```

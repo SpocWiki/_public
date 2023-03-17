@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruck/Leitha
+coordinates: [[Bruck/Leitha]]
+markerFile: [[Bruck/Leitha]]
+defaultZoom: 11 
+maxZoom: 18
+```

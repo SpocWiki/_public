@@ -1,4 +1,4 @@
----
+﻿---
 location: [-12.18333,96.83334]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: West Island
+coordinates: [[West Island]]
+markerFile: [[West Island]]
+defaultZoom: 11 
+maxZoom: 18
+```

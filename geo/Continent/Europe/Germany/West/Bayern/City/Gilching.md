@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gilching
+coordinates: [[Gilching]]
+markerFile: [[Gilching]]
+defaultZoom: 11 
+maxZoom: 18
+```

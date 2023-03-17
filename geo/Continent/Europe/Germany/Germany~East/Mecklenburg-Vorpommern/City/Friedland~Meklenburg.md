@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Friedland~Meklenburg
+coordinates: [[Friedland~Meklenburg]]
+markerFile: [[Friedland~Meklenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

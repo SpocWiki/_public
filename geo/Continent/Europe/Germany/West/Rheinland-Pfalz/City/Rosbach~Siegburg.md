@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosbach~Siegburg
+coordinates: [[Rosbach~Siegburg]]
+markerFile: [[Rosbach~Siegburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vallenhove
+coordinates: [[Vallenhove]]
+markerFile: [[Vallenhove]]
+defaultZoom: 11 
+maxZoom: 18
+```

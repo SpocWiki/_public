@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Straubing
+coordinates: [[Straubing]]
+markerFile: [[Straubing]]
+defaultZoom: 11 
+maxZoom: 18
+```

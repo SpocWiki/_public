@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bischofsburg
+coordinates: [[Bischofsburg]]
+markerFile: [[Bischofsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

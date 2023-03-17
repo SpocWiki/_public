@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merhyr Tydfil
+coordinates: [[Merhyr Tydfil]]
+markerFile: [[Merhyr Tydfil]]
+defaultZoom: 11 
+maxZoom: 18
+```

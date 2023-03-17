@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wicklow
+coordinates: [[Wicklow]]
+markerFile: [[Wicklow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oradea
+coordinates: [[Oradea]]
+markerFile: [[Oradea]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sargans
+coordinates: [[Sargans]]
+markerFile: [[Sargans]]
+defaultZoom: 11 
+maxZoom: 18
+```

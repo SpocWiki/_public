@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strassen
+coordinates: [[Strassen]]
+markerFile: [[Strassen]]
+defaultZoom: 11 
+maxZoom: 18
+```

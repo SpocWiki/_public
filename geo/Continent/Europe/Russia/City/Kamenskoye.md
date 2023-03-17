@@ -1,4 +1,4 @@
-﻿---
+---
 location: [62.5,165.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kamenskoye
+coordinates: [[Kamenskoye]]
+markerFile: [[Kamenskoye]]
+defaultZoom: 11 
+maxZoom: 18
+```

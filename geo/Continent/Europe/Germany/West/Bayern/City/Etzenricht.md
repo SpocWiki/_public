@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Etzenricht
+coordinates: [[Etzenricht]]
+markerFile: [[Etzenricht]]
+defaultZoom: 11 
+maxZoom: 18
+```

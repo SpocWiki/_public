@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Niebuehl
+coordinates: [[Niebuehl]]
+markerFile: [[Niebuehl]]
+defaultZoom: 11 
+maxZoom: 18
+```

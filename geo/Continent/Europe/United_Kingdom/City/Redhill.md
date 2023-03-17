@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Redhill
+coordinates: [[Redhill]]
+markerFile: [[Redhill]]
+defaultZoom: 11 
+maxZoom: 18
+```

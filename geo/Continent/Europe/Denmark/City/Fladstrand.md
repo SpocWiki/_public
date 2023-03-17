@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fladstrand
+coordinates: [[Fladstrand]]
+markerFile: [[Fladstrand]]
+defaultZoom: 11 
+maxZoom: 18
+```

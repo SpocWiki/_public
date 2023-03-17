@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grunow
+coordinates: [[Grunow]]
+markerFile: [[Grunow]]
+defaultZoom: 11 
+maxZoom: 18
+```

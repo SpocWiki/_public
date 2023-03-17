@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baden-Baden
+coordinates: [[Baden-Baden]]
+markerFile: [[Baden-Baden]]
+defaultZoom: 11 
+maxZoom: 18
+```

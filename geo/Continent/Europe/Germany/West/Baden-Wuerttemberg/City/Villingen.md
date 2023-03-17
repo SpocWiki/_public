@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villingen
+coordinates: [[Villingen]]
+markerFile: [[Villingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

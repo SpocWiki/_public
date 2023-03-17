@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aylsdorf
+coordinates: [[Aylsdorf]]
+markerFile: [[Aylsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

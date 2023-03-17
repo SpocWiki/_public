@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muensingen
+coordinates: [[Muensingen]]
+markerFile: [[Muensingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

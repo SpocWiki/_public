@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.82,10.38]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oldesloe
+coordinates: [[Oldesloe]]
+markerFile: [[Oldesloe]]
+defaultZoom: 11 
+maxZoom: 18
+```

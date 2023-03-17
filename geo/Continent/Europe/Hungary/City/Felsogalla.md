@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Felsogalla
+coordinates: [[Felsogalla]]
+markerFile: [[Felsogalla]]
+defaultZoom: 11 
+maxZoom: 18
+```

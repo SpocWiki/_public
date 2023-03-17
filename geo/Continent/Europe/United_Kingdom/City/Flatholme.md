@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flatholme
+coordinates: [[Flatholme]]
+markerFile: [[Flatholme]]
+defaultZoom: 11 
+maxZoom: 18
+```

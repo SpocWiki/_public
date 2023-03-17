@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hontskari
+coordinates: [[Hontskari]]
+markerFile: [[Hontskari]]
+defaultZoom: 11 
+maxZoom: 18
+```

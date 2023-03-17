@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flitsch
+coordinates: [[Flitsch]]
+markerFile: [[Flitsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

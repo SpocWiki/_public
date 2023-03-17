@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grabtown
+coordinates: [[Grabtown]]
+markerFile: [[Grabtown]]
+defaultZoom: 11 
+maxZoom: 18
+```

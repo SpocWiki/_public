@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lichtenfels
+coordinates: [[Lichtenfels]]
+markerFile: [[Lichtenfels]]
+defaultZoom: 11 
+maxZoom: 18
+```

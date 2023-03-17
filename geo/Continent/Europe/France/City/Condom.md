@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Condom
+coordinates: [[Condom]]
+markerFile: [[Condom]]
+defaultZoom: 11 
+maxZoom: 18
+```

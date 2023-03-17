@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seneis
+coordinates: [[Seneis]]
+markerFile: [[Seneis]]
+defaultZoom: 11 
+maxZoom: 18
+```

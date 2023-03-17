@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Linlithgow
+coordinates: [[Linlithgow]]
+markerFile: [[Linlithgow]]
+defaultZoom: 11 
+maxZoom: 18
+```

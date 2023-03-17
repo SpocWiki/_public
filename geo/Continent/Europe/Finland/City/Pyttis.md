@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pyttis
+coordinates: [[Pyttis]]
+markerFile: [[Pyttis]]
+defaultZoom: 11 
+maxZoom: 18
+```

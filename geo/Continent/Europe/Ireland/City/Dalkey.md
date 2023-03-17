@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dalkey
+coordinates: [[Dalkey]]
+markerFile: [[Dalkey]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Swindon
+coordinates: [[Swindon]]
+markerFile: [[Swindon]]
+defaultZoom: 11 
+maxZoom: 18
+```

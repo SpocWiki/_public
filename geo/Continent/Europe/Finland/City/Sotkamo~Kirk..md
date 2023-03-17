@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sotkamo~Kirk.
+coordinates: [[Sotkamo~Kirk.]]
+markerFile: [[Sotkamo~Kirk.]]
+defaultZoom: 11 
+maxZoom: 18
+```

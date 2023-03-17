@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.63,17.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neu-Kamienien
+coordinates: [[Neu-Kamienien]]
+markerFile: [[Neu-Kamienien]]
+defaultZoom: 11 
+maxZoom: 18
+```

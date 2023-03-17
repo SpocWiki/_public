@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klosterneuburg
+coordinates: [[Klosterneuburg]]
+markerFile: [[Klosterneuburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

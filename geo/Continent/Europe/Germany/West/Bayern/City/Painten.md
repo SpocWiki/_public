@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Painten
+coordinates: [[Painten]]
+markerFile: [[Painten]]
+defaultZoom: 11 
+maxZoom: 18
+```

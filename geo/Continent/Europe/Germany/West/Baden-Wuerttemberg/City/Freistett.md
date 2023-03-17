@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freistett
+coordinates: [[Freistett]]
+markerFile: [[Freistett]]
+defaultZoom: 11 
+maxZoom: 18
+```

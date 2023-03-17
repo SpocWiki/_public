@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.12,10.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dinkelsbuehl
+coordinates: [[Dinkelsbuehl]]
+markerFile: [[Dinkelsbuehl]]
+defaultZoom: 11 
+maxZoom: 18
+```

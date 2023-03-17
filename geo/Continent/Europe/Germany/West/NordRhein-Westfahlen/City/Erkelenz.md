@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Erkelenz
+coordinates: [[Erkelenz]]
+markerFile: [[Erkelenz]]
+defaultZoom: 11 
+maxZoom: 18
+```

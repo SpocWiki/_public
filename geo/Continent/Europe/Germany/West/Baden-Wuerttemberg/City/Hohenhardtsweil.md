@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohenhardtsweil
+coordinates: [[Hohenhardtsweil]]
+markerFile: [[Hohenhardtsweil]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schaftlach
+coordinates: [[Schaftlach]]
+markerFile: [[Schaftlach]]
+defaultZoom: 11 
+maxZoom: 18
+```

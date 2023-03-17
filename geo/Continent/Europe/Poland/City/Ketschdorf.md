@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ketschdorf
+coordinates: [[Ketschdorf]]
+markerFile: [[Ketschdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

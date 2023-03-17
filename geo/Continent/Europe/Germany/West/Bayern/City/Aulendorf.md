@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aulendorf
+coordinates: [[Aulendorf]]
+markerFile: [[Aulendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [19.75,96.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Naypyidaw
+coordinates: [[Naypyidaw]]
+markerFile: [[Naypyidaw]]
+defaultZoom: 11 
+maxZoom: 18
+```

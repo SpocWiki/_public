@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vianden
+coordinates: [[Vianden]]
+markerFile: [[Vianden]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuolajaervi
+coordinates: [[Kuolajaervi]]
+markerFile: [[Kuolajaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gersfeld
+coordinates: [[Gersfeld]]
+markerFile: [[Gersfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

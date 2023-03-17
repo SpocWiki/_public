@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schlochau
+coordinates: [[Schlochau]]
+markerFile: [[Schlochau]]
+defaultZoom: 11 
+maxZoom: 18
+```

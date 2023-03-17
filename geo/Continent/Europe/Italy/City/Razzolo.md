@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.37,10.47]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Razzolo
+coordinates: [[Razzolo]]
+markerFile: [[Razzolo]]
+defaultZoom: 11 
+maxZoom: 18
+```

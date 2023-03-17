@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Botosani
+coordinates: [[Botosani]]
+markerFile: [[Botosani]]
+defaultZoom: 11 
+maxZoom: 18
+```

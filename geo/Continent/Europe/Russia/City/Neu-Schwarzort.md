@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neu-Schwarzort
+coordinates: [[Neu-Schwarzort]]
+markerFile: [[Neu-Schwarzort]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weseli
+coordinates: [[Weseli]]
+markerFile: [[Weseli]]
+defaultZoom: 11 
+maxZoom: 18
+```

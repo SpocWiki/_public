@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radevormwald
+coordinates: [[Radevormwald]]
+markerFile: [[Radevormwald]]
+defaultZoom: 11 
+maxZoom: 18
+```

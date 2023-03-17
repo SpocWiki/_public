@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schleiz
+coordinates: [[Schleiz]]
+markerFile: [[Schleiz]]
+defaultZoom: 11 
+maxZoom: 18
+```

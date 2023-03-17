@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Winchelsea
+coordinates: [[Winchelsea]]
+markerFile: [[Winchelsea]]
+defaultZoom: 11 
+maxZoom: 18
+```

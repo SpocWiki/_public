@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Miniato
+coordinates: [[San Miniato]]
+markerFile: [[San Miniato]]
+defaultZoom: 11 
+maxZoom: 18
+```

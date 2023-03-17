@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soudak
+coordinates: [[Soudak]]
+markerFile: [[Soudak]]
+defaultZoom: 11 
+maxZoom: 18
+```

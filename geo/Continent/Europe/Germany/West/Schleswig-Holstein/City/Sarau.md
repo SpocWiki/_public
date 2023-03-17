@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sarau
+coordinates: [[Sarau]]
+markerFile: [[Sarau]]
+defaultZoom: 11 
+maxZoom: 18
+```

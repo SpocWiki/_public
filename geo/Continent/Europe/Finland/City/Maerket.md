@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maerket
+coordinates: [[Maerket]]
+markerFile: [[Maerket]]
+defaultZoom: 11 
+maxZoom: 18
+```

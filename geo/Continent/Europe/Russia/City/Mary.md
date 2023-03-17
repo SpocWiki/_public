@@ -1,4 +1,4 @@
----
+﻿---
 location: [37.6,61.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mary
+coordinates: [[Mary]]
+markerFile: [[Mary]]
+defaultZoom: 11 
+maxZoom: 18
+```

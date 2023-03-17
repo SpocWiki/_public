@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eisenach
+coordinates: [[Eisenach]]
+markerFile: [[Eisenach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalbe
+coordinates: [[Kalbe]]
+markerFile: [[Kalbe]]
+defaultZoom: 11 
+maxZoom: 18
+```

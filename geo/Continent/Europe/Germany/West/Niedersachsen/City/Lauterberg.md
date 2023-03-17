@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lauterberg
+coordinates: [[Lauterberg]]
+markerFile: [[Lauterberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

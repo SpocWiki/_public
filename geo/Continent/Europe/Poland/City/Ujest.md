@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ujest
+coordinates: [[Ujest]]
+markerFile: [[Ujest]]
+defaultZoom: 11 
+maxZoom: 18
+```

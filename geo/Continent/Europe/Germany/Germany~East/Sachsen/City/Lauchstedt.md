@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lauchstedt
+coordinates: [[Lauchstedt]]
+markerFile: [[Lauchstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

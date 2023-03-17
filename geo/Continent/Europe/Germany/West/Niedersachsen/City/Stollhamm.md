@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stollhamm
+coordinates: [[Stollhamm]]
+markerFile: [[Stollhamm]]
+defaultZoom: 11 
+maxZoom: 18
+```

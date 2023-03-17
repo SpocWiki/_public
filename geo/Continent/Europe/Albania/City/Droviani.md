@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Droviani
+coordinates: [[Droviani]]
+markerFile: [[Droviani]]
+defaultZoom: 11 
+maxZoom: 18
+```

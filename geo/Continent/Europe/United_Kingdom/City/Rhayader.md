@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rhayader
+coordinates: [[Rhayader]]
+markerFile: [[Rhayader]]
+defaultZoom: 11 
+maxZoom: 18
+```

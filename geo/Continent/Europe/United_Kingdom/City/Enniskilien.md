@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Enniskilien
+coordinates: [[Enniskilien]]
+markerFile: [[Enniskilien]]
+defaultZoom: 11 
+maxZoom: 18
+```

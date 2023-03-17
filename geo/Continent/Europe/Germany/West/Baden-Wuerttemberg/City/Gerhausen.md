@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gerhausen
+coordinates: [[Gerhausen]]
+markerFile: [[Gerhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

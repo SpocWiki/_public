@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moutiers
+coordinates: [[Moutiers]]
+markerFile: [[Moutiers]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [15.6,32.53]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Khartoum
+coordinates: [[Khartoum]]
+markerFile: [[Khartoum]]
+defaultZoom: 11 
+maxZoom: 18
+```

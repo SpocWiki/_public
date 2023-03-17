@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fulda
+coordinates: [[Fulda]]
+markerFile: [[Fulda]]
+defaultZoom: 11 
+maxZoom: 18
+```

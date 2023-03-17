@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dedesdorf
+coordinates: [[Dedesdorf]]
+markerFile: [[Dedesdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

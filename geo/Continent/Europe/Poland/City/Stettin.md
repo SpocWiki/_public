@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.41,14.54]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stettin
+coordinates: [[Stettin]]
+markerFile: [[Stettin]]
+defaultZoom: 11 
+maxZoom: 18
+```

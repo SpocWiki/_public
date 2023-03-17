@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vallepietra
+coordinates: [[Vallepietra]]
+markerFile: [[Vallepietra]]
+defaultZoom: 11 
+maxZoom: 18
+```

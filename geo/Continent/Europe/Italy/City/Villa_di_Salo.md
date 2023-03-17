@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.58,10.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villa di Salo
+coordinates: [[Villa di Salo]]
+markerFile: [[Villa di Salo]]
+defaultZoom: 11 
+maxZoom: 18
+```

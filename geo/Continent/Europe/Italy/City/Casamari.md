@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Casamari
+coordinates: [[Casamari]]
+markerFile: [[Casamari]]
+defaultZoom: 11 
+maxZoom: 18
+```

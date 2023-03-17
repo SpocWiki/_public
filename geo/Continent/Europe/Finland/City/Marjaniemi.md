@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marjaniemi
+coordinates: [[Marjaniemi]]
+markerFile: [[Marjaniemi]]
+defaultZoom: 11 
+maxZoom: 18
+```

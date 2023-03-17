@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clausthal
+coordinates: [[Clausthal]]
+markerFile: [[Clausthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Banff
+coordinates: [[Banff]]
+markerFile: [[Banff]]
+defaultZoom: 11 
+maxZoom: 18
+```

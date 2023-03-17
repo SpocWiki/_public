@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stollberg~Sachsen
+coordinates: [[Stollberg~Sachsen]]
+markerFile: [[Stollberg~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

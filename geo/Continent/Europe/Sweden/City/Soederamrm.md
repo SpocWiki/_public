@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soederamrm
+coordinates: [[Soederamrm]]
+markerFile: [[Soederamrm]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Raguhn
+coordinates: [[Raguhn]]
+markerFile: [[Raguhn]]
+defaultZoom: 11 
+maxZoom: 18
+```

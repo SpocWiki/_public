@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nizza Monferrato
+coordinates: [[Nizza Monferrato]]
+markerFile: [[Nizza Monferrato]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vinge
+coordinates: [[Vinge]]
+markerFile: [[Vinge]]
+defaultZoom: 11 
+maxZoom: 18
+```

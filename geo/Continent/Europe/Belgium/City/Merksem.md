@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merksem
+coordinates: [[Merksem]]
+markerFile: [[Merksem]]
+defaultZoom: 11 
+maxZoom: 18
+```

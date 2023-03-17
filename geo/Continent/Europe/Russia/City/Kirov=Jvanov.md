@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirov=Jvanov
+coordinates: [[Kirov=Jvanov]]
+markerFile: [[Kirov=Jvanov]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wunstorf
+coordinates: [[Wunstorf]]
+markerFile: [[Wunstorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

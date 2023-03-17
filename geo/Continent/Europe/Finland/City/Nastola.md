@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nastola
+coordinates: [[Nastola]]
+markerFile: [[Nastola]]
+defaultZoom: 11 
+maxZoom: 18
+```

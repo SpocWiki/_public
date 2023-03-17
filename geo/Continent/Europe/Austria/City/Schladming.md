@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schladming
+coordinates: [[Schladming]]
+markerFile: [[Schladming]]
+defaultZoom: 11 
+maxZoom: 18
+```

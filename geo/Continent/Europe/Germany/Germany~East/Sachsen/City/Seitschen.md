@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seitschen
+coordinates: [[Seitschen]]
+markerFile: [[Seitschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

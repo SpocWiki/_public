@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.58,9.78]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Albergo Romobel
+coordinates: [[Albergo Romobel]]
+markerFile: [[Albergo Romobel]]
+defaultZoom: 11 
+maxZoom: 18
+```

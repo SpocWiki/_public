@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rothfliess
+coordinates: [[Rothfliess]]
+markerFile: [[Rothfliess]]
+defaultZoom: 11 
+maxZoom: 18
+```

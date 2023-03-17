@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.05,15.77]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pardubitz=Pardubice
+coordinates: [[Pardubitz=Pardubice]]
+markerFile: [[Pardubitz=Pardubice]]
+defaultZoom: 11 
+maxZoom: 18
+```

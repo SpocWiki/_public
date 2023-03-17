@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Winnetoon
+coordinates: [[Winnetoon]]
+markerFile: [[Winnetoon]]
+defaultZoom: 11 
+maxZoom: 18
+```

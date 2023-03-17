@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luehnde
+coordinates: [[Luehnde]]
+markerFile: [[Luehnde]]
+defaultZoom: 11 
+maxZoom: 18
+```

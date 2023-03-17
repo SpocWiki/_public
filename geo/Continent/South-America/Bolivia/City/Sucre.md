@@ -1,4 +1,4 @@
----
+﻿---
 location: [-19.03333,-65.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Sucre
+coordinates: [[Sucre]]
+markerFile: [[Sucre]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lyme Regio
+coordinates: [[Lyme Regio]]
+markerFile: [[Lyme Regio]]
+defaultZoom: 11 
+maxZoom: 18
+```

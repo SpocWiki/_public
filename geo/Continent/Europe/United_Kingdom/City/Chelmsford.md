@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chelmsford
+coordinates: [[Chelmsford]]
+markerFile: [[Chelmsford]]
+defaultZoom: 11 
+maxZoom: 18
+```

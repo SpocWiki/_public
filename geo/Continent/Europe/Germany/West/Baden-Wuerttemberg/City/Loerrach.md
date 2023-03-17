@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loerrach
+coordinates: [[Loerrach]]
+markerFile: [[Loerrach]]
+defaultZoom: 11 
+maxZoom: 18
+```

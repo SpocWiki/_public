@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fagaras
+coordinates: [[Fagaras]]
+markerFile: [[Fagaras]]
+defaultZoom: 11 
+maxZoom: 18
+```

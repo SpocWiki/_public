@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vevey
+coordinates: [[Vevey]]
+markerFile: [[Vevey]]
+defaultZoom: 11 
+maxZoom: 18
+```

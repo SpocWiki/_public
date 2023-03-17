@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Viaznicki
+coordinates: [[Viaznicki]]
+markerFile: [[Viaznicki]]
+defaultZoom: 11 
+maxZoom: 18
+```

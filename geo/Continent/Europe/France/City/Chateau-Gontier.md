@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.83,-0.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chateau-Gontier
+coordinates: [[Chateau-Gontier]]
+markerFile: [[Chateau-Gontier]]
+defaultZoom: 11 
+maxZoom: 18
+```

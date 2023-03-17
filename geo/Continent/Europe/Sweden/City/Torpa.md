@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torpa
+coordinates: [[Torpa]]
+markerFile: [[Torpa]]
+defaultZoom: 11 
+maxZoom: 18
+```

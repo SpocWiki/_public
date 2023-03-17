@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cholchester
+coordinates: [[Cholchester]]
+markerFile: [[Cholchester]]
+defaultZoom: 11 
+maxZoom: 18
+```

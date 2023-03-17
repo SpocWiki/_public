@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belley
+coordinates: [[Belley]]
+markerFile: [[Belley]]
+defaultZoom: 11 
+maxZoom: 18
+```

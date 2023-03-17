@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lierre
+coordinates: [[Lierre]]
+markerFile: [[Lierre]]
+defaultZoom: 11 
+maxZoom: 18
+```

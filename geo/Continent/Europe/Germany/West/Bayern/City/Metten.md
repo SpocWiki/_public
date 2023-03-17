@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.85,12.92]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Metten
+coordinates: [[Metten]]
+markerFile: [[Metten]]
+defaultZoom: 11 
+maxZoom: 18
+```

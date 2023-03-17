@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heldrungen
+coordinates: [[Heldrungen]]
+markerFile: [[Heldrungen]]
+defaultZoom: 11 
+maxZoom: 18
+```

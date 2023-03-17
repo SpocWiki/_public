@@ -1,4 +1,4 @@
----
+﻿---
 location: [65.7,25.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saarijaervi~Raj
+coordinates: [[Saarijaervi~Raj]]
+markerFile: [[Saarijaervi~Raj]]
+defaultZoom: 11 
+maxZoom: 18
+```

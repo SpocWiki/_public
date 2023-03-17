@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sibiu=Hermannstadt
+coordinates: [[Sibiu=Hermannstadt]]
+markerFile: [[Sibiu=Hermannstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

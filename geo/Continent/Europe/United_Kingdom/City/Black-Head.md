@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Black-Head
+coordinates: [[Black-Head]]
+markerFile: [[Black-Head]]
+defaultZoom: 11 
+maxZoom: 18
+```

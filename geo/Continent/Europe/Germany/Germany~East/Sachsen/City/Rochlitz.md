@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rochlitz
+coordinates: [[Rochlitz]]
+markerFile: [[Rochlitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

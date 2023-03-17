@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Irvine
+coordinates: [[Irvine]]
+markerFile: [[Irvine]]
+defaultZoom: 11 
+maxZoom: 18
+```

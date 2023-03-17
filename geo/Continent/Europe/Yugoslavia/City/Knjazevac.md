@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Knjazevac
+coordinates: [[Knjazevac]]
+markerFile: [[Knjazevac]]
+defaultZoom: 11 
+maxZoom: 18
+```

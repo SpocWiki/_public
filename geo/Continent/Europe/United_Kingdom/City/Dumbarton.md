@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dumbarton
+coordinates: [[Dumbarton]]
+markerFile: [[Dumbarton]]
+defaultZoom: 11 
+maxZoom: 18
+```

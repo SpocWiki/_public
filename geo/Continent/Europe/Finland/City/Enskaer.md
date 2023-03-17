@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Enskaer
+coordinates: [[Enskaer]]
+markerFile: [[Enskaer]]
+defaultZoom: 11 
+maxZoom: 18
+```

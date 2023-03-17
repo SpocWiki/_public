@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nieder-Zuendorf
+coordinates: [[Nieder-Zuendorf]]
+markerFile: [[Nieder-Zuendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

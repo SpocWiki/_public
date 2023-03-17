@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schaaken
+coordinates: [[Schaaken]]
+markerFile: [[Schaaken]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hassloch
+coordinates: [[Hassloch]]
+markerFile: [[Hassloch]]
+defaultZoom: 11 
+maxZoom: 18
+```

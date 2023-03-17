@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pfungstadt
+coordinates: [[Pfungstadt]]
+markerFile: [[Pfungstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

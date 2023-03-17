@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hallstadt
+coordinates: [[Hallstadt]]
+markerFile: [[Hallstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

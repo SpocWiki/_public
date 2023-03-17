@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gorkum
+coordinates: [[Gorkum]]
+markerFile: [[Gorkum]]
+defaultZoom: 11 
+maxZoom: 18
+```

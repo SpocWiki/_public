@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skive
+coordinates: [[Skive]]
+markerFile: [[Skive]]
+defaultZoom: 11 
+maxZoom: 18
+```

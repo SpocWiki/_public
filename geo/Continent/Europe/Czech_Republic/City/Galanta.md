@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Galanta
+coordinates: [[Galanta]]
+markerFile: [[Galanta]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [13.16667,-61.23333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kingstown
+coordinates: [[Kingstown]]
+markerFile: [[Kingstown]]
+defaultZoom: 11 
+maxZoom: 18
+```

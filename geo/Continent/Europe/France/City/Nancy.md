@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.7,6.18]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nancy
+coordinates: [[Nancy]]
+markerFile: [[Nancy]]
+defaultZoom: 11 
+maxZoom: 18
+```

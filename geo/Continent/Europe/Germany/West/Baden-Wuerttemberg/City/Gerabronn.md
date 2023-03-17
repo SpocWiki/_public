@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gerabronn
+coordinates: [[Gerabronn]]
+markerFile: [[Gerabronn]]
+defaultZoom: 11 
+maxZoom: 18
+```

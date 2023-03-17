@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huegel
+coordinates: [[Huegel]]
+markerFile: [[Huegel]]
+defaultZoom: 11 
+maxZoom: 18
+```

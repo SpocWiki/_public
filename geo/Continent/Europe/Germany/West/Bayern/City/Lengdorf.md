@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lengdorf
+coordinates: [[Lengdorf]]
+markerFile: [[Lengdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Johanngeorgenstadt
+coordinates: [[Johanngeorgenstadt]]
+markerFile: [[Johanngeorgenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

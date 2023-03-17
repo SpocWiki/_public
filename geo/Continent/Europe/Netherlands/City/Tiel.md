@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tiel
+coordinates: [[Tiel]]
+markerFile: [[Tiel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.45,6.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dinan
+coordinates: [[Dinan]]
+markerFile: [[Dinan]]
+defaultZoom: 11 
+maxZoom: 18
+```

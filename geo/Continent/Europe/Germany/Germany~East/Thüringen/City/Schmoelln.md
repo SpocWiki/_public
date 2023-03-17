@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schmoelln
+coordinates: [[Schmoelln]]
+markerFile: [[Schmoelln]]
+defaultZoom: 11 
+maxZoom: 18
+```

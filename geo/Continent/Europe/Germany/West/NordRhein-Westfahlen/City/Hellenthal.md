@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hellenthal
+coordinates: [[Hellenthal]]
+markerFile: [[Hellenthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

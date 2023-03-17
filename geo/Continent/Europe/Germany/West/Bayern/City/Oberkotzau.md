@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberkotzau
+coordinates: [[Oberkotzau]]
+markerFile: [[Oberkotzau]]
+defaultZoom: 11 
+maxZoom: 18
+```

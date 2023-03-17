@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mauriac
+coordinates: [[Mauriac]]
+markerFile: [[Mauriac]]
+defaultZoom: 11 
+maxZoom: 18
+```

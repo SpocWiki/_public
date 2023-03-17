@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Viechtach
+coordinates: [[Viechtach]]
+markerFile: [[Viechtach]]
+defaultZoom: 11 
+maxZoom: 18
+```

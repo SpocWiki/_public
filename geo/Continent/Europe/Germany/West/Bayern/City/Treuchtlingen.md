@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Treuchtlingen
+coordinates: [[Treuchtlingen]]
+markerFile: [[Treuchtlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

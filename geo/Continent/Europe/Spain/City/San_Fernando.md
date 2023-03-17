@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Fernando
+coordinates: [[San Fernando]]
+markerFile: [[San Fernando]]
+defaultZoom: 11 
+maxZoom: 18
+```

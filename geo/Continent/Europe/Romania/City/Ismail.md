@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ismail
+coordinates: [[Ismail]]
+markerFile: [[Ismail]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Des Moines
+coordinates: [[Des Moines]]
+markerFile: [[Des Moines]]
+defaultZoom: 11 
+maxZoom: 18
+```

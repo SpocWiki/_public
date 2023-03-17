@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.67,9.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marklendorf
+coordinates: [[Marklendorf]]
+markerFile: [[Marklendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

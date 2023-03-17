@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montespluga
+coordinates: [[Montespluga]]
+markerFile: [[Montespluga]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoensee
+coordinates: [[Schoensee]]
+markerFile: [[Schoensee]]
+defaultZoom: 11 
+maxZoom: 18
+```

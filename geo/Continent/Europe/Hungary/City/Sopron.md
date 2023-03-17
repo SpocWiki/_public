@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sopron
+coordinates: [[Sopron]]
+markerFile: [[Sopron]]
+defaultZoom: 11 
+maxZoom: 18
+```

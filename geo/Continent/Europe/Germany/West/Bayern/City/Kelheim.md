@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.92,11.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kelheim
+coordinates: [[Kelheim]]
+markerFile: [[Kelheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

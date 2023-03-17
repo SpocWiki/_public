@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Portugalete
+coordinates: [[Portugalete]]
+markerFile: [[Portugalete]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klockow
+coordinates: [[Klockow]]
+markerFile: [[Klockow]]
+defaultZoom: 11 
+maxZoom: 18
+```

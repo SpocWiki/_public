@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kloten
+coordinates: [[Kloten]]
+markerFile: [[Kloten]]
+defaultZoom: 11 
+maxZoom: 18
+```

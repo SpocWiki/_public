@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hausberge
+coordinates: [[Hausberge]]
+markerFile: [[Hausberge]]
+defaultZoom: 11 
+maxZoom: 18
+```

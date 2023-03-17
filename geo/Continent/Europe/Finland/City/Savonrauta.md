@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Savonrauta
+coordinates: [[Savonrauta]]
+markerFile: [[Savonrauta]]
+defaultZoom: 11 
+maxZoom: 18
+```

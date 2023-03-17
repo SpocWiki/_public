@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grobina
+coordinates: [[Grobina]]
+markerFile: [[Grobina]]
+defaultZoom: 11 
+maxZoom: 18
+```

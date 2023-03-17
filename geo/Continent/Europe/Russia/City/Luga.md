@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luga
+coordinates: [[Luga]]
+markerFile: [[Luga]]
+defaultZoom: 11 
+maxZoom: 18
+```

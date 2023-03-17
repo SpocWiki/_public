@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Nazaire
+coordinates: [[St.Nazaire]]
+markerFile: [[St.Nazaire]]
+defaultZoom: 11 
+maxZoom: 18
+```

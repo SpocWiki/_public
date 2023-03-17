@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ostritz
+coordinates: [[Ostritz]]
+markerFile: [[Ostritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

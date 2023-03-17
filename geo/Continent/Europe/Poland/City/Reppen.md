@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reppen
+coordinates: [[Reppen]]
+markerFile: [[Reppen]]
+defaultZoom: 11 
+maxZoom: 18
+```

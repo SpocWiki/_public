@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beauvais
+coordinates: [[Beauvais]]
+markerFile: [[Beauvais]]
+defaultZoom: 11 
+maxZoom: 18
+```

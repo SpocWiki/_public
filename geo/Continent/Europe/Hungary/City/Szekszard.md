@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szekszard
+coordinates: [[Szekszard]]
+markerFile: [[Szekszard]]
+defaultZoom: 11 
+maxZoom: 18
+```

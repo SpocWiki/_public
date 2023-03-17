@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Epsom
+coordinates: [[Epsom]]
+markerFile: [[Epsom]]
+defaultZoom: 11 
+maxZoom: 18
+```

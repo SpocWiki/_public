@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tingleff
+coordinates: [[Tingleff]]
+markerFile: [[Tingleff]]
+defaultZoom: 11 
+maxZoom: 18
+```

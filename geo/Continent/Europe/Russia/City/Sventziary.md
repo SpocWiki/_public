@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.13,26.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sventziary
+coordinates: [[Sventziary]]
+markerFile: [[Sventziary]]
+defaultZoom: 11 
+maxZoom: 18
+```

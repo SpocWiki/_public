@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ohrid
+coordinates: [[Ohrid]]
+markerFile: [[Ohrid]]
+defaultZoom: 11 
+maxZoom: 18
+```

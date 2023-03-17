@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hagenau
+coordinates: [[Hagenau]]
+markerFile: [[Hagenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

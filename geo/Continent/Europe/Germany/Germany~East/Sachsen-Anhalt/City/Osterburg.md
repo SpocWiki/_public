@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osterburg
+coordinates: [[Osterburg]]
+markerFile: [[Osterburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

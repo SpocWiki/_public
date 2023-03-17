@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marienhafe
+coordinates: [[Marienhafe]]
+markerFile: [[Marienhafe]]
+defaultZoom: 11 
+maxZoom: 18
+```

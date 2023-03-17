@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Valery~Normandie
+coordinates: [[St.Valery~Normandie]]
+markerFile: [[St.Valery~Normandie]]
+defaultZoom: 11 
+maxZoom: 18
+```

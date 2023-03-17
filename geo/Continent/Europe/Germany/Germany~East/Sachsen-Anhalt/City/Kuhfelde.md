@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.78,11.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuhfelde
+coordinates: [[Kuhfelde]]
+markerFile: [[Kuhfelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

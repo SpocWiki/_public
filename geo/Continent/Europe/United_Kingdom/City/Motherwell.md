@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Motherwell
+coordinates: [[Motherwell]]
+markerFile: [[Motherwell]]
+defaultZoom: 11 
+maxZoom: 18
+```

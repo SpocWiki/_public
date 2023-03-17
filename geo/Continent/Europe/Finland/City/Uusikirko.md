@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uusikirko
+coordinates: [[Uusikirko]]
+markerFile: [[Uusikirko]]
+defaultZoom: 11 
+maxZoom: 18
+```

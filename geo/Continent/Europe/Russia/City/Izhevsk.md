@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Izhevsk
+coordinates: [[Izhevsk]]
+markerFile: [[Izhevsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

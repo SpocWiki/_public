@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Norry-Targ
+coordinates: [[Norry-Targ]]
+markerFile: [[Norry-Targ]]
+defaultZoom: 11 
+maxZoom: 18
+```

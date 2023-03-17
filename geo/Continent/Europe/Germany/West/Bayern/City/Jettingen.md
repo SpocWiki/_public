@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jettingen
+coordinates: [[Jettingen]]
+markerFile: [[Jettingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

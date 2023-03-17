@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichenbach~Bergstrasse
+coordinates: [[Reichenbach~Bergstrasse]]
+markerFile: [[Reichenbach~Bergstrasse]]
+defaultZoom: 11 
+maxZoom: 18
+```

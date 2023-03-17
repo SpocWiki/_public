@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Coleraine
+coordinates: [[Coleraine]]
+markerFile: [[Coleraine]]
+defaultZoom: 11 
+maxZoom: 18
+```

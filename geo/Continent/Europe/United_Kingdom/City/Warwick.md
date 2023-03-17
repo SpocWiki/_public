@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warwick
+coordinates: [[Warwick]]
+markerFile: [[Warwick]]
+defaultZoom: 11 
+maxZoom: 18
+```

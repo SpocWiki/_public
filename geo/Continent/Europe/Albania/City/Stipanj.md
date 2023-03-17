@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.97,20.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stipanj
+coordinates: [[Stipanj]]
+markerFile: [[Stipanj]]
+defaultZoom: 11 
+maxZoom: 18
+```

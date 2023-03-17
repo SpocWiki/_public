@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kolin
+coordinates: [[Kolin]]
+markerFile: [[Kolin]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heiligenbeil
+coordinates: [[Heiligenbeil]]
+markerFile: [[Heiligenbeil]]
+defaultZoom: 11 
+maxZoom: 18
+```

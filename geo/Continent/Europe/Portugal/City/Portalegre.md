@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Portalegre
+coordinates: [[Portalegre]]
+markerFile: [[Portalegre]]
+defaultZoom: 11 
+maxZoom: 18
+```

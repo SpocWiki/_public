@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seda
+coordinates: [[Seda]]
+markerFile: [[Seda]]
+defaultZoom: 11 
+maxZoom: 18
+```

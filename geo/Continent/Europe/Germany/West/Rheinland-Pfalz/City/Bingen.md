@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bingen
+coordinates: [[Bingen]]
+markerFile: [[Bingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

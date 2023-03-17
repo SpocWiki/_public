@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wurzach
+coordinates: [[Wurzach]]
+markerFile: [[Wurzach]]
+defaultZoom: 11 
+maxZoom: 18
+```

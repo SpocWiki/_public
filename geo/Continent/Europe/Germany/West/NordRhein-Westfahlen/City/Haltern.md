@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haltern
+coordinates: [[Haltern]]
+markerFile: [[Haltern]]
+defaultZoom: 11 
+maxZoom: 18
+```

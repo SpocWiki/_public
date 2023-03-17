@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waechtersbach
+coordinates: [[Waechtersbach]]
+markerFile: [[Waechtersbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

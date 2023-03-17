@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rinteln
+coordinates: [[Rinteln]]
+markerFile: [[Rinteln]]
+defaultZoom: 11 
+maxZoom: 18
+```

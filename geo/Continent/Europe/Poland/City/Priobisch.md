@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Priobisch
+coordinates: [[Priobisch]]
+markerFile: [[Priobisch]]
+defaultZoom: 11 
+maxZoom: 18
+```

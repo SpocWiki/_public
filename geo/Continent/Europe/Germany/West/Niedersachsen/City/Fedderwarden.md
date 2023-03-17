@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fedderwarden
+coordinates: [[Fedderwarden]]
+markerFile: [[Fedderwarden]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Holzkirchen
+coordinates: [[Holzkirchen]]
+markerFile: [[Holzkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Comprovasco
+coordinates: [[Comprovasco]]
+markerFile: [[Comprovasco]]
+defaultZoom: 11 
+maxZoom: 18
+```

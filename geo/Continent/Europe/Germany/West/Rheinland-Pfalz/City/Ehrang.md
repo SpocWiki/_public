@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ehrang
+coordinates: [[Ehrang]]
+markerFile: [[Ehrang]]
+defaultZoom: 11 
+maxZoom: 18
+```

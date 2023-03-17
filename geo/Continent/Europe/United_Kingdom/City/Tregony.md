@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tregony
+coordinates: [[Tregony]]
+markerFile: [[Tregony]]
+defaultZoom: 11 
+maxZoom: 18
+```

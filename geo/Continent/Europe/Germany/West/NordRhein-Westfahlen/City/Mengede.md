@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mengede
+coordinates: [[Mengede]]
+markerFile: [[Mengede]]
+defaultZoom: 11 
+maxZoom: 18
+```

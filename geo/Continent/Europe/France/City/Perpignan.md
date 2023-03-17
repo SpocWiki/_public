@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perpignan
+coordinates: [[Perpignan]]
+markerFile: [[Perpignan]]
+defaultZoom: 11 
+maxZoom: 18
+```

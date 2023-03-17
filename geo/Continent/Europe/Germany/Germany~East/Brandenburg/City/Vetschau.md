@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.78,14.08]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vetschau
+coordinates: [[Vetschau]]
+markerFile: [[Vetschau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sondrio
+coordinates: [[Sondrio]]
+markerFile: [[Sondrio]]
+defaultZoom: 11 
+maxZoom: 18
+```

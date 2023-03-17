@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castrillo
+coordinates: [[Castrillo]]
+markerFile: [[Castrillo]]
+defaultZoom: 11 
+maxZoom: 18
+```

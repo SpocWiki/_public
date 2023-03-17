@@ -1,4 +1,4 @@
----
+﻿---
 location: [60.67,13.73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malung
+coordinates: [[Malung]]
+markerFile: [[Malung]]
+defaultZoom: 11 
+maxZoom: 18
+```

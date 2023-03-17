@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goldberg~Meklenburg
+coordinates: [[Goldberg~Meklenburg]]
+markerFile: [[Goldberg~Meklenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

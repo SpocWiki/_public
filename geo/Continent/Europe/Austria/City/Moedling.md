@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moedling
+coordinates: [[Moedling]]
+markerFile: [[Moedling]]
+defaultZoom: 11 
+maxZoom: 18
+```

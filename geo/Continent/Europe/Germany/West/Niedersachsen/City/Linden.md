@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Linden
+coordinates: [[Linden]]
+markerFile: [[Linden]]
+defaultZoom: 11 
+maxZoom: 18
+```

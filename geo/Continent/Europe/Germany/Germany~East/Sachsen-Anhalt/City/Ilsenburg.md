@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ilsenburg
+coordinates: [[Ilsenburg]]
+markerFile: [[Ilsenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

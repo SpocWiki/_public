@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kell
+coordinates: [[Kell]]
+markerFile: [[Kell]]
+defaultZoom: 11 
+maxZoom: 18
+```

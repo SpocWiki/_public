@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wormditt
+coordinates: [[Wormditt]]
+markerFile: [[Wormditt]]
+defaultZoom: 11 
+maxZoom: 18
+```

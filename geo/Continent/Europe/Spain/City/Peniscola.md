@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peniscola
+coordinates: [[Peniscola]]
+markerFile: [[Peniscola]]
+defaultZoom: 11 
+maxZoom: 18
+```

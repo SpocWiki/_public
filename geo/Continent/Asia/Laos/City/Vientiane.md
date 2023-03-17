@@ -1,4 +1,4 @@
----
+﻿---
 location: [17.96667,102.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Vientiane
+coordinates: [[Vientiane]]
+markerFile: [[Vientiane]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neu-Ruppin
+coordinates: [[Neu-Ruppin]]
+markerFile: [[Neu-Ruppin]]
+defaultZoom: 11 
+maxZoom: 18
+```

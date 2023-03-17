@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lalendorf
+coordinates: [[Lalendorf]]
+markerFile: [[Lalendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

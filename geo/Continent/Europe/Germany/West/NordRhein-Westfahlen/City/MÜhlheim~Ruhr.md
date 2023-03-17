@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: MÜhlheim~Ruhr
+coordinates: [[MÜhlheim~Ruhr]]
+markerFile: [[MÜhlheim~Ruhr]]
+defaultZoom: 11 
+maxZoom: 18
+```

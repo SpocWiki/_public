@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Acton
+coordinates: [[Acton]]
+markerFile: [[Acton]]
+defaultZoom: 11 
+maxZoom: 18
+```

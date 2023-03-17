@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yourtchi
+coordinates: [[Yourtchi]]
+markerFile: [[Yourtchi]]
+defaultZoom: 11 
+maxZoom: 18
+```

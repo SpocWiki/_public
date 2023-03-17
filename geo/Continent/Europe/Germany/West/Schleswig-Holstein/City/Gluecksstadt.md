@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gluecksstadt
+coordinates: [[Gluecksstadt]]
+markerFile: [[Gluecksstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

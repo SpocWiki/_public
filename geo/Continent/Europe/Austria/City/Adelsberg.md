@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Adelsberg
+coordinates: [[Adelsberg]]
+markerFile: [[Adelsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

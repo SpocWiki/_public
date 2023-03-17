@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pfullendorf
+coordinates: [[Pfullendorf]]
+markerFile: [[Pfullendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

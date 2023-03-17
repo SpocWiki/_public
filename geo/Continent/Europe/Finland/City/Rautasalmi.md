@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rautasalmi
+coordinates: [[Rautasalmi]]
+markerFile: [[Rautasalmi]]
+defaultZoom: 11 
+maxZoom: 18
+```

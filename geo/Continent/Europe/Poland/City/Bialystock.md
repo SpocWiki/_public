@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bialystock
+coordinates: [[Bialystock]]
+markerFile: [[Bialystock]]
+defaultZoom: 11 
+maxZoom: 18
+```

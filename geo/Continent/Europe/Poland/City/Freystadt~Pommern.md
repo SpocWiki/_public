@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freystadt~Pommern
+coordinates: [[Freystadt~Pommern]]
+markerFile: [[Freystadt~Pommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

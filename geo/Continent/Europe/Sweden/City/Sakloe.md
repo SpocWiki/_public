@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sakloe
+coordinates: [[Sakloe]]
+markerFile: [[Sakloe]]
+defaultZoom: 11 
+maxZoom: 18
+```

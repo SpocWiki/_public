@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heidersbach
+coordinates: [[Heidersbach]]
+markerFile: [[Heidersbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

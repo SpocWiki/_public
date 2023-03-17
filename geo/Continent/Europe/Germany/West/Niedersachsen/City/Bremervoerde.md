@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bremervoerde
+coordinates: [[Bremervoerde]]
+markerFile: [[Bremervoerde]]
+defaultZoom: 11 
+maxZoom: 18
+```

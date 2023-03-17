@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sifiisk
+coordinates: [[Sifiisk]]
+markerFile: [[Sifiisk]]
+defaultZoom: 11 
+maxZoom: 18
+```

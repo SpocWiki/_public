@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halle~Saale
+coordinates: [[Halle~Saale]]
+markerFile: [[Halle~Saale]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gnadenfeld
+coordinates: [[Gnadenfeld]]
+markerFile: [[Gnadenfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

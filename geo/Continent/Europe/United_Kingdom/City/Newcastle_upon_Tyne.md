@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Newcastle upon Tyne
+coordinates: [[Newcastle upon Tyne]]
+markerFile: [[Newcastle upon Tyne]]
+defaultZoom: 11 
+maxZoom: 18
+```

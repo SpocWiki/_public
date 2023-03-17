@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freinsheim
+coordinates: [[Freinsheim]]
+markerFile: [[Freinsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

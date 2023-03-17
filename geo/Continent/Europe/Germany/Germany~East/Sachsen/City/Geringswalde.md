@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geringswalde
+coordinates: [[Geringswalde]]
+markerFile: [[Geringswalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

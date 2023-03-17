@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lahr~Schwarzwald
+coordinates: [[Lahr~Schwarzwald]]
+markerFile: [[Lahr~Schwarzwald]]
+defaultZoom: 11 
+maxZoom: 18
+```

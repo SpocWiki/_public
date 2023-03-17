@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oldham
+coordinates: [[Oldham]]
+markerFile: [[Oldham]]
+defaultZoom: 11 
+maxZoom: 18
+```

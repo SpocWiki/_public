@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kelbra
+coordinates: [[Kelbra]]
+markerFile: [[Kelbra]]
+defaultZoom: 11 
+maxZoom: 18
+```

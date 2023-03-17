@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Palana
+coordinates: [[Palana]]
+markerFile: [[Palana]]
+defaultZoom: 11 
+maxZoom: 18
+```

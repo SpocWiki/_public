@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.3,6.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hillesheim
+coordinates: [[Hillesheim]]
+markerFile: [[Hillesheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

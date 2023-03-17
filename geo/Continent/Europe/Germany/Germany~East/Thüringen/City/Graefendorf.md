@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Graefendorf
+coordinates: [[Graefendorf]]
+markerFile: [[Graefendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

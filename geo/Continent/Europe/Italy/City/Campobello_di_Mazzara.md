@@ -1,4 +1,4 @@
----
+﻿---
 location: [37.63,12.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Campobello di Mazzara
+coordinates: [[Campobello di Mazzara]]
+markerFile: [[Campobello di Mazzara]]
+defaultZoom: 11 
+maxZoom: 18
+```

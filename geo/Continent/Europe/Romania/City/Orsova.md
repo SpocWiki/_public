@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orsova
+coordinates: [[Orsova]]
+markerFile: [[Orsova]]
+defaultZoom: 11 
+maxZoom: 18
+```

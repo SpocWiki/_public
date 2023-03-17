@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eilsleben
+coordinates: [[Eilsleben]]
+markerFile: [[Eilsleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

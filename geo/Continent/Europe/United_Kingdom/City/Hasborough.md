@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hasborough
+coordinates: [[Hasborough]]
+markerFile: [[Hasborough]]
+defaultZoom: 11 
+maxZoom: 18
+```

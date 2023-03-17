@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.62,31.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Welisch
+coordinates: [[Welisch]]
+markerFile: [[Welisch]]
+defaultZoom: 11 
+maxZoom: 18
+```

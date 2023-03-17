@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.5,11.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bologna
+coordinates: [[Bologna]]
+markerFile: [[Bologna]]
+defaultZoom: 11 
+maxZoom: 18
+```

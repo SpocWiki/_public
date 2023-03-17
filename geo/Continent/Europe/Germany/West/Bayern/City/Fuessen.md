@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuessen
+coordinates: [[Fuessen]]
+markerFile: [[Fuessen]]
+defaultZoom: 11 
+maxZoom: 18
+```

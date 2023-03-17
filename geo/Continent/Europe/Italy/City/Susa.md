@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Susa
+coordinates: [[Susa]]
+markerFile: [[Susa]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.08,17.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pressburg=Bratislava
+coordinates: [[Pressburg=Bratislava]]
+markerFile: [[Pressburg=Bratislava]]
+defaultZoom: 11 
+maxZoom: 18
+```

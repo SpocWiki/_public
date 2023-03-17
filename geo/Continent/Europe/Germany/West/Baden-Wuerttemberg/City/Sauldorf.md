@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sauldorf
+coordinates: [[Sauldorf]]
+markerFile: [[Sauldorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

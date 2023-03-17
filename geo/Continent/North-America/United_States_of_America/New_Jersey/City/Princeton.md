@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Princeton
+coordinates: [[Princeton]]
+markerFile: [[Princeton]]
+defaultZoom: 11 
+maxZoom: 18
+```

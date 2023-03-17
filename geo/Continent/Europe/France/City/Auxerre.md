@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Auxerre
+coordinates: [[Auxerre]]
+markerFile: [[Auxerre]]
+defaultZoom: 11 
+maxZoom: 18
+```

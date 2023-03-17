@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: West Hartlepool
+coordinates: [[West Hartlepool]]
+markerFile: [[West Hartlepool]]
+defaultZoom: 11 
+maxZoom: 18
+```

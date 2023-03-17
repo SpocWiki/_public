@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nortorf
+coordinates: [[Nortorf]]
+markerFile: [[Nortorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

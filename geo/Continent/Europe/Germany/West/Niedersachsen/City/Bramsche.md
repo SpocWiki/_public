@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bramsche
+coordinates: [[Bramsche]]
+markerFile: [[Bramsche]]
+defaultZoom: 11 
+maxZoom: 18
+```

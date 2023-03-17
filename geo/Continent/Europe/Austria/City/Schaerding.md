@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schaerding
+coordinates: [[Schaerding]]
+markerFile: [[Schaerding]]
+defaultZoom: 11 
+maxZoom: 18
+```

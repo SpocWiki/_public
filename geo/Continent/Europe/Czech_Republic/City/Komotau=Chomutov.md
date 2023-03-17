@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Komotau=Chomutov
+coordinates: [[Komotau=Chomutov]]
+markerFile: [[Komotau=Chomutov]]
+defaultZoom: 11 
+maxZoom: 18
+```

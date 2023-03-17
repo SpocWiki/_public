@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jennisseisk
+coordinates: [[Jennisseisk]]
+markerFile: [[Jennisseisk]]
+defaultZoom: 11 
+maxZoom: 18
+```

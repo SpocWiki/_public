@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loveno
+coordinates: [[Loveno]]
+markerFile: [[Loveno]]
+defaultZoom: 11 
+maxZoom: 18
+```

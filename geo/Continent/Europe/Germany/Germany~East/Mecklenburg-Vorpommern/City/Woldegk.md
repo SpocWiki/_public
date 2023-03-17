@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Woldegk
+coordinates: [[Woldegk]]
+markerFile: [[Woldegk]]
+defaultZoom: 11 
+maxZoom: 18
+```

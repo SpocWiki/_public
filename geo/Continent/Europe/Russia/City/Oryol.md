@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.96667,36.06667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oryol
+coordinates: [[Oryol]]
+markerFile: [[Oryol]]
+defaultZoom: 11 
+maxZoom: 18
+```

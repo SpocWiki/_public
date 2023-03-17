@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Narvik
+coordinates: [[Narvik]]
+markerFile: [[Narvik]]
+defaultZoom: 11 
+maxZoom: 18
+```

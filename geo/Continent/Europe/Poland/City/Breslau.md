@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Breslau
+coordinates: [[Breslau]]
+markerFile: [[Breslau]]
+defaultZoom: 11 
+maxZoom: 18
+```

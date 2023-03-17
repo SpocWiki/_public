@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Staw
+coordinates: [[Staw]]
+markerFile: [[Staw]]
+defaultZoom: 11 
+maxZoom: 18
+```

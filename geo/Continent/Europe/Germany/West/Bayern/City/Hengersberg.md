@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hengersberg
+coordinates: [[Hengersberg]]
+markerFile: [[Hengersberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

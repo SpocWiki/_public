@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dreihausen~Westfahlen
+coordinates: [[Dreihausen~Westfahlen]]
+markerFile: [[Dreihausen~Westfahlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

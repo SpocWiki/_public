@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hesseloe
+coordinates: [[Hesseloe]]
+markerFile: [[Hesseloe]]
+defaultZoom: 11 
+maxZoom: 18
+```

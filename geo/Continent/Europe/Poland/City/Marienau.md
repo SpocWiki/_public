@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marienau
+coordinates: [[Marienau]]
+markerFile: [[Marienau]]
+defaultZoom: 11 
+maxZoom: 18
+```

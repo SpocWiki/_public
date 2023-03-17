@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grassau
+coordinates: [[Grassau]]
+markerFile: [[Grassau]]
+defaultZoom: 11 
+maxZoom: 18
+```

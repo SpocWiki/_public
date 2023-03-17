@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Southend-on-Sea
+coordinates: [[Southend-on-Sea]]
+markerFile: [[Southend-on-Sea]]
+defaultZoom: 11 
+maxZoom: 18
+```

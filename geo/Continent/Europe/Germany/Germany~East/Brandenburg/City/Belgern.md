@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belgern
+coordinates: [[Belgern]]
+markerFile: [[Belgern]]
+defaultZoom: 11 
+maxZoom: 18
+```

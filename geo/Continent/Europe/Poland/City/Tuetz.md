@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tuetz
+coordinates: [[Tuetz]]
+markerFile: [[Tuetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

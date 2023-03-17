@@ -1,4 +1,4 @@
----
+﻿---
 location: [-6.14,106.76]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Djakarta
+coordinates: [[Djakarta]]
+markerFile: [[Djakarta]]
+defaultZoom: 11 
+maxZoom: 18
+```

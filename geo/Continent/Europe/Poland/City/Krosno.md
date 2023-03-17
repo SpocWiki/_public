@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krosno
+coordinates: [[Krosno]]
+markerFile: [[Krosno]]
+defaultZoom: 11 
+maxZoom: 18
+```

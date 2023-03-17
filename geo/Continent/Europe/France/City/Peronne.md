@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peronne
+coordinates: [[Peronne]]
+markerFile: [[Peronne]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.92,9.25]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ziegenhain
+coordinates: [[Ziegenhain]]
+markerFile: [[Ziegenhain]]
+defaultZoom: 11 
+maxZoom: 18
+```

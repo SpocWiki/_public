@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pocking
+coordinates: [[Pocking]]
+markerFile: [[Pocking]]
+defaultZoom: 11 
+maxZoom: 18
+```

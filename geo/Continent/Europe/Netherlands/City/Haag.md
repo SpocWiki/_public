@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haag
+coordinates: [[Haag]]
+markerFile: [[Haag]]
+defaultZoom: 11 
+maxZoom: 18
+```

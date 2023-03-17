@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ebeleben
+coordinates: [[Ebeleben]]
+markerFile: [[Ebeleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

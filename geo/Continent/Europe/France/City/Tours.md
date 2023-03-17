@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tours
+coordinates: [[Tours]]
+markerFile: [[Tours]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.75,5.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Die
+coordinates: [[Die]]
+markerFile: [[Die]]
+defaultZoom: 11 
+maxZoom: 18
+```

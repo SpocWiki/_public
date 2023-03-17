@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Olbernhau
+coordinates: [[Olbernhau]]
+markerFile: [[Olbernhau]]
+defaultZoom: 11 
+maxZoom: 18
+```

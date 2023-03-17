@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wysoka
+coordinates: [[Wysoka]]
+markerFile: [[Wysoka]]
+defaultZoom: 11 
+maxZoom: 18
+```

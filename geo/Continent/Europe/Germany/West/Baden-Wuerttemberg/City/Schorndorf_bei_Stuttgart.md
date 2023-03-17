@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schorndorf bei Stuttgart
+coordinates: [[Schorndorf bei Stuttgart]]
+markerFile: [[Schorndorf bei Stuttgart]]
+defaultZoom: 11 
+maxZoom: 18
+```

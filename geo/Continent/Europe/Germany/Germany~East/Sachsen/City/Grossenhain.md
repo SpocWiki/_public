@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grossenhain
+coordinates: [[Grossenhain]]
+markerFile: [[Grossenhain]]
+defaultZoom: 11 
+maxZoom: 18
+```

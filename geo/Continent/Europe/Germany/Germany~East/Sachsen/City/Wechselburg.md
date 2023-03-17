@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wechselburg
+coordinates: [[Wechselburg]]
+markerFile: [[Wechselburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

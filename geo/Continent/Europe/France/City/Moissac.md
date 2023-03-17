@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moissac
+coordinates: [[Moissac]]
+markerFile: [[Moissac]]
+defaultZoom: 11 
+maxZoom: 18
+```

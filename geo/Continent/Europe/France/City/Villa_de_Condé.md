@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villa de Condé
+coordinates: [[Villa de Condé]]
+markerFile: [[Villa de Condé]]
+defaultZoom: 11 
+maxZoom: 18
+```

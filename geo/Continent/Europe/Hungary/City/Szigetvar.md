@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szigetvar
+coordinates: [[Szigetvar]]
+markerFile: [[Szigetvar]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oristano
+coordinates: [[Oristano]]
+markerFile: [[Oristano]]
+defaultZoom: 11 
+maxZoom: 18
+```

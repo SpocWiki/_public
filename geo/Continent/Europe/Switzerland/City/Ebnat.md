@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ebnat
+coordinates: [[Ebnat]]
+markerFile: [[Ebnat]]
+defaultZoom: 11 
+maxZoom: 18
+```

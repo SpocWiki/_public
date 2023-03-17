@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valkjaervi
+coordinates: [[Valkjaervi]]
+markerFile: [[Valkjaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

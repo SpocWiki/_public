@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ypern=Ypers
+coordinates: [[Ypern=Ypers]]
+markerFile: [[Ypern=Ypers]]
+defaultZoom: 11 
+maxZoom: 18
+```

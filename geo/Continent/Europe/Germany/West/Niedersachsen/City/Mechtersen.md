@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mechtersen
+coordinates: [[Mechtersen]]
+markerFile: [[Mechtersen]]
+defaultZoom: 11 
+maxZoom: 18
+```

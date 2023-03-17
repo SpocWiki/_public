@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vidin
+coordinates: [[Vidin]]
+markerFile: [[Vidin]]
+defaultZoom: 11 
+maxZoom: 18
+```

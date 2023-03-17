@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wanne
+coordinates: [[Wanne]]
+markerFile: [[Wanne]]
+defaultZoom: 11 
+maxZoom: 18
+```

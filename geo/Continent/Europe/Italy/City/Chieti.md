@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chieti
+coordinates: [[Chieti]]
+markerFile: [[Chieti]]
+defaultZoom: 11 
+maxZoom: 18
+```

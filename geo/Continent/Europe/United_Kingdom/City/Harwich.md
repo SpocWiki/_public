@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harwich
+coordinates: [[Harwich]]
+markerFile: [[Harwich]]
+defaultZoom: 11 
+maxZoom: 18
+```

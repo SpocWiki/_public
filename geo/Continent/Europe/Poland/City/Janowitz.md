@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Janowitz
+coordinates: [[Janowitz]]
+markerFile: [[Janowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

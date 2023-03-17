@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dittersbach
+coordinates: [[Dittersbach]]
+markerFile: [[Dittersbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

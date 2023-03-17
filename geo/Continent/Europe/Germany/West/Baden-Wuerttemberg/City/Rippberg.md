@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rippberg
+coordinates: [[Rippberg]]
+markerFile: [[Rippberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

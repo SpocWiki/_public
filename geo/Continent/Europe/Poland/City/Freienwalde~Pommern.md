@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freienwalde~Pommern
+coordinates: [[Freienwalde~Pommern]]
+markerFile: [[Freienwalde~Pommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

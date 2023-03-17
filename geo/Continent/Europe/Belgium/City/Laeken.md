@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laeken
+coordinates: [[Laeken]]
+markerFile: [[Laeken]]
+defaultZoom: 11 
+maxZoom: 18
+```

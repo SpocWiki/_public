@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Premeti
+coordinates: [[Premeti]]
+markerFile: [[Premeti]]
+defaultZoom: 11 
+maxZoom: 18
+```

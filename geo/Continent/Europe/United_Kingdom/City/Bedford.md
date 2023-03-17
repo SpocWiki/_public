@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bedford
+coordinates: [[Bedford]]
+markerFile: [[Bedford]]
+defaultZoom: 11 
+maxZoom: 18
+```

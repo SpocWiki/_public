@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sknira
+coordinates: [[Sknira]]
+markerFile: [[Sknira]]
+defaultZoom: 11 
+maxZoom: 18
+```

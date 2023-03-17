@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landsberg~Warthe
+coordinates: [[Landsberg~Warthe]]
+markerFile: [[Landsberg~Warthe]]
+defaultZoom: 11 
+maxZoom: 18
+```

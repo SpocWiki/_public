@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mallin
+coordinates: [[Mallin]]
+markerFile: [[Mallin]]
+defaultZoom: 11 
+maxZoom: 18
+```

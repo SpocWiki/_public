@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Emmerich
+coordinates: [[Emmerich]]
+markerFile: [[Emmerich]]
+defaultZoom: 11 
+maxZoom: 18
+```

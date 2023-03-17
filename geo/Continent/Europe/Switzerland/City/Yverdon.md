@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yverdon
+coordinates: [[Yverdon]]
+markerFile: [[Yverdon]]
+defaultZoom: 11 
+maxZoom: 18
+```

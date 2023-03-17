@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falkoeping
+coordinates: [[Falkoeping]]
+markerFile: [[Falkoeping]]
+defaultZoom: 11 
+maxZoom: 18
+```

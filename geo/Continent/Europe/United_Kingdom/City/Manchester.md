@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Manchester
+coordinates: [[Manchester]]
+markerFile: [[Manchester]]
+defaultZoom: 11 
+maxZoom: 18
+```

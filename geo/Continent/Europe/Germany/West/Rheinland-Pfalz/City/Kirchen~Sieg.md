@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchen~Sieg
+coordinates: [[Kirchen~Sieg]]
+markerFile: [[Kirchen~Sieg]]
+defaultZoom: 11 
+maxZoom: 18
+```

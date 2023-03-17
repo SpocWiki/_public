@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaasa
+coordinates: [[Vaasa]]
+markerFile: [[Vaasa]]
+defaultZoom: 11 
+maxZoom: 18
+```

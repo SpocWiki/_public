@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lussingrande
+coordinates: [[Lussingrande]]
+markerFile: [[Lussingrande]]
+defaultZoom: 11 
+maxZoom: 18
+```

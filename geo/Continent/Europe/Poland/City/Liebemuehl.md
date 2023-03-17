@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.77,19.82]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liebemuehl
+coordinates: [[Liebemuehl]]
+markerFile: [[Liebemuehl]]
+defaultZoom: 11 
+maxZoom: 18
+```

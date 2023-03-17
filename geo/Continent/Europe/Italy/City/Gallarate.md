@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gallarate
+coordinates: [[Gallarate]]
+markerFile: [[Gallarate]]
+defaultZoom: 11 
+maxZoom: 18
+```

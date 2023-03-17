@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kreuznach
+coordinates: [[Kreuznach]]
+markerFile: [[Kreuznach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mitchell
+coordinates: [[Mitchell]]
+markerFile: [[Mitchell]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schlabitz
+coordinates: [[Schlabitz]]
+markerFile: [[Schlabitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

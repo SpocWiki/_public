@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sandersleben
+coordinates: [[Sandersleben]]
+markerFile: [[Sandersleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

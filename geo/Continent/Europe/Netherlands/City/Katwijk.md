@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Katwijk
+coordinates: [[Katwijk]]
+markerFile: [[Katwijk]]
+defaultZoom: 11 
+maxZoom: 18
+```

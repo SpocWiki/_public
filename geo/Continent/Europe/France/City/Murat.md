@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.12,2.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Murat
+coordinates: [[Murat]]
+markerFile: [[Murat]]
+defaultZoom: 11 
+maxZoom: 18
+```

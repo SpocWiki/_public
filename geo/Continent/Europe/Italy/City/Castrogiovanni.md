@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castrogiovanni
+coordinates: [[Castrogiovanni]]
+markerFile: [[Castrogiovanni]]
+defaultZoom: 11 
+maxZoom: 18
+```

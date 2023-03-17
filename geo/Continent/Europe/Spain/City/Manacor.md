@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Manacor
+coordinates: [[Manacor]]
+markerFile: [[Manacor]]
+defaultZoom: 11 
+maxZoom: 18
+```

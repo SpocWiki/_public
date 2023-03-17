@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Puka
+coordinates: [[Puka]]
+markerFile: [[Puka]]
+defaultZoom: 11 
+maxZoom: 18
+```

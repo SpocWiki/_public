@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doveren
+coordinates: [[Doveren]]
+markerFile: [[Doveren]]
+defaultZoom: 11 
+maxZoom: 18
+```

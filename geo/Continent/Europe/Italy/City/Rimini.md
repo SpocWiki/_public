@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.07,12.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rimini
+coordinates: [[Rimini]]
+markerFile: [[Rimini]]
+defaultZoom: 11 
+maxZoom: 18
+```

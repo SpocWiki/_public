@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uzés
+coordinates: [[Uzés]]
+markerFile: [[Uzés]]
+defaultZoom: 11 
+maxZoom: 18
+```

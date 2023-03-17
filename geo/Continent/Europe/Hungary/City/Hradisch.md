@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.07,17.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hradisch
+coordinates: [[Hradisch]]
+markerFile: [[Hradisch]]
+defaultZoom: 11 
+maxZoom: 18
+```

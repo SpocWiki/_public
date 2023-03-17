@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Walheim
+coordinates: [[Walheim]]
+markerFile: [[Walheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

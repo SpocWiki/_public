@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Murca
+coordinates: [[Murca]]
+markerFile: [[Murca]]
+defaultZoom: 11 
+maxZoom: 18
+```

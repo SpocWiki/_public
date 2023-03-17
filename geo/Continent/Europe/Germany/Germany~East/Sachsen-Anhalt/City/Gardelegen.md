@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gardelegen
+coordinates: [[Gardelegen]]
+markerFile: [[Gardelegen]]
+defaultZoom: 11 
+maxZoom: 18
+```

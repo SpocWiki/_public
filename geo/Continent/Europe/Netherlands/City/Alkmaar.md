@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alkmaar
+coordinates: [[Alkmaar]]
+markerFile: [[Alkmaar]]
+defaultZoom: 11 
+maxZoom: 18
+```

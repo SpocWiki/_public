@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Biendorf
+coordinates: [[Biendorf]]
+markerFile: [[Biendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

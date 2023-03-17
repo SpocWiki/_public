@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Redange
+coordinates: [[Redange]]
+markerFile: [[Redange]]
+defaultZoom: 11 
+maxZoom: 18
+```

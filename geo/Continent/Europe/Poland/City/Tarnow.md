@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tarnow
+coordinates: [[Tarnow]]
+markerFile: [[Tarnow]]
+defaultZoom: 11 
+maxZoom: 18
+```

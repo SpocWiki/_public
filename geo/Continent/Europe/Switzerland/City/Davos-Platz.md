@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Davos-Platz
+coordinates: [[Davos-Platz]]
+markerFile: [[Davos-Platz]]
+defaultZoom: 11 
+maxZoom: 18
+```

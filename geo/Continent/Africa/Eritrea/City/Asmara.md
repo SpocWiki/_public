@@ -1,4 +1,4 @@
----
+﻿---
 location: [15.33333,38.91667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Asmara
+coordinates: [[Asmara]]
+markerFile: [[Asmara]]
+defaultZoom: 11 
+maxZoom: 18
+```

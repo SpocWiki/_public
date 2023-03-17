@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Velikije Luki
+coordinates: [[Velikije Luki]]
+markerFile: [[Velikije Luki]]
+defaultZoom: 11 
+maxZoom: 18
+```

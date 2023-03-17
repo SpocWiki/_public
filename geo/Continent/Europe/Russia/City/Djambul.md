@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.92,71.38]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Djambul
+coordinates: [[Djambul]]
+markerFile: [[Djambul]]
+defaultZoom: 11 
+maxZoom: 18
+```

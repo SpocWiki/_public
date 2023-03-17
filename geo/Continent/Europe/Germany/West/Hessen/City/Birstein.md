@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Birstein
+coordinates: [[Birstein]]
+markerFile: [[Birstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

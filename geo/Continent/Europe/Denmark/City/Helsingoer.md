@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Helsingoer
+coordinates: [[Helsingoer]]
+markerFile: [[Helsingoer]]
+defaultZoom: 11 
+maxZoom: 18
+```

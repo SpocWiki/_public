@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mikoyan
+coordinates: [[Mikoyan]]
+markerFile: [[Mikoyan]]
+defaultZoom: 11 
+maxZoom: 18
+```

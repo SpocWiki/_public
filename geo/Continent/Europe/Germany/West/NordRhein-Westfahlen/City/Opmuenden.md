@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Opmuenden
+coordinates: [[Opmuenden]]
+markerFile: [[Opmuenden]]
+defaultZoom: 11 
+maxZoom: 18
+```

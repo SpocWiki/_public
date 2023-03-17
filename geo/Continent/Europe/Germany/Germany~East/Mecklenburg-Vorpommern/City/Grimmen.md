@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grimmen
+coordinates: [[Grimmen]]
+markerFile: [[Grimmen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nischnij-Nowgorod=Gorki
+coordinates: [[Nischnij-Nowgorod=Gorki]]
+markerFile: [[Nischnij-Nowgorod=Gorki]]
+defaultZoom: 11 
+maxZoom: 18
+```

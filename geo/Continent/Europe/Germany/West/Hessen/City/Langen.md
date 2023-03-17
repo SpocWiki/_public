@@ -1,4 +1,4 @@
----
+﻿---
 location: [50,8.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langen
+coordinates: [[Langen]]
+markerFile: [[Langen]]
+defaultZoom: 11 
+maxZoom: 18
+```

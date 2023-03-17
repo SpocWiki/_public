@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Portotorres
+coordinates: [[Portotorres]]
+markerFile: [[Portotorres]]
+defaultZoom: 11 
+maxZoom: 18
+```

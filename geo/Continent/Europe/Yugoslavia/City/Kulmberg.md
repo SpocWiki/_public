@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kulmberg
+coordinates: [[Kulmberg]]
+markerFile: [[Kulmberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

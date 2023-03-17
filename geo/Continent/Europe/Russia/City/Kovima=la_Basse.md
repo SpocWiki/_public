@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kovima=la Basse
+coordinates: [[Kovima=la Basse]]
+markerFile: [[Kovima=la Basse]]
+defaultZoom: 11 
+maxZoom: 18
+```

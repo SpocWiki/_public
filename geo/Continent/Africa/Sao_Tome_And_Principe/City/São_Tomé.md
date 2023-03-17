@@ -1,4 +1,4 @@
----
+﻿---
 location: [0.3333333,6.733333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: São Tomé
+coordinates: [[São Tomé]]
+markerFile: [[São Tomé]]
+defaultZoom: 11 
+maxZoom: 18
+```

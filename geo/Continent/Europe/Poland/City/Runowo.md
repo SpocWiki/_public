@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Runowo
+coordinates: [[Runowo]]
+markerFile: [[Runowo]]
+defaultZoom: 11 
+maxZoom: 18
+```

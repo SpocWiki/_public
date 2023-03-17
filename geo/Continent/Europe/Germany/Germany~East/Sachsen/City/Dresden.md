@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dresden
+coordinates: [[Dresden]]
+markerFile: [[Dresden]]
+defaultZoom: 11 
+maxZoom: 18
+```

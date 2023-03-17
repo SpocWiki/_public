@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osterfeld~Rhein-Ruhr
+coordinates: [[Osterfeld~Rhein-Ruhr]]
+markerFile: [[Osterfeld~Rhein-Ruhr]]
+defaultZoom: 11 
+maxZoom: 18
+```

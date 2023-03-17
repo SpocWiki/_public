@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ultuna
+coordinates: [[Ultuna]]
+markerFile: [[Ultuna]]
+defaultZoom: 11 
+maxZoom: 18
+```

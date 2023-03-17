@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ahlen
+coordinates: [[Ahlen]]
+markerFile: [[Ahlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

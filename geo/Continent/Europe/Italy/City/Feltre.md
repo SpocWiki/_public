@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Feltre
+coordinates: [[Feltre]]
+markerFile: [[Feltre]]
+defaultZoom: 11 
+maxZoom: 18
+```

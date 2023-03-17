@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.48,8.88]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heldenbergen
+coordinates: [[Heldenbergen]]
+markerFile: [[Heldenbergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

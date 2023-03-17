@@ -1,4 +1,4 @@
----
+﻿---
 location: [-33.45,-70.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Santiago
+coordinates: [[Santiago]]
+markerFile: [[Santiago]]
+defaultZoom: 11 
+maxZoom: 18
+```

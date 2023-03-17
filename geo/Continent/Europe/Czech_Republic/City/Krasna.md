@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krasna
+coordinates: [[Krasna]]
+markerFile: [[Krasna]]
+defaultZoom: 11 
+maxZoom: 18
+```

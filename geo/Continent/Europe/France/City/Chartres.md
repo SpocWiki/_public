@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.45,1.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chartres
+coordinates: [[Chartres]]
+markerFile: [[Chartres]]
+defaultZoom: 11 
+maxZoom: 18
+```

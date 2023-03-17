@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koeln-Muelheim
+coordinates: [[Koeln-Muelheim]]
+markerFile: [[Koeln-Muelheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stein~Rhein
+coordinates: [[Stein~Rhein]]
+markerFile: [[Stein~Rhein]]
+defaultZoom: 11 
+maxZoom: 18
+```

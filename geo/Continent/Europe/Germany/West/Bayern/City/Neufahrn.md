@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neufahrn
+coordinates: [[Neufahrn]]
+markerFile: [[Neufahrn]]
+defaultZoom: 11 
+maxZoom: 18
+```

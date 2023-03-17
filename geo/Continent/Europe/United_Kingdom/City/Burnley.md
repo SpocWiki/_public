@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burnley
+coordinates: [[Burnley]]
+markerFile: [[Burnley]]
+defaultZoom: 11 
+maxZoom: 18
+```

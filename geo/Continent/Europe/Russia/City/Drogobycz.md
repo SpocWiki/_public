@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.35,23.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Drogobycz
+coordinates: [[Drogobycz]]
+markerFile: [[Drogobycz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spassk~Tambow
+coordinates: [[Spassk~Tambow]]
+markerFile: [[Spassk~Tambow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bentheim
+coordinates: [[Bentheim]]
+markerFile: [[Bentheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

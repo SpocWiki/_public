@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eraejaervi
+coordinates: [[Eraejaervi]]
+markerFile: [[Eraejaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

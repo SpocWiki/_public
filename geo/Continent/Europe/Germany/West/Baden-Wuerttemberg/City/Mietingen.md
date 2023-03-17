@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mietingen
+coordinates: [[Mietingen]]
+markerFile: [[Mietingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

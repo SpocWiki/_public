@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thueste
+coordinates: [[Thueste]]
+markerFile: [[Thueste]]
+defaultZoom: 11 
+maxZoom: 18
+```

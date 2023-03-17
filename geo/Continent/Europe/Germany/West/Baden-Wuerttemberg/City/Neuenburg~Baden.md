@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.82,7.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neuenburg~Baden
+coordinates: [[Neuenburg~Baden]]
+markerFile: [[Neuenburg~Baden]]
+defaultZoom: 11 
+maxZoom: 18
+```

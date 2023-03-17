@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Genf=Geneva
+coordinates: [[Genf=Geneva]]
+markerFile: [[Genf=Geneva]]
+defaultZoom: 11 
+maxZoom: 18
+```

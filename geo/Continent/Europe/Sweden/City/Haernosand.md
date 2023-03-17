@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haernosand
+coordinates: [[Haernosand]]
+markerFile: [[Haernosand]]
+defaultZoom: 11 
+maxZoom: 18
+```

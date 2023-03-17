@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kremnica
+coordinates: [[Kremnica]]
+markerFile: [[Kremnica]]
+defaultZoom: 11 
+maxZoom: 18
+```

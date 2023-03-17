@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oettingen
+coordinates: [[Oettingen]]
+markerFile: [[Oettingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

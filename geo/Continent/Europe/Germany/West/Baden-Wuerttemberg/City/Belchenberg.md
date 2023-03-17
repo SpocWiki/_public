@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belchenberg
+coordinates: [[Belchenberg]]
+markerFile: [[Belchenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

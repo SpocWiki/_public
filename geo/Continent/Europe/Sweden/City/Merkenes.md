@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Merkenes
+coordinates: [[Merkenes]]
+markerFile: [[Merkenes]]
+defaultZoom: 11 
+maxZoom: 18
+```

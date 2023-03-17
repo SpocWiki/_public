@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wilhelmshaven
+coordinates: [[Wilhelmshaven]]
+markerFile: [[Wilhelmshaven]]
+defaultZoom: 11 
+maxZoom: 18
+```

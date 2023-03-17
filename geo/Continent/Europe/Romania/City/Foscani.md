@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Foscani
+coordinates: [[Foscani]]
+markerFile: [[Foscani]]
+defaultZoom: 11 
+maxZoom: 18
+```

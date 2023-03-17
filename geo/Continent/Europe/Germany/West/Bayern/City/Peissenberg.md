@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peissenberg
+coordinates: [[Peissenberg]]
+markerFile: [[Peissenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sierpe
+coordinates: [[Sierpe]]
+markerFile: [[Sierpe]]
+defaultZoom: 11 
+maxZoom: 18
+```

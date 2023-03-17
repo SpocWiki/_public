@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neidenburg
+coordinates: [[Neidenburg]]
+markerFile: [[Neidenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

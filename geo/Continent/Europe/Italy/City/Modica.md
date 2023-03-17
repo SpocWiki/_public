@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Modica
+coordinates: [[Modica]]
+markerFile: [[Modica]]
+defaultZoom: 11 
+maxZoom: 18
+```

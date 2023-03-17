@@ -1,4 +1,4 @@
----
+﻿---
 location: [56,22.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Telschi
+coordinates: [[Telschi]]
+markerFile: [[Telschi]]
+defaultZoom: 11 
+maxZoom: 18
+```

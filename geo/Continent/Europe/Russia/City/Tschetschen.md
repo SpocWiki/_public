@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschetschen
+coordinates: [[Tschetschen]]
+markerFile: [[Tschetschen]]
+defaultZoom: 11 
+maxZoom: 18
+```

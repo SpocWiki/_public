@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wologda
+coordinates: [[Wologda]]
+markerFile: [[Wologda]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mariensee
+coordinates: [[Mariensee]]
+markerFile: [[Mariensee]]
+defaultZoom: 11 
+maxZoom: 18
+```

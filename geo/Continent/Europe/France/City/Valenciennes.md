@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valenciennes
+coordinates: [[Valenciennes]]
+markerFile: [[Valenciennes]]
+defaultZoom: 11 
+maxZoom: 18
+```

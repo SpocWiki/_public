@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Verdun
+coordinates: [[Verdun]]
+markerFile: [[Verdun]]
+defaultZoom: 11 
+maxZoom: 18
+```

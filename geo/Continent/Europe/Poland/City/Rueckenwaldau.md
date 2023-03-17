@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rueckenwaldau
+coordinates: [[Rueckenwaldau]]
+markerFile: [[Rueckenwaldau]]
+defaultZoom: 11 
+maxZoom: 18
+```

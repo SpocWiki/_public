@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Penting
+coordinates: [[Penting]]
+markerFile: [[Penting]]
+defaultZoom: 11 
+maxZoom: 18
+```

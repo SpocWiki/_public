@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eibenstock
+coordinates: [[Eibenstock]]
+markerFile: [[Eibenstock]]
+defaultZoom: 11 
+maxZoom: 18
+```

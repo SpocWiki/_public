@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klausenburg=Cluj
+coordinates: [[Klausenburg=Cluj]]
+markerFile: [[Klausenburg=Cluj]]
+defaultZoom: 11 
+maxZoom: 18
+```

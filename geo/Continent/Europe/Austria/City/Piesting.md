@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Piesting
+coordinates: [[Piesting]]
+markerFile: [[Piesting]]
+defaultZoom: 11 
+maxZoom: 18
+```

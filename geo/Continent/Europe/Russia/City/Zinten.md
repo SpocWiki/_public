@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zinten
+coordinates: [[Zinten]]
+markerFile: [[Zinten]]
+defaultZoom: 11 
+maxZoom: 18
+```

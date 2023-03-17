@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forest Hill
+coordinates: [[Forest Hill]]
+markerFile: [[Forest Hill]]
+defaultZoom: 11 
+maxZoom: 18
+```

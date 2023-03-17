@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Biel
+coordinates: [[Biel]]
+markerFile: [[Biel]]
+defaultZoom: 11 
+maxZoom: 18
+```

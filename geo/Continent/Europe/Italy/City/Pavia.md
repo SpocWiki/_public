@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pavia
+coordinates: [[Pavia]]
+markerFile: [[Pavia]]
+defaultZoom: 11 
+maxZoom: 18
+```

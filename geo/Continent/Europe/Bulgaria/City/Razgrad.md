@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Razgrad
+coordinates: [[Razgrad]]
+markerFile: [[Razgrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

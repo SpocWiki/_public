@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maria-Thann
+coordinates: [[Maria-Thann]]
+markerFile: [[Maria-Thann]]
+defaultZoom: 11 
+maxZoom: 18
+```

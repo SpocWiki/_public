@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Veitsch
+coordinates: [[Veitsch]]
+markerFile: [[Veitsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.82,63.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marutschak
+coordinates: [[Marutschak]]
+markerFile: [[Marutschak]]
+defaultZoom: 11 
+maxZoom: 18
+```

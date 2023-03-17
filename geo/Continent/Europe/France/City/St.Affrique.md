@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Affrique
+coordinates: [[St.Affrique]]
+markerFile: [[St.Affrique]]
+defaultZoom: 11 
+maxZoom: 18
+```

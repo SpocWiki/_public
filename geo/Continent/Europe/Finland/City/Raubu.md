@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Raubu
+coordinates: [[Raubu]]
+markerFile: [[Raubu]]
+defaultZoom: 11 
+maxZoom: 18
+```

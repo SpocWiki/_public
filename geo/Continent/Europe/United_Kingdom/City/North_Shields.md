@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: North Shields
+coordinates: [[North Shields]]
+markerFile: [[North Shields]]
+defaultZoom: 11 
+maxZoom: 18
+```

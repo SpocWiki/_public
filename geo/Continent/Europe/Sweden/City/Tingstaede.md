@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tingstaede
+coordinates: [[Tingstaede]]
+markerFile: [[Tingstaede]]
+defaultZoom: 11 
+maxZoom: 18
+```

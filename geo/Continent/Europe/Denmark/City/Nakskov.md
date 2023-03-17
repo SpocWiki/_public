@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nakskov
+coordinates: [[Nakskov]]
+markerFile: [[Nakskov]]
+defaultZoom: 11 
+maxZoom: 18
+```

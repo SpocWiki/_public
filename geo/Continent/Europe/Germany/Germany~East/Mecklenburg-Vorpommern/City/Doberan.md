@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doberan
+coordinates: [[Doberan]]
+markerFile: [[Doberan]]
+defaultZoom: 11 
+maxZoom: 18
+```

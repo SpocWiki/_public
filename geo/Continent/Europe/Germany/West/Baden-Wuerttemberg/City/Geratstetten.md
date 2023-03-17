@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geratstetten
+coordinates: [[Geratstetten]]
+markerFile: [[Geratstetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

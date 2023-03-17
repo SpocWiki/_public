@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Provins
+coordinates: [[Provins]]
+markerFile: [[Provins]]
+defaultZoom: 11 
+maxZoom: 18
+```

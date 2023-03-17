@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Patschkau
+coordinates: [[Patschkau]]
+markerFile: [[Patschkau]]
+defaultZoom: 11 
+maxZoom: 18
+```

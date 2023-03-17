@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wesseling
+coordinates: [[Wesseling]]
+markerFile: [[Wesseling]]
+defaultZoom: 11 
+maxZoom: 18
+```

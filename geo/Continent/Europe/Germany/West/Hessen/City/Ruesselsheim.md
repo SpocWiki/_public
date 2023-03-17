@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruesselsheim
+coordinates: [[Ruesselsheim]]
+markerFile: [[Ruesselsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

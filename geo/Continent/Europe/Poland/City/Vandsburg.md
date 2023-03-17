@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vandsburg
+coordinates: [[Vandsburg]]
+markerFile: [[Vandsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

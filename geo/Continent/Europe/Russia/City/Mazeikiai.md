@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mazeikiai
+coordinates: [[Mazeikiai]]
+markerFile: [[Mazeikiai]]
+defaultZoom: 11 
+maxZoom: 18
+```

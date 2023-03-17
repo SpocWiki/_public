@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Codogno
+coordinates: [[Codogno]]
+markerFile: [[Codogno]]
+defaultZoom: 11 
+maxZoom: 18
+```

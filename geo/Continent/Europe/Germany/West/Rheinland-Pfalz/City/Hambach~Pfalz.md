@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hambach~Pfalz
+coordinates: [[Hambach~Pfalz]]
+markerFile: [[Hambach~Pfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

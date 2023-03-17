@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Turrach
+coordinates: [[Turrach]]
+markerFile: [[Turrach]]
+defaultZoom: 11 
+maxZoom: 18
+```

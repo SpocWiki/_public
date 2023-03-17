@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dun Laoghaire
+coordinates: [[Dun Laoghaire]]
+markerFile: [[Dun Laoghaire]]
+defaultZoom: 11 
+maxZoom: 18
+```

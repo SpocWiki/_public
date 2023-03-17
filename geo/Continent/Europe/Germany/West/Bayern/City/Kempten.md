@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.73,10.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kempten
+coordinates: [[Kempten]]
+markerFile: [[Kempten]]
+defaultZoom: 11 
+maxZoom: 18
+```

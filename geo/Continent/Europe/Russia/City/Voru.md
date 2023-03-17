@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Voru
+coordinates: [[Voru]]
+markerFile: [[Voru]]
+defaultZoom: 11 
+maxZoom: 18
+```

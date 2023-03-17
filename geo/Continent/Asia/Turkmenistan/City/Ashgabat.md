@@ -1,4 +1,4 @@
----
+﻿---
 location: [37.96667,58.33333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Ashgabat
+coordinates: [[Ashgabat]]
+markerFile: [[Ashgabat]]
+defaultZoom: 11 
+maxZoom: 18
+```

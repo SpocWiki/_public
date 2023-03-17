@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Avila
+coordinates: [[Avila]]
+markerFile: [[Avila]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stockholm
+coordinates: [[Stockholm]]
+markerFile: [[Stockholm]]
+defaultZoom: 11 
+maxZoom: 18
+```

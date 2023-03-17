@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flintsbach
+coordinates: [[Flintsbach]]
+markerFile: [[Flintsbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

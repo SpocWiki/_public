@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oldorf
+coordinates: [[Oldorf]]
+markerFile: [[Oldorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Codigoro
+coordinates: [[Codigoro]]
+markerFile: [[Codigoro]]
+defaultZoom: 11 
+maxZoom: 18
+```

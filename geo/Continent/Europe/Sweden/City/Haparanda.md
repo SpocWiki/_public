@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haparanda
+coordinates: [[Haparanda]]
+markerFile: [[Haparanda]]
+defaultZoom: 11 
+maxZoom: 18
+```

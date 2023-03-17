@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cardiff
+coordinates: [[Cardiff]]
+markerFile: [[Cardiff]]
+defaultZoom: 11 
+maxZoom: 18
+```

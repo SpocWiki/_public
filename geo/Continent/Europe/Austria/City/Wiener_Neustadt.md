@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wiener Neustadt
+coordinates: [[Wiener Neustadt]]
+markerFile: [[Wiener Neustadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

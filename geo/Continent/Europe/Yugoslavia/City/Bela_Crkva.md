@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bela Crkva
+coordinates: [[Bela Crkva]]
+markerFile: [[Bela Crkva]]
+defaultZoom: 11 
+maxZoom: 18
+```

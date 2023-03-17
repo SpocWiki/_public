@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werniji
+coordinates: [[Werniji]]
+markerFile: [[Werniji]]
+defaultZoom: 11 
+maxZoom: 18
+```

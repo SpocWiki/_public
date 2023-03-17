@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stavenhagen
+coordinates: [[Stavenhagen]]
+markerFile: [[Stavenhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

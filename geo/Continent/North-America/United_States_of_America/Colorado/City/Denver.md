@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Denver
+coordinates: [[Denver]]
+markerFile: [[Denver]]
+defaultZoom: 11 
+maxZoom: 18
+```

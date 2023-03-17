@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geerdruidenberg
+coordinates: [[Geerdruidenberg]]
+markerFile: [[Geerdruidenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

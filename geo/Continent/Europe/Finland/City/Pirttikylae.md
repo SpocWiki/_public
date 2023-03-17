@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pirttikylae
+coordinates: [[Pirttikylae]]
+markerFile: [[Pirttikylae]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mersch
+coordinates: [[Mersch]]
+markerFile: [[Mersch]]
+defaultZoom: 11 
+maxZoom: 18
+```

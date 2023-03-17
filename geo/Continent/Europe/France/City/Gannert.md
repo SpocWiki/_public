@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gannert
+coordinates: [[Gannert]]
+markerFile: [[Gannert]]
+defaultZoom: 11 
+maxZoom: 18
+```

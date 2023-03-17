@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sulzbach~Mainufer
+coordinates: [[Sulzbach~Mainufer]]
+markerFile: [[Sulzbach~Mainufer]]
+defaultZoom: 11 
+maxZoom: 18
+```

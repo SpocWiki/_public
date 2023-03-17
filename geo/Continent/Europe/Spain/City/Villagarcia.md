@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villagarcia
+coordinates: [[Villagarcia]]
+markerFile: [[Villagarcia]]
+defaultZoom: 11 
+maxZoom: 18
+```

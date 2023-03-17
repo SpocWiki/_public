@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.3,7.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberlahnstein
+coordinates: [[Oberlahnstein]]
+markerFile: [[Oberlahnstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

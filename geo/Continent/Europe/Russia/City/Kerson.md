@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kerson
+coordinates: [[Kerson]]
+markerFile: [[Kerson]]
+defaultZoom: 11 
+maxZoom: 18
+```

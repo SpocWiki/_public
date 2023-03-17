@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halver
+coordinates: [[Halver]]
+markerFile: [[Halver]]
+defaultZoom: 11 
+maxZoom: 18
+```

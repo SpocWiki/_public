@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.03,17.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoenborn
+coordinates: [[Schoenborn]]
+markerFile: [[Schoenborn]]
+defaultZoom: 11 
+maxZoom: 18
+```

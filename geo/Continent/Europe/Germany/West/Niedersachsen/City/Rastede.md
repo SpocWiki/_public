@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rastede
+coordinates: [[Rastede]]
+markerFile: [[Rastede]]
+defaultZoom: 11 
+maxZoom: 18
+```

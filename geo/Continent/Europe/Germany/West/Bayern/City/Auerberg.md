@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Auerberg
+coordinates: [[Auerberg]]
+markerFile: [[Auerberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

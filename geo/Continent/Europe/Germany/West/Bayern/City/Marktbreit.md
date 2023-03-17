@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marktbreit
+coordinates: [[Marktbreit]]
+markerFile: [[Marktbreit]]
+defaultZoom: 11 
+maxZoom: 18
+```

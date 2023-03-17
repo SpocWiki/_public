@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rothenburg ob der Tauber
+coordinates: [[Rothenburg ob der Tauber]]
+markerFile: [[Rothenburg ob der Tauber]]
+defaultZoom: 11 
+maxZoom: 18
+```

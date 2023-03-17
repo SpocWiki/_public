@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barkhausen
+coordinates: [[Barkhausen]]
+markerFile: [[Barkhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Todtnau
+coordinates: [[Todtnau]]
+markerFile: [[Todtnau]]
+defaultZoom: 11 
+maxZoom: 18
+```

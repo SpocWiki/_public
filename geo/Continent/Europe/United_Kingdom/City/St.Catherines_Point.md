@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Catherines Point
+coordinates: [[St.Catherines Point]]
+markerFile: [[St.Catherines Point]]
+defaultZoom: 11 
+maxZoom: 18
+```

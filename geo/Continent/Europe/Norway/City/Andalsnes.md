@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Andalsnes
+coordinates: [[Andalsnes]]
+markerFile: [[Andalsnes]]
+defaultZoom: 11 
+maxZoom: 18
+```

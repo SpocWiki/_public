@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vigo
+coordinates: [[Vigo]]
+markerFile: [[Vigo]]
+defaultZoom: 11 
+maxZoom: 18
+```

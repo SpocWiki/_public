@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vado
+coordinates: [[Vado]]
+markerFile: [[Vado]]
+defaultZoom: 11 
+maxZoom: 18
+```

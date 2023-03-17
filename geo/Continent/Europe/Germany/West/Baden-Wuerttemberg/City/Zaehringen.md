@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zaehringen
+coordinates: [[Zaehringen]]
+markerFile: [[Zaehringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

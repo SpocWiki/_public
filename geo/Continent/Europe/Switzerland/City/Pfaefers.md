@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.97,9.48]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pfaefers
+coordinates: [[Pfaefers]]
+markerFile: [[Pfaefers]]
+defaultZoom: 11 
+maxZoom: 18
+```

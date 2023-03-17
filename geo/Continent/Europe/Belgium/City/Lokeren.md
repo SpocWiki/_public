@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lokeren
+coordinates: [[Lokeren]]
+markerFile: [[Lokeren]]
+defaultZoom: 11 
+maxZoom: 18
+```

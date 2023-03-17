@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Geilsdorf
+coordinates: [[Geilsdorf]]
+markerFile: [[Geilsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wiesau
+coordinates: [[Wiesau]]
+markerFile: [[Wiesau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nettersheim
+coordinates: [[Nettersheim]]
+markerFile: [[Nettersheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

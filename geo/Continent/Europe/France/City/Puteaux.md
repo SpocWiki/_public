@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Puteaux
+coordinates: [[Puteaux]]
+markerFile: [[Puteaux]]
+defaultZoom: 11 
+maxZoom: 18
+```

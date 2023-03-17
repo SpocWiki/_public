@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Isselburg
+coordinates: [[Isselburg]]
+markerFile: [[Isselburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

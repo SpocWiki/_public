@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seehausen~Sachsen
+coordinates: [[Seehausen~Sachsen]]
+markerFile: [[Seehausen~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

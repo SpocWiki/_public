@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hamm~Sieg
+coordinates: [[Hamm~Sieg]]
+markerFile: [[Hamm~Sieg]]
+defaultZoom: 11 
+maxZoom: 18
+```

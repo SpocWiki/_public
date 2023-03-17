@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.07,14.05]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wittmannsdorf
+coordinates: [[Wittmannsdorf]]
+markerFile: [[Wittmannsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

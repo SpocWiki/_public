@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vienne
+coordinates: [[Vienne]]
+markerFile: [[Vienne]]
+defaultZoom: 11 
+maxZoom: 18
+```

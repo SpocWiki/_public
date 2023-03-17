@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vada
+coordinates: [[Vada]]
+markerFile: [[Vada]]
+defaultZoom: 11 
+maxZoom: 18
+```

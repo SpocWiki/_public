@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cittanova
+coordinates: [[Cittanova]]
+markerFile: [[Cittanova]]
+defaultZoom: 11 
+maxZoom: 18
+```

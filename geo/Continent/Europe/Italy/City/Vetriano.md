@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vetriano
+coordinates: [[Vetriano]]
+markerFile: [[Vetriano]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Junglinster
+coordinates: [[Junglinster]]
+markerFile: [[Junglinster]]
+defaultZoom: 11 
+maxZoom: 18
+```

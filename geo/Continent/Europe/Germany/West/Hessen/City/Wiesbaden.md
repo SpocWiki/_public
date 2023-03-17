@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wiesbaden
+coordinates: [[Wiesbaden]]
+markerFile: [[Wiesbaden]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Den Bosch
+coordinates: [[Den Bosch]]
+markerFile: [[Den Bosch]]
+defaultZoom: 11 
+maxZoom: 18
+```

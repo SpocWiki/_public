@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oropa
+coordinates: [[Oropa]]
+markerFile: [[Oropa]]
+defaultZoom: 11 
+maxZoom: 18
+```

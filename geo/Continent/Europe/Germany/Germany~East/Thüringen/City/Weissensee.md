@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weissensee
+coordinates: [[Weissensee]]
+markerFile: [[Weissensee]]
+defaultZoom: 11 
+maxZoom: 18
+```

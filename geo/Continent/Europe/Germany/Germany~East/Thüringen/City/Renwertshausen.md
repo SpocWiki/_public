@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Renwertshausen
+coordinates: [[Renwertshausen]]
+markerFile: [[Renwertshausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

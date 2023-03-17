@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bellinzona
+coordinates: [[Bellinzona]]
+markerFile: [[Bellinzona]]
+defaultZoom: 11 
+maxZoom: 18
+```

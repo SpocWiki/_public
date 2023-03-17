@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uneloeve
+coordinates: [[Uneloeve]]
+markerFile: [[Uneloeve]]
+defaultZoom: 11 
+maxZoom: 18
+```

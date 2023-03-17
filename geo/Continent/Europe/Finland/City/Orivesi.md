@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orivesi
+coordinates: [[Orivesi]]
+markerFile: [[Orivesi]]
+defaultZoom: 11 
+maxZoom: 18
+```

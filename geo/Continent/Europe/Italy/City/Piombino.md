@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Piombino
+coordinates: [[Piombino]]
+markerFile: [[Piombino]]
+defaultZoom: 11 
+maxZoom: 18
+```

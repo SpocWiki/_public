@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zella-Mehlis
+coordinates: [[Zella-Mehlis]]
+markerFile: [[Zella-Mehlis]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kamenz/Schlesien
+coordinates: [[Kamenz/Schlesien]]
+markerFile: [[Kamenz/Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

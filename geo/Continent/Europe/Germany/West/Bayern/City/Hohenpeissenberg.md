@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohenpeissenberg
+coordinates: [[Hohenpeissenberg]]
+markerFile: [[Hohenpeissenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Crotone
+coordinates: [[Crotone]]
+markerFile: [[Crotone]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ebertsheim
+coordinates: [[Ebertsheim]]
+markerFile: [[Ebertsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

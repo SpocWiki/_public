@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ohlau
+coordinates: [[Ohlau]]
+markerFile: [[Ohlau]]
+defaultZoom: 11 
+maxZoom: 18
+```

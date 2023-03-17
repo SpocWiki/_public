@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kansk
+coordinates: [[Kansk]]
+markerFile: [[Kansk]]
+defaultZoom: 11 
+maxZoom: 18
+```

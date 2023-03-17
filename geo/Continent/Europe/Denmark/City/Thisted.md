@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thisted
+coordinates: [[Thisted]]
+markerFile: [[Thisted]]
+defaultZoom: 11 
+maxZoom: 18
+```

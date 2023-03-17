@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koeln-Kalk
+coordinates: [[Koeln-Kalk]]
+markerFile: [[Koeln-Kalk]]
+defaultZoom: 11 
+maxZoom: 18
+```

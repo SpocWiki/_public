@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kumanovo
+coordinates: [[Kumanovo]]
+markerFile: [[Kumanovo]]
+defaultZoom: 11 
+maxZoom: 18
+```

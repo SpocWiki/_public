@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dublin
+coordinates: [[Dublin]]
+markerFile: [[Dublin]]
+defaultZoom: 11 
+maxZoom: 18
+```

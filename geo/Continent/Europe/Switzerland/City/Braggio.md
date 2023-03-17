@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Braggio
+coordinates: [[Braggio]]
+markerFile: [[Braggio]]
+defaultZoom: 11 
+maxZoom: 18
+```

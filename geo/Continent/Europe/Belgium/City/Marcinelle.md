@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marcinelle
+coordinates: [[Marcinelle]]
+markerFile: [[Marcinelle]]
+defaultZoom: 11 
+maxZoom: 18
+```

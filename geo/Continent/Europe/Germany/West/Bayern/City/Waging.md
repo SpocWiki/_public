@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waging
+coordinates: [[Waging]]
+markerFile: [[Waging]]
+defaultZoom: 11 
+maxZoom: 18
+```

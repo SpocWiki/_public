@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Subotica
+coordinates: [[Subotica]]
+markerFile: [[Subotica]]
+defaultZoom: 11 
+maxZoom: 18
+```

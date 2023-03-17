@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tittling
+coordinates: [[Tittling]]
+markerFile: [[Tittling]]
+defaultZoom: 11 
+maxZoom: 18
+```

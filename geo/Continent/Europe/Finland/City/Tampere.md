@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tampere
+coordinates: [[Tampere]]
+markerFile: [[Tampere]]
+defaultZoom: 11 
+maxZoom: 18
+```

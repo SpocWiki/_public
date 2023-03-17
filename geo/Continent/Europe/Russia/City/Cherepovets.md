@@ -1,4 +1,4 @@
----
+﻿---
 location: [59.13,37.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cherepovets
+coordinates: [[Cherepovets]]
+markerFile: [[Cherepovets]]
+defaultZoom: 11 
+maxZoom: 18
+```

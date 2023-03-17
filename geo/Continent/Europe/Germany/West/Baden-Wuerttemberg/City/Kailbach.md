@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kailbach
+coordinates: [[Kailbach]]
+markerFile: [[Kailbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

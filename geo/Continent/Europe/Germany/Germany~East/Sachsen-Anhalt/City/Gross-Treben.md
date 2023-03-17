@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gross-Treben
+coordinates: [[Gross-Treben]]
+markerFile: [[Gross-Treben]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wettelsheim
+coordinates: [[Wettelsheim]]
+markerFile: [[Wettelsheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.7,9.55]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vejle
+coordinates: [[Vejle]]
+markerFile: [[Vejle]]
+defaultZoom: 11 
+maxZoom: 18
+```

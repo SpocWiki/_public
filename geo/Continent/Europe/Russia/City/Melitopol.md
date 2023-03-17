@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Melitopol
+coordinates: [[Melitopol]]
+markerFile: [[Melitopol]]
+defaultZoom: 11 
+maxZoom: 18
+```

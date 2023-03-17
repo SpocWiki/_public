@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ottmachau
+coordinates: [[Ottmachau]]
+markerFile: [[Ottmachau]]
+defaultZoom: 11 
+maxZoom: 18
+```

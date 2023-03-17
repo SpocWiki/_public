@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stjarnsund
+coordinates: [[Stjarnsund]]
+markerFile: [[Stjarnsund]]
+defaultZoom: 11 
+maxZoom: 18
+```

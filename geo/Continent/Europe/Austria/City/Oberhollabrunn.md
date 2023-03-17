@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberhollabrunn
+coordinates: [[Oberhollabrunn]]
+markerFile: [[Oberhollabrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

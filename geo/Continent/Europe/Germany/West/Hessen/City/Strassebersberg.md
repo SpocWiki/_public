@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strassebersberg
+coordinates: [[Strassebersberg]]
+markerFile: [[Strassebersberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

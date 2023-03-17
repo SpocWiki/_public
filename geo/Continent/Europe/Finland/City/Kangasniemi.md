@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kangasniemi
+coordinates: [[Kangasniemi]]
+markerFile: [[Kangasniemi]]
+defaultZoom: 11 
+maxZoom: 18
+```

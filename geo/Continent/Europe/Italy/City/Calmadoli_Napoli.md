@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Calmadoli/Napoli
+coordinates: [[Calmadoli/Napoli]]
+markerFile: [[Calmadoli/Napoli]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.1,37.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mariupol
+coordinates: [[Mariupol]]
+markerFile: [[Mariupol]]
+defaultZoom: 11 
+maxZoom: 18
+```

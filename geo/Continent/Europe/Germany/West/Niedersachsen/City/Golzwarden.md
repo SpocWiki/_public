@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Golzwarden
+coordinates: [[Golzwarden]]
+markerFile: [[Golzwarden]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Svedala
+coordinates: [[Svedala]]
+markerFile: [[Svedala]]
+defaultZoom: 11 
+maxZoom: 18
+```

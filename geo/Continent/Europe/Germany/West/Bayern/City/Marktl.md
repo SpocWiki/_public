@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marktl
+coordinates: [[Marktl]]
+markerFile: [[Marktl]]
+defaultZoom: 11 
+maxZoom: 18
+```

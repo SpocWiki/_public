@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neurode
+coordinates: [[Neurode]]
+markerFile: [[Neurode]]
+defaultZoom: 11 
+maxZoom: 18
+```

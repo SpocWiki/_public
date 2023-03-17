@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.63,10.92]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hessford
+coordinates: [[Hessford]]
+markerFile: [[Hessford]]
+defaultZoom: 11 
+maxZoom: 18
+```

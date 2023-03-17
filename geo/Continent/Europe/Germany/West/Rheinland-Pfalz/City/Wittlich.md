@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wittlich
+coordinates: [[Wittlich]]
+markerFile: [[Wittlich]]
+defaultZoom: 11 
+maxZoom: 18
+```

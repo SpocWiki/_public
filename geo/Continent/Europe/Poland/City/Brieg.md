@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brieg
+coordinates: [[Brieg]]
+markerFile: [[Brieg]]
+defaultZoom: 11 
+maxZoom: 18
+```

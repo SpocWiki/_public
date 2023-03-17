@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clusone
+coordinates: [[Clusone]]
+markerFile: [[Clusone]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mistelgau
+coordinates: [[Mistelgau]]
+markerFile: [[Mistelgau]]
+defaultZoom: 11 
+maxZoom: 18
+```

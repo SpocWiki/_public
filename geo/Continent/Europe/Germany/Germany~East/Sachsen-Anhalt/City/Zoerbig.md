@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zoerbig
+coordinates: [[Zoerbig]]
+markerFile: [[Zoerbig]]
+defaultZoom: 11 
+maxZoom: 18
+```

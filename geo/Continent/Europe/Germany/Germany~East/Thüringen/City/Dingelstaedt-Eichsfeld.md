@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dingelstaedt-Eichsfeld
+coordinates: [[Dingelstaedt-Eichsfeld]]
+markerFile: [[Dingelstaedt-Eichsfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

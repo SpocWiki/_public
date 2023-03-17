@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Triefenried
+coordinates: [[Triefenried]]
+markerFile: [[Triefenried]]
+defaultZoom: 11 
+maxZoom: 18
+```

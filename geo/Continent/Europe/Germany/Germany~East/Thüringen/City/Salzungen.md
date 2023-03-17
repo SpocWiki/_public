@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salzungen
+coordinates: [[Salzungen]]
+markerFile: [[Salzungen]]
+defaultZoom: 11 
+maxZoom: 18
+```

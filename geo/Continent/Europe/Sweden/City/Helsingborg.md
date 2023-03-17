@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Helsingborg
+coordinates: [[Helsingborg]]
+markerFile: [[Helsingborg]]
+defaultZoom: 11 
+maxZoom: 18
+```

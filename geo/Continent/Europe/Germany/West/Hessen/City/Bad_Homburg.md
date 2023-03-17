@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Homburg
+coordinates: [[Bad Homburg]]
+markerFile: [[Bad Homburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

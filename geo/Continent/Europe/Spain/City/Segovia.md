@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Segovia
+coordinates: [[Segovia]]
+markerFile: [[Segovia]]
+defaultZoom: 11 
+maxZoom: 18
+```

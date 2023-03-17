@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuhmoinen
+coordinates: [[Kuhmoinen]]
+markerFile: [[Kuhmoinen]]
+defaultZoom: 11 
+maxZoom: 18
+```

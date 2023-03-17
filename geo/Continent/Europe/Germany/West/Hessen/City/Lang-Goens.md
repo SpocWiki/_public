@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lang-Goens
+coordinates: [[Lang-Goens]]
+markerFile: [[Lang-Goens]]
+defaultZoom: 11 
+maxZoom: 18
+```

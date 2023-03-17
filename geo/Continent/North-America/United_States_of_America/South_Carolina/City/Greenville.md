@@ -1,4 +1,4 @@
----
+﻿---
 location: [34.85,-82.38]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greenville
+coordinates: [[Greenville]]
+markerFile: [[Greenville]]
+defaultZoom: 11 
+maxZoom: 18
+```

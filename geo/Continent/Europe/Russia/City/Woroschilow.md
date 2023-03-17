@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Woroschilow
+coordinates: [[Woroschilow]]
+markerFile: [[Woroschilow]]
+defaultZoom: 11 
+maxZoom: 18
+```

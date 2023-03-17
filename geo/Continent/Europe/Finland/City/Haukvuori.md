@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haukvuori
+coordinates: [[Haukvuori]]
+markerFile: [[Haukvuori]]
+defaultZoom: 11 
+maxZoom: 18
+```

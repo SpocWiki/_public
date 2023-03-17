@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krietern
+coordinates: [[Krietern]]
+markerFile: [[Krietern]]
+defaultZoom: 11 
+maxZoom: 18
+```

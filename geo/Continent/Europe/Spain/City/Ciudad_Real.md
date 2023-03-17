@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ciudad Real
+coordinates: [[Ciudad Real]]
+markerFile: [[Ciudad Real]]
+defaultZoom: 11 
+maxZoom: 18
+```

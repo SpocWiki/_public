@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schreiberhau
+coordinates: [[Schreiberhau]]
+markerFile: [[Schreiberhau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Toenning
+coordinates: [[Toenning]]
+markerFile: [[Toenning]]
+defaultZoom: 11 
+maxZoom: 18
+```

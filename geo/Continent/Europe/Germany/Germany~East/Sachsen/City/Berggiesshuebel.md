@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.88,14]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berggiesshuebel
+coordinates: [[Berggiesshuebel]]
+markerFile: [[Berggiesshuebel]]
+defaultZoom: 11 
+maxZoom: 18
+```

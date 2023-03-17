@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Toulon
+coordinates: [[Toulon]]
+markerFile: [[Toulon]]
+defaultZoom: 11 
+maxZoom: 18
+```

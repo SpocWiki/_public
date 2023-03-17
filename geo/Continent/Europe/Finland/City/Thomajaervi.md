@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thomajaervi
+coordinates: [[Thomajaervi]]
+markerFile: [[Thomajaervi]]
+defaultZoom: 11 
+maxZoom: 18
+```

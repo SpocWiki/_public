@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Inari/Enare
+coordinates: [[Inari/Enare]]
+markerFile: [[Inari/Enare]]
+defaultZoom: 11 
+maxZoom: 18
+```

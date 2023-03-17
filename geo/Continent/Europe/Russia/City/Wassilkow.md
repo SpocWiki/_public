@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wassilkow
+coordinates: [[Wassilkow]]
+markerFile: [[Wassilkow]]
+defaultZoom: 11 
+maxZoom: 18
+```

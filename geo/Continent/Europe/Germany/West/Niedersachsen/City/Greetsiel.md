@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greetsiel
+coordinates: [[Greetsiel]]
+markerFile: [[Greetsiel]]
+defaultZoom: 11 
+maxZoom: 18
+```

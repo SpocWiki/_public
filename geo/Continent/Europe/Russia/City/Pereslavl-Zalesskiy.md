@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pereslavl-Zalesskiy
+coordinates: [[Pereslavl-Zalesskiy]]
+markerFile: [[Pereslavl-Zalesskiy]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Szczerzek
+coordinates: [[Szczerzek]]
+markerFile: [[Szczerzek]]
+defaultZoom: 11 
+maxZoom: 18
+```

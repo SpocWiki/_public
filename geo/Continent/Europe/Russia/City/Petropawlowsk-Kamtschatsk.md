@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petropawlowsk-Kamtschatsk
+coordinates: [[Petropawlowsk-Kamtschatsk]]
+markerFile: [[Petropawlowsk-Kamtschatsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

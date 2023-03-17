@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ulricehamm
+coordinates: [[Ulricehamm]]
+markerFile: [[Ulricehamm]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wadendorf
+coordinates: [[Wadendorf]]
+markerFile: [[Wadendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

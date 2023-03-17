@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.98,12.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zehdenick
+coordinates: [[Zehdenick]]
+markerFile: [[Zehdenick]]
+defaultZoom: 11 
+maxZoom: 18
+```

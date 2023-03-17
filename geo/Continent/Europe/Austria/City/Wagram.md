@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wagram
+coordinates: [[Wagram]]
+markerFile: [[Wagram]]
+defaultZoom: 11 
+maxZoom: 18
+```

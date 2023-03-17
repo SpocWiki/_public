@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gruenstadt
+coordinates: [[Gruenstadt]]
+markerFile: [[Gruenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

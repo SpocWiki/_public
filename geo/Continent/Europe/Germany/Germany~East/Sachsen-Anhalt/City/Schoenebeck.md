@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoenebeck
+coordinates: [[Schoenebeck]]
+markerFile: [[Schoenebeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glamis
+coordinates: [[Glamis]]
+markerFile: [[Glamis]]
+defaultZoom: 11 
+maxZoom: 18
+```

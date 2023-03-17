@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grossbreitenbach
+coordinates: [[Grossbreitenbach]]
+markerFile: [[Grossbreitenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

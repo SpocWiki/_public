@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.24,7.36]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zweibruecken
+coordinates: [[Zweibruecken]]
+markerFile: [[Zweibruecken]]
+defaultZoom: 11 
+maxZoom: 18
+```

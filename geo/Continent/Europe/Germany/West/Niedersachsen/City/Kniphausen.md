@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kniphausen
+coordinates: [[Kniphausen]]
+markerFile: [[Kniphausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

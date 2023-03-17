@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tribsees
+coordinates: [[Tribsees]]
+markerFile: [[Tribsees]]
+defaultZoom: 11 
+maxZoom: 18
+```

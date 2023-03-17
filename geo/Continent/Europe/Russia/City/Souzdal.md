@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Souzdal
+coordinates: [[Souzdal]]
+markerFile: [[Souzdal]]
+defaultZoom: 11 
+maxZoom: 18
+```

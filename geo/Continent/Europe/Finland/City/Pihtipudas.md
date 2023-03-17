@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pihtipudas
+coordinates: [[Pihtipudas]]
+markerFile: [[Pihtipudas]]
+defaultZoom: 11 
+maxZoom: 18
+```

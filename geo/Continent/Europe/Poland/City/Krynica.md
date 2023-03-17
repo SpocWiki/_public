@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krynica
+coordinates: [[Krynica]]
+markerFile: [[Krynica]]
+defaultZoom: 11 
+maxZoom: 18
+```

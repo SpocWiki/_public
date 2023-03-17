@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eton
+coordinates: [[Eton]]
+markerFile: [[Eton]]
+defaultZoom: 11 
+maxZoom: 18
+```

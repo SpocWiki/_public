@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolokolamsk
+coordinates: [[Wolokolamsk]]
+markerFile: [[Wolokolamsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

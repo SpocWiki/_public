@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.37,8.53]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valsinni
+coordinates: [[Valsinni]]
+markerFile: [[Valsinni]]
+defaultZoom: 11 
+maxZoom: 18
+```

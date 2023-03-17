@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nordhausen
+coordinates: [[Nordhausen]]
+markerFile: [[Nordhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

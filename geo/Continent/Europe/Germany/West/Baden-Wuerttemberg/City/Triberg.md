@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Triberg
+coordinates: [[Triberg]]
+markerFile: [[Triberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoexter
+coordinates: [[Hoexter]]
+markerFile: [[Hoexter]]
+defaultZoom: 11 
+maxZoom: 18
+```

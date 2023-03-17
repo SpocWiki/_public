@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dóle
+coordinates: [[Dóle]]
+markerFile: [[Dóle]]
+defaultZoom: 11 
+maxZoom: 18
+```

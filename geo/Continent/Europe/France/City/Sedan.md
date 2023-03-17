@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sedan
+coordinates: [[Sedan]]
+markerFile: [[Sedan]]
+defaultZoom: 11 
+maxZoom: 18
+```

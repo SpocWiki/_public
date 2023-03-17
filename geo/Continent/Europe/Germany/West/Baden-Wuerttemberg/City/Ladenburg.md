@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ladenburg
+coordinates: [[Ladenburg]]
+markerFile: [[Ladenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

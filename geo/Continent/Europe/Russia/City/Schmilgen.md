@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schmilgen
+coordinates: [[Schmilgen]]
+markerFile: [[Schmilgen]]
+defaultZoom: 11 
+maxZoom: 18
+```

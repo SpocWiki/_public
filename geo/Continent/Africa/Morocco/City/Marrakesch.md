@@ -1,4 +1,4 @@
----
+﻿---
 location: [31.63,-8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marrakesch
+coordinates: [[Marrakesch]]
+markerFile: [[Marrakesch]]
+defaultZoom: 11 
+maxZoom: 18
+```

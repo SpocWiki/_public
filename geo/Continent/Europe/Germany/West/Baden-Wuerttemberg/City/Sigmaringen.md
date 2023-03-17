@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sigmaringen
+coordinates: [[Sigmaringen]]
+markerFile: [[Sigmaringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

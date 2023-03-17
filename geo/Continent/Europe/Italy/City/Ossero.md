@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ossero
+coordinates: [[Ossero]]
+markerFile: [[Ossero]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rengersdorf
+coordinates: [[Rengersdorf]]
+markerFile: [[Rengersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Inari/Kyronkylae
+coordinates: [[Inari/Kyronkylae]]
+markerFile: [[Inari/Kyronkylae]]
+defaultZoom: 11 
+maxZoom: 18
+```

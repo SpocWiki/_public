@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doernthal
+coordinates: [[Doernthal]]
+markerFile: [[Doernthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

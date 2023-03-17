@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Banska Stiavnica
+coordinates: [[Banska Stiavnica]]
+markerFile: [[Banska Stiavnica]]
+defaultZoom: 11 
+maxZoom: 18
+```

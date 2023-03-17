@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Noli
+coordinates: [[Noli]]
+markerFile: [[Noli]]
+defaultZoom: 11 
+maxZoom: 18
+```

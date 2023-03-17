@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Staufen
+coordinates: [[Staufen]]
+markerFile: [[Staufen]]
+defaultZoom: 11 
+maxZoom: 18
+```

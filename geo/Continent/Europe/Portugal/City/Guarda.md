@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.53,-7.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guarda
+coordinates: [[Guarda]]
+markerFile: [[Guarda]]
+defaultZoom: 11 
+maxZoom: 18
+```

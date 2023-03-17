@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jastrow
+coordinates: [[Jastrow]]
+markerFile: [[Jastrow]]
+defaultZoom: 11 
+maxZoom: 18
+```

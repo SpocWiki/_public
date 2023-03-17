@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berleburg
+coordinates: [[Berleburg]]
+markerFile: [[Berleburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

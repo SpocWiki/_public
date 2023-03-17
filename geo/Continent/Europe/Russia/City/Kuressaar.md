@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuressaar
+coordinates: [[Kuressaar]]
+markerFile: [[Kuressaar]]
+defaultZoom: 11 
+maxZoom: 18
+```

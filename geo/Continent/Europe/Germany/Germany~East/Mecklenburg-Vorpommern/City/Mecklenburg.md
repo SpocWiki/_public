@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mecklenburg
+coordinates: [[Mecklenburg]]
+markerFile: [[Mecklenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

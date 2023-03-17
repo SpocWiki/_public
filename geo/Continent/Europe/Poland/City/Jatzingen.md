@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jatzingen
+coordinates: [[Jatzingen]]
+markerFile: [[Jatzingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

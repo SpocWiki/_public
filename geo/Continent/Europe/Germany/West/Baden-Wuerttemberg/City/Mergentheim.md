@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mergentheim
+coordinates: [[Mergentheim]]
+markerFile: [[Mergentheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

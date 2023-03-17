@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoegsand
+coordinates: [[Hoegsand]]
+markerFile: [[Hoegsand]]
+defaultZoom: 11 
+maxZoom: 18
+```

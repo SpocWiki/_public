@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belgioso
+coordinates: [[Belgioso]]
+markerFile: [[Belgioso]]
+defaultZoom: 11 
+maxZoom: 18
+```

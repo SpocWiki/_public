@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dzaudjikau
+coordinates: [[Dzaudjikau]]
+markerFile: [[Dzaudjikau]]
+defaultZoom: 11 
+maxZoom: 18
+```

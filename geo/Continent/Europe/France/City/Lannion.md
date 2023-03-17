@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lannion
+coordinates: [[Lannion]]
+markerFile: [[Lannion]]
+defaultZoom: 11 
+maxZoom: 18
+```

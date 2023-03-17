@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Nicolas
+coordinates: [[St.Nicolas]]
+markerFile: [[St.Nicolas]]
+defaultZoom: 11 
+maxZoom: 18
+```

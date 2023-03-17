@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Pellegrino
+coordinates: [[San Pellegrino]]
+markerFile: [[San Pellegrino]]
+defaultZoom: 11 
+maxZoom: 18
+```

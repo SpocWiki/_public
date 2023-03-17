@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herwigsdorf
+coordinates: [[Herwigsdorf]]
+markerFile: [[Herwigsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

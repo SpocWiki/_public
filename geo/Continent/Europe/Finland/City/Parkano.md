@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Parkano
+coordinates: [[Parkano]]
+markerFile: [[Parkano]]
+defaultZoom: 11 
+maxZoom: 18
+```

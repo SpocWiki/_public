@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buhrkow
+coordinates: [[Buhrkow]]
+markerFile: [[Buhrkow]]
+defaultZoom: 11 
+maxZoom: 18
+```

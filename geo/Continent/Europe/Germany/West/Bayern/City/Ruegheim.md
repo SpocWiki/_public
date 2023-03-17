@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruegheim
+coordinates: [[Ruegheim]]
+markerFile: [[Ruegheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

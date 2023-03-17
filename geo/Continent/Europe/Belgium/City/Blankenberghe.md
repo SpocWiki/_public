@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blankenberghe
+coordinates: [[Blankenberghe]]
+markerFile: [[Blankenberghe]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Knielingen
+coordinates: [[Knielingen]]
+markerFile: [[Knielingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

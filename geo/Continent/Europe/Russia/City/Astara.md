@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Astara
+coordinates: [[Astara]]
+markerFile: [[Astara]]
+defaultZoom: 11 
+maxZoom: 18
+```

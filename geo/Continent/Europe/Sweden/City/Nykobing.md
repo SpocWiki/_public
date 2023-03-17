@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.93,11.68]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nykobing
+coordinates: [[Nykobing]]
+markerFile: [[Nykobing]]
+defaultZoom: 11 
+maxZoom: 18
+```

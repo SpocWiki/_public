@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Guxhagen
+coordinates: [[Guxhagen]]
+markerFile: [[Guxhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

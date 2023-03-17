@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hachenburg
+coordinates: [[Hachenburg]]
+markerFile: [[Hachenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

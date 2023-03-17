@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perm
+coordinates: [[Perm]]
+markerFile: [[Perm]]
+defaultZoom: 11 
+maxZoom: 18
+```

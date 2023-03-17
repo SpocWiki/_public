@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.78,9.93]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberboebingen
+coordinates: [[Oberboebingen]]
+markerFile: [[Oberboebingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Solka
+coordinates: [[Solka]]
+markerFile: [[Solka]]
+defaultZoom: 11 
+maxZoom: 18
+```

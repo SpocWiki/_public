@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kyleberg
+coordinates: [[Kyleberg]]
+markerFile: [[Kyleberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

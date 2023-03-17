@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.33,14.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Veprinac
+coordinates: [[Veprinac]]
+markerFile: [[Veprinac]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tuchow
+coordinates: [[Tuchow]]
+markerFile: [[Tuchow]]
+defaultZoom: 11 
+maxZoom: 18
+```

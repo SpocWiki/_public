@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ratan
+coordinates: [[Ratan]]
+markerFile: [[Ratan]]
+defaultZoom: 11 
+maxZoom: 18
+```

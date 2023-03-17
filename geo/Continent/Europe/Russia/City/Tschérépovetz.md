@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschérépovetz
+coordinates: [[Tschérépovetz]]
+markerFile: [[Tschérépovetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

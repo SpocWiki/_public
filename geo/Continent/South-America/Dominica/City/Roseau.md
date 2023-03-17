@@ -1,4 +1,4 @@
----
+﻿---
 location: [15.3,-61.38334]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Roseau
+coordinates: [[Roseau]]
+markerFile: [[Roseau]]
+defaultZoom: 11 
+maxZoom: 18
+```

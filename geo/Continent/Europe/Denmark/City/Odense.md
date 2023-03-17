@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Odense
+coordinates: [[Odense]]
+markerFile: [[Odense]]
+defaultZoom: 11 
+maxZoom: 18
+```

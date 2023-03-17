@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deutsch-Brod
+coordinates: [[Deutsch-Brod]]
+markerFile: [[Deutsch-Brod]]
+defaultZoom: 11 
+maxZoom: 18
+```

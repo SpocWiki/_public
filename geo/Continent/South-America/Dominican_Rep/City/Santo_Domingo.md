@@ -1,4 +1,4 @@
----
+﻿---
 location: [19,-70.66666]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Santo Domingo
+coordinates: [[Santo Domingo]]
+markerFile: [[Santo Domingo]]
+defaultZoom: 11 
+maxZoom: 18
+```

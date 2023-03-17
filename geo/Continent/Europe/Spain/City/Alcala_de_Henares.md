@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alcala de Henares
+coordinates: [[Alcala de Henares]]
+markerFile: [[Alcala de Henares]]
+defaultZoom: 11 
+maxZoom: 18
+```

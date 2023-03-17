@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Velzen
+coordinates: [[Velzen]]
+markerFile: [[Velzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

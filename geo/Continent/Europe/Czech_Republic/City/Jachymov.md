@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jachymov
+coordinates: [[Jachymov]]
+markerFile: [[Jachymov]]
+defaultZoom: 11 
+maxZoom: 18
+```

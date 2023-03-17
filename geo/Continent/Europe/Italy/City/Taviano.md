@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taviano
+coordinates: [[Taviano]]
+markerFile: [[Taviano]]
+defaultZoom: 11 
+maxZoom: 18
+```

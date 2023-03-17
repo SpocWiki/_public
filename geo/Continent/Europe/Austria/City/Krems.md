@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krems
+coordinates: [[Krems]]
+markerFile: [[Krems]]
+defaultZoom: 11 
+maxZoom: 18
+```

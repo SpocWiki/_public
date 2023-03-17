@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gaimersheim
+coordinates: [[Gaimersheim]]
+markerFile: [[Gaimersheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

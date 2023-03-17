@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Acireale
+coordinates: [[Acireale]]
+markerFile: [[Acireale]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rudersberg
+coordinates: [[Rudersberg]]
+markerFile: [[Rudersberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

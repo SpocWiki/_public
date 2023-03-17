@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.7,20.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tomorica
+coordinates: [[Tomorica]]
+markerFile: [[Tomorica]]
+defaultZoom: 11 
+maxZoom: 18
+```

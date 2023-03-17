@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pennabilli
+coordinates: [[Pennabilli]]
+markerFile: [[Pennabilli]]
+defaultZoom: 11 
+maxZoom: 18
+```

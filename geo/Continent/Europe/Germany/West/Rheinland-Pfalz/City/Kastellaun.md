@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kastellaun
+coordinates: [[Kastellaun]]
+markerFile: [[Kastellaun]]
+defaultZoom: 11 
+maxZoom: 18
+```

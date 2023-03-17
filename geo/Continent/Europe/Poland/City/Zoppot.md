@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.47,18.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zoppot
+coordinates: [[Zoppot]]
+markerFile: [[Zoppot]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Svaloev
+coordinates: [[Svaloev]]
+markerFile: [[Svaloev]]
+defaultZoom: 11 
+maxZoom: 18
+```

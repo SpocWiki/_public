@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Furth
+coordinates: [[Furth]]
+markerFile: [[Furth]]
+defaultZoom: 11 
+maxZoom: 18
+```

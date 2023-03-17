@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wuerzburg
+coordinates: [[Wuerzburg]]
+markerFile: [[Wuerzburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

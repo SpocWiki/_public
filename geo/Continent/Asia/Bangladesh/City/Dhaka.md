@@ -1,4 +1,4 @@
----
+﻿---
 location: [23.7,90.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Dhaka
+coordinates: [[Dhaka]]
+markerFile: [[Dhaka]]
+defaultZoom: 11 
+maxZoom: 18
+```

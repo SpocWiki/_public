@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saybusch
+coordinates: [[Saybusch]]
+markerFile: [[Saybusch]]
+defaultZoom: 11 
+maxZoom: 18
+```

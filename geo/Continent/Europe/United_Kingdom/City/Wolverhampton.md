@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolverhampton
+coordinates: [[Wolverhampton]]
+markerFile: [[Wolverhampton]]
+defaultZoom: 11 
+maxZoom: 18
+```

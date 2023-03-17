@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Andermatt
+coordinates: [[Andermatt]]
+markerFile: [[Andermatt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [-1.943883,30.05945]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Kigali
+coordinates: [[Kigali]]
+markerFile: [[Kigali]]
+defaultZoom: 11 
+maxZoom: 18
+```

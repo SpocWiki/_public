@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschardschui
+coordinates: [[Tschardschui]]
+markerFile: [[Tschardschui]]
+defaultZoom: 11 
+maxZoom: 18
+```

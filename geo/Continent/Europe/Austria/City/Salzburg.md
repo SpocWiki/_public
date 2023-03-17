@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salzburg
+coordinates: [[Salzburg]]
+markerFile: [[Salzburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

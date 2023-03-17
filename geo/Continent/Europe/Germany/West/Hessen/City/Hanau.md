@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hanau
+coordinates: [[Hanau]]
+markerFile: [[Hanau]]
+defaultZoom: 11 
+maxZoom: 18
+```

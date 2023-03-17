@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ludwigslust
+coordinates: [[Ludwigslust]]
+markerFile: [[Ludwigslust]]
+defaultZoom: 11 
+maxZoom: 18
+```

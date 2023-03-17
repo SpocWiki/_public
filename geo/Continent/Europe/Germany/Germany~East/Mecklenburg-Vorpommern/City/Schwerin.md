@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwerin
+coordinates: [[Schwerin]]
+markerFile: [[Schwerin]]
+defaultZoom: 11 
+maxZoom: 18
+```

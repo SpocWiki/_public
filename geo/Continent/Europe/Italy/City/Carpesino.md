@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carpesino
+coordinates: [[Carpesino]]
+markerFile: [[Carpesino]]
+defaultZoom: 11 
+maxZoom: 18
+```

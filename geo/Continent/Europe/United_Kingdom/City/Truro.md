@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Truro
+coordinates: [[Truro]]
+markerFile: [[Truro]]
+defaultZoom: 11 
+maxZoom: 18
+```

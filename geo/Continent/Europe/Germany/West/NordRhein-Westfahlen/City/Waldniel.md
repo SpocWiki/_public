@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldniel
+coordinates: [[Waldniel]]
+markerFile: [[Waldniel]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.92,8.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alessandria
+coordinates: [[Alessandria]]
+markerFile: [[Alessandria]]
+defaultZoom: 11 
+maxZoom: 18
+```

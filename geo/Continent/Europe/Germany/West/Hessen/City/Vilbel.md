@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vilbel
+coordinates: [[Vilbel]]
+markerFile: [[Vilbel]]
+defaultZoom: 11 
+maxZoom: 18
+```

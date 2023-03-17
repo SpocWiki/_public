@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Assling
+coordinates: [[Assling]]
+markerFile: [[Assling]]
+defaultZoom: 11 
+maxZoom: 18
+```

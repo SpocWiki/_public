@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Wendel
+coordinates: [[St.Wendel]]
+markerFile: [[St.Wendel]]
+defaultZoom: 11 
+maxZoom: 18
+```

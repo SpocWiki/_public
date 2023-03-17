@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alesheim
+coordinates: [[Alesheim]]
+markerFile: [[Alesheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

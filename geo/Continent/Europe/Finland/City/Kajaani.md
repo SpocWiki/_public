@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kajaani
+coordinates: [[Kajaani]]
+markerFile: [[Kajaani]]
+defaultZoom: 11 
+maxZoom: 18
+```

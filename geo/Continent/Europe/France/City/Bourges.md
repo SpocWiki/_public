@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bourges
+coordinates: [[Bourges]]
+markerFile: [[Bourges]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tarbes
+coordinates: [[Tarbes]]
+markerFile: [[Tarbes]]
+defaultZoom: 11 
+maxZoom: 18
+```

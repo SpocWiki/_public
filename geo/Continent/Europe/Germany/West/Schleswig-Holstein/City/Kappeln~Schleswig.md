@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kappeln~Schleswig
+coordinates: [[Kappeln~Schleswig]]
+markerFile: [[Kappeln~Schleswig]]
+defaultZoom: 11 
+maxZoom: 18
+```

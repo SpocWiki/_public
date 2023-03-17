@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mysore
+coordinates: [[Mysore]]
+markerFile: [[Mysore]]
+defaultZoom: 11 
+maxZoom: 18
+```

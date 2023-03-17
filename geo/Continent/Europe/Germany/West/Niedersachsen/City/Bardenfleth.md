@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bardenfleth
+coordinates: [[Bardenfleth]]
+markerFile: [[Bardenfleth]]
+defaultZoom: 11 
+maxZoom: 18
+```

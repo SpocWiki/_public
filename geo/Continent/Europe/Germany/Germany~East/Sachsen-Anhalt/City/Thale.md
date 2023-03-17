@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Thale
+coordinates: [[Thale]]
+markerFile: [[Thale]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oftersheim
+coordinates: [[Oftersheim]]
+markerFile: [[Oftersheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

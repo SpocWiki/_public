@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skole
+coordinates: [[Skole]]
+markerFile: [[Skole]]
+defaultZoom: 11 
+maxZoom: 18
+```

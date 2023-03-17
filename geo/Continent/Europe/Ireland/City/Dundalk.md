@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dundalk
+coordinates: [[Dundalk]]
+markerFile: [[Dundalk]]
+defaultZoom: 11 
+maxZoom: 18
+```

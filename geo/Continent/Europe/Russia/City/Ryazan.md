@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ryazan
+coordinates: [[Ryazan]]
+markerFile: [[Ryazan]]
+defaultZoom: 11 
+maxZoom: 18
+```

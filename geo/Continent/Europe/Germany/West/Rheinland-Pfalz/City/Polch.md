@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Polch
+coordinates: [[Polch]]
+markerFile: [[Polch]]
+defaultZoom: 11 
+maxZoom: 18
+```

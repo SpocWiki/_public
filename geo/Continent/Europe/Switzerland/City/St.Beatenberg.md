@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Beatenberg
+coordinates: [[St.Beatenberg]]
+markerFile: [[St.Beatenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

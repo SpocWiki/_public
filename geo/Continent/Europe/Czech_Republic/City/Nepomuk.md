@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nepomuk
+coordinates: [[Nepomuk]]
+markerFile: [[Nepomuk]]
+defaultZoom: 11 
+maxZoom: 18
+```

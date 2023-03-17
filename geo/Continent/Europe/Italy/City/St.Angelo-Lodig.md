@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.23,9.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Angelo-Lodig
+coordinates: [[St.Angelo-Lodig]]
+markerFile: [[St.Angelo-Lodig]]
+defaultZoom: 11 
+maxZoom: 18
+```

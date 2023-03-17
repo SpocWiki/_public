@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.48,28.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Polozk=Polotsk
+coordinates: [[Polozk=Polotsk]]
+markerFile: [[Polozk=Polotsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

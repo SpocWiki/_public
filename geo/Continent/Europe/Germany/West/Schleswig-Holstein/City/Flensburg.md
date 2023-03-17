@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flensburg
+coordinates: [[Flensburg]]
+markerFile: [[Flensburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

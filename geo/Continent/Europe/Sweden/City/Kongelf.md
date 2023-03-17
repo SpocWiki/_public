@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kongelf
+coordinates: [[Kongelf]]
+markerFile: [[Kongelf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Samer
+coordinates: [[Samer]]
+markerFile: [[Samer]]
+defaultZoom: 11 
+maxZoom: 18
+```

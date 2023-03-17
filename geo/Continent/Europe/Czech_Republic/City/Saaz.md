@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saaz
+coordinates: [[Saaz]]
+markerFile: [[Saaz]]
+defaultZoom: 11 
+maxZoom: 18
+```

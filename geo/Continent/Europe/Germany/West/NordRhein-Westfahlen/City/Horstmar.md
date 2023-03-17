@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Horstmar
+coordinates: [[Horstmar]]
+markerFile: [[Horstmar]]
+defaultZoom: 11 
+maxZoom: 18
+```

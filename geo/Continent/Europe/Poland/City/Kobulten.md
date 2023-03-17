@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kobulten
+coordinates: [[Kobulten]]
+markerFile: [[Kobulten]]
+defaultZoom: 11 
+maxZoom: 18
+```

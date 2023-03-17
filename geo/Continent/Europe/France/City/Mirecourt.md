@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mirecourt
+coordinates: [[Mirecourt]]
+markerFile: [[Mirecourt]]
+defaultZoom: 11 
+maxZoom: 18
+```

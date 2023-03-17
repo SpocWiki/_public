@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lanceston
+coordinates: [[Lanceston]]
+markerFile: [[Lanceston]]
+defaultZoom: 11 
+maxZoom: 18
+```

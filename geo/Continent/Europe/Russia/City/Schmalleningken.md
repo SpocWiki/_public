@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schmalleningken
+coordinates: [[Schmalleningken]]
+markerFile: [[Schmalleningken]]
+defaultZoom: 11 
+maxZoom: 18
+```

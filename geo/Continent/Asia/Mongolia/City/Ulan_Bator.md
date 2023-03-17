@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.91667,106.8833]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Ulan Bator
+coordinates: [[Ulan Bator]]
+markerFile: [[Ulan Bator]]
+defaultZoom: 11 
+maxZoom: 18
+```

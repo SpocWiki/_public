@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.18,8.62]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vegesack
+coordinates: [[Vegesack]]
+markerFile: [[Vegesack]]
+defaultZoom: 11 
+maxZoom: 18
+```

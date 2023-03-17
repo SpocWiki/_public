@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Apen
+coordinates: [[Apen]]
+markerFile: [[Apen]]
+defaultZoom: 11 
+maxZoom: 18
+```

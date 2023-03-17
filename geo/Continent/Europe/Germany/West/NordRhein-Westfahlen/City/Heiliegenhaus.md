@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heiliegenhaus
+coordinates: [[Heiliegenhaus]]
+markerFile: [[Heiliegenhaus]]
+defaultZoom: 11 
+maxZoom: 18
+```

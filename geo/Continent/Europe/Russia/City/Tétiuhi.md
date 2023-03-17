@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tétiuhi
+coordinates: [[Tétiuhi]]
+markerFile: [[Tétiuhi]]
+defaultZoom: 11 
+maxZoom: 18
+```

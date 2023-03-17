@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.95,9.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Augustenburg
+coordinates: [[Augustenburg]]
+markerFile: [[Augustenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

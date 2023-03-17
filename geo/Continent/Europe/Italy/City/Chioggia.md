@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chioggia
+coordinates: [[Chioggia]]
+markerFile: [[Chioggia]]
+defaultZoom: 11 
+maxZoom: 18
+```

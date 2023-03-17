@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zorge
+coordinates: [[Zorge]]
+markerFile: [[Zorge]]
+defaultZoom: 11 
+maxZoom: 18
+```

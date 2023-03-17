@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zuerich=Zurich
+coordinates: [[Zuerich=Zurich]]
+markerFile: [[Zuerich=Zurich]]
+defaultZoom: 11 
+maxZoom: 18
+```

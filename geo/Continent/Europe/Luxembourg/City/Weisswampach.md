@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weisswampach
+coordinates: [[Weisswampach]]
+markerFile: [[Weisswampach]]
+defaultZoom: 11 
+maxZoom: 18
+```

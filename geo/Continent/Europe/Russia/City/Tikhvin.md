@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tikhvin
+coordinates: [[Tikhvin]]
+markerFile: [[Tikhvin]]
+defaultZoom: 11 
+maxZoom: 18
+```

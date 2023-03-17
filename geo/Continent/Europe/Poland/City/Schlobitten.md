@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schlobitten
+coordinates: [[Schlobitten]]
+markerFile: [[Schlobitten]]
+defaultZoom: 11 
+maxZoom: 18
+```

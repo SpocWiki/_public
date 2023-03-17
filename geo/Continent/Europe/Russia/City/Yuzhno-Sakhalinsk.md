@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Yuzhno-Sakhalinsk
+coordinates: [[Yuzhno-Sakhalinsk]]
+markerFile: [[Yuzhno-Sakhalinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

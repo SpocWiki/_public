@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Timmendorfer Strand
+coordinates: [[Timmendorfer Strand]]
+markerFile: [[Timmendorfer Strand]]
+defaultZoom: 11 
+maxZoom: 18
+```

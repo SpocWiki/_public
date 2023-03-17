@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jaemsae
+coordinates: [[Jaemsae]]
+markerFile: [[Jaemsae]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saborwitz
+coordinates: [[Saborwitz]]
+markerFile: [[Saborwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

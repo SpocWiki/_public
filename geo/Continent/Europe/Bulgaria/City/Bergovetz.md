@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergovetz
+coordinates: [[Bergovetz]]
+markerFile: [[Bergovetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

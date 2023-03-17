@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Revenow
+coordinates: [[Revenow]]
+markerFile: [[Revenow]]
+defaultZoom: 11 
+maxZoom: 18
+```

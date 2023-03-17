@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Renfrew
+coordinates: [[Renfrew]]
+markerFile: [[Renfrew]]
+defaultZoom: 11 
+maxZoom: 18
+```

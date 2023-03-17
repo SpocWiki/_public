@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kordeshagen
+coordinates: [[Kordeshagen]]
+markerFile: [[Kordeshagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

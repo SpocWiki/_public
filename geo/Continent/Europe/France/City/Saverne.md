@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saverne
+coordinates: [[Saverne]]
+markerFile: [[Saverne]]
+defaultZoom: 11 
+maxZoom: 18
+```

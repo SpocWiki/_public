@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tiukalinsk
+coordinates: [[Tiukalinsk]]
+markerFile: [[Tiukalinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

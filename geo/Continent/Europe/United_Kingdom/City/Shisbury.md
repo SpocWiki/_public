@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Shisbury
+coordinates: [[Shisbury]]
+markerFile: [[Shisbury]]
+defaultZoom: 11 
+maxZoom: 18
+```

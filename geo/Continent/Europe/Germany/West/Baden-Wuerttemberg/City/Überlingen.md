@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Überlingen
+coordinates: [[Überlingen]]
+markerFile: [[Überlingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

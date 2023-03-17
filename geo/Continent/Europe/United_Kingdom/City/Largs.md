@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Largs
+coordinates: [[Largs]]
+markerFile: [[Largs]]
+defaultZoom: 11 
+maxZoom: 18
+```

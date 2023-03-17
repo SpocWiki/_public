@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vihti
+coordinates: [[Vihti]]
+markerFile: [[Vihti]]
+defaultZoom: 11 
+maxZoom: 18
+```

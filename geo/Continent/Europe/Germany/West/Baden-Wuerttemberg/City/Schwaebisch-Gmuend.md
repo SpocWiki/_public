@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwaebisch-Gmuend
+coordinates: [[Schwaebisch-Gmuend]]
+markerFile: [[Schwaebisch-Gmuend]]
+defaultZoom: 11 
+maxZoom: 18
+```

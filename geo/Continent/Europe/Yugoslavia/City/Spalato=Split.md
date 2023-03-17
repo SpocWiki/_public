@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spalato=Split
+coordinates: [[Spalato=Split]]
+markerFile: [[Spalato=Split]]
+defaultZoom: 11 
+maxZoom: 18
+```

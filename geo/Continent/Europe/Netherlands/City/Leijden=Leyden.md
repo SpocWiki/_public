@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leijden=Leyden
+coordinates: [[Leijden=Leyden]]
+markerFile: [[Leijden=Leyden]]
+defaultZoom: 11 
+maxZoom: 18
+```

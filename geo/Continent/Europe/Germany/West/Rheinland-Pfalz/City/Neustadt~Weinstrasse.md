@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt~Weinstrasse
+coordinates: [[Neustadt~Weinstrasse]]
+markerFile: [[Neustadt~Weinstrasse]]
+defaultZoom: 11 
+maxZoom: 18
+```

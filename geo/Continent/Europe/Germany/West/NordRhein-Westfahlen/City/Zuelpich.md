@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.7,6.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zuelpich
+coordinates: [[Zuelpich]]
+markerFile: [[Zuelpich]]
+defaultZoom: 11 
+maxZoom: 18
+```

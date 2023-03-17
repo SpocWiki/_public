@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bevergen
+coordinates: [[Bevergen]]
+markerFile: [[Bevergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

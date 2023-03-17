@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moelln
+coordinates: [[Moelln]]
+markerFile: [[Moelln]]
+defaultZoom: 11 
+maxZoom: 18
+```

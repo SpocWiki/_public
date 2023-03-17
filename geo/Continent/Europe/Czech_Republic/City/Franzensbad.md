@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Franzensbad
+coordinates: [[Franzensbad]]
+markerFile: [[Franzensbad]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kokoschken
+coordinates: [[Kokoschken]]
+markerFile: [[Kokoschken]]
+defaultZoom: 11 
+maxZoom: 18
+```

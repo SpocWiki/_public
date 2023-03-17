@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poperinghe
+coordinates: [[Poperinghe]]
+markerFile: [[Poperinghe]]
+defaultZoom: 11 
+maxZoom: 18
+```

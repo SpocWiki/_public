@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Troizkossawsk
+coordinates: [[Troizkossawsk]]
+markerFile: [[Troizkossawsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

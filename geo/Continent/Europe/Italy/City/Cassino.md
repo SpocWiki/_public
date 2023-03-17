@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cassino
+coordinates: [[Cassino]]
+markerFile: [[Cassino]]
+defaultZoom: 11 
+maxZoom: 18
+```

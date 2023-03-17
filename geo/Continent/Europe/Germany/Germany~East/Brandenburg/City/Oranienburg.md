@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oranienburg
+coordinates: [[Oranienburg]]
+markerFile: [[Oranienburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

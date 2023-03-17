@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abbazia
+coordinates: [[Abbazia]]
+markerFile: [[Abbazia]]
+defaultZoom: 11 
+maxZoom: 18
+```

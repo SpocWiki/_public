@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marbur=Maribor
+coordinates: [[Marbur=Maribor]]
+markerFile: [[Marbur=Maribor]]
+defaultZoom: 11 
+maxZoom: 18
+```

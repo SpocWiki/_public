@@ -1,4 +1,4 @@
----
+﻿---
 location: [58.3,12.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hjulkvarn
+coordinates: [[Hjulkvarn]]
+markerFile: [[Hjulkvarn]]
+defaultZoom: 11 
+maxZoom: 18
+```

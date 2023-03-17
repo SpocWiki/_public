@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nowograd=Volynskiy
+coordinates: [[Nowograd=Volynskiy]]
+markerFile: [[Nowograd=Volynskiy]]
+defaultZoom: 11 
+maxZoom: 18
+```

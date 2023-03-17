@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Groix
+coordinates: [[Groix]]
+markerFile: [[Groix]]
+defaultZoom: 11 
+maxZoom: 18
+```

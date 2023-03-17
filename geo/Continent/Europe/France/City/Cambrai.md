@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.18,3.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cambrai
+coordinates: [[Cambrai]]
+markerFile: [[Cambrai]]
+defaultZoom: 11 
+maxZoom: 18
+```

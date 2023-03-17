@@ -1,4 +1,4 @@
----
+﻿---
 location: [-17.75,168.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Port Vila
+coordinates: [[Port Vila]]
+markerFile: [[Port Vila]]
+defaultZoom: 11 
+maxZoom: 18
+```

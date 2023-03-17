@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werschetz
+coordinates: [[Werschetz]]
+markerFile: [[Werschetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

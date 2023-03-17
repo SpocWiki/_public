@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pushkino
+coordinates: [[Pushkino]]
+markerFile: [[Pushkino]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Great Yarmouth
+coordinates: [[Great Yarmouth]]
+markerFile: [[Great Yarmouth]]
+defaultZoom: 11 
+maxZoom: 18
+```

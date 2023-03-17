@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Komosomolsk
+coordinates: [[Komosomolsk]]
+markerFile: [[Komosomolsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

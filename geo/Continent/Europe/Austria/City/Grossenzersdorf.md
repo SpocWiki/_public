@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grossenzersdorf
+coordinates: [[Grossenzersdorf]]
+markerFile: [[Grossenzersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

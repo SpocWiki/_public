@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.4,7.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kruft
+coordinates: [[Kruft]]
+markerFile: [[Kruft]]
+defaultZoom: 11 
+maxZoom: 18
+```

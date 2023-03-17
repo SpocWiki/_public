@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Issoudun
+coordinates: [[Issoudun]]
+markerFile: [[Issoudun]]
+defaultZoom: 11 
+maxZoom: 18
+```

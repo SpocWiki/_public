@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Orughety
+coordinates: [[Orughety]]
+markerFile: [[Orughety]]
+defaultZoom: 11 
+maxZoom: 18
+```

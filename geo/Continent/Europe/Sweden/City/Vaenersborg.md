@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vaenersborg
+coordinates: [[Vaenersborg]]
+markerFile: [[Vaenersborg]]
+defaultZoom: 11 
+maxZoom: 18
+```

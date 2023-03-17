@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wurzen
+coordinates: [[Wurzen]]
+markerFile: [[Wurzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

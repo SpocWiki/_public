@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tonta
+coordinates: [[Tonta]]
+markerFile: [[Tonta]]
+defaultZoom: 11 
+maxZoom: 18
+```

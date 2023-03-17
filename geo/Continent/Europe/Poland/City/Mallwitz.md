@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mallwitz
+coordinates: [[Mallwitz]]
+markerFile: [[Mallwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

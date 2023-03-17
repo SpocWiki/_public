@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bukarest
+coordinates: [[Bukarest]]
+markerFile: [[Bukarest]]
+defaultZoom: 11 
+maxZoom: 18
+```

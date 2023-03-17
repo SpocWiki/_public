@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ganderkesee
+coordinates: [[Ganderkesee]]
+markerFile: [[Ganderkesee]]
+defaultZoom: 11 
+maxZoom: 18
+```

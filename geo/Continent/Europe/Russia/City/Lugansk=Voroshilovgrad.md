@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lugansk=Voroshilovgrad
+coordinates: [[Lugansk=Voroshilovgrad]]
+markerFile: [[Lugansk=Voroshilovgrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

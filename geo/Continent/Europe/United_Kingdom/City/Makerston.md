@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Makerston
+coordinates: [[Makerston]]
+markerFile: [[Makerston]]
+defaultZoom: 11 
+maxZoom: 18
+```

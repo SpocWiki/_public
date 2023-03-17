@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichensachsen
+coordinates: [[Reichensachsen]]
+markerFile: [[Reichensachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

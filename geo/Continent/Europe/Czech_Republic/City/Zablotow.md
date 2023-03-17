@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zablotow
+coordinates: [[Zablotow]]
+markerFile: [[Zablotow]]
+defaultZoom: 11 
+maxZoom: 18
+```

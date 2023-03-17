@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.97,21.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nyiregyhaza
+coordinates: [[Nyiregyhaza]]
+markerFile: [[Nyiregyhaza]]
+defaultZoom: 11 
+maxZoom: 18
+```

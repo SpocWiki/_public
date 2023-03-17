@@ -1,4 +1,4 @@
----
+﻿---
 location: [18.45,-66.1]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: San Juan
+coordinates: [[San Juan]]
+markerFile: [[San Juan]]
+defaultZoom: 11 
+maxZoom: 18
+```

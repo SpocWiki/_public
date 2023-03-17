@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustadt am Ruebenberge
+coordinates: [[Neustadt am Ruebenberge]]
+markerFile: [[Neustadt am Ruebenberge]]
+defaultZoom: 11 
+maxZoom: 18
+```

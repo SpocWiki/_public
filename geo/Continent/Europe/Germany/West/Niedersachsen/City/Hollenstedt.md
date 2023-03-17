@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hollenstedt
+coordinates: [[Hollenstedt]]
+markerFile: [[Hollenstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

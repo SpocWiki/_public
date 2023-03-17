@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.65,7.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marsens
+coordinates: [[Marsens]]
+markerFile: [[Marsens]]
+defaultZoom: 11 
+maxZoom: 18
+```

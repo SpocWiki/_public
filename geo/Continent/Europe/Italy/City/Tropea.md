@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tropea
+coordinates: [[Tropea]]
+markerFile: [[Tropea]]
+defaultZoom: 11 
+maxZoom: 18
+```

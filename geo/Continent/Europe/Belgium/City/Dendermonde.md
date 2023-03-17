@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dendermonde
+coordinates: [[Dendermonde]]
+markerFile: [[Dendermonde]]
+defaultZoom: 11 
+maxZoom: 18
+```

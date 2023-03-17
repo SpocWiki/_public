@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Calveslage
+coordinates: [[Calveslage]]
+markerFile: [[Calveslage]]
+defaultZoom: 11 
+maxZoom: 18
+```

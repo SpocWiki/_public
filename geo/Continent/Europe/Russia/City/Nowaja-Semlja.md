@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nowaja-Semlja
+coordinates: [[Nowaja-Semlja]]
+markerFile: [[Nowaja-Semlja]]
+defaultZoom: 11 
+maxZoom: 18
+```

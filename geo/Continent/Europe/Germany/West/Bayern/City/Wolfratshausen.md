@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolfratshausen
+coordinates: [[Wolfratshausen]]
+markerFile: [[Wolfratshausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

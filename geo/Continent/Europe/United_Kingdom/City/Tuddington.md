@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tuddington
+coordinates: [[Tuddington]]
+markerFile: [[Tuddington]]
+defaultZoom: 11 
+maxZoom: 18
+```

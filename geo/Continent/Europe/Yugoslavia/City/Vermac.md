@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vermac
+coordinates: [[Vermac]]
+markerFile: [[Vermac]]
+defaultZoom: 11 
+maxZoom: 18
+```

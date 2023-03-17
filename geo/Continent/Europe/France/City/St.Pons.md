@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Pons
+coordinates: [[St.Pons]]
+markerFile: [[St.Pons]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaersaemaeki
+coordinates: [[Kaersaemaeki]]
+markerFile: [[Kaersaemaeki]]
+defaultZoom: 11 
+maxZoom: 18
+```

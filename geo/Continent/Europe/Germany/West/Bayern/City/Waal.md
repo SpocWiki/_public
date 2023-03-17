@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waal
+coordinates: [[Waal]]
+markerFile: [[Waal]]
+defaultZoom: 11 
+maxZoom: 18
+```

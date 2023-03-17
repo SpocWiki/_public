@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bjuraker
+coordinates: [[Bjuraker]]
+markerFile: [[Bjuraker]]
+defaultZoom: 11 
+maxZoom: 18
+```

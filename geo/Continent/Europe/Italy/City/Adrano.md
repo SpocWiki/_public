@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Adrano
+coordinates: [[Adrano]]
+markerFile: [[Adrano]]
+defaultZoom: 11 
+maxZoom: 18
+```

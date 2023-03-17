@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gartz~Oder
+coordinates: [[Gartz~Oder]]
+markerFile: [[Gartz~Oder]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Banki=Krasnogorsk
+coordinates: [[Banki=Krasnogorsk]]
+markerFile: [[Banki=Krasnogorsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

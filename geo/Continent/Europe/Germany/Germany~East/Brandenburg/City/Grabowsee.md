@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grabowsee
+coordinates: [[Grabowsee]]
+markerFile: [[Grabowsee]]
+defaultZoom: 11 
+maxZoom: 18
+```

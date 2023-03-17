@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mortain
+coordinates: [[Mortain]]
+markerFile: [[Mortain]]
+defaultZoom: 11 
+maxZoom: 18
+```

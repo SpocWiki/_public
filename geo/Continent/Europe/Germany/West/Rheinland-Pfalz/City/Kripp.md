@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kripp
+coordinates: [[Kripp]]
+markerFile: [[Kripp]]
+defaultZoom: 11 
+maxZoom: 18
+```

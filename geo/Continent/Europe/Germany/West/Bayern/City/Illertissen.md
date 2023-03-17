@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Illertissen
+coordinates: [[Illertissen]]
+markerFile: [[Illertissen]]
+defaultZoom: 11 
+maxZoom: 18
+```

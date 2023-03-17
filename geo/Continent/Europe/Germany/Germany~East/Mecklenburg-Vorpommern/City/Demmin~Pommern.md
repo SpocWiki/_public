@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Demmin~Pommern
+coordinates: [[Demmin~Pommern]]
+markerFile: [[Demmin~Pommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

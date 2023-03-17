@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kattowitz
+coordinates: [[Kattowitz]]
+markerFile: [[Kattowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

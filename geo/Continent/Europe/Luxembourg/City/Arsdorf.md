@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arsdorf
+coordinates: [[Arsdorf]]
+markerFile: [[Arsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

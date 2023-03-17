@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rugeln
+coordinates: [[Rugeln]]
+markerFile: [[Rugeln]]
+defaultZoom: 11 
+maxZoom: 18
+```

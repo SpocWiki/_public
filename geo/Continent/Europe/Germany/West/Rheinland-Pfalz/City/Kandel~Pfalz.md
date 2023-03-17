@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kandel~Pfalz
+coordinates: [[Kandel~Pfalz]]
+markerFile: [[Kandel~Pfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

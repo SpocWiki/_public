@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Omagh
+coordinates: [[Omagh]]
+markerFile: [[Omagh]]
+defaultZoom: 11 
+maxZoom: 18
+```

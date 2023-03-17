@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wehrshausen
+coordinates: [[Wehrshausen]]
+markerFile: [[Wehrshausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

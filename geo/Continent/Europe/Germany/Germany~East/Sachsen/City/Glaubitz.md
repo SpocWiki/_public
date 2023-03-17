@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Glaubitz
+coordinates: [[Glaubitz]]
+markerFile: [[Glaubitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

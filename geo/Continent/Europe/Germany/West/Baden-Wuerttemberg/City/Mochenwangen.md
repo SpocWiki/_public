@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mochenwangen
+coordinates: [[Mochenwangen]]
+markerFile: [[Mochenwangen]]
+defaultZoom: 11 
+maxZoom: 18
+```

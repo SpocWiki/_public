@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nischne-Udinsk
+coordinates: [[Nischne-Udinsk]]
+markerFile: [[Nischne-Udinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

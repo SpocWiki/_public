@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pielavesi
+coordinates: [[Pielavesi]]
+markerFile: [[Pielavesi]]
+defaultZoom: 11 
+maxZoom: 18
+```

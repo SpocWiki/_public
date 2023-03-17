@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prenzlau
+coordinates: [[Prenzlau]]
+markerFile: [[Prenzlau]]
+defaultZoom: 11 
+maxZoom: 18
+```

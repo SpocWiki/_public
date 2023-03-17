@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Solikamsk
+coordinates: [[Solikamsk]]
+markerFile: [[Solikamsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

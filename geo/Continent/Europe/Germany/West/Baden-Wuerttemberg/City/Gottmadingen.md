@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gottmadingen
+coordinates: [[Gottmadingen]]
+markerFile: [[Gottmadingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

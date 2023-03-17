@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hattula
+coordinates: [[Hattula]]
+markerFile: [[Hattula]]
+defaultZoom: 11 
+maxZoom: 18
+```

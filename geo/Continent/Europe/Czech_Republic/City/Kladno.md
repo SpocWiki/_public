@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kladno
+coordinates: [[Kladno]]
+markerFile: [[Kladno]]
+defaultZoom: 11 
+maxZoom: 18
+```

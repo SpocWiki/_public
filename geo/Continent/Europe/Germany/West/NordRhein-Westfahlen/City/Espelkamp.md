@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Espelkamp
+coordinates: [[Espelkamp]]
+markerFile: [[Espelkamp]]
+defaultZoom: 11 
+maxZoom: 18
+```

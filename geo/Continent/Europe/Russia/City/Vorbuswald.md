@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vorbuswald
+coordinates: [[Vorbuswald]]
+markerFile: [[Vorbuswald]]
+defaultZoom: 11 
+maxZoom: 18
+```

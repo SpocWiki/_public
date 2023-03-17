@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chrudim
+coordinates: [[Chrudim]]
+markerFile: [[Chrudim]]
+defaultZoom: 11 
+maxZoom: 18
+```

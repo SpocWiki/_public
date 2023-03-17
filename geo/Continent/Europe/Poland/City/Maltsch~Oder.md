@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maltsch~Oder
+coordinates: [[Maltsch~Oder]]
+markerFile: [[Maltsch~Oder]]
+defaultZoom: 11 
+maxZoom: 18
+```

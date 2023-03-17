@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gross-Schilleningken
+coordinates: [[Gross-Schilleningken]]
+markerFile: [[Gross-Schilleningken]]
+defaultZoom: 11 
+maxZoom: 18
+```

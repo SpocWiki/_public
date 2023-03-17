@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gray
+coordinates: [[Gray]]
+markerFile: [[Gray]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seesen
+coordinates: [[Seesen]]
+markerFile: [[Seesen]]
+defaultZoom: 11 
+maxZoom: 18
+```

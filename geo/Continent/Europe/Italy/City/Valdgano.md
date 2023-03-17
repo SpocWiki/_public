@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valdgano
+coordinates: [[Valdgano]]
+markerFile: [[Valdgano]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Erlenbach~Unterfranken
+coordinates: [[Erlenbach~Unterfranken]]
+markerFile: [[Erlenbach~Unterfranken]]
+defaultZoom: 11 
+maxZoom: 18
+```

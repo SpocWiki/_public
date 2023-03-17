@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.86666,74.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Bishkek
+coordinates: [[Bishkek]]
+markerFile: [[Bishkek]]
+defaultZoom: 11 
+maxZoom: 18
+```

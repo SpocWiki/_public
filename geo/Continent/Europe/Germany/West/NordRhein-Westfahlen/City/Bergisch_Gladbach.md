@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergisch Gladbach
+coordinates: [[Bergisch Gladbach]]
+markerFile: [[Bergisch Gladbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

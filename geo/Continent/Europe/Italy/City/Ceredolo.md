@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ceredolo
+coordinates: [[Ceredolo]]
+markerFile: [[Ceredolo]]
+defaultZoom: 11 
+maxZoom: 18
+```

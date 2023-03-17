@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sorau
+coordinates: [[Sorau]]
+markerFile: [[Sorau]]
+defaultZoom: 11 
+maxZoom: 18
+```

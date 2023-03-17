@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fabriano
+coordinates: [[Fabriano]]
+markerFile: [[Fabriano]]
+defaultZoom: 11 
+maxZoom: 18
+```

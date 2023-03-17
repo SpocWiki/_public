@@ -1,4 +1,4 @@
----
+﻿---
 location: [-0.23,-78.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Quito
+coordinates: [[Quito]]
+markerFile: [[Quito]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seeven
+coordinates: [[Seeven]]
+markerFile: [[Seeven]]
+defaultZoom: 11 
+maxZoom: 18
+```

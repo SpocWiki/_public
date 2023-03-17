@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Avignon
+coordinates: [[Avignon]]
+markerFile: [[Avignon]]
+defaultZoom: 11 
+maxZoom: 18
+```

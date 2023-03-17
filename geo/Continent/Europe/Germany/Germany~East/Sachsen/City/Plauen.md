@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Plauen
+coordinates: [[Plauen]]
+markerFile: [[Plauen]]
+defaultZoom: 11 
+maxZoom: 18
+```

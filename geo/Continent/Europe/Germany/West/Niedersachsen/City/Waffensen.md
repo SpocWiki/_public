@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waffensen
+coordinates: [[Waffensen]]
+markerFile: [[Waffensen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hinterhaeuser
+coordinates: [[Hinterhaeuser]]
+markerFile: [[Hinterhaeuser]]
+defaultZoom: 11 
+maxZoom: 18
+```

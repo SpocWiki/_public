@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Czersk
+coordinates: [[Czersk]]
+markerFile: [[Czersk]]
+defaultZoom: 11 
+maxZoom: 18
+```

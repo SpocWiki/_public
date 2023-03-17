@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bussum
+coordinates: [[Bussum]]
+markerFile: [[Bussum]]
+defaultZoom: 11 
+maxZoom: 18
+```

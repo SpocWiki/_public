@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ketkowitz
+coordinates: [[Ketkowitz]]
+markerFile: [[Ketkowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

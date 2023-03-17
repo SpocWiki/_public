@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Greifswald
+coordinates: [[Greifswald]]
+markerFile: [[Greifswald]]
+defaultZoom: 11 
+maxZoom: 18
+```

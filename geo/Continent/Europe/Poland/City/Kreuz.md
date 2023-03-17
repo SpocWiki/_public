@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kreuz
+coordinates: [[Kreuz]]
+markerFile: [[Kreuz]]
+defaultZoom: 11 
+maxZoom: 18
+```

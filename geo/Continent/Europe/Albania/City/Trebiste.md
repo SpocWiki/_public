@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trebiste
+coordinates: [[Trebiste]]
+markerFile: [[Trebiste]]
+defaultZoom: 11 
+maxZoom: 18
+```

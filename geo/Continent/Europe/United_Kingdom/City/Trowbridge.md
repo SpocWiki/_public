@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trowbridge
+coordinates: [[Trowbridge]]
+markerFile: [[Trowbridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

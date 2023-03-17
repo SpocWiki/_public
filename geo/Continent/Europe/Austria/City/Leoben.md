@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leoben
+coordinates: [[Leoben]]
+markerFile: [[Leoben]]
+defaultZoom: 11 
+maxZoom: 18
+```

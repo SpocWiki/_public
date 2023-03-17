@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Assen
+coordinates: [[Assen]]
+markerFile: [[Assen]]
+defaultZoom: 11 
+maxZoom: 18
+```

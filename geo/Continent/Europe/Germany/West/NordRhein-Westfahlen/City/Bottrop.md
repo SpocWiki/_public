@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bottrop
+coordinates: [[Bottrop]]
+markerFile: [[Bottrop]]
+defaultZoom: 11 
+maxZoom: 18
+```

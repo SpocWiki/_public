@@ -1,4 +1,4 @@
----
+﻿---
 location: [56.45,9.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Viborg
+coordinates: [[Viborg]]
+markerFile: [[Viborg]]
+defaultZoom: 11 
+maxZoom: 18
+```

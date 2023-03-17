@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ebensee
+coordinates: [[Ebensee]]
+markerFile: [[Ebensee]]
+defaultZoom: 11 
+maxZoom: 18
+```

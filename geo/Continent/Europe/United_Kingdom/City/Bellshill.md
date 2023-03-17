@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bellshill
+coordinates: [[Bellshill]]
+markerFile: [[Bellshill]]
+defaultZoom: 11 
+maxZoom: 18
+```

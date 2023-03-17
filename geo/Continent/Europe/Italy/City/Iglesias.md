@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Iglesias
+coordinates: [[Iglesias]]
+markerFile: [[Iglesias]]
+defaultZoom: 11 
+maxZoom: 18
+```

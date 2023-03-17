@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ludwigshafen~Rhein
+coordinates: [[Ludwigshafen~Rhein]]
+markerFile: [[Ludwigshafen~Rhein]]
+defaultZoom: 11 
+maxZoom: 18
+```

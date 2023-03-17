@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Colmar
+coordinates: [[Colmar]]
+markerFile: [[Colmar]]
+defaultZoom: 11 
+maxZoom: 18
+```

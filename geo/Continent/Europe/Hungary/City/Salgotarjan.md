@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salgotarjan
+coordinates: [[Salgotarjan]]
+markerFile: [[Salgotarjan]]
+defaultZoom: 11 
+maxZoom: 18
+```

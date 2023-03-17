@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dongo
+coordinates: [[Dongo]]
+markerFile: [[Dongo]]
+defaultZoom: 11 
+maxZoom: 18
+```

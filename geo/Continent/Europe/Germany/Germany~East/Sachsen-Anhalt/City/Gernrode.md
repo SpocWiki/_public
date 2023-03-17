@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gernrode
+coordinates: [[Gernrode]]
+markerFile: [[Gernrode]]
+defaultZoom: 11 
+maxZoom: 18
+```

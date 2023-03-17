@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tranekiaer
+coordinates: [[Tranekiaer]]
+markerFile: [[Tranekiaer]]
+defaultZoom: 11 
+maxZoom: 18
+```

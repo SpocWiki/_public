@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Enkirch
+coordinates: [[Enkirch]]
+markerFile: [[Enkirch]]
+defaultZoom: 11 
+maxZoom: 18
+```

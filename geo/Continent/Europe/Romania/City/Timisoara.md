@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Timisoara
+coordinates: [[Timisoara]]
+markerFile: [[Timisoara]]
+defaultZoom: 11 
+maxZoom: 18
+```

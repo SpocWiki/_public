@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Raibl
+coordinates: [[Raibl]]
+markerFile: [[Raibl]]
+defaultZoom: 11 
+maxZoom: 18
+```

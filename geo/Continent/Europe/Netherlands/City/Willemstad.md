@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Willemstad
+coordinates: [[Willemstad]]
+markerFile: [[Willemstad]]
+defaultZoom: 11 
+maxZoom: 18
+```

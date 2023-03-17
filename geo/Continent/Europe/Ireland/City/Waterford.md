@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waterford
+coordinates: [[Waterford]]
+markerFile: [[Waterford]]
+defaultZoom: 11 
+maxZoom: 18
+```

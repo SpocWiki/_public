@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jarnac
+coordinates: [[Jarnac]]
+markerFile: [[Jarnac]]
+defaultZoom: 11 
+maxZoom: 18
+```

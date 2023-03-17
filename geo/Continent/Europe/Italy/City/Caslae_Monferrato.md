@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Caslae Monferrato
+coordinates: [[Caslae Monferrato]]
+markerFile: [[Caslae Monferrato]]
+defaultZoom: 11 
+maxZoom: 18
+```

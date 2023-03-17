@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saeckingen
+coordinates: [[Saeckingen]]
+markerFile: [[Saeckingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siljansfors
+coordinates: [[Siljansfors]]
+markerFile: [[Siljansfors]]
+defaultZoom: 11 
+maxZoom: 18
+```

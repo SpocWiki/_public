@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moncalieri
+coordinates: [[Moncalieri]]
+markerFile: [[Moncalieri]]
+defaultZoom: 11 
+maxZoom: 18
+```

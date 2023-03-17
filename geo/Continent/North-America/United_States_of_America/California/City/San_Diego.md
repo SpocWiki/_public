@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Diego
+coordinates: [[San Diego]]
+markerFile: [[San Diego]]
+defaultZoom: 11 
+maxZoom: 18
+```

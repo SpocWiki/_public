@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Marsow
+coordinates: [[Marsow]]
+markerFile: [[Marsow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fluorn
+coordinates: [[Fluorn]]
+markerFile: [[Fluorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

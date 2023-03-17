@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wassil
+coordinates: [[Wassil]]
+markerFile: [[Wassil]]
+defaultZoom: 11 
+maxZoom: 18
+```

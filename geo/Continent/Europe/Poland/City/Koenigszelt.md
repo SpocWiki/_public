@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigszelt
+coordinates: [[Koenigszelt]]
+markerFile: [[Koenigszelt]]
+defaultZoom: 11 
+maxZoom: 18
+```

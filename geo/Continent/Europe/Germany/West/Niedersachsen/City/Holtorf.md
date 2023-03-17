@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Holtorf
+coordinates: [[Holtorf]]
+markerFile: [[Holtorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

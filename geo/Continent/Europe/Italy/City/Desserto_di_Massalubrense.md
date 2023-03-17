@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Desserto di Massalubrense
+coordinates: [[Desserto di Massalubrense]]
+markerFile: [[Desserto di Massalubrense]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Budweis=Ceske Budejovic
+coordinates: [[Budweis=Ceske Budejovic]]
+markerFile: [[Budweis=Ceske Budejovic]]
+defaultZoom: 11 
+maxZoom: 18
+```

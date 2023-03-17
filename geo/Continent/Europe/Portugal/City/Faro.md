@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Faro
+coordinates: [[Faro]]
+markerFile: [[Faro]]
+defaultZoom: 11 
+maxZoom: 18
+```

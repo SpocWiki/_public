@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hage
+coordinates: [[Hage]]
+markerFile: [[Hage]]
+defaultZoom: 11 
+maxZoom: 18
+```

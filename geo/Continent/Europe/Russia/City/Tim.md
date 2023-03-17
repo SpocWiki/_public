@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tim
+coordinates: [[Tim]]
+markerFile: [[Tim]]
+defaultZoom: 11 
+maxZoom: 18
+```

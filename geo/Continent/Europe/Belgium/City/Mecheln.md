@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mecheln
+coordinates: [[Mecheln]]
+markerFile: [[Mecheln]]
+defaultZoom: 11 
+maxZoom: 18
+```

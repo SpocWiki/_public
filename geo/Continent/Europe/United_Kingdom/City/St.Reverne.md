@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Reverne
+coordinates: [[St.Reverne]]
+markerFile: [[St.Reverne]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ratzebuhr
+coordinates: [[Ratzebuhr]]
+markerFile: [[Ratzebuhr]]
+defaultZoom: 11 
+maxZoom: 18
+```

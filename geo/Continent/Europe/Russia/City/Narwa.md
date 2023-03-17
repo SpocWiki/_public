@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Narwa
+coordinates: [[Narwa]]
+markerFile: [[Narwa]]
+defaultZoom: 11 
+maxZoom: 18
+```

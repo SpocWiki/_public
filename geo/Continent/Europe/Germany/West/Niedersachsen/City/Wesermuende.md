@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wesermuende
+coordinates: [[Wesermuende]]
+markerFile: [[Wesermuende]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baltischki
+coordinates: [[Baltischki]]
+markerFile: [[Baltischki]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kopstal
+coordinates: [[Kopstal]]
+markerFile: [[Kopstal]]
+defaultZoom: 11 
+maxZoom: 18
+```

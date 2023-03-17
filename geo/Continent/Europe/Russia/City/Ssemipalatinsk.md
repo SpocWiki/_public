@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ssemipalatinsk
+coordinates: [[Ssemipalatinsk]]
+markerFile: [[Ssemipalatinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kraschnitz
+coordinates: [[Kraschnitz]]
+markerFile: [[Kraschnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

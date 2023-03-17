@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ampfing
+coordinates: [[Ampfing]]
+markerFile: [[Ampfing]]
+defaultZoom: 11 
+maxZoom: 18
+```

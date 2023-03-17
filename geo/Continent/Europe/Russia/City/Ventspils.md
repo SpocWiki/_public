@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ventspils
+coordinates: [[Ventspils]]
+markerFile: [[Ventspils]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Portoferraio
+coordinates: [[Portoferraio]]
+markerFile: [[Portoferraio]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Floh
+coordinates: [[Floh]]
+markerFile: [[Floh]]
+defaultZoom: 11 
+maxZoom: 18
+```

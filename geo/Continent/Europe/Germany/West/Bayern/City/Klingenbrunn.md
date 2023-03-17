@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klingenbrunn
+coordinates: [[Klingenbrunn]]
+markerFile: [[Klingenbrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

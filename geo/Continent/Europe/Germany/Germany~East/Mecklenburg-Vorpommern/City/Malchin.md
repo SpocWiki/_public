@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malchin
+coordinates: [[Malchin]]
+markerFile: [[Malchin]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lautzkirchen
+coordinates: [[Lautzkirchen]]
+markerFile: [[Lautzkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

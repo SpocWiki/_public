@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Visegrad
+coordinates: [[Visegrad]]
+markerFile: [[Visegrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

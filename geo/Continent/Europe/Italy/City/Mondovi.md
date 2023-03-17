@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mondovi
+coordinates: [[Mondovi]]
+markerFile: [[Mondovi]]
+defaultZoom: 11 
+maxZoom: 18
+```

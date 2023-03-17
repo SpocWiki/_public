@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.9,11.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bagni di Boretta
+coordinates: [[Bagni di Boretta]]
+markerFile: [[Bagni di Boretta]]
+defaultZoom: 11 
+maxZoom: 18
+```

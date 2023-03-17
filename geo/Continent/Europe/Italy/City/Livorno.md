@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Livorno
+coordinates: [[Livorno]]
+markerFile: [[Livorno]]
+defaultZoom: 11 
+maxZoom: 18
+```

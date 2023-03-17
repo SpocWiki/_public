@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kreuzenort
+coordinates: [[Kreuzenort]]
+markerFile: [[Kreuzenort]]
+defaultZoom: 11 
+maxZoom: 18
+```

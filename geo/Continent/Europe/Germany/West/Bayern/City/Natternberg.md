@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Natternberg
+coordinates: [[Natternberg]]
+markerFile: [[Natternberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

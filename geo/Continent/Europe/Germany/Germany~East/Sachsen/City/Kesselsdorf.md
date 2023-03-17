@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kesselsdorf
+coordinates: [[Kesselsdorf]]
+markerFile: [[Kesselsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

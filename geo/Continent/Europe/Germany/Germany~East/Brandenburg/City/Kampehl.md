@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kampehl
+coordinates: [[Kampehl]]
+markerFile: [[Kampehl]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falkenstein
+coordinates: [[Falkenstein]]
+markerFile: [[Falkenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

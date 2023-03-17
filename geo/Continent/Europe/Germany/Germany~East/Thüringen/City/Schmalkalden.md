@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schmalkalden
+coordinates: [[Schmalkalden]]
+markerFile: [[Schmalkalden]]
+defaultZoom: 11 
+maxZoom: 18
+```

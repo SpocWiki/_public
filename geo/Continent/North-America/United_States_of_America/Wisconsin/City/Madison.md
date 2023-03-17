@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.06667,-89.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Madison
+coordinates: [[Madison]]
+markerFile: [[Madison]]
+defaultZoom: 11 
+maxZoom: 18
+```

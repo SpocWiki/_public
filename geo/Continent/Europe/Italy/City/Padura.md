@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Padura
+coordinates: [[Padura]]
+markerFile: [[Padura]]
+defaultZoom: 11 
+maxZoom: 18
+```

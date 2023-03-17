@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dornbirn
+coordinates: [[Dornbirn]]
+markerFile: [[Dornbirn]]
+defaultZoom: 11 
+maxZoom: 18
+```

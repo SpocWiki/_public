@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ura-tyube
+coordinates: [[Ura-tyube]]
+markerFile: [[Ura-tyube]]
+defaultZoom: 11 
+maxZoom: 18
+```

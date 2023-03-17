@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bassano
+coordinates: [[Bassano]]
+markerFile: [[Bassano]]
+defaultZoom: 11 
+maxZoom: 18
+```

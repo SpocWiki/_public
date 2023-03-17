@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paravisa
+coordinates: [[Paravisa]]
+markerFile: [[Paravisa]]
+defaultZoom: 11 
+maxZoom: 18
+```

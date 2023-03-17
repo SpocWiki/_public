@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Treuen
+coordinates: [[Treuen]]
+markerFile: [[Treuen]]
+defaultZoom: 11 
+maxZoom: 18
+```

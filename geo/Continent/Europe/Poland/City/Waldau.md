@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldau
+coordinates: [[Waldau]]
+markerFile: [[Waldau]]
+defaultZoom: 11 
+maxZoom: 18
+```

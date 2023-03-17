@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beaune
+coordinates: [[Beaune]]
+markerFile: [[Beaune]]
+defaultZoom: 11 
+maxZoom: 18
+```

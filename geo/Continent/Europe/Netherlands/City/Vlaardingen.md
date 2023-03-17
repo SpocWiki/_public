@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vlaardingen
+coordinates: [[Vlaardingen]]
+markerFile: [[Vlaardingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

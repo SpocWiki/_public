@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gutenbrunn
+coordinates: [[Gutenbrunn]]
+markerFile: [[Gutenbrunn]]
+defaultZoom: 11 
+maxZoom: 18
+```

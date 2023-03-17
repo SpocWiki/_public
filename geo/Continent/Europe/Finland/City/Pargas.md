@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pargas
+coordinates: [[Pargas]]
+markerFile: [[Pargas]]
+defaultZoom: 11 
+maxZoom: 18
+```

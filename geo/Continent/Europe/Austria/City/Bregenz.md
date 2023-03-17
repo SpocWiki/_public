@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bregenz
+coordinates: [[Bregenz]]
+markerFile: [[Bregenz]]
+defaultZoom: 11 
+maxZoom: 18
+```

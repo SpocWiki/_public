@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dunecht
+coordinates: [[Dunecht]]
+markerFile: [[Dunecht]]
+defaultZoom: 11 
+maxZoom: 18
+```

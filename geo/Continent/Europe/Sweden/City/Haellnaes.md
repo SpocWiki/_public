@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haellnaes
+coordinates: [[Haellnaes]]
+markerFile: [[Haellnaes]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Euskirchen
+coordinates: [[Euskirchen]]
+markerFile: [[Euskirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

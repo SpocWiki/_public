@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenberg~Rheinland
+coordinates: [[Langenberg~Rheinland]]
+markerFile: [[Langenberg~Rheinland]]
+defaultZoom: 11 
+maxZoom: 18
+```

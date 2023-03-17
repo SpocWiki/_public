@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lourdes
+coordinates: [[Lourdes]]
+markerFile: [[Lourdes]]
+defaultZoom: 11 
+maxZoom: 18
+```

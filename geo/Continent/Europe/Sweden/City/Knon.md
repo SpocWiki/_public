@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Knon
+coordinates: [[Knon]]
+markerFile: [[Knon]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.David
+coordinates: [[St.David]]
+markerFile: [[St.David]]
+defaultZoom: 11 
+maxZoom: 18
+```

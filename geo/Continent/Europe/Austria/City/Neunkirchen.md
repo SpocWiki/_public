@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neunkirchen
+coordinates: [[Neunkirchen]]
+markerFile: [[Neunkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwaben
+coordinates: [[Schwaben]]
+markerFile: [[Schwaben]]
+defaultZoom: 11 
+maxZoom: 18
+```

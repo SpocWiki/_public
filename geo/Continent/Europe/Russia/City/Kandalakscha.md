@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kandalakscha
+coordinates: [[Kandalakscha]]
+markerFile: [[Kandalakscha]]
+defaultZoom: 11 
+maxZoom: 18
+```

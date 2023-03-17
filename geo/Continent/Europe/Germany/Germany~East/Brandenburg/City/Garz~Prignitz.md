@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Garz~Prignitz
+coordinates: [[Garz~Prignitz]]
+markerFile: [[Garz~Prignitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

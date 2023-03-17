@@ -1,4 +1,4 @@
----
+﻿---
 location: [63.55,23.7]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaustinen
+coordinates: [[Kaustinen]]
+markerFile: [[Kaustinen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jorvinen
+coordinates: [[Jorvinen]]
+markerFile: [[Jorvinen]]
+defaultZoom: 11 
+maxZoom: 18
+```

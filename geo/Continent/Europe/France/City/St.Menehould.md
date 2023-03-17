@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Menehould
+coordinates: [[St.Menehould]]
+markerFile: [[St.Menehould]]
+defaultZoom: 11 
+maxZoom: 18
+```

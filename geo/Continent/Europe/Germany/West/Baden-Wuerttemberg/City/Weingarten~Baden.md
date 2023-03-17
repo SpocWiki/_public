@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weingarten~Baden
+coordinates: [[Weingarten~Baden]]
+markerFile: [[Weingarten~Baden]]
+defaultZoom: 11 
+maxZoom: 18
+```

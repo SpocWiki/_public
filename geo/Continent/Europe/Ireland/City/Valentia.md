@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valentia
+coordinates: [[Valentia]]
+markerFile: [[Valentia]]
+defaultZoom: 11 
+maxZoom: 18
+```

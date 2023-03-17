@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Halberstadt
+coordinates: [[Halberstadt]]
+markerFile: [[Halberstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

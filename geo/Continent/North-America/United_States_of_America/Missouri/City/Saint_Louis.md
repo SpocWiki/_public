@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saint Louis
+coordinates: [[Saint Louis]]
+markerFile: [[Saint Louis]]
+defaultZoom: 11 
+maxZoom: 18
+```

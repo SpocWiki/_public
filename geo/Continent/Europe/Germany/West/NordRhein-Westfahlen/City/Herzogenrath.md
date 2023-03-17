@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herzogenrath
+coordinates: [[Herzogenrath]]
+markerFile: [[Herzogenrath]]
+defaultZoom: 11 
+maxZoom: 18
+```

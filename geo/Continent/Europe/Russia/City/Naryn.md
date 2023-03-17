@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Naryn
+coordinates: [[Naryn]]
+markerFile: [[Naryn]]
+defaultZoom: 11 
+maxZoom: 18
+```

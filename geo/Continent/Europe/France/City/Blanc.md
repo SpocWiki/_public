@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Blanc
+coordinates: [[Blanc]]
+markerFile: [[Blanc]]
+defaultZoom: 11 
+maxZoom: 18
+```

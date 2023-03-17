@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kamyschin
+coordinates: [[Kamyschin]]
+markerFile: [[Kamyschin]]
+defaultZoom: 11 
+maxZoom: 18
+```

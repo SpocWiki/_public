@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rathenow
+coordinates: [[Rathenow]]
+markerFile: [[Rathenow]]
+defaultZoom: 11 
+maxZoom: 18
+```

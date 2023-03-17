@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Forse
+coordinates: [[Forse]]
+markerFile: [[Forse]]
+defaultZoom: 11 
+maxZoom: 18
+```

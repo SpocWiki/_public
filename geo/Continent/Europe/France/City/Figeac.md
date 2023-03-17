@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Figeac
+coordinates: [[Figeac]]
+markerFile: [[Figeac]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.53,11.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nandlstadt
+coordinates: [[Nandlstadt]]
+markerFile: [[Nandlstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

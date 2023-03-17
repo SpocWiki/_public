@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burscheid
+coordinates: [[Burscheid]]
+markerFile: [[Burscheid]]
+defaultZoom: 11 
+maxZoom: 18
+```

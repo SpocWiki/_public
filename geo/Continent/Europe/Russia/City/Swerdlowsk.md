@@ -1,4 +1,4 @@
----
+﻿---
 location: [56.83,60.63]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Swerdlowsk
+coordinates: [[Swerdlowsk]]
+markerFile: [[Swerdlowsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

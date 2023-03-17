@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nijmegen
+coordinates: [[Nijmegen]]
+markerFile: [[Nijmegen]]
+defaultZoom: 11 
+maxZoom: 18
+```

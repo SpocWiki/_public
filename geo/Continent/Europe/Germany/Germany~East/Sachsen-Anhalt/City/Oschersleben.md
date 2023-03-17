@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oschersleben
+coordinates: [[Oschersleben]]
+markerFile: [[Oschersleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

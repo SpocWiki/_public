@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zaborze
+coordinates: [[Zaborze]]
+markerFile: [[Zaborze]]
+defaultZoom: 11 
+maxZoom: 18
+```

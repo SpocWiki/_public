@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klus
+coordinates: [[Klus]]
+markerFile: [[Klus]]
+defaultZoom: 11 
+maxZoom: 18
+```

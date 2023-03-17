@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oliva
+coordinates: [[Oliva]]
+markerFile: [[Oliva]]
+defaultZoom: 11 
+maxZoom: 18
+```

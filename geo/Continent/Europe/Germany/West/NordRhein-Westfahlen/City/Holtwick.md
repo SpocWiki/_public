@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Holtwick
+coordinates: [[Holtwick]]
+markerFile: [[Holtwick]]
+defaultZoom: 11 
+maxZoom: 18
+```

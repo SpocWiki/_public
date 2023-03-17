@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.75,9.83]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neresheim
+coordinates: [[Neresheim]]
+markerFile: [[Neresheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

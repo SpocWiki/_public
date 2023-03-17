@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dornum
+coordinates: [[Dornum]]
+markerFile: [[Dornum]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [63.18,14.65]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oestersund
+coordinates: [[Oestersund]]
+markerFile: [[Oestersund]]
+defaultZoom: 11 
+maxZoom: 18
+```

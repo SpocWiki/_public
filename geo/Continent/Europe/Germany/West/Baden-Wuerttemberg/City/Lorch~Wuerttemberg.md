@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lorch~Wuerttemberg
+coordinates: [[Lorch~Wuerttemberg]]
+markerFile: [[Lorch~Wuerttemberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

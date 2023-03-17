@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hannover
+coordinates: [[Hannover]]
+markerFile: [[Hannover]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nowawes
+coordinates: [[Nowawes]]
+markerFile: [[Nowawes]]
+defaultZoom: 11 
+maxZoom: 18
+```

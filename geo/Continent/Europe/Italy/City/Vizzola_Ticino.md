@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.63,8.72]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vizzola Ticino
+coordinates: [[Vizzola Ticino]]
+markerFile: [[Vizzola Ticino]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bodenteich
+coordinates: [[Bodenteich]]
+markerFile: [[Bodenteich]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Horodenra
+coordinates: [[Horodenra]]
+markerFile: [[Horodenra]]
+defaultZoom: 11 
+maxZoom: 18
+```

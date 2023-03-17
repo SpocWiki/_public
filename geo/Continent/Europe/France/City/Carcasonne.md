@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.22,2.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carcasonne
+coordinates: [[Carcasonne]]
+markerFile: [[Carcasonne]]
+defaultZoom: 11 
+maxZoom: 18
+```

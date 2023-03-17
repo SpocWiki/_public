@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Juergensgaarde
+coordinates: [[Juergensgaarde]]
+markerFile: [[Juergensgaarde]]
+defaultZoom: 11 
+maxZoom: 18
+```

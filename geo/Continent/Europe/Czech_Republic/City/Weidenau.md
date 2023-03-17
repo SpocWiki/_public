@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weidenau
+coordinates: [[Weidenau]]
+markerFile: [[Weidenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

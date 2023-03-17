@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tournon
+coordinates: [[Tournon]]
+markerFile: [[Tournon]]
+defaultZoom: 11 
+maxZoom: 18
+```

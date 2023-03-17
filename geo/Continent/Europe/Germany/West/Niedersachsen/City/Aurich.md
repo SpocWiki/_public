@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aurich
+coordinates: [[Aurich]]
+markerFile: [[Aurich]]
+defaultZoom: 11 
+maxZoom: 18
+```

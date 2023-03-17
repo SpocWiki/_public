@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rugby
+coordinates: [[Rugby]]
+markerFile: [[Rugby]]
+defaultZoom: 11 
+maxZoom: 18
+```

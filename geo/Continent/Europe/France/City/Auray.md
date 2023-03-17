@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Auray
+coordinates: [[Auray]]
+markerFile: [[Auray]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Juist
+coordinates: [[Juist]]
+markerFile: [[Juist]]
+defaultZoom: 11 
+maxZoom: 18
+```

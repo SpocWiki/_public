@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bellac
+coordinates: [[Bellac]]
+markerFile: [[Bellac]]
+defaultZoom: 11 
+maxZoom: 18
+```

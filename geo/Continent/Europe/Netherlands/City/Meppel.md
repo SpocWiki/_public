@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meppel
+coordinates: [[Meppel]]
+markerFile: [[Meppel]]
+defaultZoom: 11 
+maxZoom: 18
+```

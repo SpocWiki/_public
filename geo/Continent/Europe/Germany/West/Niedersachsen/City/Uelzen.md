@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.96,10.56]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -28,3 +28,11 @@ maxZoom: 18
 ```
 
 
+
+```leaflet
+id: Uelzen
+coordinates: [[Uelzen]]
+markerFile: [[Uelzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

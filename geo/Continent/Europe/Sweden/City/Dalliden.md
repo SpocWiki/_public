@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dalliden
+coordinates: [[Dalliden]]
+markerFile: [[Dalliden]]
+defaultZoom: 11 
+maxZoom: 18
+```

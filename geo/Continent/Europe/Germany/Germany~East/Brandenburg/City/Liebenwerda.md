@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liebenwerda
+coordinates: [[Liebenwerda]]
+markerFile: [[Liebenwerda]]
+defaultZoom: 11 
+maxZoom: 18
+```

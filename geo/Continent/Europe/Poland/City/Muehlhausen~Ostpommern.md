@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.18,19.73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muehlhausen~Ostpommern
+coordinates: [[Muehlhausen~Ostpommern]]
+markerFile: [[Muehlhausen~Ostpommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

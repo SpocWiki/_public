@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pinsk
+coordinates: [[Pinsk]]
+markerFile: [[Pinsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

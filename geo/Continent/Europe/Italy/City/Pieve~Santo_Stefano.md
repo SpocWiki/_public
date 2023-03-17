@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pieve~Santo Stefano
+coordinates: [[Pieve~Santo Stefano]]
+markerFile: [[Pieve~Santo Stefano]]
+defaultZoom: 11 
+maxZoom: 18
+```

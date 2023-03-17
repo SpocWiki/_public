@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Norborg
+coordinates: [[Norborg]]
+markerFile: [[Norborg]]
+defaultZoom: 11 
+maxZoom: 18
+```

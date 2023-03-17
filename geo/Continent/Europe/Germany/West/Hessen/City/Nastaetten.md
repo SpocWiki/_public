@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nastaetten
+coordinates: [[Nastaetten]]
+markerFile: [[Nastaetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

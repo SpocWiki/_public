@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschita
+coordinates: [[Tschita]]
+markerFile: [[Tschita]]
+defaultZoom: 11 
+maxZoom: 18
+```

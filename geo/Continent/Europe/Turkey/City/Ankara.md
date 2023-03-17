@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.92,32.84]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ankara
+coordinates: [[Ankara]]
+markerFile: [[Ankara]]
+defaultZoom: 11 
+maxZoom: 18
+```

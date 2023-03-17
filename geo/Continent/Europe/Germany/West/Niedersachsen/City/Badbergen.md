@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Badbergen
+coordinates: [[Badbergen]]
+markerFile: [[Badbergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

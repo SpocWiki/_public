@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gnesen
+coordinates: [[Gnesen]]
+markerFile: [[Gnesen]]
+defaultZoom: 11 
+maxZoom: 18
+```

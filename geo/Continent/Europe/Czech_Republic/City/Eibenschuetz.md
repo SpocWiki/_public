@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.1,16.37]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eibenschuetz
+coordinates: [[Eibenschuetz]]
+markerFile: [[Eibenschuetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

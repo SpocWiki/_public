@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doehlen
+coordinates: [[Doehlen]]
+markerFile: [[Doehlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

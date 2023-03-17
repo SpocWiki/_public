@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gorno-Altaysk
+coordinates: [[Gorno-Altaysk]]
+markerFile: [[Gorno-Altaysk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krassnowodsk
+coordinates: [[Krassnowodsk]]
+markerFile: [[Krassnowodsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

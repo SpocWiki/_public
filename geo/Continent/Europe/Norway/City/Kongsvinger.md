@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kongsvinger
+coordinates: [[Kongsvinger]]
+markerFile: [[Kongsvinger]]
+defaultZoom: 11 
+maxZoom: 18
+```

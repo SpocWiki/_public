@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arget
+coordinates: [[Arget]]
+markerFile: [[Arget]]
+defaultZoom: 11 
+maxZoom: 18
+```

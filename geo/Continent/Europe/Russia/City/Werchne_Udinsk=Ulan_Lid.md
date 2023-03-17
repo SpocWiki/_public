@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Werchne Udinsk=Ulan Lid
+coordinates: [[Werchne Udinsk=Ulan Lid]]
+markerFile: [[Werchne Udinsk=Ulan Lid]]
+defaultZoom: 11 
+maxZoom: 18
+```

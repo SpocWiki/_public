@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gelsenkirchen
+coordinates: [[Gelsenkirchen]]
+markerFile: [[Gelsenkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luhatschowitz
+coordinates: [[Luhatschowitz]]
+markerFile: [[Luhatschowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Floeha
+coordinates: [[Floeha]]
+markerFile: [[Floeha]]
+defaultZoom: 11 
+maxZoom: 18
+```

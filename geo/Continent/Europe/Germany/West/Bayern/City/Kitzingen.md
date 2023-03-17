@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kitzingen
+coordinates: [[Kitzingen]]
+markerFile: [[Kitzingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Triliessy
+coordinates: [[Triliessy]]
+markerFile: [[Triliessy]]
+defaultZoom: 11 
+maxZoom: 18
+```

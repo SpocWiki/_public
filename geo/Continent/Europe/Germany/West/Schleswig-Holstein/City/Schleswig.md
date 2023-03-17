@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schleswig
+coordinates: [[Schleswig]]
+markerFile: [[Schleswig]]
+defaultZoom: 11 
+maxZoom: 18
+```

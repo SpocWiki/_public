@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Auernheim
+coordinates: [[Auernheim]]
+markerFile: [[Auernheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

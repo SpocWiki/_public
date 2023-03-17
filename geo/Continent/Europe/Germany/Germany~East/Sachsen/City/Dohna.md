@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dohna
+coordinates: [[Dohna]]
+markerFile: [[Dohna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vetriolo
+coordinates: [[Vetriolo]]
+markerFile: [[Vetriolo]]
+defaultZoom: 11 
+maxZoom: 18
+```

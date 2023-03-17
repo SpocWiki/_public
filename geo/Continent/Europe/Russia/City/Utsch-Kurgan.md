@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Utsch-Kurgan
+coordinates: [[Utsch-Kurgan]]
+markerFile: [[Utsch-Kurgan]]
+defaultZoom: 11 
+maxZoom: 18
+```

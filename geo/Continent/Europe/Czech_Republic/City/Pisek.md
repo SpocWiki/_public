@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.32,14.15]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pisek
+coordinates: [[Pisek]]
+markerFile: [[Pisek]]
+defaultZoom: 11 
+maxZoom: 18
+```

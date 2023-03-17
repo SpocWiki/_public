@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bassel
+coordinates: [[Bassel]]
+markerFile: [[Bassel]]
+defaultZoom: 11 
+maxZoom: 18
+```

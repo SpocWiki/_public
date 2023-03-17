@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Olching
+coordinates: [[Olching]]
+markerFile: [[Olching]]
+defaultZoom: 11 
+maxZoom: 18
+```

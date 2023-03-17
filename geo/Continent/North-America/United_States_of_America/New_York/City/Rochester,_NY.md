@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rochester, NY
+coordinates: [[Rochester, NY]]
+markerFile: [[Rochester, NY]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: SAS~Regina
+coordinates: [[SAS~Regina]]
+markerFile: [[SAS~Regina]]
+defaultZoom: 11 
+maxZoom: 18
+```

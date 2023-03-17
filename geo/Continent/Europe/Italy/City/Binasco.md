@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.2,9.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Binasco
+coordinates: [[Binasco]]
+markerFile: [[Binasco]]
+defaultZoom: 11 
+maxZoom: 18
+```

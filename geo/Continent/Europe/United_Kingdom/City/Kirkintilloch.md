@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirkintilloch
+coordinates: [[Kirkintilloch]]
+markerFile: [[Kirkintilloch]]
+defaultZoom: 11 
+maxZoom: 18
+```

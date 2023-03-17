@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boncourt
+coordinates: [[Boncourt]]
+markerFile: [[Boncourt]]
+defaultZoom: 11 
+maxZoom: 18
+```

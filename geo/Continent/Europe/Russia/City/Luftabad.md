@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luftabad
+coordinates: [[Luftabad]]
+markerFile: [[Luftabad]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roethenbach~Oberpfalz
+coordinates: [[Roethenbach~Oberpfalz]]
+markerFile: [[Roethenbach~Oberpfalz]]
+defaultZoom: 11 
+maxZoom: 18
+```

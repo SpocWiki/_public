@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Solnhofen
+coordinates: [[Solnhofen]]
+markerFile: [[Solnhofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

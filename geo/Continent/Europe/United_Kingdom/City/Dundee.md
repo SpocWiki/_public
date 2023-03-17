@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dundee
+coordinates: [[Dundee]]
+markerFile: [[Dundee]]
+defaultZoom: 11 
+maxZoom: 18
+```

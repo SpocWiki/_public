@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cincinnatti
+coordinates: [[Cincinnatti]]
+markerFile: [[Cincinnatti]]
+defaultZoom: 11 
+maxZoom: 18
+```

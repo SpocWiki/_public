@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Angern
+coordinates: [[Angern]]
+markerFile: [[Angern]]
+defaultZoom: 11 
+maxZoom: 18
+```

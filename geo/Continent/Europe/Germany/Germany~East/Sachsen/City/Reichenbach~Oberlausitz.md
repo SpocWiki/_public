@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichenbach~Oberlausitz
+coordinates: [[Reichenbach~Oberlausitz]]
+markerFile: [[Reichenbach~Oberlausitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

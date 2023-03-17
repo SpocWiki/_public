@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Crimmitschau
+coordinates: [[Crimmitschau]]
+markerFile: [[Crimmitschau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.02,15.9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoenau
+coordinates: [[Schoenau]]
+markerFile: [[Schoenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

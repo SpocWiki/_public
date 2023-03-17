@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frielendorf
+coordinates: [[Frielendorf]]
+markerFile: [[Frielendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alahaermae
+coordinates: [[Alahaermae]]
+markerFile: [[Alahaermae]]
+defaultZoom: 11 
+maxZoom: 18
+```

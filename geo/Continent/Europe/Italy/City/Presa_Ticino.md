@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Presa Ticino
+coordinates: [[Presa Ticino]]
+markerFile: [[Presa Ticino]]
+defaultZoom: 11 
+maxZoom: 18
+```

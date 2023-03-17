@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Anantapur
+coordinates: [[Anantapur]]
+markerFile: [[Anantapur]]
+defaultZoom: 11 
+maxZoom: 18
+```

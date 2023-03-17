@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuhmoniemi
+coordinates: [[Kuhmoniemi]]
+markerFile: [[Kuhmoniemi]]
+defaultZoom: 11 
+maxZoom: 18
+```

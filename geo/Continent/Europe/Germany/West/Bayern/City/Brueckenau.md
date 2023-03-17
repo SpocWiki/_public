@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brueckenau
+coordinates: [[Brueckenau]]
+markerFile: [[Brueckenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

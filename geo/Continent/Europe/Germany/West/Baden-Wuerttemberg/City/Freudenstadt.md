@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freudenstadt
+coordinates: [[Freudenstadt]]
+markerFile: [[Freudenstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

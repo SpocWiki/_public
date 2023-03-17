@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tannheim
+coordinates: [[Tannheim]]
+markerFile: [[Tannheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

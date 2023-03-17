@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchhunden
+coordinates: [[Kirchhunden]]
+markerFile: [[Kirchhunden]]
+defaultZoom: 11 
+maxZoom: 18
+```

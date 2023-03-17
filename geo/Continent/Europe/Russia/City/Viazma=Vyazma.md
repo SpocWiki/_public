@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Viazma=Vyazma
+coordinates: [[Viazma=Vyazma]]
+markerFile: [[Viazma=Vyazma]]
+defaultZoom: 11 
+maxZoom: 18
+```

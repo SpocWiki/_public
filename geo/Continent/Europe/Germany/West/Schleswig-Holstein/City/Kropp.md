@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kropp
+coordinates: [[Kropp]]
+markerFile: [[Kropp]]
+defaultZoom: 11 
+maxZoom: 18
+```

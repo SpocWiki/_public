@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolfach
+coordinates: [[Wolfach]]
+markerFile: [[Wolfach]]
+defaultZoom: 11 
+maxZoom: 18
+```

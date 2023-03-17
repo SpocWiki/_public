@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bitsch
+coordinates: [[Bitsch]]
+markerFile: [[Bitsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

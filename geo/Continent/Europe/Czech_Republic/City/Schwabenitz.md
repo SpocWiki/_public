@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwabenitz
+coordinates: [[Schwabenitz]]
+markerFile: [[Schwabenitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

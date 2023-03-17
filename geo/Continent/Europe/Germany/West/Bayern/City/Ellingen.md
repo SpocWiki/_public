@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ellingen
+coordinates: [[Ellingen]]
+markerFile: [[Ellingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

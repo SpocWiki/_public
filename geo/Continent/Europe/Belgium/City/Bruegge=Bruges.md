@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bruegge=Bruges
+coordinates: [[Bruegge=Bruges]]
+markerFile: [[Bruegge=Bruges]]
+defaultZoom: 11 
+maxZoom: 18
+```

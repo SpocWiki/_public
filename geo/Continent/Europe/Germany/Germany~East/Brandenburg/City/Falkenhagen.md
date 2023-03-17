@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falkenhagen
+coordinates: [[Falkenhagen]]
+markerFile: [[Falkenhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

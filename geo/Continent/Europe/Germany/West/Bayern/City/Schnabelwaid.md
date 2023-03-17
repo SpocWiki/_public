@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schnabelwaid
+coordinates: [[Schnabelwaid]]
+markerFile: [[Schnabelwaid]]
+defaultZoom: 11 
+maxZoom: 18
+```

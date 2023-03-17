@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchhain am Eck
+coordinates: [[Kirchhain am Eck]]
+markerFile: [[Kirchhain am Eck]]
+defaultZoom: 11 
+maxZoom: 18
+```

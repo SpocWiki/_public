@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dudenhofen
+coordinates: [[Dudenhofen]]
+markerFile: [[Dudenhofen]]
+defaultZoom: 11 
+maxZoom: 18
+```

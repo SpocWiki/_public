@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altkirch
+coordinates: [[Altkirch]]
+markerFile: [[Altkirch]]
+defaultZoom: 11 
+maxZoom: 18
+```

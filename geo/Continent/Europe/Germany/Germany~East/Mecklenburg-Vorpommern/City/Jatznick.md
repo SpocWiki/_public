@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jatznick
+coordinates: [[Jatznick]]
+markerFile: [[Jatznick]]
+defaultZoom: 11 
+maxZoom: 18
+```

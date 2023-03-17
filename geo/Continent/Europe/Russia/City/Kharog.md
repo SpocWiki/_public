@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kharog
+coordinates: [[Kharog]]
+markerFile: [[Kharog]]
+defaultZoom: 11 
+maxZoom: 18
+```

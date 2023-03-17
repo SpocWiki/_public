@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tavistock
+coordinates: [[Tavistock]]
+markerFile: [[Tavistock]]
+defaultZoom: 11 
+maxZoom: 18
+```

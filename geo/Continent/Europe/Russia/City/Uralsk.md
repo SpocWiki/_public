@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uralsk
+coordinates: [[Uralsk]]
+markerFile: [[Uralsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

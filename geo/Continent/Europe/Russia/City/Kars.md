@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kars
+coordinates: [[Kars]]
+markerFile: [[Kars]]
+defaultZoom: 11 
+maxZoom: 18
+```

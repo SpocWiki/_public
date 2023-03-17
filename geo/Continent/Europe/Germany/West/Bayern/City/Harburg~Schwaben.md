@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Harburg~Schwaben
+coordinates: [[Harburg~Schwaben]]
+markerFile: [[Harburg~Schwaben]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bern
+coordinates: [[Bern]]
+markerFile: [[Bern]]
+defaultZoom: 11 
+maxZoom: 18
+```

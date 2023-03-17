@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Montevarchi
+coordinates: [[Montevarchi]]
+markerFile: [[Montevarchi]]
+defaultZoom: 11 
+maxZoom: 18
+```

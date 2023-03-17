@@ -1,4 +1,4 @@
----
+﻿---
 location: [16,-61.73333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Basse-Terre
+coordinates: [[Basse-Terre]]
+markerFile: [[Basse-Terre]]
+defaultZoom: 11 
+maxZoom: 18
+```

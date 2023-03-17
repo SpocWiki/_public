@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Praestkulla
+coordinates: [[Praestkulla]]
+markerFile: [[Praestkulla]]
+defaultZoom: 11 
+maxZoom: 18
+```

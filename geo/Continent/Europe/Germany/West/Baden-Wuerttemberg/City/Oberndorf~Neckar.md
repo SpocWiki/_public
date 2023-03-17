@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberndorf~Neckar
+coordinates: [[Oberndorf~Neckar]]
+markerFile: [[Oberndorf~Neckar]]
+defaultZoom: 11 
+maxZoom: 18
+```

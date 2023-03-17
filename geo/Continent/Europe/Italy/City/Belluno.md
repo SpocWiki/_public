@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Belluno
+coordinates: [[Belluno]]
+markerFile: [[Belluno]]
+defaultZoom: 11 
+maxZoom: 18
+```

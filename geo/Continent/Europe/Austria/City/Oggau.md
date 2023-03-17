@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oggau
+coordinates: [[Oggau]]
+markerFile: [[Oggau]]
+defaultZoom: 11 
+maxZoom: 18
+```

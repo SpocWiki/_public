@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.55,26.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ivailovgrad
+coordinates: [[Ivailovgrad]]
+markerFile: [[Ivailovgrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

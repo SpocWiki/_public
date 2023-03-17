@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langres
+coordinates: [[Langres]]
+markerFile: [[Langres]]
+defaultZoom: 11 
+maxZoom: 18
+```

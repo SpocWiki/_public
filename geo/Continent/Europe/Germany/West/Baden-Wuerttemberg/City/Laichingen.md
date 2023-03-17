@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laichingen
+coordinates: [[Laichingen]]
+markerFile: [[Laichingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

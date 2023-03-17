@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herzebrock
+coordinates: [[Herzebrock]]
+markerFile: [[Herzebrock]]
+defaultZoom: 11 
+maxZoom: 18
+```

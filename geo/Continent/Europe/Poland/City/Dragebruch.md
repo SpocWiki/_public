@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.88,15.98]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dragebruch
+coordinates: [[Dragebruch]]
+markerFile: [[Dragebruch]]
+defaultZoom: 11 
+maxZoom: 18
+```

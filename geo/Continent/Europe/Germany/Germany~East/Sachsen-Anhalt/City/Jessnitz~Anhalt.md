@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jessnitz~Anhalt
+coordinates: [[Jessnitz~Anhalt]]
+markerFile: [[Jessnitz~Anhalt]]
+defaultZoom: 11 
+maxZoom: 18
+```

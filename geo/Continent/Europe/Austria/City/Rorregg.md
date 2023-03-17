@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rorregg
+coordinates: [[Rorregg]]
+markerFile: [[Rorregg]]
+defaultZoom: 11 
+maxZoom: 18
+```

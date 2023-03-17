@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mistorf
+coordinates: [[Mistorf]]
+markerFile: [[Mistorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

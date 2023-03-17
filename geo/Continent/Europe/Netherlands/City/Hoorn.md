@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hoorn
+coordinates: [[Hoorn]]
+markerFile: [[Hoorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mindelheim
+coordinates: [[Mindelheim]]
+markerFile: [[Mindelheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

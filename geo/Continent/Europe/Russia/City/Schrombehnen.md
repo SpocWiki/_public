@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schrombehnen
+coordinates: [[Schrombehnen]]
+markerFile: [[Schrombehnen]]
+defaultZoom: 11 
+maxZoom: 18
+```

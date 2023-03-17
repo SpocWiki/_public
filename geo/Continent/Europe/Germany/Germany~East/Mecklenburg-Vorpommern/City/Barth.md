@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barth
+coordinates: [[Barth]]
+markerFile: [[Barth]]
+defaultZoom: 11 
+maxZoom: 18
+```

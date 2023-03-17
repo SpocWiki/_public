@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krementschug
+coordinates: [[Krementschug]]
+markerFile: [[Krementschug]]
+defaultZoom: 11 
+maxZoom: 18
+```

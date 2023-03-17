@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loewenberg
+coordinates: [[Loewenberg]]
+markerFile: [[Loewenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jordansmuehl
+coordinates: [[Jordansmuehl]]
+markerFile: [[Jordansmuehl]]
+defaultZoom: 11 
+maxZoom: 18
+```

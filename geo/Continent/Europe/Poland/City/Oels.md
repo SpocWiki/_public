@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oels
+coordinates: [[Oels]]
+markerFile: [[Oels]]
+defaultZoom: 11 
+maxZoom: 18
+```

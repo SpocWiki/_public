@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falun
+coordinates: [[Falun]]
+markerFile: [[Falun]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fossano
+coordinates: [[Fossano]]
+markerFile: [[Fossano]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Soissons
+coordinates: [[Soissons]]
+markerFile: [[Soissons]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zaref
+coordinates: [[Zaref]]
+markerFile: [[Zaref]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Drammen
+coordinates: [[Drammen]]
+markerFile: [[Drammen]]
+defaultZoom: 11 
+maxZoom: 18
+```

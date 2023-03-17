@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Welden
+coordinates: [[Welden]]
+markerFile: [[Welden]]
+defaultZoom: 11 
+maxZoom: 18
+```

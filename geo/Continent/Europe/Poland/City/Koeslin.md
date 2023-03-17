@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koeslin
+coordinates: [[Koeslin]]
+markerFile: [[Koeslin]]
+defaultZoom: 11 
+maxZoom: 18
+```

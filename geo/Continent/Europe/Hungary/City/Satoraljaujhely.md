@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Satoraljaujhely
+coordinates: [[Satoraljaujhely]]
+markerFile: [[Satoraljaujhely]]
+defaultZoom: 11 
+maxZoom: 18
+```

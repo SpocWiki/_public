@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Meaux
+coordinates: [[Meaux]]
+markerFile: [[Meaux]]
+defaultZoom: 11 
+maxZoom: 18
+```

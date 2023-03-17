@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Winterthur
+coordinates: [[Winterthur]]
+markerFile: [[Winterthur]]
+defaultZoom: 11 
+maxZoom: 18
+```

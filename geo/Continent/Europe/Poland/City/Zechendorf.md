@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zechendorf
+coordinates: [[Zechendorf]]
+markerFile: [[Zechendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

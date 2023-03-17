@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Muehlhausen~Thuerungen
+coordinates: [[Muehlhausen~Thuerungen]]
+markerFile: [[Muehlhausen~Thuerungen]]
+defaultZoom: 11 
+maxZoom: 18
+```

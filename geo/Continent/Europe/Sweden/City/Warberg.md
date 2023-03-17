@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warberg
+coordinates: [[Warberg]]
+markerFile: [[Warberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

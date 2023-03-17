@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schiedam
+coordinates: [[Schiedam]]
+markerFile: [[Schiedam]]
+defaultZoom: 11 
+maxZoom: 18
+```

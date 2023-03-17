@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grimsby
+coordinates: [[Grimsby]]
+markerFile: [[Grimsby]]
+defaultZoom: 11 
+maxZoom: 18
+```

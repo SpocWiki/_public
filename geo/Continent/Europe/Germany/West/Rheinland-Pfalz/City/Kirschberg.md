@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirschberg
+coordinates: [[Kirschberg]]
+markerFile: [[Kirschberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lyngdal
+coordinates: [[Lyngdal]]
+markerFile: [[Lyngdal]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spassk~Rjaesan
+coordinates: [[Spassk~Rjaesan]]
+markerFile: [[Spassk~Rjaesan]]
+defaultZoom: 11 
+maxZoom: 18
+```

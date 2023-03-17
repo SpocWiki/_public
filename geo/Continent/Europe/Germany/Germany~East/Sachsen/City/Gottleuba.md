@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gottleuba
+coordinates: [[Gottleuba]]
+markerFile: [[Gottleuba]]
+defaultZoom: 11 
+maxZoom: 18
+```

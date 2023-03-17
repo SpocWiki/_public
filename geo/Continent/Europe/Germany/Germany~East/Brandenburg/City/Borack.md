@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Borack
+coordinates: [[Borack]]
+markerFile: [[Borack]]
+defaultZoom: 11 
+maxZoom: 18
+```

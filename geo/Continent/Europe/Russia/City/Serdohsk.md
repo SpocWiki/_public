@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Serdohsk
+coordinates: [[Serdohsk]]
+markerFile: [[Serdohsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

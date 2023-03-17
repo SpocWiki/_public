@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Saarlois
+coordinates: [[Saarlois]]
+markerFile: [[Saarlois]]
+defaultZoom: 11 
+maxZoom: 18
+```

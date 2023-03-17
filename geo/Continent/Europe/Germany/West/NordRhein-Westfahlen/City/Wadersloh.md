@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wadersloh
+coordinates: [[Wadersloh]]
+markerFile: [[Wadersloh]]
+defaultZoom: 11 
+maxZoom: 18
+```

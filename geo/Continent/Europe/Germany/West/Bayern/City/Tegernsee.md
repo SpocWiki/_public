@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tegernsee
+coordinates: [[Tegernsee]]
+markerFile: [[Tegernsee]]
+defaultZoom: 11 
+maxZoom: 18
+```

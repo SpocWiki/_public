@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villefranch de Rouergue
+coordinates: [[Villefranch de Rouergue]]
+markerFile: [[Villefranch de Rouergue]]
+defaultZoom: 11 
+maxZoom: 18
+```

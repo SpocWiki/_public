@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lesmahagow
+coordinates: [[Lesmahagow]]
+markerFile: [[Lesmahagow]]
+defaultZoom: 11 
+maxZoom: 18
+```

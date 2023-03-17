@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bordeaux
+coordinates: [[Bordeaux]]
+markerFile: [[Bordeaux]]
+defaultZoom: 11 
+maxZoom: 18
+```

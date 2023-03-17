@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.58,10.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dillingen~Donau
+coordinates: [[Dillingen~Donau]]
+markerFile: [[Dillingen~Donau]]
+defaultZoom: 11 
+maxZoom: 18
+```

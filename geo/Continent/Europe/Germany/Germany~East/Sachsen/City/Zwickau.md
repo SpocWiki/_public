@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.7,12.5]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zwickau
+coordinates: [[Zwickau]]
+markerFile: [[Zwickau]]
+defaultZoom: 11 
+maxZoom: 18
+```

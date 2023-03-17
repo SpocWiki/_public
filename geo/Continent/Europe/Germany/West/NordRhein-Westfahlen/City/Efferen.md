@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Efferen
+coordinates: [[Efferen]]
+markerFile: [[Efferen]]
+defaultZoom: 11 
+maxZoom: 18
+```

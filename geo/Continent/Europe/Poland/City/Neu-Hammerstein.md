@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.67,17.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neu-Hammerstein
+coordinates: [[Neu-Hammerstein]]
+markerFile: [[Neu-Hammerstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

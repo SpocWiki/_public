@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.45,59.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nukus
+coordinates: [[Nukus]]
+markerFile: [[Nukus]]
+defaultZoom: 11 
+maxZoom: 18
+```

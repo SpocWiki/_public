@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Martina Franka
+coordinates: [[Martina Franka]]
+markerFile: [[Martina Franka]]
+defaultZoom: 11 
+maxZoom: 18
+```

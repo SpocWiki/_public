@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buechen
+coordinates: [[Buechen]]
+markerFile: [[Buechen]]
+defaultZoom: 11 
+maxZoom: 18
+```

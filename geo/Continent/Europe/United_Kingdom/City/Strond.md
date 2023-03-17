@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strond
+coordinates: [[Strond]]
+markerFile: [[Strond]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carnavon
+coordinates: [[Carnavon]]
+markerFile: [[Carnavon]]
+defaultZoom: 11 
+maxZoom: 18
+```

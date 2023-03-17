@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.05,6.15]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Diekirch
+coordinates: [[Diekirch]]
+markerFile: [[Diekirch]]
+defaultZoom: 11 
+maxZoom: 18
+```

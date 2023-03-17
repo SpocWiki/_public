@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Poggio Mirteto
+coordinates: [[Poggio Mirteto]]
+markerFile: [[Poggio Mirteto]]
+defaultZoom: 11 
+maxZoom: 18
+```

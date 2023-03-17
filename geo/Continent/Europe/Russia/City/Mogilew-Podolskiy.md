@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mogilew-Podolskiy
+coordinates: [[Mogilew-Podolskiy]]
+markerFile: [[Mogilew-Podolskiy]]
+defaultZoom: 11 
+maxZoom: 18
+```

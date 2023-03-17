@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.18,14.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bautzen
+coordinates: [[Bautzen]]
+markerFile: [[Bautzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

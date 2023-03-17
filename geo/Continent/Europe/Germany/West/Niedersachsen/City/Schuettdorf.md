@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schuettdorf
+coordinates: [[Schuettdorf]]
+markerFile: [[Schuettdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

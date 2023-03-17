@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Warrington
+coordinates: [[Warrington]]
+markerFile: [[Warrington]]
+defaultZoom: 11 
+maxZoom: 18
+```

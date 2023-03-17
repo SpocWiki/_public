@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goldingen
+coordinates: [[Goldingen]]
+markerFile: [[Goldingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

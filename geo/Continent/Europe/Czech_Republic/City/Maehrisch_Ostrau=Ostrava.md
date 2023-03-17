@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Maehrisch Ostrau=Ostrava
+coordinates: [[Maehrisch Ostrau=Ostrava]]
+markerFile: [[Maehrisch Ostrau=Ostrava]]
+defaultZoom: 11 
+maxZoom: 18
+```

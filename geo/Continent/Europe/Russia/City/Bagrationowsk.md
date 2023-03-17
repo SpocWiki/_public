@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bagrationowsk
+coordinates: [[Bagrationowsk]]
+markerFile: [[Bagrationowsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

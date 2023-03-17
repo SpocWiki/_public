@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Winterton
+coordinates: [[Winterton]]
+markerFile: [[Winterton]]
+defaultZoom: 11 
+maxZoom: 18
+```

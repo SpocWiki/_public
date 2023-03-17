@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Avesnes
+coordinates: [[Avesnes]]
+markerFile: [[Avesnes]]
+defaultZoom: 11 
+maxZoom: 18
+```

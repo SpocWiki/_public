@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Francisco
+coordinates: [[San Francisco]]
+markerFile: [[San Francisco]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schrobenhausen
+coordinates: [[Schrobenhausen]]
+markerFile: [[Schrobenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

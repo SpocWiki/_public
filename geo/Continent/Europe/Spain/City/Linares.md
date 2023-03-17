@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Linares
+coordinates: [[Linares]]
+markerFile: [[Linares]]
+defaultZoom: 11 
+maxZoom: 18
+```

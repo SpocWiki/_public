@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pribyslav
+coordinates: [[Pribyslav]]
+markerFile: [[Pribyslav]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lucon
+coordinates: [[Lucon]]
+markerFile: [[Lucon]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aitrang
+coordinates: [[Aitrang]]
+markerFile: [[Aitrang]]
+defaultZoom: 11 
+maxZoom: 18
+```

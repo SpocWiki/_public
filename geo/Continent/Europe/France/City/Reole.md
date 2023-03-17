@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reole
+coordinates: [[Reole]]
+markerFile: [[Reole]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Verden
+coordinates: [[Verden]]
+markerFile: [[Verden]]
+defaultZoom: 11 
+maxZoom: 18
+```

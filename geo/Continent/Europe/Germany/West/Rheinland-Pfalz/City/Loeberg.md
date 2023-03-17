@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Loeberg
+coordinates: [[Loeberg]]
+markerFile: [[Loeberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

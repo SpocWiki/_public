@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Evora
+coordinates: [[Evora]]
+markerFile: [[Evora]]
+defaultZoom: 11 
+maxZoom: 18
+```

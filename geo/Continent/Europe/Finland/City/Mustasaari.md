@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mustasaari
+coordinates: [[Mustasaari]]
+markerFile: [[Mustasaari]]
+defaultZoom: 11 
+maxZoom: 18
+```

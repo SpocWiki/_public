@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichstadt
+coordinates: [[Reichstadt]]
+markerFile: [[Reichstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

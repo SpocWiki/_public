@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bad Neuhaus
+coordinates: [[Bad Neuhaus]]
+markerFile: [[Bad Neuhaus]]
+defaultZoom: 11 
+maxZoom: 18
+```

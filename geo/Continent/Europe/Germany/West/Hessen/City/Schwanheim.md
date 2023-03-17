@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwanheim
+coordinates: [[Schwanheim]]
+markerFile: [[Schwanheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

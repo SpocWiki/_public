@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tuebingen
+coordinates: [[Tuebingen]]
+markerFile: [[Tuebingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

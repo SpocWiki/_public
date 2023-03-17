@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siedlce
+coordinates: [[Siedlce]]
+markerFile: [[Siedlce]]
+defaultZoom: 11 
+maxZoom: 18
+```

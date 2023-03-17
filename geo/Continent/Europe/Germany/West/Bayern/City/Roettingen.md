@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roettingen
+coordinates: [[Roettingen]]
+markerFile: [[Roettingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

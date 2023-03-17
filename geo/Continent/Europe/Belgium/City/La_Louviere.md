@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: La Louviere
+coordinates: [[La Louviere]]
+markerFile: [[La Louviere]]
+defaultZoom: 11 
+maxZoom: 18
+```

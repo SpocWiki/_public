@@ -1,4 +1,4 @@
----
+﻿---
 location: [70.38,31.12]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vardoehuis
+coordinates: [[Vardoehuis]]
+markerFile: [[Vardoehuis]]
+defaultZoom: 11 
+maxZoom: 18
+```

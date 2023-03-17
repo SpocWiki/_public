@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Samarkand
+coordinates: [[Samarkand]]
+markerFile: [[Samarkand]]
+defaultZoom: 11 
+maxZoom: 18
+```

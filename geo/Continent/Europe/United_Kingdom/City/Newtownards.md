@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Newtownards
+coordinates: [[Newtownards]]
+markerFile: [[Newtownards]]
+defaultZoom: 11 
+maxZoom: 18
+```

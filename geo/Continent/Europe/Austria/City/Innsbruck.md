@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Innsbruck
+coordinates: [[Innsbruck]]
+markerFile: [[Innsbruck]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berdum
+coordinates: [[Berdum]]
+markerFile: [[Berdum]]
+defaultZoom: 11 
+maxZoom: 18
+```

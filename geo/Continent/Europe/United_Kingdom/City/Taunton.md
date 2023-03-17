@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taunton
+coordinates: [[Taunton]]
+markerFile: [[Taunton]]
+defaultZoom: 11 
+maxZoom: 18
+```

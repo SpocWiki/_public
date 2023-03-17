@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lassan
+coordinates: [[Lassan]]
+markerFile: [[Lassan]]
+defaultZoom: 11 
+maxZoom: 18
+```

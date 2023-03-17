@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Doullens
+coordinates: [[Doullens]]
+markerFile: [[Doullens]]
+defaultZoom: 11 
+maxZoom: 18
+```

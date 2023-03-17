@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gudzianai
+coordinates: [[Gudzianai]]
+markerFile: [[Gudzianai]]
+defaultZoom: 11 
+maxZoom: 18
+```

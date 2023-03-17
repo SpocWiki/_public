@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jershoeft
+coordinates: [[Jershoeft]]
+markerFile: [[Jershoeft]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nydala
+coordinates: [[Nydala]]
+markerFile: [[Nydala]]
+defaultZoom: 11 
+maxZoom: 18
+```

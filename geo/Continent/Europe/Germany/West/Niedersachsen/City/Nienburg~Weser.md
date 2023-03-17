@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nienburg~Weser
+coordinates: [[Nienburg~Weser]]
+markerFile: [[Nienburg~Weser]]
+defaultZoom: 11 
+maxZoom: 18
+```

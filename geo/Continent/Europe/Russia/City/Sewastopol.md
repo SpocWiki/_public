@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sewastopol
+coordinates: [[Sewastopol]]
+markerFile: [[Sewastopol]]
+defaultZoom: 11 
+maxZoom: 18
+```

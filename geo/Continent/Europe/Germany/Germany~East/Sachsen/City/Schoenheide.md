@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoenheide
+coordinates: [[Schoenheide]]
+markerFile: [[Schoenheide]]
+defaultZoom: 11 
+maxZoom: 18
+```

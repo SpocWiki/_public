@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arosa
+coordinates: [[Arosa]]
+markerFile: [[Arosa]]
+defaultZoom: 11 
+maxZoom: 18
+```

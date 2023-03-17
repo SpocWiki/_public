@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Massafra
+coordinates: [[Massafra]]
+markerFile: [[Massafra]]
+defaultZoom: 11 
+maxZoom: 18
+```

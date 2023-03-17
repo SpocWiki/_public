@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baton Rouge
+coordinates: [[Baton Rouge]]
+markerFile: [[Baton Rouge]]
+defaultZoom: 11 
+maxZoom: 18
+```

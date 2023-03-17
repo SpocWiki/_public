@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Janikow
+coordinates: [[Janikow]]
+markerFile: [[Janikow]]
+defaultZoom: 11 
+maxZoom: 18
+```

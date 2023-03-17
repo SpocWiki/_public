@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lisburn
+coordinates: [[Lisburn]]
+markerFile: [[Lisburn]]
+defaultZoom: 11 
+maxZoom: 18
+```

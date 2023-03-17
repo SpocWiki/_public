@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Petropawlowsk
+coordinates: [[Petropawlowsk]]
+markerFile: [[Petropawlowsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

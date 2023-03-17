@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.47,10.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ostheim
+coordinates: [[Ostheim]]
+markerFile: [[Ostheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

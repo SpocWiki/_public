@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cavour
+coordinates: [[Cavour]]
+markerFile: [[Cavour]]
+defaultZoom: 11 
+maxZoom: 18
+```

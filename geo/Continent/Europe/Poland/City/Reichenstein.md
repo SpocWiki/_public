@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichenstein
+coordinates: [[Reichenstein]]
+markerFile: [[Reichenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

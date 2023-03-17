@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neukrug
+coordinates: [[Neukrug]]
+markerFile: [[Neukrug]]
+defaultZoom: 11 
+maxZoom: 18
+```

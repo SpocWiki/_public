@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kallies
+coordinates: [[Kallies]]
+markerFile: [[Kallies]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pori
+coordinates: [[Pori]]
+markerFile: [[Pori]]
+defaultZoom: 11 
+maxZoom: 18
+```

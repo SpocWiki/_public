@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goriza
+coordinates: [[Goriza]]
+markerFile: [[Goriza]]
+defaultZoom: 11 
+maxZoom: 18
+```

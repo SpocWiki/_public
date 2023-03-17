@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Scharfenstein
+coordinates: [[Scharfenstein]]
+markerFile: [[Scharfenstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

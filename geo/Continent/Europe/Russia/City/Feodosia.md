@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Feodosia
+coordinates: [[Feodosia]]
+markerFile: [[Feodosia]]
+defaultZoom: 11 
+maxZoom: 18
+```

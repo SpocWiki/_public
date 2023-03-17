@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Dié
+coordinates: [[St.Dié]]
+markerFile: [[St.Dié]]
+defaultZoom: 11 
+maxZoom: 18
+```

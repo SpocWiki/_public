@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cesenatico
+coordinates: [[Cesenatico]]
+markerFile: [[Cesenatico]]
+defaultZoom: 11 
+maxZoom: 18
+```

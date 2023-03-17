@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Suomussalmi
+coordinates: [[Suomussalmi]]
+markerFile: [[Suomussalmi]]
+defaultZoom: 11 
+maxZoom: 18
+```

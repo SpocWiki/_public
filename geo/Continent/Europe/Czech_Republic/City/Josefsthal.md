@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Josefsthal
+coordinates: [[Josefsthal]]
+markerFile: [[Josefsthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

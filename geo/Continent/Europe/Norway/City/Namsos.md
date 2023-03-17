@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Namsos
+coordinates: [[Namsos]]
+markerFile: [[Namsos]]
+defaultZoom: 11 
+maxZoom: 18
+```

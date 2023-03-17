@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cetinje
+coordinates: [[Cetinje]]
+markerFile: [[Cetinje]]
+defaultZoom: 11 
+maxZoom: 18
+```

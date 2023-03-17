@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goldenstaedt~Meklenburg
+coordinates: [[Goldenstaedt~Meklenburg]]
+markerFile: [[Goldenstaedt~Meklenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ettal
+coordinates: [[Ettal]]
+markerFile: [[Ettal]]
+defaultZoom: 11 
+maxZoom: 18
+```

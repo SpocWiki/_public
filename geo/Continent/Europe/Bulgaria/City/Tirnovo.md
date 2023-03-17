@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tirnovo
+coordinates: [[Tirnovo]]
+markerFile: [[Tirnovo]]
+defaultZoom: 11 
+maxZoom: 18
+```

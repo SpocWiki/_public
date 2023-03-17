@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stuerza
+coordinates: [[Stuerza]]
+markerFile: [[Stuerza]]
+defaultZoom: 11 
+maxZoom: 18
+```

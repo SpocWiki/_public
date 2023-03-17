@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pittsburg
+coordinates: [[Pittsburg]]
+markerFile: [[Pittsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

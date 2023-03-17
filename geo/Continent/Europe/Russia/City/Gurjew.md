@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gurjew
+coordinates: [[Gurjew]]
+markerFile: [[Gurjew]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pershore
+coordinates: [[Pershore]]
+markerFile: [[Pershore]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Manresa
+coordinates: [[Manresa]]
+markerFile: [[Manresa]]
+defaultZoom: 11 
+maxZoom: 18
+```

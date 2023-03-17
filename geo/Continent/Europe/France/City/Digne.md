@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.1,6.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Digne
+coordinates: [[Digne]]
+markerFile: [[Digne]]
+defaultZoom: 11 
+maxZoom: 18
+```

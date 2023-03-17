@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rambouiller
+coordinates: [[Rambouiller]]
+markerFile: [[Rambouiller]]
+defaultZoom: 11 
+maxZoom: 18
+```

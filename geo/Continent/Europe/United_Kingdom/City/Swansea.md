@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Swansea
+coordinates: [[Swansea]]
+markerFile: [[Swansea]]
+defaultZoom: 11 
+maxZoom: 18
+```

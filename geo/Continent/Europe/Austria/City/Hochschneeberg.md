@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hochschneeberg
+coordinates: [[Hochschneeberg]]
+markerFile: [[Hochschneeberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

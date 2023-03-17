@@ -1,4 +1,4 @@
----
+﻿---
 location: [14.1,-87.21667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Tegucigalpa
+coordinates: [[Tegucigalpa]]
+markerFile: [[Tegucigalpa]]
+defaultZoom: 11 
+maxZoom: 18
+```

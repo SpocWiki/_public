@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bagnone
+coordinates: [[Bagnone]]
+markerFile: [[Bagnone]]
+defaultZoom: 11 
+maxZoom: 18
+```

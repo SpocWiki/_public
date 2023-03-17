@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kovno
+coordinates: [[Kovno]]
+markerFile: [[Kovno]]
+defaultZoom: 11 
+maxZoom: 18
+```

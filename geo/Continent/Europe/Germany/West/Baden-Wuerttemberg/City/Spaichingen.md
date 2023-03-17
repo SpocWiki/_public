@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spaichingen
+coordinates: [[Spaichingen]]
+markerFile: [[Spaichingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

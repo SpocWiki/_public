@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sankt Huelfe
+coordinates: [[Sankt Huelfe]]
+markerFile: [[Sankt Huelfe]]
+defaultZoom: 11 
+maxZoom: 18
+```

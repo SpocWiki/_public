@@ -1,4 +1,4 @@
----
+﻿---
 location: [49,11.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kinding
+coordinates: [[Kinding]]
+markerFile: [[Kinding]]
+defaultZoom: 11 
+maxZoom: 18
+```

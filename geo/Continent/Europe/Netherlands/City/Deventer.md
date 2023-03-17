@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deventer
+coordinates: [[Deventer]]
+markerFile: [[Deventer]]
+defaultZoom: 11 
+maxZoom: 18
+```

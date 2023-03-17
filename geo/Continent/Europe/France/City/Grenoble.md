@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grenoble
+coordinates: [[Grenoble]]
+markerFile: [[Grenoble]]
+defaultZoom: 11 
+maxZoom: 18
+```

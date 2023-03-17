@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dukati
+coordinates: [[Dukati]]
+markerFile: [[Dukati]]
+defaultZoom: 11 
+maxZoom: 18
+```

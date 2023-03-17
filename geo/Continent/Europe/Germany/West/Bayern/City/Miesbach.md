@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.78,11.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Miesbach
+coordinates: [[Miesbach]]
+markerFile: [[Miesbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

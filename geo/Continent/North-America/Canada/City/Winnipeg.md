@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Winnipeg
+coordinates: [[Winnipeg]]
+markerFile: [[Winnipeg]]
+defaultZoom: 11 
+maxZoom: 18
+```

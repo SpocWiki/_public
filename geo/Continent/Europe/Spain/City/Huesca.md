@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huesca
+coordinates: [[Huesca]]
+markerFile: [[Huesca]]
+defaultZoom: 11 
+maxZoom: 18
+```

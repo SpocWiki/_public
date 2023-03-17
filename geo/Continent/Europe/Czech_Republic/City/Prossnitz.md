@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prossnitz
+coordinates: [[Prossnitz]]
+markerFile: [[Prossnitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

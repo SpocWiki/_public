@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Memmingen
+coordinates: [[Memmingen]]
+markerFile: [[Memmingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

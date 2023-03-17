@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Galashiels
+coordinates: [[Galashiels]]
+markerFile: [[Galashiels]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sofia
+coordinates: [[Sofia]]
+markerFile: [[Sofia]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Biswang
+coordinates: [[Biswang]]
+markerFile: [[Biswang]]
+defaultZoom: 11 
+maxZoom: 18
+```

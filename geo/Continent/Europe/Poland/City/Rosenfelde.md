@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosenfelde
+coordinates: [[Rosenfelde]]
+markerFile: [[Rosenfelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

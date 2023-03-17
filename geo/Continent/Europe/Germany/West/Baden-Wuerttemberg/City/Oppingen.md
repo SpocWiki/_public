@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oppingen
+coordinates: [[Oppingen]]
+markerFile: [[Oppingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

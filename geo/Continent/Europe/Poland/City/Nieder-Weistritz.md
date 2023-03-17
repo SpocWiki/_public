@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nieder-Weistritz
+coordinates: [[Nieder-Weistritz]]
+markerFile: [[Nieder-Weistritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

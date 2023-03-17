@@ -1,4 +1,4 @@
----
+﻿---
 location: [37.23,14.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Caltagirone
+coordinates: [[Caltagirone]]
+markerFile: [[Caltagirone]]
+defaultZoom: 11 
+maxZoom: 18
+```

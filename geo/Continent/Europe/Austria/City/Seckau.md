@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seckau
+coordinates: [[Seckau]]
+markerFile: [[Seckau]]
+defaultZoom: 11 
+maxZoom: 18
+```

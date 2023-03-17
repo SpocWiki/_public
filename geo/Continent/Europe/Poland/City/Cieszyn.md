@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cieszyn
+coordinates: [[Cieszyn]]
+markerFile: [[Cieszyn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.65,9]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haisenhaus
+coordinates: [[Haisenhaus]]
+markerFile: [[Haisenhaus]]
+defaultZoom: 11 
+maxZoom: 18
+```

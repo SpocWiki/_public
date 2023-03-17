@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.35,38.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wenew
+coordinates: [[Wenew]]
+markerFile: [[Wenew]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tura
+coordinates: [[Tura]]
+markerFile: [[Tura]]
+defaultZoom: 11 
+maxZoom: 18
+```

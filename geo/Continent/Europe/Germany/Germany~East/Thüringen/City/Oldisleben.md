@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oldisleben
+coordinates: [[Oldisleben]]
+markerFile: [[Oldisleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

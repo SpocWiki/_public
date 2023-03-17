@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergamo
+coordinates: [[Bergamo]]
+markerFile: [[Bergamo]]
+defaultZoom: 11 
+maxZoom: 18
+```

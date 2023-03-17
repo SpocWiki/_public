@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Macclesfield
+coordinates: [[Macclesfield]]
+markerFile: [[Macclesfield]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Newbury
+coordinates: [[Newbury]]
+markerFile: [[Newbury]]
+defaultZoom: 11 
+maxZoom: 18
+```

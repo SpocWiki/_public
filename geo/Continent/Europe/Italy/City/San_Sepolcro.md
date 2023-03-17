@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: San Sepolcro
+coordinates: [[San Sepolcro]]
+markerFile: [[San Sepolcro]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osterode~Ostpommern
+coordinates: [[Osterode~Ostpommern]]
+markerFile: [[Osterode~Ostpommern]]
+defaultZoom: 11 
+maxZoom: 18
+```

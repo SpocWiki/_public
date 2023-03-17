@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wernswig
+coordinates: [[Wernswig]]
+markerFile: [[Wernswig]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [16.75,-62.2]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brades
+coordinates: [[Brades]]
+markerFile: [[Brades]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wehlau
+coordinates: [[Wehlau]]
+markerFile: [[Wehlau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zarskoje-Selo
+coordinates: [[Zarskoje-Selo]]
+markerFile: [[Zarskoje-Selo]]
+defaultZoom: 11 
+maxZoom: 18
+```

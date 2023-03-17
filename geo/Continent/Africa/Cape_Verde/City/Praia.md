@@ -1,4 +1,4 @@
----
+﻿---
 location: [14.91667,-23.51667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Praia
+coordinates: [[Praia]]
+markerFile: [[Praia]]
+defaultZoom: 11 
+maxZoom: 18
+```

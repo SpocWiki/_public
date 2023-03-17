@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schmuecke
+coordinates: [[Schmuecke]]
+markerFile: [[Schmuecke]]
+defaultZoom: 11 
+maxZoom: 18
+```

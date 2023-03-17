@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Raima
+coordinates: [[Raima]]
+markerFile: [[Raima]]
+defaultZoom: 11 
+maxZoom: 18
+```

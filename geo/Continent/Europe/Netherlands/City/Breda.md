@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Breda
+coordinates: [[Breda]]
+markerFile: [[Breda]]
+defaultZoom: 11 
+maxZoom: 18
+```

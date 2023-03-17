@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Olbersdorf
+coordinates: [[Olbersdorf]]
+markerFile: [[Olbersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

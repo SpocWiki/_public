@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chichester
+coordinates: [[Chichester]]
+markerFile: [[Chichester]]
+defaultZoom: 11 
+maxZoom: 18
+```

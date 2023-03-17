@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pasajes
+coordinates: [[Pasajes]]
+markerFile: [[Pasajes]]
+defaultZoom: 11 
+maxZoom: 18
+```

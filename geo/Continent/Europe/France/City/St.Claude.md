@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Claude
+coordinates: [[St.Claude]]
+markerFile: [[St.Claude]]
+defaultZoom: 11 
+maxZoom: 18
+```

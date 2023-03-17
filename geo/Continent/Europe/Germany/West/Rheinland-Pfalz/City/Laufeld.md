@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.08,6.87]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laufeld
+coordinates: [[Laufeld]]
+markerFile: [[Laufeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

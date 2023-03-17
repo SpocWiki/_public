@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stadthagen
+coordinates: [[Stadthagen]]
+markerFile: [[Stadthagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Springfield
+coordinates: [[Springfield]]
+markerFile: [[Springfield]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Salzbergen
+coordinates: [[Salzbergen]]
+markerFile: [[Salzbergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

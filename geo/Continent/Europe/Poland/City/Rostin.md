@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rostin
+coordinates: [[Rostin]]
+markerFile: [[Rostin]]
+defaultZoom: 11 
+maxZoom: 18
+```

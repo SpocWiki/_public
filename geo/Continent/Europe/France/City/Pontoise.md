@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pontoise
+coordinates: [[Pontoise]]
+markerFile: [[Pontoise]]
+defaultZoom: 11 
+maxZoom: 18
+```

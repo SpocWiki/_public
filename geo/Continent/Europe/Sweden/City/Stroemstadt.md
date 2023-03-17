@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stroemstadt
+coordinates: [[Stroemstadt]]
+markerFile: [[Stroemstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

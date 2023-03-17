@@ -1,4 +1,4 @@
----
+﻿---
 location: [36.78,3.05]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Algier=Algiers
+coordinates: [[Algier=Algiers]]
+markerFile: [[Algier=Algiers]]
+defaultZoom: 11 
+maxZoom: 18
+```

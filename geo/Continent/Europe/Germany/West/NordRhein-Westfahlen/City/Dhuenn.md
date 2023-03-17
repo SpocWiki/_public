@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dhuenn
+coordinates: [[Dhuenn]]
+markerFile: [[Dhuenn]]
+defaultZoom: 11 
+maxZoom: 18
+```

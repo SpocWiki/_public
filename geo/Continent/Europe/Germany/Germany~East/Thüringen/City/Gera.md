@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gera
+coordinates: [[Gera]]
+markerFile: [[Gera]]
+defaultZoom: 11 
+maxZoom: 18
+```

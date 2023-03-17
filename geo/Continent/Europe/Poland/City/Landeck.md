@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landeck
+coordinates: [[Landeck]]
+markerFile: [[Landeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pappenheim
+coordinates: [[Pappenheim]]
+markerFile: [[Pappenheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goettingen
+coordinates: [[Goettingen]]
+markerFile: [[Goettingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

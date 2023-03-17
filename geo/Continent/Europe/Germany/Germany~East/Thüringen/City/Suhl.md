@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Suhl
+coordinates: [[Suhl]]
+markerFile: [[Suhl]]
+defaultZoom: 11 
+maxZoom: 18
+```

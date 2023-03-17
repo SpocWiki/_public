@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dannenberg
+coordinates: [[Dannenberg]]
+markerFile: [[Dannenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

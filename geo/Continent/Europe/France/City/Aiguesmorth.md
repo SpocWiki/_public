@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aiguesmorth
+coordinates: [[Aiguesmorth]]
+markerFile: [[Aiguesmorth]]
+defaultZoom: 11 
+maxZoom: 18
+```

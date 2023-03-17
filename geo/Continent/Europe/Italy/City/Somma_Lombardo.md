@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Somma Lombardo
+coordinates: [[Somma Lombardo]]
+markerFile: [[Somma Lombardo]]
+defaultZoom: 11 
+maxZoom: 18
+```

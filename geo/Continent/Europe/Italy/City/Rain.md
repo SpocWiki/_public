@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rain
+coordinates: [[Rain]]
+markerFile: [[Rain]]
+defaultZoom: 11 
+maxZoom: 18
+```

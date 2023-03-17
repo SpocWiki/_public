@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.12,5.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chaumoret sur Bassigny
+coordinates: [[Chaumoret sur Bassigny]]
+markerFile: [[Chaumoret sur Bassigny]]
+defaultZoom: 11 
+maxZoom: 18
+```

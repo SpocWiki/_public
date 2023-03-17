@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radolfzell
+coordinates: [[Radolfzell]]
+markerFile: [[Radolfzell]]
+defaultZoom: 11 
+maxZoom: 18
+```

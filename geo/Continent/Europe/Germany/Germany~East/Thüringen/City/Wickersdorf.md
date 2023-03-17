@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wickersdorf
+coordinates: [[Wickersdorf]]
+markerFile: [[Wickersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

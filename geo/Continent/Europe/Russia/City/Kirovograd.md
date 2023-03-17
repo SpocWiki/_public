@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirovograd
+coordinates: [[Kirovograd]]
+markerFile: [[Kirovograd]]
+defaultZoom: 11 
+maxZoom: 18
+```

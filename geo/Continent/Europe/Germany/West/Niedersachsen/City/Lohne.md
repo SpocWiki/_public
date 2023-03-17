@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lohne
+coordinates: [[Lohne]]
+markerFile: [[Lohne]]
+defaultZoom: 11 
+maxZoom: 18
+```

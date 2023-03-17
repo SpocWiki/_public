@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schweighausen
+coordinates: [[Schweighausen]]
+markerFile: [[Schweighausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

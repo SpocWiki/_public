@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.13,20.58]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lidzbark Warmiński
+coordinates: [[Lidzbark Warmiński]]
+markerFile: [[Lidzbark Warmiński]]
+defaultZoom: 11 
+maxZoom: 18
+```

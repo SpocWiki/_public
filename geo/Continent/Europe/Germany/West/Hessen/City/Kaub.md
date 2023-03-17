@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.1,7.78]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaub
+coordinates: [[Kaub]]
+markerFile: [[Kaub]]
+defaultZoom: 11 
+maxZoom: 18
+```

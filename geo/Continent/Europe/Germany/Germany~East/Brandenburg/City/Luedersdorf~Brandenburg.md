@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luedersdorf~Brandenburg
+coordinates: [[Luedersdorf~Brandenburg]]
+markerFile: [[Luedersdorf~Brandenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

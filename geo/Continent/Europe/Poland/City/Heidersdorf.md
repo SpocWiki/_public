@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heidersdorf
+coordinates: [[Heidersdorf]]
+markerFile: [[Heidersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

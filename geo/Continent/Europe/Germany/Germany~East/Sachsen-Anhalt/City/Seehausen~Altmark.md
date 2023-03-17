@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seehausen~Altmark
+coordinates: [[Seehausen~Altmark]]
+markerFile: [[Seehausen~Altmark]]
+defaultZoom: 11 
+maxZoom: 18
+```

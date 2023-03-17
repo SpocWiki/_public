@@ -1,4 +1,4 @@
----
+﻿---
 location: [22.56,88.36]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Calcutta=Kalkutta
+coordinates: [[Calcutta=Kalkutta]]
+markerFile: [[Calcutta=Kalkutta]]
+defaultZoom: 11 
+maxZoom: 18
+```

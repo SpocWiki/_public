@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Charlottetown
+coordinates: [[Charlottetown]]
+markerFile: [[Charlottetown]]
+defaultZoom: 11 
+maxZoom: 18
+```

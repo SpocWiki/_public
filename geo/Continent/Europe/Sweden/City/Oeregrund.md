@@ -1,4 +1,4 @@
----
+﻿---
 location: [60.35,18.43]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oeregrund
+coordinates: [[Oeregrund]]
+markerFile: [[Oeregrund]]
+defaultZoom: 11 
+maxZoom: 18
+```

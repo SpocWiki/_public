@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: West Bromwich
+coordinates: [[West Bromwich]]
+markerFile: [[West Bromwich]]
+defaultZoom: 11 
+maxZoom: 18
+```

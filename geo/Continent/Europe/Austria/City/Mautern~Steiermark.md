@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.4,14.32]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mautern~Steiermark
+coordinates: [[Mautern~Steiermark]]
+markerFile: [[Mautern~Steiermark]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Abja
+coordinates: [[Abja]]
+markerFile: [[Abja]]
+defaultZoom: 11 
+maxZoom: 18
+```

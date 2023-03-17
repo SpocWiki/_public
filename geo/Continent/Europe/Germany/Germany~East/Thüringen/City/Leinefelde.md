@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leinefelde
+coordinates: [[Leinefelde]]
+markerFile: [[Leinefelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

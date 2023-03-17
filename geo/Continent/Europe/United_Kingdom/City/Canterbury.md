@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Canterbury
+coordinates: [[Canterbury]]
+markerFile: [[Canterbury]]
+defaultZoom: 11 
+maxZoom: 18
+```

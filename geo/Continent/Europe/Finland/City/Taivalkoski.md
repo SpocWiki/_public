@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Taivalkoski
+coordinates: [[Taivalkoski]]
+markerFile: [[Taivalkoski]]
+defaultZoom: 11 
+maxZoom: 18
+```

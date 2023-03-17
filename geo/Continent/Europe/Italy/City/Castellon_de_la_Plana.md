@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Castellon de la Plana
+coordinates: [[Castellon de la Plana]]
+markerFile: [[Castellon de la Plana]]
+defaultZoom: 11 
+maxZoom: 18
+```

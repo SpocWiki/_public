@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Triesen
+coordinates: [[Triesen]]
+markerFile: [[Triesen]]
+defaultZoom: 11 
+maxZoom: 18
+```

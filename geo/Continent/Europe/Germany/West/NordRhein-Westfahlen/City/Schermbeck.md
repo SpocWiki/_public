@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schermbeck
+coordinates: [[Schermbeck]]
+markerFile: [[Schermbeck]]
+defaultZoom: 11 
+maxZoom: 18
+```

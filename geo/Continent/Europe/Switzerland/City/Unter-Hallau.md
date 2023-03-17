@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Unter-Hallau
+coordinates: [[Unter-Hallau]]
+markerFile: [[Unter-Hallau]]
+defaultZoom: 11 
+maxZoom: 18
+```

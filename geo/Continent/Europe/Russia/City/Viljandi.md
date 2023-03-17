@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Viljandi
+coordinates: [[Viljandi]]
+markerFile: [[Viljandi]]
+defaultZoom: 11 
+maxZoom: 18
+```

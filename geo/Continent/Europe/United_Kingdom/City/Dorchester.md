@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dorchester
+coordinates: [[Dorchester]]
+markerFile: [[Dorchester]]
+defaultZoom: 11 
+maxZoom: 18
+```

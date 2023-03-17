@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schierke
+coordinates: [[Schierke]]
+markerFile: [[Schierke]]
+defaultZoom: 11 
+maxZoom: 18
+```

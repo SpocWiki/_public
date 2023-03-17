@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Auvere
+coordinates: [[Auvere]]
+markerFile: [[Auvere]]
+defaultZoom: 11 
+maxZoom: 18
+```

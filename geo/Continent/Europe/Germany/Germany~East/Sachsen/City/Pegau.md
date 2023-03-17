@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pegau
+coordinates: [[Pegau]]
+markerFile: [[Pegau]]
+defaultZoom: 11 
+maxZoom: 18
+```

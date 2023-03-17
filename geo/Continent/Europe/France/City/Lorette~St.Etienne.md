@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lorette~St.Etienne
+coordinates: [[Lorette~St.Etienne]]
+markerFile: [[Lorette~St.Etienne]]
+defaultZoom: 11 
+maxZoom: 18
+```

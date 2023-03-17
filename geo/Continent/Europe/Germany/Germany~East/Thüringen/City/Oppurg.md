@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oppurg
+coordinates: [[Oppurg]]
+markerFile: [[Oppurg]]
+defaultZoom: 11 
+maxZoom: 18
+```

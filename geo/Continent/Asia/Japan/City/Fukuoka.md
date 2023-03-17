@@ -1,4 +1,4 @@
----
+﻿---
 location: [33.48,130.35]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fukuoka
+coordinates: [[Fukuoka]]
+markerFile: [[Fukuoka]]
+defaultZoom: 11 
+maxZoom: 18
+```

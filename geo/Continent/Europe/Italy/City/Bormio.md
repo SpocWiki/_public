@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.28,9.98]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bormio
+coordinates: [[Bormio]]
+markerFile: [[Bormio]]
+defaultZoom: 11 
+maxZoom: 18
+```

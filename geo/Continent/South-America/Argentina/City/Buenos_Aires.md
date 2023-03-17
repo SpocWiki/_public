@@ -1,4 +1,4 @@
----
+﻿---
 location: [-34.62,-58.41]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Buenos Aires
+coordinates: [[Buenos Aires]]
+markerFile: [[Buenos Aires]]
+defaultZoom: 11 
+maxZoom: 18
+```

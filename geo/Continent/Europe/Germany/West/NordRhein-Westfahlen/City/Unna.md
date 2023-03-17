@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Unna
+coordinates: [[Unna]]
+markerFile: [[Unna]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sidmouth
+coordinates: [[Sidmouth]]
+markerFile: [[Sidmouth]]
+defaultZoom: 11 
+maxZoom: 18
+```

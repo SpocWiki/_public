@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lerwick
+coordinates: [[Lerwick]]
+markerFile: [[Lerwick]]
+defaultZoom: 11 
+maxZoom: 18
+```

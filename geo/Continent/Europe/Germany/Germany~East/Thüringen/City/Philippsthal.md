@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Philippsthal
+coordinates: [[Philippsthal]]
+markerFile: [[Philippsthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

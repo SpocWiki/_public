@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Noworossijsk
+coordinates: [[Noworossijsk]]
+markerFile: [[Noworossijsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

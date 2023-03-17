@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sundsvall
+coordinates: [[Sundsvall]]
+markerFile: [[Sundsvall]]
+defaultZoom: 11 
+maxZoom: 18
+```

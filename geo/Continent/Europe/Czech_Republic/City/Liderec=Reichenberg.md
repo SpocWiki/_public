@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liderec=Reichenberg
+coordinates: [[Liderec=Reichenberg]]
+markerFile: [[Liderec=Reichenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

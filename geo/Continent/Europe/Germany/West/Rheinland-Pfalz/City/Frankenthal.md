@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Frankenthal
+coordinates: [[Frankenthal]]
+markerFile: [[Frankenthal]]
+defaultZoom: 11 
+maxZoom: 18
+```

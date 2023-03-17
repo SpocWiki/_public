@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malente-Gremsmuehlen
+coordinates: [[Malente-Gremsmuehlen]]
+markerFile: [[Malente-Gremsmuehlen]]
+defaultZoom: 11 
+maxZoom: 18
+```

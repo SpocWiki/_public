@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.63,11.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kloetze
+coordinates: [[Kloetze]]
+markerFile: [[Kloetze]]
+defaultZoom: 11 
+maxZoom: 18
+```

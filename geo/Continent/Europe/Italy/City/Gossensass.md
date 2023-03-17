@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gossensass
+coordinates: [[Gossensass]]
+markerFile: [[Gossensass]]
+defaultZoom: 11 
+maxZoom: 18
+```

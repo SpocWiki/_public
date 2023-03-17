@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Norrkoeping
+coordinates: [[Norrkoeping]]
+markerFile: [[Norrkoeping]]
+defaultZoom: 11 
+maxZoom: 18
+```

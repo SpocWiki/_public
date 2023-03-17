@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bantry
+coordinates: [[Bantry]]
+markerFile: [[Bantry]]
+defaultZoom: 11 
+maxZoom: 18
+```

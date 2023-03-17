@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Srogoe
+coordinates: [[Srogoe]]
+markerFile: [[Srogoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

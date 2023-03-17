@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwelin
+coordinates: [[Schwelin]]
+markerFile: [[Schwelin]]
+defaultZoom: 11 
+maxZoom: 18
+```

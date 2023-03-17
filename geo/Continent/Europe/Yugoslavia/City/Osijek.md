@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Osijek
+coordinates: [[Osijek]]
+markerFile: [[Osijek]]
+defaultZoom: 11 
+maxZoom: 18
+```

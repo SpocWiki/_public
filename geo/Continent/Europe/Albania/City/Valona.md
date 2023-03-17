@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Valona
+coordinates: [[Valona]]
+markerFile: [[Valona]]
+defaultZoom: 11 
+maxZoom: 18
+```

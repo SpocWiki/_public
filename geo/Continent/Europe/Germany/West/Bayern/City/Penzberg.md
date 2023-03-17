@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Penzberg
+coordinates: [[Penzberg]]
+markerFile: [[Penzberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

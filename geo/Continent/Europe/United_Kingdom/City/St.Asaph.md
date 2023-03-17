@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Asaph
+coordinates: [[St.Asaph]]
+markerFile: [[St.Asaph]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siculina
+coordinates: [[Siculina]]
+markerFile: [[Siculina]]
+defaultZoom: 11 
+maxZoom: 18
+```

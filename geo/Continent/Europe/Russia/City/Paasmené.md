@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Paasmené
+coordinates: [[Paasmené]]
+markerFile: [[Paasmené]]
+defaultZoom: 11 
+maxZoom: 18
+```

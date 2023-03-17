@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nendeln
+coordinates: [[Nendeln]]
+markerFile: [[Nendeln]]
+defaultZoom: 11 
+maxZoom: 18
+```

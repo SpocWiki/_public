@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ober-Glogau
+coordinates: [[Ober-Glogau]]
+markerFile: [[Ober-Glogau]]
+defaultZoom: 11 
+maxZoom: 18
+```

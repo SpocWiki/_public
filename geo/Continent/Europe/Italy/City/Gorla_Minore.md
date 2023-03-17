@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gorla Minore
+coordinates: [[Gorla Minore]]
+markerFile: [[Gorla Minore]]
+defaultZoom: 11 
+maxZoom: 18
+```

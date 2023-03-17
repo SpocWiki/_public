@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krumhermersdorf
+coordinates: [[Krumhermersdorf]]
+markerFile: [[Krumhermersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

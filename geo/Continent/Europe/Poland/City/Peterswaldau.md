@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peterswaldau
+coordinates: [[Peterswaldau]]
+markerFile: [[Peterswaldau]]
+defaultZoom: 11 
+maxZoom: 18
+```

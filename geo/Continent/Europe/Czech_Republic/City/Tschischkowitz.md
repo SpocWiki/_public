@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tschischkowitz
+coordinates: [[Tschischkowitz]]
+markerFile: [[Tschischkowitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

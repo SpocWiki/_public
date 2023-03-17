@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sparow
+coordinates: [[Sparow]]
+markerFile: [[Sparow]]
+defaultZoom: 11 
+maxZoom: 18
+```

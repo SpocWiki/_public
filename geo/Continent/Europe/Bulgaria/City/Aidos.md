@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aidos
+coordinates: [[Aidos]]
+markerFile: [[Aidos]]
+defaultZoom: 11 
+maxZoom: 18
+```

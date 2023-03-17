@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ducherow
+coordinates: [[Ducherow]]
+markerFile: [[Ducherow]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Volkach
+coordinates: [[Volkach]]
+markerFile: [[Volkach]]
+defaultZoom: 11 
+maxZoom: 18
+```

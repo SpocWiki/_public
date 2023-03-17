@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.53,12.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Landshut
+coordinates: [[Landshut]]
+markerFile: [[Landshut]]
+defaultZoom: 11 
+maxZoom: 18
+```

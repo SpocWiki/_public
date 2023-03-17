@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vuonatjoiken
+coordinates: [[Vuonatjoiken]]
+markerFile: [[Vuonatjoiken]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Llandilo-Faur
+coordinates: [[Llandilo-Faur]]
+markerFile: [[Llandilo-Faur]]
+defaultZoom: 11 
+maxZoom: 18
+```

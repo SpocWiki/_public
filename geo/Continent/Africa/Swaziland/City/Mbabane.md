@@ -1,4 +1,4 @@
----
+﻿---
 location: [-26.31667,31.13333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Mbabane
+coordinates: [[Mbabane]]
+markerFile: [[Mbabane]]
+defaultZoom: 11 
+maxZoom: 18
+```

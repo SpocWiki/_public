@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skovorodino
+coordinates: [[Skovorodino]]
+markerFile: [[Skovorodino]]
+defaultZoom: 11 
+maxZoom: 18
+```

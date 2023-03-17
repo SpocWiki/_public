@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dettenhausen
+coordinates: [[Dettenhausen]]
+markerFile: [[Dettenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

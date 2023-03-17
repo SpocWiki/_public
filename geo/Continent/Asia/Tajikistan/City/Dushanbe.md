@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.55,68.8]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Dushanbe
+coordinates: [[Dushanbe]]
+markerFile: [[Dushanbe]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eglingen
+coordinates: [[Eglingen]]
+markerFile: [[Eglingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

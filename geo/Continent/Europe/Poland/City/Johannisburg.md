@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Johannisburg
+coordinates: [[Johannisburg]]
+markerFile: [[Johannisburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

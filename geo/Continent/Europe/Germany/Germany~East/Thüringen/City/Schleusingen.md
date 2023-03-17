@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schleusingen
+coordinates: [[Schleusingen]]
+markerFile: [[Schleusingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

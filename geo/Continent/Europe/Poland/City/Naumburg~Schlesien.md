@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Naumburg~Schlesien
+coordinates: [[Naumburg~Schlesien]]
+markerFile: [[Naumburg~Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

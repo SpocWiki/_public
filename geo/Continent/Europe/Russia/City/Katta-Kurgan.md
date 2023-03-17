@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Katta-Kurgan
+coordinates: [[Katta-Kurgan]]
+markerFile: [[Katta-Kurgan]]
+defaultZoom: 11 
+maxZoom: 18
+```

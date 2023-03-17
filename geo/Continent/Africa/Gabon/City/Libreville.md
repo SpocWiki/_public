@@ -1,4 +1,4 @@
----
+﻿---
 location: [0.3833333,9.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Libreville
+coordinates: [[Libreville]]
+markerFile: [[Libreville]]
+defaultZoom: 11 
+maxZoom: 18
+```

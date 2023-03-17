@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.25,-122.45]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tacoma
+coordinates: [[Tacoma]]
+markerFile: [[Tacoma]]
+defaultZoom: 11 
+maxZoom: 18
+```

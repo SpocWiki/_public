@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grono
+coordinates: [[Grono]]
+markerFile: [[Grono]]
+defaultZoom: 11 
+maxZoom: 18
+```

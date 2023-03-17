@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Teschenhagen
+coordinates: [[Teschenhagen]]
+markerFile: [[Teschenhagen]]
+defaultZoom: 11 
+maxZoom: 18
+```

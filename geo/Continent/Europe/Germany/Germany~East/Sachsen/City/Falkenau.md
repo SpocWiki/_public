@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falkenau
+coordinates: [[Falkenau]]
+markerFile: [[Falkenau]]
+defaultZoom: 11 
+maxZoom: 18
+```

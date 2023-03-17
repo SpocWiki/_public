@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hailer
+coordinates: [[Hailer]]
+markerFile: [[Hailer]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Arbon
+coordinates: [[Arbon]]
+markerFile: [[Arbon]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neustettin
+coordinates: [[Neustettin]]
+markerFile: [[Neustettin]]
+defaultZoom: 11 
+maxZoom: 18
+```

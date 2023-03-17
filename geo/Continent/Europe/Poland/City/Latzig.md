@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.2,16.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Latzig
+coordinates: [[Latzig]]
+markerFile: [[Latzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

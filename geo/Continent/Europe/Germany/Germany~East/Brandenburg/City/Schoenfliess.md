@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schoenfliess
+coordinates: [[Schoenfliess]]
+markerFile: [[Schoenfliess]]
+defaultZoom: 11 
+maxZoom: 18
+```

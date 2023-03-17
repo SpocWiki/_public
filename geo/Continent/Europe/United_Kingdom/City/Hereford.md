@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hereford
+coordinates: [[Hereford]]
+markerFile: [[Hereford]]
+defaultZoom: 11 
+maxZoom: 18
+```

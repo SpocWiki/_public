@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vesanto
+coordinates: [[Vesanto]]
+markerFile: [[Vesanto]]
+defaultZoom: 11 
+maxZoom: 18
+```

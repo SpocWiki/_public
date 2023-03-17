@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rothenburg an der Oder
+coordinates: [[Rothenburg an der Oder]]
+markerFile: [[Rothenburg an der Oder]]
+defaultZoom: 11 
+maxZoom: 18
+```

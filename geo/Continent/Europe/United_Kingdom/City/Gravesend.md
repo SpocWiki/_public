@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gravesend
+coordinates: [[Gravesend]]
+markerFile: [[Gravesend]]
+defaultZoom: 11 
+maxZoom: 18
+```

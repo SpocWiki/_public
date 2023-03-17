@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pasing
+coordinates: [[Pasing]]
+markerFile: [[Pasing]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reichelsdorf
+coordinates: [[Reichelsdorf]]
+markerFile: [[Reichelsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

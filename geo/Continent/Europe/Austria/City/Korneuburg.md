@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Korneuburg
+coordinates: [[Korneuburg]]
+markerFile: [[Korneuburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

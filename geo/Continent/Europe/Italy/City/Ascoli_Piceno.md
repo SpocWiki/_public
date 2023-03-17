@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.85,13.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ascoli Piceno
+coordinates: [[Ascoli Piceno]]
+markerFile: [[Ascoli Piceno]]
+defaultZoom: 11 
+maxZoom: 18
+```

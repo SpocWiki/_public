@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sacramento
+coordinates: [[Sacramento]]
+markerFile: [[Sacramento]]
+defaultZoom: 11 
+maxZoom: 18
+```

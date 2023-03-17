@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Piola
+coordinates: [[Piola]]
+markerFile: [[Piola]]
+defaultZoom: 11 
+maxZoom: 18
+```

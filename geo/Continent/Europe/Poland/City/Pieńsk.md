@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pieńsk
+coordinates: [[Pieńsk]]
+markerFile: [[Pieńsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Apeldoorn
+coordinates: [[Apeldoorn]]
+markerFile: [[Apeldoorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

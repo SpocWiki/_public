@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grantham
+coordinates: [[Grantham]]
+markerFile: [[Grantham]]
+defaultZoom: 11 
+maxZoom: 18
+```

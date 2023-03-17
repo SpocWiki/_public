@@ -1,4 +1,4 @@
----
+﻿---
 location: [65.18,18.73]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malae
+coordinates: [[Malae]]
+markerFile: [[Malae]]
+defaultZoom: 11 
+maxZoom: 18
+```

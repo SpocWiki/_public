@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Malchow
+coordinates: [[Malchow]]
+markerFile: [[Malchow]]
+defaultZoom: 11 
+maxZoom: 18
+```

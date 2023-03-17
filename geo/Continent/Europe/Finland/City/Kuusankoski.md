@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kuusankoski
+coordinates: [[Kuusankoski]]
+markerFile: [[Kuusankoski]]
+defaultZoom: 11 
+maxZoom: 18
+```

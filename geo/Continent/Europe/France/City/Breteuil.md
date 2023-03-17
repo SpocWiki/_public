@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Breteuil
+coordinates: [[Breteuil]]
+markerFile: [[Breteuil]]
+defaultZoom: 11 
+maxZoom: 18
+```

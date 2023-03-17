@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kronsburg
+coordinates: [[Kronsburg]]
+markerFile: [[Kronsburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

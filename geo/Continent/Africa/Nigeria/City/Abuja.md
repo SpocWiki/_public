@@ -1,4 +1,4 @@
----
+﻿---
 location: [9.066667,7.483333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Abuja
+coordinates: [[Abuja]]
+markerFile: [[Abuja]]
+defaultZoom: 11 
+maxZoom: 18
+```

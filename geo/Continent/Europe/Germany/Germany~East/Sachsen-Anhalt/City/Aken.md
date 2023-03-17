@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aken
+coordinates: [[Aken]]
+markerFile: [[Aken]]
+defaultZoom: 11 
+maxZoom: 18
+```

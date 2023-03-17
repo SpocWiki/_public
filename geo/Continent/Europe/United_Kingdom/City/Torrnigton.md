@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torrnigton
+coordinates: [[Torrnigton]]
+markerFile: [[Torrnigton]]
+defaultZoom: 11 
+maxZoom: 18
+```

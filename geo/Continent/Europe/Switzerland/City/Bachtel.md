@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bachtel
+coordinates: [[Bachtel]]
+markerFile: [[Bachtel]]
+defaultZoom: 11 
+maxZoom: 18
+```

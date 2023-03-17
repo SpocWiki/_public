@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Masun
+coordinates: [[Masun]]
+markerFile: [[Masun]]
+defaultZoom: 11 
+maxZoom: 18
+```

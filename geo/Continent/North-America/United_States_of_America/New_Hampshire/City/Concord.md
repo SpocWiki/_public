@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Concord
+coordinates: [[Concord]]
+markerFile: [[Concord]]
+defaultZoom: 11 
+maxZoom: 18
+```

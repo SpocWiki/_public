@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kremsmuenster
+coordinates: [[Kremsmuenster]]
+markerFile: [[Kremsmuenster]]
+defaultZoom: 11 
+maxZoom: 18
+```

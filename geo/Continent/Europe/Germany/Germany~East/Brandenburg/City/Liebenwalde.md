@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.88,13.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Liebenwalde
+coordinates: [[Liebenwalde]]
+markerFile: [[Liebenwalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

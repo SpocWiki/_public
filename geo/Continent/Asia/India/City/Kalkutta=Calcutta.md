@@ -20,3 +20,11 @@ tags:
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kalkutta=Calcutta
+coordinates: [[Kalkutta=Calcutta]]
+markerFile: [[Kalkutta=Calcutta]]
+defaultZoom: 11 
+maxZoom: 18
+```

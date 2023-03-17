@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberschleissheim
+coordinates: [[Oberschleissheim]]
+markerFile: [[Oberschleissheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

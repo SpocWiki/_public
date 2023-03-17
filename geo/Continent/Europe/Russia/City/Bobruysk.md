@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.15,29.23]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bobruysk
+coordinates: [[Bobruysk]]
+markerFile: [[Bobruysk]]
+defaultZoom: 11 
+maxZoom: 18
+```

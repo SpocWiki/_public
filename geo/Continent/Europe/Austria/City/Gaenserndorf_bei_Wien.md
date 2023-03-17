@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gaenserndorf bei Wien
+coordinates: [[Gaenserndorf bei Wien]]
+markerFile: [[Gaenserndorf bei Wien]]
+defaultZoom: 11 
+maxZoom: 18
+```

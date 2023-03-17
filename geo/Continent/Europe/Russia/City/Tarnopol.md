@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.55,25.6]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tarnopol
+coordinates: [[Tarnopol]]
+markerFile: [[Tarnopol]]
+defaultZoom: 11 
+maxZoom: 18
+```

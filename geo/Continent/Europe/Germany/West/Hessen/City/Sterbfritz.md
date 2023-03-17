@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sterbfritz
+coordinates: [[Sterbfritz]]
+markerFile: [[Sterbfritz]]
+defaultZoom: 11 
+maxZoom: 18
+```

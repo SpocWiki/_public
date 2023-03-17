@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Jarosla=Jaroslav
+coordinates: [[Jarosla=Jaroslav]]
+markerFile: [[Jarosla=Jaroslav]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Offenbach
+coordinates: [[Offenbach]]
+markerFile: [[Offenbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

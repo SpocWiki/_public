@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Karghalik
+coordinates: [[Karghalik]]
+markerFile: [[Karghalik]]
+defaultZoom: 11 
+maxZoom: 18
+```

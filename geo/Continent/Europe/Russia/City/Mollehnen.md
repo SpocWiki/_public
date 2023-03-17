@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mollehnen
+coordinates: [[Mollehnen]]
+markerFile: [[Mollehnen]]
+defaultZoom: 11 
+maxZoom: 18
+```

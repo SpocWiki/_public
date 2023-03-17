@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Windesheim
+coordinates: [[Windesheim]]
+markerFile: [[Windesheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hollola
+coordinates: [[Hollola]]
+markerFile: [[Hollola]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fontenay
+coordinates: [[Fontenay]]
+markerFile: [[Fontenay]]
+defaultZoom: 11 
+maxZoom: 18
+```

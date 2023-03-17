@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: MÜhlacker
+coordinates: [[MÜhlacker]]
+markerFile: [[MÜhlacker]]
+defaultZoom: 11 
+maxZoom: 18
+```

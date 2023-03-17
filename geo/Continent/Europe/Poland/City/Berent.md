@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Berent
+coordinates: [[Berent]]
+markerFile: [[Berent]]
+defaultZoom: 11 
+maxZoom: 18
+```

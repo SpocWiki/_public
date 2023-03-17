@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Morup
+coordinates: [[Morup]]
+markerFile: [[Morup]]
+defaultZoom: 11 
+maxZoom: 18
+```

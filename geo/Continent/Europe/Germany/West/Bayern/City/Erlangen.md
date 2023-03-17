@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Erlangen
+coordinates: [[Erlangen]]
+markerFile: [[Erlangen]]
+defaultZoom: 11 
+maxZoom: 18
+```

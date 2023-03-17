@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koenigshuette
+coordinates: [[Koenigshuette]]
+markerFile: [[Koenigshuette]]
+defaultZoom: 11 
+maxZoom: 18
+```

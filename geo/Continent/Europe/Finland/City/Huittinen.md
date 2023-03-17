@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Huittinen
+coordinates: [[Huittinen]]
+markerFile: [[Huittinen]]
+defaultZoom: 11 
+maxZoom: 18
+```

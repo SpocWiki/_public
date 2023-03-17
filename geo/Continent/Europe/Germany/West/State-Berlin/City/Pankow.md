@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pankow
+coordinates: [[Pankow]]
+markerFile: [[Pankow]]
+defaultZoom: 11 
+maxZoom: 18
+```

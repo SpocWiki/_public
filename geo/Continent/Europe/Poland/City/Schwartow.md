@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwartow
+coordinates: [[Schwartow]]
+markerFile: [[Schwartow]]
+defaultZoom: 11 
+maxZoom: 18
+```

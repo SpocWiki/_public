@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eppingen
+coordinates: [[Eppingen]]
+markerFile: [[Eppingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Limerick
+coordinates: [[Limerick]]
+markerFile: [[Limerick]]
+defaultZoom: 11 
+maxZoom: 18
+```

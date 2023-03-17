@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heyrode
+coordinates: [[Heyrode]]
+markerFile: [[Heyrode]]
+defaultZoom: 11 
+maxZoom: 18
+```

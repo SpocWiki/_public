@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krempe
+coordinates: [[Krempe]]
+markerFile: [[Krempe]]
+defaultZoom: 11 
+maxZoom: 18
+```

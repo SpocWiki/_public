@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zwettl
+coordinates: [[Zwettl]]
+markerFile: [[Zwettl]]
+defaultZoom: 11 
+maxZoom: 18
+```

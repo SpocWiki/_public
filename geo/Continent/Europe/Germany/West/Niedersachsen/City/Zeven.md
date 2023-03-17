@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zeven
+coordinates: [[Zeven]]
+markerFile: [[Zeven]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchzarten
+coordinates: [[Kirchzarten]]
+markerFile: [[Kirchzarten]]
+defaultZoom: 11 
+maxZoom: 18
+```

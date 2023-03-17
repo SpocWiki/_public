@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carpin
+coordinates: [[Carpin]]
+markerFile: [[Carpin]]
+defaultZoom: 11 
+maxZoom: 18
+```

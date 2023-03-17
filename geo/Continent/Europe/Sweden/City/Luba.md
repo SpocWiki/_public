@@ -1,4 +1,4 @@
----
+﻿---
 location: [65.58,22.17]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Luba
+coordinates: [[Luba]]
+markerFile: [[Luba]]
+defaultZoom: 11 
+maxZoom: 18
+```

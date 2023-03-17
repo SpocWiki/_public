@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siegburg
+coordinates: [[Siegburg]]
+markerFile: [[Siegburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

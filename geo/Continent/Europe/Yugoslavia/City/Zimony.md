@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zimony
+coordinates: [[Zimony]]
+markerFile: [[Zimony]]
+defaultZoom: 11 
+maxZoom: 18
+```

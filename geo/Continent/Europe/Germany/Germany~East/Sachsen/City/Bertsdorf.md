@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bertsdorf
+coordinates: [[Bertsdorf]]
+markerFile: [[Bertsdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

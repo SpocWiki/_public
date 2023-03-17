@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oerei
+coordinates: [[Oerei]]
+markerFile: [[Oerei]]
+defaultZoom: 11 
+maxZoom: 18
+```

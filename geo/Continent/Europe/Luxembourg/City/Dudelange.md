@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dudelange
+coordinates: [[Dudelange]]
+markerFile: [[Dudelange]]
+defaultZoom: 11 
+maxZoom: 18
+```

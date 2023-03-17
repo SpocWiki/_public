@@ -1,4 +1,4 @@
----
+﻿---
 location: [12.51667,-70.01667]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Oranjestad
+coordinates: [[Oranjestad]]
+markerFile: [[Oranjestad]]
+defaultZoom: 11 
+maxZoom: 18
+```

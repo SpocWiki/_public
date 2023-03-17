@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bockhorn
+coordinates: [[Bockhorn]]
+markerFile: [[Bockhorn]]
+defaultZoom: 11 
+maxZoom: 18
+```

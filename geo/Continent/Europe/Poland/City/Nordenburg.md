@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nordenburg
+coordinates: [[Nordenburg]]
+markerFile: [[Nordenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

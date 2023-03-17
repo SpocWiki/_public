@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aussig=Usti
+coordinates: [[Aussig=Usti]]
+markerFile: [[Aussig=Usti]]
+defaultZoom: 11 
+maxZoom: 18
+```

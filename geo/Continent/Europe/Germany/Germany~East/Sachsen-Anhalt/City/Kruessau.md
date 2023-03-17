@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.27,12.07]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kruessau
+coordinates: [[Kruessau]]
+markerFile: [[Kruessau]]
+defaultZoom: 11 
+maxZoom: 18
+```

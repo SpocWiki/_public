@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Delaware
+coordinates: [[Delaware]]
+markerFile: [[Delaware]]
+defaultZoom: 11 
+maxZoom: 18
+```

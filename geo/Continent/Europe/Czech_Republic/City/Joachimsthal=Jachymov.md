@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Joachimsthal=Jachymov
+coordinates: [[Joachimsthal=Jachymov]]
+markerFile: [[Joachimsthal=Jachymov]]
+defaultZoom: 11 
+maxZoom: 18
+```

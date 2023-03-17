@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sabbioneta
+coordinates: [[Sabbioneta]]
+markerFile: [[Sabbioneta]]
+defaultZoom: 11 
+maxZoom: 18
+```

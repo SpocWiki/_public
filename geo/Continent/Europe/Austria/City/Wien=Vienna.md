@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wien=Vienna
+coordinates: [[Wien=Vienna]]
+markerFile: [[Wien=Vienna]]
+defaultZoom: 11 
+maxZoom: 18
+```

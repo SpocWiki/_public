@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Suschow
+coordinates: [[Suschow]]
+markerFile: [[Suschow]]
+defaultZoom: 11 
+maxZoom: 18
+```

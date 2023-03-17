@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bedburg
+coordinates: [[Bedburg]]
+markerFile: [[Bedburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

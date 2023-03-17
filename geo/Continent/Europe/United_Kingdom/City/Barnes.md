@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Barnes
+coordinates: [[Barnes]]
+markerFile: [[Barnes]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stonyhurst
+coordinates: [[Stonyhurst]]
+markerFile: [[Stonyhurst]]
+defaultZoom: 11 
+maxZoom: 18
+```

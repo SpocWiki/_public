@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.53,72.22]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Talas
+coordinates: [[Talas]]
+markerFile: [[Talas]]
+defaultZoom: 11 
+maxZoom: 18
+```

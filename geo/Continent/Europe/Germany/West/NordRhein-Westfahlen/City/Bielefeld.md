@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bielefeld
+coordinates: [[Bielefeld]]
+markerFile: [[Bielefeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Boitzenburg
+coordinates: [[Boitzenburg]]
+markerFile: [[Boitzenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

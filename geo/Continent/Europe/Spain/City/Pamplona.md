@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pamplona
+coordinates: [[Pamplona]]
+markerFile: [[Pamplona]]
+defaultZoom: 11 
+maxZoom: 18
+```

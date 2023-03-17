@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Twedt
+coordinates: [[Twedt]]
+markerFile: [[Twedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

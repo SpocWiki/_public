@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wels
+coordinates: [[Wels]]
+markerFile: [[Wels]]
+defaultZoom: 11 
+maxZoom: 18
+```

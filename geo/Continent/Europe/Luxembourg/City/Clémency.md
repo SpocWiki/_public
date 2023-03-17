@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Clémency
+coordinates: [[Clémency]]
+markerFile: [[Clémency]]
+defaultZoom: 11 
+maxZoom: 18
+```

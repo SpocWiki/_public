@@ -1,4 +1,4 @@
----
+﻿---
 location: [48,7.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Freiburg~Breisgau
+coordinates: [[Freiburg~Breisgau]]
+markerFile: [[Freiburg~Breisgau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Drogheda
+coordinates: [[Drogheda]]
+markerFile: [[Drogheda]]
+defaultZoom: 11 
+maxZoom: 18
+```

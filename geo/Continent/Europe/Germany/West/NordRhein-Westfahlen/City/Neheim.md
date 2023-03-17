@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neheim
+coordinates: [[Neheim]]
+markerFile: [[Neheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

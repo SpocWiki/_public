@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nogent le Rotrou
+coordinates: [[Nogent le Rotrou]]
+markerFile: [[Nogent le Rotrou]]
+defaultZoom: 11 
+maxZoom: 18
+```

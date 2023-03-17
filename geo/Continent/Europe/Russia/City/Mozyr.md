@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mozyr
+coordinates: [[Mozyr]]
+markerFile: [[Mozyr]]
+defaultZoom: 11 
+maxZoom: 18
+```

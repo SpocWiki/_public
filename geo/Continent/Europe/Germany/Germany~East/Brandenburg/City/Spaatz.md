@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spaatz
+coordinates: [[Spaatz]]
+markerFile: [[Spaatz]]
+defaultZoom: 11 
+maxZoom: 18
+```

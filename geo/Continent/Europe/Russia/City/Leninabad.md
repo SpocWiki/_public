@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.28,69.62]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leninabad
+coordinates: [[Leninabad]]
+markerFile: [[Leninabad]]
+defaultZoom: 11 
+maxZoom: 18
+```

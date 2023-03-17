@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Altheide
+coordinates: [[Altheide]]
+markerFile: [[Altheide]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.62,25.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kazanlik
+coordinates: [[Kazanlik]]
+markerFile: [[Kazanlik]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kissingen Bad
+coordinates: [[Kissingen Bad]]
+markerFile: [[Kissingen Bad]]
+defaultZoom: 11 
+maxZoom: 18
+```

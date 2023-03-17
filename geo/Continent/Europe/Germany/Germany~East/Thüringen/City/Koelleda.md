@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Koelleda
+coordinates: [[Koelleda]]
+markerFile: [[Koelleda]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fuzine
+coordinates: [[Fuzine]]
+markerFile: [[Fuzine]]
+defaultZoom: 11 
+maxZoom: 18
+```

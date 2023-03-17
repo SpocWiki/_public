@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: May
+coordinates: [[May]]
+markerFile: [[May]]
+defaultZoom: 11 
+maxZoom: 18
+```

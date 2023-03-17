@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Storsaetern
+coordinates: [[Storsaetern]]
+markerFile: [[Storsaetern]]
+defaultZoom: 11 
+maxZoom: 18
+```

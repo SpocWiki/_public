@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baerwalde
+coordinates: [[Baerwalde]]
+markerFile: [[Baerwalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

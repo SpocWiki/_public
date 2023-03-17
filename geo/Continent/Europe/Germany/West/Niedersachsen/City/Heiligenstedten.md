@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heiligenstedten
+coordinates: [[Heiligenstedten]]
+markerFile: [[Heiligenstedten]]
+defaultZoom: 11 
+maxZoom: 18
+```

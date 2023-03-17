@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pyatigorsk
+coordinates: [[Pyatigorsk]]
+markerFile: [[Pyatigorsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

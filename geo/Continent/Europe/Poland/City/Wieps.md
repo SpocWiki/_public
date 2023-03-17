@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wieps
+coordinates: [[Wieps]]
+markerFile: [[Wieps]]
+defaultZoom: 11 
+maxZoom: 18
+```

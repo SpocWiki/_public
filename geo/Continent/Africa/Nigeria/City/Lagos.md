@@ -1,4 +1,4 @@
----
+﻿---
 location: [6.45,3.4]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lagos
+coordinates: [[Lagos]]
+markerFile: [[Lagos]]
+defaultZoom: 11 
+maxZoom: 18
+```

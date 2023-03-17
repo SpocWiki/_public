@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gotska Sandoe
+coordinates: [[Gotska Sandoe]]
+markerFile: [[Gotska Sandoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

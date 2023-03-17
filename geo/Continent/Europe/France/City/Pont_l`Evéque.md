@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pont l`Evéque
+coordinates: [[Pont l`Evéque]]
+markerFile: [[Pont l`Evéque]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reading
+coordinates: [[Reading]]
+markerFile: [[Reading]]
+defaultZoom: 11 
+maxZoom: 18
+```

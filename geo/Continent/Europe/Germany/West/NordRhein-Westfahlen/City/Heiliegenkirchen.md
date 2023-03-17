@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Heiliegenkirchen
+coordinates: [[Heiliegenkirchen]]
+markerFile: [[Heiliegenkirchen]]
+defaultZoom: 11 
+maxZoom: 18
+```

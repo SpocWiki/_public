@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Radebeul
+coordinates: [[Radebeul]]
+markerFile: [[Radebeul]]
+defaultZoom: 11 
+maxZoom: 18
+```

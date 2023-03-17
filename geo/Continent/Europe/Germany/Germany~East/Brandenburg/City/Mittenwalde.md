@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mittenwalde
+coordinates: [[Mittenwalde]]
+markerFile: [[Mittenwalde]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prschewalsk=Przevalk
+coordinates: [[Prschewalsk=Przevalk]]
+markerFile: [[Prschewalsk=Przevalk]]
+defaultZoom: 11 
+maxZoom: 18
+```

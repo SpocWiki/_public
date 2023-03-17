@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nizhny Novgorod
+coordinates: [[Nizhny Novgorod]]
+markerFile: [[Nizhny Novgorod]]
+defaultZoom: 11 
+maxZoom: 18
+```

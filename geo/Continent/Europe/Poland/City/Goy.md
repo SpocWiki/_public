@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goy
+coordinates: [[Goy]]
+markerFile: [[Goy]]
+defaultZoom: 11 
+maxZoom: 18
+```

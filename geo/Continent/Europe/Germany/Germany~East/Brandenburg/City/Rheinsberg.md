@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rheinsberg
+coordinates: [[Rheinsberg]]
+markerFile: [[Rheinsberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

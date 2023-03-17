@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baierfeld
+coordinates: [[Baierfeld]]
+markerFile: [[Baierfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49,14]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prachatitz
+coordinates: [[Prachatitz]]
+markerFile: [[Prachatitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

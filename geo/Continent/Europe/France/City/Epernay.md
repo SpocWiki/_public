@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Epernay
+coordinates: [[Epernay]]
+markerFile: [[Epernay]]
+defaultZoom: 11 
+maxZoom: 18
+```

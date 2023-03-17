@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Haugesund
+coordinates: [[Haugesund]]
+markerFile: [[Haugesund]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Moeser
+coordinates: [[Moeser]]
+markerFile: [[Moeser]]
+defaultZoom: 11 
+maxZoom: 18
+```

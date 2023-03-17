@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sagan
+coordinates: [[Sagan]]
+markerFile: [[Sagan]]
+defaultZoom: 11 
+maxZoom: 18
+```

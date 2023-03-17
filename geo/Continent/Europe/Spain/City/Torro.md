@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Torro
+coordinates: [[Torro]]
+markerFile: [[Torro]]
+defaultZoom: 11 
+maxZoom: 18
+```

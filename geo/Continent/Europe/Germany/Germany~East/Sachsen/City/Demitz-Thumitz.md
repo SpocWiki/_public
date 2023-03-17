@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Demitz-Thumitz
+coordinates: [[Demitz-Thumitz]]
+markerFile: [[Demitz-Thumitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

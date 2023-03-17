@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Senghilei
+coordinates: [[Senghilei]]
+markerFile: [[Senghilei]]
+defaultZoom: 11 
+maxZoom: 18
+```

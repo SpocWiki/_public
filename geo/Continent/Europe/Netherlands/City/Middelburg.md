@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Middelburg
+coordinates: [[Middelburg]]
+markerFile: [[Middelburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

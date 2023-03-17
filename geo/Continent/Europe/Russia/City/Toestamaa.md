@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Toestamaa
+coordinates: [[Toestamaa]]
+markerFile: [[Toestamaa]]
+defaultZoom: 11 
+maxZoom: 18
+```

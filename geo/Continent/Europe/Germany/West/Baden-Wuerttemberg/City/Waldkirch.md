@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldkirch
+coordinates: [[Waldkirch]]
+markerFile: [[Waldkirch]]
+defaultZoom: 11 
+maxZoom: 18
+```

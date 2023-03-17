@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.53,16.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Falkenburg
+coordinates: [[Falkenburg]]
+markerFile: [[Falkenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

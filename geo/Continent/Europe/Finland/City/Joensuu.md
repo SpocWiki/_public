@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Joensuu
+coordinates: [[Joensuu]]
+markerFile: [[Joensuu]]
+defaultZoom: 11 
+maxZoom: 18
+```

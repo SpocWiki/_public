@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nystad=Unsikanpuski
+coordinates: [[Nystad=Unsikanpuski]]
+markerFile: [[Nystad=Unsikanpuski]]
+defaultZoom: 11 
+maxZoom: 18
+```

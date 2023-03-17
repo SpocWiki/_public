@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Holzwickede
+coordinates: [[Holzwickede]]
+markerFile: [[Holzwickede]]
+defaultZoom: 11 
+maxZoom: 18
+```

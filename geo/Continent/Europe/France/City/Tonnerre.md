@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tonnerre
+coordinates: [[Tonnerre]]
+markerFile: [[Tonnerre]]
+defaultZoom: 11 
+maxZoom: 18
+```

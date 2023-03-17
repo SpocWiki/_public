@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grignon
+coordinates: [[Grignon]]
+markerFile: [[Grignon]]
+defaultZoom: 11 
+maxZoom: 18
+```

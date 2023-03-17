@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Langenfeld
+coordinates: [[Langenfeld]]
+markerFile: [[Langenfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

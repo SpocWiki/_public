@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirensk
+coordinates: [[Kirensk]]
+markerFile: [[Kirensk]]
+defaultZoom: 11 
+maxZoom: 18
+```

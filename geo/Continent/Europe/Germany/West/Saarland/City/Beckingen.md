@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beckingen
+coordinates: [[Beckingen]]
+markerFile: [[Beckingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

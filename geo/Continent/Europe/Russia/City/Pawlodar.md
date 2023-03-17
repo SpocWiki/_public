@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pawlodar
+coordinates: [[Pawlodar]]
+markerFile: [[Pawlodar]]
+defaultZoom: 11 
+maxZoom: 18
+```

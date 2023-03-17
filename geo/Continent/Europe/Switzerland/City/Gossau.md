@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gossau
+coordinates: [[Gossau]]
+markerFile: [[Gossau]]
+defaultZoom: 11 
+maxZoom: 18
+```

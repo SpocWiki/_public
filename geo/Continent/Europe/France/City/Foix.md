@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Foix
+coordinates: [[Foix]]
+markerFile: [[Foix]]
+defaultZoom: 11 
+maxZoom: 18
+```

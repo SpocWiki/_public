@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Novi Ligure
+coordinates: [[Novi Ligure]]
+markerFile: [[Novi Ligure]]
+defaultZoom: 11 
+maxZoom: 18
+```

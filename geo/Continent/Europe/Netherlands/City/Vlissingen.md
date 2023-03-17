@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vlissingen
+coordinates: [[Vlissingen]]
+markerFile: [[Vlissingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

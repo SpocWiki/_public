@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Krozingen
+coordinates: [[Krozingen]]
+markerFile: [[Krozingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

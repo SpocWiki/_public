@@ -1,4 +1,4 @@
----
+﻿---
 location: [-25.95,32.58333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Maputo
+coordinates: [[Maputo]]
+markerFile: [[Maputo]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nitau
+coordinates: [[Nitau]]
+markerFile: [[Nitau]]
+defaultZoom: 11 
+maxZoom: 18
+```

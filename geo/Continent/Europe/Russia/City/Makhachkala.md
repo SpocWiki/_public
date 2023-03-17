@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Makhachkala
+coordinates: [[Makhachkala]]
+markerFile: [[Makhachkala]]
+defaultZoom: 11 
+maxZoom: 18
+```

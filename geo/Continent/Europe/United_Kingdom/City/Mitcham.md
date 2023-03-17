@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mitcham
+coordinates: [[Mitcham]]
+markerFile: [[Mitcham]]
+defaultZoom: 11 
+maxZoom: 18
+```

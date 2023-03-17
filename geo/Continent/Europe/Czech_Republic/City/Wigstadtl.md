@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wigstadtl
+coordinates: [[Wigstadtl]]
+markerFile: [[Wigstadtl]]
+defaultZoom: 11 
+maxZoom: 18
+```

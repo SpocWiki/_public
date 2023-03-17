@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Baume les Dames
+coordinates: [[Baume les Dames]]
+markerFile: [[Baume les Dames]]
+defaultZoom: 11 
+maxZoom: 18
+```

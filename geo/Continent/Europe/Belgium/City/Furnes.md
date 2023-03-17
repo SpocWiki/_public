@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Furnes
+coordinates: [[Furnes]]
+markerFile: [[Furnes]]
+defaultZoom: 11 
+maxZoom: 18
+```

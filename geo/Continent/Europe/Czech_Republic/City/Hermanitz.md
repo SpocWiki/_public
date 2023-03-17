@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hermanitz
+coordinates: [[Hermanitz]]
+markerFile: [[Hermanitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

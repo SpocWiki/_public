@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fallersleben
+coordinates: [[Fallersleben]]
+markerFile: [[Fallersleben]]
+defaultZoom: 11 
+maxZoom: 18
+```

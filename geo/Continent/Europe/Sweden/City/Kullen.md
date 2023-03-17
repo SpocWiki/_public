@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kullen
+coordinates: [[Kullen]]
+markerFile: [[Kullen]]
+defaultZoom: 11 
+maxZoom: 18
+```

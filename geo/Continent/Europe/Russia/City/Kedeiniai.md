@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kedeiniai
+coordinates: [[Kedeiniai]]
+markerFile: [[Kedeiniai]]
+defaultZoom: 11 
+maxZoom: 18
+```

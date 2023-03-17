@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mauerstetten
+coordinates: [[Mauerstetten]]
+markerFile: [[Mauerstetten]]
+defaultZoom: 11 
+maxZoom: 18
+```

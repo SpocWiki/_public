@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pombal
+coordinates: [[Pombal]]
+markerFile: [[Pombal]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lymm
+coordinates: [[Lymm]]
+markerFile: [[Lymm]]
+defaultZoom: 11 
+maxZoom: 18
+```

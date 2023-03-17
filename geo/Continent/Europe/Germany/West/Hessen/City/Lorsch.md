@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.65,8.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lorsch
+coordinates: [[Lorsch]]
+markerFile: [[Lorsch]]
+defaultZoom: 11 
+maxZoom: 18
+```

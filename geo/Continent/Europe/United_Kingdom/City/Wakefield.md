@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wakefield
+coordinates: [[Wakefield]]
+markerFile: [[Wakefield]]
+defaultZoom: 11 
+maxZoom: 18
+```

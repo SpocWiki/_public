@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Slutzk
+coordinates: [[Slutzk]]
+markerFile: [[Slutzk]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gransee
+coordinates: [[Gransee]]
+markerFile: [[Gransee]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fresenburg
+coordinates: [[Fresenburg]]
+markerFile: [[Fresenburg]]
+defaultZoom: 11 
+maxZoom: 18
+```

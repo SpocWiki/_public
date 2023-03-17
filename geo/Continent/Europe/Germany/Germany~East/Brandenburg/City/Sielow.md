@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sielow
+coordinates: [[Sielow]]
+markerFile: [[Sielow]]
+defaultZoom: 11 
+maxZoom: 18
+```

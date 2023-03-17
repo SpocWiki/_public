@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cento
+coordinates: [[Cento]]
+markerFile: [[Cento]]
+defaultZoom: 11 
+maxZoom: 18
+```

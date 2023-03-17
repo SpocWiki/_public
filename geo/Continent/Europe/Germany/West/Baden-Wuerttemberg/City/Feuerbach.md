@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Feuerbach
+coordinates: [[Feuerbach]]
+markerFile: [[Feuerbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

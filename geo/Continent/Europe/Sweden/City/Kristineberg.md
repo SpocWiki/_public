@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kristineberg
+coordinates: [[Kristineberg]]
+markerFile: [[Kristineberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

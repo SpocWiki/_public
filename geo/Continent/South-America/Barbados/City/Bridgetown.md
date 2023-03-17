@@ -1,4 +1,4 @@
----
+﻿---
 location: [13,-59.53333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::32]
 
+
+```leaflet
+id: Bridgetown
+coordinates: [[Bridgetown]]
+markerFile: [[Bridgetown]]
+defaultZoom: 11 
+maxZoom: 18
+```

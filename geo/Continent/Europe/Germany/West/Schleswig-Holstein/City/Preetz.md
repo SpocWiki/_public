@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Preetz
+coordinates: [[Preetz]]
+markerFile: [[Preetz]]
+defaultZoom: 11 
+maxZoom: 18
+```

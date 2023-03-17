@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Winsen an der Luhe
+coordinates: [[Winsen an der Luhe]]
+markerFile: [[Winsen an der Luhe]]
+defaultZoom: 11 
+maxZoom: 18
+```

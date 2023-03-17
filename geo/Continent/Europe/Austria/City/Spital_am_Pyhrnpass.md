@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Spital am Pyhrnpass
+coordinates: [[Spital am Pyhrnpass]]
+markerFile: [[Spital am Pyhrnpass]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gomel
+coordinates: [[Gomel]]
+markerFile: [[Gomel]]
+defaultZoom: 11 
+maxZoom: 18
+```

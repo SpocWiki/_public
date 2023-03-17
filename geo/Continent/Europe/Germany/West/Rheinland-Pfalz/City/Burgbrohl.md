@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Burgbrohl
+coordinates: [[Burgbrohl]]
+markerFile: [[Burgbrohl]]
+defaultZoom: 11 
+maxZoom: 18
+```

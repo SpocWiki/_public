@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.5,31.27]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Chermigov
+coordinates: [[Chermigov]]
+markerFile: [[Chermigov]]
+defaultZoom: 11 
+maxZoom: 18
+```

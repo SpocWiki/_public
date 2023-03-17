@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.63,8.88]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nufringen
+coordinates: [[Nufringen]]
+markerFile: [[Nufringen]]
+defaultZoom: 11 
+maxZoom: 18
+```

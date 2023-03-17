@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Panevezys
+coordinates: [[Panevezys]]
+markerFile: [[Panevezys]]
+defaultZoom: 11 
+maxZoom: 18
+```

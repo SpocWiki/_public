@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Calmbach
+coordinates: [[Calmbach]]
+markerFile: [[Calmbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

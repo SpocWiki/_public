@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Skudenaeshavn
+coordinates: [[Skudenaeshavn]]
+markerFile: [[Skudenaeshavn]]
+defaultZoom: 11 
+maxZoom: 18
+```

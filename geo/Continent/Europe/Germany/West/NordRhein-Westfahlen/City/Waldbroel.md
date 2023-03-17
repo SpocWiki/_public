@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Waldbroel
+coordinates: [[Waldbroel]]
+markerFile: [[Waldbroel]]
+defaultZoom: 11 
+maxZoom: 18
+```

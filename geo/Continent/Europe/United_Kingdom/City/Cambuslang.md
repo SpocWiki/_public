@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Cambuslang
+coordinates: [[Cambuslang]]
+markerFile: [[Cambuslang]]
+defaultZoom: 11 
+maxZoom: 18
+```

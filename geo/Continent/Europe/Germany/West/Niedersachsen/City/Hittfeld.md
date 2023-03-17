@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hittfeld
+coordinates: [[Hittfeld]]
+markerFile: [[Hittfeld]]
+defaultZoom: 11 
+maxZoom: 18
+```

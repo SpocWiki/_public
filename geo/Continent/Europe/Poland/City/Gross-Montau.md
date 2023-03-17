@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gross-Montau
+coordinates: [[Gross-Montau]]
+markerFile: [[Gross-Montau]]
+defaultZoom: 11 
+maxZoom: 18
+```

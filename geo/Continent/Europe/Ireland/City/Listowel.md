@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Listowel
+coordinates: [[Listowel]]
+markerFile: [[Listowel]]
+defaultZoom: 11 
+maxZoom: 18
+```

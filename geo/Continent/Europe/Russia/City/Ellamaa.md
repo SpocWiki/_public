@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ellamaa
+coordinates: [[Ellamaa]]
+markerFile: [[Ellamaa]]
+defaultZoom: 11 
+maxZoom: 18
+```

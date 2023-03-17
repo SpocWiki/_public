@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ronne
+coordinates: [[Ronne]]
+markerFile: [[Ronne]]
+defaultZoom: 11 
+maxZoom: 18
+```

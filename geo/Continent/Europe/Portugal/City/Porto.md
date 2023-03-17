@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Porto
+coordinates: [[Porto]]
+markerFile: [[Porto]]
+defaultZoom: 11 
+maxZoom: 18
+```

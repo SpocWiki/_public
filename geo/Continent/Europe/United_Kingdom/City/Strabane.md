@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Strabane
+coordinates: [[Strabane]]
+markerFile: [[Strabane]]
+defaultZoom: 11 
+maxZoom: 18
+```

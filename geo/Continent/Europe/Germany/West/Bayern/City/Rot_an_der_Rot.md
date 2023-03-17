@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rot an der Rot
+coordinates: [[Rot an der Rot]]
+markerFile: [[Rot an der Rot]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Itzehoe
+coordinates: [[Itzehoe]]
+markerFile: [[Itzehoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

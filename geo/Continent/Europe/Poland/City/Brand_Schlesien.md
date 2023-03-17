@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Brand/Schlesien
+coordinates: [[Brand/Schlesien]]
+markerFile: [[Brand/Schlesien]]
+defaultZoom: 11 
+maxZoom: 18
+```

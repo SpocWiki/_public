@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pollanten
+coordinates: [[Pollanten]]
+markerFile: [[Pollanten]]
+defaultZoom: 11 
+maxZoom: 18
+```

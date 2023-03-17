@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gunzenhausen
+coordinates: [[Gunzenhausen]]
+markerFile: [[Gunzenhausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

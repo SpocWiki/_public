@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirchheim
+coordinates: [[Kirchheim]]
+markerFile: [[Kirchheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vernawahlshausen
+coordinates: [[Vernawahlshausen]]
+markerFile: [[Vernawahlshausen]]
+defaultZoom: 11 
+maxZoom: 18
+```

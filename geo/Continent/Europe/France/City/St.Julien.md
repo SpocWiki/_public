@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Julien
+coordinates: [[St.Julien]]
+markerFile: [[St.Julien]]
+defaultZoom: 11 
+maxZoom: 18
+```

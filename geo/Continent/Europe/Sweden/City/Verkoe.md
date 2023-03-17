@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Verkoe
+coordinates: [[Verkoe]]
+markerFile: [[Verkoe]]
+defaultZoom: 11 
+maxZoom: 18
+```

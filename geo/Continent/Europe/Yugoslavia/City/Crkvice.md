@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Crkvice
+coordinates: [[Crkvice]]
+markerFile: [[Crkvice]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Philippopel=Plovdir
+coordinates: [[Philippopel=Plovdir]]
+markerFile: [[Philippopel=Plovdir]]
+defaultZoom: 11 
+maxZoom: 18
+```

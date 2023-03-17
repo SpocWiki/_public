@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goettweig
+coordinates: [[Goettweig]]
+markerFile: [[Goettweig]]
+defaultZoom: 11 
+maxZoom: 18
+```

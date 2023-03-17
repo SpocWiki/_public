@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Fritzlar
+coordinates: [[Fritzlar]]
+markerFile: [[Fritzlar]]
+defaultZoom: 11 
+maxZoom: 18
+```

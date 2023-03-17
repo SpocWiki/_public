@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.85,16.85]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zalaegerszeg
+coordinates: [[Zalaegerszeg]]
+markerFile: [[Zalaegerszeg]]
+defaultZoom: 11 
+maxZoom: 18
+```

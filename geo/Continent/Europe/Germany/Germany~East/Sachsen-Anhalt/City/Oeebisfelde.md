@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oeebisfelde
+coordinates: [[Oeebisfelde]]
+markerFile: [[Oeebisfelde]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Southsea
+coordinates: [[Southsea]]
+markerFile: [[Southsea]]
+defaultZoom: 11 
+maxZoom: 18
+```

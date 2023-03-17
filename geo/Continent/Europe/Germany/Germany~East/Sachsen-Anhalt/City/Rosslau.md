@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Rosslau
+coordinates: [[Rosslau]]
+markerFile: [[Rosslau]]
+defaultZoom: 11 
+maxZoom: 18
+```

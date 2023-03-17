@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schulzendorf
+coordinates: [[Schulzendorf]]
+markerFile: [[Schulzendorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

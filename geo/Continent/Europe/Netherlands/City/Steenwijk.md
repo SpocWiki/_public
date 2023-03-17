@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Steenwijk
+coordinates: [[Steenwijk]]
+markerFile: [[Steenwijk]]
+defaultZoom: 11 
+maxZoom: 18
+```

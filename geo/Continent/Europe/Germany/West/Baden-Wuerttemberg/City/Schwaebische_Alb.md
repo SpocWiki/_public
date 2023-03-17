@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schwaebische Alb
+coordinates: [[Schwaebische Alb]]
+markerFile: [[Schwaebische Alb]]
+defaultZoom: 11 
+maxZoom: 18
+```

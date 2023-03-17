@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.75,13.38]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Pilsen=Plzen
+coordinates: [[Pilsen=Plzen]]
+markerFile: [[Pilsen=Plzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

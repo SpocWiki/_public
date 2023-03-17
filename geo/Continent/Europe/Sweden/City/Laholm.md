@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Laholm
+coordinates: [[Laholm]]
+markerFile: [[Laholm]]
+defaultZoom: 11 
+maxZoom: 18
+```

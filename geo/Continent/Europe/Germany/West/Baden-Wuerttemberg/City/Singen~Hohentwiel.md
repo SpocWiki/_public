@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Singen~Hohentwiel
+coordinates: [[Singen~Hohentwiel]]
+markerFile: [[Singen~Hohentwiel]]
+defaultZoom: 11 
+maxZoom: 18
+```

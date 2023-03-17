@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nettuna
+coordinates: [[Nettuna]]
+markerFile: [[Nettuna]]
+defaultZoom: 11 
+maxZoom: 18
+```

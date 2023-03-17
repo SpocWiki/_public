@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ostercappeln
+coordinates: [[Ostercappeln]]
+markerFile: [[Ostercappeln]]
+defaultZoom: 11 
+maxZoom: 18
+```

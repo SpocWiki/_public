@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.25,34.33]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bryansk
+coordinates: [[Bryansk]]
+markerFile: [[Bryansk]]
+defaultZoom: 11 
+maxZoom: 18
+```

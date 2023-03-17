@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Roskilde
+coordinates: [[Roskilde]]
+markerFile: [[Roskilde]]
+defaultZoom: 11 
+maxZoom: 18
+```

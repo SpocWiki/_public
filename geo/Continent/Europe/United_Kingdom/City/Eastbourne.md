@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eastbourne
+coordinates: [[Eastbourne]]
+markerFile: [[Eastbourne]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.12,9.13]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nordheim
+coordinates: [[Nordheim]]
+markerFile: [[Nordheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

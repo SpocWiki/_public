@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.67,12.52]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wilkau~Sachsen
+coordinates: [[Wilkau~Sachsen]]
+markerFile: [[Wilkau~Sachsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

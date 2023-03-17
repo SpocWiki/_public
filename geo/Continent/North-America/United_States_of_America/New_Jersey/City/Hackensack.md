@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hackensack
+coordinates: [[Hackensack]]
+markerFile: [[Hackensack]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [59.75,60.02]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bogsolowsk
+coordinates: [[Bogsolowsk]]
+markerFile: [[Bogsolowsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

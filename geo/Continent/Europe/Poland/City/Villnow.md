@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Villnow
+coordinates: [[Villnow]]
+markerFile: [[Villnow]]
+defaultZoom: 11 
+maxZoom: 18
+```

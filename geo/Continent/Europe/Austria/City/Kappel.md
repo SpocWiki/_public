@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kappel
+coordinates: [[Kappel]]
+markerFile: [[Kappel]]
+defaultZoom: 11 
+maxZoom: 18
+```

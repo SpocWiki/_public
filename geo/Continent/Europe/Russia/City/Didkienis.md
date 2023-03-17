@@ -1,4 +1,4 @@
----
+﻿---
 location: [55.38,22.22]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Didkienis
+coordinates: [[Didkienis]]
+markerFile: [[Didkienis]]
+defaultZoom: 11 
+maxZoom: 18
+```

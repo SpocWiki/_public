@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kirovsk
+coordinates: [[Kirovsk]]
+markerFile: [[Kirovsk]]
+defaultZoom: 11 
+maxZoom: 18
+```

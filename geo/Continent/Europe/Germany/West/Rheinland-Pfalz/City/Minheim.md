@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.87,6.95]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Minheim
+coordinates: [[Minheim]]
+markerFile: [[Minheim]]
+defaultZoom: 11 
+maxZoom: 18
+```

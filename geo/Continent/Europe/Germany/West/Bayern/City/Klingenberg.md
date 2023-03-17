@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Klingenberg
+coordinates: [[Klingenberg]]
+markerFile: [[Klingenberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

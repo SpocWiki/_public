@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Flueh
+coordinates: [[Flueh]]
+markerFile: [[Flueh]]
+defaultZoom: 11 
+maxZoom: 18
+```

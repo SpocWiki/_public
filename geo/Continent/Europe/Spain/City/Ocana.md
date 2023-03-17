@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ocana
+coordinates: [[Ocana]]
+markerFile: [[Ocana]]
+defaultZoom: 11 
+maxZoom: 18
+```

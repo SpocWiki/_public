@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oberhaunstadt
+coordinates: [[Oberhaunstadt]]
+markerFile: [[Oberhaunstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

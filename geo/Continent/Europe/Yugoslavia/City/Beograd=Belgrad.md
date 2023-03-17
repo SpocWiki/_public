@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Beograd=Belgrad
+coordinates: [[Beograd=Belgrad]]
+markerFile: [[Beograd=Belgrad]]
+defaultZoom: 11 
+maxZoom: 18
+```

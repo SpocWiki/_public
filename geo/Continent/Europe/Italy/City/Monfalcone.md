@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Monfalcone
+coordinates: [[Monfalcone]]
+markerFile: [[Monfalcone]]
+defaultZoom: 11 
+maxZoom: 18
+```

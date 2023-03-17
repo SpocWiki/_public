@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Grimstad
+coordinates: [[Grimstad]]
+markerFile: [[Grimstad]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Palmanova
+coordinates: [[Palmanova]]
+markerFile: [[Palmanova]]
+defaultZoom: 11 
+maxZoom: 18
+```

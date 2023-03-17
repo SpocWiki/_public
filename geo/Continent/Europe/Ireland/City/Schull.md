@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Schull
+coordinates: [[Schull]]
+markerFile: [[Schull]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Faenza
+coordinates: [[Faenza]]
+markerFile: [[Faenza]]
+defaultZoom: 11 
+maxZoom: 18
+```

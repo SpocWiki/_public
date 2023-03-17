@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Weetzen
+coordinates: [[Weetzen]]
+markerFile: [[Weetzen]]
+defaultZoom: 11 
+maxZoom: 18
+```

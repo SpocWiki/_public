@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Peitz
+coordinates: [[Peitz]]
+markerFile: [[Peitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

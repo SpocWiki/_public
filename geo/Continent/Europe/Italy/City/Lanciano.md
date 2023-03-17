@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lanciano
+coordinates: [[Lanciano]]
+markerFile: [[Lanciano]]
+defaultZoom: 11 
+maxZoom: 18
+```

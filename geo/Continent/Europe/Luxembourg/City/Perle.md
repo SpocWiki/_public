@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Perle
+coordinates: [[Perle]]
+markerFile: [[Perle]]
+defaultZoom: 11 
+maxZoom: 18
+```

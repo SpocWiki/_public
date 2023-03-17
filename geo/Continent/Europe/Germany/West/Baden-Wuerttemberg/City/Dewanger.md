@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Dewanger
+coordinates: [[Dewanger]]
+markerFile: [[Dewanger]]
+defaultZoom: 11 
+maxZoom: 18
+```

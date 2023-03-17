@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nikoleiken
+coordinates: [[Nikoleiken]]
+markerFile: [[Nikoleiken]]
+defaultZoom: 11 
+maxZoom: 18
+```

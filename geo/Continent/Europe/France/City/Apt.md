@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Apt
+coordinates: [[Apt]]
+markerFile: [[Apt]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kaffzig
+coordinates: [[Kaffzig]]
+markerFile: [[Kaffzig]]
+defaultZoom: 11 
+maxZoom: 18
+```

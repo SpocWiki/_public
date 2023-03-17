@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Nowgorod
+coordinates: [[Nowgorod]]
+markerFile: [[Nowgorod]]
+defaultZoom: 11 
+maxZoom: 18
+```

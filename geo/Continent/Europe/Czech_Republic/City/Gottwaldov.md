@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Gottwaldov
+coordinates: [[Gottwaldov]]
+markerFile: [[Gottwaldov]]
+defaultZoom: 11 
+maxZoom: 18
+```

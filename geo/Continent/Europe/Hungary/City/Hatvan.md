@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.65,19.67]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hatvan
+coordinates: [[Hatvan]]
+markerFile: [[Hatvan]]
+defaultZoom: 11 
+maxZoom: 18
+```

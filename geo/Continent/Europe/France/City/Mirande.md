@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mirande
+coordinates: [[Mirande]]
+markerFile: [[Mirande]]
+defaultZoom: 11 
+maxZoom: 18
+```

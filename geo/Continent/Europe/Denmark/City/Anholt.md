@@ -1,4 +1,4 @@
----
+﻿---
 location: [56.73,11.65]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Anholt
+coordinates: [[Anholt]]
+markerFile: [[Anholt]]
+defaultZoom: 11 
+maxZoom: 18
+```

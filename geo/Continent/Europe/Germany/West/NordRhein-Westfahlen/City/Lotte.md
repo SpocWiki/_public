@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Lotte
+coordinates: [[Lotte]]
+markerFile: [[Lotte]]
+defaultZoom: 11 
+maxZoom: 18
+```

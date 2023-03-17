@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Stara Zagora=Eski Zagre
+coordinates: [[Stara Zagora=Eski Zagre]]
+markerFile: [[Stara Zagora=Eski Zagre]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Deutsch-Eylau
+coordinates: [[Deutsch-Eylau]]
+markerFile: [[Deutsch-Eylau]]
+defaultZoom: 11 
+maxZoom: 18
+```

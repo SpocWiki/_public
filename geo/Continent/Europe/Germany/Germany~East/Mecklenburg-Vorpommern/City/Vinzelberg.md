@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vinzelberg
+coordinates: [[Vinzelberg]]
+markerFile: [[Vinzelberg]]
+defaultZoom: 11 
+maxZoom: 18
+```

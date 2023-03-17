@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wurzbach
+coordinates: [[Wurzbach]]
+markerFile: [[Wurzbach]]
+defaultZoom: 11 
+maxZoom: 18
+```

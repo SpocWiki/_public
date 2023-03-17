@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Carlscrona
+coordinates: [[Carlscrona]]
+markerFile: [[Carlscrona]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oufa
+coordinates: [[Oufa]]
+markerFile: [[Oufa]]
+defaultZoom: 11 
+maxZoom: 18
+```

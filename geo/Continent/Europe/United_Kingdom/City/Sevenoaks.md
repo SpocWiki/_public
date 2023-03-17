@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Sevenoaks
+coordinates: [[Sevenoaks]]
+markerFile: [[Sevenoaks]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Elbingerode
+coordinates: [[Elbingerode]]
+markerFile: [[Elbingerode]]
+defaultZoom: 11 
+maxZoom: 18
+```

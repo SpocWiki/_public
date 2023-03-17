@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Albertseich
+coordinates: [[Albertseich]]
+markerFile: [[Albertseich]]
+defaultZoom: 11 
+maxZoom: 18
+```

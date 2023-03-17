@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goerlitz
+coordinates: [[Goerlitz]]
+markerFile: [[Goerlitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

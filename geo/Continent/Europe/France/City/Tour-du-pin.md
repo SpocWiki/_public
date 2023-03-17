@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tour-du-pin
+coordinates: [[Tour-du-pin]]
+markerFile: [[Tour-du-pin]]
+defaultZoom: 11 
+maxZoom: 18
+```

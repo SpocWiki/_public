@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Uusikaupuuki
+coordinates: [[Uusikaupuuki]]
+markerFile: [[Uusikaupuuki]]
+defaultZoom: 11 
+maxZoom: 18
+```

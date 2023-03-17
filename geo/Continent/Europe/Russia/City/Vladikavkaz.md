@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Vladikavkaz
+coordinates: [[Vladikavkaz]]
+markerFile: [[Vladikavkaz]]
+defaultZoom: 11 
+maxZoom: 18
+```

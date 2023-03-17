@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bergen
+coordinates: [[Bergen]]
+markerFile: [[Bergen]]
+defaultZoom: 11 
+maxZoom: 18
+```

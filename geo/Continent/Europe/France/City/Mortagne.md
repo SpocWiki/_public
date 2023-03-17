@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mortagne
+coordinates: [[Mortagne]]
+markerFile: [[Mortagne]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Trent
+coordinates: [[Trent]]
+markerFile: [[Trent]]
+defaultZoom: 11 
+maxZoom: 18
+```

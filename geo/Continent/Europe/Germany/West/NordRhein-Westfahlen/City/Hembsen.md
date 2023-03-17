@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hembsen
+coordinates: [[Hembsen]]
+markerFile: [[Hembsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

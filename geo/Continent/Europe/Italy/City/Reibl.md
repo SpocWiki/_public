@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.43,13.57]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reibl
+coordinates: [[Reibl]]
+markerFile: [[Reibl]]
+defaultZoom: 11 
+maxZoom: 18
+```

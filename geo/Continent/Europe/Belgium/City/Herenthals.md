@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Herenthals
+coordinates: [[Herenthals]]
+markerFile: [[Herenthals]]
+defaultZoom: 11 
+maxZoom: 18
+```

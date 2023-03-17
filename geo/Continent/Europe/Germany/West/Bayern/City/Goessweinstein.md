@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Goessweinstein
+coordinates: [[Goessweinstein]]
+markerFile: [[Goessweinstein]]
+defaultZoom: 11 
+maxZoom: 18
+```

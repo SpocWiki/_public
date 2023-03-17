@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Seidingstadt
+coordinates: [[Seidingstadt]]
+markerFile: [[Seidingstadt]]
+defaultZoom: 11 
+maxZoom: 18
+```

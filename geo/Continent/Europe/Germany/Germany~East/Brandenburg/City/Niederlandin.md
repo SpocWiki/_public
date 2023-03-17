@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Niederlandin
+coordinates: [[Niederlandin]]
+markerFile: [[Niederlandin]]
+defaultZoom: 11 
+maxZoom: 18
+```

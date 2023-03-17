@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Siegersdorf
+coordinates: [[Siegersdorf]]
+markerFile: [[Siegersdorf]]
+defaultZoom: 11 
+maxZoom: 18
+```

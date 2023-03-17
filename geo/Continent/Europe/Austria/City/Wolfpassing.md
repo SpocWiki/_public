@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Wolfpassing
+coordinates: [[Wolfpassing]]
+markerFile: [[Wolfpassing]]
+defaultZoom: 11 
+maxZoom: 18
+```

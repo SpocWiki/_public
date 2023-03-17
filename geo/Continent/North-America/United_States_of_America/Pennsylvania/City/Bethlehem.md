@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bethlehem
+coordinates: [[Bethlehem]]
+markerFile: [[Bethlehem]]
+defaultZoom: 11 
+maxZoom: 18
+```

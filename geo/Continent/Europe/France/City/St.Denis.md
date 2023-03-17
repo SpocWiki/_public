@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: St.Denis
+coordinates: [[St.Denis]]
+markerFile: [[St.Denis]]
+defaultZoom: 11 
+maxZoom: 18
+```

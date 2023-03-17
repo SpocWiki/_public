@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.6,9.3]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Neckartaiflingen
+coordinates: [[Neckartaiflingen]]
+markerFile: [[Neckartaiflingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

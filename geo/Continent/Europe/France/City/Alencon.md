@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Alencon
+coordinates: [[Alencon]]
+markerFile: [[Alencon]]
+defaultZoom: 11 
+maxZoom: 18
+```

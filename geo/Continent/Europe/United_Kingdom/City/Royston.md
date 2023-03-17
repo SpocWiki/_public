@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Royston
+coordinates: [[Royston]]
+markerFile: [[Royston]]
+defaultZoom: 11 
+maxZoom: 18
+```

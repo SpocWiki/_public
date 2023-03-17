@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Tscheidyn
+coordinates: [[Tscheidyn]]
+markerFile: [[Tscheidyn]]
+defaultZoom: 11 
+maxZoom: 18
+```

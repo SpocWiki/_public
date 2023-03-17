@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Leubsdorf~Rheinland
+coordinates: [[Leubsdorf~Rheinland]]
+markerFile: [[Leubsdorf~Rheinland]]
+defaultZoom: 11 
+maxZoom: 18
+```

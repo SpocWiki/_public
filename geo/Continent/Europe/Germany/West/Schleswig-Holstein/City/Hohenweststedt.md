@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hohenweststedt
+coordinates: [[Hohenweststedt]]
+markerFile: [[Hohenweststedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

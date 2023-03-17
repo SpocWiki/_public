@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Hebertsfelden
+coordinates: [[Hebertsfelden]]
+markerFile: [[Hebertsfelden]]
+defaultZoom: 11 
+maxZoom: 18
+```

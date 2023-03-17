@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Amboise
+coordinates: [[Amboise]]
+markerFile: [[Amboise]]
+defaultZoom: 11 
+maxZoom: 18
+```

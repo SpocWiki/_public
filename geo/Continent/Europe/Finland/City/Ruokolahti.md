@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Ruokolahti
+coordinates: [[Ruokolahti]]
+markerFile: [[Ruokolahti]]
+defaultZoom: 11 
+maxZoom: 18
+```

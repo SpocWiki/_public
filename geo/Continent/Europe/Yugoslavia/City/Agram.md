@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Agram
+coordinates: [[Agram]]
+markerFile: [[Agram]]
+defaultZoom: 11 
+maxZoom: 18
+```

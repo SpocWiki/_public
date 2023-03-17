@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kraplau
+coordinates: [[Kraplau]]
+markerFile: [[Kraplau]]
+defaultZoom: 11 
+maxZoom: 18
+```

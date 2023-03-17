@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Reckingen
+coordinates: [[Reckingen]]
+markerFile: [[Reckingen]]
+defaultZoom: 11 
+maxZoom: 18
+```

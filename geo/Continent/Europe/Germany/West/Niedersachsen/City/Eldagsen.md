@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Eldagsen
+coordinates: [[Eldagsen]]
+markerFile: [[Eldagsen]]
+defaultZoom: 11 
+maxZoom: 18
+```

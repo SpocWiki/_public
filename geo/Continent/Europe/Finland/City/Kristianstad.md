@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Kristianstad
+coordinates: [[Kristianstad]]
+markerFile: [[Kristianstad]]
+defaultZoom: 11 
+maxZoom: 18
+```

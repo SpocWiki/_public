@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mukhor Shibir
+coordinates: [[Mukhor Shibir]]
+markerFile: [[Mukhor Shibir]]
+defaultZoom: 11 
+maxZoom: 18
+```

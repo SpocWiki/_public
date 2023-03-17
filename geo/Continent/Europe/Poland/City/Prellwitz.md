@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Prellwitz
+coordinates: [[Prellwitz]]
+markerFile: [[Prellwitz]]
+defaultZoom: 11 
+maxZoom: 18
+```

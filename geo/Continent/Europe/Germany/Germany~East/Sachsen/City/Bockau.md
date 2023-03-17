@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Bockau
+coordinates: [[Bockau]]
+markerFile: [[Bockau]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Zutphen
+coordinates: [[Zutphen]]
+markerFile: [[Zutphen]]
+defaultZoom: 11 
+maxZoom: 18
+```

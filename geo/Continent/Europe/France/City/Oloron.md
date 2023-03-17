@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Oloron
+coordinates: [[Oloron]]
+markerFile: [[Oloron]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Aluksere
+coordinates: [[Aluksere]]
+markerFile: [[Aluksere]]
+defaultZoom: 11 
+maxZoom: 18
+```

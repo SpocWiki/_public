@@ -20,3 +20,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Mildstedt
+coordinates: [[Mildstedt]]
+markerFile: [[Mildstedt]]
+defaultZoom: 11 
+maxZoom: 18
+```

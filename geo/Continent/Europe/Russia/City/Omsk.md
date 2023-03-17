@@ -21,3 +21,11 @@ confidential: public
 [Population::]
 [Unknown::]
 
+
+```leaflet
+id: Omsk
+coordinates: [[Omsk]]
+markerFile: [[Omsk]]
+defaultZoom: 11 
+maxZoom: 18
+```
