@@ -13,7 +13,9 @@ confidential: public
 [ISO3::RUS]
 ```leaflet
 id: Russia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Russia
 markerFolder: ./Russia/City
 ```

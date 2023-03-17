@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ERI]
 ```leaflet
 id: Eritrea
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Eritrea
 markerFolder: ./Eritrea/City
 ```

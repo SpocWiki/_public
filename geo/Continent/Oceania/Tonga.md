@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TON]
 ```leaflet
 id: Tonga
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Tonga
 markerFolder: ./Tonga/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SYC]
 ```leaflet
 id: Seychelles
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Seychelles
 markerFolder: ./Seychelles/City
 ```

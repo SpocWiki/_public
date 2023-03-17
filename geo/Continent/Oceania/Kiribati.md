@@ -13,7 +13,9 @@ confidential: public
 [ISO3::KIR]
 ```leaflet
 id: Kiribati
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Kiribati
 markerFolder: ./Kiribati/City
 ```

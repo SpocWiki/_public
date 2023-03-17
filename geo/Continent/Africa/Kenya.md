@@ -13,7 +13,9 @@ confidential: public
 [ISO3::KEN]
 ```leaflet
 id: Kenya
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Kenya
 markerFolder: ./Kenya/City
 ```

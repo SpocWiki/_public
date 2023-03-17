@@ -11,7 +11,9 @@ tags:
 [ISO3::ALB]
 ```leaflet
 id: Albania
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Albania
 markerFolder: ./Albania/City
 ```

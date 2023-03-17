@@ -10,7 +10,9 @@ isDeleted: false
 confidential: public
 ```leaflet
 id: Kärnten
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Kärnten
 markerFolder: ./Kärnten/City
 ```

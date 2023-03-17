@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ITA]
 ```leaflet
 id: Italy
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Italy
 markerFolder: ./Italy/City
 ```

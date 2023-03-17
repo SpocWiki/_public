@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Serbia and Montenegro
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Serbia_and_Montenegro
 markerFolder: ./Serbia_and_Montenegro/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SWE]
 ```leaflet
 id: Sweden
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Sweden
 markerFolder: ./Sweden/City
 ```

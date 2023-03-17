@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BFA]
 ```leaflet
 id: Burkina Faso
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Burkina_Faso
 markerFolder: ./Burkina_Faso/City
 ```

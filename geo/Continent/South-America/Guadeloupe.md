@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GLP]
 ```leaflet
 id: Guadeloupe
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Guadeloupe
 markerFolder: ./Guadeloupe/City
 ```

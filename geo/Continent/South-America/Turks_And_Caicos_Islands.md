@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TCA]
 ```leaflet
 id: Turks And Caicos Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Turks_And_Caicos_Islands
 markerFolder: ./Turks_And_Caicos_Islands/City
 ```

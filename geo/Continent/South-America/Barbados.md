@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BRB]
 ```leaflet
 id: Barbados
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Barbados
 markerFolder: ./Barbados/City
 ```

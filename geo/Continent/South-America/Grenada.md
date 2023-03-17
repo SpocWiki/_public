@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GRD]
 ```leaflet
 id: Grenada
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Grenada
 markerFolder: ./Grenada/City
 ```

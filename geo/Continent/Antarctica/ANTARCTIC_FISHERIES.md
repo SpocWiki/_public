@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: ANTARCTIC FISHERIES
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./ANTARCTIC_FISHERIES
 markerFolder: ./ANTARCTIC_FISHERIES/City
 ```

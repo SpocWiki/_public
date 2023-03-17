@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GRC]
 ```leaflet
 id: Greece
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: _public/geo/Continent/Europe/Greece
 ```
 

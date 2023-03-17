@@ -13,7 +13,9 @@ confidential: public
 [ISO3::IOT]
 ```leaflet
 id: British Indian Ocean Territory
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./British_Indian_Ocean_Territory
 markerFolder: ./British_Indian_Ocean_Territory/City
 ```

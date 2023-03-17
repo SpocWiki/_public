@@ -11,7 +11,9 @@ confidential: public
 [ISO3::BGR]
 ```leaflet
 id: Bulgaria
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Bulgaria
 markerFolder: ./Bulgaria/City
 ```

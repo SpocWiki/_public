@@ -13,7 +13,9 @@ confidential: public
 [ISO3::DMA]
 ```leaflet
 id: Dominica
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Dominica
 markerFolder: ./Dominica/City
 ```

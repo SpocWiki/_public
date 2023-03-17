@@ -13,7 +13,9 @@ confidential: public
 [ISO3::FRO]
 ```leaflet
 id: Faeroe Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Faeroe_Islands
 markerFolder: ./Faeroe_Islands/City
 ```

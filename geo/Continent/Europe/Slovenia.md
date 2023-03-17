@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SVN]
 ```leaflet
 id: Slovenia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Slovenia
 markerFolder: ./Slovenia/City
 ```

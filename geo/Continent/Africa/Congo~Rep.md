@@ -13,7 +13,9 @@ confidential: public
 [ISO3::COG]
 ```leaflet
 id: Congo, Rep.
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Congo~Rep
 markerFolder: ./Congo~Rep/City
 ```

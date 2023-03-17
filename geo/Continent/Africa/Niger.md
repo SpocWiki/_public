@@ -13,7 +13,9 @@ confidential: public
 [ISO3::NER]
 ```leaflet
 id: Niger
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Niger
 markerFolder: ./Niger/City
 ```

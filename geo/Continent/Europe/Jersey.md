@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Jersey
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Jersey
 markerFolder: ./Jersey/City
 ```

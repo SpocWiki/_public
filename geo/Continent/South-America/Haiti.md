@@ -13,7 +13,9 @@ confidential: public
 [ISO3::HTI]
 ```leaflet
 id: Haiti
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Haiti
 markerFolder: ./Haiti/City
 ```

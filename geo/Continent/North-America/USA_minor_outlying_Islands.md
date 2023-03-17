@@ -13,7 +13,9 @@ confidential: public
 [ISO3::UMI]
 ```leaflet
 id: USA minor outlying Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./USA_minor_outlying_Islands
 markerFolder: ./USA_minor_outlying_Islands/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PLW]
 ```leaflet
 id: Palau
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Palau
 markerFolder: ./Palau/City
 ```

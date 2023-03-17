@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Northern Cyprus
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cyprus
 markerFolder: ./Cyprus/City
 ```

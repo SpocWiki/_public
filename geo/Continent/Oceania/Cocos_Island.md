@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CCK]
 ```leaflet
 id: Cocos Island
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cocos_Island
 markerFolder: ./Cocos_Island/City
 ```

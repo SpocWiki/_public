@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BTN]
 ```leaflet
 id: Bhutan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Bhutan
 markerFolder: ./Bhutan/City
 ```

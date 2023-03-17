@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Sarawak
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Sarawak
 markerFolder: ./Sarawak/City
 ```

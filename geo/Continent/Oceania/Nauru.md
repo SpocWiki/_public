@@ -13,7 +13,9 @@ confidential: public
 [ISO3::NRU]
 ```leaflet
 id: Nauru
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Nauru
 markerFolder: ./Nauru/City
 ```

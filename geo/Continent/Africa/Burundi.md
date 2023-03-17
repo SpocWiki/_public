@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BDI]
 ```leaflet
 id: Burundi
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Burundi
 markerFolder: ./Burundi/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SVK]
 ```leaflet
 id: Slovakia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Slovakia
 markerFolder: ./Slovakia/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::VGB]
 ```leaflet
 id: British Virgin Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./British_Virgin_Islands
 markerFolder: ./British_Virgin_Islands/City
 ```

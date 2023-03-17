@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ETH]
 ```leaflet
 id: Ethiopia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Ethiopia
 markerFolder: ./Ethiopia/City
 ```

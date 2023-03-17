@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MMR]
 ```leaflet
 id: Myanmar
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Myanmar
 markerFolder: ./Myanmar/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::NOR]
 ```leaflet
 id: Norway
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Norway
 markerFolder: ./Norway/City
 ```

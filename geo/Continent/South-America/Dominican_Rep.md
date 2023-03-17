@@ -13,7 +13,9 @@ confidential: public
 [ISO3::DOM]
 ```leaflet
 id: Dominican Rep.
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Dominican_Rep
 markerFolder: ./Dominican_Rep/City
 ```

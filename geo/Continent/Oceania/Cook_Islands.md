@@ -13,7 +13,9 @@ confidential: public
 [ISO3::COK]
 ```leaflet
 id: Cook Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cook_Islands
 markerFolder: ./Cook_Islands/City
 ```

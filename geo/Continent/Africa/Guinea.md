@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GIN]
 ```leaflet
 id: Guinea
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Guinea
 markerFolder: ./Guinea/City
 ```

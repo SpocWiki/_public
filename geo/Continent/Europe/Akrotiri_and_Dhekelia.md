@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Akrotiri and Dhekelia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Akrotiri_and_Dhekelia
 markerFolder: ./Akrotiri_and_Dhekelia/City
 ```

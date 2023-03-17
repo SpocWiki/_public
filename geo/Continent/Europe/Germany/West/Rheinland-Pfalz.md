@@ -15,7 +15,9 @@ tags:
 
 ```leaflet
 id: Rheinland-Pfalz
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Rheinland-Pfalz/
 markerFolder: ./Rheinland-Pfalz/City
 ```

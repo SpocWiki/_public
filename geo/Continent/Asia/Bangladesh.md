@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BGD]
 ```leaflet
 id: Bangladesh
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Bangladesh
 markerFolder: ./Bangladesh/City
 ```

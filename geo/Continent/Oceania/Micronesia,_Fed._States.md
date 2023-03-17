@@ -13,7 +13,9 @@ confidential: public
 [ISO3::FSM]
 ```leaflet
 id: Micronesia, Fed. States
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Micronesia,_Fed._States
 markerFolder: ./Micronesia,_Fed._States/City
 ```

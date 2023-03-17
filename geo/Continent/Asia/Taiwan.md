@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TWN]
 ```leaflet
 id: Taiwan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Taiwan
 markerFolder: ./Taiwan/City
 ```

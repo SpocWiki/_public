@@ -13,7 +13,9 @@ confidential: public
 [ISO3::LSO]
 ```leaflet
 id: Lesotho
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Lesotho
 markerFolder: ./Lesotho/City
 ```

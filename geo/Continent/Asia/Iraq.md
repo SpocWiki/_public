@@ -13,7 +13,9 @@ confidential: public
 [ISO3::IRQ]
 ```leaflet
 id: Iraq
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Iraq
 markerFolder: ./Iraq/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GEO]
 ```leaflet
 id: Georgia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Georgia
 markerFolder: ./Georgia/City
 ```

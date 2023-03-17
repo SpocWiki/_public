@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GHA]
 ```leaflet
 id: Ghana
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Ghana
 markerFolder: ./Ghana/City
 ```

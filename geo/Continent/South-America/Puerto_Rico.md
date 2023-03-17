@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PRI]
 ```leaflet
 id: Puerto Rico
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Puerto_Rico
 markerFolder: ./Puerto_Rico/City
 ```

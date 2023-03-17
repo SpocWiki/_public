@@ -13,7 +13,9 @@ confidential: public
 [ISO3::STP]
 ```leaflet
 id: Sao Tome And Principe
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Sao_Tome_And_Principe
 markerFolder: ./Sao_Tome_And_Principe/City
 ```

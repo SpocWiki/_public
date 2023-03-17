@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GUY]
 ```leaflet
 id: Guyana
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Guyana
 markerFolder: ./Guyana/City
 ```

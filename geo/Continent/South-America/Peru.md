@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PER]
 ```leaflet
 id: Peru
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Peru
 markerFolder: ./Peru/City
 ```

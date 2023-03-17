@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SLV]
 ```leaflet
 id: El Salvador
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./El_Salvador
 markerFolder: ./El_Salvador/City
 ```

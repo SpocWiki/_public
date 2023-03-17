@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BHR]
 ```leaflet
 id: Bahrain
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Bahrain
 markerFolder: ./Bahrain/City
 ```

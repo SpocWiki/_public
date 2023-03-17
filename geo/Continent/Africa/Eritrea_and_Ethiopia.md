@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Eritrea and Ethiopia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: [./Eritrea,./Ethiopia]
 ```
 

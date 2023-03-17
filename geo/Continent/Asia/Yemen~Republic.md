@@ -13,7 +13,9 @@ confidential: public
 [ISO3::YEM]
 ```leaflet
 id: Yemen, Rep.
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Yemen~Republic
 markerFolder: ./Yemen~Republic/City
 ```

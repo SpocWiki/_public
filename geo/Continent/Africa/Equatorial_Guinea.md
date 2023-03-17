@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GNQ]
 ```leaflet
 id: Equatorial Guinea
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Equatorial_Guinea
 markerFolder: ./Equatorial_Guinea/City
 ```

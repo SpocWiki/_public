@@ -13,7 +13,9 @@ confidential: public
 [ISO3::NAM]
 ```leaflet
 id: Namibia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Namibia
 markerFolder: ./Namibia/City
 ```

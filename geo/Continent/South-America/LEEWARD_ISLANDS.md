@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: LEEWARD ISLANDS
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./LEEWARD_ISLANDS
 markerFolder: ./LEEWARD_ISLANDS/City
 ```

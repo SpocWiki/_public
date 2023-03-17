@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ESH]
 ```leaflet
 id: Western Sahara
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Western_Sahara
 markerFolder: ./Western_Sahara/City
 ```

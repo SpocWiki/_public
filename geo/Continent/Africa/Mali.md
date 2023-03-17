@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MLI]
 ```leaflet
 id: Mali
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Mali
 markerFolder: ./Mali/City
 ```

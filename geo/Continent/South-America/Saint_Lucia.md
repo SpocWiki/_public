@@ -13,7 +13,9 @@ confidential: public
 [ISO3::LCA]
 ```leaflet
 id: Saint Lucia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Saint_Lucia
 markerFolder: ./Saint_Lucia/City
 ```

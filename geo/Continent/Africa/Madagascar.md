@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MDG]
 ```leaflet
 id: Madagascar
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Madagascar
 markerFolder: ./Madagascar/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::WLF]
 ```leaflet
 id: Wallis et Futuna
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Wallis_et_Futuna
 markerFolder: ./Wallis_et_Futuna/City
 ```

@@ -11,7 +11,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Channel Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Channel_Islands
 markerFolder: ./Channel_Islands/City
 ```

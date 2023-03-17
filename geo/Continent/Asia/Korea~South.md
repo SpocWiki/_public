@@ -16,7 +16,9 @@ aliases:
 [ISO3::KOR]
 ```leaflet
 id: Korea, Rep.
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Korea~South
 markerFolder: ./Korea~South/City
 ```

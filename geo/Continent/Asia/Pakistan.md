@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PAK]
 ```leaflet
 id: Pakistan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Pakistan
 markerFolder: ./Pakistan/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: FORMER PANAMA CANAL ZONE
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./FORMER_PANAMA_CANAL_ZONE
 markerFolder: ./FORMER_PANAMA_CANAL_ZONE/City
 ```

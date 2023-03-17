@@ -15,7 +15,9 @@ tags:
 
 ```leaflet
 id: State-Berlin
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./State-Berlin/
 markerFolder: ./State-Berlin/City
 ```

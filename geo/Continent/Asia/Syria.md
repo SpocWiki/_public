@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SYR]
 ```leaflet
 id: Syria
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Syria
 markerFolder: ./Syria/City
 ```

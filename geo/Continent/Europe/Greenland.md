@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GRL]
 ```leaflet
 id: Greenland
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Greenland
 markerFolder: ./Greenland/City
 ```

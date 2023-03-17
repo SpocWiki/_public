@@ -13,7 +13,9 @@ confidential: public
 [ISO3::AGO]
 ```leaflet
 id: Angola
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Angola
 markerFolder: ./Angola/City
 ```

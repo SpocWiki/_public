@@ -17,7 +17,9 @@ tags:
 
 ```leaflet
 id: Hessen
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Hessen/
 markerFolder: ./Hessen/City
 ```

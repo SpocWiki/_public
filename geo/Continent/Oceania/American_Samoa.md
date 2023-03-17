@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ASM]
 ```leaflet
 id: American Samoa
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./American_Samoa
 markerFolder: ./American_Samoa/City
 ```

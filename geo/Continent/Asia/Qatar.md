@@ -13,7 +13,9 @@ confidential: public
 [ISO3::QAT]
 ```leaflet
 id: Qatar
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Qatar
 markerFolder: ./Qatar/City
 ```

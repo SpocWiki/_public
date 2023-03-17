@@ -15,7 +15,9 @@ tags:
 
 ```leaflet
 id: Bayern
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Bayern/
 markerFolder: ./Bayern/City
 ```

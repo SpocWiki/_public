@@ -13,7 +13,9 @@ confidential: public
 [ISO3::VEN]
 ```leaflet
 id: Venezuela
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Venezuela
 markerFolder: ./Venezuela/City
 ```

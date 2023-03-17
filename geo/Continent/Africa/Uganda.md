@@ -13,7 +13,9 @@ confidential: public
 [ISO3::UGA]
 ```leaflet
 id: Uganda
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Uganda
 markerFolder: ./Uganda/City
 ```

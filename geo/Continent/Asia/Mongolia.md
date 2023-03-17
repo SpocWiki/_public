@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MNG]
 ```leaflet
 id: Mongolia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Mongolia
 markerFolder: ./Mongolia/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::AFG]
 ```leaflet
 id: Afghanistan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Afghanistan
 markerFolder: ./Afghanistan/City
 ```

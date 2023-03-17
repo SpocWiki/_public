@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TTO]
 ```leaflet
 id: Trinidad And Tobago
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Trinidad_And_Tobago
 markerFolder: ./Trinidad_And_Tobago/City
 ```

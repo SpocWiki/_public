@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: West Bank and Gaza
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./West_Bank_and_Gaza
 markerFolder: ./West_Bank_and_Gaza/City
 ```

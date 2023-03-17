@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SLB]
 ```leaflet
 id: Solomon Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Solomon_Islands
 markerFolder: ./Solomon_Islands/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: EAST &amp; WEST PAKISTAN
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./EAST_&amp;_WEST_PAKISTAN
 markerFolder: ./EAST_&amp;_WEST_PAKISTAN/City
 ```

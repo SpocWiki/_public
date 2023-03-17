@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MWI]
 ```leaflet
 id: Malawi
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Malawi
 markerFolder: ./Malawi/City
 ```

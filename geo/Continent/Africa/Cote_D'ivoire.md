@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CIV]
 ```leaflet
 id: Cote D'ivoire
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cote_D'ivoire
 markerFolder: ./Cote_D'ivoire/City
 ```

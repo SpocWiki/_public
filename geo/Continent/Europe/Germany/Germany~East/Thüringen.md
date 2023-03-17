@@ -15,7 +15,9 @@ tags:
 
 ```leaflet
 id: Thüringen
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Thüringen/
 markerFolder: ./Thüringen/City
 ```

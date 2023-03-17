@@ -19,7 +19,9 @@ aliases:
 [ISO3::DEU]
 ```leaflet
 id: Germany
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Germany//
 markerFolder: ./Germany/City
 ```

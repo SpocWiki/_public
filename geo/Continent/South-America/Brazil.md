@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BRA]
 ```leaflet
 id: Brazil
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Brazil
 markerFolder: ./Brazil/City
 ```

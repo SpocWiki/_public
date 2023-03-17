@@ -15,7 +15,9 @@ tags:
 
 ```leaflet
 id: NordRhein-Westfalen
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./NordRhein-Westfalen/
 markerFolder: ./NordRhein-Westfalen/City
 ```

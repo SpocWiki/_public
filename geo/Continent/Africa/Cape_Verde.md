@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CPV]
 ```leaflet
 id: Cape Verde
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cape_Verde
 markerFolder: ./Cape_Verde/City
 ```

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.7796,9.02868]
 type: State
 SpocWebEntityId: 36019
@@ -12,10 +12,12 @@ tags:
 [name-abbr::NS]
 ![[West/Niedersachsen/Coat_of_arms_of_Niedersachsen.svg|350]]
 ![[West/Niedersachsen/Flag_of_Lower_Saxony.svg|350]]
-
+	 
 ```leaflet
 id: Niedersachsen
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Niedersachsen/
 markerFolder: ./Niedersachsen/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MAC]
 ```leaflet
 id: Macau
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Macau
 markerFolder: ./Macau/City
 ```

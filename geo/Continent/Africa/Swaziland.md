@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SWZ]
 ```leaflet
 id: Swaziland
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Swaziland
 markerFolder: ./Swaziland/City
 ```

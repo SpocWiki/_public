@@ -13,7 +13,9 @@ confidential: public
 [ISO3::POL]
 ```leaflet
 id: Poland
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Poland
 markerFolder: ./Poland/City
 ```

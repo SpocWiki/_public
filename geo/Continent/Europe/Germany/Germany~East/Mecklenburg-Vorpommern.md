@@ -15,7 +15,9 @@ tags:
 
 ```leaflet
 id: Mecklenburg-Vorpommern
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Mecklenburg-Vorpommern/
 markerFolder: ./Mecklenburg-Vorpommern/City
 ```

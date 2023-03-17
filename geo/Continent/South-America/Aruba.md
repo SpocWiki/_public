@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ABW]
 ```leaflet
 id: Aruba
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Aruba
 markerFolder: ./Aruba/City
 ```
@@ -39,7 +41,9 @@ markerFolder: ./Aruba/City
 
 ```leaflet
 id: Aruba
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Aruba
 markerFolder: ./Aruba/City
 ```

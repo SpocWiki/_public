@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GIB]
 ```leaflet
 id: Gibraltar
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Gibraltar
 markerFolder: ./Gibraltar/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::IDN]
 ```leaflet
 id: Indonesia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Indonesia
 markerFolder: ./Indonesia/City
 ```

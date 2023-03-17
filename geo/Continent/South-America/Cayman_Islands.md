@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CYM]
 ```leaflet
 id: Cayman Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cayman_Islands
 markerFolder: ./Cayman_Islands/City
 ```

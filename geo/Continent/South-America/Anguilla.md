@@ -13,7 +13,9 @@ confidential: public
 [ISO3::AIA]
 ```leaflet
 id: Anguilla
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Anguilla
 markerFolder: ./Anguilla/City
 ```

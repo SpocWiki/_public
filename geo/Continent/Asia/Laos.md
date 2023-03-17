@@ -13,7 +13,9 @@ confidential: public
 [ISO3::LAO]
 ```leaflet
 id: Laos
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Laos
 markerFolder: ./Laos/City
 ```

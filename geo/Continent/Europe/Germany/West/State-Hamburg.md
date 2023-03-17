@@ -16,7 +16,9 @@ tags:
 
 ```leaflet
 id: State-Hamburg
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./State-Hamburg/
 markerFolder: ./State-Hamburg/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::KWT]
 ```leaflet
 id: Kuwait
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Kuwait
 markerFolder: ./Kuwait/City
 ```

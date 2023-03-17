@@ -10,7 +10,9 @@ isDeleted: false
 confidential: public
 ```leaflet
 id: Salzburg
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Salzburg
 markerFolder: ./Salzburg/City
 ```

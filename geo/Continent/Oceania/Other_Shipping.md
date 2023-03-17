@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Other Shipping
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Other_Shipping
 markerFolder: ./Other_Shipping/City
 ```

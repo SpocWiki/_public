@@ -13,7 +13,9 @@ confidential: public
 [ISO3::DDR]
 ```leaflet
 id: East Germany
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Germany~East/
 markerFolder: ./Germany~East/City
 markerFolder: _public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GAB]
 ```leaflet
 id: Gabon
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Gabon
 markerFolder: ./Gabon/City
 ```

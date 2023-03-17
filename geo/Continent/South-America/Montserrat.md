@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MSR]
 ```leaflet
 id: Montserrat
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Montserrat
 markerFolder: ./Montserrat/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ZWE]
 ```leaflet
 id: Zimbabwe
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Zimbabwe
 markerFolder: ./Zimbabwe/City
 ```

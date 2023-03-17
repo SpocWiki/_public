@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ARE]
 ```leaflet
 id: United Arab Emirates
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./United_Arab_Emirates
 markerFolder: ./United_Arab_Emirates/City
 ```

@@ -9,7 +9,9 @@ SpocWebEntityId: 27161
 confidential: public
 ```leaflet
 id: Asia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Asia
 markerFolder: ./Asia/City
 ```

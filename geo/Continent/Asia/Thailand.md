@@ -13,7 +13,9 @@ confidential: public
 [ISO3::THA]
 ```leaflet
 id: Thailand
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Thailand
 markerFolder: ./Thailand/City
 ```

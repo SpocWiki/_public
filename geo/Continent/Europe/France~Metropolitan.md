@@ -13,7 +13,9 @@ confidential: public
 [ISO3::FXX]
 ```leaflet
 id: France, Metropolitan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./France~Metropolitan
 markerFolder: ./France~Metropolitan/City
 ```

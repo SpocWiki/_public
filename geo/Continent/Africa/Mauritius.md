@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MUS]
 ```leaflet
 id: Mauritius
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Mauritius
 markerFolder: ./Mauritius/City
 ```

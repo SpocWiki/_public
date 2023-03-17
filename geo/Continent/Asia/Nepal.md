@@ -13,7 +13,9 @@ confidential: public
 [ISO3::NPL]
 ```leaflet
 id: Nepal
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Nepal
 markerFolder: ./Nepal/City
 ```

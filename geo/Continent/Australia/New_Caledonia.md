@@ -13,7 +13,9 @@ confidential: public
 [ISO3::NCL]
 ```leaflet
 id: New Caledonia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./New_Caledonia
 markerFolder: ./New_Caledonia/City
 ```

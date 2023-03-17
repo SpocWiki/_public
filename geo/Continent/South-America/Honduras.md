@@ -13,7 +13,9 @@ confidential: public
 [ISO3::HND]
 ```leaflet
 id: Honduras
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Honduras
 markerFolder: ./Honduras/City
 ```

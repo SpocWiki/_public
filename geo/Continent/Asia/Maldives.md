@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MDV]
 ```leaflet
 id: Maldives
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Maldives
 markerFolder: ./Maldives/City
 ```

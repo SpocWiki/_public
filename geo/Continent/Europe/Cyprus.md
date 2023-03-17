@@ -11,7 +11,9 @@ confidential: public
 [ISO3::CYP]
 ```leaflet
 id: Cyprus
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cyprus
 markerFolder: ./Cyprus/City
 ```

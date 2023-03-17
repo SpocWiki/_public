@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BOL]
 ```leaflet
 id: Bolivia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Bolivia
 markerFolder: ./Bolivia/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MEX]
 ```leaflet
 id: Mexico
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Mexico
 markerFolder: ./Mexico/City
 ```

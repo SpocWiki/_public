@@ -13,7 +13,9 @@ confidential: public
 [ISO3::NIU]
 ```leaflet
 id: Niue
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Niue
 markerFolder: ./Niue/City
 ```

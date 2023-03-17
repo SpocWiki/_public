@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Malaysia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Malaysia
 markerFolder: ./Malaysia/City
 ```

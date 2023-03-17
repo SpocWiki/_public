@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PHL]
 ```leaflet
 id: Philippines
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Philippines
 markerFolder: ./Philippines/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CAF]
 ```leaflet
 id: Central African Rep.
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Central_African_Rep
 markerFolder: ./Central_African_Rep/City
 ```

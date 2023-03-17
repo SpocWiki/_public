@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GMB]
 ```leaflet
 id: Gambia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Gambia
 markerFolder: ./Gambia/City
 ```

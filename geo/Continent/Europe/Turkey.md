@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TUR]
 ```leaflet
 id: Turkey
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Turkey
 markerFolder: ./Turkey/City
 ```

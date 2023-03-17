@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ISR]
 ```leaflet
 id: Israel
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Israel
 markerFolder: ./Israel/City
 ```

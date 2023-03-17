@@ -13,7 +13,9 @@ confidential: public
 [ISO3::IND]
 ```leaflet
 id: India
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./India
 markerFolder: ./India/City
 ```

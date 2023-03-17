@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MNE]
 ```leaflet
 id: Montenegro
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Montenegro
 markerFolder: ./Montenegro/City
 ```

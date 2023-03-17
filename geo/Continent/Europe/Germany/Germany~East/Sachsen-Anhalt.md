@@ -14,7 +14,9 @@ tags:
 
 ```leaflet
 id: Sachsen-Anhalt
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Sachsen-Anhalt/
 markerFolder: ./Sachsen-Anhalt/City
 ```

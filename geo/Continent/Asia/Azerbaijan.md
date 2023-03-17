@@ -13,7 +13,9 @@ confidential: public
 [ISO3::AZE]
 ```leaflet
 id: Azerbaijan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Azerbaijan
 markerFolder: ./Azerbaijan/City
 ```

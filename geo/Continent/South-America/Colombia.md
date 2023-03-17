@@ -13,7 +13,9 @@ confidential: public
 [ISO3::COL]
 ```leaflet
 id: Colombia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Colombia
 markerFolder: ./Colombia/City
 ```

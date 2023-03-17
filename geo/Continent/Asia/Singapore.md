@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SGP]
 ```leaflet
 id: Singapore
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Singapore
 markerFolder: ./Singapore/City
 ```

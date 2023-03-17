@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BLZ]
 ```leaflet
 id: Belize
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Belize
 markerFolder: ./Belize/City
 ```

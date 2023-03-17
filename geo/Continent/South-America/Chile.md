@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CHL]
 ```leaflet
 id: Chile
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Chile
 markerFolder: ./Chile/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SOM]
 ```leaflet
 id: Somalia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Somalia
 markerFolder: ./Somalia/City
 ```

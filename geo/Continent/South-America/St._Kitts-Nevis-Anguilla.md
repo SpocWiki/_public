@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: St. Kitts-Nevis-Anguilla
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./St._Kitts-Nevis-Anguilla
 markerFolder: ./St._Kitts-Nevis-Anguilla/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MRT]
 ```leaflet
 id: Mauritania
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Mauritania
 markerFolder: ./Mauritania/City
 ```

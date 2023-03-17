@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BWA]
 ```leaflet
 id: Botswana
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Botswana
 markerFolder: ./Botswana/City
 ```

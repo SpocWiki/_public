@@ -15,7 +15,9 @@ tags:
 
 ```leaflet
 id: Saarland
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Saarland/
 markerFolder: ./Saarland/City
 ```

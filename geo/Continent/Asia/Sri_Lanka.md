@@ -13,7 +13,9 @@ confidential: public
 [ISO3::LKA]
 ```leaflet
 id: Sri Lanka
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Sri_Lanka
 markerFolder: ./Sri_Lanka/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::REU]
 ```leaflet
 id: Reunion
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Reunion
 markerFolder: ./Reunion/City
 ```

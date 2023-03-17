@@ -13,7 +13,9 @@ confidential: public
 [ISO3::FIN]
 ```leaflet
 id: Finland
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Finland
 markerFolder: ./Finland/City
 ```

@@ -10,7 +10,9 @@ isDeleted: false
 confidential: public
 ```leaflet
 id: Oberösterreich
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Oberösterreich
 markerFolder: ./Oberösterreich/City
 ```

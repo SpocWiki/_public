@@ -13,7 +13,9 @@ confidential: public
 [ISO3::FLK]
 ```leaflet
 id: Falkland Islands (Malvinas)
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Falkland_Islands_(Malvinas)
 markerFolder: ./Falkland_Islands_(Malvinas)/City
 ```

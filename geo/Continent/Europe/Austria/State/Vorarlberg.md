@@ -10,7 +10,9 @@ isDeleted: false
 confidential: public
 ```leaflet
 id: Vorarlberg
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Vorarlberg
 markerFolder: ./Vorarlberg/City
 ```

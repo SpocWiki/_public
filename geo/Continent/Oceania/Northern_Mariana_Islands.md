@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MNP]
 ```leaflet
 id: Northern Mariana Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Northern_Mariana_Islands
 markerFolder: ./Northern_Mariana_Islands/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::KNA]
 ```leaflet
 id: Saint Kitts And Nevis
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Saint_Kitts_And_Nevis
 markerFolder: ./Saint_Kitts_And_Nevis/City
 ```

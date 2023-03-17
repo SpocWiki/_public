@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MKD]
 ```leaflet
 id: Macedonia, FYR
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Macedonia~North
 markerFolder: ./Macedonia~North/City
 ```

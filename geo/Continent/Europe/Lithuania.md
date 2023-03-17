@@ -13,7 +13,9 @@ confidential: public
 [ISO3::LTU]
 ```leaflet
 id: Lithuania
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Lithuania
 markerFolder: ./Lithuania/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::NFK]
 ```leaflet
 id: Norfolk Island
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Norfolk_Island
 markerFolder: ./Norfolk_Island/City
 ```

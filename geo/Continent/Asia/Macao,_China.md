@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Macao, China
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Macao,_China
 markerFolder: ./Macao,_China/City
 ```

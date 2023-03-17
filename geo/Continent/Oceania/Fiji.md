@@ -13,7 +13,9 @@ confidential: public
 [ISO3::FJI]
 ```leaflet
 id: Fiji
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Fiji
 markerFolder: ./Fiji/City
 ```

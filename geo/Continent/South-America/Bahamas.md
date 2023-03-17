@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BHS]
 ```leaflet
 id: Bahamas
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Bahamas
 markerFolder: ./Bahamas/City
 ```

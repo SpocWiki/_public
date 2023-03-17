@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BRD]
 ```leaflet
 id: West Germany
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./West_Germany
 markerFolder: ./West_Germany/City
 ```

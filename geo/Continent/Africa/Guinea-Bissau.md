@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GNB]
 ```leaflet
 id: Guinea-Bissau
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Guinea-Bissau
 markerFolder: ./Guinea-Bissau/City
 ```

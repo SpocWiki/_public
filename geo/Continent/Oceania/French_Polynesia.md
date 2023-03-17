@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PYF]
 ```leaflet
 id: French Polynesia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./French_Polynesia
 markerFolder: ./French_Polynesia/City
 ```

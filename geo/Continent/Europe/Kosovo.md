@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Kosovo
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Kosovo
 markerFolder: ./Kosovo/City
 ```

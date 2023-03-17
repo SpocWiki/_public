@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TKM]
 ```leaflet
 id: Turkmenistan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Turkmenistan
 markerFolder: ./Turkmenistan/City
 ```

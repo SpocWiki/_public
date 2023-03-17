@@ -13,7 +13,9 @@ confidential: public
 [ISO3::LBR]
 ```leaflet
 id: Liberia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Liberia
 markerFolder: ./Liberia/City
 ```

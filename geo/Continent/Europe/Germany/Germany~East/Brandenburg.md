@@ -15,7 +15,9 @@ tags:
 
 ```leaflet
 id: Brandenburg
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Brandenburg/
 markerFolder: ./Brandenburg/City
 markerFolder: ./Brandenburg/City

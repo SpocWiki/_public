@@ -13,7 +13,9 @@ confidential: public
 [ISO3::UZB]
 ```leaflet
 id: Uzbekistan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Uzbekistan
 markerFolder: ./Uzbekistan/City
 ```

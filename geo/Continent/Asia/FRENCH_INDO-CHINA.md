@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: FRENCH INDO-CHINA
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./FRENCH_INDO-CHINA
 markerFolder: ./FRENCH_INDO-CHINA/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ISL]
 ```leaflet
 id: Iceland
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Iceland
 markerFolder: ./Iceland/City
 ```

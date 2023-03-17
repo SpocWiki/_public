@@ -13,7 +13,9 @@ confidential: public
 [ISO3::VIR]
 ```leaflet
 id: Virgin Islands (U.S.)
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Virgin_Islands_(U.S.)
 markerFolder: ./Virgin_Islands_(U.S.)/City
 ```

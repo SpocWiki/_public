@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PAN]
 ```leaflet
 id: Panama
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Panama
 markerFolder: ./Panama/City
 ```

@@ -17,7 +17,9 @@ aliases:
 [ISO3::PRK]
 ```leaflet
 id: Korea, Dem. Rep.
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Korea~North
 markerFolder: ./Korea~North/City
 ```

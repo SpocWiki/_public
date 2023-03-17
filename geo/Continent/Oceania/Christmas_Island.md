@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CXR]
 ```leaflet
 id: Christmas Island
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Christmas_Island
 markerFolder: ./Christmas_Island/City
 ```

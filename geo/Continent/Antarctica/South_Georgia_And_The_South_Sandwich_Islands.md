@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SGS]
 ```leaflet
 id: South Georgia And The South Sandwich Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./South Georgia_And_The_South_Sandwich_Islands
 markerFolder: ./South Georgia_And_The_South_Sandwich_Islands/City
 ```

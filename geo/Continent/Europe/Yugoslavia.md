@@ -13,7 +13,9 @@ confidential: public
 [ISO3::YUG]
 ```leaflet
 id: Yugoslavia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Yugoslavia
 markerFolder: ./Yugoslavia/City
 ```

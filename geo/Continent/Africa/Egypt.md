@@ -13,7 +13,9 @@ confidential: public
 [ISO3::EGY]
 ```leaflet
 id: Egypt
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Egypt
 markerFolder: ./Egypt/City
 ```

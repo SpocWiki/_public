@@ -13,7 +13,9 @@ confidential: public
 [ISO3::URY]
 ```leaflet
 id: Uruguay
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Uruguay
 markerFolder: ./Uruguay/City
 ```

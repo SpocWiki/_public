@@ -13,7 +13,9 @@ confidential: public
 [ISO3::OMN]
 ```leaflet
 id: Oman
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Oman
 markerFolder: ./Oman/City
 ```

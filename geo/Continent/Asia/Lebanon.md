@@ -13,7 +13,9 @@ confidential: public
 [ISO3::LBN]
 ```leaflet
 id: Lebanon
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Lebanon
 markerFolder: ./Lebanon/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ZAF]
 ```leaflet
 id: South Africa
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./South_Africa
 markerFolder: ./South_Africa/City
 ```

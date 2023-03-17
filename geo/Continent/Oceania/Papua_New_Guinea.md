@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PNG]
 ```leaflet
 id: Papua New Guinea
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Papua_New_Guinea
 markerFolder: ./Papua_New_Guinea/City
 ```

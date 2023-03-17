@@ -11,7 +11,9 @@ confidential: public
 [ISO3::AND]
 ```leaflet
 id: Andorra
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Andorra
 markerFolder: ./Andorra/City
 ```

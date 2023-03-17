@@ -11,7 +11,9 @@ confidential: public
 [ISO3::HRV]
 ```leaflet
 id: Croatia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Croatia
 markerFolder: ./Croatia/City
 ```

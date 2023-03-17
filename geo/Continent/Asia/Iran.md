@@ -13,7 +13,9 @@ confidential: public
 [ISO3::IRN]
 ```leaflet
 id: Iran
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Iran
 markerFolder: ./Iran/City
 ```

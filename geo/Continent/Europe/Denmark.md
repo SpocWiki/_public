@@ -13,7 +13,9 @@ confidential: public
 [ISO3::DNK]
 ```leaflet
 id: Denmark
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Denmark
 markerFolder: ./Denmark/City
 ```

@@ -9,7 +9,9 @@ SpocWebEntityId: 27157
 confidential: public
 ```leaflet
 id: Australia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Australia
 markerFolder: ./Australia/City
 ```

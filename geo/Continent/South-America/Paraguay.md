@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PRY]
 ```leaflet
 id: Paraguay
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Paraguay
 markerFolder: ./Paraguay/City
 ```

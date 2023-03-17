@@ -1,8 +1,9 @@
-﻿---
+---
 location: [52.95,9.8]
 type: City
 tags:
 - geo/City
+- is_a/City
 
 
 SpocWebEntityId: 32517
@@ -10,6 +11,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+#is_a/City 
+
 [geo-lon::9.8]
 [geo-lat::52.95]
 [name::Mittestendorf]

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BRN]
 ```leaflet
 id: Brunei
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Brunei
 markerFolder: ./Brunei/City
 ```

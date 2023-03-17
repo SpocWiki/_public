@@ -17,7 +17,9 @@ tags:
 
 ```leaflet
 id: State-Bremen
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./State-Bremen/
 markerFolder: ./State-Bremen/City
 ```

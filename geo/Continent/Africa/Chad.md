@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TCD]
 ```leaflet
 id: Chad
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Chad
 markerFolder: ./Chad/City
 ```

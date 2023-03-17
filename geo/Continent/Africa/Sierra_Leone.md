@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SLE]
 ```leaflet
 id: Sierra Leone
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Sierra_Leone
 markerFolder: ./Sierra_Leone/City
 ```

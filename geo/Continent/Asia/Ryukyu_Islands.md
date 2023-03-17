@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Ryukyu Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Ryukyu_Islands
 markerFolder: ./Ryukyu_Islands/City
 ```

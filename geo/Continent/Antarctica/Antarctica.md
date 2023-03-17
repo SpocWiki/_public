@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ATA]
 ```leaflet
 id: Antarctica
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Antarctica
 markerFolder: ./Antarctica/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MYT]
 ```leaflet
 id: Mayotte
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Mayotte
 markerFolder: ./Mayotte/City
 ```

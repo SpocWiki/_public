@@ -13,7 +13,9 @@ confidential: public
 [ISO3::KAZ]
 ```leaflet
 id: Kazakhstan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Kazakhstan
 markerFolder: ./Kazakhstan/City
 ```

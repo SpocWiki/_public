@@ -9,7 +9,9 @@ SpocWebEntityId: 27158
 confidential: public
 ```leaflet
 id: North America
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./North_America
 markerFolder: ./North_America/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::KHM]
 ```leaflet
 id: Cambodia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cambodia
 markerFolder: ./Cambodia/City
 ```

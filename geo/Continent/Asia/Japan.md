@@ -14,7 +14,9 @@ confidential: public
 EXCLUDING_THE_RUYUKU_ISLANDS
 ```leaflet
 id: Japan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Japan
 markerFolder: ./Japan/City
 ```

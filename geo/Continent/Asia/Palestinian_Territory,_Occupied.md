@@ -13,7 +13,9 @@ confidential: public
 [ISO3::PSE]
 ```leaflet
 id: Palestinian Territory, Occupied
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Palestinian_Territory,_Occupied
 markerFolder: ./Palestinian_Territory,_Occupied/City
 ```

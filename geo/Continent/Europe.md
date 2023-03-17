@@ -11,7 +11,9 @@ isDeleted: false
 
 ```leaflet
 id: Europe
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Europe
 markerFolder: ./Europe/City
 ```

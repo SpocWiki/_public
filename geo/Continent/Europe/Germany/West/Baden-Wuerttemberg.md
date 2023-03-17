@@ -15,7 +15,9 @@ tags:
 
 ```leaflet
 id: Baden-Wuerttemberg
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Baden-Wuerttemberg/
 markerFolder: ./Baden-Wuerttemberg/City
 ```

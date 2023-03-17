@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TUN]
 ```leaflet
 id: Tunisia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Tunisia
 markerFolder: ./Tunisia/City
 ```

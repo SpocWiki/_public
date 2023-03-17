@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BEN]
 ```leaflet
 id: Benin
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Benin
 markerFolder: ./Benin/City
 ```

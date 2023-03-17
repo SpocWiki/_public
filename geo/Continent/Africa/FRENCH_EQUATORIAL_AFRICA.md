@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: FRENCH EQUATORIAL AFRICA
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./FRENCH_EQUATORIAL_AFRICA
 markerFolder: ./FRENCH_EQUATORIAL_AFRICA/City
 ```

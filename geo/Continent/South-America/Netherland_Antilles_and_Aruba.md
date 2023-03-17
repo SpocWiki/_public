@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Netherland Antilles and Aruba
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Netherland_Antilles_and_Aruba
 markerFolder: ./Netherland_Antilles_and_Aruba/City
 ```

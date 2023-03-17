@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MHL]
 ```leaflet
 id: Marshall Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Marshall_Islands
 markerFolder: ./Marshall_Islands/City
 ```

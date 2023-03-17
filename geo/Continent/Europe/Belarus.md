@@ -12,7 +12,9 @@ tags:
 [ISO3::BLR]
 ```leaflet
 id: Belarus
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Belarus
 markerFolder: ./Belarus/City
 ```

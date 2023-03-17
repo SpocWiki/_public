@@ -12,7 +12,9 @@ tags:
 [ISO3::CAN]
 ```leaflet
 id: Canada
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Canada//
 markerFolder: ./Canada/City
 ```

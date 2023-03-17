@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Åland
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Åland
 markerFolder: ./Åland/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::COM]
 ```leaflet
 id: Comoros
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Comoros
 markerFolder: ./Comoros/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SRB]
 ```leaflet
 id: Serbia excluding Kosovo
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Serbia
 markerFolder: ./Serbia/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SEN]
 ```leaflet
 id: Senegal
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Senegal
 markerFolder: ./Senegal/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MLT]
 ```leaflet
 id: Malta
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Malta
 markerFolder: ./Malta/City
 ```

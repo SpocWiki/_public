@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Saint Martin
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Saint_Martin
 markerFolder: ./Saint_Martin/City
 ```

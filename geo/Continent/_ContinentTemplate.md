@@ -16,7 +16,9 @@ SpocWebEntityId: {{Id}}
 
 ```leaflet
 id: {{EnglishName}}
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./{{EnglishName}}
 markerFolder: ./{{EnglishName}}/City
 ```

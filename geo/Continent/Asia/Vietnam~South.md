@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: South Vietnam
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Vietnam~South
 markerFolder: ./Vietnam~South/City
 ```

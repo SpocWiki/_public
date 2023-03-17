@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GUF]
 ```leaflet
 id: French Guiana
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./French_Guiana
 markerFolder: ./French_Guiana/City
 ```

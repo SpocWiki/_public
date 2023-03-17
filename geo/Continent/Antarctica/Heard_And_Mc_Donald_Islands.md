@@ -13,7 +13,9 @@ confidential: public
 [ISO3::HMD]
 ```leaflet
 id: Heard And Mc Donald Islands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Heard_And_Mc_Donald_Islands
 markerFolder: ./Heard_And_Mc_Donald_Islands/City
 ```

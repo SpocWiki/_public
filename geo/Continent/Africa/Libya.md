@@ -13,7 +13,9 @@ confidential: public
 [ISO3::LBY]
 ```leaflet
 id: Libya
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Libya
 markerFolder: ./Libya/City
 ```

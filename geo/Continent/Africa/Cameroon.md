@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CMR]
 ```leaflet
 id: Cameroon
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cameroon
 markerFolder: ./Cameroon/City
 ```

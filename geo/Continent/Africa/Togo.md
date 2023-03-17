@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TGO]
 ```leaflet
 id: Togo
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Togo
 markerFolder: ./Togo/City
 ```

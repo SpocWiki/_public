@@ -17,7 +17,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: USSR
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./USSR
 markerFolder: ./USSR/City
 ```

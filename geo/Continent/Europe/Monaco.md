@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MCO]
 ```leaflet
 id: Monaco
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Monaco
 markerFolder: ./Monaco/City
 ```

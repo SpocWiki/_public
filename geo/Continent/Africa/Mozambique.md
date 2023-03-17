@@ -13,7 +13,9 @@ confidential: public
 [ISO3::MOZ]
 ```leaflet
 id: Mozambique
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Mozambique
 markerFolder: ./Mozambique/City
 ```

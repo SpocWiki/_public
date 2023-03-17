@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SHN]
 ```leaflet
 id: Saint Helena
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Saint_Helena
 markerFolder: ./Saint_Helena/City
 ```

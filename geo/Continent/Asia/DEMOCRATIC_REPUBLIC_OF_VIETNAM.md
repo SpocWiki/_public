@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: DEMOCRATIC REPUBLIC OF VIETNAM
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./DEMOCRATIC_REPUBLIC_OF_VIETNAM
 markerFolder: ./DEMOCRATIC_REPUBLIC_OF_VIETNAM/City
 ```

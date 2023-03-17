@@ -13,7 +13,9 @@ confidential: public
 [ISO3::DZA]
 ```leaflet
 id: Algeria
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: [./Algeria]
 ```
 

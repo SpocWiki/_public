@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ESP]
 ```leaflet
 id: Spain
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Spain
 markerFolder: ./Spain/City
 ```

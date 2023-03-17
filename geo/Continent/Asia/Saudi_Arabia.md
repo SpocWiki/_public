@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SAU]
 ```leaflet
 id: Saudi Arabia
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Saudi_Arabia
 markerFolder: ./Saudi_Arabia/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TJK]
 ```leaflet
 id: Tajikistan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Tajikistan
 markerFolder: ./Tajikistan/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::KGZ]
 ```leaflet
 id: Kyrgyzstan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Kyrgyzstan
 markerFolder: ./Kyrgyzstan/City
 ```

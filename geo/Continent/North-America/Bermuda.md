@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BMU]
 ```leaflet
 id: Bermuda
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Bermuda
 markerFolder: ./Bermuda/City
 ```

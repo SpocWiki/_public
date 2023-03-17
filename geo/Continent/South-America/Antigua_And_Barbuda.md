@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ATG]
 ```leaflet
 id: Antigua And Barbuda
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Antigua_And_Barbuda
 markerFolder: ./Antigua_And_Barbuda/City
 ```

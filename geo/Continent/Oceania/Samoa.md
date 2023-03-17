@@ -13,7 +13,9 @@ confidential: public
 [ISO3::WSM]
 ```leaflet
 id: Samoa
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Samoa
 markerFolder: ./Samoa/City
 ```

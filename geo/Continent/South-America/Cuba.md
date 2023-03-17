@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CUB]
 ```leaflet
 id: Cuba
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Cuba
 markerFolder: ./Cuba/City
 ```

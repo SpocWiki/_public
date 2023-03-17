@@ -13,7 +13,9 @@ confidential: public
 [ISO3::ARG]
 ```leaflet
 id: Argentina
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Argentina
 markerFolder: ./Argentina/City
 ```

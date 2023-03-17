@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CHE]
 ```leaflet
 id: Switzerland
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Switzerland
 markerFolder: ./Switzerland/City
 ```

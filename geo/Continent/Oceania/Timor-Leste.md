@@ -13,7 +13,9 @@ confidential: public
 [ISO3::TMP]
 ```leaflet
 id: Timor-Leste
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Timor-Leste
 markerFolder: ./Timor-Leste/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::VUT]
 ```leaflet
 id: Vanuatu
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Vanuatu
 markerFolder: ./Vanuatu/City
 ```

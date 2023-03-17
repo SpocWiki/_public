@@ -13,7 +13,9 @@ confidential: public
 [ISO3::CZE]
 ```leaflet
 id: Czech Rep.
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Czech_Republic
 markerFolder: ./Czech_Republic/City
 ```

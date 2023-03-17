@@ -13,7 +13,9 @@ confidential: public
 [ISO3::BVT]
 ```leaflet
 id: Bouvet Island
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Bouvet_Island
 markerFolder: ./Bouvet_Island/City
 ```

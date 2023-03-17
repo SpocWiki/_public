@@ -13,7 +13,9 @@ confidential: public
 [ISO3::GUM]
 ```leaflet
 id: Guam
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Guam
 markerFolder: ./Guam/City
 ```

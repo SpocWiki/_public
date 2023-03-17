@@ -13,7 +13,9 @@ confidential: public
 [ISO3::]
 ```leaflet
 id: Rwanda-Urundi
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Rwanda-Urundi
 markerFolder: ./Rwanda-Urundi/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SPM]
 ```leaflet
 id: Saint-Pierre-et-Miquelon
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Saint-Pierre-et-Miquelon
 markerFolder: ./Saint-Pierre-et-Miquelon/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::VNM]
 ```leaflet
 id: Vietnam
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Vietnam
 markerFolder: ./Vietnam/City
 ```

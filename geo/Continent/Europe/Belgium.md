@@ -11,7 +11,9 @@ confidential: public
 [ISO3::BEL]
 ```leaflet
 id: Belgium
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Belgium
 markerFolder: ./Belgium/City
 ```

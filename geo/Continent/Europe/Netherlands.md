@@ -13,7 +13,9 @@ confidential: public
 [ISO3::NLD]
 ```leaflet
 id: Netherlands
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Netherlands
 markerFolder: ./Netherlands/City
 ```

@@ -13,7 +13,9 @@ confidential: public
 [ISO3::SDN]
 ```leaflet
 id: Sudan
-zoomFeatures: true
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
 geojsonFolder: ./Sudan
 markerFolder: ./Sudan/City
 ```
