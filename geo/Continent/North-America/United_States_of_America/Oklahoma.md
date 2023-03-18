@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.825,-96.735]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::35.825]
 [Population::]
 
+
+
+```leaflet
+id: Oklahoma
+geojsonFolder: ./Oklahoma/
+markerFolder: ./Oklahoma/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

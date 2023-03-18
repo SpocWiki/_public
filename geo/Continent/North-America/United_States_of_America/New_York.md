@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.2905,-73.9355]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::41.2905]
 [Population::]
 
+
+
+```leaflet
+id: New_York
+geojsonFolder: ./New_York/
+markerFolder: ./New_York/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [31.404,-97.548]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::31.404]
 [Population::]
 
+
+
+```leaflet
+id: Texas
+geojsonFolder: ./Texas/
+markerFolder: ./Texas/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.0679,-96.9697]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::39.0679]
 [Population::]
 
+
+
+```leaflet
+id: Kansas
+geojsonFolder: ./Kansas/
+markerFolder: ./Kansas/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

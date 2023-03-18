@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.1608,-119.754]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::39.1608]
 [Population::]
 
+
+
+```leaflet
+id: Nevada
+geojsonFolder: ./Nevada/
+markerFolder: ./Nevada/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

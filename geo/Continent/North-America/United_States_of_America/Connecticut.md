@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.7627,-72.6743]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::41.7627]
 [Population::]
 
+
+
+```leaflet
+id: Connecticut
+geojsonFolder: ./Connecticut/
+markerFolder: ./Connecticut/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

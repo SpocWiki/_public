@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.6436,-86.0926]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::39.6436]
 [Population::]
 
+
+
+```leaflet
+id: Indiana
+geojsonFolder: ./Indiana/
+markerFolder: ./Indiana/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

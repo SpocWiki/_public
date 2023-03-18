@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.2853,-91.3967]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::38.2853]
 [Population::]
 
+
+
+```leaflet
+id: Missouri
+geojsonFolder: ./Missouri/
+markerFolder: ./Missouri/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

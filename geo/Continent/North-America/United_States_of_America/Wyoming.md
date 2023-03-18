@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.1456,-104.802]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::41.1456]
 [Population::]
 
+
+
+```leaflet
+id: Wyoming
+geojsonFolder: ./Wyoming/
+markerFolder: ./Wyoming/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

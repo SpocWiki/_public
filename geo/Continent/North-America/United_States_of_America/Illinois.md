@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.9405,-89.1829]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::40.9405]
 [Population::]
 
+
+
+```leaflet
+id: Illinois
+geojsonFolder: ./Illinois/
+markerFolder: ./Illinois/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::60.7167]
 [Population::]
 
+
+
+```leaflet
+id: State-Youkon_Territory
+geojsonFolder: ./State-Youkon_Territory/
+markerFolder: ./State-Youkon_Territory/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

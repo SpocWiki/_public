@@ -1,4 +1,4 @@
----
+﻿---
 location: [46.8133,-100.779]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::46.8133]
 [Population::]
 
+
+
+```leaflet
+id: North_Dakota
+geojsonFolder: ./North_Dakota/
+markerFolder: ./North_Dakota/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

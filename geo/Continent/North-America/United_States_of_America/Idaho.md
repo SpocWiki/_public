@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.6137,-116.238]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::43.6137]
 [Population::]
 
+
+
+```leaflet
+id: Idaho
+geojsonFolder: ./Idaho/
+markerFolder: ./Idaho/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

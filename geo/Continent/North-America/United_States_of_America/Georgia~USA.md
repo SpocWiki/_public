@@ -1,4 +1,4 @@
----
+﻿---
 location: [32.895,-84.475]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::32.895]
 [Population::]
 
+
+
+```leaflet
+id: Georgia~USA
+geojsonFolder: ./Georgia~USA/
+markerFolder: ./Georgia~USA/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

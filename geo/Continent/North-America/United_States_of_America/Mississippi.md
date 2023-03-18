@@ -1,4 +1,4 @@
----
+﻿---
 location: [32.2989,-90.1847]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::32.2989]
 [Population::]
 
+
+
+```leaflet
+id: Mississippi
+geojsonFolder: ./Mississippi/
+markerFolder: ./Mississippi/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.6778,-84.4222]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::42.6778]
 [Population::]
 
+
+
+```leaflet
+id: Michigan
+geojsonFolder: ./Michigan/
+markerFolder: ./Michigan/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.8944,-83.8678]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::39.8944]
 [Population::]
 
+
+
+```leaflet
+id: Ohio
+geojsonFolder: ./Ohio/
+markerFolder: ./Ohio/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

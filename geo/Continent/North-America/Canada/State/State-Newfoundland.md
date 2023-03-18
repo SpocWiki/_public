@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::48.2838]
 [Population::]
 
+
+
+```leaflet
+id: State-Newfoundland
+geojsonFolder: ./State-Newfoundland/
+markerFolder: ./State-Newfoundland/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

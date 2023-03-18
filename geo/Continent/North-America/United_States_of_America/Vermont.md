@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.25,-72.5667]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::44.25]
 [Population::]
 
+
+
+```leaflet
+id: Vermont
+geojsonFolder: ./Vermont/
+markerFolder: ./Vermont/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

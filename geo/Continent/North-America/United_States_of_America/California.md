@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.7336,-119.78]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::35.7336]
 [Population::]
 
+
+
+```leaflet
+id: California
+geojsonFolder: ./California/
+markerFolder: ./California/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

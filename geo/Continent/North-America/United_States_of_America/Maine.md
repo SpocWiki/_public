@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.3235,-69.7653]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::44.3235]
 [Population::]
 
+
+
+```leaflet
+id: Maine
+geojsonFolder: ./Maine/
+markerFolder: ./Maine/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

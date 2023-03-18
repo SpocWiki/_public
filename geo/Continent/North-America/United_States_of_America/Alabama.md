@@ -1,4 +1,4 @@
----
+﻿---
 location: [32.3617,-86.2792]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::32.3617]
 [Population::]
 
+
+
+```leaflet
+id: Alabama
+geojsonFolder: ./Alabama/
+markerFolder: ./Alabama/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::54.5]
 [Population::]
 
+
+
+```leaflet
+id: State-Saskatchewan
+geojsonFolder: ./State-Saskatchewan/
+markerFolder: ./State-Saskatchewan/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

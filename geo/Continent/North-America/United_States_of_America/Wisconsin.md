@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.0667,-89.4]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::43.0667]
 [Population::]
 
+
+
+```leaflet
+id: Wisconsin
+geojsonFolder: ./Wisconsin/
+markerFolder: ./Wisconsin/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

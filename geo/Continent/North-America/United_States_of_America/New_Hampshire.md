@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.1283,-71.444]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::44.1283]
 [Population::]
 
+
+
+```leaflet
+id: New_Hampshire
+geojsonFolder: ./New_Hampshire/
+markerFolder: ./New_Hampshire/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

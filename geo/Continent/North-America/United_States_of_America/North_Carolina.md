@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.6594,-78.4874]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::35.6594]
 [Population::]
 
+
+
+```leaflet
+id: North_Carolina
+geojsonFolder: ./North_Carolina/
+markerFolder: ./North_Carolina/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.724,-98.8932]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::44.724]
 [Population::]
 
+
+
+```leaflet
+id: South_Dakota
+geojsonFolder: ./South_Dakota/
+markerFolder: ./South_Dakota/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

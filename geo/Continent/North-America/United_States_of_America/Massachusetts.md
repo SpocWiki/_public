@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.48,-71.2]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::42.48]
 [Population::]
 
+
+
+```leaflet
+id: Massachusetts
+geojsonFolder: ./Massachusetts/
+markerFolder: ./Massachusetts/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

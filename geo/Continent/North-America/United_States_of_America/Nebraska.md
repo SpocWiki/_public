@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.5333,-96.8733]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::41.5333]
 [Population::]
 
+
+
+```leaflet
+id: Nebraska
+geojsonFolder: ./Nebraska/
+markerFolder: ./Nebraska/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [34.4253,-81.7121]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::34.4253]
 [Population::]
 
+
+
+```leaflet
+id: South_Carolina
+geojsonFolder: ./South_Carolina/
+markerFolder: ./South_Carolina/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

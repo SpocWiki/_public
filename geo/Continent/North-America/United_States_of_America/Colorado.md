@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.5,-103.71]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::39.5]
 [Population::]
 
+
+
+```leaflet
+id: Colorado
+geojsonFolder: ./Colorado/
+markerFolder: ./Colorado/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

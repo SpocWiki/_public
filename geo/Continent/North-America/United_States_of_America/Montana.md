@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::45.96]
 [Population::]
 
+
+
+```leaflet
+id: Montana
+geojsonFolder: ./Montana/
+markerFolder: ./Montana/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

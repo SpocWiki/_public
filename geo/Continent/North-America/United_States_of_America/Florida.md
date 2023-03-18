@@ -1,4 +1,4 @@
----
+﻿---
 location: [28.4672,-82.2062]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::28.4672]
 [Population::]
 
+
+
+```leaflet
+id: Florida
+geojsonFolder: ./Florida/
+markerFolder: ./Florida/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

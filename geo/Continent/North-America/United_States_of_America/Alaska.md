@@ -1,4 +1,4 @@
----
+﻿---
 location: [61.3881,-149.77]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::61.3881]
 [Population::]
 
+
+
+```leaflet
+id: Alaska
+geojsonFolder: ./Alaska/
+markerFolder: ./Alaska/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

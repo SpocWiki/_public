@@ -1,4 +1,4 @@
----
+﻿---
 location: [33.5,-112.05]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::33.5]
 [Population::]
 
+
+
+```leaflet
+id: Arizona
+geojsonFolder: ./Arizona/
+markerFolder: ./Arizona/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

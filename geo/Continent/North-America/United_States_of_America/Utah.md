@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.75,-111.883]
 type: State
 tags:
@@ -26,3 +26,13 @@ confidential: public
 [geo-lat::40.75]
 [Population::]
 
+
+
+```leaflet
+id: Utah
+geojsonFolder: ./Utah/
+markerFolder: ./Utah/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

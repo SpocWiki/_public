@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::53.5667]
 [Population::]
 
+
+
+```leaflet
+id: State-Alberta
+geojsonFolder: ./State-Alberta/
+markerFolder: ./State-Alberta/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

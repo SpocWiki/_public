@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::45.95]
 [Population::]
 
+
+
+```leaflet
+id: State-New_Brunswick
+geojsonFolder: ./State-New_Brunswick/
+markerFolder: ./State-New_Brunswick/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

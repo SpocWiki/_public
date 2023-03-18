@@ -1,4 +1,4 @@
----
+﻿---
 location: [30.214,-90.6301]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::30.214]
 [Population::]
 
+
+
+```leaflet
+id: Louisiana
+geojsonFolder: ./Louisiana/
+markerFolder: ./Louisiana/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

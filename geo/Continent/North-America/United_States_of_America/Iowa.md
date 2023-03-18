@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.5908,-93.6208]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::41.5908]
 [Population::]
 
+
+
+```leaflet
+id: Iowa
+geojsonFolder: ./Iowa/
+markerFolder: ./Iowa/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::62.4422]
 [Population::]
 
+
+
+```leaflet
+id: State-Northwest_Territories
+geojsonFolder: ./State-Northwest_Territories/
+markerFolder: ./State-Northwest_Territories/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.7556,-86.9211]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::35.7556]
 [Population::]
 
+
+
+```leaflet
+id: Tennessee
+geojsonFolder: ./Tennessee/
+markerFolder: ./Tennessee/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

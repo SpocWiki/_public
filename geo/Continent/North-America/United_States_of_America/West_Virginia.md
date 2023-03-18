@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.3472,-81.6333]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::38.3472]
 [Population::]
 
+
+
+```leaflet
+id: West_Virginia
+geojsonFolder: ./West_Virginia/
+markerFolder: ./West_Virginia/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

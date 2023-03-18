@@ -1,4 +1,4 @@
----
+﻿---
 location: [35.6672,-105.964]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::35.6672]
 [Population::]
 
+
+
+```leaflet
+id: New_Mexico
+geojsonFolder: ./New_Mexico/
+markerFolder: ./New_Mexico/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

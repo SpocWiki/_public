@@ -1,4 +1,4 @@
----
+﻿---
 location: [21.345,-157.935]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::21.345]
 [Population::]
 
+
+
+```leaflet
+id: Hawaii
+geojsonFolder: ./Hawaii/
+markerFolder: ./Hawaii/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

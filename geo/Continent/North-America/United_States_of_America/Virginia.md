@@ -1,4 +1,4 @@
----
+﻿---
 location: [37.541,-77.4329]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::37.541]
 [Population::]
 
+
+
+```leaflet
+id: Virginia
+geojsonFolder: ./Virginia/
+markerFolder: ./Virginia/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

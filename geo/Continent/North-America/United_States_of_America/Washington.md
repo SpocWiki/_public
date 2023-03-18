@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.3075,-120.921]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::47.3075]
 [Population::]
 
+
+
+```leaflet
+id: Washington
+geojsonFolder: ./Washington/
+markerFolder: ./Washington/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

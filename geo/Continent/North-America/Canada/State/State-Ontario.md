@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::44.37]
 [Population::]
 
+
+
+```leaflet
+id: State-Ontario
+geojsonFolder: ./State-Ontario/
+markerFolder: ./State-Ontario/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

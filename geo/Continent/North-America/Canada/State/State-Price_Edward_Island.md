@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::46.24]
 [Population::]
 
+
+
+```leaflet
+id: State-Price_Edward_Island
+geojsonFolder: ./State-Price_Edward_Island/
+markerFolder: ./State-Price_Edward_Island/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

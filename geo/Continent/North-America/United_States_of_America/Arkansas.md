@@ -1,4 +1,4 @@
----
+﻿---
 location: [34.7361,-92.3311]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::34.7361]
 [Population::]
 
+
+
+```leaflet
+id: Arkansas
+geojsonFolder: ./Arkansas/
+markerFolder: ./Arkansas/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -1,4 +1,4 @@
----
+﻿---
 location: [44.9747,-93.1584]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::44.9747]
 [Population::]
 
+
+
+```leaflet
+id: Minnesota
+geojsonFolder: ./Minnesota/
+markerFolder: ./Minnesota/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

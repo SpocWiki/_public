@@ -1,4 +1,4 @@
----
+﻿---
 location: [40.2806,-74.7587]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::40.2806]
 [Population::]
 
+
+
+```leaflet
+id: New_Jersey
+geojsonFolder: ./New_Jersey/
+markerFolder: ./New_Jersey/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

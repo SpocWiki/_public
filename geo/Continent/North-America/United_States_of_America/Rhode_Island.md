@@ -1,4 +1,4 @@
----
+﻿---
 location: [41.8236,-71.4222]
 type: State
 tags:
@@ -26,3 +26,13 @@ confidential: public
 [geo-lat::41.8236]
 [Population::]
 
+
+
+```leaflet
+id: Rhode_Island
+geojsonFolder: ./Rhode_Island/
+markerFolder: ./Rhode_Island/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

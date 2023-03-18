@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::46.15]
 [Population::]
 
+
+
+```leaflet
+id: State-Quebeck
+geojsonFolder: ./State-Quebeck/
+markerFolder: ./State-Quebeck/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

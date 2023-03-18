@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::49.8994]
 [Population::]
 
+
+
+```leaflet
+id: State-Manitoba
+geojsonFolder: ./State-Manitoba/
+markerFolder: ./State-Manitoba/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

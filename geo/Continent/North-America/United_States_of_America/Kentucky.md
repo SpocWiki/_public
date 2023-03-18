@@ -1,4 +1,4 @@
----
+﻿---
 location: [38.1973,-84.8631]
 type: State
 tags:
@@ -23,3 +23,13 @@ confidential: public
 [geo-lat::38.1973]
 [Population::]
 
+
+
+```leaflet
+id: Kentucky
+geojsonFolder: ./Kentucky/
+markerFolder: ./Kentucky/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

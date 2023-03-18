@@ -1,4 +1,4 @@
----
+﻿---
 location: [39.371,-75.0483]
 type: State
 tags:
@@ -25,3 +25,13 @@ confidential: public
 [geo-lat::39.371]
 [Population::]
 
+
+
+```leaflet
+id: Delaware
+geojsonFolder: ./Delaware/
+markerFolder: ./Delaware/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

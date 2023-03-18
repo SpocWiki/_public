@@ -1,4 +1,4 @@
----
+﻿---
 location: [45.2404,-122.814]
 type: State
 tags:
@@ -24,3 +24,13 @@ confidential: public
 [geo-lat::45.2404]
 [Population::]
 
+
+
+```leaflet
+id: Oregon
+geojsonFolder: ./Oregon/
+markerFolder: ./Oregon/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```
