@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.09945,8.686111]
 type: Station 
 mapzoom: [8,15] 
