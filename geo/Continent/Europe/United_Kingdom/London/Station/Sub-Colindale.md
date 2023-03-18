@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Colindale
+coordinates: [[Sub-Colindale]]
+markerFile: [[Sub-Colindale]]
+defaultZoom: 11 
+maxZoom: 18
+```

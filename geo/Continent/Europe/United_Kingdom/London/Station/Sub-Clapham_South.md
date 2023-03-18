@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Clapham_South
+coordinates: [[Sub-Clapham_South]]
+markerFile: [[Sub-Clapham_South]]
+defaultZoom: 11 
+maxZoom: 18
+```

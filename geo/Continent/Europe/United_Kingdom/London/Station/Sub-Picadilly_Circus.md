@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Picadilly_Circus
+coordinates: [[Sub-Picadilly_Circus]]
+markerFile: [[Sub-Picadilly_Circus]]
+defaultZoom: 11 
+maxZoom: 18
+```

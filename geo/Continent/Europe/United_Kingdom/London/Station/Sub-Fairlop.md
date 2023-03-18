@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Fairlop
+coordinates: [[Sub-Fairlop]]
+markerFile: [[Sub-Fairlop]]
+defaultZoom: 11 
+maxZoom: 18
+```

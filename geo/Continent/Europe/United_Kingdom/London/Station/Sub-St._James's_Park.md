@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-St._James's_Park
+coordinates: [[Sub-St._James's_Park]]
+markerFile: [[Sub-St._James's_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

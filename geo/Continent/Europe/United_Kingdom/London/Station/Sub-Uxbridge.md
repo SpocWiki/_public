@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Uxbridge
+coordinates: [[Sub-Uxbridge]]
+markerFile: [[Sub-Uxbridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

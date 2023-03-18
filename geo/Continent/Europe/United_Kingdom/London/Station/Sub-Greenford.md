@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Greenford
+coordinates: [[Sub-Greenford]]
+markerFile: [[Sub-Greenford]]
+defaultZoom: 11 
+maxZoom: 18
+```

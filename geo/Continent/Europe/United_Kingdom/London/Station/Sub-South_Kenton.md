@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-South_Kenton
+coordinates: [[Sub-South_Kenton]]
+markerFile: [[Sub-South_Kenton]]
+defaultZoom: 11 
+maxZoom: 18
+```

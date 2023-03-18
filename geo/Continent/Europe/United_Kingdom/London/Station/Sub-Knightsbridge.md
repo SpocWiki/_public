@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Knightsbridge
+coordinates: [[Sub-Knightsbridge]]
+markerFile: [[Sub-Knightsbridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

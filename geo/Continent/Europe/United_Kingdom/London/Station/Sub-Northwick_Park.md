@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Northwick_Park
+coordinates: [[Sub-Northwick_Park]]
+markerFile: [[Sub-Northwick_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

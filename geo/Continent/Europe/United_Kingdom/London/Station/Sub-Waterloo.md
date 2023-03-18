@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Waterloo
+coordinates: [[Sub-Waterloo]]
+markerFile: [[Sub-Waterloo]]
+defaultZoom: 11 
+maxZoom: 18
+```

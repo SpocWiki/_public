@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Park_Royal
+coordinates: [[Sub-Park_Royal]]
+markerFile: [[Sub-Park_Royal]]
+defaultZoom: 11 
+maxZoom: 18
+```

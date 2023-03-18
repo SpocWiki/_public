@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Rickmansworth
+coordinates: [[Sub-Rickmansworth]]
+markerFile: [[Sub-Rickmansworth]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-London_City_Airport
+coordinates: [[Sub-London_City_Airport]]
+markerFile: [[Sub-London_City_Airport]]
+defaultZoom: 11 
+maxZoom: 18
+```

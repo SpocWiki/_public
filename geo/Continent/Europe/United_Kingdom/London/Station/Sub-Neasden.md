@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Neasden
+coordinates: [[Sub-Neasden]]
+markerFile: [[Sub-Neasden]]
+defaultZoom: 11 
+maxZoom: 18
+```

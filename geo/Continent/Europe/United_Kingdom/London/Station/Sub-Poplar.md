@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Poplar
+coordinates: [[Sub-Poplar]]
+markerFile: [[Sub-Poplar]]
+defaultZoom: 11 
+maxZoom: 18
+```

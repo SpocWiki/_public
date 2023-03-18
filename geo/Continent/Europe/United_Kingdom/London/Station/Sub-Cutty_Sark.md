@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Cutty_Sark
+coordinates: [[Sub-Cutty_Sark]]
+markerFile: [[Sub-Cutty_Sark]]
+defaultZoom: 11 
+maxZoom: 18
+```

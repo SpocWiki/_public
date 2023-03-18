@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Amersham
+coordinates: [[Sub-Amersham]]
+markerFile: [[Sub-Amersham]]
+defaultZoom: 11 
+maxZoom: 18
+```

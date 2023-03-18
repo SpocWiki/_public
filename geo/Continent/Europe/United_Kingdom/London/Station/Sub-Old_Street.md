@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Old_Street
+coordinates: [[Sub-Old_Street]]
+markerFile: [[Sub-Old_Street]]
+defaultZoom: 11 
+maxZoom: 18
+```

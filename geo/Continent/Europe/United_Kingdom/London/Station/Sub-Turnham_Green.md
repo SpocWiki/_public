@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Turnham_Green
+coordinates: [[Sub-Turnham_Green]]
+markerFile: [[Sub-Turnham_Green]]
+defaultZoom: 11 
+maxZoom: 18
+```

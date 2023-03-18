@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Turnpike_Lane
+coordinates: [[Sub-Turnpike_Lane]]
+markerFile: [[Sub-Turnpike_Lane]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Holland_Park
+coordinates: [[Sub-Holland_Park]]
+markerFile: [[Sub-Holland_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

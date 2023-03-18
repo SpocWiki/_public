@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-West_Finchley
+coordinates: [[Sub-West_Finchley]]
+markerFile: [[Sub-West_Finchley]]
+defaultZoom: 11 
+maxZoom: 18
+```

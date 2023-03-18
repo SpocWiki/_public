@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Baker_Street
+coordinates: [[Sub-Baker_Street]]
+markerFile: [[Sub-Baker_Street]]
+defaultZoom: 11 
+maxZoom: 18
+```

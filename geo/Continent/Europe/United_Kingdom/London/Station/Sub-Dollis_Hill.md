@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Dollis_Hill
+coordinates: [[Sub-Dollis_Hill]]
+markerFile: [[Sub-Dollis_Hill]]
+defaultZoom: 11 
+maxZoom: 18
+```

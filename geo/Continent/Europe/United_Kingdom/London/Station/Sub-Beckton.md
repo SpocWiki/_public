@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Beckton
+coordinates: [[Sub-Beckton]]
+markerFile: [[Sub-Beckton]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Roding_Valley
+coordinates: [[Sub-Roding_Valley]]
+markerFile: [[Sub-Roding_Valley]]
+defaultZoom: 11 
+maxZoom: 18
+```

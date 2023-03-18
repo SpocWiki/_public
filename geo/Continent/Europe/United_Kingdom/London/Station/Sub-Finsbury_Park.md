@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Finsbury_Park
+coordinates: [[Sub-Finsbury_Park]]
+markerFile: [[Sub-Finsbury_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

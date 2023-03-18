@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-North_Acton
+coordinates: [[Sub-North_Acton]]
+markerFile: [[Sub-North_Acton]]
+defaultZoom: 11 
+maxZoom: 18
+```

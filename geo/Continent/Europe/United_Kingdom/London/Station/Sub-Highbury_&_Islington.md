@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Highbury_&_Islington
+coordinates: [[Sub-Highbury_&_Islington]]
+markerFile: [[Sub-Highbury_&_Islington]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Epping
+coordinates: [[Sub-Epping]]
+markerFile: [[Sub-Epping]]
+defaultZoom: 11 
+maxZoom: 18
+```

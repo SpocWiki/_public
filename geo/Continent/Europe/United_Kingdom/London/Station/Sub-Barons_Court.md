@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Barons_Court
+coordinates: [[Sub-Barons_Court]]
+markerFile: [[Sub-Barons_Court]]
+defaultZoom: 11 
+maxZoom: 18
+```

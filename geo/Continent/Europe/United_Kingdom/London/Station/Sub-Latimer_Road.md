@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Latimer_Road
+coordinates: [[Sub-Latimer_Road]]
+markerFile: [[Sub-Latimer_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

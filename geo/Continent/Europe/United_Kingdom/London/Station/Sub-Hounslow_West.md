@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Hounslow_West
+coordinates: [[Sub-Hounslow_West]]
+markerFile: [[Sub-Hounslow_West]]
+defaultZoom: 11 
+maxZoom: 18
+```

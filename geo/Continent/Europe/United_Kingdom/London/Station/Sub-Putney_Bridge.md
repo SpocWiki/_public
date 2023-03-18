@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Putney_Bridge
+coordinates: [[Sub-Putney_Bridge]]
+markerFile: [[Sub-Putney_Bridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

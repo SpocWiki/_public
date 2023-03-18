@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Tottenham_Hale
+coordinates: [[Sub-Tottenham_Hale]]
+markerFile: [[Sub-Tottenham_Hale]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Custom_House
+coordinates: [[Sub-Custom_House]]
+markerFile: [[Sub-Custom_House]]
+defaultZoom: 11 
+maxZoom: 18
+```

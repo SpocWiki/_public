@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Goldhawk_Road
+coordinates: [[Sub-Goldhawk_Road]]
+markerFile: [[Sub-Goldhawk_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

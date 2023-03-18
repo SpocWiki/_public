@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Warren_Street
+coordinates: [[Sub-Warren_Street]]
+markerFile: [[Sub-Warren_Street]]
+defaultZoom: 11 
+maxZoom: 18
+```

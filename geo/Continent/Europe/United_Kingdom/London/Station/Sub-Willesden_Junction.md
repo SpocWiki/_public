@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Willesden_Junction
+coordinates: [[Sub-Willesden_Junction]]
+markerFile: [[Sub-Willesden_Junction]]
+defaultZoom: 11 
+maxZoom: 18
+```

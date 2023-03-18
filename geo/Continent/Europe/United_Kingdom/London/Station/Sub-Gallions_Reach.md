@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Gallions_Reach
+coordinates: [[Sub-Gallions_Reach]]
+markerFile: [[Sub-Gallions_Reach]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Covent_Garden
+coordinates: [[Sub-Covent_Garden]]
+markerFile: [[Sub-Covent_Garden]]
+defaultZoom: 11 
+maxZoom: 18
+```

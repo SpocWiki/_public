@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Colliers_Wood
+coordinates: [[Sub-Colliers_Wood]]
+markerFile: [[Sub-Colliers_Wood]]
+defaultZoom: 11 
+maxZoom: 18
+```

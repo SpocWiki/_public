@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.4343,-0.1992]
 type: Station
 tags:
@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Wimbledon_Park
+coordinates: [[Sub-Wimbledon_Park]]
+markerFile: [[Sub-Wimbledon_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Elephant_&_Castle
+coordinates: [[Sub-Elephant_&_Castle]]
+markerFile: [[Sub-Elephant_&_Castle]]
+defaultZoom: 11 
+maxZoom: 18
+```

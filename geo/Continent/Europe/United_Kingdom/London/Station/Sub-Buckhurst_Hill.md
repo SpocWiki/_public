@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Buckhurst_Hill
+coordinates: [[Sub-Buckhurst_Hill]]
+markerFile: [[Sub-Buckhurst_Hill]]
+defaultZoom: 11 
+maxZoom: 18
+```

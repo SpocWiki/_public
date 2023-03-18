@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Ealing_Common
+coordinates: [[Sub-Ealing_Common]]
+markerFile: [[Sub-Ealing_Common]]
+defaultZoom: 11 
+maxZoom: 18
+```

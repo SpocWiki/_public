@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Borough
+coordinates: [[Sub-Borough]]
+markerFile: [[Sub-Borough]]
+defaultZoom: 11 
+maxZoom: 18
+```

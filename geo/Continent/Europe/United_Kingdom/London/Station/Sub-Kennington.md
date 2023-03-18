@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Kennington
+coordinates: [[Sub-Kennington]]
+markerFile: [[Sub-Kennington]]
+defaultZoom: 11 
+maxZoom: 18
+```

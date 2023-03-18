@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Chancery_Lane
+coordinates: [[Sub-Chancery_Lane]]
+markerFile: [[Sub-Chancery_Lane]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Blackhorse_Road
+coordinates: [[Sub-Blackhorse_Road]]
+markerFile: [[Sub-Blackhorse_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

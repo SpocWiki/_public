@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Tower_Hill
+coordinates: [[Sub-Tower_Hill]]
+markerFile: [[Sub-Tower_Hill]]
+defaultZoom: 11 
+maxZoom: 18
+```

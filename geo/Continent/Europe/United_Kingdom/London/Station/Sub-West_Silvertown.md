@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-West_Silvertown
+coordinates: [[Sub-West_Silvertown]]
+markerFile: [[Sub-West_Silvertown]]
+defaultZoom: 11 
+maxZoom: 18
+```

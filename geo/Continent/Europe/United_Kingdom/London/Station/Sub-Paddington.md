@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Paddington
+coordinates: [[Sub-Paddington]]
+markerFile: [[Sub-Paddington]]
+defaultZoom: 11 
+maxZoom: 18
+```

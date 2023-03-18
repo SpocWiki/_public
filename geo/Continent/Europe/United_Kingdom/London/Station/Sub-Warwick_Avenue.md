@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Warwick_Avenue
+coordinates: [[Sub-Warwick_Avenue]]
+markerFile: [[Sub-Warwick_Avenue]]
+defaultZoom: 11 
+maxZoom: 18
+```

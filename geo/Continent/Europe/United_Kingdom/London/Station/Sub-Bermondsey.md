@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Bermondsey
+coordinates: [[Sub-Bermondsey]]
+markerFile: [[Sub-Bermondsey]]
+defaultZoom: 11 
+maxZoom: 18
+```

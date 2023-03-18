@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Canada_Water
+coordinates: [[Sub-Canada_Water]]
+markerFile: [[Sub-Canada_Water]]
+defaultZoom: 11 
+maxZoom: 18
+```

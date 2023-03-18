@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-White_City
+coordinates: [[Sub-White_City]]
+markerFile: [[Sub-White_City]]
+defaultZoom: 11 
+maxZoom: 18
+```

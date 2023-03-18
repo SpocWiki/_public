@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Heron_Quays
+coordinates: [[Sub-Heron_Quays]]
+markerFile: [[Sub-Heron_Quays]]
+defaultZoom: 11 
+maxZoom: 18
+```

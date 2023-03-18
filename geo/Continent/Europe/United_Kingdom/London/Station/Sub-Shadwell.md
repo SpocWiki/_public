@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Shadwell
+coordinates: [[Sub-Shadwell]]
+markerFile: [[Sub-Shadwell]]
+defaultZoom: 11 
+maxZoom: 18
+```

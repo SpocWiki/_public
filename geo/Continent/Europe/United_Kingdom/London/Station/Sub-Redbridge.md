@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Redbridge
+coordinates: [[Sub-Redbridge]]
+markerFile: [[Sub-Redbridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

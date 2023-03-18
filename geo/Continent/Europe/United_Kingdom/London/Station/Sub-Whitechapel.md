@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Whitechapel
+coordinates: [[Sub-Whitechapel]]
+markerFile: [[Sub-Whitechapel]]
+defaultZoom: 11 
+maxZoom: 18
+```

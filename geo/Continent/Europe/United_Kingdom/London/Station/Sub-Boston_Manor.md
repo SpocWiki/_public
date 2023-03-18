@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Boston_Manor
+coordinates: [[Sub-Boston_Manor]]
+markerFile: [[Sub-Boston_Manor]]
+defaultZoom: 11 
+maxZoom: 18
+```

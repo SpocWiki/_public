@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-West_Kensington
+coordinates: [[Sub-West_Kensington]]
+markerFile: [[Sub-West_Kensington]]
+defaultZoom: 11 
+maxZoom: 18
+```

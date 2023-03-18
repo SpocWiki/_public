@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Surrey_Quays
+coordinates: [[Sub-Surrey_Quays]]
+markerFile: [[Sub-Surrey_Quays]]
+defaultZoom: 11 
+maxZoom: 18
+```

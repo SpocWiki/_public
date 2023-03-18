@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-West_India_Quay
+coordinates: [[Sub-West_India_Quay]]
+markerFile: [[Sub-West_India_Quay]]
+defaultZoom: 11 
+maxZoom: 18
+```

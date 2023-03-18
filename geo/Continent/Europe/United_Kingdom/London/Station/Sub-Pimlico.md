@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Pimlico
+coordinates: [[Sub-Pimlico]]
+markerFile: [[Sub-Pimlico]]
+defaultZoom: 11 
+maxZoom: 18
+```

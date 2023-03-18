@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Snaresbrook
+coordinates: [[Sub-Snaresbrook]]
+markerFile: [[Sub-Snaresbrook]]
+defaultZoom: 11 
+maxZoom: 18
+```

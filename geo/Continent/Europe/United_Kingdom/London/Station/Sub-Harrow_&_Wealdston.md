@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Harrow_&_Wealdston
+coordinates: [[Sub-Harrow_&_Wealdston]]
+markerFile: [[Sub-Harrow_&_Wealdston]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Archway
+coordinates: [[Sub-Archway]]
+markerFile: [[Sub-Archway]]
+defaultZoom: 11 
+maxZoom: 18
+```

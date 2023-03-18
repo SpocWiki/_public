@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-King_George_V
+coordinates: [[Sub-King_George_V]]
+markerFile: [[Sub-King_George_V]]
+defaultZoom: 11 
+maxZoom: 18
+```

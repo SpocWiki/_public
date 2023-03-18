@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-South_Kensington
+coordinates: [[Sub-South_Kensington]]
+markerFile: [[Sub-South_Kensington]]
+defaultZoom: 11 
+maxZoom: 18
+```

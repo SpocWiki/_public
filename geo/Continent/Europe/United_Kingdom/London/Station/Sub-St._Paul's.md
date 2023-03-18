@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-St._Paul's
+coordinates: [[Sub-St._Paul's]]
+markerFile: [[Sub-St._Paul's]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Finchley_Road
+coordinates: [[Sub-Finchley_Road]]
+markerFile: [[Sub-Finchley_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

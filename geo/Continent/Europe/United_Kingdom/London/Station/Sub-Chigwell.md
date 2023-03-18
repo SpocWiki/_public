@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Chigwell
+coordinates: [[Sub-Chigwell]]
+markerFile: [[Sub-Chigwell]]
+defaultZoom: 11 
+maxZoom: 18
+```

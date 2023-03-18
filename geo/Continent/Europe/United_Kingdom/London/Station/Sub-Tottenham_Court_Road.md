@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Tottenham_Court_Road
+coordinates: [[Sub-Tottenham_Court_Road]]
+markerFile: [[Sub-Tottenham_Court_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

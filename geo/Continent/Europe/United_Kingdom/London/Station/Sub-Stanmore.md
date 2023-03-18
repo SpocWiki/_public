@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Stanmore
+coordinates: [[Sub-Stanmore]]
+markerFile: [[Sub-Stanmore]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Euston
+coordinates: [[Sub-Euston]]
+markerFile: [[Sub-Euston]]
+defaultZoom: 11 
+maxZoom: 18
+```

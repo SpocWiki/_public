@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Prince_Regent
+coordinates: [[Sub-Prince_Regent]]
+markerFile: [[Sub-Prince_Regent]]
+defaultZoom: 11 
+maxZoom: 18
+```

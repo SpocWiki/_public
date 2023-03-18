@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-South_Quay
+coordinates: [[Sub-South_Quay]]
+markerFile: [[Sub-South_Quay]]
+defaultZoom: 11 
+maxZoom: 18
+```

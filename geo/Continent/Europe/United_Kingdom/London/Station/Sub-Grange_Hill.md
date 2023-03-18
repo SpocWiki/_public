@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Grange_Hill
+coordinates: [[Sub-Grange_Hill]]
+markerFile: [[Sub-Grange_Hill]]
+defaultZoom: 11 
+maxZoom: 18
+```

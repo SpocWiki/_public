@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Dagenham_East
+coordinates: [[Sub-Dagenham_East]]
+markerFile: [[Sub-Dagenham_East]]
+defaultZoom: 11 
+maxZoom: 18
+```

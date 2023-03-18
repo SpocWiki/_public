@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Goodge_Street
+coordinates: [[Sub-Goodge_Street]]
+markerFile: [[Sub-Goodge_Street]]
+defaultZoom: 11 
+maxZoom: 18
+```

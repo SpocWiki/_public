@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Bounds_Green
+coordinates: [[Sub-Bounds_Green]]
+markerFile: [[Sub-Bounds_Green]]
+defaultZoom: 11 
+maxZoom: 18
+```

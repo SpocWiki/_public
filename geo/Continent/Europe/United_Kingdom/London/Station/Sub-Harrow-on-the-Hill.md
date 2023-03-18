@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Harrow-on-the-Hill
+coordinates: [[Sub-Harrow-on-the-Hill]]
+markerFile: [[Sub-Harrow-on-the-Hill]]
+defaultZoom: 11 
+maxZoom: 18
+```

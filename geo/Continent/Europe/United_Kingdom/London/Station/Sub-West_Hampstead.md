@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-West_Hampstead
+coordinates: [[Sub-West_Hampstead]]
+markerFile: [[Sub-West_Hampstead]]
+defaultZoom: 11 
+maxZoom: 18
+```

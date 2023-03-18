@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Highgate
+coordinates: [[Sub-Highgate]]
+markerFile: [[Sub-Highgate]]
+defaultZoom: 11 
+maxZoom: 18
+```

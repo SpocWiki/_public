@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Hampstead
+coordinates: [[Sub-Hampstead]]
+markerFile: [[Sub-Hampstead]]
+defaultZoom: 11 
+maxZoom: 18
+```

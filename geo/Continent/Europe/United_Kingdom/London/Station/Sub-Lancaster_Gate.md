@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Lancaster_Gate
+coordinates: [[Sub-Lancaster_Gate]]
+markerFile: [[Sub-Lancaster_Gate]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Edgware
+coordinates: [[Sub-Edgware]]
+markerFile: [[Sub-Edgware]]
+defaultZoom: 11 
+maxZoom: 18
+```

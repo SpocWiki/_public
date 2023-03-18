@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Wood_Green
+coordinates: [[Sub-Wood_Green]]
+markerFile: [[Sub-Wood_Green]]
+defaultZoom: 11 
+maxZoom: 18
+```

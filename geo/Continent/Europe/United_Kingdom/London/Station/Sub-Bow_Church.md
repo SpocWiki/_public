@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Bow_Church
+coordinates: [[Sub-Bow_Church]]
+markerFile: [[Sub-Bow_Church]]
+defaultZoom: 11 
+maxZoom: 18
+```

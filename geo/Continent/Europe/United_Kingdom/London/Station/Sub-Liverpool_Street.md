@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Liverpool_Street
+coordinates: [[Sub-Liverpool_Street]]
+markerFile: [[Sub-Liverpool_Street]]
+defaultZoom: 11 
+maxZoom: 18
+```

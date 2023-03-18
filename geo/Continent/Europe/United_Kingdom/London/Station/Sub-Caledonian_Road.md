@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Caledonian_Road
+coordinates: [[Sub-Caledonian_Road]]
+markerFile: [[Sub-Caledonian_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

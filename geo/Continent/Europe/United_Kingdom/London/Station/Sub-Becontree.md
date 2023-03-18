@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Becontree
+coordinates: [[Sub-Becontree]]
+markerFile: [[Sub-Becontree]]
+defaultZoom: 11 
+maxZoom: 18
+```

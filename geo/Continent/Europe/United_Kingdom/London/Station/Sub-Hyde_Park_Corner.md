@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Hyde_Park_Corner
+coordinates: [[Sub-Hyde_Park_Corner]]
+markerFile: [[Sub-Hyde_Park_Corner]]
+defaultZoom: 11 
+maxZoom: 18
+```

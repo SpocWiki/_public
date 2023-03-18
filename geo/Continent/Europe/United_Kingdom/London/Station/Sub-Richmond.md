@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Richmond
+coordinates: [[Sub-Richmond]]
+markerFile: [[Sub-Richmond]]
+defaultZoom: 11 
+maxZoom: 18
+```

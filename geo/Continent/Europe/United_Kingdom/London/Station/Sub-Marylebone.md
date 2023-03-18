@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Marylebone
+coordinates: [[Sub-Marylebone]]
+markerFile: [[Sub-Marylebone]]
+defaultZoom: 11 
+maxZoom: 18
+```

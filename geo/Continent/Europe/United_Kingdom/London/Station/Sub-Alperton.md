@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Alperton
+coordinates: [[Sub-Alperton]]
+markerFile: [[Sub-Alperton]]
+defaultZoom: 11 
+maxZoom: 18
+```

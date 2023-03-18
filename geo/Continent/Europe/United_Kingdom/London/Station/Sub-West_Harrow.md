@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-West_Harrow
+coordinates: [[Sub-West_Harrow]]
+markerFile: [[Sub-West_Harrow]]
+defaultZoom: 11 
+maxZoom: 18
+```

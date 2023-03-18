@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Arsenal
+coordinates: [[Sub-Arsenal]]
+markerFile: [[Sub-Arsenal]]
+defaultZoom: 11 
+maxZoom: 18
+```

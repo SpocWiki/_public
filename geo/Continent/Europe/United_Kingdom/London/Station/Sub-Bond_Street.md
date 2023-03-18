@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Bond_Street
+coordinates: [[Sub-Bond_Street]]
+markerFile: [[Sub-Bond_Street]]
+defaultZoom: 11 
+maxZoom: 18
+```

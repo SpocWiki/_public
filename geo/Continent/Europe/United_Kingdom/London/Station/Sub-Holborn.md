@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Holborn
+coordinates: [[Sub-Holborn]]
+markerFile: [[Sub-Holborn]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Gunnersbury
+coordinates: [[Sub-Gunnersbury]]
+markerFile: [[Sub-Gunnersbury]]
+defaultZoom: 11 
+maxZoom: 18
+```

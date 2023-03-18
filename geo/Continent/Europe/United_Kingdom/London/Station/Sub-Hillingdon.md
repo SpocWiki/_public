@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Hillingdon
+coordinates: [[Sub-Hillingdon]]
+markerFile: [[Sub-Hillingdon]]
+defaultZoom: 11 
+maxZoom: 18
+```

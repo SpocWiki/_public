@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Tooting_Bec
+coordinates: [[Sub-Tooting_Bec]]
+markerFile: [[Sub-Tooting_Bec]]
+defaultZoom: 11 
+maxZoom: 18
+```

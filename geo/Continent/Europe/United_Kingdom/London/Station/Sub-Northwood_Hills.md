@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Northwood_Hills
+coordinates: [[Sub-Northwood_Hills]]
+markerFile: [[Sub-Northwood_Hills]]
+defaultZoom: 11 
+maxZoom: 18
+```

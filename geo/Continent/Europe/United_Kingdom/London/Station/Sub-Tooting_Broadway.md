@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Tooting_Broadway
+coordinates: [[Sub-Tooting_Broadway]]
+markerFile: [[Sub-Tooting_Broadway]]
+defaultZoom: 11 
+maxZoom: 18
+```

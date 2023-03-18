@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Ruislip
+coordinates: [[Sub-Ruislip]]
+markerFile: [[Sub-Ruislip]]
+defaultZoom: 11 
+maxZoom: 18
+```

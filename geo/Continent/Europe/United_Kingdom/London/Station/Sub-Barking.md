@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Barking
+coordinates: [[Sub-Barking]]
+markerFile: [[Sub-Barking]]
+defaultZoom: 11 
+maxZoom: 18
+```

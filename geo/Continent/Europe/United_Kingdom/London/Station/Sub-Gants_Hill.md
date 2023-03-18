@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Gants_Hill
+coordinates: [[Sub-Gants_Hill]]
+markerFile: [[Sub-Gants_Hill]]
+defaultZoom: 11 
+maxZoom: 18
+```

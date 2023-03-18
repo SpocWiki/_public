@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Stepney_Green
+coordinates: [[Sub-Stepney_Green]]
+markerFile: [[Sub-Stepney_Green]]
+defaultZoom: 11 
+maxZoom: 18
+```

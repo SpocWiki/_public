@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Deptford_Bridge
+coordinates: [[Sub-Deptford_Bridge]]
+markerFile: [[Sub-Deptford_Bridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

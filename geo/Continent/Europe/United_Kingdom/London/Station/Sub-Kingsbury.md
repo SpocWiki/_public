@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Kingsbury
+coordinates: [[Sub-Kingsbury]]
+markerFile: [[Sub-Kingsbury]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Fulham_Broadway
+coordinates: [[Sub-Fulham_Broadway]]
+markerFile: [[Sub-Fulham_Broadway]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Seven_Sisters
+coordinates: [[Sub-Seven_Sisters]]
+markerFile: [[Sub-Seven_Sisters]]
+defaultZoom: 11 
+maxZoom: 18
+```

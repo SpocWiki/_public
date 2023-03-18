@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Russell_Square
+coordinates: [[Sub-Russell_Square]]
+markerFile: [[Sub-Russell_Square]]
+defaultZoom: 11 
+maxZoom: 18
+```

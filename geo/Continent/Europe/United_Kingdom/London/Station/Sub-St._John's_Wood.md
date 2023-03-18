@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-St._John's_Wood
+coordinates: [[Sub-St._John's_Wood]]
+markerFile: [[Sub-St._John's_Wood]]
+defaultZoom: 11 
+maxZoom: 18
+```

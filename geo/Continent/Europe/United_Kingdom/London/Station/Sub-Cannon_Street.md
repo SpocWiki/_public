@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Cannon_Street
+coordinates: [[Sub-Cannon_Street]]
+markerFile: [[Sub-Cannon_Street]]
+defaultZoom: 11 
+maxZoom: 18
+```

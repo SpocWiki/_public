@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Queensbury
+coordinates: [[Sub-Queensbury]]
+markerFile: [[Sub-Queensbury]]
+defaultZoom: 11 
+maxZoom: 18
+```

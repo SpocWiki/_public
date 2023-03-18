@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Chesham
+coordinates: [[Sub-Chesham]]
+markerFile: [[Sub-Chesham]]
+defaultZoom: 11 
+maxZoom: 18
+```

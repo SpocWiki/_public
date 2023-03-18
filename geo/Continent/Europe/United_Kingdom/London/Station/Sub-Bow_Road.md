@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Bow_Road
+coordinates: [[Sub-Bow_Road]]
+markerFile: [[Sub-Bow_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

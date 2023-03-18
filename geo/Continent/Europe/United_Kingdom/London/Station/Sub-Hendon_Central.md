@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Hendon_Central
+coordinates: [[Sub-Hendon_Central]]
+markerFile: [[Sub-Hendon_Central]]
+defaultZoom: 11 
+maxZoom: 18
+```

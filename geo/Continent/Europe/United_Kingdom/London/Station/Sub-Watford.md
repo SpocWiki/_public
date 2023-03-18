@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Watford
+coordinates: [[Sub-Watford]]
+markerFile: [[Sub-Watford]]
+defaultZoom: 11 
+maxZoom: 18
+```

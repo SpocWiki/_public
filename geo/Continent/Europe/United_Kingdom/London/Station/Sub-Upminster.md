@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Upminster
+coordinates: [[Sub-Upminster]]
+markerFile: [[Sub-Upminster]]
+defaultZoom: 11 
+maxZoom: 18
+```

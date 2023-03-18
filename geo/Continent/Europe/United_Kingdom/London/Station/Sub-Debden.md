@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Debden
+coordinates: [[Sub-Debden]]
+markerFile: [[Sub-Debden]]
+defaultZoom: 11 
+maxZoom: 18
+```

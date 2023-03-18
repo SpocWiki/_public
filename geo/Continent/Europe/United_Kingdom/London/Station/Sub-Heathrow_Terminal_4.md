@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Heathrow_Terminal_4
+coordinates: [[Sub-Heathrow_Terminal_4]]
+markerFile: [[Sub-Heathrow_Terminal_4]]
+defaultZoom: 11 
+maxZoom: 18
+```

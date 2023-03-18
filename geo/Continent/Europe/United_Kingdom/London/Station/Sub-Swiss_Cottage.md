@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Swiss_Cottage
+coordinates: [[Sub-Swiss_Cottage]]
+markerFile: [[Sub-Swiss_Cottage]]
+defaultZoom: 11 
+maxZoom: 18
+```

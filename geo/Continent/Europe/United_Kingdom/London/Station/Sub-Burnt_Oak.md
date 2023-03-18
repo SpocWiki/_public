@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Burnt_Oak
+coordinates: [[Sub-Burnt_Oak]]
+markerFile: [[Sub-Burnt_Oak]]
+defaultZoom: 11 
+maxZoom: 18
+```

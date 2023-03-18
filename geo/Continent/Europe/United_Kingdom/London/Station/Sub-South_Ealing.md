@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-South_Ealing
+coordinates: [[Sub-South_Ealing]]
+markerFile: [[Sub-South_Ealing]]
+defaultZoom: 11 
+maxZoom: 18
+```

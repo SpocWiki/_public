@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Aldgate_East
+coordinates: [[Sub-Aldgate_East]]
+markerFile: [[Sub-Aldgate_East]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-East_Putney
+coordinates: [[Sub-East_Putney]]
+markerFile: [[Sub-East_Putney]]
+defaultZoom: 11 
+maxZoom: 18
+```

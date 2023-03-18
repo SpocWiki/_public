@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Holloway_Road
+coordinates: [[Sub-Holloway_Road]]
+markerFile: [[Sub-Holloway_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Tower_Gateway
+coordinates: [[Sub-Tower_Gateway]]
+markerFile: [[Sub-Tower_Gateway]]
+defaultZoom: 11 
+maxZoom: 18
+```

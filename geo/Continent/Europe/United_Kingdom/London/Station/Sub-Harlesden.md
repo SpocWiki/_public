@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Harlesden
+coordinates: [[Sub-Harlesden]]
+markerFile: [[Sub-Harlesden]]
+defaultZoom: 11 
+maxZoom: 18
+```

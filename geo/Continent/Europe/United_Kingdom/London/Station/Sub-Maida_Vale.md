@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Maida_Vale
+coordinates: [[Sub-Maida_Vale]]
+markerFile: [[Sub-Maida_Vale]]
+defaultZoom: 11 
+maxZoom: 18
+```

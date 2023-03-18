@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Brent_Cross
+coordinates: [[Sub-Brent_Cross]]
+markerFile: [[Sub-Brent_Cross]]
+defaultZoom: 11 
+maxZoom: 18
+```

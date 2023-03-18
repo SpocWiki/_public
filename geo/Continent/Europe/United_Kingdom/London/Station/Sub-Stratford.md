@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Stratford
+coordinates: [[Sub-Stratford]]
+markerFile: [[Sub-Stratford]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Kentish_Town
+coordinates: [[Sub-Kentish_Town]]
+markerFile: [[Sub-Kentish_Town]]
+defaultZoom: 11 
+maxZoom: 18
+```

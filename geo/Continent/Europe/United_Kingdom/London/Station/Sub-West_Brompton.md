@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-West_Brompton
+coordinates: [[Sub-West_Brompton]]
+markerFile: [[Sub-West_Brompton]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Sloane_Square
+coordinates: [[Sub-Sloane_Square]]
+markerFile: [[Sub-Sloane_Square]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-New_Cross_Gate
+coordinates: [[Sub-New_Cross_Gate]]
+markerFile: [[Sub-New_Cross_Gate]]
+defaultZoom: 11 
+maxZoom: 18
+```

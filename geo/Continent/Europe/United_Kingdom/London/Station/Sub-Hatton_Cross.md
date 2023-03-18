@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Hatton_Cross
+coordinates: [[Sub-Hatton_Cross]]
+markerFile: [[Sub-Hatton_Cross]]
+defaultZoom: 11 
+maxZoom: 18
+```

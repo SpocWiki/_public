@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Bethnal_Green
+coordinates: [[Sub-Bethnal_Green]]
+markerFile: [[Sub-Bethnal_Green]]
+defaultZoom: 11 
+maxZoom: 18
+```

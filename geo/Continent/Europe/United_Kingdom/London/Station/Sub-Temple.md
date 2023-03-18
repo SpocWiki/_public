@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Temple
+coordinates: [[Sub-Temple]]
+markerFile: [[Sub-Temple]]
+defaultZoom: 11 
+maxZoom: 18
+```

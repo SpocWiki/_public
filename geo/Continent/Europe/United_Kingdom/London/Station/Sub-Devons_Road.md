@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Devons_Road
+coordinates: [[Sub-Devons_Road]]
+markerFile: [[Sub-Devons_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Moor_Park
+coordinates: [[Sub-Moor_Park]]
+markerFile: [[Sub-Moor_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

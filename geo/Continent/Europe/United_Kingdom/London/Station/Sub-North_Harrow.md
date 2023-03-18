@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-North_Harrow
+coordinates: [[Sub-North_Harrow]]
+markerFile: [[Sub-North_Harrow]]
+defaultZoom: 11 
+maxZoom: 18
+```

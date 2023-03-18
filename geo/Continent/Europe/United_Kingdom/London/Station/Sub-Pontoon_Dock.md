@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Pontoon_Dock
+coordinates: [[Sub-Pontoon_Dock]]
+markerFile: [[Sub-Pontoon_Dock]]
+defaultZoom: 11 
+maxZoom: 18
+```

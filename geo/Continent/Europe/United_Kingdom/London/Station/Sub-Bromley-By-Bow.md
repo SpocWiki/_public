@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Bromley-By-Bow
+coordinates: [[Sub-Bromley-By-Bow]]
+markerFile: [[Sub-Bromley-By-Bow]]
+defaultZoom: 11 
+maxZoom: 18
+```

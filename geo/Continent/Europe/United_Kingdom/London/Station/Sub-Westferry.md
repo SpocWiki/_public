@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Westferry
+coordinates: [[Sub-Westferry]]
+markerFile: [[Sub-Westferry]]
+defaultZoom: 11 
+maxZoom: 18
+```

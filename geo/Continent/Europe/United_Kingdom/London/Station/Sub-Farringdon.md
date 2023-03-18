@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Farringdon
+coordinates: [[Sub-Farringdon]]
+markerFile: [[Sub-Farringdon]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Green_Park
+coordinates: [[Sub-Green_Park]]
+markerFile: [[Sub-Green_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

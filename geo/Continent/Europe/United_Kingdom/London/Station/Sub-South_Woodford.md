@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-South_Woodford
+coordinates: [[Sub-South_Woodford]]
+markerFile: [[Sub-South_Woodford]]
+defaultZoom: 11 
+maxZoom: 18
+```

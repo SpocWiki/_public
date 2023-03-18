@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Totteridge_&_Whetstone
+coordinates: [[Sub-Totteridge_&_Whetstone]]
+markerFile: [[Sub-Totteridge_&_Whetstone]]
+defaultZoom: 11 
+maxZoom: 18
+```

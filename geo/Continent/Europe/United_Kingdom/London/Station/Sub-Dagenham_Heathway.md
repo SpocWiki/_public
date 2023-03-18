@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Dagenham_Heathway
+coordinates: [[Sub-Dagenham_Heathway]]
+markerFile: [[Sub-Dagenham_Heathway]]
+defaultZoom: 11 
+maxZoom: 18
+```

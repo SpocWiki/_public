@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Walthamstow_Central
+coordinates: [[Sub-Walthamstow_Central]]
+markerFile: [[Sub-Walthamstow_Central]]
+defaultZoom: 11 
+maxZoom: 18
+```

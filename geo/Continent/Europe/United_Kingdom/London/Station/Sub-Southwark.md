@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Southwark
+coordinates: [[Sub-Southwark]]
+markerFile: [[Sub-Southwark]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Brixton
+coordinates: [[Sub-Brixton]]
+markerFile: [[Sub-Brixton]]
+defaultZoom: 11 
+maxZoom: 18
+```

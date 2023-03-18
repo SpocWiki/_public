@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Barbican
+coordinates: [[Sub-Barbican]]
+markerFile: [[Sub-Barbican]]
+defaultZoom: 11 
+maxZoom: 18
+```

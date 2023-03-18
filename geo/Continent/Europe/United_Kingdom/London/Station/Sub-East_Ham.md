@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-East_Ham
+coordinates: [[Sub-East_Ham]]
+markerFile: [[Sub-East_Ham]]
+defaultZoom: 11 
+maxZoom: 18
+```

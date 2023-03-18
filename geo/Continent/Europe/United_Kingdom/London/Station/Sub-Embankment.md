@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Embankment
+coordinates: [[Sub-Embankment]]
+markerFile: [[Sub-Embankment]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Hanger_Lane
+coordinates: [[Sub-Hanger_Lane]]
+markerFile: [[Sub-Hanger_Lane]]
+defaultZoom: 11 
+maxZoom: 18
+```

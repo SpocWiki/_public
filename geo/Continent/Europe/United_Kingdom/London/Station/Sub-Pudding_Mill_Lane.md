@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Pudding_Mill_Lane
+coordinates: [[Sub-Pudding_Mill_Lane]]
+markerFile: [[Sub-Pudding_Mill_Lane]]
+defaultZoom: 11 
+maxZoom: 18
+```

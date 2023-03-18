@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-High_Street_Kensington
+coordinates: [[Sub-High_Street_Kensington]]
+markerFile: [[Sub-High_Street_Kensington]]
+defaultZoom: 11 
+maxZoom: 18
+```

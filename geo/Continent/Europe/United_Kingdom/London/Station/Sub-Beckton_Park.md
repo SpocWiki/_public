@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Beckton_Park
+coordinates: [[Sub-Beckton_Park]]
+markerFile: [[Sub-Beckton_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

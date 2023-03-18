@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Mansion_House
+coordinates: [[Sub-Mansion_House]]
+markerFile: [[Sub-Mansion_House]]
+defaultZoom: 11 
+maxZoom: 18
+```

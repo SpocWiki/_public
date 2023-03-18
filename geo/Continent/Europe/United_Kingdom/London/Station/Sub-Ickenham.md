@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Ickenham
+coordinates: [[Sub-Ickenham]]
+markerFile: [[Sub-Ickenham]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Willesden_Green
+coordinates: [[Sub-Willesden_Green]]
+markerFile: [[Sub-Willesden_Green]]
+defaultZoom: 11 
+maxZoom: 18
+```

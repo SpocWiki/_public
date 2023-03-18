@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Gloucester_Road
+coordinates: [[Sub-Gloucester_Road]]
+markerFile: [[Sub-Gloucester_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Chalk_Farm
+coordinates: [[Sub-Chalk_Farm]]
+markerFile: [[Sub-Chalk_Farm]]
+defaultZoom: 11 
+maxZoom: 18
+```

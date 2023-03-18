@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Shepherd's_Bush_(C)
+coordinates: [[Sub-Shepherd's_Bush_(C)]]
+markerFile: [[Sub-Shepherd's_Bush_(C)]]
+defaultZoom: 11 
+maxZoom: 18
+```

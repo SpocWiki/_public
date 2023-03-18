@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Chalfont_&_Latimer
+coordinates: [[Sub-Chalfont_&_Latimer]]
+markerFile: [[Sub-Chalfont_&_Latimer]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Leicester_Square
+coordinates: [[Sub-Leicester_Square]]
+markerFile: [[Sub-Leicester_Square]]
+defaultZoom: 11 
+maxZoom: 18
+```

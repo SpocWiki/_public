@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Hammersmith
+coordinates: [[Sub-Hammersmith]]
+markerFile: [[Sub-Hammersmith]]
+defaultZoom: 11 
+maxZoom: 18
+```

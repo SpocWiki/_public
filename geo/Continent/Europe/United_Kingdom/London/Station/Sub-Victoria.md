@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Victoria
+coordinates: [[Sub-Victoria]]
+markerFile: [[Sub-Victoria]]
+defaultZoom: 11 
+maxZoom: 18
+```

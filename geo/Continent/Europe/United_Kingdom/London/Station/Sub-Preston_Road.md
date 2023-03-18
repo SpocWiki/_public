@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Preston_Road
+coordinates: [[Sub-Preston_Road]]
+markerFile: [[Sub-Preston_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-All_Saints
+coordinates: [[Sub-All_Saints]]
+markerFile: [[Sub-All_Saints]]
+defaultZoom: 11 
+maxZoom: 18
+```

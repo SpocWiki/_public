@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Lambeth_North
+coordinates: [[Sub-Lambeth_North]]
+markerFile: [[Sub-Lambeth_North]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Pinner
+coordinates: [[Sub-Pinner]]
+markerFile: [[Sub-Pinner]]
+defaultZoom: 11 
+maxZoom: 18
+```

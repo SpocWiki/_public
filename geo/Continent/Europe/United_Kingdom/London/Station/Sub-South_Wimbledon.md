@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-South_Wimbledon
+coordinates: [[Sub-South_Wimbledon]]
+markerFile: [[Sub-South_Wimbledon]]
+defaultZoom: 11 
+maxZoom: 18
+```

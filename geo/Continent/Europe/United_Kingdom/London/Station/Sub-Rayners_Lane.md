@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Rayners_Lane
+coordinates: [[Sub-Rayners_Lane]]
+markerFile: [[Sub-Rayners_Lane]]
+defaultZoom: 11 
+maxZoom: 18
+```

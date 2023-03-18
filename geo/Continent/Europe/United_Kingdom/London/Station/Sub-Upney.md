@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Upney
+coordinates: [[Sub-Upney]]
+markerFile: [[Sub-Upney]]
+defaultZoom: 11 
+maxZoom: 18
+```

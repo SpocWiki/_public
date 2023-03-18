@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.28,104.37]
 type: State
 tags:
@@ -17,8 +17,6 @@ confidential: public
 [geo-lon::104.37]
 [geo-lat::52.28]
 [Population::]
-
-
 
 ```leaflet
 id: State-Irkutsk_Oblast

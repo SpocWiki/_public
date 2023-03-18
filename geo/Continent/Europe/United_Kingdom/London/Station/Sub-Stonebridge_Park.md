@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Stonebridge_Park
+coordinates: [[Sub-Stonebridge_Park]]
+markerFile: [[Sub-Stonebridge_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

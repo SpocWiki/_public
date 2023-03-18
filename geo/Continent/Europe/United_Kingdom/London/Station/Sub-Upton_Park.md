@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Upton_Park
+coordinates: [[Sub-Upton_Park]]
+markerFile: [[Sub-Upton_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

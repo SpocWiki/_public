@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Oval
+coordinates: [[Sub-Oval]]
+markerFile: [[Sub-Oval]]
+defaultZoom: 11 
+maxZoom: 18
+```

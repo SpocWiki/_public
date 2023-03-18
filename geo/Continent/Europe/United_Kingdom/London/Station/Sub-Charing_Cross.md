@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Charing_Cross
+coordinates: [[Sub-Charing_Cross]]
+markerFile: [[Sub-Charing_Cross]]
+defaultZoom: 11 
+maxZoom: 18
+```

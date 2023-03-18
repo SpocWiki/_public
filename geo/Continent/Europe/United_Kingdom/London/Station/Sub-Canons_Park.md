@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Canons_Park
+coordinates: [[Sub-Canons_Park]]
+markerFile: [[Sub-Canons_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

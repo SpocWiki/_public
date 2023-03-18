@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Rotherhithe
+coordinates: [[Sub-Rotherhithe]]
+markerFile: [[Sub-Rotherhithe]]
+defaultZoom: 11 
+maxZoom: 18
+```

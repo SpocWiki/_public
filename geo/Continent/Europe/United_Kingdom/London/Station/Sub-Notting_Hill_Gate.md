@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Notting_Hill_Gate
+coordinates: [[Sub-Notting_Hill_Gate]]
+markerFile: [[Sub-Notting_Hill_Gate]]
+defaultZoom: 11 
+maxZoom: 18
+```

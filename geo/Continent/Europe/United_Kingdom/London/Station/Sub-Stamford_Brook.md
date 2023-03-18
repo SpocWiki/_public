@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Stamford_Brook
+coordinates: [[Sub-Stamford_Brook]]
+markerFile: [[Sub-Stamford_Brook]]
+defaultZoom: 11 
+maxZoom: 18
+```

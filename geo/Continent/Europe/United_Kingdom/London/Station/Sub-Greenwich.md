@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Greenwich
+coordinates: [[Sub-Greenwich]]
+markerFile: [[Sub-Greenwich]]
+defaultZoom: 11 
+maxZoom: 18
+```

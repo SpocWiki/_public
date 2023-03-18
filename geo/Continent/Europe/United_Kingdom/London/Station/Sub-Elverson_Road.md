@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Elverson_Road
+coordinates: [[Sub-Elverson_Road]]
+markerFile: [[Sub-Elverson_Road]]
+defaultZoom: 11 
+maxZoom: 18
+```

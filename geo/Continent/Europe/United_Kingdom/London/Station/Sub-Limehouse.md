@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Limehouse
+coordinates: [[Sub-Limehouse]]
+markerFile: [[Sub-Limehouse]]
+defaultZoom: 11 
+maxZoom: 18
+```

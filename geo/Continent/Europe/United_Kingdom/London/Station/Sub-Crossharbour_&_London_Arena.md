@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Crossharbour_&_London_Arena
+coordinates: [[Sub-Crossharbour_&_London_Arena]]
+markerFile: [[Sub-Crossharbour_&_London_Arena]]
+defaultZoom: 11 
+maxZoom: 18
+```

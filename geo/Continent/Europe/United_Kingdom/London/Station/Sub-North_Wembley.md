@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-North_Wembley
+coordinates: [[Sub-North_Wembley]]
+markerFile: [[Sub-North_Wembley]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Kensal_Green
+coordinates: [[Sub-Kensal_Green]]
+markerFile: [[Sub-Kensal_Green]]
+defaultZoom: 11 
+maxZoom: 18
+```

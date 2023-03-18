@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Monument
+coordinates: [[Sub-Monument]]
+markerFile: [[Sub-Monument]]
+defaultZoom: 11 
+maxZoom: 18
+```

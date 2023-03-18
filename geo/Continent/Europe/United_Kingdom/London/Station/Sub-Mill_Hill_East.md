@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Mill_Hill_East
+coordinates: [[Sub-Mill_Hill_East]]
+markerFile: [[Sub-Mill_Hill_East]]
+defaultZoom: 11 
+maxZoom: 18
+```

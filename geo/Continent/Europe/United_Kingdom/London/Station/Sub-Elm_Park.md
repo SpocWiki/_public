@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Elm_Park
+coordinates: [[Sub-Elm_Park]]
+markerFile: [[Sub-Elm_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

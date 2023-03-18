@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Arnos_Grove
+coordinates: [[Sub-Arnos_Grove]]
+markerFile: [[Sub-Arnos_Grove]]
+defaultZoom: 11 
+maxZoom: 18
+```

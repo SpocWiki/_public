@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Osterley
+coordinates: [[Sub-Osterley]]
+markerFile: [[Sub-Osterley]]
+defaultZoom: 11 
+maxZoom: 18
+```

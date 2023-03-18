@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-North_Ealing
+coordinates: [[Sub-North_Ealing]]
+markerFile: [[Sub-North_Ealing]]
+defaultZoom: 11 
+maxZoom: 18
+```

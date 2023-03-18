@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Mile_End
+coordinates: [[Sub-Mile_End]]
+markerFile: [[Sub-Mile_End]]
+defaultZoom: 11 
+maxZoom: 18
+```

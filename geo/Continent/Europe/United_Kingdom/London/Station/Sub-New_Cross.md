@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-New_Cross
+coordinates: [[Sub-New_Cross]]
+markerFile: [[Sub-New_Cross]]
+defaultZoom: 11 
+maxZoom: 18
+```

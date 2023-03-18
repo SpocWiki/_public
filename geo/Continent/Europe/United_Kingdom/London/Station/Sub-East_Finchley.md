@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-East_Finchley
+coordinates: [[Sub-East_Finchley]]
+markerFile: [[Sub-East_Finchley]]
+defaultZoom: 11 
+maxZoom: 18
+```

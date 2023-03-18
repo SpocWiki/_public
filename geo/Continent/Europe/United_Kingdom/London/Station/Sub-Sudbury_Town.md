@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Sudbury_Town
+coordinates: [[Sub-Sudbury_Town]]
+markerFile: [[Sub-Sudbury_Town]]
+defaultZoom: 11 
+maxZoom: 18
+```

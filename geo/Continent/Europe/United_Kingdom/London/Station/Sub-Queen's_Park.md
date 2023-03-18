@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Queen's_Park
+coordinates: [[Sub-Queen's_Park]]
+markerFile: [[Sub-Queen's_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

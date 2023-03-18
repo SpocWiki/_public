@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Oxford_Circus
+coordinates: [[Sub-Oxford_Circus]]
+markerFile: [[Sub-Oxford_Circus]]
+defaultZoom: 11 
+maxZoom: 18
+```

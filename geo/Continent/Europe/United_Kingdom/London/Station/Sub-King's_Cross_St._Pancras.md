@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-King's_Cross_St._Pancras
+coordinates: [[Sub-King's_Cross_St._Pancras]]
+markerFile: [[Sub-King's_Cross_St._Pancras]]
+defaultZoom: 11 
+maxZoom: 18
+```

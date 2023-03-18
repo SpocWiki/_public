@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Canary_Wharf
+coordinates: [[Sub-Canary_Wharf]]
+markerFile: [[Sub-Canary_Wharf]]
+defaultZoom: 11 
+maxZoom: 18
+```

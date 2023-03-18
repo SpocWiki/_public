@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Kew_Gardens
+coordinates: [[Sub-Kew_Gardens]]
+markerFile: [[Sub-Kew_Gardens]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Wapping
+coordinates: [[Sub-Wapping]]
+markerFile: [[Sub-Wapping]]
+defaultZoom: 11 
+maxZoom: 18
+```

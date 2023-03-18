@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Upminster_Bridge
+coordinates: [[Sub-Upminster_Bridge]]
+markerFile: [[Sub-Upminster_Bridge]]
+defaultZoom: 11 
+maxZoom: 18
+```

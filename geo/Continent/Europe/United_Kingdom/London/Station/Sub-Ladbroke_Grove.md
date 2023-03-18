@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Ladbroke_Grove
+coordinates: [[Sub-Ladbroke_Grove]]
+markerFile: [[Sub-Ladbroke_Grove]]
+defaultZoom: 11 
+maxZoom: 18
+```

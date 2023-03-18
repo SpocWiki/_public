@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Royal_Oak
+coordinates: [[Sub-Royal_Oak]]
+markerFile: [[Sub-Royal_Oak]]
+defaultZoom: 11 
+maxZoom: 18
+```

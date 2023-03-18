@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Bayswater
+coordinates: [[Sub-Bayswater]]
+markerFile: [[Sub-Bayswater]]
+defaultZoom: 11 
+maxZoom: 18
+```

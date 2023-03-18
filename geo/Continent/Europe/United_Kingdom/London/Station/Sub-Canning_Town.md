@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Canning_Town
+coordinates: [[Sub-Canning_Town]]
+markerFile: [[Sub-Canning_Town]]
+defaultZoom: 11 
+maxZoom: 18
+```

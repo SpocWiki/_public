@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Lewisham
+coordinates: [[Sub-Lewisham]]
+markerFile: [[Sub-Lewisham]]
+defaultZoom: 11 
+maxZoom: 18
+```

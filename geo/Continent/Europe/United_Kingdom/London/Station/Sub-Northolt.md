@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Northolt
+coordinates: [[Sub-Northolt]]
+markerFile: [[Sub-Northolt]]
+defaultZoom: 11 
+maxZoom: 18
+```

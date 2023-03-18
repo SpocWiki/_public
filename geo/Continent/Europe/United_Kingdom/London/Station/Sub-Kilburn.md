@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Kilburn
+coordinates: [[Sub-Kilburn]]
+markerFile: [[Sub-Kilburn]]
+defaultZoom: 11 
+maxZoom: 18
+```

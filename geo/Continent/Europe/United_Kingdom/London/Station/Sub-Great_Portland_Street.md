@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Great_Portland_Street
+coordinates: [[Sub-Great_Portland_Street]]
+markerFile: [[Sub-Great_Portland_Street]]
+defaultZoom: 11 
+maxZoom: 18
+```

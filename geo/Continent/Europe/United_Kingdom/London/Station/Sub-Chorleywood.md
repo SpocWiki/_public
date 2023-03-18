@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Chorleywood
+coordinates: [[Sub-Chorleywood]]
+markerFile: [[Sub-Chorleywood]]
+defaultZoom: 11 
+maxZoom: 18
+```

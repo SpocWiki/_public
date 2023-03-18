@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Blackwall
+coordinates: [[Sub-Blackwall]]
+markerFile: [[Sub-Blackwall]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Kensington_(Olympia)
+coordinates: [[Sub-Kensington_(Olympia)]]
+markerFile: [[Sub-Kensington_(Olympia)]]
+defaultZoom: 11 
+maxZoom: 18
+```

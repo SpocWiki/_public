@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Tufnell_Park
+coordinates: [[Sub-Tufnell_Park]]
+markerFile: [[Sub-Tufnell_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```

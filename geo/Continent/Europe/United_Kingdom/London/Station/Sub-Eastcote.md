@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Eastcote
+coordinates: [[Sub-Eastcote]]
+markerFile: [[Sub-Eastcote]]
+defaultZoom: 11 
+maxZoom: 18
+```

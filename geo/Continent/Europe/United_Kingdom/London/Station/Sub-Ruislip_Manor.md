@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Ruislip_Manor
+coordinates: [[Sub-Ruislip_Manor]]
+markerFile: [[Sub-Ruislip_Manor]]
+defaultZoom: 11 
+maxZoom: 18
+```

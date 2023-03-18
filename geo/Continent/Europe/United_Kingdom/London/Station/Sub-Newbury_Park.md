@@ -20,3 +20,11 @@ confidential: public
 [Country::[[United_Kingdom]]]
 [City::[[London]]]
 
+
+```leaflet
+id: Sub-Newbury_Park
+coordinates: [[Sub-Newbury_Park]]
+markerFile: [[Sub-Newbury_Park]]
+defaultZoom: 11 
+maxZoom: 18
+```
