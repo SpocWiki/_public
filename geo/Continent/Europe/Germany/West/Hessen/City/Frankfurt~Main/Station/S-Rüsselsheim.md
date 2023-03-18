@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rüsselsheim.md
-coordinates: [[S-Rüsselsheim.md]]
-markerFile: [[S-Rüsselsheim.md]]
+coordinates: [[S-Rüsselsheim]]
+markerFile: [[S-Rüsselsheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

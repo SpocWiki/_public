@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Kriftel.md
-coordinates: [[S-Kriftel.md]]
-markerFile: [[S-Kriftel.md]]
+coordinates: [[S-Kriftel]]
+markerFile: [[S-Kriftel]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Galluswarte.md
-coordinates: [[S-Galluswarte.md]]
-markerFile: [[S-Galluswarte.md]]
+coordinates: [[S-Galluswarte]]
+markerFile: [[S-Galluswarte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

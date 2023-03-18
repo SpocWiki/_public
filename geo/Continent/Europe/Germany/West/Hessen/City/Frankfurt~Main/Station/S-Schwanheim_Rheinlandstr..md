@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schwanheim_Rheinlandstr..md
-coordinates: [[S-Schwanheim_Rheinlandstr..md]]
-markerFile: [[S-Schwanheim_Rheinlandstr..md]]
+coordinates: [[S-Schwanheim_Rheinlandstr.]]
+markerFile: [[S-Schwanheim_Rheinlandstr.]]
 defaultZoom: 11 
 maxZoom: 18
 ```

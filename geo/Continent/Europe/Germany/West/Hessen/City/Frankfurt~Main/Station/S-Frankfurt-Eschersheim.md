@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Eschersheim.md
-coordinates: [[S-Frankfurt-Eschersheim.md]]
-markerFile: [[S-Frankfurt-Eschersheim.md]]
+coordinates: [[S-Frankfurt-Eschersheim]]
+markerFile: [[S-Frankfurt-Eschersheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Friedberger_Warte.md
-coordinates: [[S-Friedberger_Warte.md]]
-markerFile: [[S-Friedberger_Warte.md]]
+coordinates: [[S-Friedberger_Warte]]
+markerFile: [[S-Friedberger_Warte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

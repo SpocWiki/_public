@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Baseler_Platz.md
-coordinates: [[S-Baseler_Platz.md]]
-markerFile: [[S-Baseler_Platz.md]]
+coordinates: [[S-Baseler_Platz]]
+markerFile: [[S-Baseler_Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

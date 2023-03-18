@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bockenheimer_Warte.md
-coordinates: [[S-Bockenheimer_Warte.md]]
-markerFile: [[S-Bockenheimer_Warte.md]]
+coordinates: [[S-Bockenheimer_Warte]]
+markerFile: [[S-Bockenheimer_Warte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

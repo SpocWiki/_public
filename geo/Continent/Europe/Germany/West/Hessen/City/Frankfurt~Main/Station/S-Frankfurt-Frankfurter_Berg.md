@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Frankfurter_Berg.md
-coordinates: [[S-Frankfurt-Frankfurter_Berg.md]]
-markerFile: [[S-Frankfurt-Frankfurter_Berg.md]]
+coordinates: [[S-Frankfurt-Frankfurter_Berg]]
+markerFile: [[S-Frankfurt-Frankfurter_Berg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

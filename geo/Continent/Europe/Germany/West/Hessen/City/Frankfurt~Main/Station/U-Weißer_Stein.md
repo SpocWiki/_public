@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Weißer_Stein.md
-coordinates: [[U-Weißer_Stein.md]]
-markerFile: [[U-Weißer_Stein.md]]
+coordinates: [[U-Weißer_Stein]]
+markerFile: [[U-Weißer_Stein]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ Fünfgleisiger Gemeinschaftsbahnhof der U1 und U9 mit der Straßenbahnlinie 16. 
 
 ```leaflet
 id: U-Ginnheim.md
-coordinates: [[U-Ginnheim.md]]
-markerFile: [[U-Ginnheim.md]]
+coordinates: [[U-Ginnheim]]
+markerFile: [[U-Ginnheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

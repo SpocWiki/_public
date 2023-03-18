@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus); Haltestelle auf eingleisigem Abschnitt
 
 ```leaflet
 id: U-Waldlust.md
-coordinates: [[U-Waldlust.md]]
-markerFile: [[U-Waldlust.md]]
+coordinates: [[U-Waldlust]]
+markerFile: [[U-Waldlust]]
 defaultZoom: 11 
 maxZoom: 18
 ```

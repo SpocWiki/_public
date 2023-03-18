@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Seulberg.md
-coordinates: [[S-Seulberg.md]]
-markerFile: [[S-Seulberg.md]]
+coordinates: [[S-Seulberg]]
+markerFile: [[S-Seulberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

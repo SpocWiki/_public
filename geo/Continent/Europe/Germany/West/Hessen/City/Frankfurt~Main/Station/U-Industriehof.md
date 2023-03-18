@@ -24,8 +24,8 @@ Verzweigung der Linien U6 und U7; Stadtbahnstation am Ausgang des C-Tunnels; Gle
 
 ```leaflet
 id: U-Industriehof.md
-coordinates: [[U-Industriehof.md]]
-markerFile: [[U-Industriehof.md]]
+coordinates: [[U-Industriehof]]
+markerFile: [[U-Industriehof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

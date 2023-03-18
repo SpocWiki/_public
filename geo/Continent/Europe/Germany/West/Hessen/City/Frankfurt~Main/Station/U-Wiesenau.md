@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Wiesenau.md
-coordinates: [[U-Wiesenau.md]]
-markerFile: [[U-Wiesenau.md]]
+coordinates: [[U-Wiesenau]]
+markerFile: [[U-Wiesenau]]
 defaultZoom: 11 
 maxZoom: 18
 ```

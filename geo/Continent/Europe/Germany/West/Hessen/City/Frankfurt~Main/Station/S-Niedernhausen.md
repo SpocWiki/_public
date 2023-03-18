@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Niedernhausen.md
-coordinates: [[S-Niedernhausen.md]]
-markerFile: [[S-Niedernhausen.md]]
+coordinates: [[S-Niedernhausen]]
+markerFile: [[S-Niedernhausen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

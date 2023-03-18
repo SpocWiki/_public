@@ -24,8 +24,8 @@ Stadtbahnstation in Mittellage einer Straße
 
 ```leaflet
 id: U-Stephan-Heise-Straße.md
-coordinates: [[U-Stephan-Heise-Straße.md]]
-markerFile: [[U-Stephan-Heise-Straße.md]]
+coordinates: [[U-Stephan-Heise-Straße]]
+markerFile: [[U-Stephan-Heise-Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

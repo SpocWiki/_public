@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rodgau-Dudenhofen.md
-coordinates: [[S-Rodgau-Dudenhofen.md]]
-markerFile: [[S-Rodgau-Dudenhofen.md]]
+coordinates: [[S-Rodgau-Dudenhofen]]
+markerFile: [[S-Rodgau-Dudenhofen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

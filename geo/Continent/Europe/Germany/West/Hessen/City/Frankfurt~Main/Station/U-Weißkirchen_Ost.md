@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus)
 
 ```leaflet
 id: U-Weißkirchen_Ost.md
-coordinates: [[U-Weißkirchen_Ost.md]]
-markerFile: [[U-Weißkirchen_Ost.md]]
+coordinates: [[U-Weißkirchen_Ost]]
+markerFile: [[U-Weißkirchen_Ost]]
 defaultZoom: 11 
 maxZoom: 18
 ```

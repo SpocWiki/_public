@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Offenbach-Waldhof.md
-coordinates: [[S-Offenbach-Waldhof.md]]
-markerFile: [[S-Offenbach-Waldhof.md]]
+coordinates: [[S-Offenbach-Waldhof]]
+markerFile: [[S-Offenbach-Waldhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

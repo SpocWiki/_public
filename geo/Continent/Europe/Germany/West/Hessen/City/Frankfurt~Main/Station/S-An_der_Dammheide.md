@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-An_der_Dammheide.md
-coordinates: [[S-An_der_Dammheide.md]]
-markerFile: [[S-An_der_Dammheide.md]]
+coordinates: [[S-An_der_Dammheide]]
+markerFile: [[S-An_der_Dammheide]]
 defaultZoom: 11 
 maxZoom: 18
 ```

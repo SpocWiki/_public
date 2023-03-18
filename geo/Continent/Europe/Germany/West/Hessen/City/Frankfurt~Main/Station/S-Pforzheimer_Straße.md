@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Pforzheimer_Straße.md
-coordinates: [[S-Pforzheimer_Straße.md]]
-markerFile: [[S-Pforzheimer_Straße.md]]
+coordinates: [[S-Pforzheimer_Straße]]
+markerFile: [[S-Pforzheimer_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

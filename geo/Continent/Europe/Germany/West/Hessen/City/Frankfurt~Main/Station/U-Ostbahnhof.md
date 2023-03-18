@@ -24,8 +24,8 @@ U-Bahnhof mit direktem Tageslichteinfall
 
 ```leaflet
 id: U-Ostbahnhof.md
-coordinates: [[U-Ostbahnhof.md]]
-markerFile: [[U-Ostbahnhof.md]]
+coordinates: [[U-Ostbahnhof]]
+markerFile: [[U-Ostbahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

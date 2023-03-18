@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Theobald-Ziegler-Straße.md
-coordinates: [[U-Theobald-Ziegler-Straße.md]]
-markerFile: [[U-Theobald-Ziegler-Straße.md]]
+coordinates: [[U-Theobald-Ziegler-Straße]]
+markerFile: [[U-Theobald-Ziegler-Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

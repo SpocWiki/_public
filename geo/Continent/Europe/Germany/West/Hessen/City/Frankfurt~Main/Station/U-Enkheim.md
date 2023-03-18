@@ -24,8 +24,8 @@ Endstation der U4 und U7; mit bahnsteiggleichem Umsteigen auf Stadt- und Regiona
 
 ```leaflet
 id: U-Enkheim.md
-coordinates: [[U-Enkheim.md]]
-markerFile: [[U-Enkheim.md]]
+coordinates: [[U-Enkheim]]
+markerFile: [[U-Enkheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

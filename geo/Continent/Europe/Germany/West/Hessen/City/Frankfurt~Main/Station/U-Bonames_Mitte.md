@@ -24,8 +24,8 @@ Bis 27. Mai 1978 mit Wendeschleife
 
 ```leaflet
 id: U-Bonames_Mitte.md
-coordinates: [[U-Bonames_Mitte.md]]
-markerFile: [[U-Bonames_Mitte.md]]
+coordinates: [[U-Bonames_Mitte]]
+markerFile: [[U-Bonames_Mitte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

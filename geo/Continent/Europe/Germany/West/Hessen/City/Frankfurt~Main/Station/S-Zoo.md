@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Zoo.md
-coordinates: [[S-Zoo.md]]
-markerFile: [[S-Zoo.md]]
+coordinates: [[S-Zoo]]
+markerFile: [[S-Zoo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

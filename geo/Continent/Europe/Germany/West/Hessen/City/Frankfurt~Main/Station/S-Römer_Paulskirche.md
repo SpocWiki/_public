@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Römer_Paulskirche.md
-coordinates: [[S-Römer_Paulskirche.md]]
-markerFile: [[S-Römer_Paulskirche.md]]
+coordinates: [[S-Römer_Paulskirche]]
+markerFile: [[S-Römer_Paulskirche]]
 defaultZoom: 11 
 maxZoom: 18
 ```

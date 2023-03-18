@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Zeilsheim.md
-coordinates: [[S-Frankfurt-Zeilsheim.md]]
-markerFile: [[S-Frankfurt-Zeilsheim.md]]
+coordinates: [[S-Frankfurt-Zeilsheim]]
+markerFile: [[S-Frankfurt-Zeilsheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

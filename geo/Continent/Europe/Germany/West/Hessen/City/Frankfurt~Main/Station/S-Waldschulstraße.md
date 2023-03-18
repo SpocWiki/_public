@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Waldschulstraße.md
-coordinates: [[S-Waldschulstraße.md]]
-markerFile: [[S-Waldschulstraße.md]]
+coordinates: [[S-Waldschulstraße]]
+markerFile: [[S-Waldschulstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

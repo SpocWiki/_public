@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Odenwaldstraße.md
-coordinates: [[S-Odenwaldstraße.md]]
-markerFile: [[S-Odenwaldstraße.md]]
+coordinates: [[S-Odenwaldstraße]]
+markerFile: [[S-Odenwaldstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

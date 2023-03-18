@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Dreieich-Buchschlag.md
-coordinates: [[S-Dreieich-Buchschlag.md]]
-markerFile: [[S-Dreieich-Buchschlag.md]]
+coordinates: [[S-Dreieich-Buchschlag]]
+markerFile: [[S-Dreieich-Buchschlag]]
 defaultZoom: 11 
 maxZoom: 18
 ```

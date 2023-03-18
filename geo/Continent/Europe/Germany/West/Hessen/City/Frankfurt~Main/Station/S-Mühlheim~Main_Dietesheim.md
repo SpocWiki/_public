@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mühlheim~Main_Dietesheim.md
-coordinates: [[S-Mühlheim~Main_Dietesheim.md]]
-markerFile: [[S-Mühlheim~Main_Dietesheim.md]]
+coordinates: [[S-Mühlheim~Main_Dietesheim]]
+markerFile: [[S-Mühlheim~Main_Dietesheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Daimlerstraße.md
-coordinates: [[S-Daimlerstraße.md]]
-markerFile: [[S-Daimlerstraße.md]]
+coordinates: [[S-Daimlerstraße]]
+markerFile: [[S-Daimlerstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

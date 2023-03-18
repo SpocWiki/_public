@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schießhüttenstraße.md
-coordinates: [[S-Schießhüttenstraße.md]]
-markerFile: [[S-Schießhüttenstraße.md]]
+coordinates: [[S-Schießhüttenstraße]]
+markerFile: [[S-Schießhüttenstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

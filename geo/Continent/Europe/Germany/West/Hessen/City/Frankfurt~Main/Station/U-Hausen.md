@@ -24,8 +24,8 @@ Endstation der U7; Stadtbahnstation in Mittellage einer Straße
 
 ```leaflet
 id: U-Hausen.md
-coordinates: [[U-Hausen.md]]
-markerFile: [[U-Hausen.md]]
+coordinates: [[U-Hausen]]
+markerFile: [[U-Hausen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

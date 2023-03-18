@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Schäfflestraße.md
-coordinates: [[U-Schäfflestraße.md]]
-markerFile: [[U-Schäfflestraße.md]]
+coordinates: [[U-Schäfflestraße]]
+markerFile: [[U-Schäfflestraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

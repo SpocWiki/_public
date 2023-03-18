@@ -24,8 +24,8 @@ U-Bahn-Station am ehemaligen Wohnort von Wilhelm Busch 1867-1872 und am ehemalig
 
 ```leaflet
 id: U-Westend.md
-coordinates: [[U-Westend.md]]
-markerFile: [[U-Westend.md]]
+coordinates: [[U-Westend]]
+markerFile: [[U-Westend]]
 defaultZoom: 11 
 maxZoom: 18
 ```

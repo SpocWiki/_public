@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Birminghamstraße.md
-coordinates: [[S-Birminghamstraße.md]]
-markerFile: [[S-Birminghamstraße.md]]
+coordinates: [[S-Birminghamstraße]]
+markerFile: [[S-Birminghamstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

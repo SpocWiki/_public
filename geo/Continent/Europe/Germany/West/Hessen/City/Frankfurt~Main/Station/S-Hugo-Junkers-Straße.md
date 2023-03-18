@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Hugo-Junkers-Straße.md
-coordinates: [[S-Hugo-Junkers-Straße.md]]
-markerFile: [[S-Hugo-Junkers-Straße.md]]
+coordinates: [[S-Hugo-Junkers-Straße]]
+markerFile: [[S-Hugo-Junkers-Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

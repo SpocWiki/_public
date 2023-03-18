@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Wiesbaden_Hbf.md
-coordinates: [[S-Wiesbaden_Hbf.md]]
-markerFile: [[S-Wiesbaden_Hbf.md]]
+coordinates: [[S-Wiesbaden_Hbf]]
+markerFile: [[S-Wiesbaden_Hbf]]
 defaultZoom: 11 
 maxZoom: 18
 ```

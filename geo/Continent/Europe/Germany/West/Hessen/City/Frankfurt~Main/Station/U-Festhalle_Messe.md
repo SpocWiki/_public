@@ -24,8 +24,8 @@ U-Bahnhof mit direktem Tageslichteinfall
 
 ```leaflet
 id: U-Festhalle_Messe.md
-coordinates: [[U-Festhalle_Messe.md]]
-markerFile: [[U-Festhalle_Messe.md]]
+coordinates: [[U-Festhalle_Messe]]
+markerFile: [[U-Festhalle_Messe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

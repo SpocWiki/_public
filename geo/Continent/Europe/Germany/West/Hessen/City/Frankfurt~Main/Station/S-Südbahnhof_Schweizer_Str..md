@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Südbahnhof_Schweizer_Str..md
-coordinates: [[S-Südbahnhof_Schweizer_Str..md]]
-markerFile: [[S-Südbahnhof_Schweizer_Str..md]]
+coordinates: [[S-Südbahnhof_Schweizer_Str.]]
+markerFile: [[S-Südbahnhof_Schweizer_Str.]]
 defaultZoom: 11 
 maxZoom: 18
 ```

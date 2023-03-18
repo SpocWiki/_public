@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Allerheiligentor.md
-coordinates: [[S-Allerheiligentor.md]]
-markerFile: [[S-Allerheiligentor.md]]
+coordinates: [[S-Allerheiligentor]]
+markerFile: [[S-Allerheiligentor]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt~Main_Mühlberg.md
-coordinates: [[S-Frankfurt~Main_Mühlberg.md]]
-markerFile: [[S-Frankfurt~Main_Mühlberg.md]]
+coordinates: [[S-Frankfurt~Main_Mühlberg]]
+markerFile: [[S-Frankfurt~Main_Mühlberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Eppstein.md
-coordinates: [[S-Eppstein.md]]
-markerFile: [[S-Eppstein.md]]
+coordinates: [[S-Eppstein]]
+markerFile: [[S-Eppstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```

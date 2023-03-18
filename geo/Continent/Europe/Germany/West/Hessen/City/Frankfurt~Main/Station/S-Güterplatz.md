@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Güterplatz.md
-coordinates: [[S-Güterplatz.md]]
-markerFile: [[S-Güterplatz.md]]
+coordinates: [[S-Güterplatz]]
+markerFile: [[S-Güterplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

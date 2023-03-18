@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Kirchplatz.md
-coordinates: [[U-Kirchplatz.md]]
-markerFile: [[U-Kirchplatz.md]]
+coordinates: [[U-Kirchplatz]]
+markerFile: [[U-Kirchplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

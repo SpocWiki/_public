@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Ludwig-Erhard-Anlage.md
-coordinates: [[S-Ludwig-Erhard-Anlage.md]]
-markerFile: [[S-Ludwig-Erhard-Anlage.md]]
+coordinates: [[S-Ludwig-Erhard-Anlage]]
+markerFile: [[S-Ludwig-Erhard-Anlage]]
 defaultZoom: 11 
 maxZoom: 18
 ```

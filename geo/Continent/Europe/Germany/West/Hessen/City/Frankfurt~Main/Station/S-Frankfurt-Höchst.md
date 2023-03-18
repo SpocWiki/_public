@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Höchst.md
-coordinates: [[S-Frankfurt-Höchst.md]]
-markerFile: [[S-Frankfurt-Höchst.md]]
+coordinates: [[S-Frankfurt-Höchst]]
+markerFile: [[S-Frankfurt-Höchst]]
 defaultZoom: 11 
 maxZoom: 18
 ```

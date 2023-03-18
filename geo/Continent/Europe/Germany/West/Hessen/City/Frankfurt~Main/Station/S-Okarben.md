@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Okarben.md
-coordinates: [[S-Okarben.md]]
-markerFile: [[S-Okarben.md]]
+coordinates: [[S-Okarben]]
+markerFile: [[S-Okarben]]
 defaultZoom: 11 
 maxZoom: 18
 ```

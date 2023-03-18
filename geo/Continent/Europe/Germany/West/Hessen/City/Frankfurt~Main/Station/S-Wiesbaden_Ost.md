@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Wiesbaden_Ost.md
-coordinates: [[S-Wiesbaden_Ost.md]]
-markerFile: [[S-Wiesbaden_Ost.md]]
+coordinates: [[S-Wiesbaden_Ost]]
+markerFile: [[S-Wiesbaden_Ost]]
 defaultZoom: 11 
 maxZoom: 18
 ```

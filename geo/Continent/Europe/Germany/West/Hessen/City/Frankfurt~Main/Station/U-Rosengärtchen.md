@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus); Haltestelle auf eingleisigem Abschnitt
 
 ```leaflet
 id: U-Rosengärtchen.md
-coordinates: [[U-Rosengärtchen.md]]
-markerFile: [[U-Rosengärtchen.md]]
+coordinates: [[U-Rosengärtchen]]
+markerFile: [[U-Rosengärtchen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

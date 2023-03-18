@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus); Abstellanlage; bis 1984 Gleisanschluss zur Deuts
 
 ```leaflet
 id: U-Oberursel_Bahnhof.md
-coordinates: [[U-Oberursel_Bahnhof.md]]
-markerFile: [[U-Oberursel_Bahnhof.md]]
+coordinates: [[U-Oberursel_Bahnhof]]
+markerFile: [[U-Oberursel_Bahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

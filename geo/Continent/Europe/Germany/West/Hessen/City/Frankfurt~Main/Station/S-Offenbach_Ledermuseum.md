@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Offenbach_Ledermuseum.md
-coordinates: [[S-Offenbach_Ledermuseum.md]]
-markerFile: [[S-Offenbach_Ledermuseum.md]]
+coordinates: [[S-Offenbach_Ledermuseum]]
+markerFile: [[S-Offenbach_Ledermuseum]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schwanthalerstraße.md
-coordinates: [[S-Schwanthalerstraße.md]]
-markerFile: [[S-Schwanthalerstraße.md]]
+coordinates: [[S-Schwanthalerstraße]]
+markerFile: [[S-Schwanthalerstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

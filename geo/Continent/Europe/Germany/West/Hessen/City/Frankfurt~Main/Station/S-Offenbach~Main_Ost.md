@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Offenbach~Main_Ost.md
-coordinates: [[S-Offenbach~Main_Ost.md]]
-markerFile: [[S-Offenbach~Main_Ost.md]]
+coordinates: [[S-Offenbach~Main_Ost]]
+markerFile: [[S-Offenbach~Main_Ost]]
 defaultZoom: 11 
 maxZoom: 18
 ```

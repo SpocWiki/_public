@@ -24,8 +24,8 @@ Metrostation auf dem Mittelstreifen einer Stadtautobahn; mit Abstellanlage
 
 ```leaflet
 id: U-Römerstadt.md
-coordinates: [[U-Römerstadt.md]]
-markerFile: [[U-Römerstadt.md]]
+coordinates: [[U-Römerstadt]]
+markerFile: [[U-Römerstadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Galluspark.md
-coordinates: [[S-Galluspark.md]]
-markerFile: [[S-Galluspark.md]]
+coordinates: [[S-Galluspark]]
+markerFile: [[S-Galluspark]]
 defaultZoom: 11 
 maxZoom: 18
 ```

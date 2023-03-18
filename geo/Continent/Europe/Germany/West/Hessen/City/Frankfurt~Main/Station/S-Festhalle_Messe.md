@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Festhalle_Messe.md
-coordinates: [[S-Festhalle_Messe.md]]
-markerFile: [[S-Festhalle_Messe.md]]
+coordinates: [[S-Festhalle_Messe]]
+markerFile: [[S-Festhalle_Messe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

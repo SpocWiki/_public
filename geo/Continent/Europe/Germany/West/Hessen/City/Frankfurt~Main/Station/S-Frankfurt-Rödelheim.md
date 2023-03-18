@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Rödelheim.md
-coordinates: [[S-Frankfurt-Rödelheim.md]]
-markerFile: [[S-Frankfurt-Rödelheim.md]]
+coordinates: [[S-Frankfurt-Rödelheim]]
+markerFile: [[S-Frankfurt-Rödelheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

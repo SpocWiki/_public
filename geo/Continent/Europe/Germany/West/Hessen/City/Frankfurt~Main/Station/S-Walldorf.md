@@ -20,8 +20,8 @@ confidential: public
 Ich habe jetzt auch ein gutes Stück 
 ```leaflet
 id: S-Walldorf.md
-coordinates: [[S-Walldorf.md]]
-markerFile: [[S-Walldorf.md]]
+coordinates: [[S-Walldorf]]
+markerFile: [[S-Walldorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```

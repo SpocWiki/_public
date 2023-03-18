@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Wickerer_Straße.md
-coordinates: [[S-Wickerer_Straße.md]]
-markerFile: [[S-Wickerer_Straße.md]]
+coordinates: [[S-Wickerer_Straße]]
+markerFile: [[S-Wickerer_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

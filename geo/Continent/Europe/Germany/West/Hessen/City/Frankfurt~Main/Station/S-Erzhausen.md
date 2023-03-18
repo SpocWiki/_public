@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Erzhausen.md
-coordinates: [[S-Erzhausen.md]]
-markerFile: [[S-Erzhausen.md]]
+coordinates: [[S-Erzhausen]]
+markerFile: [[S-Erzhausen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Offenbach_Marktplatz.md
-coordinates: [[S-Offenbach_Marktplatz.md]]
-markerFile: [[S-Offenbach_Marktplatz.md]]
+coordinates: [[S-Offenbach_Marktplatz]]
+markerFile: [[S-Offenbach_Marktplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

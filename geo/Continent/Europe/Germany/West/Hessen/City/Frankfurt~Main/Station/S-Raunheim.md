@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Raunheim.md
-coordinates: [[S-Raunheim.md]]
-markerFile: [[S-Raunheim.md]]
+coordinates: [[S-Raunheim]]
+markerFile: [[S-Raunheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

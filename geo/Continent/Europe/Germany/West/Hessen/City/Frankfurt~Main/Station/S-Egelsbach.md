@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Egelsbach.md
-coordinates: [[S-Egelsbach.md]]
-markerFile: [[S-Egelsbach.md]]
+coordinates: [[S-Egelsbach]]
+markerFile: [[S-Egelsbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```

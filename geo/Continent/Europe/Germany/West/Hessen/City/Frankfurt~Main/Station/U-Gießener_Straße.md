@@ -24,8 +24,8 @@ Von 1974 bis 1978 Endhaltestelle der U5. 2013 mit Hochbahnsteigen umgebaut.
 
 ```leaflet
 id: U-Gießener_Straße.md
-coordinates: [[U-Gießener_Straße.md]]
-markerFile: [[U-Gießener_Straße.md]]
+coordinates: [[U-Gießener_Straße]]
+markerFile: [[U-Gießener_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

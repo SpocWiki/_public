@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rodgau-Jügesheim.md
-coordinates: [[S-Rodgau-Jügesheim.md]]
-markerFile: [[S-Rodgau-Jügesheim.md]]
+coordinates: [[S-Rodgau-Jügesheim]]
+markerFile: [[S-Rodgau-Jügesheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

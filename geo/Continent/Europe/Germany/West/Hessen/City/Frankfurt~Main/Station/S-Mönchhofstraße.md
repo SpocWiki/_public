@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mönchhofstraße.md
-coordinates: [[S-Mönchhofstraße.md]]
-markerFile: [[S-Mönchhofstraße.md]]
+coordinates: [[S-Mönchhofstraße]]
+markerFile: [[S-Mönchhofstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Universitätsklinikum.md
-coordinates: [[S-Universitätsklinikum.md]]
-markerFile: [[S-Universitätsklinikum.md]]
+coordinates: [[S-Universitätsklinikum]]
+markerFile: [[S-Universitätsklinikum]]
 defaultZoom: 11 
 maxZoom: 18
 ```

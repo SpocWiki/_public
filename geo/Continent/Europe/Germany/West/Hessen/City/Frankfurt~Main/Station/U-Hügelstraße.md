@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Hügelstraße.md
-coordinates: [[U-Hügelstraße.md]]
-markerFile: [[U-Hügelstraße.md]]
+coordinates: [[U-Hügelstraße]]
+markerFile: [[U-Hügelstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Melibocusstraße.md
-coordinates: [[S-Melibocusstraße.md]]
-markerFile: [[S-Melibocusstraße.md]]
+coordinates: [[S-Melibocusstraße]]
+markerFile: [[S-Melibocusstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

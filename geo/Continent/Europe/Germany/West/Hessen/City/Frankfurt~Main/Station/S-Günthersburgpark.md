@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Günthersburgpark.md
-coordinates: [[S-Günthersburgpark.md]]
-markerFile: [[S-Günthersburgpark.md]]
+coordinates: [[S-Günthersburgpark]]
+markerFile: [[S-Günthersburgpark]]
 defaultZoom: 11 
 maxZoom: 18
 ```

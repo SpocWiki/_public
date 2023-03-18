@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Sigmund-Freud-Straße.md
-coordinates: [[U-Sigmund-Freud-Straße.md]]
-markerFile: [[U-Sigmund-Freud-Straße.md]]
+coordinates: [[U-Sigmund-Freud-Straße]]
+markerFile: [[U-Sigmund-Freud-Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

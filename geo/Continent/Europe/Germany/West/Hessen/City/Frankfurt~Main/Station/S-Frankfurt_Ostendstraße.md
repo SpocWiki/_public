@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt_Ostendstraße.md
-coordinates: [[S-Frankfurt_Ostendstraße.md]]
-markerFile: [[S-Frankfurt_Ostendstraße.md]]
+coordinates: [[S-Frankfurt_Ostendstraße]]
+markerFile: [[S-Frankfurt_Ostendstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

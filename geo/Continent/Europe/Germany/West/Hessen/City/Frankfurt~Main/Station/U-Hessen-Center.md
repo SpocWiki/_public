@@ -24,8 +24,8 @@ Erschließt das gleichnamige Einkaufszentrum: das Hessen-Center
 
 ```leaflet
 id: U-Hessen-Center.md
-coordinates: [[U-Hessen-Center.md]]
-markerFile: [[U-Hessen-Center.md]]
+coordinates: [[U-Hessen-Center]]
+markerFile: [[U-Hessen-Center]]
 defaultZoom: 11 
 maxZoom: 18
 ```

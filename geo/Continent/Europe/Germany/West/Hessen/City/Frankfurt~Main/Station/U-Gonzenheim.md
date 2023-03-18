@@ -24,8 +24,8 @@ Nördlicher Endpunkt der Linie U2 im Stadtgebiet Bad Homburg vor der Höhe.
 
 ```leaflet
 id: U-Gonzenheim.md
-coordinates: [[U-Gonzenheim.md]]
-markerFile: [[U-Gonzenheim.md]]
+coordinates: [[U-Gonzenheim]]
+markerFile: [[U-Gonzenheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

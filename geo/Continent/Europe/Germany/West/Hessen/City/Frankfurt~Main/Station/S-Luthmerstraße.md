@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Luthmerstraße.md
-coordinates: [[S-Luthmerstraße.md]]
-markerFile: [[S-Luthmerstraße.md]]
+coordinates: [[S-Luthmerstraße]]
+markerFile: [[S-Luthmerstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Musterschule.md
-coordinates: [[U-Musterschule.md]]
-markerFile: [[U-Musterschule.md]]
+coordinates: [[U-Musterschule]]
+markerFile: [[U-Musterschule]]
 defaultZoom: 11 
 maxZoom: 18
 ```

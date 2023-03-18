@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Eissporthalle_Festplatz.md
-coordinates: [[S-Eissporthalle_Festplatz.md]]
-markerFile: [[S-Eissporthalle_Festplatz.md]]
+coordinates: [[S-Eissporthalle_Festplatz]]
+markerFile: [[S-Eissporthalle_Festplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus); früher: Liebfrauenstraße
 
 ```leaflet
 id: U-Oberursel_Stadtmitte.md
-coordinates: [[U-Oberursel_Stadtmitte.md]]
-markerFile: [[U-Oberursel_Stadtmitte.md]]
+coordinates: [[U-Oberursel_Stadtmitte]]
+markerFile: [[U-Oberursel_Stadtmitte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

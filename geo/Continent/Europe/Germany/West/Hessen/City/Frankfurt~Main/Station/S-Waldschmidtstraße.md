@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Waldschmidtstraße.md
-coordinates: [[S-Waldschmidtstraße.md]]
-markerFile: [[S-Waldschmidtstraße.md]]
+coordinates: [[S-Waldschmidtstraße]]
+markerFile: [[S-Waldschmidtstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

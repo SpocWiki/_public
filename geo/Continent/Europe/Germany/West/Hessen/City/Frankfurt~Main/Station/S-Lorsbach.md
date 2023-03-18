@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Lorsbach.md
-coordinates: [[S-Lorsbach.md]]
-markerFile: [[S-Lorsbach.md]]
+coordinates: [[S-Lorsbach]]
+markerFile: [[S-Lorsbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```

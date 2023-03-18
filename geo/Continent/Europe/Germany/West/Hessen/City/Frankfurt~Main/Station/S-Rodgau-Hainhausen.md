@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rodgau-Hainhausen.md
-coordinates: [[S-Rodgau-Hainhausen.md]]
-markerFile: [[S-Rodgau-Hainhausen.md]]
+coordinates: [[S-Rodgau-Hainhausen]]
+markerFile: [[S-Rodgau-Hainhausen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

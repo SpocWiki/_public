@@ -24,8 +24,8 @@ Endstation der U5 an einem kleinen Platz, von wo aus mehrere Buslinien (inklusiv
 
 ```leaflet
 id: U-Preungesheim.md
-coordinates: [[U-Preungesheim.md]]
-markerFile: [[U-Preungesheim.md]]
+coordinates: [[U-Preungesheim]]
+markerFile: [[U-Preungesheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Zuckschwerdtstraße.md
-coordinates: [[S-Zuckschwerdtstraße.md]]
-markerFile: [[S-Zuckschwerdtstraße.md]]
+coordinates: [[S-Zuckschwerdtstraße]]
+markerFile: [[S-Zuckschwerdtstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

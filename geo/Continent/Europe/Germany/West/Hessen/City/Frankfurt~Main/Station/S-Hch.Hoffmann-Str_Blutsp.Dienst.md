@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Hch.Hoffmann-Str_Blutsp.Dienst.md
-coordinates: [[S-Hch.Hoffmann-Str_Blutsp.Dienst.md]]
-markerFile: [[S-Hch.Hoffmann-Str_Blutsp.Dienst.md]]
+coordinates: [[S-Hch.Hoffmann-Str_Blutsp.Dienst]]
+markerFile: [[S-Hch.Hoffmann-Str_Blutsp.Dienst]]
 defaultZoom: 11 
 maxZoom: 18
 ```

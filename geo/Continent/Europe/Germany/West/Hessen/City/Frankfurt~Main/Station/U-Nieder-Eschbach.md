@@ -24,8 +24,8 @@ Abstellanlage; Endstation der U9 und einzelner Züge der U2
 
 ```leaflet
 id: U-Nieder-Eschbach.md
-coordinates: [[U-Nieder-Eschbach.md]]
-markerFile: [[U-Nieder-Eschbach.md]]
+coordinates: [[U-Nieder-Eschbach]]
+markerFile: [[U-Nieder-Eschbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ Stadtgebiet Bad Homburg vor der Höhe
 
 ```leaflet
 id: U-Ober-Eschbach.md
-coordinates: [[U-Ober-Eschbach.md]]
-markerFile: [[U-Ober-Eschbach.md]]
+coordinates: [[U-Ober-Eschbach]]
+markerFile: [[U-Ober-Eschbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```

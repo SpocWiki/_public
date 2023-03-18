@@ -24,8 +24,8 @@ Südlicher Endpunkt der ersten Frankfurter U-Bahn-Linie
 
 ```leaflet
 id: U-Hauptwache.md
-coordinates: [[U-Hauptwache.md]]
-markerFile: [[U-Hauptwache.md]]
+coordinates: [[U-Hauptwache]]
+markerFile: [[U-Hauptwache]]
 defaultZoom: 11 
 maxZoom: 18
 ```

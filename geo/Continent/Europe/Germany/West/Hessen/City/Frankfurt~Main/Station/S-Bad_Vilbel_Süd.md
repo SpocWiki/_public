@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bad_Vilbel_Süd.md
-coordinates: [[S-Bad_Vilbel_Süd.md]]
-markerFile: [[S-Bad_Vilbel_Süd.md]]
+coordinates: [[S-Bad_Vilbel_Süd]]
+markerFile: [[S-Bad_Vilbel_Süd]]
 defaultZoom: 11 
 maxZoom: 18
 ```

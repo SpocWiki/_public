@@ -24,8 +24,8 @@ Der Bahnhof liegt in großer Tiefe unter einer Tiefgarage. Diese Station hieß b
 
 ```leaflet
 id: U-Dom_Römer.md
-coordinates: [[U-Dom_Römer.md]]
-markerFile: [[U-Dom_Römer.md]]
+coordinates: [[U-Dom_Römer]]
+markerFile: [[U-Dom_Römer]]
 defaultZoom: 11 
 maxZoom: 18
 ```

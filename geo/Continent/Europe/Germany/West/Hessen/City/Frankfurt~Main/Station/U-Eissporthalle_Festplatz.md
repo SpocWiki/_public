@@ -24,8 +24,8 @@ Eissporthalle Frankfurt
 
 ```leaflet
 id: U-Eissporthalle_Festplatz.md
-coordinates: [[U-Eissporthalle_Festplatz.md]]
-markerFile: [[U-Eissporthalle_Festplatz.md]]
+coordinates: [[U-Eissporthalle_Festplatz]]
+markerFile: [[U-Eissporthalle_Festplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

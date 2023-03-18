@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mainz_Hbf.md
-coordinates: [[S-Mainz_Hbf.md]]
-markerFile: [[S-Mainz_Hbf.md]]
+coordinates: [[S-Mainz_Hbf]]
+markerFile: [[S-Mainz_Hbf]]
 defaultZoom: 11 
 maxZoom: 18
 ```

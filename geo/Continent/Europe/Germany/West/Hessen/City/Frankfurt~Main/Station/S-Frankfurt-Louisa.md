@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Louisa.md
-coordinates: [[S-Frankfurt-Louisa.md]]
-markerFile: [[S-Frankfurt-Louisa.md]]
+coordinates: [[S-Frankfurt-Louisa]]
+markerFile: [[S-Frankfurt-Louisa]]
 defaultZoom: 11 
 maxZoom: 18
 ```

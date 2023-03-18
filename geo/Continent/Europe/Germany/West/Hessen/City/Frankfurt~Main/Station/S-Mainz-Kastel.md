@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mainz-Kastel.md
-coordinates: [[S-Mainz-Kastel.md]]
-markerFile: [[S-Mainz-Kastel.md]]
+coordinates: [[S-Mainz-Kastel]]
+markerFile: [[S-Mainz-Kastel]]
 defaultZoom: 11 
 maxZoom: 18
 ```

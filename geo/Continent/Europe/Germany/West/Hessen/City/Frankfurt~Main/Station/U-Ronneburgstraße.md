@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Ronneburgstraße.md
-coordinates: [[U-Ronneburgstraße.md]]
-markerFile: [[U-Ronneburgstraße.md]]
+coordinates: [[U-Ronneburgstraße]]
+markerFile: [[U-Ronneburgstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

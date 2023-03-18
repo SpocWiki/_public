@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt_Lokalbahnhof.md
-coordinates: [[S-Frankfurt_Lokalbahnhof.md]]
-markerFile: [[S-Frankfurt_Lokalbahnhof.md]]
+coordinates: [[S-Frankfurt_Lokalbahnhof]]
+markerFile: [[S-Frankfurt_Lokalbahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

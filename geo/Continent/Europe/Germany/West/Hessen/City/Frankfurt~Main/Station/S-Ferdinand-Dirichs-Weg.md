@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Ferdinand-Dirichs-Weg.md
-coordinates: [[S-Ferdinand-Dirichs-Weg.md]]
-markerFile: [[S-Ferdinand-Dirichs-Weg.md]]
+coordinates: [[S-Ferdinand-Dirichs-Weg]]
+markerFile: [[S-Ferdinand-Dirichs-Weg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

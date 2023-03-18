@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt_Taunusanlage.md
-coordinates: [[S-Frankfurt_Taunusanlage.md]]
-markerFile: [[S-Frankfurt_Taunusanlage.md]]
+coordinates: [[S-Frankfurt_Taunusanlage]]
+markerFile: [[S-Frankfurt_Taunusanlage]]
 defaultZoom: 11 
 maxZoom: 18
 ```

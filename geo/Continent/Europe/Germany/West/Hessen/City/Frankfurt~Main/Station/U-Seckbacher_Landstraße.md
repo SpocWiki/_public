@@ -24,8 +24,8 @@ Mit Wendeanlage; Anschlusstunnel zum Betriebshof Ost; teilweise Endstation der U
 
 ```leaflet
 id: U-Seckbacher_Landstraße.md
-coordinates: [[U-Seckbacher_Landstraße.md]]
-markerFile: [[U-Seckbacher_Landstraße.md]]
+coordinates: [[U-Seckbacher_Landstraße]]
+markerFile: [[U-Seckbacher_Landstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

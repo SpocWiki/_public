@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Niederhöchstadt.md
-coordinates: [[S-Niederhöchstadt.md]]
-markerFile: [[S-Niederhöchstadt.md]]
+coordinates: [[S-Niederhöchstadt]]
+markerFile: [[S-Niederhöchstadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

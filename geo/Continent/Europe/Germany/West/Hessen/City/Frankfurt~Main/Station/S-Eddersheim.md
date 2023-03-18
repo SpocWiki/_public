@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Eddersheim.md
-coordinates: [[S-Eddersheim.md]]
-markerFile: [[S-Eddersheim.md]]
+coordinates: [[S-Eddersheim]]
+markerFile: [[S-Eddersheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

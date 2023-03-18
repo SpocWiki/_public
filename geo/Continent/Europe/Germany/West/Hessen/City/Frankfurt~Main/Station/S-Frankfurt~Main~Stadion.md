@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt~Main~Stadion.md
-coordinates: [[S-Frankfurt~Main~Stadion.md]]
-markerFile: [[S-Frankfurt~Main~Stadion.md]]
+coordinates: [[S-Frankfurt~Main~Stadion]]
+markerFile: [[S-Frankfurt~Main~Stadion]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Nibelungenplatz_FH.md
-coordinates: [[S-Nibelungenplatz_FH.md]]
-markerFile: [[S-Nibelungenplatz_FH.md]]
+coordinates: [[S-Nibelungenplatz_FH]]
+markerFile: [[S-Nibelungenplatz_FH]]
 defaultZoom: 11 
 maxZoom: 18
 ```

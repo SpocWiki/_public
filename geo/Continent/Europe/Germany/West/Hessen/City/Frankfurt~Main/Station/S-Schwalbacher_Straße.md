@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schwalbacher_Straße.md
-coordinates: [[S-Schwalbacher_Straße.md]]
-markerFile: [[S-Schwalbacher_Straße.md]]
+coordinates: [[S-Schwalbacher_Straße]]
+markerFile: [[S-Schwalbacher_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

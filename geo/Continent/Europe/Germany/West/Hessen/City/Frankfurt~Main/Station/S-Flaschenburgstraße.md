@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Flaschenburgstraße.md
-coordinates: [[S-Flaschenburgstraße.md]]
-markerFile: [[S-Flaschenburgstraße.md]]
+coordinates: [[S-Flaschenburgstraße]]
+markerFile: [[S-Flaschenburgstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

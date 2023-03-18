@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Darmstadt-Wixhausen.md
-coordinates: [[S-Darmstadt-Wixhausen.md]]
-markerFile: [[S-Darmstadt-Wixhausen.md]]
+coordinates: [[S-Darmstadt-Wixhausen]]
+markerFile: [[S-Darmstadt-Wixhausen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

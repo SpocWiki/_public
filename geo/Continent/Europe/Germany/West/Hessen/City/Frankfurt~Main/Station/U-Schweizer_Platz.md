@@ -24,8 +24,8 @@ Liegt in größerer Tiefe unter einem Häuserblock
 
 ```leaflet
 id: U-Schweizer_Platz.md
-coordinates: [[U-Schweizer_Platz.md]]
-markerFile: [[U-Schweizer_Platz.md]]
+coordinates: [[U-Schweizer_Platz]]
+markerFile: [[U-Schweizer_Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Flughafen.md
-coordinates: [[S-Frankfurt-Flughafen.md]]
-markerFile: [[S-Frankfurt-Flughafen.md]]
+coordinates: [[S-Frankfurt-Flughafen]]
+markerFile: [[S-Frankfurt-Flughafen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

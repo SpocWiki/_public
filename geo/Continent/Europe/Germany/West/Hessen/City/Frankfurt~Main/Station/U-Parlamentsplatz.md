@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Parlamentsplatz.md
-coordinates: [[U-Parlamentsplatz.md]]
-markerFile: [[U-Parlamentsplatz.md]]
+coordinates: [[U-Parlamentsplatz]]
+markerFile: [[U-Parlamentsplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Uni-Campus_Riedberg.md
-coordinates: [[U-Uni-Campus_Riedberg.md]]
-markerFile: [[U-Uni-Campus_Riedberg.md]]
+coordinates: [[U-Uni-Campus_Riedberg]]
+markerFile: [[U-Uni-Campus_Riedberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

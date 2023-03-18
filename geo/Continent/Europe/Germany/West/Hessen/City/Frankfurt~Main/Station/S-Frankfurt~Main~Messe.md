@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt~Main~Messe.md
-coordinates: [[S-Frankfurt~Main~Messe.md]]
-markerFile: [[S-Frankfurt~Main~Messe.md]]
+coordinates: [[S-Frankfurt~Main~Messe]]
+markerFile: [[S-Frankfurt~Main~Messe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

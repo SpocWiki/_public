@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Heusenstamm.md
-coordinates: [[S-Heusenstamm.md]]
-markerFile: [[S-Heusenstamm.md]]
+coordinates: [[S-Heusenstamm]]
+markerFile: [[S-Heusenstamm]]
 defaultZoom: 11 
 maxZoom: 18
 ```

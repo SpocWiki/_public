@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Markus-Krankenhaus.md
-coordinates: [[S-Markus-Krankenhaus.md]]
-markerFile: [[S-Markus-Krankenhaus.md]]
+coordinates: [[S-Markus-Krankenhaus]]
+markerFile: [[S-Markus-Krankenhaus]]
 defaultZoom: 11 
 maxZoom: 18
 ```

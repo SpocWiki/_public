@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Nieder-Wöllstadt.md
-coordinates: [[S-Nieder-Wöllstadt.md]]
-markerFile: [[S-Nieder-Wöllstadt.md]]
+coordinates: [[S-Nieder-Wöllstadt]]
+markerFile: [[S-Nieder-Wöllstadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

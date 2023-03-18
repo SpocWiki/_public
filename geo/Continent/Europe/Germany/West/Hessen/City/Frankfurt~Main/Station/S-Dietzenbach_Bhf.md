@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Dietzenbach_Bhf.md
-coordinates: [[S-Dietzenbach_Bhf.md]]
-markerFile: [[S-Dietzenbach_Bhf.md]]
+coordinates: [[S-Dietzenbach_Bhf]]
+markerFile: [[S-Dietzenbach_Bhf]]
 defaultZoom: 11 
 maxZoom: 18
 ```

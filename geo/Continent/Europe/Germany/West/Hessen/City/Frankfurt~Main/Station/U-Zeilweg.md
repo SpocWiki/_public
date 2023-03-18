@@ -24,8 +24,8 @@ Station auf ehemaliger Eisenbahnstrecke; mit schrankengesichertem Übergang
 
 ```leaflet
 id: U-Zeilweg.md
-coordinates: [[U-Zeilweg.md]]
-markerFile: [[U-Zeilweg.md]]
+coordinates: [[U-Zeilweg]]
+markerFile: [[U-Zeilweg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

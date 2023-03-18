@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt~Main_Stresemannallee.md
-coordinates: [[S-Frankfurt~Main_Stresemannallee.md]]
-markerFile: [[S-Frankfurt~Main_Stresemannallee.md]]
+coordinates: [[S-Frankfurt~Main_Stresemannallee]]
+markerFile: [[S-Frankfurt~Main_Stresemannallee]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Louisa_Bahnhof.md
-coordinates: [[S-Louisa_Bahnhof.md]]
-markerFile: [[S-Louisa_Bahnhof.md]]
+coordinates: [[S-Louisa_Bahnhof]]
+markerFile: [[S-Louisa_Bahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bremthal.md
-coordinates: [[S-Bremthal.md]]
-markerFile: [[S-Bremthal.md]]
+coordinates: [[S-Bremthal]]
+markerFile: [[S-Bremthal]]
 defaultZoom: 11 
 maxZoom: 18
 ```

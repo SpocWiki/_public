@@ -24,8 +24,8 @@ Dreigleisige Station
 
 ```leaflet
 id: U-Konstablerwache.md
-coordinates: [[U-Konstablerwache.md]]
-markerFile: [[U-Konstablerwache.md]]
+coordinates: [[U-Konstablerwache]]
+markerFile: [[U-Konstablerwache]]
 defaultZoom: 11 
 maxZoom: 18
 ```

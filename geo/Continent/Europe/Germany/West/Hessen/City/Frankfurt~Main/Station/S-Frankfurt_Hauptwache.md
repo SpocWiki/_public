@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt_Hauptwache.md
-coordinates: [[S-Frankfurt_Hauptwache.md]]
-markerFile: [[S-Frankfurt_Hauptwache.md]]
+coordinates: [[S-Frankfurt_Hauptwache]]
+markerFile: [[S-Frankfurt_Hauptwache]]
 defaultZoom: 11 
 maxZoom: 18
 ```

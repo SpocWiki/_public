@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rebstöcker_Straße.md
-coordinates: [[S-Rebstöcker_Straße.md]]
-markerFile: [[S-Rebstöcker_Straße.md]]
+coordinates: [[S-Rebstöcker_Straße]]
+markerFile: [[S-Rebstöcker_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

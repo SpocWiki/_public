@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Harthweg.md
-coordinates: [[S-Harthweg.md]]
-markerFile: [[S-Harthweg.md]]
+coordinates: [[S-Harthweg]]
+markerFile: [[S-Harthweg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

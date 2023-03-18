@@ -24,8 +24,8 @@ Verbindungskurve zur D-Strecke
 
 ```leaflet
 id: U-Bockenheimer_Warte.md
-coordinates: [[U-Bockenheimer_Warte.md]]
-markerFile: [[U-Bockenheimer_Warte.md]]
+coordinates: [[U-Bockenheimer_Warte]]
+markerFile: [[U-Bockenheimer_Warte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

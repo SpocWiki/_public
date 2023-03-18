@@ -24,8 +24,8 @@ Unterhalb dieser aus Süden kommend ersten oberirdischen Haltestelle besteht sei
 
 ```leaflet
 id: U-Dornbusch.md
-coordinates: [[U-Dornbusch.md]]
-markerFile: [[U-Dornbusch.md]]
+coordinates: [[U-Dornbusch]]
+markerFile: [[U-Dornbusch]]
 defaultZoom: 11 
 maxZoom: 18
 ```

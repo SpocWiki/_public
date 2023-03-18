@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Kalbach.md
-coordinates: [[U-Kalbach.md]]
-markerFile: [[U-Kalbach.md]]
+coordinates: [[U-Kalbach]]
+markerFile: [[U-Kalbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```

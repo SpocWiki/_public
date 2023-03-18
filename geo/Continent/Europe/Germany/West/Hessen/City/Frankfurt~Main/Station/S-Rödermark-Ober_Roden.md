@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rödermark-Ober_Roden.md
-coordinates: [[S-Rödermark-Ober_Roden.md]]
-markerFile: [[S-Rödermark-Ober_Roden.md]]
+coordinates: [[S-Rödermark-Ober_Roden]]
+markerFile: [[S-Rödermark-Ober_Roden]]
 defaultZoom: 11 
 maxZoom: 18
 ```

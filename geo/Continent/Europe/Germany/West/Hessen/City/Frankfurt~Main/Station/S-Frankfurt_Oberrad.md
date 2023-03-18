@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt_Oberrad.md
-coordinates: [[S-Frankfurt_Oberrad.md]]
-markerFile: [[S-Frankfurt_Oberrad.md]]
+coordinates: [[S-Frankfurt_Oberrad]]
+markerFile: [[S-Frankfurt_Oberrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Speyerer_Straße.md
-coordinates: [[S-Speyerer_Straße.md]]
-markerFile: [[S-Speyerer_Straße.md]]
+coordinates: [[S-Speyerer_Straße]]
+markerFile: [[S-Speyerer_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

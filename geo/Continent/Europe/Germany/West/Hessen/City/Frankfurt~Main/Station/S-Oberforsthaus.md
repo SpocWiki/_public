@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Oberforsthaus.md
-coordinates: [[S-Oberforsthaus.md]]
-markerFile: [[S-Oberforsthaus.md]]
+coordinates: [[S-Oberforsthaus]]
+markerFile: [[S-Oberforsthaus]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Riedstadt-Goddelau.md
-coordinates: [[S-Riedstadt-Goddelau.md]]
-markerFile: [[S-Riedstadt-Goddelau.md]]
+coordinates: [[S-Riedstadt-Goddelau]]
+markerFile: [[S-Riedstadt-Goddelau]]
 defaultZoom: 11 
 maxZoom: 18
 ```

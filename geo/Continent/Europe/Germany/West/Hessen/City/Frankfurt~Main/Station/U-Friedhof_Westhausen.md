@@ -24,8 +24,8 @@ Stadtbahnstation in Mittellage einer Straße
 
 ```leaflet
 id: U-Friedhof_Westhausen.md
-coordinates: [[U-Friedhof_Westhausen.md]]
-markerFile: [[U-Friedhof_Westhausen.md]]
+coordinates: [[U-Friedhof_Westhausen]]
+markerFile: [[U-Friedhof_Westhausen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

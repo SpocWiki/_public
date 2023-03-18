@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Oberursel~Taunus.md
-coordinates: [[S-Oberursel~Taunus.md]]
-markerFile: [[S-Oberursel~Taunus.md]]
+coordinates: [[S-Oberursel~Taunus]]
+markerFile: [[S-Oberursel~Taunus]]
 defaultZoom: 11 
 maxZoom: 18
 ```

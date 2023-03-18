@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Leonardo-da-Vinci-Allee.md
-coordinates: [[S-Leonardo-da-Vinci-Allee.md]]
-markerFile: [[S-Leonardo-da-Vinci-Allee.md]]
+coordinates: [[S-Leonardo-da-Vinci-Allee]]
+markerFile: [[S-Leonardo-da-Vinci-Allee]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Balduinstraße.md
-coordinates: [[S-Balduinstraße.md]]
-markerFile: [[S-Balduinstraße.md]]
+coordinates: [[S-Balduinstraße]]
+markerFile: [[S-Balduinstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

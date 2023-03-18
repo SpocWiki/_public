@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-S-Bahn-Station_Ostendstraße.md
-coordinates: [[S-S-Bahn-Station_Ostendstraße.md]]
-markerFile: [[S-S-Bahn-Station_Ostendstraße.md]]
+coordinates: [[S-S-Bahn-Station_Ostendstraße]]
+markerFile: [[S-S-Bahn-Station_Ostendstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

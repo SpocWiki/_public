@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Walter-Kolb-Siedlung.md
-coordinates: [[S-Walter-Kolb-Siedlung.md]]
-markerFile: [[S-Walter-Kolb-Siedlung.md]]
+coordinates: [[S-Walter-Kolb-Siedlung]]
+markerFile: [[S-Walter-Kolb-Siedlung]]
 defaultZoom: 11 
 maxZoom: 18
 ```

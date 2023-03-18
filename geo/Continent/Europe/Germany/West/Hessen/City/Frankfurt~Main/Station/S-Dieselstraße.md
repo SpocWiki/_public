@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Dieselstraße.md
-coordinates: [[S-Dieselstraße.md]]
-markerFile: [[S-Dieselstraße.md]]
+coordinates: [[S-Dieselstraße]]
+markerFile: [[S-Dieselstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

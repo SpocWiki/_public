@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mainz_Römisches_Theater.md
-coordinates: [[S-Mainz_Römisches_Theater.md]]
-markerFile: [[S-Mainz_Römisches_Theater.md]]
+coordinates: [[S-Mainz_Römisches_Theater]]
+markerFile: [[S-Mainz_Römisches_Theater]]
 defaultZoom: 11 
 maxZoom: 18
 ```

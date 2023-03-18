@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Cassellastraße.md
-coordinates: [[S-Cassellastraße.md]]
-markerFile: [[S-Cassellastraße.md]]
+coordinates: [[S-Cassellastraße]]
+markerFile: [[S-Cassellastraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

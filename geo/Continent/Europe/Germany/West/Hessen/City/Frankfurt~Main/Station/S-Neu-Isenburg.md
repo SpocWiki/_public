@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Neu-Isenburg.md
-coordinates: [[S-Neu-Isenburg.md]]
-markerFile: [[S-Neu-Isenburg.md]]
+coordinates: [[S-Neu-Isenburg]]
+markerFile: [[S-Neu-Isenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

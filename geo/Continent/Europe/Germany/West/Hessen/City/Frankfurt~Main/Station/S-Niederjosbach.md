@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Niederjosbach.md
-coordinates: [[S-Niederjosbach.md]]
-markerFile: [[S-Niederjosbach.md]]
+coordinates: [[S-Niederjosbach]]
+markerFile: [[S-Niederjosbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```

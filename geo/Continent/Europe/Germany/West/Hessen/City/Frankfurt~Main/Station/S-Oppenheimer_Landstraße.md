@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Oppenheimer_Landstraße.md
-coordinates: [[S-Oppenheimer_Landstraße.md]]
-markerFile: [[S-Oppenheimer_Landstraße.md]]
+coordinates: [[S-Oppenheimer_Landstraße]]
+markerFile: [[S-Oppenheimer_Landstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

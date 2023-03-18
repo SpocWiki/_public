@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Ostbahnhof_Honsellstraße.md
-coordinates: [[S-Ostbahnhof_Honsellstraße.md]]
-markerFile: [[S-Ostbahnhof_Honsellstraße.md]]
+coordinates: [[S-Ostbahnhof_Honsellstraße]]
+markerFile: [[S-Ostbahnhof_Honsellstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ Zwei eingleisige Stationen übereinander
 
 ```leaflet
 id: U-Merianplatz.md
-coordinates: [[U-Merianplatz.md]]
-markerFile: [[U-Merianplatz.md]]
+coordinates: [[U-Merianplatz]]
+markerFile: [[U-Merianplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

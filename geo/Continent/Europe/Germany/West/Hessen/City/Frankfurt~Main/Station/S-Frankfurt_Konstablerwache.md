@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt_Konstablerwache.md
-coordinates: [[S-Frankfurt_Konstablerwache.md]]
-markerFile: [[S-Frankfurt_Konstablerwache.md]]
+coordinates: [[S-Frankfurt_Konstablerwache]]
+markerFile: [[S-Frankfurt_Konstablerwache]]
 defaultZoom: 11 
 maxZoom: 18
 ```

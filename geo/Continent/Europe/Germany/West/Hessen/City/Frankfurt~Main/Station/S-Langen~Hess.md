@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Langen~Hess.md
-coordinates: [[S-Langen~Hess.md]]
-markerFile: [[S-Langen~Hess.md]]
+coordinates: [[S-Langen~Hess]]
+markerFile: [[S-Langen~Hess]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Hohenstaufenstraße.md
-coordinates: [[S-Hohenstaufenstraße.md]]
-markerFile: [[S-Hohenstaufenstraße.md]]
+coordinates: [[S-Hohenstaufenstraße]]
+markerFile: [[S-Hohenstaufenstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

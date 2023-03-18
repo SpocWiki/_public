@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Miquelallee-Polizeipräsidium.md
-coordinates: [[U-Miquelallee-Polizeipräsidium.md]]
-markerFile: [[U-Miquelallee-Polizeipräsidium.md]]
+coordinates: [[U-Miquelallee-Polizeipräsidium]]
+markerFile: [[U-Miquelallee-Polizeipräsidium]]
 defaultZoom: 11 
 maxZoom: 18
 ```

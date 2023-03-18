@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Konstablerwache.md
-coordinates: [[S-Konstablerwache.md]]
-markerFile: [[S-Konstablerwache.md]]
+coordinates: [[S-Konstablerwache]]
+markerFile: [[S-Konstablerwache]]
 defaultZoom: 11 
 maxZoom: 18
 ```

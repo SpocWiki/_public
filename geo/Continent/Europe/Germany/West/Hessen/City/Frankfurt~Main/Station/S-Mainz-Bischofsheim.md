@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mainz-Bischofsheim.md
-coordinates: [[S-Mainz-Bischofsheim.md]]
-markerFile: [[S-Mainz-Bischofsheim.md]]
+coordinates: [[S-Mainz-Bischofsheim]]
+markerFile: [[S-Mainz-Bischofsheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

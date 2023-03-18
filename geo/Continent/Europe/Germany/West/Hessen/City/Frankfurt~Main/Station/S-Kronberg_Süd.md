@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Kronberg_Süd.md
-coordinates: [[S-Kronberg_Süd.md]]
-markerFile: [[S-Kronberg_Süd.md]]
+coordinates: [[S-Kronberg_Süd]]
+markerFile: [[S-Kronberg_Süd]]
 defaultZoom: 11 
 maxZoom: 18
 ```

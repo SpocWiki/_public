@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Habsburgerallee.md
-coordinates: [[U-Habsburgerallee.md]]
-markerFile: [[U-Habsburgerallee.md]]
+coordinates: [[U-Habsburgerallee]]
+markerFile: [[U-Habsburgerallee]]
 defaultZoom: 11 
 maxZoom: 18
 ```

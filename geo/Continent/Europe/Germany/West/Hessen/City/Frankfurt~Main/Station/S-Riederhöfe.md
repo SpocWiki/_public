@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Riederhöfe.md
-coordinates: [[S-Riederhöfe.md]]
-markerFile: [[S-Riederhöfe.md]]
+coordinates: [[S-Riederhöfe]]
+markerFile: [[S-Riederhöfe]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bornheim_Mitte.md
-coordinates: [[S-Bornheim_Mitte.md]]
-markerFile: [[S-Bornheim_Mitte.md]]
+coordinates: [[S-Bornheim_Mitte]]
+markerFile: [[S-Bornheim_Mitte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

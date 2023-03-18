@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bad_Soden~Taunus.md
-coordinates: [[S-Bad_Soden~Taunus.md]]
-markerFile: [[S-Bad_Soden~Taunus.md]]
+coordinates: [[S-Bad_Soden~Taunus]]
+markerFile: [[S-Bad_Soden~Taunus]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rüsselsheim_Opelwerk.md
-coordinates: [[S-Rüsselsheim_Opelwerk.md]]
-markerFile: [[S-Rüsselsheim_Opelwerk.md]]
+coordinates: [[S-Rüsselsheim_Opelwerk]]
+markerFile: [[S-Rüsselsheim_Opelwerk]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Münzenberger_Straße.md
-coordinates: [[S-Münzenberger_Straße.md]]
-markerFile: [[S-Münzenberger_Straße.md]]
+coordinates: [[S-Münzenberger_Straße]]
+markerFile: [[S-Münzenberger_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mainz-Gustavsburg.md
-coordinates: [[S-Mainz-Gustavsburg.md]]
-markerFile: [[S-Mainz-Gustavsburg.md]]
+coordinates: [[S-Mainz-Gustavsburg]]
+markerFile: [[S-Mainz-Gustavsburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

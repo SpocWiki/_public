@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Dietzenbach-Steinberg.md
-coordinates: [[S-Dietzenbach-Steinberg.md]]
-markerFile: [[S-Dietzenbach-Steinberg.md]]
+coordinates: [[S-Dietzenbach-Steinberg]]
+markerFile: [[S-Dietzenbach-Steinberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

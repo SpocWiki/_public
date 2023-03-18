@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Groß-Gerau-Dornheim.md
-coordinates: [[S-Groß-Gerau-Dornheim.md]]
-markerFile: [[S-Groß-Gerau-Dornheim.md]]
+coordinates: [[S-Groß-Gerau-Dornheim]]
+markerFile: [[S-Groß-Gerau-Dornheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

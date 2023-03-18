@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Holzhausenstraße.md
-coordinates: [[U-Holzhausenstraße.md]]
-markerFile: [[U-Holzhausenstraße.md]]
+coordinates: [[U-Holzhausenstraße]]
+markerFile: [[U-Holzhausenstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

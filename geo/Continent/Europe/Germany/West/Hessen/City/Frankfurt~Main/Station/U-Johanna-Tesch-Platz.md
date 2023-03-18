@@ -24,8 +24,8 @@ Mit Abzweig zum Betriebshof Ost; mit Gleiswechsel und Abstellgleis
 
 ```leaflet
 id: U-Johanna-Tesch-Platz.md
-coordinates: [[U-Johanna-Tesch-Platz.md]]
-markerFile: [[U-Johanna-Tesch-Platz.md]]
+coordinates: [[U-Johanna-Tesch-Platz]]
+markerFile: [[U-Johanna-Tesch-Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

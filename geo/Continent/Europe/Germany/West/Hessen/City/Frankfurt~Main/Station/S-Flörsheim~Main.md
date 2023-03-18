@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Flörsheim~Main.md
-coordinates: [[S-Flörsheim~Main.md]]
-markerFile: [[S-Flörsheim~Main.md]]
+coordinates: [[S-Flörsheim~Main]]
+markerFile: [[S-Flörsheim~Main]]
 defaultZoom: 11 
 maxZoom: 18
 ```

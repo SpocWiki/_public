@@ -24,8 +24,8 @@ Die Haltestelle bildet zusammen mit der Haltestelle Marbachweg/Sozialzentrum ein
 
 ```leaflet
 id: U-Eckenheimer_Landstraße_Marbachweg.md
-coordinates: [[U-Eckenheimer_Landstraße_Marbachweg.md]]
-markerFile: [[U-Eckenheimer_Landstraße_Marbachweg.md]]
+coordinates: [[U-Eckenheimer_Landstraße_Marbachweg]]
+markerFile: [[U-Eckenheimer_Landstraße_Marbachweg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

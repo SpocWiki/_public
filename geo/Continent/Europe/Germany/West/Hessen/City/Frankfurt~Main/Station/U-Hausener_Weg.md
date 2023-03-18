@@ -24,8 +24,8 @@ Stadtbahnstation in Mittellage einer Straße
 
 ```leaflet
 id: U-Hausener_Weg.md
-coordinates: [[U-Hausener_Weg.md]]
-markerFile: [[U-Hausener_Weg.md]]
+coordinates: [[U-Hausener_Weg]]
+markerFile: [[U-Hausener_Weg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

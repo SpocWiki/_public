@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rennbahn.md
-coordinates: [[S-Rennbahn.md]]
-markerFile: [[S-Rennbahn.md]]
+coordinates: [[S-Rennbahn]]
+markerFile: [[S-Rennbahn]]
 defaultZoom: 11 
 maxZoom: 18
 ```

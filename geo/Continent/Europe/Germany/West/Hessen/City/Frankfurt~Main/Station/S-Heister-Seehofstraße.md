@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Heister-Seehofstraße.md
-coordinates: [[S-Heister-Seehofstraße.md]]
-markerFile: [[S-Heister-Seehofstraße.md]]
+coordinates: [[S-Heister-Seehofstraße]]
+markerFile: [[S-Heister-Seehofstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

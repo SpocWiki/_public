@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Friedberg~Hess.md
-coordinates: [[S-Friedberg~Hess.md]]
-markerFile: [[S-Friedberg~Hess.md]]
+coordinates: [[S-Friedberg~Hess]]
+markerFile: [[S-Friedberg~Hess]]
 defaultZoom: 11 
 maxZoom: 18
 ```

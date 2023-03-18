@@ -24,8 +24,8 @@ Endstation der U6; hier beginnt eine Anschlussstrecke zur Stadtbahnzentralwerkst
 
 ```leaflet
 id: U-Heerstraße.md
-coordinates: [[U-Heerstraße.md]]
-markerFile: [[U-Heerstraße.md]]
+coordinates: [[U-Heerstraße]]
+markerFile: [[U-Heerstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Lettigkautweg.md
-coordinates: [[S-Lettigkautweg.md]]
-markerFile: [[S-Lettigkautweg.md]]
+coordinates: [[S-Lettigkautweg]]
+markerFile: [[S-Lettigkautweg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

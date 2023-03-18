@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Riedstadt-Wolfskehlen.md
-coordinates: [[S-Riedstadt-Wolfskehlen.md]]
-markerFile: [[S-Riedstadt-Wolfskehlen.md]]
+coordinates: [[S-Riedstadt-Wolfskehlen]]
+markerFile: [[S-Riedstadt-Wolfskehlen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Kronberg_im_Taunus.md
-coordinates: [[S-Kronberg_im_Taunus.md]]
-markerFile: [[S-Kronberg_im_Taunus.md]]
+coordinates: [[S-Kronberg_im_Taunus]]
+markerFile: [[S-Kronberg_im_Taunus]]
 defaultZoom: 11 
 maxZoom: 18
 ```

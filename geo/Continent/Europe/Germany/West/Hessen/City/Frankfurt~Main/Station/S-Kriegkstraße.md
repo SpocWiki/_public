@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Kriegkstraße.md
-coordinates: [[S-Kriegkstraße.md]]
-markerFile: [[S-Kriegkstraße.md]]
+coordinates: [[S-Kriegkstraße]]
+markerFile: [[S-Kriegkstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

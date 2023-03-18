@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Weser-Münchener_Straße.md
-coordinates: [[S-Weser-Münchener_Straße.md]]
-markerFile: [[S-Weser-Münchener_Straße.md]]
+coordinates: [[S-Weser-Münchener_Straße]]
+markerFile: [[S-Weser-Münchener_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

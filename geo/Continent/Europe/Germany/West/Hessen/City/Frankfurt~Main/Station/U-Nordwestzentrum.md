@@ -24,8 +24,8 @@ früher: Nordweststadt
 
 ```leaflet
 id: U-Nordwestzentrum.md
-coordinates: [[U-Nordwestzentrum.md]]
-markerFile: [[U-Nordwestzentrum.md]]
+coordinates: [[U-Nordwestzentrum]]
+markerFile: [[U-Nordwestzentrum]]
 defaultZoom: 11 
 maxZoom: 18
 ```

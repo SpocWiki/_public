@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Steinheim~Main.md
-coordinates: [[S-Steinheim~Main.md]]
-markerFile: [[S-Steinheim~Main.md]]
+coordinates: [[S-Steinheim~Main]]
+markerFile: [[S-Steinheim~Main]]
 defaultZoom: 11 
 maxZoom: 18
 ```

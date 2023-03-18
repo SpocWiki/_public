@@ -24,8 +24,8 @@ Hauptfriedhof
 
 ```leaflet
 id: U-Hauptfriedhof.md
-coordinates: [[U-Hauptfriedhof.md]]
-markerFile: [[U-Hauptfriedhof.md]]
+coordinates: [[U-Hauptfriedhof]]
+markerFile: [[U-Hauptfriedhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

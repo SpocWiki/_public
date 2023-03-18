@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Gravensteiner-Platz.md
-coordinates: [[S-Gravensteiner-Platz.md]]
-markerFile: [[S-Gravensteiner-Platz.md]]
+coordinates: [[S-Gravensteiner-Platz]]
+markerFile: [[S-Gravensteiner-Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

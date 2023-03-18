@@ -24,8 +24,8 @@ ehemalige Straßenbahnstation
 
 ```leaflet
 id: U-Gwinnerstraße.md
-coordinates: [[U-Gwinnerstraße.md]]
-markerFile: [[U-Gwinnerstraße.md]]
+coordinates: [[U-Gwinnerstraße]]
+markerFile: [[U-Gwinnerstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

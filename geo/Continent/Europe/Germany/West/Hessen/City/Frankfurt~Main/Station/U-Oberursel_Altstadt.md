@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus); Die Station hieß bis 13. Dezember 2008 Portstra
 
 ```leaflet
 id: U-Oberursel_Altstadt.md
-coordinates: [[U-Oberursel_Altstadt.md]]
-markerFile: [[U-Oberursel_Altstadt.md]]
+coordinates: [[U-Oberursel_Altstadt]]
+markerFile: [[U-Oberursel_Altstadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

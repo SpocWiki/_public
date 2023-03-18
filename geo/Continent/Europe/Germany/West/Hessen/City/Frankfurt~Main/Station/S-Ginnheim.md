@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Ginnheim.md
-coordinates: [[S-Ginnheim.md]]
-markerFile: [[S-Ginnheim.md]]
+coordinates: [[S-Ginnheim]]
+markerFile: [[S-Ginnheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

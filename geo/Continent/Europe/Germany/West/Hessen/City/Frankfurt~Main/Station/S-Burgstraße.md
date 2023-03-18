@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Burgstraße.md
-coordinates: [[S-Burgstraße.md]]
-markerFile: [[S-Burgstraße.md]]
+coordinates: [[S-Burgstraße]]
+markerFile: [[S-Burgstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

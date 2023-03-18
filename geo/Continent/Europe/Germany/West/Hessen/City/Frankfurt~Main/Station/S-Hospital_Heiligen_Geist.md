@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Hospital_Heiligen_Geist.md
-coordinates: [[S-Hospital_Heiligen_Geist.md]]
-markerFile: [[S-Hospital_Heiligen_Geist.md]]
+coordinates: [[S-Hospital_Heiligen_Geist]]
+markerFile: [[S-Hospital_Heiligen_Geist]]
 defaultZoom: 11 
 maxZoom: 18
 ```

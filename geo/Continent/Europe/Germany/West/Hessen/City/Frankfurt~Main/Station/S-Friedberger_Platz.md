@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Friedberger_Platz.md
-coordinates: [[S-Friedberger_Platz.md]]
-markerFile: [[S-Friedberger_Platz.md]]
+coordinates: [[S-Friedberger_Platz]]
+markerFile: [[S-Friedberger_Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

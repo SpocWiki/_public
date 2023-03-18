@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Börneplatz_Stolzestraße.md
-coordinates: [[S-Börneplatz_Stolzestraße.md]]
-markerFile: [[S-Börneplatz_Stolzestraße.md]]
+coordinates: [[S-Börneplatz_Stolzestraße]]
+markerFile: [[S-Börneplatz_Stolzestraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

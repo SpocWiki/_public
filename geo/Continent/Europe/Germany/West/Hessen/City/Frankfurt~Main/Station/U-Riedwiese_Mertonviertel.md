@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Riedwiese_Mertonviertel.md
-coordinates: [[U-Riedwiese_Mertonviertel.md]]
-markerFile: [[U-Riedwiese_Mertonviertel.md]]
+coordinates: [[U-Riedwiese_Mertonviertel]]
+markerFile: [[U-Riedwiese_Mertonviertel]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Griesheim.md
-coordinates: [[S-Frankfurt-Griesheim.md]]
-markerFile: [[S-Frankfurt-Griesheim.md]]
+coordinates: [[S-Frankfurt-Griesheim]]
+markerFile: [[S-Frankfurt-Griesheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Nied.md
-coordinates: [[S-Frankfurt-Nied.md]]
-markerFile: [[S-Frankfurt-Nied.md]]
+coordinates: [[S-Frankfurt-Nied]]
+markerFile: [[S-Frankfurt-Nied]]
 defaultZoom: 11 
 maxZoom: 18
 ```

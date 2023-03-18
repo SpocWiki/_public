@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rohrbachstr._Friedberger_Ldstr..md
-coordinates: [[S-Rohrbachstr._Friedberger_Ldstr..md]]
-markerFile: [[S-Rohrbachstr._Friedberger_Ldstr..md]]
+coordinates: [[S-Rohrbachstr._Friedberger_Ldstr.]]
+markerFile: [[S-Rohrbachstr._Friedberger_Ldstr.]]
 defaultZoom: 11 
 maxZoom: 18
 ```

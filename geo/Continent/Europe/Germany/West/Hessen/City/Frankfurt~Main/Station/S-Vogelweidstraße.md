@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Vogelweidstraße.md
-coordinates: [[S-Vogelweidstraße.md]]
-markerFile: [[S-Vogelweidstraße.md]]
+coordinates: [[S-Vogelweidstraße]]
+markerFile: [[S-Vogelweidstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

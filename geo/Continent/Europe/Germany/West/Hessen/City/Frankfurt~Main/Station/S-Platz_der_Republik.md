@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Platz_der_Republik.md
-coordinates: [[S-Platz_der_Republik.md]]
-markerFile: [[S-Platz_der_Republik.md]]
+coordinates: [[S-Platz_der_Republik]]
+markerFile: [[S-Platz_der_Republik]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Ostbahnhof_Sonnemannstr..md
-coordinates: [[S-Ostbahnhof_Sonnemannstr..md]]
-markerFile: [[S-Ostbahnhof_Sonnemannstr..md]]
+coordinates: [[S-Ostbahnhof_Sonnemannstr.]]
+markerFile: [[S-Ostbahnhof_Sonnemannstr.]]
 defaultZoom: 11 
 maxZoom: 18
 ```

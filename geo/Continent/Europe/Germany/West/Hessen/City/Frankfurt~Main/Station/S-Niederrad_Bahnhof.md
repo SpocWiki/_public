@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Niederrad_Bahnhof.md
-coordinates: [[S-Niederrad_Bahnhof.md]]
-markerFile: [[S-Niederrad_Bahnhof.md]]
+coordinates: [[S-Niederrad_Bahnhof]]
+markerFile: [[S-Niederrad_Bahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

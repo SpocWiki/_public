@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mainz_Nord.md
-coordinates: [[S-Mainz_Nord.md]]
-markerFile: [[S-Mainz_Nord.md]]
+coordinates: [[S-Mainz_Nord]]
+markerFile: [[S-Mainz_Nord]]
 defaultZoom: 11 
 maxZoom: 18
 ```

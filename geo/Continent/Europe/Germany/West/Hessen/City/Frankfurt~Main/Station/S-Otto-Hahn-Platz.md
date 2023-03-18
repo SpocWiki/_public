@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Otto-Hahn-Platz.md
-coordinates: [[S-Otto-Hahn-Platz.md]]
-markerFile: [[S-Otto-Hahn-Platz.md]]
+coordinates: [[S-Otto-Hahn-Platz]]
+markerFile: [[S-Otto-Hahn-Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

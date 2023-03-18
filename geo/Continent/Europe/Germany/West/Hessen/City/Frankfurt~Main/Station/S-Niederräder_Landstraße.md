@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Niederräder_Landstraße.md
-coordinates: [[S-Niederräder_Landstraße.md]]
-markerFile: [[S-Niederräder_Landstraße.md]]
+coordinates: [[S-Niederräder_Landstraße]]
+markerFile: [[S-Niederräder_Landstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

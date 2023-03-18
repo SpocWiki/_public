@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Oberursel-Stierstadt.md
-coordinates: [[S-Oberursel-Stierstadt.md]]
-markerFile: [[S-Oberursel-Stierstadt.md]]
+coordinates: [[S-Oberursel-Stierstadt]]
+markerFile: [[S-Oberursel-Stierstadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```

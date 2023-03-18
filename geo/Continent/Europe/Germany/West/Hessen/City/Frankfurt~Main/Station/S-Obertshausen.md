@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Obertshausen.md
-coordinates: [[S-Obertshausen.md]]
-markerFile: [[S-Obertshausen.md]]
+coordinates: [[S-Obertshausen]]
+markerFile: [[S-Obertshausen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Saalburg-Wittelsbacherallee.md
-coordinates: [[S-Saalburg-Wittelsbacherallee.md]]
-markerFile: [[S-Saalburg-Wittelsbacherallee.md]]
+coordinates: [[S-Saalburg-Wittelsbacherallee]]
+markerFile: [[S-Saalburg-Wittelsbacherallee]]
 defaultZoom: 11 
 maxZoom: 18
 ```

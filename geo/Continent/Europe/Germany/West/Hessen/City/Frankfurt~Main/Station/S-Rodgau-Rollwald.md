@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rodgau-Rollwald.md
-coordinates: [[S-Rodgau-Rollwald.md]]
-markerFile: [[S-Rodgau-Rollwald.md]]
+coordinates: [[S-Rodgau-Rollwald]]
+markerFile: [[S-Rodgau-Rollwald]]
 defaultZoom: 11 
 maxZoom: 18
 ```

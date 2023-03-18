@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus)
 
 ```leaflet
 id: U-Glöcknerwiese.md
-coordinates: [[U-Glöcknerwiese.md]]
-markerFile: [[U-Glöcknerwiese.md]]
+coordinates: [[U-Glöcknerwiese]]
+markerFile: [[U-Glöcknerwiese]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ Zwei eingleisige Stationen übereinander
 
 ```leaflet
 id: U-Höhenstraße.md
-coordinates: [[U-Höhenstraße.md]]
-markerFile: [[U-Höhenstraße.md]]
+coordinates: [[U-Höhenstraße]]
+markerFile: [[U-Höhenstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

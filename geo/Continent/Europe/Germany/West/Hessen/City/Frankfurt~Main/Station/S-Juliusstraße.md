@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Juliusstraße.md
-coordinates: [[S-Juliusstraße.md]]
-markerFile: [[S-Juliusstraße.md]]
+coordinates: [[S-Juliusstraße]]
+markerFile: [[S-Juliusstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

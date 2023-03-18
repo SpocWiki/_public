@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mainkur_Bahnhof.md
-coordinates: [[S-Mainkur_Bahnhof.md]]
-markerFile: [[S-Mainkur_Bahnhof.md]]
+coordinates: [[S-Mainkur_Bahnhof]]
+markerFile: [[S-Mainkur_Bahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Adalbert-Schloßstraße.md
-coordinates: [[S-Adalbert-Schloßstraße.md]]
-markerFile: [[S-Adalbert-Schloßstraße.md]]
+coordinates: [[S-Adalbert-Schloßstraße]]
+markerFile: [[S-Adalbert-Schloßstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

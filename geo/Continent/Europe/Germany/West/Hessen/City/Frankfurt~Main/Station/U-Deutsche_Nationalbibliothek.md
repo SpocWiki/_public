@@ -24,8 +24,8 @@ Die Haltestelle hieß bis 1997 Adickesallee/Nibelungenallee, danach bis 2007 Nib
 
 ```leaflet
 id: U-Deutsche_Nationalbibliothek.md
-coordinates: [[U-Deutsche_Nationalbibliothek.md]]
-markerFile: [[U-Deutsche_Nationalbibliothek.md]]
+coordinates: [[U-Deutsche_Nationalbibliothek]]
+markerFile: [[U-Deutsche_Nationalbibliothek]]
 defaultZoom: 11 
 maxZoom: 18
 ```

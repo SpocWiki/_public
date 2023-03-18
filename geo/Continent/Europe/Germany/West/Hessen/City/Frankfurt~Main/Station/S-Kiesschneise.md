@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Kiesschneise.md
-coordinates: [[S-Kiesschneise.md]]
-markerFile: [[S-Kiesschneise.md]]
+coordinates: [[S-Kiesschneise]]
+markerFile: [[S-Kiesschneise]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schwalbach~Taunus_Nord.md
-coordinates: [[S-Schwalbach~Taunus_Nord.md]]
-markerFile: [[S-Schwalbach~Taunus_Nord.md]]
+coordinates: [[S-Schwalbach~Taunus_Nord]]
+markerFile: [[S-Schwalbach~Taunus_Nord]]
 defaultZoom: 11 
 maxZoom: 18
 ```

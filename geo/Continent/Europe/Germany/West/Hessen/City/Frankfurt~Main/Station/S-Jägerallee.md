@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Jägerallee.md
-coordinates: [[S-Jägerallee.md]]
-markerFile: [[S-Jägerallee.md]]
+coordinates: [[S-Jägerallee]]
+markerFile: [[S-Jägerallee]]
 defaultZoom: 11 
 maxZoom: 18
 ```

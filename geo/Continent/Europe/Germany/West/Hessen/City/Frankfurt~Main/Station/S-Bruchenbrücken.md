@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bruchenbrücken.md
-coordinates: [[S-Bruchenbrücken.md]]
-markerFile: [[S-Bruchenbrücken.md]]
+coordinates: [[S-Bruchenbrücken]]
+markerFile: [[S-Bruchenbrücken]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Oberschweinstiege.md
-coordinates: [[S-Oberschweinstiege.md]]
-markerFile: [[S-Oberschweinstiege.md]]
+coordinates: [[S-Oberschweinstiege]]
+markerFile: [[S-Oberschweinstiege]]
 defaultZoom: 11 
 maxZoom: 18
 ```

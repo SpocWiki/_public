@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Sandelmühle.md
-coordinates: [[U-Sandelmühle.md]]
-markerFile: [[U-Sandelmühle.md]]
+coordinates: [[U-Sandelmühle]]
+markerFile: [[U-Sandelmühle]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ Am nördlichen Ausgang des Nordweststadttunnels
 
 ```leaflet
 id: U-Heddernheimer_Landstraße.md
-coordinates: [[U-Heddernheimer_Landstraße.md]]
-markerFile: [[U-Heddernheimer_Landstraße.md]]
+coordinates: [[U-Heddernheimer_Landstraße]]
+markerFile: [[U-Heddernheimer_Landstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

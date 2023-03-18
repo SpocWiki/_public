@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Offenbach_Stadtgrenze.md
-coordinates: [[S-Offenbach_Stadtgrenze.md]]
-markerFile: [[S-Offenbach_Stadtgrenze.md]]
+coordinates: [[S-Offenbach_Stadtgrenze]]
+markerFile: [[S-Offenbach_Stadtgrenze]]
 defaultZoom: 11 
 maxZoom: 18
 ```

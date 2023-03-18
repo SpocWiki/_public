@@ -24,8 +24,8 @@ Zwei eingleisige Stationen übereinander
 
 ```leaflet
 id: U-Bornheim_Mitte.md
-coordinates: [[U-Bornheim_Mitte.md]]
-markerFile: [[U-Bornheim_Mitte.md]]
+coordinates: [[U-Bornheim_Mitte]]
+markerFile: [[U-Bornheim_Mitte]]
 defaultZoom: 11 
 maxZoom: 18
 ```

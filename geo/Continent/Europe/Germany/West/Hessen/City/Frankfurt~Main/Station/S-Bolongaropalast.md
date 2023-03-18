@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bolongaropalast.md
-coordinates: [[S-Bolongaropalast.md]]
-markerFile: [[S-Bolongaropalast.md]]
+coordinates: [[S-Bolongaropalast]]
+markerFile: [[S-Bolongaropalast]]
 defaultZoom: 11 
 maxZoom: 18
 ```

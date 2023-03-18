@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Lokalbahnhof.md
-coordinates: [[S-Lokalbahnhof.md]]
-markerFile: [[S-Lokalbahnhof.md]]
+coordinates: [[S-Lokalbahnhof]]
+markerFile: [[S-Lokalbahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

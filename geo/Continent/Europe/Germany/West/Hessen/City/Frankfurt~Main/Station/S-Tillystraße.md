@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Tillystraße.md
-coordinates: [[S-Tillystraße.md]]
-markerFile: [[S-Tillystraße.md]]
+coordinates: [[S-Tillystraße]]
+markerFile: [[S-Tillystraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Niederrad_Haardtwaldplatz.md
-coordinates: [[S-Niederrad_Haardtwaldplatz.md]]
-markerFile: [[S-Niederrad_Haardtwaldplatz.md]]
+coordinates: [[S-Niederrad_Haardtwaldplatz]]
+markerFile: [[S-Niederrad_Haardtwaldplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -22,8 +22,8 @@ confidential: public
 
 ```leaflet
 id: S-Alkmenestraße.md
-coordinates: [[S-Alkmenestraße.md]]
-markerFile: [[S-Alkmenestraße.md]]
+coordinates: [[S-Alkmenestraße]]
+markerFile: [[S-Alkmenestraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

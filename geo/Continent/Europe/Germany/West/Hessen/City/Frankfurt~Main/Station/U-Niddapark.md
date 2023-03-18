@@ -24,8 +24,8 @@ Für Bundesgartenschau 1989 errichtet
 
 ```leaflet
 id: U-Niddapark.md
-coordinates: [[U-Niddapark.md]]
-markerFile: [[U-Niddapark.md]]
+coordinates: [[U-Niddapark]]
+markerFile: [[U-Niddapark]]
 defaultZoom: 11 
 maxZoom: 18
 ```

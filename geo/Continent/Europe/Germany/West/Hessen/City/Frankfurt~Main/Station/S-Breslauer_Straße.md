@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Breslauer_Straße.md
-coordinates: [[S-Breslauer_Straße.md]]
-markerFile: [[S-Breslauer_Straße.md]]
+coordinates: [[S-Breslauer_Straße]]
+markerFile: [[S-Breslauer_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frauenfriedenskirche.md
-coordinates: [[S-Frauenfriedenskirche.md]]
-markerFile: [[S-Frauenfriedenskirche.md]]
+coordinates: [[S-Frauenfriedenskirche]]
+markerFile: [[S-Frauenfriedenskirche]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Niederursel.md
-coordinates: [[U-Niederursel.md]]
-markerFile: [[U-Niederursel.md]]
+coordinates: [[U-Niederursel]]
+markerFile: [[U-Niederursel]]
 defaultZoom: 11 
 maxZoom: 18
 ```

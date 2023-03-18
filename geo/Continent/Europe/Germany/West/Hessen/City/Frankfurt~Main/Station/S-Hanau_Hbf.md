@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Hanau_Hbf.md
-coordinates: [[S-Hanau_Hbf.md]]
-markerFile: [[S-Hanau_Hbf.md]]
+coordinates: [[S-Hanau_Hbf]]
+markerFile: [[S-Hanau_Hbf]]
 defaultZoom: 11 
 maxZoom: 18
 ```

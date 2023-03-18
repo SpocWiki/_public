@@ -24,8 +24,8 @@ Dreigleisiger Verzweigungsbahnhof der Linien U6 und U7
 
 ```leaflet
 id: U-Zoo.md
-coordinates: [[U-Zoo.md]]
-markerFile: [[U-Zoo.md]]
+coordinates: [[U-Zoo]]
+markerFile: [[U-Zoo]]
 defaultZoom: 11 
 maxZoom: 18
 ```

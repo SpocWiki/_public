@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Osthafenplatz.md
-coordinates: [[S-Osthafenplatz.md]]
-markerFile: [[S-Osthafenplatz.md]]
+coordinates: [[S-Osthafenplatz]]
+markerFile: [[S-Osthafenplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

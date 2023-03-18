@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Kuhwaldstraße.md
-coordinates: [[S-Kuhwaldstraße.md]]
-markerFile: [[S-Kuhwaldstraße.md]]
+coordinates: [[S-Kuhwaldstraße]]
+markerFile: [[S-Kuhwaldstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Neu-Isenburg_Stadtgrenze.md
-coordinates: [[S-Neu-Isenburg_Stadtgrenze.md]]
-markerFile: [[S-Neu-Isenburg_Stadtgrenze.md]]
+coordinates: [[S-Neu-Isenburg_Stadtgrenze]]
+markerFile: [[S-Neu-Isenburg_Stadtgrenze]]
 defaultZoom: 11 
 maxZoom: 18
 ```

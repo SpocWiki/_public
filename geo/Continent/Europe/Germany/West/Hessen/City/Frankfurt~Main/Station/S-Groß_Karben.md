@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Groß_Karben.md
-coordinates: [[S-Groß_Karben.md]]
-markerFile: [[S-Groß_Karben.md]]
+coordinates: [[S-Groß_Karben]]
+markerFile: [[S-Groß_Karben]]
 defaultZoom: 11 
 maxZoom: 18
 ```

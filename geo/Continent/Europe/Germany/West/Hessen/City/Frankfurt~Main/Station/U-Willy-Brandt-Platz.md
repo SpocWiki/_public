@@ -24,8 +24,8 @@ Bis 1992 Theaterplatz. Willy-Brandt-Platz
 
 ```leaflet
 id: U-Willy-Brandt-Platz.md
-coordinates: [[U-Willy-Brandt-Platz.md]]
-markerFile: [[U-Willy-Brandt-Platz.md]]
+coordinates: [[U-Willy-Brandt-Platz]]
+markerFile: [[U-Willy-Brandt-Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

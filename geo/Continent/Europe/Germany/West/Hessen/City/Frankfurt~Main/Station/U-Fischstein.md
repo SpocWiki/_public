@@ -24,8 +24,8 @@ Stadtbahnstation in Mittellage einer Straße; seit 31. Mai 2011 mit Hochbahnstei
 
 ```leaflet
 id: U-Fischstein.md
-coordinates: [[U-Fischstein.md]]
-markerFile: [[U-Fischstein.md]]
+coordinates: [[U-Fischstein]]
+markerFile: [[U-Fischstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```

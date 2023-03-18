@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schwalbach~Taunus_Limes.md
-coordinates: [[S-Schwalbach~Taunus_Limes.md]]
-markerFile: [[S-Schwalbach~Taunus_Limes.md]]
+coordinates: [[S-Schwalbach~Taunus_Limes]]
+markerFile: [[S-Schwalbach~Taunus_Limes]]
 defaultZoom: 11 
 maxZoom: 18
 ```

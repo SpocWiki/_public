@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Darmstadt-Arheilgen.md
-coordinates: [[S-Darmstadt-Arheilgen.md]]
-markerFile: [[S-Darmstadt-Arheilgen.md]]
+coordinates: [[S-Darmstadt-Arheilgen]]
+markerFile: [[S-Darmstadt-Arheilgen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

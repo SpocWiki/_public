@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rodgau-Weiskirchen.md
-coordinates: [[S-Rodgau-Weiskirchen.md]]
-markerFile: [[S-Rodgau-Weiskirchen.md]]
+coordinates: [[S-Rodgau-Weiskirchen]]
+markerFile: [[S-Rodgau-Weiskirchen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

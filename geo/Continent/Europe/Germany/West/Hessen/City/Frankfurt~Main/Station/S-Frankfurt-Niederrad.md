@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Niederrad.md
-coordinates: [[S-Frankfurt-Niederrad.md]]
-markerFile: [[S-Frankfurt-Niederrad.md]]
+coordinates: [[S-Frankfurt-Niederrad]]
+markerFile: [[S-Frankfurt-Niederrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```

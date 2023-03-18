@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Eschborn.md
-coordinates: [[S-Eschborn.md]]
-markerFile: [[S-Eschborn.md]]
+coordinates: [[S-Eschborn]]
+markerFile: [[S-Eschborn]]
 defaultZoom: 11 
 maxZoom: 18
 ```

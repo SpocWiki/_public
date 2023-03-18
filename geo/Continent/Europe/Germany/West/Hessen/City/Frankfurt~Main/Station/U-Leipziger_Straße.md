@@ -24,8 +24,8 @@ Zwei eingleisige Stationen übereinander
 
 ```leaflet
 id: U-Leipziger_Straße.md
-coordinates: [[U-Leipziger_Straße.md]]
-markerFile: [[U-Leipziger_Straße.md]]
+coordinates: [[U-Leipziger_Straße]]
+markerFile: [[U-Leipziger_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

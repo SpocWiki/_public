@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Willy-Brandt-Platz.md
-coordinates: [[S-Willy-Brandt-Platz.md]]
-markerFile: [[S-Willy-Brandt-Platz.md]]
+coordinates: [[S-Willy-Brandt-Platz]]
+markerFile: [[S-Willy-Brandt-Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

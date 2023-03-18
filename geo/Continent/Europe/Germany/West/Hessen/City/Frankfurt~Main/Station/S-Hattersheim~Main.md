@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Hattersheim~Main.md
-coordinates: [[S-Hattersheim~Main.md]]
-markerFile: [[S-Hattersheim~Main.md]]
+coordinates: [[S-Hattersheim~Main]]
+markerFile: [[S-Hattersheim~Main]]
 defaultZoom: 11 
 maxZoom: 18
 ```

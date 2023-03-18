@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Wasserpark.md
-coordinates: [[S-Wasserpark.md]]
-markerFile: [[S-Wasserpark.md]]
+coordinates: [[S-Wasserpark]]
+markerFile: [[S-Wasserpark]]
 defaultZoom: 11 
 maxZoom: 18
 ```

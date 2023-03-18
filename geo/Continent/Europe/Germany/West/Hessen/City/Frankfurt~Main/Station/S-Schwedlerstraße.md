@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schwedlerstraße.md
-coordinates: [[S-Schwedlerstraße.md]]
-markerFile: [[S-Schwedlerstraße.md]]
+coordinates: [[S-Schwedlerstraße]]
+markerFile: [[S-Schwedlerstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

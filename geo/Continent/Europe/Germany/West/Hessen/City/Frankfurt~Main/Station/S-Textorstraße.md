@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Textorstraße.md
-coordinates: [[S-Textorstraße.md]]
-markerFile: [[S-Textorstraße.md]]
+coordinates: [[S-Textorstraße]]
+markerFile: [[S-Textorstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

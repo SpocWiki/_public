@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rebstockbad.md
-coordinates: [[S-Rebstockbad.md]]
-markerFile: [[S-Rebstockbad.md]]
+coordinates: [[S-Rebstockbad]]
+markerFile: [[S-Rebstockbad]]
 defaultZoom: 11 
 maxZoom: 18
 ```

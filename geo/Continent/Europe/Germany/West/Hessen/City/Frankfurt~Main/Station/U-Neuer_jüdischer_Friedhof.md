@@ -24,8 +24,8 @@ Die Haltestelle hieß bis 12. Dezember 2009 Versorgungsamt, anschließend bis zu
 
 ```leaflet
 id: U-Neuer_jüdischer_Friedhof.md
-coordinates: [[U-Neuer_jüdischer_Friedhof.md]]
-markerFile: [[U-Neuer_jüdischer_Friedhof.md]]
+coordinates: [[U-Neuer_jüdischer_Friedhof]]
+markerFile: [[U-Neuer_jüdischer_Friedhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bleiweißstraße.md
-coordinates: [[S-Bleiweißstraße.md]]
-markerFile: [[S-Bleiweißstraße.md]]
+coordinates: [[S-Bleiweißstraße]]
+markerFile: [[S-Bleiweißstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

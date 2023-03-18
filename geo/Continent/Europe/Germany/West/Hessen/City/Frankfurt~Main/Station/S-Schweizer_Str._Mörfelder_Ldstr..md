@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schweizer_Str._Mörfelder_Ldstr..md
-coordinates: [[S-Schweizer_Str._Mörfelder_Ldstr..md]]
-markerFile: [[S-Schweizer_Str._Mörfelder_Ldstr..md]]
+coordinates: [[S-Schweizer_Str._Mörfelder_Ldstr.]]
+markerFile: [[S-Schweizer_Str._Mörfelder_Ldstr.]]
 defaultZoom: 11 
 maxZoom: 18
 ```

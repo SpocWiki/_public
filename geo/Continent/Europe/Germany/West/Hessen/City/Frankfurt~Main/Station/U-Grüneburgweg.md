@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Grüneburgweg.md
-coordinates: [[U-Grüneburgweg.md]]
-markerFile: [[U-Grüneburgweg.md]]
+coordinates: [[U-Grüneburgweg]]
+markerFile: [[U-Grüneburgweg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

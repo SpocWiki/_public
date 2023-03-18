@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Habsburger-Wittelsbacherallee.md
-coordinates: [[S-Habsburger-Wittelsbacherallee.md]]
-markerFile: [[S-Habsburger-Wittelsbacherallee.md]]
+coordinates: [[S-Habsburger-Wittelsbacherallee]]
+markerFile: [[S-Habsburger-Wittelsbacherallee]]
 defaultZoom: 11 
 maxZoom: 18
 ```

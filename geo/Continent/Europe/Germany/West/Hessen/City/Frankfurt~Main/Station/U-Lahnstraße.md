@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus); ersetzte die Haltestellen Motorenfabrik und Ober
 
 ```leaflet
 id: U-Lahnstraße.md
-coordinates: [[U-Lahnstraße.md]]
-markerFile: [[U-Lahnstraße.md]]
+coordinates: [[U-Lahnstraße]]
+markerFile: [[U-Lahnstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

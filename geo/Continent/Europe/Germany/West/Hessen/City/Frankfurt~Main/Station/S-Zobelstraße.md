@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Zobelstraße.md
-coordinates: [[S-Zobelstraße.md]]
-markerFile: [[S-Zobelstraße.md]]
+coordinates: [[S-Zobelstraße]]
+markerFile: [[S-Zobelstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

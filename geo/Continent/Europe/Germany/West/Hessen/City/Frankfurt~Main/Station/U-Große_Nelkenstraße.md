@@ -24,8 +24,8 @@ Stadtbahnstation in Mittellage einer Straße
 
 ```leaflet
 id: U-Große_Nelkenstraße.md
-coordinates: [[U-Große_Nelkenstraße.md]]
-markerFile: [[U-Große_Nelkenstraße.md]]
+coordinates: [[U-Große_Nelkenstraße]]
+markerFile: [[U-Große_Nelkenstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

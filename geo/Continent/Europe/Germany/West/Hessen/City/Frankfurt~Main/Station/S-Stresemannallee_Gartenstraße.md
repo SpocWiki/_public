@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Stresemannallee_Gartenstraße.md
-coordinates: [[S-Stresemannallee_Gartenstraße.md]]
-markerFile: [[S-Stresemannallee_Gartenstraße.md]]
+coordinates: [[S-Stresemannallee_Gartenstraße]]
+markerFile: [[S-Stresemannallee_Gartenstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

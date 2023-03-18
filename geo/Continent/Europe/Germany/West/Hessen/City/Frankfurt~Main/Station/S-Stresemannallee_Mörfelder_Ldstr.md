@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Stresemannallee_Mörfelder_Ldstr.md
-coordinates: [[S-Stresemannallee_Mörfelder_Ldstr.md]]
-markerFile: [[S-Stresemannallee_Mörfelder_Ldstr.md]]
+coordinates: [[S-Stresemannallee_Mörfelder_Ldstr]]
+markerFile: [[S-Stresemannallee_Mörfelder_Ldstr]]
 defaultZoom: 11 
 maxZoom: 18
 ```

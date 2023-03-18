@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Triftstraße.md
-coordinates: [[S-Triftstraße.md]]
-markerFile: [[S-Triftstraße.md]]
+coordinates: [[S-Triftstraße]]
+markerFile: [[S-Triftstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

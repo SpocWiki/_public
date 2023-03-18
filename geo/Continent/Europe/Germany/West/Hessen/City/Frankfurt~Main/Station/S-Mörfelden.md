@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Mörfelden.md
-coordinates: [[S-Mörfelden.md]]
-markerFile: [[S-Mörfelden.md]]
+coordinates: [[S-Mörfelden]]
+markerFile: [[S-Mörfelden]]
 defaultZoom: 11 
 maxZoom: 18
 ```

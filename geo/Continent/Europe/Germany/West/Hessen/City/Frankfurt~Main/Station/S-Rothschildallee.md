@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Rothschildallee.md
-coordinates: [[S-Rothschildallee.md]]
-markerFile: [[S-Rothschildallee.md]]
+coordinates: [[S-Rothschildallee]]
+markerFile: [[S-Rothschildallee]]
 defaultZoom: 11 
 maxZoom: 18
 ```

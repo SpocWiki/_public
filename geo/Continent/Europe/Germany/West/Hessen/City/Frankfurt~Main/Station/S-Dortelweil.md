@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Dortelweil.md
-coordinates: [[S-Dortelweil.md]]
-markerFile: [[S-Dortelweil.md]]
+coordinates: [[S-Dortelweil]]
+markerFile: [[S-Dortelweil]]
 defaultZoom: 11 
 maxZoom: 18
 ```

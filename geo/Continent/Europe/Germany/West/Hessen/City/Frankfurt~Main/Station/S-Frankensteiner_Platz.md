@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankensteiner_Platz.md
-coordinates: [[S-Frankensteiner_Platz.md]]
-markerFile: [[S-Frankensteiner_Platz.md]]
+coordinates: [[S-Frankensteiner_Platz]]
+markerFile: [[S-Frankensteiner_Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

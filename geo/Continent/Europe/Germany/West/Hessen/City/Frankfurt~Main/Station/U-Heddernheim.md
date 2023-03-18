@@ -24,8 +24,8 @@ Liegt am Betriebshof Heddernheim
 
 ```leaflet
 id: U-Heddernheim.md
-coordinates: [[U-Heddernheim.md]]
-markerFile: [[U-Heddernheim.md]]
+coordinates: [[U-Heddernheim]]
+markerFile: [[U-Heddernheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

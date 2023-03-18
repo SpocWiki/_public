@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Varrentrappstraße.md
-coordinates: [[S-Varrentrappstraße.md]]
-markerFile: [[S-Varrentrappstraße.md]]
+coordinates: [[S-Varrentrappstraße]]
+markerFile: [[S-Varrentrappstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

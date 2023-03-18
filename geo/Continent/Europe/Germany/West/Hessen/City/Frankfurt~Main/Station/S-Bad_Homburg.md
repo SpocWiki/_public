@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bad_Homburg.md
-coordinates: [[S-Bad_Homburg.md]]
-markerFile: [[S-Bad_Homburg.md]]
+coordinates: [[S-Bad_Homburg]]
+markerFile: [[S-Bad_Homburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

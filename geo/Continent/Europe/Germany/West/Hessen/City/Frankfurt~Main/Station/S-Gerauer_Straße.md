@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Gerauer_Straße.md
-coordinates: [[S-Gerauer_Straße.md]]
-markerFile: [[S-Gerauer_Straße.md]]
+coordinates: [[S-Gerauer_Straße]]
+markerFile: [[S-Gerauer_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

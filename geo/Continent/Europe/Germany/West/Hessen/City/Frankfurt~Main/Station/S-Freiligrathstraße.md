@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Freiligrathstraße.md
-coordinates: [[S-Freiligrathstraße.md]]
-markerFile: [[S-Freiligrathstraße.md]]
+coordinates: [[S-Freiligrathstraße]]
+markerFile: [[S-Freiligrathstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

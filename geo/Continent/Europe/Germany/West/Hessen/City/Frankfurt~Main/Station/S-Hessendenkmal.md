@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Hessendenkmal.md
-coordinates: [[S-Hessendenkmal.md]]
-markerFile: [[S-Hessendenkmal.md]]
+coordinates: [[S-Hessendenkmal]]
+markerFile: [[S-Hessendenkmal]]
 defaultZoom: 11 
 maxZoom: 18
 ```

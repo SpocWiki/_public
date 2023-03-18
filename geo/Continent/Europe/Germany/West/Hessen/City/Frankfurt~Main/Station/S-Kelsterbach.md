@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Kelsterbach.md
-coordinates: [[S-Kelsterbach.md]]
-markerFile: [[S-Kelsterbach.md]]
+coordinates: [[S-Kelsterbach]]
+markerFile: [[S-Kelsterbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```

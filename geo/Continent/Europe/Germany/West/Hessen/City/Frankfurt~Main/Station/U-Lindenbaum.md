@@ -24,8 +24,8 @@ Eschersheimer Linde
 
 ```leaflet
 id: U-Lindenbaum.md
-coordinates: [[U-Lindenbaum.md]]
-markerFile: [[U-Lindenbaum.md]]
+coordinates: [[U-Lindenbaum]]
+markerFile: [[U-Lindenbaum]]
 defaultZoom: 11 
 maxZoom: 18
 ```

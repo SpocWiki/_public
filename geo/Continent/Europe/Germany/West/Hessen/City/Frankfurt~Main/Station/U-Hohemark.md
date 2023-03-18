@@ -24,8 +24,8 @@ Endstation der U3 im Stadtgebiet Oberursel (Taunus); bis 8. Mai 1986 mit Wendesc
 
 ```leaflet
 id: U-Hohemark.md
-coordinates: [[U-Hohemark.md]]
-markerFile: [[U-Hohemark.md]]
+coordinates: [[U-Hohemark]]
+markerFile: [[U-Hohemark]]
 defaultZoom: 11 
 maxZoom: 18
 ```

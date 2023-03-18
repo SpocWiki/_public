@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Glauburgstraße.md
-coordinates: [[U-Glauburgstraße.md]]
-markerFile: [[U-Glauburgstraße.md]]
+coordinates: [[U-Glauburgstraße]]
+markerFile: [[U-Glauburgstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

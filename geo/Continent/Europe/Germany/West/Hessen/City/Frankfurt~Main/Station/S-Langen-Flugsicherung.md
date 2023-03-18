@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Langen-Flugsicherung.md
-coordinates: [[S-Langen-Flugsicherung.md]]
-markerFile: [[S-Langen-Flugsicherung.md]]
+coordinates: [[S-Langen-Flugsicherung]]
+markerFile: [[S-Langen-Flugsicherung]]
 defaultZoom: 11 
 maxZoom: 18
 ```

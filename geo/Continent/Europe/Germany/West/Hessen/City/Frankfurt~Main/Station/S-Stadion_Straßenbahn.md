@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Stadion_Straßenbahn.md
-coordinates: [[S-Stadion_Straßenbahn.md]]
-markerFile: [[S-Stadion_Straßenbahn.md]]
+coordinates: [[S-Stadion_Straßenbahn]]
+markerFile: [[S-Stadion_Straßenbahn]]
 defaultZoom: 11 
 maxZoom: 18
 ```

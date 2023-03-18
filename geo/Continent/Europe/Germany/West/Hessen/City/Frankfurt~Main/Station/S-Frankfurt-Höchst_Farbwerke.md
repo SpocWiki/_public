@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Höchst_Farbwerke.md
-coordinates: [[S-Frankfurt-Höchst_Farbwerke.md]]
-markerFile: [[S-Frankfurt-Höchst_Farbwerke.md]]
+coordinates: [[S-Frankfurt-Höchst_Farbwerke]]
+markerFile: [[S-Frankfurt-Höchst_Farbwerke]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Darmstadt_Hbf.md
-coordinates: [[S-Darmstadt_Hbf.md]]
-markerFile: [[S-Darmstadt_Hbf.md]]
+coordinates: [[S-Darmstadt_Hbf]]
+markerFile: [[S-Darmstadt_Hbf]]
 defaultZoom: 11 
 maxZoom: 18
 ```

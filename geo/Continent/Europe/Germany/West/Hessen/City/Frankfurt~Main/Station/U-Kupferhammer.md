@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus)
 
 ```leaflet
 id: U-Kupferhammer.md
-coordinates: [[U-Kupferhammer.md]]
-markerFile: [[U-Kupferhammer.md]]
+coordinates: [[U-Kupferhammer]]
+markerFile: [[U-Kupferhammer]]
 defaultZoom: 11 
 maxZoom: 18
 ```

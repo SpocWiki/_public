@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Hofheim~Taunus.md
-coordinates: [[S-Hofheim~Taunus.md]]
-markerFile: [[S-Hofheim~Taunus.md]]
+coordinates: [[S-Hofheim~Taunus]]
+markerFile: [[S-Hofheim~Taunus]]
 defaultZoom: 11 
 maxZoom: 18
 ```

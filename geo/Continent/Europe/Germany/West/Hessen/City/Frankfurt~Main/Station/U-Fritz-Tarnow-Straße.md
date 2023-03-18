@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Fritz-Tarnow-Straße.md
-coordinates: [[U-Fritz-Tarnow-Straße.md]]
-markerFile: [[U-Fritz-Tarnow-Straße.md]]
+coordinates: [[U-Fritz-Tarnow-Straße]]
+markerFile: [[U-Fritz-Tarnow-Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

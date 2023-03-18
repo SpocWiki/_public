@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bodenweg.md
-coordinates: [[S-Bodenweg.md]]
-markerFile: [[S-Bodenweg.md]]
+coordinates: [[S-Bodenweg]]
+markerFile: [[S-Bodenweg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

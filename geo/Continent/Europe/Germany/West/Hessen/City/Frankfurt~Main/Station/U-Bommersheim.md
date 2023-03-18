@@ -24,8 +24,8 @@ Stadtgebiet Oberursel (Taunus)
 
 ```leaflet
 id: U-Bommersheim.md
-coordinates: [[U-Bommersheim.md]]
-markerFile: [[U-Bommersheim.md]]
+coordinates: [[U-Bommersheim]]
+markerFile: [[U-Bommersheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

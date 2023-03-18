@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Börneplatz.md
-coordinates: [[S-Börneplatz.md]]
-markerFile: [[S-Börneplatz.md]]
+coordinates: [[S-Börneplatz]]
+markerFile: [[S-Börneplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

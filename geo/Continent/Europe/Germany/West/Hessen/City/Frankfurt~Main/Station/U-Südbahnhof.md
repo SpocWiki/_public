@@ -24,8 +24,8 @@ Mit dreigleisiger Wendeanlage
 
 ```leaflet
 id: U-Südbahnhof.md
-coordinates: [[U-Südbahnhof.md]]
-markerFile: [[U-Südbahnhof.md]]
+coordinates: [[U-Südbahnhof]]
+markerFile: [[U-Südbahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

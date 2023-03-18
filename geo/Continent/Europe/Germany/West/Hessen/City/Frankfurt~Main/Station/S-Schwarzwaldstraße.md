@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schwarzwaldstraße.md
-coordinates: [[S-Schwarzwaldstraße.md]]
-markerFile: [[S-Schwarzwaldstraße.md]]
+coordinates: [[S-Schwarzwaldstraße]]
+markerFile: [[S-Schwarzwaldstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

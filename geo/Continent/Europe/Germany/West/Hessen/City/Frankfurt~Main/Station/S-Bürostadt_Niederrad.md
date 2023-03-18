@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Bürostadt_Niederrad.md
-coordinates: [[S-Bürostadt_Niederrad.md]]
-markerFile: [[S-Bürostadt_Niederrad.md]]
+coordinates: [[S-Bürostadt_Niederrad]]
+markerFile: [[S-Bürostadt_Niederrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```

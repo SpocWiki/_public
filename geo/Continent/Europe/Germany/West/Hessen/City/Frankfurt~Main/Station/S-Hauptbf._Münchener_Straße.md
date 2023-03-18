@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Hauptbf._Münchener_Straße.md
-coordinates: [[S-Hauptbf._Münchener_Straße.md]]
-markerFile: [[S-Hauptbf._Münchener_Straße.md]]
+coordinates: [[S-Hauptbf._Münchener_Straße]]
+markerFile: [[S-Hauptbf._Münchener_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

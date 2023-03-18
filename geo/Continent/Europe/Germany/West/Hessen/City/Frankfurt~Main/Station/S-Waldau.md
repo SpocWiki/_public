@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Waldau.md
-coordinates: [[S-Waldau.md]]
-markerFile: [[S-Waldau.md]]
+coordinates: [[S-Waldau]]
+markerFile: [[S-Waldau]]
 defaultZoom: 11 
 maxZoom: 18
 ```

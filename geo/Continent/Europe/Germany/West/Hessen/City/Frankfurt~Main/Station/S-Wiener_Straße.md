@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Wiener_Straße.md
-coordinates: [[S-Wiener_Straße.md]]
-markerFile: [[S-Wiener_Straße.md]]
+coordinates: [[S-Wiener_Straße]]
+markerFile: [[S-Wiener_Straße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

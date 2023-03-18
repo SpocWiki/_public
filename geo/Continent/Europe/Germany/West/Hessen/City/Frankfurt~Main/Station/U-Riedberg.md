@@ -24,8 +24,8 @@ Endstation der U8
 
 ```leaflet
 id: U-Riedberg.md
-coordinates: [[U-Riedberg.md]]
-markerFile: [[U-Riedberg.md]]
+coordinates: [[U-Riedberg]]
+markerFile: [[U-Riedberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```

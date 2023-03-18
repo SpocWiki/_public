@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Schweizer-Gartenstraße.md
-coordinates: [[S-Schweizer-Gartenstraße.md]]
-markerFile: [[S-Schweizer-Gartenstraße.md]]
+coordinates: [[S-Schweizer-Gartenstraße]]
+markerFile: [[S-Schweizer-Gartenstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

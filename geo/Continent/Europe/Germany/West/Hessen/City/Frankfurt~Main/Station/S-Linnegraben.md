@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Linnegraben.md
-coordinates: [[S-Linnegraben.md]]
-markerFile: [[S-Linnegraben.md]]
+coordinates: [[S-Linnegraben]]
+markerFile: [[S-Linnegraben]]
 defaultZoom: 11 
 maxZoom: 18
 ```

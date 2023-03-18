@@ -24,8 +24,8 @@ Alte Oper
 
 ```leaflet
 id: U-Alte_Oper.md
-coordinates: [[U-Alte_Oper.md]]
-markerFile: [[U-Alte_Oper.md]]
+coordinates: [[U-Alte_Oper]]
+markerFile: [[U-Alte_Oper]]
 defaultZoom: 11 
 maxZoom: 18
 ```

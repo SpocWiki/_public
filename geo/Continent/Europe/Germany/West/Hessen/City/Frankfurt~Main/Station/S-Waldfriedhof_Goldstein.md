@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Waldfriedhof_Goldstein.md
-coordinates: [[S-Waldfriedhof_Goldstein.md]]
-markerFile: [[S-Waldfriedhof_Goldstein.md]]
+coordinates: [[S-Waldfriedhof_Goldstein]]
+markerFile: [[S-Waldfriedhof_Goldstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```

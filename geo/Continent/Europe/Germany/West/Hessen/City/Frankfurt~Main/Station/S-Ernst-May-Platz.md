@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Ernst-May-Platz.md
-coordinates: [[S-Ernst-May-Platz.md]]
-markerFile: [[S-Ernst-May-Platz.md]]
+coordinates: [[S-Ernst-May-Platz]]
+markerFile: [[S-Ernst-May-Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```

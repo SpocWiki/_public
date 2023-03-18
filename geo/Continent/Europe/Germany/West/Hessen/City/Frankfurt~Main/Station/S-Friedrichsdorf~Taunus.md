@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Friedrichsdorf~Taunus.md
-coordinates: [[S-Friedrichsdorf~Taunus.md]]
-markerFile: [[S-Friedrichsdorf~Taunus.md]]
+coordinates: [[S-Friedrichsdorf~Taunus]]
+markerFile: [[S-Friedrichsdorf~Taunus]]
 defaultZoom: 11 
 maxZoom: 18
 ```

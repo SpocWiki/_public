@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Sindlingen.md
-coordinates: [[S-Frankfurt-Sindlingen.md]]
-markerFile: [[S-Frankfurt-Sindlingen.md]]
+coordinates: [[S-Frankfurt-Sindlingen]]
+markerFile: [[S-Frankfurt-Sindlingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```

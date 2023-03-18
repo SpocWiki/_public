@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Alt-Fechenheim.md
-coordinates: [[S-Alt-Fechenheim.md]]
-markerFile: [[S-Alt-Fechenheim.md]]
+coordinates: [[S-Alt-Fechenheim]]
+markerFile: [[S-Alt-Fechenheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

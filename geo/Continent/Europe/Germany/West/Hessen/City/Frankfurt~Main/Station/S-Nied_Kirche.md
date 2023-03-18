@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Nied_Kirche.md
-coordinates: [[S-Nied_Kirche.md]]
-markerFile: [[S-Nied_Kirche.md]]
+coordinates: [[S-Nied_Kirche]]
+markerFile: [[S-Nied_Kirche]]
 defaultZoom: 11 
 maxZoom: 18
 ```

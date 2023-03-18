@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: U-Kruppstraße.md
-coordinates: [[U-Kruppstraße.md]]
-markerFile: [[U-Kruppstraße.md]]
+coordinates: [[U-Kruppstraße]]
+markerFile: [[U-Kruppstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

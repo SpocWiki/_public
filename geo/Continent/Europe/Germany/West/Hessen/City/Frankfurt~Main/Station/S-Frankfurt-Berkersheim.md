@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Frankfurt-Berkersheim.md
-coordinates: [[S-Frankfurt-Berkersheim.md]]
-markerFile: [[S-Frankfurt-Berkersheim.md]]
+coordinates: [[S-Frankfurt-Berkersheim]]
+markerFile: [[S-Frankfurt-Berkersheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```

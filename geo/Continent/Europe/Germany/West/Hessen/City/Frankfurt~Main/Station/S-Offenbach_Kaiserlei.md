@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Offenbach_Kaiserlei.md
-coordinates: [[S-Offenbach_Kaiserlei.md]]
-markerFile: [[S-Offenbach_Kaiserlei.md]]
+coordinates: [[S-Offenbach_Kaiserlei]]
+markerFile: [[S-Offenbach_Kaiserlei]]
 defaultZoom: 11 
 maxZoom: 18
 ```

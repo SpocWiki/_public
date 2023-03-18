@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Offenbach-Bieber.md
-coordinates: [[S-Offenbach-Bieber.md]]
-markerFile: [[S-Offenbach-Bieber.md]]
+coordinates: [[S-Offenbach-Bieber]]
+markerFile: [[S-Offenbach-Bieber]]
 defaultZoom: 11 
 maxZoom: 18
 ```

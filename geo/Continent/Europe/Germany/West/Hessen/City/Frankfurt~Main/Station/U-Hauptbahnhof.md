@@ -24,8 +24,8 @@ Viergleisiger Bahnhof; war als Umsteigeknoten zur D-Strecke geplant
 
 ```leaflet
 id: U-Hauptbahnhof.md
-coordinates: [[U-Hauptbahnhof.md]]
-markerFile: [[U-Hauptbahnhof.md]]
+coordinates: [[U-Hauptbahnhof]]
+markerFile: [[U-Hauptbahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Buchrainstraße.md
-coordinates: [[S-Buchrainstraße.md]]
-markerFile: [[S-Buchrainstraße.md]]
+coordinates: [[S-Buchrainstraße]]
+markerFile: [[S-Buchrainstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```

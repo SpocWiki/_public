@@ -20,8 +20,8 @@ confidential: public
 
 ```leaflet
 id: S-Zeppelinheim.md
-coordinates: [[S-Zeppelinheim.md]]
-markerFile: [[S-Zeppelinheim.md]]
+coordinates: [[S-Zeppelinheim]]
+markerFile: [[S-Zeppelinheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
