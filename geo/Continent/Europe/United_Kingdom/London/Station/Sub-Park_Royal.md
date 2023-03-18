@@ -1,6 +1,8 @@
 ﻿---
 location: [51.527,-0.2841]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: subway 
 tags:
 - geo/Station
 - Europe/United_Kingdom/London
