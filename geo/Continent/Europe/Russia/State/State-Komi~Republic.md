@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::61.6667]
 [Population::]
 
+
+
+```leaflet
+id: State-Komi~Republic
+geojsonFolder: ./State-Komi~Republic/
+markerFolder: ./State-Komi~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

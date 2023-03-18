@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::48.8]
 [Population::]
 
+
+
+```leaflet
+id: State-Jewish_Autonomous_Oblast
+geojsonFolder: ./State-Jewish_Autonomous_Oblast/
+markerFolder: ./State-Jewish_Autonomous_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

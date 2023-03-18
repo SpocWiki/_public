@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::55.75]
 [Population::]
 
+
+
+```leaflet
+id: State-Moscow_Oblast
+geojsonFolder: ./State-Moscow_Oblast/
+markerFolder: ./State-Moscow_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

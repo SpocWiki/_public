@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::54.33]
 [Population::]
 
+
+
+```leaflet
+id: State-Ulyanovsk_Oblast
+geojsonFolder: ./State-Ulyanovsk_Oblast/
+markerFolder: ./State-Ulyanovsk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

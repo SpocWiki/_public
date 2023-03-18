@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::58.55]
 [Population::]
 
+
+
+```leaflet
+id: State-Kirov_Oblast
+geojsonFolder: ./State-Kirov_Oblast/
+markerFolder: ./State-Kirov_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::43.33]
 [Population::]
 
+
+
+```leaflet
+id: State-Chechen~Republic
+geojsonFolder: ./State-Chechen~Republic/
+markerFolder: ./State-Chechen~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

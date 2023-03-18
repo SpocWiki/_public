@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::64.7333]
 [Population::]
 
+
+
+```leaflet
+id: State-Chukotka_Autonomous_Okrug
+geojsonFolder: ./State-Chukotka_Autonomous_Okrug/
+markerFolder: ./State-Chukotka_Autonomous_Okrug/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

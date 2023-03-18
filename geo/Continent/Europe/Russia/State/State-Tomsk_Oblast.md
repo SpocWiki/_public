@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.5]
 [Population::]
 
+
+
+```leaflet
+id: State-Tomsk_Oblast
+geojsonFolder: ./State-Tomsk_Oblast/
+markerFolder: ./State-Tomsk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

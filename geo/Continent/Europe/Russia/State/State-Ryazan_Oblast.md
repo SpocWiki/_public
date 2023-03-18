@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::54.67]
 [Population::]
 
+
+
+```leaflet
+id: State-Ryazan_Oblast
+geojsonFolder: ./State-Ryazan_Oblast/
+markerFolder: ./State-Ryazan_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

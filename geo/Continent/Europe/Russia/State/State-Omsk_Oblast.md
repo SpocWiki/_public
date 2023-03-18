@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::54.98]
 [Population::]
 
+
+
+```leaflet
+id: State-Omsk_Oblast
+geojsonFolder: ./State-Omsk_Oblast/
+markerFolder: ./State-Omsk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::48.7]
 [Population::]
 
+
+
+```leaflet
+id: State-Volgograd_Oblast
+geojsonFolder: ./State-Volgograd_Oblast/
+markerFolder: ./State-Volgograd_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

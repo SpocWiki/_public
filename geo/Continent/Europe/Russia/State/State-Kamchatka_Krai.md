@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::53.02]
 [Population::]
 
+
+
+```leaflet
+id: State-Kamchatka_Krai
+geojsonFolder: ./State-Kamchatka_Krai/
+markerFolder: ./State-Kamchatka_Krai/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

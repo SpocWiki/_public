@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::51.7167]
 [Population::]
 
+
+
+```leaflet
+id: State-Tuva~Republic
+geojsonFolder: ./State-Tuva~Republic/
+markerFolder: ./State-Tuva~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

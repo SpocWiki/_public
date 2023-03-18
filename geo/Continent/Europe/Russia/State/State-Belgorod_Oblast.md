@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::50.6]
 [Population::]
 
+
+
+```leaflet
+id: State-Belgorod_Oblast
+geojsonFolder: ./State-Belgorod_Oblast/
+markerFolder: ./State-Belgorod_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

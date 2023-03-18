@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::51.73]
 [Population::]
 
+
+
+```leaflet
+id: State-Kursk_Oblast
+geojsonFolder: ./State-Kursk_Oblast/
+markerFolder: ./State-Kursk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

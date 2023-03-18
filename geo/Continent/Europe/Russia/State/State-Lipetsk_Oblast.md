@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::52.6167]
 [Population::]
 
+
+
+```leaflet
+id: State-Lipetsk_Oblast
+geojsonFolder: ./State-Lipetsk_Oblast/
+markerFolder: ./State-Lipetsk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

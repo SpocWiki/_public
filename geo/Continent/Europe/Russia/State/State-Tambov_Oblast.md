@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::52.7167]
 [Population::]
 
+
+
+```leaflet
+id: State-Tambov_Oblast
+geojsonFolder: ./State-Tambov_Oblast/
+markerFolder: ./State-Tambov_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

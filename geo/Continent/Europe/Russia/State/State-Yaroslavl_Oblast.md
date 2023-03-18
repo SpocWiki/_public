@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::57.62]
 [Population::]
 
+
+
+```leaflet
+id: State-Yaroslavl_Oblast
+geojsonFolder: ./State-Yaroslavl_Oblast/
+markerFolder: ./State-Yaroslavl_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

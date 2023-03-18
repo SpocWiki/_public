@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::47.5]
 [Population::]
 
+
+
+```leaflet
+id: State-Dagestan~Republic
+geojsonFolder: ./State-Dagestan~Republic/
+markerFolder: ./State-Dagestan~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

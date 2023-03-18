@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::55.03]
 [Population::]
 
+
+
+```leaflet
+id: State-Novosibirsk_Oblast
+geojsonFolder: ./State-Novosibirsk_Oblast/
+markerFolder: ./State-Novosibirsk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

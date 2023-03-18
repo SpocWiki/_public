@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::67.6333]
 [Population::]
 
+
+
+```leaflet
+id: State-Nenets_Okrug
+geojsonFolder: ./State-Nenets_Okrug/
+markerFolder: ./State-Nenets_Okrug/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::54.2]
 [Population::]
 
+
+
+```leaflet
+id: State-Tula_Oblast
+geojsonFolder: ./State-Tula_Oblast/
+markerFolder: ./State-Tula_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

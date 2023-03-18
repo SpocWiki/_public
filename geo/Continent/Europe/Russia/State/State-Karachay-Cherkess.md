@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::44.23]
 [Population::]
 
+
+
+```leaflet
+id: State-Karachay-Cherkess
+geojsonFolder: ./State-Karachay-Cherkess/
+markerFolder: ./State-Karachay-Cherkess/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

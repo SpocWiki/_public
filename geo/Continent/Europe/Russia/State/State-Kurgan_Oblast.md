@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::55.43]
 [Population::]
 
+
+
+```leaflet
+id: State-Kurgan_Oblast
+geojsonFolder: ./State-Kurgan_Oblast/
+markerFolder: ./State-Kurgan_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

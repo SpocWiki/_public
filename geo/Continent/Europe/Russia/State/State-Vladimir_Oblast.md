@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.13]
 [Population::]
 
+
+
+```leaflet
+id: State-Vladimir_Oblast
+geojsonFolder: ./State-Vladimir_Oblast/
+markerFolder: ./State-Vladimir_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

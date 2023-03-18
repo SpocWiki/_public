@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::43.5]
 [Population::]
 
+
+
+```leaflet
+id: State-Kabardino-Balkar~Republic
+geojsonFolder: ./State-Kabardino-Balkar~Republic/
+markerFolder: ./State-Kabardino-Balkar~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

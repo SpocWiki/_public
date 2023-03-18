@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.85]
 [Population::]
 
+
+
+```leaflet
+id: State-Udmurt~Republic
+geojsonFolder: ./State-Udmurt~Republic/
+markerFolder: ./State-Udmurt~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

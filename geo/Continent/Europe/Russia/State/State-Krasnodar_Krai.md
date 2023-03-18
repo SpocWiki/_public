@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::45.03]
 [Population::]
 
+
+
+```leaflet
+id: State-Krasnodar_Krai
+geojsonFolder: ./State-Krasnodar_Krai/
+markerFolder: ./State-Krasnodar_Krai/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

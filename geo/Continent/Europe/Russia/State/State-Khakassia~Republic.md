@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::53.75]
 [Population::]
 
+
+
+```leaflet
+id: State-Khakassia~Republic
+geojsonFolder: ./State-Khakassia~Republic/
+markerFolder: ./State-Khakassia~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::55.7833]
 [Population::]
 
+
+
+```leaflet
+id: State-Tatarstan~Republic
+geojsonFolder: ./State-Tatarstan~Republic/
+markerFolder: ./State-Tatarstan~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::46.3167]
 [Population::]
 
+
+
+```leaflet
+id: State-Kalmykia~Republic
+geojsonFolder: ./State-Kalmykia~Republic/
+markerFolder: ./State-Kalmykia~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::48.47]
 [Population::]
 
+
+
+```leaflet
+id: State-Khabarovsk_Krai
+geojsonFolder: ./State-Khabarovsk_Krai/
+markerFolder: ./State-Khabarovsk_Krai/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

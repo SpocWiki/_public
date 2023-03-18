@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::46.2]
 [Population::]
 
+
+
+```leaflet
+id: State-Saratov_Oblast
+geojsonFolder: ./State-Saratov_Oblast/
+markerFolder: ./State-Saratov_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

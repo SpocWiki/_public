@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::59.5667]
 [Population::]
 
+
+
+```leaflet
+id: State-Magadan_Oblast
+geojsonFolder: ./State-Magadan_Oblast/
+markerFolder: ./State-Magadan_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

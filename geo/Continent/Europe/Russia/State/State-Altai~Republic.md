@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::51.95]
 [Population::]
 
+
+
+```leaflet
+id: State-Altai~Republic
+geojsonFolder: ./State-Altai~Republic/
+markerFolder: ./State-Altai~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

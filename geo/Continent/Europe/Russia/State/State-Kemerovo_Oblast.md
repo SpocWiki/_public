@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::55.33]
 [Population::]
 
+
+
+```leaflet
+id: State-Kemerovo_Oblast
+geojsonFolder: ./State-Kemerovo_Oblast/
+markerFolder: ./State-Kemerovo_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

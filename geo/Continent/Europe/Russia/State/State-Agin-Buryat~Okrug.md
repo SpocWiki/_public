@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::51.1]
 [Population::]
 
+
+
+```leaflet
+id: State-Agin-Buryat~Okrug
+geojsonFolder: ./State-Agin-Buryat~Okrug/
+markerFolder: ./State-Agin-Buryat~Okrug/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

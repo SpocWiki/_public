@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::]
 [Population::]
 
+
+
+```leaflet
+id: State-Rostov_Oblast
+geojsonFolder: ./State-Rostov_Oblast/
+markerFolder: ./State-Rostov_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

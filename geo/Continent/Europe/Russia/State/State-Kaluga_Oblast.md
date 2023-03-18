@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::54.52]
 [Population::]
 
+
+
+```leaflet
+id: State-Kaluga_Oblast
+geojsonFolder: ./State-Kaluga_Oblast/
+markerFolder: ./State-Kaluga_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

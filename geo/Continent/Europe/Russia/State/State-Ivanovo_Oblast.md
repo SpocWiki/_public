@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.9967]
 [Population::]
 
+
+
+```leaflet
+id: State-Ivanovo_Oblast
+geojsonFolder: ./State-Ivanovo_Oblast/
+markerFolder: ./State-Ivanovo_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

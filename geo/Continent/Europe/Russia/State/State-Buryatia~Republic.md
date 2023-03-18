@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::51.83]
 [Population::]
 
+
+
+```leaflet
+id: State-Buryatia~Republic
+geojsonFolder: ./State-Buryatia~Republic/
+markerFolder: ./State-Buryatia~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

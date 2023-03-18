@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::64.17]
 [Population::]
 
+
+
+```leaflet
+id: State-Evenk_Autonomous_Okrug
+geojsonFolder: ./State-Evenk_Autonomous_Okrug/
+markerFolder: ./State-Evenk_Autonomous_Okrug/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

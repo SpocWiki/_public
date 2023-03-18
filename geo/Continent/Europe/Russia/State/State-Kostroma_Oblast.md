@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::57.77]
 [Population::]
 
+
+
+```leaflet
+id: State-Kostroma_Oblast
+geojsonFolder: ./State-Kostroma_Oblast/
+markerFolder: ./State-Kostroma_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

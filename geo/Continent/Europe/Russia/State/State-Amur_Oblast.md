@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::50.3667]
 [Population::]
 
+
+
+```leaflet
+id: State-Amur_Oblast
+geojsonFolder: ./State-Amur_Oblast/
+markerFolder: ./State-Amur_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

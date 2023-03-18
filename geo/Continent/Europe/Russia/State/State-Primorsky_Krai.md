@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::43.12]
 [Population::]
 
+
+
+```leaflet
+id: State-Primorsky_Krai
+geojsonFolder: ./State-Primorsky_Krai/
+markerFolder: ./State-Primorsky_Krai/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

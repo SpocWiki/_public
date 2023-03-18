@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.83]
 [Population::]
 
+
+
+```leaflet
+id: State-Sverdlovsk_Oblast
+geojsonFolder: ./State-Sverdlovsk_Oblast/
+markerFolder: ./State-Sverdlovsk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

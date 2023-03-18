@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::53.18]
 [Population::]
 
+
+
+```leaflet
+id: State-Samara_Oblast
+geojsonFolder: ./State-Samara_Oblast/
+markerFolder: ./State-Samara_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::46.9667]
 [Population::]
 
+
+
+```leaflet
+id: State-Sakhalin_Oblast
+geojsonFolder: ./State-Sakhalin_Oblast/
+markerFolder: ./State-Sakhalin_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

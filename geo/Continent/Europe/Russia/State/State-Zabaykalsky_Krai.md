@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::52.03]
 [Population::]
 
+
+
+```leaflet
+id: State-Zabaykalsky_Krai
+geojsonFolder: ./State-Zabaykalsky_Krai/
+markerFolder: ./State-Zabaykalsky_Krai/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

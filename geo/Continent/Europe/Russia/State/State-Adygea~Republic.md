@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::44.58]
 [Population::]
 
+
+
+```leaflet
+id: State-Adygea~Republic
+geojsonFolder: ./State-Adygea~Republic/
+markerFolder: ./State-Adygea~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

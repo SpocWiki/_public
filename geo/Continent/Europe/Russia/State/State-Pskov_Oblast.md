@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::57.83]
 [Population::]
 
+
+
+```leaflet
+id: State-Pskov_Oblast
+geojsonFolder: ./State-Pskov_Oblast/
+markerFolder: ./State-Pskov_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::66.5333]
 [Population::]
 
+
+
+```leaflet
+id: State-Yamalo-Nenets_Autonomous_Okrug
+geojsonFolder: ./State-Yamalo-Nenets_Autonomous_Okrug/
+markerFolder: ./State-Yamalo-Nenets_Autonomous_Okrug/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::51.67]
 [Population::]
 
+
+
+```leaflet
+id: State-Voronezh_Oblast
+geojsonFolder: ./State-Voronezh_Oblast/
+markerFolder: ./State-Voronezh_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

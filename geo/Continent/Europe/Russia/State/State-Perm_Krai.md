@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::58]
 [Population::]
 
+
+
+```leaflet
+id: State-Perm_Krai
+geojsonFolder: ./State-Perm_Krai/
+markerFolder: ./State-Perm_Krai/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

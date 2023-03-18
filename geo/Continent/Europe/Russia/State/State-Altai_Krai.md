@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::53.2908]
 [Population::]
 
+
+
+```leaflet
+id: State-Altai_Krai
+geojsonFolder: ./State-Altai_Krai/
+markerFolder: ./State-Altai_Krai/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

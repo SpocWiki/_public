@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::61.78]
 [Population::]
 
+
+
+```leaflet
+id: State-Karelia~Republic
+geojsonFolder: ./State-Karelia~Republic/
+markerFolder: ./State-Karelia~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

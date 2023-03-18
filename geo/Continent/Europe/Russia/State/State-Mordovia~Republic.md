@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::54.18]
 [Population::]
 
+
+
+```leaflet
+id: State-Mordovia~Republic
+geojsonFolder: ./State-Mordovia~Republic/
+markerFolder: ./State-Mordovia~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

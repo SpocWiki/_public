@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::54.6432]
 [Population::]
 
+
+
+```leaflet
+id: State-Oblast_Kaliningrad
+geojsonFolder: ./State-Oblast_Kaliningrad/
+markerFolder: ./State-Oblast_Kaliningrad/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

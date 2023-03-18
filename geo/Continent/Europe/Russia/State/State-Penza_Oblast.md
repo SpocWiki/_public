@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::53.18]
 [Population::]
 
+
+
+```leaflet
+id: State-Penza_Oblast
+geojsonFolder: ./State-Penza_Oblast/
+markerFolder: ./State-Penza_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

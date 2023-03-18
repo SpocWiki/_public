@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.67]
 [Population::]
 
+
+
+```leaflet
+id: State-Mari_El~Republic
+geojsonFolder: ./State-Mari_El~Republic/
+markerFolder: ./State-Mari_El~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

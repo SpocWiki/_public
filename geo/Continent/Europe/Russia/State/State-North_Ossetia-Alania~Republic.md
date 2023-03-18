@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::43.0167]
 [Population::]
 
+
+
+```leaflet
+id: State-North_Ossetia-Alania~Republic
+geojsonFolder: ./State-North_Ossetia-Alania~Republic/
+markerFolder: ./State-North_Ossetia-Alania~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

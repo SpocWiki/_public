@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::64.53]
 [Population::]
 
+
+
+```leaflet
+id: State-Arkhangelsk_Oblast
+geojsonFolder: ./State-Arkhangelsk_Oblast/
+markerFolder: ./State-Arkhangelsk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

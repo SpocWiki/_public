@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.87]
 [Population::]
 
+
+
+```leaflet
+id: State-Tver_Oblast
+geojsonFolder: ./State-Tver_Oblast/
+markerFolder: ./State-Tver_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

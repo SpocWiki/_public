@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::62.02]
 [Population::]
 
+
+
+```leaflet
+id: State-Sakha(Yakutia)~Republic
+geojsonFolder: ./State-Sakha(Yakutia)~Republic/
+markerFolder: ./State-Sakha(Yakutia)~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.15]
 [Population::]
 
+
+
+```leaflet
+id: State-Chuvash~Republic
+geojsonFolder: ./State-Chuvash~Republic/
+markerFolder: ./State-Chuvash~Republic/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

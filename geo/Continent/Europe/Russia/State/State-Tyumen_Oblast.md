@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::57.18]
 [Population::]
 
+
+
+```leaflet
+id: State-Tyumen_Oblast
+geojsonFolder: ./State-Tyumen_Oblast/
+markerFolder: ./State-Tyumen_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

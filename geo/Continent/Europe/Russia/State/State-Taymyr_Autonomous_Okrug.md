@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::69.42]
 [Population::]
 
+
+
+```leaflet
+id: State-Taymyr_Autonomous_Okrug
+geojsonFolder: ./State-Taymyr_Autonomous_Okrug/
+markerFolder: ./State-Taymyr_Autonomous_Okrug/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

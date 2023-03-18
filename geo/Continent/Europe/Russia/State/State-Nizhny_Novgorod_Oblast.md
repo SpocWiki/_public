@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.3333]
 [Population::]
 
+
+
+```leaflet
+id: State-Nizhny_Novgorod_Oblast
+geojsonFolder: ./State-Nizhny_Novgorod_Oblast/
+markerFolder: ./State-Nizhny_Novgorod_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::56.02]
 [Population::]
 
+
+
+```leaflet
+id: State-Krasnoyarsk_Krai
+geojsonFolder: ./State-Krasnoyarsk_Krai/
+markerFolder: ./State-Krasnoyarsk_Krai/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

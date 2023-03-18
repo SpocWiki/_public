@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::55.17]
 [Population::]
 
+
+
+```leaflet
+id: State-Chelyabinsk_Oblast
+geojsonFolder: ./State-Chelyabinsk_Oblast/
+markerFolder: ./State-Chelyabinsk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```

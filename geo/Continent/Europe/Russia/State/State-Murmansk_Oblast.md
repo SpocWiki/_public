@@ -18,3 +18,13 @@ confidential: public
 [geo-lat::68.97]
 [Population::]
 
+
+
+```leaflet
+id: State-Murmansk_Oblast
+geojsonFolder: ./State-Murmansk_Oblast/
+markerFolder: ./State-Murmansk_Oblast/City
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```
