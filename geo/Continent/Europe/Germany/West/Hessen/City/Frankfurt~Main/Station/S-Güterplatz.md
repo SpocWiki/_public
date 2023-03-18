@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10781,8.656629]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Güterplatz.md
+coordinates: [[S-Güterplatz.md]]
+markerFile: [[S-Güterplatz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

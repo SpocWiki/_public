@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11734,8.630308]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-An_der_Dammheide.md
+coordinates: [[S-An_der_Dammheide.md]]
+markerFile: [[S-An_der_Dammheide.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

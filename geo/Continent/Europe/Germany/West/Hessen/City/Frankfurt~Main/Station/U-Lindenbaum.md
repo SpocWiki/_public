@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.15299,8.661025]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Eschersheimer Linde
+
+```leaflet
+id: U-Lindenbaum.md
+coordinates: [[U-Lindenbaum.md]]
+markerFile: [[U-Lindenbaum.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

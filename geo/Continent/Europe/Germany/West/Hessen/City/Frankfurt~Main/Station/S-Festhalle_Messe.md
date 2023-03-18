@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11203,8.654609]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Festhalle_Messe.md
+coordinates: [[S-Festhalle_Messe.md]]
+markerFile: [[S-Festhalle_Messe.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.14331,8.642485]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Für Bundesgartenschau 1989 errichtet
+
+```leaflet
+id: U-Niddapark.md
+coordinates: [[U-Niddapark.md]]
+markerFile: [[U-Niddapark.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

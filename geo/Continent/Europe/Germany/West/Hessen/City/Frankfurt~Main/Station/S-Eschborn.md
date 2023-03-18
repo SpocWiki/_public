@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.14375,8.569028]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Eschborn.md
+coordinates: [[S-Eschborn.md]]
+markerFile: [[S-Eschborn.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

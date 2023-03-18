@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1267,8.673756]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::36]
 
 -
+
+```leaflet
+id: U-Holzhausenstraße.md
+coordinates: [[U-Holzhausenstraße.md]]
+markerFile: [[U-Holzhausenstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

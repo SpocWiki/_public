@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1403,8.6464]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::39, 64]
 
 Fünfgleisiger Gemeinschaftsbahnhof der U1 und U9 mit der Straßenbahnlinie 16. Nach der Planung von 1961 als unterirdisches Teilstück der D-Strecke gedacht.
+
+```leaflet
+id: U-Ginnheim.md
+coordinates: [[U-Ginnheim.md]]
+markerFile: [[U-Ginnheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

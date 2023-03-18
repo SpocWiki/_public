@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09824,8.566985]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Nied_Kirche.md
+coordinates: [[S-Nied_Kirche.md]]
+markerFile: [[S-Nied_Kirche.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

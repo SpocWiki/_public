@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.06805,8.633056]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt~Main~Stadion.md
+coordinates: [[S-Frankfurt~Main~Stadion.md]]
+markerFile: [[S-Frankfurt~Main~Stadion.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

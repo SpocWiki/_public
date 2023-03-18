@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09731,8.667011]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Vogelweidstraße.md
+coordinates: [[S-Vogelweidstraße.md]]
+markerFile: [[S-Vogelweidstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

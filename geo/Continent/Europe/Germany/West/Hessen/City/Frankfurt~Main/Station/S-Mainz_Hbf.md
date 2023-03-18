@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.0013,8.25865]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mainz_Hbf.md
+coordinates: [[S-Mainz_Hbf.md]]
+markerFile: [[S-Mainz_Hbf.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11278,8.708056]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::(31), 32]
 
 U-Bahnhof mit direktem Tageslichteinfall
+
+```leaflet
+id: U-Ostbahnhof.md
+coordinates: [[U-Ostbahnhof.md]]
+markerFile: [[U-Ostbahnhof.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

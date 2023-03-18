@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.186,8.602746]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::Stadtverkehr Oberursel, 251]
 
 Stadtgebiet Oberursel (Taunus)
+
+```leaflet
+id: U-Weißkirchen_Ost.md
+coordinates: [[U-Weißkirchen_Ost.md]]
+markerFile: [[U-Weißkirchen_Ost.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

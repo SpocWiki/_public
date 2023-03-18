@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12889,8.700394]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Günthersburgpark.md
+coordinates: [[S-Günthersburgpark.md]]
+markerFile: [[S-Günthersburgpark.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

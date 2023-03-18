@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10188,8.699874]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mühlberg.md
+coordinates: [[S-Mühlberg.md]]
+markerFile: [[S-Mühlberg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

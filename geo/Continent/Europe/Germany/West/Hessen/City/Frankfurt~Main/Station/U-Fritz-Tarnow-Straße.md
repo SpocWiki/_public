@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.14251,8.668814]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 -
+
+```leaflet
+id: U-Fritz-Tarnow-Straße.md
+coordinates: [[U-Fritz-Tarnow-Straße.md]]
+markerFile: [[U-Fritz-Tarnow-Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

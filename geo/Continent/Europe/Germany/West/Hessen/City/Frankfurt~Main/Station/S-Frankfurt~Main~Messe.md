@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11195,8.643333]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt~Main~Messe.md
+coordinates: [[S-Frankfurt~Main~Messe.md]]
+markerFile: [[S-Frankfurt~Main~Messe.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

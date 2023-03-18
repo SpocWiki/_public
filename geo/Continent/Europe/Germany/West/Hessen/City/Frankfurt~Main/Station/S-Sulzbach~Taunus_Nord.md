@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13306,8.528889]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Sulzbach~Taunus_Nord.md
+coordinates: [[S-Sulzbach~Taunus_Nord.md]]
+markerFile: [[S-Sulzbach~Taunus_Nord.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

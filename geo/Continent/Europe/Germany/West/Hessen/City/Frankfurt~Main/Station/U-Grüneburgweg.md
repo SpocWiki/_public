@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1218,8.675717]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 -
+
+```leaflet
+id: U-Grüneburgweg.md
+coordinates: [[U-Grüneburgweg.md]]
+markerFile: [[U-Grüneburgweg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

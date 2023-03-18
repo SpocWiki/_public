@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.07677,8.611544]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Waldau.md
+coordinates: [[S-Waldau.md]]
+markerFile: [[S-Waldau.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

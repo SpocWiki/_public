@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1316,8.683598]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::32]
 
 Die Haltestelle hieß bis 1997 Adickesallee/Nibelungenallee, danach bis 2007 Nibelungenallee/Deutsche Bibliothek.
+
+```leaflet
+id: U-Deutsche_Nationalbibliothek.md
+coordinates: [[U-Deutsche_Nationalbibliothek.md]]
+markerFile: [[U-Deutsche_Nationalbibliothek.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

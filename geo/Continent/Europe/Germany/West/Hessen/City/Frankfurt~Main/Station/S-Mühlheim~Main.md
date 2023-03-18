@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12569,8.83]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mühlheim~Main.md
+coordinates: [[S-Mühlheim~Main.md]]
+markerFile: [[S-Mühlheim~Main.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

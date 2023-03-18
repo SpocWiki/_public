@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.0994,8.6861]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::45, 47, 48, 61, 78, 653, OF-50]
 
 Mit dreigleisiger Wendeanlage
+
+```leaflet
+id: U-Südbahnhof.md
+coordinates: [[U-Südbahnhof.md]]
+markerFile: [[U-Südbahnhof.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

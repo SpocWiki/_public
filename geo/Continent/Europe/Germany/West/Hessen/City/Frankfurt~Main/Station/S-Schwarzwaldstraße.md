@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.0868,8.646634]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Schwarzwaldstraße.md
+coordinates: [[S-Schwarzwaldstraße.md]]
+markerFile: [[S-Schwarzwaldstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

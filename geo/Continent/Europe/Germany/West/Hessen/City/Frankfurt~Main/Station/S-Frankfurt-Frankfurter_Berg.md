@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.17012,8.677203]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt-Frankfurter_Berg.md
+coordinates: [[S-Frankfurt-Frankfurter_Berg.md]]
+markerFile: [[S-Frankfurt-Frankfurter_Berg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

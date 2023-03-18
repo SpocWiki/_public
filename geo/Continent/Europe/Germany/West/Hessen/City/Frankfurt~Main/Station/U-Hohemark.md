@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.2152,8.536722]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::Regionalbusse]
 
 Endstation der U3 im Stadtgebiet Oberursel (Taunus); bis 8. Mai 1986 mit Wendeschleife. Beliebter Ausgangspunkt kleinerer Taunuswanderungen, da am Siedlungsende am Wald gelegen und 200 Meter vom Wanderparkplatz Hohemark entfernt, außerdem höchstgelegener Punkt der Frankfurter U-Bahn.
+
+```leaflet
+id: U-Hohemark.md
+coordinates: [[U-Hohemark.md]]
+markerFile: [[U-Hohemark.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10097,8.681355]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Schwanthalerstraße.md
+coordinates: [[S-Schwanthalerstraße.md]]
+markerFile: [[S-Schwanthalerstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

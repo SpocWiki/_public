@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12964,8.75968]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Cassellastraße.md
+coordinates: [[S-Cassellastraße.md]]
+markerFile: [[S-Cassellastraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

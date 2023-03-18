@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.25249,8.644776]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Friedrichsdorf~Taunus.md
+coordinates: [[S-Friedrichsdorf~Taunus.md]]
+markerFile: [[S-Friedrichsdorf~Taunus.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

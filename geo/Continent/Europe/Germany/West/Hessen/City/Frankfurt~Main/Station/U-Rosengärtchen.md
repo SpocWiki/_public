@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.21501,8.550003]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Stadtgebiet Oberursel (Taunus); Haltestelle auf eingleisigem Abschnitt
+
+```leaflet
+id: U-Rosengärtchen.md
+coordinates: [[U-Rosengärtchen.md]]
+markerFile: [[U-Rosengärtchen.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.05194,8.577778]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt-Flughafen.md
+coordinates: [[S-Frankfurt-Flughafen.md]]
+markerFile: [[S-Frankfurt-Flughafen.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

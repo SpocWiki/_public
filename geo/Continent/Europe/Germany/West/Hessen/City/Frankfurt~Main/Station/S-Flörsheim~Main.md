@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.01167,8.428056]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Flörsheim~Main.md
+coordinates: [[S-Flörsheim~Main.md]]
+markerFile: [[S-Flörsheim~Main.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

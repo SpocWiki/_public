@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10936,8.660627]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Platz_der_Republik.md
+coordinates: [[S-Platz_der_Republik.md]]
+markerFile: [[S-Platz_der_Republik.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

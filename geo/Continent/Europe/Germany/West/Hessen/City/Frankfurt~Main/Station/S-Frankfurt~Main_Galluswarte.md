@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10389,8.645]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt~Main_Galluswarte.md
+coordinates: [[S-Frankfurt~Main_Galluswarte.md]]
+markerFile: [[S-Frankfurt~Main_Galluswarte.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

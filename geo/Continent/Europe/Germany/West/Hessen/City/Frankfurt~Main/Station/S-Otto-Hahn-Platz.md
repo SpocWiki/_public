@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10174,8.675359]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Otto-Hahn-Platz.md
+coordinates: [[S-Otto-Hahn-Platz.md]]
+markerFile: [[S-Otto-Hahn-Platz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

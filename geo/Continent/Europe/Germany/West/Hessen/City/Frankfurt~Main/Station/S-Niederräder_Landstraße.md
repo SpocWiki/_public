@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.08898,8.651926]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Niederräder_Landstraße.md
+coordinates: [[S-Niederräder_Landstraße.md]]
+markerFile: [[S-Niederräder_Landstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

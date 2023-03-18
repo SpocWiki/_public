@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12278,8.701389]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::32]
 
 Zwei eingleisige Stationen übereinander
+
+```leaflet
+id: U-Höhenstraße.md
+coordinates: [[U-Höhenstraße.md]]
+markerFile: [[U-Höhenstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

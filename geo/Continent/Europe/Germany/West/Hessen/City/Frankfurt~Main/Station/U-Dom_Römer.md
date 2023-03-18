@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11083,8.68333]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Der Bahnhof liegt in großer Tiefe unter einer Tiefgarage. Diese Station hieß bis ca. 2002 nur "Römer".
+
+```leaflet
+id: U-Dom_Römer.md
+coordinates: [[U-Dom_Römer.md]]
+markerFile: [[U-Dom_Römer.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11099,8.692863]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Hospital_Heiligen_Geist.md
+coordinates: [[S-Hospital_Heiligen_Geist.md]]
+markerFile: [[S-Hospital_Heiligen_Geist.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

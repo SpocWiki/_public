@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13.1667,-61.2333]
 type: Country
 tags:

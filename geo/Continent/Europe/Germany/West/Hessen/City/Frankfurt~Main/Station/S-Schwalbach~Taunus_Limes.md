@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.15435,8.52797]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Schwalbach~Taunus_Limes.md
+coordinates: [[S-Schwalbach~Taunus_Limes.md]]
+markerFile: [[S-Schwalbach~Taunus_Limes.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

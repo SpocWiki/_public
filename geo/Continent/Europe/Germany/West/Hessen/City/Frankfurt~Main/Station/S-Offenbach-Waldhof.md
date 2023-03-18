@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.08169,8.828938]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Offenbach-Waldhof.md
+coordinates: [[S-Offenbach-Waldhof.md]]
+markerFile: [[S-Offenbach-Waldhof.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

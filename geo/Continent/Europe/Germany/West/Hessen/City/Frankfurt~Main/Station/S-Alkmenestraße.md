@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.15187,8.699841]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -17,3 +19,11 @@ confidential: public
 
 
 
+
+```leaflet
+id: S-Alkmenestraße.md
+coordinates: [[S-Alkmenestraße.md]]
+markerFile: [[S-Alkmenestraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

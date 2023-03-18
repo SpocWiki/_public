@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13662,8.645873]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Markus-Krankenhaus.md
+coordinates: [[S-Markus-Krankenhaus.md]]
+markerFile: [[S-Markus-Krankenhaus.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

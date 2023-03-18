@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.21511,8.544188]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::Stadtverkehr Oberursel]
 
 Stadtgebiet Oberursel (Taunus); Haltestelle auf eingleisigem Abschnitt
+
+```leaflet
+id: U-Waldlust.md
+coordinates: [[U-Waldlust.md]]
+markerFile: [[U-Waldlust.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10017,8.590928]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Jägerallee.md
+coordinates: [[S-Jägerallee.md]]
+markerFile: [[S-Jägerallee.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

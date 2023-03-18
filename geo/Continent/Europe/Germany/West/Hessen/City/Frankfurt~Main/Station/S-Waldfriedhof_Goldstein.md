@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.07689,8.602348]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Waldfriedhof_Goldstein.md
+coordinates: [[S-Waldfriedhof_Goldstein.md]]
+markerFile: [[S-Waldfriedhof_Goldstein.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

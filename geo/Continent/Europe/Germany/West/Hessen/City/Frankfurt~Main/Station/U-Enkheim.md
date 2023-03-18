@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.14222,8.752692]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::42, 551, MKK-23, MKK-25]
 
 Endstation der U4 und U7; mit bahnsteiggleichem Umsteigen auf Stadt- und Regionalbuslinien.
+
+```leaflet
+id: U-Enkheim.md
+coordinates: [[U-Enkheim.md]]
+markerFile: [[U-Enkheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

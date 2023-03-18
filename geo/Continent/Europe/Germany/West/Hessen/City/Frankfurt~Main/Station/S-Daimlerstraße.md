@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12235,8.74008]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Daimlerstraße.md
+coordinates: [[S-Daimlerstraße.md]]
+markerFile: [[S-Daimlerstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12,8.714167]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 -
+
+```leaflet
+id: U-Parlamentsplatz.md
+coordinates: [[U-Parlamentsplatz.md]]
+markerFile: [[U-Parlamentsplatz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

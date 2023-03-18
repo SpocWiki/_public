@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.18527,8.664844]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::27]
 
 Bis 27. Mai 1978 mit Wendeschleife
+
+```leaflet
+id: U-Bonames_Mitte.md
+coordinates: [[U-Bonames_Mitte.md]]
+markerFile: [[U-Bonames_Mitte.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

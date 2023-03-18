@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10435,8.662929]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Pforzheimer_Straße.md
+coordinates: [[S-Pforzheimer_Straße.md]]
+markerFile: [[S-Pforzheimer_Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

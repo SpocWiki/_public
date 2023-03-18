@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13187,8.619142]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::34]
 
 Stadtbahnstation in Mittellage einer Straße
+
+```leaflet
+id: U-Hausener_Weg.md
+coordinates: [[U-Hausener_Weg.md]]
+markerFile: [[U-Hausener_Weg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

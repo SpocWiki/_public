@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.16139,8.649709]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::60]
 
 Liegt am Betriebshof Heddernheim
+
+```leaflet
+id: U-Heddernheim.md
+coordinates: [[U-Heddernheim.md]]
+markerFile: [[U-Heddernheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

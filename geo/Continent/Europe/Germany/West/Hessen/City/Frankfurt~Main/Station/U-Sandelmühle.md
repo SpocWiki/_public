@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.16546,8.645339]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::29]
 
 -
+
+```leaflet
+id: U-Sandelmühle.md
+coordinates: [[U-Sandelmühle.md]]
+markerFile: [[U-Sandelmühle.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

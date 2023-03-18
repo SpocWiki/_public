@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10028,8.603362]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Waldschulstraße.md
+coordinates: [[S-Waldschulstraße.md]]
+markerFile: [[S-Waldschulstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

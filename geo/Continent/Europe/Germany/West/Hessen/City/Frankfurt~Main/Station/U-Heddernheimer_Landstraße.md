@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.16386,8.634782]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Am nördlichen Ausgang des Nordweststadttunnels
+
+```leaflet
+id: U-Heddernheimer_Landstraße.md
+coordinates: [[U-Heddernheimer_Landstraße.md]]
+markerFile: [[U-Heddernheimer_Landstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

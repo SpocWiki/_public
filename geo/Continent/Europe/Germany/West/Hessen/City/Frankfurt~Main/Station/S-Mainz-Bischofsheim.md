@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.99031,8.362575]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mainz-Bischofsheim.md
+coordinates: [[S-Mainz-Bischofsheim.md]]
+markerFile: [[S-Mainz-Bischofsheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

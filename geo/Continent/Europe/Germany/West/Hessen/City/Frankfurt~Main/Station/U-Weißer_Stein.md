@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1567,8.6561]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::63, 66, 69]
 
 -
+
+```leaflet
+id: U-Weißer_Stein.md
+coordinates: [[U-Weißer_Stein.md]]
+markerFile: [[U-Weißer_Stein.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

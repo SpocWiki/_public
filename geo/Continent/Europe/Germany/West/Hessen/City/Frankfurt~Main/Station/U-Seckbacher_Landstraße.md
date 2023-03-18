@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13453,8.71202]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::38, 43]
 
 Mit Wendeanlage; Anschlusstunnel zum Betriebshof Ost; teilweise Endstation der U4
+
+```leaflet
+id: U-Seckbacher_Landstraße.md
+coordinates: [[U-Seckbacher_Landstraße.md]]
+markerFile: [[U-Seckbacher_Landstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12028,8.69583]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Zwei eingleisige Stationen übereinander
+
+```leaflet
+id: U-Merianplatz.md
+coordinates: [[U-Merianplatz.md]]
+markerFile: [[U-Merianplatz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

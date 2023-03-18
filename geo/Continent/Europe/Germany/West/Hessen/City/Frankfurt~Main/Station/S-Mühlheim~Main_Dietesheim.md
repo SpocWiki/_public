@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12052,8.857998]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mühlheim~Main_Dietesheim.md
+coordinates: [[S-Mühlheim~Main_Dietesheim.md]]
+markerFile: [[S-Mühlheim~Main_Dietesheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12626,8.716659]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Ernst-May-Platz.md
+coordinates: [[S-Ernst-May-Platz.md]]
+markerFile: [[S-Ernst-May-Platz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

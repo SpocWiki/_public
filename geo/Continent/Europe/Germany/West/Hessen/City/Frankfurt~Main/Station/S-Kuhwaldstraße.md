@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11685,8.640929]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Kuhwaldstraße.md
+coordinates: [[S-Kuhwaldstraße.md]]
+markerFile: [[S-Kuhwaldstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

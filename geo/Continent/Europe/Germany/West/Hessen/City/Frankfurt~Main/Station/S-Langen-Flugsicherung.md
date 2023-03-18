@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.00523,8.658671]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Langen-Flugsicherung.md
+coordinates: [[S-Langen-Flugsicherung.md]]
+markerFile: [[S-Langen-Flugsicherung.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

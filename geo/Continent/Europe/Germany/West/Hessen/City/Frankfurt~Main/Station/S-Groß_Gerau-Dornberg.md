@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.90724,8.486341]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Groß_Gerau-Dornberg.md
+coordinates: [[S-Groß_Gerau-Dornberg.md]]
+markerFile: [[S-Groß_Gerau-Dornberg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

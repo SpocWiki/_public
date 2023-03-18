@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.08746,8.512283]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt-Sindlingen.md
+coordinates: [[S-Frankfurt-Sindlingen.md]]
+markerFile: [[S-Frankfurt-Sindlingen.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

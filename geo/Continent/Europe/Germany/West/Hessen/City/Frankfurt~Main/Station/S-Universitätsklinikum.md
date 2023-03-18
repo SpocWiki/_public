@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.0965,8.660521]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Universitätsklinikum.md
+coordinates: [[S-Universitätsklinikum.md]]
+markerFile: [[S-Universitätsklinikum.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

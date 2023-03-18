@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1141,8.688]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::30, 36]
 
 Dreigleisige Station
+
+```leaflet
+id: U-Konstablerwache.md
+coordinates: [[U-Konstablerwache.md]]
+markerFile: [[U-Konstablerwache.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

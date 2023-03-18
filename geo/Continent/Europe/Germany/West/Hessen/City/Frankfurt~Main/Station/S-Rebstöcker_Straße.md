@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10157,8.628664]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Rebstöcker_Straße.md
+coordinates: [[S-Rebstöcker_Straße.md]]
+markerFile: [[S-Rebstöcker_Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

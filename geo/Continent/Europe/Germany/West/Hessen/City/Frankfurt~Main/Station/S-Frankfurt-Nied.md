@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10276,8.569982]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt-Nied.md
+coordinates: [[S-Frankfurt-Nied.md]]
+markerFile: [[S-Frankfurt-Nied.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

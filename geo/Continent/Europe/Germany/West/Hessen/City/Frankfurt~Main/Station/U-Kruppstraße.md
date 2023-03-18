@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1385,8.745085]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 -
+
+```leaflet
+id: U-Kruppstraße.md
+coordinates: [[U-Kruppstraße.md]]
+markerFile: [[U-Kruppstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

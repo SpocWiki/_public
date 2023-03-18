@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09945,8.686111]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt~Main~Süd.md
+coordinates: [[S-Frankfurt~Main~Süd.md]]
+markerFile: [[S-Frankfurt~Main~Süd.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

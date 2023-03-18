@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.18362,8.658256]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::24, 28, 29]
 
 -
+
+```leaflet
+id: U-Kalbach.md
+coordinates: [[U-Kalbach.md]]
+markerFile: [[U-Kalbach.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

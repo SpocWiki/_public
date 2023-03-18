@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.21477,8.649699]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::Stadtverkehr Bad Homburg]
 
 Stadtgebiet Bad Homburg vor der Höhe
+
+```leaflet
+id: U-Ober-Eschbach.md
+coordinates: [[U-Ober-Eschbach.md]]
+markerFile: [[U-Ober-Eschbach.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

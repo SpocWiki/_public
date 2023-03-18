@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11247,8.688642]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Börneplatz_Stolzestraße.md
+coordinates: [[S-Börneplatz_Stolzestraße.md]]
+markerFile: [[S-Börneplatz_Stolzestraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

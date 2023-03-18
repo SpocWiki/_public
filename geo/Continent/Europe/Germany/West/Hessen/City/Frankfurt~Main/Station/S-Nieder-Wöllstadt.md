@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.28722,8.757222]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Nieder-Wöllstadt.md
+coordinates: [[S-Nieder-Wöllstadt.md]]
+markerFile: [[S-Nieder-Wöllstadt.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.05318,8.891466]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Rodgau-Weiskirchen.md
+coordinates: [[S-Rodgau-Weiskirchen.md]]
+markerFile: [[S-Rodgau-Weiskirchen.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

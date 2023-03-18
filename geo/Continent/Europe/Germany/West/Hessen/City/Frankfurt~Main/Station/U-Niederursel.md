@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.16935,8.62268]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 -
+
+```leaflet
+id: U-Niederursel.md
+coordinates: [[U-Niederursel.md]]
+markerFile: [[U-Niederursel.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

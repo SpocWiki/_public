@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.15539,8.698527]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Gravensteiner-Platz.md
+coordinates: [[S-Gravensteiner-Platz.md]]
+markerFile: [[S-Gravensteiner-Platz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

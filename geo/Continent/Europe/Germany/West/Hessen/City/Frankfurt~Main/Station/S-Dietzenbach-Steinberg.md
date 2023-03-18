@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.00861,8.775556]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Dietzenbach-Steinberg.md
+coordinates: [[S-Dietzenbach-Steinberg.md]]
+markerFile: [[S-Dietzenbach-Steinberg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

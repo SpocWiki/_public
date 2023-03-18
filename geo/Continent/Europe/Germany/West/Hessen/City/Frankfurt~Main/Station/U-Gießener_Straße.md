@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.14383,8.692198]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::34]
 
 Von 1974 bis 1978 Endhaltestelle der U5. 2013 mit Hochbahnsteigen umgebaut.
+
+```leaflet
+id: U-Gießener_Straße.md
+coordinates: [[U-Gießener_Straße.md]]
+markerFile: [[U-Gießener_Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

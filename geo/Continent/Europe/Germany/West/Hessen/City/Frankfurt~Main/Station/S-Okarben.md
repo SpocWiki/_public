@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.25159,8.756146]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Okarben.md
+coordinates: [[S-Okarben.md]]
+markerFile: [[S-Okarben.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

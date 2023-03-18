@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1025,8.67972]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Liegt in größerer Tiefe unter einem Häuserblock
+
+```leaflet
+id: U-Schweizer_Platz.md
+coordinates: [[U-Schweizer_Platz.md]]
+markerFile: [[U-Schweizer_Platz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

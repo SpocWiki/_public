@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.95333,8.629653]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Erzhausen.md
+coordinates: [[S-Erzhausen.md]]
+markerFile: [[S-Erzhausen.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

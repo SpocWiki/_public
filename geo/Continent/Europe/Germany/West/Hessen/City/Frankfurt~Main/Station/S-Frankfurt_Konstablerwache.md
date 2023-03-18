@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11472,8.686389]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt_Konstablerwache.md
+coordinates: [[S-Frankfurt_Konstablerwache.md]]
+markerFile: [[S-Frankfurt_Konstablerwache.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

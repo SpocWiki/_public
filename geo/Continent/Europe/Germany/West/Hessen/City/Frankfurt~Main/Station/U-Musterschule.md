@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12182,8.686205]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 
+
+```leaflet
+id: U-Musterschule.md
+coordinates: [[U-Musterschule.md]]
+markerFile: [[U-Musterschule.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

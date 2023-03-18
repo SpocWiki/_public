@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1236,8.716852]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Eissporthalle_Festplatz.md
+coordinates: [[S-Eissporthalle_Festplatz.md]]
+markerFile: [[S-Eissporthalle_Festplatz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

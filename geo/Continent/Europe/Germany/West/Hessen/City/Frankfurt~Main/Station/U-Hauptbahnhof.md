@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1078,8.664167]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::32, 33, 35, 37, 46, 64]
 
 Viergleisiger Bahnhof; war als Umsteigeknoten zur D-Strecke geplant
+
+```leaflet
+id: U-Hauptbahnhof.md
+coordinates: [[U-Hauptbahnhof.md]]
+markerFile: [[U-Hauptbahnhof.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

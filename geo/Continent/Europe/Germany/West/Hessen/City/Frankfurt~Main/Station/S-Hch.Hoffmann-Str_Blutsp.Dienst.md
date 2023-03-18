@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09259,8.652849]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Hch.Hoffmann-Str_Blutsp.Dienst.md
+coordinates: [[S-Hch.Hoffmann-Str_Blutsp.Dienst.md]]
+markerFile: [[S-Hch.Hoffmann-Str_Blutsp.Dienst.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

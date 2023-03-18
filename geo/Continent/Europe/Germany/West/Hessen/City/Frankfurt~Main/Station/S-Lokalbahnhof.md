@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10299,8.692385]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Lokalbahnhof.md
+coordinates: [[S-Lokalbahnhof.md]]
+markerFile: [[S-Lokalbahnhof.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

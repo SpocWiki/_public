@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.14792,8.690057]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 2013 mit Hochbahnsteigen umgebaut.
+
+```leaflet
+id: U-Theobald-Ziegler-Straße.md
+coordinates: [[U-Theobald-Ziegler-Straße.md]]
+markerFile: [[U-Theobald-Ziegler-Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

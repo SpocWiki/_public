@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.17222,8.6975]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt-Berkersheim.md
+coordinates: [[S-Frankfurt-Berkersheim.md]]
+markerFile: [[S-Frankfurt-Berkersheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

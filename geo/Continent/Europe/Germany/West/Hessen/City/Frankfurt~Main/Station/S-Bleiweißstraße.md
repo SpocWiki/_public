@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10014,8.720151]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Bleiweißstraße.md
+coordinates: [[S-Bleiweißstraße.md]]
+markerFile: [[S-Bleiweißstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

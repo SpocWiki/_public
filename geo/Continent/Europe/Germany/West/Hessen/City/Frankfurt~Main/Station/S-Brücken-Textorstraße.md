@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1014,8.686291]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Brücken-Textorstraße.md
+coordinates: [[S-Brücken-Textorstraße.md]]
+markerFile: [[S-Brücken-Textorstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

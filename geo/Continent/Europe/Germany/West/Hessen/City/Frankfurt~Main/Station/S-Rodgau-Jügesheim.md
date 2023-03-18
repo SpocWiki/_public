@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.02598,8.884023]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Rodgau-Jügesheim.md
+coordinates: [[S-Rodgau-Jügesheim.md]]
+markerFile: [[S-Rodgau-Jügesheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09945,8.770833]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Offenbach~Main_Ost.md
+coordinates: [[S-Offenbach~Main_Ost.md]]
+markerFile: [[S-Offenbach~Main_Ost.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

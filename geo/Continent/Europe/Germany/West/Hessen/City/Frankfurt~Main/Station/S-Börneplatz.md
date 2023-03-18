@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1124,8.687428]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Börneplatz.md
+coordinates: [[S-Börneplatz.md]]
+markerFile: [[S-Börneplatz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

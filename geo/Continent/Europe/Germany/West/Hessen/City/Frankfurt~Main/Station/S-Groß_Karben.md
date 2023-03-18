@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.23755,8.771467]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Groß_Karben.md
+coordinates: [[S-Groß_Karben.md]]
+markerFile: [[S-Groß_Karben.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

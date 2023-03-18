@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12197,8.709934]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Freiligrathstraße.md
+coordinates: [[S-Freiligrathstraße.md]]
+markerFile: [[S-Freiligrathstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10675,8.665919]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Hauptbf._Münchener_Straße.md
+coordinates: [[S-Hauptbf._Münchener_Straße.md]]
+markerFile: [[S-Hauptbf._Münchener_Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13249,8.766127]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mainkur_Bahnhof.md
+coordinates: [[S-Mainkur_Bahnhof.md]]
+markerFile: [[S-Mainkur_Bahnhof.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

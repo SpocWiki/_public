@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.20632,8.577747]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::Stadtverkehr Oberursel]
 
 Stadtgebiet Oberursel (Taunus); Die Station hieß bis 13. Dezember 2008 Portstraße.
+
+```leaflet
+id: U-Oberursel_Altstadt.md
+coordinates: [[U-Oberursel_Altstadt.md]]
+markerFile: [[U-Oberursel_Altstadt.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

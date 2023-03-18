@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09955,8.669487]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Stresemannallee_Gartenstraße.md
+coordinates: [[S-Stresemannallee_Gartenstraße.md]]
+markerFile: [[S-Stresemannallee_Gartenstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.22924,8.610486]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Bad_Homburg.md
+coordinates: [[S-Bad_Homburg.md]]
+markerFile: [[S-Bad_Homburg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

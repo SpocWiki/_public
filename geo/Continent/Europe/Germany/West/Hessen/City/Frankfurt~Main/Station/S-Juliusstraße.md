@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12515,8.647013]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Juliusstraße.md
+coordinates: [[S-Juliusstraße.md]]
+markerFile: [[S-Juliusstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

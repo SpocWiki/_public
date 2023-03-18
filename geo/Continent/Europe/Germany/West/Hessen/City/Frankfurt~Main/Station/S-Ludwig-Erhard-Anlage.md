@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1134,8.6518]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Ludwig-Erhard-Anlage.md
+coordinates: [[S-Ludwig-Erhard-Anlage.md]]
+markerFile: [[S-Ludwig-Erhard-Anlage.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.07936,8.654292]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Oberforsthaus.md
+coordinates: [[S-Oberforsthaus.md]]
+markerFile: [[S-Oberforsthaus.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

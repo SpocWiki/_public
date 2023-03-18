@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12064,8.65061]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Bockenheimer_Warte.md
+coordinates: [[S-Bockenheimer_Warte.md]]
+markerFile: [[S-Bockenheimer_Warte.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

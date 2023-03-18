@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.21004,8.57058]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Stadtgebiet Oberursel (Taunus); ersetzte die Haltestellen Motorenfabrik und Oberstedter Straße
+
+```leaflet
+id: U-Lahnstraße.md
+coordinates: [[U-Lahnstraße.md]]
+markerFile: [[U-Lahnstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

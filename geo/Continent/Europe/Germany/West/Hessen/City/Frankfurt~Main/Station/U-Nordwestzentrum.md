@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.15805,8.634167]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::29, 60, 71, 72, 73, 251]
 
 früher: Nordweststadt
+
+```leaflet
+id: U-Nordwestzentrum.md
+coordinates: [[U-Nordwestzentrum.md]]
+markerFile: [[U-Nordwestzentrum.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

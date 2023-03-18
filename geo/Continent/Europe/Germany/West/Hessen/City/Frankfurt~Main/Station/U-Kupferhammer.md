@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.21415,8.557963]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Stadtgebiet Oberursel (Taunus)
+
+```leaflet
+id: U-Kupferhammer.md
+coordinates: [[U-Kupferhammer.md]]
+markerFile: [[U-Kupferhammer.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09417,8.60611]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt-Griesheim.md
+coordinates: [[S-Frankfurt-Griesheim.md]]
+markerFile: [[S-Frankfurt-Griesheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

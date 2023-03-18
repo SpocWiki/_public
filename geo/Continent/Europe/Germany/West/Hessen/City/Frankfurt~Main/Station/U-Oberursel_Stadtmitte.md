@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.2025,8.585354]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Stadtgebiet Oberursel (Taunus); früher: Liebfrauenstraße
+
+```leaflet
+id: U-Oberursel_Stadtmitte.md
+coordinates: [[U-Oberursel_Stadtmitte.md]]
+markerFile: [[U-Oberursel_Stadtmitte.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

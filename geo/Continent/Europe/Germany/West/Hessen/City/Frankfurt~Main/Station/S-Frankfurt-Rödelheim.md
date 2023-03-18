@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12439,8.607265]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt-Rödelheim.md
+coordinates: [[S-Frankfurt-Rödelheim.md]]
+markerFile: [[S-Frankfurt-Rödelheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

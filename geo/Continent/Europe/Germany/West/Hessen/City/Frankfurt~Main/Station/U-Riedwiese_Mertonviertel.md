@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.17131,8.642829]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 -
+
+```leaflet
+id: U-Riedwiese_Mertonviertel.md
+coordinates: [[U-Riedwiese_Mertonviertel.md]]
+markerFile: [[U-Riedwiese_Mertonviertel.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

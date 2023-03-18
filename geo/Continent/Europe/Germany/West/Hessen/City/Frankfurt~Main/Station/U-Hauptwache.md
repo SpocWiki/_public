@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11389,8.6789]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Südlicher Endpunkt der ersten Frankfurter U-Bahn-Linie
+
+```leaflet
+id: U-Hauptwache.md
+coordinates: [[U-Hauptwache.md]]
+markerFile: [[U-Hauptwache.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.19919,8.587596]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::Stadtverkehr Oberursel, 252, 261]
 
 Stadtgebiet Oberursel (Taunus); Abstellanlage; bis 1984 Gleisanschluss zur Deutschen Bundesbahn
+
+```leaflet
+id: U-Oberursel_Bahnhof.md
+coordinates: [[U-Oberursel_Bahnhof.md]]
+markerFile: [[U-Oberursel_Bahnhof.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

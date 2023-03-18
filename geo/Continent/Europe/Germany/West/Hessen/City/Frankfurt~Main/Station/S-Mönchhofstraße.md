@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10037,8.616296]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mönchhofstraße.md
+coordinates: [[S-Mönchhofstraße.md]]
+markerFile: [[S-Mönchhofstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

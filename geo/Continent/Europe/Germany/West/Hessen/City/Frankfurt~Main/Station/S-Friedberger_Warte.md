@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13954,8.698304]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Friedberger_Warte.md
+coordinates: [[S-Friedberger_Warte.md]]
+markerFile: [[S-Friedberger_Warte.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13101,8.732849]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 15. Juni bis 13. Dezember 2008: Endstation einzelner Züge der U4; mit eingleisiger Abstell-/Wendeanlage
+
+```leaflet
+id: U-Schäfflestraße.md
+coordinates: [[U-Schäfflestraße.md]]
+markerFile: [[U-Schäfflestraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

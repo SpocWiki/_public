@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11972,8.653611]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::32, 36, 50, 75]
 
 Verbindungskurve zur D-Strecke
+
+```leaflet
+id: U-Bockenheimer_Warte.md
+coordinates: [[U-Bockenheimer_Warte.md]]
+markerFile: [[U-Bockenheimer_Warte.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

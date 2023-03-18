@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12654,8.685753]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 -
+
+```leaflet
+id: U-Glauburgstraße.md
+coordinates: [[U-Glauburgstraße.md]]
+markerFile: [[U-Glauburgstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11315,8.697785]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-S-Bahn-Station_Ostendstraße.md
+coordinates: [[S-S-Bahn-Station_Ostendstraße.md]]
+markerFile: [[S-S-Bahn-Station_Ostendstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

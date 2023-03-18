@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1236,8.71685]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::38, 103]
 
 Eissporthalle Frankfurt
+
+```leaflet
+id: U-Eissporthalle_Festplatz.md
+coordinates: [[U-Eissporthalle_Festplatz.md]]
+markerFile: [[U-Eissporthalle_Festplatz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

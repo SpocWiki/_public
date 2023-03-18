@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.07059,8.678148]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Oberschweinstiege.md
+coordinates: [[S-Oberschweinstiege.md]]
+markerFile: [[S-Oberschweinstiege.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

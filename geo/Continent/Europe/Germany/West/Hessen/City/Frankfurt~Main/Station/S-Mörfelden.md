@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.979,8.565384]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mörfelden.md
+coordinates: [[S-Mörfelden.md]]
+markerFile: [[S-Mörfelden.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1644,8.642743]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::29]
 
 Station auf ehemaliger Eisenbahnstrecke; mit schrankengesichertem Übergang
+
+```leaflet
+id: U-Zeilweg.md
+coordinates: [[U-Zeilweg.md]]
+markerFile: [[U-Zeilweg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

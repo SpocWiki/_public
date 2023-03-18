@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.115,8.672222]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::64]
 
 Alte Oper
+
+```leaflet
+id: U-Alte_Oper.md
+coordinates: [[U-Alte_Oper.md]]
+markerFile: [[U-Alte_Oper.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

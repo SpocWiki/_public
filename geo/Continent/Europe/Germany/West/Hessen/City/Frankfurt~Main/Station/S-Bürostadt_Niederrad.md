@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.07814,8.627926]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Bürostadt_Niederrad.md
+coordinates: [[S-Bürostadt_Niederrad.md]]
+markerFile: [[S-Bürostadt_Niederrad.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

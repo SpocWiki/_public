@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.93111,8.649722]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Darmstadt-Wixhausen.md
+coordinates: [[S-Darmstadt-Wixhausen.md]]
+markerFile: [[S-Darmstadt-Wixhausen.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.14041,8.748982]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Erschließt das gleichnamige Einkaufszentrum: das Hessen-Center
+
+```leaflet
+id: U-Hessen-Center.md
+coordinates: [[U-Hessen-Center.md]]
+markerFile: [[U-Hessen-Center.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

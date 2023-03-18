@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1183,8.66194]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::36]
 
 U-Bahn-Station am ehemaligen Wohnort von Wilhelm Busch 1867-1872 und am ehemaligen Hauptsitz der Metallgesellschaft (Bockenheimer Landstraße 62 und 77)
+
+```leaflet
+id: U-Westend.md
+coordinates: [[U-Westend.md]]
+markerFile: [[U-Westend.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

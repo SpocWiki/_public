@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09332,8.677882]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Breslauer_Straße.md
+coordinates: [[S-Breslauer_Straße.md]]
+markerFile: [[S-Breslauer_Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12508,8.63721]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::34]
 
 -
+
+```leaflet
+id: U-Kirchplatz.md
+coordinates: [[U-Kirchplatz.md]]
+markerFile: [[U-Kirchplatz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

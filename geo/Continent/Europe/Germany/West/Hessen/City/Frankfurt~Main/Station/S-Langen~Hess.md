@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.99345,8.656905]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Langen~Hess.md
+coordinates: [[S-Langen~Hess.md]]
+markerFile: [[S-Langen~Hess.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

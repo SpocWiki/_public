@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09097,8.673674]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Beuthener_Straße.md
+coordinates: [[S-Beuthener_Straße.md]]
+markerFile: [[S-Beuthener_Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

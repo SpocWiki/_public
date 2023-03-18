@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10444,8.664855]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Baseler_Platz.md
+coordinates: [[S-Baseler_Platz.md]]
+markerFile: [[S-Baseler_Platz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

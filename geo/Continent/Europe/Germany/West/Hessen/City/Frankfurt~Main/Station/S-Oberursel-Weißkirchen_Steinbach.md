@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.17324,8.586918]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Oberursel-Weißkirchen_Steinbach.md
+coordinates: [[S-Oberursel-Weißkirchen_Steinbach.md]]
+markerFile: [[S-Oberursel-Weißkirchen_Steinbach.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

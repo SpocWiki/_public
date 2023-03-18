@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.98798,8.846545]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Rodgau-Rollwald.md
+coordinates: [[S-Rodgau-Rollwald.md]]
+markerFile: [[S-Rodgau-Rollwald.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

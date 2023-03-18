@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.00134,8.580811]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -16,3 +18,10 @@ confidential: public
 [City:[[Frankfurt~Main]] ]
 
 Ich habe jetzt auch ein gutes Stück 
+```leaflet
+id: S-Walldorf.md
+coordinates: [[S-Walldorf.md]]
+markerFile: [[S-Walldorf.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.15821,8.655016]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frankfurt-Eschersheim.md
+coordinates: [[S-Frankfurt-Eschersheim.md]]
+markerFile: [[S-Frankfurt-Eschersheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

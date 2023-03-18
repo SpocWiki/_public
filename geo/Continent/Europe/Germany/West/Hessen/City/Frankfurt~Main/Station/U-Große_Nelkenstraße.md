@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13306,8.628382]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::72, 73]
 
 Stadtbahnstation in Mittellage einer Straße
+
+```leaflet
+id: U-Große_Nelkenstraße.md
+coordinates: [[U-Große_Nelkenstraße.md]]
+markerFile: [[U-Große_Nelkenstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

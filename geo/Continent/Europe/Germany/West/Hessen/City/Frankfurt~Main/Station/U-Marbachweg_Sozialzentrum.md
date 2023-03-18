@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.14209,8.684]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::34]
 
 Die Haltestelle bildet zusammen mit der Haltestelle Eckenheimer Landstraße/ Marbachweg eine Doppelhaltestelle an der gleichen Kreuzung, um gefährliche Fußgängerläufe quer über mehrere breite Auto- und Schienenfahrbahnen unnötig zu machen. 2013 mit Hochbahnsteigen umgebaut.
+
+```leaflet
+id: U-Marbachweg_Sozialzentrum.md
+coordinates: [[U-Marbachweg_Sozialzentrum.md]]
+markerFile: [[U-Marbachweg_Sozialzentrum.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

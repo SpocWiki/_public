@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09928,8.573319]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Luthmerstraße.md
+coordinates: [[S-Luthmerstraße.md]]
+markerFile: [[S-Luthmerstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

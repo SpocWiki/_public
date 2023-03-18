@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09977,8.703457]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Lettigkautweg.md
+coordinates: [[S-Lettigkautweg.md]]
+markerFile: [[S-Lettigkautweg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

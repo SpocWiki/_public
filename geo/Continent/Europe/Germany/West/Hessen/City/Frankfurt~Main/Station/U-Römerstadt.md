@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.153,8.635]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::60]
 
 Metrostation auf dem Mittelstreifen einer Stadtautobahn; mit Abstellanlage
+
+```leaflet
+id: U-Römerstadt.md
+coordinates: [[U-Römerstadt.md]]
+markerFile: [[U-Römerstadt.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

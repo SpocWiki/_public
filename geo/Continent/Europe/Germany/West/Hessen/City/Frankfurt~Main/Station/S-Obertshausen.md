@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.07153,8.848194]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Obertshausen.md
+coordinates: [[S-Obertshausen.md]]
+markerFile: [[S-Obertshausen.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

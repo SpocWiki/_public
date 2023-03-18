@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12847,8.646508]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Frauenfriedenskirche.md
+coordinates: [[S-Frauenfriedenskirche.md]]
+markerFile: [[S-Frauenfriedenskirche.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.219,8.640438]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::Stadtverkehr Bad Homburg]
 
 Nördlicher Endpunkt der Linie U2 im Stadtgebiet Bad Homburg vor der Höhe.
+
+```leaflet
+id: U-Gonzenheim.md
+coordinates: [[U-Gonzenheim.md]]
+markerFile: [[U-Gonzenheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

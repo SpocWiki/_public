@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.08163,8.639213]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Melibocusstraße.md
+coordinates: [[S-Melibocusstraße.md]]
+markerFile: [[S-Melibocusstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

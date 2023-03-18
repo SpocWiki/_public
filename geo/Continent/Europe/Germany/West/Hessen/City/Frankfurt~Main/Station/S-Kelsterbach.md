@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.06882,8.530139]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Kelsterbach.md
+coordinates: [[S-Kelsterbach.md]]
+markerFile: [[S-Kelsterbach.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

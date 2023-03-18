@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12895,8.629471]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::34, 72, 73]
 
 Verzweigung der Linien U6 und U7; Stadtbahnstation am Ausgang des C-Tunnels; Gleisverbindung zum Straßenbahnnetz; Die Haltestelle hieß bis 11. Dezember 2010 Industriehof/Neue Börse.
+
+```leaflet
+id: U-Industriehof.md
+coordinates: [[U-Industriehof.md]]
+markerFile: [[U-Industriehof.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

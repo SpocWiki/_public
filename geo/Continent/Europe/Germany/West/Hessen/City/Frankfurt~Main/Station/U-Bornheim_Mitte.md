@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12528,8.706944]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::34, 38, 43, 103]
 
 Zwei eingleisige Stationen übereinander
+
+```leaflet
+id: U-Bornheim_Mitte.md
+coordinates: [[U-Bornheim_Mitte.md]]
+markerFile: [[U-Bornheim_Mitte.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

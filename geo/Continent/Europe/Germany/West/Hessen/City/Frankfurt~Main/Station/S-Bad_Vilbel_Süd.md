@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1787,8.733477]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Bad_Vilbel_Süd.md
+coordinates: [[S-Bad_Vilbel_Süd.md]]
+markerFile: [[S-Bad_Vilbel_Süd.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

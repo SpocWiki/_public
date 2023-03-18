@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12946,8.624064]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::34]
 
 Stadtbahnstation in Mittellage einer Straße; seit 31. Mai 2011 mit Hochbahnsteigen
+
+```leaflet
+id: U-Fischstein.md
+coordinates: [[U-Fischstein.md]]
+markerFile: [[U-Fischstein.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
 ---
 location: [50.11329,8.693541]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Allerheiligentor.md
+coordinates: [[S-Allerheiligentor.md]]
+markerFile: [[S-Allerheiligentor.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

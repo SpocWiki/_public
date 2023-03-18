@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13862,8.646436]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Ginnheim.md
+coordinates: [[S-Ginnheim.md]]
+markerFile: [[S-Ginnheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

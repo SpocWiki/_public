@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.15848,8.687869]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::27, 39, 63]
 
 Endstation der U5 an einem kleinen Platz, von wo aus mehrere Buslinien (inklusive Nachtbus) in die nördlicher gelegenen Stadtteile (Berkersheim, Frankfurter Berg, Bonames) führen. Es bestehen seit längerem konkrete Planungen, die U5 von hier aus bis 2012 in nördliche Richtung zu verlängern und mit der S-Bahn-Station Frankfurter Berg zu verknüpfen.
+
+```leaflet
+id: U-Preungesheim.md
+coordinates: [[U-Preungesheim.md]]
+markerFile: [[U-Preungesheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

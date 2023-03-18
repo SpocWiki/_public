@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.97702,8.828543]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Rödermark-Ober_Roden.md
+coordinates: [[S-Rödermark-Ober_Roden.md]]
+markerFile: [[S-Rödermark-Ober_Roden.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

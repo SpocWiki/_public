@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.16677,8.62989]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 -
+
+```leaflet
+id: U-Wiesenau.md
+coordinates: [[U-Wiesenau.md]]
+markerFile: [[U-Wiesenau.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

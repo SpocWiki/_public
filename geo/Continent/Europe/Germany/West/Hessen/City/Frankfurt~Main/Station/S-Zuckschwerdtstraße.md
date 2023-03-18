@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10302,8.551961]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Zuckschwerdtstraße.md
+coordinates: [[S-Zuckschwerdtstraße.md]]
+markerFile: [[S-Zuckschwerdtstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

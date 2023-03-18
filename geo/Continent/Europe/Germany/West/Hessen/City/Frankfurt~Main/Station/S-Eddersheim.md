@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.03953,8.471677]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Eddersheim.md
+coordinates: [[S-Eddersheim.md]]
+markerFile: [[S-Eddersheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

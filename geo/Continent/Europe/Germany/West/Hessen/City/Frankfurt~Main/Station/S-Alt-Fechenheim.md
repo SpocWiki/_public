@@ -1,6 +1,8 @@
 ---
 location: [50.12785,8.767938]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Alt-Fechenheim.md
+coordinates: [[S-Alt-Fechenheim.md]]
+markerFile: [[S-Alt-Fechenheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

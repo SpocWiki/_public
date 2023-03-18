@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.33528,8.755]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Friedberg~Hess.md
+coordinates: [[S-Friedberg~Hess.md]]
+markerFile: [[S-Friedberg~Hess.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

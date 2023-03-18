@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1156,8.6983]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::(31)]
 
 Dreigleisiger Verzweigungsbahnhof der Linien U6 und U7
+
+```leaflet
+id: U-Zoo.md
+coordinates: [[U-Zoo.md]]
+markerFile: [[U-Zoo.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

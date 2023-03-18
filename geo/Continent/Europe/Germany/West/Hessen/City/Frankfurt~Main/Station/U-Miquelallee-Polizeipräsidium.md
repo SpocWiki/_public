@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13169,8.672183]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::32, 64]
 
 Älteste U-Bahn-Station Frankfurts
+
+```leaflet
+id: U-Miquelallee-Polizeipräsidium.md
+coordinates: [[U-Miquelallee-Polizeipräsidium.md]]
+markerFile: [[U-Miquelallee-Polizeipräsidium.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

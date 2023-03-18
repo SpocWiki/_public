@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.17331,8.529183]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Kronberg_Süd.md
+coordinates: [[S-Kronberg_Süd.md]]
+markerFile: [[S-Kronberg_Süd.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

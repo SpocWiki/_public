@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.83528,8.497778]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Riedstadt-Goddelau.md
+coordinates: [[S-Riedstadt-Goddelau.md]]
+markerFile: [[S-Riedstadt-Goddelau.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

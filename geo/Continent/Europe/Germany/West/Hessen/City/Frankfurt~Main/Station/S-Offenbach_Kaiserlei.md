@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10533,8.738377]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Offenbach_Kaiserlei.md
+coordinates: [[S-Offenbach_Kaiserlei.md]]
+markerFile: [[S-Offenbach_Kaiserlei.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

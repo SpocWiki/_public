@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.99333,8.277778]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mainz_Römisches_Theater.md
+coordinates: [[S-Mainz_Römisches_Theater.md]]
+markerFile: [[S-Mainz_Römisches_Theater.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

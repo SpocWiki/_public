@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.99441,8.314038]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Mainz-Gustavsburg.md
+coordinates: [[S-Mainz-Gustavsburg.md]]
+markerFile: [[S-Mainz-Gustavsburg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.0826,8.588766]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Ferdinand-Dirichs-Weg.md
+coordinates: [[S-Ferdinand-Dirichs-Weg.md]]
+markerFile: [[S-Ferdinand-Dirichs-Weg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

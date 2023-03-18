@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.19361,8.59324]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::Stadtverkehr Oberursel]
 
 Stadtgebiet Oberursel (Taunus)
+
+```leaflet
+id: U-Bommersheim.md
+coordinates: [[U-Bommersheim.md]]
+markerFile: [[U-Bommersheim.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

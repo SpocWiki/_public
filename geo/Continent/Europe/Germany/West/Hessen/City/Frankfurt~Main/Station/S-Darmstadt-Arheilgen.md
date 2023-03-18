@@ -1,6 +1,8 @@
----
+﻿---
 location: [49.91083,8.657222]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Darmstadt-Arheilgen.md
+coordinates: [[S-Darmstadt-Arheilgen.md]]
+markerFile: [[S-Darmstadt-Arheilgen.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

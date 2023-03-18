@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10585,8.763633]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Offenbach_Marktplatz.md
+coordinates: [[S-Offenbach_Marktplatz.md]]
+markerFile: [[S-Offenbach_Marktplatz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

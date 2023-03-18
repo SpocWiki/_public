@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.08419,8.670987]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Louisa_Bahnhof.md
+coordinates: [[S-Louisa_Bahnhof.md]]
+markerFile: [[S-Louisa_Bahnhof.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

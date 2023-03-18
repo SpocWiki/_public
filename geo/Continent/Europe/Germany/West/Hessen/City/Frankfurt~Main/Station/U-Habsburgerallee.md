@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11694,8.7078]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::32]
 
 -
+
+```leaflet
+id: U-Habsburgerallee.md
+coordinates: [[U-Habsburgerallee.md]]
+markerFile: [[U-Habsburgerallee.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

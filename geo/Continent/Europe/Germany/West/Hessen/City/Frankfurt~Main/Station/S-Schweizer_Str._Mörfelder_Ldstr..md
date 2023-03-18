@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.09686,8.684231]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Schweizer_Str._Mörfelder_Ldstr..md
+coordinates: [[S-Schweizer_Str._Mörfelder_Ldstr..md]]
+markerFile: [[S-Schweizer_Str._Mörfelder_Ldstr..md]]
+defaultZoom: 11 
+maxZoom: 18
+```

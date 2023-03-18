@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12311,8.691623]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Friedberger_Platz.md
+coordinates: [[S-Friedberger_Platz.md]]
+markerFile: [[S-Friedberger_Platz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

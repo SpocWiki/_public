@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.11137,8.708612]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Ostbahnhof_Honsellstraße.md
+coordinates: [[S-Ostbahnhof_Honsellstraße.md]]
+markerFile: [[S-Ostbahnhof_Honsellstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

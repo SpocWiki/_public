@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10917,8.67472]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Bis 1992 Theaterplatz. Willy-Brandt-Platz
+
+```leaflet
+id: U-Willy-Brandt-Platz.md
+coordinates: [[U-Willy-Brandt-Platz.md]]
+markerFile: [[U-Willy-Brandt-Platz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.10333,8.679585]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Schweizer-Gartenstraße.md
+coordinates: [[S-Schweizer-Gartenstraße.md]]
+markerFile: [[S-Schweizer-Gartenstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

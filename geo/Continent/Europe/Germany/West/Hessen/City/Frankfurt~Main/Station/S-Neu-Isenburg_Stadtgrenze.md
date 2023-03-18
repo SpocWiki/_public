@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.05944,8.694654]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Neu-Isenburg_Stadtgrenze.md
+coordinates: [[S-Neu-Isenburg_Stadtgrenze.md]]
+markerFile: [[S-Neu-Isenburg_Stadtgrenze.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

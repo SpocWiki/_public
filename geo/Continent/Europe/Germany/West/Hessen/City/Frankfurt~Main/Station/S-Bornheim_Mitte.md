@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.12669,8.707432]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Bornheim_Mitte.md
+coordinates: [[S-Bornheim_Mitte.md]]
+markerFile: [[S-Bornheim_Mitte.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

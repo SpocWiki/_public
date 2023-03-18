@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.08102,8.594564]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Harthweg.md
+coordinates: [[S-Harthweg.md]]
+markerFile: [[S-Harthweg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

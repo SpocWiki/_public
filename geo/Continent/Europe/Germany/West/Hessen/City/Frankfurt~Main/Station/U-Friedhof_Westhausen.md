@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13905,8.612863]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 Stadtbahnstation in Mittellage einer Straße
+
+```leaflet
+id: U-Friedhof_Westhausen.md
+coordinates: [[U-Friedhof_Westhausen.md]]
+markerFile: [[U-Friedhof_Westhausen.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

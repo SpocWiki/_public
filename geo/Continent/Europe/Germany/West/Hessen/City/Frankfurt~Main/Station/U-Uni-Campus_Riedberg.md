@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.17669,8.630118]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::29]
 
 -
+
+```leaflet
+id: U-Uni-Campus_Riedberg.md
+coordinates: [[U-Uni-Campus_Riedberg.md]]
+markerFile: [[U-Uni-Campus_Riedberg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.15076,8.688578]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::39]
 
 2013 mit Hochbahnsteigen umgebaut
+
+```leaflet
+id: U-Ronneburgstraße.md
+coordinates: [[U-Ronneburgstraße.md]]
+markerFile: [[U-Ronneburgstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

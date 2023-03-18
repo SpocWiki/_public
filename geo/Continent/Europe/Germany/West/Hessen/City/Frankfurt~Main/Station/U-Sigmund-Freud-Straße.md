@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.15493,8.686307]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::-]
 
 2013 mit Hochbahnsteigen umgebaut.
+
+```leaflet
+id: U-Sigmund-Freud-Straße.md
+coordinates: [[U-Sigmund-Freud-Straße.md]]
+markerFile: [[U-Sigmund-Freud-Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

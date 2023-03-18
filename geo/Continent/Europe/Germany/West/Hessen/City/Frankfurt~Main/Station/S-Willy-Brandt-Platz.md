@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1088,8.673368]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Willy-Brandt-Platz.md
+coordinates: [[S-Willy-Brandt-Platz.md]]
+markerFile: [[S-Willy-Brandt-Platz.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.01083,8.350764]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Hochheim~Main.md
+coordinates: [[S-Hochheim~Main.md]]
+markerFile: [[S-Hochheim~Main.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

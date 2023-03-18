@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.24353,8.65175]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Seulberg.md
+coordinates: [[S-Seulberg.md]]
+markerFile: [[S-Seulberg.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

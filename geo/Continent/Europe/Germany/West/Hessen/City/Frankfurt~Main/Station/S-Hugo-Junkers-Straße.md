@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.1272,8.752482]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -15,3 +17,11 @@ confidential: public
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 
+
+```leaflet
+id: S-Hugo-Junkers-Straße.md
+coordinates: [[S-Hugo-Junkers-Straße.md]]
+markerFile: [[S-Hugo-Junkers-Straße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```

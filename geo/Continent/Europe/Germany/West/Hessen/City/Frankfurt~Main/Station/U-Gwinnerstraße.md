@@ -1,6 +1,8 @@
----
+﻿---
 location: [50.13384,8.74124]
-type: Station
+type: Station 
+mapzoom: [8,15] 
+mapmarker: train 
 tags:
 - geo/Station
 
@@ -19,3 +21,11 @@ confidential: public
 [switch-to-ÖPNV::41, 44]
 
 ehemalige Straßenbahnstation
+
+```leaflet
+id: U-Gwinnerstraße.md
+coordinates: [[U-Gwinnerstraße.md]]
+markerFile: [[U-Gwinnerstraße.md]]
+defaultZoom: 11 
+maxZoom: 18
+```
