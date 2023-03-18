@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.11817,8.701526]
 type: Station 
 mapzoom: [8,15] 
@@ -13,7 +13,7 @@ isReadOnly: false
 confidential: public
 [geo-lon::8.701526]
 [geo-lat::50.11817]
-[name::Waldschmidtstraße]
+[name::S-Bahn Waldschmidtstraße]
 [Country::[[Germany]]]
 [City:[[Frankfurt~Main]] ]
 

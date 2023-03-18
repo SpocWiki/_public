@@ -6,6 +6,10 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 
+location: [{{GeoLat}},{{GeoLon}}]
+SpocWebEntityId: {{SpocWebEntityId}}
+StationSId: {{Id}}
+
 tags:
 - geo/Station
 
@@ -13,13 +17,18 @@ aliases:
 - 
 
 ---
-location: [{{GeoLat}},{{GeoLon}}]
-SpocWebEntityId: {{SpocWebEntityId}}
-StationSId: {{Id}}
 
 [geo-lon::{{GeoLon}}]
 [geo-lat::{{GeoLat}}]
 [name::{{Bahnhof}}]
 [Country::[[Germany]]]
 [City::[[Frankfurt~Main]]]
+
+```leaflet
+id: S-Waldschmidtstraße.md
+coordinates: [[{{Bahnhof}}]]
+markerFile: [[{{Bahnhof}}]]
+defaultZoom: 11 
+maxZoom: 18
+```
 
