@@ -3,8 +3,6 @@ location: [50.07083,8.243889]
 type: Station 
 mapzoom: [8,15] 
 mapmarker: train 
-mapzoom: [8,15] 
-mapmarker: train 
 tags:
 - geo/Station
 

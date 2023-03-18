@@ -2,7 +2,7 @@
 location: [50.12278,8.701389]
 type: Station 
 mapzoom: [8,15] 
-mapmarker: train 
+mapmarker: subway 
 tags:
 - geo/Station
 
