@@ -1,12 +1,11 @@
-﻿---
+---
 location: [51.5028,-0.2801]
 type: Station 
 mapzoom: [8,15] 
 mapmarker: subway 
 tags:
-- geo/Station
+- geo/station
 - Europe/United_Kingdom/London
-
 ---
 SpocWebEntityId: 155874
 [StationSId::]

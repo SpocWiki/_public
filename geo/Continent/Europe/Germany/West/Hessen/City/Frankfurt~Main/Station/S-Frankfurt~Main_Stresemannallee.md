@@ -1,12 +1,14 @@
-﻿---
-location: [50.09139,8.67]
+---
+location: [50.0942,8.6715]
 type: Station 
-mapzoom: [8,15] 
+mapzoom: [8,18] 
 mapmarker: train 
 tags:
-- geo/Station
-
+- geo/station/train
 ---
+
+[[T-Frankfurt~Main_Stresemannallee]] is directly below it. 
+
 SpocWebEntityId: 156426
 isDeleted: false
 isReadOnly: false

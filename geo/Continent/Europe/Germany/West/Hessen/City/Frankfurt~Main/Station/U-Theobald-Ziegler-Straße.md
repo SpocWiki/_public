@@ -1,11 +1,10 @@
-﻿---
+---
 location: [50.14792,8.690057]
 type: Station 
-mapzoom: [8,15] 
+mapzoom: [8,18] 
 mapmarker: subway 
 tags:
-- geo/Station
-
+- geo/station
 ---
 SpocWebEntityId: 156310
 [StationUId::82]

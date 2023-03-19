@@ -1,0 +1,26 @@
+---
+location: [50.11089,8.657535]
+type: Station 
+mapzoom: [8,18] 
+mapmarker: tram 
+tags:
+- geo/station/tram
+---
+SpocWebEntityId: 156586
+isDeleted: false
+isReadOnly: false
+confidential: public
+[geo-lon::8.657535]
+[geo-lat::50.11089]
+[name::Hohenstaufenstraße]
+[Country::[[Germany]]]
+[City:[[Frankfurt~Main]] ]
+
+
+```leaflet
+id: S-Hohenstaufenstraße.md
+coordinates: [[T-Hohenstaufenstraße]]
+markerFile: [[T-Hohenstaufenstraße]]
+defaultZoom: 11 
+maxZoom: 18
+```

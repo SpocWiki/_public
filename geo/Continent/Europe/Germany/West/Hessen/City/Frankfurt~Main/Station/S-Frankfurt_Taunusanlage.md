@@ -1,11 +1,10 @@
-﻿---
+---
 location: [50.11389,8.669723]
 type: Station 
-mapzoom: [8,15] 
+mapzoom: [8,18] 
 mapmarker: train 
 tags:
-- geo/Station
-
+- geo/station
 ---
 SpocWebEntityId: 156370
 isDeleted: false

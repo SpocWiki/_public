@@ -11,7 +11,7 @@ SpocWebEntityId: {{SpocWebEntityId}}
 StationSId: {{Id}}
 
 tags:
-- geo/Station
+- geo/station
 
 aliases:
 - 
