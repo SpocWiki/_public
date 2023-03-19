@@ -4,7 +4,7 @@ type: Station
 mapzoom: [8,18] 
 mapmarker: subway 
 tags:
-- geo/station
+- geo/station/subway
 ---
 SpocWebEntityId: 156254
 [StationUId::23]

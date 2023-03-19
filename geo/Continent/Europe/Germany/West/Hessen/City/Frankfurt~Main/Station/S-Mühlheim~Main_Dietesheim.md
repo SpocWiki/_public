@@ -4,7 +4,7 @@ type: Station
 mapzoom: [8,18] 
 mapmarker: train 
 tags:
-- geo/station
+- geo/station/train
 ---
 SpocWebEntityId: 156467
 isDeleted: false
