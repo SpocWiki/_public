@@ -7,7 +7,7 @@ zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
 stroke: red
-geojsonFolder: ./Sub-Hammersmith/
+geojsonFolder: ./Line~Hammersmith/
 markerFolder: ./Station/
 ```
 
@@ -31,7 +31,7 @@ markerFolder: ./Station/
 16) [[Station/Sub-Barbican]] 
 17) [[Station/Sub-Moorgate]] 
 18) [[Station/Sub-Liverpool_Street]] 
-19) [[Station/Sub-Aldgate_East]] 
+19) [[Station/Sub-Aldgate]] 
 20) [[Station/Sub-Whitechapel]] 
 21) [[Station/Sub-Stepney_Green]] 
 22) [[Station/Sub-Mile_End]] 

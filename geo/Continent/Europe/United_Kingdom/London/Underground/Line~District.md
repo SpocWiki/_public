@@ -6,7 +6,7 @@ zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
 stroke: red
-geojsonFolder: ./Sub-District/
+geojsonFolder: ./Line~District/
 markerFolder: ./Station/
 ```
 

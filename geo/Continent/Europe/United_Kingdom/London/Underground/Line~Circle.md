@@ -7,7 +7,7 @@ zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
 stroke: red
-geojsonFolder: ./Sub-Circle/
+geojsonFolder: ./Line~Circle/
 markerFolder: ./Station/
 ```
 
