@@ -1,5 +1,5 @@
-﻿---
-location: [51.58,-0.02]
+---
+location: [51.5,-0.27]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 31030
+SpocWebEntityId: 28664
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.02]
-[geo-lat::51.58]
-[name::Hornsey]
+[geo-lon::-0.27]
+[geo-lat::51.5]
+[name::Acton]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Hornsey
-coordinates: [[Hornsey]]
-markerFile: [[Hornsey]]
+id: Acton
+coordinates: [[Acton]]
+markerFile: [[Acton]]
 defaultZoom: 11 
 maxZoom: 18
 ```

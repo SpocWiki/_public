@@ -1,5 +1,5 @@
-﻿---
-location: [51.4,-0.17]
+---
+location: [51.52,-0.09]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 32510
+SpocWebEntityId: 32081
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.17]
-[geo-lat::51.4]
-[name::Mitcham]
+[geo-lon::-0.09]
+[geo-lat::51.52]
+[name::London]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Mitcham
-coordinates: [[Mitcham]]
-markerFile: [[Mitcham]]
+id: London
+coordinates: [[London]]
+markerFile: [[London]]
 defaultZoom: 11 
 maxZoom: 18
 ```

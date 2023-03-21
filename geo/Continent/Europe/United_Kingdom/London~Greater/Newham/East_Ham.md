@@ -1,5 +1,5 @@
-﻿---
-location: [51.5,-0.27]
+---
+location: [51.53,0.08]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 28664
+SpocWebEntityId: 29951
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.27]
-[geo-lat::51.5]
-[name::Acton]
+[geo-lon::0.08]
+[geo-lat::51.53]
+[name::East Ham]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Acton
-coordinates: [[Acton]]
-markerFile: [[Acton]]
+id: East Ham
+coordinates: [[East_Ham]]
+markerFile: [[East_Ham]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
-﻿---
-location: [51.53,0.08]
+---
+location: [51.58,-0.02]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 29951
+SpocWebEntityId: 31030
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.08]
-[geo-lat::51.53]
-[name::East Ham]
+[geo-lon::-0.02]
+[geo-lat::51.58]
+[name::Hornsey]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: East Ham
-coordinates: [[East_Ham]]
-markerFile: [[East_Ham]]
+id: Hornsey
+coordinates: [[Hornsey]]
+markerFile: [[Hornsey]]
 defaultZoom: 11 
 maxZoom: 18
 ```

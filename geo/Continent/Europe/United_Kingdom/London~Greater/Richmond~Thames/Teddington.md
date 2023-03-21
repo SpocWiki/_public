@@ -1,5 +1,5 @@
-﻿---
-location: [51.57,-0.03]
+---
+location: [51.43,-0.33]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 35432
+SpocWebEntityId: 34789
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.03]
-[geo-lat::51.57]
-[name::Walthamshow]
+[geo-lon::-0.33]
+[geo-lat::51.43]
+[name::Teddington]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Walthamshow
-coordinates: [[Walthamshow]]
-markerFile: [[Walthamshow]]
+id: Teddington
+coordinates: [[Teddington]]
+markerFile: [[Teddington]]
 defaultZoom: 11 
 maxZoom: 18
 ```

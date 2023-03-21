@@ -1,5 +1,5 @@
-﻿---
-location: [51.45,-0.3]
+---
+location: [51.57,0.03]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 35067
+SpocWebEntityId: 35444
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.3]
-[geo-lat::51.45]
-[name::Twickenham]
+[geo-lon::0.03]
+[geo-lat::51.57]
+[name::Wanstead]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Twickenham
-coordinates: [[Twickenham]]
-markerFile: [[Twickenham]]
+id: Wanstead
+coordinates: [[Wanstead]]
+markerFile: [[Wanstead]]
 defaultZoom: 11 
 maxZoom: 18
 ```

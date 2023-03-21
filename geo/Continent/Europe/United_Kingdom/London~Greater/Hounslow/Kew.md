@@ -1,5 +1,5 @@
-﻿---
-location: [51.58,-0.02]
+---
+location: [51.47,-0.32]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 31972
+SpocWebEntityId: 31405
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.02]
-[geo-lat::51.58]
-[name::Leyton]
+[geo-lon::-0.32]
+[geo-lat::51.47]
+[name::Kew]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Leyton
-coordinates: [[Leyton]]
-markerFile: [[Leyton]]
+id: Kew
+coordinates: [[Kew]]
+markerFile: [[Kew]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
-﻿---
-location: [51.48,-0.25]
+---
+location: [51.57,-0.03]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 29026
+SpocWebEntityId: 35432
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.25]
-[geo-lat::51.48]
-[name::Barnes]
+[geo-lon::-0.03]
+[geo-lat::51.57]
+[name::Walthamshow]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Barnes
-coordinates: [[Barnes]]
-markerFile: [[Barnes]]
+id: Walthamshow
+coordinates: [[Walthamshow]]
+markerFile: [[Walthamshow]]
 defaultZoom: 11 
 maxZoom: 18
 ```

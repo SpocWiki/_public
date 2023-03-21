@@ -1,5 +1,5 @@
-﻿---
-location: [51.42,-0.22]
+---
+location: [51.35,-0.08]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 35631
+SpocWebEntityId: 29683
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.22]
-[geo-lat::51.42]
-[name::Wimbledon]
+[geo-lon::-0.08]
+[geo-lat::51.35]
+[name::Croydon]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Wimbledon
-coordinates: [[Wimbledon]]
-markerFile: [[Wimbledon]]
+id: Croydon
+coordinates: [[Croydon]]
+markerFile: [[Croydon]]
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
-﻿---
-location: [51.52,-0.09]
+---
+location: [51.45,-0.3]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 32081
+SpocWebEntityId: 35067
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.09]
-[geo-lat::51.52]
-[name::London]
+[geo-lon::-0.3]
+[geo-lat::51.45]
+[name::Twickenham]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: London
-coordinates: [[London]]
-markerFile: [[London]]
+id: Twickenham
+coordinates: [[Twickenham]]
+markerFile: [[Twickenham]]
 defaultZoom: 11 
 maxZoom: 18
 ```

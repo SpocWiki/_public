@@ -1,5 +1,5 @@
-﻿---
-location: [51.47,-0.32]
+---
+location: [51.6,-0.33]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 31405
+SpocWebEntityId: 30776
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.32]
-[geo-lat::51.47]
-[name::Kew]
+[geo-lon::-0.33]
+[geo-lat::51.6]
+[name::Harrow]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Kew
-coordinates: [[Kew]]
-markerFile: [[Kew]]
+id: Harrow
+coordinates: [[Harrow]]
+markerFile: [[Harrow]]
 defaultZoom: 11 
 maxZoom: 18
 ```

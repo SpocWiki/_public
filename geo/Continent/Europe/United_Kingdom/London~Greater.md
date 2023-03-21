@@ -4,7 +4,7 @@
 ```leaflet
 id: London
 geojsonFolder: ./London~Greater/
-markerFolder: ./London/City
+markerFolder: ./London~Greater
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

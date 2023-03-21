@@ -1,5 +1,5 @@
-﻿---
-location: [51.58,0.18]
+---
+location: [51.4,-0.17]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,14 +7,14 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 33751
+SpocWebEntityId: 32510
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.18]
-[geo-lat::51.58]
-[name::Romford]
+[geo-lon::-0.17]
+[geo-lat::51.4]
+[name::Mitcham]
 [State::]
 [Country::[[United_Kingdom]]]
 [StateId::]
@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Romford
-coordinates: [[Romford]]
-markerFile: [[Romford]]
+id: Mitcham
+coordinates: [[Mitcham]]
+markerFile: [[Mitcham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
