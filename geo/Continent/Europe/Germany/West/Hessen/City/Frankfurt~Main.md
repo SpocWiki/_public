@@ -31,6 +31,8 @@ aliases:
 id: Frankfurt~Main
 coordinates: [[Frankfurt~Main]]
 markerFile: [[Frankfurt~Main]]
+geojsonFolder: [./Frankfurt~Main/]
+markerFolder: ./Frankfurt~Main/
 defaultZoom: 11 
 maxZoom: 18
 ```
