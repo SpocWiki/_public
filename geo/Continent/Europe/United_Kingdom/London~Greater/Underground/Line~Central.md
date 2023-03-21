@@ -53,27 +53,30 @@ markerFolder: ./Station/
 29) [[Station/Sub-Stratford]] 
 30) [[Station/Sub-Leyton]] 
 31) [[Station/Sub-Leytonstone]] 
-32) [[Station/Sub-Wanstead]] 
-33) [[Station/Sub-Redbridge]] 
-34) [[Station/Sub-Gants_Hill]] 
-35) [[Station/Sub-Newbury_Park]] 
-36) [[Station/Sub-Barkingside]] 
-37) [[Station/Sub-Fairlop]] 
-38) [[Station/Sub-Hainault]] 
-39) [[Station/Sub-Grange_Hill]] 
-40) [[Station/Sub-Chigwell]] 
-41) [[Station/Sub-Roding_Valley]] 
-42) [[Station/Sub-Snaresbrook]] 
-43) [[Station/Sub-South_Woodford]] 
-44) [[Station/Sub-Buckhurst_Hill]] 
-45) [[Station/Sub-Loughton]] 
-46) [[Station/Sub-Debden]] 
-47) [[Station/Sub-Theydon_Bois]] 
-48) [[Station/Sub-Epping]]
+32) [[Station/Sub-Snaresbrook]] 
+33) [[Station/Sub-South_Woodford]] 
+33) [[Station/Sub-Woodford]] 
+34) [[Station/Sub-Buckhurst_Hill]] 
+35) [[Station/Sub-Loughton]] 
+36) [[Station/Sub-Debden]] 
+37) [[Station/Sub-Theydon_Bois]] 
+38) [[Station/Sub-Epping]]
+39) [[Station/Sub-Leytonstone]] 
+40) [[Station/Sub-Wanstead]] 
+41) [[Station/Sub-Redbridge]] 
+42) [[Station/Sub-Gants_Hill]] 
+43) [[Station/Sub-Newbury_Park]] 
+44) [[Station/Sub-Barkingside]] 
+45) [[Station/Sub-Fairlop]] 
+46) [[Station/Sub-Hainault]] 
+47) [[Station/Sub-Grange_Hill]] 
+48) [[Station/Sub-Chigwell]] 
+49) [[Station/Sub-Roding_Valley]] 
+50) [[Station/Sub-Woodford]] 
 
 
 ```dataview
-TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
-FROM outgoing([[Sub-Central]])
+TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],", name
+FROM outgoing([[Line~Central]])
 ```
 

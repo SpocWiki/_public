@@ -3,7 +3,7 @@
 
 ```leaflet
 id: London
-geojsonFolder: ./London~Greater/
+geojsonFolder: [./London~Greater/Underground/,./London~Greater/]
 markerFolder: ./London~Greater
 zoomFeatures: true 
 minZoom: 2 
