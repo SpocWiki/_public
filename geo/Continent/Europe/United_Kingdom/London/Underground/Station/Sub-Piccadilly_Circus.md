@@ -14,12 +14,12 @@ isReadOnly: false
 confidential: public
 [geo-lon::-0.1342]
 [geo-lat::51.5098]
-[name::Picadilly Circus]
+[name::Piccadilly Circus]
 [zone::1]
 [Num_lines::2]
 [switch-to-Rail::0]
 [Country::[[United_Kingdom]]]
-[City::[[London]]]
+[City::[[../../../London~Greater]]]
 
 
 ```leaflet

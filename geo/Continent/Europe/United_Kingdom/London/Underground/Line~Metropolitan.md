@@ -49,35 +49,8 @@ markerFolder: ./Station/
 34) [[Station/Sub-Aldgate]] 
 
 
-35) [[Station/Sub-Harrow_&_Wealdstone]] 
-36) [[Station/Sub-Kenton]] 
-37) [[Station/Sub-South_Kenton]] 
-38) [[Station/Sub-North_Wembley]] 
-39) [[Station/Sub-Wembley_Central]] 
-40) [[Station/Sub-Stonebridge_Park]] 
-41) [[Station/Sub-Harlesden]] 
-42) [[Station/Sub-Willesden_Junction]] 
-43) [[Station/Sub-Kensal_Green]] 
-44) [[Station/Sub-Queen's_Park]] 
-45) [[Station/Sub-Kilburn_Park]] 
-46) [[Station/Sub-Maida_Vale]] 
-47) [[Station/Sub-Warwick_Avenue]] 
-48) [[Station/Sub-Paddington]] 
-49) [[Station/Sub-Edgware_Road_(C)]] 
-50) [[Station/Sub-Marylebone]] 
-51) [[Station/Sub-Baker_Street]] 
-52) [[Station/Sub-Regent's_Park]] 
-53) [[Station/Sub-Oxford_Circus]] 
-54) [[Station/Sub-Picadilly_Circus]] 
-55) [[Station/Sub-Charing_Cross]] 
-56) [[Station/Sub-Embankment]] 
-57) [[Station/Sub-Waterloo]] 
-58) [[Station/Sub-Lambeth_North]] 
-59) [[Station/Sub-Elephant_&_Castle]] 
-
-
 ```dataview
-TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
+TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],",name
 FROM outgoing([[Line~Metropolitan]])
 ```
 

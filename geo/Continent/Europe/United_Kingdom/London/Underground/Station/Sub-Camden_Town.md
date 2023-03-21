@@ -4,7 +4,7 @@ type: Station
 mapzoom: [8,15] 
 mapmarker: subway 
 tags:
-- geo/station
+- geo/station/subway
 - Europe/United_Kingdom/London
 ---
 SpocWebEntityId: 155909
@@ -19,7 +19,7 @@ confidential: public
 [Num_lines::1]
 [switch-to-Rail::0]
 [Country::[[United_Kingdom]]]
-[City::[[London]]]
+[City::[[../../../London~Greater]]]
 
 
 ```leaflet

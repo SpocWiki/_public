@@ -1,5 +1,13 @@
 Subway Line in [[../../City/London]] 
 
+> The **Jubilee Line** is a London Underground line that runs between Stratford in east London and Stanmore in the suburban north-west, via the Docklands, South Bank and West End. Opened in 1979, it is the newest line on the Underground network, although some sections of track date back to 1932 and some stations to 1879.
+>
+> The western section between Baker Street and Stanmore was previously a branch of the Metropolitan line and later the Bakerloo line, while the newly built line was completed in two major sections: initially in 1979 to Charing Cross, then in 1999 with an extension to Stratford. The later stations are larger and have special safety features, both aspects being attempts to future-proof the line. Following the extension to east London, serving areas once poorly connected to the Underground, the line has seen a huge growth in passenger numbers and is the third-busiest on the network (after the Northern and Central lines), with over 213 million passenger journeys in 2011/12.
+>
+> Between Finchley Road and Wembley Park the Jubilee line shares its route with the Metropolitan line and Chiltern Main Line. Between Canning Town and Stratford it runs parallel to the Stratford International branch of the Docklands Light Railway. The Jubilee line is printed silver on the Tube map, to commemorate  the Silver Jubilee of Elizabeth II, after which the line was named.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Jubilee%20line)
+
 
 ```leaflet
 id: FFM~-U1

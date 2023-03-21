@@ -1,6 +1,15 @@
 Subway-Line in [[../../City/London]] 
 
 
+> The Central line is a London Underground line that runs through central London, from Epping, Essex, in the north-east to Ealing Broadway and West Ruislip in west London. Printed in red on the Tube map, the line serves 49 stations over 46 miles (74 km), making it the longest line on the Underground. It is one of only two lines on the Underground network to cross the Greater London boundary, the other being the Metropolitan line. One of London's deep-level railways, Central line trains are smaller than those on British main lines.
+>
+> The line was opened as the Central London Railway in 1900, crossing central London on an east–west axis along the central shopping street of Oxford Street to the financial centre of the City of London. It was later extended to the western suburb of Ealing. In the 1930s, plans were created to expand the route into the new suburbs, taking over steam-hauled outer-suburban routes to the borders of London and beyond to the east. These projects were mostly realised after the Second World War, when construction stopped and the unused tunnels were used as air-raid shelters and factories. However, suburban growth was limited by the Metropolitan Green Belt: of the planned expansions one (to Denham, Buckinghamshire) was cut short and the eastern terminus of Ongar ultimately closed in 1994 due to low patronage; part of this section between Epping and Ongar later became the Epping Ongar Railway. The Central line has mostly been operated by automatic train operation since a major refurbishment in the 1990s, although all trains still carry drivers. Many of its stations are of historic interest, from turn-of-the-century Central London Railway buildings in west London to post-war modernist designs on the West Ruislip and Hainault branches, as well as Victorian-era Eastern Counties Railway and Great Eastern Railway buildings east of Stratford, from when the line to Epping was a rural branch line.
+>
+> In terms of total passengers, the Central line is the second busiest on the Underground. In 2016/17 over 280 million passenger journeys were recorded on the line. As of 2013, it operated the second-most frequent service on the network, with 34 trains per hour (tph) operating for half-an-hour in the westbound direction during the morning peak, and between 27 and 30 tph during the rest of the peak. The Elizabeth line, which began most of its core operation from 24 May 2022, provides interchanges with the Central line at Stratford, Liverpool Street, Tottenham Court Road, Ealing Broadway, and Bond Street, relieving overcrowding.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Central%20line%20(London%20Underground))
+
+
 ```leaflet
 id: FFM~-U1
 zoomFeatures: true 

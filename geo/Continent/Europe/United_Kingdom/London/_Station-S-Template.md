@@ -24,5 +24,5 @@ SpocWebEntityId: {{SpocWebEntityId}}
 [Num_lines::{{total_lines}}]
 [switch-to-Rail::{{rail}}]
 [Country::[[United_Kingdom]]]
-[City::[[London]]]
+[City::[[../London~Greater]]]
 

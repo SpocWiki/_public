@@ -1,5 +1,11 @@
 Subway-Line in [[../../City/London]] 
 
+> The **Victoria Line** is a London Underground line that runs between Brixton in south London and Walthamstow Central in the north-east, via the West End. It is printed in light blue on the Tube map and is one of the only two lines on the network to run completely underground, the other being the Waterloo & City line.The line was constructed in the 1960s and was the first entirely new Underground line in London for 50 years. It was designed to reduce congestion on other lines, particularly the Piccadilly line and the Charing Cross branch of the Northern line. The first section, from Walthamstow Central to Highbury & Islington, opened in September 1968 and an extension to Warren Street followed in December. The line was completed to Victoria station in March 1969 and was opened by Queen Elizabeth II who rode a train from Green Park to Victoria. The southern extension to Brixton opened in 1971, and Pimlico station was added in 1972.
+>
+> The Victoria line is operated using automatic train operation, but all trains have drivers. The 2009 Tube Stock replaced the original 1967 Tube Stock trains. The line serves 16 stations and all but Pimlico provide interchanges with other Transport for London or National Rail services. The line, the most intensively used on the Underground, is used by over 200 million passengers each year, making it the sixth-busiest tube line.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Victoria%20line)
+
 
 ```leaflet
 id: FFM~-U1
@@ -7,41 +13,31 @@ zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
 stroke: red
-geojsonFolder: ./Line~Bakerloo/
+geojsonFolder: ./Line~Victoria/
 markerFolder: ./Station/
 ```
 
 
-# Stations:
-1) [[Station/Sub-Harrow_&_Wealdstone]] 
-2) [[Station/Sub-Kenton]] 
-3) [[Station/Sub-South_Kenton]] 
-4) [[Station/Sub-North_Wembley]] 
-5) [[Station/Sub-Wembley_Central]] 
-6) [[Station/Sub-Stonebridge_Park]] 
-7) [[Station/Sub-Harlesden]] 
-8) [[Station/Sub-Willesden_Junction]] 
-9) [[Station/Sub-Kensal_Green]] 
-10) [[Station/Sub-Queen's_Park]] 
-11) [[Station/Sub-Kilburn_Park]] 
-12) [[Station/Sub-Maida_Vale]] 
-13) [[Station/Sub-Warwick_Avenue]] 
-14) [[Station/Sub-Paddington]] 
-15) [[Station/Sub-Edgware_Road_(C)]] 
-16) [[Station/Sub-Marylebone]] 
-17) [[Station/Sub-Baker_Street]] 
-18) [[Station/Sub-Regent's_Park]] 
-19) [[Station/Sub-Oxford_Circus]] 
-20) [[Station/Sub-Picadilly_Circus]] 
-21) [[Station/Sub-Charing_Cross]] 
-22) [[Station/Sub-Embankment]] 
-23) [[Station/Sub-Waterloo]] 
-24) [[Station/Sub-Lambeth_North]] 
-25) [[Station/Sub-Elephant_&_Castle]] 
-
+# Stations: 
+1.	[[Sub-Walthamstow_Central]] 
+2.	[[Sub-Blackhorse_Road]] 
+6.	[[Sub-Tottenham_Hale]] 
+7.	[[Station/Sub-Seven_Sisters]]] 
+11.	[[Sub-Finsbury_Park]] 
+15.	[[Sub-Highbury_&_Islington]] 
+19.	[[Station/Sub-King's_Cross_St._Pancras]] 
+23.	[[Sub-Euston]] 
+27.	[[Sub-Warren_Street]] 
+31.	[[Sub-Oxford_Circus]] 
+35.	[[Sub-Green_Park]] 
+39.	[[Station/Sub-Victoria]] 
+43.	[[Sub-Pimlico]] 
+44.	[[Sub-Vauxhall]] 
+48.	[[Sub-Stockwell]] 
+49.	[[Sub-Brixton]] 
 
 ```dataview
 TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
-FROM outgoing([[Sub-Central]])
+FROM outgoing([[Line~Victoria]])
 ```
 

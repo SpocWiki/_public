@@ -2,7 +2,7 @@
 location: [51.5463,-0.4786]
 type: Station 
 mapzoom: [8,15] 
-mapmarker: subway  \nmapzoom: [8,15] \nmapmarker: subway 
+mapmarker: subway
 tags:
 - geo/Station
 - Europe/United_Kingdom/London
@@ -20,7 +20,7 @@ confidential: public
 [Num_lines::2]
 [switch-to-Rail::0]
 [Country::[[United_Kingdom]]]
-[City::[[London]]]
+[City::[[../../../London~Greater]]]
 
 
 ```leaflet

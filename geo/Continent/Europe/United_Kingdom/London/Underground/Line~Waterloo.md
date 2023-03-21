@@ -1,5 +1,10 @@
-Subway-Line in [[../../City/London]] 
+> The **Waterloo & City Line**, colloquially known as The Drain, is a London Underground shuttle line that runs between Waterloo and Bank with no intermediate stops. Its primary traffic consists of commuters from south-west London, Surrey and Hampshire arriving at Waterloo main line station and travelling forward to the City of London financial district. For this reason, the line has historically not operated on Sundays or public holidays, except in very limited circumstances. However, following the COVID-19 pandemic, the line is currently only open on weekdays. It is one of only two lines on the Underground network to run completely underground, the other being the Victoria line.Printed in turquoise on the Tube map, it is by far the shortest line on the Underground network, being 2.37 km (1.47 miles) long, with an end-to-end journey lasting just four minutes. In absolute terms, it is the least-used Tube line, carrying just over 15 million passengers annually. However, in terms of the average number of journeys per mile it is the third-most intensively-used line behind the Jubilee and Victoria lines.
+>
+> The line was built by the Waterloo & City Railway Company and was opened in 1898 (at the time, Bank station was named "City"). When it opened it was the second electric underground railway in London, following the City and South London Railway (now part of the Northern line). Its construction was supported by the London & South Western Railway, whose main line trains ran into Waterloo, and for many years remained owned and operated by the LSWR and its successors as a part of the national railway network, not as part of the London Underground network it resembled. Following a major refurbishment and replacement of rolling stock by Network SouthEast in the early 1990s, operations were transferred to London Underground in 1994.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Waterloo%20&%20City%20line)
 
+Subway-Line in [[../../City/London]] 
 
 ```leaflet
 id: FFM~-U1
@@ -7,41 +12,17 @@ zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
 stroke: red
-geojsonFolder: ./Line~Bakerloo/
+geojsonFolder: ./Line~Waterloo/
 markerFolder: ./Station/
 ```
 
 
 # Stations:
-1) [[Station/Sub-Harrow_&_Wealdstone]] 
-2) [[Station/Sub-Kenton]] 
-3) [[Station/Sub-South_Kenton]] 
-4) [[Station/Sub-North_Wembley]] 
-5) [[Station/Sub-Wembley_Central]] 
-6) [[Station/Sub-Stonebridge_Park]] 
-7) [[Station/Sub-Harlesden]] 
-8) [[Station/Sub-Willesden_Junction]] 
-9) [[Station/Sub-Kensal_Green]] 
-10) [[Station/Sub-Queen's_Park]] 
-11) [[Station/Sub-Kilburn_Park]] 
-12) [[Station/Sub-Maida_Vale]] 
-13) [[Station/Sub-Warwick_Avenue]] 
-14) [[Station/Sub-Paddington]] 
-15) [[Station/Sub-Edgware_Road_(C)]] 
-16) [[Station/Sub-Marylebone]] 
-17) [[Station/Sub-Baker_Street]] 
-18) [[Station/Sub-Regent's_Park]] 
-19) [[Station/Sub-Oxford_Circus]] 
-20) [[Station/Sub-Picadilly_Circus]] 
-21) [[Station/Sub-Charing_Cross]] 
-22) [[Station/Sub-Embankment]] 
-23) [[Station/Sub-Waterloo]] 
-24) [[Station/Sub-Lambeth_North]] 
-25) [[Station/Sub-Elephant_&_Castle]] 
-
+1) [[Station/Sub-Waterloo]] 
+2) [[Station/Sub-Bank]] 
 
 ```dataview
 TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
-FROM outgoing([[Sub-Central]])
+FROM outgoing([[Line~Waterloo]])
 ```
 
