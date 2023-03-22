@@ -12,7 +12,7 @@ publish: true
 
 # Hugo Tags
 type: Predicate
-title: {{has_label_snail}}
+title: {{CLDR_display_name}}
 
 linkTitle: 
 keywords: 
@@ -21,57 +21,92 @@ draft: false
 publishDate:
 expiryDate: 
 
-enumerationtype: {{enumerationtype}}
-equivalent_class: {{equivalentProperty}}
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
 tags:
-- schema.org/Predicate
+- geo/Country
 
 aliases:
-- label-dash
-- label_snail
-- label
-- has_label_snail
+- {{ISO3166-1-Alpha-2}}
+- {{ISO3166-1-Alpha-3}}
+- {{CLDR_display_name}}
+- {{name-en}}
+- {{name-es}}
+- {{name-fr}}
+- {{name-ar}}
+- {{name-cn}}
+- {{name-ru}}
+- {{UNTERM_English_Formal}}
+- {{UNTERM_English}}
+- {{UNTERM_Spanish_Formal}}
+- {{UNTERM_Spanish}}
+
+Languages: [{{Languages}}]
+
+
 ---
 
-tags:
-  - geo/Country
+[	ISO3166-1-Alpha-2	 :: {{ISO3166-1-Alpha-2}} ]
+[	ISO3166-1-Alpha-3	 :: {{ISO3166-1-Alpha-3}} ]
+[	ISO3166-1-numeric	 :: {{ISO3166-1-numeric}} ]
 
-aliases:
-- 
----
-location: [{{y}},{{x}}]
-SpocWebEntityId: {{SpocWebEntityId}}
+[	ISO4217-currency_alphabetic	 :: {{ISO4217-currency_alphabetic}} ]
+[	ISO4217-currency_name	 :: {{ISO4217-currency_name}} ]
+[	ISO4217-currency_numeric	 :: {{ISO4217-currency_numeric}} ]
+[	ISO4217-currency_minor_unit	 :: {{ISO4217-currency_minor_unit}} ]
+[	ISO4217-currency_country_name	 :: {{ISO4217-currency_country_name}} ]
 
-[ISO2::{{ISO2}}]
-[ISO3::{{ISO3}}]
-```leaflet
-id: {{EnglishName}}
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./{{EnglishName}}
-markerFolder: ./{{EnglishName}}/City
-```
+[	Continent	 :: {{Continent}} ]
+[	Capital	 :: {{Capital}} ]
+[	Dial	 :: {{Dial}} ]
 
-[name-en::{{EnglishName}}]
-[name-de::{{GermanName}}]
-[Area-Total::{{AreaTotal}}]
-[Area-Land::{{AreaLand}}]
-[Continent-Id::{{ContinentId}}]
-[VehicleCode::{{VehicleCode}}]
-[Capital-Id::{{CapitalId}}]
-[Alcohol-l::{{Alcohol-l}}]
-[Language-Id::{{LanguageId}}]
-[geo-lon::{{x}}]
-[geo-lat::{{y}}]
+[	Global	 :: {{Global}} ]
+[	Global_Name	 :: {{Global_Name}} ]
 
+[	name	 :: {{CLDR_display_name}} ]
+[	name-en	 :: {{name-en}} ]
+[	name-es	 :: {{name-es}} ]
+[	name-fr	 :: {{name-fr}} ]
+[	name-cn	 :: {{name-cn}} ]
+[	name-ar	 :: {{name-ar}} ]
+[	name-ru	 :: {{name-ru}} ]
 
-FIFA,Dial,ISO3166-1-Alpha-3,MARC,is_independent,ISO3166-1-numeric,GAUL,FIPS,WMO,ISO3166-1-Alpha-2,ITU,IOC,DS,UNTERM Spanish Formal,Global Code,Intermediate Region Code,official_name_fr,UNTERM French Short,ISO4217-currency_name,Developed / Developing Countries,UNTERM Russian Formal,UNTERM English Short,ISO4217-currency_alphabetic_code,Small Island Developing States (SIDS),UNTERM Spanish Short,ISO4217-currency_numeric_code,UNTERM Chinese Formal,UNTERM French Formal,UNTERM Russian Short,M49,Sub-region Code,Region Code,official_name_ar,ISO4217-currency_minor_unit,UNTERM Arabic Formal,UNTERM Chinese Short,Land Locked Developing Countries (LLDC),Intermediate Region Name,official_name_es,UNTERM English Formal,official_name_cn,official_name_en,ISO4217-currency_country_name,Least Developed Countries (LDC),Region Name,UNTERM Arabic Short,Sub-region Name,official_name_ru,Global Name,Capital,Continent,TLD,Languages,Geoname ID,CLDR display name,EDGAR
+[	CLDR_display_name	 :: {{CLDR_display_name}} ]
 
+[	UNTERM_English	 :: {{UNTERM_English}} ]
+[	UNTERM_English_Formal	 :: {{UNTERM_English_Formal}} ]
+[	UNTERM_Spanish_Formal	 :: {{UNTERM_Spanish_Formal}} ]
+[	UNTERM_Spanish	 :: {{UNTERM_Spanish}} ]
+[	UNTERM_French	 :: {{UNTERM_French}} ]
+[	UNTERM_Arabic	 :: {{UNTERM_Arabic}} ]
+[	UNTERM_Arabic_Formal	 :: {{UNTERM_Arabic_Formal}} ]
+[	UNTERM_Chinese	 :: {{UNTERM_Chinese}} ]
+[	UNTERM_Chinese_Formal	 :: {{UNTERM_Chinese_Formal}} ]
+[	UNTERM_French_Formal	 :: {{UNTERM_French_Formal}} ]
+[	UNTERM_Russian	 :: {{UNTERM_Russian}} ]
+[	UNTERM_Russian_Formal	 :: {{UNTERM_Russian_Formal}} ]
 
+[	Region_Name	 :: {{Region_Name}} ]
+[	Intermediate_Region_Name	 :: {{Intermediate_Region_Name}} ]
+[	Sub-region_Name	 :: {{Sub-region_Name}} ]
 
+[	Region	 :: {{Region}} ]
+[	Intermediate_Region	 :: {{Intermediate_Region}} ]
+[	Sub-region	 :: {{Sub-region}} ]
 
+[	Geoname-ID	 :: {{Geoname-ID}} ]
+[	FIPS	 :: {{FIPS}} ]
+[	FIFA	 :: {{FIFA}} ]
+[	IOC	 :: {{IOC}} ]
+[	MARC	 :: {{MARC}} ]
+[	GAUL	 :: {{GAUL}} ]
+[	WMO	 :: {{WMO}} ]
+[	ITU	 :: {{ITU}} ]
+[	DS	 :: {{DS}} ]
+[	TLD	 :: {{TLD}} ]
+[	EDGAR	 :: {{EDGAR}} ]
+[	M49	 :: {{M49}} ]
+
+[	is_independent	 :: {{is_independent}} ]
+[	Developed_/_Developing_Countries	 :: {{Developed_/_Developing_Countries}} ]
+[	Land_Locked_Developing_Countries_(LLDC)	 :: {{Land_Locked_Developing_Countries_(LLDC)}} ]
+[	Least_Developed_Countries_(LDC)	 :: {{Least_Developed_Countries_(LDC)}} ]
+[	Small_Island_Developing_States_(SIDS)	 :: {{Small_Island_Developing_States_(SIDS)}} ]
