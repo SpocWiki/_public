@@ -14,7 +14,7 @@ tags:
 id: North America
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./North-America//
+geojsonFolder: ./North-America///
 markerFolder: ./North-America/City
 zoomFeatures: true 
 ```

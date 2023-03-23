@@ -1,19 +1,24 @@
 ---
 type: Continent
+confidential: public
+SpocWebEntityId: 27160
+
 tags:
   - geo/Continent
 isDeleted: false
 ---
-SpocWebEntityId: 27160
-[]
-confidential: public
+
+
 ```leaflet
 id: South America
-zoomFeatures: true 
+defaultZoom: 3 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./South_America
-markerFolder: ./South_America/City
+long: -65
+lat: -25
+geojsonFolder: ./South-America
+markerFolder: ./South-America/City
+zoomFeatures: false 
 ```
 
 [name-en::South America]
