@@ -14,7 +14,7 @@ confidential: public
 ---
 [geo-lon::1.5]
 [geo-lat::42.5]
-[name::Andorra]
+[name::Andorra la Vella]
 [State::]
 [Country::[[Andorra]]]
 [StateId::]
@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Andorra
-coordinates: [[Andorra]]
-markerFile: [[Andorra]]
+coordinates: [[Andorra_la_Vella]]
+markerFile: [[Andorra_la_Vella]]
 defaultZoom: 11 
 maxZoom: 18
 ```
