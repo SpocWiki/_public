@@ -1,2 +1,1 @@
-
-{"geometry": {"coordinates": [[[-161.088, -10.03509], [-161.07006, -10.02744], [-161.07555, -10.03639], [-161.08727, -10.04461], [-161.088, -10.03509]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "COK", "country": "Cook Islands", "id": "4960", "name": "Rakahanga"}, "type": "Feature"}
+﻿{"geometry":{"coordinates":[[[198.912,-10.03509],[198.92994,-10.02744],[198.92445,-10.03639],[198.91273,-10.04461],[198.912,-10.03509]]],"type":"Polygon"},"properties":{"ISO3166-1-Alpha-3":"COK","country":"Cook Islands","id":"4960","name":"Rakahanga"},"type":"Feature"}

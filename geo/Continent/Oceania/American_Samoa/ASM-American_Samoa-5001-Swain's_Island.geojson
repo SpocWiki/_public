@@ -1,2 +1,1 @@
-
-{"geometry": {"coordinates": [[[-171.07282, -11.0525], [-171.07348, -11.06211], [-171.08153, -11.06609], [-171.08654, -11.06032], [-171.08564, -11.05136], [-171.07282, -11.0525]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "ASM", "country": "American Samoa", "id": "5001", "name": "Swain's Island"}, "type": "Feature"}
+﻿{"geometry":{"coordinates":[[[188.92718,-11.0525],[188.92652,-11.06211],[188.91847,-11.06609],[188.91346,-11.06032],[188.91436,-11.05136],[188.92718,-11.0525]]],"type":"Polygon"},"properties":{"ISO3166-1-Alpha-3":"ASM","country":"American Samoa","id":"5001","name":"Swain\u0027s Island"},"type":"Feature"}

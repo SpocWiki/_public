@@ -1,2 +1,1 @@
-
-{"geometry": {"coordinates": [[[-168.16157, -14.53289], [-168.17309, -14.5237], [-168.16352, -14.51979], [-168.16047, -14.52093], [-168.16157, -14.53289]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "ASM", "country": "American Samoa", "id": "5000", "name": "Rose Atoll"}, "type": "Feature"}
+﻿{"geometry":{"coordinates":[[[191.83843,-14.53289],[191.82691,-14.5237],[191.83648,-14.51979],[191.83953,-14.52093],[191.83843,-14.53289]]],"type":"Polygon"},"properties":{"ISO3166-1-Alpha-3":"ASM","country":"American Samoa","id":"5000","name":"Rose Atoll"},"type":"Feature"}
