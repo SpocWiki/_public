@@ -17,7 +17,7 @@ geojsonFolder: ./Africa
 markerFolder: ./Africa/City
 zoomFeatures: false
 lat: -1
-lon: 10
+long: 10
 ```
 
 [name-en::Africa]
