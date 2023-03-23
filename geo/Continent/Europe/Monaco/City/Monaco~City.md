@@ -12,9 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
+
+There is no geographical distinction between the State and City of Monaco,
+although responsibilities of the government (state-level) and of the municipality (city-level) are different.
+
 [geo-lon::7.4]
 [geo-lat::43.7]
-[name::Monaco]
+[name::Monaco City]
 [State::]
 [Country::[[Monaco]]]
 [StateId::]
@@ -24,8 +28,8 @@ confidential: public
 
 ```leaflet
 id: Monaco
-coordinates: [[Monaco]]
-markerFile: [[Monaco]]
+coordinates: [[Monaco~City]]
+markerFile: [[Monaco~City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

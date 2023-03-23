@@ -1,14 +1,109 @@
----
-location: [-9.5,147.117]
+﻿---
+location:
+- -9.5
+- 147.117
 type: Country
 tags:
 - geo/Country
-
 SpocWebEntityId: 26993
 isDeleted: false
 confidential: public
-
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclass: Country
+publish: true
+title: Papua New Guinea
+linkTitle: 
+keywords: 
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+aliases:
+- PG
+- PNG
+- Papua New Guinea
+- Papua Nueva Guinea
+- Papouasie-Nouvelle-Guinée
+- بابوا غينيا الجديدة
+- 巴布亚新几内亚
+- Папуа-Новая Гвинея
+- Independent State of Papua New Guinea
+- Estado Independiente de Papua Nueva Guinea
+Languages:
+- en-PG
+- ho
+- meu
+- tpi
 ---
+
+
+[	ISO4217-currency_alphabetic	 :: PGK ]
+[	ISO4217-currency_name	 :: Kina ]
+[	ISO4217-currency_numeric	 :: 598 ]
+[	ISO4217-currency_minor_unit	 :: 2 ]
+[	ISO4217-currency_country_name	 :: PAPUA NEW GUINEA ]
+
+[	Telephone	 :: 675 ]
+
+[	Global	 :: True ]
+[	Global_Name	 :: World ]
+
+[	name	 :: Papua New Guinea ]
+[	name-en	 :: Papua New Guinea ]
+[	name-es	 :: Papua Nueva Guinea ]
+[	name-fr	 :: Papouasie-Nouvelle-Guinée ]
+[	name-cn	 :: 巴布亚新几内亚 ]
+[	name-ar	 :: بابوا غينيا الجديدة ]
+[	name-ru	 :: Папуа-Новая Гвинея ]
+
+[	CLDR_display_name	 :: Papua New Guinea ]
+
+[	UNTERM_English	 :: Papua New Guinea ]
+[	UNTERM_English_Formal	 :: Independent State of Papua New Guinea ]
+[	UNTERM_Spanish_Formal	 :: Estado Independiente de Papua Nueva Guinea ]
+[	UNTERM_Spanish	 :: Papua Nueva Guinea ]
+[	UNTERM_French	 :: Papouasie-Nouvelle-Guinée (la) ]
+[	UNTERM_Arabic	 :: بابوا غينيا الجديدة ]
+[	UNTERM_Arabic_Formal	 :: دولة بابوا غينيا الجديدة المستقلة ]
+[	UNTERM_Chinese	 :: 巴布亚新几内亚 ]
+[	UNTERM_Chinese_Formal	 :: 巴布亚新几内亚独立国 ]
+[	UNTERM_French_Formal	 :: l'État indépendant de Papouasie-Nouvelle-Guinée ]
+[	UNTERM_Russian	 :: Папуа-Новая Гвинея ]
+[	UNTERM_Russian_Formal	 :: Независимое государство Папуа-Новая Гвинея ]
+
+[	Region_Name	 :: [[Oceania]] ]
+[	Intermediate_Region_Name	 :: [[]] ]
+[	Sub-region_Name	 :: [[Melanesia]] ]
+
+[	Region	 :: 9 ]
+[	Intermediate_Region	 ::  ]
+[	Sub-region	 :: 54 ]
+
+[	Geoname-ID	 :: 2088628 ]
+[	FIPS	 :: PP ]
+[	FIFA	 :: PNG ]
+[	IOC	 :: PNG ]
+[	MARC	 :: pp ]
+[	GAUL	 :: 192 ]
+[	WMO	 :: NG ]
+[	ITU	 :: PNG ]
+[	DS	 :: PNG ]
+[	TLD	 :: .pg ]
+[	EDGAR	 :: R2 ]
+[	M49	 :: 598 ]
+
+[	is_independent	 :: Yes ]
+[	Developed_/_Developing_Countries	 :: Developing ]
+[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
+[	Least_Developed_Countries_(LDC)	 ::  ]
+[	Small_Island_Developing_States_(SIDS)	 :: x ]
+
+[	ISO3166-1-numeric	 :: 598 ]
+
+
+
 [ISO2::PG]
 [ISO3::PNG]
 ```leaflet

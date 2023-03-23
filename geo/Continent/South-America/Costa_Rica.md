@@ -1,14 +1,105 @@
----
-location: [9.95,-84.08]
+﻿---
+location:
+- 9.95
+- -84.08
 type: Country
 tags:
 - geo/Country
-
 SpocWebEntityId: 26872
 isDeleted: false
 confidential: public
-
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclass: Country
+publish: true
+title: Costa Rica
+linkTitle: 
+keywords: 
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+aliases:
+- CR
+- CRI
+- Costa Rica
+- كوستاريكا
+- 哥斯达黎加
+- Коста-Рика
+- the Republic of Costa Rica
+- la República de Costa Rica
+Languages:
+- es-CR
+- en
 ---
+
+
+[	ISO4217-currency_alphabetic	 :: CRC ]
+[	ISO4217-currency_name	 :: Costa Rican Colon ]
+[	ISO4217-currency_numeric	 :: 188 ]
+[	ISO4217-currency_minor_unit	 :: 2 ]
+[	ISO4217-currency_country_name	 :: COSTA RICA ]
+
+[	Telephone	 :: 506 ]
+
+[	Global	 :: True ]
+[	Global_Name	 :: World ]
+
+[	name	 :: Costa Rica ]
+[	name-en	 :: Costa Rica ]
+[	name-es	 :: Costa Rica ]
+[	name-fr	 :: Costa Rica ]
+[	name-cn	 :: 哥斯达黎加 ]
+[	name-ar	 :: كوستاريكا ]
+[	name-ru	 :: Коста-Рика ]
+
+[	CLDR_display_name	 :: Costa Rica ]
+
+[	UNTERM_English	 :: Costa Rica ]
+[	UNTERM_English_Formal	 :: the Republic of Costa Rica ]
+[	UNTERM_Spanish_Formal	 :: la República de Costa Rica ]
+[	UNTERM_Spanish	 :: Costa Rica ]
+[	UNTERM_French	 :: Costa Rica (le) ]
+[	UNTERM_Arabic	 :: كوستاريكا ]
+[	UNTERM_Arabic_Formal	 :: جمهورية كوستاريكا ]
+[	UNTERM_Chinese	 :: 哥斯达黎加 ]
+[	UNTERM_Chinese_Formal	 :: 哥斯达黎加共和国 ]
+[	UNTERM_French_Formal	 :: la République du Costa Rica ]
+[	UNTERM_Russian	 :: Коста-Рика ]
+[	UNTERM_Russian_Formal	 :: Республика Коста-Рика ]
+
+[	Region_Name	 :: [[Americas]] ]
+[	Intermediate_Region_Name	 :: [[Central America]] ]
+[	Sub-region_Name	 :: [[Latin America and the Caribbean]] ]
+
+[	Region	 :: 19 ]
+[	Intermediate_Region	 :: 13 ]
+[	Sub-region	 :: 419 ]
+
+[	Geoname-ID	 :: 3624060 ]
+[	FIPS	 :: CS ]
+[	FIFA	 :: CRC ]
+[	IOC	 :: CRC ]
+[	MARC	 :: cr ]
+[	GAUL	 :: 61 ]
+[	WMO	 :: CS ]
+[	ITU	 :: CTR ]
+[	DS	 :: CR ]
+[	TLD	 :: .cr ]
+[	EDGAR	 :: G2 ]
+[	M49	 :: 188 ]
+
+[	is_independent	 :: Yes ]
+[	Developed_/_Developing_Countries	 :: Developing ]
+[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
+[	Least_Developed_Countries_(LDC)	 ::  ]
+[	Small_Island_Developing_States_(SIDS)	 ::  ]
+
+[	ISO3166-1-numeric	 :: 188 ]
+
+
+
 [ISO2::CR]
 [ISO3::CRI]
 ```leaflet

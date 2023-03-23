@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Djibouti
-coordinates: [[Djibouti]]
-markerFile: [[Djibouti]]
+id: Djibouti~City
+coordinates: [[Djibouti~City]]
+markerFile: [[Djibouti~City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

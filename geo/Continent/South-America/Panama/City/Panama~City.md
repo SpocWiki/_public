@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Panama City
-coordinates: [[Panama_City]]
-markerFile: [[Panama_City]]
+coordinates: [[Panama~City]]
+markerFile: [[Panama~City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

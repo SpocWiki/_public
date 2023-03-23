@@ -1,5 +1,5 @@
 ﻿---
-location: [38.57667,-92.17361]
+location: [35.5,-97.5]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,24 +7,24 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 36095
+SpocWebEntityId: 33083
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-92.17361]
-[geo-lat::38.57667]
-[name::Jefferson City]
+[geo-lon::-97.5]
+[geo-lat::35.5]
+[name::Oklahoma City]
 [Country::[[United_States_of_America]]]
-[State::[[Missouri]]]
+[State::[[Oklahoma]]]
 [Population::]
 [Unknown::]
 
 
 ```leaflet
-id: Jefferson City
-coordinates: [[Jefferson_City]]
-markerFile: [[Jefferson_City]]
+id: Oklahoma City
+coordinates: [[Oklahoma~City]]
+markerFile: [[Oklahoma~City]]
 defaultZoom: 11 
 maxZoom: 18
 ```

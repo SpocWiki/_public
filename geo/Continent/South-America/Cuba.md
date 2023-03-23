@@ -1,14 +1,105 @@
----
-location: [22.13,-82.37]
+﻿---
+location:
+- 22.13
+- -82.37
 type: Country
 tags:
 - geo/Country
-
 SpocWebEntityId: 26873
 isDeleted: false
 confidential: public
-
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclass: Country
+publish: true
+title: Cuba
+linkTitle: 
+keywords: 
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+aliases:
+- CU
+- CUB
+- Cuba
+- كوبا
+- 古巴
+- Куба
+- the Republic of Cuba
+- la República de Cuba
+Languages:
+- es-CU
+- pap
 ---
+
+
+[	ISO4217-currency_alphabetic	 :: CUP,CUC ]
+[	ISO4217-currency_name	 :: Cuban Peso,Peso Convertible ]
+[	ISO4217-currency_numeric	 :: 192,931 ]
+[	ISO4217-currency_minor_unit	 :: 2,2 ]
+[	ISO4217-currency_country_name	 :: CUBA ]
+
+[	Telephone	 :: 53 ]
+
+[	Global	 :: True ]
+[	Global_Name	 :: World ]
+
+[	name	 :: Cuba ]
+[	name-en	 :: Cuba ]
+[	name-es	 :: Cuba ]
+[	name-fr	 :: Cuba ]
+[	name-cn	 :: 古巴 ]
+[	name-ar	 :: كوبا ]
+[	name-ru	 :: Куба ]
+
+[	CLDR_display_name	 :: Cuba ]
+
+[	UNTERM_English	 :: Cuba ]
+[	UNTERM_English_Formal	 :: the Republic of Cuba ]
+[	UNTERM_Spanish_Formal	 :: la República de Cuba ]
+[	UNTERM_Spanish	 :: Cuba ]
+[	UNTERM_French	 :: Cuba [fém.] ]
+[	UNTERM_Arabic	 :: كوبا ]
+[	UNTERM_Arabic_Formal	 :: جمهورية كوبا ]
+[	UNTERM_Chinese	 :: 古巴 ]
+[	UNTERM_Chinese_Formal	 :: 古巴共和国 ]
+[	UNTERM_French_Formal	 :: la République de Cuba ]
+[	UNTERM_Russian	 :: Куба ]
+[	UNTERM_Russian_Formal	 :: Республика Куба ]
+
+[	Region_Name	 :: [[Americas]] ]
+[	Intermediate_Region_Name	 :: [[Caribbean]] ]
+[	Sub-region_Name	 :: [[Latin America and the Caribbean]] ]
+
+[	Region	 :: 19 ]
+[	Intermediate_Region	 :: 29 ]
+[	Sub-region	 :: 419 ]
+
+[	Geoname-ID	 :: 3562981 ]
+[	FIPS	 :: CU ]
+[	FIFA	 :: CUB ]
+[	IOC	 :: CUB ]
+[	MARC	 :: cu ]
+[	GAUL	 :: 63 ]
+[	WMO	 :: CU ]
+[	ITU	 :: CUB ]
+[	DS	 :: C ]
+[	TLD	 :: .cu ]
+[	EDGAR	 :: G3 ]
+[	M49	 :: 192 ]
+
+[	is_independent	 :: Yes ]
+[	Developed_/_Developing_Countries	 :: Developing ]
+[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
+[	Least_Developed_Countries_(LDC)	 ::  ]
+[	Small_Island_Developing_States_(SIDS)	 :: x ]
+
+[	ISO3166-1-numeric	 :: 192 ]
+
+
+
 [ISO2::CU]
 [ISO3::CUB]
 ```leaflet

@@ -1,5 +1,5 @@
 ﻿---
-location: [39.08,-98.25]
+location: [39.16083,-119.7539]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,24 +7,24 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 31295
+SpocWebEntityId: 36096
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-98.25]
-[geo-lat::39.08]
-[name::Kansas City]
+[geo-lon::-119.7539]
+[geo-lat::39.16083]
+[name::Carson City]
 [Country::[[United_States_of_America]]]
-[State::[[Kansas]]]
+[State::[[Nevada]]]
 [Population::]
 [Unknown::]
 
 
 ```leaflet
-id: Kansas City
-coordinates: [[Kansas_City]]
-markerFile: [[Kansas_City]]
+id: Carson City
+coordinates: [[Carson~City]]
+markerFile: [[Carson~City]]
 defaultZoom: 11 
 maxZoom: 18
 ```
