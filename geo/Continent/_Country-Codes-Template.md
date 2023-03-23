@@ -11,7 +11,7 @@ cssclass: Country
 publish: true
 
 # Hugo Tags
-type: Predicate
+type: Country
 title: {{CLDR_display_name}}
 
 linkTitle: 
@@ -44,19 +44,13 @@ Languages: [{{Languages}}]
 
 ---
 
-[	ISO3166-1-Alpha-2	 :: {{ISO3166-1-Alpha-2}} ]
-[	ISO3166-1-Alpha-3	 :: {{ISO3166-1-Alpha-3}} ]
-[	ISO3166-1-numeric	 :: {{ISO3166-1-numeric}} ]
-
 [	ISO4217-currency_alphabetic	 :: {{ISO4217-currency_alphabetic}} ]
 [	ISO4217-currency_name	 :: {{ISO4217-currency_name}} ]
 [	ISO4217-currency_numeric	 :: {{ISO4217-currency_numeric}} ]
 [	ISO4217-currency_minor_unit	 :: {{ISO4217-currency_minor_unit}} ]
 [	ISO4217-currency_country_name	 :: {{ISO4217-currency_country_name}} ]
 
-[	Continent	 :: {{Continent}} ]
-[	Capital	 :: {{Capital}} ]
-[	Dial	 :: {{Dial}} ]
+[	Telephone	 :: {{Dial}} ]
 
 [	Global	 :: {{Global}} ]
 [	Global_Name	 :: {{Global_Name}} ]
@@ -84,9 +78,9 @@ Languages: [{{Languages}}]
 [	UNTERM_Russian	 :: {{UNTERM_Russian}} ]
 [	UNTERM_Russian_Formal	 :: {{UNTERM_Russian_Formal}} ]
 
-[	Region_Name	 :: {{Region_Name}} ]
-[	Intermediate_Region_Name	 :: {{Intermediate_Region_Name}} ]
-[	Sub-region_Name	 :: {{Sub-region_Name}} ]
+[	Region_Name	 :: [[{{Region_Name}}]] ]
+[	Intermediate_Region_Name	 :: [[{{Intermediate_Region_Name}}]] ]
+[	Sub-region_Name	 :: [[{{Sub-region_Name}}]] ]
 
 [	Region	 :: {{Region}} ]
 [	Intermediate_Region	 :: {{Intermediate_Region}} ]
@@ -110,3 +104,5 @@ Languages: [{{Languages}}]
 [	Land_Locked_Developing_Countries_(LLDC)	 :: {{Land_Locked_Developing_Countries_(LLDC)}} ]
 [	Least_Developed_Countries_(LDC)	 :: {{Least_Developed_Countries_(LDC)}} ]
 [	Small_Island_Developing_States_(SIDS)	 :: {{Small_Island_Developing_States_(SIDS)}} ]
+
+[	ISO3166-1-numeric	 :: {{ISO3166-1-numeric}} ]
