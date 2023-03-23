@@ -1,12 +1,14 @@
 ---
 type: Continent
+SpocWebEntityId: 27159
+confidential: public
+
 tags:
   - geo/Continent
 isDeleted: false
 ---
-SpocWebEntityId: 27159
-[]
-confidential: public
+
+
 ```leaflet
 id: Antarctica
 zoomFeatures: true 

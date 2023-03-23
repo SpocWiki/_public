@@ -1,19 +1,20 @@
 ---
 type: Continent
+SpocWebEntityId: 27157
+confidential: public
+isDeleted: false
+
 tags:
   - geo/Continent
-isDeleted: false
 ---
-SpocWebEntityId: 27157
-[]
-confidential: public
+
 ```leaflet
 id: Australia
-zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Australia
+geojsonFolder: ./Australia/
 markerFolder: ./Australia/City
+zoomFeatures: true 
 ```
 
 [name-en::Australia]

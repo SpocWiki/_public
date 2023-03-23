@@ -1,19 +1,23 @@
 ---
 type: Continent
 confidential: public
+SpocWebEntityId: 27156
 
 tags:
   - geo/Continent
 isDeleted: false
 ---
-SpocWebEntityId: 27156
+
 ```leaflet
 id: Africa
-zoomFeatures: true 
 minZoom: 2 
+defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Africa
 markerFolder: ./Africa/City
+zoomFeatures: false
+lat: -1
+lon: 10
 ```
 
 [name-en::Africa]
