@@ -36,3 +36,11 @@ after WW
 
 ![[Flag_of_Europe.svg|350]]
 
+
+## Confidential Links & Embeds: 
+[[../../../_secret/geo/Continent/Europe.secret|Europe.secret]] 
+[[../../../_private/geo/Continent/Europe.private|Europe.private]] 
+[[../../../_protect/geo/Continent/Europe.protect|Europe.protect]] 
+[[../../../_internal/geo/Continent/Europe.internal|Europe.internal]] 
+[[../../../_public/geo/Continent/Europe|Europe]] 
+
