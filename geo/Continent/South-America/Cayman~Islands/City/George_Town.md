@@ -1,0 +1,31 @@
+﻿---
+location: [19.28333,-81.36667]
+mapzoom: [7,12] 
+mapmarker: city 
+type: City
+tags:
+- geo/City
+
+
+SpocWebEntityId: 36655
+isDeleted: false
+confidential: public
+
+---
+[geo-lon::-81.36667]
+[geo-lat::19.28333]
+[name::George Town]
+[State::]
+[Country:[[../../../Cayman~Islands]]]]
+[StateId::]
+[Population::]
+[Unknown::]
+
+
+```leaflet
+id: George Town
+coordinates: [[George_Town]]
+markerFile: [[George_Town]]
+defaultZoom: 11 
+maxZoom: 18
+```
