@@ -39,8 +39,8 @@ after WW
 
 ## Confidential Links & Embeds: 
 [[../../../_secret/geo/Continent/Europe.secret|Europe.secret]] 
+[[../../../_personal/geo/Continent/Europe.personal|Europe.personal]] 
 [[../../../_private/geo/Continent/Europe.private|Europe.private]] 
 [[../../../_protect/geo/Continent/Europe.protect|Europe.protect]] 
 [[../../../_internal/geo/Continent/Europe.internal|Europe.internal]] 
-[[../../../_public/geo/Continent/Europe|Europe]] 
 
