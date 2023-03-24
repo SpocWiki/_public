@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::13.16667]
 [name::Kingstown]
 [State::]
-[Country::[[Saint_Vincent_And_The_Grenadines]]]
+[Country::[[../../Saint_Vincent_and_Grenadines]]]
 [StateId::]
 [Population::]
 [Unknown::]

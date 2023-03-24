@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::62]
 [name::Tórshavn]
 [State::]
-[Country::[[Faeroe_Islands]]]
+[Country:[[../../Faroe_Islands]]]]
 [StateId::]
 [Population::]
 [Unknown::32]

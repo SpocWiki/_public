@@ -1,4 +1,4 @@
-﻿---
+---
 location: [17.3,-62.73333]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::17.3]
 [name::Basseterre]
 [State::]
-[Country::[[Saint_Kitts_And_Nevis]]]
+[Country:[[../../Saint_Kitts_and_Nevis~Islands]]]]
 [StateId::]
 [Population::]
 [Unknown::]

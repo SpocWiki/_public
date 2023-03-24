@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::-25.06667]
 [name::Adamstown]
 [State::]
-[Country::[[Pitcairn]]]
+[Country:[[../../Pitcairn~Islands]]]]
 [StateId::]
 [Population::]
 [Unknown::32]

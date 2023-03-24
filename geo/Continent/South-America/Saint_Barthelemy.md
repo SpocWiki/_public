@@ -4,6 +4,10 @@ type: Country
 tags:
 - geo/Country
 
+alias:
+- St._Barthélemy
+- Saint_Barthélemy
+
 SpocWebEntityId: 76723
 isDeleted: false
 confidential: public

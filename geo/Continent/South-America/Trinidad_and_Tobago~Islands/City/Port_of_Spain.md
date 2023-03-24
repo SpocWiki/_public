@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::10.66667]
 [name::Port of Spain]
 [State::]
-[Country::[[Trinidad_And_Tobago]]]
+[Country::[[../../Trinidad_and_Tobago~Islands]]]
 [StateId::]
 [Population::]
 [Unknown::32]

@@ -4,6 +4,9 @@ type: Country
 tags:
 - geo/Country
 
+alias:
+- St._Kitts-Nevis-Anguilla
+
 SpocWebEntityId: 26939
 isDeleted: false
 confidential: public

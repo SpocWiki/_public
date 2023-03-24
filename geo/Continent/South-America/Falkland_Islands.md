@@ -4,6 +4,10 @@ type: Country
 tags:
 - geo/Country
 
+alias:
+- Malvinas
+- 
+
 SpocWebEntityId: 26893
 isDeleted: false
 confidential: public
