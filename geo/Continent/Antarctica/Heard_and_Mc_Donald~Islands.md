@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -16,8 +16,8 @@ id: Heard And Mc Donald Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Heard_And_Mc_Donald_Islands
-markerFolder: ./Heard_And_Mc_Donald_Islands/City
+geojsonFolder: ./Heard_and_Mc_Donald~Islands
+markerFolder: ./Heard_and_Mc_Donald~Islands/City
 ```
 
 [name-en::Heard And Mc Donald Islands]
