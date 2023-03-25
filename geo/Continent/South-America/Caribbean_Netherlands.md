@@ -129,11 +129,3 @@ markerFolder: ./Caribbean_Netherlands/City
 [geo-lon::-69]
 [geo-lat::12.1833]
 
-
-
-## Confidential Links & Embeds: 
-[[../../../../_internal/geo/Continent/South-America/Caribbean_Netherlands.internal.md|Caribbean_Netherlands.internal]] 
-[[../../../../_protect/geo/Continent/South-America/Caribbean_Netherlands.protect.md|Caribbean_Netherlands.protect]] 
-[[../../../../_private/geo/Continent/South-America/Caribbean_Netherlands.private.md|Caribbean_Netherlands.private]] 
-[[../../../../_personal/geo/Continent/South-America/Caribbean_Netherlands.personal.md|Caribbean_Netherlands.personal]] 
-[[../../../../_secret/geo/Continent/South-America/Caribbean_Netherlands.secret.md|Caribbean_Netherlands.secret]] 

@@ -30,11 +30,3 @@ markerFolder: ./Channel_Islands/City
 [geo-lon::]
 [geo-lat::]
 
-
-
-## Confidential Links & Embeds: 
-[[../../../../_internal/geo/Continent/Europe/Channel~Islands.internal.md|Channel~Islands.internal]] 
-[[../../../../_protect/geo/Continent/Europe/Channel~Islands.protect.md|Channel~Islands.protect]] 
-[[../../../../_private/geo/Continent/Europe/Channel~Islands.private.md|Channel~Islands.private]] 
-[[../../../../_personal/geo/Continent/Europe/Channel~Islands.personal.md|Channel~Islands.personal]] 
-[[../../../../_secret/geo/Continent/Europe/Channel~Islands.secret.md|Channel~Islands.secret]] 

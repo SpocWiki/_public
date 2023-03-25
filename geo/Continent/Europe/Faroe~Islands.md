@@ -124,11 +124,3 @@ markerFolder: ./Faeroe_Islands/City
 [geo-lon::-6.78333]
 [geo-lat::62]
 
-
-
-## Confidential Links & Embeds: 
-[[../../../../_internal/geo/Continent/Europe/Faroe~Islands.internal.md|Faroe~Islands.internal]] 
-[[../../../../_protect/geo/Continent/Europe/Faroe~Islands.protect.md|Faroe~Islands.protect]] 
-[[../../../../_private/geo/Continent/Europe/Faroe~Islands.private.md|Faroe~Islands.private]] 
-[[../../../../_personal/geo/Continent/Europe/Faroe~Islands.personal.md|Faroe~Islands.personal]] 
-[[../../../../_secret/geo/Continent/Europe/Faroe~Islands.secret.md|Faroe~Islands.secret]] 

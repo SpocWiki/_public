@@ -127,11 +127,3 @@ markerFolder: ./Marshall_Islands/City
 [geo-lon::168.348]
 [geo-lat::9.34833]
 
-
-
-## Confidential Links & Embeds: 
-[[../../../../_internal/geo/Continent/Oceania/Marshall~Islands.internal.md|Marshall~Islands.internal]] 
-[[../../../../_protect/geo/Continent/Oceania/Marshall~Islands.protect.md|Marshall~Islands.protect]] 
-[[../../../../_private/geo/Continent/Oceania/Marshall~Islands.private.md|Marshall~Islands.private]] 
-[[../../../../_personal/geo/Continent/Oceania/Marshall~Islands.personal.md|Marshall~Islands.personal]] 
-[[../../../../_secret/geo/Continent/Oceania/Marshall~Islands.secret.md|Marshall~Islands.secret]] 

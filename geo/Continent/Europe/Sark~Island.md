@@ -106,11 +106,3 @@ Languages: []
 [	Small_Island_Developing_States_(SIDS)	 ::  ]
 
 [	ISO3166-1-numeric	 ::  ]
-
-
-## Confidential Links & Embeds: 
-[[../../../../_internal/geo/Continent/Europe/Sark~Island.internal.md|Sark~Island.internal]] 
-[[../../../../_protect/geo/Continent/Europe/Sark~Island.protect.md|Sark~Island.protect]] 
-[[../../../../_private/geo/Continent/Europe/Sark~Island.private.md|Sark~Island.private]] 
-[[../../../../_personal/geo/Continent/Europe/Sark~Island.personal.md|Sark~Island.personal]] 
-[[../../../../_secret/geo/Continent/Europe/Sark~Island.secret.md|Sark~Island.secret]] 
