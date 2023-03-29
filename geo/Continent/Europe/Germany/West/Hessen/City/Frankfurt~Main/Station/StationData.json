@@ -1,4 +1,4 @@
-const StationData = [
+[
   {
     hafasId: 3000522,
     rmvId: 522,
@@ -8019,6 +8019,4 @@ const StationData = [
     lat: '50.1516023',
     lng: '8.742736134',
   },
-];
-
-export default StationData;
+]
