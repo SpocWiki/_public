@@ -28,3 +28,12 @@ markerFile: [[Backnang]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Backnang.md|Backnang]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Backnang.internal.md|Backnang.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Backnang.protect.md|Backnang.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Backnang.private.md|Backnang.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Backnang.personal.md|Backnang.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Backnang.secret.md|Backnang.secret]] 

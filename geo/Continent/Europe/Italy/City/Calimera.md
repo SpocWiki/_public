@@ -29,3 +29,12 @@ markerFile: [[Calimera]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Calimera.md|Calimera]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Calimera.internal.md|Calimera.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Calimera.protect.md|Calimera.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Calimera.private.md|Calimera.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Calimera.personal.md|Calimera.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Calimera.secret.md|Calimera.secret]] 

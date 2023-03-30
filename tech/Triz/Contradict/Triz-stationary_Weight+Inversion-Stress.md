@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.md|Triz-stationary_Weight+Inversion-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.internal.md|Triz-stationary_Weight+Inversion-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.protect.md|Triz-stationary_Weight+Inversion-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.private.md|Triz-stationary_Weight+Inversion-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.personal.md|Triz-stationary_Weight+Inversion-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.secret.md|Triz-stationary_Weight+Inversion-Stress.secret]] 

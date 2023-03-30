@@ -43,3 +43,12 @@ An agent controls a device or application.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/action/control_action.md|control_action]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/action/control_action.internal.md|control_action.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/action/control_action.protect.md|control_action.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/action/control_action.private.md|control_action.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/action/control_action.personal.md|control_action.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/action/control_action.secret.md|control_action.secret]] 

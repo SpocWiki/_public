@@ -55,3 +55,12 @@ Commonly used values:
 
 [ #has_/sub_classes :: [ PaymentCard ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/payment_method.md|payment_method]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/payment_method.internal.md|payment_method.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/payment_method.protect.md|payment_method.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/payment_method.private.md|payment_method.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/payment_method.personal.md|payment_method.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/payment_method.secret.md|payment_method.secret]] 

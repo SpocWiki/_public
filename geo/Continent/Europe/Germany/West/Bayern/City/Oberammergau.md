@@ -28,3 +28,12 @@ markerFile: [[Oberammergau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.md|Oberammergau]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.internal.md|Oberammergau.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.protect.md|Oberammergau.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.private.md|Oberammergau.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.personal.md|Oberammergau.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.secret.md|Oberammergau.secret]] 

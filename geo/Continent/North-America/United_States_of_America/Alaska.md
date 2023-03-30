@@ -33,3 +33,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Alaska.md|Alaska]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Alaska.internal.md|Alaska.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Alaska.protect.md|Alaska.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Alaska.private.md|Alaska.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Alaska.personal.md|Alaska.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Alaska.secret.md|Alaska.secret]] 

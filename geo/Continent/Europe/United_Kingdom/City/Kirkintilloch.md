@@ -29,3 +29,12 @@ markerFile: [[Kirkintilloch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.md|Kirkintilloch]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.internal.md|Kirkintilloch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.protect.md|Kirkintilloch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.private.md|Kirkintilloch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.personal.md|Kirkintilloch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.secret.md|Kirkintilloch.secret]] 

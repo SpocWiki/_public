@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28083]
 [NextStarId::27455]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sirrah.md|Sirrah]] 
+- [[../../../_internal/astro/Star/Sirrah.internal.md|Sirrah.internal]] 
+- [[../../../_protect/astro/Star/Sirrah.protect.md|Sirrah.protect]] 
+- [[../../../_private/astro/Star/Sirrah.private.md|Sirrah.private]] 
+- [[../../../_personal/astro/Star/Sirrah.personal.md|Sirrah.personal]] 
+- [[../../../_secret/astro/Star/Sirrah.secret.md|Sirrah.secret]] 

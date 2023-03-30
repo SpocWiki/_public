@@ -28,3 +28,12 @@ markerFile: [[Biswang]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.md|Biswang]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.internal.md|Biswang.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.protect.md|Biswang.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.private.md|Biswang.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.personal.md|Biswang.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.secret.md|Biswang.secret]] 

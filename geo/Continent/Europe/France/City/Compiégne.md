@@ -29,3 +29,12 @@ markerFile: [[Compiégne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Compiégne.md|Compiégne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Compiégne.internal.md|Compiégne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Compiégne.protect.md|Compiégne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Compiégne.private.md|Compiégne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Compiégne.personal.md|Compiégne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Compiégne.secret.md|Compiégne.secret]] 

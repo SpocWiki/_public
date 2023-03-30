@@ -29,3 +29,12 @@ markerFile: [[St.Sever]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Sever.md|St.Sever]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Sever.internal.md|St.Sever.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Sever.protect.md|St.Sever.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Sever.private.md|St.Sever.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Sever.personal.md|St.Sever.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Sever.secret.md|St.Sever.secret]] 

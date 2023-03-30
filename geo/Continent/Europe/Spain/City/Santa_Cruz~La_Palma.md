@@ -29,3 +29,12 @@ markerFile: [[Santa_Cruz~La_Palma]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.md|Santa_Cruz~La_Palma]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.internal.md|Santa_Cruz~La_Palma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.protect.md|Santa_Cruz~La_Palma.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.private.md|Santa_Cruz~La_Palma.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.personal.md|Santa_Cruz~La_Palma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.secret.md|Santa_Cruz~La_Palma.secret]] 

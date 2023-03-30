@@ -29,3 +29,12 @@ markerFile: [[Flers]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Flers.md|Flers]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Flers.internal.md|Flers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Flers.protect.md|Flers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Flers.private.md|Flers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Flers.personal.md|Flers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Flers.secret.md|Flers.secret]] 

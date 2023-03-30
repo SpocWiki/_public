@@ -29,3 +29,12 @@ markerFile: [[Wassilkow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wassilkow.md|Wassilkow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wassilkow.internal.md|Wassilkow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wassilkow.protect.md|Wassilkow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wassilkow.private.md|Wassilkow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wassilkow.personal.md|Wassilkow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wassilkow.secret.md|Wassilkow.secret]] 

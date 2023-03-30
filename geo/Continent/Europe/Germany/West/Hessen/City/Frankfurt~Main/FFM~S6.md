@@ -34,3 +34,12 @@ markerFolder: ./Station/
 19) [[Station/S-Frankfurt_Lokalbahnhof]] 
 20) [[Station/S-Frankfurt~Main~Süd]] 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S6.md|FFM~S6]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S6.internal.md|FFM~S6.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S6.protect.md|FFM~S6.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S6.private.md|FFM~S6.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S6.personal.md|FFM~S6.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S6.secret.md|FFM~S6.secret]] 

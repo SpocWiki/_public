@@ -28,3 +28,12 @@ markerFile: [[Weimar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Weimar.md|Weimar]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Weimar.internal.md|Weimar.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Weimar.protect.md|Weimar.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Weimar.private.md|Weimar.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Weimar.personal.md|Weimar.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Weimar.secret.md|Weimar.secret]] 

@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ codeValue ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_term_code.md|has_term_code]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_term_code.internal.md|has_term_code.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_term_code.protect.md|has_term_code.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_term_code.private.md|has_term_code.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_term_code.personal.md|has_term_code.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_term_code.secret.md|has_term_code.secret]] 

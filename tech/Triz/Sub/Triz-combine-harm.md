@@ -15,3 +15,12 @@ tags:
 [TrizPrinciple::[[Triz-Convert_harm_into_benefit]]]
 
 Eliminate the primary harmful action by adding it to another harmful action to resolve the problem.
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Sub/Triz-combine-harm.md|Triz-combine-harm]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-combine-harm.internal.md|Triz-combine-harm.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-combine-harm.protect.md|Triz-combine-harm.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-combine-harm.private.md|Triz-combine-harm.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-combine-harm.personal.md|Triz-combine-harm.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-combine-harm.secret.md|Triz-combine-harm.secret]] 

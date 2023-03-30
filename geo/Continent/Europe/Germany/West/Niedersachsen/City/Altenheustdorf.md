@@ -28,3 +28,12 @@ markerFile: [[Altenheustdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.md|Altenheustdorf]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.internal.md|Altenheustdorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.protect.md|Altenheustdorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.private.md|Altenheustdorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.personal.md|Altenheustdorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.secret.md|Altenheustdorf.secret]] 

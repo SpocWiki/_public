@@ -29,3 +29,12 @@ markerFile: [[Schoenlanke]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schoenlanke.md|Schoenlanke]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenlanke.internal.md|Schoenlanke.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenlanke.protect.md|Schoenlanke.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenlanke.private.md|Schoenlanke.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenlanke.personal.md|Schoenlanke.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenlanke.secret.md|Schoenlanke.secret]] 

@@ -43,3 +43,12 @@ The act of forming one's opinion, reaction or sentiment.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/action/assess_action.md|assess_action]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/action/assess_action.internal.md|assess_action.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/action/assess_action.protect.md|assess_action.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/action/assess_action.private.md|assess_action.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/action/assess_action.personal.md|assess_action.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/action/assess_action.secret.md|assess_action.secret]] 

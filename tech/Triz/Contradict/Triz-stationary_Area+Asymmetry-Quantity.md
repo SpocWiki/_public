@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Asymmetry]]]
 - [con::[[Triz-Quantity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.md|Triz-stationary_Area+Asymmetry-Quantity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.internal.md|Triz-stationary_Area+Asymmetry-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.protect.md|Triz-stationary_Area+Asymmetry-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.private.md|Triz-stationary_Area+Asymmetry-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.personal.md|Triz-stationary_Area+Asymmetry-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.secret.md|Triz-stationary_Area+Asymmetry-Quantity.secret]] 

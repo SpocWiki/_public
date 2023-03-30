@@ -46,3 +46,12 @@ Predicate describes that:
 ( #has_/name :: is_abridged )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_abridged.md|is_abridged]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_abridged.internal.md|is_abridged.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_abridged.protect.md|is_abridged.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_abridged.private.md|is_abridged.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_abridged.personal.md|is_abridged.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_abridged.secret.md|is_abridged.secret]] 

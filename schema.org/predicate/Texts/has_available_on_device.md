@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_available_on_device )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_available_on_device.md|has_available_on_device]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_available_on_device.internal.md|has_available_on_device.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_available_on_device.protect.md|has_available_on_device.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_available_on_device.private.md|has_available_on_device.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_available_on_device.personal.md|has_available_on_device.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_available_on_device.secret.md|has_available_on_device.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Mehlsack]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Mehlsack.md|Mehlsack]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mehlsack.internal.md|Mehlsack.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mehlsack.protect.md|Mehlsack.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mehlsack.private.md|Mehlsack.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mehlsack.personal.md|Mehlsack.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mehlsack.secret.md|Mehlsack.secret]] 

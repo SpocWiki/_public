@@ -29,3 +29,12 @@ markerFile: [[Succiso]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Succiso.md|Succiso]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Succiso.internal.md|Succiso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Succiso.protect.md|Succiso.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Succiso.private.md|Succiso.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Succiso.personal.md|Succiso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Succiso.secret.md|Succiso.secret]] 

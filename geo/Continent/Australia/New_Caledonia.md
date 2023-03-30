@@ -126,3 +126,12 @@ markerFolder: ./New_Caledonia/City
 [geo-lon::166.458]
 [geo-lat::-22.2758]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Australia/New_Caledonia.md|New_Caledonia]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Caledonia.internal.md|New_Caledonia.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Caledonia.protect.md|New_Caledonia.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Caledonia.private.md|New_Caledonia.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Caledonia.personal.md|New_Caledonia.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Caledonia.secret.md|New_Caledonia.secret]] 

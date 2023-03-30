@@ -29,3 +29,12 @@ markerFile: [[Mosonmagyrovar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.md|Mosonmagyrovar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.internal.md|Mosonmagyrovar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.protect.md|Mosonmagyrovar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.private.md|Mosonmagyrovar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.personal.md|Mosonmagyrovar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.secret.md|Mosonmagyrovar.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Santiago_de_Compostela]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.md|Santiago_de_Compostela]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.internal.md|Santiago_de_Compostela.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.protect.md|Santiago_de_Compostela.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.private.md|Santiago_de_Compostela.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.personal.md|Santiago_de_Compostela.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.secret.md|Santiago_de_Compostela.secret]] 

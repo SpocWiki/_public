@@ -28,3 +28,12 @@ markerFile: [[Lauenburg~Elbe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.md|Lauenburg~Elbe]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.internal.md|Lauenburg~Elbe.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.protect.md|Lauenburg~Elbe.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.private.md|Lauenburg~Elbe.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.personal.md|Lauenburg~Elbe.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.secret.md|Lauenburg~Elbe.secret]] 

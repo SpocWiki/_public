@@ -29,3 +29,12 @@ markerFile: [[Grzybnica]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Grzybnica.md|Grzybnica]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grzybnica.internal.md|Grzybnica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grzybnica.protect.md|Grzybnica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grzybnica.private.md|Grzybnica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grzybnica.personal.md|Grzybnica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grzybnica.secret.md|Grzybnica.secret]] 

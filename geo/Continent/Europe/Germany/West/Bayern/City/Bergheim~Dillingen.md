@@ -28,3 +28,12 @@ markerFile: [[Bergheim~Dillingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.md|Bergheim~Dillingen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.internal.md|Bergheim~Dillingen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.protect.md|Bergheim~Dillingen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.private.md|Bergheim~Dillingen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.personal.md|Bergheim~Dillingen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.secret.md|Bergheim~Dillingen.secret]] 

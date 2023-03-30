@@ -28,3 +28,12 @@ markerFile: [[Duerrwangen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.md|Duerrwangen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.internal.md|Duerrwangen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.protect.md|Duerrwangen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.private.md|Duerrwangen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.personal.md|Duerrwangen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.secret.md|Duerrwangen.secret]] 

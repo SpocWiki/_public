@@ -29,3 +29,12 @@ markerFile: [[Ulan_Bator]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Mongolia/City/Ulan_Bator.md|Ulan_Bator]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Mongolia/City/Ulan_Bator.internal.md|Ulan_Bator.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Mongolia/City/Ulan_Bator.protect.md|Ulan_Bator.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Mongolia/City/Ulan_Bator.private.md|Ulan_Bator.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Mongolia/City/Ulan_Bator.personal.md|Ulan_Bator.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Mongolia/City/Ulan_Bator.secret.md|Ulan_Bator.secret]] 

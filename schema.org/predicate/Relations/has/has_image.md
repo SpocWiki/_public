@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ layoutImage, logo, photo ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_image.md|has_image]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_image.internal.md|has_image.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_image.protect.md|has_image.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_image.private.md|has_image.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_image.personal.md|has_image.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_image.secret.md|has_image.secret]] 

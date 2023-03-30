@@ -29,3 +29,12 @@ markerFile: [[Antwerpen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Antwerpen.md|Antwerpen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Antwerpen.internal.md|Antwerpen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Antwerpen.protect.md|Antwerpen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Antwerpen.private.md|Antwerpen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Antwerpen.personal.md|Antwerpen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Antwerpen.secret.md|Antwerpen.secret]] 

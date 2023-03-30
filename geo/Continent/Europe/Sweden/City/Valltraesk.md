@@ -29,3 +29,12 @@ markerFile: [[Valltraesk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Valltraesk.md|Valltraesk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Valltraesk.internal.md|Valltraesk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Valltraesk.protect.md|Valltraesk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Valltraesk.private.md|Valltraesk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Valltraesk.personal.md|Valltraesk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Valltraesk.secret.md|Valltraesk.secret]] 

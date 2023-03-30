@@ -29,3 +29,12 @@ markerFile: [[Linares]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Linares.md|Linares]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Linares.internal.md|Linares.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Linares.protect.md|Linares.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Linares.private.md|Linares.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Linares.personal.md|Linares.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Linares.secret.md|Linares.secret]] 

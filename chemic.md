@@ -9,3 +9,13 @@ Chemistry is a wide Field; therefore it is broken up into
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemistry)
 
+
+
+## Confidential Links & Embeds: 
+- [[../_public/chemic.md|chemic]] 
+- [[../_internal/chemic.internal.md|chemic.internal]] 
+- [[../_protect/chemic.protect.md|chemic.protect]] 
+- [[../_private/chemic.private.md|chemic.private]] 
+- [[../_personal/chemic.personal.md|chemic.personal]] 
+- [[../_secret/chemic.secret.md|chemic.secret]]
+

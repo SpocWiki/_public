@@ -29,3 +29,11 @@ SpocWebEntityId: 21914
 > In the cosmos, magnesium is produced in large, aging stars by the sequential addition of three helium nuclei to a carbon nucleus. When such stars explode as supernovas, much of the magnesium is expelled into the interstellar medium where it may recycle into new star systems. Magnesium is the eighth most abundant element in the Earth's crust and the fourth most common element in the Earth (after iron, oxygen and silicon), making up 13% of the planet's mass and a large fraction of the planet's mantle. It is the third most abundant element dissolved in seawater, after sodium and chlorine.This element is the eleventh most abundant element by mass in the human body and is essential to all cells and some 300 enzymes. Magnesium ions interact with polyphosphate compounds such as ATP, DNA, and RNA. Hundreds of enzymes require magnesium ions to function. Magnesium compounds are used medicinally as common laxatives, antacids (e.g., milk of magnesia), and to stabilize abnormal nerve excitation or blood vessel spasm in such conditions as eclampsia.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnesium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.md|Magnesium]] 
+- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.internal.md|Magnesium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.protect.md|Magnesium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.private.md|Magnesium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.personal.md|Magnesium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.secret.md|Magnesium.secret]] 

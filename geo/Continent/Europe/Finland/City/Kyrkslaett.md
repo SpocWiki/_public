@@ -29,3 +29,12 @@ markerFile: [[Kyrkslaett]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kyrkslaett.md|Kyrkslaett]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kyrkslaett.internal.md|Kyrkslaett.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kyrkslaett.protect.md|Kyrkslaett.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kyrkslaett.private.md|Kyrkslaett.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kyrkslaett.personal.md|Kyrkslaett.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kyrkslaett.secret.md|Kyrkslaett.secret]] 

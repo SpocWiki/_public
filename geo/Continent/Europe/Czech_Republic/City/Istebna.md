@@ -29,3 +29,12 @@ markerFile: [[Istebna]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Istebna.md|Istebna]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Istebna.internal.md|Istebna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Istebna.protect.md|Istebna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Istebna.private.md|Istebna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Istebna.personal.md|Istebna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Istebna.secret.md|Istebna.secret]] 

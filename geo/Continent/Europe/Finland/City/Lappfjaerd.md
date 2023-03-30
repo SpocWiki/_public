@@ -29,3 +29,12 @@ markerFile: [[Lappfjaerd]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lappfjaerd.md|Lappfjaerd]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lappfjaerd.internal.md|Lappfjaerd.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lappfjaerd.protect.md|Lappfjaerd.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lappfjaerd.private.md|Lappfjaerd.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lappfjaerd.personal.md|Lappfjaerd.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lappfjaerd.secret.md|Lappfjaerd.secret]] 

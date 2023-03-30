@@ -28,3 +28,12 @@ markerFile: [[Oberhaunstadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.md|Oberhaunstadt]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.internal.md|Oberhaunstadt.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.protect.md|Oberhaunstadt.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.private.md|Oberhaunstadt.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.personal.md|Oberhaunstadt.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.secret.md|Oberhaunstadt.secret]] 

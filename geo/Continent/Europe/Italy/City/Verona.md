@@ -29,3 +29,12 @@ markerFile: [[Verona]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Verona.md|Verona]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Verona.internal.md|Verona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Verona.protect.md|Verona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Verona.private.md|Verona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Verona.personal.md|Verona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Verona.secret.md|Verona.secret]] 

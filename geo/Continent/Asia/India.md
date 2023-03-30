@@ -156,3 +156,12 @@ markerFolder: ./India/City
 [geo-lon::78.9354]
 [geo-lat::20.3923]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/India.md|India]] 
+- [[../../../../_internal/geo/Continent/Asia/India.internal.md|India.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/India.protect.md|India.protect]] 
+- [[../../../../_private/geo/Continent/Asia/India.private.md|India.private]] 
+- [[../../../../_personal/geo/Continent/Asia/India.personal.md|India.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/India.secret.md|India.secret]] 

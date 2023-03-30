@@ -130,3 +130,12 @@ markerFolder: ./Afghanistan/City
 [geo-lon::69.2]
 [geo-lat::34.5]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Afghanistan.md|Afghanistan]] 
+- [[../../../../_internal/geo/Continent/Asia/Afghanistan.internal.md|Afghanistan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Afghanistan.protect.md|Afghanistan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Afghanistan.private.md|Afghanistan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Afghanistan.personal.md|Afghanistan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Afghanistan.secret.md|Afghanistan.secret]] 

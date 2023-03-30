@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Changing_the_color]]]
 - [con::[[Triz-Strength]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Changing_the_color-Strength.md|Triz-Versatility+Changing_the_color-Strength]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Changing_the_color-Strength.internal.md|Triz-Versatility+Changing_the_color-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Changing_the_color-Strength.protect.md|Triz-Versatility+Changing_the_color-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Changing_the_color-Strength.private.md|Triz-Versatility+Changing_the_color-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Changing_the_color-Strength.personal.md|Triz-Versatility+Changing_the_color-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Changing_the_color-Strength.secret.md|Triz-Versatility+Changing_the_color-Strength.secret]] 

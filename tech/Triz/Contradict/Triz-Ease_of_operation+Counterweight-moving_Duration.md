@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Counterweight]]]
 - [con::[[Triz-moving_Duration]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-moving_Duration.md|Triz-Ease_of_operation+Counterweight-moving_Duration]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-moving_Duration.internal.md|Triz-Ease_of_operation+Counterweight-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-moving_Duration.protect.md|Triz-Ease_of_operation+Counterweight-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-moving_Duration.private.md|Triz-Ease_of_operation+Counterweight-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-moving_Duration.personal.md|Triz-Ease_of_operation+Counterweight-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-moving_Duration.secret.md|Triz-Ease_of_operation+Counterweight-moving_Duration.secret]] 

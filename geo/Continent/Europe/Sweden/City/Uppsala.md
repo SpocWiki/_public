@@ -29,3 +29,12 @@ markerFile: [[Uppsala]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Uppsala.md|Uppsala]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Uppsala.internal.md|Uppsala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Uppsala.protect.md|Uppsala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Uppsala.private.md|Uppsala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Uppsala.personal.md|Uppsala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Uppsala.secret.md|Uppsala.secret]] 

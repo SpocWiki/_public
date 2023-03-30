@@ -32,3 +32,12 @@ markerFolder: ./Micronesia,_Fed._States/City
 [geo-lon::158.15]
 [geo-lat::6.91667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States.md|Micronesia~Fed._States]] 
+- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States.internal.md|Micronesia~Fed._States.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States.protect.md|Micronesia~Fed._States.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States.private.md|Micronesia~Fed._States.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States.personal.md|Micronesia~Fed._States.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States.secret.md|Micronesia~Fed._States.secret]] 

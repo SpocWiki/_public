@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28154]
 [NextStarId::27366]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sagittarii-21.md|Sagittarii-21]] 
+- [[../../../_internal/astro/Star/Sagittarii-21.internal.md|Sagittarii-21.internal]] 
+- [[../../../_protect/astro/Star/Sagittarii-21.protect.md|Sagittarii-21.protect]] 
+- [[../../../_private/astro/Star/Sagittarii-21.private.md|Sagittarii-21.private]] 
+- [[../../../_personal/astro/Star/Sagittarii-21.personal.md|Sagittarii-21.personal]] 
+- [[../../../_secret/astro/Star/Sagittarii-21.secret.md|Sagittarii-21.secret]] 

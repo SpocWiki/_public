@@ -29,3 +29,12 @@ markerFile: [[Tschischkowitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.md|Tschischkowitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.internal.md|Tschischkowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.protect.md|Tschischkowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.private.md|Tschischkowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.personal.md|Tschischkowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.secret.md|Tschischkowitz.secret]] 

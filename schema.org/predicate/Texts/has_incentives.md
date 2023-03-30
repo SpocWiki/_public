@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_incentives )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_incentives.md|has_incentives]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_incentives.internal.md|has_incentives.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_incentives.protect.md|has_incentives.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_incentives.private.md|has_incentives.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_incentives.personal.md|has_incentives.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_incentives.secret.md|has_incentives.secret]] 

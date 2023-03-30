@@ -29,3 +29,12 @@ markerFile: [[Freistadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Freistadt.md|Freistadt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Freistadt.internal.md|Freistadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Freistadt.protect.md|Freistadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Freistadt.private.md|Freistadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Freistadt.personal.md|Freistadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Freistadt.secret.md|Freistadt.secret]] 

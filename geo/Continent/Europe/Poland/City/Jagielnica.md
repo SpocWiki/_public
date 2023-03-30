@@ -29,3 +29,12 @@ markerFile: [[Jagielnica]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Jagielnica.md|Jagielnica]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jagielnica.internal.md|Jagielnica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jagielnica.protect.md|Jagielnica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jagielnica.private.md|Jagielnica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jagielnica.personal.md|Jagielnica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jagielnica.secret.md|Jagielnica.secret]] 

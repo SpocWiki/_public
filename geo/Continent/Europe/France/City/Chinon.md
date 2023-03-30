@@ -29,3 +29,12 @@ markerFile: [[Chinon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Chinon.md|Chinon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chinon.internal.md|Chinon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chinon.protect.md|Chinon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chinon.private.md|Chinon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chinon.personal.md|Chinon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chinon.secret.md|Chinon.secret]] 

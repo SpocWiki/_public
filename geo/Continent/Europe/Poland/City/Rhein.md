@@ -29,3 +29,12 @@ markerFile: [[Rhein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rhein.md|Rhein]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rhein.internal.md|Rhein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rhein.protect.md|Rhein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rhein.private.md|Rhein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rhein.personal.md|Rhein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rhein.secret.md|Rhein.secret]] 

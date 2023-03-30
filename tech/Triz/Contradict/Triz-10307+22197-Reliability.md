@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22197]]]
 - [con::[[Triz-Reliability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22197-Reliability.md|Triz-10307+22197-Reliability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22197-Reliability.internal.md|Triz-10307+22197-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22197-Reliability.protect.md|Triz-10307+22197-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22197-Reliability.private.md|Triz-10307+22197-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22197-Reliability.personal.md|Triz-10307+22197-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22197-Reliability.secret.md|Triz-10307+22197-Reliability.secret]] 

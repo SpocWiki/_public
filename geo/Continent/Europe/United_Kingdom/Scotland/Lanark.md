@@ -29,3 +29,12 @@ markerFile: [[Lanark]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.md|Lanark]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.internal.md|Lanark.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.protect.md|Lanark.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.private.md|Lanark.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.personal.md|Lanark.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.secret.md|Lanark.secret]] 

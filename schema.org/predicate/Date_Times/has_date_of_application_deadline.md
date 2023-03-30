@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_date_of_application_deadline.md|has_date_of_application_deadline]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_date_of_application_deadline.internal.md|has_date_of_application_deadline.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_date_of_application_deadline.protect.md|has_date_of_application_deadline.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_date_of_application_deadline.private.md|has_date_of_application_deadline.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_date_of_application_deadline.personal.md|has_date_of_application_deadline.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_date_of_application_deadline.secret.md|has_date_of_application_deadline.secret]] 

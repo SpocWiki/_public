@@ -121,3 +121,12 @@ markerFolder: ./Taiwan/City
 [geo-lon::121.55]
 [geo-lat::25.08]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Taiwan.md|Taiwan]] 
+- [[../../../../_internal/geo/Continent/Asia/Taiwan.internal.md|Taiwan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Taiwan.protect.md|Taiwan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Taiwan.private.md|Taiwan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Taiwan.personal.md|Taiwan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Taiwan.secret.md|Taiwan.secret]] 

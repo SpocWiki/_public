@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Rejecting_and_regenerating_parts]]]
 - [con::Substance-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.md|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.internal.md|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.protect.md|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.private.md|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.personal.md|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.secret.md|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Substance-Loss.secret]] 

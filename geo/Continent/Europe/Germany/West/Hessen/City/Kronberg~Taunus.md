@@ -28,3 +28,12 @@ markerFile: [[Kronberg~Taunus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Kronberg~Taunus.md|Kronberg~Taunus]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kronberg~Taunus.internal.md|Kronberg~Taunus.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kronberg~Taunus.protect.md|Kronberg~Taunus.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kronberg~Taunus.private.md|Kronberg~Taunus.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Kronberg~Taunus.personal.md|Kronberg~Taunus.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Kronberg~Taunus.secret.md|Kronberg~Taunus.secret]] 

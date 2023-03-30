@@ -45,3 +45,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: areaServed ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_is_available_at_or_from.md|has_geo_is_available_at_or_from]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_is_available_at_or_from.internal.md|has_geo_is_available_at_or_from.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_is_available_at_or_from.protect.md|has_geo_is_available_at_or_from.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_is_available_at_or_from.private.md|has_geo_is_available_at_or_from.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_is_available_at_or_from.personal.md|has_geo_is_available_at_or_from.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_is_available_at_or_from.secret.md|has_geo_is_available_at_or_from.secret]] 

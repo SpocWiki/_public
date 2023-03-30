@@ -29,3 +29,12 @@ markerFile: [[Viviers]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Viviers.md|Viviers]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Viviers.internal.md|Viviers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Viviers.protect.md|Viviers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Viviers.private.md|Viviers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Viviers.personal.md|Viviers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Viviers.secret.md|Viviers.secret]] 

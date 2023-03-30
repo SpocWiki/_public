@@ -29,3 +29,12 @@ markerFile: [[Surabaya~Java]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Indonesia/City/Surabaya~Java.md|Surabaya~Java]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Indonesia/City/Surabaya~Java.internal.md|Surabaya~Java.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Indonesia/City/Surabaya~Java.protect.md|Surabaya~Java.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Indonesia/City/Surabaya~Java.private.md|Surabaya~Java.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Indonesia/City/Surabaya~Java.personal.md|Surabaya~Java.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Indonesia/City/Surabaya~Java.secret.md|Surabaya~Java.secret]] 

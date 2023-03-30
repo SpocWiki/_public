@@ -29,3 +29,12 @@ markerFile: [[Dailly]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Dailly.md|Dailly]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Dailly.internal.md|Dailly.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Dailly.protect.md|Dailly.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Dailly.private.md|Dailly.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Dailly.personal.md|Dailly.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Dailly.secret.md|Dailly.secret]] 

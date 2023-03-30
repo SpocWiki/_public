@@ -29,3 +29,12 @@ markerFile: [[Ogestad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ogestad.md|Ogestad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ogestad.internal.md|Ogestad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ogestad.protect.md|Ogestad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ogestad.private.md|Ogestad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ogestad.personal.md|Ogestad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ogestad.secret.md|Ogestad.secret]] 

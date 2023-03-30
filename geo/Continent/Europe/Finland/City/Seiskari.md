@@ -29,3 +29,12 @@ markerFile: [[Seiskari]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Seiskari.md|Seiskari]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Seiskari.internal.md|Seiskari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Seiskari.protect.md|Seiskari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Seiskari.private.md|Seiskari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Seiskari.personal.md|Seiskari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Seiskari.secret.md|Seiskari.secret]] 

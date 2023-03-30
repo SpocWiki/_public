@@ -29,3 +29,12 @@ markerFile: [[Maarianhamina]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Maarianhamina.md|Maarianhamina]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Maarianhamina.internal.md|Maarianhamina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Maarianhamina.protect.md|Maarianhamina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Maarianhamina.private.md|Maarianhamina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Maarianhamina.personal.md|Maarianhamina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Maarianhamina.secret.md|Maarianhamina.secret]] 

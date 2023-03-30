@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
 - [con::[[Triz-Automation]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.md|Triz-moving_Area+Replacement_of_a_mechanical_system-Automation]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.internal.md|Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.protect.md|Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.private.md|Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.personal.md|Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.secret.md|Triz-moving_Area+Replacement_of_a_mechanical_system-Automation.secret]] 

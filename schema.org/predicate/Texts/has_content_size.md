@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_content_size )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_content_size.md|has_content_size]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_content_size.internal.md|has_content_size.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_content_size.protect.md|has_content_size.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_content_size.private.md|has_content_size.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_content_size.personal.md|has_content_size.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_content_size.secret.md|has_content_size.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Homogeneity]]]
 - [con::[[Triz-Quantity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.md|Triz-affected_harm+Homogeneity-Quantity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.internal.md|Triz-affected_harm+Homogeneity-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.protect.md|Triz-affected_harm+Homogeneity-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.private.md|Triz-affected_harm+Homogeneity-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.personal.md|Triz-affected_harm+Homogeneity-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.secret.md|Triz-affected_harm+Homogeneity-Quantity.secret]] 

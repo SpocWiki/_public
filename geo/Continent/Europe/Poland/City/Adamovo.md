@@ -29,3 +29,12 @@ markerFile: [[Adamovo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Adamovo.md|Adamovo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Adamovo.internal.md|Adamovo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Adamovo.protect.md|Adamovo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Adamovo.private.md|Adamovo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Adamovo.personal.md|Adamovo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Adamovo.secret.md|Adamovo.secret]] 

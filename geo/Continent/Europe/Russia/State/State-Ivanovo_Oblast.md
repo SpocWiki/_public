@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/State/State-Ivanovo_Oblast.md|State-Ivanovo_Oblast]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Ivanovo_Oblast.internal.md|State-Ivanovo_Oblast.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Ivanovo_Oblast.protect.md|State-Ivanovo_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Ivanovo_Oblast.private.md|State-Ivanovo_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Ivanovo_Oblast.personal.md|State-Ivanovo_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Ivanovo_Oblast.secret.md|State-Ivanovo_Oblast.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Chardju]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chardju.md|Chardju]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chardju.internal.md|Chardju.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chardju.protect.md|Chardju.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chardju.private.md|Chardju.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chardju.personal.md|Chardju.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chardju.secret.md|Chardju.secret]] 

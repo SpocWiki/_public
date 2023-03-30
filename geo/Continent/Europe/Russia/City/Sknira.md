@@ -29,3 +29,12 @@ markerFile: [[Sknira]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sknira.md|Sknira]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sknira.internal.md|Sknira.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sknira.protect.md|Sknira.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sknira.private.md|Sknira.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sknira.personal.md|Sknira.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sknira.secret.md|Sknira.secret]] 

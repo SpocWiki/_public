@@ -29,3 +29,12 @@ markerFile: [[Asuncion]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Paraguay/City/Asuncion.md|Asuncion]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Paraguay/City/Asuncion.internal.md|Asuncion.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Paraguay/City/Asuncion.protect.md|Asuncion.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Paraguay/City/Asuncion.private.md|Asuncion.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Paraguay/City/Asuncion.personal.md|Asuncion.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Paraguay/City/Asuncion.secret.md|Asuncion.secret]] 

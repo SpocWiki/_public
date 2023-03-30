@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_aircraft )
 ( #has_/range :: Text, Vehicle )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_aircraft.md|has_aircraft]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_aircraft.internal.md|has_aircraft.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_aircraft.protect.md|has_aircraft.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_aircraft.private.md|has_aircraft.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_aircraft.personal.md|has_aircraft.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_aircraft.secret.md|has_aircraft.secret]] 

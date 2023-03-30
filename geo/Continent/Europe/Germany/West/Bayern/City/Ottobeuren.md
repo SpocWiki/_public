@@ -28,3 +28,12 @@ markerFile: [[Ottobeuren]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.md|Ottobeuren]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.internal.md|Ottobeuren.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.protect.md|Ottobeuren.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.private.md|Ottobeuren.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.personal.md|Ottobeuren.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.secret.md|Ottobeuren.secret]] 

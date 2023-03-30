@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Spheroidality]]]
 - [con::Substance-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Spheroidality-Substance-Loss.md|Triz-Stability+Spheroidality-Substance-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Spheroidality-Substance-Loss.internal.md|Triz-Stability+Spheroidality-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Spheroidality-Substance-Loss.protect.md|Triz-Stability+Spheroidality-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Spheroidality-Substance-Loss.private.md|Triz-Stability+Spheroidality-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Spheroidality-Substance-Loss.personal.md|Triz-Stability+Spheroidality-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Spheroidality-Substance-Loss.secret.md|Triz-Stability+Spheroidality-Substance-Loss.secret]] 

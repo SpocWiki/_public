@@ -29,3 +29,12 @@ markerFile: [[Islamabad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Pakistan/City/Islamabad.md|Islamabad]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Pakistan/City/Islamabad.internal.md|Islamabad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Pakistan/City/Islamabad.protect.md|Islamabad.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Pakistan/City/Islamabad.private.md|Islamabad.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Pakistan/City/Islamabad.personal.md|Islamabad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Pakistan/City/Islamabad.secret.md|Islamabad.secret]] 

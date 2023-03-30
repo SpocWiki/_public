@@ -29,3 +29,12 @@ markerFile: [[Cosenza]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cosenza.md|Cosenza]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cosenza.internal.md|Cosenza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cosenza.protect.md|Cosenza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cosenza.private.md|Cosenza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cosenza.personal.md|Cosenza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cosenza.secret.md|Cosenza.secret]] 

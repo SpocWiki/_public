@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Electra.md|Electra]] 
+- [[../../../_internal/astro/Star/Electra.internal.md|Electra.internal]] 
+- [[../../../_protect/astro/Star/Electra.protect.md|Electra.protect]] 
+- [[../../../_private/astro/Star/Electra.private.md|Electra.private]] 
+- [[../../../_personal/astro/Star/Electra.personal.md|Electra.personal]] 
+- [[../../../_secret/astro/Star/Electra.secret.md|Electra.secret]]
+

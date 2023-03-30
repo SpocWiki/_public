@@ -29,3 +29,12 @@ markerFile: [[Furka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Furka.md|Furka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Furka.internal.md|Furka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Furka.protect.md|Furka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Furka.private.md|Furka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Furka.personal.md|Furka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Furka.secret.md|Furka.secret]] 

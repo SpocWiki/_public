@@ -45,3 +45,12 @@ Nonprofit501c15: Non-profit type referring to Mutual Insurance Companies or Asso
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c15.md|nonprofit501c15]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c15.internal.md|nonprofit501c15.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c15.protect.md|nonprofit501c15.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c15.private.md|nonprofit501c15.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c15.personal.md|nonprofit501c15.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c15.secret.md|nonprofit501c15.secret]] 

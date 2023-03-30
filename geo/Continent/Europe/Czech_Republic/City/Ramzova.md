@@ -29,3 +29,12 @@ markerFile: [[Ramzova]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Ramzova.md|Ramzova]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ramzova.internal.md|Ramzova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ramzova.protect.md|Ramzova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ramzova.private.md|Ramzova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ramzova.personal.md|Ramzova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ramzova.secret.md|Ramzova.secret]] 

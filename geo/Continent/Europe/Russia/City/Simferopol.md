@@ -29,3 +29,12 @@ markerFile: [[Simferopol]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Simferopol.md|Simferopol]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Simferopol.internal.md|Simferopol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Simferopol.protect.md|Simferopol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Simferopol.private.md|Simferopol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Simferopol.personal.md|Simferopol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Simferopol.secret.md|Simferopol.secret]] 

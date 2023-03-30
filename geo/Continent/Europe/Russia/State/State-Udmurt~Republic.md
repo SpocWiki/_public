@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/State/State-Udmurt~Republic.md|State-Udmurt~Republic]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Udmurt~Republic.internal.md|State-Udmurt~Republic.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Udmurt~Republic.protect.md|State-Udmurt~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Udmurt~Republic.private.md|State-Udmurt~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Udmurt~Republic.personal.md|State-Udmurt~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Udmurt~Republic.secret.md|State-Udmurt~Republic.secret]] 

@@ -16,3 +16,13 @@ tags:
 [Iso2::jv]
 [Iso3::jav]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/lang/Lang-jv.md|Lang-jv]] 
+- [[../../_internal/lang/Lang-jv.internal.md|Lang-jv.internal]] 
+- [[../../_protect/lang/Lang-jv.protect.md|Lang-jv.protect]] 
+- [[../../_private/lang/Lang-jv.private.md|Lang-jv.private]] 
+- [[../../_personal/lang/Lang-jv.personal.md|Lang-jv.personal]] 
+- [[../../_secret/lang/Lang-jv.secret.md|Lang-jv.secret]]
+

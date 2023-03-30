@@ -28,3 +28,12 @@ markerFile: [[Neukirchen~Holstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.md|Neukirchen~Holstein]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.internal.md|Neukirchen~Holstein.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.protect.md|Neukirchen~Holstein.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.private.md|Neukirchen~Holstein.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.personal.md|Neukirchen~Holstein.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.secret.md|Neukirchen~Holstein.secret]] 

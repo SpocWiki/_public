@@ -29,3 +29,12 @@ markerFile: [[Neudamm]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neudamm.md|Neudamm]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neudamm.internal.md|Neudamm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neudamm.protect.md|Neudamm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neudamm.private.md|Neudamm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neudamm.personal.md|Neudamm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neudamm.secret.md|Neudamm.secret]] 

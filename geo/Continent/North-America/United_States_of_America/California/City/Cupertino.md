@@ -28,3 +28,12 @@ markerFile: [[Cupertino]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.md|Cupertino]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.internal.md|Cupertino.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.protect.md|Cupertino.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.private.md|Cupertino.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.personal.md|Cupertino.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.secret.md|Cupertino.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Periodic_action]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.md|Triz-Stress+Periodic_action-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.internal.md|Triz-Stress+Periodic_action-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.protect.md|Triz-Stress+Periodic_action-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.private.md|Triz-Stress+Periodic_action-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.personal.md|Triz-Stress+Periodic_action-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.secret.md|Triz-Stress+Periodic_action-Complexity.secret]] 

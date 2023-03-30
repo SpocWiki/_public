@@ -29,3 +29,12 @@ markerFile: [[Villa_de_Condé]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Villa_de_Condé.md|Villa_de_Condé]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Villa_de_Condé.internal.md|Villa_de_Condé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Villa_de_Condé.protect.md|Villa_de_Condé.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Villa_de_Condé.private.md|Villa_de_Condé.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Villa_de_Condé.personal.md|Villa_de_Condé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Villa_de_Condé.secret.md|Villa_de_Condé.secret]] 

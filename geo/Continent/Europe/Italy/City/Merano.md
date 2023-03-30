@@ -29,3 +29,12 @@ markerFile: [[Merano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Merano.md|Merano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Merano.internal.md|Merano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Merano.protect.md|Merano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Merano.private.md|Merano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Merano.personal.md|Merano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Merano.secret.md|Merano.secret]] 

@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_train_name )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_train_name.md|has_train_name]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_train_name.internal.md|has_train_name.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_train_name.protect.md|has_train_name.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_train_name.private.md|has_train_name.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_train_name.personal.md|has_train_name.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_train_name.secret.md|has_train_name.secret]] 

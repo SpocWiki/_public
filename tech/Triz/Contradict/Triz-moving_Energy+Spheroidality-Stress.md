@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Spheroidality]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Stress.md|Triz-moving_Energy+Spheroidality-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Stress.internal.md|Triz-moving_Energy+Spheroidality-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Stress.protect.md|Triz-moving_Energy+Spheroidality-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Stress.private.md|Triz-moving_Energy+Spheroidality-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Stress.personal.md|Triz-moving_Energy+Spheroidality-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Stress.secret.md|Triz-moving_Energy+Spheroidality-Stress.secret]] 

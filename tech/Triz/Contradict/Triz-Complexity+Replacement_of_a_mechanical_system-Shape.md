@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
 - [con::[[Triz-Shape]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Shape.md|Triz-Complexity+Replacement_of_a_mechanical_system-Shape]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Shape.internal.md|Triz-Complexity+Replacement_of_a_mechanical_system-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Shape.protect.md|Triz-Complexity+Replacement_of_a_mechanical_system-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Shape.private.md|Triz-Complexity+Replacement_of_a_mechanical_system-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Shape.personal.md|Triz-Complexity+Replacement_of_a_mechanical_system-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Shape.secret.md|Triz-Complexity+Replacement_of_a_mechanical_system-Shape.secret]] 

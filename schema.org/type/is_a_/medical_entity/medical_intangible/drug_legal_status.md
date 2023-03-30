@@ -41,3 +41,12 @@ The legal availability status of a medical drug.
 
 [ #has_/properties :: [ additionalType, alternateName, applicableLocation, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.md|drug_legal_status]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.internal.md|drug_legal_status.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.protect.md|drug_legal_status.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.private.md|drug_legal_status.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.personal.md|drug_legal_status.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.secret.md|drug_legal_status.secret]] 

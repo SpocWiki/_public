@@ -28,3 +28,12 @@ markerFile: [[Mayen~Eifel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.md|Mayen~Eifel]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.internal.md|Mayen~Eifel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.protect.md|Mayen~Eifel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.private.md|Mayen~Eifel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.personal.md|Mayen~Eifel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.secret.md|Mayen~Eifel.secret]] 

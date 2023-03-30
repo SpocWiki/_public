@@ -28,3 +28,12 @@ markerFile: [[Malsch_bei_Karlsruhe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.md|Malsch_bei_Karlsruhe]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.internal.md|Malsch_bei_Karlsruhe.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.protect.md|Malsch_bei_Karlsruhe.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.private.md|Malsch_bei_Karlsruhe.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.personal.md|Malsch_bei_Karlsruhe.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Malsch_bei_Karlsruhe.secret.md|Malsch_bei_Karlsruhe.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Dundee]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.md|Dundee]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.internal.md|Dundee.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.protect.md|Dundee.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.private.md|Dundee.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.personal.md|Dundee.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.secret.md|Dundee.secret]] 

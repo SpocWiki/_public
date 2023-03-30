@@ -29,3 +29,12 @@ markerFile: [[Newcastle_under_Lyme]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.md|Newcastle_under_Lyme]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.internal.md|Newcastle_under_Lyme.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.protect.md|Newcastle_under_Lyme.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.private.md|Newcastle_under_Lyme.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.personal.md|Newcastle_under_Lyme.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.secret.md|Newcastle_under_Lyme.secret]] 

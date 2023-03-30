@@ -28,3 +28,12 @@ markerFile: [[Columbus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.md|Columbus]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.internal.md|Columbus.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.protect.md|Columbus.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.private.md|Columbus.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.personal.md|Columbus.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.secret.md|Columbus.secret]] 

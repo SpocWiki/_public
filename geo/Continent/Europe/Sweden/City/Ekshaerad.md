@@ -29,3 +29,12 @@ markerFile: [[Ekshaerad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ekshaerad.md|Ekshaerad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ekshaerad.internal.md|Ekshaerad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ekshaerad.protect.md|Ekshaerad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ekshaerad.private.md|Ekshaerad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ekshaerad.personal.md|Ekshaerad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ekshaerad.secret.md|Ekshaerad.secret]] 

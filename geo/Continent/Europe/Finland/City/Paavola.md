@@ -29,3 +29,12 @@ markerFile: [[Paavola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Paavola.md|Paavola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Paavola.internal.md|Paavola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Paavola.protect.md|Paavola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Paavola.private.md|Paavola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Paavola.personal.md|Paavola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Paavola.secret.md|Paavola.secret]] 

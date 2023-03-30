@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::[[Triz-moving_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Universality-moving_Energy.md|Triz-generated_harm+Universality-moving_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Universality-moving_Energy.internal.md|Triz-generated_harm+Universality-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Universality-moving_Energy.protect.md|Triz-generated_harm+Universality-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Universality-moving_Energy.private.md|Triz-generated_harm+Universality-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Universality-moving_Energy.personal.md|Triz-generated_harm+Universality-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Universality-moving_Energy.secret.md|Triz-generated_harm+Universality-moving_Energy.secret]] 

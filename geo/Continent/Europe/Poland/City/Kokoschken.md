@@ -29,3 +29,12 @@ markerFile: [[Kokoschken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kokoschken.md|Kokoschken]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kokoschken.internal.md|Kokoschken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kokoschken.protect.md|Kokoschken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kokoschken.private.md|Kokoschken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kokoschken.personal.md|Kokoschken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kokoschken.secret.md|Kokoschken.secret]] 

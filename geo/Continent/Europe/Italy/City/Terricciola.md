@@ -29,3 +29,12 @@ markerFile: [[Terricciola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Terricciola.md|Terricciola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Terricciola.internal.md|Terricciola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Terricciola.protect.md|Terricciola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Terricciola.private.md|Terricciola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Terricciola.personal.md|Terricciola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Terricciola.secret.md|Terricciola.secret]] 

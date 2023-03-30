@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Dynamicity]]]
 - [con::[[Triz-Shape]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Dynamicity-Shape.md|Triz-Speed+Dynamicity-Shape]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Dynamicity-Shape.internal.md|Triz-Speed+Dynamicity-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Dynamicity-Shape.protect.md|Triz-Speed+Dynamicity-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Dynamicity-Shape.private.md|Triz-Speed+Dynamicity-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Dynamicity-Shape.personal.md|Triz-Speed+Dynamicity-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Dynamicity-Shape.secret.md|Triz-Speed+Dynamicity-Shape.secret]] 

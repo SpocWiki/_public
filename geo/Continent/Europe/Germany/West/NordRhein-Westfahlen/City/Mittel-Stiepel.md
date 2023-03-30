@@ -28,3 +28,12 @@ markerFile: [[Mittel-Stiepel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.md|Mittel-Stiepel]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.internal.md|Mittel-Stiepel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.protect.md|Mittel-Stiepel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.private.md|Mittel-Stiepel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.personal.md|Mittel-Stiepel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.secret.md|Mittel-Stiepel.secret]] 

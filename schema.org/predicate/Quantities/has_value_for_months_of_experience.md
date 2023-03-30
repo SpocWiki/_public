@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_months_of_experience )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_months_of_experience.md|has_value_for_months_of_experience]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_months_of_experience.internal.md|has_value_for_months_of_experience.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_months_of_experience.protect.md|has_value_for_months_of_experience.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_months_of_experience.private.md|has_value_for_months_of_experience.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_months_of_experience.personal.md|has_value_for_months_of_experience.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_months_of_experience.secret.md|has_value_for_months_of_experience.secret]] 

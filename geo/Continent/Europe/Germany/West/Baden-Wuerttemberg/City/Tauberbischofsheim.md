@@ -28,3 +28,12 @@ markerFile: [[Tauberbischofsheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.md|Tauberbischofsheim]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.internal.md|Tauberbischofsheim.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.protect.md|Tauberbischofsheim.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.private.md|Tauberbischofsheim.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.personal.md|Tauberbischofsheim.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.secret.md|Tauberbischofsheim.secret]] 

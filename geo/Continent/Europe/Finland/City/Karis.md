@@ -29,3 +29,12 @@ markerFile: [[Karis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Karis.md|Karis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Karis.internal.md|Karis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Karis.protect.md|Karis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Karis.private.md|Karis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Karis.personal.md|Karis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Karis.secret.md|Karis.secret]] 

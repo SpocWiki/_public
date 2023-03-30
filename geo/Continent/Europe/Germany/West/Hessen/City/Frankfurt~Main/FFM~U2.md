@@ -33,3 +33,12 @@ markerFolder: ./Station/
 19) [[Station/U-Willy-Brandt-Platz]] 
 20) [[Station/U-Schweizer_Platz]] 
 21) [[Station/U-Südbahnhof]] 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U2.md|FFM~U2]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U2.internal.md|FFM~U2.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U2.protect.md|FFM~U2.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U2.private.md|FFM~U2.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U2.personal.md|FFM~U2.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U2.secret.md|FFM~U2.secret]] 

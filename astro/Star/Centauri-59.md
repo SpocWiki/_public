@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28101]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Centauri-59.md|Centauri-59]] 
+- [[../../../_internal/astro/Star/Centauri-59.internal.md|Centauri-59.internal]] 
+- [[../../../_protect/astro/Star/Centauri-59.protect.md|Centauri-59.protect]] 
+- [[../../../_private/astro/Star/Centauri-59.private.md|Centauri-59.private]] 
+- [[../../../_personal/astro/Star/Centauri-59.personal.md|Centauri-59.personal]] 
+- [[../../../_secret/astro/Star/Centauri-59.secret.md|Centauri-59.secret]]
+

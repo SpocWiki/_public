@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::[[Triz-Temperature]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.md|Triz-stationary_Volume+Universality-Temperature]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.internal.md|Triz-stationary_Volume+Universality-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.protect.md|Triz-stationary_Volume+Universality-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.private.md|Triz-stationary_Volume+Universality-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.personal.md|Triz-stationary_Volume+Universality-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.secret.md|Triz-stationary_Volume+Universality-Temperature.secret]] 

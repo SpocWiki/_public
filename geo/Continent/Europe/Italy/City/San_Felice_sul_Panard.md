@@ -29,3 +29,12 @@ markerFile: [[San_Felice_sul_Panard]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.md|San_Felice_sul_Panard]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.internal.md|San_Felice_sul_Panard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.protect.md|San_Felice_sul_Panard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.private.md|San_Felice_sul_Panard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.personal.md|San_Felice_sul_Panard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.secret.md|San_Felice_sul_Panard.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Boncourt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Boncourt.md|Boncourt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Boncourt.internal.md|Boncourt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Boncourt.protect.md|Boncourt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Boncourt.private.md|Boncourt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Boncourt.personal.md|Boncourt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Boncourt.secret.md|Boncourt.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Changing_the_color]]]
 - [con::[[Triz-Power]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.md|Triz-Measurement_Accuracy+Changing_the_color-Power]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.internal.md|Triz-Measurement_Accuracy+Changing_the_color-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.protect.md|Triz-Measurement_Accuracy+Changing_the_color-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.private.md|Triz-Measurement_Accuracy+Changing_the_color-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.personal.md|Triz-Measurement_Accuracy+Changing_the_color-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.secret.md|Triz-Measurement_Accuracy+Changing_the_color-Power.secret]] 

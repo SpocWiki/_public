@@ -29,3 +29,12 @@ markerFile: [[Vianna_do_Castello]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.md|Vianna_do_Castello]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.internal.md|Vianna_do_Castello.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.protect.md|Vianna_do_Castello.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.private.md|Vianna_do_Castello.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.personal.md|Vianna_do_Castello.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.secret.md|Vianna_do_Castello.secret]] 

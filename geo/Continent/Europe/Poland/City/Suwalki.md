@@ -29,3 +29,12 @@ markerFile: [[Suwalki]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Suwalki.md|Suwalki]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Suwalki.internal.md|Suwalki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Suwalki.protect.md|Suwalki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Suwalki.private.md|Suwalki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Suwalki.personal.md|Suwalki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Suwalki.secret.md|Suwalki.secret]] 

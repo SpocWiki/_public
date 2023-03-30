@@ -29,3 +29,12 @@ markerFile: [[St.Fleur]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Fleur.md|St.Fleur]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Fleur.internal.md|St.Fleur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Fleur.protect.md|St.Fleur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Fleur.private.md|St.Fleur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Fleur.personal.md|St.Fleur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Fleur.secret.md|St.Fleur.secret]] 

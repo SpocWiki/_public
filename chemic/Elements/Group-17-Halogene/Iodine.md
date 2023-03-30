@@ -34,3 +34,11 @@ SpocWebEntityId: 21949
 > It is on the World Health Organization's List of Essential Medicines.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iodine)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-17-Halogene/Iodine.md|Iodine]] 
+- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Iodine.internal.md|Iodine.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Iodine.protect.md|Iodine.protect]] 
+- [[../../../../_private/chemic/Elements/Group-17-Halogene/Iodine.private.md|Iodine.private]] 
+- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Iodine.personal.md|Iodine.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Iodine.secret.md|Iodine.secret]] 

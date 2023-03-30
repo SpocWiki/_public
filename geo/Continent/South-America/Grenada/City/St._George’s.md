@@ -29,3 +29,12 @@ markerFile: [[St._George’s]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Grenada/City/St._George’s.md|St._George’s]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Grenada/City/St._George’s.internal.md|St._George’s.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Grenada/City/St._George’s.protect.md|St._George’s.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Grenada/City/St._George’s.private.md|St._George’s.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Grenada/City/St._George’s.personal.md|St._George’s.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Grenada/City/St._George’s.secret.md|St._George’s.secret]] 

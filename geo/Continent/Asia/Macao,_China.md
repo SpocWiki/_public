@@ -32,3 +32,12 @@ markerFolder: ./Macao,_China/City
 [geo-lon::113.55]
 [geo-lat::22.1667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Macao,_China.md|Macao,_China]] 
+- [[../../../../_internal/geo/Continent/Asia/Macao,_China.internal.md|Macao,_China.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Macao,_China.protect.md|Macao,_China.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Macao,_China.private.md|Macao,_China.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Macao,_China.personal.md|Macao,_China.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Macao,_China.secret.md|Macao,_China.secret]] 

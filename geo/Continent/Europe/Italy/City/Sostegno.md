@@ -29,3 +29,12 @@ markerFile: [[Sostegno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sostegno.md|Sostegno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sostegno.internal.md|Sostegno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sostegno.protect.md|Sostegno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sostegno.private.md|Sostegno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sostegno.personal.md|Sostegno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sostegno.secret.md|Sostegno.secret]] 

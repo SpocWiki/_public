@@ -29,3 +29,12 @@ markerFile: [[Vuonatjoiken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vuonatjoiken.md|Vuonatjoiken]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vuonatjoiken.internal.md|Vuonatjoiken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vuonatjoiken.protect.md|Vuonatjoiken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vuonatjoiken.private.md|Vuonatjoiken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vuonatjoiken.personal.md|Vuonatjoiken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vuonatjoiken.secret.md|Vuonatjoiken.secret]] 

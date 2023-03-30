@@ -29,3 +29,11 @@ SpocWebEntityId: 21940
 > Molybdenum-bearing enzymes are by far the most common bacterial catalysts for breaking the chemical bond in atmospheric molecular nitrogen in the process of biological nitrogen fixation. At least 50 molybdenum enzymes are now known in bacteria, plants, and animals, although only bacterial and cyanobacterial enzymes are involved in nitrogen fixation. These nitrogenases contain an iron-molybdenum cofactor FeMoco, which is believed to contain either Mo(III) or Mo(IV). This is distinct from the fully oxidized Mo(VI) found complexed with molybdopterin in all other molybdenum-bearing enzymes, which perform a variety of crucial functions. The variety of crucial reactions catalyzed by these latter enzymes means that molybdenum is an essential element for all higher eukaryote organisms, including humans.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molybdenum)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-06-Chromium/Molybdenum.md|Molybdenum]] 
+- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Molybdenum.internal.md|Molybdenum.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Molybdenum.protect.md|Molybdenum.protect]] 
+- [[../../../../_private/chemic/Elements/Group-06-Chromium/Molybdenum.private.md|Molybdenum.private]] 
+- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Molybdenum.personal.md|Molybdenum.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Molybdenum.secret.md|Molybdenum.secret]] 

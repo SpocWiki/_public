@@ -29,3 +29,12 @@ markerFile: [[Reigate]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Reigate.md|Reigate]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Reigate.internal.md|Reigate.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Reigate.protect.md|Reigate.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Reigate.private.md|Reigate.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Reigate.personal.md|Reigate.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Reigate.secret.md|Reigate.secret]] 

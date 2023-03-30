@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_application_sub_category )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_application_sub_category.md|has_application_sub_category]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_application_sub_category.internal.md|has_application_sub_category.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_application_sub_category.protect.md|has_application_sub_category.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_application_sub_category.private.md|has_application_sub_category.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_application_sub_category.personal.md|has_application_sub_category.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_application_sub_category.secret.md|has_application_sub_category.secret]] 

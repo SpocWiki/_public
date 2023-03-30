@@ -29,3 +29,12 @@ markerFile: [[Schneeherz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schneeherz.md|Schneeherz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schneeherz.internal.md|Schneeherz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schneeherz.protect.md|Schneeherz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schneeherz.private.md|Schneeherz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schneeherz.personal.md|Schneeherz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schneeherz.secret.md|Schneeherz.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Pihtipudas]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pihtipudas.md|Pihtipudas]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pihtipudas.internal.md|Pihtipudas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pihtipudas.protect.md|Pihtipudas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pihtipudas.private.md|Pihtipudas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pihtipudas.personal.md|Pihtipudas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pihtipudas.secret.md|Pihtipudas.secret]] 

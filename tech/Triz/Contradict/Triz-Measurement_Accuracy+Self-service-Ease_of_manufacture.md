@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Self-service]]]
 - [con::[[Triz-Ease_of_manufacture]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.md|Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.internal.md|Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.protect.md|Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.private.md|Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.personal.md|Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.secret.md|Triz-Measurement_Accuracy+Self-service-Ease_of_manufacture.secret]] 

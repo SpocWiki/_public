@@ -24,3 +24,12 @@ markerFile: [[S-Kronberg_im_Taunus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.md|S-Kronberg_im_Taunus]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.internal.md|S-Kronberg_im_Taunus.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.protect.md|S-Kronberg_im_Taunus.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.private.md|S-Kronberg_im_Taunus.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.personal.md|S-Kronberg_im_Taunus.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.secret.md|S-Kronberg_im_Taunus.secret]] 

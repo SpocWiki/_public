@@ -29,3 +29,12 @@ markerFile: [[Sub-Covent_Garden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.md|Sub-Covent_Garden]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.internal.md|Sub-Covent_Garden.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.protect.md|Sub-Covent_Garden.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.private.md|Sub-Covent_Garden.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.personal.md|Sub-Covent_Garden.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.secret.md|Sub-Covent_Garden.secret]] 

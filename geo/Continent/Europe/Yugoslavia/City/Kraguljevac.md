@@ -29,3 +29,12 @@ markerFile: [[Kraguljevac]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.md|Kraguljevac]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.internal.md|Kraguljevac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.protect.md|Kraguljevac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.private.md|Kraguljevac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.personal.md|Kraguljevac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.secret.md|Kraguljevac.secret]] 

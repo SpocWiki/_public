@@ -29,3 +29,12 @@ markerFile: [[Jamma]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jamma.md|Jamma]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jamma.internal.md|Jamma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jamma.protect.md|Jamma.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jamma.private.md|Jamma.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jamma.personal.md|Jamma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jamma.secret.md|Jamma.secret]] 

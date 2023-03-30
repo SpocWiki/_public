@@ -29,3 +29,12 @@ markerFile: [[Bergovetz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Bergovetz.md|Bergovetz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Bergovetz.internal.md|Bergovetz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Bergovetz.protect.md|Bergovetz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Bergovetz.private.md|Bergovetz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Bergovetz.personal.md|Bergovetz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Bergovetz.secret.md|Bergovetz.secret]] 

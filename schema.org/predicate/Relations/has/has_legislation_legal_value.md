@@ -44,3 +44,12 @@ Relation describes that:
 ( #has_/name :: has_legislation_legal_value )
 ( #has_/range :: LegalValueLevel )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_legislation_legal_value.md|has_legislation_legal_value]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legislation_legal_value.internal.md|has_legislation_legal_value.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_legislation_legal_value.protect.md|has_legislation_legal_value.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_legislation_legal_value.private.md|has_legislation_legal_value.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_legislation_legal_value.personal.md|has_legislation_legal_value.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_legislation_legal_value.secret.md|has_legislation_legal_value.secret]] 

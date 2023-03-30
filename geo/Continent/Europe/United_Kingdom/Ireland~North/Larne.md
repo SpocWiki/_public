@@ -29,3 +29,12 @@ markerFile: [[Larne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.md|Larne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.internal.md|Larne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.protect.md|Larne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.private.md|Larne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.personal.md|Larne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.secret.md|Larne.secret]] 

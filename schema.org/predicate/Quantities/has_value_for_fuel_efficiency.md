@@ -49,3 +49,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_fuel_efficiency )
 ( #has_/range :: QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.md|has_value_for_fuel_efficiency]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.internal.md|has_value_for_fuel_efficiency.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.protect.md|has_value_for_fuel_efficiency.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.private.md|has_value_for_fuel_efficiency.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.personal.md|has_value_for_fuel_efficiency.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.secret.md|has_value_for_fuel_efficiency.secret]] 

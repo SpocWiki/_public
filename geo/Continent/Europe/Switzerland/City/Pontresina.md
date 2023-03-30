@@ -29,3 +29,12 @@ markerFile: [[Pontresina]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Pontresina.md|Pontresina]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Pontresina.internal.md|Pontresina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Pontresina.protect.md|Pontresina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Pontresina.private.md|Pontresina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Pontresina.personal.md|Pontresina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Pontresina.secret.md|Pontresina.secret]] 

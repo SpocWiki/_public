@@ -29,3 +29,12 @@ markerFile: [[Oxsjoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Oxsjoe.md|Oxsjoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oxsjoe.internal.md|Oxsjoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oxsjoe.protect.md|Oxsjoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oxsjoe.private.md|Oxsjoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oxsjoe.personal.md|Oxsjoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oxsjoe.secret.md|Oxsjoe.secret]] 

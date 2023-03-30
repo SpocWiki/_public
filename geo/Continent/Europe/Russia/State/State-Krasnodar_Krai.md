@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/State/State-Krasnodar_Krai.md|State-Krasnodar_Krai]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Krasnodar_Krai.internal.md|State-Krasnodar_Krai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Krasnodar_Krai.protect.md|State-Krasnodar_Krai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Krasnodar_Krai.private.md|State-Krasnodar_Krai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Krasnodar_Krai.personal.md|State-Krasnodar_Krai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Krasnodar_Krai.secret.md|State-Krasnodar_Krai.secret]] 

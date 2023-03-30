@@ -29,3 +29,12 @@ markerFile: [[Lovisa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lovisa.md|Lovisa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lovisa.internal.md|Lovisa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lovisa.protect.md|Lovisa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lovisa.private.md|Lovisa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lovisa.personal.md|Lovisa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lovisa.secret.md|Lovisa.secret]] 

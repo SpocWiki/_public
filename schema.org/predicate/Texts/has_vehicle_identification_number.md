@@ -45,3 +45,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: serialNumber ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_vehicle_identification_number.md|has_vehicle_identification_number]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_vehicle_identification_number.internal.md|has_vehicle_identification_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_vehicle_identification_number.protect.md|has_vehicle_identification_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_vehicle_identification_number.private.md|has_vehicle_identification_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_vehicle_identification_number.personal.md|has_vehicle_identification_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_vehicle_identification_number.secret.md|has_vehicle_identification_number.secret]] 

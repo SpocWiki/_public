@@ -45,3 +45,12 @@ A word, name, acronym, phrase, etc. with a formal definition. Often used in the 
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/defined_term.md|defined_term]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/defined_term.internal.md|defined_term.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/defined_term.protect.md|defined_term.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/defined_term.private.md|defined_term.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/defined_term.personal.md|defined_term.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/defined_term.secret.md|defined_term.secret]] 

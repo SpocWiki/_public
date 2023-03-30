@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28154]
 [NextStarId::27448]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Nunki.md|Nunki]] 
+- [[../../../_internal/astro/Star/Nunki.internal.md|Nunki.internal]] 
+- [[../../../_protect/astro/Star/Nunki.protect.md|Nunki.protect]] 
+- [[../../../_private/astro/Star/Nunki.private.md|Nunki.private]] 
+- [[../../../_personal/astro/Star/Nunki.personal.md|Nunki.personal]] 
+- [[../../../_secret/astro/Star/Nunki.secret.md|Nunki.secret]] 

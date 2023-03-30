@@ -35,3 +35,12 @@ SpocWebEntityId: 16528
 > [Wikipedia](https://en.wikipedia.org/wiki/Iron)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-08-Iron/Iron.md|Iron]] 
+- [[../../../../_internal/chemic/Elements/Group-08-Iron/Iron.internal.md|Iron.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-08-Iron/Iron.protect.md|Iron.protect]] 
+- [[../../../../_private/chemic/Elements/Group-08-Iron/Iron.private.md|Iron.private]] 
+- [[../../../../_personal/chemic/Elements/Group-08-Iron/Iron.personal.md|Iron.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-08-Iron/Iron.secret.md|Iron.secret]] 

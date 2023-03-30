@@ -29,3 +29,12 @@ markerFile: [[Papenhagen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Papenhagen.md|Papenhagen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Papenhagen.internal.md|Papenhagen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Papenhagen.protect.md|Papenhagen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Papenhagen.private.md|Papenhagen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Papenhagen.personal.md|Papenhagen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Papenhagen.secret.md|Papenhagen.secret]] 

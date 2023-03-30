@@ -29,3 +29,12 @@ markerFile: [[Weigelsdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Weigelsdorf.md|Weigelsdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Weigelsdorf.internal.md|Weigelsdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Weigelsdorf.protect.md|Weigelsdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Weigelsdorf.private.md|Weigelsdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Weigelsdorf.personal.md|Weigelsdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Weigelsdorf.secret.md|Weigelsdorf.secret]] 

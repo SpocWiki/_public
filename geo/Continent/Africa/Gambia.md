@@ -135,3 +135,12 @@ markerFolder: ./Gambia/City
 [geo-lon::-16.6]
 [geo-lat::13.4667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Gambia.md|Gambia]] 
+- [[../../../../_internal/geo/Continent/Africa/Gambia.internal.md|Gambia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Gambia.protect.md|Gambia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gambia.private.md|Gambia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gambia.personal.md|Gambia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gambia.secret.md|Gambia.secret]] 

@@ -131,3 +131,12 @@ markerFolder: ./Nepal/City
 [geo-lon::85.3167]
 [geo-lat::27.7]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Nepal.md|Nepal]] 
+- [[../../../../_internal/geo/Continent/Asia/Nepal.internal.md|Nepal.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Nepal.protect.md|Nepal.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Nepal.private.md|Nepal.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Nepal.personal.md|Nepal.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Nepal.secret.md|Nepal.secret]] 

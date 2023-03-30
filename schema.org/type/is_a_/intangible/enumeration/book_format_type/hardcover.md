@@ -43,3 +43,12 @@ Book format: Hardcover.
 
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.md|hardcover]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.internal.md|hardcover.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.protect.md|hardcover.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.private.md|hardcover.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.personal.md|hardcover.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.secret.md|hardcover.secret]] 

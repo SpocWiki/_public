@@ -28,3 +28,12 @@ markerFile: [[Bloomingtown]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.md|Bloomingtown]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.internal.md|Bloomingtown.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.protect.md|Bloomingtown.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.private.md|Bloomingtown.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.personal.md|Bloomingtown.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.secret.md|Bloomingtown.secret]] 

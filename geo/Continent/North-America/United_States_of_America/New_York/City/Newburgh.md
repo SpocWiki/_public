@@ -28,3 +28,12 @@ markerFile: [[Newburgh]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York/City/Newburgh.md|Newburgh]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Newburgh.internal.md|Newburgh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Newburgh.protect.md|Newburgh.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Newburgh.private.md|Newburgh.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Newburgh.personal.md|Newburgh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Newburgh.secret.md|Newburgh.secret]] 

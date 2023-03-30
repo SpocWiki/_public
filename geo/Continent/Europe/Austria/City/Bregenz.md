@@ -29,3 +29,12 @@ markerFile: [[Bregenz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bregenz.md|Bregenz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bregenz.internal.md|Bregenz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bregenz.protect.md|Bregenz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bregenz.private.md|Bregenz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bregenz.personal.md|Bregenz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bregenz.secret.md|Bregenz.secret]] 

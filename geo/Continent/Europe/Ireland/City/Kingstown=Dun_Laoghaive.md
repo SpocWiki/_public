@@ -29,3 +29,12 @@ markerFile: [[Kingstown=Dun_Laoghaive]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Kingstown=Dun_Laoghaive.md|Kingstown=Dun_Laoghaive]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Kingstown=Dun_Laoghaive.internal.md|Kingstown=Dun_Laoghaive.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Kingstown=Dun_Laoghaive.protect.md|Kingstown=Dun_Laoghaive.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Kingstown=Dun_Laoghaive.private.md|Kingstown=Dun_Laoghaive.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Kingstown=Dun_Laoghaive.personal.md|Kingstown=Dun_Laoghaive.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Kingstown=Dun_Laoghaive.secret.md|Kingstown=Dun_Laoghaive.secret]] 

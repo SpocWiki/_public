@@ -29,3 +29,12 @@ markerFile: [[Sjoeholmen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Sjoeholmen.md|Sjoeholmen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sjoeholmen.internal.md|Sjoeholmen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sjoeholmen.protect.md|Sjoeholmen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sjoeholmen.private.md|Sjoeholmen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sjoeholmen.personal.md|Sjoeholmen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sjoeholmen.secret.md|Sjoeholmen.secret]] 

@@ -46,3 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_property_id )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_property_id.md|has_property_id]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_property_id.internal.md|has_property_id.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_property_id.protect.md|has_property_id.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_property_id.private.md|has_property_id.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_property_id.personal.md|has_property_id.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_property_id.secret.md|has_property_id.secret]] 

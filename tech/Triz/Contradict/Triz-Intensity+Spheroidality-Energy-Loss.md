@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Spheroidality]]]
 - [con::Energy-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.md|Triz-Intensity+Spheroidality-Energy-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.internal.md|Triz-Intensity+Spheroidality-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.protect.md|Triz-Intensity+Spheroidality-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.private.md|Triz-Intensity+Spheroidality-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.personal.md|Triz-Intensity+Spheroidality-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.secret.md|Triz-Intensity+Spheroidality-Energy-Loss.secret]] 

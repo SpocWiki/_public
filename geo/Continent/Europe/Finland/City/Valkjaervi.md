@@ -29,3 +29,12 @@ markerFile: [[Valkjaervi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Valkjaervi.md|Valkjaervi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Valkjaervi.internal.md|Valkjaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Valkjaervi.protect.md|Valkjaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Valkjaervi.private.md|Valkjaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Valkjaervi.personal.md|Valkjaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Valkjaervi.secret.md|Valkjaervi.secret]] 

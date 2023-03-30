@@ -29,3 +29,12 @@ markerFile: [[Padua=Padova]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Padua=Padova.md|Padua=Padova]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Padua=Padova.internal.md|Padua=Padova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Padua=Padova.protect.md|Padua=Padova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Padua=Padova.private.md|Padua=Padova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Padua=Padova.personal.md|Padua=Padova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Padua=Padova.secret.md|Padua=Padova.secret]] 

@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_day_of_week )
 ( #has_/range :: DayOfWeek )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_day_of_week.md|has_day_of_week]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_day_of_week.internal.md|has_day_of_week.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_day_of_week.protect.md|has_day_of_week.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_day_of_week.private.md|has_day_of_week.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_day_of_week.personal.md|has_day_of_week.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_day_of_week.secret.md|has_day_of_week.secret]] 

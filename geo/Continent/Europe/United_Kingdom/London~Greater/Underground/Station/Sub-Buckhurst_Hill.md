@@ -29,3 +29,12 @@ markerFile: [[Sub-Buckhurst_Hill]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.md|Sub-Buckhurst_Hill]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.internal.md|Sub-Buckhurst_Hill.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.protect.md|Sub-Buckhurst_Hill.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.private.md|Sub-Buckhurst_Hill.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.personal.md|Sub-Buckhurst_Hill.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.secret.md|Sub-Buckhurst_Hill.secret]] 

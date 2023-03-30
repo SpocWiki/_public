@@ -29,3 +29,12 @@ markerFile: [[Sydney]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Australia/Australia/City/Sydney.md|Sydney]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/City/Sydney.internal.md|Sydney.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/City/Sydney.protect.md|Sydney.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/City/Sydney.private.md|Sydney.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/City/Sydney.personal.md|Sydney.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/City/Sydney.secret.md|Sydney.secret]] 

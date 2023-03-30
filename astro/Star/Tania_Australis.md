@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Tania_Australis.md|Tania_Australis]] 
+- [[../../../_internal/astro/Star/Tania_Australis.internal.md|Tania_Australis.internal]] 
+- [[../../../_protect/astro/Star/Tania_Australis.protect.md|Tania_Australis.protect]] 
+- [[../../../_private/astro/Star/Tania_Australis.private.md|Tania_Australis.private]] 
+- [[../../../_personal/astro/Star/Tania_Australis.personal.md|Tania_Australis.personal]] 
+- [[../../../_secret/astro/Star/Tania_Australis.secret.md|Tania_Australis.secret]] 

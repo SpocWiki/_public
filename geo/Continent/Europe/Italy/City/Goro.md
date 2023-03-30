@@ -29,3 +29,12 @@ markerFile: [[Goro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Goro.md|Goro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Goro.internal.md|Goro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Goro.protect.md|Goro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Goro.private.md|Goro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Goro.personal.md|Goro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Goro.secret.md|Goro.secret]] 

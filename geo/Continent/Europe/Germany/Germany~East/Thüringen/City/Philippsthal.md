@@ -28,3 +28,12 @@ markerFile: [[Philippsthal]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Philippsthal.md|Philippsthal]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Philippsthal.internal.md|Philippsthal.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Philippsthal.protect.md|Philippsthal.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Philippsthal.private.md|Philippsthal.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Philippsthal.personal.md|Philippsthal.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Philippsthal.secret.md|Philippsthal.secret]] 

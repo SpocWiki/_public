@@ -130,3 +130,12 @@ markerFolder: ./Cook_Islands/City
 [geo-lon::-159.783]
 [geo-lat::-21.2]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Cook~Islands.md|Cook~Islands]] 
+- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands.internal.md|Cook~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands.protect.md|Cook~Islands.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Cook~Islands.private.md|Cook~Islands.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands.personal.md|Cook~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands.secret.md|Cook~Islands.secret]] 

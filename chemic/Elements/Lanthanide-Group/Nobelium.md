@@ -33,3 +33,11 @@ SpocWebEntityId: 21997
 > In the 1950s and 1960s, many claims of the discovery of nobelium were made from laboratories in Sweden, the Soviet Union, and the United States. Although the Swedish scientists soon retracted their claims, the priority of the discovery and therefore the naming of the element was disputed between Soviet and American scientists, and it was not until 1997 that the International Union of Pure and Applied Chemistry (IUPAC) credited the Soviet team with the discovery, but retained nobelium, the Swedish proposal, as the name of the element due to its long-standing use in the literature.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nobelium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Lanthanide-Group/Nobelium.md|Nobelium]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Nobelium.internal.md|Nobelium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Nobelium.protect.md|Nobelium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Nobelium.private.md|Nobelium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Nobelium.personal.md|Nobelium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Nobelium.secret.md|Nobelium.secret]] 

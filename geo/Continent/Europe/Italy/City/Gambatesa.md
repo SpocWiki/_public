@@ -29,3 +29,12 @@ markerFile: [[Gambatesa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gambatesa.md|Gambatesa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gambatesa.internal.md|Gambatesa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gambatesa.protect.md|Gambatesa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gambatesa.private.md|Gambatesa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gambatesa.personal.md|Gambatesa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gambatesa.secret.md|Gambatesa.secret]] 

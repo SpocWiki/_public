@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-prepare-emergency]]]
 
 Alternate Air System for Aircraft Instruments
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Alternate_System.md|Triz-Alternate_System]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Alternate_System.internal.md|Triz-Alternate_System.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Alternate_System.protect.md|Triz-Alternate_System.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Alternate_System.private.md|Triz-Alternate_System.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Alternate_System.personal.md|Triz-Alternate_System.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Alternate_System.secret.md|Triz-Alternate_System.secret]] 

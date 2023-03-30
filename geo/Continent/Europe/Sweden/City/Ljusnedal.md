@@ -29,3 +29,12 @@ markerFile: [[Ljusnedal]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ljusnedal.md|Ljusnedal]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ljusnedal.internal.md|Ljusnedal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ljusnedal.protect.md|Ljusnedal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ljusnedal.private.md|Ljusnedal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ljusnedal.personal.md|Ljusnedal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ljusnedal.secret.md|Ljusnedal.secret]] 

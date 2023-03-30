@@ -29,3 +29,12 @@ markerFile: [[Valencia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Valencia.md|Valencia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Valencia.internal.md|Valencia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Valencia.protect.md|Valencia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Valencia.private.md|Valencia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Valencia.personal.md|Valencia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Valencia.secret.md|Valencia.secret]] 

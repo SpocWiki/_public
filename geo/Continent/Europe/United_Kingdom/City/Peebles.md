@@ -29,3 +29,12 @@ markerFile: [[Peebles]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Peebles.md|Peebles]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Peebles.internal.md|Peebles.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Peebles.protect.md|Peebles.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Peebles.private.md|Peebles.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Peebles.personal.md|Peebles.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Peebles.secret.md|Peebles.secret]] 

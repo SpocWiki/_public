@@ -29,3 +29,12 @@ markerFile: [[Helsingfors]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Helsingfors.md|Helsingfors]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Helsingfors.internal.md|Helsingfors.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Helsingfors.protect.md|Helsingfors.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Helsingfors.private.md|Helsingfors.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Helsingfors.personal.md|Helsingfors.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Helsingfors.secret.md|Helsingfors.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Nizza=Nice]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Nizza=Nice.md|Nizza=Nice]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nizza=Nice.internal.md|Nizza=Nice.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nizza=Nice.protect.md|Nizza=Nice.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nizza=Nice.private.md|Nizza=Nice.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nizza=Nice.personal.md|Nizza=Nice.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nizza=Nice.secret.md|Nizza=Nice.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Archangelsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Archangelsk.md|Archangelsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Archangelsk.internal.md|Archangelsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Archangelsk.protect.md|Archangelsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Archangelsk.private.md|Archangelsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Archangelsk.personal.md|Archangelsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Archangelsk.secret.md|Archangelsk.secret]] 

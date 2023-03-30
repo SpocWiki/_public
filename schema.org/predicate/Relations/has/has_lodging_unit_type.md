@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_lodging_unit_type )
 ( #has_/range :: QualitativeValue, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_lodging_unit_type.md|has_lodging_unit_type]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_lodging_unit_type.internal.md|has_lodging_unit_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_lodging_unit_type.protect.md|has_lodging_unit_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_lodging_unit_type.private.md|has_lodging_unit_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_lodging_unit_type.personal.md|has_lodging_unit_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_lodging_unit_type.secret.md|has_lodging_unit_type.secret]] 

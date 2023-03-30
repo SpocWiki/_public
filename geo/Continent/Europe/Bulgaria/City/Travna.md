@@ -29,3 +29,12 @@ markerFile: [[Travna]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Travna.md|Travna]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Travna.internal.md|Travna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Travna.protect.md|Travna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Travna.private.md|Travna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Travna.personal.md|Travna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Travna.secret.md|Travna.secret]] 

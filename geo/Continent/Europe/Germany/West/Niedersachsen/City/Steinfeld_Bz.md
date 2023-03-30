@@ -28,3 +28,12 @@ markerFile: [[Steinfeld_Bz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.md|Steinfeld_Bz]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.internal.md|Steinfeld_Bz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.protect.md|Steinfeld_Bz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.private.md|Steinfeld_Bz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.personal.md|Steinfeld_Bz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.secret.md|Steinfeld_Bz.secret]] 

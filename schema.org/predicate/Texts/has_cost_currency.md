@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_cost_currency )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_cost_currency.md|has_cost_currency]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_cost_currency.internal.md|has_cost_currency.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_cost_currency.protect.md|has_cost_currency.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_cost_currency.private.md|has_cost_currency.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_cost_currency.personal.md|has_cost_currency.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_cost_currency.secret.md|has_cost_currency.secret]] 

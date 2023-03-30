@@ -29,3 +29,12 @@ markerFile: [[Rio_de_Janeiro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.md|Rio_de_Janeiro]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.internal.md|Rio_de_Janeiro.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.protect.md|Rio_de_Janeiro.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.private.md|Rio_de_Janeiro.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.personal.md|Rio_de_Janeiro.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.secret.md|Rio_de_Janeiro.secret]] 

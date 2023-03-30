@@ -29,3 +29,12 @@ markerFile: [[Boleszkowice]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Boleszkowice.md|Boleszkowice]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Boleszkowice.internal.md|Boleszkowice.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Boleszkowice.protect.md|Boleszkowice.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Boleszkowice.private.md|Boleszkowice.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Boleszkowice.personal.md|Boleszkowice.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Boleszkowice.secret.md|Boleszkowice.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Kowno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kowno.md|Kowno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kowno.internal.md|Kowno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kowno.protect.md|Kowno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kowno.private.md|Kowno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kowno.personal.md|Kowno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kowno.secret.md|Kowno.secret]] 

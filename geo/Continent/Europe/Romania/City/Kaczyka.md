@@ -29,3 +29,12 @@ markerFile: [[Kaczyka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Kaczyka.md|Kaczyka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Kaczyka.internal.md|Kaczyka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Kaczyka.protect.md|Kaczyka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Kaczyka.private.md|Kaczyka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Kaczyka.personal.md|Kaczyka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Kaczyka.secret.md|Kaczyka.secret]] 

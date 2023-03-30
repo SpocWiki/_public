@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Use_of_porous_material]]]
 - [con::[[Triz-moving_Weight]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-moving_Weight.md|Triz-Quantity+Use_of_porous_material-moving_Weight]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-moving_Weight.internal.md|Triz-Quantity+Use_of_porous_material-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-moving_Weight.protect.md|Triz-Quantity+Use_of_porous_material-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-moving_Weight.private.md|Triz-Quantity+Use_of_porous_material-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-moving_Weight.personal.md|Triz-Quantity+Use_of_porous_material-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-moving_Weight.secret.md|Triz-Quantity+Use_of_porous_material-moving_Weight.secret]] 

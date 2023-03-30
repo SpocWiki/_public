@@ -29,3 +29,12 @@ markerFile: [[Tunis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/City/Tunis.md|Tunis]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/City/Tunis.internal.md|Tunis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/City/Tunis.protect.md|Tunis.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/City/Tunis.private.md|Tunis.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/City/Tunis.personal.md|Tunis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/City/Tunis.secret.md|Tunis.secret]] 

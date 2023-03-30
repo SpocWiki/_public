@@ -43,3 +43,12 @@ Genitourinary system function assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.md|genitourinary]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.internal.md|genitourinary.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.protect.md|genitourinary.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.private.md|genitourinary.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.personal.md|genitourinary.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.secret.md|genitourinary.secret]] 

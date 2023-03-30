@@ -17,3 +17,11 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkaline%20earth%20metal)
  
+
+## Confidential Links & Embeds: 
+- [[../../../_public/chemic/Elements/Group-02-Earth-Alkaline.md|Group-02-Earth-Alkaline]] 
+- [[../../../_internal/chemic/Elements/Group-02-Earth-Alkaline.internal.md|Group-02-Earth-Alkaline.internal]] 
+- [[../../../_protect/chemic/Elements/Group-02-Earth-Alkaline.protect.md|Group-02-Earth-Alkaline.protect]] 
+- [[../../../_private/chemic/Elements/Group-02-Earth-Alkaline.private.md|Group-02-Earth-Alkaline.private]] 
+- [[../../../_personal/chemic/Elements/Group-02-Earth-Alkaline.personal.md|Group-02-Earth-Alkaline.personal]] 
+- [[../../../_secret/chemic/Elements/Group-02-Earth-Alkaline.secret.md|Group-02-Earth-Alkaline.secret]] 

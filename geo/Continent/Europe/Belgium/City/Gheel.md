@@ -29,3 +29,12 @@ markerFile: [[Gheel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Gheel.md|Gheel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Gheel.internal.md|Gheel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Gheel.protect.md|Gheel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Gheel.private.md|Gheel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Gheel.personal.md|Gheel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Gheel.secret.md|Gheel.secret]] 

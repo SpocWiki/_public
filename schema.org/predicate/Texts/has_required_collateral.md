@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_required_collateral )
 ( #has_/range :: Text, Thing )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_required_collateral.md|has_required_collateral]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_required_collateral.internal.md|has_required_collateral.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_required_collateral.protect.md|has_required_collateral.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_required_collateral.private.md|has_required_collateral.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_required_collateral.personal.md|has_required_collateral.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_required_collateral.secret.md|has_required_collateral.secret]] 

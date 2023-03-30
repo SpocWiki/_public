@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_maps )
 ( #has_/range :: URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_maps.md|has_url_for_maps]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_maps.internal.md|has_url_for_maps.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_maps.protect.md|has_url_for_maps.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_maps.private.md|has_url_for_maps.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_maps.personal.md|has_url_for_maps.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_maps.secret.md|has_url_for_maps.secret]] 

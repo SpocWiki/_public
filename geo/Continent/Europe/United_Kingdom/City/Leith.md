@@ -29,3 +29,12 @@ markerFile: [[Leith]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Leith.md|Leith]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Leith.internal.md|Leith.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Leith.protect.md|Leith.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Leith.private.md|Leith.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Leith.personal.md|Leith.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Leith.secret.md|Leith.secret]] 

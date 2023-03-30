@@ -45,3 +45,12 @@ Content that discusses and explains how a particular health-related topic works,
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.md|how_it_works_health_aspect]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.internal.md|how_it_works_health_aspect.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.protect.md|how_it_works_health_aspect.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.private.md|how_it_works_health_aspect.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.personal.md|how_it_works_health_aspect.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.secret.md|how_it_works_health_aspect.secret]] 

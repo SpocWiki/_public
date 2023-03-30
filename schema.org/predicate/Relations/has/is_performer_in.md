@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is/_inverse_of  :: [[has_performer]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/is_performer_in.md|is_performer_in]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_performer_in.internal.md|is_performer_in.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_performer_in.protect.md|is_performer_in.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_performer_in.private.md|is_performer_in.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_performer_in.personal.md|is_performer_in.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_performer_in.secret.md|is_performer_in.secret]] 

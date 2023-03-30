@@ -29,3 +29,12 @@ markerFile: [[Orbetello]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Orbetello.md|Orbetello]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Orbetello.internal.md|Orbetello.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Orbetello.protect.md|Orbetello.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Orbetello.private.md|Orbetello.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Orbetello.personal.md|Orbetello.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Orbetello.secret.md|Orbetello.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Fagared]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Fagared.md|Fagared]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Fagared.internal.md|Fagared.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Fagared.protect.md|Fagared.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Fagared.private.md|Fagared.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Fagared.personal.md|Fagared.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Fagared.secret.md|Fagared.secret]] 

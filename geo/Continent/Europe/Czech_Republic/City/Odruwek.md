@@ -29,3 +29,12 @@ markerFile: [[Odruwek]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Odruwek.md|Odruwek]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Odruwek.internal.md|Odruwek.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Odruwek.protect.md|Odruwek.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Odruwek.private.md|Odruwek.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Odruwek.personal.md|Odruwek.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Odruwek.secret.md|Odruwek.secret]] 

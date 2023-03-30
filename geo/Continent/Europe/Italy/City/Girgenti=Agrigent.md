@@ -29,3 +29,12 @@ markerFile: [[Girgenti=Agrigent]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Girgenti=Agrigent.md|Girgenti=Agrigent]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Girgenti=Agrigent.internal.md|Girgenti=Agrigent.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Girgenti=Agrigent.protect.md|Girgenti=Agrigent.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Girgenti=Agrigent.private.md|Girgenti=Agrigent.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Girgenti=Agrigent.personal.md|Girgenti=Agrigent.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Girgenti=Agrigent.secret.md|Girgenti=Agrigent.secret]] 

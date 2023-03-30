@@ -29,3 +29,12 @@ markerFile: [[Perle]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Perle.md|Perle]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Perle.internal.md|Perle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Perle.protect.md|Perle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Perle.private.md|Perle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Perle.personal.md|Perle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Perle.secret.md|Perle.secret]] 

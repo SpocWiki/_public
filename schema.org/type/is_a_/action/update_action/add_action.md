@@ -43,3 +43,12 @@ The act of editing by adding an object to a collection.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/action/update_action/add_action.md|add_action]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/action/update_action/add_action.internal.md|add_action.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/action/update_action/add_action.protect.md|add_action.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/action/update_action/add_action.private.md|add_action.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/action/update_action/add_action.personal.md|add_action.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/action/update_action/add_action.secret.md|add_action.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Wercholensk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wercholensk.md|Wercholensk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wercholensk.internal.md|Wercholensk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wercholensk.protect.md|Wercholensk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wercholensk.private.md|Wercholensk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wercholensk.personal.md|Wercholensk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wercholensk.secret.md|Wercholensk.secret]] 

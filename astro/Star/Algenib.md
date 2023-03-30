@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::27324]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Algenib.md|Algenib]] 
+- [[../../../_internal/astro/Star/Algenib.internal.md|Algenib.internal]] 
+- [[../../../_protect/astro/Star/Algenib.protect.md|Algenib.protect]] 
+- [[../../../_private/astro/Star/Algenib.private.md|Algenib.private]] 
+- [[../../../_personal/astro/Star/Algenib.personal.md|Algenib.personal]] 
+- [[../../../_secret/astro/Star/Algenib.secret.md|Algenib.secret]]
+

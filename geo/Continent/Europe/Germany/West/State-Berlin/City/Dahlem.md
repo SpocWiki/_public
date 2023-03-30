@@ -28,3 +28,12 @@ markerFile: [[Dahlem]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.md|Dahlem]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.internal.md|Dahlem.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.protect.md|Dahlem.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.private.md|Dahlem.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.personal.md|Dahlem.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.secret.md|Dahlem.secret]] 

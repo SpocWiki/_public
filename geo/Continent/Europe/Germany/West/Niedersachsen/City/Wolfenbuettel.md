@@ -28,3 +28,12 @@ markerFile: [[Wolfenbuettel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.md|Wolfenbuettel]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.internal.md|Wolfenbuettel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.protect.md|Wolfenbuettel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.private.md|Wolfenbuettel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.personal.md|Wolfenbuettel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.secret.md|Wolfenbuettel.secret]] 

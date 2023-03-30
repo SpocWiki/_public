@@ -131,3 +131,12 @@ markerFolder: ./Honduras/City
 [geo-lon::-87.2167]
 [geo-lat::14.1]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Honduras.md|Honduras]] 
+- [[../../../../_internal/geo/Continent/South-America/Honduras.internal.md|Honduras.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Honduras.protect.md|Honduras.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Honduras.private.md|Honduras.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Honduras.personal.md|Honduras.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Honduras.secret.md|Honduras.secret]] 

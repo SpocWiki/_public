@@ -29,3 +29,12 @@ markerFile: [[Minikowa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Minikowa.md|Minikowa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Minikowa.internal.md|Minikowa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Minikowa.protect.md|Minikowa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Minikowa.private.md|Minikowa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Minikowa.personal.md|Minikowa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Minikowa.secret.md|Minikowa.secret]] 

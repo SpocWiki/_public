@@ -29,3 +29,12 @@ markerFile: [[Huesca]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Huesca.md|Huesca]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Huesca.internal.md|Huesca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Huesca.protect.md|Huesca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Huesca.private.md|Huesca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Huesca.personal.md|Huesca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Huesca.secret.md|Huesca.secret]] 

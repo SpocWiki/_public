@@ -29,3 +29,12 @@ markerFile: [[Ivailovgrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.md|Ivailovgrad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.internal.md|Ivailovgrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.protect.md|Ivailovgrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.private.md|Ivailovgrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.personal.md|Ivailovgrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.secret.md|Ivailovgrad.secret]] 

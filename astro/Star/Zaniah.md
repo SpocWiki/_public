@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28168]
 [NextStarId::27564]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Zaniah.md|Zaniah]] 
+- [[../../../_internal/astro/Star/Zaniah.internal.md|Zaniah.internal]] 
+- [[../../../_protect/astro/Star/Zaniah.protect.md|Zaniah.protect]] 
+- [[../../../_private/astro/Star/Zaniah.private.md|Zaniah.private]] 
+- [[../../../_personal/astro/Star/Zaniah.personal.md|Zaniah.personal]] 
+- [[../../../_secret/astro/Star/Zaniah.secret.md|Zaniah.secret]] 

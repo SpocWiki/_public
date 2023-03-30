@@ -29,3 +29,12 @@ markerFile: [[Varese]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Varese.md|Varese]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Varese.internal.md|Varese.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Varese.protect.md|Varese.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Varese.private.md|Varese.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Varese.personal.md|Varese.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Varese.secret.md|Varese.secret]] 

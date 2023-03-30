@@ -29,3 +29,12 @@ markerFile: [[Mestre]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Mestre.md|Mestre]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mestre.internal.md|Mestre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mestre.protect.md|Mestre.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mestre.private.md|Mestre.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mestre.personal.md|Mestre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mestre.secret.md|Mestre.secret]] 

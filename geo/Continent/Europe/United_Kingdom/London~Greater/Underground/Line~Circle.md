@@ -66,3 +66,12 @@ TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
 FROM outgoing([[Sub-Circle]])
 ```
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.md|Line~Circle]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.internal.md|Line~Circle.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.protect.md|Line~Circle.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.private.md|Line~Circle.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.personal.md|Line~Circle.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.secret.md|Line~Circle.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Waltham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Waltham.md|Waltham]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Waltham.internal.md|Waltham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Waltham.protect.md|Waltham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Waltham.private.md|Waltham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Waltham.personal.md|Waltham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Waltham.secret.md|Waltham.secret]] 

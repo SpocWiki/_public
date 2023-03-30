@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_customer_remorse_return_label_source )
 ( #has_/range :: ReturnLabelSourceEnumeration )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_customer_remorse_return_label_source.md|has_customer_remorse_return_label_source]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_customer_remorse_return_label_source.internal.md|has_customer_remorse_return_label_source.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_customer_remorse_return_label_source.protect.md|has_customer_remorse_return_label_source.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_customer_remorse_return_label_source.private.md|has_customer_remorse_return_label_source.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_customer_remorse_return_label_source.personal.md|has_customer_remorse_return_label_source.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_customer_remorse_return_label_source.secret.md|has_customer_remorse_return_label_source.secret]] 

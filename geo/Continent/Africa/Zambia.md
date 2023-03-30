@@ -136,3 +136,12 @@ markerFolder: ./Zambia/City
 [geo-lon::28.2833]
 [geo-lat::-15.4167]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Zambia.md|Zambia]] 
+- [[../../../../_internal/geo/Continent/Africa/Zambia.internal.md|Zambia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Zambia.protect.md|Zambia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zambia.private.md|Zambia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zambia.personal.md|Zambia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zambia.secret.md|Zambia.secret]] 

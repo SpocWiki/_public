@@ -43,3 +43,12 @@ CompilationAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.md|compilation_album]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.internal.md|compilation_album.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.protect.md|compilation_album.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.private.md|compilation_album.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.personal.md|compilation_album.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.secret.md|compilation_album.secret]] 

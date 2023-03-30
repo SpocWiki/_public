@@ -29,3 +29,12 @@ markerFile: [[Termez]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Termez.md|Termez]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Termez.internal.md|Termez.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Termez.protect.md|Termez.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Termez.private.md|Termez.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Termez.personal.md|Termez.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Termez.secret.md|Termez.secret]] 

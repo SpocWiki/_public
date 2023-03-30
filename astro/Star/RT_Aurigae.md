@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28090]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/RT_Aurigae.md|RT_Aurigae]] 
+- [[../../../_internal/astro/Star/RT_Aurigae.internal.md|RT_Aurigae.internal]] 
+- [[../../../_protect/astro/Star/RT_Aurigae.protect.md|RT_Aurigae.protect]] 
+- [[../../../_private/astro/Star/RT_Aurigae.private.md|RT_Aurigae.private]] 
+- [[../../../_personal/astro/Star/RT_Aurigae.personal.md|RT_Aurigae.personal]] 
+- [[../../../_secret/astro/Star/RT_Aurigae.secret.md|RT_Aurigae.secret]] 

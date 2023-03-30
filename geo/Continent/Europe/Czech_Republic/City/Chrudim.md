@@ -29,3 +29,12 @@ markerFile: [[Chrudim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Chrudim.md|Chrudim]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Chrudim.internal.md|Chrudim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Chrudim.protect.md|Chrudim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Chrudim.private.md|Chrudim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Chrudim.personal.md|Chrudim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Chrudim.secret.md|Chrudim.secret]] 

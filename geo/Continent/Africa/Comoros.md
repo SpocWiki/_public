@@ -133,3 +133,12 @@ markerFolder: ./Comoros/City
 [geo-lon::-11.7]
 [geo-lat::43.25]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Comoros.md|Comoros]] 
+- [[../../../../_internal/geo/Continent/Africa/Comoros.internal.md|Comoros.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Comoros.protect.md|Comoros.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Comoros.private.md|Comoros.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Comoros.personal.md|Comoros.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Comoros.secret.md|Comoros.secret]] 

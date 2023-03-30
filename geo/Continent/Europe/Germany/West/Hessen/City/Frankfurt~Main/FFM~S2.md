@@ -39,3 +39,12 @@ markerFolder: ./Station/
 25) [[Station/S-Heusenstamm]]  
 26) [[Station/S-Dietzenbach_Mitte]]  
 27) [[Station/S-Dietzenbach_Bhf]]  
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S2.md|FFM~S2]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S2.internal.md|FFM~S2.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S2.protect.md|FFM~S2.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S2.private.md|FFM~S2.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S2.personal.md|FFM~S2.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S2.secret.md|FFM~S2.secret]] 

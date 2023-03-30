@@ -29,3 +29,12 @@ markerFile: [[Suchumkale]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Suchumkale.md|Suchumkale]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Suchumkale.internal.md|Suchumkale.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Suchumkale.protect.md|Suchumkale.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Suchumkale.private.md|Suchumkale.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Suchumkale.personal.md|Suchumkale.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Suchumkale.secret.md|Suchumkale.secret]] 

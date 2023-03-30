@@ -48,3 +48,12 @@ Note that the application of these codes is with regard to a piece of media shar
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.md|media_manipulation_rating_enumeration]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.internal.md|media_manipulation_rating_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.protect.md|media_manipulation_rating_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.private.md|media_manipulation_rating_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.personal.md|media_manipulation_rating_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.secret.md|media_manipulation_rating_enumeration.secret]] 

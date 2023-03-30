@@ -29,3 +29,12 @@ markerFile: [[Neuchátel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Neuchátel.md|Neuchátel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Neuchátel.internal.md|Neuchátel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Neuchátel.protect.md|Neuchátel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Neuchátel.private.md|Neuchátel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Neuchátel.personal.md|Neuchátel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Neuchátel.secret.md|Neuchátel.secret]] 

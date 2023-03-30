@@ -29,3 +29,12 @@ markerFile: [[Bremoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Bremoe.md|Bremoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bremoe.internal.md|Bremoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bremoe.protect.md|Bremoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bremoe.private.md|Bremoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bremoe.personal.md|Bremoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bremoe.secret.md|Bremoe.secret]] 

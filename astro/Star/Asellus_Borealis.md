@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28094]
 [NextStarId::27695]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Asellus_Borealis.md|Asellus_Borealis]] 
+- [[../../../_internal/astro/Star/Asellus_Borealis.internal.md|Asellus_Borealis.internal]] 
+- [[../../../_protect/astro/Star/Asellus_Borealis.protect.md|Asellus_Borealis.protect]] 
+- [[../../../_private/astro/Star/Asellus_Borealis.private.md|Asellus_Borealis.private]] 
+- [[../../../_personal/astro/Star/Asellus_Borealis.personal.md|Asellus_Borealis.personal]] 
+- [[../../../_secret/astro/Star/Asellus_Borealis.secret.md|Asellus_Borealis.secret]]
+

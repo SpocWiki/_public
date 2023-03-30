@@ -29,3 +29,12 @@ markerFile: [[Stara_Zagora=Eski_Zagre]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.md|Stara_Zagora=Eski_Zagre]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.internal.md|Stara_Zagora=Eski_Zagre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.protect.md|Stara_Zagora=Eski_Zagre.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.private.md|Stara_Zagora=Eski_Zagre.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.personal.md|Stara_Zagora=Eski_Zagre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.secret.md|Stara_Zagora=Eski_Zagre.secret]] 

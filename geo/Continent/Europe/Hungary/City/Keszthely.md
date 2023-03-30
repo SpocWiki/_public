@@ -29,3 +29,12 @@ markerFile: [[Keszthely]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Keszthely.md|Keszthely]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Keszthely.internal.md|Keszthely.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Keszthely.protect.md|Keszthely.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Keszthely.private.md|Keszthely.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Keszthely.personal.md|Keszthely.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Keszthely.secret.md|Keszthely.secret]] 

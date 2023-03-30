@@ -147,3 +147,12 @@ markerFolder: ./Philippines/City
 [geo-lon::120.97]
 [geo-lat::14.59]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Philippines.md|Philippines]] 
+- [[../../../../_internal/geo/Continent/Oceania/Philippines.internal.md|Philippines.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Philippines.protect.md|Philippines.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Philippines.private.md|Philippines.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Philippines.personal.md|Philippines.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Philippines.secret.md|Philippines.secret]] 

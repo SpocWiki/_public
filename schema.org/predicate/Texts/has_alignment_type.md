@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_alignment_type )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_alignment_type.md|has_alignment_type]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_alignment_type.internal.md|has_alignment_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_alignment_type.protect.md|has_alignment_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_alignment_type.private.md|has_alignment_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_alignment_type.personal.md|has_alignment_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_alignment_type.secret.md|has_alignment_type.secret]] 

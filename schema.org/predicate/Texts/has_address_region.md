@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_address_region )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_address_region.md|has_address_region]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_address_region.internal.md|has_address_region.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_address_region.protect.md|has_address_region.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_address_region.private.md|has_address_region.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_address_region.personal.md|has_address_region.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_address_region.secret.md|has_address_region.secret]] 

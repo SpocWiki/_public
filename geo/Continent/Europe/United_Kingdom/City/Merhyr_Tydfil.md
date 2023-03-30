@@ -29,3 +29,12 @@ markerFile: [[Merhyr_Tydfil]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.md|Merhyr_Tydfil]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.internal.md|Merhyr_Tydfil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.protect.md|Merhyr_Tydfil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.private.md|Merhyr_Tydfil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.personal.md|Merhyr_Tydfil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.secret.md|Merhyr_Tydfil.secret]] 

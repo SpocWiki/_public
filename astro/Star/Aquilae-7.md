@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28087]
 [NextStarId::27498]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Aquilae-7.md|Aquilae-7]] 
+- [[../../../_internal/astro/Star/Aquilae-7.internal.md|Aquilae-7.internal]] 
+- [[../../../_protect/astro/Star/Aquilae-7.protect.md|Aquilae-7.protect]] 
+- [[../../../_private/astro/Star/Aquilae-7.private.md|Aquilae-7.private]] 
+- [[../../../_personal/astro/Star/Aquilae-7.personal.md|Aquilae-7.personal]] 
+- [[../../../_secret/astro/Star/Aquilae-7.secret.md|Aquilae-7.secret]]
+

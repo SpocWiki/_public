@@ -29,3 +29,12 @@ markerFile: [[Sheffield]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sheffield.md|Sheffield]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sheffield.internal.md|Sheffield.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sheffield.protect.md|Sheffield.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sheffield.private.md|Sheffield.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sheffield.personal.md|Sheffield.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sheffield.secret.md|Sheffield.secret]] 

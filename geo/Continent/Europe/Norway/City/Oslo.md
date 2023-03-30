@@ -29,3 +29,12 @@ markerFile: [[Oslo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Oslo.md|Oslo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Oslo.internal.md|Oslo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Oslo.protect.md|Oslo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Oslo.private.md|Oslo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Oslo.personal.md|Oslo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Oslo.secret.md|Oslo.secret]] 

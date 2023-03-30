@@ -29,3 +29,12 @@ markerFile: [[Taormina]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Taormina.md|Taormina]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Taormina.internal.md|Taormina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Taormina.protect.md|Taormina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Taormina.private.md|Taormina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Taormina.personal.md|Taormina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Taormina.secret.md|Taormina.secret]] 

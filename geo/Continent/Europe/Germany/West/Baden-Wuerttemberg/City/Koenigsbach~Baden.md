@@ -28,3 +28,12 @@ markerFile: [[Koenigsbach~Baden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.md|Koenigsbach~Baden]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.internal.md|Koenigsbach~Baden.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.protect.md|Koenigsbach~Baden.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.private.md|Koenigsbach~Baden.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.personal.md|Koenigsbach~Baden.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.secret.md|Koenigsbach~Baden.secret]] 

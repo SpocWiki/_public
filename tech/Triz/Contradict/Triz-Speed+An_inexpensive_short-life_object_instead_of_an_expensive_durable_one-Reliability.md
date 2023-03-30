@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-An_inexpensive_short-life_object_instead_of_an_expensive_durable_one]]]
 - [con::[[Triz-Reliability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.md|Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.internal.md|Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.protect.md|Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.private.md|Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.personal.md|Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.secret.md|Triz-Speed+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability.secret]] 

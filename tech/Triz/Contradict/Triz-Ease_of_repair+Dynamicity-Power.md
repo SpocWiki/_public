@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Dynamicity]]]
 - [con::[[Triz-Power]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.md|Triz-Ease_of_repair+Dynamicity-Power]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.internal.md|Triz-Ease_of_repair+Dynamicity-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.protect.md|Triz-Ease_of_repair+Dynamicity-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.private.md|Triz-Ease_of_repair+Dynamicity-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.personal.md|Triz-Ease_of_repair+Dynamicity-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.secret.md|Triz-Ease_of_repair+Dynamicity-Power.secret]] 

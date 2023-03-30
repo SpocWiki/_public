@@ -29,3 +29,12 @@ markerFile: [[Teisko]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Teisko.md|Teisko]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Teisko.internal.md|Teisko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Teisko.protect.md|Teisko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Teisko.private.md|Teisko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Teisko.personal.md|Teisko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Teisko.secret.md|Teisko.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Jarnac]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Jarnac.md|Jarnac]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Jarnac.internal.md|Jarnac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Jarnac.protect.md|Jarnac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Jarnac.private.md|Jarnac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Jarnac.personal.md|Jarnac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Jarnac.secret.md|Jarnac.secret]] 

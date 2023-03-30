@@ -29,3 +29,12 @@ markerFile: [[Banja_Luka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Banja_Luka.md|Banja_Luka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Banja_Luka.internal.md|Banja_Luka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Banja_Luka.protect.md|Banja_Luka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Banja_Luka.private.md|Banja_Luka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Banja_Luka.personal.md|Banja_Luka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Banja_Luka.secret.md|Banja_Luka.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Louviers]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Louviers.md|Louviers]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Louviers.internal.md|Louviers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Louviers.protect.md|Louviers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Louviers.private.md|Louviers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Louviers.personal.md|Louviers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Louviers.secret.md|Louviers.secret]] 

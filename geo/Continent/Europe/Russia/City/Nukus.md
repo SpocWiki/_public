@@ -29,3 +29,12 @@ markerFile: [[Nukus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nukus.md|Nukus]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nukus.internal.md|Nukus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nukus.protect.md|Nukus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nukus.private.md|Nukus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nukus.personal.md|Nukus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nukus.secret.md|Nukus.secret]] 

@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_permitted_usage )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_permitted_usage.md|has_permitted_usage]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_permitted_usage.internal.md|has_permitted_usage.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_permitted_usage.protect.md|has_permitted_usage.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_permitted_usage.private.md|has_permitted_usage.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_permitted_usage.personal.md|has_permitted_usage.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_permitted_usage.secret.md|has_permitted_usage.secret]] 

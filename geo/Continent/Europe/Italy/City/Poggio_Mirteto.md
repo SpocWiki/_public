@@ -29,3 +29,12 @@ markerFile: [[Poggio_Mirteto]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Poggio_Mirteto.md|Poggio_Mirteto]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Poggio_Mirteto.internal.md|Poggio_Mirteto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Poggio_Mirteto.protect.md|Poggio_Mirteto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Poggio_Mirteto.private.md|Poggio_Mirteto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Poggio_Mirteto.personal.md|Poggio_Mirteto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Poggio_Mirteto.secret.md|Poggio_Mirteto.secret]] 

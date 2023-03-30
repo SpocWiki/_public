@@ -29,3 +29,12 @@ markerFile: [[Flying_Fish_Cove]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.md|Flying_Fish_Cove]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.internal.md|Flying_Fish_Cove.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.protect.md|Flying_Fish_Cove.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.private.md|Flying_Fish_Cove.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.personal.md|Flying_Fish_Cove.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.secret.md|Flying_Fish_Cove.secret]] 

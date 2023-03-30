@@ -347,3 +347,11 @@ filters:
   enabled: false
   conditions:
 ```
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/North-America/_North-America-CityDB.md|_North-America-CityDB]] 
+- [[../../../../_internal/geo/Continent/North-America/_North-America-CityDB.internal.md|_North-America-CityDB.internal]] 
+- [[../../../../_protect/geo/Continent/North-America/_North-America-CityDB.protect.md|_North-America-CityDB.protect]] 
+- [[../../../../_private/geo/Continent/North-America/_North-America-CityDB.private.md|_North-America-CityDB.private]] 
+- [[../../../../_personal/geo/Continent/North-America/_North-America-CityDB.personal.md|_North-America-CityDB.personal]] 
+- [[../../../../_secret/geo/Continent/North-America/_North-America-CityDB.secret.md|_North-America-CityDB.secret]] 

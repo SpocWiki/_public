@@ -129,3 +129,12 @@ markerFolder: ./Fiji/City
 [geo-lon::178.45]
 [geo-lat::-18.1667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Fiji.md|Fiji]] 
+- [[../../../../_internal/geo/Continent/Oceania/Fiji.internal.md|Fiji.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Fiji.protect.md|Fiji.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Fiji.private.md|Fiji.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Fiji.personal.md|Fiji.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Fiji.secret.md|Fiji.secret]] 

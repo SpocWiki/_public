@@ -46,3 +46,12 @@ Relation describes that:
 ( #has_/name :: is_positive_notes )
 ( #has_/range :: ItemList, ListItem, Text, WebContent )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_positive_notes.md|has_positive_notes]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_positive_notes.internal.md|has_positive_notes.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_positive_notes.protect.md|has_positive_notes.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_positive_notes.private.md|has_positive_notes.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_positive_notes.personal.md|has_positive_notes.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_positive_notes.secret.md|has_positive_notes.secret]] 

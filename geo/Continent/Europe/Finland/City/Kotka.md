@@ -29,3 +29,12 @@ markerFile: [[Kotka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kotka.md|Kotka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kotka.internal.md|Kotka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kotka.protect.md|Kotka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kotka.private.md|Kotka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kotka.personal.md|Kotka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kotka.secret.md|Kotka.secret]] 

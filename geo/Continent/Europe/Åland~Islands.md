@@ -129,3 +129,12 @@ independent	 :: Part of FI ]
 [	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
 [	Least_Developed_Countries_(LDC)	 ::  ]
 [	Small_Island_Developing_States_(SIDS)	 ::  ]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Åland~Islands.md|Åland~Islands]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands.internal.md|Åland~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands.protect.md|Åland~Islands.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands.private.md|Åland~Islands.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands.personal.md|Åland~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands.secret.md|Åland~Islands.secret]] 

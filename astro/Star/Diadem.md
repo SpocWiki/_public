@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28107]
 [NextStarId::27894]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Diadem.md|Diadem]] 
+- [[../../../_internal/astro/Star/Diadem.internal.md|Diadem.internal]] 
+- [[../../../_protect/astro/Star/Diadem.protect.md|Diadem.protect]] 
+- [[../../../_private/astro/Star/Diadem.private.md|Diadem.private]] 
+- [[../../../_personal/astro/Star/Diadem.personal.md|Diadem.personal]] 
+- [[../../../_secret/astro/Star/Diadem.secret.md|Diadem.secret]]
+

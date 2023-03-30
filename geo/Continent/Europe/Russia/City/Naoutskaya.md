@@ -29,3 +29,12 @@ markerFile: [[Naoutskaya]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Naoutskaya.md|Naoutskaya]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Naoutskaya.internal.md|Naoutskaya.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Naoutskaya.protect.md|Naoutskaya.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Naoutskaya.private.md|Naoutskaya.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Naoutskaya.personal.md|Naoutskaya.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Naoutskaya.secret.md|Naoutskaya.secret]] 

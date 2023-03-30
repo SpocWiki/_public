@@ -28,3 +28,12 @@ markerFile: [[Treuchtlingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.md|Treuchtlingen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.internal.md|Treuchtlingen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.protect.md|Treuchtlingen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.private.md|Treuchtlingen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.personal.md|Treuchtlingen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.secret.md|Treuchtlingen.secret]] 

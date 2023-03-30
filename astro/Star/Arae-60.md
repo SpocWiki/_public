@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28088]
 [NextStarId::27432]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Arae-60.md|Arae-60]] 
+- [[../../../_internal/astro/Star/Arae-60.internal.md|Arae-60.internal]] 
+- [[../../../_protect/astro/Star/Arae-60.protect.md|Arae-60.protect]] 
+- [[../../../_private/astro/Star/Arae-60.private.md|Arae-60.private]] 
+- [[../../../_personal/astro/Star/Arae-60.personal.md|Arae-60.personal]] 
+- [[../../../_secret/astro/Star/Arae-60.secret.md|Arae-60.secret]]
+

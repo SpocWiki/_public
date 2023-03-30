@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_instrument.md|has_instrument]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_instrument.internal.md|has_instrument.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_instrument.protect.md|has_instrument.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_instrument.private.md|has_instrument.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_instrument.personal.md|has_instrument.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_instrument.secret.md|has_instrument.secret]] 

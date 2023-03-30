@@ -29,3 +29,12 @@ markerFile: [[Herenthals]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Herenthals.md|Herenthals]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Herenthals.internal.md|Herenthals.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Herenthals.protect.md|Herenthals.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Herenthals.private.md|Herenthals.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Herenthals.personal.md|Herenthals.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Herenthals.secret.md|Herenthals.secret]] 

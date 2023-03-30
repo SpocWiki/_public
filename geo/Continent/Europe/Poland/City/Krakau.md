@@ -29,3 +29,12 @@ markerFile: [[Krakau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Krakau.md|Krakau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krakau.internal.md|Krakau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krakau.protect.md|Krakau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krakau.private.md|Krakau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krakau.personal.md|Krakau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krakau.secret.md|Krakau.secret]] 

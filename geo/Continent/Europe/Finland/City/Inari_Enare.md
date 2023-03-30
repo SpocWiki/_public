@@ -29,3 +29,12 @@ markerFile: [[Inari/Enare]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Inari_Enare.md|Inari_Enare]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Inari_Enare.internal.md|Inari_Enare.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Inari_Enare.protect.md|Inari_Enare.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Inari_Enare.private.md|Inari_Enare.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Inari_Enare.personal.md|Inari_Enare.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Inari_Enare.secret.md|Inari_Enare.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Lungo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Lungo.md|Lungo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lungo.internal.md|Lungo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lungo.protect.md|Lungo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Lungo.private.md|Lungo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lungo.personal.md|Lungo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lungo.secret.md|Lungo.secret]] 

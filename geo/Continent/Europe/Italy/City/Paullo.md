@@ -29,3 +29,12 @@ markerFile: [[Paullo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Paullo.md|Paullo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Paullo.internal.md|Paullo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Paullo.protect.md|Paullo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Paullo.private.md|Paullo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Paullo.personal.md|Paullo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Paullo.secret.md|Paullo.secret]] 

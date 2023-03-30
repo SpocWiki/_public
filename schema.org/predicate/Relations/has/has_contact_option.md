@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_contact_option )
 ( #has_/range :: ContactPointOption )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_contact_option.md|has_contact_option]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contact_option.internal.md|has_contact_option.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contact_option.protect.md|has_contact_option.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_contact_option.private.md|has_contact_option.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_contact_option.personal.md|has_contact_option.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_contact_option.secret.md|has_contact_option.secret]] 

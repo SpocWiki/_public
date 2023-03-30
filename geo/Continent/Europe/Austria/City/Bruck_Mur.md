@@ -28,3 +28,12 @@ markerFile: [[Bruck/Mur]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bruck_Mur.md|Bruck_Mur]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bruck_Mur.internal.md|Bruck_Mur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bruck_Mur.protect.md|Bruck_Mur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bruck_Mur.private.md|Bruck_Mur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bruck_Mur.personal.md|Bruck_Mur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bruck_Mur.secret.md|Bruck_Mur.secret]] 

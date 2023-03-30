@@ -29,3 +29,12 @@ markerFile: [[Haugsdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.md|Haugsdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.internal.md|Haugsdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.protect.md|Haugsdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.private.md|Haugsdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.personal.md|Haugsdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.secret.md|Haugsdorf.secret]] 

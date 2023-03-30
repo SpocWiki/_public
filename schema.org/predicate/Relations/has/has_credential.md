@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_credential )
 ( #has_/range :: EducationalOccupationalCredential )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_credential.md|has_credential]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_credential.internal.md|has_credential.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_credential.protect.md|has_credential.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_credential.private.md|has_credential.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_credential.personal.md|has_credential.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_credential.secret.md|has_credential.secret]] 

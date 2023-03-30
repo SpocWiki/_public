@@ -11,3 +11,12 @@ tags:
 [SpocWebEntityId::22231]
 [Popularity::26]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Principle/Triz-Thermal_expansion.md|Triz-Thermal_expansion]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Thermal_expansion.internal.md|Triz-Thermal_expansion.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Thermal_expansion.protect.md|Triz-Thermal_expansion.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Thermal_expansion.private.md|Triz-Thermal_expansion.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Thermal_expansion.personal.md|Triz-Thermal_expansion.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Thermal_expansion.secret.md|Triz-Thermal_expansion.secret]] 

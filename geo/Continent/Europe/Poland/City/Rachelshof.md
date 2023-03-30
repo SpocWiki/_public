@@ -29,3 +29,12 @@ markerFile: [[Rachelshof]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rachelshof.md|Rachelshof]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rachelshof.internal.md|Rachelshof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rachelshof.protect.md|Rachelshof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rachelshof.private.md|Rachelshof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rachelshof.personal.md|Rachelshof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rachelshof.secret.md|Rachelshof.secret]] 

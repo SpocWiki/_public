@@ -58,3 +58,13 @@ as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 > By November 2016, the International Union of Pure and Applied Chemistry had recognized a total of 118 elements. The first 94 occur naturally on Earth, and the remaining 24 are synthetic elements produced in nuclear reactions. Save for unstable radioactive elements (radionuclides) which decay quickly, nearly all of the elements are available industrially in varying amounts.  The discovery and synthesis of further new elements is an ongoing area of scientific study.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20element)
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/chemic/Elements.md|Elements]] 
+- [[../../_internal/chemic/Elements.internal.md|Elements.internal]] 
+- [[../../_protect/chemic/Elements.protect.md|Elements.protect]] 
+- [[../../_private/chemic/Elements.private.md|Elements.private]] 
+- [[../../_personal/chemic/Elements.personal.md|Elements.personal]] 
+- [[../../_secret/chemic/Elements.secret.md|Elements.secret]]
+

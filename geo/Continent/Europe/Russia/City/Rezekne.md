@@ -29,3 +29,12 @@ markerFile: [[Rezekne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Rezekne.md|Rezekne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Rezekne.internal.md|Rezekne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Rezekne.protect.md|Rezekne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Rezekne.private.md|Rezekne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Rezekne.personal.md|Rezekne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Rezekne.secret.md|Rezekne.secret]] 

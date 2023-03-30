@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_broadcast_frequency )
 ( #has_/range :: BroadcastFrequencySpecification, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_broadcast_frequency.md|has_broadcast_frequency]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_frequency.internal.md|has_broadcast_frequency.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcast_frequency.protect.md|has_broadcast_frequency.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_broadcast_frequency.private.md|has_broadcast_frequency.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_broadcast_frequency.personal.md|has_broadcast_frequency.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_broadcast_frequency.secret.md|has_broadcast_frequency.secret]] 

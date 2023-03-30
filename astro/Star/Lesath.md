@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27257]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Lesath.md|Lesath]] 
+- [[../../../_internal/astro/Star/Lesath.internal.md|Lesath.internal]] 
+- [[../../../_protect/astro/Star/Lesath.protect.md|Lesath.protect]] 
+- [[../../../_private/astro/Star/Lesath.private.md|Lesath.private]] 
+- [[../../../_personal/astro/Star/Lesath.personal.md|Lesath.personal]] 
+- [[../../../_secret/astro/Star/Lesath.secret.md|Lesath.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Liebemuehl]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Liebemuehl.md|Liebemuehl]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebemuehl.internal.md|Liebemuehl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebemuehl.protect.md|Liebemuehl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Liebemuehl.private.md|Liebemuehl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebemuehl.personal.md|Liebemuehl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebemuehl.secret.md|Liebemuehl.secret]] 

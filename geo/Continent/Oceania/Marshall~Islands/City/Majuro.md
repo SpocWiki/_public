@@ -29,3 +29,12 @@ markerFile: [[Majuro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Marshall~Islands/City/Majuro.md|Majuro]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Marshall~Islands/City/Majuro.internal.md|Majuro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Marshall~Islands/City/Majuro.protect.md|Majuro.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Marshall~Islands/City/Majuro.private.md|Majuro.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Marshall~Islands/City/Majuro.personal.md|Majuro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Marshall~Islands/City/Majuro.secret.md|Majuro.secret]] 

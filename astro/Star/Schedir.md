@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28100]
 [NextStarId::27253]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Schedir.md|Schedir]] 
+- [[../../../_internal/astro/Star/Schedir.internal.md|Schedir.internal]] 
+- [[../../../_protect/astro/Star/Schedir.protect.md|Schedir.protect]] 
+- [[../../../_private/astro/Star/Schedir.private.md|Schedir.private]] 
+- [[../../../_personal/astro/Star/Schedir.personal.md|Schedir.personal]] 
+- [[../../../_secret/astro/Star/Schedir.secret.md|Schedir.secret]] 

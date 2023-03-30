@@ -44,3 +44,12 @@ Predicate describes that:
 ( #has_/name :: is_available_generically )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_available_generically.md|is_available_generically]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_available_generically.internal.md|is_available_generically.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_available_generically.protect.md|is_available_generically.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_available_generically.private.md|is_available_generically.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_available_generically.personal.md|is_available_generically.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_available_generically.secret.md|is_available_generically.secret]] 

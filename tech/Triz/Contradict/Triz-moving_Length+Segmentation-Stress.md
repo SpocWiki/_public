@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stress.md|Triz-moving_Length+Segmentation-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stress.internal.md|Triz-moving_Length+Segmentation-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stress.protect.md|Triz-moving_Length+Segmentation-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stress.private.md|Triz-moving_Length+Segmentation-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stress.personal.md|Triz-moving_Length+Segmentation-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stress.secret.md|Triz-moving_Length+Segmentation-Stress.secret]] 

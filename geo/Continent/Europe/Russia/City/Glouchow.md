@@ -29,3 +29,12 @@ markerFile: [[Glouchow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Glouchow.md|Glouchow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Glouchow.internal.md|Glouchow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Glouchow.protect.md|Glouchow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Glouchow.private.md|Glouchow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Glouchow.personal.md|Glouchow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Glouchow.secret.md|Glouchow.secret]] 

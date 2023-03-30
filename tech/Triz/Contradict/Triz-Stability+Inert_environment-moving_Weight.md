@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inert_environment]]]
 - [con::[[Triz-moving_Weight]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Weight.md|Triz-Stability+Inert_environment-moving_Weight]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Weight.internal.md|Triz-Stability+Inert_environment-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Weight.protect.md|Triz-Stability+Inert_environment-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Weight.private.md|Triz-Stability+Inert_environment-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Weight.personal.md|Triz-Stability+Inert_environment-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Weight.secret.md|Triz-Stability+Inert_environment-moving_Weight.secret]] 

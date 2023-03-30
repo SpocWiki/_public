@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28151]
 [NextStarId::27600]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Pyxidis-2.md|Pyxidis-2]] 
+- [[../../../_internal/astro/Star/Pyxidis-2.internal.md|Pyxidis-2.internal]] 
+- [[../../../_protect/astro/Star/Pyxidis-2.protect.md|Pyxidis-2.protect]] 
+- [[../../../_private/astro/Star/Pyxidis-2.private.md|Pyxidis-2.private]] 
+- [[../../../_personal/astro/Star/Pyxidis-2.personal.md|Pyxidis-2.personal]] 
+- [[../../../_secret/astro/Star/Pyxidis-2.secret.md|Pyxidis-2.secret]] 

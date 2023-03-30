@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28121]
 [NextStarId::27784]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alnair.md|Alnair]] 
+- [[../../../_internal/astro/Star/Alnair.internal.md|Alnair.internal]] 
+- [[../../../_protect/astro/Star/Alnair.protect.md|Alnair.protect]] 
+- [[../../../_private/astro/Star/Alnair.private.md|Alnair.private]] 
+- [[../../../_personal/astro/Star/Alnair.personal.md|Alnair.personal]] 
+- [[../../../_secret/astro/Star/Alnair.secret.md|Alnair.secret]]
+

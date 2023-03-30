@@ -29,3 +29,12 @@ markerFile: [[Picerno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Picerno.md|Picerno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Picerno.internal.md|Picerno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Picerno.protect.md|Picerno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Picerno.private.md|Picerno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Picerno.personal.md|Picerno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Picerno.secret.md|Picerno.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Dziergovitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Dziergovitz.md|Dziergovitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dziergovitz.internal.md|Dziergovitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dziergovitz.protect.md|Dziergovitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dziergovitz.private.md|Dziergovitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dziergovitz.personal.md|Dziergovitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dziergovitz.secret.md|Dziergovitz.secret]] 

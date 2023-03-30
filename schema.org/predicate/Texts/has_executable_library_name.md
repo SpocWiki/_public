@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_executable_library_name )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_executable_library_name.md|has_executable_library_name]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_executable_library_name.internal.md|has_executable_library_name.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_executable_library_name.protect.md|has_executable_library_name.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_executable_library_name.private.md|has_executable_library_name.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_executable_library_name.personal.md|has_executable_library_name.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_executable_library_name.secret.md|has_executable_library_name.secret]] 

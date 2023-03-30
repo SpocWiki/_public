@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
 - [con::[[Triz-stationary_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.md|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.internal.md|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.protect.md|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.private.md|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.personal.md|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.secret.md|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.secret]] 

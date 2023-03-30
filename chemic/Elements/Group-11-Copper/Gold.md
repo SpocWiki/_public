@@ -36,3 +36,12 @@ SpocWebEntityId: 17995
 > [Wikipedia](https://en.wikipedia.org/wiki/Gold)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-11-Copper/Gold.md|Gold]] 
+- [[../../../../_internal/chemic/Elements/Group-11-Copper/Gold.internal.md|Gold.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-11-Copper/Gold.protect.md|Gold.protect]] 
+- [[../../../../_private/chemic/Elements/Group-11-Copper/Gold.private.md|Gold.private]] 
+- [[../../../../_personal/chemic/Elements/Group-11-Copper/Gold.personal.md|Gold.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-11-Copper/Gold.secret.md|Gold.secret]] 

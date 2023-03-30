@@ -29,3 +29,12 @@ markerFile: [[Westervik]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Westervik.md|Westervik]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Westervik.internal.md|Westervik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Westervik.protect.md|Westervik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Westervik.private.md|Westervik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Westervik.personal.md|Westervik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Westervik.secret.md|Westervik.secret]] 

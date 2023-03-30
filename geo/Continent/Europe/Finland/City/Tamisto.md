@@ -29,3 +29,12 @@ markerFile: [[Tamisto]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Tamisto.md|Tamisto]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tamisto.internal.md|Tamisto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tamisto.protect.md|Tamisto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tamisto.private.md|Tamisto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tamisto.personal.md|Tamisto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tamisto.secret.md|Tamisto.secret]] 

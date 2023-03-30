@@ -29,3 +29,12 @@ markerFile: [[Gross-Olbersdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.md|Gross-Olbersdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.internal.md|Gross-Olbersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.protect.md|Gross-Olbersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.private.md|Gross-Olbersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.personal.md|Gross-Olbersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.secret.md|Gross-Olbersdorf.secret]] 

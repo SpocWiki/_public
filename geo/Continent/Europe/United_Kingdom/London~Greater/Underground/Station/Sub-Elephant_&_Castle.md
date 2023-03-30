@@ -29,3 +29,12 @@ markerFile: [[Sub-Elephant_&_Castle]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Elephant_&_Castle.md|Sub-Elephant_&_Castle]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Elephant_&_Castle.internal.md|Sub-Elephant_&_Castle.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Elephant_&_Castle.protect.md|Sub-Elephant_&_Castle.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Elephant_&_Castle.private.md|Sub-Elephant_&_Castle.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Elephant_&_Castle.personal.md|Sub-Elephant_&_Castle.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Elephant_&_Castle.secret.md|Sub-Elephant_&_Castle.secret]] 

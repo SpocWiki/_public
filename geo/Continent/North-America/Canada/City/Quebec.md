@@ -29,3 +29,12 @@ markerFile: [[Quebec]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/Quebec.md|Quebec]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Quebec.internal.md|Quebec.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Quebec.protect.md|Quebec.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Quebec.private.md|Quebec.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Quebec.personal.md|Quebec.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Quebec.secret.md|Quebec.secret]] 

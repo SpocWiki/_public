@@ -29,3 +29,12 @@ markerFile: [[Molotow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Molotow.md|Molotow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Molotow.internal.md|Molotow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Molotow.protect.md|Molotow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Molotow.private.md|Molotow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Molotow.personal.md|Molotow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Molotow.secret.md|Molotow.secret]] 

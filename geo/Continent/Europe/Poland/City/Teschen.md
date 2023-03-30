@@ -29,3 +29,12 @@ markerFile: [[Teschen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Teschen.md|Teschen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Teschen.internal.md|Teschen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Teschen.protect.md|Teschen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Teschen.private.md|Teschen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Teschen.personal.md|Teschen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Teschen.secret.md|Teschen.secret]] 

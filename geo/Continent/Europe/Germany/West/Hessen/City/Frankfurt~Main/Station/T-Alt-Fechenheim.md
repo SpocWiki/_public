@@ -24,3 +24,12 @@ markerFile: [[T-Alt-Fechenheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.md|T-Alt-Fechenheim]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.internal.md|T-Alt-Fechenheim.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.protect.md|T-Alt-Fechenheim.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.private.md|T-Alt-Fechenheim.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.personal.md|T-Alt-Fechenheim.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.secret.md|T-Alt-Fechenheim.secret]] 

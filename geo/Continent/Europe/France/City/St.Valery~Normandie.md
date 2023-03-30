@@ -29,3 +29,12 @@ markerFile: [[St.Valery~Normandie]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Valery~Normandie.md|St.Valery~Normandie]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Valery~Normandie.internal.md|St.Valery~Normandie.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Valery~Normandie.protect.md|St.Valery~Normandie.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Valery~Normandie.private.md|St.Valery~Normandie.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Valery~Normandie.personal.md|St.Valery~Normandie.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Valery~Normandie.secret.md|St.Valery~Normandie.secret]] 

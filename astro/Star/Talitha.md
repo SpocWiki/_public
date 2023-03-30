@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Talitha.md|Talitha]] 
+- [[../../../_internal/astro/Star/Talitha.internal.md|Talitha.internal]] 
+- [[../../../_protect/astro/Star/Talitha.protect.md|Talitha.protect]] 
+- [[../../../_private/astro/Star/Talitha.private.md|Talitha.private]] 
+- [[../../../_personal/astro/Star/Talitha.personal.md|Talitha.personal]] 
+- [[../../../_secret/astro/Star/Talitha.secret.md|Talitha.secret]] 

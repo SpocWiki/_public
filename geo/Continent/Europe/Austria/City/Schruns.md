@@ -29,3 +29,12 @@ markerFile: [[Schruns]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schruns.md|Schruns]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schruns.internal.md|Schruns.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schruns.protect.md|Schruns.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schruns.private.md|Schruns.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schruns.personal.md|Schruns.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schruns.secret.md|Schruns.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Balassagyaramat]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Balassagyaramat.md|Balassagyaramat]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Balassagyaramat.internal.md|Balassagyaramat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Balassagyaramat.protect.md|Balassagyaramat.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Balassagyaramat.private.md|Balassagyaramat.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Balassagyaramat.personal.md|Balassagyaramat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Balassagyaramat.secret.md|Balassagyaramat.secret]] 

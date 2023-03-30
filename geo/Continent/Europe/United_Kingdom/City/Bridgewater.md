@@ -29,3 +29,12 @@ markerFile: [[Bridgewater]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bridgewater.md|Bridgewater]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bridgewater.internal.md|Bridgewater.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bridgewater.protect.md|Bridgewater.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bridgewater.private.md|Bridgewater.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bridgewater.personal.md|Bridgewater.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bridgewater.secret.md|Bridgewater.secret]] 

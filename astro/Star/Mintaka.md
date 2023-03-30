@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::27236]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Mintaka.md|Mintaka]] 
+- [[../../../_internal/astro/Star/Mintaka.internal.md|Mintaka.internal]] 
+- [[../../../_protect/astro/Star/Mintaka.protect.md|Mintaka.protect]] 
+- [[../../../_private/astro/Star/Mintaka.private.md|Mintaka.private]] 
+- [[../../../_personal/astro/Star/Mintaka.personal.md|Mintaka.personal]] 
+- [[../../../_secret/astro/Star/Mintaka.secret.md|Mintaka.secret]] 

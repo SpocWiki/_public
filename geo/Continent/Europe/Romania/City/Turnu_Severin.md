@@ -29,3 +29,12 @@ markerFile: [[Turnu_Severin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Turnu_Severin.md|Turnu_Severin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Turnu_Severin.internal.md|Turnu_Severin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Turnu_Severin.protect.md|Turnu_Severin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Turnu_Severin.private.md|Turnu_Severin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Turnu_Severin.personal.md|Turnu_Severin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Turnu_Severin.secret.md|Turnu_Severin.secret]] 

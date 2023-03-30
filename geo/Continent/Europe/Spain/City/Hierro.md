@@ -29,3 +29,12 @@ markerFile: [[Hierro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Hierro.md|Hierro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Hierro.internal.md|Hierro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Hierro.protect.md|Hierro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Hierro.private.md|Hierro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Hierro.personal.md|Hierro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Hierro.secret.md|Hierro.secret]] 

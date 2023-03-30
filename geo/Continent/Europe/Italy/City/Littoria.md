@@ -29,3 +29,12 @@ markerFile: [[Littoria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Littoria.md|Littoria]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Littoria.internal.md|Littoria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Littoria.protect.md|Littoria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Littoria.private.md|Littoria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Littoria.personal.md|Littoria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Littoria.secret.md|Littoria.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Oeregrund]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Oeregrund.md|Oeregrund]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oeregrund.internal.md|Oeregrund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oeregrund.protect.md|Oeregrund.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Oeregrund.private.md|Oeregrund.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oeregrund.personal.md|Oeregrund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oeregrund.secret.md|Oeregrund.secret]] 

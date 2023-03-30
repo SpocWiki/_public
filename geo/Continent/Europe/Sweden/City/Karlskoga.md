@@ -29,3 +29,12 @@ markerFile: [[Karlskoga]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Karlskoga.md|Karlskoga]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Karlskoga.internal.md|Karlskoga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Karlskoga.protect.md|Karlskoga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Karlskoga.private.md|Karlskoga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Karlskoga.personal.md|Karlskoga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Karlskoga.secret.md|Karlskoga.secret]] 

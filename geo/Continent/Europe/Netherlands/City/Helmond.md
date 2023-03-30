@@ -29,3 +29,12 @@ markerFile: [[Helmond]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Helmond.md|Helmond]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Helmond.internal.md|Helmond.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Helmond.protect.md|Helmond.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Helmond.private.md|Helmond.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Helmond.personal.md|Helmond.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Helmond.secret.md|Helmond.secret]] 

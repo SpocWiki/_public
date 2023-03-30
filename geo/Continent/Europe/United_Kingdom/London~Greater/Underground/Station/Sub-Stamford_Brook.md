@@ -29,3 +29,12 @@ markerFile: [[Sub-Stamford_Brook]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.md|Sub-Stamford_Brook]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.internal.md|Sub-Stamford_Brook.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.protect.md|Sub-Stamford_Brook.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.private.md|Sub-Stamford_Brook.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.personal.md|Sub-Stamford_Brook.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.secret.md|Sub-Stamford_Brook.secret]] 

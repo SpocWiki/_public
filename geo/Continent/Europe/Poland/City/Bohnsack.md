@@ -29,3 +29,12 @@ markerFile: [[Bohnsack]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bohnsack.md|Bohnsack]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bohnsack.internal.md|Bohnsack.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bohnsack.protect.md|Bohnsack.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bohnsack.private.md|Bohnsack.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bohnsack.personal.md|Bohnsack.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bohnsack.secret.md|Bohnsack.secret]] 

@@ -45,3 +45,12 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/boat_reservation.md|boat_reservation]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/boat_reservation.internal.md|boat_reservation.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/boat_reservation.protect.md|boat_reservation.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/boat_reservation.private.md|boat_reservation.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/boat_reservation.personal.md|boat_reservation.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/boat_reservation.secret.md|boat_reservation.secret]] 

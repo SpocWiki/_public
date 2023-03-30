@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Dynamicity]]]
 - [con::[[Triz-stationary_Length]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Dynamicity-stationary_Length.md|Triz-Temperature+Dynamicity-stationary_Length]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Dynamicity-stationary_Length.internal.md|Triz-Temperature+Dynamicity-stationary_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Dynamicity-stationary_Length.protect.md|Triz-Temperature+Dynamicity-stationary_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Dynamicity-stationary_Length.private.md|Triz-Temperature+Dynamicity-stationary_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Dynamicity-stationary_Length.personal.md|Triz-Temperature+Dynamicity-stationary_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Dynamicity-stationary_Length.secret.md|Triz-Temperature+Dynamicity-stationary_Length.secret]] 

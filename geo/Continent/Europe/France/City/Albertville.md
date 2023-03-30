@@ -29,3 +29,12 @@ markerFile: [[Albertville]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Albertville.md|Albertville]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Albertville.internal.md|Albertville.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Albertville.protect.md|Albertville.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Albertville.private.md|Albertville.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Albertville.personal.md|Albertville.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Albertville.secret.md|Albertville.secret]] 

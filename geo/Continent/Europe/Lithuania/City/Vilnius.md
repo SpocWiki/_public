@@ -29,3 +29,12 @@ markerFile: [[Vilnius]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Lithuania/City/Vilnius.md|Vilnius]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Lithuania/City/Vilnius.internal.md|Vilnius.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Lithuania/City/Vilnius.protect.md|Vilnius.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Lithuania/City/Vilnius.private.md|Vilnius.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Lithuania/City/Vilnius.personal.md|Vilnius.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Lithuania/City/Vilnius.secret.md|Vilnius.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Shepetovka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Shepetovka.md|Shepetovka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Shepetovka.internal.md|Shepetovka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Shepetovka.protect.md|Shepetovka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Shepetovka.private.md|Shepetovka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Shepetovka.personal.md|Shepetovka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Shepetovka.secret.md|Shepetovka.secret]] 

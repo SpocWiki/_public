@@ -29,3 +29,12 @@ markerFile: [[Oryol]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Oryol.md|Oryol]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Oryol.internal.md|Oryol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Oryol.protect.md|Oryol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Oryol.private.md|Oryol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Oryol.personal.md|Oryol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Oryol.secret.md|Oryol.secret]] 

@@ -33,3 +33,11 @@ SpocWebEntityId: 21913
 > By means of the sodium-potassium pump, living human cells pump three sodium ions out of the cell in exchange for two potassium ions pumped in; comparing ion concentrations across the cell membrane, inside to outside, potassium measures about 40:1, and sodium, about 1:10. In nerve cells, the electrical charge across the cell membrane enables transmission of the nerve impulse—an action potential—when the charge is dissipated; sodium plays a key role in that activity.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-01-Alkali/Sodium.md|Sodium]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Sodium.internal.md|Sodium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Sodium.protect.md|Sodium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Sodium.private.md|Sodium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Sodium.personal.md|Sodium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Sodium.secret.md|Sodium.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Pilsen=Plzen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.md|Pilsen=Plzen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.internal.md|Pilsen=Plzen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.protect.md|Pilsen=Plzen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.private.md|Pilsen=Plzen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.personal.md|Pilsen=Plzen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.secret.md|Pilsen=Plzen.secret]] 

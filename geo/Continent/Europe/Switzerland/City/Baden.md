@@ -29,3 +29,12 @@ markerFile: [[Baden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Baden.md|Baden]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Baden.internal.md|Baden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Baden.protect.md|Baden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Baden.private.md|Baden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Baden.personal.md|Baden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Baden.secret.md|Baden.secret]] 

@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28130]
 [NextStarId::27329]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Leporis-12.md|Leporis-12]] 
+- [[../../../_internal/astro/Star/Leporis-12.internal.md|Leporis-12.internal]] 
+- [[../../../_protect/astro/Star/Leporis-12.protect.md|Leporis-12.protect]] 
+- [[../../../_private/astro/Star/Leporis-12.private.md|Leporis-12.private]] 
+- [[../../../_personal/astro/Star/Leporis-12.personal.md|Leporis-12.personal]] 
+- [[../../../_secret/astro/Star/Leporis-12.secret.md|Leporis-12.secret]] 

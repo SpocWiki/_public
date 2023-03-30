@@ -29,3 +29,12 @@ markerFile: [[Vergorac]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Vergorac.md|Vergorac]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Vergorac.internal.md|Vergorac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Vergorac.protect.md|Vergorac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Vergorac.private.md|Vergorac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Vergorac.personal.md|Vergorac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Vergorac.secret.md|Vergorac.secret]] 

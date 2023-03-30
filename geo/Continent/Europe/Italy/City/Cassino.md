@@ -29,3 +29,12 @@ markerFile: [[Cassino]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cassino.md|Cassino]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cassino.internal.md|Cassino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cassino.protect.md|Cassino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cassino.private.md|Cassino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cassino.personal.md|Cassino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cassino.secret.md|Cassino.secret]] 

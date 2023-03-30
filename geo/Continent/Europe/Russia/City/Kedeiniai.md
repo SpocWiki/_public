@@ -29,3 +29,12 @@ markerFile: [[Kedeiniai]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kedeiniai.md|Kedeiniai]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kedeiniai.internal.md|Kedeiniai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kedeiniai.protect.md|Kedeiniai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kedeiniai.private.md|Kedeiniai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kedeiniai.personal.md|Kedeiniai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kedeiniai.secret.md|Kedeiniai.secret]] 

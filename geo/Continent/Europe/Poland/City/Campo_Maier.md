@@ -29,3 +29,12 @@ markerFile: [[Campo_Maier]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Campo_Maier.md|Campo_Maier]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Campo_Maier.internal.md|Campo_Maier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Campo_Maier.protect.md|Campo_Maier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Campo_Maier.private.md|Campo_Maier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Campo_Maier.personal.md|Campo_Maier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Campo_Maier.secret.md|Campo_Maier.secret]] 

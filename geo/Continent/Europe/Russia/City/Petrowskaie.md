@@ -29,3 +29,12 @@ markerFile: [[Petrowskaie]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petrowskaie.md|Petrowskaie]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrowskaie.internal.md|Petrowskaie.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrowskaie.protect.md|Petrowskaie.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrowskaie.private.md|Petrowskaie.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrowskaie.personal.md|Petrowskaie.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrowskaie.secret.md|Petrowskaie.secret]] 

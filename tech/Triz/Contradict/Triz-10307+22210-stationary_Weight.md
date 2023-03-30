@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22210]]]
 - [con::[[Triz-stationary_Weight]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.md|Triz-10307+22210-stationary_Weight]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.internal.md|Triz-10307+22210-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.protect.md|Triz-10307+22210-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.private.md|Triz-10307+22210-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.personal.md|Triz-10307+22210-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22210-stationary_Weight.secret.md|Triz-10307+22210-stationary_Weight.secret]] 

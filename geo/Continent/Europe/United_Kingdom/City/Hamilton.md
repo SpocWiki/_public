@@ -29,3 +29,12 @@ markerFile: [[Hamilton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hamilton.md|Hamilton]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hamilton.internal.md|Hamilton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hamilton.protect.md|Hamilton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hamilton.private.md|Hamilton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hamilton.personal.md|Hamilton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hamilton.secret.md|Hamilton.secret]] 

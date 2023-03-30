@@ -29,3 +29,12 @@ markerFile: [[Assen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Assen.md|Assen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Assen.internal.md|Assen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Assen.protect.md|Assen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Assen.private.md|Assen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Assen.personal.md|Assen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Assen.secret.md|Assen.secret]] 

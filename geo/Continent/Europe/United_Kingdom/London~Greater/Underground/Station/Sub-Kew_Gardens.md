@@ -29,3 +29,12 @@ markerFile: [[Sub-Kew_Gardens]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.md|Sub-Kew_Gardens]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.internal.md|Sub-Kew_Gardens.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.protect.md|Sub-Kew_Gardens.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.private.md|Sub-Kew_Gardens.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.personal.md|Sub-Kew_Gardens.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.secret.md|Sub-Kew_Gardens.secret]] 

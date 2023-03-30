@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28109]
 [NextStarId::27852]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Coronae_Borealis-4.md|Coronae_Borealis-4]] 
+- [[../../../_internal/astro/Star/Coronae_Borealis-4.internal.md|Coronae_Borealis-4.internal]] 
+- [[../../../_protect/astro/Star/Coronae_Borealis-4.protect.md|Coronae_Borealis-4.protect]] 
+- [[../../../_private/astro/Star/Coronae_Borealis-4.private.md|Coronae_Borealis-4.private]] 
+- [[../../../_personal/astro/Star/Coronae_Borealis-4.personal.md|Coronae_Borealis-4.personal]] 
+- [[../../../_secret/astro/Star/Coronae_Borealis-4.secret.md|Coronae_Borealis-4.secret]]
+

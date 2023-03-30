@@ -43,3 +43,12 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.md|cardiovascular]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.internal.md|cardiovascular.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.protect.md|cardiovascular.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.private.md|cardiovascular.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.personal.md|cardiovascular.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.secret.md|cardiovascular.secret]] 

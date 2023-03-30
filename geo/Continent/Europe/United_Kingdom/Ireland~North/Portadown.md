@@ -29,3 +29,12 @@ markerFile: [[Portadown]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.md|Portadown]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.internal.md|Portadown.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.protect.md|Portadown.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.private.md|Portadown.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.personal.md|Portadown.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.secret.md|Portadown.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Mlada_Boleslaw]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.md|Mlada_Boleslaw]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.internal.md|Mlada_Boleslaw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.protect.md|Mlada_Boleslaw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.private.md|Mlada_Boleslaw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.personal.md|Mlada_Boleslaw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Mlada_Boleslaw.secret.md|Mlada_Boleslaw.secret]] 

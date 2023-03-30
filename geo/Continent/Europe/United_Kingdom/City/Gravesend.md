@@ -29,3 +29,12 @@ markerFile: [[Gravesend]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gravesend.md|Gravesend]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gravesend.internal.md|Gravesend.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gravesend.protect.md|Gravesend.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gravesend.private.md|Gravesend.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gravesend.personal.md|Gravesend.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gravesend.secret.md|Gravesend.secret]] 

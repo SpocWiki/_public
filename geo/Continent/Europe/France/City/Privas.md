@@ -29,3 +29,12 @@ markerFile: [[Privas]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Privas.md|Privas]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Privas.internal.md|Privas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Privas.protect.md|Privas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Privas.private.md|Privas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Privas.personal.md|Privas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Privas.secret.md|Privas.secret]] 

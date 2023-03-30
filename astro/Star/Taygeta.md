@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Taygeta.md|Taygeta]] 
+- [[../../../_internal/astro/Star/Taygeta.internal.md|Taygeta.internal]] 
+- [[../../../_protect/astro/Star/Taygeta.protect.md|Taygeta.protect]] 
+- [[../../../_private/astro/Star/Taygeta.private.md|Taygeta.private]] 
+- [[../../../_personal/astro/Star/Taygeta.personal.md|Taygeta.personal]] 
+- [[../../../_secret/astro/Star/Taygeta.secret.md|Taygeta.secret]] 

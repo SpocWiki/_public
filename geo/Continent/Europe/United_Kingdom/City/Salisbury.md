@@ -29,3 +29,12 @@ markerFile: [[Salisbury]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Salisbury.md|Salisbury]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Salisbury.internal.md|Salisbury.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Salisbury.protect.md|Salisbury.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Salisbury.private.md|Salisbury.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Salisbury.personal.md|Salisbury.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Salisbury.secret.md|Salisbury.secret]] 

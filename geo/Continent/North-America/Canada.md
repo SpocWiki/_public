@@ -132,3 +132,12 @@ markerFolder: ./Canada/City
 [geo-lon::-87.1444]
 [geo-lat::50.4137]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/North-America/Canada.md|Canada]] 
+- [[../../../../_internal/geo/Continent/North-America/Canada.internal.md|Canada.internal]] 
+- [[../../../../_protect/geo/Continent/North-America/Canada.protect.md|Canada.protect]] 
+- [[../../../../_private/geo/Continent/North-America/Canada.private.md|Canada.private]] 
+- [[../../../../_personal/geo/Continent/North-America/Canada.personal.md|Canada.personal]] 
+- [[../../../../_secret/geo/Continent/North-America/Canada.secret.md|Canada.secret]] 

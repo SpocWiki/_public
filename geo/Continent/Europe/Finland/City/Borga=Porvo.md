@@ -29,3 +29,12 @@ markerFile: [[Borga=Porvo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Borga=Porvo.md|Borga=Porvo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Borga=Porvo.internal.md|Borga=Porvo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Borga=Porvo.protect.md|Borga=Porvo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Borga=Porvo.private.md|Borga=Porvo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Borga=Porvo.personal.md|Borga=Porvo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Borga=Porvo.secret.md|Borga=Porvo.secret]] 

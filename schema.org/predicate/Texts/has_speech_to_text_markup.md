@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_speech_to_text_markup )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_speech_to_text_markup.md|has_speech_to_text_markup]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_speech_to_text_markup.internal.md|has_speech_to_text_markup.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_speech_to_text_markup.protect.md|has_speech_to_text_markup.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_speech_to_text_markup.private.md|has_speech_to_text_markup.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_speech_to_text_markup.personal.md|has_speech_to_text_markup.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_speech_to_text_markup.secret.md|has_speech_to_text_markup.secret]] 

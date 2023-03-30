@@ -135,3 +135,12 @@ markerFolder: ./Turkey/City
 [geo-lon::32.37]
 [geo-lat::39.3233]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Turkey.md|Turkey]] 
+- [[../../../../_internal/geo/Continent/Europe/Turkey.internal.md|Turkey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Turkey.protect.md|Turkey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Turkey.private.md|Turkey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Turkey.personal.md|Turkey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Turkey.secret.md|Turkey.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Alland]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Alland.md|Alland]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Alland.internal.md|Alland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Alland.protect.md|Alland.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Alland.private.md|Alland.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Alland.personal.md|Alland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Alland.secret.md|Alland.secret]] 

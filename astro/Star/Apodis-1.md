@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28085]
 [NextStarId::27860]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Apodis-1.md|Apodis-1]] 
+- [[../../../_internal/astro/Star/Apodis-1.internal.md|Apodis-1.internal]] 
+- [[../../../_protect/astro/Star/Apodis-1.protect.md|Apodis-1.protect]] 
+- [[../../../_private/astro/Star/Apodis-1.private.md|Apodis-1.private]] 
+- [[../../../_personal/astro/Star/Apodis-1.personal.md|Apodis-1.personal]] 
+- [[../../../_secret/astro/Star/Apodis-1.secret.md|Apodis-1.secret]]
+

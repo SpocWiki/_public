@@ -28,3 +28,12 @@ markerFile: [[Pittsburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.md|Pittsburg]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.internal.md|Pittsburg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.protect.md|Pittsburg.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.private.md|Pittsburg.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.personal.md|Pittsburg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.secret.md|Pittsburg.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Torpa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Torpa.md|Torpa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Torpa.internal.md|Torpa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Torpa.protect.md|Torpa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Torpa.private.md|Torpa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Torpa.personal.md|Torpa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Torpa.secret.md|Torpa.secret]] 

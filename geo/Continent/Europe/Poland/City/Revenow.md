@@ -29,3 +29,12 @@ markerFile: [[Revenow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Revenow.md|Revenow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Revenow.internal.md|Revenow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Revenow.protect.md|Revenow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Revenow.private.md|Revenow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Revenow.personal.md|Revenow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Revenow.secret.md|Revenow.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Luton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Luton.md|Luton]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Luton.internal.md|Luton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Luton.protect.md|Luton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Luton.private.md|Luton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Luton.personal.md|Luton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Luton.secret.md|Luton.secret]] 

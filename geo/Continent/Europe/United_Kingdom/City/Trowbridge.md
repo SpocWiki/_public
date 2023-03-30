@@ -29,3 +29,12 @@ markerFile: [[Trowbridge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Trowbridge.md|Trowbridge]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Trowbridge.internal.md|Trowbridge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Trowbridge.protect.md|Trowbridge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Trowbridge.private.md|Trowbridge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Trowbridge.personal.md|Trowbridge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Trowbridge.secret.md|Trowbridge.secret]] 

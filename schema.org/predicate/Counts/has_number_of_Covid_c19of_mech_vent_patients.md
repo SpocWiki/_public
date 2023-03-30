@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_Covid_c19of_mech_vent_patients )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_Covid_c19of_mech_vent_patients.md|has_number_of_Covid_c19of_mech_vent_patients]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_c19of_mech_vent_patients.internal.md|has_number_of_Covid_c19of_mech_vent_patients.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_Covid_c19of_mech_vent_patients.protect.md|has_number_of_Covid_c19of_mech_vent_patients.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_Covid_c19of_mech_vent_patients.private.md|has_number_of_Covid_c19of_mech_vent_patients.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_Covid_c19of_mech_vent_patients.personal.md|has_number_of_Covid_c19of_mech_vent_patients.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_Covid_c19of_mech_vent_patients.secret.md|has_number_of_Covid_c19of_mech_vent_patients.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Lauffen~Neckar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.md|Lauffen~Neckar]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.internal.md|Lauffen~Neckar.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.protect.md|Lauffen~Neckar.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.private.md|Lauffen~Neckar.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.personal.md|Lauffen~Neckar.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.secret.md|Lauffen~Neckar.secret]] 

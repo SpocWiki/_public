@@ -29,3 +29,12 @@ markerFile: [[Dushanbe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Tajikistan/City/Dushanbe.md|Dushanbe]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Tajikistan/City/Dushanbe.internal.md|Dushanbe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Tajikistan/City/Dushanbe.protect.md|Dushanbe.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Tajikistan/City/Dushanbe.private.md|Dushanbe.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Tajikistan/City/Dushanbe.personal.md|Dushanbe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Tajikistan/City/Dushanbe.secret.md|Dushanbe.secret]] 

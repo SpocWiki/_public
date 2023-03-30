@@ -43,3 +43,12 @@ Uses devices to support users with hearing impairments.
 
 [ #is_/enum_of :: [[../ContactPointOption]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.md|hearing_impaired_supported]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.internal.md|hearing_impaired_supported.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.protect.md|hearing_impaired_supported.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.private.md|hearing_impaired_supported.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.personal.md|hearing_impaired_supported.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.secret.md|hearing_impaired_supported.secret]] 

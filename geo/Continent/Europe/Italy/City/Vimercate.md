@@ -29,3 +29,12 @@ markerFile: [[Vimercate]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Vimercate.md|Vimercate]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vimercate.internal.md|Vimercate.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vimercate.protect.md|Vimercate.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vimercate.private.md|Vimercate.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vimercate.personal.md|Vimercate.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vimercate.secret.md|Vimercate.secret]] 

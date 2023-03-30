@@ -29,3 +29,12 @@ markerFile: [[Haellnaes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Haellnaes.md|Haellnaes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haellnaes.internal.md|Haellnaes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haellnaes.protect.md|Haellnaes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Haellnaes.private.md|Haellnaes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haellnaes.personal.md|Haellnaes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haellnaes.secret.md|Haellnaes.secret]] 

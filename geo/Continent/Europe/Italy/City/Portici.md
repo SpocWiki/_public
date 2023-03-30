@@ -29,3 +29,12 @@ markerFile: [[Portici]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Portici.md|Portici]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Portici.internal.md|Portici.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Portici.protect.md|Portici.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Portici.private.md|Portici.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Portici.personal.md|Portici.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Portici.secret.md|Portici.secret]] 

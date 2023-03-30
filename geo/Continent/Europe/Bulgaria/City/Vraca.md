@@ -29,3 +29,12 @@ markerFile: [[Vraca]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Vraca.md|Vraca]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Vraca.internal.md|Vraca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Vraca.protect.md|Vraca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Vraca.private.md|Vraca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Vraca.personal.md|Vraca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Vraca.secret.md|Vraca.secret]] 

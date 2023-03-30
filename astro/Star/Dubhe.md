@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::27458]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Dubhe.md|Dubhe]] 
+- [[../../../_internal/astro/Star/Dubhe.internal.md|Dubhe.internal]] 
+- [[../../../_protect/astro/Star/Dubhe.protect.md|Dubhe.protect]] 
+- [[../../../_private/astro/Star/Dubhe.private.md|Dubhe.private]] 
+- [[../../../_personal/astro/Star/Dubhe.personal.md|Dubhe.personal]] 
+- [[../../../_secret/astro/Star/Dubhe.secret.md|Dubhe.secret]]
+

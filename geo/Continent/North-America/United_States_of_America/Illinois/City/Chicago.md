@@ -28,3 +28,12 @@ markerFile: [[Chicago]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Illinois/City/Chicago.md|Chicago]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Illinois/City/Chicago.internal.md|Chicago.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Illinois/City/Chicago.protect.md|Chicago.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Illinois/City/Chicago.private.md|Chicago.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Illinois/City/Chicago.personal.md|Chicago.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Illinois/City/Chicago.secret.md|Chicago.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[San_Francisco]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.md|San_Francisco]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.internal.md|San_Francisco.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.protect.md|San_Francisco.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.private.md|San_Francisco.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.personal.md|San_Francisco.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.secret.md|San_Francisco.secret]] 

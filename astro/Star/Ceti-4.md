@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28103]
 [NextStarId::27278]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Ceti-4.md|Ceti-4]] 
+- [[../../../_internal/astro/Star/Ceti-4.internal.md|Ceti-4.internal]] 
+- [[../../../_protect/astro/Star/Ceti-4.protect.md|Ceti-4.protect]] 
+- [[../../../_private/astro/Star/Ceti-4.private.md|Ceti-4.private]] 
+- [[../../../_personal/astro/Star/Ceti-4.personal.md|Ceti-4.personal]] 
+- [[../../../_secret/astro/Star/Ceti-4.secret.md|Ceti-4.secret]]
+

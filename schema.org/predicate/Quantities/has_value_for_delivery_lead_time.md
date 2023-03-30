@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_delivery_lead_time )
 ( #has_/range :: QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_delivery_lead_time.md|has_value_for_delivery_lead_time]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_delivery_lead_time.internal.md|has_value_for_delivery_lead_time.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_delivery_lead_time.protect.md|has_value_for_delivery_lead_time.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_delivery_lead_time.private.md|has_value_for_delivery_lead_time.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_delivery_lead_time.personal.md|has_value_for_delivery_lead_time.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_delivery_lead_time.secret.md|has_value_for_delivery_lead_time.secret]] 

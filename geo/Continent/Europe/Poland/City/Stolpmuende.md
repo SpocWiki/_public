@@ -29,3 +29,12 @@ markerFile: [[Stolpmuende]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Stolpmuende.md|Stolpmuende]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stolpmuende.internal.md|Stolpmuende.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stolpmuende.protect.md|Stolpmuende.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stolpmuende.private.md|Stolpmuende.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stolpmuende.personal.md|Stolpmuende.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stolpmuende.secret.md|Stolpmuende.secret]] 

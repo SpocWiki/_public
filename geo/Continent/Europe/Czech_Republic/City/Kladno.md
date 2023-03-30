@@ -29,3 +29,12 @@ markerFile: [[Kladno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kladno.md|Kladno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kladno.internal.md|Kladno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kladno.protect.md|Kladno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kladno.private.md|Kladno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kladno.personal.md|Kladno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kladno.secret.md|Kladno.secret]] 

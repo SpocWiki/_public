@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: recordingOf ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_recorded_as.md|has_recorded_as]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recorded_as.internal.md|has_recorded_as.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_recorded_as.protect.md|has_recorded_as.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_recorded_as.private.md|has_recorded_as.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_recorded_as.personal.md|has_recorded_as.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_recorded_as.secret.md|has_recorded_as.secret]] 

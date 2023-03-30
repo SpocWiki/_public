@@ -29,3 +29,12 @@ markerFile: [[Prokopiewsk=Prokopievak]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.md|Prokopiewsk=Prokopievak]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.internal.md|Prokopiewsk=Prokopievak.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.protect.md|Prokopiewsk=Prokopievak.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.private.md|Prokopiewsk=Prokopievak.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.personal.md|Prokopiewsk=Prokopievak.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.secret.md|Prokopiewsk=Prokopievak.secret]] 

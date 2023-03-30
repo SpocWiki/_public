@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: parentOrganization ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_sub_organization.md|has_sub_organization]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_organization.internal.md|has_sub_organization.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sub_organization.protect.md|has_sub_organization.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sub_organization.private.md|has_sub_organization.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sub_organization.personal.md|has_sub_organization.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sub_organization.secret.md|has_sub_organization.secret]] 

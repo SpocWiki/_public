@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mediator]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.md|Triz-Automation+Mediator-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.internal.md|Triz-Automation+Mediator-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.protect.md|Triz-Automation+Mediator-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.private.md|Triz-Automation+Mediator-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.personal.md|Triz-Automation+Mediator-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.secret.md|Triz-Automation+Mediator-Complexity.secret]] 

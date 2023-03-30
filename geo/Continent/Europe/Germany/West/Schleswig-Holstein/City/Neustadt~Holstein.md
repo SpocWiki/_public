@@ -28,3 +28,12 @@ markerFile: [[Neustadt~Holstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neustadt~Holstein.md|Neustadt~Holstein]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neustadt~Holstein.internal.md|Neustadt~Holstein.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neustadt~Holstein.protect.md|Neustadt~Holstein.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neustadt~Holstein.private.md|Neustadt~Holstein.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neustadt~Holstein.personal.md|Neustadt~Holstein.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neustadt~Holstein.secret.md|Neustadt~Holstein.secret]] 

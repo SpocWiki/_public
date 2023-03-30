@@ -28,3 +28,12 @@ markerFile: [[Brake_U-Weser]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.md|Brake_U-Weser]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.internal.md|Brake_U-Weser.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.protect.md|Brake_U-Weser.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.private.md|Brake_U-Weser.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.personal.md|Brake_U-Weser.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.secret.md|Brake_U-Weser.secret]] 

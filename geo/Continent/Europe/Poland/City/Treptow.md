@@ -29,3 +29,12 @@ markerFile: [[Treptow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Treptow.md|Treptow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Treptow.internal.md|Treptow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Treptow.protect.md|Treptow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Treptow.private.md|Treptow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Treptow.personal.md|Treptow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Treptow.secret.md|Treptow.secret]] 

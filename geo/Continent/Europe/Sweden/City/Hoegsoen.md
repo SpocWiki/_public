@@ -29,3 +29,12 @@ markerFile: [[Hoegsoen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Hoegsoen.md|Hoegsoen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hoegsoen.internal.md|Hoegsoen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hoegsoen.protect.md|Hoegsoen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hoegsoen.private.md|Hoegsoen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hoegsoen.personal.md|Hoegsoen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hoegsoen.secret.md|Hoegsoen.secret]] 

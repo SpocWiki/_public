@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_target_population )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_target_population.md|has_target_population]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_target_population.internal.md|has_target_population.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_target_population.protect.md|has_target_population.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_target_population.private.md|has_target_population.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_target_population.personal.md|has_target_population.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_target_population.secret.md|has_target_population.secret]] 

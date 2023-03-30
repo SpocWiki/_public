@@ -29,3 +29,12 @@ markerFile: [[Belluno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Belluno.md|Belluno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Belluno.internal.md|Belluno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Belluno.protect.md|Belluno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Belluno.private.md|Belluno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Belluno.personal.md|Belluno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Belluno.secret.md|Belluno.secret]] 

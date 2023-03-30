@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_icao_code )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_icao_code.md|has_icao_code]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_icao_code.internal.md|has_icao_code.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_icao_code.protect.md|has_icao_code.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_icao_code.private.md|has_icao_code.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_icao_code.personal.md|has_icao_code.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_icao_code.secret.md|has_icao_code.secret]] 

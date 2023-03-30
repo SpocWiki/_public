@@ -29,3 +29,12 @@ markerFile: [[Itzig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Itzig.md|Itzig]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Itzig.internal.md|Itzig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Itzig.protect.md|Itzig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Itzig.private.md|Itzig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Itzig.personal.md|Itzig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Itzig.secret.md|Itzig.secret]] 

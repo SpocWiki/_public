@@ -43,3 +43,12 @@ A specific branch of medical science that is concerned with the study of the cau
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pathology.md|pathology]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pathology.internal.md|pathology.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pathology.protect.md|pathology.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pathology.private.md|pathology.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pathology.personal.md|pathology.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pathology.secret.md|pathology.secret]] 

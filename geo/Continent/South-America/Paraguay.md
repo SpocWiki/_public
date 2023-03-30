@@ -131,3 +131,12 @@ markerFolder: ./Paraguay/City
 [geo-lon::-57.67]
 [geo-lat::-25.27]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Paraguay.md|Paraguay]] 
+- [[../../../../_internal/geo/Continent/South-America/Paraguay.internal.md|Paraguay.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Paraguay.protect.md|Paraguay.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Paraguay.private.md|Paraguay.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Paraguay.personal.md|Paraguay.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Paraguay.secret.md|Paraguay.secret]] 

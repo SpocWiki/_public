@@ -32,3 +32,12 @@ markerFolder: ./Palestinian_Territory,_Occupied/City
 [geo-lon::35.2]
 [geo-lat::31.8833]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Palestinian_Territory,_Occupied.md|Palestinian_Territory,_Occupied]] 
+- [[../../../../_internal/geo/Continent/Asia/Palestinian_Territory,_Occupied.internal.md|Palestinian_Territory,_Occupied.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Palestinian_Territory,_Occupied.protect.md|Palestinian_Territory,_Occupied.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Palestinian_Territory,_Occupied.private.md|Palestinian_Territory,_Occupied.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Palestinian_Territory,_Occupied.personal.md|Palestinian_Territory,_Occupied.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Palestinian_Territory,_Occupied.secret.md|Palestinian_Territory,_Occupied.secret]] 

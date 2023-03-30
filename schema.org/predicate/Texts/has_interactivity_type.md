@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_interactivity_type )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_interactivity_type.md|has_interactivity_type]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_interactivity_type.internal.md|has_interactivity_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_interactivity_type.protect.md|has_interactivity_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_interactivity_type.private.md|has_interactivity_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_interactivity_type.personal.md|has_interactivity_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_interactivity_type.secret.md|has_interactivity_type.secret]] 

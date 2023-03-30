@@ -29,3 +29,12 @@ markerFile: [[Varallo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Varallo.md|Varallo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Varallo.internal.md|Varallo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Varallo.protect.md|Varallo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Varallo.private.md|Varallo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Varallo.personal.md|Varallo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Varallo.secret.md|Varallo.secret]] 

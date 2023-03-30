@@ -29,3 +29,12 @@ markerFile: [[Donnersberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Donnersberg.md|Donnersberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Donnersberg.internal.md|Donnersberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Donnersberg.protect.md|Donnersberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Donnersberg.private.md|Donnersberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Donnersberg.personal.md|Donnersberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Donnersberg.secret.md|Donnersberg.secret]] 

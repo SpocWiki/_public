@@ -28,3 +28,12 @@ markerFile: [[Wunsiedel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.md|Wunsiedel]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.internal.md|Wunsiedel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.protect.md|Wunsiedel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.private.md|Wunsiedel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.personal.md|Wunsiedel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.secret.md|Wunsiedel.secret]] 

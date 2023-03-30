@@ -29,3 +29,12 @@ markerFile: [[Tornea]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Tornea.md|Tornea]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tornea.internal.md|Tornea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tornea.protect.md|Tornea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tornea.private.md|Tornea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tornea.personal.md|Tornea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tornea.secret.md|Tornea.secret]] 

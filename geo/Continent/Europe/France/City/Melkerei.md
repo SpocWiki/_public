@@ -29,3 +29,12 @@ markerFile: [[Melkerei]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Melkerei.md|Melkerei]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Melkerei.internal.md|Melkerei.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Melkerei.protect.md|Melkerei.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Melkerei.private.md|Melkerei.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Melkerei.personal.md|Melkerei.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Melkerei.secret.md|Melkerei.secret]] 

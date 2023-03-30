@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_median )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_median.md|has_value_for_median]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_median.internal.md|has_value_for_median.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_median.protect.md|has_value_for_median.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_median.private.md|has_value_for_median.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_median.personal.md|has_value_for_median.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_median.secret.md|has_value_for_median.secret]] 

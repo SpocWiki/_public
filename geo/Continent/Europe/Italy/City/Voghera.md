@@ -29,3 +29,12 @@ markerFile: [[Voghera]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Voghera.md|Voghera]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Voghera.internal.md|Voghera.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Voghera.protect.md|Voghera.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Voghera.private.md|Voghera.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Voghera.personal.md|Voghera.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Voghera.secret.md|Voghera.secret]] 

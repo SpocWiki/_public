@@ -29,3 +29,12 @@ markerFile: [[Malung]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Malung.md|Malung]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Malung.internal.md|Malung.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Malung.protect.md|Malung.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Malung.private.md|Malung.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Malung.personal.md|Malung.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Malung.secret.md|Malung.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Polzin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Polzin.md|Polzin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Polzin.internal.md|Polzin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Polzin.protect.md|Polzin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Polzin.private.md|Polzin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Polzin.personal.md|Polzin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Polzin.secret.md|Polzin.secret]] 

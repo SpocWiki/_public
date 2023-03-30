@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_closing_at )
 ( #has_/range :: Time )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_closing_at.md|is_closing_at]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_closing_at.internal.md|is_closing_at.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_closing_at.protect.md|is_closing_at.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_closing_at.private.md|is_closing_at.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_closing_at.personal.md|is_closing_at.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_closing_at.secret.md|is_closing_at.secret]] 

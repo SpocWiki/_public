@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-inert-environment]]]
 
 Prevent Degradation of a hot Metal Filament by using an Argon Atmosphere.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Argon_Atmosphere.md|Triz-Argon_Atmosphere]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Argon_Atmosphere.internal.md|Triz-Argon_Atmosphere.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Argon_Atmosphere.protect.md|Triz-Argon_Atmosphere.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Argon_Atmosphere.private.md|Triz-Argon_Atmosphere.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Argon_Atmosphere.personal.md|Triz-Argon_Atmosphere.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Argon_Atmosphere.secret.md|Triz-Argon_Atmosphere.secret]] 

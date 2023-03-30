@@ -45,3 +45,12 @@ Nonprofit501c3: Non-profit type referring to Religious, Educational, Charitable,
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c3.md|nonprofit501c3]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c3.internal.md|nonprofit501c3.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c3.protect.md|nonprofit501c3.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c3.private.md|nonprofit501c3.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c3.personal.md|nonprofit501c3.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c3.secret.md|nonprofit501c3.secret]] 

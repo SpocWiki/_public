@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28116]
 [NextStarId::28019]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Rastaben.md|Rastaben]] 
+- [[../../../_internal/astro/Star/Rastaben.internal.md|Rastaben.internal]] 
+- [[../../../_protect/astro/Star/Rastaben.protect.md|Rastaben.protect]] 
+- [[../../../_private/astro/Star/Rastaben.private.md|Rastaben.private]] 
+- [[../../../_personal/astro/Star/Rastaben.personal.md|Rastaben.personal]] 
+- [[../../../_secret/astro/Star/Rastaben.secret.md|Rastaben.secret]] 

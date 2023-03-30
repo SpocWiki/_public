@@ -29,3 +29,12 @@ markerFile: [[Stagno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Stagno.md|Stagno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stagno.internal.md|Stagno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stagno.protect.md|Stagno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stagno.private.md|Stagno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stagno.personal.md|Stagno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stagno.secret.md|Stagno.secret]] 

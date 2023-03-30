@@ -29,3 +29,12 @@ markerFile: [[Debrecen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Debrecen.md|Debrecen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Debrecen.internal.md|Debrecen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Debrecen.protect.md|Debrecen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Debrecen.private.md|Debrecen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Debrecen.personal.md|Debrecen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Debrecen.secret.md|Debrecen.secret]] 

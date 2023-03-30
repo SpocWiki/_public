@@ -29,3 +29,12 @@ markerFile: [[Melk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Melk.md|Melk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Melk.internal.md|Melk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Melk.protect.md|Melk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Melk.private.md|Melk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Melk.personal.md|Melk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Melk.secret.md|Melk.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Winzig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Winzig.md|Winzig]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Winzig.internal.md|Winzig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Winzig.protect.md|Winzig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Winzig.private.md|Winzig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Winzig.personal.md|Winzig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Winzig.secret.md|Winzig.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Porvoo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Porvoo.md|Porvoo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Porvoo.internal.md|Porvoo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Porvoo.protect.md|Porvoo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Porvoo.private.md|Porvoo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Porvoo.personal.md|Porvoo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Porvoo.secret.md|Porvoo.secret]] 

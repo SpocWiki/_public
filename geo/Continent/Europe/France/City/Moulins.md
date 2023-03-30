@@ -29,3 +29,12 @@ markerFile: [[Moulins]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Moulins.md|Moulins]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Moulins.internal.md|Moulins.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Moulins.protect.md|Moulins.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Moulins.private.md|Moulins.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Moulins.personal.md|Moulins.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Moulins.secret.md|Moulins.secret]] 

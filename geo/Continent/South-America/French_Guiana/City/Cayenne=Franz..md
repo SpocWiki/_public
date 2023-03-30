@@ -29,3 +29,12 @@ markerFile: [[Cayenne=Franz.]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..md|Cayenne=Franz.]] 
+- [[../../../../../../_internal/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..internal.md|Cayenne=Franz..internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..protect.md|Cayenne=Franz..protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..private.md|Cayenne=Franz..private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..personal.md|Cayenne=Franz..personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/French_Guiana/City/Cayenne=Franz..secret.md|Cayenne=Franz..secret]] 

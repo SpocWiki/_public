@@ -41,3 +41,12 @@ A set of characteristics describing parents, who can be interested in viewing so
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, childMaxAge, childMinAge, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.md|parent_audience]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.internal.md|parent_audience.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.protect.md|parent_audience.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.private.md|parent_audience.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.personal.md|parent_audience.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.secret.md|parent_audience.secret]] 

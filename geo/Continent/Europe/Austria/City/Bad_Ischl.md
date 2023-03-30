@@ -29,3 +29,12 @@ markerFile: [[Bad_Ischl]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bad_Ischl.md|Bad_Ischl]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Ischl.internal.md|Bad_Ischl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Ischl.protect.md|Bad_Ischl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Ischl.private.md|Bad_Ischl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Ischl.personal.md|Bad_Ischl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Ischl.secret.md|Bad_Ischl.secret]] 

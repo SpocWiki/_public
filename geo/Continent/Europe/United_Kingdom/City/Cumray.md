@@ -29,3 +29,12 @@ markerFile: [[Cumray]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cumray.md|Cumray]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cumray.internal.md|Cumray.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cumray.protect.md|Cumray.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cumray.private.md|Cumray.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cumray.personal.md|Cumray.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cumray.secret.md|Cumray.secret]] 

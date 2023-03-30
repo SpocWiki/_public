@@ -130,3 +130,12 @@ markerFolder: ./Eritrea/City
 [geo-lon::38.9167]
 [geo-lat::15.3333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Eritrea.md|Eritrea]] 
+- [[../../../../_internal/geo/Continent/Africa/Eritrea.internal.md|Eritrea.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Eritrea.protect.md|Eritrea.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Eritrea.private.md|Eritrea.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Eritrea.personal.md|Eritrea.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Eritrea.secret.md|Eritrea.secret]] 

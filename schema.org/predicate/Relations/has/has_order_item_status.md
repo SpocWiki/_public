@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_order_item_status )
 ( #has_/range :: OrderStatus )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_order_item_status.md|has_order_item_status]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_order_item_status.internal.md|has_order_item_status.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_order_item_status.protect.md|has_order_item_status.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_order_item_status.private.md|has_order_item_status.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_order_item_status.personal.md|has_order_item_status.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_order_item_status.secret.md|has_order_item_status.secret]] 

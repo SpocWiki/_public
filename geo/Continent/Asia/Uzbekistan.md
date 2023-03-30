@@ -133,3 +133,12 @@ markerFolder: ./Uzbekistan/City
 [geo-lon::69.3]
 [geo-lat::41.33]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Uzbekistan.md|Uzbekistan]] 
+- [[../../../../_internal/geo/Continent/Asia/Uzbekistan.internal.md|Uzbekistan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Uzbekistan.protect.md|Uzbekistan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Uzbekistan.private.md|Uzbekistan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Uzbekistan.personal.md|Uzbekistan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Uzbekistan.secret.md|Uzbekistan.secret]] 

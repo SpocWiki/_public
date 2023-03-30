@@ -29,3 +29,12 @@ markerFile: [[Werchoturje]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Werchoturje.md|Werchoturje]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Werchoturje.internal.md|Werchoturje.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Werchoturje.protect.md|Werchoturje.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Werchoturje.private.md|Werchoturje.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Werchoturje.personal.md|Werchoturje.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Werchoturje.secret.md|Werchoturje.secret]] 

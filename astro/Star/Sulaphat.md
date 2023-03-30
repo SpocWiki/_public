@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28134]
 [NextStarId::27872]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sulaphat.md|Sulaphat]] 
+- [[../../../_internal/astro/Star/Sulaphat.internal.md|Sulaphat.internal]] 
+- [[../../../_protect/astro/Star/Sulaphat.protect.md|Sulaphat.protect]] 
+- [[../../../_private/astro/Star/Sulaphat.private.md|Sulaphat.private]] 
+- [[../../../_personal/astro/Star/Sulaphat.personal.md|Sulaphat.personal]] 
+- [[../../../_secret/astro/Star/Sulaphat.secret.md|Sulaphat.secret]] 

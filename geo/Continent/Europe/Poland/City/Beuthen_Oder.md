@@ -29,3 +29,12 @@ markerFile: [[Beuthen/Oder]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Beuthen_Oder.md|Beuthen_Oder]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Beuthen_Oder.internal.md|Beuthen_Oder.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Beuthen_Oder.protect.md|Beuthen_Oder.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Beuthen_Oder.private.md|Beuthen_Oder.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Beuthen_Oder.personal.md|Beuthen_Oder.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Beuthen_Oder.secret.md|Beuthen_Oder.secret]] 

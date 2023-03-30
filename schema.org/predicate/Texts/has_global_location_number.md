@@ -45,3 +45,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_global_location_number.md|has_global_location_number]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_global_location_number.internal.md|has_global_location_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_global_location_number.protect.md|has_global_location_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_global_location_number.private.md|has_global_location_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_global_location_number.personal.md|has_global_location_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_global_location_number.secret.md|has_global_location_number.secret]] 

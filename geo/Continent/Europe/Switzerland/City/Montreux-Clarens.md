@@ -29,3 +29,12 @@ markerFile: [[Montreux-Clarens]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.md|Montreux-Clarens]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.internal.md|Montreux-Clarens.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.protect.md|Montreux-Clarens.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.private.md|Montreux-Clarens.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.personal.md|Montreux-Clarens.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.secret.md|Montreux-Clarens.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Osaka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Japan/City/Osaka.md|Osaka]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Japan/City/Osaka.internal.md|Osaka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Japan/City/Osaka.protect.md|Osaka.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Japan/City/Osaka.private.md|Osaka.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Japan/City/Osaka.personal.md|Osaka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Japan/City/Osaka.secret.md|Osaka.secret]] 

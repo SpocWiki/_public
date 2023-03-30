@@ -140,3 +140,12 @@ markerFolder: ./South_Africa/City
 [geo-lon::22.87]
 [geo-lat::-28.8175]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/South_Africa.md|South_Africa]] 
+- [[../../../../_internal/geo/Continent/Africa/South_Africa.internal.md|South_Africa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/South_Africa.protect.md|South_Africa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/South_Africa.private.md|South_Africa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/South_Africa.personal.md|South_Africa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/South_Africa.secret.md|South_Africa.secret]] 

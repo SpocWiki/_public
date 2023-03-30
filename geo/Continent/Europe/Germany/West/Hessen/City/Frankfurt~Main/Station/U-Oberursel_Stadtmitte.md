@@ -28,3 +28,12 @@ markerFile: [[U-Oberursel_Stadtmitte]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.md|U-Oberursel_Stadtmitte]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.internal.md|U-Oberursel_Stadtmitte.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.protect.md|U-Oberursel_Stadtmitte.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.private.md|U-Oberursel_Stadtmitte.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.personal.md|U-Oberursel_Stadtmitte.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.secret.md|U-Oberursel_Stadtmitte.secret]] 

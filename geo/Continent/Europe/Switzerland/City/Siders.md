@@ -29,3 +29,12 @@ markerFile: [[Siders]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Siders.md|Siders]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Siders.internal.md|Siders.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Siders.protect.md|Siders.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Siders.private.md|Siders.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Siders.personal.md|Siders.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Siders.secret.md|Siders.secret]] 

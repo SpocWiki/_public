@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-Disassemble]]]
 
 Modular Furniture.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Modular-Furniture.md|Triz-Modular-Furniture]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Modular-Furniture.internal.md|Triz-Modular-Furniture.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Modular-Furniture.protect.md|Triz-Modular-Furniture.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Modular-Furniture.private.md|Triz-Modular-Furniture.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Modular-Furniture.personal.md|Triz-Modular-Furniture.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Modular-Furniture.secret.md|Triz-Modular-Furniture.secret]] 

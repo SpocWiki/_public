@@ -45,3 +45,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: duration ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_loan_term.md|has_value_for_loan_term]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_loan_term.internal.md|has_value_for_loan_term.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_loan_term.protect.md|has_value_for_loan_term.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_loan_term.private.md|has_value_for_loan_term.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_loan_term.personal.md|has_value_for_loan_term.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_loan_term.secret.md|has_value_for_loan_term.secret]] 

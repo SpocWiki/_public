@@ -29,3 +29,12 @@ markerFile: [[Lesparre]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Lesparre.md|Lesparre]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lesparre.internal.md|Lesparre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lesparre.protect.md|Lesparre.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lesparre.private.md|Lesparre.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lesparre.personal.md|Lesparre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lesparre.secret.md|Lesparre.secret]] 

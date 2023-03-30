@@ -29,3 +29,12 @@ markerFile: [[Krasnokokoshaisk=Yoskav]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.md|Krasnokokoshaisk=Yoskav]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.internal.md|Krasnokokoshaisk=Yoskav.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.protect.md|Krasnokokoshaisk=Yoskav.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.private.md|Krasnokokoshaisk=Yoskav.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.personal.md|Krasnokokoshaisk=Yoskav.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.secret.md|Krasnokokoshaisk=Yoskav.secret]] 

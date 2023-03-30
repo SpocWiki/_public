@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_safety_consideration )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_safety_consideration.md|has_safety_consideration]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_safety_consideration.internal.md|has_safety_consideration.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_safety_consideration.protect.md|has_safety_consideration.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_safety_consideration.private.md|has_safety_consideration.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_safety_consideration.personal.md|has_safety_consideration.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_safety_consideration.secret.md|has_safety_consideration.secret]] 

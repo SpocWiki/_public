@@ -130,3 +130,12 @@ markerFolder: ./Denmark/City
 [geo-lon::10.5]
 [geo-lat::55.6789]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Denmark.md|Denmark]] 
+- [[../../../../_internal/geo/Continent/Europe/Denmark.internal.md|Denmark.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Denmark.protect.md|Denmark.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Denmark.private.md|Denmark.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Denmark.personal.md|Denmark.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Denmark.secret.md|Denmark.secret]] 

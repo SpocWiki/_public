@@ -28,3 +28,12 @@ markerFile: [[Schnabelwaid]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.md|Schnabelwaid]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.internal.md|Schnabelwaid.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.protect.md|Schnabelwaid.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.private.md|Schnabelwaid.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.personal.md|Schnabelwaid.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.secret.md|Schnabelwaid.secret]] 

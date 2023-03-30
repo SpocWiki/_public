@@ -28,3 +28,12 @@ markerFile: [[Osnabrueck]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.md|Osnabrueck]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.internal.md|Osnabrueck.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.protect.md|Osnabrueck.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.private.md|Osnabrueck.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.personal.md|Osnabrueck.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.secret.md|Osnabrueck.secret]] 

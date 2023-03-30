@@ -32,3 +32,12 @@ markerFile: [[Leopoldville]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.md|Kinshasa]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.internal.md|Kinshasa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.protect.md|Kinshasa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.private.md|Kinshasa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.personal.md|Kinshasa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.secret.md|Kinshasa.secret]] 

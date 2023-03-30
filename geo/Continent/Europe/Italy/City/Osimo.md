@@ -29,3 +29,12 @@ markerFile: [[Osimo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Osimo.md|Osimo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Osimo.internal.md|Osimo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Osimo.protect.md|Osimo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Osimo.private.md|Osimo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Osimo.personal.md|Osimo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Osimo.secret.md|Osimo.secret]] 

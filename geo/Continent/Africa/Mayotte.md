@@ -124,3 +124,12 @@ markerFolder: ./Mayotte/City
 [geo-lon::45.2278]
 [geo-lat::-12.7806]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Mayotte.md|Mayotte]] 
+- [[../../../../_internal/geo/Continent/Africa/Mayotte.internal.md|Mayotte.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mayotte.protect.md|Mayotte.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mayotte.private.md|Mayotte.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mayotte.personal.md|Mayotte.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mayotte.secret.md|Mayotte.secret]] 

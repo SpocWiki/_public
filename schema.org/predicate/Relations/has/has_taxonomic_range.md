@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_taxonomic_range )
 ( #has_/range :: DefinedTerm, Taxon, Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_taxonomic_range.md|has_taxonomic_range]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_taxonomic_range.internal.md|has_taxonomic_range.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_taxonomic_range.protect.md|has_taxonomic_range.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_taxonomic_range.private.md|has_taxonomic_range.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_taxonomic_range.personal.md|has_taxonomic_range.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_taxonomic_range.secret.md|has_taxonomic_range.secret]] 

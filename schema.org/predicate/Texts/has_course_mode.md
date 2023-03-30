@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_course_mode )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_course_mode.md|has_course_mode]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_course_mode.internal.md|has_course_mode.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_course_mode.protect.md|has_course_mode.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_course_mode.private.md|has_course_mode.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_course_mode.personal.md|has_course_mode.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_course_mode.secret.md|has_course_mode.secret]] 

@@ -41,3 +41,12 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, recommendationStrength, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.md|medical_guideline_recommendation]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.internal.md|medical_guideline_recommendation.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.protect.md|medical_guideline_recommendation.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.private.md|medical_guideline_recommendation.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.personal.md|medical_guideline_recommendation.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.secret.md|medical_guideline_recommendation.secret]] 

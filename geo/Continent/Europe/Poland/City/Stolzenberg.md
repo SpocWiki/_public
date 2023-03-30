@@ -29,3 +29,12 @@ markerFile: [[Stolzenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Stolzenberg.md|Stolzenberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stolzenberg.internal.md|Stolzenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stolzenberg.protect.md|Stolzenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stolzenberg.private.md|Stolzenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stolzenberg.personal.md|Stolzenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stolzenberg.secret.md|Stolzenberg.secret]] 

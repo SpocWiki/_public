@@ -16,3 +16,13 @@ tags:
 [Iso2::la]
 [Iso3::lat]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/lang/Lang-la.md|Lang-la]] 
+- [[../../_internal/lang/Lang-la.internal.md|Lang-la.internal]] 
+- [[../../_protect/lang/Lang-la.protect.md|Lang-la.protect]] 
+- [[../../_private/lang/Lang-la.private.md|Lang-la.private]] 
+- [[../../_personal/lang/Lang-la.personal.md|Lang-la.personal]] 
+- [[../../_secret/lang/Lang-la.secret.md|Lang-la.secret]]
+

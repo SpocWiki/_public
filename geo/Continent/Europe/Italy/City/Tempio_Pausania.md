@@ -29,3 +29,12 @@ markerFile: [[Tempio_Pausania]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Tempio_Pausania.md|Tempio_Pausania]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Tempio_Pausania.internal.md|Tempio_Pausania.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Tempio_Pausania.protect.md|Tempio_Pausania.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Tempio_Pausania.private.md|Tempio_Pausania.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Tempio_Pausania.personal.md|Tempio_Pausania.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Tempio_Pausania.secret.md|Tempio_Pausania.secret]] 

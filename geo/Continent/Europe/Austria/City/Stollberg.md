@@ -29,3 +29,12 @@ markerFile: [[Stollberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Stollberg.md|Stollberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Stollberg.internal.md|Stollberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Stollberg.protect.md|Stollberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Stollberg.private.md|Stollberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Stollberg.personal.md|Stollberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Stollberg.secret.md|Stollberg.secret]] 

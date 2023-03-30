@@ -45,3 +45,12 @@ UnemploymentSupport: this is a benefit for unemployment support.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.md|unemployment_support]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.internal.md|unemployment_support.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.protect.md|unemployment_support.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.private.md|unemployment_support.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.personal.md|unemployment_support.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.secret.md|unemployment_support.secret]] 

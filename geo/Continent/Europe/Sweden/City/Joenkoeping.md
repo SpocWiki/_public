@@ -29,3 +29,12 @@ markerFile: [[Joenkoeping]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Joenkoeping.md|Joenkoeping]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Joenkoeping.internal.md|Joenkoeping.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Joenkoeping.protect.md|Joenkoeping.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Joenkoeping.private.md|Joenkoeping.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Joenkoeping.personal.md|Joenkoeping.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Joenkoeping.secret.md|Joenkoeping.secret]] 

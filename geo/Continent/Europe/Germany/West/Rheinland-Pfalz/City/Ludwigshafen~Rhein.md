@@ -28,3 +28,12 @@ markerFile: [[Ludwigshafen~Rhein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.md|Ludwigshafen~Rhein]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.internal.md|Ludwigshafen~Rhein.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.protect.md|Ludwigshafen~Rhein.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.private.md|Ludwigshafen~Rhein.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.personal.md|Ludwigshafen~Rhein.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.secret.md|Ludwigshafen~Rhein.secret]] 

@@ -45,3 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: hasPart ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_season.md|has_season]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_season.internal.md|has_season.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_season.protect.md|has_season.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_season.private.md|has_season.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_season.personal.md|has_season.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_season.secret.md|has_season.secret]] 

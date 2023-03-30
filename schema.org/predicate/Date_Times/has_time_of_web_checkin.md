@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_web_checkin.md|has_time_of_web_checkin]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_web_checkin.internal.md|has_time_of_web_checkin.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_web_checkin.protect.md|has_time_of_web_checkin.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_web_checkin.private.md|has_time_of_web_checkin.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_web_checkin.personal.md|has_time_of_web_checkin.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_web_checkin.secret.md|has_time_of_web_checkin.secret]] 

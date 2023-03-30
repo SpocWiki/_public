@@ -29,3 +29,12 @@ markerFile: [[Ulricehamm]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ulricehamm.md|Ulricehamm]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ulricehamm.internal.md|Ulricehamm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ulricehamm.protect.md|Ulricehamm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ulricehamm.private.md|Ulricehamm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ulricehamm.personal.md|Ulricehamm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ulricehamm.secret.md|Ulricehamm.secret]] 

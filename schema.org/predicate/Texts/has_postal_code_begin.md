@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_postal_code_begin )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_postal_code_begin.md|has_postal_code_begin]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_postal_code_begin.internal.md|has_postal_code_begin.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_postal_code_begin.protect.md|has_postal_code_begin.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_postal_code_begin.private.md|has_postal_code_begin.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_postal_code_begin.personal.md|has_postal_code_begin.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_postal_code_begin.secret.md|has_postal_code_begin.secret]] 

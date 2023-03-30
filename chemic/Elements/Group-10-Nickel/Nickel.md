@@ -33,3 +33,12 @@ SpocWebEntityId: 21927
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nickel)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-10-Nickel/Nickel.md|Nickel]] 
+- [[../../../../_internal/chemic/Elements/Group-10-Nickel/Nickel.internal.md|Nickel.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-10-Nickel/Nickel.protect.md|Nickel.protect]] 
+- [[../../../../_private/chemic/Elements/Group-10-Nickel/Nickel.private.md|Nickel.private]] 
+- [[../../../../_personal/chemic/Elements/Group-10-Nickel/Nickel.personal.md|Nickel.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-10-Nickel/Nickel.secret.md|Nickel.secret]] 

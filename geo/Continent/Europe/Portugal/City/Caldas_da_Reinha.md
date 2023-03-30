@@ -29,3 +29,12 @@ markerFile: [[Caldas_da_Reinha]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.md|Caldas_da_Reinha]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.internal.md|Caldas_da_Reinha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.protect.md|Caldas_da_Reinha.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.private.md|Caldas_da_Reinha.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.personal.md|Caldas_da_Reinha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.secret.md|Caldas_da_Reinha.secret]] 

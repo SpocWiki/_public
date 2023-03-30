@@ -34,3 +34,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Vermont.md|Vermont]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Vermont.internal.md|Vermont.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Vermont.protect.md|Vermont.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Vermont.private.md|Vermont.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Vermont.personal.md|Vermont.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Vermont.secret.md|Vermont.secret]] 

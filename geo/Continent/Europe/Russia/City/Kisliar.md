@@ -29,3 +29,12 @@ markerFile: [[Kisliar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kisliar.md|Kisliar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kisliar.internal.md|Kisliar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kisliar.protect.md|Kisliar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kisliar.private.md|Kisliar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kisliar.personal.md|Kisliar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kisliar.secret.md|Kisliar.secret]] 

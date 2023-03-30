@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_publication )
 ( #has_/range :: PublicationEvent )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_publication.md|has_publication]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publication.internal.md|has_publication.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_publication.protect.md|has_publication.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_publication.private.md|has_publication.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_publication.personal.md|has_publication.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_publication.secret.md|has_publication.secret]] 

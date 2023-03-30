@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_percentile75 )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_percentile75.md|has_value_for_percentile75]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_percentile75.internal.md|has_value_for_percentile75.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_percentile75.protect.md|has_value_for_percentile75.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_percentile75.private.md|has_value_for_percentile75.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_percentile75.personal.md|has_value_for_percentile75.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_percentile75.secret.md|has_value_for_percentile75.secret]] 

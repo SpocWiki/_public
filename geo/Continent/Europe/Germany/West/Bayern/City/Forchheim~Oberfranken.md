@@ -28,3 +28,12 @@ markerFile: [[Forchheim~Oberfranken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.md|Forchheim~Oberfranken]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.internal.md|Forchheim~Oberfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.protect.md|Forchheim~Oberfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.private.md|Forchheim~Oberfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.personal.md|Forchheim~Oberfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.secret.md|Forchheim~Oberfranken.secret]] 

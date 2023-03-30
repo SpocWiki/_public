@@ -29,3 +29,12 @@ markerFile: [[Christburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Christburg.md|Christburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Christburg.internal.md|Christburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Christburg.protect.md|Christburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Christburg.private.md|Christburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Christburg.personal.md|Christburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Christburg.secret.md|Christburg.secret]] 

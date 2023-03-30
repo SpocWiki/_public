@@ -29,3 +29,12 @@ markerFile: [[Kaluga]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kaluga.md|Kaluga]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaluga.internal.md|Kaluga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaluga.protect.md|Kaluga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kaluga.private.md|Kaluga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaluga.personal.md|Kaluga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaluga.secret.md|Kaluga.secret]] 

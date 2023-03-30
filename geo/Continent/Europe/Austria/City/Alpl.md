@@ -29,3 +29,12 @@ markerFile: [[Alpl]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Alpl.md|Alpl]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Alpl.internal.md|Alpl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Alpl.protect.md|Alpl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Alpl.private.md|Alpl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Alpl.personal.md|Alpl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Alpl.secret.md|Alpl.secret]] 

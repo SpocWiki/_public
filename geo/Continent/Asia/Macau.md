@@ -123,3 +123,12 @@ markerFolder: ./Macau/City
 [geo-lon::]
 [geo-lat::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Macau.md|Macau]] 
+- [[../../../../_internal/geo/Continent/Asia/Macau.internal.md|Macau.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Macau.protect.md|Macau.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Macau.private.md|Macau.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Macau.personal.md|Macau.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Macau.secret.md|Macau.secret]] 

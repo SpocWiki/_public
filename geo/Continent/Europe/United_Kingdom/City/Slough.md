@@ -29,3 +29,12 @@ markerFile: [[Slough]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Slough.md|Slough]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Slough.internal.md|Slough.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Slough.protect.md|Slough.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Slough.private.md|Slough.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Slough.personal.md|Slough.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Slough.secret.md|Slough.secret]] 

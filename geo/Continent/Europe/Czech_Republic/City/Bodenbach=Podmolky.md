@@ -29,3 +29,12 @@ markerFile: [[Bodenbach=Podmolky]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.md|Bodenbach=Podmolky]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.internal.md|Bodenbach=Podmolky.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.protect.md|Bodenbach=Podmolky.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.private.md|Bodenbach=Podmolky.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.personal.md|Bodenbach=Podmolky.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.secret.md|Bodenbach=Podmolky.secret]] 

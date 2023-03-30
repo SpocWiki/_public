@@ -29,3 +29,12 @@ markerFile: [[Helsingoer]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Helsingoer.md|Helsingoer]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Helsingoer.internal.md|Helsingoer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Helsingoer.protect.md|Helsingoer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Helsingoer.private.md|Helsingoer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Helsingoer.personal.md|Helsingoer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Helsingoer.secret.md|Helsingoer.secret]] 

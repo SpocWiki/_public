@@ -29,3 +29,12 @@ markerFile: [[Berezof]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Berezof.md|Berezof]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Berezof.internal.md|Berezof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Berezof.protect.md|Berezof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Berezof.private.md|Berezof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Berezof.personal.md|Berezof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Berezof.secret.md|Berezof.secret]] 

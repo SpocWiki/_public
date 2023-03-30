@@ -29,3 +29,12 @@ markerFile: [[Waldowshof]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Waldowshof.md|Waldowshof]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Waldowshof.internal.md|Waldowshof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Waldowshof.protect.md|Waldowshof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Waldowshof.private.md|Waldowshof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Waldowshof.personal.md|Waldowshof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Waldowshof.secret.md|Waldowshof.secret]] 

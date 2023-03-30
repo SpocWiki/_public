@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
 - [con::[[Triz-Shape]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.md|Triz-affected_harm+Convert_harm_into_benefit-Shape]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.internal.md|Triz-affected_harm+Convert_harm_into_benefit-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.protect.md|Triz-affected_harm+Convert_harm_into_benefit-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.private.md|Triz-affected_harm+Convert_harm_into_benefit-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.personal.md|Triz-affected_harm+Convert_harm_into_benefit-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.secret.md|Triz-affected_harm+Convert_harm_into_benefit-Shape.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Haukvuori]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Haukvuori.md|Haukvuori]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Haukvuori.internal.md|Haukvuori.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Haukvuori.protect.md|Haukvuori.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Haukvuori.private.md|Haukvuori.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Haukvuori.personal.md|Haukvuori.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Haukvuori.secret.md|Haukvuori.secret]] 

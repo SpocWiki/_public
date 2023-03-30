@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-moving_Length]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Length.md|Triz-Automation+Inversion-moving_Length]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Length.internal.md|Triz-Automation+Inversion-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Length.protect.md|Triz-Automation+Inversion-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Length.private.md|Triz-Automation+Inversion-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Length.personal.md|Triz-Automation+Inversion-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Length.secret.md|Triz-Automation+Inversion-moving_Length.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-stationary_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Energy.md|Triz-affected_harm+Extraction-stationary_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Energy.internal.md|Triz-affected_harm+Extraction-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Energy.protect.md|Triz-affected_harm+Extraction-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Energy.private.md|Triz-affected_harm+Extraction-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Energy.personal.md|Triz-affected_harm+Extraction-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Energy.secret.md|Triz-affected_harm+Extraction-stationary_Energy.secret]] 

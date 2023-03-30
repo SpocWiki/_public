@@ -29,3 +29,12 @@ markerFile: [[Mouscron]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Mouscron.md|Mouscron]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Mouscron.internal.md|Mouscron.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Mouscron.protect.md|Mouscron.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Mouscron.private.md|Mouscron.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Mouscron.personal.md|Mouscron.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Mouscron.secret.md|Mouscron.secret]] 

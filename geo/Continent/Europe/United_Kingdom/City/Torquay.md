@@ -29,3 +29,12 @@ markerFile: [[Torquay]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Torquay.md|Torquay]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Torquay.internal.md|Torquay.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Torquay.protect.md|Torquay.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Torquay.private.md|Torquay.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Torquay.personal.md|Torquay.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Torquay.secret.md|Torquay.secret]] 

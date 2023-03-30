@@ -33,3 +33,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Wyoming.md|Wyoming]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Wyoming.internal.md|Wyoming.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Wyoming.protect.md|Wyoming.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Wyoming.private.md|Wyoming.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Wyoming.personal.md|Wyoming.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Wyoming.secret.md|Wyoming.secret]] 

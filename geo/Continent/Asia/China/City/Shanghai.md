@@ -27,3 +27,12 @@ markerFile: [[Shanghai]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/China/City/Shanghai.md|Shanghai]] 
+- [[../../../../../../_internal/geo/Continent/Asia/China/City/Shanghai.internal.md|Shanghai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/China/City/Shanghai.protect.md|Shanghai.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/China/City/Shanghai.private.md|Shanghai.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/China/City/Shanghai.personal.md|Shanghai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/China/City/Shanghai.secret.md|Shanghai.secret]] 

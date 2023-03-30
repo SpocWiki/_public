@@ -29,3 +29,12 @@ markerFile: [[Wishaw]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wishaw.md|Wishaw]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wishaw.internal.md|Wishaw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wishaw.protect.md|Wishaw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wishaw.private.md|Wishaw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wishaw.personal.md|Wishaw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wishaw.secret.md|Wishaw.secret]] 

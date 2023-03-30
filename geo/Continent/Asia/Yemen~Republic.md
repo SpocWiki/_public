@@ -32,3 +32,12 @@ markerFolder: ./Yemen~Republic/City
 [geo-lon::44.61]
 [geo-lat::14.06]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Yemen~Republic.md|Yemen~Republic]] 
+- [[../../../../_internal/geo/Continent/Asia/Yemen~Republic.internal.md|Yemen~Republic.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Yemen~Republic.protect.md|Yemen~Republic.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Yemen~Republic.private.md|Yemen~Republic.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Yemen~Republic.personal.md|Yemen~Republic.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Yemen~Republic.secret.md|Yemen~Republic.secret]] 

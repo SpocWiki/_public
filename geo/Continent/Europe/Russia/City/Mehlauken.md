@@ -29,3 +29,12 @@ markerFile: [[Mehlauken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mehlauken.md|Mehlauken]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mehlauken.internal.md|Mehlauken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mehlauken.protect.md|Mehlauken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mehlauken.private.md|Mehlauken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mehlauken.personal.md|Mehlauken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mehlauken.secret.md|Mehlauken.secret]] 

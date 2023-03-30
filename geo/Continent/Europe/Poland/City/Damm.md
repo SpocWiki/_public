@@ -29,3 +29,12 @@ markerFile: [[Damm]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Damm.md|Damm]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Damm.internal.md|Damm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Damm.protect.md|Damm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Damm.private.md|Damm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Damm.personal.md|Damm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Damm.secret.md|Damm.secret]] 

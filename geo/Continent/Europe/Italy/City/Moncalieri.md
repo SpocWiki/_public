@@ -29,3 +29,12 @@ markerFile: [[Moncalieri]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Moncalieri.md|Moncalieri]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Moncalieri.internal.md|Moncalieri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Moncalieri.protect.md|Moncalieri.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Moncalieri.private.md|Moncalieri.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Moncalieri.personal.md|Moncalieri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Moncalieri.secret.md|Moncalieri.secret]] 

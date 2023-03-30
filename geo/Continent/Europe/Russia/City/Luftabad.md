@@ -29,3 +29,12 @@ markerFile: [[Luftabad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Luftabad.md|Luftabad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Luftabad.internal.md|Luftabad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Luftabad.protect.md|Luftabad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Luftabad.private.md|Luftabad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Luftabad.personal.md|Luftabad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Luftabad.secret.md|Luftabad.secret]] 

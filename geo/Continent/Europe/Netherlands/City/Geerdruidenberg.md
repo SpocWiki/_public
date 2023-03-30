@@ -29,3 +29,12 @@ markerFile: [[Geerdruidenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Geerdruidenberg.md|Geerdruidenberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Geerdruidenberg.internal.md|Geerdruidenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Geerdruidenberg.protect.md|Geerdruidenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Geerdruidenberg.private.md|Geerdruidenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Geerdruidenberg.personal.md|Geerdruidenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Geerdruidenberg.secret.md|Geerdruidenberg.secret]] 

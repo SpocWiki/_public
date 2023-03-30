@@ -43,3 +43,13 @@ Other Document Formats like TRTL (AKA Turtle) allow to specify Triples directly 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Claim%20(philosophy))
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/schema.org/Proposition.md|Proposition]] 
+- [[../../_internal/schema.org/Proposition.internal.md|Proposition.internal]] 
+- [[../../_protect/schema.org/Proposition.protect.md|Proposition.protect]] 
+- [[../../_private/schema.org/Proposition.private.md|Proposition.private]] 
+- [[../../_personal/schema.org/Proposition.personal.md|Proposition.personal]] 
+- [[../../_secret/schema.org/Proposition.secret.md|Proposition.secret]]
+

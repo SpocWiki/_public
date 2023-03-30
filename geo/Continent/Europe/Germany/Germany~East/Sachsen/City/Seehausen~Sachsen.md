@@ -28,3 +28,12 @@ markerFile: [[Seehausen~Sachsen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.md|Seehausen~Sachsen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.internal.md|Seehausen~Sachsen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.protect.md|Seehausen~Sachsen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.private.md|Seehausen~Sachsen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.personal.md|Seehausen~Sachsen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.secret.md|Seehausen~Sachsen.secret]] 

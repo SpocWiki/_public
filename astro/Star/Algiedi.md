@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28098]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Algiedi.md|Algiedi]] 
+- [[../../../_internal/astro/Star/Algiedi.internal.md|Algiedi.internal]] 
+- [[../../../_protect/astro/Star/Algiedi.protect.md|Algiedi.protect]] 
+- [[../../../_private/astro/Star/Algiedi.private.md|Algiedi.private]] 
+- [[../../../_personal/astro/Star/Algiedi.personal.md|Algiedi.personal]] 
+- [[../../../_secret/astro/Star/Algiedi.secret.md|Algiedi.secret]]
+

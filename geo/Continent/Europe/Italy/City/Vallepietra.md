@@ -29,3 +29,12 @@ markerFile: [[Vallepietra]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Vallepietra.md|Vallepietra]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vallepietra.internal.md|Vallepietra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vallepietra.protect.md|Vallepietra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vallepietra.private.md|Vallepietra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vallepietra.personal.md|Vallepietra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vallepietra.secret.md|Vallepietra.secret]] 

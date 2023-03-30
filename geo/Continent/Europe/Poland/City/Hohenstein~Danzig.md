@@ -29,3 +29,12 @@ markerFile: [[Hohenstein~Danzig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hohenstein~Danzig.md|Hohenstein~Danzig]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hohenstein~Danzig.internal.md|Hohenstein~Danzig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hohenstein~Danzig.protect.md|Hohenstein~Danzig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hohenstein~Danzig.private.md|Hohenstein~Danzig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hohenstein~Danzig.personal.md|Hohenstein~Danzig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hohenstein~Danzig.secret.md|Hohenstein~Danzig.secret]] 

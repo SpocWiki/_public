@@ -29,3 +29,12 @@ markerFile: [[Jablonec]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jablonec.md|Jablonec]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jablonec.internal.md|Jablonec.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jablonec.protect.md|Jablonec.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jablonec.private.md|Jablonec.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jablonec.personal.md|Jablonec.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jablonec.secret.md|Jablonec.secret]] 

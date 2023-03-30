@@ -29,3 +29,12 @@ markerFile: [[Kokskar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kokskar.md|Kokskar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kokskar.internal.md|Kokskar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kokskar.protect.md|Kokskar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kokskar.private.md|Kokskar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kokskar.personal.md|Kokskar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kokskar.secret.md|Kokskar.secret]] 

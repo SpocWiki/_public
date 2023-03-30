@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_awards )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_awards.md|has_awards]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_awards.internal.md|has_awards.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_awards.protect.md|has_awards.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_awards.private.md|has_awards.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_awards.personal.md|has_awards.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_awards.secret.md|has_awards.secret]] 

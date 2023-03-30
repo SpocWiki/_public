@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_cheat_code )
 ( #has_/range :: CreativeWork )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_cheat_code.md|has_cheat_code]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cheat_code.internal.md|has_cheat_code.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_cheat_code.protect.md|has_cheat_code.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_cheat_code.private.md|has_cheat_code.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_cheat_code.personal.md|has_cheat_code.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_cheat_code.secret.md|has_cheat_code.secret]] 

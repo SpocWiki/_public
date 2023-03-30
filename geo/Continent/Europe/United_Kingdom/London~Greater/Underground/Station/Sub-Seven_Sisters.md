@@ -29,3 +29,12 @@ markerFile: [[Sub-Seven_Sisters]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.md|Sub-Seven_Sisters]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.internal.md|Sub-Seven_Sisters.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.protect.md|Sub-Seven_Sisters.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.private.md|Sub-Seven_Sisters.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.personal.md|Sub-Seven_Sisters.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.secret.md|Sub-Seven_Sisters.secret]] 

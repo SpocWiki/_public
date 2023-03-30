@@ -29,3 +29,12 @@ markerFile: [[Sub-Leicester_Square]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leicester_Square.md|Sub-Leicester_Square]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leicester_Square.internal.md|Sub-Leicester_Square.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leicester_Square.protect.md|Sub-Leicester_Square.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leicester_Square.private.md|Sub-Leicester_Square.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leicester_Square.personal.md|Sub-Leicester_Square.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leicester_Square.secret.md|Sub-Leicester_Square.secret]] 

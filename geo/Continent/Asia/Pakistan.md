@@ -132,3 +132,12 @@ markerFolder: ./Pakistan/City
 [geo-lon::70.1033]
 [geo-lat::29.2633]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Pakistan.md|Pakistan]] 
+- [[../../../../_internal/geo/Continent/Asia/Pakistan.internal.md|Pakistan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Pakistan.protect.md|Pakistan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Pakistan.private.md|Pakistan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Pakistan.personal.md|Pakistan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Pakistan.secret.md|Pakistan.secret]] 

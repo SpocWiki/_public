@@ -29,3 +29,12 @@ markerFile: [[Baume_les_Dames]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Baume_les_Dames.md|Baume_les_Dames]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Baume_les_Dames.internal.md|Baume_les_Dames.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Baume_les_Dames.protect.md|Baume_les_Dames.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Baume_les_Dames.private.md|Baume_les_Dames.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Baume_les_Dames.personal.md|Baume_les_Dames.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Baume_les_Dames.secret.md|Baume_les_Dames.secret]] 

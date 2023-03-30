@@ -29,3 +29,12 @@ markerFile: [[Remus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Remus.md|Remus]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Remus.internal.md|Remus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Remus.protect.md|Remus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Remus.private.md|Remus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Remus.personal.md|Remus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Remus.secret.md|Remus.secret]] 

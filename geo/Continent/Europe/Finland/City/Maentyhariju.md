@@ -29,3 +29,12 @@ markerFile: [[Maentyhariju]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Maentyhariju.md|Maentyhariju]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Maentyhariju.internal.md|Maentyhariju.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Maentyhariju.protect.md|Maentyhariju.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Maentyhariju.private.md|Maentyhariju.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Maentyhariju.personal.md|Maentyhariju.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Maentyhariju.secret.md|Maentyhariju.secret]] 

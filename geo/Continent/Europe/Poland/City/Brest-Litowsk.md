@@ -29,3 +29,12 @@ markerFile: [[Brest-Litowsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Brest-Litowsk.md|Brest-Litowsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Brest-Litowsk.internal.md|Brest-Litowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Brest-Litowsk.protect.md|Brest-Litowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Brest-Litowsk.private.md|Brest-Litowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Brest-Litowsk.personal.md|Brest-Litowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Brest-Litowsk.secret.md|Brest-Litowsk.secret]] 

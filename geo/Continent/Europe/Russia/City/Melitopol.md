@@ -29,3 +29,12 @@ markerFile: [[Melitopol]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Melitopol.md|Melitopol]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Melitopol.internal.md|Melitopol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Melitopol.protect.md|Melitopol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Melitopol.private.md|Melitopol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Melitopol.personal.md|Melitopol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Melitopol.secret.md|Melitopol.secret]] 

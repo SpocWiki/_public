@@ -29,3 +29,12 @@ markerFile: [[Staryi-Bykhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Staryi-Bykhof.md|Staryi-Bykhof]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Staryi-Bykhof.internal.md|Staryi-Bykhof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Staryi-Bykhof.protect.md|Staryi-Bykhof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Staryi-Bykhof.private.md|Staryi-Bykhof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Staryi-Bykhof.personal.md|Staryi-Bykhof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Staryi-Bykhof.secret.md|Staryi-Bykhof.secret]] 

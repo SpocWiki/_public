@@ -29,3 +29,12 @@ markerFile: [[Tencin=Trencsen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tencin=Trencsen.md|Tencin=Trencsen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tencin=Trencsen.internal.md|Tencin=Trencsen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tencin=Trencsen.protect.md|Tencin=Trencsen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tencin=Trencsen.private.md|Tencin=Trencsen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tencin=Trencsen.personal.md|Tencin=Trencsen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tencin=Trencsen.secret.md|Tencin=Trencsen.secret]] 

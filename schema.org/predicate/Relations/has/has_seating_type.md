@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_seating_type )
 ( #has_/range :: QualitativeValue, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_seating_type.md|has_seating_type]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_seating_type.internal.md|has_seating_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_seating_type.protect.md|has_seating_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_seating_type.private.md|has_seating_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_seating_type.personal.md|has_seating_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_seating_type.secret.md|has_seating_type.secret]] 

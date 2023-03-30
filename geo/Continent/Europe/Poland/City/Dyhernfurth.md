@@ -29,3 +29,12 @@ markerFile: [[Dyhernfurth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Dyhernfurth.md|Dyhernfurth]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dyhernfurth.internal.md|Dyhernfurth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dyhernfurth.protect.md|Dyhernfurth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dyhernfurth.private.md|Dyhernfurth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dyhernfurth.personal.md|Dyhernfurth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dyhernfurth.secret.md|Dyhernfurth.secret]] 

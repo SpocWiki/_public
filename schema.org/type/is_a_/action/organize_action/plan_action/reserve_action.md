@@ -47,3 +47,12 @@ Related actions:
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/action/organize_action/plan_action/reserve_action.md|reserve_action]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/plan_action/reserve_action.internal.md|reserve_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/plan_action/reserve_action.protect.md|reserve_action.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/action/organize_action/plan_action/reserve_action.private.md|reserve_action.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/plan_action/reserve_action.personal.md|reserve_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/plan_action/reserve_action.secret.md|reserve_action.secret]] 

@@ -41,3 +41,12 @@ An EducationalAudience.
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, educationalRole, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/audience/educational_audience.md|educational_audience]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/educational_audience.internal.md|educational_audience.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/educational_audience.protect.md|educational_audience.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/audience/educational_audience.private.md|educational_audience.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/educational_audience.personal.md|educational_audience.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/educational_audience.secret.md|educational_audience.secret]] 

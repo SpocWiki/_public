@@ -29,3 +29,12 @@ markerFile: [[Hattula]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Hattula.md|Hattula]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hattula.internal.md|Hattula.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hattula.protect.md|Hattula.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hattula.private.md|Hattula.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hattula.personal.md|Hattula.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hattula.secret.md|Hattula.secret]] 

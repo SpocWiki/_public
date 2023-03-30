@@ -29,3 +29,12 @@ markerFile: [[Aulié-Ata]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Aulié-Ata.md|Aulié-Ata]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aulié-Ata.internal.md|Aulié-Ata.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aulié-Ata.protect.md|Aulié-Ata.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aulié-Ata.private.md|Aulié-Ata.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Aulié-Ata.personal.md|Aulié-Ata.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Aulié-Ata.secret.md|Aulié-Ata.secret]] 

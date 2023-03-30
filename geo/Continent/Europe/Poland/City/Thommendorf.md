@@ -29,3 +29,12 @@ markerFile: [[Thommendorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Thommendorf.md|Thommendorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Thommendorf.internal.md|Thommendorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Thommendorf.protect.md|Thommendorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Thommendorf.private.md|Thommendorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Thommendorf.personal.md|Thommendorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Thommendorf.secret.md|Thommendorf.secret]] 

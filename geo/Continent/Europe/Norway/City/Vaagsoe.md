@@ -29,3 +29,12 @@ markerFile: [[Vaagsoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Vaagsoe.md|Vaagsoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Vaagsoe.internal.md|Vaagsoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Vaagsoe.protect.md|Vaagsoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Vaagsoe.private.md|Vaagsoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Vaagsoe.personal.md|Vaagsoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Vaagsoe.secret.md|Vaagsoe.secret]] 

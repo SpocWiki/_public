@@ -53,3 +53,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_roof_load_in_kg )
 ( #has_/range :: QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.md|has_value_for_roof_load_in_kg]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.internal.md|has_value_for_roof_load_in_kg.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.protect.md|has_value_for_roof_load_in_kg.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.private.md|has_value_for_roof_load_in_kg.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.personal.md|has_value_for_roof_load_in_kg.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.secret.md|has_value_for_roof_load_in_kg.secret]] 

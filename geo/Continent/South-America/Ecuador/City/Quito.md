@@ -29,3 +29,12 @@ markerFile: [[Quito]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Ecuador/City/Quito.md|Quito]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Ecuador/City/Quito.internal.md|Quito.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Ecuador/City/Quito.protect.md|Quito.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Ecuador/City/Quito.private.md|Quito.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Ecuador/City/Quito.personal.md|Quito.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Ecuador/City/Quito.secret.md|Quito.secret]] 

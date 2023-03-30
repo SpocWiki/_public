@@ -29,3 +29,12 @@ markerFile: [[Syktyvkar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Syktyvkar.md|Syktyvkar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Syktyvkar.internal.md|Syktyvkar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Syktyvkar.protect.md|Syktyvkar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Syktyvkar.private.md|Syktyvkar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Syktyvkar.personal.md|Syktyvkar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Syktyvkar.secret.md|Syktyvkar.secret]] 

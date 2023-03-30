@@ -131,3 +131,12 @@ markerFolder: ./Norway/City
 [geo-lon::11.4588]
 [geo-lat::61.8685]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Norway.md|Norway]] 
+- [[../../../../_internal/geo/Continent/Europe/Norway.internal.md|Norway.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Norway.protect.md|Norway.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Norway.private.md|Norway.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Norway.personal.md|Norway.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Norway.secret.md|Norway.secret]] 

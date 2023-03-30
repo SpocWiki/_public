@@ -29,3 +29,12 @@ markerFile: [[Orsova]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Orsova.md|Orsova]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Orsova.internal.md|Orsova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Orsova.protect.md|Orsova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Orsova.private.md|Orsova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Orsova.personal.md|Orsova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Orsova.secret.md|Orsova.secret]] 

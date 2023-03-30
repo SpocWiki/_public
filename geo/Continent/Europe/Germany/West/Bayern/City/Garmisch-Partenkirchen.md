@@ -28,3 +28,12 @@ markerFile: [[Garmisch-Partenkirchen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.md|Garmisch-Partenkirchen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.internal.md|Garmisch-Partenkirchen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.protect.md|Garmisch-Partenkirchen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.private.md|Garmisch-Partenkirchen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.personal.md|Garmisch-Partenkirchen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.secret.md|Garmisch-Partenkirchen.secret]] 

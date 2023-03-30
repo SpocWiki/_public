@@ -38,3 +38,12 @@ Relation describes that:
 ( #has_/name :: is_equal_to )
 ( #has_/range :: QualitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_equal_to.md|is_equal_to]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_equal_to.internal.md|is_equal_to.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_equal_to.protect.md|is_equal_to.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_equal_to.private.md|is_equal_to.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_equal_to.personal.md|is_equal_to.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_equal_to.secret.md|is_equal_to.secret]] 

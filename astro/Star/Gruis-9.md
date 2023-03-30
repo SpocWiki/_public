@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28121]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Gruis-9.md|Gruis-9]] 
+- [[../../../_internal/astro/Star/Gruis-9.internal.md|Gruis-9.internal]] 
+- [[../../../_protect/astro/Star/Gruis-9.protect.md|Gruis-9.protect]] 
+- [[../../../_private/astro/Star/Gruis-9.private.md|Gruis-9.private]] 
+- [[../../../_personal/astro/Star/Gruis-9.personal.md|Gruis-9.personal]] 
+- [[../../../_secret/astro/Star/Gruis-9.secret.md|Gruis-9.secret]]
+

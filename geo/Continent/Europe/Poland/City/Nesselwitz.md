@@ -29,3 +29,12 @@ markerFile: [[Nesselwitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Nesselwitz.md|Nesselwitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nesselwitz.internal.md|Nesselwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nesselwitz.protect.md|Nesselwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nesselwitz.private.md|Nesselwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nesselwitz.personal.md|Nesselwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nesselwitz.secret.md|Nesselwitz.secret]] 

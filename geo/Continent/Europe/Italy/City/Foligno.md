@@ -29,3 +29,12 @@ markerFile: [[Foligno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Foligno.md|Foligno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Foligno.internal.md|Foligno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Foligno.protect.md|Foligno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Foligno.private.md|Foligno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Foligno.personal.md|Foligno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Foligno.secret.md|Foligno.secret]] 

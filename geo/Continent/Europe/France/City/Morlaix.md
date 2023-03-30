@@ -29,3 +29,12 @@ markerFile: [[Morlaix]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Morlaix.md|Morlaix]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Morlaix.internal.md|Morlaix.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Morlaix.protect.md|Morlaix.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Morlaix.private.md|Morlaix.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Morlaix.personal.md|Morlaix.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Morlaix.secret.md|Morlaix.secret]] 

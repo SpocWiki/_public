@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-anticipate-change]]]
 
 Pre-pasted Wall Paper
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Pre-pasted.md|Triz-Pre-pasted]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Pre-pasted.internal.md|Triz-Pre-pasted.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Pre-pasted.protect.md|Triz-Pre-pasted.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Pre-pasted.private.md|Triz-Pre-pasted.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Pre-pasted.personal.md|Triz-Pre-pasted.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Pre-pasted.secret.md|Triz-Pre-pasted.secret]] 

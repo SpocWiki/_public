@@ -43,3 +43,12 @@ The payment has been received and processed.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.md|payment_complete]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.internal.md|payment_complete.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.protect.md|payment_complete.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.private.md|payment_complete.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.personal.md|payment_complete.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.secret.md|payment_complete.secret]] 

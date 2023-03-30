@@ -29,3 +29,12 @@ markerFile: [[Velletri]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Velletri.md|Velletri]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Velletri.internal.md|Velletri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Velletri.protect.md|Velletri.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Velletri.private.md|Velletri.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Velletri.personal.md|Velletri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Velletri.secret.md|Velletri.secret]] 

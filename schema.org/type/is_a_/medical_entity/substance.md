@@ -45,3 +45,12 @@ Any matter of defined composition that has discrete existence, whose origin may 
 
 [ #has_/properties :: [ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/substance.md|substance]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/substance.internal.md|substance.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/substance.protect.md|substance.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/substance.private.md|substance.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/substance.personal.md|substance.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/substance.secret.md|substance.secret]] 

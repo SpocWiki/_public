@@ -29,3 +29,12 @@ markerFile: [[Trapani]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Trapani.md|Trapani]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Trapani.internal.md|Trapani.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Trapani.protect.md|Trapani.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Trapani.private.md|Trapani.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Trapani.personal.md|Trapani.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Trapani.secret.md|Trapani.secret]] 

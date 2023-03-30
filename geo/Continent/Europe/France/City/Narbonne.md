@@ -29,3 +29,12 @@ markerFile: [[Narbonne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Narbonne.md|Narbonne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Narbonne.internal.md|Narbonne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Narbonne.protect.md|Narbonne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Narbonne.private.md|Narbonne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Narbonne.personal.md|Narbonne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Narbonne.secret.md|Narbonne.secret]] 

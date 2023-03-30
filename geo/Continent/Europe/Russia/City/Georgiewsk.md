@@ -29,3 +29,12 @@ markerFile: [[Georgiewsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Georgiewsk.md|Georgiewsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Georgiewsk.internal.md|Georgiewsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Georgiewsk.protect.md|Georgiewsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Georgiewsk.private.md|Georgiewsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Georgiewsk.personal.md|Georgiewsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Georgiewsk.secret.md|Georgiewsk.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Cranz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Cranz.md|Cranz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Cranz.internal.md|Cranz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Cranz.protect.md|Cranz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Cranz.private.md|Cranz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Cranz.personal.md|Cranz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Cranz.secret.md|Cranz.secret]] 

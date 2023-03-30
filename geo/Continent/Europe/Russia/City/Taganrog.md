@@ -29,3 +29,12 @@ markerFile: [[Taganrog]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Taganrog.md|Taganrog]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Taganrog.internal.md|Taganrog.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Taganrog.protect.md|Taganrog.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Taganrog.private.md|Taganrog.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Taganrog.personal.md|Taganrog.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Taganrog.secret.md|Taganrog.secret]] 

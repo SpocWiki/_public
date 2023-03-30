@@ -29,3 +29,12 @@ markerFile: [[Guatemala~City]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Guatemala/City/Guatemala~City.md|Guatemala~City]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Guatemala/City/Guatemala~City.internal.md|Guatemala~City.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Guatemala/City/Guatemala~City.protect.md|Guatemala~City.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Guatemala/City/Guatemala~City.private.md|Guatemala~City.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Guatemala/City/Guatemala~City.personal.md|Guatemala~City.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Guatemala/City/Guatemala~City.secret.md|Guatemala~City.secret]] 

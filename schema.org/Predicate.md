@@ -43,3 +43,13 @@ By generating Folders with dedicated Templates for each Type
 you can promote consistent Naming. 
 
 Derived from [Schema.org](https://schema.org/docs/developers.html) 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/schema.org/Predicate.md|Predicate]] 
+- [[../../_internal/schema.org/Predicate.internal.md|Predicate.internal]] 
+- [[../../_protect/schema.org/Predicate.protect.md|Predicate.protect]] 
+- [[../../_private/schema.org/Predicate.private.md|Predicate.private]] 
+- [[../../_personal/schema.org/Predicate.personal.md|Predicate.personal]] 
+- [[../../_secret/schema.org/Predicate.secret.md|Predicate.secret]]
+

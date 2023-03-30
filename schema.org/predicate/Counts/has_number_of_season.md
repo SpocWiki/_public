@@ -45,3 +45,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: position ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_season.md|has_number_of_season]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_season.internal.md|has_number_of_season.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_season.protect.md|has_number_of_season.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_season.private.md|has_number_of_season.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_season.personal.md|has_number_of_season.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_season.secret.md|has_number_of_season.secret]] 

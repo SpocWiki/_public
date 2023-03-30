@@ -29,3 +29,12 @@ markerFile: [[Codigoro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Codigoro.md|Codigoro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Codigoro.internal.md|Codigoro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Codigoro.protect.md|Codigoro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Codigoro.private.md|Codigoro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Codigoro.personal.md|Codigoro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Codigoro.secret.md|Codigoro.secret]] 

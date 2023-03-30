@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28150]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Puppis-35.md|Puppis-35]] 
+- [[../../../_internal/astro/Star/Puppis-35.internal.md|Puppis-35.internal]] 
+- [[../../../_protect/astro/Star/Puppis-35.protect.md|Puppis-35.protect]] 
+- [[../../../_private/astro/Star/Puppis-35.private.md|Puppis-35.private]] 
+- [[../../../_personal/astro/Star/Puppis-35.personal.md|Puppis-35.personal]] 
+- [[../../../_secret/astro/Star/Puppis-35.secret.md|Puppis-35.secret]] 

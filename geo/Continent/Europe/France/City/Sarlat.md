@@ -29,3 +29,12 @@ markerFile: [[Sarlat]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Sarlat.md|Sarlat]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sarlat.internal.md|Sarlat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sarlat.protect.md|Sarlat.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Sarlat.private.md|Sarlat.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sarlat.personal.md|Sarlat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sarlat.secret.md|Sarlat.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
 - [con::[[Triz-moving_Length]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.md|Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.internal.md|Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.protect.md|Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.private.md|Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.personal.md|Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.secret.md|Triz-Illumination+Partial,_overdone,_or_excessive_action-moving_Length.secret]] 

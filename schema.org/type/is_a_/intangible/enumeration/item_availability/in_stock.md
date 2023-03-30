@@ -43,3 +43,12 @@ Indicates that the item is in stock.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.md|in_stock]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.internal.md|in_stock.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.protect.md|in_stock.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.private.md|in_stock.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.personal.md|in_stock.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.secret.md|in_stock.secret]] 

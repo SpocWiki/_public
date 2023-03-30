@@ -29,3 +29,12 @@ markerFile: [[Bie]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Bie.md|Bie]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bie.internal.md|Bie.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bie.protect.md|Bie.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bie.private.md|Bie.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bie.personal.md|Bie.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bie.secret.md|Bie.secret]] 

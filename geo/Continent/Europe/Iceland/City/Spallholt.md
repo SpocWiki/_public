@@ -29,3 +29,12 @@ markerFile: [[Spallholt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Iceland/City/Spallholt.md|Spallholt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Iceland/City/Spallholt.internal.md|Spallholt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Iceland/City/Spallholt.protect.md|Spallholt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Iceland/City/Spallholt.private.md|Spallholt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Iceland/City/Spallholt.personal.md|Spallholt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Iceland/City/Spallholt.secret.md|Spallholt.secret]] 

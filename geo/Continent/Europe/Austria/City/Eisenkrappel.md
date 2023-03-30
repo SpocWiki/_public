@@ -29,3 +29,12 @@ markerFile: [[Eisenkrappel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Eisenkrappel.md|Eisenkrappel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Eisenkrappel.internal.md|Eisenkrappel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Eisenkrappel.protect.md|Eisenkrappel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Eisenkrappel.private.md|Eisenkrappel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Eisenkrappel.personal.md|Eisenkrappel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Eisenkrappel.secret.md|Eisenkrappel.secret]] 

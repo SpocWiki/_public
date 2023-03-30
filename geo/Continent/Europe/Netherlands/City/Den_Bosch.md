@@ -29,3 +29,12 @@ markerFile: [[Den_Bosch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Den_Bosch.md|Den_Bosch]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Den_Bosch.internal.md|Den_Bosch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Den_Bosch.protect.md|Den_Bosch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Den_Bosch.private.md|Den_Bosch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Den_Bosch.personal.md|Den_Bosch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Den_Bosch.secret.md|Den_Bosch.secret]] 

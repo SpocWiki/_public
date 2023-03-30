@@ -28,3 +28,12 @@ markerFile: [[Boston]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.md|Boston]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.internal.md|Boston.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.protect.md|Boston.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.private.md|Boston.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.personal.md|Boston.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.secret.md|Boston.secret]] 

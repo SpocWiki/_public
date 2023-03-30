@@ -28,3 +28,12 @@ markerFile: [[Hoechstaedt~Aisch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.md|Hoechstaedt~Aisch]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.internal.md|Hoechstaedt~Aisch.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.protect.md|Hoechstaedt~Aisch.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.private.md|Hoechstaedt~Aisch.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.personal.md|Hoechstaedt~Aisch.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.secret.md|Hoechstaedt~Aisch.secret]] 

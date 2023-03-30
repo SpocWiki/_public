@@ -29,3 +29,12 @@ markerFile: [[Lucon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Lucon.md|Lucon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lucon.internal.md|Lucon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lucon.protect.md|Lucon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lucon.private.md|Lucon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lucon.personal.md|Lucon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lucon.secret.md|Lucon.secret]] 

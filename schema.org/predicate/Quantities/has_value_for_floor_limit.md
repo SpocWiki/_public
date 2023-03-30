@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_floor_limit )
 ( #has_/range :: MonetaryAmount )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_floor_limit.md|has_value_for_floor_limit]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_floor_limit.internal.md|has_value_for_floor_limit.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_floor_limit.protect.md|has_value_for_floor_limit.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_floor_limit.private.md|has_value_for_floor_limit.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_floor_limit.personal.md|has_value_for_floor_limit.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_floor_limit.secret.md|has_value_for_floor_limit.secret]] 

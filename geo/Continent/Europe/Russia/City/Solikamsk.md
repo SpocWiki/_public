@@ -29,3 +29,12 @@ markerFile: [[Solikamsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Solikamsk.md|Solikamsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Solikamsk.internal.md|Solikamsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Solikamsk.protect.md|Solikamsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Solikamsk.private.md|Solikamsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Solikamsk.personal.md|Solikamsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Solikamsk.secret.md|Solikamsk.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.md|Triz-Reliability+Segmentation-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.internal.md|Triz-Reliability+Segmentation-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.protect.md|Triz-Reliability+Segmentation-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.private.md|Triz-Reliability+Segmentation-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.personal.md|Triz-Reliability+Segmentation-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.secret.md|Triz-Reliability+Segmentation-Complexity.secret]] 

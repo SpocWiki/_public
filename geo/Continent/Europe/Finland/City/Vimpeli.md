@@ -29,3 +29,12 @@ markerFile: [[Vimpeli]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Vimpeli.md|Vimpeli]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Vimpeli.internal.md|Vimpeli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Vimpeli.protect.md|Vimpeli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Vimpeli.private.md|Vimpeli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Vimpeli.personal.md|Vimpeli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Vimpeli.secret.md|Vimpeli.secret]] 

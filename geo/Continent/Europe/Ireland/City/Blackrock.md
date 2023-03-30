@@ -29,3 +29,12 @@ markerFile: [[Blackrock]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Blackrock.md|Blackrock]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Blackrock.internal.md|Blackrock.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Blackrock.protect.md|Blackrock.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Blackrock.private.md|Blackrock.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Blackrock.personal.md|Blackrock.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Blackrock.secret.md|Blackrock.secret]] 

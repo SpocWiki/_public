@@ -29,3 +29,12 @@ markerFile: [[Kaffzig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kaffzig.md|Kaffzig]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kaffzig.internal.md|Kaffzig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kaffzig.protect.md|Kaffzig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kaffzig.private.md|Kaffzig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kaffzig.personal.md|Kaffzig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kaffzig.secret.md|Kaffzig.secret]] 

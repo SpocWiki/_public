@@ -29,3 +29,12 @@ markerFile: [[Mariinsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mariinsk.md|Mariinsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mariinsk.internal.md|Mariinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mariinsk.protect.md|Mariinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mariinsk.private.md|Mariinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mariinsk.personal.md|Mariinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mariinsk.secret.md|Mariinsk.secret]] 

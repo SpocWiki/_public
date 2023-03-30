@@ -29,3 +29,12 @@ markerFile: [[Salzburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Salzburg.md|Salzburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Salzburg.internal.md|Salzburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Salzburg.protect.md|Salzburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Salzburg.private.md|Salzburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Salzburg.personal.md|Salzburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Salzburg.secret.md|Salzburg.secret]] 

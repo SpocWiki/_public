@@ -29,3 +29,12 @@ markerFile: [[St.Tropez]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Tropez.md|St.Tropez]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Tropez.internal.md|St.Tropez.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Tropez.protect.md|St.Tropez.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Tropez.private.md|St.Tropez.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Tropez.personal.md|St.Tropez.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Tropez.secret.md|St.Tropez.secret]] 

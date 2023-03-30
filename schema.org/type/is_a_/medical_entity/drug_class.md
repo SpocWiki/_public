@@ -41,3 +41,12 @@ A class of medical drugs, e.g., statins. Classes can represent general pharmacol
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, drug, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/drug_class.md|drug_class]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/drug_class.internal.md|drug_class.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/drug_class.protect.md|drug_class.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/drug_class.private.md|drug_class.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/drug_class.personal.md|drug_class.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/drug_class.secret.md|drug_class.secret]] 

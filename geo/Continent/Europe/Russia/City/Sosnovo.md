@@ -29,3 +29,12 @@ markerFile: [[Sosnovo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sosnovo.md|Sosnovo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sosnovo.internal.md|Sosnovo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sosnovo.protect.md|Sosnovo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sosnovo.private.md|Sosnovo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sosnovo.personal.md|Sosnovo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sosnovo.secret.md|Sosnovo.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Turc_Sv._Martin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.md|Turc_Sv._Martin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.internal.md|Turc_Sv._Martin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.protect.md|Turc_Sv._Martin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.private.md|Turc_Sv._Martin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.personal.md|Turc_Sv._Martin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.secret.md|Turc_Sv._Martin.secret]] 

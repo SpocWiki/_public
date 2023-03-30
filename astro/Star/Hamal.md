@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28089]
 [NextStarId::27327]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Hamal.md|Hamal]] 
+- [[../../../_internal/astro/Star/Hamal.internal.md|Hamal.internal]] 
+- [[../../../_protect/astro/Star/Hamal.protect.md|Hamal.protect]] 
+- [[../../../_private/astro/Star/Hamal.private.md|Hamal.private]] 
+- [[../../../_personal/astro/Star/Hamal.personal.md|Hamal.personal]] 
+- [[../../../_secret/astro/Star/Hamal.secret.md|Hamal.secret]]
+

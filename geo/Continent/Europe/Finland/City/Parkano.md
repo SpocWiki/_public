@@ -29,3 +29,12 @@ markerFile: [[Parkano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Parkano.md|Parkano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Parkano.internal.md|Parkano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Parkano.protect.md|Parkano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Parkano.private.md|Parkano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Parkano.personal.md|Parkano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Parkano.secret.md|Parkano.secret]] 

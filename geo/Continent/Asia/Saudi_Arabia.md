@@ -132,3 +132,12 @@ markerFolder: ./Saudi_Arabia/City
 [geo-lon::43.27]
 [geo-lat::23.05]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Saudi_Arabia.md|Saudi_Arabia]] 
+- [[../../../../_internal/geo/Continent/Asia/Saudi_Arabia.internal.md|Saudi_Arabia.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Saudi_Arabia.protect.md|Saudi_Arabia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Saudi_Arabia.private.md|Saudi_Arabia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Saudi_Arabia.personal.md|Saudi_Arabia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Saudi_Arabia.secret.md|Saudi_Arabia.secret]] 

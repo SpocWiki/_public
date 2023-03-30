@@ -29,3 +29,12 @@ markerFile: [[Castiglione_Fior]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Castiglione_Fior.md|Castiglione_Fior]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Castiglione_Fior.internal.md|Castiglione_Fior.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Castiglione_Fior.protect.md|Castiglione_Fior.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Castiglione_Fior.private.md|Castiglione_Fior.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Castiglione_Fior.personal.md|Castiglione_Fior.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Castiglione_Fior.secret.md|Castiglione_Fior.secret]] 

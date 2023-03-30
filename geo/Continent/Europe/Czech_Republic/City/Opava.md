@@ -29,3 +29,12 @@ markerFile: [[Opava]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Opava.md|Opava]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Opava.internal.md|Opava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Opava.protect.md|Opava.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Opava.private.md|Opava.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Opava.personal.md|Opava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Opava.secret.md|Opava.secret]] 

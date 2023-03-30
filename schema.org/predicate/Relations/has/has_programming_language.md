@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_programming_language )
 ( #has_/range :: ComputerLanguage, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_programming_language.md|has_programming_language]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_programming_language.internal.md|has_programming_language.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_programming_language.protect.md|has_programming_language.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_programming_language.private.md|has_programming_language.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_programming_language.personal.md|has_programming_language.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_programming_language.secret.md|has_programming_language.secret]] 

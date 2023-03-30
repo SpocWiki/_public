@@ -43,3 +43,12 @@ Lists or enumerationsâ€”for example, a list of cuisines or music genres, et
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/enumeration.md|enumeration]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration.internal.md|enumeration.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration.protect.md|enumeration.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/enumeration.private.md|enumeration.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration.personal.md|enumeration.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration.secret.md|enumeration.secret]] 

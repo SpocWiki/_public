@@ -29,3 +29,12 @@ markerFile: [[Stalinir]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinir.md|Stalinir]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinir.internal.md|Stalinir.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinir.protect.md|Stalinir.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinir.private.md|Stalinir.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalinir.personal.md|Stalinir.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalinir.secret.md|Stalinir.secret]] 

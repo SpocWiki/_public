@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_service_output )
 ( #has_/range :: Thing )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_service_output.md|has_service_output]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_service_output.internal.md|has_service_output.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_service_output.protect.md|has_service_output.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_service_output.private.md|has_service_output.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_service_output.personal.md|has_service_output.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_service_output.secret.md|has_service_output.secret]] 

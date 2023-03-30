@@ -29,3 +29,12 @@ markerFile: [[Sjoetorp]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Sjoetorp.md|Sjoetorp]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sjoetorp.internal.md|Sjoetorp.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sjoetorp.protect.md|Sjoetorp.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sjoetorp.private.md|Sjoetorp.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sjoetorp.personal.md|Sjoetorp.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sjoetorp.secret.md|Sjoetorp.secret]] 

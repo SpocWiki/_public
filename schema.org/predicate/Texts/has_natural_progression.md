@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_natural_progression )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_natural_progression.md|has_natural_progression]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_natural_progression.internal.md|has_natural_progression.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_natural_progression.protect.md|has_natural_progression.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_natural_progression.private.md|has_natural_progression.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_natural_progression.personal.md|has_natural_progression.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_natural_progression.secret.md|has_natural_progression.secret]] 

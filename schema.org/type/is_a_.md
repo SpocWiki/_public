@@ -41,3 +41,12 @@ The most generic type of item.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/schema.org/Type/is_a_.md|is_a_]] 
+- [[../../../_internal/schema.org/Type/is_a_.internal.md|is_a_.internal]] 
+- [[../../../_protect/schema.org/Type/is_a_.protect.md|is_a_.protect]] 
+- [[../../../_private/schema.org/Type/is_a_.private.md|is_a_.private]] 
+- [[../../../_personal/schema.org/Type/is_a_.personal.md|is_a_.personal]] 
+- [[../../../_secret/schema.org/Type/is_a_.secret.md|is_a_.secret]] 

@@ -30,3 +30,12 @@ geojsonFolder: ./Kingston-upon-Thames
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.md|Kingston~Thames]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.internal.md|Kingston~Thames.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.protect.md|Kingston~Thames.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.private.md|Kingston~Thames.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.personal.md|Kingston~Thames.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.secret.md|Kingston~Thames.secret]] 

@@ -35,3 +35,12 @@ SpocWebEntityId: 6012
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Copper)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-11-Copper/Copper.md|Copper]] 
+- [[../../../../_internal/chemic/Elements/Group-11-Copper/Copper.internal.md|Copper.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-11-Copper/Copper.protect.md|Copper.protect]] 
+- [[../../../../_private/chemic/Elements/Group-11-Copper/Copper.private.md|Copper.private]] 
+- [[../../../../_personal/chemic/Elements/Group-11-Copper/Copper.personal.md|Copper.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-11-Copper/Copper.secret.md|Copper.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Augustow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Augustow.md|Augustow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Augustow.internal.md|Augustow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Augustow.protect.md|Augustow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Augustow.private.md|Augustow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Augustow.personal.md|Augustow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Augustow.secret.md|Augustow.secret]] 

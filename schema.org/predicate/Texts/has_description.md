@@ -45,3 +45,12 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_description.md|has_description]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_description.internal.md|has_description.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_description.protect.md|has_description.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_description.private.md|has_description.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_description.personal.md|has_description.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_description.secret.md|has_description.secret]] 

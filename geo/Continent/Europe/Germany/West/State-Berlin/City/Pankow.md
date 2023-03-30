@@ -28,3 +28,12 @@ markerFile: [[Pankow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.md|Pankow]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.internal.md|Pankow.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.protect.md|Pankow.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.private.md|Pankow.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.personal.md|Pankow.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.secret.md|Pankow.secret]] 

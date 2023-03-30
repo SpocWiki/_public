@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: providesBroadcastService ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_broadcast_channel.md|has_broadcast_channel]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_channel.internal.md|has_broadcast_channel.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcast_channel.protect.md|has_broadcast_channel.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_broadcast_channel.private.md|has_broadcast_channel.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_broadcast_channel.personal.md|has_broadcast_channel.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_broadcast_channel.secret.md|has_broadcast_channel.secret]] 

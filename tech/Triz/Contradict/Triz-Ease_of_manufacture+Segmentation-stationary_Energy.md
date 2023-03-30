@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-stationary_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-stationary_Energy.md|Triz-Ease_of_manufacture+Segmentation-stationary_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-stationary_Energy.internal.md|Triz-Ease_of_manufacture+Segmentation-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-stationary_Energy.protect.md|Triz-Ease_of_manufacture+Segmentation-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-stationary_Energy.private.md|Triz-Ease_of_manufacture+Segmentation-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-stationary_Energy.personal.md|Triz-Ease_of_manufacture+Segmentation-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-stationary_Energy.secret.md|Triz-Ease_of_manufacture+Segmentation-stationary_Energy.secret]] 

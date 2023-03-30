@@ -29,3 +29,12 @@ markerFile: [[Shaftesbury]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.md|Shaftesbury]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.internal.md|Shaftesbury.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.protect.md|Shaftesbury.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.private.md|Shaftesbury.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.personal.md|Shaftesbury.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.secret.md|Shaftesbury.secret]] 

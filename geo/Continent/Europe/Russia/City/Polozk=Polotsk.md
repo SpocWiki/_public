@@ -29,3 +29,12 @@ markerFile: [[Polozk=Polotsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Polozk=Polotsk.md|Polozk=Polotsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Polozk=Polotsk.internal.md|Polozk=Polotsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Polozk=Polotsk.protect.md|Polozk=Polotsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Polozk=Polotsk.private.md|Polozk=Polotsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Polozk=Polotsk.personal.md|Polozk=Polotsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Polozk=Polotsk.secret.md|Polozk=Polotsk.secret]] 

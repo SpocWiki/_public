@@ -29,3 +29,12 @@ markerFile: [[Toledo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Toledo.md|Toledo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Toledo.internal.md|Toledo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Toledo.protect.md|Toledo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Toledo.private.md|Toledo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Toledo.personal.md|Toledo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Toledo.secret.md|Toledo.secret]] 

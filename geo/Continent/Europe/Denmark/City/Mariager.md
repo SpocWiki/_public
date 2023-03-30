@@ -29,3 +29,12 @@ markerFile: [[Mariager]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Mariager.md|Mariager]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Mariager.internal.md|Mariager.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Mariager.protect.md|Mariager.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Mariager.private.md|Mariager.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Mariager.personal.md|Mariager.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Mariager.secret.md|Mariager.secret]] 

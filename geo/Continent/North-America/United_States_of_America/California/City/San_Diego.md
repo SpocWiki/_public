@@ -28,3 +28,12 @@ markerFile: [[San_Diego]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/San_Diego.md|San_Diego]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/San_Diego.internal.md|San_Diego.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/San_Diego.protect.md|San_Diego.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/San_Diego.private.md|San_Diego.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/San_Diego.personal.md|San_Diego.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/San_Diego.secret.md|San_Diego.secret]] 

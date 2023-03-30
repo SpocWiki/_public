@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28086]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Aquarii-204.md|Aquarii-204]] 
+- [[../../../_internal/astro/Star/Aquarii-204.internal.md|Aquarii-204.internal]] 
+- [[../../../_protect/astro/Star/Aquarii-204.protect.md|Aquarii-204.protect]] 
+- [[../../../_private/astro/Star/Aquarii-204.private.md|Aquarii-204.private]] 
+- [[../../../_personal/astro/Star/Aquarii-204.personal.md|Aquarii-204.personal]] 
+- [[../../../_secret/astro/Star/Aquarii-204.secret.md|Aquarii-204.secret]]
+

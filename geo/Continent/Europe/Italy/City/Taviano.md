@@ -29,3 +29,12 @@ markerFile: [[Taviano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Taviano.md|Taviano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Taviano.internal.md|Taviano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Taviano.protect.md|Taviano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Taviano.private.md|Taviano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Taviano.personal.md|Taviano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Taviano.secret.md|Taviano.secret]] 

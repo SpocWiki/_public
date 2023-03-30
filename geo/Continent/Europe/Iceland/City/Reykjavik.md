@@ -29,3 +29,12 @@ markerFile: [[Reykjavik]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Iceland/City/Reykjavik.md|Reykjavik]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Iceland/City/Reykjavik.internal.md|Reykjavik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Iceland/City/Reykjavik.protect.md|Reykjavik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Iceland/City/Reykjavik.private.md|Reykjavik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Iceland/City/Reykjavik.personal.md|Reykjavik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Iceland/City/Reykjavik.secret.md|Reykjavik.secret]] 

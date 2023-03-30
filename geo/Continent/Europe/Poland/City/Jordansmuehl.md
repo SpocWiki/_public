@@ -29,3 +29,12 @@ markerFile: [[Jordansmuehl]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Jordansmuehl.md|Jordansmuehl]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jordansmuehl.internal.md|Jordansmuehl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jordansmuehl.protect.md|Jordansmuehl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jordansmuehl.private.md|Jordansmuehl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jordansmuehl.personal.md|Jordansmuehl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jordansmuehl.secret.md|Jordansmuehl.secret]] 

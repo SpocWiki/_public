@@ -29,3 +29,12 @@ markerFile: [[Kampala]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/City/Kampala.md|Kampala]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/City/Kampala.internal.md|Kampala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/City/Kampala.protect.md|Kampala.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/City/Kampala.private.md|Kampala.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/City/Kampala.personal.md|Kampala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/City/Kampala.secret.md|Kampala.secret]] 

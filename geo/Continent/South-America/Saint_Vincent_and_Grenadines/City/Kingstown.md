@@ -29,3 +29,12 @@ markerFile: [[Kingstown]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.md|Kingstown]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.internal.md|Kingstown.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.protect.md|Kingstown.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.private.md|Kingstown.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.personal.md|Kingstown.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.secret.md|Kingstown.secret]] 

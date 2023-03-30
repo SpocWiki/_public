@@ -29,3 +29,12 @@ markerFile: [[Tours]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Tours.md|Tours]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tours.internal.md|Tours.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tours.protect.md|Tours.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Tours.private.md|Tours.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tours.personal.md|Tours.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tours.secret.md|Tours.secret]] 

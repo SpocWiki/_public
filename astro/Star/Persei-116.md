@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28145]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Persei-116.md|Persei-116]] 
+- [[../../../_internal/astro/Star/Persei-116.internal.md|Persei-116.internal]] 
+- [[../../../_protect/astro/Star/Persei-116.protect.md|Persei-116.protect]] 
+- [[../../../_private/astro/Star/Persei-116.private.md|Persei-116.private]] 
+- [[../../../_personal/astro/Star/Persei-116.personal.md|Persei-116.personal]] 
+- [[../../../_secret/astro/Star/Persei-116.secret.md|Persei-116.secret]] 

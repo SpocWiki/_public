@@ -29,3 +29,12 @@ markerFile: [[Castellamaro_di_Golfo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.md|Castellamaro_di_Golfo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.internal.md|Castellamaro_di_Golfo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.protect.md|Castellamaro_di_Golfo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.private.md|Castellamaro_di_Golfo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.personal.md|Castellamaro_di_Golfo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.secret.md|Castellamaro_di_Golfo.secret]] 

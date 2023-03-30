@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
 - [con::Substance-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret]] 

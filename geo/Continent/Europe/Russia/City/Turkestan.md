@@ -29,3 +29,12 @@ markerFile: [[Turkestan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Turkestan.md|Turkestan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Turkestan.internal.md|Turkestan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Turkestan.protect.md|Turkestan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Turkestan.private.md|Turkestan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Turkestan.personal.md|Turkestan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Turkestan.secret.md|Turkestan.secret]] 

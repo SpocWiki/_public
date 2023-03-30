@@ -28,3 +28,12 @@ markerFile: [[Alton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.md|Alton]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.internal.md|Alton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.protect.md|Alton.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.private.md|Alton.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.personal.md|Alton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.secret.md|Alton.secret]] 

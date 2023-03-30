@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Rushing_through]]]
 - [con::[[Triz-Quantity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.md|Triz-Reliability+Rushing_through-Quantity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.internal.md|Triz-Reliability+Rushing_through-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.protect.md|Triz-Reliability+Rushing_through-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.private.md|Triz-Reliability+Rushing_through-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.personal.md|Triz-Reliability+Rushing_through-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.secret.md|Triz-Reliability+Rushing_through-Quantity.secret]] 

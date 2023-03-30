@@ -28,3 +28,12 @@ markerFile: [[Anantapur]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/India/City/Anantapur.md|Anantapur]] 
+- [[../../../../../../_internal/geo/Continent/Asia/India/City/Anantapur.internal.md|Anantapur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/India/City/Anantapur.protect.md|Anantapur.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/India/City/Anantapur.private.md|Anantapur.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/India/City/Anantapur.personal.md|Anantapur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/India/City/Anantapur.secret.md|Anantapur.secret]] 

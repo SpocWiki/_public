@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_iupac_name )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_iupac_name.md|has_iupac_name]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_iupac_name.internal.md|has_iupac_name.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_iupac_name.protect.md|has_iupac_name.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_iupac_name.private.md|has_iupac_name.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_iupac_name.personal.md|has_iupac_name.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_iupac_name.secret.md|has_iupac_name.secret]] 

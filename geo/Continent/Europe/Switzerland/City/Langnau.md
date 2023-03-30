@@ -29,3 +29,12 @@ markerFile: [[Langnau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Langnau.md|Langnau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Langnau.internal.md|Langnau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Langnau.protect.md|Langnau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Langnau.private.md|Langnau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Langnau.personal.md|Langnau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Langnau.secret.md|Langnau.secret]] 

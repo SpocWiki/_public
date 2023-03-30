@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_edu_question_type )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_edu_question_type.md|has_edu_question_type]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_edu_question_type.internal.md|has_edu_question_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_edu_question_type.protect.md|has_edu_question_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_edu_question_type.private.md|has_edu_question_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_edu_question_type.personal.md|has_edu_question_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_edu_question_type.secret.md|has_edu_question_type.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Vasknarva]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vasknarva.md|Vasknarva]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vasknarva.internal.md|Vasknarva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vasknarva.protect.md|Vasknarva.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vasknarva.private.md|Vasknarva.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vasknarva.personal.md|Vasknarva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vasknarva.secret.md|Vasknarva.secret]] 

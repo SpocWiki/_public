@@ -29,3 +29,12 @@ markerFile: [[Bressuire]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Bressuire.md|Bressuire]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bressuire.internal.md|Bressuire.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bressuire.protect.md|Bressuire.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bressuire.private.md|Bressuire.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bressuire.personal.md|Bressuire.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bressuire.secret.md|Bressuire.secret]] 

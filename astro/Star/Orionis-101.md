@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Orionis-101.md|Orionis-101]] 
+- [[../../../_internal/astro/Star/Orionis-101.internal.md|Orionis-101.internal]] 
+- [[../../../_protect/astro/Star/Orionis-101.protect.md|Orionis-101.protect]] 
+- [[../../../_private/astro/Star/Orionis-101.private.md|Orionis-101.private]] 
+- [[../../../_personal/astro/Star/Orionis-101.personal.md|Orionis-101.personal]] 
+- [[../../../_secret/astro/Star/Orionis-101.secret.md|Orionis-101.secret]] 

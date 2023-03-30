@@ -29,3 +29,12 @@ markerFile: [[Rathmines]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Rathmines.md|Rathmines]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Rathmines.internal.md|Rathmines.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Rathmines.protect.md|Rathmines.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Rathmines.private.md|Rathmines.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Rathmines.personal.md|Rathmines.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Rathmines.secret.md|Rathmines.secret]] 

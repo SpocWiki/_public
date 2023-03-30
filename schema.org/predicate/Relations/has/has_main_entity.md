@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: about ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_main_entity.md|has_main_entity]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_main_entity.internal.md|has_main_entity.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_main_entity.protect.md|has_main_entity.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_main_entity.private.md|has_main_entity.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_main_entity.personal.md|has_main_entity.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_main_entity.secret.md|has_main_entity.secret]] 

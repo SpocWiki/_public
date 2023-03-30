@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28115]
 [NextStarId::27903]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Doradus-1.md|Doradus-1]] 
+- [[../../../_internal/astro/Star/Doradus-1.internal.md|Doradus-1.internal]] 
+- [[../../../_protect/astro/Star/Doradus-1.protect.md|Doradus-1.protect]] 
+- [[../../../_private/astro/Star/Doradus-1.private.md|Doradus-1.private]] 
+- [[../../../_personal/astro/Star/Doradus-1.personal.md|Doradus-1.personal]] 
+- [[../../../_secret/astro/Star/Doradus-1.secret.md|Doradus-1.secret]]
+

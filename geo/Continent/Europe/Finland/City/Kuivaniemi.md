@@ -29,3 +29,12 @@ markerFile: [[Kuivaniemi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kuivaniemi.md|Kuivaniemi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuivaniemi.internal.md|Kuivaniemi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuivaniemi.protect.md|Kuivaniemi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kuivaniemi.private.md|Kuivaniemi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuivaniemi.personal.md|Kuivaniemi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuivaniemi.secret.md|Kuivaniemi.secret]] 

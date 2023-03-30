@@ -29,3 +29,12 @@ markerFile: [[Seda]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Seda.md|Seda]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Seda.internal.md|Seda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Seda.protect.md|Seda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Seda.private.md|Seda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Seda.personal.md|Seda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Seda.secret.md|Seda.secret]] 

@@ -132,3 +132,12 @@ markerFolder: ./Sweden/City
 [geo-lon::16.5434]
 [geo-lat::59.7646]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Sweden.md|Sweden]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden.internal.md|Sweden.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden.protect.md|Sweden.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden.private.md|Sweden.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden.personal.md|Sweden.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden.secret.md|Sweden.secret]] 

@@ -46,3 +46,12 @@ Predicate describes that:
 ( #has_/name :: is_accessible_for_free )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_accessible_for_free.md|is_accessible_for_free]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_accessible_for_free.internal.md|is_accessible_for_free.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_accessible_for_free.protect.md|is_accessible_for_free.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_accessible_for_free.private.md|is_accessible_for_free.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_accessible_for_free.personal.md|is_accessible_for_free.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_accessible_for_free.secret.md|is_accessible_for_free.secret]] 

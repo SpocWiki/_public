@@ -29,3 +29,12 @@ markerFile: [[Renfrew]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.md|Renfrew]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.internal.md|Renfrew.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.protect.md|Renfrew.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.private.md|Renfrew.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.personal.md|Renfrew.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.secret.md|Renfrew.secret]] 

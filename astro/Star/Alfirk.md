@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28102]
 [NextStarId::27442]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alfirk.md|Alfirk]] 
+- [[../../../_internal/astro/Star/Alfirk.internal.md|Alfirk.internal]] 
+- [[../../../_protect/astro/Star/Alfirk.protect.md|Alfirk.protect]] 
+- [[../../../_private/astro/Star/Alfirk.private.md|Alfirk.private]] 
+- [[../../../_personal/astro/Star/Alfirk.personal.md|Alfirk.personal]] 
+- [[../../../_secret/astro/Star/Alfirk.secret.md|Alfirk.secret]]
+

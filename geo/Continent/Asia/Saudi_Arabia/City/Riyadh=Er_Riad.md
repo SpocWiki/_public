@@ -29,3 +29,12 @@ markerFile: [[Riyadh=Er_Riad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Saudi_Arabia/City/Riyadh=Er_Riad.md|Riyadh=Er_Riad]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Saudi_Arabia/City/Riyadh=Er_Riad.internal.md|Riyadh=Er_Riad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Saudi_Arabia/City/Riyadh=Er_Riad.protect.md|Riyadh=Er_Riad.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Saudi_Arabia/City/Riyadh=Er_Riad.private.md|Riyadh=Er_Riad.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Saudi_Arabia/City/Riyadh=Er_Riad.personal.md|Riyadh=Er_Riad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Saudi_Arabia/City/Riyadh=Er_Riad.secret.md|Riyadh=Er_Riad.secret]] 

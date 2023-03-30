@@ -41,3 +41,12 @@ An agent bookmarks/flags/labels/tags/marks an object.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/action/organize_action/bookmark_action.md|bookmark_action]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/bookmark_action.internal.md|bookmark_action.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/bookmark_action.protect.md|bookmark_action.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/action/organize_action/bookmark_action.private.md|bookmark_action.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/bookmark_action.personal.md|bookmark_action.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/bookmark_action.secret.md|bookmark_action.secret]] 

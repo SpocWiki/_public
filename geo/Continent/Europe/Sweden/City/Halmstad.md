@@ -29,3 +29,12 @@ markerFile: [[Halmstad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Halmstad.md|Halmstad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Halmstad.internal.md|Halmstad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Halmstad.protect.md|Halmstad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Halmstad.private.md|Halmstad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Halmstad.personal.md|Halmstad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Halmstad.secret.md|Halmstad.secret]] 

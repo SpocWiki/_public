@@ -29,3 +29,12 @@ markerFile: [[Krivoi_Rog]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Krivoi_Rog.md|Krivoi_Rog]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Krivoi_Rog.internal.md|Krivoi_Rog.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Krivoi_Rog.protect.md|Krivoi_Rog.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Krivoi_Rog.private.md|Krivoi_Rog.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Krivoi_Rog.personal.md|Krivoi_Rog.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Krivoi_Rog.secret.md|Krivoi_Rog.secret]] 

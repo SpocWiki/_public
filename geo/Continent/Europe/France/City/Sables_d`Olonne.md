@@ -29,3 +29,12 @@ markerFile: [[Sables_d`Olonne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Sables_d`Olonne.md|Sables_d`Olonne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sables_d`Olonne.internal.md|Sables_d`Olonne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sables_d`Olonne.protect.md|Sables_d`Olonne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Sables_d`Olonne.private.md|Sables_d`Olonne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sables_d`Olonne.personal.md|Sables_d`Olonne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sables_d`Olonne.secret.md|Sables_d`Olonne.secret]] 

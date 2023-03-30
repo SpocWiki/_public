@@ -29,3 +29,12 @@ markerFolder: ./State-Hamburg/City
 [geo-lat::53.54]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/West/State-Hamburg.md|State-Hamburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg.internal.md|State-Hamburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg.protect.md|State-Hamburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg.private.md|State-Hamburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg.personal.md|State-Hamburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg.secret.md|State-Hamburg.secret]] 

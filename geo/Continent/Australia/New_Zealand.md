@@ -130,3 +130,12 @@ markerFolder: ./New_Zealand/City
 [geo-lon::174.78]
 [geo-lat::-41.28]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Australia/New_Zealand.md|New_Zealand]] 
+- [[../../../../_internal/geo/Continent/Australia/New_Zealand.internal.md|New_Zealand.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/New_Zealand.protect.md|New_Zealand.protect]] 
+- [[../../../../_private/geo/Continent/Australia/New_Zealand.private.md|New_Zealand.private]] 
+- [[../../../../_personal/geo/Continent/Australia/New_Zealand.personal.md|New_Zealand.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/New_Zealand.secret.md|New_Zealand.secret]] 

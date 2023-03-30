@@ -29,3 +29,12 @@ markerFile: [[Crevalcuore]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Crevalcuore.md|Crevalcuore]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Crevalcuore.internal.md|Crevalcuore.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Crevalcuore.protect.md|Crevalcuore.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Crevalcuore.private.md|Crevalcuore.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Crevalcuore.personal.md|Crevalcuore.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Crevalcuore.secret.md|Crevalcuore.secret]] 

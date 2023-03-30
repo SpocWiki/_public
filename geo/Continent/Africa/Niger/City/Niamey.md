@@ -29,3 +29,12 @@ markerFile: [[Niamey]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Niger/City/Niamey.md|Niamey]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Niger/City/Niamey.internal.md|Niamey.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Niger/City/Niamey.protect.md|Niamey.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Niger/City/Niamey.private.md|Niamey.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Niger/City/Niamey.personal.md|Niamey.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Niger/City/Niamey.secret.md|Niamey.secret]] 

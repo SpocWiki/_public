@@ -29,3 +29,12 @@ markerFile: [[Striegau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Striegau.md|Striegau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Striegau.internal.md|Striegau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Striegau.protect.md|Striegau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Striegau.private.md|Striegau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Striegau.personal.md|Striegau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Striegau.secret.md|Striegau.secret]] 

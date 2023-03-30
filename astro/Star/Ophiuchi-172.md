@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28141]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Ophiuchi-172.md|Ophiuchi-172]] 
+- [[../../../_internal/astro/Star/Ophiuchi-172.internal.md|Ophiuchi-172.internal]] 
+- [[../../../_protect/astro/Star/Ophiuchi-172.protect.md|Ophiuchi-172.protect]] 
+- [[../../../_private/astro/Star/Ophiuchi-172.private.md|Ophiuchi-172.private]] 
+- [[../../../_personal/astro/Star/Ophiuchi-172.personal.md|Ophiuchi-172.personal]] 
+- [[../../../_secret/astro/Star/Ophiuchi-172.secret.md|Ophiuchi-172.secret]] 

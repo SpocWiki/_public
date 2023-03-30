@@ -43,3 +43,12 @@ This stands for any day that is a public holiday; it is a placeholder for all of
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week/public_holidays.md|public_holidays]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/public_holidays.internal.md|public_holidays.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week/public_holidays.protect.md|public_holidays.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week/public_holidays.private.md|public_holidays.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/public_holidays.personal.md|public_holidays.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/public_holidays.secret.md|public_holidays.secret]] 

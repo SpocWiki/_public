@@ -20,3 +20,12 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%203%20element)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/chemic/Elements/Group-03-Scandium.md|Group-03-Scandium]] 
+- [[../../../_internal/chemic/Elements/Group-03-Scandium.internal.md|Group-03-Scandium.internal]] 
+- [[../../../_protect/chemic/Elements/Group-03-Scandium.protect.md|Group-03-Scandium.protect]] 
+- [[../../../_private/chemic/Elements/Group-03-Scandium.private.md|Group-03-Scandium.private]] 
+- [[../../../_personal/chemic/Elements/Group-03-Scandium.personal.md|Group-03-Scandium.personal]] 
+- [[../../../_secret/chemic/Elements/Group-03-Scandium.secret.md|Group-03-Scandium.secret]] 

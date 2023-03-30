@@ -29,3 +29,12 @@ markerFile: [[Apt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Apt.md|Apt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Apt.internal.md|Apt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Apt.protect.md|Apt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Apt.private.md|Apt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Apt.personal.md|Apt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Apt.secret.md|Apt.secret]] 

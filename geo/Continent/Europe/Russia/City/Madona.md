@@ -29,3 +29,12 @@ markerFile: [[Madona]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Madona.md|Madona]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Madona.internal.md|Madona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Madona.protect.md|Madona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Madona.private.md|Madona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Madona.personal.md|Madona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Madona.secret.md|Madona.secret]] 

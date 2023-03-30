@@ -129,3 +129,12 @@ markerFolder: ./Grenada/City
 [geo-lon::-61.75]
 [geo-lat::12.05]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Grenada.md|Grenada]] 
+- [[../../../../_internal/geo/Continent/South-America/Grenada.internal.md|Grenada.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Grenada.protect.md|Grenada.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Grenada.private.md|Grenada.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Grenada.personal.md|Grenada.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Grenada.secret.md|Grenada.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Loewen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Loewen.md|Loewen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Loewen.internal.md|Loewen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Loewen.protect.md|Loewen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Loewen.private.md|Loewen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Loewen.personal.md|Loewen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Loewen.secret.md|Loewen.secret]] 

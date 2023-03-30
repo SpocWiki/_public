@@ -29,3 +29,12 @@ markerFile: [[Guttannen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Guttannen.md|Guttannen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Guttannen.internal.md|Guttannen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Guttannen.protect.md|Guttannen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Guttannen.private.md|Guttannen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Guttannen.personal.md|Guttannen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Guttannen.secret.md|Guttannen.secret]] 

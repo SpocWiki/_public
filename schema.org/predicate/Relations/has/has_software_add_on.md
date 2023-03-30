@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_software_add_on )
 ( #has_/range :: SoftwareApplication )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_software_add_on.md|has_software_add_on]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_software_add_on.internal.md|has_software_add_on.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_software_add_on.protect.md|has_software_add_on.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_software_add_on.private.md|has_software_add_on.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_software_add_on.personal.md|has_software_add_on.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_software_add_on.secret.md|has_software_add_on.secret]] 

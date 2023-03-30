@@ -29,3 +29,12 @@ markerFile: [[Namur]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Namur.md|Namur]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Namur.internal.md|Namur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Namur.protect.md|Namur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Namur.private.md|Namur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Namur.personal.md|Namur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Namur.secret.md|Namur.secret]] 

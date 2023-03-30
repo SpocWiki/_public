@@ -29,3 +29,12 @@ markerFile: [[Mitau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mitau.md|Mitau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mitau.internal.md|Mitau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mitau.protect.md|Mitau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mitau.private.md|Mitau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mitau.personal.md|Mitau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mitau.secret.md|Mitau.secret]] 

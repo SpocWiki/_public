@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28134]
 [NextStarId::27439]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sheliak.md|Sheliak]] 
+- [[../../../_internal/astro/Star/Sheliak.internal.md|Sheliak.internal]] 
+- [[../../../_protect/astro/Star/Sheliak.protect.md|Sheliak.protect]] 
+- [[../../../_private/astro/Star/Sheliak.private.md|Sheliak.private]] 
+- [[../../../_personal/astro/Star/Sheliak.personal.md|Sheliak.personal]] 
+- [[../../../_secret/astro/Star/Sheliak.secret.md|Sheliak.secret]] 

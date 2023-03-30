@@ -29,3 +29,12 @@ markerFile: [[Aurillac]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Aurillac.md|Aurillac]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Aurillac.internal.md|Aurillac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Aurillac.protect.md|Aurillac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Aurillac.private.md|Aurillac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Aurillac.personal.md|Aurillac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Aurillac.secret.md|Aurillac.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Oxford]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Oxford.md|Oxford]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Oxford.internal.md|Oxford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Oxford.protect.md|Oxford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Oxford.private.md|Oxford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Oxford.personal.md|Oxford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Oxford.secret.md|Oxford.secret]] 

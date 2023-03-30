@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28090]
 [NextStarId::27376]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Capella.md|Capella]] 
+- [[../../../_internal/astro/Star/Capella.internal.md|Capella.internal]] 
+- [[../../../_protect/astro/Star/Capella.protect.md|Capella.protect]] 
+- [[../../../_private/astro/Star/Capella.private.md|Capella.private]] 
+- [[../../../_personal/astro/Star/Capella.personal.md|Capella.personal]] 
+- [[../../../_secret/astro/Star/Capella.secret.md|Capella.secret]]
+

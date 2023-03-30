@@ -28,3 +28,12 @@ markerFile: [[Tupelo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.md|Tupelo]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.internal.md|Tupelo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.protect.md|Tupelo.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.private.md|Tupelo.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.personal.md|Tupelo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.secret.md|Tupelo.secret]] 

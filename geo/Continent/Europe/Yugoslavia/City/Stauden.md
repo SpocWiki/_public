@@ -29,3 +29,12 @@ markerFile: [[Stauden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Stauden.md|Stauden]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stauden.internal.md|Stauden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stauden.protect.md|Stauden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stauden.private.md|Stauden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stauden.personal.md|Stauden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stauden.secret.md|Stauden.secret]] 

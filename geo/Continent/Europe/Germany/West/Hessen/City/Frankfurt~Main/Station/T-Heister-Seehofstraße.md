@@ -27,3 +27,12 @@ markerFile: [[T-Heister-Seehofstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstraße.md|T-Heister-Seehofstraße]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstraße.internal.md|T-Heister-Seehofstraße.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstraße.protect.md|T-Heister-Seehofstraße.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstraße.private.md|T-Heister-Seehofstraße.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstraße.personal.md|T-Heister-Seehofstraße.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstraße.secret.md|T-Heister-Seehofstraße.secret]] 

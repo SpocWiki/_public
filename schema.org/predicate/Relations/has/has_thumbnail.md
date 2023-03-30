@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_thumbnail )
 ( #has_/range :: ImageObject )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_thumbnail.md|has_thumbnail]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_thumbnail.internal.md|has_thumbnail.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_thumbnail.protect.md|has_thumbnail.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_thumbnail.private.md|has_thumbnail.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_thumbnail.personal.md|has_thumbnail.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_thumbnail.secret.md|has_thumbnail.secret]] 

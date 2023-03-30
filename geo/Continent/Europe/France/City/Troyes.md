@@ -29,3 +29,12 @@ markerFile: [[Troyes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Troyes.md|Troyes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Troyes.internal.md|Troyes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Troyes.protect.md|Troyes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Troyes.private.md|Troyes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Troyes.personal.md|Troyes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Troyes.secret.md|Troyes.secret]] 

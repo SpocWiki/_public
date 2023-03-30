@@ -43,3 +43,12 @@ markerFolder: ./Station/
 29) [[Station/S-Steinheim~Main]] 
 30) [[Station/S-Hanau_Hbf]] 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.md|FFM~S8]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.internal.md|FFM~S8.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.protect.md|FFM~S8.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.private.md|FFM~S8.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.personal.md|FFM~S8.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.secret.md|FFM~S8.secret]] 

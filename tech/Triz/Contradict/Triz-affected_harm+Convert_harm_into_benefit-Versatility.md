@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
 - [con::[[Triz-Versatility]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Versatility.md|Triz-affected_harm+Convert_harm_into_benefit-Versatility]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Versatility.internal.md|Triz-affected_harm+Convert_harm_into_benefit-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Versatility.protect.md|Triz-affected_harm+Convert_harm_into_benefit-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Versatility.private.md|Triz-affected_harm+Convert_harm_into_benefit-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Versatility.personal.md|Triz-affected_harm+Convert_harm_into_benefit-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Versatility.secret.md|Triz-affected_harm+Convert_harm_into_benefit-Versatility.secret]] 

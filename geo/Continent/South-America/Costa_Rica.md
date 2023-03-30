@@ -130,3 +130,12 @@ markerFolder: ./Costa_Rica/City
 [geo-lon::-84.08]
 [geo-lat::9.95]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Costa_Rica.md|Costa_Rica]] 
+- [[../../../../_internal/geo/Continent/South-America/Costa_Rica.internal.md|Costa_Rica.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Costa_Rica.protect.md|Costa_Rica.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Costa_Rica.private.md|Costa_Rica.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Costa_Rica.personal.md|Costa_Rica.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Costa_Rica.secret.md|Costa_Rica.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Cardigan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cardigan.md|Cardigan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cardigan.internal.md|Cardigan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cardigan.protect.md|Cardigan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cardigan.private.md|Cardigan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cardigan.personal.md|Cardigan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cardigan.secret.md|Cardigan.secret]] 

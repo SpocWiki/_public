@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28149]
 [NextStarId::27247]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Piscis_Australis-5.md|Piscis_Australis-5]] 
+- [[../../../_internal/astro/Star/Piscis_Australis-5.internal.md|Piscis_Australis-5.internal]] 
+- [[../../../_protect/astro/Star/Piscis_Australis-5.protect.md|Piscis_Australis-5.protect]] 
+- [[../../../_private/astro/Star/Piscis_Australis-5.private.md|Piscis_Australis-5.private]] 
+- [[../../../_personal/astro/Star/Piscis_Australis-5.personal.md|Piscis_Australis-5.personal]] 
+- [[../../../_secret/astro/Star/Piscis_Australis-5.secret.md|Piscis_Australis-5.secret]] 

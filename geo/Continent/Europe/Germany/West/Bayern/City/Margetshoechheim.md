@@ -28,3 +28,12 @@ markerFile: [[Margetshoechheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.md|Margetshoechheim]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.internal.md|Margetshoechheim.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.protect.md|Margetshoechheim.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.private.md|Margetshoechheim.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.personal.md|Margetshoechheim.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.secret.md|Margetshoechheim.secret]] 

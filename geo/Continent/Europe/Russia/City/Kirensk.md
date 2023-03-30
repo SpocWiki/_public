@@ -29,3 +29,12 @@ markerFile: [[Kirensk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kirensk.md|Kirensk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirensk.internal.md|Kirensk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirensk.protect.md|Kirensk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kirensk.private.md|Kirensk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirensk.personal.md|Kirensk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirensk.secret.md|Kirensk.secret]] 

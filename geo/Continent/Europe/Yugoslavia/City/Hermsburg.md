@@ -29,3 +29,12 @@ markerFile: [[Hermsburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Hermsburg.md|Hermsburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Hermsburg.internal.md|Hermsburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Hermsburg.protect.md|Hermsburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Hermsburg.private.md|Hermsburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Hermsburg.personal.md|Hermsburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Hermsburg.secret.md|Hermsburg.secret]] 

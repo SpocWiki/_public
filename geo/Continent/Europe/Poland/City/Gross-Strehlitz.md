@@ -29,3 +29,12 @@ markerFile: [[Gross-Strehlitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gross-Strehlitz.md|Gross-Strehlitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gross-Strehlitz.internal.md|Gross-Strehlitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gross-Strehlitz.protect.md|Gross-Strehlitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gross-Strehlitz.private.md|Gross-Strehlitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gross-Strehlitz.personal.md|Gross-Strehlitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gross-Strehlitz.secret.md|Gross-Strehlitz.secret]] 

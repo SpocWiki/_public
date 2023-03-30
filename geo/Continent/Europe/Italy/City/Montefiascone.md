@@ -29,3 +29,12 @@ markerFile: [[Montefiascone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Montefiascone.md|Montefiascone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montefiascone.internal.md|Montefiascone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montefiascone.protect.md|Montefiascone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montefiascone.private.md|Montefiascone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montefiascone.personal.md|Montefiascone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montefiascone.secret.md|Montefiascone.secret]] 

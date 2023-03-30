@@ -28,3 +28,12 @@ markerFile: [[Bergedorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.md|Bergedorf]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.internal.md|Bergedorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.protect.md|Bergedorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.private.md|Bergedorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.personal.md|Bergedorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.secret.md|Bergedorf.secret]] 

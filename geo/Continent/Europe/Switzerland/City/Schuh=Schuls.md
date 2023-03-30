@@ -29,3 +29,12 @@ markerFile: [[Schuh=Schuls]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.md|Schuh=Schuls]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.internal.md|Schuh=Schuls.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.protect.md|Schuh=Schuls.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.private.md|Schuh=Schuls.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.personal.md|Schuh=Schuls.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.secret.md|Schuh=Schuls.secret]] 

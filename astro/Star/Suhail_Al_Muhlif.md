@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28167]
 [NextStarId::27299]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Suhail_Al_Muhlif.md|Suhail_Al_Muhlif]] 
+- [[../../../_internal/astro/Star/Suhail_Al_Muhlif.internal.md|Suhail_Al_Muhlif.internal]] 
+- [[../../../_protect/astro/Star/Suhail_Al_Muhlif.protect.md|Suhail_Al_Muhlif.protect]] 
+- [[../../../_private/astro/Star/Suhail_Al_Muhlif.private.md|Suhail_Al_Muhlif.private]] 
+- [[../../../_personal/astro/Star/Suhail_Al_Muhlif.personal.md|Suhail_Al_Muhlif.personal]] 
+- [[../../../_secret/astro/Star/Suhail_Al_Muhlif.secret.md|Suhail_Al_Muhlif.secret]] 

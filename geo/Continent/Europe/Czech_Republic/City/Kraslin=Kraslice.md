@@ -29,3 +29,12 @@ markerFile: [[Kraslin=Kraslice]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.md|Kraslin=Kraslice]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.internal.md|Kraslin=Kraslice.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.protect.md|Kraslin=Kraslice.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.private.md|Kraslin=Kraslice.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.personal.md|Kraslin=Kraslice.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.secret.md|Kraslin=Kraslice.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Spheroidality]]]
 - [con::[[Triz-Quantity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Spheroidality-Quantity.md|Triz-Stress+Spheroidality-Quantity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Spheroidality-Quantity.internal.md|Triz-Stress+Spheroidality-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Spheroidality-Quantity.protect.md|Triz-Stress+Spheroidality-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Spheroidality-Quantity.private.md|Triz-Stress+Spheroidality-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Spheroidality-Quantity.personal.md|Triz-Stress+Spheroidality-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Spheroidality-Quantity.secret.md|Triz-Stress+Spheroidality-Quantity.secret]] 

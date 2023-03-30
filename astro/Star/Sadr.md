@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28113]
 [NextStarId::27681]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sadr.md|Sadr]] 
+- [[../../../_internal/astro/Star/Sadr.internal.md|Sadr.internal]] 
+- [[../../../_protect/astro/Star/Sadr.protect.md|Sadr.protect]] 
+- [[../../../_private/astro/Star/Sadr.private.md|Sadr.private]] 
+- [[../../../_personal/astro/Star/Sadr.personal.md|Sadr.personal]] 
+- [[../../../_secret/astro/Star/Sadr.secret.md|Sadr.secret]] 

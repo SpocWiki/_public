@@ -29,3 +29,12 @@ markerFile: [[Rosenberg~Westpommern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rosenberg~Westpommern.md|Rosenberg~Westpommern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rosenberg~Westpommern.internal.md|Rosenberg~Westpommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rosenberg~Westpommern.protect.md|Rosenberg~Westpommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rosenberg~Westpommern.private.md|Rosenberg~Westpommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rosenberg~Westpommern.personal.md|Rosenberg~Westpommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rosenberg~Westpommern.secret.md|Rosenberg~Westpommern.secret]] 

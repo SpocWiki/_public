@@ -29,3 +29,12 @@ markerFile: [[Nonantola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Nonantola.md|Nonantola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Nonantola.internal.md|Nonantola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Nonantola.protect.md|Nonantola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Nonantola.private.md|Nonantola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Nonantola.personal.md|Nonantola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Nonantola.secret.md|Nonantola.secret]] 

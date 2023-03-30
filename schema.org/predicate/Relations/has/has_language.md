@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: instrument ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_language.md|has_language]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_language.internal.md|has_language.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_language.protect.md|has_language.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_language.private.md|has_language.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_language.personal.md|has_language.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_language.secret.md|has_language.secret]] 

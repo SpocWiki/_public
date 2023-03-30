@@ -29,3 +29,12 @@ markerFile: [[Kandskrona]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kandskrona.md|Kandskrona]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kandskrona.internal.md|Kandskrona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kandskrona.protect.md|Kandskrona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kandskrona.private.md|Kandskrona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kandskrona.personal.md|Kandskrona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kandskrona.secret.md|Kandskrona.secret]] 

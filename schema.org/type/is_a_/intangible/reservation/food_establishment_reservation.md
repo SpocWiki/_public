@@ -43,3 +43,12 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, endTime, identifier, image, mainEntityOfPage, modifiedTime, name, partySize, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, startTime, subjectOf, totalPrice, underName, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.md|food_establishment_reservation]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.internal.md|food_establishment_reservation.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.protect.md|food_establishment_reservation.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.private.md|food_establishment_reservation.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.personal.md|food_establishment_reservation.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.secret.md|food_establishment_reservation.secret]] 

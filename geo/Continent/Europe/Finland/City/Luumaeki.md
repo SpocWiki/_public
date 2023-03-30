@@ -29,3 +29,12 @@ markerFile: [[Luumaeki]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Luumaeki.md|Luumaeki]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Luumaeki.internal.md|Luumaeki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Luumaeki.protect.md|Luumaeki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Luumaeki.private.md|Luumaeki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Luumaeki.personal.md|Luumaeki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Luumaeki.secret.md|Luumaeki.secret]] 

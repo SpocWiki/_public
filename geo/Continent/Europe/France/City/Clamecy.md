@@ -29,3 +29,12 @@ markerFile: [[Clamecy]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Clamecy.md|Clamecy]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Clamecy.internal.md|Clamecy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Clamecy.protect.md|Clamecy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Clamecy.private.md|Clamecy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Clamecy.personal.md|Clamecy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Clamecy.secret.md|Clamecy.secret]] 

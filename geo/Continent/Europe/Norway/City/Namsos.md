@@ -29,3 +29,12 @@ markerFile: [[Namsos]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Namsos.md|Namsos]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Namsos.internal.md|Namsos.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Namsos.protect.md|Namsos.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Namsos.private.md|Namsos.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Namsos.personal.md|Namsos.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Namsos.secret.md|Namsos.secret]] 

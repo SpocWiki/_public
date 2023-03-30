@@ -29,3 +29,12 @@ markerFile: [[Kisko]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kisko.md|Kisko]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kisko.internal.md|Kisko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kisko.protect.md|Kisko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kisko.private.md|Kisko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kisko.personal.md|Kisko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kisko.secret.md|Kisko.secret]] 

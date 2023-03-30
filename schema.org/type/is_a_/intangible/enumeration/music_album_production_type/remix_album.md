@@ -43,3 +43,12 @@ RemixAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/remix_album.md|remix_album]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/remix_album.internal.md|remix_album.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/remix_album.protect.md|remix_album.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/remix_album.private.md|remix_album.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/remix_album.personal.md|remix_album.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/remix_album.secret.md|remix_album.secret]] 

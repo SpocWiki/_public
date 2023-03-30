@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_print_section )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_print_section.md|has_print_section]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_print_section.internal.md|has_print_section.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_print_section.protect.md|has_print_section.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_print_section.private.md|has_print_section.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_print_section.personal.md|has_print_section.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_print_section.secret.md|has_print_section.secret]] 

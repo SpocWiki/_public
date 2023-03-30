@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo_covers )
 ( #has_/range :: GeospatialGeometry, Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_that_covers.md|has_geo_that_covers]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_that_covers.internal.md|has_geo_that_covers.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_that_covers.protect.md|has_geo_that_covers.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_that_covers.private.md|has_geo_that_covers.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_that_covers.personal.md|has_geo_that_covers.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_that_covers.secret.md|has_geo_that_covers.secret]] 

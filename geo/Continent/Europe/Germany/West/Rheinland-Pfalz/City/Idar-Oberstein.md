@@ -28,3 +28,12 @@ markerFile: [[Idar-Oberstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.md|Idar-Oberstein]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.internal.md|Idar-Oberstein.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.protect.md|Idar-Oberstein.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.private.md|Idar-Oberstein.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.personal.md|Idar-Oberstein.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.secret.md|Idar-Oberstein.secret]] 

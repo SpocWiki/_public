@@ -35,3 +35,11 @@ SpocWebEntityId: 21919
 > Argon is extracted industrially by the fractional distillation of liquid air. Argon is mostly used as an inert shielding gas in welding and other high-temperature industrial processes where ordinarily unreactive substances become reactive; for example, an argon atmosphere is used in graphite electric furnaces to prevent the graphite from burning. Argon is also used in incandescent, fluorescent lighting, and other gas-discharge tubes. Argon makes a distinctive blue-green gas laser. Argon is also used in fluorescent glow starters.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Argon)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Argon.md|Argon]] 
+- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Argon.internal.md|Argon.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Argon.protect.md|Argon.protect]] 
+- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Argon.private.md|Argon.private]] 
+- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Argon.personal.md|Argon.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Argon.secret.md|Argon.secret]] 

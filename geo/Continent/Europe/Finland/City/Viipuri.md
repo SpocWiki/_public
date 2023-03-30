@@ -29,3 +29,12 @@ markerFile: [[Viipuri]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Viipuri.md|Viipuri]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Viipuri.internal.md|Viipuri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Viipuri.protect.md|Viipuri.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Viipuri.private.md|Viipuri.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Viipuri.personal.md|Viipuri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Viipuri.secret.md|Viipuri.secret]] 

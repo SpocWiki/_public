@@ -29,3 +29,12 @@ markerFile: [[Insterburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Insterburg.md|Insterburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Insterburg.internal.md|Insterburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Insterburg.protect.md|Insterburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Insterburg.private.md|Insterburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Insterburg.personal.md|Insterburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Insterburg.secret.md|Insterburg.secret]] 

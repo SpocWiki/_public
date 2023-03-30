@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_employer_overview )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_employer_overview.md|has_employer_overview]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_employer_overview.internal.md|has_employer_overview.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_employer_overview.protect.md|has_employer_overview.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_employer_overview.private.md|has_employer_overview.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_employer_overview.personal.md|has_employer_overview.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_employer_overview.secret.md|has_employer_overview.secret]] 

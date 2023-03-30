@@ -29,3 +29,12 @@ markerFile: [[Storlien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Storlien.md|Storlien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storlien.internal.md|Storlien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storlien.protect.md|Storlien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Storlien.private.md|Storlien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storlien.personal.md|Storlien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storlien.secret.md|Storlien.secret]] 

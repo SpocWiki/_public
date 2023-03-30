@@ -29,3 +29,12 @@ markerFile: [[Rykowskoje]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Rykowskoje.md|Rykowskoje]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Rykowskoje.internal.md|Rykowskoje.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Rykowskoje.protect.md|Rykowskoje.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Rykowskoje.private.md|Rykowskoje.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Rykowskoje.personal.md|Rykowskoje.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Rykowskoje.secret.md|Rykowskoje.secret]] 

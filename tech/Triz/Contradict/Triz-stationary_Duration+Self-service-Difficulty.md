@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Self-service]]]
 - [con::[[Triz-Difficulty]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.md|Triz-stationary_Duration+Self-service-Difficulty]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.internal.md|Triz-stationary_Duration+Self-service-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.protect.md|Triz-stationary_Duration+Self-service-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.private.md|Triz-stationary_Duration+Self-service-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.personal.md|Triz-stationary_Duration+Self-service-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.secret.md|Triz-stationary_Duration+Self-service-Difficulty.secret]] 

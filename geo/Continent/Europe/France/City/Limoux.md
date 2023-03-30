@@ -29,3 +29,12 @@ markerFile: [[Limoux]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Limoux.md|Limoux]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Limoux.internal.md|Limoux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Limoux.protect.md|Limoux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Limoux.private.md|Limoux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Limoux.personal.md|Limoux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Limoux.secret.md|Limoux.secret]] 

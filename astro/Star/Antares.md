@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27382]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Antares.md|Antares]] 
+- [[../../../_internal/astro/Star/Antares.internal.md|Antares.internal]] 
+- [[../../../_protect/astro/Star/Antares.protect.md|Antares.protect]] 
+- [[../../../_private/astro/Star/Antares.private.md|Antares.private]] 
+- [[../../../_personal/astro/Star/Antares.personal.md|Antares.personal]] 
+- [[../../../_secret/astro/Star/Antares.secret.md|Antares.secret]]
+

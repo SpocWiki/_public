@@ -124,3 +124,12 @@ markerFolder: ./Isle_of_Man/City
 [geo-lon::-4.5]
 [geo-lat::54.25]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Isle_of_Man.md|Isle_of_Man]] 
+- [[../../../../_internal/geo/Continent/Europe/Isle_of_Man.internal.md|Isle_of_Man.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Isle_of_Man.protect.md|Isle_of_Man.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Isle_of_Man.private.md|Isle_of_Man.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Isle_of_Man.personal.md|Isle_of_Man.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Isle_of_Man.secret.md|Isle_of_Man.secret]] 

@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28168]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Virginis-209.md|Virginis-209]] 
+- [[../../../_internal/astro/Star/Virginis-209.internal.md|Virginis-209.internal]] 
+- [[../../../_protect/astro/Star/Virginis-209.protect.md|Virginis-209.protect]] 
+- [[../../../_private/astro/Star/Virginis-209.private.md|Virginis-209.private]] 
+- [[../../../_personal/astro/Star/Virginis-209.personal.md|Virginis-209.personal]] 
+- [[../../../_secret/astro/Star/Virginis-209.secret.md|Virginis-209.secret]] 

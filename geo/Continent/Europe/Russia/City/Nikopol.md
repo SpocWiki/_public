@@ -29,3 +29,12 @@ markerFile: [[Nikopol]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nikopol.md|Nikopol]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nikopol.internal.md|Nikopol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nikopol.protect.md|Nikopol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nikopol.private.md|Nikopol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nikopol.personal.md|Nikopol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nikopol.secret.md|Nikopol.secret]] 

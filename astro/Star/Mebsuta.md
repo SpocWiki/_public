@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28120]
 [NextStarId::27255]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Mebsuta.md|Mebsuta]] 
+- [[../../../_internal/astro/Star/Mebsuta.internal.md|Mebsuta.internal]] 
+- [[../../../_protect/astro/Star/Mebsuta.protect.md|Mebsuta.protect]] 
+- [[../../../_private/astro/Star/Mebsuta.private.md|Mebsuta.private]] 
+- [[../../../_personal/astro/Star/Mebsuta.personal.md|Mebsuta.personal]] 
+- [[../../../_secret/astro/Star/Mebsuta.secret.md|Mebsuta.secret]] 

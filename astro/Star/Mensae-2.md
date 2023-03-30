@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28135]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Mensae-2.md|Mensae-2]] 
+- [[../../../_internal/astro/Star/Mensae-2.internal.md|Mensae-2.internal]] 
+- [[../../../_protect/astro/Star/Mensae-2.protect.md|Mensae-2.protect]] 
+- [[../../../_private/astro/Star/Mensae-2.private.md|Mensae-2.private]] 
+- [[../../../_personal/astro/Star/Mensae-2.personal.md|Mensae-2.personal]] 
+- [[../../../_secret/astro/Star/Mensae-2.secret.md|Mensae-2.secret]] 

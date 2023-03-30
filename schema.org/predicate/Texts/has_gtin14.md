@@ -45,3 +45,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: gtin, identifier ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_gtin14.md|has_gtin14]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_gtin14.internal.md|has_gtin14.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_gtin14.protect.md|has_gtin14.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_gtin14.private.md|has_gtin14.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_gtin14.personal.md|has_gtin14.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_gtin14.secret.md|has_gtin14.secret]] 

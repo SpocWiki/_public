@@ -29,3 +29,12 @@ markerFile: [[Argentan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Argentan.md|Argentan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Argentan.internal.md|Argentan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Argentan.protect.md|Argentan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Argentan.private.md|Argentan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Argentan.personal.md|Argentan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Argentan.secret.md|Argentan.secret]] 

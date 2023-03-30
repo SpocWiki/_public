@@ -29,3 +29,12 @@ markerFile: [[Castres]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Castres.md|Castres]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Castres.internal.md|Castres.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Castres.protect.md|Castres.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Castres.private.md|Castres.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Castres.personal.md|Castres.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Castres.secret.md|Castres.secret]] 

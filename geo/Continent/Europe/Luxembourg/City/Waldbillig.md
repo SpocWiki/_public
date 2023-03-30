@@ -29,3 +29,12 @@ markerFile: [[Waldbillig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Waldbillig.md|Waldbillig]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Waldbillig.internal.md|Waldbillig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Waldbillig.protect.md|Waldbillig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Waldbillig.private.md|Waldbillig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Waldbillig.personal.md|Waldbillig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Waldbillig.secret.md|Waldbillig.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-Complexity.md|Triz-Ease_of_repair+Cushion_in_advance-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-Complexity.internal.md|Triz-Ease_of_repair+Cushion_in_advance-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-Complexity.protect.md|Triz-Ease_of_repair+Cushion_in_advance-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-Complexity.private.md|Triz-Ease_of_repair+Cushion_in_advance-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-Complexity.personal.md|Triz-Ease_of_repair+Cushion_in_advance-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-Complexity.secret.md|Triz-Ease_of_repair+Cushion_in_advance-Complexity.secret]] 

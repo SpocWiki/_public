@@ -29,3 +29,12 @@ markerFile: [[Altstadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Altstadt.md|Altstadt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Altstadt.internal.md|Altstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Altstadt.protect.md|Altstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Altstadt.private.md|Altstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Altstadt.personal.md|Altstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Altstadt.secret.md|Altstadt.secret]] 

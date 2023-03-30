@@ -29,3 +29,12 @@ markerFile: [[Tschérépovetz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschérépovetz.md|Tschérépovetz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschérépovetz.internal.md|Tschérépovetz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschérépovetz.protect.md|Tschérépovetz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschérépovetz.private.md|Tschérépovetz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschérépovetz.personal.md|Tschérépovetz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschérépovetz.secret.md|Tschérépovetz.secret]] 

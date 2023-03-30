@@ -129,3 +129,12 @@ markerFolder: ./Botswana/City
 [geo-lon::25.9167]
 [geo-lat::-24.6333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Botswana.md|Botswana]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana.internal.md|Botswana.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana.protect.md|Botswana.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana.private.md|Botswana.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana.personal.md|Botswana.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana.secret.md|Botswana.secret]] 

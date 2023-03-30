@@ -38,3 +38,12 @@ Relation describes that:
 ( #has_/name :: is_owning )
 ( #has_/range :: OwnershipInfo, Product )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_owns.md|has_owns]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_owns.internal.md|has_owns.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_owns.protect.md|has_owns.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_owns.private.md|has_owns.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_owns.personal.md|has_owns.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_owns.secret.md|has_owns.secret]] 

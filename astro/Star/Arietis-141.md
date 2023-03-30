@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28089]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Arietis-141.md|Arietis-141]] 
+- [[../../../_internal/astro/Star/Arietis-141.internal.md|Arietis-141.internal]] 
+- [[../../../_protect/astro/Star/Arietis-141.protect.md|Arietis-141.protect]] 
+- [[../../../_private/astro/Star/Arietis-141.private.md|Arietis-141.private]] 
+- [[../../../_personal/astro/Star/Arietis-141.personal.md|Arietis-141.personal]] 
+- [[../../../_secret/astro/Star/Arietis-141.secret.md|Arietis-141.secret]]
+

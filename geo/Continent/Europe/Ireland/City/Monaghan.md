@@ -29,3 +29,12 @@ markerFile: [[Monaghan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Monaghan.md|Monaghan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Monaghan.internal.md|Monaghan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Monaghan.protect.md|Monaghan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Monaghan.private.md|Monaghan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Monaghan.personal.md|Monaghan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Monaghan.secret.md|Monaghan.secret]] 

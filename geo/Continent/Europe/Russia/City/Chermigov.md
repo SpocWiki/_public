@@ -29,3 +29,12 @@ markerFile: [[Chermigov]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chermigov.md|Chermigov]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chermigov.internal.md|Chermigov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chermigov.protect.md|Chermigov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chermigov.private.md|Chermigov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chermigov.personal.md|Chermigov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chermigov.secret.md|Chermigov.secret]] 

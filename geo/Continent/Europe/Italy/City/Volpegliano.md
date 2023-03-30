@@ -29,3 +29,12 @@ markerFile: [[Volpegliano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Volpegliano.md|Volpegliano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Volpegliano.internal.md|Volpegliano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Volpegliano.protect.md|Volpegliano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Volpegliano.private.md|Volpegliano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Volpegliano.personal.md|Volpegliano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Volpegliano.secret.md|Volpegliano.secret]] 

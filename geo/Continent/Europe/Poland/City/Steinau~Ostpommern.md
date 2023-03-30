@@ -29,3 +29,12 @@ markerFile: [[Steinau~Ostpommern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Steinau~Ostpommern.md|Steinau~Ostpommern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Steinau~Ostpommern.internal.md|Steinau~Ostpommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Steinau~Ostpommern.protect.md|Steinau~Ostpommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Steinau~Ostpommern.private.md|Steinau~Ostpommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Steinau~Ostpommern.personal.md|Steinau~Ostpommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Steinau~Ostpommern.secret.md|Steinau~Ostpommern.secret]] 

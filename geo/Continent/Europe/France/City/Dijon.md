@@ -29,3 +29,12 @@ markerFile: [[Dijon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Dijon.md|Dijon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dijon.internal.md|Dijon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dijon.protect.md|Dijon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Dijon.private.md|Dijon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dijon.personal.md|Dijon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dijon.secret.md|Dijon.secret]] 

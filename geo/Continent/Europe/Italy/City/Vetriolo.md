@@ -29,3 +29,12 @@ markerFile: [[Vetriolo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Vetriolo.md|Vetriolo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vetriolo.internal.md|Vetriolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vetriolo.protect.md|Vetriolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vetriolo.private.md|Vetriolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vetriolo.personal.md|Vetriolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vetriolo.secret.md|Vetriolo.secret]] 

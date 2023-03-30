@@ -29,3 +29,12 @@ markerFile: [[Krainburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Krainburg.md|Krainburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Krainburg.internal.md|Krainburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Krainburg.protect.md|Krainburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Krainburg.private.md|Krainburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Krainburg.personal.md|Krainburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Krainburg.secret.md|Krainburg.secret]] 

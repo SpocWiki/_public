@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_target_product )
 ( #has_/range :: SoftwareApplication )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_target_product.md|has_target_product]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_target_product.internal.md|has_target_product.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_target_product.protect.md|has_target_product.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_target_product.private.md|has_target_product.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_target_product.personal.md|has_target_product.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_target_product.secret.md|has_target_product.secret]] 

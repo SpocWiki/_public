@@ -29,3 +29,12 @@ markerFile: [[Bagnone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bagnone.md|Bagnone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bagnone.internal.md|Bagnone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bagnone.protect.md|Bagnone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bagnone.private.md|Bagnone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bagnone.personal.md|Bagnone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bagnone.secret.md|Bagnone.secret]] 

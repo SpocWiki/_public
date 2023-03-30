@@ -29,3 +29,12 @@ markerFile: [[Neutitschein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Neutitschein.md|Neutitschein]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Neutitschein.internal.md|Neutitschein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Neutitschein.protect.md|Neutitschein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Neutitschein.private.md|Neutitschein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Neutitschein.personal.md|Neutitschein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Neutitschein.secret.md|Neutitschein.secret]] 

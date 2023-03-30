@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28094]
 [NextStarId::27694]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Altarf.md|Altarf]] 
+- [[../../../_internal/astro/Star/Altarf.internal.md|Altarf.internal]] 
+- [[../../../_protect/astro/Star/Altarf.protect.md|Altarf.protect]] 
+- [[../../../_private/astro/Star/Altarf.private.md|Altarf.private]] 
+- [[../../../_personal/astro/Star/Altarf.personal.md|Altarf.personal]] 
+- [[../../../_secret/astro/Star/Altarf.secret.md|Altarf.secret]]
+

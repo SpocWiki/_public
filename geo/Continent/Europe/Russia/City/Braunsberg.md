@@ -29,3 +29,12 @@ markerFile: [[Braunsberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Braunsberg.md|Braunsberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Braunsberg.internal.md|Braunsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Braunsberg.protect.md|Braunsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Braunsberg.private.md|Braunsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Braunsberg.personal.md|Braunsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Braunsberg.secret.md|Braunsberg.secret]] 

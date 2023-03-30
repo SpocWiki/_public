@@ -29,3 +29,12 @@ markerFile: [[Kayl]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Kayl.md|Kayl]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Kayl.internal.md|Kayl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Kayl.protect.md|Kayl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Kayl.private.md|Kayl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Kayl.personal.md|Kayl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Kayl.secret.md|Kayl.secret]] 

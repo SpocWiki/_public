@@ -29,3 +29,12 @@ markerFile: [[Lugano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lugano.md|Lugano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lugano.internal.md|Lugano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lugano.protect.md|Lugano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lugano.private.md|Lugano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lugano.personal.md|Lugano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lugano.secret.md|Lugano.secret]] 

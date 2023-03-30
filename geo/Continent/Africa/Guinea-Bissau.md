@@ -131,3 +131,12 @@ markerFolder: ./Guinea-Bissau/City
 [geo-lon::-15.6]
 [geo-lat::11.8667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Guinea-Bissau.md|Guinea-Bissau]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau.internal.md|Guinea-Bissau.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau.protect.md|Guinea-Bissau.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau.private.md|Guinea-Bissau.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau.personal.md|Guinea-Bissau.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau.secret.md|Guinea-Bissau.secret]] 

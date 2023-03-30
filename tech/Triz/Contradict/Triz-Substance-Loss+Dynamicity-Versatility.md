@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Dynamicity]]]
 - [con::[[Triz-Versatility]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.md|Triz-Substance-Loss+Dynamicity-Versatility]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.internal.md|Triz-Substance-Loss+Dynamicity-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.protect.md|Triz-Substance-Loss+Dynamicity-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.private.md|Triz-Substance-Loss+Dynamicity-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.personal.md|Triz-Substance-Loss+Dynamicity-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.secret.md|Triz-Substance-Loss+Dynamicity-Versatility.secret]] 

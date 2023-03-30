@@ -24,3 +24,12 @@ markerFile: [[T-Willy-Brandt-Platz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Willy-Brandt-Platz.md|T-Willy-Brandt-Platz]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Willy-Brandt-Platz.internal.md|T-Willy-Brandt-Platz.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Willy-Brandt-Platz.protect.md|T-Willy-Brandt-Platz.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Willy-Brandt-Platz.private.md|T-Willy-Brandt-Platz.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Willy-Brandt-Platz.personal.md|T-Willy-Brandt-Platz.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Willy-Brandt-Platz.secret.md|T-Willy-Brandt-Platz.secret]] 

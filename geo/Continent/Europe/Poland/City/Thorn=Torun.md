@@ -29,3 +29,12 @@ markerFile: [[Thorn=Torun]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Thorn=Torun.md|Thorn=Torun]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Thorn=Torun.internal.md|Thorn=Torun.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Thorn=Torun.protect.md|Thorn=Torun.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Thorn=Torun.private.md|Thorn=Torun.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Thorn=Torun.personal.md|Thorn=Torun.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Thorn=Torun.secret.md|Thorn=Torun.secret]] 

@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: object ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_option.md|has_option]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_option.internal.md|has_option.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_option.protect.md|has_option.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_option.private.md|has_option.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_option.personal.md|has_option.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_option.secret.md|has_option.secret]] 

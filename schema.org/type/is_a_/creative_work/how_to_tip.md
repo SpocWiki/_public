@@ -41,3 +41,12 @@ An explanation in the instructions for how to achieve a result. It provides supp
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, item, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, nextItem, offers, pattern, position, potentialAction, previousItem, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/creative_work/how_to_tip.md|how_to_tip]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to_tip.internal.md|how_to_tip.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to_tip.protect.md|how_to_tip.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/creative_work/how_to_tip.private.md|how_to_tip.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to_tip.personal.md|how_to_tip.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to_tip.secret.md|how_to_tip.secret]] 

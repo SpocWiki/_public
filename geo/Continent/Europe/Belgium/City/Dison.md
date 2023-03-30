@@ -29,3 +29,12 @@ markerFile: [[Dison]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Dison.md|Dison]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Dison.internal.md|Dison.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Dison.protect.md|Dison.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Dison.private.md|Dison.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Dison.personal.md|Dison.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Dison.secret.md|Dison.secret]] 

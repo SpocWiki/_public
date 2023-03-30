@@ -29,3 +29,12 @@ markerFile: [[Johannesburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/South_Africa/City/Johannesburg.md|Johannesburg]] 
+- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Johannesburg.internal.md|Johannesburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Johannesburg.protect.md|Johannesburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/South_Africa/City/Johannesburg.private.md|Johannesburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Johannesburg.personal.md|Johannesburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Johannesburg.secret.md|Johannesburg.secret]] 

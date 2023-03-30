@@ -29,3 +29,12 @@ markerFile: [[Nancy]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Nancy.md|Nancy]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nancy.internal.md|Nancy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nancy.protect.md|Nancy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nancy.private.md|Nancy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nancy.personal.md|Nancy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nancy.secret.md|Nancy.secret]] 

@@ -45,3 +45,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_flight_number.md|has_flight_number]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_flight_number.internal.md|has_flight_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_flight_number.protect.md|has_flight_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_flight_number.private.md|has_flight_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_flight_number.personal.md|has_flight_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_flight_number.secret.md|has_flight_number.secret]] 

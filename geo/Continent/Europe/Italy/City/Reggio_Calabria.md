@@ -29,3 +29,12 @@ markerFile: [[Reggio_Calabria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Reggio_Calabria.md|Reggio_Calabria]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Reggio_Calabria.internal.md|Reggio_Calabria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Reggio_Calabria.protect.md|Reggio_Calabria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Reggio_Calabria.private.md|Reggio_Calabria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Reggio_Calabria.personal.md|Reggio_Calabria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Reggio_Calabria.secret.md|Reggio_Calabria.secret]] 

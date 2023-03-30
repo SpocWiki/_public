@@ -29,3 +29,12 @@ markerFile: [[Irboska]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Irboska.md|Irboska]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Irboska.internal.md|Irboska.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Irboska.protect.md|Irboska.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Irboska.private.md|Irboska.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Irboska.personal.md|Irboska.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Irboska.secret.md|Irboska.secret]] 

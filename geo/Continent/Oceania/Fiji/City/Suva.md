@@ -29,3 +29,12 @@ markerFile: [[Suva]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Fiji/City/Suva.md|Suva]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Fiji/City/Suva.internal.md|Suva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Fiji/City/Suva.protect.md|Suva.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Fiji/City/Suva.private.md|Suva.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Fiji/City/Suva.personal.md|Suva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Fiji/City/Suva.secret.md|Suva.secret]] 

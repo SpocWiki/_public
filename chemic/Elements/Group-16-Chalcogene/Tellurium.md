@@ -31,3 +31,11 @@ SpocWebEntityId: 21948
 > Commercially, the primary use of tellurium is CdTe solar panels and thermoelectric devices. A more traditional application in copper (tellurium copper) and steel alloys, where tellurium improves machinability also consumes a considerable portion of tellurium production. Tellurium is considered a technology-critical element.Tellurium has no biological function, although fungi can use it in place of sulfur and selenium in amino acids such as tellurocysteine and telluromethionine. In humans, tellurium is partly metabolized into dimethyl telluride, (CH3)2Te, a gas with a garlic-like odor exhaled in the breath of victims of tellurium exposure or poisoning.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tellurium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-16-Chalcogene/Tellurium.md|Tellurium]] 
+- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Tellurium.internal.md|Tellurium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Tellurium.protect.md|Tellurium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Tellurium.private.md|Tellurium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Tellurium.personal.md|Tellurium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Tellurium.secret.md|Tellurium.secret]] 

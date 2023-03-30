@@ -29,3 +29,12 @@ markerFile: [[North_Shields]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/North_Shields.md|North_Shields]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/North_Shields.internal.md|North_Shields.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/North_Shields.protect.md|North_Shields.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/North_Shields.private.md|North_Shields.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/North_Shields.personal.md|North_Shields.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/North_Shields.secret.md|North_Shields.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Bahn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bahn.md|Bahn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bahn.internal.md|Bahn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bahn.protect.md|Bahn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bahn.private.md|Bahn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bahn.personal.md|Bahn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bahn.secret.md|Bahn.secret]] 

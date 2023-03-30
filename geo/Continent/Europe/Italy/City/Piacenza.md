@@ -29,3 +29,12 @@ markerFile: [[Piacenza]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Piacenza.md|Piacenza]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Piacenza.internal.md|Piacenza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Piacenza.protect.md|Piacenza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Piacenza.private.md|Piacenza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Piacenza.personal.md|Piacenza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Piacenza.secret.md|Piacenza.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Askhabad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Askhabad.md|Askhabad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Askhabad.internal.md|Askhabad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Askhabad.protect.md|Askhabad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Askhabad.private.md|Askhabad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Askhabad.personal.md|Askhabad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Askhabad.secret.md|Askhabad.secret]] 

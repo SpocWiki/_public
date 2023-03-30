@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_including_health_plan_network)
 ( #has_/range :: HealthPlanNetwork)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_including_health_plan_network.md|is_including_health_plan_network]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_health_plan_network.internal.md|is_including_health_plan_network.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_including_health_plan_network.protect.md|is_including_health_plan_network.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_including_health_plan_network.private.md|is_including_health_plan_network.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_including_health_plan_network.personal.md|is_including_health_plan_network.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_including_health_plan_network.secret.md|is_including_health_plan_network.secret]] 

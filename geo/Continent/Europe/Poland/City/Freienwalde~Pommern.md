@@ -29,3 +29,12 @@ markerFile: [[Freienwalde~Pommern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.md|Freienwalde~Pommern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.internal.md|Freienwalde~Pommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.protect.md|Freienwalde~Pommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.private.md|Freienwalde~Pommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.personal.md|Freienwalde~Pommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.secret.md|Freienwalde~Pommern.secret]] 

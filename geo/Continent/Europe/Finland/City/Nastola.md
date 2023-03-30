@@ -29,3 +29,12 @@ markerFile: [[Nastola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Nastola.md|Nastola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nastola.internal.md|Nastola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nastola.protect.md|Nastola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nastola.private.md|Nastola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nastola.personal.md|Nastola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nastola.secret.md|Nastola.secret]] 

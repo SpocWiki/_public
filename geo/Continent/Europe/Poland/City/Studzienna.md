@@ -29,3 +29,12 @@ markerFile: [[Studzienna]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Studzienna.md|Studzienna]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Studzienna.internal.md|Studzienna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Studzienna.protect.md|Studzienna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Studzienna.private.md|Studzienna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Studzienna.personal.md|Studzienna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Studzienna.secret.md|Studzienna.secret]] 

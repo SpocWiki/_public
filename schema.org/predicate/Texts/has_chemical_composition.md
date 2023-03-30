@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_chemical_composition )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_chemical_composition.md|has_chemical_composition]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_chemical_composition.internal.md|has_chemical_composition.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_chemical_composition.protect.md|has_chemical_composition.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_chemical_composition.private.md|has_chemical_composition.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_chemical_composition.personal.md|has_chemical_composition.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_chemical_composition.secret.md|has_chemical_composition.secret]] 

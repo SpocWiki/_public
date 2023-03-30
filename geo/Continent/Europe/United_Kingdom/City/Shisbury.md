@@ -29,3 +29,12 @@ markerFile: [[Shisbury]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Shisbury.md|Shisbury]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shisbury.internal.md|Shisbury.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shisbury.protect.md|Shisbury.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shisbury.private.md|Shisbury.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shisbury.personal.md|Shisbury.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shisbury.secret.md|Shisbury.secret]] 

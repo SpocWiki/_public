@@ -24,3 +24,12 @@ markerFile: [[S-Flörsheim~Main]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Flörsheim~Main.md|S-Flörsheim~Main]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Flörsheim~Main.internal.md|S-Flörsheim~Main.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Flörsheim~Main.protect.md|S-Flörsheim~Main.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Flörsheim~Main.private.md|S-Flörsheim~Main.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Flörsheim~Main.personal.md|S-Flörsheim~Main.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Flörsheim~Main.secret.md|S-Flörsheim~Main.secret]] 

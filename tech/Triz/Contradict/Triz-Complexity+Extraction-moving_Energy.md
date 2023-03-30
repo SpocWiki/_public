@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-moving_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.md|Triz-Complexity+Extraction-moving_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.internal.md|Triz-Complexity+Extraction-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.protect.md|Triz-Complexity+Extraction-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.private.md|Triz-Complexity+Extraction-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.personal.md|Triz-Complexity+Extraction-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.secret.md|Triz-Complexity+Extraction-moving_Energy.secret]] 

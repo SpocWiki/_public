@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_pregnancy_category )
 ( #has_/range :: DrugPregnancyCategory )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_pregnancy_category.md|has_pregnancy_category]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_pregnancy_category.internal.md|has_pregnancy_category.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_pregnancy_category.protect.md|has_pregnancy_category.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_pregnancy_category.private.md|has_pregnancy_category.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_pregnancy_category.personal.md|has_pregnancy_category.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_pregnancy_category.secret.md|has_pregnancy_category.secret]] 

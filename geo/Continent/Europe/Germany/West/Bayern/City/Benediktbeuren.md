@@ -28,3 +28,12 @@ markerFile: [[Benediktbeuren]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.md|Benediktbeuren]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.internal.md|Benediktbeuren.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.protect.md|Benediktbeuren.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.private.md|Benediktbeuren.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.personal.md|Benediktbeuren.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.secret.md|Benediktbeuren.secret]] 

@@ -130,3 +130,12 @@ markerFolder: ./Dominica/City
 [geo-lon::-61.3833]
 [geo-lat::15.3]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Dominica.md|Dominica]] 
+- [[../../../../_internal/geo/Continent/South-America/Dominica.internal.md|Dominica.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Dominica.protect.md|Dominica.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Dominica.private.md|Dominica.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Dominica.personal.md|Dominica.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Dominica.secret.md|Dominica.secret]] 

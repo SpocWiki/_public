@@ -49,3 +49,12 @@ Related actions:
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/action/move_action.md|move_action]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/action/move_action.internal.md|move_action.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/action/move_action.protect.md|move_action.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/action/move_action.private.md|move_action.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/action/move_action.personal.md|move_action.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/action/move_action.secret.md|move_action.secret]] 

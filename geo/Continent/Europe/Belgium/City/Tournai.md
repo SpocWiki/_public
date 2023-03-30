@@ -29,3 +29,12 @@ markerFile: [[Tournai]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Tournai.md|Tournai]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Tournai.internal.md|Tournai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Tournai.protect.md|Tournai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Tournai.private.md|Tournai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Tournai.personal.md|Tournai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Tournai.secret.md|Tournai.secret]] 

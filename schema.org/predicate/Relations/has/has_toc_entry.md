@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: hasPart ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_toc_entry.md|has_toc_entry]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_toc_entry.internal.md|has_toc_entry.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_toc_entry.protect.md|has_toc_entry.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_toc_entry.private.md|has_toc_entry.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_toc_entry.personal.md|has_toc_entry.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_toc_entry.secret.md|has_toc_entry.secret]] 

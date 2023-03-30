@@ -29,3 +29,12 @@ markerFile: [[Sidsjoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Sidsjoe.md|Sidsjoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sidsjoe.internal.md|Sidsjoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sidsjoe.protect.md|Sidsjoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sidsjoe.private.md|Sidsjoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sidsjoe.personal.md|Sidsjoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sidsjoe.secret.md|Sidsjoe.secret]] 

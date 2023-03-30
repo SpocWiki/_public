@@ -29,3 +29,12 @@ markerFile: [[Lomé]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Togo/City/Lomé.md|Lomé]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Togo/City/Lomé.internal.md|Lomé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Togo/City/Lomé.protect.md|Lomé.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Togo/City/Lomé.private.md|Lomé.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Togo/City/Lomé.personal.md|Lomé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Togo/City/Lomé.secret.md|Lomé.secret]] 

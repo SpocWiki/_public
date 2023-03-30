@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_possible_treatment )
 ( #has_/range :: MedicalTherapy )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_possible_treatment.md|has_possible_treatment]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_possible_treatment.internal.md|has_possible_treatment.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_possible_treatment.protect.md|has_possible_treatment.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_possible_treatment.private.md|has_possible_treatment.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_possible_treatment.personal.md|has_possible_treatment.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_possible_treatment.secret.md|has_possible_treatment.secret]] 

@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::27535]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Enif.md|Enif]] 
+- [[../../../_internal/astro/Star/Enif.internal.md|Enif.internal]] 
+- [[../../../_protect/astro/Star/Enif.protect.md|Enif.protect]] 
+- [[../../../_private/astro/Star/Enif.private.md|Enif.private]] 
+- [[../../../_personal/astro/Star/Enif.personal.md|Enif.personal]] 
+- [[../../../_secret/astro/Star/Enif.secret.md|Enif.secret]]
+

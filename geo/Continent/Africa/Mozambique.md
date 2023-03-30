@@ -129,3 +129,12 @@ markerFolder: ./Mozambique/City
 [geo-lon::33.7917]
 [geo-lat::-22.1]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Mozambique.md|Mozambique]] 
+- [[../../../../_internal/geo/Continent/Africa/Mozambique.internal.md|Mozambique.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mozambique.protect.md|Mozambique.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mozambique.private.md|Mozambique.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mozambique.personal.md|Mozambique.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mozambique.secret.md|Mozambique.secret]] 

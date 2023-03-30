@@ -29,3 +29,12 @@ markerFile: [[Exau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Exau.md|Exau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Exau.internal.md|Exau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Exau.protect.md|Exau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Exau.private.md|Exau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Exau.personal.md|Exau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Exau.secret.md|Exau.secret]] 

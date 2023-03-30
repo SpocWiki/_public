@@ -29,3 +29,12 @@ markerFile: [[Huittinen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Huittinen.md|Huittinen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Huittinen.internal.md|Huittinen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Huittinen.protect.md|Huittinen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Huittinen.private.md|Huittinen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Huittinen.personal.md|Huittinen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Huittinen.secret.md|Huittinen.secret]] 

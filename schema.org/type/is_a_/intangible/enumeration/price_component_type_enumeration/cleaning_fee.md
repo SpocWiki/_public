@@ -45,3 +45,12 @@ Represents the cleaning fee part of the total price for an offered product, for 
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.md|cleaning_fee]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.internal.md|cleaning_fee.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.protect.md|cleaning_fee.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.private.md|cleaning_fee.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.personal.md|cleaning_fee.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.secret.md|cleaning_fee.secret]] 

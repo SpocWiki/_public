@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Copying]]]
 - [con::[[Triz-Automation]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.md|Triz-moving_Length+Copying-Automation]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.internal.md|Triz-moving_Length+Copying-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.protect.md|Triz-moving_Length+Copying-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.private.md|Triz-moving_Length+Copying-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.personal.md|Triz-moving_Length+Copying-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.secret.md|Triz-moving_Length+Copying-Automation.secret]] 

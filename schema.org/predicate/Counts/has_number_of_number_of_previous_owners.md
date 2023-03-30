@@ -47,3 +47,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_previous_owners )
 ( #has_/range :: Number, QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_previous_owners.md|has_number_of_number_of_previous_owners]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_previous_owners.internal.md|has_number_of_number_of_previous_owners.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_previous_owners.protect.md|has_number_of_number_of_previous_owners.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_previous_owners.private.md|has_number_of_number_of_previous_owners.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_previous_owners.personal.md|has_number_of_number_of_previous_owners.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_previous_owners.secret.md|has_number_of_number_of_previous_owners.secret]] 

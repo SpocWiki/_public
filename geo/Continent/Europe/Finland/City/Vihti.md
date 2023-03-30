@@ -29,3 +29,12 @@ markerFile: [[Vihti]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Vihti.md|Vihti]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Vihti.internal.md|Vihti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Vihti.protect.md|Vihti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Vihti.private.md|Vihti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Vihti.personal.md|Vihti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Vihti.secret.md|Vihti.secret]] 

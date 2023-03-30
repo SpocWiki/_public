@@ -28,3 +28,12 @@ markerFile: [[Mariendorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.md|Mariendorf]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.internal.md|Mariendorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.protect.md|Mariendorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.private.md|Mariendorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.personal.md|Mariendorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.secret.md|Mariendorf.secret]] 

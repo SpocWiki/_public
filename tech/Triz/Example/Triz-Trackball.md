@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-use-rotation]]]
 
 Produce linear Motion of the Cursor on the Computer Screen using a Mouse or a Trackball.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Trackball.md|Triz-Trackball]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Trackball.internal.md|Triz-Trackball.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Trackball.protect.md|Triz-Trackball.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Trackball.private.md|Triz-Trackball.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Trackball.personal.md|Triz-Trackball.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Trackball.secret.md|Triz-Trackball.secret]] 

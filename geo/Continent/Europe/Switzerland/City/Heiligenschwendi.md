@@ -29,3 +29,12 @@ markerFile: [[Heiligenschwendi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.md|Heiligenschwendi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.internal.md|Heiligenschwendi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.protect.md|Heiligenschwendi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.private.md|Heiligenschwendi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.personal.md|Heiligenschwendi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.secret.md|Heiligenschwendi.secret]] 

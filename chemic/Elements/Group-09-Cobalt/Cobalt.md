@@ -36,3 +36,12 @@ SpocWebEntityId: 21926
 > [Wikipedia](https://en.wikipedia.org/wiki/Cobalt)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-09-Cobalt/Cobalt.md|Cobalt]] 
+- [[../../../../_internal/chemic/Elements/Group-09-Cobalt/Cobalt.internal.md|Cobalt.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-09-Cobalt/Cobalt.protect.md|Cobalt.protect]] 
+- [[../../../../_private/chemic/Elements/Group-09-Cobalt/Cobalt.private.md|Cobalt.private]] 
+- [[../../../../_personal/chemic/Elements/Group-09-Cobalt/Cobalt.personal.md|Cobalt.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-09-Cobalt/Cobalt.secret.md|Cobalt.secret]] 

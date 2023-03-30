@@ -29,3 +29,12 @@ markerFile: [[Modena]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Modena.md|Modena]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Modena.internal.md|Modena.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Modena.protect.md|Modena.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Modena.private.md|Modena.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Modena.personal.md|Modena.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Modena.secret.md|Modena.secret]] 

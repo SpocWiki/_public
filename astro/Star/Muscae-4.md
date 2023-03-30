@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28138]
 [NextStarId::27726]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Muscae-4.md|Muscae-4]] 
+- [[../../../_internal/astro/Star/Muscae-4.internal.md|Muscae-4.internal]] 
+- [[../../../_protect/astro/Star/Muscae-4.protect.md|Muscae-4.protect]] 
+- [[../../../_private/astro/Star/Muscae-4.private.md|Muscae-4.private]] 
+- [[../../../_personal/astro/Star/Muscae-4.personal.md|Muscae-4.personal]] 
+- [[../../../_secret/astro/Star/Muscae-4.secret.md|Muscae-4.secret]] 

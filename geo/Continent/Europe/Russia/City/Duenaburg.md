@@ -29,3 +29,12 @@ markerFile: [[Duenaburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Duenaburg.md|Duenaburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Duenaburg.internal.md|Duenaburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Duenaburg.protect.md|Duenaburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Duenaburg.private.md|Duenaburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Duenaburg.personal.md|Duenaburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Duenaburg.secret.md|Duenaburg.secret]] 

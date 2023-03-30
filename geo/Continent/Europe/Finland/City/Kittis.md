@@ -29,3 +29,12 @@ markerFile: [[Kittis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kittis.md|Kittis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kittis.internal.md|Kittis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kittis.protect.md|Kittis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kittis.private.md|Kittis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kittis.personal.md|Kittis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kittis.secret.md|Kittis.secret]] 

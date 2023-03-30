@@ -29,3 +29,12 @@ markerFile: [[Papeete]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/French_Polynesia/City/Papeete.md|Papeete]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/French_Polynesia/City/Papeete.internal.md|Papeete.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/French_Polynesia/City/Papeete.protect.md|Papeete.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/French_Polynesia/City/Papeete.private.md|Papeete.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/French_Polynesia/City/Papeete.personal.md|Papeete.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/French_Polynesia/City/Papeete.secret.md|Papeete.secret]] 

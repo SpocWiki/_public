@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_procedure )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_procedure.md|has_procedure]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_procedure.internal.md|has_procedure.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_procedure.protect.md|has_procedure.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_procedure.private.md|has_procedure.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_procedure.personal.md|has_procedure.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_procedure.secret.md|has_procedure.secret]] 

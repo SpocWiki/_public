@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Local_quality]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.md|Triz-Substance-Loss+Local_quality-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.internal.md|Triz-Substance-Loss+Local_quality-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.protect.md|Triz-Substance-Loss+Local_quality-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.private.md|Triz-Substance-Loss+Local_quality-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.personal.md|Triz-Substance-Loss+Local_quality-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.secret.md|Triz-Substance-Loss+Local_quality-Stress.secret]] 

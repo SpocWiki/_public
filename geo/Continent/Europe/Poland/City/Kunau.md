@@ -29,3 +29,12 @@ markerFile: [[Kunau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kunau.md|Kunau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kunau.internal.md|Kunau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kunau.protect.md|Kunau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kunau.private.md|Kunau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kunau.personal.md|Kunau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kunau.secret.md|Kunau.secret]] 

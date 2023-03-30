@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/State/State-Ontario.md|State-Ontario]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State-Ontario.internal.md|State-Ontario.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Ontario.protect.md|State-Ontario.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State-Ontario.private.md|State-Ontario.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Ontario.personal.md|State-Ontario.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Ontario.secret.md|State-Ontario.secret]] 

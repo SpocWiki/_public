@@ -133,3 +133,12 @@ markerFolder: ./Kyrgyzstan/City
 [geo-lon::74.6]
 [geo-lat::42.8667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Kyrgyzstan.md|Kyrgyzstan]] 
+- [[../../../../_internal/geo/Continent/Asia/Kyrgyzstan.internal.md|Kyrgyzstan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Kyrgyzstan.protect.md|Kyrgyzstan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Kyrgyzstan.private.md|Kyrgyzstan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Kyrgyzstan.personal.md|Kyrgyzstan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Kyrgyzstan.secret.md|Kyrgyzstan.secret]] 

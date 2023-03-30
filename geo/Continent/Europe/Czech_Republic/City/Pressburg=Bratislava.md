@@ -29,3 +29,12 @@ markerFile: [[Pressburg=Bratislava]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.md|Pressburg=Bratislava]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.internal.md|Pressburg=Bratislava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.protect.md|Pressburg=Bratislava.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.private.md|Pressburg=Bratislava.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.personal.md|Pressburg=Bratislava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.secret.md|Pressburg=Bratislava.secret]] 

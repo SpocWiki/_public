@@ -29,3 +29,12 @@ markerFile: [[Vileika]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Vileika.md|Vileika]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Vileika.internal.md|Vileika.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Vileika.protect.md|Vileika.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Vileika.private.md|Vileika.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Vileika.personal.md|Vileika.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Vileika.secret.md|Vileika.secret]] 

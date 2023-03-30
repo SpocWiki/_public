@@ -16,3 +16,13 @@ tags:
 [Iso2::mr]
 [Iso3::mar]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/lang/Lang-mr.md|Lang-mr]] 
+- [[../../_internal/lang/Lang-mr.internal.md|Lang-mr.internal]] 
+- [[../../_protect/lang/Lang-mr.protect.md|Lang-mr.protect]] 
+- [[../../_private/lang/Lang-mr.private.md|Lang-mr.private]] 
+- [[../../_personal/lang/Lang-mr.personal.md|Lang-mr.personal]] 
+- [[../../_secret/lang/Lang-mr.secret.md|Lang-mr.secret]]
+

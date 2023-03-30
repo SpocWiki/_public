@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_dependencies )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_dependencies.md|has_dependencies]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_dependencies.internal.md|has_dependencies.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_dependencies.protect.md|has_dependencies.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_dependencies.private.md|has_dependencies.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_dependencies.personal.md|has_dependencies.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_dependencies.secret.md|has_dependencies.secret]] 

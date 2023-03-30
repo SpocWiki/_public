@@ -29,3 +29,12 @@ markerFile: [[Peterhead]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Peterhead.md|Peterhead]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Peterhead.internal.md|Peterhead.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Peterhead.protect.md|Peterhead.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Peterhead.private.md|Peterhead.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Peterhead.personal.md|Peterhead.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Peterhead.secret.md|Peterhead.secret]] 

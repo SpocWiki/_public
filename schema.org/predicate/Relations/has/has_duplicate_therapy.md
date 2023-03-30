@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_duplicate_therapy )
 ( #has_/range :: MedicalTherapy )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_duplicate_therapy.md|has_duplicate_therapy]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_duplicate_therapy.internal.md|has_duplicate_therapy.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_duplicate_therapy.protect.md|has_duplicate_therapy.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_duplicate_therapy.private.md|has_duplicate_therapy.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_duplicate_therapy.personal.md|has_duplicate_therapy.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_duplicate_therapy.secret.md|has_duplicate_therapy.secret]] 

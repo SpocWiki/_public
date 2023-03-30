@@ -29,3 +29,12 @@ markerFile: [[Sligo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Sligo.md|Sligo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Sligo.internal.md|Sligo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Sligo.protect.md|Sligo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Sligo.private.md|Sligo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Sligo.personal.md|Sligo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Sligo.secret.md|Sligo.secret]] 

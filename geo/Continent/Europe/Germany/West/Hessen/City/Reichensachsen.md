@@ -28,3 +28,12 @@ markerFile: [[Reichensachsen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.md|Reichensachsen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.internal.md|Reichensachsen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.protect.md|Reichensachsen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.private.md|Reichensachsen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.personal.md|Reichensachsen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.secret.md|Reichensachsen.secret]] 

@@ -130,3 +130,12 @@ markerFolder: ./Cuba/City
 [geo-lon::-82.37]
 [geo-lat::22.13]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Cuba.md|Cuba]] 
+- [[../../../../_internal/geo/Continent/South-America/Cuba.internal.md|Cuba.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Cuba.protect.md|Cuba.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Cuba.private.md|Cuba.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Cuba.personal.md|Cuba.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Cuba.secret.md|Cuba.secret]] 

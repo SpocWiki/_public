@@ -29,3 +29,12 @@ markerFile: [[Kreuzburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kreuzburg.md|Kreuzburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kreuzburg.internal.md|Kreuzburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kreuzburg.protect.md|Kreuzburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kreuzburg.private.md|Kreuzburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kreuzburg.personal.md|Kreuzburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kreuzburg.secret.md|Kreuzburg.secret]] 

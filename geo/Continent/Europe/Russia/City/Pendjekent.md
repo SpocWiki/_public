@@ -29,3 +29,12 @@ markerFile: [[Pendjekent]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pendjekent.md|Pendjekent]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pendjekent.internal.md|Pendjekent.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pendjekent.protect.md|Pendjekent.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pendjekent.private.md|Pendjekent.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pendjekent.personal.md|Pendjekent.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pendjekent.secret.md|Pendjekent.secret]] 

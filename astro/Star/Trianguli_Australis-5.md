@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28163]
 [NextStarId::27391]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Trianguli_Australis-5.md|Trianguli_Australis-5]] 
+- [[../../../_internal/astro/Star/Trianguli_Australis-5.internal.md|Trianguli_Australis-5.internal]] 
+- [[../../../_protect/astro/Star/Trianguli_Australis-5.protect.md|Trianguli_Australis-5.protect]] 
+- [[../../../_private/astro/Star/Trianguli_Australis-5.private.md|Trianguli_Australis-5.private]] 
+- [[../../../_personal/astro/Star/Trianguli_Australis-5.personal.md|Trianguli_Australis-5.personal]] 
+- [[../../../_secret/astro/Star/Trianguli_Australis-5.secret.md|Trianguli_Australis-5.secret]] 

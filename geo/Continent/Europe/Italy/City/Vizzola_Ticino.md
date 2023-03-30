@@ -29,3 +29,12 @@ markerFile: [[Vizzola_Ticino]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Vizzola_Ticino.md|Vizzola_Ticino]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vizzola_Ticino.internal.md|Vizzola_Ticino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vizzola_Ticino.protect.md|Vizzola_Ticino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vizzola_Ticino.private.md|Vizzola_Ticino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vizzola_Ticino.personal.md|Vizzola_Ticino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vizzola_Ticino.secret.md|Vizzola_Ticino.secret]] 

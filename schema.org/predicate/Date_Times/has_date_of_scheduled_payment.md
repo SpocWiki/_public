@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.md|has_date_of_scheduled_payment]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.internal.md|has_date_of_scheduled_payment.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.protect.md|has_date_of_scheduled_payment.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.private.md|has_date_of_scheduled_payment.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.personal.md|has_date_of_scheduled_payment.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.secret.md|has_date_of_scheduled_payment.secret]] 

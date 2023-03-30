@@ -29,3 +29,12 @@ markerFile: [[Maerket]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Maerket.md|Maerket]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Maerket.internal.md|Maerket.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Maerket.protect.md|Maerket.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Maerket.private.md|Maerket.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Maerket.personal.md|Maerket.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Maerket.secret.md|Maerket.secret]] 

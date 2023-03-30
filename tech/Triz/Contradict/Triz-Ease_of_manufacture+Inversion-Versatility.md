@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Versatility]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.md|Triz-Ease_of_manufacture+Inversion-Versatility]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.internal.md|Triz-Ease_of_manufacture+Inversion-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.protect.md|Triz-Ease_of_manufacture+Inversion-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.private.md|Triz-Ease_of_manufacture+Inversion-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.personal.md|Triz-Ease_of_manufacture+Inversion-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.secret.md|Triz-Ease_of_manufacture+Inversion-Versatility.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Alnar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Alnar.md|Alnar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Alnar.internal.md|Alnar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Alnar.protect.md|Alnar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Alnar.private.md|Alnar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Alnar.personal.md|Alnar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Alnar.secret.md|Alnar.secret]] 

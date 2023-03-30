@@ -29,3 +29,12 @@ markerFile: [[Port_Vila]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Vanuatu/City/Port_Vila.md|Port_Vila]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Vanuatu/City/Port_Vila.internal.md|Port_Vila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Vanuatu/City/Port_Vila.protect.md|Port_Vila.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Vanuatu/City/Port_Vila.private.md|Port_Vila.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Vanuatu/City/Port_Vila.personal.md|Port_Vila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Vanuatu/City/Port_Vila.secret.md|Port_Vila.secret]] 

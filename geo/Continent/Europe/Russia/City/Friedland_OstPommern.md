@@ -29,3 +29,12 @@ markerFile: [[Friedland/OstPommern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Friedland_OstPommern.md|Friedland_OstPommern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Friedland_OstPommern.internal.md|Friedland_OstPommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Friedland_OstPommern.protect.md|Friedland_OstPommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Friedland_OstPommern.private.md|Friedland_OstPommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Friedland_OstPommern.personal.md|Friedland_OstPommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Friedland_OstPommern.secret.md|Friedland_OstPommern.secret]] 

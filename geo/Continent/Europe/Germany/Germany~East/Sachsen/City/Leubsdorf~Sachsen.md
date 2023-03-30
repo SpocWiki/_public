@@ -28,3 +28,12 @@ markerFile: [[Leubsdorf~Sachsen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.md|Leubsdorf~Sachsen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.internal.md|Leubsdorf~Sachsen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.protect.md|Leubsdorf~Sachsen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.private.md|Leubsdorf~Sachsen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.personal.md|Leubsdorf~Sachsen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.secret.md|Leubsdorf~Sachsen.secret]] 

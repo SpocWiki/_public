@@ -29,3 +29,12 @@ markerFile: [[Radmannsdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.md|Radmannsdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.internal.md|Radmannsdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.protect.md|Radmannsdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.private.md|Radmannsdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.personal.md|Radmannsdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.secret.md|Radmannsdorf.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[St.Reverne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Reverne.md|St.Reverne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Reverne.internal.md|St.Reverne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Reverne.protect.md|St.Reverne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Reverne.private.md|St.Reverne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Reverne.personal.md|St.Reverne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Reverne.secret.md|St.Reverne.secret]] 

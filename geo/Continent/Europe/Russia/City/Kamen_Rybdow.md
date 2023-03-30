@@ -29,3 +29,12 @@ markerFile: [[Kamen_Rybdow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kamen_Rybdow.md|Kamen_Rybdow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kamen_Rybdow.internal.md|Kamen_Rybdow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kamen_Rybdow.protect.md|Kamen_Rybdow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kamen_Rybdow.private.md|Kamen_Rybdow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kamen_Rybdow.personal.md|Kamen_Rybdow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kamen_Rybdow.secret.md|Kamen_Rybdow.secret]] 

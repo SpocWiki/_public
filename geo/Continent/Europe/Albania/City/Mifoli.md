@@ -29,3 +29,12 @@ markerFile: [[Mifoli]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Mifoli.md|Mifoli]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Mifoli.internal.md|Mifoli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Mifoli.protect.md|Mifoli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Mifoli.private.md|Mifoli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Mifoli.personal.md|Mifoli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Mifoli.secret.md|Mifoli.secret]] 

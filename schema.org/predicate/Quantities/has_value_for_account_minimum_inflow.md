@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_account_minimum_inflow )
 ( #has_/range :: MonetaryAmount )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.md|has_value_for_account_minimum_inflow]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.internal.md|has_value_for_account_minimum_inflow.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.protect.md|has_value_for_account_minimum_inflow.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.private.md|has_value_for_account_minimum_inflow.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.personal.md|has_value_for_account_minimum_inflow.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.secret.md|has_value_for_account_minimum_inflow.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Calmadoli~Arezzo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Calmadoli~Arezzo.md|Calmadoli~Arezzo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Calmadoli~Arezzo.internal.md|Calmadoli~Arezzo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Calmadoli~Arezzo.protect.md|Calmadoli~Arezzo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Calmadoli~Arezzo.private.md|Calmadoli~Arezzo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Calmadoli~Arezzo.personal.md|Calmadoli~Arezzo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Calmadoli~Arezzo.secret.md|Calmadoli~Arezzo.secret]] 

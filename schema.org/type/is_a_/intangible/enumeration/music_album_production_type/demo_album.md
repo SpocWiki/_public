@@ -43,3 +43,12 @@ DemoAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/demo_album.md|demo_album]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/demo_album.internal.md|demo_album.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/demo_album.protect.md|demo_album.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/demo_album.private.md|demo_album.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/demo_album.personal.md|demo_album.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/demo_album.secret.md|demo_album.secret]] 

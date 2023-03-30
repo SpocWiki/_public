@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_work_hours )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_work_hours.md|has_work_hours]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_work_hours.internal.md|has_work_hours.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_work_hours.protect.md|has_work_hours.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_work_hours.private.md|has_work_hours.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_work_hours.personal.md|has_work_hours.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_work_hours.secret.md|has_work_hours.secret]] 

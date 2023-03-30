@@ -43,3 +43,12 @@ Relation describes that:
 ( #has_/name :: has_media_authenticity_category )
 ( #has_/range :: [[../../../Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration]] )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_media_authenticity_category.md|has_media_authenticity_category]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_media_authenticity_category.internal.md|has_media_authenticity_category.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_media_authenticity_category.protect.md|has_media_authenticity_category.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_media_authenticity_category.private.md|has_media_authenticity_category.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_media_authenticity_category.personal.md|has_media_authenticity_category.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_media_authenticity_category.secret.md|has_media_authenticity_category.secret]] 

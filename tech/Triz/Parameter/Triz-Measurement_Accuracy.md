@@ -15,3 +15,11 @@ tags:
 [TrizParameterId::28]
 
 Measurement accuracy
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Measurement_Accuracy.md|Triz-Measurement_Accuracy]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Measurement_Accuracy.internal.md|Triz-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Measurement_Accuracy.protect.md|Triz-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Measurement_Accuracy.private.md|Triz-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Measurement_Accuracy.personal.md|Triz-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Measurement_Accuracy.secret.md|Triz-Measurement_Accuracy.secret]] 

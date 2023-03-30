@@ -28,3 +28,12 @@ markerFile: [[Hoechstaedt~Donau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.md|Hoechstaedt~Donau]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.internal.md|Hoechstaedt~Donau.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.protect.md|Hoechstaedt~Donau.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.private.md|Hoechstaedt~Donau.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.personal.md|Hoechstaedt~Donau.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.secret.md|Hoechstaedt~Donau.secret]] 

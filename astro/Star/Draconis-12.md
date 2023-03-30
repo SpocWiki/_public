@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28116]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Draconis-12.md|Draconis-12]] 
+- [[../../../_internal/astro/Star/Draconis-12.internal.md|Draconis-12.internal]] 
+- [[../../../_protect/astro/Star/Draconis-12.protect.md|Draconis-12.protect]] 
+- [[../../../_private/astro/Star/Draconis-12.private.md|Draconis-12.private]] 
+- [[../../../_personal/astro/Star/Draconis-12.personal.md|Draconis-12.personal]] 
+- [[../../../_secret/astro/Star/Draconis-12.secret.md|Draconis-12.secret]]
+

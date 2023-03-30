@@ -29,3 +29,12 @@ markerFile: [[Gent]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Gent.md|Gent]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Gent.internal.md|Gent.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Gent.protect.md|Gent.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Gent.private.md|Gent.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Gent.personal.md|Gent.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Gent.secret.md|Gent.secret]] 

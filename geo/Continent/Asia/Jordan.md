@@ -128,3 +128,12 @@ markerFolder: ./Jordan/City
 [geo-lon::35.93]
 [geo-lat::31.95]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Jordan.md|Jordan]] 
+- [[../../../../_internal/geo/Continent/Asia/Jordan.internal.md|Jordan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Jordan.protect.md|Jordan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Jordan.private.md|Jordan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Jordan.personal.md|Jordan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Jordan.secret.md|Jordan.secret]] 

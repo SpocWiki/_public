@@ -28,3 +28,12 @@ markerFile: [[Hoyerswerda]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.md|Hoyerswerda]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.internal.md|Hoyerswerda.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.protect.md|Hoyerswerda.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.private.md|Hoyerswerda.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.personal.md|Hoyerswerda.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.secret.md|Hoyerswerda.secret]] 

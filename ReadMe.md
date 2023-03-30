@@ -96,3 +96,13 @@ created: Date (and Time) of Creation/Birth
 demised: Date (and Time) of Destruction/Death/Dissolution 
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../_public/ReadMe.md|ReadMe]] 
+- [[../_internal/ReadMe.internal.md|ReadMe.internal]] 
+- [[../_protect/ReadMe.protect.md|ReadMe.protect]] 
+- [[../_private/ReadMe.private.md|ReadMe.private]] 
+- [[../_personal/ReadMe.personal.md|ReadMe.personal]] 
+- [[../_secret/ReadMe.secret.md|ReadMe.secret]]
+

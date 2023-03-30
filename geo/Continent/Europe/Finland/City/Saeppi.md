@@ -29,3 +29,12 @@ markerFile: [[Saeppi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Saeppi.md|Saeppi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Saeppi.internal.md|Saeppi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Saeppi.protect.md|Saeppi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Saeppi.private.md|Saeppi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Saeppi.personal.md|Saeppi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Saeppi.secret.md|Saeppi.secret]] 

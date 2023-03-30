@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-use-optical-copies]]]
 
 Do surveying from Space Photographs instead of on the Ground.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Space_Photographs.md|Triz-Space_Photographs]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Space_Photographs.internal.md|Triz-Space_Photographs.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Space_Photographs.protect.md|Triz-Space_Photographs.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Space_Photographs.private.md|Triz-Space_Photographs.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Space_Photographs.personal.md|Triz-Space_Photographs.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Space_Photographs.secret.md|Triz-Space_Photographs.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[An_Uaimh]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/An_Uaimh.md|An_Uaimh]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/An_Uaimh.internal.md|An_Uaimh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/An_Uaimh.protect.md|An_Uaimh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/An_Uaimh.private.md|An_Uaimh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/An_Uaimh.personal.md|An_Uaimh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/An_Uaimh.secret.md|An_Uaimh.secret]] 

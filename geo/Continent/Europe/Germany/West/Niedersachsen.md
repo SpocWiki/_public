@@ -28,3 +28,12 @@ markerFolder: ./Niedersachsen/City
 [geo-lat::52.7796]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen.md|Niedersachsen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen.internal.md|Niedersachsen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen.protect.md|Niedersachsen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen.private.md|Niedersachsen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen.personal.md|Niedersachsen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen.secret.md|Niedersachsen.secret]] 

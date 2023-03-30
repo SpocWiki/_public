@@ -29,3 +29,12 @@ markerFile: [[Roma]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Roma.md|Roma]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Roma.internal.md|Roma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Roma.protect.md|Roma.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Roma.private.md|Roma.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Roma.personal.md|Roma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Roma.secret.md|Roma.secret]] 

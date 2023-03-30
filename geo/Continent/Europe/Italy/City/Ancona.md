@@ -29,3 +29,12 @@ markerFile: [[Ancona]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ancona.md|Ancona]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ancona.internal.md|Ancona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ancona.protect.md|Ancona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ancona.private.md|Ancona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ancona.personal.md|Ancona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ancona.secret.md|Ancona.secret]] 

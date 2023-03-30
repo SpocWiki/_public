@@ -29,3 +29,12 @@ markerFile: [[Villa_di_Salo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Villa_di_Salo.md|Villa_di_Salo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Villa_di_Salo.internal.md|Villa_di_Salo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Villa_di_Salo.protect.md|Villa_di_Salo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Villa_di_Salo.private.md|Villa_di_Salo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Villa_di_Salo.personal.md|Villa_di_Salo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Villa_di_Salo.secret.md|Villa_di_Salo.secret]] 

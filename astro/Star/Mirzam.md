@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28096]
 [NextStarId::27230]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Mirzam.md|Mirzam]] 
+- [[../../../_internal/astro/Star/Mirzam.internal.md|Mirzam.internal]] 
+- [[../../../_protect/astro/Star/Mirzam.protect.md|Mirzam.protect]] 
+- [[../../../_private/astro/Star/Mirzam.private.md|Mirzam.private]] 
+- [[../../../_personal/astro/Star/Mirzam.personal.md|Mirzam.personal]] 
+- [[../../../_secret/astro/Star/Mirzam.secret.md|Mirzam.secret]] 

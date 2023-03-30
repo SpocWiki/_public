@@ -29,3 +29,12 @@ markerFile: [[Astrachan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Astrachan.md|Astrachan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Astrachan.internal.md|Astrachan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Astrachan.protect.md|Astrachan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Astrachan.private.md|Astrachan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Astrachan.personal.md|Astrachan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Astrachan.secret.md|Astrachan.secret]] 

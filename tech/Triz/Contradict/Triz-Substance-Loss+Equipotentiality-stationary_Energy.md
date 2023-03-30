@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Equipotentiality]]]
 - [con::[[Triz-stationary_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.md|Triz-Substance-Loss+Equipotentiality-stationary_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.internal.md|Triz-Substance-Loss+Equipotentiality-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.protect.md|Triz-Substance-Loss+Equipotentiality-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.private.md|Triz-Substance-Loss+Equipotentiality-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.personal.md|Triz-Substance-Loss+Equipotentiality-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.secret.md|Triz-Substance-Loss+Equipotentiality-stationary_Energy.secret]] 

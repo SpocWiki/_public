@@ -29,3 +29,12 @@ markerFile: [[Valvasone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Valvasone.md|Valvasone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Valvasone.internal.md|Valvasone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Valvasone.protect.md|Valvasone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Valvasone.private.md|Valvasone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Valvasone.personal.md|Valvasone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Valvasone.secret.md|Valvasone.secret]] 

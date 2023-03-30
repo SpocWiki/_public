@@ -23,3 +23,12 @@ markerFolder: ./Salzburg/City
 [geo-lat::]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/State/State-Salzburg.md|State-Salzburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/State-Salzburg.internal.md|State-Salzburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/State-Salzburg.protect.md|State-Salzburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/State/State-Salzburg.private.md|State-Salzburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/State-Salzburg.personal.md|State-Salzburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/State-Salzburg.secret.md|State-Salzburg.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Fairmount]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Indiana/City/Fairmount.md|Fairmount]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Indiana/City/Fairmount.internal.md|Fairmount.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Indiana/City/Fairmount.protect.md|Fairmount.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Indiana/City/Fairmount.private.md|Fairmount.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Indiana/City/Fairmount.personal.md|Fairmount.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Indiana/City/Fairmount.secret.md|Fairmount.secret]] 

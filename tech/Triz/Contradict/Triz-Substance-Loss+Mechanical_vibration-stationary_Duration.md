@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
 - [con::[[Triz-stationary_Duration]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.internal.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.protect.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.private.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.personal.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.secret.md|Triz-Substance-Loss+Mechanical_vibration-stationary_Duration.secret]] 

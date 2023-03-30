@@ -29,3 +29,12 @@ markerFile: [[Lugoj]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Lugoj.md|Lugoj]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Lugoj.internal.md|Lugoj.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Lugoj.protect.md|Lugoj.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Lugoj.private.md|Lugoj.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Lugoj.personal.md|Lugoj.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Lugoj.secret.md|Lugoj.secret]] 

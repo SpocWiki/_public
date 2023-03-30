@@ -135,3 +135,12 @@ markerFolder: ./Lebanon/City
 [geo-lon::35.5]
 [geo-lat::33.87]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Lebanon.md|Lebanon]] 
+- [[../../../../_internal/geo/Continent/Asia/Lebanon.internal.md|Lebanon.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Lebanon.protect.md|Lebanon.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Lebanon.private.md|Lebanon.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Lebanon.personal.md|Lebanon.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Lebanon.secret.md|Lebanon.secret]] 

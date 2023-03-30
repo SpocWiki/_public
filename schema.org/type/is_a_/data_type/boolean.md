@@ -39,3 +39,12 @@ Boolean: True or False.
 
 [ #has_/sub_classes :: [ False, True ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/data_type/boolean.md|boolean]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/data_type/boolean.internal.md|boolean.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/data_type/boolean.protect.md|boolean.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/data_type/boolean.private.md|boolean.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/data_type/boolean.personal.md|boolean.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/data_type/boolean.secret.md|boolean.secret]] 

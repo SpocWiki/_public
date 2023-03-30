@@ -29,3 +29,12 @@ markerFile: [[Beatenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Beatenberg.md|Beatenberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Beatenberg.internal.md|Beatenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Beatenberg.protect.md|Beatenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Beatenberg.private.md|Beatenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Beatenberg.personal.md|Beatenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Beatenberg.secret.md|Beatenberg.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Zenica]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Zenica.md|Zenica]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Zenica.internal.md|Zenica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Zenica.protect.md|Zenica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Zenica.private.md|Zenica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Zenica.personal.md|Zenica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Zenica.secret.md|Zenica.secret]] 

@@ -48,3 +48,12 @@ TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
 FROM outgoing([[Line~Hammersmith]])
 ```
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Hammersmith.md|Line~Hammersmith]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Hammersmith.internal.md|Line~Hammersmith.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Hammersmith.protect.md|Line~Hammersmith.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Hammersmith.private.md|Line~Hammersmith.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Hammersmith.personal.md|Line~Hammersmith.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Hammersmith.secret.md|Line~Hammersmith.secret]] 

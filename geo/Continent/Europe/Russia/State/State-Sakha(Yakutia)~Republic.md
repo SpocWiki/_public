@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.md|State-Sakha(Yakutia)~Republic]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.internal.md|State-Sakha(Yakutia)~Republic.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.protect.md|State-Sakha(Yakutia)~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.private.md|State-Sakha(Yakutia)~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.personal.md|State-Sakha(Yakutia)~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.secret.md|State-Sakha(Yakutia)~Republic.secret]] 

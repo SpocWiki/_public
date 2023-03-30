@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Spheroidality]]]
 - [con::[[Triz-Shape]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Spheroidality-Shape.md|Triz-stationary_Length+Spheroidality-Shape]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Spheroidality-Shape.internal.md|Triz-stationary_Length+Spheroidality-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Spheroidality-Shape.protect.md|Triz-stationary_Length+Spheroidality-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Spheroidality-Shape.private.md|Triz-stationary_Length+Spheroidality-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Spheroidality-Shape.personal.md|Triz-stationary_Length+Spheroidality-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Spheroidality-Shape.secret.md|Triz-stationary_Length+Spheroidality-Shape.secret]] 

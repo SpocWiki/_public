@@ -46,3 +46,12 @@ Predicate describes that:
 ( #has_/name :: is_loan_renegotiable )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_loan_renegotiable.md|is_loan_renegotiable]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_loan_renegotiable.internal.md|is_loan_renegotiable.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_loan_renegotiable.protect.md|is_loan_renegotiable.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_loan_renegotiable.private.md|is_loan_renegotiable.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_loan_renegotiable.personal.md|is_loan_renegotiable.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_loan_renegotiable.secret.md|is_loan_renegotiable.secret]] 

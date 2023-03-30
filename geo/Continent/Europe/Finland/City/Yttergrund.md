@@ -29,3 +29,12 @@ markerFile: [[Yttergrund]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Yttergrund.md|Yttergrund]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Yttergrund.internal.md|Yttergrund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Yttergrund.protect.md|Yttergrund.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Yttergrund.private.md|Yttergrund.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Yttergrund.personal.md|Yttergrund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Yttergrund.secret.md|Yttergrund.secret]] 

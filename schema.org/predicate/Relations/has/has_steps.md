@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_steps )
 ( #has_/range :: CreativeWork, ItemList, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_steps.md|has_steps]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_steps.internal.md|has_steps.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_steps.protect.md|has_steps.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_steps.private.md|has_steps.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_steps.personal.md|has_steps.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_steps.secret.md|has_steps.secret]] 

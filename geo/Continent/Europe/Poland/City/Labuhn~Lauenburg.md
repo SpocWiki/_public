@@ -29,3 +29,12 @@ markerFile: [[Labuhn~Lauenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.md|Labuhn~Lauenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.internal.md|Labuhn~Lauenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.protect.md|Labuhn~Lauenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.private.md|Labuhn~Lauenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.personal.md|Labuhn~Lauenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.secret.md|Labuhn~Lauenburg.secret]] 

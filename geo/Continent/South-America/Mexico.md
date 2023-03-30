@@ -131,3 +131,12 @@ markerFolder: ./Mexico/City
 [geo-lon::-99.15]
 [geo-lat::19.4]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Mexico.md|Mexico]] 
+- [[../../../../_internal/geo/Continent/South-America/Mexico.internal.md|Mexico.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Mexico.protect.md|Mexico.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Mexico.private.md|Mexico.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Mexico.personal.md|Mexico.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Mexico.secret.md|Mexico.secret]] 

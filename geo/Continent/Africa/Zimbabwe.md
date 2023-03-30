@@ -132,3 +132,12 @@ markerFolder: ./Zimbabwe/City
 [geo-lon::31.05]
 [geo-lat::-17.8333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Zimbabwe.md|Zimbabwe]] 
+- [[../../../../_internal/geo/Continent/Africa/Zimbabwe.internal.md|Zimbabwe.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Zimbabwe.protect.md|Zimbabwe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Zimbabwe.private.md|Zimbabwe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Zimbabwe.personal.md|Zimbabwe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Zimbabwe.secret.md|Zimbabwe.secret]] 

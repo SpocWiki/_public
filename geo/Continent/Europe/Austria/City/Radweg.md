@@ -29,3 +29,12 @@ markerFile: [[Radweg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Radweg.md|Radweg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Radweg.internal.md|Radweg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Radweg.protect.md|Radweg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Radweg.private.md|Radweg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Radweg.personal.md|Radweg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Radweg.secret.md|Radweg.secret]] 

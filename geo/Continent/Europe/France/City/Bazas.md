@@ -29,3 +29,12 @@ markerFile: [[Bazas]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Bazas.md|Bazas]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bazas.internal.md|Bazas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bazas.protect.md|Bazas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bazas.private.md|Bazas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bazas.personal.md|Bazas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bazas.secret.md|Bazas.secret]] 

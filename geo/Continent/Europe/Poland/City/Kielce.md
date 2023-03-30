@@ -29,3 +29,12 @@ markerFile: [[Kielce]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kielce.md|Kielce]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kielce.internal.md|Kielce.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kielce.protect.md|Kielce.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kielce.private.md|Kielce.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kielce.personal.md|Kielce.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kielce.secret.md|Kielce.secret]] 

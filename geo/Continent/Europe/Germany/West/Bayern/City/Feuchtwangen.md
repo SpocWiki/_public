@@ -28,3 +28,12 @@ markerFile: [[Feuchtwangen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.md|Feuchtwangen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.internal.md|Feuchtwangen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.protect.md|Feuchtwangen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.private.md|Feuchtwangen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.personal.md|Feuchtwangen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.secret.md|Feuchtwangen.secret]] 

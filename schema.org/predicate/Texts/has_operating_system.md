@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_operating_system )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_operating_system.md|has_operating_system]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_operating_system.internal.md|has_operating_system.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_operating_system.protect.md|has_operating_system.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_operating_system.private.md|has_operating_system.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_operating_system.personal.md|has_operating_system.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_operating_system.secret.md|has_operating_system.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Troisty]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Troisty.md|Troisty]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Troisty.internal.md|Troisty.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Troisty.protect.md|Troisty.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Troisty.private.md|Troisty.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Troisty.personal.md|Troisty.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Troisty.secret.md|Troisty.secret]] 

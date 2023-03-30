@@ -128,3 +128,12 @@ markerFolder: ./Brunei/City
 [geo-lon::114.942]
 [geo-lat::4.89028]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Brunei.md|Brunei]] 
+- [[../../../../_internal/geo/Continent/Oceania/Brunei.internal.md|Brunei.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Brunei.protect.md|Brunei.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Brunei.private.md|Brunei.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Brunei.personal.md|Brunei.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Brunei.secret.md|Brunei.secret]] 

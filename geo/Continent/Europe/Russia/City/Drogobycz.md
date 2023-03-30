@@ -29,3 +29,12 @@ markerFile: [[Drogobycz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Drogobycz.md|Drogobycz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Drogobycz.internal.md|Drogobycz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Drogobycz.protect.md|Drogobycz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Drogobycz.private.md|Drogobycz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Drogobycz.personal.md|Drogobycz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Drogobycz.secret.md|Drogobycz.secret]] 

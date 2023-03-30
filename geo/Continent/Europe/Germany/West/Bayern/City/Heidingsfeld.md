@@ -28,3 +28,12 @@ markerFile: [[Heidingsfeld]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.md|Heidingsfeld]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.internal.md|Heidingsfeld.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.protect.md|Heidingsfeld.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.private.md|Heidingsfeld.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.personal.md|Heidingsfeld.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.secret.md|Heidingsfeld.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Spheroidality]]]
 - [con::[[Triz-moving_Length]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Length.md|Triz-Quantity+Spheroidality-moving_Length]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Length.internal.md|Triz-Quantity+Spheroidality-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Length.protect.md|Triz-Quantity+Spheroidality-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Length.private.md|Triz-Quantity+Spheroidality-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Length.personal.md|Triz-Quantity+Spheroidality-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Length.secret.md|Triz-Quantity+Spheroidality-moving_Length.secret]] 

@@ -316,3 +316,11 @@ filters:
   enabled: false
   conditions:
 ```
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/State/_CountryStateDB.md|_CountryStateDB]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/State/_CountryStateDB.internal.md|_CountryStateDB.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/_CountryStateDB.protect.md|_CountryStateDB.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/_CountryStateDB.private.md|_CountryStateDB.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/_CountryStateDB.personal.md|_CountryStateDB.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/_CountryStateDB.secret.md|_CountryStateDB.secret]] 

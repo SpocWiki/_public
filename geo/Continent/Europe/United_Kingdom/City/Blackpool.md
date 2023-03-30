@@ -29,3 +29,12 @@ markerFile: [[Blackpool]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Blackpool.md|Blackpool]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Blackpool.internal.md|Blackpool.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Blackpool.protect.md|Blackpool.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Blackpool.private.md|Blackpool.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Blackpool.personal.md|Blackpool.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Blackpool.secret.md|Blackpool.secret]] 

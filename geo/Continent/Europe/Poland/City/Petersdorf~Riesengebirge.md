@@ -29,3 +29,12 @@ markerFile: [[Petersdorf~Riesengebirge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Petersdorf~Riesengebirge.md|Petersdorf~Riesengebirge]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Petersdorf~Riesengebirge.internal.md|Petersdorf~Riesengebirge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Petersdorf~Riesengebirge.protect.md|Petersdorf~Riesengebirge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Petersdorf~Riesengebirge.private.md|Petersdorf~Riesengebirge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Petersdorf~Riesengebirge.personal.md|Petersdorf~Riesengebirge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Petersdorf~Riesengebirge.secret.md|Petersdorf~Riesengebirge.secret]] 

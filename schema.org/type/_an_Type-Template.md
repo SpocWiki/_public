@@ -53,3 +53,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ {{properties}} ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/schema.org/Type/_an_Type-Template.md|_an_Type-Template]] 
+- [[../../../_internal/schema.org/Type/_an_Type-Template.internal.md|_an_Type-Template.internal]] 
+- [[../../../_protect/schema.org/Type/_an_Type-Template.protect.md|_an_Type-Template.protect]] 
+- [[../../../_private/schema.org/Type/_an_Type-Template.private.md|_an_Type-Template.private]] 
+- [[../../../_personal/schema.org/Type/_an_Type-Template.personal.md|_an_Type-Template.personal]] 
+- [[../../../_secret/schema.org/Type/_an_Type-Template.secret.md|_an_Type-Template.secret]] 

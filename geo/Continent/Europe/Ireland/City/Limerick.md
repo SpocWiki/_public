@@ -29,3 +29,12 @@ markerFile: [[Limerick]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Limerick.md|Limerick]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Limerick.internal.md|Limerick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Limerick.protect.md|Limerick.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Limerick.private.md|Limerick.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Limerick.personal.md|Limerick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Limerick.secret.md|Limerick.secret]] 

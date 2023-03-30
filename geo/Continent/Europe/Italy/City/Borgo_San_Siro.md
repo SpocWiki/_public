@@ -29,3 +29,12 @@ markerFile: [[Borgo_San_Siro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Borgo_San_Siro.md|Borgo_San_Siro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Borgo_San_Siro.internal.md|Borgo_San_Siro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Borgo_San_Siro.protect.md|Borgo_San_Siro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Borgo_San_Siro.private.md|Borgo_San_Siro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Borgo_San_Siro.personal.md|Borgo_San_Siro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Borgo_San_Siro.secret.md|Borgo_San_Siro.secret]] 

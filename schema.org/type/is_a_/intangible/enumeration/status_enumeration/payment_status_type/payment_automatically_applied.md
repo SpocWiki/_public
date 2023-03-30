@@ -43,3 +43,12 @@ An automatic payment system is in place and will be used.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.md|payment_automatically_applied]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.internal.md|payment_automatically_applied.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.protect.md|payment_automatically_applied.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.private.md|payment_automatically_applied.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.personal.md|payment_automatically_applied.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.secret.md|payment_automatically_applied.secret]] 

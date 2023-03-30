@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Copying]]]
 - [con::[[Triz-Illumination]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.md|Triz-Difficulty+Copying-Illumination]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.internal.md|Triz-Difficulty+Copying-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.protect.md|Triz-Difficulty+Copying-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.private.md|Triz-Difficulty+Copying-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.personal.md|Triz-Difficulty+Copying-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.secret.md|Triz-Difficulty+Copying-Illumination.secret]] 

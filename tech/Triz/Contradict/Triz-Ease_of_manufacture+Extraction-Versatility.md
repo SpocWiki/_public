@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-Versatility]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.md|Triz-Ease_of_manufacture+Extraction-Versatility]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.internal.md|Triz-Ease_of_manufacture+Extraction-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.protect.md|Triz-Ease_of_manufacture+Extraction-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.private.md|Triz-Ease_of_manufacture+Extraction-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.personal.md|Triz-Ease_of_manufacture+Extraction-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.secret.md|Triz-Ease_of_manufacture+Extraction-Versatility.secret]] 

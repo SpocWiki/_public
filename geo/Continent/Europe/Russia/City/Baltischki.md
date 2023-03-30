@@ -29,3 +29,12 @@ markerFile: [[Baltischki]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Baltischki.md|Baltischki]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Baltischki.internal.md|Baltischki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Baltischki.protect.md|Baltischki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Baltischki.private.md|Baltischki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Baltischki.personal.md|Baltischki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Baltischki.secret.md|Baltischki.secret]] 

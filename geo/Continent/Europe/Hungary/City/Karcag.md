@@ -29,3 +29,12 @@ markerFile: [[Karcag]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Karcag.md|Karcag]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Karcag.internal.md|Karcag.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Karcag.protect.md|Karcag.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Karcag.private.md|Karcag.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Karcag.personal.md|Karcag.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Karcag.secret.md|Karcag.secret]] 

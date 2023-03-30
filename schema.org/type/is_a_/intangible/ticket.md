@@ -41,3 +41,12 @@ Used to describe a ticket to an event, a flight, a bus ride, etc.
 
 [ #has_/properties :: [ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/ticket.md|ticket]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/ticket.internal.md|ticket.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/ticket.protect.md|ticket.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/ticket.private.md|ticket.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/ticket.personal.md|ticket.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/ticket.secret.md|ticket.secret]] 

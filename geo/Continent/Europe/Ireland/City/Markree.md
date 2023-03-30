@@ -29,3 +29,12 @@ markerFile: [[Markree]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Markree.md|Markree]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Markree.internal.md|Markree.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Markree.protect.md|Markree.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Markree.private.md|Markree.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Markree.personal.md|Markree.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Markree.secret.md|Markree.secret]] 

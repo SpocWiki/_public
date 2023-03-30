@@ -29,3 +29,12 @@ markerFile: [[Fabriano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Fabriano.md|Fabriano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Fabriano.internal.md|Fabriano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Fabriano.protect.md|Fabriano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Fabriano.private.md|Fabriano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Fabriano.personal.md|Fabriano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Fabriano.secret.md|Fabriano.secret]] 

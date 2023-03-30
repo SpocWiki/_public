@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_service_audience )
 ( #has_/range :: Audience )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_service_audience.md|has_service_audience]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_service_audience.internal.md|has_service_audience.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_service_audience.protect.md|has_service_audience.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_service_audience.private.md|has_service_audience.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_service_audience.personal.md|has_service_audience.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_service_audience.secret.md|has_service_audience.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Mukhor_Shibir]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mukhor_Shibir.md|Mukhor_Shibir]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mukhor_Shibir.internal.md|Mukhor_Shibir.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mukhor_Shibir.protect.md|Mukhor_Shibir.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mukhor_Shibir.private.md|Mukhor_Shibir.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mukhor_Shibir.personal.md|Mukhor_Shibir.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mukhor_Shibir.secret.md|Mukhor_Shibir.secret]] 

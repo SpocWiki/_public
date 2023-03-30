@@ -28,3 +28,12 @@ markerFile: [[Beijing=Peking]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/China/City/Beijing=Peking.md|Beijing=Peking]] 
+- [[../../../../../../_internal/geo/Continent/Asia/China/City/Beijing=Peking.internal.md|Beijing=Peking.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/China/City/Beijing=Peking.protect.md|Beijing=Peking.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/China/City/Beijing=Peking.private.md|Beijing=Peking.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/China/City/Beijing=Peking.personal.md|Beijing=Peking.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/China/City/Beijing=Peking.secret.md|Beijing=Peking.secret]] 

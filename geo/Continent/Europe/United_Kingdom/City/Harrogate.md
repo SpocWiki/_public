@@ -29,3 +29,12 @@ markerFile: [[Harrogate]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Harrogate.md|Harrogate]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Harrogate.internal.md|Harrogate.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Harrogate.protect.md|Harrogate.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Harrogate.private.md|Harrogate.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Harrogate.personal.md|Harrogate.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Harrogate.secret.md|Harrogate.secret]] 

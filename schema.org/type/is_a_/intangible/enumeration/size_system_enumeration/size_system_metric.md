@@ -45,3 +45,12 @@ Metric size system.
 
 [ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.md|size_system_metric]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.internal.md|size_system_metric.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.protect.md|size_system_metric.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.private.md|size_system_metric.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.personal.md|size_system_metric.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.secret.md|size_system_metric.secret]] 

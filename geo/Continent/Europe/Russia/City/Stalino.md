@@ -29,3 +29,12 @@ markerFile: [[Stalino]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stalino.md|Stalino]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalino.internal.md|Stalino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalino.protect.md|Stalino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stalino.private.md|Stalino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalino.personal.md|Stalino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalino.secret.md|Stalino.secret]] 

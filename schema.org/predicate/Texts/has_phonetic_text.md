@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_phonetic_text )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_phonetic_text.md|has_phonetic_text]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_phonetic_text.internal.md|has_phonetic_text.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_phonetic_text.protect.md|has_phonetic_text.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_phonetic_text.private.md|has_phonetic_text.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_phonetic_text.personal.md|has_phonetic_text.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_phonetic_text.secret.md|has_phonetic_text.secret]] 

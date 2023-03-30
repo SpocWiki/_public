@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Spheroidality]]]
 - [con::[[Triz-Reliability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Reliability.md|Triz-moving_Volume+Spheroidality-Reliability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Reliability.internal.md|Triz-moving_Volume+Spheroidality-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Reliability.protect.md|Triz-moving_Volume+Spheroidality-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Reliability.private.md|Triz-moving_Volume+Spheroidality-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Reliability.personal.md|Triz-moving_Volume+Spheroidality-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Reliability.secret.md|Triz-moving_Volume+Spheroidality-Reliability.secret]] 

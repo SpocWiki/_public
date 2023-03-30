@@ -29,3 +29,12 @@ markerFile: [[Silistria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Silistria.md|Silistria]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Silistria.internal.md|Silistria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Silistria.protect.md|Silistria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Silistria.private.md|Silistria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Silistria.personal.md|Silistria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Silistria.secret.md|Silistria.secret]] 

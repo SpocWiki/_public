@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_nationality )
 ( #has_/range :: Country )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_nationality.md|has_nationality]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nationality.internal.md|has_nationality.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nationality.protect.md|has_nationality.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_nationality.private.md|has_nationality.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_nationality.personal.md|has_nationality.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_nationality.secret.md|has_nationality.secret]] 

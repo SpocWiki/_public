@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_masthead.md|has_masthead]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_masthead.internal.md|has_masthead.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_masthead.protect.md|has_masthead.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_masthead.private.md|has_masthead.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_masthead.personal.md|has_masthead.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_masthead.secret.md|has_masthead.secret]] 

@@ -43,3 +43,12 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Type/is_a_/intangible.md|intangible]] 
+- [[../../../../_internal/schema.org/Type/is_a_/intangible.internal.md|intangible.internal]] 
+- [[../../../../_protect/schema.org/Type/is_a_/intangible.protect.md|intangible.protect]] 
+- [[../../../../_private/schema.org/Type/is_a_/intangible.private.md|intangible.private]] 
+- [[../../../../_personal/schema.org/Type/is_a_/intangible.personal.md|intangible.personal]] 
+- [[../../../../_secret/schema.org/Type/is_a_/intangible.secret.md|intangible.secret]] 

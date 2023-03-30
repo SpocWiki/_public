@@ -29,3 +29,12 @@ markerFile: [[Nyon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Nyon.md|Nyon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Nyon.internal.md|Nyon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Nyon.protect.md|Nyon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Nyon.private.md|Nyon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Nyon.personal.md|Nyon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Nyon.secret.md|Nyon.secret]] 

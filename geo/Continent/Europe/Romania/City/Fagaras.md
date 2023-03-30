@@ -29,3 +29,12 @@ markerFile: [[Fagaras]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Fagaras.md|Fagaras]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Fagaras.internal.md|Fagaras.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Fagaras.protect.md|Fagaras.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Fagaras.private.md|Fagaras.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Fagaras.personal.md|Fagaras.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Fagaras.secret.md|Fagaras.secret]] 

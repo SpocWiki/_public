@@ -29,3 +29,12 @@ markerFile: [[Gersdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gersdorf.md|Gersdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gersdorf.internal.md|Gersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gersdorf.protect.md|Gersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gersdorf.private.md|Gersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gersdorf.personal.md|Gersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gersdorf.secret.md|Gersdorf.secret]] 

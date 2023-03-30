@@ -47,3 +47,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_ineligible_region )
 ( #has_/range :: GeoShape, Place, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_ineligible_region.md|has_geo_ineligible_region]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_ineligible_region.internal.md|has_geo_ineligible_region.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_ineligible_region.protect.md|has_geo_ineligible_region.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_ineligible_region.private.md|has_geo_ineligible_region.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_ineligible_region.personal.md|has_geo_ineligible_region.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_ineligible_region.secret.md|has_geo_ineligible_region.secret]] 

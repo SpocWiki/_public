@@ -29,3 +29,12 @@ markerFile: [[Alofi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Niue/City/Alofi.md|Alofi]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Niue/City/Alofi.internal.md|Alofi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Niue/City/Alofi.protect.md|Alofi.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Niue/City/Alofi.private.md|Alofi.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Niue/City/Alofi.personal.md|Alofi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Niue/City/Alofi.secret.md|Alofi.secret]] 

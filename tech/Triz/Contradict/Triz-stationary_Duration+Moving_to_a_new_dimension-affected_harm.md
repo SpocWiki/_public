@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
 - [con::[[Triz-affected_harm]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.md|Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.internal.md|Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.protect.md|Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.private.md|Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.personal.md|Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.secret.md|Triz-stationary_Duration+Moving_to_a_new_dimension-affected_harm.secret]] 

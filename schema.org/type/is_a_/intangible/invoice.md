@@ -41,3 +41,12 @@ A statement of the money due for goods or services; a bill.
 
 [ #has_/properties :: [ accountId, additionalType, alternateName, billingPeriod, broker, category, confirmationNumber, customer, description, disambiguatingDescription, identifier, image, mainEntityOfPage, minimumPaymentDue, name, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentStatus, potentialAction, provider, referencesOrder, sameAs, scheduledPaymentDate, subjectOf, totalPaymentDue, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/invoice.md|invoice]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/invoice.internal.md|invoice.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/invoice.protect.md|invoice.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/invoice.private.md|invoice.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/invoice.personal.md|invoice.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/invoice.secret.md|invoice.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Tromoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Tromoe.md|Tromoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Tromoe.internal.md|Tromoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Tromoe.protect.md|Tromoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Tromoe.private.md|Tromoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Tromoe.personal.md|Tromoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Tromoe.secret.md|Tromoe.secret]] 

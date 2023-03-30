@@ -28,3 +28,12 @@ markerFile: [[Seeshaupt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.md|Seeshaupt]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.internal.md|Seeshaupt.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.protect.md|Seeshaupt.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.private.md|Seeshaupt.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.personal.md|Seeshaupt.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.secret.md|Seeshaupt.secret]] 

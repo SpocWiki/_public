@@ -45,3 +45,12 @@ Relation describes that:
 [[../is_inverse_of]]
 
 [[../is_inverse_of]]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_performer.md|has_performer]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_performer.internal.md|has_performer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_performer.protect.md|has_performer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_performer.private.md|has_performer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_performer.personal.md|has_performer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_performer.secret.md|has_performer.secret]] 

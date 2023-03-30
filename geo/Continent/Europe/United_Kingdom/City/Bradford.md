@@ -29,3 +29,12 @@ markerFile: [[Bradford]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bradford.md|Bradford]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bradford.internal.md|Bradford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bradford.protect.md|Bradford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bradford.private.md|Bradford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bradford.personal.md|Bradford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bradford.secret.md|Bradford.secret]] 

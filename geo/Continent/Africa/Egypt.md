@@ -129,3 +129,12 @@ markerFolder: ./Egypt/City
 [geo-lon::31.9]
 [geo-lat::30.015]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Egypt.md|Egypt]] 
+- [[../../../../_internal/geo/Continent/Africa/Egypt.internal.md|Egypt.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Egypt.protect.md|Egypt.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Egypt.private.md|Egypt.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Egypt.personal.md|Egypt.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Egypt.secret.md|Egypt.secret]] 

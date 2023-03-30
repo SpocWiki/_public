@@ -29,3 +29,12 @@ markerFile: [[Ayr]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ayr.md|Ayr]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ayr.internal.md|Ayr.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ayr.protect.md|Ayr.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ayr.private.md|Ayr.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ayr.personal.md|Ayr.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ayr.secret.md|Ayr.secret]] 

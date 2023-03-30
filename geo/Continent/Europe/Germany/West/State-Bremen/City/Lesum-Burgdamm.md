@@ -28,3 +28,12 @@ markerFile: [[Lesum-Burgdamm]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.md|Lesum-Burgdamm]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.internal.md|Lesum-Burgdamm.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.protect.md|Lesum-Burgdamm.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.private.md|Lesum-Burgdamm.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.personal.md|Lesum-Burgdamm.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.secret.md|Lesum-Burgdamm.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Djibouti~City]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Djibouti/City/Djibouti~City.md|Djibouti~City]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Djibouti/City/Djibouti~City.internal.md|Djibouti~City.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Djibouti/City/Djibouti~City.protect.md|Djibouti~City.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Djibouti/City/Djibouti~City.private.md|Djibouti~City.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Djibouti/City/Djibouti~City.personal.md|Djibouti~City.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Djibouti/City/Djibouti~City.secret.md|Djibouti~City.secret]] 

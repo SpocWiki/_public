@@ -29,3 +29,12 @@ markerFile: [[Markowitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Markowitz.md|Markowitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Markowitz.internal.md|Markowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Markowitz.protect.md|Markowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Markowitz.private.md|Markowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Markowitz.personal.md|Markowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Markowitz.secret.md|Markowitz.secret]] 

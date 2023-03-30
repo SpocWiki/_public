@@ -29,3 +29,12 @@ markerFile: [[St.Claude]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Claude.md|St.Claude]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Claude.internal.md|St.Claude.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Claude.protect.md|St.Claude.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Claude.private.md|St.Claude.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Claude.personal.md|St.Claude.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Claude.secret.md|St.Claude.secret]] 

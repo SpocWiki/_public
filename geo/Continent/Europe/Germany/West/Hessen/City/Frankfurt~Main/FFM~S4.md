@@ -39,3 +39,12 @@ markerFolder: ./Station/
 25) [[Station/S-Darmstadt-Wixhausen]] 
 26) [[Station/S-Darmstadt-Arheilgen]] 
 27) [[Station/S-Darmstadt_Hbf]] 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.md|FFM~S4]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.internal.md|FFM~S4.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.protect.md|FFM~S4.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.private.md|FFM~S4.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.personal.md|FFM~S4.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.secret.md|FFM~S4.secret]] 

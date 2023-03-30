@@ -29,3 +29,12 @@ markerFile: [[Provins]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Provins.md|Provins]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Provins.internal.md|Provins.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Provins.protect.md|Provins.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Provins.private.md|Provins.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Provins.personal.md|Provins.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Provins.secret.md|Provins.secret]] 

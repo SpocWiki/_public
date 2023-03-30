@@ -29,3 +29,12 @@ markerFile: [[Bristol]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bristol.md|Bristol]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bristol.internal.md|Bristol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bristol.protect.md|Bristol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bristol.private.md|Bristol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bristol.personal.md|Bristol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bristol.secret.md|Bristol.secret]] 

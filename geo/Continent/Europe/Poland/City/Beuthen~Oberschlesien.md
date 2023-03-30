@@ -29,3 +29,12 @@ markerFile: [[Beuthen~Oberschlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Beuthen~Oberschlesien.md|Beuthen~Oberschlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Beuthen~Oberschlesien.internal.md|Beuthen~Oberschlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Beuthen~Oberschlesien.protect.md|Beuthen~Oberschlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Beuthen~Oberschlesien.private.md|Beuthen~Oberschlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Beuthen~Oberschlesien.personal.md|Beuthen~Oberschlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Beuthen~Oberschlesien.secret.md|Beuthen~Oberschlesien.secret]] 

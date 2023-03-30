@@ -132,3 +132,12 @@ markerFolder: ./Iran/City
 [geo-lon::51.555]
 [geo-lat::34.175]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Iran.md|Iran]] 
+- [[../../../../_internal/geo/Continent/Asia/Iran.internal.md|Iran.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Iran.protect.md|Iran.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Iran.private.md|Iran.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Iran.personal.md|Iran.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Iran.secret.md|Iran.secret]] 

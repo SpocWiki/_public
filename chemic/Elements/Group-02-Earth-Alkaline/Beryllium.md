@@ -30,3 +30,11 @@ SpocWebEntityId: 21907 á à ô
 > The commercial use of beryllium requires the use of appropriate dust control equipment and industrial controls at all times because of the toxicity of inhaled beryllium-containing dusts that can cause a chronic life-threatening allergic disease in some people called berylliosis. Berylliosis causes pneumonia and other associated respiratory illness.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beryllium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.md|Beryllium]] 
+- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.internal.md|Beryllium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.protect.md|Beryllium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.private.md|Beryllium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.personal.md|Beryllium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.secret.md|Beryllium.secret]] 

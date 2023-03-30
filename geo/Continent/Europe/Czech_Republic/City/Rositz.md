@@ -29,3 +29,12 @@ markerFile: [[Rositz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Rositz.md|Rositz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Rositz.internal.md|Rositz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Rositz.protect.md|Rositz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Rositz.private.md|Rositz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Rositz.personal.md|Rositz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Rositz.secret.md|Rositz.secret]] 

@@ -32,3 +32,12 @@ markerFolder: ./Sabah/City
 [geo-lon::117]
 [geo-lat::5.25]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Sabah.md|Sabah]] 
+- [[../../../../_internal/geo/Continent/Asia/Sabah.internal.md|Sabah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Sabah.protect.md|Sabah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Sabah.private.md|Sabah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Sabah.personal.md|Sabah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Sabah.secret.md|Sabah.secret]] 

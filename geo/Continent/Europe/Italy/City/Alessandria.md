@@ -29,3 +29,12 @@ markerFile: [[Alessandria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Alessandria.md|Alessandria]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Alessandria.internal.md|Alessandria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Alessandria.protect.md|Alessandria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Alessandria.private.md|Alessandria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Alessandria.personal.md|Alessandria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Alessandria.secret.md|Alessandria.secret]] 

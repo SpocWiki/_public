@@ -35,3 +35,12 @@ after WW
 ![[Anthem-Eu-long.mp3]]
 
 ![[Flag_of_Europe.svg|350]]
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/geo/Continent/Europe.md|Europe]] 
+- [[../../../_internal/geo/Continent/Europe.internal.md|Europe.internal]] 
+- [[../../../_protect/geo/Continent/Europe.protect.md|Europe.protect]] 
+- [[../../../_private/geo/Continent/Europe.private.md|Europe.private]] 
+- [[../../../_personal/geo/Continent/Europe.personal.md|Europe.personal]] 
+- [[../../../_secret/geo/Continent/Europe.secret.md|Europe.secret]] 

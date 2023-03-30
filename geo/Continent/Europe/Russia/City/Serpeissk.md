@@ -29,3 +29,12 @@ markerFile: [[Serpeissk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Serpeissk.md|Serpeissk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Serpeissk.internal.md|Serpeissk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Serpeissk.protect.md|Serpeissk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Serpeissk.private.md|Serpeissk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Serpeissk.personal.md|Serpeissk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Serpeissk.secret.md|Serpeissk.secret]] 

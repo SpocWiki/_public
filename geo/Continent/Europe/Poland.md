@@ -130,3 +130,12 @@ markerFolder: ./Poland/City
 [geo-lon::17.6996]
 [geo-lat::52.0027]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Poland.md|Poland]] 
+- [[../../../../_internal/geo/Continent/Europe/Poland.internal.md|Poland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Poland.protect.md|Poland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Poland.private.md|Poland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Poland.personal.md|Poland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Poland.secret.md|Poland.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Justin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Justin.md|Justin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Justin.internal.md|Justin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Justin.protect.md|Justin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Justin.private.md|Justin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Justin.personal.md|Justin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Justin.secret.md|Justin.secret]] 

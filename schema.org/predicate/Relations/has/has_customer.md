@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_customer )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_customer.md|has_customer]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_customer.internal.md|has_customer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_customer.protect.md|has_customer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_customer.private.md|has_customer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_customer.personal.md|has_customer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_customer.secret.md|has_customer.secret]] 

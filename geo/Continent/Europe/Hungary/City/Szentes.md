@@ -29,3 +29,12 @@ markerFile: [[Szentes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szentes.md|Szentes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szentes.internal.md|Szentes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szentes.protect.md|Szentes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szentes.private.md|Szentes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szentes.personal.md|Szentes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szentes.secret.md|Szentes.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Duala_Buea_(after_1910)]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).md|Duala_Buea_(after_1910)]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).internal.md|Duala_Buea_(after_1910).internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).protect.md|Duala_Buea_(after_1910).protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).private.md|Duala_Buea_(after_1910).private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).personal.md|Duala_Buea_(after_1910).personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).secret.md|Duala_Buea_(after_1910).secret]] 

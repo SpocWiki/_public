@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_cause_of )
 ( #has_/range :: MedicalEntity )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_cause_of.md|has_cause_of]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cause_of.internal.md|has_cause_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_cause_of.protect.md|has_cause_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_cause_of.private.md|has_cause_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_cause_of.personal.md|has_cause_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_cause_of.secret.md|has_cause_of.secret]] 

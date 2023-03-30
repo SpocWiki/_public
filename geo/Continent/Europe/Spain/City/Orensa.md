@@ -29,3 +29,12 @@ markerFile: [[Orensa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Orensa.md|Orensa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Orensa.internal.md|Orensa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Orensa.protect.md|Orensa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Orensa.private.md|Orensa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Orensa.personal.md|Orensa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Orensa.secret.md|Orensa.secret]] 

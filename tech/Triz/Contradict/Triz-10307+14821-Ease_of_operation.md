@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-14821]]]
 - [con::[[Triz-Ease_of_operation]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+14821-Ease_of_operation.md|Triz-10307+14821-Ease_of_operation]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+14821-Ease_of_operation.internal.md|Triz-10307+14821-Ease_of_operation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+14821-Ease_of_operation.protect.md|Triz-10307+14821-Ease_of_operation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+14821-Ease_of_operation.private.md|Triz-10307+14821-Ease_of_operation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+14821-Ease_of_operation.personal.md|Triz-10307+14821-Ease_of_operation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+14821-Ease_of_operation.secret.md|Triz-10307+14821-Ease_of_operation.secret]] 

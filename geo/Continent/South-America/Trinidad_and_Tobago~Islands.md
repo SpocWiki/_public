@@ -35,3 +35,12 @@ markerFolder: ./Trinidad_And_Tobago/City
 [geo-lon::-61.5167]
 [geo-lat::10.6667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Trinidad_and_Tobago~Islands.md|Trinidad_and_Tobago~Islands]] 
+- [[../../../../_internal/geo/Continent/South-America/Trinidad_and_Tobago~Islands.internal.md|Trinidad_and_Tobago~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Trinidad_and_Tobago~Islands.protect.md|Trinidad_and_Tobago~Islands.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Trinidad_and_Tobago~Islands.private.md|Trinidad_and_Tobago~Islands.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Trinidad_and_Tobago~Islands.personal.md|Trinidad_and_Tobago~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Trinidad_and_Tobago~Islands.secret.md|Trinidad_and_Tobago~Islands.secret]] 

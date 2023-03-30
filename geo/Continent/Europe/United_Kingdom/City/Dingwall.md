@@ -29,3 +29,12 @@ markerFile: [[Dingwall]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dingwall.md|Dingwall]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dingwall.internal.md|Dingwall.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dingwall.protect.md|Dingwall.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dingwall.private.md|Dingwall.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dingwall.personal.md|Dingwall.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dingwall.secret.md|Dingwall.secret]] 

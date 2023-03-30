@@ -29,3 +29,12 @@ markerFile: [[Jamestown]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Saint_Helena/City/Jamestown.md|Jamestown]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Saint_Helena/City/Jamestown.internal.md|Jamestown.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Saint_Helena/City/Jamestown.protect.md|Jamestown.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Saint_Helena/City/Jamestown.private.md|Jamestown.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Saint_Helena/City/Jamestown.personal.md|Jamestown.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Saint_Helena/City/Jamestown.secret.md|Jamestown.secret]] 

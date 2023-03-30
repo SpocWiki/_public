@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_game_location )
 ( #has_/range :: Place, PostalAddress, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_game_location.md|has_geo_game_location]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_game_location.internal.md|has_geo_game_location.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_game_location.protect.md|has_geo_game_location.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_game_location.private.md|has_geo_game_location.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_game_location.personal.md|has_geo_game_location.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_game_location.secret.md|has_geo_game_location.secret]] 

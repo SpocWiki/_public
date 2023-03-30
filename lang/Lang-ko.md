@@ -16,3 +16,13 @@ tags:
 [Iso2::ko]
 [Iso3::kor]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/lang/Lang-ko.md|Lang-ko]] 
+- [[../../_internal/lang/Lang-ko.internal.md|Lang-ko.internal]] 
+- [[../../_protect/lang/Lang-ko.protect.md|Lang-ko.protect]] 
+- [[../../_private/lang/Lang-ko.private.md|Lang-ko.private]] 
+- [[../../_personal/lang/Lang-ko.personal.md|Lang-ko.personal]] 
+- [[../../_secret/lang/Lang-ko.secret.md|Lang-ko.secret]]
+

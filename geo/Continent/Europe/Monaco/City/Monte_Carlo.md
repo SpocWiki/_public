@@ -29,3 +29,12 @@ markerFile: [[Monte_Carlo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Monaco/City/Monte_Carlo.md|Monte_Carlo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Monaco/City/Monte_Carlo.internal.md|Monte_Carlo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Monaco/City/Monte_Carlo.protect.md|Monte_Carlo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Monaco/City/Monte_Carlo.private.md|Monte_Carlo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Monaco/City/Monte_Carlo.personal.md|Monte_Carlo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Monaco/City/Monte_Carlo.secret.md|Monte_Carlo.secret]] 

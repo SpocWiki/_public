@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Atlas.md|Atlas]] 
+- [[../../../_internal/astro/Star/Atlas.internal.md|Atlas.internal]] 
+- [[../../../_protect/astro/Star/Atlas.protect.md|Atlas.protect]] 
+- [[../../../_private/astro/Star/Atlas.private.md|Atlas.private]] 
+- [[../../../_personal/astro/Star/Atlas.personal.md|Atlas.personal]] 
+- [[../../../_secret/astro/Star/Atlas.secret.md|Atlas.secret]]
+

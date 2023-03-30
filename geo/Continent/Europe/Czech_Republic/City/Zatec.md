@@ -29,3 +29,12 @@ markerFile: [[Zatec]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zatec.md|Zatec]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zatec.internal.md|Zatec.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zatec.protect.md|Zatec.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zatec.private.md|Zatec.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zatec.personal.md|Zatec.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zatec.secret.md|Zatec.secret]] 

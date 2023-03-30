@@ -32,3 +32,11 @@ SpocWebEntityId: 21982
 > Francium was discovered by Marguerite Perey in France (from which the element takes its name) in 1939. Prior to its discovery, it was referred to as eka-caesium or ekacaesium because of its conjectured existence below caesium in the periodic table. It was the last element first discovered in nature, rather than by synthesis. Outside the laboratory, francium is extremely rare, with trace amounts found in uranium ores, where the isotope francium-223 (in the family of uranium-235) continually forms and decays. As little as 200–500 g exists at any given time throughout the Earth's crust; aside from francium-223 and francium-221, its other isotopes are entirely synthetic. The largest amount produced in the laboratory was a cluster of more than 300,000 atoms.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Francium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-01-Alkali/Francium.md|Francium]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Francium.internal.md|Francium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Francium.protect.md|Francium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Francium.private.md|Francium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Francium.personal.md|Francium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Francium.secret.md|Francium.secret]] 

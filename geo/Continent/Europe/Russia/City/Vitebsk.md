@@ -29,3 +29,12 @@ markerFile: [[Vitebsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vitebsk.md|Vitebsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vitebsk.internal.md|Vitebsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vitebsk.protect.md|Vitebsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vitebsk.private.md|Vitebsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vitebsk.personal.md|Vitebsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vitebsk.secret.md|Vitebsk.secret]] 

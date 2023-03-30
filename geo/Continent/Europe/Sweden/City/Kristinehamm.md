@@ -29,3 +29,12 @@ markerFile: [[Kristinehamm]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kristinehamm.md|Kristinehamm]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kristinehamm.internal.md|Kristinehamm.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kristinehamm.protect.md|Kristinehamm.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kristinehamm.private.md|Kristinehamm.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kristinehamm.personal.md|Kristinehamm.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kristinehamm.secret.md|Kristinehamm.secret]] 

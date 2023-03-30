@@ -29,3 +29,12 @@ markerFile: [[Troon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Troon.md|Troon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Troon.internal.md|Troon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Troon.protect.md|Troon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Troon.private.md|Troon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Troon.personal.md|Troon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Troon.secret.md|Troon.secret]] 

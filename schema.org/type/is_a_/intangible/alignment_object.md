@@ -43,3 +43,12 @@ Should not be used where the nature of the alignment can be described using a si
 
 [ #has_/properties :: [ additionalType, alignmentType, alternateName, description, disambiguatingDescription, educationalFramework, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, targetDescription, targetName, targetUrl, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/alignment_object.md|alignment_object]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/alignment_object.internal.md|alignment_object.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/alignment_object.protect.md|alignment_object.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/alignment_object.private.md|alignment_object.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/alignment_object.personal.md|alignment_object.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/alignment_object.secret.md|alignment_object.secret]] 

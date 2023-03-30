@@ -29,3 +29,12 @@ markerFile: [[Jorvinen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Jorvinen.md|Jorvinen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Jorvinen.internal.md|Jorvinen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Jorvinen.protect.md|Jorvinen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Jorvinen.private.md|Jorvinen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Jorvinen.personal.md|Jorvinen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Jorvinen.secret.md|Jorvinen.secret]] 

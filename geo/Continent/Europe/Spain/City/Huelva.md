@@ -29,3 +29,12 @@ markerFile: [[Huelva]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Huelva.md|Huelva]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Huelva.internal.md|Huelva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Huelva.protect.md|Huelva.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Huelva.private.md|Huelva.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Huelva.personal.md|Huelva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Huelva.secret.md|Huelva.secret]] 

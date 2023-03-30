@@ -29,3 +29,12 @@ markerFile: [[Armagh]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.md|Armagh]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.internal.md|Armagh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.protect.md|Armagh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.private.md|Armagh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.personal.md|Armagh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.secret.md|Armagh.secret]] 

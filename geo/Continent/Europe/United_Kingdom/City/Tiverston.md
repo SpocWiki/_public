@@ -29,3 +29,12 @@ markerFile: [[Tiverston]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tiverston.md|Tiverston]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tiverston.internal.md|Tiverston.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tiverston.protect.md|Tiverston.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tiverston.private.md|Tiverston.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tiverston.personal.md|Tiverston.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tiverston.secret.md|Tiverston.secret]] 

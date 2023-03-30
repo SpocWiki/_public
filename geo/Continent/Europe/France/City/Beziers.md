@@ -29,3 +29,12 @@ markerFile: [[Beziers]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Beziers.md|Beziers]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Beziers.internal.md|Beziers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Beziers.protect.md|Beziers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Beziers.private.md|Beziers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Beziers.personal.md|Beziers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Beziers.secret.md|Beziers.secret]] 

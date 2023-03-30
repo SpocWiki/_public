@@ -28,3 +28,12 @@ markerFile: [[Zasenbeck]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.md|Zasenbeck]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.internal.md|Zasenbeck.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.protect.md|Zasenbeck.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.private.md|Zasenbeck.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.personal.md|Zasenbeck.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.secret.md|Zasenbeck.secret]] 

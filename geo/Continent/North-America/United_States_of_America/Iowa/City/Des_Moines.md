@@ -28,3 +28,12 @@ markerFile: [[Des_Moines]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.md|Des_Moines]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.internal.md|Des_Moines.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.protect.md|Des_Moines.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.private.md|Des_Moines.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.personal.md|Des_Moines.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.secret.md|Des_Moines.secret]] 

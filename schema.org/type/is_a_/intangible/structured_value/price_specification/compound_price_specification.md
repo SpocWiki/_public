@@ -41,3 +41,12 @@ A compound price specification is one that bundles multiple prices that all appl
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponent, priceCurrency, priceType, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/price_specification/compound_price_specification.md|compound_price_specification]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/price_specification/compound_price_specification.internal.md|compound_price_specification.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/price_specification/compound_price_specification.protect.md|compound_price_specification.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/price_specification/compound_price_specification.private.md|compound_price_specification.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/price_specification/compound_price_specification.personal.md|compound_price_specification.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/price_specification/compound_price_specification.secret.md|compound_price_specification.secret]] 

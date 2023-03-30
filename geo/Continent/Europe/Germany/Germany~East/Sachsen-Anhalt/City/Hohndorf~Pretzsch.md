@@ -28,3 +28,12 @@ markerFile: [[Hohndorf~Pretzsch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.md|Hohndorf~Pretzsch]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.internal.md|Hohndorf~Pretzsch.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.protect.md|Hohndorf~Pretzsch.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.private.md|Hohndorf~Pretzsch.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.personal.md|Hohndorf~Pretzsch.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.secret.md|Hohndorf~Pretzsch.secret]] 

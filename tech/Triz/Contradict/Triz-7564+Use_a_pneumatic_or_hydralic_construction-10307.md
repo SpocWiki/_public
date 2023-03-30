@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
 - [con::[[Triz-10307]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.md|Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.internal.md|Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.protect.md|Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.private.md|Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.personal.md|Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.secret.md|Triz-7564+Use_a_pneumatic_or_hydralic_construction-10307.secret]] 

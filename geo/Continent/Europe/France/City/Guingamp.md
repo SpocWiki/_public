@@ -29,3 +29,12 @@ markerFile: [[Guingamp]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Guingamp.md|Guingamp]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Guingamp.internal.md|Guingamp.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Guingamp.protect.md|Guingamp.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Guingamp.private.md|Guingamp.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Guingamp.personal.md|Guingamp.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Guingamp.secret.md|Guingamp.secret]] 

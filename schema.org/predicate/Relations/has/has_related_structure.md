@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_related_structure )
 ( #has_/range :: AnatomicalStructure )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_related_structure.md|has_related_structure]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_related_structure.internal.md|has_related_structure.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_related_structure.protect.md|has_related_structure.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_related_structure.private.md|has_related_structure.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_related_structure.personal.md|has_related_structure.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_related_structure.secret.md|has_related_structure.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Modica]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Modica.md|Modica]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Modica.internal.md|Modica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Modica.protect.md|Modica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Modica.private.md|Modica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Modica.personal.md|Modica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Modica.secret.md|Modica.secret]] 

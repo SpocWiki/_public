@@ -29,3 +29,12 @@ markerFile: [[Lacedonia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lacedonia.md|Lacedonia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lacedonia.internal.md|Lacedonia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lacedonia.protect.md|Lacedonia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lacedonia.private.md|Lacedonia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lacedonia.personal.md|Lacedonia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lacedonia.secret.md|Lacedonia.secret]] 

@@ -29,3 +29,11 @@ SpocWebEntityId: 21969
 > The chemical inertness and very high melting point of tantalum make it valuable for laboratory and industrial equipment such as reaction vessels and vacuum furnaces. It is used in tantalum capacitors for electronic equipment such as computers. It is being investigated for use as a material for high-quality superconducting resonators in quantum processors. Tantalum is considered a technology-critical element by the European Commission.The Vander Waals radius for the atoms of the Tantalum element is 220 pm and the ChemSpider ID of the Tantalum element is 22395.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tantalum)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-05-Vanadium/Tantalum.md|Tantalum]] 
+- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Tantalum.internal.md|Tantalum.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Tantalum.protect.md|Tantalum.protect]] 
+- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Tantalum.private.md|Tantalum.private]] 
+- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Tantalum.personal.md|Tantalum.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Tantalum.secret.md|Tantalum.secret]] 

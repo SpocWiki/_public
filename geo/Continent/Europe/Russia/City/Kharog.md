@@ -29,3 +29,12 @@ markerFile: [[Kharog]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kharog.md|Kharog]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kharog.internal.md|Kharog.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kharog.protect.md|Kharog.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kharog.private.md|Kharog.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kharog.personal.md|Kharog.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kharog.secret.md|Kharog.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Sandbaeckshult]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Sandbaeckshult.md|Sandbaeckshult]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sandbaeckshult.internal.md|Sandbaeckshult.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sandbaeckshult.protect.md|Sandbaeckshult.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sandbaeckshult.private.md|Sandbaeckshult.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sandbaeckshult.personal.md|Sandbaeckshult.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sandbaeckshult.secret.md|Sandbaeckshult.secret]] 

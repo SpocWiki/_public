@@ -29,3 +29,12 @@ markerFile: [[Sub-Harrow-on-the-Hill]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harrow-on-the-Hill.md|Sub-Harrow-on-the-Hill]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harrow-on-the-Hill.internal.md|Sub-Harrow-on-the-Hill.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harrow-on-the-Hill.protect.md|Sub-Harrow-on-the-Hill.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harrow-on-the-Hill.private.md|Sub-Harrow-on-the-Hill.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harrow-on-the-Hill.personal.md|Sub-Harrow-on-the-Hill.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harrow-on-the-Hill.secret.md|Sub-Harrow-on-the-Hill.secret]] 

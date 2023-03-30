@@ -29,3 +29,12 @@ markerFile: [[Kuopiv]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kuopiv.md|Kuopiv]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuopiv.internal.md|Kuopiv.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuopiv.protect.md|Kuopiv.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kuopiv.private.md|Kuopiv.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuopiv.personal.md|Kuopiv.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuopiv.secret.md|Kuopiv.secret]] 

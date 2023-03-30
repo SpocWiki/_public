@@ -29,3 +29,12 @@ markerFile: [[Neudorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neudorf.md|Neudorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neudorf.internal.md|Neudorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neudorf.protect.md|Neudorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neudorf.private.md|Neudorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neudorf.personal.md|Neudorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neudorf.secret.md|Neudorf.secret]] 

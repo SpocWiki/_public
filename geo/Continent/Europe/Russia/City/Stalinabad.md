@@ -29,3 +29,12 @@ markerFile: [[Stalinabad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinabad.md|Stalinabad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinabad.internal.md|Stalinabad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinabad.protect.md|Stalinabad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinabad.private.md|Stalinabad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalinabad.personal.md|Stalinabad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalinabad.secret.md|Stalinabad.secret]] 

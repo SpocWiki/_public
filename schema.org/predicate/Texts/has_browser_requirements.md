@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_browser_requirements )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_browser_requirements.md|has_browser_requirements]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_browser_requirements.internal.md|has_browser_requirements.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_browser_requirements.protect.md|has_browser_requirements.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_browser_requirements.private.md|has_browser_requirements.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_browser_requirements.personal.md|has_browser_requirements.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_browser_requirements.secret.md|has_browser_requirements.secret]] 

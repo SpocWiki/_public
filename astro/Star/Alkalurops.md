@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28091]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alkalurops.md|Alkalurops]] 
+- [[../../../_internal/astro/Star/Alkalurops.internal.md|Alkalurops.internal]] 
+- [[../../../_protect/astro/Star/Alkalurops.protect.md|Alkalurops.protect]] 
+- [[../../../_private/astro/Star/Alkalurops.private.md|Alkalurops.private]] 
+- [[../../../_personal/astro/Star/Alkalurops.personal.md|Alkalurops.personal]] 
+- [[../../../_secret/astro/Star/Alkalurops.secret.md|Alkalurops.secret]]
+

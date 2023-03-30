@@ -29,3 +29,12 @@ markerFile: [[Haifa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Israel/City/Haifa.md|Haifa]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Israel/City/Haifa.internal.md|Haifa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Israel/City/Haifa.protect.md|Haifa.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Israel/City/Haifa.private.md|Haifa.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Israel/City/Haifa.personal.md|Haifa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Israel/City/Haifa.secret.md|Haifa.secret]] 

@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28089]
 [NextStarId::27683]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sheratan.md|Sheratan]] 
+- [[../../../_internal/astro/Star/Sheratan.internal.md|Sheratan.internal]] 
+- [[../../../_protect/astro/Star/Sheratan.protect.md|Sheratan.protect]] 
+- [[../../../_private/astro/Star/Sheratan.private.md|Sheratan.private]] 
+- [[../../../_personal/astro/Star/Sheratan.personal.md|Sheratan.personal]] 
+- [[../../../_secret/astro/Star/Sheratan.secret.md|Sheratan.secret]] 

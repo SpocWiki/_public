@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_study_location )
 ( #has_/range :: AdministrativeArea )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_study_location.md|has_study_location]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study_location.internal.md|has_study_location.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_study_location.protect.md|has_study_location.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_study_location.private.md|has_study_location.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_study_location.personal.md|has_study_location.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_study_location.secret.md|has_study_location.secret]] 

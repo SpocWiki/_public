@@ -29,3 +29,12 @@ markerFile: [[Lecco]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lecco.md|Lecco]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lecco.internal.md|Lecco.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lecco.protect.md|Lecco.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lecco.private.md|Lecco.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lecco.personal.md|Lecco.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lecco.secret.md|Lecco.secret]] 

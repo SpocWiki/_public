@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_runtime )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_runtime.md|has_runtime]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_runtime.internal.md|has_runtime.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_runtime.protect.md|has_runtime.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_runtime.private.md|has_runtime.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_runtime.personal.md|has_runtime.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_runtime.secret.md|has_runtime.secret]] 

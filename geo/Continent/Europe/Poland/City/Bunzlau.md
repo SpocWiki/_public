@@ -29,3 +29,12 @@ markerFile: [[Bunzlau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bunzlau.md|Bunzlau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bunzlau.internal.md|Bunzlau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bunzlau.protect.md|Bunzlau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bunzlau.private.md|Bunzlau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bunzlau.personal.md|Bunzlau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bunzlau.secret.md|Bunzlau.secret]] 

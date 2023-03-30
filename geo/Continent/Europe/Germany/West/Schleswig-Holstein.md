@@ -28,3 +28,12 @@ markerFolder: ./Schleswig-Holstein/City
 [geo-lat::54.1593]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein.md|Schleswig-Holstein]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein.internal.md|Schleswig-Holstein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein.protect.md|Schleswig-Holstein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein.private.md|Schleswig-Holstein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein.personal.md|Schleswig-Holstein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein.secret.md|Schleswig-Holstein.secret]] 

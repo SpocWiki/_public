@@ -29,3 +29,12 @@ markerFile: [[Skoevde]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Skoevde.md|Skoevde]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Skoevde.internal.md|Skoevde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Skoevde.protect.md|Skoevde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Skoevde.private.md|Skoevde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Skoevde.personal.md|Skoevde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Skoevde.secret.md|Skoevde.secret]] 

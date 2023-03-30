@@ -29,3 +29,12 @@ markerFile: [[Leoben]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Leoben.md|Leoben]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Leoben.internal.md|Leoben.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Leoben.protect.md|Leoben.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Leoben.private.md|Leoben.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Leoben.personal.md|Leoben.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Leoben.secret.md|Leoben.secret]] 

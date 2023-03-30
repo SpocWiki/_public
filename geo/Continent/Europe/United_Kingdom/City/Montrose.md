@@ -29,3 +29,12 @@ markerFile: [[Montrose]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Montrose.md|Montrose]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Montrose.internal.md|Montrose.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Montrose.protect.md|Montrose.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Montrose.private.md|Montrose.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Montrose.personal.md|Montrose.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Montrose.secret.md|Montrose.secret]] 

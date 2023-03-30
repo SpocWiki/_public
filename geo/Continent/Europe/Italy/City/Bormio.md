@@ -29,3 +29,12 @@ markerFile: [[Bormio]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bormio.md|Bormio]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bormio.internal.md|Bormio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bormio.protect.md|Bormio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bormio.private.md|Bormio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bormio.personal.md|Bormio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bormio.secret.md|Bormio.secret]] 

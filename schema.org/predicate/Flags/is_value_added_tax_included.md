@@ -44,3 +44,12 @@ Predicate describes that:
 ( #has_/name :: is_value_added_tax_included )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_value_added_tax_included.md|is_value_added_tax_included]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_value_added_tax_included.internal.md|is_value_added_tax_included.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_value_added_tax_included.protect.md|is_value_added_tax_included.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_value_added_tax_included.private.md|is_value_added_tax_included.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_value_added_tax_included.personal.md|is_value_added_tax_included.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_value_added_tax_included.secret.md|is_value_added_tax_included.secret]] 

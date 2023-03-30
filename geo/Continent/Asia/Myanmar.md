@@ -126,3 +126,12 @@ markerFolder: ./Myanmar/City
 [geo-lon::96.135]
 [geo-lat::18.265]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Myanmar.md|Myanmar]] 
+- [[../../../../_internal/geo/Continent/Asia/Myanmar.internal.md|Myanmar.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Myanmar.protect.md|Myanmar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Myanmar.private.md|Myanmar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Myanmar.personal.md|Myanmar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Myanmar.secret.md|Myanmar.secret]] 

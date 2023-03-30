@@ -29,3 +29,12 @@ markerFile: [[Khabarovka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Khabarovka.md|Khabarovka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khabarovka.internal.md|Khabarovka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khabarovka.protect.md|Khabarovka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khabarovka.private.md|Khabarovka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khabarovka.personal.md|Khabarovka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khabarovka.secret.md|Khabarovka.secret]] 

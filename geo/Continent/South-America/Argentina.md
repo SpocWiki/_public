@@ -136,3 +136,12 @@ markerFolder: ./Argentina/City
 [geo-lon::-58.41]
 [geo-lat::-34.62]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Argentina.md|Argentina]] 
+- [[../../../../_internal/geo/Continent/South-America/Argentina.internal.md|Argentina.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Argentina.protect.md|Argentina.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Argentina.private.md|Argentina.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Argentina.personal.md|Argentina.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Argentina.secret.md|Argentina.secret]] 

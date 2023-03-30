@@ -29,3 +29,12 @@ markerFile: [[Szegedin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szegedin.md|Szegedin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szegedin.internal.md|Szegedin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szegedin.protect.md|Szegedin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szegedin.private.md|Szegedin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szegedin.personal.md|Szegedin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szegedin.secret.md|Szegedin.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Mater_domini]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Mater_domini.md|Mater_domini]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mater_domini.internal.md|Mater_domini.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mater_domini.protect.md|Mater_domini.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mater_domini.private.md|Mater_domini.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mater_domini.personal.md|Mater_domini.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mater_domini.secret.md|Mater_domini.secret]] 

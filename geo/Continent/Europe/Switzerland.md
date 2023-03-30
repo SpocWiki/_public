@@ -133,3 +133,12 @@ markerFolder: ./Switzerland/City
 [geo-lon::8.46058]
 [geo-lat::46.8963]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Switzerland.md|Switzerland]] 
+- [[../../../../_internal/geo/Continent/Europe/Switzerland.internal.md|Switzerland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Switzerland.protect.md|Switzerland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Switzerland.private.md|Switzerland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Switzerland.personal.md|Switzerland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Switzerland.secret.md|Switzerland.secret]] 

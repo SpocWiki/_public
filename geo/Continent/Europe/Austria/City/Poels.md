@@ -29,3 +29,12 @@ markerFile: [[Poels]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Poels.md|Poels]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Poels.internal.md|Poels.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Poels.protect.md|Poels.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Poels.private.md|Poels.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Poels.personal.md|Poels.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Poels.secret.md|Poels.secret]] 

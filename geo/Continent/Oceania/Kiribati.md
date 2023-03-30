@@ -128,3 +128,12 @@ markerFolder: ./Kiribati/City
 [geo-lon::172.967]
 [geo-lat::1.4]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Kiribati.md|Kiribati]] 
+- [[../../../../_internal/geo/Continent/Oceania/Kiribati.internal.md|Kiribati.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Kiribati.protect.md|Kiribati.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Kiribati.private.md|Kiribati.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Kiribati.personal.md|Kiribati.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Kiribati.secret.md|Kiribati.secret]] 

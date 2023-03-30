@@ -28,3 +28,12 @@ markerFile: [[Vilsbiburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.md|Vilsbiburg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.internal.md|Vilsbiburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.protect.md|Vilsbiburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.private.md|Vilsbiburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.personal.md|Vilsbiburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.secret.md|Vilsbiburg.secret]] 

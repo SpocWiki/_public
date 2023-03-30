@@ -41,3 +41,12 @@ Properties that take Distances as values are of the form '&lt;Number&gt; &lt;Len
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/quantity/distance.md|distance]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/quantity/distance.internal.md|distance.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/quantity/distance.protect.md|distance.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/quantity/distance.private.md|distance.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/quantity/distance.personal.md|distance.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/quantity/distance.secret.md|distance.secret]] 

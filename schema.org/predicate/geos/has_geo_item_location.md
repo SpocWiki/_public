@@ -47,3 +47,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: location ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_item_location.md|has_geo_item_location]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_item_location.internal.md|has_geo_item_location.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_item_location.protect.md|has_geo_item_location.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_item_location.private.md|has_geo_item_location.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_item_location.personal.md|has_geo_item_location.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_item_location.secret.md|has_geo_item_location.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Auen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Auen.md|Auen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Auen.internal.md|Auen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Auen.protect.md|Auen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Auen.private.md|Auen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Auen.personal.md|Auen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Auen.secret.md|Auen.secret]] 

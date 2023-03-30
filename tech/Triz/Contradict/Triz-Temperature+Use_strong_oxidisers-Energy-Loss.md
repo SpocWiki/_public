@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Use_strong_oxidisers]]]
 - [con::Energy-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Use_strong_oxidisers-Energy-Loss.md|Triz-Temperature+Use_strong_oxidisers-Energy-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Use_strong_oxidisers-Energy-Loss.internal.md|Triz-Temperature+Use_strong_oxidisers-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Use_strong_oxidisers-Energy-Loss.protect.md|Triz-Temperature+Use_strong_oxidisers-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Use_strong_oxidisers-Energy-Loss.private.md|Triz-Temperature+Use_strong_oxidisers-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Use_strong_oxidisers-Energy-Loss.personal.md|Triz-Temperature+Use_strong_oxidisers-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Use_strong_oxidisers-Energy-Loss.secret.md|Triz-Temperature+Use_strong_oxidisers-Energy-Loss.secret]] 

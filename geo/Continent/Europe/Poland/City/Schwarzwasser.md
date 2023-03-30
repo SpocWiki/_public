@@ -29,3 +29,12 @@ markerFile: [[Schwarzwasser]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schwarzwasser.md|Schwarzwasser]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwarzwasser.internal.md|Schwarzwasser.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwarzwasser.protect.md|Schwarzwasser.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwarzwasser.private.md|Schwarzwasser.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwarzwasser.personal.md|Schwarzwasser.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwarzwasser.secret.md|Schwarzwasser.secret]] 

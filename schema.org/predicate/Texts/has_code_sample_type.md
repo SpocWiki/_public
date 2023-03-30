@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_code_sample_type )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_code_sample_type.md|has_code_sample_type]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_code_sample_type.internal.md|has_code_sample_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_code_sample_type.protect.md|has_code_sample_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_code_sample_type.private.md|has_code_sample_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_code_sample_type.personal.md|has_code_sample_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_code_sample_type.secret.md|has_code_sample_type.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Serpuchow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Serpuchow.md|Serpuchow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Serpuchow.internal.md|Serpuchow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Serpuchow.protect.md|Serpuchow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Serpuchow.private.md|Serpuchow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Serpuchow.personal.md|Serpuchow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Serpuchow.secret.md|Serpuchow.secret]] 

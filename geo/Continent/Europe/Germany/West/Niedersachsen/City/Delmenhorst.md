@@ -28,3 +28,12 @@ markerFile: [[Delmenhorst]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Delmenhorst.md|Delmenhorst]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Delmenhorst.internal.md|Delmenhorst.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Delmenhorst.protect.md|Delmenhorst.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Delmenhorst.private.md|Delmenhorst.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Delmenhorst.personal.md|Delmenhorst.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Delmenhorst.secret.md|Delmenhorst.secret]] 

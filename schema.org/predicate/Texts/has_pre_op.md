@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_pre_op )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_pre_op.md|has_pre_op]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_pre_op.internal.md|has_pre_op.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_pre_op.protect.md|has_pre_op.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_pre_op.private.md|has_pre_op.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_pre_op.personal.md|has_pre_op.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_pre_op.secret.md|has_pre_op.secret]] 

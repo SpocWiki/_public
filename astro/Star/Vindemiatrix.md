@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28168]
 [NextStarId::27494]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Vindemiatrix.md|Vindemiatrix]] 
+- [[../../../_internal/astro/Star/Vindemiatrix.internal.md|Vindemiatrix.internal]] 
+- [[../../../_protect/astro/Star/Vindemiatrix.protect.md|Vindemiatrix.protect]] 
+- [[../../../_private/astro/Star/Vindemiatrix.private.md|Vindemiatrix.private]] 
+- [[../../../_personal/astro/Star/Vindemiatrix.personal.md|Vindemiatrix.personal]] 
+- [[../../../_secret/astro/Star/Vindemiatrix.secret.md|Vindemiatrix.secret]] 

@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_street_address )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_street_address.md|has_street_address]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_street_address.internal.md|has_street_address.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_street_address.protect.md|has_street_address.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_street_address.private.md|has_street_address.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_street_address.personal.md|has_street_address.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_street_address.secret.md|has_street_address.secret]] 

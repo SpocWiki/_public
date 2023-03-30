@@ -29,3 +29,12 @@ markerFile: [[Apia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/City/Apia.md|Apia]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/City/Apia.internal.md|Apia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/City/Apia.protect.md|Apia.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/City/Apia.private.md|Apia.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/City/Apia.personal.md|Apia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/City/Apia.secret.md|Apia.secret]] 

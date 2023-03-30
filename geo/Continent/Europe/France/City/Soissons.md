@@ -29,3 +29,12 @@ markerFile: [[Soissons]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Soissons.md|Soissons]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Soissons.internal.md|Soissons.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Soissons.protect.md|Soissons.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Soissons.private.md|Soissons.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Soissons.personal.md|Soissons.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Soissons.secret.md|Soissons.secret]] 

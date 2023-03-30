@@ -28,3 +28,12 @@ markerFile: [[Sulzbach~Mainufer]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.md|Sulzbach~Mainufer]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.internal.md|Sulzbach~Mainufer.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.protect.md|Sulzbach~Mainufer.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.private.md|Sulzbach~Mainufer.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.personal.md|Sulzbach~Mainufer.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.secret.md|Sulzbach~Mainufer.secret]] 

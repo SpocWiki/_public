@@ -29,3 +29,12 @@ markerFile: [[Antrim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.md|Antrim]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.internal.md|Antrim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.protect.md|Antrim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.private.md|Antrim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.personal.md|Antrim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.secret.md|Antrim.secret]] 

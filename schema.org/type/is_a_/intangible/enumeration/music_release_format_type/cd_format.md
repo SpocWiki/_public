@@ -43,3 +43,12 @@ CDFormat.
 
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.md|cd_format]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.internal.md|cd_format.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.protect.md|cd_format.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.private.md|cd_format.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.personal.md|cd_format.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.secret.md|cd_format.secret]] 

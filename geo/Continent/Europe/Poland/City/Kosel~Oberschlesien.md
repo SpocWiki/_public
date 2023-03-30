@@ -29,3 +29,12 @@ markerFile: [[Kosel~Oberschlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.md|Kosel~Oberschlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.internal.md|Kosel~Oberschlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.protect.md|Kosel~Oberschlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.private.md|Kosel~Oberschlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.personal.md|Kosel~Oberschlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.secret.md|Kosel~Oberschlesien.secret]] 

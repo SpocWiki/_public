@@ -88,3 +88,12 @@ TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
 FROM outgoing([[Line~Piccadilly]])
 ```
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.md|Line~Piccadilly]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.internal.md|Line~Piccadilly.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.protect.md|Line~Piccadilly.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.private.md|Line~Piccadilly.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.personal.md|Line~Piccadilly.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.secret.md|Line~Piccadilly.secret]] 

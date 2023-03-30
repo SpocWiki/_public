@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_public_transport_closures_info )
 ( #has_/range :: URL, WebContent )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_public_transport_closures_info.md|has_url_for_public_transport_closures_info]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_public_transport_closures_info.internal.md|has_url_for_public_transport_closures_info.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_public_transport_closures_info.protect.md|has_url_for_public_transport_closures_info.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_public_transport_closures_info.private.md|has_url_for_public_transport_closures_info.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_public_transport_closures_info.personal.md|has_url_for_public_transport_closures_info.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_public_transport_closures_info.secret.md|has_url_for_public_transport_closures_info.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Augustenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Augustenburg.md|Augustenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Augustenburg.internal.md|Augustenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Augustenburg.protect.md|Augustenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Augustenburg.private.md|Augustenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Augustenburg.personal.md|Augustenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Augustenburg.secret.md|Augustenburg.secret]] 

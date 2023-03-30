@@ -29,3 +29,12 @@ markerFile: [[Armentieres]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Armentieres.md|Armentieres]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Armentieres.internal.md|Armentieres.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Armentieres.protect.md|Armentieres.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Armentieres.private.md|Armentieres.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Armentieres.personal.md|Armentieres.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Armentieres.secret.md|Armentieres.secret]] 

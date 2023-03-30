@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_http_method )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_http_method.md|has_http_method]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_http_method.internal.md|has_http_method.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_http_method.protect.md|has_http_method.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_http_method.private.md|has_http_method.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_http_method.personal.md|has_http_method.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_http_method.secret.md|has_http_method.secret]] 

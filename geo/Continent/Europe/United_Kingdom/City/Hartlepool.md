@@ -29,3 +29,12 @@ markerFile: [[Hartlepool]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hartlepool.md|Hartlepool]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hartlepool.internal.md|Hartlepool.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hartlepool.protect.md|Hartlepool.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hartlepool.private.md|Hartlepool.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hartlepool.personal.md|Hartlepool.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hartlepool.secret.md|Hartlepool.secret]] 

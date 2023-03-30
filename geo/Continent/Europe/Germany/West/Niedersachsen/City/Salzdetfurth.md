@@ -28,3 +28,12 @@ markerFile: [[Salzdetfurth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.md|Salzdetfurth]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.internal.md|Salzdetfurth.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.protect.md|Salzdetfurth.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.private.md|Salzdetfurth.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.personal.md|Salzdetfurth.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.secret.md|Salzdetfurth.secret]] 

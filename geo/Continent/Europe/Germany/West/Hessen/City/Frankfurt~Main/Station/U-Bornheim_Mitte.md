@@ -28,3 +28,12 @@ markerFile: [[U-Bornheim_Mitte]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bornheim_Mitte.md|U-Bornheim_Mitte]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bornheim_Mitte.internal.md|U-Bornheim_Mitte.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bornheim_Mitte.protect.md|U-Bornheim_Mitte.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bornheim_Mitte.private.md|U-Bornheim_Mitte.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bornheim_Mitte.personal.md|U-Bornheim_Mitte.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Bornheim_Mitte.secret.md|U-Bornheim_Mitte.secret]] 

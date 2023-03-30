@@ -29,3 +29,12 @@ markerFile: [[Sergijewsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sergijewsk.md|Sergijewsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sergijewsk.internal.md|Sergijewsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sergijewsk.protect.md|Sergijewsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sergijewsk.private.md|Sergijewsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sergijewsk.personal.md|Sergijewsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sergijewsk.secret.md|Sergijewsk.secret]] 

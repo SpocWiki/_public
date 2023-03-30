@@ -29,3 +29,12 @@ markerFile: [[Galatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Galatz.md|Galatz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Galatz.internal.md|Galatz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Galatz.protect.md|Galatz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Galatz.private.md|Galatz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Galatz.personal.md|Galatz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Galatz.secret.md|Galatz.secret]] 

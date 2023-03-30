@@ -29,3 +29,12 @@ markerFile: [[Grado]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Grado.md|Grado]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Grado.internal.md|Grado.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Grado.protect.md|Grado.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Grado.private.md|Grado.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Grado.personal.md|Grado.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Grado.secret.md|Grado.secret]] 

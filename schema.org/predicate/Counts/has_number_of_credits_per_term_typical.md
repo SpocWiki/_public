@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_credits_per_term_typical )
 ( #has_/range :: Integer, StructuredValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.md|has_number_of_credits_per_term_typical]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.internal.md|has_number_of_credits_per_term_typical.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.protect.md|has_number_of_credits_per_term_typical.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.private.md|has_number_of_credits_per_term_typical.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.personal.md|has_number_of_credits_per_term_typical.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.secret.md|has_number_of_credits_per_term_typical.secret]] 

@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28167]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Velorum-43.md|Velorum-43]] 
+- [[../../../_internal/astro/Star/Velorum-43.internal.md|Velorum-43.internal]] 
+- [[../../../_protect/astro/Star/Velorum-43.protect.md|Velorum-43.protect]] 
+- [[../../../_private/astro/Star/Velorum-43.private.md|Velorum-43.private]] 
+- [[../../../_personal/astro/Star/Velorum-43.personal.md|Velorum-43.personal]] 
+- [[../../../_secret/astro/Star/Velorum-43.secret.md|Velorum-43.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Treviso]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Treviso.md|Treviso]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Treviso.internal.md|Treviso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Treviso.protect.md|Treviso.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Treviso.private.md|Treviso.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Treviso.personal.md|Treviso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Treviso.secret.md|Treviso.secret]] 

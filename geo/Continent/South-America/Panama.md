@@ -131,3 +131,12 @@ markerFolder: ./Panama/City
 [geo-lon::-79.5333]
 [geo-lat::8.96667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Panama.md|Panama]] 
+- [[../../../../_internal/geo/Continent/South-America/Panama.internal.md|Panama.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Panama.protect.md|Panama.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Panama.private.md|Panama.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Panama.personal.md|Panama.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Panama.secret.md|Panama.secret]] 

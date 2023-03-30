@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28101]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Centauri-15.md|Centauri-15]] 
+- [[../../../_internal/astro/Star/Centauri-15.internal.md|Centauri-15.internal]] 
+- [[../../../_protect/astro/Star/Centauri-15.protect.md|Centauri-15.protect]] 
+- [[../../../_private/astro/Star/Centauri-15.private.md|Centauri-15.private]] 
+- [[../../../_personal/astro/Star/Centauri-15.personal.md|Centauri-15.personal]] 
+- [[../../../_secret/astro/Star/Centauri-15.secret.md|Centauri-15.secret]]
+

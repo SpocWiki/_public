@@ -29,3 +29,12 @@ markerFile: [[Aiguesmorth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Aiguesmorth.md|Aiguesmorth]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Aiguesmorth.internal.md|Aiguesmorth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Aiguesmorth.protect.md|Aiguesmorth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Aiguesmorth.private.md|Aiguesmorth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Aiguesmorth.personal.md|Aiguesmorth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Aiguesmorth.secret.md|Aiguesmorth.secret]] 

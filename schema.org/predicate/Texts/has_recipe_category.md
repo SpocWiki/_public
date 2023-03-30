@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_recipe_category )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_recipe_category.md|has_recipe_category]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_recipe_category.internal.md|has_recipe_category.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_recipe_category.protect.md|has_recipe_category.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_recipe_category.private.md|has_recipe_category.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_recipe_category.personal.md|has_recipe_category.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_recipe_category.secret.md|has_recipe_category.secret]] 

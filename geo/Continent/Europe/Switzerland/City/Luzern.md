@@ -29,3 +29,12 @@ markerFile: [[Luzern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Luzern.md|Luzern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Luzern.internal.md|Luzern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Luzern.protect.md|Luzern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Luzern.private.md|Luzern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Luzern.personal.md|Luzern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Luzern.secret.md|Luzern.secret]] 

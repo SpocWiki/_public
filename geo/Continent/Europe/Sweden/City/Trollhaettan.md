@@ -29,3 +29,12 @@ markerFile: [[Trollhaettan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Trollhaettan.md|Trollhaettan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Trollhaettan.internal.md|Trollhaettan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Trollhaettan.protect.md|Trollhaettan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Trollhaettan.private.md|Trollhaettan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Trollhaettan.personal.md|Trollhaettan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Trollhaettan.secret.md|Trollhaettan.secret]] 

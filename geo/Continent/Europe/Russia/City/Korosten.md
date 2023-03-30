@@ -29,3 +29,12 @@ markerFile: [[Korosten]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Korosten.md|Korosten]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Korosten.internal.md|Korosten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Korosten.protect.md|Korosten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Korosten.private.md|Korosten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Korosten.personal.md|Korosten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Korosten.secret.md|Korosten.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[St.Jean]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Jean.md|St.Jean]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Jean.internal.md|St.Jean.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Jean.protect.md|St.Jean.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Jean.private.md|St.Jean.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Jean.personal.md|St.Jean.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Jean.secret.md|St.Jean.secret]] 

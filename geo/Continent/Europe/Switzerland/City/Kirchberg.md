@@ -29,3 +29,12 @@ markerFile: [[Kirchberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Kirchberg.md|Kirchberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Kirchberg.internal.md|Kirchberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Kirchberg.protect.md|Kirchberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Kirchberg.private.md|Kirchberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Kirchberg.personal.md|Kirchberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Kirchberg.secret.md|Kirchberg.secret]] 

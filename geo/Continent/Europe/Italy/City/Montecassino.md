@@ -29,3 +29,12 @@ markerFile: [[Montecassino]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Montecassino.md|Montecassino]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montecassino.internal.md|Montecassino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montecassino.protect.md|Montecassino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montecassino.private.md|Montecassino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montecassino.personal.md|Montecassino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montecassino.secret.md|Montecassino.secret]] 

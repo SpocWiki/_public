@@ -442,3 +442,11 @@ filters:
   enabled: true
   conditions:
 ```
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Australia/_Australia-CountryDb.md|_Australia-CountryDb]] 
+- [[../../../../_internal/geo/Continent/Australia/_Australia-CountryDb.internal.md|_Australia-CountryDb.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/_Australia-CountryDb.protect.md|_Australia-CountryDb.protect]] 
+- [[../../../../_private/geo/Continent/Australia/_Australia-CountryDb.private.md|_Australia-CountryDb.private]] 
+- [[../../../../_personal/geo/Continent/Australia/_Australia-CountryDb.personal.md|_Australia-CountryDb.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/_Australia-CountryDb.secret.md|_Australia-CountryDb.secret]] 

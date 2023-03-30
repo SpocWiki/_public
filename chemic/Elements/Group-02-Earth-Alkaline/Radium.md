@@ -29,3 +29,12 @@ SpocWebEntityId: 21983
 > Radium, in the form of radium chloride, was discovered by Marie and Pierre Curie in 1898 from ore mined at Jáchymov. They extracted the radium compound from uraninite and published the discovery at the French Academy of Sciences five days later. Radium was isolated in its metallic state by Marie Curie and André-Louis Debierne through the electrolysis of radium chloride in 1911.In nature, radium is found in uranium and (to a lesser extent) thorium ores in trace amounts as small as a seventh of a gram per ton of uraninite. Radium is not necessary for living organisms, and adverse health effects are likely when it is incorporated into biochemical processes because of its radioactivity and chemical reactivity. As of 2014, other than its use in nuclear medicine, radium has no commercial applications. Formerly, around the 1950s, it was used as a radioactive source for radioluminescent devices and also in radioactive quackery for its supposed curative power. These applications have become obsolete owing to radium's toxicity; as of 2020, less dangerous isotopes (of other elements) are instead used in radioluminescent devices.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radium)
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Radium.md|Radium]] 
+- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Radium.internal.md|Radium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Radium.protect.md|Radium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Radium.private.md|Radium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Radium.personal.md|Radium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Radium.secret.md|Radium.secret]] 

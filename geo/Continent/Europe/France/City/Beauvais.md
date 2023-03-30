@@ -29,3 +29,12 @@ markerFile: [[Beauvais]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Beauvais.md|Beauvais]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Beauvais.internal.md|Beauvais.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Beauvais.protect.md|Beauvais.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Beauvais.private.md|Beauvais.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Beauvais.personal.md|Beauvais.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Beauvais.secret.md|Beauvais.secret]] 

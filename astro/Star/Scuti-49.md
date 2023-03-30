@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28157]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Scuti-49.md|Scuti-49]] 
+- [[../../../_internal/astro/Star/Scuti-49.internal.md|Scuti-49.internal]] 
+- [[../../../_protect/astro/Star/Scuti-49.protect.md|Scuti-49.protect]] 
+- [[../../../_private/astro/Star/Scuti-49.private.md|Scuti-49.private]] 
+- [[../../../_personal/astro/Star/Scuti-49.personal.md|Scuti-49.personal]] 
+- [[../../../_secret/astro/Star/Scuti-49.secret.md|Scuti-49.secret]] 

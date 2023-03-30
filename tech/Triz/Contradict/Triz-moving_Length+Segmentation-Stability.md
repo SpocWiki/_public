@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Stability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.md|Triz-moving_Length+Segmentation-Stability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.internal.md|Triz-moving_Length+Segmentation-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.protect.md|Triz-moving_Length+Segmentation-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.private.md|Triz-moving_Length+Segmentation-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.personal.md|Triz-moving_Length+Segmentation-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.secret.md|Triz-moving_Length+Segmentation-Stability.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Bury]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bury.md|Bury]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bury.internal.md|Bury.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bury.protect.md|Bury.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bury.private.md|Bury.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bury.personal.md|Bury.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bury.secret.md|Bury.secret]] 

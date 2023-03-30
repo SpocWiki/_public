@@ -29,3 +29,12 @@ markerFile: [[Kuilenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Kuilenburg.md|Kuilenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Kuilenburg.internal.md|Kuilenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Kuilenburg.protect.md|Kuilenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Kuilenburg.private.md|Kuilenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Kuilenburg.personal.md|Kuilenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Kuilenburg.secret.md|Kuilenburg.secret]] 

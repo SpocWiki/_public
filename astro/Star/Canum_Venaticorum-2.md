@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28095]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Canum_Venaticorum-2.md|Canum_Venaticorum-2]] 
+- [[../../../_internal/astro/Star/Canum_Venaticorum-2.internal.md|Canum_Venaticorum-2.internal]] 
+- [[../../../_protect/astro/Star/Canum_Venaticorum-2.protect.md|Canum_Venaticorum-2.protect]] 
+- [[../../../_private/astro/Star/Canum_Venaticorum-2.private.md|Canum_Venaticorum-2.private]] 
+- [[../../../_personal/astro/Star/Canum_Venaticorum-2.personal.md|Canum_Venaticorum-2.personal]] 
+- [[../../../_secret/astro/Star/Canum_Venaticorum-2.secret.md|Canum_Venaticorum-2.secret]]
+

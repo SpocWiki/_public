@@ -43,3 +43,12 @@ A summary of how users have interacted with this CreativeWork. In most cases, au
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage, name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.md|interaction_counter]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.internal.md|interaction_counter.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.protect.md|interaction_counter.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.private.md|interaction_counter.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.personal.md|interaction_counter.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.secret.md|interaction_counter.secret]] 

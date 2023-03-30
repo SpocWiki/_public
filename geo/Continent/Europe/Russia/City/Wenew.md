@@ -29,3 +29,12 @@ markerFile: [[Wenew]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wenew.md|Wenew]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wenew.internal.md|Wenew.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wenew.protect.md|Wenew.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wenew.private.md|Wenew.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wenew.personal.md|Wenew.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wenew.secret.md|Wenew.secret]] 

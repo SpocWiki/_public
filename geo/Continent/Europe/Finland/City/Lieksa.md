@@ -29,3 +29,12 @@ markerFile: [[Lieksa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lieksa.md|Lieksa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lieksa.internal.md|Lieksa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lieksa.protect.md|Lieksa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lieksa.private.md|Lieksa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lieksa.personal.md|Lieksa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lieksa.secret.md|Lieksa.secret]] 

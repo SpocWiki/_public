@@ -29,3 +29,12 @@ markerFile: [[Zalaegerszeg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Zalaegerszeg.md|Zalaegerszeg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Zalaegerszeg.internal.md|Zalaegerszeg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Zalaegerszeg.protect.md|Zalaegerszeg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Zalaegerszeg.private.md|Zalaegerszeg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Zalaegerszeg.personal.md|Zalaegerszeg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Zalaegerszeg.secret.md|Zalaegerszeg.secret]] 

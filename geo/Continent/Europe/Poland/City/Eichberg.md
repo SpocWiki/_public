@@ -29,3 +29,12 @@ markerFile: [[Eichberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Eichberg.md|Eichberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Eichberg.internal.md|Eichberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Eichberg.protect.md|Eichberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Eichberg.private.md|Eichberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Eichberg.personal.md|Eichberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Eichberg.secret.md|Eichberg.secret]] 

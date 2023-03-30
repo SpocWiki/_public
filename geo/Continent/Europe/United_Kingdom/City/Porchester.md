@@ -29,3 +29,12 @@ markerFile: [[Porchester]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Porchester.md|Porchester]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Porchester.internal.md|Porchester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Porchester.protect.md|Porchester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Porchester.private.md|Porchester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Porchester.personal.md|Porchester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Porchester.secret.md|Porchester.secret]] 

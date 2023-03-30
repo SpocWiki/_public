@@ -47,3 +47,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_mobile_url )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_mobile_url.md|has_mobile_url]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_mobile_url.internal.md|has_mobile_url.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_mobile_url.protect.md|has_mobile_url.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_mobile_url.private.md|has_mobile_url.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_mobile_url.personal.md|has_mobile_url.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_mobile_url.secret.md|has_mobile_url.secret]] 

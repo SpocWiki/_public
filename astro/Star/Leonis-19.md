@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28128]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Leonis-19.md|Leonis-19]] 
+- [[../../../_internal/astro/Star/Leonis-19.internal.md|Leonis-19.internal]] 
+- [[../../../_protect/astro/Star/Leonis-19.protect.md|Leonis-19.protect]] 
+- [[../../../_private/astro/Star/Leonis-19.private.md|Leonis-19.private]] 
+- [[../../../_personal/astro/Star/Leonis-19.personal.md|Leonis-19.personal]] 
+- [[../../../_secret/astro/Star/Leonis-19.secret.md|Leonis-19.secret]]
+

@@ -29,3 +29,12 @@ markerFile: [[Eschen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Eschen.md|Eschen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Eschen.internal.md|Eschen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Eschen.protect.md|Eschen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Eschen.private.md|Eschen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Eschen.personal.md|Eschen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Eschen.secret.md|Eschen.secret]] 

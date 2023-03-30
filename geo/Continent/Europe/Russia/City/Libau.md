@@ -29,3 +29,12 @@ markerFile: [[Libau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Libau.md|Libau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Libau.internal.md|Libau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Libau.protect.md|Libau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Libau.private.md|Libau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Libau.personal.md|Libau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Libau.secret.md|Libau.secret]] 

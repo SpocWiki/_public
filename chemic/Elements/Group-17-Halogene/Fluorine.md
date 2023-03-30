@@ -36,3 +36,11 @@ SpocWebEntityId: 21911
 > Fluorocarbon gases are generally greenhouse gases with global-warming potentials 100 to 23,500 times that of carbon dioxide, and SF6 has the highest global warming potential of any known substance. Organofluorine compounds often persist in the environment due to the strength of the carbon–fluorine bond. Fluorine has no known metabolic role in mammals; a few plants and sea sponges synthesize organofluorine poisons (most often monofluoroacetates) that help deter predation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fluorine)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-17-Halogene/Fluorine.md|Fluorine]] 
+- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Fluorine.internal.md|Fluorine.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Fluorine.protect.md|Fluorine.protect]] 
+- [[../../../../_private/chemic/Elements/Group-17-Halogene/Fluorine.private.md|Fluorine.private]] 
+- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Fluorine.personal.md|Fluorine.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Fluorine.secret.md|Fluorine.secret]] 

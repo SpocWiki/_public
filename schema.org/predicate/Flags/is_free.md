@@ -46,3 +46,12 @@ Predicate describes that:
 ( #has_/name :: is_free )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_free.md|is_free]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_free.internal.md|is_free.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_free.protect.md|is_free.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_free.private.md|is_free.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_free.personal.md|is_free.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_free.secret.md|is_free.secret]] 

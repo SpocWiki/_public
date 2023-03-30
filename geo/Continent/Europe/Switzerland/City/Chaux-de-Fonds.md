@@ -29,3 +29,12 @@ markerFile: [[Chaux-de-Fonds]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.md|Chaux-de-Fonds]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.internal.md|Chaux-de-Fonds.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.protect.md|Chaux-de-Fonds.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.private.md|Chaux-de-Fonds.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.personal.md|Chaux-de-Fonds.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.secret.md|Chaux-de-Fonds.secret]] 

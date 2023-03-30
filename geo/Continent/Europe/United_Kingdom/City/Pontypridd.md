@@ -29,3 +29,12 @@ markerFile: [[Pontypridd]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Pontypridd.md|Pontypridd]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Pontypridd.internal.md|Pontypridd.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Pontypridd.protect.md|Pontypridd.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Pontypridd.private.md|Pontypridd.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Pontypridd.personal.md|Pontypridd.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Pontypridd.secret.md|Pontypridd.secret]] 

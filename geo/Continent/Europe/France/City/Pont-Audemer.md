@@ -29,3 +29,12 @@ markerFile: [[Pont-Audemer]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Pont-Audemer.md|Pont-Audemer]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pont-Audemer.internal.md|Pont-Audemer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pont-Audemer.protect.md|Pont-Audemer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Pont-Audemer.private.md|Pont-Audemer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pont-Audemer.personal.md|Pont-Audemer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pont-Audemer.secret.md|Pont-Audemer.secret]] 

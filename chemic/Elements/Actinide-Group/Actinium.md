@@ -30,3 +30,11 @@ SpocWebEntityId: 21984
 > A soft, silvery-white radioactive metal, actinium reacts rapidly with oxygen and moisture in air forming a white coating of actinium oxide that prevents further oxidation. As with most lanthanides and many actinides, actinium assumes oxidation state +3 in nearly all its chemical compounds. Actinium is found only in traces in uranium and thorium ores as the isotope 227Ac, which decays with a half-life of 21.772 years, predominantly emitting beta and sometimes alpha particles, and 228Ac, which is beta active with a half-life of 6.15 hours. One tonne of natural uranium in ore contains about 0.2 milligrams of actinium-227, and one tonne of thorium contains about 5 nanograms of actinium-228. The close similarity of physical and chemical properties of actinium and lanthanum makes separation of actinium from the ore impractical. Instead, the element is prepared, in milligram amounts, by the neutron irradiation of 226Ra in a nuclear reactor. Owing to its scarcity, high price and radioactivity, actinium has no significant industrial use. Its current applications include a neutron source and an agent for radiation therapy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Actinium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Actinide-Group/Actinium.md|Actinium]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Actinium.internal.md|Actinium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Actinium.protect.md|Actinium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Actinium.private.md|Actinium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Actinium.personal.md|Actinium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Actinium.secret.md|Actinium.secret]] 

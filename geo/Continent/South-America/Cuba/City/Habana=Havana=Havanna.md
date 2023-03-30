@@ -29,3 +29,12 @@ markerFile: [[Habana=Havana=Havanna]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Cuba/City/Habana=Havana=Havanna.md|Habana=Havana=Havanna]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Cuba/City/Habana=Havana=Havanna.internal.md|Habana=Havana=Havanna.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Cuba/City/Habana=Havana=Havanna.protect.md|Habana=Havana=Havanna.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Cuba/City/Habana=Havana=Havanna.private.md|Habana=Havana=Havanna.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Cuba/City/Habana=Havana=Havanna.personal.md|Habana=Havana=Havanna.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Cuba/City/Habana=Havana=Havanna.secret.md|Habana=Havana=Havanna.secret]] 

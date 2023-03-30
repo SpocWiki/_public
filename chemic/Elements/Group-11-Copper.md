@@ -13,3 +13,12 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%2011%20element)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/chemic/Elements/Group-11-Copper.md|Group-11-Copper]] 
+- [[../../../_internal/chemic/Elements/Group-11-Copper.internal.md|Group-11-Copper.internal]] 
+- [[../../../_protect/chemic/Elements/Group-11-Copper.protect.md|Group-11-Copper.protect]] 
+- [[../../../_private/chemic/Elements/Group-11-Copper.private.md|Group-11-Copper.private]] 
+- [[../../../_personal/chemic/Elements/Group-11-Copper.personal.md|Group-11-Copper.personal]] 
+- [[../../../_secret/chemic/Elements/Group-11-Copper.secret.md|Group-11-Copper.secret]] 

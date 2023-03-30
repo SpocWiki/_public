@@ -134,3 +134,12 @@ markerFolder: ./Bolivia/City
 [geo-lon::-66.7]
 [geo-lat::-17.7667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Bolivia.md|Bolivia]] 
+- [[../../../../_internal/geo/Continent/South-America/Bolivia.internal.md|Bolivia.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Bolivia.protect.md|Bolivia.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Bolivia.private.md|Bolivia.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Bolivia.personal.md|Bolivia.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Bolivia.secret.md|Bolivia.secret]] 

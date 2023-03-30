@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28083]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Andromedae-6.md|Andromedae-6]] 
+- [[../../../_internal/astro/Star/Andromedae-6.internal.md|Andromedae-6.internal]] 
+- [[../../../_protect/astro/Star/Andromedae-6.protect.md|Andromedae-6.protect]] 
+- [[../../../_private/astro/Star/Andromedae-6.private.md|Andromedae-6.private]] 
+- [[../../../_personal/astro/Star/Andromedae-6.personal.md|Andromedae-6.personal]] 
+- [[../../../_secret/astro/Star/Andromedae-6.secret.md|Andromedae-6.secret]]
+

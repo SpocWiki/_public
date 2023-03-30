@@ -29,3 +29,12 @@ markerFile: [[Tiegenhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Tiegenhof.md|Tiegenhof]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Tiegenhof.internal.md|Tiegenhof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Tiegenhof.protect.md|Tiegenhof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Tiegenhof.private.md|Tiegenhof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Tiegenhof.personal.md|Tiegenhof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Tiegenhof.secret.md|Tiegenhof.secret]] 

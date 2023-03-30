@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.md|Triz-Ease_of_repair+Inversion-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.internal.md|Triz-Ease_of_repair+Inversion-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.protect.md|Triz-Ease_of_repair+Inversion-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.private.md|Triz-Ease_of_repair+Inversion-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.personal.md|Triz-Ease_of_repair+Inversion-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Complexity.secret.md|Triz-Ease_of_repair+Inversion-Complexity.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Sub-Sudbury_Town]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Town.md|Sub-Sudbury_Town]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Town.internal.md|Sub-Sudbury_Town.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Town.protect.md|Sub-Sudbury_Town.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Town.private.md|Sub-Sudbury_Town.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Town.personal.md|Sub-Sudbury_Town.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Town.secret.md|Sub-Sudbury_Town.secret]] 

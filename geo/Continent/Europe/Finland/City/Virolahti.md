@@ -29,3 +29,12 @@ markerFile: [[Virolahti]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Virolahti.md|Virolahti]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Virolahti.internal.md|Virolahti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Virolahti.protect.md|Virolahti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Virolahti.private.md|Virolahti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Virolahti.personal.md|Virolahti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Virolahti.secret.md|Virolahti.secret]] 

@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28120]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Geminorum-14.md|Geminorum-14]] 
+- [[../../../_internal/astro/Star/Geminorum-14.internal.md|Geminorum-14.internal]] 
+- [[../../../_protect/astro/Star/Geminorum-14.protect.md|Geminorum-14.protect]] 
+- [[../../../_private/astro/Star/Geminorum-14.private.md|Geminorum-14.private]] 
+- [[../../../_personal/astro/Star/Geminorum-14.personal.md|Geminorum-14.personal]] 
+- [[../../../_secret/astro/Star/Geminorum-14.secret.md|Geminorum-14.secret]]
+

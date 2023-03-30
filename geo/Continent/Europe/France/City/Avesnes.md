@@ -29,3 +29,12 @@ markerFile: [[Avesnes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Avesnes.md|Avesnes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Avesnes.internal.md|Avesnes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Avesnes.protect.md|Avesnes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Avesnes.private.md|Avesnes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Avesnes.personal.md|Avesnes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Avesnes.secret.md|Avesnes.secret]] 

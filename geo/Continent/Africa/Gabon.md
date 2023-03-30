@@ -130,3 +130,12 @@ markerFolder: ./Gabon/City
 [geo-lon::9.45]
 [geo-lat::0.383333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Gabon.md|Gabon]] 
+- [[../../../../_internal/geo/Continent/Africa/Gabon.internal.md|Gabon.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Gabon.protect.md|Gabon.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Gabon.private.md|Gabon.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Gabon.personal.md|Gabon.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Gabon.secret.md|Gabon.secret]] 

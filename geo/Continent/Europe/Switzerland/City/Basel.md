@@ -29,3 +29,12 @@ markerFile: [[Basel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Basel.md|Basel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Basel.internal.md|Basel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Basel.protect.md|Basel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Basel.private.md|Basel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Basel.personal.md|Basel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Basel.secret.md|Basel.secret]] 

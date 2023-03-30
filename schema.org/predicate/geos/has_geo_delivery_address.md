@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_delivery_address )
 ( #has_/range :: PostalAddress )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_delivery_address.md|has_geo_delivery_address]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_delivery_address.internal.md|has_geo_delivery_address.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_delivery_address.protect.md|has_geo_delivery_address.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_delivery_address.private.md|has_geo_delivery_address.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_delivery_address.personal.md|has_geo_delivery_address.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_delivery_address.secret.md|has_geo_delivery_address.secret]] 

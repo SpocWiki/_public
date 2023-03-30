@@ -133,3 +133,12 @@ markerFolder: ./Monaco/City
 [geo-lon::7.41]
 [geo-lat::43.715]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Monaco.md|Monaco]] 
+- [[../../../../_internal/geo/Continent/Europe/Monaco.internal.md|Monaco.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Monaco.protect.md|Monaco.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Monaco.private.md|Monaco.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Monaco.personal.md|Monaco.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Monaco.secret.md|Monaco.secret]] 

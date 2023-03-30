@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_suggested_gender )
 ( #has_/range :: GenderType, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_suggested_gender.md|has_suggested_gender]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_suggested_gender.internal.md|has_suggested_gender.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_suggested_gender.protect.md|has_suggested_gender.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_suggested_gender.private.md|has_suggested_gender.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_suggested_gender.personal.md|has_suggested_gender.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_suggested_gender.secret.md|has_suggested_gender.secret]] 

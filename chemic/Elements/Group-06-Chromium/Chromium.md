@@ -32,3 +32,12 @@ SpocWebEntityId: 21924
 > [Wikipedia](https://en.wikipedia.org/wiki/Chromium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-06-Chromium/Chromium.md|Chromium]] 
+- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Chromium.internal.md|Chromium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Chromium.protect.md|Chromium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-06-Chromium/Chromium.private.md|Chromium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Chromium.personal.md|Chromium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Chromium.secret.md|Chromium.secret]] 

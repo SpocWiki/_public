@@ -29,3 +29,12 @@ markerFile: [[Starohichk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Starohichk.md|Starohichk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Starohichk.internal.md|Starohichk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Starohichk.protect.md|Starohichk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Starohichk.private.md|Starohichk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Starohichk.personal.md|Starohichk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Starohichk.secret.md|Starohichk.secret]] 

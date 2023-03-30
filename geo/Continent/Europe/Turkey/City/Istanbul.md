@@ -29,3 +29,12 @@ markerFile: [[Istanbul]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Turkey/City/Istanbul.md|Istanbul]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Turkey/City/Istanbul.internal.md|Istanbul.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Turkey/City/Istanbul.protect.md|Istanbul.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Turkey/City/Istanbul.private.md|Istanbul.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Turkey/City/Istanbul.personal.md|Istanbul.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Turkey/City/Istanbul.secret.md|Istanbul.secret]] 

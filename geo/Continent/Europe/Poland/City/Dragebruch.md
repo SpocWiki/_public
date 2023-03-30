@@ -29,3 +29,12 @@ markerFile: [[Dragebruch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Dragebruch.md|Dragebruch]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dragebruch.internal.md|Dragebruch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dragebruch.protect.md|Dragebruch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dragebruch.private.md|Dragebruch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dragebruch.personal.md|Dragebruch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dragebruch.secret.md|Dragebruch.secret]] 

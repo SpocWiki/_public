@@ -29,3 +29,12 @@ markerFile: [[Castellon_de_la_Plana]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.md|Castellon_de_la_Plana]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.internal.md|Castellon_de_la_Plana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.protect.md|Castellon_de_la_Plana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.private.md|Castellon_de_la_Plana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.personal.md|Castellon_de_la_Plana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.secret.md|Castellon_de_la_Plana.secret]] 

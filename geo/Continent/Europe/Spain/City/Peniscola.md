@@ -29,3 +29,12 @@ markerFile: [[Peniscola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Peniscola.md|Peniscola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Peniscola.internal.md|Peniscola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Peniscola.protect.md|Peniscola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Peniscola.private.md|Peniscola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Peniscola.personal.md|Peniscola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Peniscola.secret.md|Peniscola.secret]] 

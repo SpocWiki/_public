@@ -29,3 +29,12 @@ markerFile: [[Blanj]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Blanj.md|Blanj]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Blanj.internal.md|Blanj.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Blanj.protect.md|Blanj.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Blanj.private.md|Blanj.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Blanj.personal.md|Blanj.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Blanj.secret.md|Blanj.secret]] 

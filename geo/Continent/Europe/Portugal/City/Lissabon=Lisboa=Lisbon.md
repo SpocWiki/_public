@@ -29,3 +29,12 @@ markerFile: [[Lissabon=Lisboa=Lisbon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.md|Lissabon=Lisboa=Lisbon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.internal.md|Lissabon=Lisboa=Lisbon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.protect.md|Lissabon=Lisboa=Lisbon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.private.md|Lissabon=Lisboa=Lisbon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.personal.md|Lissabon=Lisboa=Lisbon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.secret.md|Lissabon=Lisboa=Lisbon.secret]] 

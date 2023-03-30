@@ -29,3 +29,12 @@ markerFile: [[Akranes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Iceland/City/Akranes.md|Akranes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Iceland/City/Akranes.internal.md|Akranes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Iceland/City/Akranes.protect.md|Akranes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Iceland/City/Akranes.private.md|Akranes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Iceland/City/Akranes.personal.md|Akranes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Iceland/City/Akranes.secret.md|Akranes.secret]] 

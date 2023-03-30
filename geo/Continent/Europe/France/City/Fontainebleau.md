@@ -29,3 +29,12 @@ markerFile: [[Fontainebleau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Fontainebleau.md|Fontainebleau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fontainebleau.internal.md|Fontainebleau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fontainebleau.protect.md|Fontainebleau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Fontainebleau.private.md|Fontainebleau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fontainebleau.personal.md|Fontainebleau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fontainebleau.secret.md|Fontainebleau.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Tomorica]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Tomorica.md|Tomorica]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Tomorica.internal.md|Tomorica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Tomorica.protect.md|Tomorica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Tomorica.private.md|Tomorica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Tomorica.personal.md|Tomorica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Tomorica.secret.md|Tomorica.secret]] 

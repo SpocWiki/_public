@@ -130,3 +130,12 @@ markerFolder: ./Bangladesh/City
 [geo-lon::90.36]
 [geo-lat::23.7]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Bangladesh.md|Bangladesh]] 
+- [[../../../../_internal/geo/Continent/Asia/Bangladesh.internal.md|Bangladesh.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Bangladesh.protect.md|Bangladesh.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Bangladesh.private.md|Bangladesh.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Bangladesh.personal.md|Bangladesh.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Bangladesh.secret.md|Bangladesh.secret]] 

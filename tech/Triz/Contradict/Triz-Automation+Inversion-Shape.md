@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Shape]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.md|Triz-Automation+Inversion-Shape]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.internal.md|Triz-Automation+Inversion-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.protect.md|Triz-Automation+Inversion-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.private.md|Triz-Automation+Inversion-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.personal.md|Triz-Automation+Inversion-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.secret.md|Triz-Automation+Inversion-Shape.secret]] 

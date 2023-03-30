@@ -28,3 +28,12 @@ markerFile: [[Bersenbrueck]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.md|Bersenbrueck]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.internal.md|Bersenbrueck.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.protect.md|Bersenbrueck.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.private.md|Bersenbrueck.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.personal.md|Bersenbrueck.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.secret.md|Bersenbrueck.secret]] 

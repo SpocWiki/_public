@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
 - [con::[[Triz-moving_Area]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.md|Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.internal.md|Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.protect.md|Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.private.md|Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.personal.md|Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.secret.md|Triz-affected_harm+Replacement_of_a_mechanical_system-moving_Area.secret]] 

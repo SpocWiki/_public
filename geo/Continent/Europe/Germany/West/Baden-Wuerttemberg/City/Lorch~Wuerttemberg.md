@@ -28,3 +28,12 @@ markerFile: [[Lorch~Wuerttemberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.md|Lorch~Wuerttemberg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.internal.md|Lorch~Wuerttemberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.protect.md|Lorch~Wuerttemberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.private.md|Lorch~Wuerttemberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.personal.md|Lorch~Wuerttemberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.secret.md|Lorch~Wuerttemberg.secret]] 

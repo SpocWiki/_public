@@ -29,3 +29,12 @@ markerFile: [[Aquila]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Aquila.md|Aquila]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Aquila.internal.md|Aquila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Aquila.protect.md|Aquila.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Aquila.private.md|Aquila.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Aquila.personal.md|Aquila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Aquila.secret.md|Aquila.secret]] 

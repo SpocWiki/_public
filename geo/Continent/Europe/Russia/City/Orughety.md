@@ -29,3 +29,12 @@ markerFile: [[Orughety]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Orughety.md|Orughety]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Orughety.internal.md|Orughety.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Orughety.protect.md|Orughety.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Orughety.private.md|Orughety.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Orughety.personal.md|Orughety.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Orughety.secret.md|Orughety.secret]] 

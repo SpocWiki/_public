@@ -29,3 +29,12 @@ markerFile: [[Merseritz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Merseritz.md|Merseritz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Merseritz.internal.md|Merseritz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Merseritz.protect.md|Merseritz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Merseritz.private.md|Merseritz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Merseritz.personal.md|Merseritz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Merseritz.secret.md|Merseritz.secret]] 

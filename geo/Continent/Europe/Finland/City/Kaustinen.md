@@ -29,3 +29,12 @@ markerFile: [[Kaustinen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kaustinen.md|Kaustinen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaustinen.internal.md|Kaustinen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaustinen.protect.md|Kaustinen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kaustinen.private.md|Kaustinen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaustinen.personal.md|Kaustinen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaustinen.secret.md|Kaustinen.secret]] 

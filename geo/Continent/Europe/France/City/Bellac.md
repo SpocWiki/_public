@@ -29,3 +29,12 @@ markerFile: [[Bellac]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Bellac.md|Bellac]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bellac.internal.md|Bellac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bellac.protect.md|Bellac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bellac.private.md|Bellac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bellac.personal.md|Bellac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bellac.secret.md|Bellac.secret]] 

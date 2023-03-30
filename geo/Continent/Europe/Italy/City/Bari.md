@@ -29,3 +29,12 @@ markerFile: [[Bari]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bari.md|Bari]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bari.internal.md|Bari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bari.protect.md|Bari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bari.private.md|Bari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bari.personal.md|Bari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bari.secret.md|Bari.secret]] 

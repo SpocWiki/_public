@@ -43,3 +43,12 @@ Indicates a range of postal codes, usually defined as the set of valid codes bet
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.md|postal_code_range_specification]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.internal.md|postal_code_range_specification.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.protect.md|postal_code_range_specification.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.private.md|postal_code_range_specification.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.personal.md|postal_code_range_specification.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.secret.md|postal_code_range_specification.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Pragelato]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pragelato.md|Pragelato]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pragelato.internal.md|Pragelato.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pragelato.protect.md|Pragelato.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pragelato.private.md|Pragelato.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pragelato.personal.md|Pragelato.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pragelato.secret.md|Pragelato.secret]] 

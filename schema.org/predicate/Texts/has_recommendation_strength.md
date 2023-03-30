@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_recommendation_strength )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_recommendation_strength.md|has_recommendation_strength]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_recommendation_strength.internal.md|has_recommendation_strength.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_recommendation_strength.protect.md|has_recommendation_strength.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_recommendation_strength.private.md|has_recommendation_strength.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_recommendation_strength.personal.md|has_recommendation_strength.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_recommendation_strength.secret.md|has_recommendation_strength.secret]] 

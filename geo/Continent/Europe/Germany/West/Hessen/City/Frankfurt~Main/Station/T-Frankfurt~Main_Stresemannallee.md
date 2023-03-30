@@ -27,3 +27,12 @@ markerFile: [[T-Frankfurt~Main_Stresemannallee]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.md|T-Frankfurt~Main_Stresemannallee]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.internal.md|T-Frankfurt~Main_Stresemannallee.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.protect.md|T-Frankfurt~Main_Stresemannallee.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.private.md|T-Frankfurt~Main_Stresemannallee.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.personal.md|T-Frankfurt~Main_Stresemannallee.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.secret.md|T-Frankfurt~Main_Stresemannallee.secret]] 

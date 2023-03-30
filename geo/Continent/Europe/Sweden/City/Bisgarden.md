@@ -29,3 +29,12 @@ markerFile: [[Bisgarden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Bisgarden.md|Bisgarden]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bisgarden.internal.md|Bisgarden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bisgarden.protect.md|Bisgarden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bisgarden.private.md|Bisgarden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bisgarden.personal.md|Bisgarden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bisgarden.secret.md|Bisgarden.secret]] 

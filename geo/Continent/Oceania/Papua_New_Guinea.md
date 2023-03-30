@@ -134,3 +134,12 @@ markerFolder: ./Papua_New_Guinea/City
 [geo-lon::147.117]
 [geo-lat::-9.5]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea.md|Papua_New_Guinea]] 
+- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea.internal.md|Papua_New_Guinea.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea.protect.md|Papua_New_Guinea.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea.private.md|Papua_New_Guinea.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea.personal.md|Papua_New_Guinea.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea.secret.md|Papua_New_Guinea.secret]] 

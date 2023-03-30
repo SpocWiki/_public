@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28103]
 [NextStarId::27519]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Menkar.md|Menkar]] 
+- [[../../../_internal/astro/Star/Menkar.internal.md|Menkar.internal]] 
+- [[../../../_protect/astro/Star/Menkar.protect.md|Menkar.protect]] 
+- [[../../../_private/astro/Star/Menkar.private.md|Menkar.private]] 
+- [[../../../_personal/astro/Star/Menkar.personal.md|Menkar.personal]] 
+- [[../../../_secret/astro/Star/Menkar.secret.md|Menkar.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Winchester]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Winchester.md|Winchester]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Winchester.internal.md|Winchester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Winchester.protect.md|Winchester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Winchester.private.md|Winchester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Winchester.personal.md|Winchester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Winchester.secret.md|Winchester.secret]] 

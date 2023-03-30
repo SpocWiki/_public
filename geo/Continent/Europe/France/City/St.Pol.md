@@ -29,3 +29,12 @@ markerFile: [[St.Pol]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Pol.md|St.Pol]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Pol.internal.md|St.Pol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Pol.protect.md|St.Pol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Pol.private.md|St.Pol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Pol.personal.md|St.Pol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Pol.secret.md|St.Pol.secret]] 

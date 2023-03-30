@@ -29,3 +29,12 @@ markerFile: [[Schrombehnen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Schrombehnen.md|Schrombehnen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Schrombehnen.internal.md|Schrombehnen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Schrombehnen.protect.md|Schrombehnen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Schrombehnen.private.md|Schrombehnen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Schrombehnen.personal.md|Schrombehnen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Schrombehnen.secret.md|Schrombehnen.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Figueira]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Figueira.md|Figueira]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Figueira.internal.md|Figueira.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Figueira.protect.md|Figueira.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Figueira.private.md|Figueira.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Figueira.personal.md|Figueira.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Figueira.secret.md|Figueira.secret]] 

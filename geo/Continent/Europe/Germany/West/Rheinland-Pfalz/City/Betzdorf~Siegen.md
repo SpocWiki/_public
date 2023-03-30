@@ -28,3 +28,12 @@ markerFile: [[Betzdorf~Siegen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.md|Betzdorf~Siegen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.internal.md|Betzdorf~Siegen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.protect.md|Betzdorf~Siegen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.private.md|Betzdorf~Siegen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.personal.md|Betzdorf~Siegen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.secret.md|Betzdorf~Siegen.secret]] 

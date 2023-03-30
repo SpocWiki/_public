@@ -30,3 +30,12 @@ markerFolder: ./Hessen/City
 [geo-lat::50.4897]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen.md|Hessen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen.internal.md|Hessen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen.protect.md|Hessen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen.private.md|Hessen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen.personal.md|Hessen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen.secret.md|Hessen.secret]] 

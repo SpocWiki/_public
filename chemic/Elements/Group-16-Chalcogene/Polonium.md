@@ -32,3 +32,11 @@ SpocWebEntityId: 21979
 > Polonium was discovered in July 1898 by Marie Skłodowska-Curie and Pierre Curie, when it was extracted from the uranium ore pitchblende and identified solely by its strong radioactivity: it was the first element to be so discovered. Polonium was named after Marie Curie's homeland of Poland. Polonium has few applications, and those are related to its radioactivity: heaters in space probes, antistatic devices, sources of neutrons and alpha particles, and poison. It is extremely dangerous to humans.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polonium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-16-Chalcogene/Polonium.md|Polonium]] 
+- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Polonium.internal.md|Polonium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Polonium.protect.md|Polonium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Polonium.private.md|Polonium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Polonium.personal.md|Polonium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Polonium.secret.md|Polonium.secret]] 

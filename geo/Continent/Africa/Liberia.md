@@ -130,3 +130,12 @@ markerFolder: ./Liberia/City
 [geo-lon::-10.8]
 [geo-lat::6.31667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Liberia.md|Liberia]] 
+- [[../../../../_internal/geo/Continent/Africa/Liberia.internal.md|Liberia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Liberia.protect.md|Liberia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Liberia.private.md|Liberia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Liberia.personal.md|Liberia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Liberia.secret.md|Liberia.secret]] 

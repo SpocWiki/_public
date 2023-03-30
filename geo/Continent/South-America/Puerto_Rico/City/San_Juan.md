@@ -29,3 +29,12 @@ markerFile: [[San_Juan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Puerto_Rico/City/San_Juan.md|San_Juan]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Puerto_Rico/City/San_Juan.internal.md|San_Juan.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Puerto_Rico/City/San_Juan.protect.md|San_Juan.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Puerto_Rico/City/San_Juan.private.md|San_Juan.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Puerto_Rico/City/San_Juan.personal.md|San_Juan.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Puerto_Rico/City/San_Juan.secret.md|San_Juan.secret]] 

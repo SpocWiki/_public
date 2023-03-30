@@ -29,3 +29,12 @@ markerFile: [[Rakvere]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Rakvere.md|Rakvere]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Rakvere.internal.md|Rakvere.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Rakvere.protect.md|Rakvere.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Rakvere.private.md|Rakvere.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Rakvere.personal.md|Rakvere.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Rakvere.secret.md|Rakvere.secret]] 

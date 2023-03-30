@@ -29,3 +29,12 @@ markerFile: [[Schwaebrig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schwaebrig.md|Schwaebrig]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schwaebrig.internal.md|Schwaebrig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schwaebrig.protect.md|Schwaebrig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schwaebrig.private.md|Schwaebrig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schwaebrig.personal.md|Schwaebrig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schwaebrig.secret.md|Schwaebrig.secret]] 

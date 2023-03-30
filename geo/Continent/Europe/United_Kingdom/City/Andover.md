@@ -29,3 +29,12 @@ markerFile: [[Andover]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Andover.md|Andover]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Andover.internal.md|Andover.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Andover.protect.md|Andover.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Andover.private.md|Andover.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Andover.personal.md|Andover.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Andover.secret.md|Andover.secret]] 

@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_email )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_email.md|has_email]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_email.internal.md|has_email.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_email.protect.md|has_email.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_email.private.md|has_email.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_email.personal.md|has_email.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_email.secret.md|has_email.secret]] 

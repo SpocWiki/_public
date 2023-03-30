@@ -131,3 +131,12 @@ markerFolder: ./Malawi/City
 [geo-lon::33.7]
 [geo-lat::-13.95]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Malawi.md|Malawi]] 
+- [[../../../../_internal/geo/Continent/Africa/Malawi.internal.md|Malawi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Malawi.protect.md|Malawi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Malawi.private.md|Malawi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Malawi.personal.md|Malawi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Malawi.secret.md|Malawi.secret]] 

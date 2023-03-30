@@ -41,3 +41,12 @@ The act of inserting at the end if an ordered collection.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.md|append_action]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.internal.md|append_action.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.protect.md|append_action.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.private.md|append_action.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.personal.md|append_action.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.secret.md|append_action.secret]] 

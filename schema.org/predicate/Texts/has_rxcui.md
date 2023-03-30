@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_rxcui )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_rxcui.md|has_rxcui]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_rxcui.internal.md|has_rxcui.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_rxcui.protect.md|has_rxcui.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_rxcui.private.md|has_rxcui.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_rxcui.personal.md|has_rxcui.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_rxcui.secret.md|has_rxcui.secret]] 

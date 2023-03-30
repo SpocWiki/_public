@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-use-rotation]]]
 
 Replace wringing Clothes to remove Water with spinning Clothes in a Washing Machine.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-spinning_Clothes.md|Triz-spinning_Clothes]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-spinning_Clothes.internal.md|Triz-spinning_Clothes.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-spinning_Clothes.protect.md|Triz-spinning_Clothes.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-spinning_Clothes.private.md|Triz-spinning_Clothes.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-spinning_Clothes.personal.md|Triz-spinning_Clothes.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-spinning_Clothes.secret.md|Triz-spinning_Clothes.secret]] 

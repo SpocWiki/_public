@@ -29,3 +29,12 @@ markerFile: [[Tel_Aviv]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Israel/City/Tel_Aviv.md|Tel_Aviv]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Israel/City/Tel_Aviv.internal.md|Tel_Aviv.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Israel/City/Tel_Aviv.protect.md|Tel_Aviv.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Israel/City/Tel_Aviv.private.md|Tel_Aviv.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Israel/City/Tel_Aviv.personal.md|Tel_Aviv.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Israel/City/Tel_Aviv.secret.md|Tel_Aviv.secret]] 

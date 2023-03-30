@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_issued_through )
 ( #has_/range :: Service )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_issued_through.md|is_issued_through]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_issued_through.internal.md|is_issued_through.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_issued_through.protect.md|is_issued_through.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_issued_through.private.md|is_issued_through.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_issued_through.personal.md|is_issued_through.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_issued_through.secret.md|is_issued_through.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Perugia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Perugia.md|Perugia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Perugia.internal.md|Perugia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Perugia.protect.md|Perugia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Perugia.private.md|Perugia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Perugia.personal.md|Perugia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Perugia.secret.md|Perugia.secret]] 

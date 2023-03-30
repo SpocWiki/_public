@@ -29,3 +29,12 @@ markerFile: [[Smedenova=Semendria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Smedenova=Semendria.md|Smedenova=Semendria]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Smedenova=Semendria.internal.md|Smedenova=Semendria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Smedenova=Semendria.protect.md|Smedenova=Semendria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Smedenova=Semendria.private.md|Smedenova=Semendria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Smedenova=Semendria.personal.md|Smedenova=Semendria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Smedenova=Semendria.secret.md|Smedenova=Semendria.secret]] 

@@ -15,3 +15,12 @@ tags:
 [TrizPrinciple::[[Triz-Combining_(Integration)]]]
 
 Bring closer together (or merge) identical or similar objects, assemble identical or similar parts to perform parallel operations.
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Sub/Triz-merge-identical.md|Triz-merge-identical]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-merge-identical.internal.md|Triz-merge-identical.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-merge-identical.protect.md|Triz-merge-identical.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-merge-identical.private.md|Triz-merge-identical.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-merge-identical.personal.md|Triz-merge-identical.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-merge-identical.secret.md|Triz-merge-identical.secret]] 

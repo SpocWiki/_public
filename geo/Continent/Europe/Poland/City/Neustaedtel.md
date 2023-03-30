@@ -29,3 +29,12 @@ markerFile: [[Neustaedtel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neustaedtel.md|Neustaedtel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neustaedtel.internal.md|Neustaedtel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neustaedtel.protect.md|Neustaedtel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neustaedtel.private.md|Neustaedtel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neustaedtel.personal.md|Neustaedtel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neustaedtel.secret.md|Neustaedtel.secret]] 

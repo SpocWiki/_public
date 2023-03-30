@@ -9,3 +9,13 @@ Although
 type: folder_brief_live
 ```
  
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/geo/Continent.md|Continent]] 
+- [[../../_internal/geo/Continent.internal.md|Continent.internal]] 
+- [[../../_protect/geo/Continent.protect.md|Continent.protect]] 
+- [[../../_private/geo/Continent.private.md|Continent.private]] 
+- [[../../_personal/geo/Continent.personal.md|Continent.personal]] 
+- [[../../_secret/geo/Continent.secret.md|Continent.secret]]
+

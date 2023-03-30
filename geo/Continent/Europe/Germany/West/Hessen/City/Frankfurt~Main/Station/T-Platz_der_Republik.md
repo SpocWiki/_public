@@ -24,3 +24,12 @@ markerFile: [[T-Platz_der_Republik]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.md|T-Platz_der_Republik]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.internal.md|T-Platz_der_Republik.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.protect.md|T-Platz_der_Republik.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.private.md|T-Platz_der_Republik.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.personal.md|T-Platz_der_Republik.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.secret.md|T-Platz_der_Republik.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Norry-Targ]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Norry-Targ.md|Norry-Targ]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Norry-Targ.internal.md|Norry-Targ.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Norry-Targ.protect.md|Norry-Targ.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Norry-Targ.private.md|Norry-Targ.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Norry-Targ.personal.md|Norry-Targ.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Norry-Targ.secret.md|Norry-Targ.secret]] 

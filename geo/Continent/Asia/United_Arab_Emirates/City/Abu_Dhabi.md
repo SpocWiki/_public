@@ -29,3 +29,12 @@ markerFile: [[Abu_Dhabi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.md|Abu_Dhabi]] 
+- [[../../../../../../_internal/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.internal.md|Abu_Dhabi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.protect.md|Abu_Dhabi.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.private.md|Abu_Dhabi.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.personal.md|Abu_Dhabi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.secret.md|Abu_Dhabi.secret]] 

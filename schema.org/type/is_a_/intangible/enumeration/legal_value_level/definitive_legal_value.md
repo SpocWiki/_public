@@ -46,3 +46,12 @@ Indicates a document for which the text is conclusively what the law says and is
 
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.md|definitive_legal_value]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.internal.md|definitive_legal_value.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.protect.md|definitive_legal_value.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.private.md|definitive_legal_value.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.personal.md|definitive_legal_value.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.secret.md|definitive_legal_value.secret]] 

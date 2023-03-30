@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::27298]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Bellatrix.md|Bellatrix]] 
+- [[../../../_internal/astro/Star/Bellatrix.internal.md|Bellatrix.internal]] 
+- [[../../../_protect/astro/Star/Bellatrix.protect.md|Bellatrix.protect]] 
+- [[../../../_private/astro/Star/Bellatrix.private.md|Bellatrix.private]] 
+- [[../../../_personal/astro/Star/Bellatrix.personal.md|Bellatrix.personal]] 
+- [[../../../_secret/astro/Star/Bellatrix.secret.md|Bellatrix.secret]]
+

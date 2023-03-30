@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28096]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Canis_Majoris-129.md|Canis_Majoris-129]] 
+- [[../../../_internal/astro/Star/Canis_Majoris-129.internal.md|Canis_Majoris-129.internal]] 
+- [[../../../_protect/astro/Star/Canis_Majoris-129.protect.md|Canis_Majoris-129.protect]] 
+- [[../../../_private/astro/Star/Canis_Majoris-129.private.md|Canis_Majoris-129.private]] 
+- [[../../../_personal/astro/Star/Canis_Majoris-129.personal.md|Canis_Majoris-129.personal]] 
+- [[../../../_secret/astro/Star/Canis_Majoris-129.secret.md|Canis_Majoris-129.secret]]
+

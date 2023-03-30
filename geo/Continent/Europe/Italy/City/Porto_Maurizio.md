@@ -29,3 +29,12 @@ markerFile: [[Porto_Maurizio]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Porto_Maurizio.md|Porto_Maurizio]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Porto_Maurizio.internal.md|Porto_Maurizio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Porto_Maurizio.protect.md|Porto_Maurizio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Porto_Maurizio.private.md|Porto_Maurizio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Porto_Maurizio.personal.md|Porto_Maurizio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Porto_Maurizio.secret.md|Porto_Maurizio.secret]] 

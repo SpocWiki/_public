@@ -21,3 +21,12 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkali%20metal)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/chemic/Elements/Group-01-Alkali.md|Group-01-Alkali]] 
+- [[../../../_internal/chemic/Elements/Group-01-Alkali.internal.md|Group-01-Alkali.internal]] 
+- [[../../../_protect/chemic/Elements/Group-01-Alkali.protect.md|Group-01-Alkali.protect]] 
+- [[../../../_private/chemic/Elements/Group-01-Alkali.private.md|Group-01-Alkali.private]] 
+- [[../../../_personal/chemic/Elements/Group-01-Alkali.personal.md|Group-01-Alkali.personal]] 
+- [[../../../_secret/chemic/Elements/Group-01-Alkali.secret.md|Group-01-Alkali.secret]] 

@@ -43,3 +43,12 @@ Indicates employment-related experience requirements, e.g. <a class="localLink" 
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/occupational_experience_requirements.md|occupational_experience_requirements]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/occupational_experience_requirements.internal.md|occupational_experience_requirements.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/occupational_experience_requirements.protect.md|occupational_experience_requirements.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/occupational_experience_requirements.private.md|occupational_experience_requirements.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/occupational_experience_requirements.personal.md|occupational_experience_requirements.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/occupational_experience_requirements.secret.md|occupational_experience_requirements.secret]] 

@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo_equals )
 ( #has_/range :: GeospatialGeometry, Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_equal_to.md|has_geo_equal_to]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_equal_to.internal.md|has_geo_equal_to.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_equal_to.protect.md|has_geo_equal_to.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_equal_to.private.md|has_geo_equal_to.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_equal_to.personal.md|has_geo_equal_to.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_equal_to.secret.md|has_geo_equal_to.secret]] 

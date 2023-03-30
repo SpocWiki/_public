@@ -29,3 +29,12 @@ markerFile: [[Orth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Orth.md|Orth]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Orth.internal.md|Orth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Orth.protect.md|Orth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Orth.private.md|Orth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Orth.personal.md|Orth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Orth.secret.md|Orth.secret]] 

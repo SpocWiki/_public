@@ -35,3 +35,12 @@ markerFolder: ./Czech_Republic/City
 [geo-lon::15.8734]
 [geo-lat::49.7633]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Czech_Republic.md|Czech_Republic]] 
+- [[../../../../_internal/geo/Continent/Europe/Czech_Republic.internal.md|Czech_Republic.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Czech_Republic.protect.md|Czech_Republic.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Czech_Republic.private.md|Czech_Republic.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Czech_Republic.personal.md|Czech_Republic.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Czech_Republic.secret.md|Czech_Republic.secret]] 

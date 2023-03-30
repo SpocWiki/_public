@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
 - [con::[[Triz-Temperature]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.md|Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.internal.md|Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.protect.md|Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.private.md|Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.personal.md|Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.secret.md|Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature.secret]] 

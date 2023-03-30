@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: participant ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_seller.md|has_seller]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_seller.internal.md|has_seller.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_seller.protect.md|has_seller.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_seller.private.md|has_seller.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_seller.personal.md|has_seller.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_seller.secret.md|has_seller.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Coudouan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Coudouan.md|Coudouan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Coudouan.internal.md|Coudouan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Coudouan.protect.md|Coudouan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Coudouan.private.md|Coudouan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Coudouan.personal.md|Coudouan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Coudouan.secret.md|Coudouan.secret]] 

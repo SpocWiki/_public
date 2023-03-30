@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28107]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Comae_Berenices-135.md|Comae_Berenices-135]] 
+- [[../../../_internal/astro/Star/Comae_Berenices-135.internal.md|Comae_Berenices-135.internal]] 
+- [[../../../_protect/astro/Star/Comae_Berenices-135.protect.md|Comae_Berenices-135.protect]] 
+- [[../../../_private/astro/Star/Comae_Berenices-135.private.md|Comae_Berenices-135.private]] 
+- [[../../../_personal/astro/Star/Comae_Berenices-135.personal.md|Comae_Berenices-135.personal]] 
+- [[../../../_secret/astro/Star/Comae_Berenices-135.secret.md|Comae_Berenices-135.secret]]
+

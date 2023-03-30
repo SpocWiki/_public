@@ -29,3 +29,12 @@ markerFile: [[Avellino]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Avellino.md|Avellino]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Avellino.internal.md|Avellino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Avellino.protect.md|Avellino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Avellino.private.md|Avellino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Avellino.personal.md|Avellino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Avellino.secret.md|Avellino.secret]] 

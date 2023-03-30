@@ -29,3 +29,12 @@ markerFile: [[Vadstena]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vadstena.md|Vadstena]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vadstena.internal.md|Vadstena.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vadstena.protect.md|Vadstena.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vadstena.private.md|Vadstena.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vadstena.personal.md|Vadstena.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vadstena.secret.md|Vadstena.secret]] 

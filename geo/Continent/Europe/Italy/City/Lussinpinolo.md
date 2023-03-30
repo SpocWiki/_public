@@ -29,3 +29,12 @@ markerFile: [[Lussinpinolo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lussinpinolo.md|Lussinpinolo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lussinpinolo.internal.md|Lussinpinolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lussinpinolo.protect.md|Lussinpinolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lussinpinolo.private.md|Lussinpinolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lussinpinolo.personal.md|Lussinpinolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lussinpinolo.secret.md|Lussinpinolo.secret]] 

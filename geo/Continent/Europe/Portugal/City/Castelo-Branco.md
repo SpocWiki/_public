@@ -29,3 +29,12 @@ markerFile: [[Castelo-Branco]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Castelo-Branco.md|Castelo-Branco]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Castelo-Branco.internal.md|Castelo-Branco.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Castelo-Branco.protect.md|Castelo-Branco.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Castelo-Branco.private.md|Castelo-Branco.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Castelo-Branco.personal.md|Castelo-Branco.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Castelo-Branco.secret.md|Castelo-Branco.secret]] 

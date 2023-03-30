@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.internal.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.protect.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.private.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.personal.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.secret.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra.secret]] 

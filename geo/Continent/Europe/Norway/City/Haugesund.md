@@ -29,3 +29,12 @@ markerFile: [[Haugesund]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Haugesund.md|Haugesund]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Haugesund.internal.md|Haugesund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Haugesund.protect.md|Haugesund.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Haugesund.private.md|Haugesund.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Haugesund.personal.md|Haugesund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Haugesund.secret.md|Haugesund.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Mont_Soleil]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Mont_Soleil.md|Mont_Soleil]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Mont_Soleil.internal.md|Mont_Soleil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Mont_Soleil.protect.md|Mont_Soleil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Mont_Soleil.private.md|Mont_Soleil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Mont_Soleil.personal.md|Mont_Soleil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Mont_Soleil.secret.md|Mont_Soleil.secret]] 

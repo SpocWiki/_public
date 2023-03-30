@@ -29,3 +29,12 @@ markerFile: [[Wormeldange]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Wormeldange.md|Wormeldange]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Wormeldange.internal.md|Wormeldange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Wormeldange.protect.md|Wormeldange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Wormeldange.private.md|Wormeldange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Wormeldange.personal.md|Wormeldange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Wormeldange.secret.md|Wormeldange.secret]] 

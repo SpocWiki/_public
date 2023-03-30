@@ -29,3 +29,12 @@ markerFile: [[Obersiebenbrunn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Obersiebenbrunn.md|Obersiebenbrunn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Obersiebenbrunn.internal.md|Obersiebenbrunn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Obersiebenbrunn.protect.md|Obersiebenbrunn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Obersiebenbrunn.private.md|Obersiebenbrunn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Obersiebenbrunn.personal.md|Obersiebenbrunn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Obersiebenbrunn.secret.md|Obersiebenbrunn.secret]] 

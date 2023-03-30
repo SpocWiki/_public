@@ -29,3 +29,12 @@ markerFile: [[Freiburg/Schlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.md|Freiburg_Schlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.internal.md|Freiburg_Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.protect.md|Freiburg_Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.private.md|Freiburg_Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.personal.md|Freiburg_Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.secret.md|Freiburg_Schlesien.secret]] 

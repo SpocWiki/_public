@@ -43,3 +43,12 @@ A structured value representing exchange rate.
 
 [ #has_/properties :: [ additionalType, alternateName, currency, currentExchangeRate, description, disambiguatingDescription, exchangeRateSpread, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.md|exchange_rate_specification]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.internal.md|exchange_rate_specification.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.protect.md|exchange_rate_specification.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.private.md|exchange_rate_specification.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.personal.md|exchange_rate_specification.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.secret.md|exchange_rate_specification.secret]] 

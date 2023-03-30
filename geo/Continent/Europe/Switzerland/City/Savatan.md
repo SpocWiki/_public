@@ -29,3 +29,12 @@ markerFile: [[Savatan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Savatan.md|Savatan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Savatan.internal.md|Savatan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Savatan.protect.md|Savatan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Savatan.private.md|Savatan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Savatan.personal.md|Savatan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Savatan.secret.md|Savatan.secret]] 

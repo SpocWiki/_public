@@ -29,3 +29,12 @@ markerFile: [[Malmoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Malmoe.md|Malmoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Malmoe.internal.md|Malmoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Malmoe.protect.md|Malmoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Malmoe.private.md|Malmoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Malmoe.personal.md|Malmoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Malmoe.secret.md|Malmoe.secret]] 

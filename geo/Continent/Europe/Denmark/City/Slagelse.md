@@ -29,3 +29,12 @@ markerFile: [[Slagelse]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Slagelse.md|Slagelse]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Slagelse.internal.md|Slagelse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Slagelse.protect.md|Slagelse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Slagelse.private.md|Slagelse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Slagelse.personal.md|Slagelse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Slagelse.secret.md|Slagelse.secret]] 

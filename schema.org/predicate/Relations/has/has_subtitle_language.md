@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_subtitle_language )
 ( #has_/range :: Language, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_subtitle_language.md|has_subtitle_language]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_subtitle_language.internal.md|has_subtitle_language.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_subtitle_language.protect.md|has_subtitle_language.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_subtitle_language.private.md|has_subtitle_language.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_subtitle_language.personal.md|has_subtitle_language.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_subtitle_language.secret.md|has_subtitle_language.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Tewskbury]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tewskbury.md|Tewskbury]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tewskbury.internal.md|Tewskbury.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tewskbury.protect.md|Tewskbury.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tewskbury.private.md|Tewskbury.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tewskbury.personal.md|Tewskbury.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tewskbury.secret.md|Tewskbury.secret]] 

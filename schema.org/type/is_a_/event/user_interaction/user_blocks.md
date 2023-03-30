@@ -43,3 +43,12 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_blocks.md|user_blocks]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_blocks.internal.md|user_blocks.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_blocks.protect.md|user_blocks.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_blocks.private.md|user_blocks.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_blocks.personal.md|user_blocks.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_blocks.secret.md|user_blocks.secret]] 

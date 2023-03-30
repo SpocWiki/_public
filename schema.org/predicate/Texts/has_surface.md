@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: material ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_surface.md|has_surface]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_surface.internal.md|has_surface.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_surface.protect.md|has_surface.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_surface.private.md|has_surface.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_surface.personal.md|has_surface.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_surface.secret.md|has_surface.secret]] 

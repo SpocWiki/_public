@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28161]
 [NextStarId::27829]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Telescopii-1.md|Telescopii-1]] 
+- [[../../../_internal/astro/Star/Telescopii-1.internal.md|Telescopii-1.internal]] 
+- [[../../../_protect/astro/Star/Telescopii-1.protect.md|Telescopii-1.protect]] 
+- [[../../../_private/astro/Star/Telescopii-1.private.md|Telescopii-1.private]] 
+- [[../../../_personal/astro/Star/Telescopii-1.personal.md|Telescopii-1.personal]] 
+- [[../../../_secret/astro/Star/Telescopii-1.secret.md|Telescopii-1.secret]] 

@@ -132,3 +132,12 @@ markerFolder: ./Belarus/City
 [geo-lon::27.57]
 [geo-lat::53.9]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Belarus.md|Belarus]] 
+- [[../../../../_internal/geo/Continent/Europe/Belarus.internal.md|Belarus.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Belarus.protect.md|Belarus.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Belarus.private.md|Belarus.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Belarus.personal.md|Belarus.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Belarus.secret.md|Belarus.secret]] 

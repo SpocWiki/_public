@@ -29,3 +29,12 @@ markerFile: [[Didkienis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Didkienis.md|Didkienis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Didkienis.internal.md|Didkienis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Didkienis.protect.md|Didkienis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Didkienis.private.md|Didkienis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Didkienis.personal.md|Didkienis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Didkienis.secret.md|Didkienis.secret]] 

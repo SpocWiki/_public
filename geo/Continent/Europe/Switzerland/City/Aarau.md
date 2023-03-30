@@ -29,3 +29,12 @@ markerFile: [[Aarau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Aarau.md|Aarau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Aarau.internal.md|Aarau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Aarau.protect.md|Aarau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Aarau.private.md|Aarau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Aarau.personal.md|Aarau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Aarau.secret.md|Aarau.secret]] 

@@ -132,3 +132,12 @@ markerFolder: ./Puerto_Rico/City
 [geo-lon::-66.1]
 [geo-lat::18.45]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Puerto_Rico.md|Puerto_Rico]] 
+- [[../../../../_internal/geo/Continent/South-America/Puerto_Rico.internal.md|Puerto_Rico.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Puerto_Rico.protect.md|Puerto_Rico.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Puerto_Rico.private.md|Puerto_Rico.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Puerto_Rico.personal.md|Puerto_Rico.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Puerto_Rico.secret.md|Puerto_Rico.secret]] 

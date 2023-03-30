@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28131]
 [NextStarId::27333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Zubenelgenubi.md|Zubenelgenubi]] 
+- [[../../../_internal/astro/Star/Zubenelgenubi.internal.md|Zubenelgenubi.internal]] 
+- [[../../../_protect/astro/Star/Zubenelgenubi.protect.md|Zubenelgenubi.protect]] 
+- [[../../../_private/astro/Star/Zubenelgenubi.private.md|Zubenelgenubi.private]] 
+- [[../../../_personal/astro/Star/Zubenelgenubi.personal.md|Zubenelgenubi.personal]] 
+- [[../../../_secret/astro/Star/Zubenelgenubi.secret.md|Zubenelgenubi.secret]] 

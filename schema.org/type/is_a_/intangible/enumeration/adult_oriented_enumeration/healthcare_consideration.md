@@ -45,3 +45,12 @@ Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medi
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.md|healthcare_consideration]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.internal.md|healthcare_consideration.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.protect.md|healthcare_consideration.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.private.md|healthcare_consideration.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.personal.md|healthcare_consideration.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.secret.md|healthcare_consideration.secret]] 

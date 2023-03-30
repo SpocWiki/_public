@@ -29,3 +29,12 @@ markerFile: [[Leicester]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Leicester.md|Leicester]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Leicester.internal.md|Leicester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Leicester.protect.md|Leicester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Leicester.private.md|Leicester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Leicester.personal.md|Leicester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Leicester.secret.md|Leicester.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Cuneo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cuneo.md|Cuneo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cuneo.internal.md|Cuneo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cuneo.protect.md|Cuneo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cuneo.private.md|Cuneo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cuneo.personal.md|Cuneo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cuneo.secret.md|Cuneo.secret]] 

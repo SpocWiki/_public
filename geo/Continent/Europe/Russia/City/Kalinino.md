@@ -29,3 +29,12 @@ markerFile: [[Kalinino]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kalinino.md|Kalinino]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kalinino.internal.md|Kalinino.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kalinino.protect.md|Kalinino.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kalinino.private.md|Kalinino.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kalinino.personal.md|Kalinino.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kalinino.secret.md|Kalinino.secret]] 

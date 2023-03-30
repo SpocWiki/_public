@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28114]
 [NextStarId::27709]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Delphini-1.md|Delphini-1]] 
+- [[../../../_internal/astro/Star/Delphini-1.internal.md|Delphini-1.internal]] 
+- [[../../../_protect/astro/Star/Delphini-1.protect.md|Delphini-1.protect]] 
+- [[../../../_private/astro/Star/Delphini-1.private.md|Delphini-1.private]] 
+- [[../../../_personal/astro/Star/Delphini-1.personal.md|Delphini-1.personal]] 
+- [[../../../_secret/astro/Star/Delphini-1.secret.md|Delphini-1.secret]]
+

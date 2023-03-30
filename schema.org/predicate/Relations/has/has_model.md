@@ -47,3 +47,12 @@ Relation describes that:
 ( #has_/name :: has_model )
 ( #has_/range :: ProductModel, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_model.md|has_model]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_model.internal.md|has_model.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_model.protect.md|has_model.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_model.private.md|has_model.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_model.personal.md|has_model.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_model.secret.md|has_model.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Siklos]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Siklos.md|Siklos]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Siklos.internal.md|Siklos.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Siklos.protect.md|Siklos.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Siklos.private.md|Siklos.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Siklos.personal.md|Siklos.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Siklos.secret.md|Siklos.secret]] 

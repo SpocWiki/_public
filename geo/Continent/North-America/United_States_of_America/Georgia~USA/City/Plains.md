@@ -28,3 +28,12 @@ markerFile: [[Plains]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Plains.md|Plains]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Plains.internal.md|Plains.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Plains.protect.md|Plains.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Plains.private.md|Plains.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Plains.personal.md|Plains.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Plains.secret.md|Plains.secret]] 

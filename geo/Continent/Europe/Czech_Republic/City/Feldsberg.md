@@ -29,3 +29,12 @@ markerFile: [[Feldsberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Feldsberg.md|Feldsberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Feldsberg.internal.md|Feldsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Feldsberg.protect.md|Feldsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Feldsberg.private.md|Feldsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Feldsberg.personal.md|Feldsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Feldsberg.secret.md|Feldsberg.secret]] 

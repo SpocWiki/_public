@@ -28,3 +28,12 @@ markerFolder: ./Rheinland-Pfalz/City
 [geo-lat::49.914]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.md|Rheinland-Pfalz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.internal.md|Rheinland-Pfalz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.protect.md|Rheinland-Pfalz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.private.md|Rheinland-Pfalz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.personal.md|Rheinland-Pfalz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.secret.md|Rheinland-Pfalz.secret]] 

@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28128]
 [NextStarId::27330]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Denebola.md|Denebola]] 
+- [[../../../_internal/astro/Star/Denebola.internal.md|Denebola.internal]] 
+- [[../../../_protect/astro/Star/Denebola.protect.md|Denebola.protect]] 
+- [[../../../_private/astro/Star/Denebola.private.md|Denebola.private]] 
+- [[../../../_personal/astro/Star/Denebola.personal.md|Denebola.personal]] 
+- [[../../../_secret/astro/Star/Denebola.secret.md|Denebola.secret]]
+

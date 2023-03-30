@@ -43,3 +43,12 @@ Quantities such as distance, time, mass, weight, etc. Particular instances of sa
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/quantity.md|quantity]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/quantity.internal.md|quantity.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/quantity.protect.md|quantity.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/quantity.private.md|quantity.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/quantity.personal.md|quantity.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/quantity.secret.md|quantity.secret]] 

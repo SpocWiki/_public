@@ -132,3 +132,12 @@ markerFolder: ./Moldova/City
 [geo-lon::28.9167]
 [geo-lat::47]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Moldova.md|Moldova]] 
+- [[../../../../_internal/geo/Continent/Europe/Moldova.internal.md|Moldova.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Moldova.protect.md|Moldova.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Moldova.private.md|Moldova.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Moldova.personal.md|Moldova.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Moldova.secret.md|Moldova.secret]] 

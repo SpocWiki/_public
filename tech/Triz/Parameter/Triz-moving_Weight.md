@@ -15,3 +15,11 @@ tags:
 [TrizParameterId::01]
 
 Weight of moving object
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Parameter/Triz-moving_Weight.md|Triz-moving_Weight]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-moving_Weight.internal.md|Triz-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-moving_Weight.protect.md|Triz-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-moving_Weight.private.md|Triz-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-moving_Weight.personal.md|Triz-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-moving_Weight.secret.md|Triz-moving_Weight.secret]] 

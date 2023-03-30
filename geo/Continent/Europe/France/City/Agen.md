@@ -29,3 +29,12 @@ markerFile: [[Agen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Agen.md|Agen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Agen.internal.md|Agen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Agen.protect.md|Agen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Agen.private.md|Agen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Agen.personal.md|Agen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Agen.secret.md|Agen.secret]] 

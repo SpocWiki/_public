@@ -29,3 +29,12 @@ markerFile: [[Dorchester]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dorchester.md|Dorchester]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dorchester.internal.md|Dorchester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dorchester.protect.md|Dorchester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dorchester.private.md|Dorchester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dorchester.personal.md|Dorchester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dorchester.secret.md|Dorchester.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Petropawlowsk-Kamtschatsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.md|Petropawlowsk-Kamtschatsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.internal.md|Petropawlowsk-Kamtschatsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.protect.md|Petropawlowsk-Kamtschatsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.private.md|Petropawlowsk-Kamtschatsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.personal.md|Petropawlowsk-Kamtschatsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.secret.md|Petropawlowsk-Kamtschatsk.secret]] 

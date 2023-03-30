@@ -349,3 +349,11 @@ filters:
   enabled: false
   conditions:
 ```
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/_Europe-CityDB.md|_Europe-CityDB]] 
+- [[../../../../_internal/geo/Continent/Europe/_Europe-CityDB.internal.md|_Europe-CityDB.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/_Europe-CityDB.protect.md|_Europe-CityDB.protect]] 
+- [[../../../../_private/geo/Continent/Europe/_Europe-CityDB.private.md|_Europe-CityDB.private]] 
+- [[../../../../_personal/geo/Continent/Europe/_Europe-CityDB.personal.md|_Europe-CityDB.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/_Europe-CityDB.secret.md|_Europe-CityDB.secret]] 

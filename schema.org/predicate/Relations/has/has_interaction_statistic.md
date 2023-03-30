@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_interaction_statistic )
 ( #has_/range :: InteractionCounter )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_interaction_statistic.md|has_interaction_statistic]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_interaction_statistic.internal.md|has_interaction_statistic.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_interaction_statistic.protect.md|has_interaction_statistic.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_interaction_statistic.private.md|has_interaction_statistic.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_interaction_statistic.personal.md|has_interaction_statistic.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_interaction_statistic.secret.md|has_interaction_statistic.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mediator]]]
 - [con::[[Triz-Temperature]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Temperature.md|Triz-moving_Energy+Mediator-Temperature]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Temperature.internal.md|Triz-moving_Energy+Mediator-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Temperature.protect.md|Triz-moving_Energy+Mediator-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Temperature.private.md|Triz-moving_Energy+Mediator-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Temperature.personal.md|Triz-moving_Energy+Mediator-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Temperature.secret.md|Triz-moving_Energy+Mediator-Temperature.secret]] 

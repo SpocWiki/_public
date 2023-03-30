@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
 - [con::[[Triz-moving_Weight]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.md|Triz-Ease_of_repair+Cushion_in_advance-moving_Weight]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.internal.md|Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.protect.md|Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.private.md|Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.personal.md|Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.secret.md|Triz-Ease_of_repair+Cushion_in_advance-moving_Weight.secret]] 

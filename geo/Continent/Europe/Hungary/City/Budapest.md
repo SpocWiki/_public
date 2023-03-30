@@ -29,3 +29,12 @@ markerFile: [[Budapest]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Budapest.md|Budapest]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Budapest.internal.md|Budapest.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Budapest.protect.md|Budapest.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Budapest.private.md|Budapest.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Budapest.personal.md|Budapest.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Budapest.secret.md|Budapest.secret]] 

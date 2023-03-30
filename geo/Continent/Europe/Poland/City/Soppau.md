@@ -29,3 +29,12 @@ markerFile: [[Soppau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Soppau.md|Soppau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Soppau.internal.md|Soppau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Soppau.protect.md|Soppau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Soppau.private.md|Soppau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Soppau.personal.md|Soppau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Soppau.secret.md|Soppau.secret]] 

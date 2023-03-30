@@ -29,3 +29,12 @@ markerFile: [[Cven]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Cven.md|Cven]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cven.internal.md|Cven.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cven.protect.md|Cven.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cven.private.md|Cven.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cven.personal.md|Cven.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cven.secret.md|Cven.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
 - [con::[[Triz-Ease_of_repair]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.private.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Quimper]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Quimper.md|Quimper]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Quimper.internal.md|Quimper.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Quimper.protect.md|Quimper.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Quimper.private.md|Quimper.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Quimper.personal.md|Quimper.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Quimper.secret.md|Quimper.secret]] 

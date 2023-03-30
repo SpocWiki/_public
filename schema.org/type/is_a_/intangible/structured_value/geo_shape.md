@@ -43,3 +43,12 @@ The geographic shape of a place. A GeoShape can be described using several prope
 
 [ #has_/properties :: [ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/geo_shape.md|geo_shape]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/geo_shape.internal.md|geo_shape.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/geo_shape.protect.md|geo_shape.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/geo_shape.private.md|geo_shape.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/geo_shape.personal.md|geo_shape.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/geo_shape.secret.md|geo_shape.secret]] 

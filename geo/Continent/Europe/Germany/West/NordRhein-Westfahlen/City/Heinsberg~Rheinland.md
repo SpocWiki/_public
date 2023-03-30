@@ -28,3 +28,12 @@ markerFile: [[Heinsberg~Rheinland]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.md|Heinsberg~Rheinland]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.internal.md|Heinsberg~Rheinland.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.protect.md|Heinsberg~Rheinland.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.private.md|Heinsberg~Rheinland.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.personal.md|Heinsberg~Rheinland.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.secret.md|Heinsberg~Rheinland.secret]] 

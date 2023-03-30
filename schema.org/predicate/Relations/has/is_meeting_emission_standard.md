@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_meeting_emission_standard )
 ( #has_/range :: QualitativeValue, Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/is_meeting_emission_standard.md|is_meeting_emission_standard]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_meeting_emission_standard.internal.md|is_meeting_emission_standard.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_meeting_emission_standard.protect.md|is_meeting_emission_standard.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_meeting_emission_standard.private.md|is_meeting_emission_standard.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_meeting_emission_standard.personal.md|is_meeting_emission_standard.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_meeting_emission_standard.secret.md|is_meeting_emission_standard.secret]] 

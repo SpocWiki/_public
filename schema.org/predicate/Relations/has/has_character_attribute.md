@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_character_attribute )
 ( #has_/range :: Thing )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_character_attribute.md|has_character_attribute]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_character_attribute.internal.md|has_character_attribute.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_character_attribute.protect.md|has_character_attribute.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_character_attribute.private.md|has_character_attribute.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_character_attribute.personal.md|has_character_attribute.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_character_attribute.secret.md|has_character_attribute.secret]] 

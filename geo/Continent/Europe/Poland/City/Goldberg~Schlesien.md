@@ -29,3 +29,12 @@ markerFile: [[Goldberg~Schlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Goldberg~Schlesien.md|Goldberg~Schlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Goldberg~Schlesien.internal.md|Goldberg~Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Goldberg~Schlesien.protect.md|Goldberg~Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Goldberg~Schlesien.private.md|Goldberg~Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Goldberg~Schlesien.personal.md|Goldberg~Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Goldberg~Schlesien.secret.md|Goldberg~Schlesien.secret]] 

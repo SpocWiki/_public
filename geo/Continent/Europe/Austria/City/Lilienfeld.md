@@ -29,3 +29,12 @@ markerFile: [[Lilienfeld]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Lilienfeld.md|Lilienfeld]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Lilienfeld.internal.md|Lilienfeld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Lilienfeld.protect.md|Lilienfeld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Lilienfeld.private.md|Lilienfeld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Lilienfeld.personal.md|Lilienfeld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Lilienfeld.secret.md|Lilienfeld.secret]] 

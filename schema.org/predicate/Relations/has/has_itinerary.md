@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_itinerary )
 ( #has_/range :: ItemList, Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_itinerary.md|has_itinerary]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_itinerary.internal.md|has_itinerary.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_itinerary.protect.md|has_itinerary.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_itinerary.private.md|has_itinerary.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_itinerary.personal.md|has_itinerary.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_itinerary.secret.md|has_itinerary.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Brighton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Brighton.md|Brighton]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Brighton.internal.md|Brighton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Brighton.protect.md|Brighton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Brighton.private.md|Brighton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Brighton.personal.md|Brighton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Brighton.secret.md|Brighton.secret]] 

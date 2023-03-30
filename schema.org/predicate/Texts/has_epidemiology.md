@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_epidemiology )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_epidemiology.md|has_epidemiology]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_epidemiology.internal.md|has_epidemiology.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_epidemiology.protect.md|has_epidemiology.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_epidemiology.private.md|has_epidemiology.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_epidemiology.personal.md|has_epidemiology.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_epidemiology.secret.md|has_epidemiology.secret]] 

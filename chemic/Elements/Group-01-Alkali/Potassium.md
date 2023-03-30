@@ -33,3 +33,12 @@ SpocWebEntityId: 21920
 > Most industrial applications of potassium exploit the high solubility of its compounds in water, such as saltwater soap. Heavy crop production rapidly depletes the soil of potassium, and this can be remedied with agricultural fertilizers containing potassium, accounting for 95% of global potassium chemical production.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Potassium)
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-01-Alkali/Potassium.md|Potassium]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Potassium.internal.md|Potassium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Potassium.protect.md|Potassium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Potassium.private.md|Potassium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Potassium.personal.md|Potassium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Potassium.secret.md|Potassium.secret]] 

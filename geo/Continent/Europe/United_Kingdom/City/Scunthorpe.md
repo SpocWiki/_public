@@ -29,3 +29,12 @@ markerFile: [[Scunthorpe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.md|Scunthorpe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.internal.md|Scunthorpe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.protect.md|Scunthorpe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.private.md|Scunthorpe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.personal.md|Scunthorpe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.secret.md|Scunthorpe.secret]] 

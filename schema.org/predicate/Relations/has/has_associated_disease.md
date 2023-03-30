@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_associated_disease )
 ( #has_/range :: MedicalCondition, PropertyValue, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_associated_disease.md|has_associated_disease]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_disease.internal.md|has_associated_disease.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_disease.protect.md|has_associated_disease.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_disease.private.md|has_associated_disease.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_associated_disease.personal.md|has_associated_disease.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_associated_disease.secret.md|has_associated_disease.secret]] 

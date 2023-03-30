@@ -50,3 +50,12 @@ The amount of a <a class="localLink" href="/Grant">Grant</a> is represented usin
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/grant.md|grant]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/grant.internal.md|grant.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/grant.protect.md|grant.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/grant.private.md|grant.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/grant.personal.md|grant.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/grant.secret.md|grant.secret]] 

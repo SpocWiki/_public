@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_player_type )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_player_type.md|has_player_type]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_player_type.internal.md|has_player_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_player_type.protect.md|has_player_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_player_type.private.md|has_player_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_player_type.personal.md|has_player_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_player_type.secret.md|has_player_type.secret]] 

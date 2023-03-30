@@ -29,3 +29,12 @@ markerFile: [[Thun]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Thun.md|Thun]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Thun.internal.md|Thun.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Thun.protect.md|Thun.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Thun.private.md|Thun.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Thun.personal.md|Thun.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Thun.secret.md|Thun.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Farnham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Farnham.md|Farnham]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Farnham.internal.md|Farnham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Farnham.protect.md|Farnham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Farnham.private.md|Farnham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Farnham.personal.md|Farnham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Farnham.secret.md|Farnham.secret]] 

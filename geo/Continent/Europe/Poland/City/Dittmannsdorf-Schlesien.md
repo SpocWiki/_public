@@ -29,3 +29,12 @@ markerFile: [[Dittmannsdorf-Schlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Dittmannsdorf-Schlesien.md|Dittmannsdorf-Schlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dittmannsdorf-Schlesien.internal.md|Dittmannsdorf-Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dittmannsdorf-Schlesien.protect.md|Dittmannsdorf-Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dittmannsdorf-Schlesien.private.md|Dittmannsdorf-Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dittmannsdorf-Schlesien.personal.md|Dittmannsdorf-Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dittmannsdorf-Schlesien.secret.md|Dittmannsdorf-Schlesien.secret]] 

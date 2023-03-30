@@ -29,3 +29,12 @@ markerFile: [[Athlone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Athlone.md|Athlone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Athlone.internal.md|Athlone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Athlone.protect.md|Athlone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Athlone.private.md|Athlone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Athlone.personal.md|Athlone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Athlone.secret.md|Athlone.secret]] 

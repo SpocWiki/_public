@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-Speed]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Extraction-Speed.md|Triz-Power+Extraction-Speed]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Speed.internal.md|Triz-Power+Extraction-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Speed.protect.md|Triz-Power+Extraction-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Speed.private.md|Triz-Power+Extraction-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Extraction-Speed.personal.md|Triz-Power+Extraction-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Extraction-Speed.secret.md|Triz-Power+Extraction-Speed.secret]] 

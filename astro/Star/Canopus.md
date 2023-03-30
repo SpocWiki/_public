@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28099]
 [NextStarId::27271]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Canopus.md|Canopus]] 
+- [[../../../_internal/astro/Star/Canopus.internal.md|Canopus.internal]] 
+- [[../../../_protect/astro/Star/Canopus.protect.md|Canopus.protect]] 
+- [[../../../_private/astro/Star/Canopus.private.md|Canopus.private]] 
+- [[../../../_personal/astro/Star/Canopus.personal.md|Canopus.personal]] 
+- [[../../../_secret/astro/Star/Canopus.secret.md|Canopus.secret]]
+

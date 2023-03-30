@@ -29,3 +29,12 @@ markerFile: [[Kaunas=Kowno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kaunas=Kowno.md|Kaunas=Kowno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaunas=Kowno.internal.md|Kaunas=Kowno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaunas=Kowno.protect.md|Kaunas=Kowno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kaunas=Kowno.private.md|Kaunas=Kowno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaunas=Kowno.personal.md|Kaunas=Kowno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaunas=Kowno.secret.md|Kaunas=Kowno.secret]] 

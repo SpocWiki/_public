@@ -29,3 +29,12 @@ markerFile: [[Lisburn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.md|Lisburn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.internal.md|Lisburn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.protect.md|Lisburn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.private.md|Lisburn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.personal.md|Lisburn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.secret.md|Lisburn.secret]] 

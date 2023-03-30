@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_iso6523code )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_iso6523code.md|has_iso6523code]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_iso6523code.internal.md|has_iso6523code.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_iso6523code.protect.md|has_iso6523code.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_iso6523code.private.md|has_iso6523code.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_iso6523code.personal.md|has_iso6523code.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_iso6523code.secret.md|has_iso6523code.secret]] 

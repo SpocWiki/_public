@@ -29,3 +29,12 @@ markerFile: [[Ovre-Graensoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.md|Ovre-Graensoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.internal.md|Ovre-Graensoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.protect.md|Ovre-Graensoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.private.md|Ovre-Graensoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.personal.md|Ovre-Graensoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.secret.md|Ovre-Graensoe.secret]] 

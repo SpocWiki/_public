@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28113]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Albireo.md|Albireo]] 
+- [[../../../_internal/astro/Star/Albireo.internal.md|Albireo.internal]] 
+- [[../../../_protect/astro/Star/Albireo.protect.md|Albireo.protect]] 
+- [[../../../_private/astro/Star/Albireo.private.md|Albireo.private]] 
+- [[../../../_personal/astro/Star/Albireo.personal.md|Albireo.personal]] 
+- [[../../../_secret/astro/Star/Albireo.secret.md|Albireo.secret]]
+

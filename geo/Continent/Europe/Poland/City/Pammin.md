@@ -29,3 +29,12 @@ markerFile: [[Pammin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Pammin.md|Pammin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pammin.internal.md|Pammin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pammin.protect.md|Pammin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pammin.private.md|Pammin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pammin.personal.md|Pammin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pammin.secret.md|Pammin.secret]] 

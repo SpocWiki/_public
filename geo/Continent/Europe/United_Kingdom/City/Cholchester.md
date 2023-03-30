@@ -29,3 +29,12 @@ markerFile: [[Cholchester]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cholchester.md|Cholchester]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cholchester.internal.md|Cholchester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cholchester.protect.md|Cholchester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cholchester.private.md|Cholchester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cholchester.personal.md|Cholchester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cholchester.secret.md|Cholchester.secret]] 

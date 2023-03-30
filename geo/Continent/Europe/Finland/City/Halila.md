@@ -29,3 +29,12 @@ markerFile: [[Halila]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Halila.md|Halila]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Halila.internal.md|Halila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Halila.protect.md|Halila.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Halila.private.md|Halila.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Halila.personal.md|Halila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Halila.secret.md|Halila.secret]] 

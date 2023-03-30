@@ -29,3 +29,12 @@ markerFile: [[Odder]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Odder.md|Odder]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Odder.internal.md|Odder.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Odder.protect.md|Odder.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Odder.private.md|Odder.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Odder.personal.md|Odder.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Odder.secret.md|Odder.secret]] 

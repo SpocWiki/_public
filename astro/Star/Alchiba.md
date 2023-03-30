@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28110]
 [NextStarId::27342]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alchiba.md|Alchiba]] 
+- [[../../../_internal/astro/Star/Alchiba.internal.md|Alchiba.internal]] 
+- [[../../../_protect/astro/Star/Alchiba.protect.md|Alchiba.protect]] 
+- [[../../../_private/astro/Star/Alchiba.private.md|Alchiba.private]] 
+- [[../../../_personal/astro/Star/Alchiba.personal.md|Alchiba.personal]] 
+- [[../../../_secret/astro/Star/Alchiba.secret.md|Alchiba.secret]]
+

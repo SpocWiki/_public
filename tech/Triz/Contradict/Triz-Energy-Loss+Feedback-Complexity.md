@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Feedback]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Complexity.md|Triz-Energy-Loss+Feedback-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Complexity.internal.md|Triz-Energy-Loss+Feedback-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Complexity.protect.md|Triz-Energy-Loss+Feedback-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Complexity.private.md|Triz-Energy-Loss+Feedback-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Complexity.personal.md|Triz-Energy-Loss+Feedback-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Complexity.secret.md|Triz-Energy-Loss+Feedback-Complexity.secret]] 

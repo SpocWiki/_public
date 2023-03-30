@@ -131,3 +131,12 @@ markerFolder: ./Sri_Lanka/City
 [geo-lon::80.425]
 [geo-lat::6.86]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Sri_Lanka.md|Sri_Lanka]] 
+- [[../../../../_internal/geo/Continent/Asia/Sri_Lanka.internal.md|Sri_Lanka.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Sri_Lanka.protect.md|Sri_Lanka.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Sri_Lanka.private.md|Sri_Lanka.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Sri_Lanka.personal.md|Sri_Lanka.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Sri_Lanka.secret.md|Sri_Lanka.secret]] 

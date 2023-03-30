@@ -29,3 +29,12 @@ markerFile: [[Frosinone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Frosinone.md|Frosinone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Frosinone.internal.md|Frosinone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Frosinone.protect.md|Frosinone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Frosinone.private.md|Frosinone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Frosinone.personal.md|Frosinone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Frosinone.secret.md|Frosinone.secret]] 

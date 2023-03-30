@@ -29,3 +29,12 @@ markerFile: [[Kunzendorf~Neur.]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..md|Kunzendorf~Neur.]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..internal.md|Kunzendorf~Neur..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..protect.md|Kunzendorf~Neur..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..private.md|Kunzendorf~Neur..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..personal.md|Kunzendorf~Neur..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..secret.md|Kunzendorf~Neur..secret]] 

@@ -35,3 +35,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Wisconsin.md|Wisconsin]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Wisconsin.internal.md|Wisconsin.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Wisconsin.protect.md|Wisconsin.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Wisconsin.private.md|Wisconsin.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Wisconsin.personal.md|Wisconsin.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Wisconsin.secret.md|Wisconsin.secret]] 

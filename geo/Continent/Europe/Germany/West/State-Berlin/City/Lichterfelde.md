@@ -28,3 +28,12 @@ markerFile: [[Lichterfelde]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.md|Lichterfelde]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.internal.md|Lichterfelde.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.protect.md|Lichterfelde.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.private.md|Lichterfelde.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.personal.md|Lichterfelde.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.secret.md|Lichterfelde.secret]] 

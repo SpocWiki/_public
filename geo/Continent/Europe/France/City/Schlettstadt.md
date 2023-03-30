@@ -29,3 +29,12 @@ markerFile: [[Schlettstadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Schlettstadt.md|Schlettstadt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Schlettstadt.internal.md|Schlettstadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Schlettstadt.protect.md|Schlettstadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Schlettstadt.private.md|Schlettstadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Schlettstadt.personal.md|Schlettstadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Schlettstadt.secret.md|Schlettstadt.secret]] 

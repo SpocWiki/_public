@@ -43,3 +43,12 @@ OrderStatus representing availability of an order for pickup.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.md|order_pickup_available]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.internal.md|order_pickup_available.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.protect.md|order_pickup_available.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.private.md|order_pickup_available.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.personal.md|order_pickup_available.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.secret.md|order_pickup_available.secret]] 

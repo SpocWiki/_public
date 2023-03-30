@@ -28,3 +28,12 @@ markerFile: [[Juergensgaarde]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.md|Juergensgaarde]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.internal.md|Juergensgaarde.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.protect.md|Juergensgaarde.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.private.md|Juergensgaarde.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.personal.md|Juergensgaarde.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.secret.md|Juergensgaarde.secret]] 

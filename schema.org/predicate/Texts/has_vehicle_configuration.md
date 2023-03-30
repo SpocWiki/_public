@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_vehicle_configuration )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_vehicle_configuration.md|has_vehicle_configuration]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_vehicle_configuration.internal.md|has_vehicle_configuration.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_vehicle_configuration.protect.md|has_vehicle_configuration.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_vehicle_configuration.private.md|has_vehicle_configuration.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_vehicle_configuration.personal.md|has_vehicle_configuration.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_vehicle_configuration.secret.md|has_vehicle_configuration.secret]] 

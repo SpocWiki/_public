@@ -128,3 +128,12 @@ markerFolder: ./Japan/City
 [geo-lon::137.199]
 [geo-lat::36.8617]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Japan.md|Japan]] 
+- [[../../../../_internal/geo/Continent/Asia/Japan.internal.md|Japan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Japan.protect.md|Japan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Japan.private.md|Japan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Japan.personal.md|Japan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Japan.secret.md|Japan.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Zara]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zara.md|Zara]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zara.internal.md|Zara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zara.protect.md|Zara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zara.private.md|Zara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zara.personal.md|Zara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zara.secret.md|Zara.secret]] 

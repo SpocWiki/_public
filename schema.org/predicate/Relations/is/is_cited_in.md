@@ -41,3 +41,12 @@ Relation describes that:
 ( #has_/name :: is_cited_in )
 ( #has_/range :: CreativeWork, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_cited_in.md|is_cited_in]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_cited_in.internal.md|is_cited_in.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_cited_in.protect.md|is_cited_in.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_cited_in.private.md|is_cited_in.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_cited_in.personal.md|is_cited_in.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_cited_in.secret.md|is_cited_in.secret]] 

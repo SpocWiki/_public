@@ -29,3 +29,12 @@ markerFile: [[Svalferfort]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Svalferfort.md|Svalferfort]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Svalferfort.internal.md|Svalferfort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Svalferfort.protect.md|Svalferfort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Svalferfort.private.md|Svalferfort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Svalferfort.personal.md|Svalferfort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Svalferfort.secret.md|Svalferfort.secret]] 

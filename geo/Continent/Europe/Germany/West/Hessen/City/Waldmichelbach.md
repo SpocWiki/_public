@@ -28,3 +28,12 @@ markerFile: [[Waldmichelbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Waldmichelbach.md|Waldmichelbach]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Waldmichelbach.internal.md|Waldmichelbach.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Waldmichelbach.protect.md|Waldmichelbach.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Waldmichelbach.private.md|Waldmichelbach.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Waldmichelbach.personal.md|Waldmichelbach.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Waldmichelbach.secret.md|Waldmichelbach.secret]] 

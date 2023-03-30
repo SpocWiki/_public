@@ -29,3 +29,12 @@ markerFile: [[Karschau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Karschau.md|Karschau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Karschau.internal.md|Karschau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Karschau.protect.md|Karschau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Karschau.private.md|Karschau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Karschau.personal.md|Karschau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Karschau.secret.md|Karschau.secret]] 

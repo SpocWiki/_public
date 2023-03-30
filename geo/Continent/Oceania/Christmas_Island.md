@@ -128,3 +128,12 @@ markerFolder: ./Christmas_Island/City
 [geo-lon::105.683]
 [geo-lat::-10.4167]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Christmas_Island.md|Christmas_Island]] 
+- [[../../../../_internal/geo/Continent/Oceania/Christmas_Island.internal.md|Christmas_Island.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Christmas_Island.protect.md|Christmas_Island.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Christmas_Island.private.md|Christmas_Island.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Christmas_Island.personal.md|Christmas_Island.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Christmas_Island.secret.md|Christmas_Island.secret]] 

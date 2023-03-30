@@ -29,3 +29,12 @@ markerFile: [[Ziegenhals]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ziegenhals.md|Ziegenhals]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ziegenhals.internal.md|Ziegenhals.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ziegenhals.protect.md|Ziegenhals.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ziegenhals.private.md|Ziegenhals.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ziegenhals.personal.md|Ziegenhals.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ziegenhals.secret.md|Ziegenhals.secret]] 

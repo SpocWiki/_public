@@ -29,3 +29,12 @@ markerFile: [[Herning]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Herning.md|Herning]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Herning.internal.md|Herning.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Herning.protect.md|Herning.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Herning.private.md|Herning.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Herning.personal.md|Herning.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Herning.secret.md|Herning.secret]] 

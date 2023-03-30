@@ -29,3 +29,12 @@ markerFile: [[Zobten]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zobten.md|Zobten]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zobten.internal.md|Zobten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zobten.protect.md|Zobten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zobten.private.md|Zobten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zobten.personal.md|Zobten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zobten.secret.md|Zobten.secret]] 

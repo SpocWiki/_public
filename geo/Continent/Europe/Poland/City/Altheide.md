@@ -29,3 +29,12 @@ markerFile: [[Altheide]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Altheide.md|Altheide]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Altheide.internal.md|Altheide.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Altheide.protect.md|Altheide.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Altheide.private.md|Altheide.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Altheide.personal.md|Altheide.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Altheide.secret.md|Altheide.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Hammerfest]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Hammerfest.md|Hammerfest]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Hammerfest.internal.md|Hammerfest.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Hammerfest.protect.md|Hammerfest.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Hammerfest.private.md|Hammerfest.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Hammerfest.personal.md|Hammerfest.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Hammerfest.secret.md|Hammerfest.secret]] 

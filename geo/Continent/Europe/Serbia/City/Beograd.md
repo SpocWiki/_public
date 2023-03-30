@@ -29,3 +29,12 @@ markerFile: [[Beograd]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Serbia/City/Beograd.md|Beograd]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Serbia/City/Beograd.internal.md|Beograd.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Serbia/City/Beograd.protect.md|Beograd.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Serbia/City/Beograd.private.md|Beograd.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Serbia/City/Beograd.personal.md|Beograd.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Serbia/City/Beograd.secret.md|Beograd.secret]] 

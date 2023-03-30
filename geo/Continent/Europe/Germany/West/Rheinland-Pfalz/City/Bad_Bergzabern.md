@@ -28,3 +28,12 @@ markerFile: [[Bad_Bergzabern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Bergzabern.md|Bad_Bergzabern]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Bergzabern.internal.md|Bad_Bergzabern.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Bergzabern.protect.md|Bad_Bergzabern.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Bergzabern.private.md|Bad_Bergzabern.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Bergzabern.personal.md|Bad_Bergzabern.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Bergzabern.secret.md|Bad_Bergzabern.secret]] 

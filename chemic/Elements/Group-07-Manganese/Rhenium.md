@@ -28,3 +28,11 @@ SpocWebEntityId: 21971
 > Discovered by Walter Noddack, Ida Tacke and Otto Berg in 1925, rhenium was the last stable element to be discovered. It was named after the river Rhine in Europe, from which the earliest samples had been obtained and worked commercially.Nickel-based superalloys of rhenium are used in combustion chambers, turbine blades, and exhaust nozzles of jet engines. These alloys contain up to 6% rhenium, making jet engine construction the largest single use for the element. The second-most important use is as a catalyst: rhenium is an excellent catalyst for hydrogenation and isomerization, and is used for example in catalytic reforming of naphtha for use in gasoline (rheniforming process). Because of the low availability relative to demand, rhenium is expensive, with price reaching an all-time high in 2008/2009 of US$10,600 per kilogram (US$4,800 per pound). Due to increases in rhenium recycling and a drop in demand for rhenium in catalysts, the price of rhenium had dropped to US$2,844 per kilogram (US$1,290 per pound) as of July 2018.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhenium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-07-Manganese/Rhenium.md|Rhenium]] 
+- [[../../../../_internal/chemic/Elements/Group-07-Manganese/Rhenium.internal.md|Rhenium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-07-Manganese/Rhenium.protect.md|Rhenium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-07-Manganese/Rhenium.private.md|Rhenium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-07-Manganese/Rhenium.personal.md|Rhenium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-07-Manganese/Rhenium.secret.md|Rhenium.secret]] 

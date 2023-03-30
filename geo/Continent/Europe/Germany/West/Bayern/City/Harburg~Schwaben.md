@@ -28,3 +28,12 @@ markerFile: [[Harburg~Schwaben]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.md|Harburg~Schwaben]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.internal.md|Harburg~Schwaben.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.protect.md|Harburg~Schwaben.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.private.md|Harburg~Schwaben.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.personal.md|Harburg~Schwaben.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.secret.md|Harburg~Schwaben.secret]] 

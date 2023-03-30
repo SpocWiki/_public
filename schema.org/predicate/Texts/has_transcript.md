@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_transcript )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_transcript.md|has_transcript]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_transcript.internal.md|has_transcript.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_transcript.protect.md|has_transcript.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_transcript.private.md|has_transcript.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_transcript.personal.md|has_transcript.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_transcript.secret.md|has_transcript.secret]] 

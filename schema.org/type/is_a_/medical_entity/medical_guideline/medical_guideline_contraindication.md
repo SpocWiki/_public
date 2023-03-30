@@ -41,3 +41,12 @@ A guideline contraindication that designates a process as harmful and where qual
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.md|medical_guideline_contraindication]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.internal.md|medical_guideline_contraindication.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.protect.md|medical_guideline_contraindication.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.private.md|medical_guideline_contraindication.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.personal.md|medical_guideline_contraindication.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.secret.md|medical_guideline_contraindication.secret]] 

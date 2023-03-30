@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_agent )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_agent.md|has_agent]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_agent.internal.md|has_agent.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_agent.protect.md|has_agent.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_agent.private.md|has_agent.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_agent.personal.md|has_agent.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_agent.secret.md|has_agent.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Osterode~Harz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.md|Osterode~Harz]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.internal.md|Osterode~Harz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.protect.md|Osterode~Harz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.private.md|Osterode~Harz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.personal.md|Osterode~Harz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.secret.md|Osterode~Harz.secret]] 

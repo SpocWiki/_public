@@ -44,3 +44,12 @@ Predicate describes that:
 ( #has_/name :: is_multiple_value )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_multiple_value.md|is_multiple_value]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_multiple_value.internal.md|is_multiple_value.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_multiple_value.protect.md|is_multiple_value.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_multiple_value.private.md|is_multiple_value.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_multiple_value.personal.md|is_multiple_value.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_multiple_value.secret.md|is_multiple_value.secret]] 

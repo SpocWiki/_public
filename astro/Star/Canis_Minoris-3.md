@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28097]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Canis_Minoris-3.md|Canis_Minoris-3]] 
+- [[../../../_internal/astro/Star/Canis_Minoris-3.internal.md|Canis_Minoris-3.internal]] 
+- [[../../../_protect/astro/Star/Canis_Minoris-3.protect.md|Canis_Minoris-3.protect]] 
+- [[../../../_private/astro/Star/Canis_Minoris-3.private.md|Canis_Minoris-3.private]] 
+- [[../../../_personal/astro/Star/Canis_Minoris-3.personal.md|Canis_Minoris-3.personal]] 
+- [[../../../_secret/astro/Star/Canis_Minoris-3.secret.md|Canis_Minoris-3.secret]]
+

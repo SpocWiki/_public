@@ -29,3 +29,12 @@ markerFile: [[Bischofsburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bischofsburg.md|Bischofsburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bischofsburg.internal.md|Bischofsburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bischofsburg.protect.md|Bischofsburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bischofsburg.private.md|Bischofsburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bischofsburg.personal.md|Bischofsburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bischofsburg.secret.md|Bischofsburg.secret]] 

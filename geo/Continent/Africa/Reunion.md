@@ -32,3 +32,12 @@ markerFolder: ./Reunion/City
 [geo-lon::55.45]
 [geo-lat::-20.8833]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Reunion.md|Reunion]] 
+- [[../../../../_internal/geo/Continent/Africa/Reunion.internal.md|Reunion.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Reunion.protect.md|Reunion.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Reunion.private.md|Reunion.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Reunion.personal.md|Reunion.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Reunion.secret.md|Reunion.secret]] 

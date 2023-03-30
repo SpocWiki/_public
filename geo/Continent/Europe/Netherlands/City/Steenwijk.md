@@ -29,3 +29,12 @@ markerFile: [[Steenwijk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Steenwijk.md|Steenwijk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Steenwijk.internal.md|Steenwijk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Steenwijk.protect.md|Steenwijk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Steenwijk.private.md|Steenwijk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Steenwijk.personal.md|Steenwijk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Steenwijk.secret.md|Steenwijk.secret]] 

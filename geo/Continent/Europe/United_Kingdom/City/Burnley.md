@@ -29,3 +29,12 @@ markerFile: [[Burnley]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Burnley.md|Burnley]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Burnley.internal.md|Burnley.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Burnley.protect.md|Burnley.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Burnley.private.md|Burnley.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Burnley.personal.md|Burnley.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Burnley.secret.md|Burnley.secret]] 

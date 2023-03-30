@@ -129,3 +129,12 @@ markerFolder: ./Guatemala/City
 [geo-lon::-90.5]
 [geo-lat::14.6333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Guatemala.md|Guatemala]] 
+- [[../../../../_internal/geo/Continent/South-America/Guatemala.internal.md|Guatemala.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Guatemala.protect.md|Guatemala.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Guatemala.private.md|Guatemala.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Guatemala.personal.md|Guatemala.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Guatemala.secret.md|Guatemala.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Hochredlau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hochredlau.md|Hochredlau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hochredlau.internal.md|Hochredlau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hochredlau.protect.md|Hochredlau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hochredlau.private.md|Hochredlau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hochredlau.personal.md|Hochredlau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hochredlau.secret.md|Hochredlau.secret]] 

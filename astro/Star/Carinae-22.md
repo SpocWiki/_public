@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28099]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Carinae-22.md|Carinae-22]] 
+- [[../../../_internal/astro/Star/Carinae-22.internal.md|Carinae-22.internal]] 
+- [[../../../_protect/astro/Star/Carinae-22.protect.md|Carinae-22.protect]] 
+- [[../../../_private/astro/Star/Carinae-22.private.md|Carinae-22.private]] 
+- [[../../../_personal/astro/Star/Carinae-22.personal.md|Carinae-22.personal]] 
+- [[../../../_secret/astro/Star/Carinae-22.secret.md|Carinae-22.secret]]
+

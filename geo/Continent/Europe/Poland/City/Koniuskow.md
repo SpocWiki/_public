@@ -29,3 +29,12 @@ markerFile: [[Koniuskow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Koniuskow.md|Koniuskow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koniuskow.internal.md|Koniuskow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koniuskow.protect.md|Koniuskow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koniuskow.private.md|Koniuskow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koniuskow.personal.md|Koniuskow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koniuskow.secret.md|Koniuskow.secret]] 

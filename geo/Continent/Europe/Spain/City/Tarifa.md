@@ -29,3 +29,12 @@ markerFile: [[Tarifa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Tarifa.md|Tarifa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Tarifa.internal.md|Tarifa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Tarifa.protect.md|Tarifa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Tarifa.private.md|Tarifa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Tarifa.personal.md|Tarifa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Tarifa.secret.md|Tarifa.secret]] 

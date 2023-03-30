@@ -29,3 +29,12 @@ markerFile: [[Kvikkjokk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kvikkjokk.md|Kvikkjokk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kvikkjokk.internal.md|Kvikkjokk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kvikkjokk.protect.md|Kvikkjokk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kvikkjokk.private.md|Kvikkjokk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kvikkjokk.personal.md|Kvikkjokk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kvikkjokk.secret.md|Kvikkjokk.secret]] 

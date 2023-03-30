@@ -29,3 +29,12 @@ markerFile: [[Veszprem]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Veszprem.md|Veszprem]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Veszprem.internal.md|Veszprem.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Veszprem.protect.md|Veszprem.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Veszprem.private.md|Veszprem.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Veszprem.personal.md|Veszprem.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Veszprem.secret.md|Veszprem.secret]] 

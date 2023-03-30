@@ -29,3 +29,12 @@ markerFile: [[Grimstad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Grimstad.md|Grimstad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Grimstad.internal.md|Grimstad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Grimstad.protect.md|Grimstad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Grimstad.private.md|Grimstad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Grimstad.personal.md|Grimstad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Grimstad.secret.md|Grimstad.secret]] 

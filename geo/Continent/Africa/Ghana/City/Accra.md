@@ -29,3 +29,12 @@ markerFile: [[Accra]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Ghana/City/Accra.md|Accra]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ghana/City/Accra.internal.md|Accra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ghana/City/Accra.protect.md|Accra.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ghana/City/Accra.private.md|Accra.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ghana/City/Accra.personal.md|Accra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ghana/City/Accra.secret.md|Accra.secret]] 

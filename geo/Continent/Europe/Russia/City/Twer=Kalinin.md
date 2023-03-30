@@ -29,3 +29,12 @@ markerFile: [[Twer=Kalinin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Twer=Kalinin.md|Twer=Kalinin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Twer=Kalinin.internal.md|Twer=Kalinin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Twer=Kalinin.protect.md|Twer=Kalinin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Twer=Kalinin.private.md|Twer=Kalinin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Twer=Kalinin.personal.md|Twer=Kalinin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Twer=Kalinin.secret.md|Twer=Kalinin.secret]] 

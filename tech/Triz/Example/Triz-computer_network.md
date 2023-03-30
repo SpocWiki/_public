@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-merge-identical]]]
 
 Personal computers in a network
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-computer_network.md|Triz-computer_network]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-computer_network.internal.md|Triz-computer_network.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-computer_network.protect.md|Triz-computer_network.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-computer_network.private.md|Triz-computer_network.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-computer_network.personal.md|Triz-computer_network.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-computer_network.secret.md|Triz-computer_network.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Vandsburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Vandsburg.md|Vandsburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Vandsburg.internal.md|Vandsburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Vandsburg.protect.md|Vandsburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Vandsburg.private.md|Vandsburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Vandsburg.personal.md|Vandsburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Vandsburg.secret.md|Vandsburg.secret]] 

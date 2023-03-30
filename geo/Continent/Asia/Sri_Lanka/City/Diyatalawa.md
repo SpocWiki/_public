@@ -29,3 +29,12 @@ markerFile: [[Diyatalawa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.md|Diyatalawa]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.internal.md|Diyatalawa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.protect.md|Diyatalawa.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.private.md|Diyatalawa.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.personal.md|Diyatalawa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.secret.md|Diyatalawa.secret]] 

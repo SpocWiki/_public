@@ -29,3 +29,12 @@ markerFile: [[Kainsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kainsk.md|Kainsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kainsk.internal.md|Kainsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kainsk.protect.md|Kainsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kainsk.private.md|Kainsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kainsk.personal.md|Kainsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kainsk.secret.md|Kainsk.secret]] 

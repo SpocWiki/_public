@@ -29,3 +29,12 @@ markerFile: [[Antananarivo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/City/Antananarivo.md|Antananarivo]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/City/Antananarivo.internal.md|Antananarivo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/City/Antananarivo.protect.md|Antananarivo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/City/Antananarivo.private.md|Antananarivo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/City/Antananarivo.personal.md|Antananarivo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/City/Antananarivo.secret.md|Antananarivo.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Kingston_(Norfolkinsel)]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).md|Kingston_(Norfolkinsel)]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).internal.md|Kingston_(Norfolkinsel).internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).protect.md|Kingston_(Norfolkinsel).protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).private.md|Kingston_(Norfolkinsel).private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).personal.md|Kingston_(Norfolkinsel).personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).secret.md|Kingston_(Norfolkinsel).secret]] 

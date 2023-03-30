@@ -29,3 +29,12 @@ markerFile: [[Noldau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Noldau.md|Noldau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Noldau.internal.md|Noldau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Noldau.protect.md|Noldau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Noldau.private.md|Noldau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Noldau.personal.md|Noldau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Noldau.secret.md|Noldau.secret]] 

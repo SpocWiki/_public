@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_hiring_organization )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_hiring_organization.md|has_hiring_organization]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hiring_organization.internal.md|has_hiring_organization.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_hiring_organization.protect.md|has_hiring_organization.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_hiring_organization.private.md|has_hiring_organization.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_hiring_organization.personal.md|has_hiring_organization.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_hiring_organization.secret.md|has_hiring_organization.secret]] 

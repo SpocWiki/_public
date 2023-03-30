@@ -33,3 +33,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Arizona.md|Arizona]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Arizona.internal.md|Arizona.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Arizona.protect.md|Arizona.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Arizona.private.md|Arizona.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Arizona.personal.md|Arizona.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Arizona.secret.md|Arizona.secret]] 

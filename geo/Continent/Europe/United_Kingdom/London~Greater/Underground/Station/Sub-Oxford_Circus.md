@@ -29,3 +29,12 @@ markerFile: [[Sub-Oxford_Circus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oxford_Circus.md|Sub-Oxford_Circus]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oxford_Circus.internal.md|Sub-Oxford_Circus.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oxford_Circus.protect.md|Sub-Oxford_Circus.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oxford_Circus.private.md|Sub-Oxford_Circus.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oxford_Circus.personal.md|Sub-Oxford_Circus.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oxford_Circus.secret.md|Sub-Oxford_Circus.secret]] 

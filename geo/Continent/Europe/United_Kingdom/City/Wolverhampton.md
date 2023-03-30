@@ -29,3 +29,12 @@ markerFile: [[Wolverhampton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.md|Wolverhampton]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.internal.md|Wolverhampton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.protect.md|Wolverhampton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.private.md|Wolverhampton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.personal.md|Wolverhampton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.secret.md|Wolverhampton.secret]] 

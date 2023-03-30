@@ -28,3 +28,12 @@ markerFile: [[Uttenreuth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.md|Uttenreuth]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.internal.md|Uttenreuth.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.protect.md|Uttenreuth.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.private.md|Uttenreuth.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.personal.md|Uttenreuth.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.secret.md|Uttenreuth.secret]] 

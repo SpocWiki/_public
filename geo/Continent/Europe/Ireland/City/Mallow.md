@@ -29,3 +29,12 @@ markerFile: [[Mallow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Mallow.md|Mallow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Mallow.internal.md|Mallow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Mallow.protect.md|Mallow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Mallow.private.md|Mallow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Mallow.personal.md|Mallow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Mallow.secret.md|Mallow.secret]] 

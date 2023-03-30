@@ -29,3 +29,12 @@ markerFile: [[Krementschug]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Krementschug.md|Krementschug]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Krementschug.internal.md|Krementschug.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Krementschug.protect.md|Krementschug.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Krementschug.private.md|Krementschug.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Krementschug.personal.md|Krementschug.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Krementschug.secret.md|Krementschug.secret]] 

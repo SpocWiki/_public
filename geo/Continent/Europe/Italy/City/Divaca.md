@@ -29,3 +29,12 @@ markerFile: [[Divaca]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Divaca.md|Divaca]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Divaca.internal.md|Divaca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Divaca.protect.md|Divaca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Divaca.private.md|Divaca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Divaca.personal.md|Divaca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Divaca.secret.md|Divaca.secret]] 

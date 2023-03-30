@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Composite_materials]]]
 - [con::[[Triz-stationary_Duration]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.md|Triz-Temperature+Composite_materials-stationary_Duration]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.internal.md|Triz-Temperature+Composite_materials-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.protect.md|Triz-Temperature+Composite_materials-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.private.md|Triz-Temperature+Composite_materials-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.personal.md|Triz-Temperature+Composite_materials-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.secret.md|Triz-Temperature+Composite_materials-stationary_Duration.secret]] 

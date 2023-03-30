@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: recipient ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_bcc_recipient.md|has_bcc_recipient]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_bcc_recipient.internal.md|has_bcc_recipient.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_bcc_recipient.protect.md|has_bcc_recipient.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_bcc_recipient.private.md|has_bcc_recipient.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_bcc_recipient.personal.md|has_bcc_recipient.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_bcc_recipient.secret.md|has_bcc_recipient.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::Substance-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Extraction-Substance-Loss.md|Triz-Versatility+Extraction-Substance-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Extraction-Substance-Loss.internal.md|Triz-Versatility+Extraction-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Extraction-Substance-Loss.protect.md|Triz-Versatility+Extraction-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Extraction-Substance-Loss.private.md|Triz-Versatility+Extraction-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Extraction-Substance-Loss.personal.md|Triz-Versatility+Extraction-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Extraction-Substance-Loss.secret.md|Triz-Versatility+Extraction-Substance-Loss.secret]] 

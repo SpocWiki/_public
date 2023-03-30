@@ -36,3 +36,11 @@ SpocWebEntityId: 21977
 > Lead's toxicity became widely recognized in the late 19th century, although a number of well-educated ancient Greek and Roman writers were aware of this fact and even knew some of the symptoms of lead poisoning. Lead is a neurotoxin that accumulates in soft tissues and bones; it damages the nervous system and interferes with the function of biological enzymes, causing neurological disorders ranging from behavioral problems to brain damage, and also affects general health, cardiovascular, and renal systems.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lead)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-14-Carbon/Lead.md|Lead]] 
+- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Lead.internal.md|Lead.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Lead.protect.md|Lead.protect]] 
+- [[../../../../_private/chemic/Elements/Group-14-Carbon/Lead.private.md|Lead.private]] 
+- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Lead.personal.md|Lead.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Lead.secret.md|Lead.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Karlskrona]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Karlskrona.md|Karlskrona]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Karlskrona.internal.md|Karlskrona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Karlskrona.protect.md|Karlskrona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Karlskrona.private.md|Karlskrona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Karlskrona.personal.md|Karlskrona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Karlskrona.secret.md|Karlskrona.secret]] 

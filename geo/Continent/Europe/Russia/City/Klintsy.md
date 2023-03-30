@@ -29,3 +29,12 @@ markerFile: [[Klintsy]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Klintsy.md|Klintsy]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Klintsy.internal.md|Klintsy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Klintsy.protect.md|Klintsy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Klintsy.private.md|Klintsy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Klintsy.personal.md|Klintsy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Klintsy.secret.md|Klintsy.secret]] 

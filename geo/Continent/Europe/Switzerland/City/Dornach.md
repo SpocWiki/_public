@@ -29,3 +29,12 @@ markerFile: [[Dornach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Dornach.md|Dornach]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Dornach.internal.md|Dornach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Dornach.protect.md|Dornach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Dornach.private.md|Dornach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Dornach.personal.md|Dornach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Dornach.secret.md|Dornach.secret]] 

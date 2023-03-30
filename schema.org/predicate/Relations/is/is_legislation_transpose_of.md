@@ -48,3 +48,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: legislationApplies ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_legislation_transpose_of.md|is_legislation_transpose_of]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_transpose_of.internal.md|is_legislation_transpose_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_transpose_of.protect.md|is_legislation_transpose_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_transpose_of.private.md|is_legislation_transpose_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_legislation_transpose_of.personal.md|is_legislation_transpose_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_legislation_transpose_of.secret.md|is_legislation_transpose_of.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Alost]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Alost.md|Alost]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Alost.internal.md|Alost.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Alost.protect.md|Alost.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Alost.private.md|Alost.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Alost.personal.md|Alost.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Alost.secret.md|Alost.secret]] 

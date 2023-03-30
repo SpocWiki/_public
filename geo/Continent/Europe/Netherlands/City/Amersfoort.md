@@ -29,3 +29,12 @@ markerFile: [[Amersfoort]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Amersfoort.md|Amersfoort]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Amersfoort.internal.md|Amersfoort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Amersfoort.protect.md|Amersfoort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Amersfoort.private.md|Amersfoort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Amersfoort.personal.md|Amersfoort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Amersfoort.secret.md|Amersfoort.secret]] 

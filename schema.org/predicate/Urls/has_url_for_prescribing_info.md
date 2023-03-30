@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_prescribing_info )
 ( #has_/range :: URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_prescribing_info.md|has_url_for_prescribing_info]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_prescribing_info.internal.md|has_url_for_prescribing_info.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_prescribing_info.protect.md|has_url_for_prescribing_info.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_prescribing_info.private.md|has_url_for_prescribing_info.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_prescribing_info.personal.md|has_url_for_prescribing_info.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_prescribing_info.secret.md|has_url_for_prescribing_info.secret]] 

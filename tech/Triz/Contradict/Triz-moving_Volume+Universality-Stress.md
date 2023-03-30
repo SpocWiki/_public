@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.md|Triz-moving_Volume+Universality-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.internal.md|Triz-moving_Volume+Universality-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.protect.md|Triz-moving_Volume+Universality-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.private.md|Triz-moving_Volume+Universality-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.personal.md|Triz-moving_Volume+Universality-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.secret.md|Triz-moving_Volume+Universality-Stress.secret]] 

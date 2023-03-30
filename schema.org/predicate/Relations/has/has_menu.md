@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_menu )
 ( #has_/range :: Menu, Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_menu.md|has_menu]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_menu.internal.md|has_menu.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_menu.protect.md|has_menu.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_menu.private.md|has_menu.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_menu.personal.md|has_menu.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_menu.secret.md|has_menu.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Woltschansk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Woltschansk.md|Woltschansk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Woltschansk.internal.md|Woltschansk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Woltschansk.protect.md|Woltschansk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Woltschansk.private.md|Woltschansk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Woltschansk.personal.md|Woltschansk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Woltschansk.secret.md|Woltschansk.secret]] 

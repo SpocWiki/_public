@@ -25,3 +25,13 @@ tags:
 [ZodiacId::28096]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Adhara.md|Adhara]] 
+- [[../../../_internal/astro/Star/Adhara.internal.md|Adhara.internal]] 
+- [[../../../_protect/astro/Star/Adhara.protect.md|Adhara.protect]] 
+- [[../../../_private/astro/Star/Adhara.private.md|Adhara.private]] 
+- [[../../../_personal/astro/Star/Adhara.personal.md|Adhara.personal]] 
+- [[../../../_secret/astro/Star/Adhara.secret.md|Adhara.secret]]
+

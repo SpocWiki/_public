@@ -29,3 +29,12 @@ markerFile: [[Viesti]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Viesti.md|Viesti]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Viesti.internal.md|Viesti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Viesti.protect.md|Viesti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Viesti.private.md|Viesti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Viesti.personal.md|Viesti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Viesti.secret.md|Viesti.secret]] 

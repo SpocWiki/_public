@@ -29,3 +29,12 @@ markerFile: [[Rathgar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Rathgar.md|Rathgar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Rathgar.internal.md|Rathgar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Rathgar.protect.md|Rathgar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Rathgar.private.md|Rathgar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Rathgar.personal.md|Rathgar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Rathgar.secret.md|Rathgar.secret]] 

@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28105]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Circini-4.md|Circini-4]] 
+- [[../../../_internal/astro/Star/Circini-4.internal.md|Circini-4.internal]] 
+- [[../../../_protect/astro/Star/Circini-4.protect.md|Circini-4.protect]] 
+- [[../../../_private/astro/Star/Circini-4.private.md|Circini-4.private]] 
+- [[../../../_personal/astro/Star/Circini-4.personal.md|Circini-4.personal]] 
+- [[../../../_secret/astro/Star/Circini-4.secret.md|Circini-4.secret]]
+

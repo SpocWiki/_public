@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28113]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/P_Cygni.md|P_Cygni]] 
+- [[../../../_internal/astro/Star/P_Cygni.internal.md|P_Cygni.internal]] 
+- [[../../../_protect/astro/Star/P_Cygni.protect.md|P_Cygni.protect]] 
+- [[../../../_private/astro/Star/P_Cygni.private.md|P_Cygni.private]] 
+- [[../../../_personal/astro/Star/P_Cygni.personal.md|P_Cygni.personal]] 
+- [[../../../_secret/astro/Star/P_Cygni.secret.md|P_Cygni.secret]] 

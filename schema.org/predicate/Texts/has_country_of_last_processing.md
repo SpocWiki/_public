@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_country_of_last_processing )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_country_of_last_processing.md|has_country_of_last_processing]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_country_of_last_processing.internal.md|has_country_of_last_processing.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_country_of_last_processing.protect.md|has_country_of_last_processing.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_country_of_last_processing.private.md|has_country_of_last_processing.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_country_of_last_processing.personal.md|has_country_of_last_processing.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_country_of_last_processing.secret.md|has_country_of_last_processing.secret]] 

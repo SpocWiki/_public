@@ -29,3 +29,12 @@ markerFile: [[Trebiste]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Trebiste.md|Trebiste]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Trebiste.internal.md|Trebiste.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Trebiste.protect.md|Trebiste.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Trebiste.private.md|Trebiste.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Trebiste.personal.md|Trebiste.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Trebiste.secret.md|Trebiste.secret]] 

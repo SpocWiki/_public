@@ -29,3 +29,12 @@ markerFile: [[Mynaenaeki]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Mynaenaeki.md|Mynaenaeki]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Mynaenaeki.internal.md|Mynaenaeki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Mynaenaeki.protect.md|Mynaenaeki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Mynaenaeki.private.md|Mynaenaeki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Mynaenaeki.personal.md|Mynaenaeki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Mynaenaeki.secret.md|Mynaenaeki.secret]] 

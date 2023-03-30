@@ -29,3 +29,12 @@ markerFile: [[Suorva]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Suorva.md|Suorva]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Suorva.internal.md|Suorva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Suorva.protect.md|Suorva.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Suorva.private.md|Suorva.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Suorva.personal.md|Suorva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Suorva.secret.md|Suorva.secret]] 

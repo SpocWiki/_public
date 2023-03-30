@@ -29,3 +29,12 @@ markerFile: [[Vichten]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Vichten.md|Vichten]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Vichten.internal.md|Vichten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Vichten.protect.md|Vichten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Vichten.private.md|Vichten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Vichten.personal.md|Vichten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Vichten.secret.md|Vichten.secret]] 

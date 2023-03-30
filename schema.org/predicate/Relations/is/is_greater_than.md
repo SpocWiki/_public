@@ -43,3 +43,12 @@ Relation describes that:
 [ #is_/complement_of :: [[is_lesser_or_equal_to]]] 
 
 [ #is_/inverse_of :: [[is_lesser_than]]] 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_greater_than.md|is_greater_than]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_greater_than.internal.md|is_greater_than.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_greater_than.protect.md|is_greater_than.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_greater_than.private.md|is_greater_than.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_greater_than.personal.md|is_greater_than.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_greater_than.secret.md|is_greater_than.secret]] 

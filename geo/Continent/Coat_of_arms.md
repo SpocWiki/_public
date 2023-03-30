@@ -3,3 +3,12 @@ Cities, States and Countries often feature Flags and Coats of Arms to symbolize 
 Unless otherwise indicated, we use [[File-Format~SVG]] images from the [[WikiMedia]] Commons Collections which are typically released freely to the public. 
 The naming is largely consistent: Flag_of_* and Coat_of_arms_of_*
 The same holds for Flags. 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/geo/Continent/Coat_of_arms.md|Coat_of_arms]] 
+- [[../../../_internal/geo/Continent/Coat_of_arms.internal.md|Coat_of_arms.internal]] 
+- [[../../../_protect/geo/Continent/Coat_of_arms.protect.md|Coat_of_arms.protect]] 
+- [[../../../_private/geo/Continent/Coat_of_arms.private.md|Coat_of_arms.private]] 
+- [[../../../_personal/geo/Continent/Coat_of_arms.personal.md|Coat_of_arms.personal]] 
+- [[../../../_secret/geo/Continent/Coat_of_arms.secret.md|Coat_of_arms.secret]] 

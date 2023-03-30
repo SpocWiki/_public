@@ -29,3 +29,12 @@ markerFile: [[Drogheda]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Drogheda.md|Drogheda]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Drogheda.internal.md|Drogheda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Drogheda.protect.md|Drogheda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Drogheda.private.md|Drogheda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Drogheda.personal.md|Drogheda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Drogheda.secret.md|Drogheda.secret]] 

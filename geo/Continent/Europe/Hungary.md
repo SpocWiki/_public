@@ -127,3 +127,12 @@ markerFolder: ./Hungary/City
 [geo-lon::19.1508]
 [geo-lat::47.2796]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Hungary.md|Hungary]] 
+- [[../../../../_internal/geo/Continent/Europe/Hungary.internal.md|Hungary.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Hungary.protect.md|Hungary.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Hungary.private.md|Hungary.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Hungary.personal.md|Hungary.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Hungary.secret.md|Hungary.secret]] 

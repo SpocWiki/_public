@@ -43,3 +43,12 @@ Any physical activity engaged in for job-related purposes. Examples may include 
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.md|occupational_activity]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.internal.md|occupational_activity.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.protect.md|occupational_activity.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.private.md|occupational_activity.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.personal.md|occupational_activity.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.secret.md|occupational_activity.secret]] 

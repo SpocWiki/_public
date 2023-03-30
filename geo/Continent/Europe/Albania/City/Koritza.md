@@ -29,3 +29,12 @@ markerFile: [[Koritza]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Koritza.md|Koritza]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Koritza.internal.md|Koritza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Koritza.protect.md|Koritza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Koritza.private.md|Koritza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Koritza.personal.md|Koritza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Koritza.secret.md|Koritza.secret]] 

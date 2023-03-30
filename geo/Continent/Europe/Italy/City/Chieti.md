@@ -29,3 +29,12 @@ markerFile: [[Chieti]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Chieti.md|Chieti]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Chieti.internal.md|Chieti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Chieti.protect.md|Chieti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Chieti.private.md|Chieti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Chieti.personal.md|Chieti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Chieti.secret.md|Chieti.secret]] 

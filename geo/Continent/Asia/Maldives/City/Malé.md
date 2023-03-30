@@ -29,3 +29,12 @@ markerFile: [[Malé]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Maldives/City/Malé.md|Malé]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Maldives/City/Malé.internal.md|Malé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Maldives/City/Malé.protect.md|Malé.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Maldives/City/Malé.private.md|Malé.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Maldives/City/Malé.personal.md|Malé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Maldives/City/Malé.secret.md|Malé.secret]] 

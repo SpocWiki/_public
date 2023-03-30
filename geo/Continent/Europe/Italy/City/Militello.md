@@ -29,3 +29,12 @@ markerFile: [[Militello]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Militello.md|Militello]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Militello.internal.md|Militello.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Militello.protect.md|Militello.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Militello.private.md|Militello.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Militello.personal.md|Militello.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Militello.secret.md|Militello.secret]] 

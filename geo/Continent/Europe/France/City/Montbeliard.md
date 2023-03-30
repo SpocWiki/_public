@@ -29,3 +29,12 @@ markerFile: [[Montbeliard]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Montbeliard.md|Montbeliard]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montbeliard.internal.md|Montbeliard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montbeliard.protect.md|Montbeliard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montbeliard.private.md|Montbeliard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montbeliard.personal.md|Montbeliard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montbeliard.secret.md|Montbeliard.secret]] 

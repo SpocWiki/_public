@@ -29,3 +29,12 @@ markerFile: [[Kreuzlingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Kreuzlingen.md|Kreuzlingen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Kreuzlingen.internal.md|Kreuzlingen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Kreuzlingen.protect.md|Kreuzlingen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Kreuzlingen.private.md|Kreuzlingen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Kreuzlingen.personal.md|Kreuzlingen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Kreuzlingen.secret.md|Kreuzlingen.secret]] 

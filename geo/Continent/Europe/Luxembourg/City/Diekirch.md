@@ -29,3 +29,12 @@ markerFile: [[Diekirch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Diekirch.md|Diekirch]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Diekirch.internal.md|Diekirch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Diekirch.protect.md|Diekirch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Diekirch.private.md|Diekirch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Diekirch.personal.md|Diekirch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Diekirch.secret.md|Diekirch.secret]] 

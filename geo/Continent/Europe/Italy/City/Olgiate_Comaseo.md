@@ -29,3 +29,12 @@ markerFile: [[Olgiate_Comaseo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.md|Olgiate_Comaseo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.internal.md|Olgiate_Comaseo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.protect.md|Olgiate_Comaseo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.private.md|Olgiate_Comaseo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.personal.md|Olgiate_Comaseo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.secret.md|Olgiate_Comaseo.secret]] 

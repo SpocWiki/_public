@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stress.md|Triz-Speed+Mechanical_vibration-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stress.internal.md|Triz-Speed+Mechanical_vibration-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stress.protect.md|Triz-Speed+Mechanical_vibration-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stress.private.md|Triz-Speed+Mechanical_vibration-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stress.personal.md|Triz-Speed+Mechanical_vibration-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stress.secret.md|Triz-Speed+Mechanical_vibration-Stress.secret]] 

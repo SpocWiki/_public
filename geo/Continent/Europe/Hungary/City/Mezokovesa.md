@@ -29,3 +29,12 @@ markerFile: [[Mezokovesa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Mezokovesa.md|Mezokovesa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Mezokovesa.internal.md|Mezokovesa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Mezokovesa.protect.md|Mezokovesa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Mezokovesa.private.md|Mezokovesa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Mezokovesa.personal.md|Mezokovesa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Mezokovesa.secret.md|Mezokovesa.secret]] 

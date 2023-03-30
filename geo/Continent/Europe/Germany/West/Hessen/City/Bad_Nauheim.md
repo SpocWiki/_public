@@ -28,3 +28,12 @@ markerFile: [[Bad_Nauheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.md|Bad_Nauheim]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.internal.md|Bad_Nauheim.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.protect.md|Bad_Nauheim.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.private.md|Bad_Nauheim.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.personal.md|Bad_Nauheim.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.secret.md|Bad_Nauheim.secret]] 

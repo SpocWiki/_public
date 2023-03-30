@@ -29,3 +29,12 @@ markerFile: [[Valence]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Valence.md|Valence]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Valence.internal.md|Valence.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Valence.protect.md|Valence.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Valence.private.md|Valence.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Valence.personal.md|Valence.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Valence.secret.md|Valence.secret]] 

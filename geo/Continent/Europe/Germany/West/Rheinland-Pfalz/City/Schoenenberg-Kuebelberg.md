@@ -28,3 +28,12 @@ markerFile: [[Schoenenberg-Kuebelberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.md|Schoenenberg-Kuebelberg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.internal.md|Schoenenberg-Kuebelberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.protect.md|Schoenenberg-Kuebelberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.private.md|Schoenenberg-Kuebelberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.personal.md|Schoenenberg-Kuebelberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.secret.md|Schoenenberg-Kuebelberg.secret]] 

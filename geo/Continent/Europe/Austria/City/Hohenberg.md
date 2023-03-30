@@ -29,3 +29,12 @@ markerFile: [[Hohenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hohenberg.md|Hohenberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hohenberg.internal.md|Hohenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hohenberg.protect.md|Hohenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hohenberg.private.md|Hohenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hohenberg.personal.md|Hohenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hohenberg.secret.md|Hohenberg.secret]] 

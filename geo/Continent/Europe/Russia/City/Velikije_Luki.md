@@ -29,3 +29,12 @@ markerFile: [[Velikije_Luki]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Velikije_Luki.md|Velikije_Luki]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Velikije_Luki.internal.md|Velikije_Luki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Velikije_Luki.protect.md|Velikije_Luki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Velikije_Luki.private.md|Velikije_Luki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Velikije_Luki.personal.md|Velikije_Luki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Velikije_Luki.secret.md|Velikije_Luki.secret]] 

@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_audience_type )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_audience_type.md|has_audience_type]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_audience_type.internal.md|has_audience_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_audience_type.protect.md|has_audience_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_audience_type.private.md|has_audience_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_audience_type.personal.md|has_audience_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_audience_type.secret.md|has_audience_type.secret]] 

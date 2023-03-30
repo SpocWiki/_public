@@ -29,3 +29,12 @@ markerFile: [[Tscheidyn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tscheidyn.md|Tscheidyn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tscheidyn.internal.md|Tscheidyn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tscheidyn.protect.md|Tscheidyn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tscheidyn.private.md|Tscheidyn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tscheidyn.personal.md|Tscheidyn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tscheidyn.secret.md|Tscheidyn.secret]] 

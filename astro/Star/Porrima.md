@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28168]
 [NextStarId::27702]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Porrima.md|Porrima]] 
+- [[../../../_internal/astro/Star/Porrima.internal.md|Porrima.internal]] 
+- [[../../../_protect/astro/Star/Porrima.protect.md|Porrima.protect]] 
+- [[../../../_private/astro/Star/Porrima.private.md|Porrima.private]] 
+- [[../../../_personal/astro/Star/Porrima.personal.md|Porrima.personal]] 
+- [[../../../_secret/astro/Star/Porrima.secret.md|Porrima.secret]] 

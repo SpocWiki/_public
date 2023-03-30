@@ -29,3 +29,12 @@ markerFile: [[Burton-upon-Trent]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.md|Burton-upon-Trent]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.internal.md|Burton-upon-Trent.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.protect.md|Burton-upon-Trent.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.private.md|Burton-upon-Trent.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.personal.md|Burton-upon-Trent.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.secret.md|Burton-upon-Trent.secret]] 

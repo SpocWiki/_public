@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_authenticator )
 ( #has_/range :: Organization )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_authenticator.md|has_authenticator]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_authenticator.internal.md|has_authenticator.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_authenticator.protect.md|has_authenticator.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_authenticator.private.md|has_authenticator.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_authenticator.personal.md|has_authenticator.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_authenticator.secret.md|has_authenticator.secret]] 

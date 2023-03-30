@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_end_offset )
 ( #has_/range :: HyperTocEntry, Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_end_offset.md|has_end_offset]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_end_offset.internal.md|has_end_offset.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_end_offset.protect.md|has_end_offset.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_end_offset.private.md|has_end_offset.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_end_offset.personal.md|has_end_offset.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_end_offset.secret.md|has_end_offset.secret]] 

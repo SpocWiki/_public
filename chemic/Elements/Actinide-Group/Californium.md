@@ -29,3 +29,12 @@ SpocWebEntityId: 21993
 []
 (Charge-e::98)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Actinide-Group/Californium.md|Californium]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Californium.internal.md|Californium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Californium.protect.md|Californium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Californium.private.md|Californium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Californium.personal.md|Californium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Californium.secret.md|Californium.secret]] 

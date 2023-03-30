@@ -29,3 +29,12 @@ markerFile: [[Rhayader]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Rhayader.md|Rhayader]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Rhayader.internal.md|Rhayader.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Rhayader.protect.md|Rhayader.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Rhayader.private.md|Rhayader.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Rhayader.personal.md|Rhayader.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Rhayader.secret.md|Rhayader.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Grunau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Grunau.md|Grunau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grunau.internal.md|Grunau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grunau.protect.md|Grunau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grunau.private.md|Grunau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grunau.personal.md|Grunau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grunau.secret.md|Grunau.secret]] 

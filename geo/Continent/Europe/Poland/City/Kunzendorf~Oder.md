@@ -29,3 +29,12 @@ markerFile: [[Kunzendorf~Oder]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.md|Kunzendorf~Oder]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.internal.md|Kunzendorf~Oder.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.protect.md|Kunzendorf~Oder.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.private.md|Kunzendorf~Oder.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.personal.md|Kunzendorf~Oder.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.secret.md|Kunzendorf~Oder.secret]] 

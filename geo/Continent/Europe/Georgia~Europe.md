@@ -35,3 +35,12 @@ markerFolder: ./Georgia/City
 [geo-lon::44.7833]
 [geo-lat::41.7167]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Georgia~Europe.md|Georgia~Europe]] 
+- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe.internal.md|Georgia~Europe.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe.protect.md|Georgia~Europe.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Georgia~Europe.private.md|Georgia~Europe.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe.personal.md|Georgia~Europe.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe.secret.md|Georgia~Europe.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Komotau=Chomutov]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.md|Komotau=Chomutov]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.internal.md|Komotau=Chomutov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.protect.md|Komotau=Chomutov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.private.md|Komotau=Chomutov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.personal.md|Komotau=Chomutov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.secret.md|Komotau=Chomutov.secret]] 

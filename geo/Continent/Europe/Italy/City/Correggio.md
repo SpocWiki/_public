@@ -29,3 +29,12 @@ markerFile: [[Correggio]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Correggio.md|Correggio]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Correggio.internal.md|Correggio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Correggio.protect.md|Correggio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Correggio.private.md|Correggio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Correggio.personal.md|Correggio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Correggio.secret.md|Correggio.secret]] 

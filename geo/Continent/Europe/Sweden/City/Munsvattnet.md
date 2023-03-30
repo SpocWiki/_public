@@ -29,3 +29,12 @@ markerFile: [[Munsvattnet]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Munsvattnet.md|Munsvattnet]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Munsvattnet.internal.md|Munsvattnet.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Munsvattnet.protect.md|Munsvattnet.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Munsvattnet.private.md|Munsvattnet.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Munsvattnet.personal.md|Munsvattnet.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Munsvattnet.secret.md|Munsvattnet.secret]] 

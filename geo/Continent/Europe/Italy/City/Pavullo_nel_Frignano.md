@@ -29,3 +29,12 @@ markerFile: [[Pavullo_nel_Frignano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.md|Pavullo_nel_Frignano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.internal.md|Pavullo_nel_Frignano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.protect.md|Pavullo_nel_Frignano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.private.md|Pavullo_nel_Frignano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.personal.md|Pavullo_nel_Frignano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pavullo_nel_Frignano.secret.md|Pavullo_nel_Frignano.secret]] 

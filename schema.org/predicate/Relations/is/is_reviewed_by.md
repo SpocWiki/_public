@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_reviewed_by )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_reviewed_by.md|is_reviewed_by]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_reviewed_by.internal.md|is_reviewed_by.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_reviewed_by.protect.md|is_reviewed_by.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_reviewed_by.private.md|is_reviewed_by.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_reviewed_by.personal.md|is_reviewed_by.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_reviewed_by.secret.md|is_reviewed_by.secret]] 

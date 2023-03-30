@@ -29,3 +29,12 @@ markerFile: [[Hammerstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hammerstein.md|Hammerstein]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hammerstein.internal.md|Hammerstein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hammerstein.protect.md|Hammerstein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hammerstein.private.md|Hammerstein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hammerstein.personal.md|Hammerstein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hammerstein.secret.md|Hammerstein.secret]] 

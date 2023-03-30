@@ -128,3 +128,12 @@ markerFolder: ./Iraq/City
 [geo-lon::44.42]
 [geo-lat::33.34]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Iraq.md|Iraq]] 
+- [[../../../../_internal/geo/Continent/Asia/Iraq.internal.md|Iraq.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Iraq.protect.md|Iraq.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Iraq.private.md|Iraq.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Iraq.personal.md|Iraq.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Iraq.secret.md|Iraq.secret]] 

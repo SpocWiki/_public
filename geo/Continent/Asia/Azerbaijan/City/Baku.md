@@ -29,3 +29,12 @@ markerFile: [[Baku]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Azerbaijan/City/Baku.md|Baku]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Azerbaijan/City/Baku.internal.md|Baku.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Azerbaijan/City/Baku.protect.md|Baku.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Azerbaijan/City/Baku.private.md|Baku.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Azerbaijan/City/Baku.personal.md|Baku.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Azerbaijan/City/Baku.secret.md|Baku.secret]] 

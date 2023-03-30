@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Speed]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.md|Triz-Strength+Inversion-Speed]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.internal.md|Triz-Strength+Inversion-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.protect.md|Triz-Strength+Inversion-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.private.md|Triz-Strength+Inversion-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.personal.md|Triz-Strength+Inversion-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.secret.md|Triz-Strength+Inversion-Speed.secret]] 

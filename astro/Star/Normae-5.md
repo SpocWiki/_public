@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28139]
 [NextStarId::27780]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Normae-5.md|Normae-5]] 
+- [[../../../_internal/astro/Star/Normae-5.internal.md|Normae-5.internal]] 
+- [[../../../_protect/astro/Star/Normae-5.protect.md|Normae-5.protect]] 
+- [[../../../_private/astro/Star/Normae-5.private.md|Normae-5.private]] 
+- [[../../../_personal/astro/Star/Normae-5.personal.md|Normae-5.personal]] 
+- [[../../../_secret/astro/Star/Normae-5.secret.md|Normae-5.secret]] 

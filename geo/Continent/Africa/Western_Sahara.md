@@ -124,3 +124,12 @@ markerFolder: ./Western_Sahara/City
 [geo-lon::-13.2033]
 [geo-lat::27.1536]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Western_Sahara.md|Western_Sahara]] 
+- [[../../../../_internal/geo/Continent/Africa/Western_Sahara.internal.md|Western_Sahara.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Western_Sahara.protect.md|Western_Sahara.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Western_Sahara.private.md|Western_Sahara.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Western_Sahara.personal.md|Western_Sahara.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Western_Sahara.secret.md|Western_Sahara.secret]] 

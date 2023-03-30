@@ -126,3 +126,12 @@ markerFolder: ./British_Virgin_Islands/City
 [geo-lon::-64.62305]
 [geo-lat::18.4314]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/British_Virgin~Islands.md|British_Virgin~Islands]] 
+- [[../../../../_internal/geo/Continent/South-America/British_Virgin~Islands.internal.md|British_Virgin~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/British_Virgin~Islands.protect.md|British_Virgin~Islands.protect]] 
+- [[../../../../_private/geo/Continent/South-America/British_Virgin~Islands.private.md|British_Virgin~Islands.private]] 
+- [[../../../../_personal/geo/Continent/South-America/British_Virgin~Islands.personal.md|British_Virgin~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/British_Virgin~Islands.secret.md|British_Virgin~Islands.secret]] 

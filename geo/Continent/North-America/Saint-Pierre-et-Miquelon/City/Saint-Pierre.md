@@ -29,3 +29,12 @@ markerFile: [[Saint-Pierre]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.md|Saint-Pierre]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.internal.md|Saint-Pierre.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.protect.md|Saint-Pierre.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.private.md|Saint-Pierre.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.personal.md|Saint-Pierre.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.secret.md|Saint-Pierre.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Feedback]]]
 - [con::[[Triz-Stability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.md|Triz-stationary_Duration+Feedback-Stability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.internal.md|Triz-stationary_Duration+Feedback-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.protect.md|Triz-stationary_Duration+Feedback-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.private.md|Triz-stationary_Duration+Feedback-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.personal.md|Triz-stationary_Duration+Feedback-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.secret.md|Triz-stationary_Duration+Feedback-Stability.secret]] 

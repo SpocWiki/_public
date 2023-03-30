@@ -29,3 +29,12 @@ markerFile: [[Vaettis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Vaettis.md|Vaettis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Vaettis.internal.md|Vaettis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Vaettis.protect.md|Vaettis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Vaettis.private.md|Vaettis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Vaettis.personal.md|Vaettis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Vaettis.secret.md|Vaettis.secret]] 

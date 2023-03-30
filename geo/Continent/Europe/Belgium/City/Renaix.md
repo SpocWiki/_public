@@ -29,3 +29,12 @@ markerFile: [[Renaix]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Renaix.md|Renaix]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Renaix.internal.md|Renaix.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Renaix.protect.md|Renaix.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Renaix.private.md|Renaix.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Renaix.personal.md|Renaix.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Renaix.secret.md|Renaix.secret]] 

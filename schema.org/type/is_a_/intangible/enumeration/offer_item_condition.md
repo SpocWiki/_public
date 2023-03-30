@@ -39,3 +39,12 @@ A list of possible conditions for the item.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition.md|offer_item_condition]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition.internal.md|offer_item_condition.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition.protect.md|offer_item_condition.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition.private.md|offer_item_condition.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition.personal.md|offer_item_condition.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition.secret.md|offer_item_condition.secret]] 

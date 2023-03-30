@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28099]
 [NextStarId::27307]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Avoir.md|Avoir]] 
+- [[../../../_internal/astro/Star/Avoir.internal.md|Avoir.internal]] 
+- [[../../../_protect/astro/Star/Avoir.protect.md|Avoir.protect]] 
+- [[../../../_private/astro/Star/Avoir.private.md|Avoir.private]] 
+- [[../../../_personal/astro/Star/Avoir.personal.md|Avoir.personal]] 
+- [[../../../_secret/astro/Star/Avoir.secret.md|Avoir.secret]]
+

@@ -39,3 +39,12 @@ markerFolder: ./Saint_Lucia/City
 [geo-lon::-60.9833]
 [geo-lat::14.0333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Saint_Lucia.md|Saint_Lucia]] 
+- [[../../../../_internal/geo/Continent/South-America/Saint_Lucia.internal.md|Saint_Lucia.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Saint_Lucia.protect.md|Saint_Lucia.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Saint_Lucia.private.md|Saint_Lucia.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Saint_Lucia.personal.md|Saint_Lucia.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Saint_Lucia.secret.md|Saint_Lucia.secret]] 

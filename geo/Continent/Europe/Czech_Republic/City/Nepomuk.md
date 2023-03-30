@@ -29,3 +29,12 @@ markerFile: [[Nepomuk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Nepomuk.md|Nepomuk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Nepomuk.internal.md|Nepomuk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Nepomuk.protect.md|Nepomuk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Nepomuk.private.md|Nepomuk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Nepomuk.personal.md|Nepomuk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Nepomuk.secret.md|Nepomuk.secret]] 

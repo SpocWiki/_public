@@ -29,3 +29,12 @@ markerFile: [[Gerdauen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gerdauen.md|Gerdauen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gerdauen.internal.md|Gerdauen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gerdauen.protect.md|Gerdauen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gerdauen.private.md|Gerdauen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gerdauen.personal.md|Gerdauen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gerdauen.secret.md|Gerdauen.secret]] 

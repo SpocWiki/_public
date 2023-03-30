@@ -29,3 +29,12 @@ markerFile: [[Rambouiller]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Rambouiller.md|Rambouiller]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Rambouiller.internal.md|Rambouiller.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Rambouiller.protect.md|Rambouiller.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Rambouiller.private.md|Rambouiller.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Rambouiller.personal.md|Rambouiller.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Rambouiller.secret.md|Rambouiller.secret]] 

@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_file_format )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_file_format.md|has_file_format]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_file_format.internal.md|has_file_format.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_file_format.protect.md|has_file_format.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_file_format.private.md|has_file_format.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_file_format.personal.md|has_file_format.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_file_format.secret.md|has_file_format.secret]] 

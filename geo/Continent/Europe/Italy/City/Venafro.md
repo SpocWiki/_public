@@ -29,3 +29,12 @@ markerFile: [[Venafro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Venafro.md|Venafro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Venafro.internal.md|Venafro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Venafro.protect.md|Venafro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Venafro.private.md|Venafro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Venafro.personal.md|Venafro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Venafro.secret.md|Venafro.secret]] 

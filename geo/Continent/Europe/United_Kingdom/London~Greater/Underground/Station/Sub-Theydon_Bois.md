@@ -29,3 +29,12 @@ markerFile: [[Sub-Theydon_Bois]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.md|Sub-Theydon_Bois]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.internal.md|Sub-Theydon_Bois.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.protect.md|Sub-Theydon_Bois.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.private.md|Sub-Theydon_Bois.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.personal.md|Sub-Theydon_Bois.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.secret.md|Sub-Theydon_Bois.secret]] 

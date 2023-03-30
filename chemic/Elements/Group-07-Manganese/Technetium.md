@@ -32,3 +32,12 @@ SpocWebEntityId: 21941
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Technetium)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-07-Manganese/Technetium.md|Technetium]] 
+- [[../../../../_internal/chemic/Elements/Group-07-Manganese/Technetium.internal.md|Technetium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-07-Manganese/Technetium.protect.md|Technetium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-07-Manganese/Technetium.private.md|Technetium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-07-Manganese/Technetium.personal.md|Technetium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-07-Manganese/Technetium.secret.md|Technetium.secret]] 

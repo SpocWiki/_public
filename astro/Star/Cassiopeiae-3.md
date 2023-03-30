@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28100]
 [NextStarId::27338]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Cassiopeiae-3.md|Cassiopeiae-3]] 
+- [[../../../_internal/astro/Star/Cassiopeiae-3.internal.md|Cassiopeiae-3.internal]] 
+- [[../../../_protect/astro/Star/Cassiopeiae-3.protect.md|Cassiopeiae-3.protect]] 
+- [[../../../_private/astro/Star/Cassiopeiae-3.private.md|Cassiopeiae-3.private]] 
+- [[../../../_personal/astro/Star/Cassiopeiae-3.personal.md|Cassiopeiae-3.personal]] 
+- [[../../../_secret/astro/Star/Cassiopeiae-3.secret.md|Cassiopeiae-3.secret]]
+

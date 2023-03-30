@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
 - [con::[[Triz-Versatility]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.internal.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.protect.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.private.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.personal.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.secret.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.secret]] 

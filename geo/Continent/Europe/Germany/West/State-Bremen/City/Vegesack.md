@@ -28,3 +28,12 @@ markerFile: [[Vegesack]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.md|Vegesack]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.internal.md|Vegesack.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.protect.md|Vegesack.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.private.md|Vegesack.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.personal.md|Vegesack.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.secret.md|Vegesack.secret]] 

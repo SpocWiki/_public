@@ -122,3 +122,12 @@ markerFolder: ./Bermuda/City
 [geo-lon::]
 [geo-lat::32.3]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/North-America/Bermuda.md|Bermuda]] 
+- [[../../../../_internal/geo/Continent/North-America/Bermuda.internal.md|Bermuda.internal]] 
+- [[../../../../_protect/geo/Continent/North-America/Bermuda.protect.md|Bermuda.protect]] 
+- [[../../../../_private/geo/Continent/North-America/Bermuda.private.md|Bermuda.private]] 
+- [[../../../../_personal/geo/Continent/North-America/Bermuda.personal.md|Bermuda.personal]] 
+- [[../../../../_secret/geo/Continent/North-America/Bermuda.secret.md|Bermuda.secret]] 

@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_page_end )
 ( #has_/range :: Integer, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_page_end.md|has_number_of_page_end]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_page_end.internal.md|has_number_of_page_end.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_page_end.protect.md|has_number_of_page_end.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_page_end.private.md|has_number_of_page_end.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_page_end.personal.md|has_number_of_page_end.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_page_end.secret.md|has_number_of_page_end.secret]] 

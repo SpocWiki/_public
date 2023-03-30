@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::27858]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Homam.md|Homam]] 
+- [[../../../_internal/astro/Star/Homam.internal.md|Homam.internal]] 
+- [[../../../_protect/astro/Star/Homam.protect.md|Homam.protect]] 
+- [[../../../_private/astro/Star/Homam.private.md|Homam.private]] 
+- [[../../../_personal/astro/Star/Homam.personal.md|Homam.personal]] 
+- [[../../../_secret/astro/Star/Homam.secret.md|Homam.secret]]
+

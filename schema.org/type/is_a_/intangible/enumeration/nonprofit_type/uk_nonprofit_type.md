@@ -41,3 +41,12 @@ UKNonprofitType: Non-profit organization type originating from the United Kingdo
 
 [ #is_/sub_class_of :: [[../NonprofitType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.md|uk_nonprofit_type]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.internal.md|uk_nonprofit_type.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.protect.md|uk_nonprofit_type.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.private.md|uk_nonprofit_type.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.personal.md|uk_nonprofit_type.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.secret.md|uk_nonprofit_type.secret]] 

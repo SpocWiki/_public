@@ -29,3 +29,12 @@ markerFile: [[Dhaka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Bangladesh/City/Dhaka.md|Dhaka]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Bangladesh/City/Dhaka.internal.md|Dhaka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Bangladesh/City/Dhaka.protect.md|Dhaka.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Bangladesh/City/Dhaka.private.md|Dhaka.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Bangladesh/City/Dhaka.personal.md|Dhaka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Bangladesh/City/Dhaka.secret.md|Dhaka.secret]] 

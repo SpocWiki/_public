@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_branch_code )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_branch_code.md|has_branch_code]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_branch_code.internal.md|has_branch_code.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_branch_code.protect.md|has_branch_code.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_branch_code.private.md|has_branch_code.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_branch_code.personal.md|has_branch_code.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_branch_code.secret.md|has_branch_code.secret]] 

@@ -50,3 +50,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_rating_value )
 ( #has_/range :: Number, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_rating_value.md|has_value_for_rating_value]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_rating_value.internal.md|has_value_for_rating_value.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_rating_value.protect.md|has_value_for_rating_value.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_rating_value.private.md|has_value_for_rating_value.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_rating_value.personal.md|has_value_for_rating_value.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_rating_value.secret.md|has_value_for_rating_value.secret]] 

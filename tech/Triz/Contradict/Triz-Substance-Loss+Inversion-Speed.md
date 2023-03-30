@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Speed]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.md|Triz-Substance-Loss+Inversion-Speed]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.internal.md|Triz-Substance-Loss+Inversion-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.protect.md|Triz-Substance-Loss+Inversion-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.private.md|Triz-Substance-Loss+Inversion-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.personal.md|Triz-Substance-Loss+Inversion-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.secret.md|Triz-Substance-Loss+Inversion-Speed.secret]] 

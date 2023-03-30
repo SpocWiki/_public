@@ -28,3 +28,12 @@ markerFile: [[Merced]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Merced.md|Merced]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Merced.internal.md|Merced.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Merced.protect.md|Merced.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Merced.private.md|Merced.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Merced.personal.md|Merced.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Merced.secret.md|Merced.secret]] 

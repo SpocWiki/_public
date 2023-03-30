@@ -29,3 +29,12 @@ markerFile: [[Praia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/City/Praia.md|Praia]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/City/Praia.internal.md|Praia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/City/Praia.protect.md|Praia.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/City/Praia.private.md|Praia.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/City/Praia.personal.md|Praia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/City/Praia.secret.md|Praia.secret]] 

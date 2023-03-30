@@ -29,3 +29,12 @@ markerFile: [[Judenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Judenburg.md|Judenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Judenburg.internal.md|Judenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Judenburg.protect.md|Judenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Judenburg.private.md|Judenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Judenburg.personal.md|Judenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Judenburg.secret.md|Judenburg.secret]] 

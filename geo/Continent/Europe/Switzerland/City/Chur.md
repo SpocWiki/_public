@@ -29,3 +29,12 @@ markerFile: [[Chur]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chur.md|Chur]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chur.internal.md|Chur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chur.protect.md|Chur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chur.private.md|Chur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chur.personal.md|Chur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chur.secret.md|Chur.secret]] 

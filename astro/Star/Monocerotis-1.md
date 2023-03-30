@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28137]
 [NextStarId::27850]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Monocerotis-1.md|Monocerotis-1]] 
+- [[../../../_internal/astro/Star/Monocerotis-1.internal.md|Monocerotis-1.internal]] 
+- [[../../../_protect/astro/Star/Monocerotis-1.protect.md|Monocerotis-1.protect]] 
+- [[../../../_private/astro/Star/Monocerotis-1.private.md|Monocerotis-1.private]] 
+- [[../../../_personal/astro/Star/Monocerotis-1.personal.md|Monocerotis-1.personal]] 
+- [[../../../_secret/astro/Star/Monocerotis-1.secret.md|Monocerotis-1.secret]] 

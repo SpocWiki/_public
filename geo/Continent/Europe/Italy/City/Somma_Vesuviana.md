@@ -29,3 +29,12 @@ markerFile: [[Somma_Vesuviana]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Somma_Vesuviana.md|Somma_Vesuviana]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Somma_Vesuviana.internal.md|Somma_Vesuviana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Somma_Vesuviana.protect.md|Somma_Vesuviana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Somma_Vesuviana.private.md|Somma_Vesuviana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Somma_Vesuviana.personal.md|Somma_Vesuviana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Somma_Vesuviana.secret.md|Somma_Vesuviana.secret]] 

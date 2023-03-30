@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::27552]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Tauri-14.md|Tauri-14]] 
+- [[../../../_internal/astro/Star/Tauri-14.internal.md|Tauri-14.internal]] 
+- [[../../../_protect/astro/Star/Tauri-14.protect.md|Tauri-14.protect]] 
+- [[../../../_private/astro/Star/Tauri-14.private.md|Tauri-14.private]] 
+- [[../../../_personal/astro/Star/Tauri-14.personal.md|Tauri-14.personal]] 
+- [[../../../_secret/astro/Star/Tauri-14.secret.md|Tauri-14.secret]] 

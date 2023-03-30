@@ -44,3 +44,12 @@ Relation describes that:
 ( #has_/name :: has_disease_spread_statistics )
 ( #has_/range :: Dataset, Observation, URL, WebContent )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_disease_spread_statistics.md|has_disease_spread_statistics]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_disease_spread_statistics.internal.md|has_disease_spread_statistics.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_disease_spread_statistics.protect.md|has_disease_spread_statistics.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_disease_spread_statistics.private.md|has_disease_spread_statistics.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_disease_spread_statistics.personal.md|has_disease_spread_statistics.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_disease_spread_statistics.secret.md|has_disease_spread_statistics.secret]] 

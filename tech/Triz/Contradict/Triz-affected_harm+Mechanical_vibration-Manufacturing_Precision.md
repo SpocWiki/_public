@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
 - [con::[[Triz-Manufacturing_Precision]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.md|Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.internal.md|Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.protect.md|Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.private.md|Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.personal.md|Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.secret.md|Triz-affected_harm+Mechanical_vibration-Manufacturing_Precision.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Razzolo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Razzolo.md|Razzolo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Razzolo.internal.md|Razzolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Razzolo.protect.md|Razzolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Razzolo.private.md|Razzolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Razzolo.personal.md|Razzolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Razzolo.secret.md|Razzolo.secret]] 

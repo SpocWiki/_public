@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27320]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Shaula.md|Shaula]] 
+- [[../../../_internal/astro/Star/Shaula.internal.md|Shaula.internal]] 
+- [[../../../_protect/astro/Star/Shaula.protect.md|Shaula.protect]] 
+- [[../../../_private/astro/Star/Shaula.private.md|Shaula.private]] 
+- [[../../../_personal/astro/Star/Shaula.personal.md|Shaula.personal]] 
+- [[../../../_secret/astro/Star/Shaula.secret.md|Shaula.secret]] 

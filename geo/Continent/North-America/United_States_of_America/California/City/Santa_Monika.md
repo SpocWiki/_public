@@ -28,3 +28,12 @@ markerFile: [[Santa_Monika]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.md|Santa_Monika]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.internal.md|Santa_Monika.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.protect.md|Santa_Monika.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.private.md|Santa_Monika.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.personal.md|Santa_Monika.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.secret.md|Santa_Monika.secret]] 

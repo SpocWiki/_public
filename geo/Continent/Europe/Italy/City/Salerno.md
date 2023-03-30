@@ -29,3 +29,12 @@ markerFile: [[Salerno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Salerno.md|Salerno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Salerno.internal.md|Salerno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Salerno.protect.md|Salerno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Salerno.private.md|Salerno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Salerno.personal.md|Salerno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Salerno.secret.md|Salerno.secret]] 

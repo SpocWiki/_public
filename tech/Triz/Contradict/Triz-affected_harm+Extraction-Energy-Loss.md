@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::Energy-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Energy-Loss.md|Triz-affected_harm+Extraction-Energy-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Energy-Loss.internal.md|Triz-affected_harm+Extraction-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Energy-Loss.protect.md|Triz-affected_harm+Extraction-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Energy-Loss.private.md|Triz-affected_harm+Extraction-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Energy-Loss.personal.md|Triz-affected_harm+Extraction-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Energy-Loss.secret.md|Triz-affected_harm+Extraction-Energy-Loss.secret]] 

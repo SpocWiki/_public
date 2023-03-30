@@ -44,3 +44,12 @@ Relation describes that:
 ( #has_/name :: is_provider )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_provider.md|has_provider]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_provider.internal.md|has_provider.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_provider.protect.md|has_provider.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_provider.private.md|has_provider.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_provider.personal.md|has_provider.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_provider.secret.md|has_provider.secret]] 

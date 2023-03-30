@@ -29,3 +29,12 @@ markerFile: [[Goettweig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Goettweig.md|Goettweig]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Goettweig.internal.md|Goettweig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Goettweig.protect.md|Goettweig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Goettweig.private.md|Goettweig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Goettweig.personal.md|Goettweig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Goettweig.secret.md|Goettweig.secret]] 

@@ -43,3 +43,12 @@ A unique instance of a radio BroadcastService on a CableOrSatelliteService lineu
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.md|radio_channel]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.internal.md|radio_channel.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.protect.md|radio_channel.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.private.md|radio_channel.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.personal.md|radio_channel.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.secret.md|radio_channel.secret]] 

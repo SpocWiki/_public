@@ -29,3 +29,12 @@ markerFile: [[Nouméa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Australia/New_Caledonia/City/Nouméa.md|Nouméa]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Caledonia/City/Nouméa.internal.md|Nouméa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Caledonia/City/Nouméa.protect.md|Nouméa.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Caledonia/City/Nouméa.private.md|Nouméa.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Caledonia/City/Nouméa.personal.md|Nouméa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Caledonia/City/Nouméa.secret.md|Nouméa.secret]] 

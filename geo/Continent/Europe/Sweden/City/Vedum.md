@@ -29,3 +29,12 @@ markerFile: [[Vedum]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vedum.md|Vedum]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vedum.internal.md|Vedum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vedum.protect.md|Vedum.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vedum.private.md|Vedum.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vedum.personal.md|Vedum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vedum.secret.md|Vedum.secret]] 

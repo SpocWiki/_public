@@ -29,3 +29,12 @@ markerFile: [[Brzesc=Brest-Litowsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Brzesc=Brest-Litowsk.md|Brzesc=Brest-Litowsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Brzesc=Brest-Litowsk.internal.md|Brzesc=Brest-Litowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Brzesc=Brest-Litowsk.protect.md|Brzesc=Brest-Litowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Brzesc=Brest-Litowsk.private.md|Brzesc=Brest-Litowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Brzesc=Brest-Litowsk.personal.md|Brzesc=Brest-Litowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Brzesc=Brest-Litowsk.secret.md|Brzesc=Brest-Litowsk.secret]] 

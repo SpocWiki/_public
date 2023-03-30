@@ -29,3 +29,12 @@ markerFile: [[Monfalcone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Monfalcone.md|Monfalcone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Monfalcone.internal.md|Monfalcone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Monfalcone.protect.md|Monfalcone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Monfalcone.private.md|Monfalcone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Monfalcone.personal.md|Monfalcone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Monfalcone.secret.md|Monfalcone.secret]] 

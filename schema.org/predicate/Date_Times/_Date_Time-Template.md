@@ -55,3 +55,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Date_Times/_Date_Time-Template.md|_Date_Time-Template]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/_Date_Time-Template.internal.md|_Date_Time-Template.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/_Date_Time-Template.protect.md|_Date_Time-Template.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/_Date_Time-Template.private.md|_Date_Time-Template.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/_Date_Time-Template.personal.md|_Date_Time-Template.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/_Date_Time-Template.secret.md|_Date_Time-Template.secret]] 

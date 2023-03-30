@@ -29,3 +29,12 @@ markerFile: [[Tiukalinsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tiukalinsk.md|Tiukalinsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tiukalinsk.internal.md|Tiukalinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tiukalinsk.protect.md|Tiukalinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tiukalinsk.private.md|Tiukalinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tiukalinsk.personal.md|Tiukalinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tiukalinsk.secret.md|Tiukalinsk.secret]] 

@@ -133,3 +133,12 @@ markerFolder: ./Chad/City
 [geo-lon::16.0333]
 [geo-lat::12.1]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Chad.md|Chad]] 
+- [[../../../../_internal/geo/Continent/Africa/Chad.internal.md|Chad.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Chad.protect.md|Chad.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Chad.private.md|Chad.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Chad.personal.md|Chad.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Chad.secret.md|Chad.secret]] 

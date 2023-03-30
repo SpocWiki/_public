@@ -28,3 +28,12 @@ markerFile: [[Leonberg~Wuerttemberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.md|Leonberg~Wuerttemberg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.internal.md|Leonberg~Wuerttemberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.protect.md|Leonberg~Wuerttemberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.private.md|Leonberg~Wuerttemberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.personal.md|Leonberg~Wuerttemberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.secret.md|Leonberg~Wuerttemberg.secret]] 

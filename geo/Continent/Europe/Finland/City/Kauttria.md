@@ -29,3 +29,12 @@ markerFile: [[Kauttria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kauttria.md|Kauttria]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kauttria.internal.md|Kauttria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kauttria.protect.md|Kauttria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kauttria.private.md|Kauttria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kauttria.personal.md|Kauttria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kauttria.secret.md|Kauttria.secret]] 

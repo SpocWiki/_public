@@ -29,3 +29,12 @@ markerFile: [[Boettstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Boettstein.md|Boettstein]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Boettstein.internal.md|Boettstein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Boettstein.protect.md|Boettstein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Boettstein.private.md|Boettstein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Boettstein.personal.md|Boettstein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Boettstein.secret.md|Boettstein.secret]] 

@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_original_media_link )
 ( #has_/range :: MediaObject, URL, WebPage )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_original_media_link.md|has_original_media_link]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_original_media_link.internal.md|has_original_media_link.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_original_media_link.protect.md|has_original_media_link.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_original_media_link.private.md|has_original_media_link.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_original_media_link.personal.md|has_original_media_link.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_original_media_link.secret.md|has_original_media_link.secret]] 

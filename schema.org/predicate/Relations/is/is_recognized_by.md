@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_recognized_by )
 ( #has_/range :: Organization )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_recognized_by.md|is_recognized_by]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_recognized_by.internal.md|is_recognized_by.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_recognized_by.protect.md|is_recognized_by.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_recognized_by.private.md|is_recognized_by.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_recognized_by.personal.md|is_recognized_by.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_recognized_by.secret.md|is_recognized_by.secret]] 

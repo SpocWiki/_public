@@ -43,3 +43,12 @@ A diet exclusive of animal meat.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.md|vegetarian_diet]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.internal.md|vegetarian_diet.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.protect.md|vegetarian_diet.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.private.md|vegetarian_diet.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.personal.md|vegetarian_diet.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.secret.md|vegetarian_diet.secret]] 

@@ -41,3 +41,12 @@ The maximum dosing schedule considered safe for a drug or supplement as recommen
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, doseUnit, doseValue, frequency, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, targetPopulation, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.md|maximum_dose_schedule]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.internal.md|maximum_dose_schedule.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.protect.md|maximum_dose_schedule.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.private.md|maximum_dose_schedule.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.personal.md|maximum_dose_schedule.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.secret.md|maximum_dose_schedule.secret]] 

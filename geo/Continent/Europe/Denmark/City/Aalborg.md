@@ -29,3 +29,12 @@ markerFile: [[Aalborg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Aalborg.md|Aalborg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Aalborg.internal.md|Aalborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Aalborg.protect.md|Aalborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Aalborg.private.md|Aalborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Aalborg.personal.md|Aalborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Aalborg.secret.md|Aalborg.secret]] 

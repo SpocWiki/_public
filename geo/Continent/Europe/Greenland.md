@@ -128,3 +128,12 @@ markerFolder: ./Greenland/City
 [geo-lon::-51.67]
 [geo-lat::64.25]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Greenland.md|Greenland]] 
+- [[../../../../_internal/geo/Continent/Europe/Greenland.internal.md|Greenland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greenland.protect.md|Greenland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greenland.private.md|Greenland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greenland.personal.md|Greenland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greenland.secret.md|Greenland.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Kuolajaervi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kuolajaervi.md|Kuolajaervi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuolajaervi.internal.md|Kuolajaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuolajaervi.protect.md|Kuolajaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kuolajaervi.private.md|Kuolajaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuolajaervi.personal.md|Kuolajaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuolajaervi.secret.md|Kuolajaervi.secret]] 

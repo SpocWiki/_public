@@ -28,3 +28,12 @@ markerFile: [[Koenigs-Wusterhausen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.md|Koenigs-Wusterhausen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.internal.md|Koenigs-Wusterhausen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.protect.md|Koenigs-Wusterhausen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.private.md|Koenigs-Wusterhausen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.personal.md|Koenigs-Wusterhausen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.secret.md|Koenigs-Wusterhausen.secret]] 

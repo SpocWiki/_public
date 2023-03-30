@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_episodes )
 ( #has_/range :: Integer )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_episodes.md|has_number_of_episodes]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_episodes.internal.md|has_number_of_episodes.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_episodes.protect.md|has_number_of_episodes.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_episodes.private.md|has_number_of_episodes.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_episodes.personal.md|has_number_of_episodes.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_episodes.secret.md|has_number_of_episodes.secret]] 

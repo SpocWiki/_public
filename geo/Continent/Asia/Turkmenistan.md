@@ -131,3 +131,12 @@ markerFolder: ./Turkmenistan/City
 [geo-lon::58.3333]
 [geo-lat::37.9667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Turkmenistan.md|Turkmenistan]] 
+- [[../../../../_internal/geo/Continent/Asia/Turkmenistan.internal.md|Turkmenistan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Turkmenistan.protect.md|Turkmenistan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Turkmenistan.private.md|Turkmenistan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Turkmenistan.personal.md|Turkmenistan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Turkmenistan.secret.md|Turkmenistan.secret]] 

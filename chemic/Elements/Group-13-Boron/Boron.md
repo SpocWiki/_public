@@ -38,3 +38,12 @@ SpocWebEntityId: 21908
 > [Wikipedia](https://en.wikipedia.org/wiki/Boron)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-13-Boron/Boron.md|Boron]] 
+- [[../../../../_internal/chemic/Elements/Group-13-Boron/Boron.internal.md|Boron.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-13-Boron/Boron.protect.md|Boron.protect]] 
+- [[../../../../_private/chemic/Elements/Group-13-Boron/Boron.private.md|Boron.private]] 
+- [[../../../../_personal/chemic/Elements/Group-13-Boron/Boron.personal.md|Boron.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-13-Boron/Boron.secret.md|Boron.secret]] 

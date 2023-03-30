@@ -29,3 +29,12 @@ markerFile: [[Turnheut]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Turnheut.md|Turnheut]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Turnheut.internal.md|Turnheut.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Turnheut.protect.md|Turnheut.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Turnheut.private.md|Turnheut.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Turnheut.personal.md|Turnheut.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Turnheut.secret.md|Turnheut.secret]] 

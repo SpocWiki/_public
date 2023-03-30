@@ -29,3 +29,12 @@ markerFile: [[Alicudie]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Alicudie.md|Alicudie]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Alicudie.internal.md|Alicudie.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Alicudie.protect.md|Alicudie.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Alicudie.private.md|Alicudie.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Alicudie.personal.md|Alicudie.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Alicudie.secret.md|Alicudie.secret]] 

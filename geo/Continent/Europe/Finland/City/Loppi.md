@@ -29,3 +29,12 @@ markerFile: [[Loppi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Loppi.md|Loppi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Loppi.internal.md|Loppi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Loppi.protect.md|Loppi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Loppi.private.md|Loppi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Loppi.personal.md|Loppi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Loppi.secret.md|Loppi.secret]] 

@@ -24,3 +24,12 @@ markerFile: [[T-Brücken-Textorstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Brücken-Textorstraße.md|T-Brücken-Textorstraße]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Brücken-Textorstraße.internal.md|T-Brücken-Textorstraße.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Brücken-Textorstraße.protect.md|T-Brücken-Textorstraße.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Brücken-Textorstraße.private.md|T-Brücken-Textorstraße.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Brücken-Textorstraße.personal.md|T-Brücken-Textorstraße.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Brücken-Textorstraße.secret.md|T-Brücken-Textorstraße.secret]] 

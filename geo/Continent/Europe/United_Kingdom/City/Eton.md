@@ -29,3 +29,12 @@ markerFile: [[Eton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Eton.md|Eton]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Eton.internal.md|Eton.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Eton.protect.md|Eton.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Eton.private.md|Eton.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Eton.personal.md|Eton.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Eton.secret.md|Eton.secret]] 

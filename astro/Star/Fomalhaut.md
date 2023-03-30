@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28149]
 [NextStarId::27857]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Fomalhaut.md|Fomalhaut]] 
+- [[../../../_internal/astro/Star/Fomalhaut.internal.md|Fomalhaut.internal]] 
+- [[../../../_protect/astro/Star/Fomalhaut.protect.md|Fomalhaut.protect]] 
+- [[../../../_private/astro/Star/Fomalhaut.private.md|Fomalhaut.private]] 
+- [[../../../_personal/astro/Star/Fomalhaut.personal.md|Fomalhaut.personal]] 
+- [[../../../_secret/astro/Star/Fomalhaut.secret.md|Fomalhaut.secret]]
+

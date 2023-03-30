@@ -29,3 +29,12 @@ markerFile: [[Kuhmoinen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kuhmoinen.md|Kuhmoinen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuhmoinen.internal.md|Kuhmoinen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuhmoinen.protect.md|Kuhmoinen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kuhmoinen.private.md|Kuhmoinen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuhmoinen.personal.md|Kuhmoinen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuhmoinen.secret.md|Kuhmoinen.secret]] 

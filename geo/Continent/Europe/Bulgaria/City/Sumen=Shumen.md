@@ -29,3 +29,12 @@ markerFile: [[Sumen=Shumen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.md|Sumen=Shumen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.internal.md|Sumen=Shumen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.protect.md|Sumen=Shumen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.private.md|Sumen=Shumen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.personal.md|Sumen=Shumen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.secret.md|Sumen=Shumen.secret]] 

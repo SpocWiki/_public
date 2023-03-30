@@ -219,3 +219,11 @@ filters:
   enabled: false
   conditions:
 ```
+
+## Confidential Links & Embeds: 
+- [[../../../_public/geo/Continent/_ContinentDB.md|_ContinentDB]] 
+- [[../../../_internal/geo/Continent/_ContinentDB.internal.md|_ContinentDB.internal]] 
+- [[../../../_protect/geo/Continent/_ContinentDB.protect.md|_ContinentDB.protect]] 
+- [[../../../_private/geo/Continent/_ContinentDB.private.md|_ContinentDB.private]] 
+- [[../../../_personal/geo/Continent/_ContinentDB.personal.md|_ContinentDB.personal]] 
+- [[../../../_secret/geo/Continent/_ContinentDB.secret.md|_ContinentDB.secret]] 

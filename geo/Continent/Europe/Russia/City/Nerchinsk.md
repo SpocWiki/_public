@@ -29,3 +29,12 @@ markerFile: [[Nerchinsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nerchinsk.md|Nerchinsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nerchinsk.internal.md|Nerchinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nerchinsk.protect.md|Nerchinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nerchinsk.private.md|Nerchinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nerchinsk.personal.md|Nerchinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nerchinsk.secret.md|Nerchinsk.secret]] 

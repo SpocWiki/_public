@@ -29,3 +29,12 @@ markerFile: [[Trelleborg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Trelleborg.md|Trelleborg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Trelleborg.internal.md|Trelleborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Trelleborg.protect.md|Trelleborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Trelleborg.private.md|Trelleborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Trelleborg.personal.md|Trelleborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Trelleborg.secret.md|Trelleborg.secret]] 

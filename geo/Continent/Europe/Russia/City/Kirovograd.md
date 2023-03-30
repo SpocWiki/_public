@@ -29,3 +29,12 @@ markerFile: [[Kirovograd]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kirovograd.md|Kirovograd]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirovograd.internal.md|Kirovograd.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirovograd.protect.md|Kirovograd.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kirovograd.private.md|Kirovograd.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirovograd.personal.md|Kirovograd.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirovograd.secret.md|Kirovograd.secret]] 

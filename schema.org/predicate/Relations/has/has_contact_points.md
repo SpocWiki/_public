@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_contact_point )
 ( #has_/range :: ContactPoint )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_contact_points.md|has_contact_points]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contact_points.internal.md|has_contact_points.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contact_points.protect.md|has_contact_points.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_contact_points.private.md|has_contact_points.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_contact_points.personal.md|has_contact_points.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_contact_points.secret.md|has_contact_points.secret]] 

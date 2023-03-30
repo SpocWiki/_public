@@ -43,3 +43,12 @@ An action that failed to complete. The action's error property and the HTTP retu
 
 [ #is_/enum_of :: [[../ActionStatusType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/failed_action_status.md|failed_action_status]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/failed_action_status.internal.md|failed_action_status.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/failed_action_status.protect.md|failed_action_status.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/failed_action_status.private.md|failed_action_status.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/failed_action_status.personal.md|failed_action_status.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/failed_action_status.secret.md|failed_action_status.secret]] 

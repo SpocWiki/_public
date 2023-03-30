@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_application_contact )
 ( #has_/range :: ContactPoint )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_application_contact.md|has_application_contact]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_application_contact.internal.md|has_application_contact.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_application_contact.protect.md|has_application_contact.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_application_contact.private.md|has_application_contact.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_application_contact.personal.md|has_application_contact.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_application_contact.secret.md|has_application_contact.secret]] 

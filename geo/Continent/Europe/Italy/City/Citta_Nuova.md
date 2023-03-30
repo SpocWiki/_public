@@ -29,3 +29,12 @@ markerFile: [[Citta_Nuova]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Citta_Nuova.md|Citta_Nuova]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Citta_Nuova.internal.md|Citta_Nuova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Citta_Nuova.protect.md|Citta_Nuova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Citta_Nuova.private.md|Citta_Nuova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Citta_Nuova.personal.md|Citta_Nuova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Citta_Nuova.secret.md|Citta_Nuova.secret]] 

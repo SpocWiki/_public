@@ -28,3 +28,12 @@ markerFile: [[Berchtesgaden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.md|Berchtesgaden]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.internal.md|Berchtesgaden.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.protect.md|Berchtesgaden.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.private.md|Berchtesgaden.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.personal.md|Berchtesgaden.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.secret.md|Berchtesgaden.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Adra]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Adra.md|Adra]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Adra.internal.md|Adra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Adra.protect.md|Adra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Adra.private.md|Adra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Adra.personal.md|Adra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Adra.secret.md|Adra.secret]] 

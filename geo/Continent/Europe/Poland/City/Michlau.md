@@ -29,3 +29,12 @@ markerFile: [[Michlau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Michlau.md|Michlau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Michlau.internal.md|Michlau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Michlau.protect.md|Michlau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Michlau.private.md|Michlau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Michlau.personal.md|Michlau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Michlau.secret.md|Michlau.secret]] 

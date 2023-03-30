@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Dynamicity]]]
 - [con::[[Triz-stationary_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Dynamicity-stationary_Energy.md|Triz-Illumination+Dynamicity-stationary_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Dynamicity-stationary_Energy.internal.md|Triz-Illumination+Dynamicity-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Dynamicity-stationary_Energy.protect.md|Triz-Illumination+Dynamicity-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Dynamicity-stationary_Energy.private.md|Triz-Illumination+Dynamicity-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Dynamicity-stationary_Energy.personal.md|Triz-Illumination+Dynamicity-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Dynamicity-stationary_Energy.secret.md|Triz-Illumination+Dynamicity-stationary_Energy.secret]] 

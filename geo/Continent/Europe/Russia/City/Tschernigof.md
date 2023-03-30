@@ -29,3 +29,12 @@ markerFile: [[Tschernigof]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschernigof.md|Tschernigof]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschernigof.internal.md|Tschernigof.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschernigof.protect.md|Tschernigof.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschernigof.private.md|Tschernigof.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschernigof.personal.md|Tschernigof.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschernigof.secret.md|Tschernigof.secret]] 

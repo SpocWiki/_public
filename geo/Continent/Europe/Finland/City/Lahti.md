@@ -29,3 +29,12 @@ markerFile: [[Lahti]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lahti.md|Lahti]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lahti.internal.md|Lahti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lahti.protect.md|Lahti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lahti.private.md|Lahti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lahti.personal.md|Lahti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lahti.secret.md|Lahti.secret]] 

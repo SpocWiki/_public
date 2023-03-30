@@ -29,3 +29,12 @@ markerFile: [[Kano~Nigeria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.md|Kano~Nigeria]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.internal.md|Kano~Nigeria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.protect.md|Kano~Nigeria.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.private.md|Kano~Nigeria.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.personal.md|Kano~Nigeria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.secret.md|Kano~Nigeria.secret]] 

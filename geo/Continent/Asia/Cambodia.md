@@ -129,3 +129,12 @@ markerFolder: ./Cambodia/City
 [geo-lon::104.917]
 [geo-lat::11.55]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Cambodia.md|Cambodia]] 
+- [[../../../../_internal/geo/Continent/Asia/Cambodia.internal.md|Cambodia.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Cambodia.protect.md|Cambodia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Cambodia.private.md|Cambodia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Cambodia.personal.md|Cambodia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Cambodia.secret.md|Cambodia.secret]] 

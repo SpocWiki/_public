@@ -45,3 +45,12 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ repeatFrequency ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_frequency.md|has_frequency]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_frequency.internal.md|has_frequency.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_frequency.protect.md|has_frequency.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_frequency.private.md|has_frequency.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_frequency.personal.md|has_frequency.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_frequency.secret.md|has_frequency.secret]] 

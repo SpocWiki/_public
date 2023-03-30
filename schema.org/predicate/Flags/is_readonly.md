@@ -44,3 +44,12 @@ Predicate describes that:
 ( #has_/name :: is_readonly )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_readonly.md|is_readonly]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_readonly.internal.md|is_readonly.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_readonly.protect.md|is_readonly.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_readonly.private.md|is_readonly.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_readonly.personal.md|is_readonly.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_readonly.secret.md|is_readonly.secret]] 

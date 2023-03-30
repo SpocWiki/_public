@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_differential_diagnosis )
 ( #has_/range :: DDxElement )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_differential_diagnosis.md|has_differential_diagnosis]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_differential_diagnosis.internal.md|has_differential_diagnosis.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_differential_diagnosis.protect.md|has_differential_diagnosis.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_differential_diagnosis.private.md|has_differential_diagnosis.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_differential_diagnosis.personal.md|has_differential_diagnosis.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_differential_diagnosis.secret.md|has_differential_diagnosis.secret]] 

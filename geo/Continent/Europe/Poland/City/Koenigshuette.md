@@ -29,3 +29,12 @@ markerFile: [[Koenigshuette]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Koenigshuette.md|Koenigshuette]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koenigshuette.internal.md|Koenigshuette.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koenigshuette.protect.md|Koenigshuette.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koenigshuette.private.md|Koenigshuette.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koenigshuette.personal.md|Koenigshuette.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koenigshuette.secret.md|Koenigshuette.secret]] 

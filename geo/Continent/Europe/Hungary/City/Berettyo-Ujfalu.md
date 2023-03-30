@@ -29,3 +29,12 @@ markerFile: [[Berettyo-Ujfalu]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.md|Berettyo-Ujfalu]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.internal.md|Berettyo-Ujfalu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.protect.md|Berettyo-Ujfalu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.private.md|Berettyo-Ujfalu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.personal.md|Berettyo-Ujfalu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.secret.md|Berettyo-Ujfalu.secret]] 

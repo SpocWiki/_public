@@ -28,3 +28,12 @@ markerFile: [[Essen~Ruhr]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.md|Essen~Ruhr]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.internal.md|Essen~Ruhr.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.protect.md|Essen~Ruhr.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.private.md|Essen~Ruhr.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.personal.md|Essen~Ruhr.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.secret.md|Essen~Ruhr.secret]] 

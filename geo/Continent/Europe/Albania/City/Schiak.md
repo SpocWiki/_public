@@ -29,3 +29,12 @@ markerFile: [[Schiak]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Schiak.md|Schiak]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Schiak.internal.md|Schiak.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Schiak.protect.md|Schiak.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Schiak.private.md|Schiak.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Schiak.personal.md|Schiak.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Schiak.secret.md|Schiak.secret]] 

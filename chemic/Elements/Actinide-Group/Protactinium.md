@@ -29,3 +29,12 @@ SpocWebEntityId: 21986
 []
 (Charge-e::91)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Actinide-Group/Protactinium.md|Protactinium]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Protactinium.internal.md|Protactinium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Protactinium.protect.md|Protactinium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Protactinium.private.md|Protactinium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Protactinium.personal.md|Protactinium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Protactinium.secret.md|Protactinium.secret]] 

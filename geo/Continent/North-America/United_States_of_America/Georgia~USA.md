@@ -33,3 +33,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Georgia~USA.md|Georgia~USA]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Georgia~USA.internal.md|Georgia~USA.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Georgia~USA.protect.md|Georgia~USA.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Georgia~USA.private.md|Georgia~USA.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Georgia~USA.personal.md|Georgia~USA.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Georgia~USA.secret.md|Georgia~USA.secret]] 

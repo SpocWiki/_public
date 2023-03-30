@@ -29,3 +29,12 @@ markerFile: [[Croydon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.md|Croydon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.internal.md|Croydon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.protect.md|Croydon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.private.md|Croydon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.personal.md|Croydon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.secret.md|Croydon.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Zewitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zewitz.md|Zewitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zewitz.internal.md|Zewitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zewitz.protect.md|Zewitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zewitz.private.md|Zewitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zewitz.personal.md|Zewitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zewitz.secret.md|Zewitz.secret]] 

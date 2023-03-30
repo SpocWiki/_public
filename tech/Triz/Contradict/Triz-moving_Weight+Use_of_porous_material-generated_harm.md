@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Use_of_porous_material]]]
 - [con::[[Triz-generated_harm]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-generated_harm.md|Triz-moving_Weight+Use_of_porous_material-generated_harm]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-generated_harm.internal.md|Triz-moving_Weight+Use_of_porous_material-generated_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-generated_harm.protect.md|Triz-moving_Weight+Use_of_porous_material-generated_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-generated_harm.private.md|Triz-moving_Weight+Use_of_porous_material-generated_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-generated_harm.personal.md|Triz-moving_Weight+Use_of_porous_material-generated_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-generated_harm.secret.md|Triz-moving_Weight+Use_of_porous_material-generated_harm.secret]] 

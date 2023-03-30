@@ -29,3 +29,12 @@ markerFolder: ./Station/
 15) [[Station/S-Frankfurt_Ostendstraße]] 
 16) [[Station/S-Frankfurt_Lokalbahnhof]] 
 17) [[Station/S-Frankfurt~Main~Süd]] 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S5.md|FFM~S5]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S5.internal.md|FFM~S5.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S5.protect.md|FFM~S5.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S5.private.md|FFM~S5.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S5.personal.md|FFM~S5.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S5.secret.md|FFM~S5.secret]] 

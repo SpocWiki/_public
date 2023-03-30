@@ -29,3 +29,12 @@ markerFile: [[Abisko]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Abisko.md|Abisko]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Abisko.internal.md|Abisko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Abisko.protect.md|Abisko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Abisko.private.md|Abisko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Abisko.personal.md|Abisko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Abisko.secret.md|Abisko.secret]] 

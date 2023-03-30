@@ -33,3 +33,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Nevada.md|Nevada]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nevada.internal.md|Nevada.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nevada.protect.md|Nevada.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Nevada.private.md|Nevada.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nevada.personal.md|Nevada.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nevada.secret.md|Nevada.secret]] 

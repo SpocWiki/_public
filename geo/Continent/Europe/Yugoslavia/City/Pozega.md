@@ -29,3 +29,12 @@ markerFile: [[Pozega]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Pozega.md|Pozega]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Pozega.internal.md|Pozega.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Pozega.protect.md|Pozega.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Pozega.private.md|Pozega.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Pozega.personal.md|Pozega.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Pozega.secret.md|Pozega.secret]] 

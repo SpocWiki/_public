@@ -29,3 +29,12 @@ markerFile: [[Ballum]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Ballum.md|Ballum]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Ballum.internal.md|Ballum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Ballum.protect.md|Ballum.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Ballum.private.md|Ballum.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Ballum.personal.md|Ballum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Ballum.secret.md|Ballum.secret]] 

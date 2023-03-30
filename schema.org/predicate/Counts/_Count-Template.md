@@ -54,3 +54,12 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/_Count-Template.md|_Count-Template]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/_Count-Template.internal.md|_Count-Template.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/_Count-Template.protect.md|_Count-Template.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/_Count-Template.private.md|_Count-Template.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/_Count-Template.personal.md|_Count-Template.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/_Count-Template.secret.md|_Count-Template.secret]] 

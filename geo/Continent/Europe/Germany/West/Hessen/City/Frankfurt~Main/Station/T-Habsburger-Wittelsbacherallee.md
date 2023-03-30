@@ -24,3 +24,12 @@ markerFile: [[T-Habsburger-Wittelsbacherallee]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Habsburger-Wittelsbacherallee.md|T-Habsburger-Wittelsbacherallee]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Habsburger-Wittelsbacherallee.internal.md|T-Habsburger-Wittelsbacherallee.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Habsburger-Wittelsbacherallee.protect.md|T-Habsburger-Wittelsbacherallee.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Habsburger-Wittelsbacherallee.private.md|T-Habsburger-Wittelsbacherallee.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Habsburger-Wittelsbacherallee.personal.md|T-Habsburger-Wittelsbacherallee.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Habsburger-Wittelsbacherallee.secret.md|T-Habsburger-Wittelsbacherallee.secret]] 

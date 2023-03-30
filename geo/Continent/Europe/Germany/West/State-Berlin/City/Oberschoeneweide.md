@@ -28,3 +28,12 @@ markerFile: [[Oberschoeneweide]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.md|Oberschoeneweide]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.internal.md|Oberschoeneweide.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.protect.md|Oberschoeneweide.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.private.md|Oberschoeneweide.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.personal.md|Oberschoeneweide.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.secret.md|Oberschoeneweide.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
 - [con::[[Triz-Speed]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.md|Triz-Reliability+Cushion_in_advance-Speed]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.internal.md|Triz-Reliability+Cushion_in_advance-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.protect.md|Triz-Reliability+Cushion_in_advance-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.private.md|Triz-Reliability+Cushion_in_advance-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.personal.md|Triz-Reliability+Cushion_in_advance-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.secret.md|Triz-Reliability+Cushion_in_advance-Speed.secret]] 

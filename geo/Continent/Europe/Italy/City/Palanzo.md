@@ -29,3 +29,12 @@ markerFile: [[Palanzo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Palanzo.md|Palanzo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Palanzo.internal.md|Palanzo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Palanzo.protect.md|Palanzo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Palanzo.private.md|Palanzo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Palanzo.personal.md|Palanzo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Palanzo.secret.md|Palanzo.secret]] 

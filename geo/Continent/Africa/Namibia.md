@@ -134,3 +134,12 @@ markerFolder: ./Namibia/City
 [geo-lon::17.1]
 [geo-lat::-22.57]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Namibia.md|Namibia]] 
+- [[../../../../_internal/geo/Continent/Africa/Namibia.internal.md|Namibia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Namibia.protect.md|Namibia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Namibia.private.md|Namibia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Namibia.personal.md|Namibia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Namibia.secret.md|Namibia.secret]] 

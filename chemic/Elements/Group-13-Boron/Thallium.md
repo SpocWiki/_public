@@ -32,3 +32,11 @@ SpocWebEntityId: 21976
 > Soluble thallium salts (many of which are nearly tasteless) are highly toxic, and they were historically used in rat poisons and insecticides.  Because of their nonselective toxicity, use of these compounds has been restricted or banned in many countries. Thallium poisoning usually results in hair loss. Because of its historic popularity as a murder weapon, thallium has gained notoriety as "the poisoner's poison" and "inheritance powder" (alongside arsenic).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thallium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-13-Boron/Thallium.md|Thallium]] 
+- [[../../../../_internal/chemic/Elements/Group-13-Boron/Thallium.internal.md|Thallium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-13-Boron/Thallium.protect.md|Thallium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-13-Boron/Thallium.private.md|Thallium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-13-Boron/Thallium.personal.md|Thallium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-13-Boron/Thallium.secret.md|Thallium.secret]] 

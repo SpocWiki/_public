@@ -27,3 +27,12 @@ markerFolder: ./Station/
 13) [[Station/U-Dom_Römer]] 
 14) [[Station/U-Willy-Brandt-Platz]] 
 15) [[Station/U-Hauptbahnhof]] 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U5.md|FFM~U5]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U5.internal.md|FFM~U5.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U5.protect.md|FFM~U5.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U5.private.md|FFM~U5.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U5.personal.md|FFM~U5.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~U5.secret.md|FFM~U5.secret]] 

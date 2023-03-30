@@ -28,3 +28,12 @@ markerFolder: ./Baden-Wuerttemberg/City
 [geo-lat::48.5647]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.md|Baden-Wuerttemberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.internal.md|Baden-Wuerttemberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.protect.md|Baden-Wuerttemberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.private.md|Baden-Wuerttemberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.personal.md|Baden-Wuerttemberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.secret.md|Baden-Wuerttemberg.secret]] 

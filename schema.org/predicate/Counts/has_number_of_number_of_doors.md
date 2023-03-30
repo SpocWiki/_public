@@ -47,3 +47,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_doors )
 ( #has_/range :: Number, QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_doors.md|has_number_of_number_of_doors]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_doors.internal.md|has_number_of_number_of_doors.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_doors.protect.md|has_number_of_number_of_doors.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_doors.private.md|has_number_of_number_of_doors.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_doors.personal.md|has_number_of_number_of_doors.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_doors.secret.md|has_number_of_number_of_doors.secret]] 

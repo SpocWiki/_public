@@ -29,3 +29,12 @@ markerFile: [[Isernia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Isernia.md|Isernia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Isernia.internal.md|Isernia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Isernia.protect.md|Isernia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Isernia.private.md|Isernia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Isernia.personal.md|Isernia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Isernia.secret.md|Isernia.secret]] 

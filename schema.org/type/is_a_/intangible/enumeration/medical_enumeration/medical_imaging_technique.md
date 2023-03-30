@@ -39,3 +39,12 @@ Any medical imaging modality typically used for diagnostic purposes. Enumerated 
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.md|medical_imaging_technique]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.internal.md|medical_imaging_technique.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.protect.md|medical_imaging_technique.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.private.md|medical_imaging_technique.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.personal.md|medical_imaging_technique.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.secret.md|medical_imaging_technique.secret]] 

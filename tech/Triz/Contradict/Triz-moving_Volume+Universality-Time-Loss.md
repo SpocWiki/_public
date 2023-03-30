@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::Time-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Universality-Time-Loss.md|Triz-moving_Volume+Universality-Time-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Universality-Time-Loss.internal.md|Triz-moving_Volume+Universality-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Universality-Time-Loss.protect.md|Triz-moving_Volume+Universality-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Universality-Time-Loss.private.md|Triz-moving_Volume+Universality-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Universality-Time-Loss.personal.md|Triz-moving_Volume+Universality-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Universality-Time-Loss.secret.md|Triz-moving_Volume+Universality-Time-Loss.secret]] 

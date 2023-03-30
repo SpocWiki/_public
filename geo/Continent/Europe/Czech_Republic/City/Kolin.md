@@ -29,3 +29,12 @@ markerFile: [[Kolin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kolin.md|Kolin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kolin.internal.md|Kolin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kolin.protect.md|Kolin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kolin.private.md|Kolin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kolin.personal.md|Kolin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kolin.secret.md|Kolin.secret]] 

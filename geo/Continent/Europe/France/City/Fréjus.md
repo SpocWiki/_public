@@ -29,3 +29,12 @@ markerFile: [[Fréjus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Fréjus.md|Fréjus]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fréjus.internal.md|Fréjus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fréjus.protect.md|Fréjus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Fréjus.private.md|Fréjus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fréjus.personal.md|Fréjus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fréjus.secret.md|Fréjus.secret]] 

@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_maintainer )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_maintainer.md|has_maintainer]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_maintainer.internal.md|has_maintainer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_maintainer.protect.md|has_maintainer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_maintainer.private.md|has_maintainer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_maintainer.personal.md|has_maintainer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_maintainer.secret.md|has_maintainer.secret]] 

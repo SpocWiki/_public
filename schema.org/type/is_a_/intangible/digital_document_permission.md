@@ -41,3 +41,12 @@ A permission for a particular person or group to access a particular file.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/digital_document_permission.md|digital_document_permission]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/digital_document_permission.internal.md|digital_document_permission.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/digital_document_permission.protect.md|digital_document_permission.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/digital_document_permission.private.md|digital_document_permission.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/digital_document_permission.personal.md|digital_document_permission.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/digital_document_permission.secret.md|digital_document_permission.secret]] 

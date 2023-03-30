@@ -29,3 +29,12 @@ markerFile: [[Blackburn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Blackburn.md|Blackburn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Blackburn.internal.md|Blackburn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Blackburn.protect.md|Blackburn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Blackburn.private.md|Blackburn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Blackburn.personal.md|Blackburn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Blackburn.secret.md|Blackburn.secret]] 

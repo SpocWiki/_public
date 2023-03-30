@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28096]
 [NextStarId::27523]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Wezen.md|Wezen]] 
+- [[../../../_internal/astro/Star/Wezen.internal.md|Wezen.internal]] 
+- [[../../../_protect/astro/Star/Wezen.protect.md|Wezen.protect]] 
+- [[../../../_private/astro/Star/Wezen.private.md|Wezen.private]] 
+- [[../../../_personal/astro/Star/Wezen.personal.md|Wezen.personal]] 
+- [[../../../_secret/astro/Star/Wezen.secret.md|Wezen.secret]] 

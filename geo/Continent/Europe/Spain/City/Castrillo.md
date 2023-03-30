@@ -29,3 +29,12 @@ markerFile: [[Castrillo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Castrillo.md|Castrillo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Castrillo.internal.md|Castrillo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Castrillo.protect.md|Castrillo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Castrillo.private.md|Castrillo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Castrillo.personal.md|Castrillo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Castrillo.secret.md|Castrillo.secret]] 

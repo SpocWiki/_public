@@ -29,3 +29,12 @@ markerFile: [[Pescia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pescia.md|Pescia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pescia.internal.md|Pescia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pescia.protect.md|Pescia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pescia.private.md|Pescia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pescia.personal.md|Pescia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pescia.secret.md|Pescia.secret]] 

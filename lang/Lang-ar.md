@@ -16,3 +16,13 @@ tags:
 [Iso2::ar]
 [Iso3::ara]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/lang/Lang-ar.md|Lang-ar]] 
+- [[../../_internal/lang/Lang-ar.internal.md|Lang-ar.internal]] 
+- [[../../_protect/lang/Lang-ar.protect.md|Lang-ar.protect]] 
+- [[../../_private/lang/Lang-ar.private.md|Lang-ar.private]] 
+- [[../../_personal/lang/Lang-ar.personal.md|Lang-ar.personal]] 
+- [[../../_secret/lang/Lang-ar.secret.md|Lang-ar.secret]]
+

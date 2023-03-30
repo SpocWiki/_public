@@ -132,3 +132,12 @@ markerFolder: ./Cameroon/City
 [geo-lon::10.6]
 [geo-lat::3.94]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Cameroon.md|Cameroon]] 
+- [[../../../../_internal/geo/Continent/Africa/Cameroon.internal.md|Cameroon.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cameroon.protect.md|Cameroon.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cameroon.private.md|Cameroon.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cameroon.personal.md|Cameroon.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cameroon.secret.md|Cameroon.secret]] 

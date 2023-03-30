@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_answers )
 ( #has_/range :: Integer )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_answers.md|has_number_of_answers]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_answers.internal.md|has_number_of_answers.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_answers.protect.md|has_number_of_answers.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_answers.private.md|has_number_of_answers.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_answers.personal.md|has_number_of_answers.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_answers.secret.md|has_number_of_answers.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Segmentation-Complexity.md|Triz-stationary_Volume+Segmentation-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Segmentation-Complexity.internal.md|Triz-stationary_Volume+Segmentation-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Segmentation-Complexity.protect.md|Triz-stationary_Volume+Segmentation-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Segmentation-Complexity.private.md|Triz-stationary_Volume+Segmentation-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Segmentation-Complexity.personal.md|Triz-stationary_Volume+Segmentation-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Segmentation-Complexity.secret.md|Triz-stationary_Volume+Segmentation-Complexity.secret]] 

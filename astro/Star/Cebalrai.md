@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28141]
 [NextStarId::27291]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Cebalrai.md|Cebalrai]] 
+- [[../../../_internal/astro/Star/Cebalrai.internal.md|Cebalrai.internal]] 
+- [[../../../_protect/astro/Star/Cebalrai.protect.md|Cebalrai.protect]] 
+- [[../../../_private/astro/Star/Cebalrai.private.md|Cebalrai.private]] 
+- [[../../../_personal/astro/Star/Cebalrai.personal.md|Cebalrai.personal]] 
+- [[../../../_secret/astro/Star/Cebalrai.secret.md|Cebalrai.secret]]
+

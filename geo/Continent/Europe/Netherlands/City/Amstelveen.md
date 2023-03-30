@@ -29,3 +29,12 @@ markerFile: [[Amstelveen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Amstelveen.md|Amstelveen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Amstelveen.internal.md|Amstelveen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Amstelveen.protect.md|Amstelveen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Amstelveen.private.md|Amstelveen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Amstelveen.personal.md|Amstelveen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Amstelveen.secret.md|Amstelveen.secret]] 

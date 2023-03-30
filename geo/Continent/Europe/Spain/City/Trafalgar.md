@@ -29,3 +29,12 @@ markerFile: [[Trafalgar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Trafalgar.md|Trafalgar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Trafalgar.internal.md|Trafalgar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Trafalgar.protect.md|Trafalgar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Trafalgar.private.md|Trafalgar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Trafalgar.personal.md|Trafalgar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Trafalgar.secret.md|Trafalgar.secret]] 

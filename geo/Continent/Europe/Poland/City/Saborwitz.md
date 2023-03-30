@@ -29,3 +29,12 @@ markerFile: [[Saborwitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Saborwitz.md|Saborwitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Saborwitz.internal.md|Saborwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Saborwitz.protect.md|Saborwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Saborwitz.private.md|Saborwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Saborwitz.personal.md|Saborwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Saborwitz.secret.md|Saborwitz.secret]] 

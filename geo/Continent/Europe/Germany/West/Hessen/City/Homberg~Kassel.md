@@ -28,3 +28,12 @@ markerFile: [[Homberg~Kassel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.md|Homberg~Kassel]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.internal.md|Homberg~Kassel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.protect.md|Homberg~Kassel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.private.md|Homberg~Kassel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.personal.md|Homberg~Kassel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Kassel.secret.md|Homberg~Kassel.secret]] 

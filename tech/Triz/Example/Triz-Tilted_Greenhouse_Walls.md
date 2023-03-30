@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-tilt]]]
 
 Tilted Greenhouse Walls and Reflector on the North Side.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Tilted_Greenhouse_Walls.md|Triz-Tilted_Greenhouse_Walls]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Tilted_Greenhouse_Walls.internal.md|Triz-Tilted_Greenhouse_Walls.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Tilted_Greenhouse_Walls.protect.md|Triz-Tilted_Greenhouse_Walls.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Tilted_Greenhouse_Walls.private.md|Triz-Tilted_Greenhouse_Walls.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Tilted_Greenhouse_Walls.personal.md|Triz-Tilted_Greenhouse_Walls.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Tilted_Greenhouse_Walls.secret.md|Triz-Tilted_Greenhouse_Walls.secret]] 

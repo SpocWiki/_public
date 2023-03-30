@@ -29,3 +29,12 @@ markerFile: [[Limoges]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Limoges.md|Limoges]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Limoges.internal.md|Limoges.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Limoges.protect.md|Limoges.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Limoges.private.md|Limoges.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Limoges.personal.md|Limoges.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Limoges.secret.md|Limoges.secret]] 

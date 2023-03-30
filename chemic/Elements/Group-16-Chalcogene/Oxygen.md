@@ -34,3 +34,11 @@ SpocWebEntityId: 21910
 > Common uses of oxygen include production of steel, plastics and textiles, brazing, welding and cutting of steels and other metals, rocket propellant, oxygen therapy, and life support systems in aircraft, submarines, spaceflight and diving.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxygen)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-16-Chalcogene/Oxygen.md|Oxygen]] 
+- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Oxygen.internal.md|Oxygen.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Oxygen.protect.md|Oxygen.protect]] 
+- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Oxygen.private.md|Oxygen.private]] 
+- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Oxygen.personal.md|Oxygen.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Oxygen.secret.md|Oxygen.secret]] 

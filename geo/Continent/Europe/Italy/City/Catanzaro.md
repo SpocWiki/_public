@@ -29,3 +29,12 @@ markerFile: [[Catanzaro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Catanzaro.md|Catanzaro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Catanzaro.internal.md|Catanzaro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Catanzaro.protect.md|Catanzaro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Catanzaro.private.md|Catanzaro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Catanzaro.personal.md|Catanzaro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Catanzaro.secret.md|Catanzaro.secret]] 

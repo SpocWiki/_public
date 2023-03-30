@@ -29,3 +29,12 @@ markerFile: [[Mortagne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Mortagne.md|Mortagne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mortagne.internal.md|Mortagne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mortagne.protect.md|Mortagne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Mortagne.private.md|Mortagne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mortagne.personal.md|Mortagne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mortagne.secret.md|Mortagne.secret]] 

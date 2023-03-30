@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-use-balls]]]
 
 Spiral Gear (Nautilus) produces continuous Resistance for Weight Lifting.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Nautilus.md|Triz-Nautilus]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Nautilus.internal.md|Triz-Nautilus.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Nautilus.protect.md|Triz-Nautilus.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Nautilus.private.md|Triz-Nautilus.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Nautilus.personal.md|Triz-Nautilus.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Nautilus.secret.md|Triz-Nautilus.secret]] 

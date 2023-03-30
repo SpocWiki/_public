@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28169]
 [NextStarId::27718]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Volantis-3.md|Volantis-3]] 
+- [[../../../_internal/astro/Star/Volantis-3.internal.md|Volantis-3.internal]] 
+- [[../../../_protect/astro/Star/Volantis-3.protect.md|Volantis-3.protect]] 
+- [[../../../_private/astro/Star/Volantis-3.private.md|Volantis-3.private]] 
+- [[../../../_personal/astro/Star/Volantis-3.personal.md|Volantis-3.personal]] 
+- [[../../../_secret/astro/Star/Volantis-3.secret.md|Volantis-3.secret]] 

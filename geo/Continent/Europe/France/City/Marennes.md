@@ -29,3 +29,12 @@ markerFile: [[Marennes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Marennes.md|Marennes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Marennes.internal.md|Marennes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Marennes.protect.md|Marennes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Marennes.private.md|Marennes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Marennes.personal.md|Marennes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Marennes.secret.md|Marennes.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Ipswich]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ipswich.md|Ipswich]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ipswich.internal.md|Ipswich.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ipswich.protect.md|Ipswich.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ipswich.private.md|Ipswich.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ipswich.personal.md|Ipswich.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ipswich.secret.md|Ipswich.secret]] 

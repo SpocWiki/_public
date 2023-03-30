@@ -29,3 +29,12 @@ markerFile: [[Wigstadtl]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.md|Wigstadtl]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.internal.md|Wigstadtl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.protect.md|Wigstadtl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.private.md|Wigstadtl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.personal.md|Wigstadtl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.secret.md|Wigstadtl.secret]] 

@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo_disjoint )
 ( #has_/range :: GeospatialGeometry, Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_disjoint_with.md|has_geo_disjoint_with]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_disjoint_with.internal.md|has_geo_disjoint_with.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_disjoint_with.protect.md|has_geo_disjoint_with.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_disjoint_with.private.md|has_geo_disjoint_with.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_disjoint_with.personal.md|has_geo_disjoint_with.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_disjoint_with.secret.md|has_geo_disjoint_with.secret]] 

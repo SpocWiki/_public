@@ -29,3 +29,12 @@ markerFile: [[Mallnitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Mallnitz.md|Mallnitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Mallnitz.internal.md|Mallnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Mallnitz.protect.md|Mallnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Mallnitz.private.md|Mallnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Mallnitz.personal.md|Mallnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Mallnitz.secret.md|Mallnitz.secret]] 

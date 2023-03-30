@@ -29,3 +29,12 @@ markerFile: [[Verkoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Verkoe.md|Verkoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Verkoe.internal.md|Verkoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Verkoe.protect.md|Verkoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Verkoe.private.md|Verkoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Verkoe.personal.md|Verkoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Verkoe.secret.md|Verkoe.secret]] 

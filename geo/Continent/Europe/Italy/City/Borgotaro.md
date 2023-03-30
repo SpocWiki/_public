@@ -29,3 +29,12 @@ markerFile: [[Borgotaro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Borgotaro.md|Borgotaro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Borgotaro.internal.md|Borgotaro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Borgotaro.protect.md|Borgotaro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Borgotaro.private.md|Borgotaro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Borgotaro.personal.md|Borgotaro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Borgotaro.secret.md|Borgotaro.secret]] 

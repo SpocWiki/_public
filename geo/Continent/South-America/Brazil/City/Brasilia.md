@@ -29,3 +29,12 @@ markerFile: [[Brasilia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Brazil/City/Brasilia.md|Brasilia]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Brazil/City/Brasilia.internal.md|Brasilia.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Brazil/City/Brasilia.protect.md|Brasilia.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Brazil/City/Brasilia.private.md|Brasilia.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Brazil/City/Brasilia.personal.md|Brasilia.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Brazil/City/Brasilia.secret.md|Brasilia.secret]] 

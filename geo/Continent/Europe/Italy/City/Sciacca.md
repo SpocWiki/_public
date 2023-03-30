@@ -29,3 +29,12 @@ markerFile: [[Sciacca]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sciacca.md|Sciacca]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sciacca.internal.md|Sciacca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sciacca.protect.md|Sciacca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sciacca.private.md|Sciacca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sciacca.personal.md|Sciacca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sciacca.secret.md|Sciacca.secret]] 

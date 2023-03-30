@@ -29,3 +29,12 @@ markerFile: [[Maidstone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Maidstone.md|Maidstone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Maidstone.internal.md|Maidstone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Maidstone.protect.md|Maidstone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Maidstone.private.md|Maidstone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Maidstone.personal.md|Maidstone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Maidstone.secret.md|Maidstone.secret]] 

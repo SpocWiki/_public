@@ -29,3 +29,12 @@ markerFile: [[Rousdon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Rousdon.md|Rousdon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Rousdon.internal.md|Rousdon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Rousdon.protect.md|Rousdon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Rousdon.private.md|Rousdon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Rousdon.personal.md|Rousdon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Rousdon.secret.md|Rousdon.secret]] 

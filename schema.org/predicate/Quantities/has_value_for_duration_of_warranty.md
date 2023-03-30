@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_duration_of_warranty )
 ( #has_/range :: QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.md|has_value_for_duration_of_warranty]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.internal.md|has_value_for_duration_of_warranty.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.protect.md|has_value_for_duration_of_warranty.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.private.md|has_value_for_duration_of_warranty.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.personal.md|has_value_for_duration_of_warranty.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.secret.md|has_value_for_duration_of_warranty.secret]] 

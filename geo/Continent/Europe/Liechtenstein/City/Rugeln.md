@@ -29,3 +29,12 @@ markerFile: [[Rugeln]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Rugeln.md|Rugeln]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Rugeln.internal.md|Rugeln.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Rugeln.protect.md|Rugeln.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Rugeln.private.md|Rugeln.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Rugeln.personal.md|Rugeln.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Rugeln.secret.md|Rugeln.secret]] 

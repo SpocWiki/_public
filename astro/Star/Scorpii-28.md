@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27416]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Scorpii-28.md|Scorpii-28]] 
+- [[../../../_internal/astro/Star/Scorpii-28.internal.md|Scorpii-28.internal]] 
+- [[../../../_protect/astro/Star/Scorpii-28.protect.md|Scorpii-28.protect]] 
+- [[../../../_private/astro/Star/Scorpii-28.private.md|Scorpii-28.private]] 
+- [[../../../_personal/astro/Star/Scorpii-28.personal.md|Scorpii-28.personal]] 
+- [[../../../_secret/astro/Star/Scorpii-28.secret.md|Scorpii-28.secret]] 

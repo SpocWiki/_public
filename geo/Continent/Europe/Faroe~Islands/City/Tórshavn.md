@@ -29,3 +29,12 @@ markerFile: [[Tórshavn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Faroe~Islands/City/Tórshavn.md|Tórshavn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Faroe~Islands/City/Tórshavn.internal.md|Tórshavn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Faroe~Islands/City/Tórshavn.protect.md|Tórshavn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Faroe~Islands/City/Tórshavn.private.md|Tórshavn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Faroe~Islands/City/Tórshavn.personal.md|Tórshavn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Faroe~Islands/City/Tórshavn.secret.md|Tórshavn.secret]] 

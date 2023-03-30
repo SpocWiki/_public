@@ -29,3 +29,12 @@ markerFile: [[Yarmouth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Yarmouth.md|Yarmouth]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Yarmouth.internal.md|Yarmouth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Yarmouth.protect.md|Yarmouth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Yarmouth.private.md|Yarmouth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Yarmouth.personal.md|Yarmouth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Yarmouth.secret.md|Yarmouth.secret]] 

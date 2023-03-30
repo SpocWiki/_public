@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_iata_code )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_iata_code.md|has_iata_code]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_iata_code.internal.md|has_iata_code.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_iata_code.protect.md|has_iata_code.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_iata_code.private.md|has_iata_code.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_iata_code.personal.md|has_iata_code.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_iata_code.secret.md|has_iata_code.secret]] 

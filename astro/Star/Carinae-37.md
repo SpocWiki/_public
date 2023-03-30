@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28099]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Carinae-37.md|Carinae-37]] 
+- [[../../../_internal/astro/Star/Carinae-37.internal.md|Carinae-37.internal]] 
+- [[../../../_protect/astro/Star/Carinae-37.protect.md|Carinae-37.protect]] 
+- [[../../../_private/astro/Star/Carinae-37.private.md|Carinae-37.private]] 
+- [[../../../_personal/astro/Star/Carinae-37.personal.md|Carinae-37.personal]] 
+- [[../../../_secret/astro/Star/Carinae-37.secret.md|Carinae-37.secret]]
+

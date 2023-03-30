@@ -32,3 +32,12 @@ markerFolder: ./Rhodesia-Nyasaland/City
 [geo-lon::31.0297]
 [geo-lat::-17.8639]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Rhodesia-Nyasaland.md|Rhodesia-Nyasaland]] 
+- [[../../../../_internal/geo/Continent/Africa/Rhodesia-Nyasaland.internal.md|Rhodesia-Nyasaland.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Rhodesia-Nyasaland.protect.md|Rhodesia-Nyasaland.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Rhodesia-Nyasaland.private.md|Rhodesia-Nyasaland.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Rhodesia-Nyasaland.personal.md|Rhodesia-Nyasaland.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Rhodesia-Nyasaland.secret.md|Rhodesia-Nyasaland.secret]] 

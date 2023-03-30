@@ -29,3 +29,12 @@ markerFile: [[Sodankylae~Taeh.]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..md|Sodankylae~Taeh.]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..internal.md|Sodankylae~Taeh..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..protect.md|Sodankylae~Taeh..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..private.md|Sodankylae~Taeh..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..personal.md|Sodankylae~Taeh..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..secret.md|Sodankylae~Taeh..secret]] 

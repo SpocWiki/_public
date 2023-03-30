@@ -24,3 +24,12 @@ markerFile: [[T-Hch.Hoffmann-Str_Blutsp.Dienst]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.md|T-Hch.Hoffmann-Str_Blutsp.Dienst]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.internal.md|T-Hch.Hoffmann-Str_Blutsp.Dienst.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.protect.md|T-Hch.Hoffmann-Str_Blutsp.Dienst.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.private.md|T-Hch.Hoffmann-Str_Blutsp.Dienst.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.personal.md|T-Hch.Hoffmann-Str_Blutsp.Dienst.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.secret.md|T-Hch.Hoffmann-Str_Blutsp.Dienst.secret]] 

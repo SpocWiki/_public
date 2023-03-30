@@ -29,3 +29,12 @@ markerFile: [[Feltre]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Feltre.md|Feltre]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Feltre.internal.md|Feltre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Feltre.protect.md|Feltre.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Feltre.private.md|Feltre.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Feltre.personal.md|Feltre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Feltre.secret.md|Feltre.secret]] 

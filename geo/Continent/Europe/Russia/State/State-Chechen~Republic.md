@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/State/State-Chechen~Republic.md|State-Chechen~Republic]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Chechen~Republic.internal.md|State-Chechen~Republic.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Chechen~Republic.protect.md|State-Chechen~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Chechen~Republic.private.md|State-Chechen~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Chechen~Republic.personal.md|State-Chechen~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Chechen~Republic.secret.md|State-Chechen~Republic.secret]] 

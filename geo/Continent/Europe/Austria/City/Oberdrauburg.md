@@ -29,3 +29,12 @@ markerFile: [[Oberdrauburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Oberdrauburg.md|Oberdrauburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Oberdrauburg.internal.md|Oberdrauburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Oberdrauburg.protect.md|Oberdrauburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Oberdrauburg.private.md|Oberdrauburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Oberdrauburg.personal.md|Oberdrauburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Oberdrauburg.secret.md|Oberdrauburg.secret]] 

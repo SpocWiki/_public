@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_parent_item )
 ( #has_/range :: Comment )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_parent_item.md|has_parent_item]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parent_item.internal.md|has_parent_item.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_parent_item.protect.md|has_parent_item.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_parent_item.private.md|has_parent_item.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_parent_item.personal.md|has_parent_item.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_parent_item.secret.md|has_parent_item.secret]] 

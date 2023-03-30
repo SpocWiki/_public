@@ -29,3 +29,12 @@ markerFile: [[Dumfries]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dumfries.md|Dumfries]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dumfries.internal.md|Dumfries.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dumfries.protect.md|Dumfries.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dumfries.private.md|Dumfries.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dumfries.personal.md|Dumfries.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dumfries.secret.md|Dumfries.secret]] 

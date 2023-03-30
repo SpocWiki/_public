@@ -28,3 +28,12 @@ markerFile: [[Koenigsbrueck]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.md|Koenigsbrueck]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.internal.md|Koenigsbrueck.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.protect.md|Koenigsbrueck.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.private.md|Koenigsbrueck.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.personal.md|Koenigsbrueck.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.secret.md|Koenigsbrueck.secret]] 

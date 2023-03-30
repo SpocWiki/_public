@@ -29,3 +29,12 @@ markerFile: [[Montmorillon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Montmorillon.md|Montmorillon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montmorillon.internal.md|Montmorillon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montmorillon.protect.md|Montmorillon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montmorillon.private.md|Montmorillon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montmorillon.personal.md|Montmorillon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montmorillon.secret.md|Montmorillon.secret]] 

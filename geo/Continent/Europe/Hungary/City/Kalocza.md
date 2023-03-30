@@ -29,3 +29,12 @@ markerFile: [[Kalocza]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Kalocza.md|Kalocza]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kalocza.internal.md|Kalocza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kalocza.protect.md|Kalocza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kalocza.private.md|Kalocza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kalocza.personal.md|Kalocza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kalocza.secret.md|Kalocza.secret]] 

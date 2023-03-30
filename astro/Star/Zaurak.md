@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28118]
 [NextStarId::27748]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Zaurak.md|Zaurak]] 
+- [[../../../_internal/astro/Star/Zaurak.internal.md|Zaurak.internal]] 
+- [[../../../_protect/astro/Star/Zaurak.protect.md|Zaurak.protect]] 
+- [[../../../_private/astro/Star/Zaurak.private.md|Zaurak.private]] 
+- [[../../../_personal/astro/Star/Zaurak.personal.md|Zaurak.personal]] 
+- [[../../../_secret/astro/Star/Zaurak.secret.md|Zaurak.secret]] 

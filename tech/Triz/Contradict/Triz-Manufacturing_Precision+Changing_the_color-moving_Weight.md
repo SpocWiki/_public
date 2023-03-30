@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Changing_the_color]]]
 - [con::[[Triz-moving_Weight]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.internal.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.protect.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.private.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.personal.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.secret.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Mondovi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Mondovi.md|Mondovi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mondovi.internal.md|Mondovi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mondovi.protect.md|Mondovi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mondovi.private.md|Mondovi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mondovi.personal.md|Mondovi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mondovi.secret.md|Mondovi.secret]] 

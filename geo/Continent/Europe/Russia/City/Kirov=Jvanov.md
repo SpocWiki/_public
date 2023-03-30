@@ -29,3 +29,12 @@ markerFile: [[Kirov=Jvanov]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kirov=Jvanov.md|Kirov=Jvanov]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirov=Jvanov.internal.md|Kirov=Jvanov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirov=Jvanov.protect.md|Kirov=Jvanov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kirov=Jvanov.private.md|Kirov=Jvanov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirov=Jvanov.personal.md|Kirov=Jvanov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirov=Jvanov.secret.md|Kirov=Jvanov.secret]] 

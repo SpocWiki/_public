@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mediator]]]
 - [con::[[Triz-Reliability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.md|Triz-Power+Mediator-Reliability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.internal.md|Triz-Power+Mediator-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.protect.md|Triz-Power+Mediator-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.private.md|Triz-Power+Mediator-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.personal.md|Triz-Power+Mediator-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.secret.md|Triz-Power+Mediator-Reliability.secret]] 

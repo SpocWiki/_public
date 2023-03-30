@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_to_drop_off.md|has_time_to_drop_off]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_drop_off.internal.md|has_time_to_drop_off.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_drop_off.protect.md|has_time_to_drop_off.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_drop_off.private.md|has_time_to_drop_off.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_drop_off.personal.md|has_time_to_drop_off.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_drop_off.secret.md|has_time_to_drop_off.secret]] 

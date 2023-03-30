@@ -43,3 +43,12 @@ DJMixAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/dj_mix_album.md|dj_mix_album]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/dj_mix_album.internal.md|dj_mix_album.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/dj_mix_album.protect.md|dj_mix_album.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/dj_mix_album.private.md|dj_mix_album.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/dj_mix_album.personal.md|dj_mix_album.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/dj_mix_album.secret.md|dj_mix_album.secret]] 

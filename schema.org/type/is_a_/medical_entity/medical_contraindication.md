@@ -41,3 +41,12 @@ A condition or factor that serves as a reason to withhold a certain medical ther
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_contraindication.md|medical_contraindication]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_contraindication.internal.md|medical_contraindication.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_contraindication.protect.md|medical_contraindication.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_contraindication.private.md|medical_contraindication.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_contraindication.personal.md|medical_contraindication.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_contraindication.secret.md|medical_contraindication.secret]] 

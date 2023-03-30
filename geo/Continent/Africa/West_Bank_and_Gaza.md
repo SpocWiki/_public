@@ -32,3 +32,12 @@ markerFolder: ./West_Bank_and_Gaza/City
 [geo-lon::]
 [geo-lat::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/West_Bank_and_Gaza.md|West_Bank_and_Gaza]] 
+- [[../../../../_internal/geo/Continent/Africa/West_Bank_and_Gaza.internal.md|West_Bank_and_Gaza.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/West_Bank_and_Gaza.protect.md|West_Bank_and_Gaza.protect]] 
+- [[../../../../_private/geo/Continent/Africa/West_Bank_and_Gaza.private.md|West_Bank_and_Gaza.private]] 
+- [[../../../../_personal/geo/Continent/Africa/West_Bank_and_Gaza.personal.md|West_Bank_and_Gaza.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/West_Bank_and_Gaza.secret.md|West_Bank_and_Gaza.secret]] 

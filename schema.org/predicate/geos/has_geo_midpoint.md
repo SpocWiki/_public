@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo_midpoint )
 ( #has_/range :: GeoCoordinates )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_midpoint.md|has_geo_midpoint]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_midpoint.internal.md|has_geo_midpoint.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_midpoint.protect.md|has_geo_midpoint.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_midpoint.private.md|has_geo_midpoint.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_midpoint.personal.md|has_geo_midpoint.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_midpoint.secret.md|has_geo_midpoint.secret]] 

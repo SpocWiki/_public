@@ -29,3 +29,12 @@ markerFile: [[St.Jean_de_Luz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Jean_de_Luz.md|St.Jean_de_Luz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Jean_de_Luz.internal.md|St.Jean_de_Luz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Jean_de_Luz.protect.md|St.Jean_de_Luz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Jean_de_Luz.private.md|St.Jean_de_Luz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Jean_de_Luz.personal.md|St.Jean_de_Luz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Jean_de_Luz.secret.md|St.Jean_de_Luz.secret]] 

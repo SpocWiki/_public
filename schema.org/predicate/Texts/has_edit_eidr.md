@@ -51,3 +51,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_edit_eidr.md|has_edit_eidr]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_edit_eidr.internal.md|has_edit_eidr.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_edit_eidr.protect.md|has_edit_eidr.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_edit_eidr.private.md|has_edit_eidr.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_edit_eidr.personal.md|has_edit_eidr.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_edit_eidr.secret.md|has_edit_eidr.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Truro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Truro.md|Truro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Truro.internal.md|Truro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Truro.protect.md|Truro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Truro.private.md|Truro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Truro.personal.md|Truro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Truro.secret.md|Truro.secret]] 

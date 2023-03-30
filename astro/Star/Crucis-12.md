@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28112]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Crucis-12.md|Crucis-12]] 
+- [[../../../_internal/astro/Star/Crucis-12.internal.md|Crucis-12.internal]] 
+- [[../../../_protect/astro/Star/Crucis-12.protect.md|Crucis-12.protect]] 
+- [[../../../_private/astro/Star/Crucis-12.private.md|Crucis-12.private]] 
+- [[../../../_personal/astro/Star/Crucis-12.personal.md|Crucis-12.personal]] 
+- [[../../../_secret/astro/Star/Crucis-12.secret.md|Crucis-12.secret]]
+

@@ -29,3 +29,12 @@ markerFile: [[Nikolsburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.md|Nikolsburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.internal.md|Nikolsburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.protect.md|Nikolsburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.private.md|Nikolsburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.personal.md|Nikolsburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.secret.md|Nikolsburg.secret]] 

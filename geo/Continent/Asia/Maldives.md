@@ -131,3 +131,12 @@ markerFolder: ./Maldives/City
 [geo-lon::73.5]
 [geo-lat::4.16667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Maldives.md|Maldives]] 
+- [[../../../../_internal/geo/Continent/Asia/Maldives.internal.md|Maldives.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Maldives.protect.md|Maldives.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Maldives.private.md|Maldives.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Maldives.personal.md|Maldives.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Maldives.secret.md|Maldives.secret]] 

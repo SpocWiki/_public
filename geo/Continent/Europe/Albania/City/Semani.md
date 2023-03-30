@@ -29,3 +29,12 @@ markerFile: [[Semani]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Semani.md|Semani]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Semani.internal.md|Semani.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Semani.protect.md|Semani.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Semani.private.md|Semani.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Semani.personal.md|Semani.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Semani.secret.md|Semani.secret]] 

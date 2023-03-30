@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_comprised_of )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_comprised_of.md|is_comprised_of]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_comprised_of.internal.md|is_comprised_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_comprised_of.protect.md|is_comprised_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_comprised_of.private.md|is_comprised_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_comprised_of.personal.md|is_comprised_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_comprised_of.secret.md|is_comprised_of.secret]] 

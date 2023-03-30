@@ -28,3 +28,12 @@ markerFile: [[Dietfurt~Warthe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Dietfurt~Warthe.md|Dietfurt~Warthe]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dietfurt~Warthe.internal.md|Dietfurt~Warthe.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dietfurt~Warthe.protect.md|Dietfurt~Warthe.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dietfurt~Warthe.private.md|Dietfurt~Warthe.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dietfurt~Warthe.personal.md|Dietfurt~Warthe.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dietfurt~Warthe.secret.md|Dietfurt~Warthe.secret]] 

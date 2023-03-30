@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_region_drained )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_region_drained.md|has_region_drained]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_region_drained.internal.md|has_region_drained.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_region_drained.protect.md|has_region_drained.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_region_drained.private.md|has_region_drained.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_region_drained.personal.md|has_region_drained.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_region_drained.secret.md|has_region_drained.secret]] 

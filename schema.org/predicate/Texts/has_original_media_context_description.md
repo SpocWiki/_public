@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: description ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_original_media_context_description.md|has_original_media_context_description]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_original_media_context_description.internal.md|has_original_media_context_description.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_original_media_context_description.protect.md|has_original_media_context_description.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_original_media_context_description.private.md|has_original_media_context_description.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_original_media_context_description.personal.md|has_original_media_context_description.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_original_media_context_description.secret.md|has_original_media_context_description.secret]] 

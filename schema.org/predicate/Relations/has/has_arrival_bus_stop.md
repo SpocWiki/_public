@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_arrival_bus_stop )
 ( #has_/range :: BusStation, BusStop )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_bus_stop.md|has_arrival_bus_stop]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_bus_stop.internal.md|has_arrival_bus_stop.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_arrival_bus_stop.protect.md|has_arrival_bus_stop.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_arrival_bus_stop.private.md|has_arrival_bus_stop.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_arrival_bus_stop.personal.md|has_arrival_bus_stop.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_arrival_bus_stop.secret.md|has_arrival_bus_stop.secret]] 

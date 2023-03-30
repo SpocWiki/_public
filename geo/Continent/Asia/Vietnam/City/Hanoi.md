@@ -29,3 +29,12 @@ markerFile: [[Hanoi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Vietnam/City/Hanoi.md|Hanoi]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Vietnam/City/Hanoi.internal.md|Hanoi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Vietnam/City/Hanoi.protect.md|Hanoi.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Vietnam/City/Hanoi.private.md|Hanoi.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Vietnam/City/Hanoi.personal.md|Hanoi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Vietnam/City/Hanoi.secret.md|Hanoi.secret]] 

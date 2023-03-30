@@ -29,3 +29,12 @@ markerFile: [[Kuhmoniemi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kuhmoniemi.md|Kuhmoniemi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuhmoniemi.internal.md|Kuhmoniemi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuhmoniemi.protect.md|Kuhmoniemi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kuhmoniemi.private.md|Kuhmoniemi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuhmoniemi.personal.md|Kuhmoniemi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuhmoniemi.secret.md|Kuhmoniemi.secret]] 

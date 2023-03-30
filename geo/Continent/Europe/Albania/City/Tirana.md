@@ -29,3 +29,12 @@ markerFile: [[Tirana]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Tirana.md|Tirana]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Tirana.internal.md|Tirana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Tirana.protect.md|Tirana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Tirana.private.md|Tirana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Tirana.personal.md|Tirana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Tirana.secret.md|Tirana.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Peschiera]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Peschiera.md|Peschiera]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Peschiera.internal.md|Peschiera.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Peschiera.protect.md|Peschiera.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Peschiera.private.md|Peschiera.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Peschiera.personal.md|Peschiera.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Peschiera.secret.md|Peschiera.secret]] 

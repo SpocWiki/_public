@@ -29,3 +29,12 @@ markerFile: [[Alba-Julia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Alba-Julia.md|Alba-Julia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Alba-Julia.internal.md|Alba-Julia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Alba-Julia.protect.md|Alba-Julia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Alba-Julia.private.md|Alba-Julia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Alba-Julia.personal.md|Alba-Julia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Alba-Julia.secret.md|Alba-Julia.secret]] 

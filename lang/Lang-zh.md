@@ -16,3 +16,13 @@ tags:
 [Iso2::zh]
 [Iso3::zho]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/lang/Lang-zh.md|Lang-zh]] 
+- [[../../_internal/lang/Lang-zh.internal.md|Lang-zh.internal]] 
+- [[../../_protect/lang/Lang-zh.protect.md|Lang-zh.protect]] 
+- [[../../_private/lang/Lang-zh.private.md|Lang-zh.private]] 
+- [[../../_personal/lang/Lang-zh.personal.md|Lang-zh.personal]] 
+- [[../../_secret/lang/Lang-zh.secret.md|Lang-zh.secret]]
+

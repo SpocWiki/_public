@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Copying]]]
 - [con::[[Triz-Strength]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Copying-Strength.md|Triz-Power+Copying-Strength]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Copying-Strength.internal.md|Triz-Power+Copying-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Copying-Strength.protect.md|Triz-Power+Copying-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Copying-Strength.private.md|Triz-Power+Copying-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Copying-Strength.personal.md|Triz-Power+Copying-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Copying-Strength.secret.md|Triz-Power+Copying-Strength.secret]] 

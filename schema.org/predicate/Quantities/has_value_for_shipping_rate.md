@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_shipping_rate )
 ( #has_/range :: MonetaryAmount )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_shipping_rate.md|has_value_for_shipping_rate]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_shipping_rate.internal.md|has_value_for_shipping_rate.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_shipping_rate.protect.md|has_value_for_shipping_rate.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_shipping_rate.private.md|has_value_for_shipping_rate.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_shipping_rate.personal.md|has_value_for_shipping_rate.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_shipping_rate.secret.md|has_value_for_shipping_rate.secret]] 

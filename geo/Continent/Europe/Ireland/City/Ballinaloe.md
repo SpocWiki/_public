@@ -29,3 +29,12 @@ markerFile: [[Ballinaloe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Ballinaloe.md|Ballinaloe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Ballinaloe.internal.md|Ballinaloe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Ballinaloe.protect.md|Ballinaloe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Ballinaloe.private.md|Ballinaloe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Ballinaloe.personal.md|Ballinaloe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Ballinaloe.secret.md|Ballinaloe.secret]] 

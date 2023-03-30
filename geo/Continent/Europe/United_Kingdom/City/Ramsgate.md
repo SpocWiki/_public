@@ -29,3 +29,12 @@ markerFile: [[Ramsgate]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ramsgate.md|Ramsgate]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ramsgate.internal.md|Ramsgate.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ramsgate.protect.md|Ramsgate.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ramsgate.private.md|Ramsgate.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ramsgate.personal.md|Ramsgate.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ramsgate.secret.md|Ramsgate.secret]] 

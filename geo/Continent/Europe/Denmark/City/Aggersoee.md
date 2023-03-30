@@ -29,3 +29,12 @@ markerFile: [[Aggersoee]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Aggersoee.md|Aggersoee]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Aggersoee.internal.md|Aggersoee.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Aggersoee.protect.md|Aggersoee.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Aggersoee.private.md|Aggersoee.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Aggersoee.personal.md|Aggersoee.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Aggersoee.secret.md|Aggersoee.secret]] 

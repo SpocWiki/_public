@@ -29,3 +29,12 @@ markerFile: [[Nizza_Monferrato]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Nizza_Monferrato.md|Nizza_Monferrato]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Nizza_Monferrato.internal.md|Nizza_Monferrato.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Nizza_Monferrato.protect.md|Nizza_Monferrato.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Nizza_Monferrato.private.md|Nizza_Monferrato.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Nizza_Monferrato.personal.md|Nizza_Monferrato.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Nizza_Monferrato.secret.md|Nizza_Monferrato.secret]] 

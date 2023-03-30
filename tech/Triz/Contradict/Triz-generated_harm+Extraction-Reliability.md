@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-Reliability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Reliability.md|Triz-generated_harm+Extraction-Reliability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Reliability.internal.md|Triz-generated_harm+Extraction-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-Reliability.protect.md|Triz-generated_harm+Extraction-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-Reliability.private.md|Triz-generated_harm+Extraction-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Reliability.personal.md|Triz-generated_harm+Extraction-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Extraction-Reliability.secret.md|Triz-generated_harm+Extraction-Reliability.secret]] 

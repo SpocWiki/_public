@@ -29,3 +29,12 @@ markerFile: [[El_Aaiún_(Laâyoune)]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).md|El_Aaiún_(Laâyoune)]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).internal.md|El_Aaiún_(Laâyoune).internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).protect.md|El_Aaiún_(Laâyoune).protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).private.md|El_Aaiún_(Laâyoune).private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).personal.md|El_Aaiún_(Laâyoune).personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).secret.md|El_Aaiún_(Laâyoune).secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Pillau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pillau.md|Pillau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pillau.internal.md|Pillau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pillau.protect.md|Pillau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pillau.private.md|Pillau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pillau.personal.md|Pillau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pillau.secret.md|Pillau.secret]] 

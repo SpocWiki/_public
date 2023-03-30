@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_default_value )
 ( #has_/range :: Text, Thing )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_default_value.md|has_default_value]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_default_value.internal.md|has_default_value.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_default_value.protect.md|has_default_value.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_default_value.private.md|has_default_value.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_default_value.personal.md|has_default_value.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_default_value.secret.md|has_default_value.secret]] 

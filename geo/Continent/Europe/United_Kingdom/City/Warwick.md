@@ -29,3 +29,12 @@ markerFile: [[Warwick]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Warwick.md|Warwick]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Warwick.internal.md|Warwick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Warwick.protect.md|Warwick.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Warwick.private.md|Warwick.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Warwick.personal.md|Warwick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Warwick.secret.md|Warwick.secret]] 

@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_music_group_member )
 ( #has_/range :: Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_music_group_member.md|has_music_group_member]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_music_group_member.internal.md|has_music_group_member.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_music_group_member.protect.md|has_music_group_member.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_music_group_member.private.md|has_music_group_member.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_music_group_member.personal.md|has_music_group_member.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_music_group_member.secret.md|has_music_group_member.secret]] 

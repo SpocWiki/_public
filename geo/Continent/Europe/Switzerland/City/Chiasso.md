@@ -29,3 +29,12 @@ markerFile: [[Chiasso]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chiasso.md|Chiasso]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chiasso.internal.md|Chiasso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chiasso.protect.md|Chiasso.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chiasso.private.md|Chiasso.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chiasso.personal.md|Chiasso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chiasso.secret.md|Chiasso.secret]] 

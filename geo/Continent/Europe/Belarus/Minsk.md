@@ -29,3 +29,12 @@ markerFile: [[Minsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/Europe/Belarus/Minsk.md|Minsk]] 
+- [[../../../../../_internal/geo/Continent/Europe/Belarus/Minsk.internal.md|Minsk.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Belarus/Minsk.protect.md|Minsk.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Belarus/Minsk.private.md|Minsk.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Belarus/Minsk.personal.md|Minsk.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Belarus/Minsk.secret.md|Minsk.secret]] 

@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::27458]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alioth.md|Alioth]] 
+- [[../../../_internal/astro/Star/Alioth.internal.md|Alioth.internal]] 
+- [[../../../_protect/astro/Star/Alioth.protect.md|Alioth.protect]] 
+- [[../../../_private/astro/Star/Alioth.private.md|Alioth.private]] 
+- [[../../../_personal/astro/Star/Alioth.personal.md|Alioth.personal]] 
+- [[../../../_secret/astro/Star/Alioth.secret.md|Alioth.secret]]
+

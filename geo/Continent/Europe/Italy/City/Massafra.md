@@ -29,3 +29,12 @@ markerFile: [[Massafra]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Massafra.md|Massafra]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Massafra.internal.md|Massafra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Massafra.protect.md|Massafra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Massafra.private.md|Massafra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Massafra.personal.md|Massafra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Massafra.secret.md|Massafra.secret]] 

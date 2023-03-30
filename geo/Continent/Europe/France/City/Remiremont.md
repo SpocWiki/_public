@@ -29,3 +29,12 @@ markerFile: [[Remiremont]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Remiremont.md|Remiremont]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Remiremont.internal.md|Remiremont.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Remiremont.protect.md|Remiremont.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Remiremont.private.md|Remiremont.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Remiremont.personal.md|Remiremont.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Remiremont.secret.md|Remiremont.secret]] 

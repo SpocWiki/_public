@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28112]
 [NextStarId::27256]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Acrux.md|Acrux]] 
+- [[../../../_internal/astro/Star/Acrux.internal.md|Acrux.internal]] 
+- [[../../../_protect/astro/Star/Acrux.protect.md|Acrux.protect]] 
+- [[../../../_private/astro/Star/Acrux.private.md|Acrux.private]] 
+- [[../../../_personal/astro/Star/Acrux.personal.md|Acrux.personal]] 
+- [[../../../_secret/astro/Star/Acrux.secret.md|Acrux.secret]]
+

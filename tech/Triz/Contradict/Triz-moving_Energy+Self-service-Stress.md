@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Self-service]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.md|Triz-moving_Energy+Self-service-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.internal.md|Triz-moving_Energy+Self-service-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.protect.md|Triz-moving_Energy+Self-service-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.private.md|Triz-moving_Energy+Self-service-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.personal.md|Triz-moving_Energy+Self-service-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.secret.md|Triz-moving_Energy+Self-service-Stress.secret]] 

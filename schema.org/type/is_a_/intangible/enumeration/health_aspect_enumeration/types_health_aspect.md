@@ -45,3 +45,12 @@ Categorization and other types related to a topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.md|types_health_aspect]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.internal.md|types_health_aspect.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.protect.md|types_health_aspect.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.private.md|types_health_aspect.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.personal.md|types_health_aspect.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.secret.md|types_health_aspect.secret]] 

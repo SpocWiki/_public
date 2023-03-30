@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_call_sign.md|has_call_sign]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_call_sign.internal.md|has_call_sign.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_call_sign.protect.md|has_call_sign.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_call_sign.private.md|has_call_sign.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_call_sign.personal.md|has_call_sign.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_call_sign.secret.md|has_call_sign.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Montevarchi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Montevarchi.md|Montevarchi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montevarchi.internal.md|Montevarchi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montevarchi.protect.md|Montevarchi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montevarchi.private.md|Montevarchi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montevarchi.personal.md|Montevarchi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montevarchi.secret.md|Montevarchi.secret]] 

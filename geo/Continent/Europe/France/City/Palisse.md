@@ -29,3 +29,12 @@ markerFile: [[Palisse]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Palisse.md|Palisse]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Palisse.internal.md|Palisse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Palisse.protect.md|Palisse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Palisse.private.md|Palisse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Palisse.personal.md|Palisse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Palisse.secret.md|Palisse.secret]] 

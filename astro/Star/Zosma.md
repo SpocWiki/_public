@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28128]
 [NextStarId::27289]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Zosma.md|Zosma]] 
+- [[../../../_internal/astro/Star/Zosma.internal.md|Zosma.internal]] 
+- [[../../../_protect/astro/Star/Zosma.protect.md|Zosma.protect]] 
+- [[../../../_private/astro/Star/Zosma.private.md|Zosma.private]] 
+- [[../../../_personal/astro/Star/Zosma.personal.md|Zosma.personal]] 
+- [[../../../_secret/astro/Star/Zosma.secret.md|Zosma.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Bad_Cannstatt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.md|Bad_Cannstatt]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.internal.md|Bad_Cannstatt.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.protect.md|Bad_Cannstatt.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.private.md|Bad_Cannstatt.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.personal.md|Bad_Cannstatt.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.secret.md|Bad_Cannstatt.secret]] 

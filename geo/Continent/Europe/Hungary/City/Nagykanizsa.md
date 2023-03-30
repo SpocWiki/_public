@@ -29,3 +29,12 @@ markerFile: [[Nagykanizsa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Nagykanizsa.md|Nagykanizsa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nagykanizsa.internal.md|Nagykanizsa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nagykanizsa.protect.md|Nagykanizsa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Nagykanizsa.private.md|Nagykanizsa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nagykanizsa.personal.md|Nagykanizsa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nagykanizsa.secret.md|Nagykanizsa.secret]] 

@@ -31,3 +31,11 @@ SpocWebEntityId: 21978
 > Bismuth was long considered the element with the highest atomic mass whose nuclei do not spontaneously decay. However, in 2003 it was discovered to be extremely weakly radioactive. The metal's only primordial isotope, bismuth-209, experiences alpha decay at such a minute rate that its half-life is more than a billion times the estimated age of the universe. For all but the most exotic of uses bismuth may be considered stable because of its tremendously long half-life.Bismuth metal has been known since ancient times. Before modern analytical methods bismuth's metallurgical similarities to lead and tin often led it to be confused with those metals. The etymology of "bismuth" is uncertain. The name may come from mid-sixteenth century New Latin translations of the German words weiße Masse or Wismuth, meaning 'white mass', which were rendered as bisemutum or bisemutium.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bismuth)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Bismuth.md|Bismuth]] 
+- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Bismuth.internal.md|Bismuth.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Bismuth.protect.md|Bismuth.protect]] 
+- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Bismuth.private.md|Bismuth.private]] 
+- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Bismuth.personal.md|Bismuth.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Bismuth.secret.md|Bismuth.secret]] 

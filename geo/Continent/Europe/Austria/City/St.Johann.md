@@ -29,3 +29,12 @@ markerFile: [[St.Johann]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Johann.md|St.Johann]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Johann.internal.md|St.Johann.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Johann.protect.md|St.Johann.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Johann.private.md|St.Johann.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Johann.personal.md|St.Johann.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Johann.secret.md|St.Johann.secret]] 

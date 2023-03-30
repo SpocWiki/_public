@@ -36,3 +36,11 @@ SpocWebEntityId: 21905
 > On Earth, it is relatively rare—5.2 ppm by volume in the atmosphere. Most terrestrial helium present today is created by the natural radioactive decay of heavy radioactive elements (thorium and uranium, although there are other examples), as the alpha particles emitted by such decays consist of helium-4 nuclei. This radiogenic helium is trapped with natural gas in concentrations as great as 7% by volume, from which it is extracted commercially by a low-temperature separation process called fractional distillation. Terrestrial helium is a non-renewable resource because once released into the atmosphere, it promptly escapes into space. Its supply is thought to be rapidly diminishing. However, some studies suggest that helium produced deep in the earth by radioactive decay can collect in natural gas reserves in larger than expected quantities, in some cases, having been released by volcanic activity.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Helium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Helium.md|Helium]] 
+- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Helium.internal.md|Helium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Helium.protect.md|Helium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Helium.private.md|Helium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Helium.personal.md|Helium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Helium.secret.md|Helium.secret]] 

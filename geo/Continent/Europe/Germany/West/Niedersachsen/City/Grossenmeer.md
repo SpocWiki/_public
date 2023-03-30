@@ -28,3 +28,12 @@ markerFile: [[Grossenmeer]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.md|Grossenmeer]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.internal.md|Grossenmeer.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.protect.md|Grossenmeer.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.private.md|Grossenmeer.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.personal.md|Grossenmeer.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.secret.md|Grossenmeer.secret]] 

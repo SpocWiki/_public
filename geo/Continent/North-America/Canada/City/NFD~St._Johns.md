@@ -29,3 +29,12 @@ markerFile: [[NFD~St._Johns]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/NFD~St._Johns.md|NFD~St._Johns]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/NFD~St._Johns.internal.md|NFD~St._Johns.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/NFD~St._Johns.protect.md|NFD~St._Johns.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/NFD~St._Johns.private.md|NFD~St._Johns.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/NFD~St._Johns.personal.md|NFD~St._Johns.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/NFD~St._Johns.secret.md|NFD~St._Johns.secret]] 

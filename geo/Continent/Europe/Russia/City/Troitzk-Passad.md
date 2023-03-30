@@ -29,3 +29,12 @@ markerFile: [[Troitzk-Passad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Troitzk-Passad.md|Troitzk-Passad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Troitzk-Passad.internal.md|Troitzk-Passad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Troitzk-Passad.protect.md|Troitzk-Passad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Troitzk-Passad.private.md|Troitzk-Passad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Troitzk-Passad.personal.md|Troitzk-Passad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Troitzk-Passad.secret.md|Troitzk-Passad.secret]] 

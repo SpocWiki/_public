@@ -29,3 +29,12 @@ markerFile: [[Palamos]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Palamos.md|Palamos]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Palamos.internal.md|Palamos.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Palamos.protect.md|Palamos.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Palamos.private.md|Palamos.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Palamos.personal.md|Palamos.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Palamos.secret.md|Palamos.secret]] 

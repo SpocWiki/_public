@@ -137,3 +137,12 @@ markerFolder: ./Germany/City
 [geo-lon::10.1207]
 [geo-lat::50.8699]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Germany.md|Germany]] 
+- [[../../../../_internal/geo/Continent/Europe/Germany.internal.md|Germany.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Germany.protect.md|Germany.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Germany.private.md|Germany.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Germany.personal.md|Germany.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Germany.secret.md|Germany.secret]] 

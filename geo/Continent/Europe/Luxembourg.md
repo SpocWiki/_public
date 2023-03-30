@@ -128,3 +128,12 @@ markerFolder: ./Luxembourg/City
 [geo-lon::6.07904]
 [geo-lat::49.6827]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Luxembourg.md|Luxembourg]] 
+- [[../../../../_internal/geo/Continent/Europe/Luxembourg.internal.md|Luxembourg.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Luxembourg.protect.md|Luxembourg.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Luxembourg.private.md|Luxembourg.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Luxembourg.personal.md|Luxembourg.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Luxembourg.secret.md|Luxembourg.secret]] 

@@ -131,3 +131,12 @@ markerFolder: ./Spain/City
 [geo-lon::-2.86673]
 [geo-lat::40.0911]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Spain.md|Spain]] 
+- [[../../../../_internal/geo/Continent/Europe/Spain.internal.md|Spain.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Spain.protect.md|Spain.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Spain.private.md|Spain.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Spain.personal.md|Spain.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Spain.secret.md|Spain.secret]] 

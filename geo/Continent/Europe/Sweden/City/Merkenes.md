@@ -29,3 +29,12 @@ markerFile: [[Merkenes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Merkenes.md|Merkenes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Merkenes.internal.md|Merkenes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Merkenes.protect.md|Merkenes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Merkenes.private.md|Merkenes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Merkenes.personal.md|Merkenes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Merkenes.secret.md|Merkenes.secret]] 

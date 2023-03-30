@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28104]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Chamaeleontis-5.md|Chamaeleontis-5]] 
+- [[../../../_internal/astro/Star/Chamaeleontis-5.internal.md|Chamaeleontis-5.internal]] 
+- [[../../../_protect/astro/Star/Chamaeleontis-5.protect.md|Chamaeleontis-5.protect]] 
+- [[../../../_private/astro/Star/Chamaeleontis-5.private.md|Chamaeleontis-5.private]] 
+- [[../../../_personal/astro/Star/Chamaeleontis-5.personal.md|Chamaeleontis-5.personal]] 
+- [[../../../_secret/astro/Star/Chamaeleontis-5.secret.md|Chamaeleontis-5.secret]]
+

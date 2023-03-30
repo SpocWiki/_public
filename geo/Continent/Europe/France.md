@@ -132,3 +132,12 @@ markerFolder: ./France/City
 [geo-lon::2.33663]
 [geo-lat::46.8944]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/France.md|France]] 
+- [[../../../../_internal/geo/Continent/Europe/France.internal.md|France.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/France.protect.md|France.protect]] 
+- [[../../../../_private/geo/Continent/Europe/France.private.md|France.private]] 
+- [[../../../../_personal/geo/Continent/Europe/France.personal.md|France.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/France.secret.md|France.secret]] 

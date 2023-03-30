@@ -29,3 +29,12 @@ markerFile: [[Kuching]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Sarawak/City/Kuching.md|Kuching]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Sarawak/City/Kuching.internal.md|Kuching.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Sarawak/City/Kuching.protect.md|Kuching.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Sarawak/City/Kuching.private.md|Kuching.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Sarawak/City/Kuching.personal.md|Kuching.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Sarawak/City/Kuching.secret.md|Kuching.secret]] 

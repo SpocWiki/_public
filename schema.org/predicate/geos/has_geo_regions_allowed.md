@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_regions_allowed )
 ( #has_/range :: Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_regions_allowed.md|has_geo_regions_allowed]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_regions_allowed.internal.md|has_geo_regions_allowed.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_regions_allowed.protect.md|has_geo_regions_allowed.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_regions_allowed.private.md|has_geo_regions_allowed.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_regions_allowed.personal.md|has_geo_regions_allowed.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_regions_allowed.secret.md|has_geo_regions_allowed.secret]] 

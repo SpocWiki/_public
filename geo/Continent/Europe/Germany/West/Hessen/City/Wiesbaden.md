@@ -28,3 +28,12 @@ markerFile: [[Wiesbaden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.md|Wiesbaden]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.internal.md|Wiesbaden.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.protect.md|Wiesbaden.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.private.md|Wiesbaden.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.personal.md|Wiesbaden.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.secret.md|Wiesbaden.secret]] 

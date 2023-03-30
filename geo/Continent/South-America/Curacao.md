@@ -106,3 +106,12 @@ Languages: [nl,pap]
 [	Small_Island_Developing_States_(SIDS)	 :: x ]
 
 [	ISO3166-1-numeric	 :: 531 ]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Curacao.md|Curacao]] 
+- [[../../../../_internal/geo/Continent/South-America/Curacao.internal.md|Curacao.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Curacao.protect.md|Curacao.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Curacao.private.md|Curacao.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Curacao.personal.md|Curacao.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Curacao.secret.md|Curacao.secret]] 

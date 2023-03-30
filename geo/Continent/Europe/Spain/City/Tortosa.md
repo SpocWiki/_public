@@ -29,3 +29,12 @@ markerFile: [[Tortosa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Tortosa.md|Tortosa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Tortosa.internal.md|Tortosa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Tortosa.protect.md|Tortosa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Tortosa.private.md|Tortosa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Tortosa.personal.md|Tortosa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Tortosa.secret.md|Tortosa.secret]] 

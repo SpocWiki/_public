@@ -29,3 +29,11 @@ SpocWebEntityId: 21936
 > Both strontium and strontianite are named after Strontian, a village in Scotland near which the mineral was discovered in 1790 by Adair Crawford and William Cruickshank; it was identified as a new element the next year from its crimson-red flame test color. Strontium was first isolated as a metal in 1808 by Humphry Davy using the then newly discovered process of electrolysis. During the 19th century, strontium was mostly used in the production of sugar from sugar beets (see strontian process). At the peak of production of television cathode-ray tubes, as much as 75% of strontium consumption in the United States was used for the faceplate glass. With the replacement of cathode-ray tubes with other display methods, consumption of strontium has dramatically declined.While natural strontium (which is mostly the isotope strontium-88) is stable, the synthetic strontium-90 is radioactive and is one of the most dangerous components of nuclear fallout, as strontium is absorbed by the body in a similar manner to calcium. Natural stable strontium, on the other hand, is not hazardous to health.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strontium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Strontium.md|Strontium]] 
+- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.internal.md|Strontium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Strontium.protect.md|Strontium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Strontium.private.md|Strontium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.personal.md|Strontium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Strontium.secret.md|Strontium.secret]] 

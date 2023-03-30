@@ -133,3 +133,12 @@ markerFolder: ./Azerbaijan/City
 [geo-lon::49.83]
 [geo-lat::40.42]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Azerbaijan.md|Azerbaijan]] 
+- [[../../../../_internal/geo/Continent/Asia/Azerbaijan.internal.md|Azerbaijan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Azerbaijan.protect.md|Azerbaijan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Azerbaijan.private.md|Azerbaijan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Azerbaijan.personal.md|Azerbaijan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Azerbaijan.secret.md|Azerbaijan.secret]] 

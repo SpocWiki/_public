@@ -29,3 +29,12 @@ SpocWebEntityId: 21989
 []
 (Charge-e::94)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Actinide-Group/Plutonium.md|Plutonium]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Plutonium.internal.md|Plutonium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Plutonium.protect.md|Plutonium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Plutonium.private.md|Plutonium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Plutonium.personal.md|Plutonium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Plutonium.secret.md|Plutonium.secret]] 

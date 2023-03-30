@@ -129,3 +129,12 @@ markerFolder: ./Uruguay/City
 [geo-lon::-56.17]
 [geo-lat::-34.91]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Uruguay.md|Uruguay]] 
+- [[../../../../_internal/geo/Continent/South-America/Uruguay.internal.md|Uruguay.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Uruguay.protect.md|Uruguay.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Uruguay.private.md|Uruguay.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Uruguay.personal.md|Uruguay.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Uruguay.secret.md|Uruguay.secret]] 

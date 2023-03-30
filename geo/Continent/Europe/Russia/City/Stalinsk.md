@@ -29,3 +29,12 @@ markerFile: [[Stalinsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinsk.md|Stalinsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinsk.internal.md|Stalinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinsk.protect.md|Stalinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinsk.private.md|Stalinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalinsk.personal.md|Stalinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalinsk.secret.md|Stalinsk.secret]] 

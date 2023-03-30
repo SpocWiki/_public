@@ -29,3 +29,12 @@ markerFile: [[Saint_John’s]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.md|Saint_John’s]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.internal.md|Saint_John’s.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.protect.md|Saint_John’s.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.private.md|Saint_John’s.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.personal.md|Saint_John’s.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John’s.secret.md|Saint_John’s.secret]] 

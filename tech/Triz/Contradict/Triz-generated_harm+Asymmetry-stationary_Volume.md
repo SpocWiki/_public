@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Asymmetry]]]
 - [con::[[Triz-stationary_Volume]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Asymmetry-stationary_Volume.md|Triz-generated_harm+Asymmetry-stationary_Volume]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Asymmetry-stationary_Volume.internal.md|Triz-generated_harm+Asymmetry-stationary_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Asymmetry-stationary_Volume.protect.md|Triz-generated_harm+Asymmetry-stationary_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Asymmetry-stationary_Volume.private.md|Triz-generated_harm+Asymmetry-stationary_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Asymmetry-stationary_Volume.personal.md|Triz-generated_harm+Asymmetry-stationary_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Asymmetry-stationary_Volume.secret.md|Triz-generated_harm+Asymmetry-stationary_Volume.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Ashgabat]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Turkmenistan/City/Ashgabat.md|Ashgabat]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Turkmenistan/City/Ashgabat.internal.md|Ashgabat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Turkmenistan/City/Ashgabat.protect.md|Ashgabat.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Turkmenistan/City/Ashgabat.private.md|Ashgabat.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Turkmenistan/City/Ashgabat.personal.md|Ashgabat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Turkmenistan/City/Ashgabat.secret.md|Ashgabat.secret]] 

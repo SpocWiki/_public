@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_job_location_type )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_job_location_type.md|has_job_location_type]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_job_location_type.internal.md|has_job_location_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_job_location_type.protect.md|has_job_location_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_job_location_type.private.md|has_job_location_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_job_location_type.personal.md|has_job_location_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_job_location_type.secret.md|has_job_location_type.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Weichsel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Weichsel.md|Weichsel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Weichsel.internal.md|Weichsel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Weichsel.protect.md|Weichsel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Weichsel.private.md|Weichsel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Weichsel.personal.md|Weichsel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Weichsel.secret.md|Weichsel.secret]] 

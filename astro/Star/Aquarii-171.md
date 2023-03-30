@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28086]
 [NextStarId::27470]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Aquarii-171.md|Aquarii-171]] 
+- [[../../../_internal/astro/Star/Aquarii-171.internal.md|Aquarii-171.internal]] 
+- [[../../../_protect/astro/Star/Aquarii-171.protect.md|Aquarii-171.protect]] 
+- [[../../../_private/astro/Star/Aquarii-171.private.md|Aquarii-171.private]] 
+- [[../../../_personal/astro/Star/Aquarii-171.personal.md|Aquarii-171.personal]] 
+- [[../../../_secret/astro/Star/Aquarii-171.secret.md|Aquarii-171.secret]]
+

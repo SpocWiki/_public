@@ -41,3 +41,12 @@ A trip on a commercial bus line.
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalBusStop, arrivalTime, busName, busNumber, departureBusStop, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/trip/bus_trip.md|bus_trip]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/trip/bus_trip.internal.md|bus_trip.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/trip/bus_trip.protect.md|bus_trip.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/trip/bus_trip.private.md|bus_trip.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/trip/bus_trip.personal.md|bus_trip.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/trip/bus_trip.secret.md|bus_trip.secret]] 

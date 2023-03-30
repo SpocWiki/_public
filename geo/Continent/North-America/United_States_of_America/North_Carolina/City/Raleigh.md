@@ -28,3 +28,12 @@ markerFile: [[Raleigh]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Raleigh.md|Raleigh]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Raleigh.internal.md|Raleigh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Raleigh.protect.md|Raleigh.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Raleigh.private.md|Raleigh.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Raleigh.personal.md|Raleigh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/North_Carolina/City/Raleigh.secret.md|Raleigh.secret]] 

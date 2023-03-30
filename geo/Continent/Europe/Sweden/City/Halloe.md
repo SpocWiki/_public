@@ -29,3 +29,12 @@ markerFile: [[Halloe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Halloe.md|Halloe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Halloe.internal.md|Halloe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Halloe.protect.md|Halloe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Halloe.private.md|Halloe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Halloe.personal.md|Halloe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Halloe.secret.md|Halloe.secret]] 

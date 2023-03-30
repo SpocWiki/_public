@@ -29,3 +29,12 @@ markerFile: [[Le_Mesnil]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Le_Mesnil.md|Le_Mesnil]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Le_Mesnil.internal.md|Le_Mesnil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Le_Mesnil.protect.md|Le_Mesnil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Le_Mesnil.private.md|Le_Mesnil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Le_Mesnil.personal.md|Le_Mesnil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Le_Mesnil.secret.md|Le_Mesnil.secret]] 

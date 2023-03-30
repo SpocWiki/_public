@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_occupation_location )
 ( #has_/range :: AdministrativeArea )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_occupation_location.md|has_occupation_location]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_occupation_location.internal.md|has_occupation_location.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_occupation_location.protect.md|has_occupation_location.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_occupation_location.private.md|has_occupation_location.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_occupation_location.personal.md|has_occupation_location.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_occupation_location.secret.md|has_occupation_location.secret]] 

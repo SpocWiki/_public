@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_actors )
 ( #has_/range :: Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_actors.md|has_actors]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_actors.internal.md|has_actors.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_actors.protect.md|has_actors.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_actors.private.md|has_actors.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_actors.personal.md|has_actors.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_actors.secret.md|has_actors.secret]] 

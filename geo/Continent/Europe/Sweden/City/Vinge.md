@@ -29,3 +29,12 @@ markerFile: [[Vinge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vinge.md|Vinge]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vinge.internal.md|Vinge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vinge.protect.md|Vinge.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vinge.private.md|Vinge.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vinge.personal.md|Vinge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vinge.secret.md|Vinge.secret]] 

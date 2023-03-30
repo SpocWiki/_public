@@ -29,3 +29,12 @@ markerFile: [[Knim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Knim.md|Knim]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Knim.internal.md|Knim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Knim.protect.md|Knim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Knim.private.md|Knim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Knim.personal.md|Knim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Knim.secret.md|Knim.secret]] 

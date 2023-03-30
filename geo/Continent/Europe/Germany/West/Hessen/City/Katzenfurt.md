@@ -28,3 +28,12 @@ markerFile: [[Katzenfurt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.md|Katzenfurt]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.internal.md|Katzenfurt.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.protect.md|Katzenfurt.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.private.md|Katzenfurt.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.personal.md|Katzenfurt.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.secret.md|Katzenfurt.secret]] 

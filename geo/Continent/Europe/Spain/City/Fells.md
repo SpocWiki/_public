@@ -29,3 +29,12 @@ markerFile: [[Fells]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Fells.md|Fells]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Fells.internal.md|Fells.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Fells.protect.md|Fells.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Fells.private.md|Fells.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Fells.personal.md|Fells.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Fells.secret.md|Fells.secret]] 

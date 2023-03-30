@@ -47,3 +47,12 @@ In Markdown this is even riskier, since there are no clear limits, except for th
 
 [ #is_/enum_of :: [[../DigitalDocumentPermissionType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.md|comment_permission]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.internal.md|comment_permission.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.protect.md|comment_permission.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.private.md|comment_permission.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.personal.md|comment_permission.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.secret.md|comment_permission.secret]] 

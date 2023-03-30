@@ -29,3 +29,12 @@ markerFile: [[Mitcham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Mitcham.md|Mitcham]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Mitcham.internal.md|Mitcham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Mitcham.protect.md|Mitcham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Mitcham.private.md|Mitcham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Mitcham.personal.md|Mitcham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Mitcham.secret.md|Mitcham.secret]] 

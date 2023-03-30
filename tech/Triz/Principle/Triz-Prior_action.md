@@ -11,3 +11,12 @@ tags:
 [SpocWebEntityId::22205]
 [Popularity::2]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Principle/Triz-Prior_action.md|Triz-Prior_action]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Prior_action.internal.md|Triz-Prior_action.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Prior_action.protect.md|Triz-Prior_action.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Prior_action.private.md|Triz-Prior_action.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Prior_action.personal.md|Triz-Prior_action.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Prior_action.secret.md|Triz-Prior_action.secret]] 

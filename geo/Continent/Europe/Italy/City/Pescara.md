@@ -29,3 +29,12 @@ markerFile: [[Pescara]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pescara.md|Pescara]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pescara.internal.md|Pescara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pescara.protect.md|Pescara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pescara.private.md|Pescara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pescara.personal.md|Pescara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pescara.secret.md|Pescara.secret]] 

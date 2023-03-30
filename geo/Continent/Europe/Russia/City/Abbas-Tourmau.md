@@ -29,3 +29,12 @@ markerFile: [[Abbas-Tourmau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Abbas-Tourmau.md|Abbas-Tourmau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Abbas-Tourmau.internal.md|Abbas-Tourmau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Abbas-Tourmau.protect.md|Abbas-Tourmau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Abbas-Tourmau.private.md|Abbas-Tourmau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Abbas-Tourmau.personal.md|Abbas-Tourmau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Abbas-Tourmau.secret.md|Abbas-Tourmau.secret]] 

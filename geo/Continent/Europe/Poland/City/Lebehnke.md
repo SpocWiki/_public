@@ -29,3 +29,12 @@ markerFile: [[Lebehnke]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lebehnke.md|Lebehnke]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lebehnke.internal.md|Lebehnke.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lebehnke.protect.md|Lebehnke.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lebehnke.private.md|Lebehnke.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lebehnke.personal.md|Lebehnke.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lebehnke.secret.md|Lebehnke.secret]] 

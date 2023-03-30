@@ -45,3 +45,12 @@ Represents the downpayment (up-front payment) price component of the total price
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.md|downpayment]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.internal.md|downpayment.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.protect.md|downpayment.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.private.md|downpayment.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.personal.md|downpayment.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.secret.md|downpayment.secret]] 

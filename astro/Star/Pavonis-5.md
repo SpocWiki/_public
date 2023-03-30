@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28143]
 [NextStarId::27510]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Pavonis-5.md|Pavonis-5]] 
+- [[../../../_internal/astro/Star/Pavonis-5.internal.md|Pavonis-5.internal]] 
+- [[../../../_protect/astro/Star/Pavonis-5.protect.md|Pavonis-5.protect]] 
+- [[../../../_private/astro/Star/Pavonis-5.private.md|Pavonis-5.private]] 
+- [[../../../_personal/astro/Star/Pavonis-5.personal.md|Pavonis-5.personal]] 
+- [[../../../_secret/astro/Star/Pavonis-5.secret.md|Pavonis-5.secret]] 

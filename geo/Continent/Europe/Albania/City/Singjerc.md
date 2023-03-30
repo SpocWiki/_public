@@ -29,3 +29,12 @@ markerFile: [[Singjerc]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Singjerc.md|Singjerc]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Singjerc.internal.md|Singjerc.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Singjerc.protect.md|Singjerc.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Singjerc.private.md|Singjerc.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Singjerc.personal.md|Singjerc.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Singjerc.secret.md|Singjerc.secret]] 

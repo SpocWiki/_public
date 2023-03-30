@@ -29,3 +29,12 @@ markerFile: [[Vaexjo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaexjo.md|Vaexjo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaexjo.internal.md|Vaexjo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaexjo.protect.md|Vaexjo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaexjo.private.md|Vaexjo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaexjo.personal.md|Vaexjo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaexjo.secret.md|Vaexjo.secret]] 

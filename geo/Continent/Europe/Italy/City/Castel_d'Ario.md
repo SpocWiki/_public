@@ -29,3 +29,12 @@ markerFile: [[Castel_d'Ario]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Castel_d'Ario.md|Castel_d'Ario]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Castel_d'Ario.internal.md|Castel_d'Ario.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Castel_d'Ario.protect.md|Castel_d'Ario.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Castel_d'Ario.private.md|Castel_d'Ario.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Castel_d'Ario.personal.md|Castel_d'Ario.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Castel_d'Ario.secret.md|Castel_d'Ario.secret]] 

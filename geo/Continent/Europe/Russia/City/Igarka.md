@@ -29,3 +29,12 @@ markerFile: [[Igarka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Igarka.md|Igarka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Igarka.internal.md|Igarka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Igarka.protect.md|Igarka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Igarka.private.md|Igarka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Igarka.personal.md|Igarka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Igarka.secret.md|Igarka.secret]] 

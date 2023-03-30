@@ -29,3 +29,12 @@ markerFile: [[Pielavesi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pielavesi.md|Pielavesi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pielavesi.internal.md|Pielavesi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pielavesi.protect.md|Pielavesi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pielavesi.private.md|Pielavesi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pielavesi.personal.md|Pielavesi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pielavesi.secret.md|Pielavesi.secret]] 

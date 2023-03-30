@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_account_overdraft_limit )
 ( #has_/range :: MonetaryAmount )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.md|has_value_for_account_overdraft_limit]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.internal.md|has_value_for_account_overdraft_limit.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.protect.md|has_value_for_account_overdraft_limit.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.private.md|has_value_for_account_overdraft_limit.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.personal.md|has_value_for_account_overdraft_limit.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.secret.md|has_value_for_account_overdraft_limit.secret]] 

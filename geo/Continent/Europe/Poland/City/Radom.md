@@ -29,3 +29,12 @@ markerFile: [[Radom]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Radom.md|Radom]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Radom.internal.md|Radom.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Radom.protect.md|Radom.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Radom.private.md|Radom.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Radom.personal.md|Radom.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Radom.secret.md|Radom.secret]] 

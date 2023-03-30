@@ -29,3 +29,12 @@ markerFile: [[Kappel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kappel.md|Kappel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kappel.internal.md|Kappel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kappel.protect.md|Kappel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kappel.private.md|Kappel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kappel.personal.md|Kappel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kappel.secret.md|Kappel.secret]] 

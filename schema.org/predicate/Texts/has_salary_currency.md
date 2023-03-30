@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_salary_currency )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_salary_currency.md|has_salary_currency]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_salary_currency.internal.md|has_salary_currency.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_salary_currency.protect.md|has_salary_currency.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_salary_currency.private.md|has_salary_currency.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_salary_currency.personal.md|has_salary_currency.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_salary_currency.secret.md|has_salary_currency.secret]] 

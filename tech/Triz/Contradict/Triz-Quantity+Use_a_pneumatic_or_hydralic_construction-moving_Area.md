@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
 - [con::[[Triz-moving_Area]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.internal.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.protect.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.private.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.personal.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.secret.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area.secret]] 

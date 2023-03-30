@@ -29,3 +29,12 @@ markerFile: [[Bridgetown]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Barbados/City/Bridgetown.md|Bridgetown]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Barbados/City/Bridgetown.internal.md|Bridgetown.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Barbados/City/Bridgetown.protect.md|Bridgetown.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Barbados/City/Bridgetown.private.md|Bridgetown.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Barbados/City/Bridgetown.personal.md|Bridgetown.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Barbados/City/Bridgetown.secret.md|Bridgetown.secret]] 

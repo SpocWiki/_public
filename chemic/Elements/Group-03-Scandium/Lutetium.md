@@ -28,3 +28,12 @@ SpocWebEntityId: 21967
 []
 (Charge-e::71)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-03-Scandium/Lutetium.md|Lutetium]] 
+- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Lutetium.internal.md|Lutetium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Lutetium.protect.md|Lutetium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-03-Scandium/Lutetium.private.md|Lutetium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Lutetium.personal.md|Lutetium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Lutetium.secret.md|Lutetium.secret]] 

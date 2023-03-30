@@ -29,3 +29,12 @@ markerFile: [[Sub-Earl's_Court]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Earl's_Court.md|Sub-Earl's_Court]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Earl's_Court.internal.md|Sub-Earl's_Court.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Earl's_Court.protect.md|Sub-Earl's_Court.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Earl's_Court.private.md|Sub-Earl's_Court.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Earl's_Court.personal.md|Sub-Earl's_Court.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Earl's_Court.secret.md|Sub-Earl's_Court.secret]] 

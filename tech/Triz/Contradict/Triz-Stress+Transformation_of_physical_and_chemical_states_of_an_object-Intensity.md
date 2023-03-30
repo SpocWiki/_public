@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
 - [con::[[Triz-Intensity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.md|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.internal.md|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.protect.md|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.private.md|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.personal.md|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.secret.md|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.secret]] 

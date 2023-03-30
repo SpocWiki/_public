@@ -45,3 +45,12 @@ BasicIncome: this is a benefit for basic income.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/basic_income.md|basic_income]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/basic_income.internal.md|basic_income.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/basic_income.protect.md|basic_income.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/basic_income.private.md|basic_income.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/basic_income.personal.md|basic_income.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/basic_income.secret.md|basic_income.secret]] 

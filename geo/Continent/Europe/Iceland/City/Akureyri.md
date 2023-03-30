@@ -29,3 +29,12 @@ markerFile: [[Akureyri]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Iceland/City/Akureyri.md|Akureyri]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Iceland/City/Akureyri.internal.md|Akureyri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Iceland/City/Akureyri.protect.md|Akureyri.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Iceland/City/Akureyri.private.md|Akureyri.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Iceland/City/Akureyri.personal.md|Akureyri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Iceland/City/Akureyri.secret.md|Akureyri.secret]] 

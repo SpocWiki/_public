@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28166]
 [NextStarId::27864]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Ursae_Minoris-5.md|Ursae_Minoris-5]] 
+- [[../../../_internal/astro/Star/Ursae_Minoris-5.internal.md|Ursae_Minoris-5.internal]] 
+- [[../../../_protect/astro/Star/Ursae_Minoris-5.protect.md|Ursae_Minoris-5.protect]] 
+- [[../../../_private/astro/Star/Ursae_Minoris-5.private.md|Ursae_Minoris-5.private]] 
+- [[../../../_personal/astro/Star/Ursae_Minoris-5.personal.md|Ursae_Minoris-5.personal]] 
+- [[../../../_secret/astro/Star/Ursae_Minoris-5.secret.md|Ursae_Minoris-5.secret]] 

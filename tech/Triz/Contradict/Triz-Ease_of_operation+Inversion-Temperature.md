@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Temperature]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.md|Triz-Ease_of_operation+Inversion-Temperature]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.internal.md|Triz-Ease_of_operation+Inversion-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.protect.md|Triz-Ease_of_operation+Inversion-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.private.md|Triz-Ease_of_operation+Inversion-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.personal.md|Triz-Ease_of_operation+Inversion-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.secret.md|Triz-Ease_of_operation+Inversion-Temperature.secret]] 

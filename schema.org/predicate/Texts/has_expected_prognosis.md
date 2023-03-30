@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_expected_prognosis )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_expected_prognosis.md|has_expected_prognosis]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_expected_prognosis.internal.md|has_expected_prognosis.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_expected_prognosis.protect.md|has_expected_prognosis.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_expected_prognosis.private.md|has_expected_prognosis.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_expected_prognosis.personal.md|has_expected_prognosis.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_expected_prognosis.secret.md|has_expected_prognosis.secret]] 

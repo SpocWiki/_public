@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: workFeatured ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_work_presented.md|has_work_presented]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_presented.internal.md|has_work_presented.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_work_presented.protect.md|has_work_presented.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_work_presented.private.md|has_work_presented.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_work_presented.personal.md|has_work_presented.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_work_presented.secret.md|has_work_presented.secret]] 

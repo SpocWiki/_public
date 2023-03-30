@@ -28,3 +28,12 @@ markerFile: [[Drensteinfurt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drensteinfurt.md|Drensteinfurt]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drensteinfurt.internal.md|Drensteinfurt.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drensteinfurt.protect.md|Drensteinfurt.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drensteinfurt.private.md|Drensteinfurt.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drensteinfurt.personal.md|Drensteinfurt.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drensteinfurt.secret.md|Drensteinfurt.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Thielt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Thielt.md|Thielt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Thielt.internal.md|Thielt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Thielt.protect.md|Thielt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Thielt.private.md|Thielt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Thielt.personal.md|Thielt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Thielt.secret.md|Thielt.secret]] 

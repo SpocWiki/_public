@@ -135,3 +135,12 @@ coordinates: [[Gibraltar]]
 [geo-lon::]
 [geo-lat::36.143]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Gibraltar.md|Gibraltar]] 
+- [[../../../../_internal/geo/Continent/Europe/Gibraltar.internal.md|Gibraltar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Gibraltar.protect.md|Gibraltar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Gibraltar.private.md|Gibraltar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Gibraltar.personal.md|Gibraltar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Gibraltar.secret.md|Gibraltar.secret]] 

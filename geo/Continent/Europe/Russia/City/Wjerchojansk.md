@@ -29,3 +29,12 @@ markerFile: [[Wjerchojansk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wjerchojansk.md|Wjerchojansk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wjerchojansk.internal.md|Wjerchojansk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wjerchojansk.protect.md|Wjerchojansk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wjerchojansk.private.md|Wjerchojansk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wjerchojansk.personal.md|Wjerchojansk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wjerchojansk.secret.md|Wjerchojansk.secret]] 

@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_value_reference )
 ( #has_/range :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_value_reference.md|has_value_reference]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_value_reference.internal.md|has_value_reference.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_value_reference.protect.md|has_value_reference.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_value_reference.private.md|has_value_reference.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_value_reference.personal.md|has_value_reference.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_value_reference.secret.md|has_value_reference.secret]] 

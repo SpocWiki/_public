@@ -28,3 +28,12 @@ markerFile: [[Memmelsdorf~Oberfranken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.md|Memmelsdorf~Oberfranken]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.internal.md|Memmelsdorf~Oberfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.protect.md|Memmelsdorf~Oberfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.private.md|Memmelsdorf~Oberfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.personal.md|Memmelsdorf~Oberfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.secret.md|Memmelsdorf~Oberfranken.secret]] 

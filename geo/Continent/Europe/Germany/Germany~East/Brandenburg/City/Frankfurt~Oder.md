@@ -28,3 +28,12 @@ markerFile: [[Frankfurt~Oder]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.md|Frankfurt~Oder]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.internal.md|Frankfurt~Oder.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.protect.md|Frankfurt~Oder.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.private.md|Frankfurt~Oder.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.personal.md|Frankfurt~Oder.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.secret.md|Frankfurt~Oder.secret]] 

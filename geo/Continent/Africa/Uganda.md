@@ -133,3 +133,12 @@ markerFolder: ./Uganda/City
 [geo-lon::32.5811]
 [geo-lat::0.313611]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Uganda.md|Uganda]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda.internal.md|Uganda.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda.protect.md|Uganda.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda.private.md|Uganda.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda.personal.md|Uganda.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda.secret.md|Uganda.secret]] 

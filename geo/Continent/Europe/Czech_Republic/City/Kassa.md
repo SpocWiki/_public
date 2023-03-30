@@ -29,3 +29,12 @@ markerFile: [[Kassa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kassa.md|Kassa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kassa.internal.md|Kassa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kassa.protect.md|Kassa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kassa.private.md|Kassa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kassa.personal.md|Kassa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kassa.secret.md|Kassa.secret]] 

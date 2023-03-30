@@ -29,3 +29,12 @@ markerFile: [[Mbabane]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Swaziland/City/Mbabane.md|Mbabane]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Swaziland/City/Mbabane.internal.md|Mbabane.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Swaziland/City/Mbabane.protect.md|Mbabane.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Swaziland/City/Mbabane.private.md|Mbabane.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Swaziland/City/Mbabane.personal.md|Mbabane.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Swaziland/City/Mbabane.secret.md|Mbabane.secret]] 

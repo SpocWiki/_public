@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_additional_variable )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_additional_variable.md|has_additional_variable]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_additional_variable.internal.md|has_additional_variable.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_additional_variable.protect.md|has_additional_variable.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_additional_variable.private.md|has_additional_variable.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_additional_variable.personal.md|has_additional_variable.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_additional_variable.secret.md|has_additional_variable.secret]] 

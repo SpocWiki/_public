@@ -126,3 +126,12 @@ markerFolder: ./Tokelau/City
 [geo-lon::-171.217]
 [geo-lat::-9.36667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Tokelau.md|Tokelau]] 
+- [[../../../../_internal/geo/Continent/Oceania/Tokelau.internal.md|Tokelau.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Tokelau.protect.md|Tokelau.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Tokelau.private.md|Tokelau.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Tokelau.personal.md|Tokelau.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Tokelau.secret.md|Tokelau.secret]] 

@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_base_salary )
 ( #has_/range :: MonetaryAmount, Number, PriceSpecification )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_base_salary.md|has_value_for_base_salary]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_base_salary.internal.md|has_value_for_base_salary.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_base_salary.protect.md|has_value_for_base_salary.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_base_salary.private.md|has_value_for_base_salary.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_base_salary.personal.md|has_value_for_base_salary.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_base_salary.secret.md|has_value_for_base_salary.secret]] 

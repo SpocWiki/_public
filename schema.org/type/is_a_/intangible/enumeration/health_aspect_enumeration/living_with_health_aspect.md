@@ -45,3 +45,12 @@ Information about coping or life related to the topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/living_with_health_aspect.md|living_with_health_aspect]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/living_with_health_aspect.internal.md|living_with_health_aspect.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/living_with_health_aspect.protect.md|living_with_health_aspect.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/living_with_health_aspect.private.md|living_with_health_aspect.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/living_with_health_aspect.personal.md|living_with_health_aspect.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/living_with_health_aspect.secret.md|living_with_health_aspect.secret]] 

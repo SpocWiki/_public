@@ -29,3 +29,12 @@ markerFile: [[Freudenthal]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Freudenthal.md|Freudenthal]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Freudenthal.internal.md|Freudenthal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Freudenthal.protect.md|Freudenthal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Freudenthal.private.md|Freudenthal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Freudenthal.personal.md|Freudenthal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Freudenthal.secret.md|Freudenthal.secret]] 

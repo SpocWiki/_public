@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_drug )
 ( #has_/range :: Drug )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_drug.md|has_drug]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_drug.internal.md|has_drug.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_drug.protect.md|has_drug.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_drug.private.md|has_drug.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_drug.personal.md|has_drug.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_drug.secret.md|has_drug.secret]] 

@@ -24,3 +24,12 @@ markerFile: [[T-Schweizer-Gartenstraße]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer-Gartenstraße.md|T-Schweizer-Gartenstraße]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer-Gartenstraße.internal.md|T-Schweizer-Gartenstraße.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer-Gartenstraße.protect.md|T-Schweizer-Gartenstraße.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer-Gartenstraße.private.md|T-Schweizer-Gartenstraße.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer-Gartenstraße.personal.md|T-Schweizer-Gartenstraße.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer-Gartenstraße.secret.md|T-Schweizer-Gartenstraße.secret]] 

@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28146]
 [NextStarId::27317]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Phoenicis-3.md|Phoenicis-3]] 
+- [[../../../_internal/astro/Star/Phoenicis-3.internal.md|Phoenicis-3.internal]] 
+- [[../../../_protect/astro/Star/Phoenicis-3.protect.md|Phoenicis-3.protect]] 
+- [[../../../_private/astro/Star/Phoenicis-3.private.md|Phoenicis-3.private]] 
+- [[../../../_personal/astro/Star/Phoenicis-3.personal.md|Phoenicis-3.personal]] 
+- [[../../../_secret/astro/Star/Phoenicis-3.secret.md|Phoenicis-3.secret]] 

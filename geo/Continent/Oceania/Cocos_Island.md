@@ -32,3 +32,12 @@ markerFolder: ./Cocos_Island/City
 [geo-lon::96.8333]
 [geo-lat::-12.1833]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Cocos_Island.md|Cocos_Island]] 
+- [[../../../../_internal/geo/Continent/Oceania/Cocos_Island.internal.md|Cocos_Island.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Cocos_Island.protect.md|Cocos_Island.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Cocos_Island.private.md|Cocos_Island.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Cocos_Island.personal.md|Cocos_Island.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Cocos_Island.secret.md|Cocos_Island.secret]] 

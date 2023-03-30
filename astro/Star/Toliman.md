@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28101]
 [NextStarId::27240]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Toliman.md|Toliman]] 
+- [[../../../_internal/astro/Star/Toliman.internal.md|Toliman.internal]] 
+- [[../../../_protect/astro/Star/Toliman.protect.md|Toliman.protect]] 
+- [[../../../_private/astro/Star/Toliman.private.md|Toliman.private]] 
+- [[../../../_personal/astro/Star/Toliman.personal.md|Toliman.personal]] 
+- [[../../../_secret/astro/Star/Toliman.secret.md|Toliman.secret]] 

@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_assembly )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_assembly.md|has_assembly]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_assembly.internal.md|has_assembly.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_assembly.protect.md|has_assembly.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_assembly.private.md|has_assembly.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_assembly.personal.md|has_assembly.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_assembly.secret.md|has_assembly.secret]] 

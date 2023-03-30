@@ -24,3 +24,12 @@ markerFolder: ./Asia/City
 [name-en::Asia]
 [name-de::Asien]
 [ #has/_code  :: AS ]
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/geo/Continent/Asia.md|Asia]] 
+- [[../../../_internal/geo/Continent/Asia.internal.md|Asia.internal]] 
+- [[../../../_protect/geo/Continent/Asia.protect.md|Asia.protect]] 
+- [[../../../_private/geo/Continent/Asia.private.md|Asia.private]] 
+- [[../../../_personal/geo/Continent/Asia.personal.md|Asia.personal]] 
+- [[../../../_secret/geo/Continent/Asia.secret.md|Asia.secret]] 

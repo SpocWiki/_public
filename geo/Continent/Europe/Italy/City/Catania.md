@@ -29,3 +29,12 @@ markerFile: [[Catania]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Catania.md|Catania]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Catania.internal.md|Catania.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Catania.protect.md|Catania.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Catania.private.md|Catania.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Catania.personal.md|Catania.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Catania.secret.md|Catania.secret]] 

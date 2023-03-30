@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Illumination]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.md|Triz-moving_Weight+Segmentation-Illumination]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.internal.md|Triz-moving_Weight+Segmentation-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.protect.md|Triz-moving_Weight+Segmentation-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.private.md|Triz-moving_Weight+Segmentation-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.personal.md|Triz-moving_Weight+Segmentation-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.secret.md|Triz-moving_Weight+Segmentation-Illumination.secret]] 

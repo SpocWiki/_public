@@ -28,3 +28,12 @@ markerFile: [[Nieder-Zuendorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.md|Nieder-Zuendorf]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.internal.md|Nieder-Zuendorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.protect.md|Nieder-Zuendorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.private.md|Nieder-Zuendorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.personal.md|Nieder-Zuendorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.secret.md|Nieder-Zuendorf.secret]] 

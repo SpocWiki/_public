@@ -131,3 +131,12 @@ markerFolder: ./China/City
 [geo-lon::117.985]
 [geo-lat::35.6637]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/China.md|China]] 
+- [[../../../../_internal/geo/Continent/Asia/China.internal.md|China.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/China.protect.md|China.protect]] 
+- [[../../../../_private/geo/Continent/Asia/China.private.md|China.private]] 
+- [[../../../../_personal/geo/Continent/Asia/China.personal.md|China.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/China.secret.md|China.secret]] 

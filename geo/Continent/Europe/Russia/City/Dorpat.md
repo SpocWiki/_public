@@ -29,3 +29,12 @@ markerFile: [[Dorpat]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Dorpat.md|Dorpat]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Dorpat.internal.md|Dorpat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Dorpat.protect.md|Dorpat.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Dorpat.private.md|Dorpat.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Dorpat.personal.md|Dorpat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Dorpat.secret.md|Dorpat.secret]] 

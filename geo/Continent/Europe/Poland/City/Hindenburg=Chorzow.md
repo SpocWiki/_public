@@ -29,3 +29,12 @@ markerFile: [[Hindenburg=Chorzow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.md|Hindenburg=Chorzow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.internal.md|Hindenburg=Chorzow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.protect.md|Hindenburg=Chorzow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.private.md|Hindenburg=Chorzow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.personal.md|Hindenburg=Chorzow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hindenburg=Chorzow.secret.md|Hindenburg=Chorzow.secret]] 

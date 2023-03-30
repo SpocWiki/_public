@@ -43,3 +43,12 @@ The day of the week between Thursday and Saturday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.md|friday]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.internal.md|friday.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.protect.md|friday.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.private.md|friday.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.personal.md|friday.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.secret.md|friday.secret]] 

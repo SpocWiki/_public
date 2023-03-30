@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: parentTaxon ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_child_taxon.md|has_child_taxon]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_child_taxon.internal.md|has_child_taxon.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_child_taxon.protect.md|has_child_taxon.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_child_taxon.private.md|has_child_taxon.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_child_taxon.personal.md|has_child_taxon.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_child_taxon.secret.md|has_child_taxon.secret]] 

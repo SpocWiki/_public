@@ -122,3 +122,12 @@ markerFolder: ./Jersey/City
 [geo-lon::]
 [geo-lat::49.19]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Jersey.md|Jersey]] 
+- [[../../../../_internal/geo/Continent/Europe/Jersey.internal.md|Jersey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Jersey.protect.md|Jersey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Jersey.private.md|Jersey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Jersey.personal.md|Jersey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Jersey.secret.md|Jersey.secret]] 

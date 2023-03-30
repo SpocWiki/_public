@@ -29,3 +29,12 @@ markerFile: [[Lewin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lewin.md|Lewin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lewin.internal.md|Lewin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lewin.protect.md|Lewin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lewin.private.md|Lewin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lewin.personal.md|Lewin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lewin.secret.md|Lewin.secret]] 

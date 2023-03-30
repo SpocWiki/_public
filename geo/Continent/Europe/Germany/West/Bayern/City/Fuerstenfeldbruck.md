@@ -28,3 +28,12 @@ markerFile: [[Fuerstenfeldbruck]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.md|Fuerstenfeldbruck]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.internal.md|Fuerstenfeldbruck.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.protect.md|Fuerstenfeldbruck.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.private.md|Fuerstenfeldbruck.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.personal.md|Fuerstenfeldbruck.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.secret.md|Fuerstenfeldbruck.secret]] 

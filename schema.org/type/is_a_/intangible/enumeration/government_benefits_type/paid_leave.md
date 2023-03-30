@@ -45,3 +45,12 @@ PaidLeave: this is a benefit for paid leave.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/paid_leave.md|paid_leave]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/paid_leave.internal.md|paid_leave.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/paid_leave.protect.md|paid_leave.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/paid_leave.private.md|paid_leave.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/paid_leave.personal.md|paid_leave.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/paid_leave.secret.md|paid_leave.secret]] 

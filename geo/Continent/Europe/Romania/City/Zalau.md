@@ -29,3 +29,12 @@ markerFile: [[Zalau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Zalau.md|Zalau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Zalau.internal.md|Zalau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Zalau.protect.md|Zalau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Zalau.private.md|Zalau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Zalau.personal.md|Zalau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Zalau.secret.md|Zalau.secret]] 

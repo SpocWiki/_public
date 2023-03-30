@@ -43,3 +43,12 @@ Game server status: OfflinePermanently. Server is offline and not available.
 
 [ #is_/enum_of :: [[../GameServerStatus]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_permanently.md|offline_permanently]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_permanently.internal.md|offline_permanently.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_permanently.protect.md|offline_permanently.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_permanently.private.md|offline_permanently.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_permanently.personal.md|offline_permanently.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_permanently.secret.md|offline_permanently.secret]] 

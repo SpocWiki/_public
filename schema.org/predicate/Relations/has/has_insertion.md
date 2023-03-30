@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_insertion )
 ( #has_/range :: AnatomicalStructure )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_insertion.md|has_insertion]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_insertion.internal.md|has_insertion.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_insertion.protect.md|has_insertion.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_insertion.private.md|has_insertion.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_insertion.personal.md|has_insertion.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_insertion.secret.md|has_insertion.secret]] 

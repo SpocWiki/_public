@@ -29,3 +29,12 @@ markerFile: [[Holsmoeggad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Holsmoeggad.md|Holsmoeggad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Holsmoeggad.internal.md|Holsmoeggad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Holsmoeggad.protect.md|Holsmoeggad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Holsmoeggad.private.md|Holsmoeggad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Holsmoeggad.personal.md|Holsmoeggad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Holsmoeggad.secret.md|Holsmoeggad.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Arabba]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Arabba.md|Arabba]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Arabba.internal.md|Arabba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Arabba.protect.md|Arabba.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Arabba.private.md|Arabba.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Arabba.personal.md|Arabba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Arabba.secret.md|Arabba.secret]] 

@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_produces )
 ( #has_/range :: Thing )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_produces.md|has_produces]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_produces.internal.md|has_produces.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_produces.protect.md|has_produces.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_produces.private.md|has_produces.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_produces.personal.md|has_produces.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_produces.secret.md|has_produces.secret]] 

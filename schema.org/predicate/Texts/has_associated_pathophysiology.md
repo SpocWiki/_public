@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_associated_pathophysiology )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_associated_pathophysiology.md|has_associated_pathophysiology]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_associated_pathophysiology.internal.md|has_associated_pathophysiology.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_associated_pathophysiology.protect.md|has_associated_pathophysiology.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_associated_pathophysiology.private.md|has_associated_pathophysiology.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_associated_pathophysiology.personal.md|has_associated_pathophysiology.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_associated_pathophysiology.secret.md|has_associated_pathophysiology.secret]] 

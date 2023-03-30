@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_reviews )
 ( #has_/range :: Review )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_reviews.md|has_reviews]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_reviews.internal.md|has_reviews.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_reviews.protect.md|has_reviews.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_reviews.private.md|has_reviews.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_reviews.personal.md|has_reviews.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_reviews.secret.md|has_reviews.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Chermoye]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chermoye.md|Chermoye]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chermoye.internal.md|Chermoye.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chermoye.protect.md|Chermoye.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chermoye.private.md|Chermoye.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chermoye.personal.md|Chermoye.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chermoye.secret.md|Chermoye.secret]] 

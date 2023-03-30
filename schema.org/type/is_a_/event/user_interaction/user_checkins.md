@@ -43,3 +43,12 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_checkins.md|user_checkins]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_checkins.internal.md|user_checkins.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_checkins.protect.md|user_checkins.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_checkins.private.md|user_checkins.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_checkins.personal.md|user_checkins.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_checkins.secret.md|user_checkins.secret]] 

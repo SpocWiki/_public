@@ -29,3 +29,12 @@ markerFile: [[Karschi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karschi.md|Karschi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Karschi.internal.md|Karschi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Karschi.protect.md|Karschi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Karschi.private.md|Karschi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Karschi.personal.md|Karschi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Karschi.secret.md|Karschi.secret]] 

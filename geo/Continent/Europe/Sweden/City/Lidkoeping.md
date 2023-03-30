@@ -29,3 +29,12 @@ markerFile: [[Lidkoeping]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Lidkoeping.md|Lidkoeping]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lidkoeping.internal.md|Lidkoeping.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lidkoeping.protect.md|Lidkoeping.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Lidkoeping.private.md|Lidkoeping.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lidkoeping.personal.md|Lidkoeping.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lidkoeping.secret.md|Lidkoeping.secret]] 

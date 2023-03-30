@@ -29,3 +29,12 @@ markerFile: [[Kurenurme]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kurenurme.md|Kurenurme]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kurenurme.internal.md|Kurenurme.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kurenurme.protect.md|Kurenurme.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kurenurme.private.md|Kurenurme.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kurenurme.personal.md|Kurenurme.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kurenurme.secret.md|Kurenurme.secret]] 

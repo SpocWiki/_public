@@ -41,3 +41,12 @@ An airline flight.
 
 [ #has_/properties :: [ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/trip/flight.md|flight]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/trip/flight.internal.md|flight.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/trip/flight.protect.md|flight.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/trip/flight.private.md|flight.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/trip/flight.personal.md|flight.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/trip/flight.secret.md|flight.secret]] 

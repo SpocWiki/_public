@@ -29,3 +29,12 @@ markerFile: [[Pontarlier]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Pontarlier.md|Pontarlier]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pontarlier.internal.md|Pontarlier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pontarlier.protect.md|Pontarlier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Pontarlier.private.md|Pontarlier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pontarlier.personal.md|Pontarlier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pontarlier.secret.md|Pontarlier.secret]] 

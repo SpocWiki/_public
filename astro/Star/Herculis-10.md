@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28122]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Herculis-10.md|Herculis-10]] 
+- [[../../../_internal/astro/Star/Herculis-10.internal.md|Herculis-10.internal]] 
+- [[../../../_protect/astro/Star/Herculis-10.protect.md|Herculis-10.protect]] 
+- [[../../../_private/astro/Star/Herculis-10.private.md|Herculis-10.private]] 
+- [[../../../_personal/astro/Star/Herculis-10.personal.md|Herculis-10.personal]] 
+- [[../../../_secret/astro/Star/Herculis-10.secret.md|Herculis-10.secret]]
+

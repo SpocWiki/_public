@@ -29,3 +29,12 @@ markerFile: [[Stettin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Stettin.md|Stettin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stettin.internal.md|Stettin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stettin.protect.md|Stettin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stettin.private.md|Stettin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stettin.personal.md|Stettin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stettin.secret.md|Stettin.secret]] 

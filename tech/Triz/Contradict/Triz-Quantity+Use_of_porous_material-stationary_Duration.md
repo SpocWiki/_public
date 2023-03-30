@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Use_of_porous_material]]]
 - [con::[[Triz-stationary_Duration]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.md|Triz-Quantity+Use_of_porous_material-stationary_Duration]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.internal.md|Triz-Quantity+Use_of_porous_material-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.protect.md|Triz-Quantity+Use_of_porous_material-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.private.md|Triz-Quantity+Use_of_porous_material-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.personal.md|Triz-Quantity+Use_of_porous_material-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.secret.md|Triz-Quantity+Use_of_porous_material-stationary_Duration.secret]] 

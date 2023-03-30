@@ -29,3 +29,12 @@ markerFile: [[Ziegenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ziegenberg.md|Ziegenberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ziegenberg.internal.md|Ziegenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ziegenberg.protect.md|Ziegenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ziegenberg.private.md|Ziegenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ziegenberg.personal.md|Ziegenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ziegenberg.secret.md|Ziegenberg.secret]] 

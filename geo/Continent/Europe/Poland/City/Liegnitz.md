@@ -29,3 +29,12 @@ markerFile: [[Liegnitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Liegnitz.md|Liegnitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Liegnitz.internal.md|Liegnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Liegnitz.protect.md|Liegnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Liegnitz.private.md|Liegnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Liegnitz.personal.md|Liegnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Liegnitz.secret.md|Liegnitz.secret]] 

@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_health_plan_id )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_health_plan_id.md|has_health_plan_id]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_health_plan_id.internal.md|has_health_plan_id.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_health_plan_id.protect.md|has_health_plan_id.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_health_plan_id.private.md|has_health_plan_id.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_health_plan_id.personal.md|has_health_plan_id.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_health_plan_id.secret.md|has_health_plan_id.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Vaikeala]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Vaikeala.md|Vaikeala]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Vaikeala.internal.md|Vaikeala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Vaikeala.protect.md|Vaikeala.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Vaikeala.private.md|Vaikeala.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Vaikeala.personal.md|Vaikeala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Vaikeala.secret.md|Vaikeala.secret]] 

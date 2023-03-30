@@ -29,3 +29,12 @@ markerFile: [[Ebene_Reichenau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Ebene_Reichenau.md|Ebene_Reichenau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ebene_Reichenau.internal.md|Ebene_Reichenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ebene_Reichenau.protect.md|Ebene_Reichenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ebene_Reichenau.private.md|Ebene_Reichenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ebene_Reichenau.personal.md|Ebene_Reichenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ebene_Reichenau.secret.md|Ebene_Reichenau.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Nashville]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.md|Nashville]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.internal.md|Nashville.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.protect.md|Nashville.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.private.md|Nashville.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.personal.md|Nashville.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.secret.md|Nashville.secret]] 

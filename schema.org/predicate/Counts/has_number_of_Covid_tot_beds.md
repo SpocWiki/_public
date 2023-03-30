@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_Covid_tot_beds )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_Covid_tot_beds.md|has_number_of_Covid_tot_beds]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_tot_beds.internal.md|has_number_of_Covid_tot_beds.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_Covid_tot_beds.protect.md|has_number_of_Covid_tot_beds.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_Covid_tot_beds.private.md|has_number_of_Covid_tot_beds.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_Covid_tot_beds.personal.md|has_number_of_Covid_tot_beds.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_Covid_tot_beds.secret.md|has_number_of_Covid_tot_beds.secret]] 

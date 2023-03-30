@@ -29,3 +29,12 @@ markerFile: [[Sub-Lambeth_North]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lambeth_North.md|Sub-Lambeth_North]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lambeth_North.internal.md|Sub-Lambeth_North.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lambeth_North.protect.md|Sub-Lambeth_North.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lambeth_North.private.md|Sub-Lambeth_North.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lambeth_North.personal.md|Sub-Lambeth_North.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lambeth_North.secret.md|Sub-Lambeth_North.secret]] 

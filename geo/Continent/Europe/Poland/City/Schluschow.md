@@ -29,3 +29,12 @@ markerFile: [[Schluschow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schluschow.md|Schluschow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schluschow.internal.md|Schluschow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schluschow.protect.md|Schluschow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schluschow.private.md|Schluschow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schluschow.personal.md|Schluschow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schluschow.secret.md|Schluschow.secret]] 

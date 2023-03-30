@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
 - [con::[[Triz-moving_Length]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.internal.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.protect.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.private.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.personal.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.secret.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.secret]] 

@@ -44,3 +44,12 @@ A tourist destination. In principle any <a class="localLink" href="/Place">Place
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, includesAttraction, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, touristType, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/place/tourist_destination.md|tourist_destination]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/place/tourist_destination.internal.md|tourist_destination.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/place/tourist_destination.protect.md|tourist_destination.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/place/tourist_destination.private.md|tourist_destination.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/place/tourist_destination.personal.md|tourist_destination.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/place/tourist_destination.secret.md|tourist_destination.secret]] 

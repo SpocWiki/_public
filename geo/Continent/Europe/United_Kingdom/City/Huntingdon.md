@@ -29,3 +29,12 @@ markerFile: [[Huntingdon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Huntingdon.md|Huntingdon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Huntingdon.internal.md|Huntingdon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Huntingdon.protect.md|Huntingdon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Huntingdon.private.md|Huntingdon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Huntingdon.personal.md|Huntingdon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Huntingdon.secret.md|Huntingdon.secret]] 

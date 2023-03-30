@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Stability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.md|Triz-Ease_of_manufacture+Inversion-Stability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.internal.md|Triz-Ease_of_manufacture+Inversion-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.protect.md|Triz-Ease_of_manufacture+Inversion-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.private.md|Triz-Ease_of_manufacture+Inversion-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.personal.md|Triz-Ease_of_manufacture+Inversion-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.secret.md|Triz-Ease_of_manufacture+Inversion-Stability.secret]] 

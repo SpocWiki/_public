@@ -29,3 +29,12 @@ SpocWebEntityId: 21987
 []
 (Charge-e::92)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Actinide-Group/Uranium.md|Uranium]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Uranium.internal.md|Uranium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Uranium.protect.md|Uranium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Uranium.private.md|Uranium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Uranium.personal.md|Uranium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Uranium.secret.md|Uranium.secret]] 

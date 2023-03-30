@@ -29,3 +29,12 @@ markerFile: [[Panemunedis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Panemunedis.md|Panemunedis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Panemunedis.internal.md|Panemunedis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Panemunedis.protect.md|Panemunedis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Panemunedis.private.md|Panemunedis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Panemunedis.personal.md|Panemunedis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Panemunedis.secret.md|Panemunedis.secret]] 

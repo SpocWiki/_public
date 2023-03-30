@@ -29,3 +29,12 @@ markerFile: [[Linguaglossa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Linguaglossa.md|Linguaglossa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Linguaglossa.internal.md|Linguaglossa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Linguaglossa.protect.md|Linguaglossa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Linguaglossa.private.md|Linguaglossa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Linguaglossa.personal.md|Linguaglossa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Linguaglossa.secret.md|Linguaglossa.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Long_Island]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York/City/Long_Island.md|Long_Island]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Long_Island.internal.md|Long_Island.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Long_Island.protect.md|Long_Island.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Long_Island.private.md|Long_Island.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Long_Island.personal.md|Long_Island.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Long_Island.secret.md|Long_Island.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Rastenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rastenburg.md|Rastenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rastenburg.internal.md|Rastenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rastenburg.protect.md|Rastenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rastenburg.private.md|Rastenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rastenburg.personal.md|Rastenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rastenburg.secret.md|Rastenburg.secret]] 

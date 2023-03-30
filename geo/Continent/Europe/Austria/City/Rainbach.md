@@ -29,3 +29,12 @@ markerFile: [[Rainbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Rainbach.md|Rainbach]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Rainbach.internal.md|Rainbach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Rainbach.protect.md|Rainbach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Rainbach.private.md|Rainbach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Rainbach.personal.md|Rainbach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Rainbach.secret.md|Rainbach.secret]] 

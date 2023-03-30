@@ -29,3 +29,12 @@ markerFile: [[Carnavon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Carnavon.md|Carnavon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Carnavon.internal.md|Carnavon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Carnavon.protect.md|Carnavon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Carnavon.private.md|Carnavon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Carnavon.personal.md|Carnavon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Carnavon.secret.md|Carnavon.secret]] 

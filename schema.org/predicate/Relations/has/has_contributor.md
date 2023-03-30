@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_contributor )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_contributor.md|has_contributor]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contributor.internal.md|has_contributor.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contributor.protect.md|has_contributor.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_contributor.private.md|has_contributor.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_contributor.personal.md|has_contributor.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_contributor.secret.md|has_contributor.secret]] 

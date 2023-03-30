@@ -15,3 +15,11 @@ tags:
 [TrizParameterId::34]
 
 Ease of repair
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Ease_of_repair.md|Triz-Ease_of_repair]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Ease_of_repair.internal.md|Triz-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Ease_of_repair.protect.md|Triz-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Ease_of_repair.private.md|Triz-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Ease_of_repair.personal.md|Triz-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Ease_of_repair.secret.md|Triz-Ease_of_repair.secret]] 

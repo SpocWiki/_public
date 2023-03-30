@@ -28,3 +28,12 @@ markerFile: [[Oregon~Salem]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Oregon/City/Oregon~Salem.md|Oregon~Salem]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oregon/City/Oregon~Salem.internal.md|Oregon~Salem.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oregon/City/Oregon~Salem.protect.md|Oregon~Salem.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Oregon/City/Oregon~Salem.private.md|Oregon~Salem.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oregon/City/Oregon~Salem.personal.md|Oregon~Salem.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oregon/City/Oregon~Salem.secret.md|Oregon~Salem.secret]] 

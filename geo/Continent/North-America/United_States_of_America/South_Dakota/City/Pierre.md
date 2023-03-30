@@ -28,3 +28,12 @@ markerFile: [[Pierre]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.md|Pierre]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.internal.md|Pierre.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.protect.md|Pierre.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.private.md|Pierre.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.personal.md|Pierre.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.secret.md|Pierre.secret]] 

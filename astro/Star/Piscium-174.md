@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28148]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Piscium-174.md|Piscium-174]] 
+- [[../../../_internal/astro/Star/Piscium-174.internal.md|Piscium-174.internal]] 
+- [[../../../_protect/astro/Star/Piscium-174.protect.md|Piscium-174.protect]] 
+- [[../../../_private/astro/Star/Piscium-174.private.md|Piscium-174.private]] 
+- [[../../../_personal/astro/Star/Piscium-174.personal.md|Piscium-174.personal]] 
+- [[../../../_secret/astro/Star/Piscium-174.secret.md|Piscium-174.secret]] 

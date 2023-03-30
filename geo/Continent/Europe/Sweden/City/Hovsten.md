@@ -29,3 +29,12 @@ markerFile: [[Hovsten]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Hovsten.md|Hovsten]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hovsten.internal.md|Hovsten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hovsten.protect.md|Hovsten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hovsten.private.md|Hovsten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hovsten.personal.md|Hovsten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hovsten.secret.md|Hovsten.secret]] 

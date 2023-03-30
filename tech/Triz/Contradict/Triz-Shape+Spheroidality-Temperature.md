@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Spheroidality]]]
 - [con::[[Triz-Temperature]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.md|Triz-Shape+Spheroidality-Temperature]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.internal.md|Triz-Shape+Spheroidality-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.protect.md|Triz-Shape+Spheroidality-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.private.md|Triz-Shape+Spheroidality-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.personal.md|Triz-Shape+Spheroidality-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.secret.md|Triz-Shape+Spheroidality-Temperature.secret]] 

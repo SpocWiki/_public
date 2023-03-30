@@ -29,3 +29,12 @@ markerFile: [[Karkeln]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karkeln.md|Karkeln]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Karkeln.internal.md|Karkeln.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Karkeln.protect.md|Karkeln.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Karkeln.private.md|Karkeln.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Karkeln.personal.md|Karkeln.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Karkeln.secret.md|Karkeln.secret]] 

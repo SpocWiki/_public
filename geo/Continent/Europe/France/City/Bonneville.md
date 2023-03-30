@@ -29,3 +29,12 @@ markerFile: [[Bonneville]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Bonneville.md|Bonneville]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bonneville.internal.md|Bonneville.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bonneville.protect.md|Bonneville.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bonneville.private.md|Bonneville.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bonneville.personal.md|Bonneville.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bonneville.secret.md|Bonneville.secret]] 

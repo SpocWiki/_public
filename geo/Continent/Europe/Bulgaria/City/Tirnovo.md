@@ -29,3 +29,12 @@ markerFile: [[Tirnovo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Tirnovo.md|Tirnovo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Tirnovo.internal.md|Tirnovo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Tirnovo.protect.md|Tirnovo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Tirnovo.private.md|Tirnovo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Tirnovo.personal.md|Tirnovo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Tirnovo.secret.md|Tirnovo.secret]] 

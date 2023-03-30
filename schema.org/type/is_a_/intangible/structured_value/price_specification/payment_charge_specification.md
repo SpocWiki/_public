@@ -41,3 +41,12 @@ The costs of settling the payment using a particular payment method.
 
 [ #has_/properties :: [ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.md|payment_charge_specification]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.internal.md|payment_charge_specification.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.protect.md|payment_charge_specification.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.private.md|payment_charge_specification.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.personal.md|payment_charge_specification.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.secret.md|payment_charge_specification.secret]] 

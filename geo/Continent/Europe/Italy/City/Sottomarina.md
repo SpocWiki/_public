@@ -29,3 +29,12 @@ markerFile: [[Sottomarina]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sottomarina.md|Sottomarina]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sottomarina.internal.md|Sottomarina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sottomarina.protect.md|Sottomarina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sottomarina.private.md|Sottomarina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sottomarina.personal.md|Sottomarina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sottomarina.secret.md|Sottomarina.secret]] 

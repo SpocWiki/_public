@@ -41,3 +41,12 @@ Text representing an XPath (typically but not necessarily version 1.0).
 
 [ #is_/sub_class_of :: [[../Text]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/data_type/text/x_path_type.md|x_path_type]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/data_type/text/x_path_type.internal.md|x_path_type.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/data_type/text/x_path_type.protect.md|x_path_type.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/data_type/text/x_path_type.private.md|x_path_type.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/data_type/text/x_path_type.personal.md|x_path_type.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/data_type/text/x_path_type.secret.md|x_path_type.secret]] 

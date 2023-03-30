@@ -29,3 +29,12 @@ markerFile: [[Paimboeuf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Paimboeuf.md|Paimboeuf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Paimboeuf.internal.md|Paimboeuf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Paimboeuf.protect.md|Paimboeuf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Paimboeuf.private.md|Paimboeuf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Paimboeuf.personal.md|Paimboeuf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Paimboeuf.secret.md|Paimboeuf.secret]] 

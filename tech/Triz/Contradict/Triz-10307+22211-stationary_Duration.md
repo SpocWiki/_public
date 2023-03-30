@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22211]]]
 - [con::[[Triz-stationary_Duration]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22211-stationary_Duration.md|Triz-10307+22211-stationary_Duration]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22211-stationary_Duration.internal.md|Triz-10307+22211-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22211-stationary_Duration.protect.md|Triz-10307+22211-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22211-stationary_Duration.private.md|Triz-10307+22211-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22211-stationary_Duration.personal.md|Triz-10307+22211-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22211-stationary_Duration.secret.md|Triz-10307+22211-stationary_Duration.secret]] 

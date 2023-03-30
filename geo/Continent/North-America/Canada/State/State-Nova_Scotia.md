@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/State/State-Nova_Scotia.md|State-Nova_Scotia]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State-Nova_Scotia.internal.md|State-Nova_Scotia.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Nova_Scotia.protect.md|State-Nova_Scotia.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State-Nova_Scotia.private.md|State-Nova_Scotia.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Nova_Scotia.personal.md|State-Nova_Scotia.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Nova_Scotia.secret.md|State-Nova_Scotia.secret]] 

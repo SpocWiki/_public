@@ -29,3 +29,12 @@ markerFile: [[Manchester]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Manchester.md|Manchester]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Manchester.internal.md|Manchester.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Manchester.protect.md|Manchester.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Manchester.private.md|Manchester.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Manchester.personal.md|Manchester.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Manchester.secret.md|Manchester.secret]] 

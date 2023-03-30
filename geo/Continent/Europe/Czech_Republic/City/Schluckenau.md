@@ -29,3 +29,12 @@ markerFile: [[Schluckenau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Schluckenau.md|Schluckenau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Schluckenau.internal.md|Schluckenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Schluckenau.protect.md|Schluckenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Schluckenau.private.md|Schluckenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Schluckenau.personal.md|Schluckenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Schluckenau.secret.md|Schluckenau.secret]] 

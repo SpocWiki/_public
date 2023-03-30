@@ -29,3 +29,12 @@ markerFile: [[Edmonton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/Edmonton.md|Edmonton]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Edmonton.internal.md|Edmonton.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Edmonton.protect.md|Edmonton.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Edmonton.private.md|Edmonton.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Edmonton.personal.md|Edmonton.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Edmonton.secret.md|Edmonton.secret]] 

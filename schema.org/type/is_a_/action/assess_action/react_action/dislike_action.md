@@ -41,3 +41,12 @@ The act of expressing a negative sentiment about the object. An agent dislikes a
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.md|dislike_action]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.internal.md|dislike_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.protect.md|dislike_action.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.private.md|dislike_action.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.personal.md|dislike_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.secret.md|dislike_action.secret]] 

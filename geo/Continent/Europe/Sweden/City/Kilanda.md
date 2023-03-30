@@ -29,3 +29,12 @@ markerFile: [[Kilanda]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kilanda.md|Kilanda]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kilanda.internal.md|Kilanda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kilanda.protect.md|Kilanda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kilanda.private.md|Kilanda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kilanda.personal.md|Kilanda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kilanda.secret.md|Kilanda.secret]] 

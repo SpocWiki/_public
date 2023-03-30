@@ -29,3 +29,12 @@ markerFile: [[Hjoerring]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Hjoerring.md|Hjoerring]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Hjoerring.internal.md|Hjoerring.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Hjoerring.protect.md|Hjoerring.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Hjoerring.private.md|Hjoerring.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Hjoerring.personal.md|Hjoerring.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Hjoerring.secret.md|Hjoerring.secret]] 

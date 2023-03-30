@@ -29,3 +29,12 @@ markerFile: [[Ober-Mois]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ober-Mois.md|Ober-Mois]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ober-Mois.internal.md|Ober-Mois.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ober-Mois.protect.md|Ober-Mois.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ober-Mois.private.md|Ober-Mois.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ober-Mois.personal.md|Ober-Mois.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ober-Mois.secret.md|Ober-Mois.secret]] 

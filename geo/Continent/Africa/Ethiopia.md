@@ -136,3 +136,12 @@ markerFolder: ./Ethiopia/City
 [geo-lon::38.7]
 [geo-lat::9.05]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Ethiopia.md|Ethiopia]] 
+- [[../../../../_internal/geo/Continent/Africa/Ethiopia.internal.md|Ethiopia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ethiopia.protect.md|Ethiopia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ethiopia.private.md|Ethiopia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ethiopia.personal.md|Ethiopia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ethiopia.secret.md|Ethiopia.secret]] 

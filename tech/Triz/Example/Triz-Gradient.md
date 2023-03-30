@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-non-uniform]]]
 
 Use a Temperature, Density, or Pressure Gradient instead of constant Temperature, Density or Pressure.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Gradient.md|Triz-Gradient]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Gradient.internal.md|Triz-Gradient.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Gradient.protect.md|Triz-Gradient.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Gradient.private.md|Triz-Gradient.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Gradient.personal.md|Triz-Gradient.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Gradient.secret.md|Triz-Gradient.secret]] 

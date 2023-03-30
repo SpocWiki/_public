@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_ethics_policy )
 ( #has_/range :: CreativeWork, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_ethics_policy.md|has_ethics_policy]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ethics_policy.internal.md|has_ethics_policy.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_ethics_policy.protect.md|has_ethics_policy.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_ethics_policy.private.md|has_ethics_policy.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_ethics_policy.personal.md|has_ethics_policy.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_ethics_policy.secret.md|has_ethics_policy.secret]] 

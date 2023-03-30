@@ -135,3 +135,12 @@ markerFolder: ./Togo/City
 [geo-lon::1.21667]
 [geo-lat::6.11667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Togo.md|Togo]] 
+- [[../../../../_internal/geo/Continent/Africa/Togo.internal.md|Togo.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Togo.protect.md|Togo.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Togo.private.md|Togo.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Togo.personal.md|Togo.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Togo.secret.md|Togo.secret]] 

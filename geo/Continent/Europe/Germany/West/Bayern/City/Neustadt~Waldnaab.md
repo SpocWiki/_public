@@ -28,3 +28,12 @@ markerFile: [[Neustadt~Waldnaab]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.md|Neustadt~Waldnaab]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.internal.md|Neustadt~Waldnaab.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.protect.md|Neustadt~Waldnaab.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.private.md|Neustadt~Waldnaab.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.personal.md|Neustadt~Waldnaab.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.secret.md|Neustadt~Waldnaab.secret]] 

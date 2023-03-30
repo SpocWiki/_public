@@ -128,3 +128,12 @@ markerFolder: ./Guyana/City
 [geo-lon::-58.17]
 [geo-lat::6.78]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Guyana.md|Guyana]] 
+- [[../../../../_internal/geo/Continent/South-America/Guyana.internal.md|Guyana.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Guyana.protect.md|Guyana.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Guyana.private.md|Guyana.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Guyana.personal.md|Guyana.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Guyana.secret.md|Guyana.secret]] 

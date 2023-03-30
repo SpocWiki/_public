@@ -33,3 +33,12 @@ SpocWebEntityId: 21951
 > [Wikipedia](https://en.wikipedia.org/wiki/Caesium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-01-Alkali/Caesium.md|Caesium]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Caesium.internal.md|Caesium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Caesium.protect.md|Caesium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Caesium.private.md|Caesium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Caesium.personal.md|Caesium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Caesium.secret.md|Caesium.secret]] 

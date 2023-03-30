@@ -29,3 +29,12 @@ markerFile: [[Kamenetz-Podolskij]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kamenetz-Podolskij.md|Kamenetz-Podolskij]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kamenetz-Podolskij.internal.md|Kamenetz-Podolskij.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kamenetz-Podolskij.protect.md|Kamenetz-Podolskij.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kamenetz-Podolskij.private.md|Kamenetz-Podolskij.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kamenetz-Podolskij.personal.md|Kamenetz-Podolskij.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kamenetz-Podolskij.secret.md|Kamenetz-Podolskij.secret]] 

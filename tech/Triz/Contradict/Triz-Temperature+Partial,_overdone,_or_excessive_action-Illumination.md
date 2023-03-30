@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
 - [con::[[Triz-Illumination]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.internal.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.protect.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.private.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.personal.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.secret.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Illumination.secret]] 

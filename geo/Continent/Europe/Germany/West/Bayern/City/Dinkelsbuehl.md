@@ -28,3 +28,12 @@ markerFile: [[Dinkelsbuehl]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.md|Dinkelsbuehl]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.internal.md|Dinkelsbuehl.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.protect.md|Dinkelsbuehl.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.private.md|Dinkelsbuehl.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.personal.md|Dinkelsbuehl.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.secret.md|Dinkelsbuehl.secret]] 

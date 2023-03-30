@@ -28,3 +28,12 @@ markerFile: [[Poona]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/India/City/Poona.md|Poona]] 
+- [[../../../../../../_internal/geo/Continent/Asia/India/City/Poona.internal.md|Poona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/India/City/Poona.protect.md|Poona.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/India/City/Poona.private.md|Poona.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/India/City/Poona.personal.md|Poona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/India/City/Poona.secret.md|Poona.secret]] 

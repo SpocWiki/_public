@@ -29,3 +29,12 @@ markerFile: [[Tbilisi=Tiflis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tbilisi=Tiflis.md|Tbilisi=Tiflis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tbilisi=Tiflis.internal.md|Tbilisi=Tiflis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tbilisi=Tiflis.protect.md|Tbilisi=Tiflis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tbilisi=Tiflis.private.md|Tbilisi=Tiflis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tbilisi=Tiflis.personal.md|Tbilisi=Tiflis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tbilisi=Tiflis.secret.md|Tbilisi=Tiflis.secret]] 

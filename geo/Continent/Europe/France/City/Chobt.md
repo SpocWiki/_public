@@ -29,3 +29,12 @@ markerFile: [[Chobt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Chobt.md|Chobt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chobt.internal.md|Chobt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chobt.protect.md|Chobt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chobt.private.md|Chobt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chobt.personal.md|Chobt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chobt.secret.md|Chobt.secret]] 

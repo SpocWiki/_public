@@ -29,3 +29,12 @@ markerFile: [[Reckingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Reckingen.md|Reckingen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Reckingen.internal.md|Reckingen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Reckingen.protect.md|Reckingen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Reckingen.private.md|Reckingen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Reckingen.personal.md|Reckingen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Reckingen.secret.md|Reckingen.secret]] 

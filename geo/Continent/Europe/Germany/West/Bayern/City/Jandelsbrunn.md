@@ -28,3 +28,12 @@ markerFile: [[Jandelsbrunn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.md|Jandelsbrunn]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.internal.md|Jandelsbrunn.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.protect.md|Jandelsbrunn.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.private.md|Jandelsbrunn.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.personal.md|Jandelsbrunn.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.secret.md|Jandelsbrunn.secret]] 

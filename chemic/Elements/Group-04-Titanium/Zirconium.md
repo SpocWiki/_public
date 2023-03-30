@@ -28,3 +28,11 @@ SpocWebEntityId: 21938
 > **Zirconium** is a chemical element with the symbol (Abbr::Zr) and atomic number (Charge-e::40). The name zirconium is taken from the name of the mineral zircon, the most important source of zirconium. The word is related to Persian zargun (zircon; zar-gun, "gold-like" or "as gold"). It is a lustrous, grey-white, strong transition metal that closely resembles hafnium and, to a lesser extent, titanium. Zirconium is mainly used as a refractory and opacifier, although small amounts are used as an alloying agent for its strong resistance to corrosion. Zirconium forms a variety of inorganic and organometallic compounds such as zirconium dioxide and zirconocene dichloride, respectively. Five isotopes occur naturally, four of which are stable. Zirconium compounds have no known biological role.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zirconium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-04-Titanium/Zirconium.md|Zirconium]] 
+- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Zirconium.internal.md|Zirconium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Zirconium.protect.md|Zirconium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-04-Titanium/Zirconium.private.md|Zirconium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Zirconium.personal.md|Zirconium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Zirconium.secret.md|Zirconium.secret]] 

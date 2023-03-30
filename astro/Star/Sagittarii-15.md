@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28154]
 [NextStarId::27282]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sagittarii-15.md|Sagittarii-15]] 
+- [[../../../_internal/astro/Star/Sagittarii-15.internal.md|Sagittarii-15.internal]] 
+- [[../../../_protect/astro/Star/Sagittarii-15.protect.md|Sagittarii-15.protect]] 
+- [[../../../_private/astro/Star/Sagittarii-15.private.md|Sagittarii-15.private]] 
+- [[../../../_personal/astro/Star/Sagittarii-15.personal.md|Sagittarii-15.personal]] 
+- [[../../../_secret/astro/Star/Sagittarii-15.secret.md|Sagittarii-15.secret]] 

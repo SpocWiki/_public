@@ -29,3 +29,12 @@ markerFile: [[Domesnaes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Domesnaes.md|Domesnaes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Domesnaes.internal.md|Domesnaes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Domesnaes.protect.md|Domesnaes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Domesnaes.private.md|Domesnaes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Domesnaes.personal.md|Domesnaes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Domesnaes.secret.md|Domesnaes.secret]] 

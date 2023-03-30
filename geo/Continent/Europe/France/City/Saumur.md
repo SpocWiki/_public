@@ -29,3 +29,12 @@ markerFile: [[Saumur]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Saumur.md|Saumur]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Saumur.internal.md|Saumur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Saumur.protect.md|Saumur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Saumur.private.md|Saumur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Saumur.personal.md|Saumur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Saumur.secret.md|Saumur.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Reading]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Reading.md|Reading]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Reading.internal.md|Reading.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Reading.protect.md|Reading.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Reading.private.md|Reading.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Reading.personal.md|Reading.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Reading.secret.md|Reading.secret]] 

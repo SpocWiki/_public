@@ -29,3 +29,12 @@ markerFile: [[Holsvattnet]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Holsvattnet.md|Holsvattnet]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Holsvattnet.internal.md|Holsvattnet.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Holsvattnet.protect.md|Holsvattnet.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Holsvattnet.private.md|Holsvattnet.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Holsvattnet.personal.md|Holsvattnet.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Holsvattnet.secret.md|Holsvattnet.secret]] 

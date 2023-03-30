@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Ursae_Majoris-22.md|Ursae_Majoris-22]] 
+- [[../../../_internal/astro/Star/Ursae_Majoris-22.internal.md|Ursae_Majoris-22.internal]] 
+- [[../../../_protect/astro/Star/Ursae_Majoris-22.protect.md|Ursae_Majoris-22.protect]] 
+- [[../../../_private/astro/Star/Ursae_Majoris-22.private.md|Ursae_Majoris-22.private]] 
+- [[../../../_personal/astro/Star/Ursae_Majoris-22.personal.md|Ursae_Majoris-22.personal]] 
+- [[../../../_secret/astro/Star/Ursae_Majoris-22.secret.md|Ursae_Majoris-22.secret]] 

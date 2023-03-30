@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Prior_action]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.md|Triz-Substance-Loss+Prior_action-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.internal.md|Triz-Substance-Loss+Prior_action-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.protect.md|Triz-Substance-Loss+Prior_action-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.private.md|Triz-Substance-Loss+Prior_action-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.personal.md|Triz-Substance-Loss+Prior_action-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.secret.md|Triz-Substance-Loss+Prior_action-Stress.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Minken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Minken.md|Minken]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Minken.internal.md|Minken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Minken.protect.md|Minken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Minken.private.md|Minken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Minken.personal.md|Minken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Minken.secret.md|Minken.secret]] 

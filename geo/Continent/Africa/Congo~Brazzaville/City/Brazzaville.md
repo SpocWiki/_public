@@ -29,3 +29,12 @@ markerFile: [[Brazzaville]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.md|Brazzaville]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.internal.md|Brazzaville.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.protect.md|Brazzaville.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.private.md|Brazzaville.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.personal.md|Brazzaville.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.secret.md|Brazzaville.secret]] 

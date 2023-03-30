@@ -29,3 +29,12 @@ markerFile: [[Tundbridge_Wells]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tundbridge_Wells.md|Tundbridge_Wells]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tundbridge_Wells.internal.md|Tundbridge_Wells.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tundbridge_Wells.protect.md|Tundbridge_Wells.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tundbridge_Wells.private.md|Tundbridge_Wells.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tundbridge_Wells.personal.md|Tundbridge_Wells.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tundbridge_Wells.secret.md|Tundbridge_Wells.secret]] 

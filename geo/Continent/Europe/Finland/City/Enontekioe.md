@@ -29,3 +29,12 @@ markerFile: [[Enontekioe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Enontekioe.md|Enontekioe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Enontekioe.internal.md|Enontekioe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Enontekioe.protect.md|Enontekioe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Enontekioe.private.md|Enontekioe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Enontekioe.personal.md|Enontekioe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Enontekioe.secret.md|Enontekioe.secret]] 

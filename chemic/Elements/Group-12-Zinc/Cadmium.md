@@ -32,3 +32,11 @@ SpocWebEntityId: 21945
 > Although cadmium has no known biological function in higher organisms, a cadmium-dependent carbonic anhydrase has been found in marine diatoms.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cadmium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-12-Zinc/Cadmium.md|Cadmium]] 
+- [[../../../../_internal/chemic/Elements/Group-12-Zinc/Cadmium.internal.md|Cadmium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-12-Zinc/Cadmium.protect.md|Cadmium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-12-Zinc/Cadmium.private.md|Cadmium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-12-Zinc/Cadmium.personal.md|Cadmium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-12-Zinc/Cadmium.secret.md|Cadmium.secret]] 

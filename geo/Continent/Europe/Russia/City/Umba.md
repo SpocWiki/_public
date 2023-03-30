@@ -29,3 +29,12 @@ markerFile: [[Umba]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Umba.md|Umba]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Umba.internal.md|Umba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Umba.protect.md|Umba.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Umba.private.md|Umba.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Umba.personal.md|Umba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Umba.secret.md|Umba.secret]] 

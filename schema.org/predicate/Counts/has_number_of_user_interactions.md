@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_user_interactions )
 ( #has_/range :: Integer )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_user_interactions.md|has_number_of_user_interactions]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_user_interactions.internal.md|has_number_of_user_interactions.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_user_interactions.protect.md|has_number_of_user_interactions.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_user_interactions.private.md|has_number_of_user_interactions.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_user_interactions.personal.md|has_number_of_user_interactions.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_user_interactions.secret.md|has_number_of_user_interactions.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Beroun]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Beroun.md|Beroun]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Beroun.internal.md|Beroun.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Beroun.protect.md|Beroun.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Beroun.private.md|Beroun.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Beroun.personal.md|Beroun.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Beroun.secret.md|Beroun.secret]] 

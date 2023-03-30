@@ -29,3 +29,12 @@ markerFile: [[Zanow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zanow.md|Zanow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zanow.internal.md|Zanow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zanow.protect.md|Zanow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zanow.private.md|Zanow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zanow.personal.md|Zanow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zanow.secret.md|Zanow.secret]] 

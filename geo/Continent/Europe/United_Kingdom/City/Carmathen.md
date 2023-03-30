@@ -29,3 +29,12 @@ markerFile: [[Carmathen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Carmathen.md|Carmathen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Carmathen.internal.md|Carmathen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Carmathen.protect.md|Carmathen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Carmathen.private.md|Carmathen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Carmathen.personal.md|Carmathen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Carmathen.secret.md|Carmathen.secret]] 

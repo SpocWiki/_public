@@ -29,3 +29,12 @@ markerFile: [[Hinterhaeuser]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.md|Hinterhaeuser]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.internal.md|Hinterhaeuser.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.protect.md|Hinterhaeuser.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.private.md|Hinterhaeuser.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.personal.md|Hinterhaeuser.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.secret.md|Hinterhaeuser.secret]] 

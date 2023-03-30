@@ -45,3 +45,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_product_id.md|has_product_id]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_product_id.internal.md|has_product_id.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_product_id.protect.md|has_product_id.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_product_id.private.md|has_product_id.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_product_id.personal.md|has_product_id.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_product_id.secret.md|has_product_id.secret]] 

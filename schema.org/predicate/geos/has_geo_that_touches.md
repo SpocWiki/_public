@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo_touches )
 ( #has_/range :: GeospatialGeometry, Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_that_touches.md|has_geo_that_touches]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_that_touches.internal.md|has_geo_that_touches.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_that_touches.protect.md|has_geo_that_touches.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_that_touches.private.md|has_geo_that_touches.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_that_touches.personal.md|has_geo_that_touches.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_that_touches.secret.md|has_geo_that_touches.secret]] 

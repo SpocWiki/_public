@@ -24,3 +24,13 @@ Subject-Predicate/Property-Object
 Obsidian allows to naturally capture these Triples,
 either in the Frontmatter or anywhere in the Text.
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/schema.org/Entity.md|Entity]] 
+- [[../../_internal/schema.org/Entity.internal.md|Entity.internal]] 
+- [[../../_protect/schema.org/Entity.protect.md|Entity.protect]] 
+- [[../../_private/schema.org/Entity.private.md|Entity.private]] 
+- [[../../_personal/schema.org/Entity.personal.md|Entity.personal]] 
+- [[../../_secret/schema.org/Entity.secret.md|Entity.secret]]
+

@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: partOfTrip ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_sub_trip.md|has_sub_trip]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_trip.internal.md|has_sub_trip.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sub_trip.protect.md|has_sub_trip.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sub_trip.private.md|has_sub_trip.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sub_trip.personal.md|has_sub_trip.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sub_trip.secret.md|has_sub_trip.secret]] 

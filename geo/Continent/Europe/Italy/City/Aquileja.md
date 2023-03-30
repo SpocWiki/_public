@@ -29,3 +29,12 @@ markerFile: [[Aquileja]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Aquileja.md|Aquileja]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Aquileja.internal.md|Aquileja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Aquileja.protect.md|Aquileja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Aquileja.private.md|Aquileja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Aquileja.personal.md|Aquileja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Aquileja.secret.md|Aquileja.secret]] 

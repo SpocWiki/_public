@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28094]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Cancri-6.md|Cancri-6]] 
+- [[../../../_internal/astro/Star/Cancri-6.internal.md|Cancri-6.internal]] 
+- [[../../../_protect/astro/Star/Cancri-6.protect.md|Cancri-6.protect]] 
+- [[../../../_private/astro/Star/Cancri-6.private.md|Cancri-6.private]] 
+- [[../../../_personal/astro/Star/Cancri-6.personal.md|Cancri-6.personal]] 
+- [[../../../_secret/astro/Star/Cancri-6.secret.md|Cancri-6.secret]]
+

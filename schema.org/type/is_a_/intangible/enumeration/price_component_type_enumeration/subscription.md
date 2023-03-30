@@ -45,3 +45,12 @@ Represents the subscription pricing component of the total price for an offered 
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.md|subscription]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.internal.md|subscription.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.protect.md|subscription.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.private.md|subscription.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.personal.md|subscription.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.secret.md|subscription.secret]] 

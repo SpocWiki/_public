@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22230]]]
 - [con::[[Triz-Intensity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22230-Intensity.md|Triz-10307+22230-Intensity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22230-Intensity.internal.md|Triz-10307+22230-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22230-Intensity.protect.md|Triz-10307+22230-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22230-Intensity.private.md|Triz-10307+22230-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22230-Intensity.personal.md|Triz-10307+22230-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22230-Intensity.secret.md|Triz-10307+22230-Intensity.secret]] 

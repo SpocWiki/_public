@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_honorific_prefix )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_honorific_prefix.md|has_honorific_prefix]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_honorific_prefix.internal.md|has_honorific_prefix.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_honorific_prefix.protect.md|has_honorific_prefix.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_honorific_prefix.private.md|has_honorific_prefix.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_honorific_prefix.personal.md|has_honorific_prefix.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_honorific_prefix.secret.md|has_honorific_prefix.secret]] 

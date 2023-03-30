@@ -29,3 +29,12 @@ markerFile: [[Rustschuk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Rustschuk.md|Rustschuk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Rustschuk.internal.md|Rustschuk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Rustschuk.protect.md|Rustschuk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Rustschuk.private.md|Rustschuk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Rustschuk.personal.md|Rustschuk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Rustschuk.secret.md|Rustschuk.secret]] 

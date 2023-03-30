@@ -29,3 +29,12 @@ markerFile: [[Bressanone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bressanone.md|Bressanone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bressanone.internal.md|Bressanone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bressanone.protect.md|Bressanone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bressanone.private.md|Bressanone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bressanone.personal.md|Bressanone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bressanone.secret.md|Bressanone.secret]] 

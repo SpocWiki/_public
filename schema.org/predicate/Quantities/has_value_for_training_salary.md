@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_training_salary )
 ( #has_/range :: MonetaryAmountDistribution )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_training_salary.md|has_value_for_training_salary]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_training_salary.internal.md|has_value_for_training_salary.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_training_salary.protect.md|has_value_for_training_salary.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_training_salary.private.md|has_value_for_training_salary.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_training_salary.personal.md|has_value_for_training_salary.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_training_salary.secret.md|has_value_for_training_salary.secret]] 

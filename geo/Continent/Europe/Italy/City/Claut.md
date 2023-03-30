@@ -29,3 +29,12 @@ markerFile: [[Claut]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Claut.md|Claut]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Claut.internal.md|Claut.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Claut.protect.md|Claut.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Claut.private.md|Claut.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Claut.personal.md|Claut.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Claut.secret.md|Claut.secret]] 

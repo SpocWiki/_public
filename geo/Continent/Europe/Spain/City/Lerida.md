@@ -29,3 +29,12 @@ markerFile: [[Lerida]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Lerida.md|Lerida]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Lerida.internal.md|Lerida.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Lerida.protect.md|Lerida.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Lerida.private.md|Lerida.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Lerida.personal.md|Lerida.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Lerida.secret.md|Lerida.secret]] 

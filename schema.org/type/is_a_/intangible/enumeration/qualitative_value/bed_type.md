@@ -41,3 +41,12 @@ A type of bed. This is used for indicating the bed or beds available in an accom
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/bed_type.md|bed_type]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/bed_type.internal.md|bed_type.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/bed_type.protect.md|bed_type.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/bed_type.private.md|bed_type.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/bed_type.personal.md|bed_type.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/bed_type.secret.md|bed_type.secret]] 

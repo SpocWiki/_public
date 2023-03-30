@@ -29,3 +29,12 @@ markerFile: [[Medicina]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Medicina.md|Medicina]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Medicina.internal.md|Medicina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Medicina.protect.md|Medicina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Medicina.private.md|Medicina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Medicina.personal.md|Medicina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Medicina.secret.md|Medicina.secret]] 

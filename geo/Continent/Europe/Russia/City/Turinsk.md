@@ -29,3 +29,12 @@ markerFile: [[Turinsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Turinsk.md|Turinsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Turinsk.internal.md|Turinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Turinsk.protect.md|Turinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Turinsk.private.md|Turinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Turinsk.personal.md|Turinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Turinsk.secret.md|Turinsk.secret]] 

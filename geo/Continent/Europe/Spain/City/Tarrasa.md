@@ -29,3 +29,12 @@ markerFile: [[Tarrasa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Tarrasa.md|Tarrasa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Tarrasa.internal.md|Tarrasa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Tarrasa.protect.md|Tarrasa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Tarrasa.private.md|Tarrasa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Tarrasa.personal.md|Tarrasa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Tarrasa.secret.md|Tarrasa.secret]] 

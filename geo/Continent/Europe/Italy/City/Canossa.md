@@ -29,3 +29,12 @@ markerFile: [[Canossa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Canossa.md|Canossa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Canossa.internal.md|Canossa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Canossa.protect.md|Canossa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Canossa.private.md|Canossa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Canossa.personal.md|Canossa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Canossa.secret.md|Canossa.secret]] 

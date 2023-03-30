@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_medicine_system )
 ( #has_/range :: MedicineSystem )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_medicine_system.md|has_medicine_system]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_medicine_system.internal.md|has_medicine_system.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_medicine_system.protect.md|has_medicine_system.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_medicine_system.private.md|has_medicine_system.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_medicine_system.personal.md|has_medicine_system.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_medicine_system.secret.md|has_medicine_system.secret]] 

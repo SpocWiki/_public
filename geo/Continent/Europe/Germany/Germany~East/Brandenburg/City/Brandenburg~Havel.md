@@ -28,3 +28,12 @@ markerFile: [[Brandenburg~Havel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.md|Brandenburg~Havel]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.internal.md|Brandenburg~Havel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.protect.md|Brandenburg~Havel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.private.md|Brandenburg~Havel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.personal.md|Brandenburg~Havel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.secret.md|Brandenburg~Havel.secret]] 

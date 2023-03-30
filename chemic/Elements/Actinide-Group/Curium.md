@@ -29,3 +29,12 @@ SpocWebEntityId: 21991
 []
 (Charge-e::96)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Actinide-Group/Curium.md|Curium]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Curium.internal.md|Curium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Curium.protect.md|Curium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Curium.private.md|Curium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Curium.personal.md|Curium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Curium.secret.md|Curium.secret]] 

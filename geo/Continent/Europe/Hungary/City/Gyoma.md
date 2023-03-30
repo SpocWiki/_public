@@ -29,3 +29,12 @@ markerFile: [[Gyoma]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Gyoma.md|Gyoma]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyoma.internal.md|Gyoma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyoma.protect.md|Gyoma.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyoma.private.md|Gyoma.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyoma.personal.md|Gyoma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyoma.secret.md|Gyoma.secret]] 

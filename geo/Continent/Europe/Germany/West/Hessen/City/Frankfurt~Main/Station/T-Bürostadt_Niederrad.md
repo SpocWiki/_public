@@ -24,3 +24,12 @@ markerFile: [[T-Bürostadt_Niederrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bürostadt_Niederrad.md|T-Bürostadt_Niederrad]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bürostadt_Niederrad.internal.md|T-Bürostadt_Niederrad.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bürostadt_Niederrad.protect.md|T-Bürostadt_Niederrad.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bürostadt_Niederrad.private.md|T-Bürostadt_Niederrad.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bürostadt_Niederrad.personal.md|T-Bürostadt_Niederrad.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bürostadt_Niederrad.secret.md|T-Bürostadt_Niederrad.secret]] 

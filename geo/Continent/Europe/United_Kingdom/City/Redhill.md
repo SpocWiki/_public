@@ -29,3 +29,12 @@ markerFile: [[Redhill]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Redhill.md|Redhill]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Redhill.internal.md|Redhill.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Redhill.protect.md|Redhill.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Redhill.private.md|Redhill.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Redhill.personal.md|Redhill.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Redhill.secret.md|Redhill.secret]] 

@@ -132,3 +132,12 @@ markerFolder: ./Iceland/City
 [geo-lon::-21.718]
 [geo-lat::64.614]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Iceland.md|Iceland]] 
+- [[../../../../_internal/geo/Continent/Europe/Iceland.internal.md|Iceland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Iceland.protect.md|Iceland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Iceland.private.md|Iceland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Iceland.personal.md|Iceland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Iceland.secret.md|Iceland.secret]] 

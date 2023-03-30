@@ -29,3 +29,12 @@ markerFile: [[Binasco]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Binasco.md|Binasco]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Binasco.internal.md|Binasco.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Binasco.protect.md|Binasco.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Binasco.private.md|Binasco.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Binasco.personal.md|Binasco.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Binasco.secret.md|Binasco.secret]] 

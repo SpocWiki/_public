@@ -130,3 +130,12 @@ markerFolder: ./Thailand/City
 [geo-lon::100.5]
 [geo-lat::13.73]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Thailand.md|Thailand]] 
+- [[../../../../_internal/geo/Continent/Asia/Thailand.internal.md|Thailand.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Thailand.protect.md|Thailand.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Thailand.private.md|Thailand.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Thailand.personal.md|Thailand.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Thailand.secret.md|Thailand.secret]] 

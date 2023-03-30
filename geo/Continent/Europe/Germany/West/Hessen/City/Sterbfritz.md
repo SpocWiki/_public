@@ -28,3 +28,12 @@ markerFile: [[Sterbfritz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.md|Sterbfritz]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.internal.md|Sterbfritz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.protect.md|Sterbfritz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.private.md|Sterbfritz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.personal.md|Sterbfritz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.secret.md|Sterbfritz.secret]] 

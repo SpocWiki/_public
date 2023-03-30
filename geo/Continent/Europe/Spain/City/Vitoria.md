@@ -29,3 +29,12 @@ markerFile: [[Vitoria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Vitoria.md|Vitoria]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Vitoria.internal.md|Vitoria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Vitoria.protect.md|Vitoria.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Vitoria.private.md|Vitoria.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Vitoria.personal.md|Vitoria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Vitoria.secret.md|Vitoria.secret]] 

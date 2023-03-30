@@ -29,3 +29,12 @@ markerFile: [[Ebensee]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Ebensee.md|Ebensee]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ebensee.internal.md|Ebensee.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ebensee.protect.md|Ebensee.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ebensee.private.md|Ebensee.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ebensee.personal.md|Ebensee.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ebensee.secret.md|Ebensee.secret]] 

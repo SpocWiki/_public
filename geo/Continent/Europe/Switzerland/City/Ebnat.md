@@ -29,3 +29,12 @@ markerFile: [[Ebnat]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Ebnat.md|Ebnat]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ebnat.internal.md|Ebnat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ebnat.protect.md|Ebnat.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ebnat.private.md|Ebnat.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ebnat.personal.md|Ebnat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ebnat.secret.md|Ebnat.secret]] 

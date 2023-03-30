@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Moving_to_a_new_dimension]]]
 - [con::Time-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.md|Triz-Shape+Moving_to_a_new_dimension-Time-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.internal.md|Triz-Shape+Moving_to_a_new_dimension-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.protect.md|Triz-Shape+Moving_to_a_new_dimension-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.private.md|Triz-Shape+Moving_to_a_new_dimension-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.personal.md|Triz-Shape+Moving_to_a_new_dimension-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.secret.md|Triz-Shape+Moving_to_a_new_dimension-Time-Loss.secret]] 

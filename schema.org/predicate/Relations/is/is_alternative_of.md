@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_alternative_of )
 ( #has_/range :: Gene )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_alternative_of.md|is_alternative_of]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_alternative_of.internal.md|is_alternative_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_alternative_of.protect.md|is_alternative_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_alternative_of.private.md|is_alternative_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_alternative_of.personal.md|is_alternative_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_alternative_of.secret.md|is_alternative_of.secret]] 

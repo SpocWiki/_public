@@ -28,3 +28,12 @@ markerFile: [[U-Neuer_jüdischer_Friedhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Neuer_jüdischer_Friedhof.md|U-Neuer_jüdischer_Friedhof]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Neuer_jüdischer_Friedhof.internal.md|U-Neuer_jüdischer_Friedhof.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Neuer_jüdischer_Friedhof.protect.md|U-Neuer_jüdischer_Friedhof.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Neuer_jüdischer_Friedhof.private.md|U-Neuer_jüdischer_Friedhof.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Neuer_jüdischer_Friedhof.personal.md|U-Neuer_jüdischer_Friedhof.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Neuer_jüdischer_Friedhof.secret.md|U-Neuer_jüdischer_Friedhof.secret]] 

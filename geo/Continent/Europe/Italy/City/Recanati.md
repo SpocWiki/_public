@@ -29,3 +29,12 @@ markerFile: [[Recanati]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Recanati.md|Recanati]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Recanati.internal.md|Recanati.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Recanati.protect.md|Recanati.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Recanati.private.md|Recanati.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Recanati.personal.md|Recanati.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Recanati.secret.md|Recanati.secret]] 

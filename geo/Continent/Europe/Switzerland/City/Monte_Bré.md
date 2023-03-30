@@ -29,3 +29,12 @@ markerFile: [[Monte_Bré]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Monte_Bré.md|Monte_Bré]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Monte_Bré.internal.md|Monte_Bré.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Monte_Bré.protect.md|Monte_Bré.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Monte_Bré.private.md|Monte_Bré.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Monte_Bré.personal.md|Monte_Bré.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Monte_Bré.secret.md|Monte_Bré.secret]] 

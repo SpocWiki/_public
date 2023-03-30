@@ -29,3 +29,12 @@ markerFile: [[Salford]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Salford.md|Salford]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Salford.internal.md|Salford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Salford.protect.md|Salford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Salford.private.md|Salford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Salford.personal.md|Salford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Salford.secret.md|Salford.secret]] 

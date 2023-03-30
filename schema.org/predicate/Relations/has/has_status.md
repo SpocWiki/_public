@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_status )
 ( #has_/range :: EventStatusType, MedicalStudyStatus, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_status.md|has_status]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_status.internal.md|has_status.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_status.protect.md|has_status.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_status.private.md|has_status.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_status.personal.md|has_status.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_status.secret.md|has_status.secret]] 

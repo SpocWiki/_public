@@ -29,3 +29,12 @@ markerFile: [[Falkenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Falkenburg.md|Falkenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Falkenburg.internal.md|Falkenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Falkenburg.protect.md|Falkenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Falkenburg.private.md|Falkenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Falkenburg.personal.md|Falkenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Falkenburg.secret.md|Falkenburg.secret]] 

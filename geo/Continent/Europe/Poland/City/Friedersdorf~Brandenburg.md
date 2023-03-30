@@ -29,3 +29,12 @@ markerFile: [[Friedersdorf~Brandenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.md|Friedersdorf~Brandenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.internal.md|Friedersdorf~Brandenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.protect.md|Friedersdorf~Brandenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.private.md|Friedersdorf~Brandenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.personal.md|Friedersdorf~Brandenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.secret.md|Friedersdorf~Brandenburg.secret]] 

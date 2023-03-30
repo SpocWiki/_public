@@ -29,3 +29,12 @@ markerFile: [[Simo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Simo.md|Simo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Simo.internal.md|Simo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Simo.protect.md|Simo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Simo.private.md|Simo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Simo.personal.md|Simo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Simo.secret.md|Simo.secret]] 

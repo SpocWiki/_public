@@ -29,3 +29,12 @@ markerFile: [[Johannisburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Johannisburg.md|Johannisburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Johannisburg.internal.md|Johannisburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Johannisburg.protect.md|Johannisburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Johannisburg.private.md|Johannisburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Johannisburg.personal.md|Johannisburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Johannisburg.secret.md|Johannisburg.secret]] 

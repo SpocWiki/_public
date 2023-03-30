@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_founders )
 ( #has_/range :: Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_founders.md|has_founders]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_founders.internal.md|has_founders.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_founders.protect.md|has_founders.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_founders.private.md|has_founders.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_founders.personal.md|has_founders.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_founders.secret.md|has_founders.secret]] 

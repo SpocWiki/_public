@@ -79,3 +79,12 @@ TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
 FROM outgoing([[Sub-District]])
 ```
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.md|Line~District]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.internal.md|Line~District.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.protect.md|Line~District.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.private.md|Line~District.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.personal.md|Line~District.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.secret.md|Line~District.secret]] 

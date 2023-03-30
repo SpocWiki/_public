@@ -29,3 +29,12 @@ markerFile: [[Hoedic]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Hoedic.md|Hoedic]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Hoedic.internal.md|Hoedic.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Hoedic.protect.md|Hoedic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Hoedic.private.md|Hoedic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Hoedic.personal.md|Hoedic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Hoedic.secret.md|Hoedic.secret]] 

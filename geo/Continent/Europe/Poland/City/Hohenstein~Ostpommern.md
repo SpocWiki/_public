@@ -29,3 +29,12 @@ markerFile: [[Hohenstein~Ostpommern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hohenstein~Ostpommern.md|Hohenstein~Ostpommern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hohenstein~Ostpommern.internal.md|Hohenstein~Ostpommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hohenstein~Ostpommern.protect.md|Hohenstein~Ostpommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hohenstein~Ostpommern.private.md|Hohenstein~Ostpommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hohenstein~Ostpommern.personal.md|Hohenstein~Ostpommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hohenstein~Ostpommern.secret.md|Hohenstein~Ostpommern.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Triebelwitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Triebelwitz.md|Triebelwitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Triebelwitz.internal.md|Triebelwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Triebelwitz.protect.md|Triebelwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Triebelwitz.private.md|Triebelwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Triebelwitz.personal.md|Triebelwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Triebelwitz.secret.md|Triebelwitz.secret]] 

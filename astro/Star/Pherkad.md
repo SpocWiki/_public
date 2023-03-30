@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28166]
 [NextStarId::28030]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Pherkad.md|Pherkad]] 
+- [[../../../_internal/astro/Star/Pherkad.internal.md|Pherkad.internal]] 
+- [[../../../_protect/astro/Star/Pherkad.protect.md|Pherkad.protect]] 
+- [[../../../_private/astro/Star/Pherkad.private.md|Pherkad.private]] 
+- [[../../../_personal/astro/Star/Pherkad.personal.md|Pherkad.personal]] 
+- [[../../../_secret/astro/Star/Pherkad.secret.md|Pherkad.secret]] 

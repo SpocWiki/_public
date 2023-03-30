@@ -29,3 +29,12 @@ markerFile: [[Staples]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Staples.md|Staples]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Staples.internal.md|Staples.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Staples.protect.md|Staples.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Staples.private.md|Staples.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Staples.personal.md|Staples.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Staples.secret.md|Staples.secret]] 

@@ -442,3 +442,11 @@ filters:
   enabled: true
   conditions:
 ```
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Antarctica/_Antarctica-CountryDb.md|_Antarctica-CountryDb]] 
+- [[../../../../_internal/geo/Continent/Antarctica/_Antarctica-CountryDb.internal.md|_Antarctica-CountryDb.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/_Antarctica-CountryDb.protect.md|_Antarctica-CountryDb.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/_Antarctica-CountryDb.private.md|_Antarctica-CountryDb.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/_Antarctica-CountryDb.personal.md|_Antarctica-CountryDb.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/_Antarctica-CountryDb.secret.md|_Antarctica-CountryDb.secret]] 

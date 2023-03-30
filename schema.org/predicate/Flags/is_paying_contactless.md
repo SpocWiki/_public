@@ -46,3 +46,12 @@ Predicate describes that:
 ( #has_/name :: is_paying_contactless )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_paying_contactless.md|is_paying_contactless]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_paying_contactless.internal.md|is_paying_contactless.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_paying_contactless.protect.md|is_paying_contactless.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_paying_contactless.private.md|is_paying_contactless.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_paying_contactless.personal.md|is_paying_contactless.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_paying_contactless.secret.md|is_paying_contactless.secret]] 

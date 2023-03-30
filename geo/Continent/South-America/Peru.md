@@ -130,3 +130,12 @@ markerFolder: ./Peru/City
 [geo-lon::-77.05]
 [geo-lat::-12.05]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Peru.md|Peru]] 
+- [[../../../../_internal/geo/Continent/South-America/Peru.internal.md|Peru.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Peru.protect.md|Peru.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Peru.private.md|Peru.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Peru.personal.md|Peru.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Peru.secret.md|Peru.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Seewis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Seewis.md|Seewis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Seewis.internal.md|Seewis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Seewis.protect.md|Seewis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Seewis.private.md|Seewis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Seewis.personal.md|Seewis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Seewis.secret.md|Seewis.secret]] 

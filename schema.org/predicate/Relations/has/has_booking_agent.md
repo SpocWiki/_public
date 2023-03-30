@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_booking_agent )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_booking_agent.md|has_booking_agent]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_booking_agent.internal.md|has_booking_agent.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_booking_agent.protect.md|has_booking_agent.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_booking_agent.private.md|has_booking_agent.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_booking_agent.personal.md|has_booking_agent.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_booking_agent.secret.md|has_booking_agent.secret]] 

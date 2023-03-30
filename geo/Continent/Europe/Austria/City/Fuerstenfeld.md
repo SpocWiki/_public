@@ -29,3 +29,12 @@ markerFile: [[Fuerstenfeld]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Fuerstenfeld.md|Fuerstenfeld]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Fuerstenfeld.internal.md|Fuerstenfeld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Fuerstenfeld.protect.md|Fuerstenfeld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Fuerstenfeld.private.md|Fuerstenfeld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Fuerstenfeld.personal.md|Fuerstenfeld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Fuerstenfeld.secret.md|Fuerstenfeld.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Bielau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bielau.md|Bielau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bielau.internal.md|Bielau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bielau.protect.md|Bielau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bielau.private.md|Bielau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bielau.personal.md|Bielau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bielau.secret.md|Bielau.secret]] 

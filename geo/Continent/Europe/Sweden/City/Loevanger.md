@@ -29,3 +29,12 @@ markerFile: [[Loevanger]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Loevanger.md|Loevanger]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Loevanger.internal.md|Loevanger.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Loevanger.protect.md|Loevanger.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Loevanger.private.md|Loevanger.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Loevanger.personal.md|Loevanger.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Loevanger.secret.md|Loevanger.secret]] 

@@ -35,3 +35,12 @@ markerFolder: ./Serbia_and_Montenegro/City
 [geo-lon::20.4667]
 [geo-lat::44.8167]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Serbia_and_Montenegro.md|Serbia_and_Montenegro]] 
+- [[../../../../_internal/geo/Continent/Europe/Serbia_and_Montenegro.internal.md|Serbia_and_Montenegro.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Serbia_and_Montenegro.protect.md|Serbia_and_Montenegro.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Serbia_and_Montenegro.private.md|Serbia_and_Montenegro.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Serbia_and_Montenegro.personal.md|Serbia_and_Montenegro.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Serbia_and_Montenegro.secret.md|Serbia_and_Montenegro.secret]] 

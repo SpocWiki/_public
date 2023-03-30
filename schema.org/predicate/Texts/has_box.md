@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_box )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_box.md|has_box]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_box.internal.md|has_box.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_box.protect.md|has_box.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_box.private.md|has_box.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_box.personal.md|has_box.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_box.secret.md|has_box.secret]] 

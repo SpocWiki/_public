@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-periodic-action]]]
 
 Replace a continuous Siren with a pulsed Sound.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-pulsed_Sound.md|Triz-pulsed_Sound]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-pulsed_Sound.internal.md|Triz-pulsed_Sound.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-pulsed_Sound.protect.md|Triz-pulsed_Sound.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-pulsed_Sound.private.md|Triz-pulsed_Sound.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-pulsed_Sound.personal.md|Triz-pulsed_Sound.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-pulsed_Sound.secret.md|Triz-pulsed_Sound.secret]] 

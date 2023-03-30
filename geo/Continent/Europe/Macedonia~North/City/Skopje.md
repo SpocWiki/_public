@@ -29,3 +29,12 @@ markerFile: [[Skopje]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Macedonia~North/City/Skopje.md|Skopje]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Macedonia~North/City/Skopje.internal.md|Skopje.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Macedonia~North/City/Skopje.protect.md|Skopje.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Macedonia~North/City/Skopje.private.md|Skopje.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Macedonia~North/City/Skopje.personal.md|Skopje.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Macedonia~North/City/Skopje.secret.md|Skopje.secret]] 

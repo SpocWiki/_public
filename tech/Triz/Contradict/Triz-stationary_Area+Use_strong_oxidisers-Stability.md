@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Use_strong_oxidisers]]]
 - [con::[[Triz-Stability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.md|Triz-stationary_Area+Use_strong_oxidisers-Stability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.internal.md|Triz-stationary_Area+Use_strong_oxidisers-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.protect.md|Triz-stationary_Area+Use_strong_oxidisers-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.private.md|Triz-stationary_Area+Use_strong_oxidisers-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.personal.md|Triz-stationary_Area+Use_strong_oxidisers-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.secret.md|Triz-stationary_Area+Use_strong_oxidisers-Stability.secret]] 

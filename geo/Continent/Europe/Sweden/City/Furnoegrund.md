@@ -29,3 +29,12 @@ markerFile: [[Furnoegrund]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Furnoegrund.md|Furnoegrund]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Furnoegrund.internal.md|Furnoegrund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Furnoegrund.protect.md|Furnoegrund.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Furnoegrund.private.md|Furnoegrund.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Furnoegrund.personal.md|Furnoegrund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Furnoegrund.secret.md|Furnoegrund.secret]] 

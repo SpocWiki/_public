@@ -29,3 +29,12 @@ markerFile: [[Petrograd=Leningrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.md|Petrograd=Leningrad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.internal.md|Petrograd=Leningrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.protect.md|Petrograd=Leningrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.private.md|Petrograd=Leningrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.personal.md|Petrograd=Leningrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.secret.md|Petrograd=Leningrad.secret]] 

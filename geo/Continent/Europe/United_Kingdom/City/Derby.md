@@ -29,3 +29,12 @@ markerFile: [[Derby]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Derby.md|Derby]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Derby.internal.md|Derby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Derby.protect.md|Derby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Derby.private.md|Derby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Derby.personal.md|Derby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Derby.secret.md|Derby.secret]] 

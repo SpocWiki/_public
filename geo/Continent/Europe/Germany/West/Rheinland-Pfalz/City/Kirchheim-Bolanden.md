@@ -28,3 +28,12 @@ markerFile: [[Kirchheim-Bolanden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.md|Kirchheim-Bolanden]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.internal.md|Kirchheim-Bolanden.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.protect.md|Kirchheim-Bolanden.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.private.md|Kirchheim-Bolanden.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.personal.md|Kirchheim-Bolanden.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.secret.md|Kirchheim-Bolanden.secret]] 

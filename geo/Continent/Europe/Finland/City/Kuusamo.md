@@ -29,3 +29,12 @@ markerFile: [[Kuusamo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kuusamo.md|Kuusamo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuusamo.internal.md|Kuusamo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuusamo.protect.md|Kuusamo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kuusamo.private.md|Kuusamo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuusamo.personal.md|Kuusamo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuusamo.secret.md|Kuusamo.secret]] 

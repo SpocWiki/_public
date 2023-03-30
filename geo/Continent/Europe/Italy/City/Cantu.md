@@ -29,3 +29,12 @@ markerFile: [[Cantu]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cantu.md|Cantu]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cantu.internal.md|Cantu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cantu.protect.md|Cantu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cantu.private.md|Cantu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cantu.personal.md|Cantu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cantu.secret.md|Cantu.secret]] 

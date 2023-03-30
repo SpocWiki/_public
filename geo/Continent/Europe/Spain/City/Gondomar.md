@@ -29,3 +29,12 @@ markerFile: [[Gondomar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Gondomar.md|Gondomar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Gondomar.internal.md|Gondomar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Gondomar.protect.md|Gondomar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Gondomar.private.md|Gondomar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Gondomar.personal.md|Gondomar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Gondomar.secret.md|Gondomar.secret]] 

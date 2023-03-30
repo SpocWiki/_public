@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_increasing_risk_of)
 ( #has_/range :: MedicalEntity)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_increasing_risk_of.md|is_increasing_risk_of]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_increasing_risk_of.internal.md|is_increasing_risk_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_increasing_risk_of.protect.md|is_increasing_risk_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_increasing_risk_of.private.md|is_increasing_risk_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_increasing_risk_of.personal.md|is_increasing_risk_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_increasing_risk_of.secret.md|is_increasing_risk_of.secret]] 

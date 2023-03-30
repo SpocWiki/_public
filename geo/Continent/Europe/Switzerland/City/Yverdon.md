@@ -29,3 +29,12 @@ markerFile: [[Yverdon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Yverdon.md|Yverdon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Yverdon.internal.md|Yverdon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Yverdon.protect.md|Yverdon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Yverdon.private.md|Yverdon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Yverdon.personal.md|Yverdon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Yverdon.secret.md|Yverdon.secret]] 

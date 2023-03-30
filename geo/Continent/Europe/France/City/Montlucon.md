@@ -29,3 +29,12 @@ markerFile: [[Montlucon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Montlucon.md|Montlucon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montlucon.internal.md|Montlucon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montlucon.protect.md|Montlucon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montlucon.private.md|Montlucon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montlucon.personal.md|Montlucon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montlucon.secret.md|Montlucon.secret]] 

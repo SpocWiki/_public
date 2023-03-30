@@ -15,3 +15,12 @@ tags:
 [TrizPrinciple::[[Triz-Periodic_action]]]
 
 If an action is already periodic, change the periodic magnitude or frequency.
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Sub/Triz-vary-oscillations.md|Triz-vary-oscillations]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-vary-oscillations.internal.md|Triz-vary-oscillations.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-vary-oscillations.protect.md|Triz-vary-oscillations.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-vary-oscillations.private.md|Triz-vary-oscillations.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-vary-oscillations.personal.md|Triz-vary-oscillations.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-vary-oscillations.secret.md|Triz-vary-oscillations.secret]] 

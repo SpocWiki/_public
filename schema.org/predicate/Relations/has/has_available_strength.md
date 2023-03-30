@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_available_strength )
 ( #has_/range :: DrugStrength )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_available_strength.md|has_available_strength]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_strength.internal.md|has_available_strength.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_available_strength.protect.md|has_available_strength.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_available_strength.private.md|has_available_strength.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_available_strength.personal.md|has_available_strength.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_available_strength.secret.md|has_available_strength.secret]] 

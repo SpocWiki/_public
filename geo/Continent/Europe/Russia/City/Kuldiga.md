@@ -29,3 +29,12 @@ markerFile: [[Kuldiga]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kuldiga.md|Kuldiga]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kuldiga.internal.md|Kuldiga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kuldiga.protect.md|Kuldiga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kuldiga.private.md|Kuldiga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kuldiga.personal.md|Kuldiga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kuldiga.secret.md|Kuldiga.secret]] 

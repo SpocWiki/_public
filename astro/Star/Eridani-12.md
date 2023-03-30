@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28118]
 [NextStarId::27357]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Eridani-12.md|Eridani-12]] 
+- [[../../../_internal/astro/Star/Eridani-12.internal.md|Eridani-12.internal]] 
+- [[../../../_protect/astro/Star/Eridani-12.protect.md|Eridani-12.protect]] 
+- [[../../../_private/astro/Star/Eridani-12.private.md|Eridani-12.private]] 
+- [[../../../_personal/astro/Star/Eridani-12.personal.md|Eridani-12.personal]] 
+- [[../../../_secret/astro/Star/Eridani-12.secret.md|Eridani-12.secret]]
+

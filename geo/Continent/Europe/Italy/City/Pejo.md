@@ -29,3 +29,12 @@ markerFile: [[Pejo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pejo.md|Pejo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pejo.internal.md|Pejo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pejo.protect.md|Pejo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pejo.private.md|Pejo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pejo.personal.md|Pejo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pejo.secret.md|Pejo.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22213]]]
 - [con::[[Triz-Difficulty]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22213-Difficulty.md|Triz-10307+22213-Difficulty]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22213-Difficulty.internal.md|Triz-10307+22213-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22213-Difficulty.protect.md|Triz-10307+22213-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22213-Difficulty.private.md|Triz-10307+22213-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22213-Difficulty.personal.md|Triz-10307+22213-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22213-Difficulty.secret.md|Triz-10307+22213-Difficulty.secret]] 

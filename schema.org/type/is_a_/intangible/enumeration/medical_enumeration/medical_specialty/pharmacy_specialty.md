@@ -43,3 +43,12 @@ The practice or art and science of preparing and dispensing drugs and medicines.
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.md|pharmacy_specialty]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.internal.md|pharmacy_specialty.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.protect.md|pharmacy_specialty.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.private.md|pharmacy_specialty.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.personal.md|pharmacy_specialty.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.secret.md|pharmacy_specialty.secret]] 

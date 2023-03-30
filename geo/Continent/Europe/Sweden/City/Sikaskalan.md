@@ -29,3 +29,12 @@ markerFile: [[Sikaskalan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Sikaskalan.md|Sikaskalan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sikaskalan.internal.md|Sikaskalan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sikaskalan.protect.md|Sikaskalan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Sikaskalan.private.md|Sikaskalan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sikaskalan.personal.md|Sikaskalan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sikaskalan.secret.md|Sikaskalan.secret]] 

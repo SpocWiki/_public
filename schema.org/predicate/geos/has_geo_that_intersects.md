@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo_intersects )
 ( #has_/range :: GeospatialGeometry, Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_that_intersects.md|has_geo_that_intersects]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_that_intersects.internal.md|has_geo_that_intersects.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_that_intersects.protect.md|has_geo_that_intersects.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_that_intersects.private.md|has_geo_that_intersects.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_that_intersects.personal.md|has_geo_that_intersects.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_that_intersects.secret.md|has_geo_that_intersects.secret]] 

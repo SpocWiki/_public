@@ -29,3 +29,12 @@ markerFile: [[Grosseto]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Grosseto.md|Grosseto]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Grosseto.internal.md|Grosseto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Grosseto.protect.md|Grosseto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Grosseto.private.md|Grosseto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Grosseto.personal.md|Grosseto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Grosseto.secret.md|Grosseto.secret]] 

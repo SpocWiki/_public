@@ -133,3 +133,12 @@ markerFolder: ./Suriname/City
 [geo-lon::-55.17]
 [geo-lat::5.86]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Suriname.md|Suriname]] 
+- [[../../../../_internal/geo/Continent/South-America/Suriname.internal.md|Suriname.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Suriname.protect.md|Suriname.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Suriname.private.md|Suriname.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Suriname.personal.md|Suriname.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Suriname.secret.md|Suriname.secret]] 

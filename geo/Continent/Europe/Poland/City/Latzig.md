@@ -29,3 +29,12 @@ markerFile: [[Latzig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Latzig.md|Latzig]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Latzig.internal.md|Latzig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Latzig.protect.md|Latzig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Latzig.private.md|Latzig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Latzig.personal.md|Latzig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Latzig.secret.md|Latzig.secret]] 

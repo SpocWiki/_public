@@ -29,3 +29,12 @@ markerFile: [[Agnano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Agnano.md|Agnano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Agnano.internal.md|Agnano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Agnano.protect.md|Agnano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Agnano.private.md|Agnano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Agnano.personal.md|Agnano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Agnano.secret.md|Agnano.secret]] 

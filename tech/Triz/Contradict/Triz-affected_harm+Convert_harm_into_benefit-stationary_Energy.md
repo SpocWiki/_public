@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
 - [con::[[Triz-stationary_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.md|Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.internal.md|Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.protect.md|Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.private.md|Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.personal.md|Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.secret.md|Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Tiel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Tiel.md|Tiel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Tiel.internal.md|Tiel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Tiel.protect.md|Tiel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Tiel.private.md|Tiel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Tiel.personal.md|Tiel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Tiel.secret.md|Tiel.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Arad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Arad.md|Arad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Arad.internal.md|Arad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Arad.protect.md|Arad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Arad.private.md|Arad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Arad.personal.md|Arad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Arad.secret.md|Arad.secret]] 

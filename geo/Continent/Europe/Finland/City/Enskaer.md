@@ -29,3 +29,12 @@ markerFile: [[Enskaer]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Enskaer.md|Enskaer]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Enskaer.internal.md|Enskaer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Enskaer.protect.md|Enskaer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Enskaer.private.md|Enskaer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Enskaer.personal.md|Enskaer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Enskaer.secret.md|Enskaer.secret]] 

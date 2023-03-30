@@ -32,3 +32,12 @@ markerFolder: ./Hawaii/City
 [geo-lon::-157.796]
 [geo-lat::21.3114]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Hawaii.md|Hawaii]] 
+- [[../../../../_internal/geo/Continent/Oceania/Hawaii.internal.md|Hawaii.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Hawaii.protect.md|Hawaii.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Hawaii.private.md|Hawaii.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Hawaii.personal.md|Hawaii.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Hawaii.secret.md|Hawaii.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Thermal_expansion]]]
 - [con::[[Triz-Strength]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.md|Triz-affected_harm+Thermal_expansion-Strength]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.internal.md|Triz-affected_harm+Thermal_expansion-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.protect.md|Triz-affected_harm+Thermal_expansion-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.private.md|Triz-affected_harm+Thermal_expansion-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.personal.md|Triz-affected_harm+Thermal_expansion-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.secret.md|Triz-affected_harm+Thermal_expansion-Strength.secret]] 

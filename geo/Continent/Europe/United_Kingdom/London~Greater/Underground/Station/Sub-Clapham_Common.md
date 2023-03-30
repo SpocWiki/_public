@@ -29,3 +29,12 @@ markerFile: [[Sub-Clapham_Common]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Clapham_Common.md|Sub-Clapham_Common]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Clapham_Common.internal.md|Sub-Clapham_Common.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Clapham_Common.protect.md|Sub-Clapham_Common.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Clapham_Common.private.md|Sub-Clapham_Common.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Clapham_Common.personal.md|Sub-Clapham_Common.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Clapham_Common.secret.md|Sub-Clapham_Common.secret]] 

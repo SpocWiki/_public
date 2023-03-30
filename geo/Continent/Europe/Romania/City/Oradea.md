@@ -29,3 +29,12 @@ markerFile: [[Oradea]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Oradea.md|Oradea]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Oradea.internal.md|Oradea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Oradea.protect.md|Oradea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Oradea.private.md|Oradea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Oradea.personal.md|Oradea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Oradea.secret.md|Oradea.secret]] 

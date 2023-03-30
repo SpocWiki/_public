@@ -33,3 +33,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Iowa.md|Iowa]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Iowa.internal.md|Iowa.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Iowa.protect.md|Iowa.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Iowa.private.md|Iowa.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Iowa.personal.md|Iowa.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Iowa.secret.md|Iowa.secret]] 

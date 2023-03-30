@@ -28,3 +28,12 @@ markerFile: [[Nieder-Kainsbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.md|Nieder-Kainsbach]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.internal.md|Nieder-Kainsbach.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.protect.md|Nieder-Kainsbach.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.private.md|Nieder-Kainsbach.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.personal.md|Nieder-Kainsbach.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.secret.md|Nieder-Kainsbach.secret]] 

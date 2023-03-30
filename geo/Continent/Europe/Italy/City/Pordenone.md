@@ -29,3 +29,12 @@ markerFile: [[Pordenone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pordenone.md|Pordenone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pordenone.internal.md|Pordenone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pordenone.protect.md|Pordenone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pordenone.private.md|Pordenone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pordenone.personal.md|Pordenone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pordenone.secret.md|Pordenone.secret]] 

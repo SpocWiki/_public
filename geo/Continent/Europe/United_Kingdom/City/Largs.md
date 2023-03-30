@@ -29,3 +29,12 @@ markerFile: [[Largs]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Largs.md|Largs]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Largs.internal.md|Largs.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Largs.protect.md|Largs.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Largs.private.md|Largs.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Largs.personal.md|Largs.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Largs.secret.md|Largs.secret]] 

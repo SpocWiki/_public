@@ -29,3 +29,12 @@ markerFile: [[Pribyslav]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pribyslav.md|Pribyslav]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pribyslav.internal.md|Pribyslav.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pribyslav.protect.md|Pribyslav.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pribyslav.private.md|Pribyslav.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pribyslav.personal.md|Pribyslav.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pribyslav.secret.md|Pribyslav.secret]] 

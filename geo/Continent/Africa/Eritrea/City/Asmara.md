@@ -29,3 +29,12 @@ markerFile: [[Asmara]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Eritrea/City/Asmara.md|Asmara]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Eritrea/City/Asmara.internal.md|Asmara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Eritrea/City/Asmara.protect.md|Asmara.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Eritrea/City/Asmara.private.md|Asmara.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Eritrea/City/Asmara.personal.md|Asmara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Eritrea/City/Asmara.secret.md|Asmara.secret]] 

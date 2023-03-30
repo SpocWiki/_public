@@ -29,3 +29,12 @@ markerFile: [[Tullamore]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Tullamore.md|Tullamore]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tullamore.internal.md|Tullamore.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tullamore.protect.md|Tullamore.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Tullamore.private.md|Tullamore.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tullamore.personal.md|Tullamore.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tullamore.secret.md|Tullamore.secret]] 

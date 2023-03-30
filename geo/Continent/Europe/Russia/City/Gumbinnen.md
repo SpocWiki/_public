@@ -29,3 +29,12 @@ markerFile: [[Gumbinnen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gumbinnen.md|Gumbinnen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gumbinnen.internal.md|Gumbinnen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gumbinnen.protect.md|Gumbinnen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gumbinnen.private.md|Gumbinnen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gumbinnen.personal.md|Gumbinnen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gumbinnen.secret.md|Gumbinnen.secret]] 

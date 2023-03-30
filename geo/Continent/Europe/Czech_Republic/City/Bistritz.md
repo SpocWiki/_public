@@ -29,3 +29,12 @@ markerFile: [[Bistritz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bistritz.md|Bistritz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bistritz.internal.md|Bistritz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bistritz.protect.md|Bistritz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bistritz.private.md|Bistritz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bistritz.personal.md|Bistritz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bistritz.secret.md|Bistritz.secret]] 

@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_sport )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_sport.md|has_sport]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_sport.internal.md|has_sport.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_sport.protect.md|has_sport.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_sport.private.md|has_sport.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_sport.personal.md|has_sport.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_sport.secret.md|has_sport.secret]] 

@@ -32,3 +32,12 @@ markerFolder: ./Rwanda-Urundi/City
 [geo-lon::29.9]
 [geo-lat::-3.43333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Rwanda-Urundi.md|Rwanda-Urundi]] 
+- [[../../../../_internal/geo/Continent/Africa/Rwanda-Urundi.internal.md|Rwanda-Urundi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Rwanda-Urundi.protect.md|Rwanda-Urundi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Rwanda-Urundi.private.md|Rwanda-Urundi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Rwanda-Urundi.personal.md|Rwanda-Urundi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Rwanda-Urundi.secret.md|Rwanda-Urundi.secret]] 

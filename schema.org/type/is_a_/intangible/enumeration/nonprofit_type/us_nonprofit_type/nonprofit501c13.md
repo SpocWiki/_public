@@ -45,3 +45,12 @@ Nonprofit501c13: Non-profit type referring to Cemetery Companies.
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.md|nonprofit501c13]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.internal.md|nonprofit501c13.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.protect.md|nonprofit501c13.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.private.md|nonprofit501c13.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.personal.md|nonprofit501c13.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.secret.md|nonprofit501c13.secret]] 

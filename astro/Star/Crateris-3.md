@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28111]
 [NextStarId::27563]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Crateris-3.md|Crateris-3]] 
+- [[../../../_internal/astro/Star/Crateris-3.internal.md|Crateris-3.internal]] 
+- [[../../../_protect/astro/Star/Crateris-3.protect.md|Crateris-3.protect]] 
+- [[../../../_private/astro/Star/Crateris-3.private.md|Crateris-3.private]] 
+- [[../../../_personal/astro/Star/Crateris-3.personal.md|Crateris-3.personal]] 
+- [[../../../_secret/astro/Star/Crateris-3.secret.md|Crateris-3.secret]]
+

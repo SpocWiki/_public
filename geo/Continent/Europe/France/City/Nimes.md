@@ -29,3 +29,12 @@ markerFile: [[Nimes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Nimes.md|Nimes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nimes.internal.md|Nimes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nimes.protect.md|Nimes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nimes.private.md|Nimes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nimes.personal.md|Nimes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nimes.secret.md|Nimes.secret]] 

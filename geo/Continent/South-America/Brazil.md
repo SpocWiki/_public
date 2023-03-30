@@ -135,3 +135,12 @@ markerFolder: ./Brazil/City
 [geo-lon::-45.9467]
 [geo-lat::-20.7333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Brazil.md|Brazil]] 
+- [[../../../../_internal/geo/Continent/South-America/Brazil.internal.md|Brazil.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Brazil.protect.md|Brazil.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Brazil.private.md|Brazil.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Brazil.personal.md|Brazil.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Brazil.secret.md|Brazil.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Trento=Trient]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Trento=Trient.md|Trento=Trient]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Trento=Trient.internal.md|Trento=Trient.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Trento=Trient.protect.md|Trento=Trient.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Trento=Trient.private.md|Trento=Trient.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Trento=Trient.personal.md|Trento=Trient.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Trento=Trient.secret.md|Trento=Trient.secret]] 

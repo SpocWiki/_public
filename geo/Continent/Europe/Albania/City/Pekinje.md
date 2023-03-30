@@ -29,3 +29,12 @@ markerFile: [[Pekinje]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Pekinje.md|Pekinje]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Pekinje.internal.md|Pekinje.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Pekinje.protect.md|Pekinje.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Pekinje.private.md|Pekinje.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Pekinje.personal.md|Pekinje.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Pekinje.secret.md|Pekinje.secret]] 

@@ -46,3 +46,12 @@ Usage guidelines:
 
 [ #has_/sub_classes :: [ Float, Integer ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/data_type/number.md|number]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/data_type/number.internal.md|number.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/data_type/number.protect.md|number.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/data_type/number.private.md|number.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/data_type/number.personal.md|number.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/data_type/number.secret.md|number.secret]] 

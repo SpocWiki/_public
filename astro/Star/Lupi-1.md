@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28132]
 [NextStarId::27351]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Lupi-1.md|Lupi-1]] 
+- [[../../../_internal/astro/Star/Lupi-1.internal.md|Lupi-1.internal]] 
+- [[../../../_protect/astro/Star/Lupi-1.protect.md|Lupi-1.protect]] 
+- [[../../../_private/astro/Star/Lupi-1.private.md|Lupi-1.private]] 
+- [[../../../_personal/astro/Star/Lupi-1.personal.md|Lupi-1.personal]] 
+- [[../../../_secret/astro/Star/Lupi-1.secret.md|Lupi-1.secret]] 

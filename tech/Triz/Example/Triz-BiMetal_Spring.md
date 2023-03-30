@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-different-materials]]]
 
 The basic Leaf Spring Thermostat: BiMetal(2 Metals with different Coefficients of Expansion are linked so that it bends one Way when warmer than nominal and the opposite Way when cooler.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-BiMetal_Spring.md|Triz-BiMetal_Spring]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-BiMetal_Spring.internal.md|Triz-BiMetal_Spring.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-BiMetal_Spring.protect.md|Triz-BiMetal_Spring.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-BiMetal_Spring.private.md|Triz-BiMetal_Spring.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-BiMetal_Spring.personal.md|Triz-BiMetal_Spring.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-BiMetal_Spring.secret.md|Triz-BiMetal_Spring.secret]] 

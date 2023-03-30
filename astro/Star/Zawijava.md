@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28168]
 [NextStarId::27757]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Zawijava.md|Zawijava]] 
+- [[../../../_internal/astro/Star/Zawijava.internal.md|Zawijava.internal]] 
+- [[../../../_protect/astro/Star/Zawijava.protect.md|Zawijava.protect]] 
+- [[../../../_private/astro/Star/Zawijava.private.md|Zawijava.private]] 
+- [[../../../_personal/astro/Star/Zawijava.personal.md|Zawijava.personal]] 
+- [[../../../_secret/astro/Star/Zawijava.secret.md|Zawijava.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::Substance-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.md|Triz-stationary_Weight+Inversion-Substance-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.internal.md|Triz-stationary_Weight+Inversion-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.protect.md|Triz-stationary_Weight+Inversion-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.private.md|Triz-stationary_Weight+Inversion-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.personal.md|Triz-stationary_Weight+Inversion-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.secret.md|Triz-stationary_Weight+Inversion-Substance-Loss.secret]] 

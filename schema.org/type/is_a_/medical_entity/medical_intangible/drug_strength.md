@@ -41,3 +41,12 @@ A specific strength in which a medical drug is available in a specific country.
 
 [ #has_/properties :: [ activeIngredient, additionalType, alternateName, availableIn, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, strengthUnit, strengthValue, study, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.md|drug_strength]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.internal.md|drug_strength.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.protect.md|drug_strength.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.private.md|drug_strength.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.personal.md|drug_strength.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.secret.md|drug_strength.secret]] 

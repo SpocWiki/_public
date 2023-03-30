@@ -130,3 +130,12 @@ markerFolder: ./Croatia/City
 [geo-lon::15.97]
 [geo-lat::45.8]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Croatia.md|Croatia]] 
+- [[../../../../_internal/geo/Continent/Europe/Croatia.internal.md|Croatia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Croatia.protect.md|Croatia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Croatia.private.md|Croatia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Croatia.personal.md|Croatia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Croatia.secret.md|Croatia.secret]] 

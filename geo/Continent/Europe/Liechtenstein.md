@@ -125,3 +125,12 @@ markerFolder: ./Liechtenstein/City
 [geo-lon::9.529]
 [geo-lat::47.158]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Liechtenstein.md|Liechtenstein]] 
+- [[../../../../_internal/geo/Continent/Europe/Liechtenstein.internal.md|Liechtenstein.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Liechtenstein.protect.md|Liechtenstein.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Liechtenstein.private.md|Liechtenstein.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Liechtenstein.personal.md|Liechtenstein.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Liechtenstein.secret.md|Liechtenstein.secret]] 

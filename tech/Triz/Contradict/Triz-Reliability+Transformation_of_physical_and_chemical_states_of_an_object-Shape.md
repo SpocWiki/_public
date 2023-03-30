@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
 - [con::[[Triz-Shape]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.md|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal.md|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect.md|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private.md|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.personal.md|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.secret.md|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Shape.secret]] 

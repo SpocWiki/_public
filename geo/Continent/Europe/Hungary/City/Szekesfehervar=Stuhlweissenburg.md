@@ -29,3 +29,12 @@ markerFile: [[Szekesfehervar=Stuhlweissenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.md|Szekesfehervar=Stuhlweissenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.internal.md|Szekesfehervar=Stuhlweissenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.protect.md|Szekesfehervar=Stuhlweissenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.private.md|Szekesfehervar=Stuhlweissenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.personal.md|Szekesfehervar=Stuhlweissenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.secret.md|Szekesfehervar=Stuhlweissenburg.secret]] 

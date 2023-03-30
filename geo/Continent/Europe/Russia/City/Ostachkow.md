@@ -29,3 +29,12 @@ markerFile: [[Ostachkow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ostachkow.md|Ostachkow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ostachkow.internal.md|Ostachkow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ostachkow.protect.md|Ostachkow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ostachkow.private.md|Ostachkow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ostachkow.personal.md|Ostachkow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ostachkow.secret.md|Ostachkow.secret]] 

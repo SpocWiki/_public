@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28097]
 [NextStarId::27380]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Prokyon.md|Prokyon]] 
+- [[../../../_internal/astro/Star/Prokyon.internal.md|Prokyon.internal]] 
+- [[../../../_protect/astro/Star/Prokyon.protect.md|Prokyon.protect]] 
+- [[../../../_private/astro/Star/Prokyon.private.md|Prokyon.private]] 
+- [[../../../_personal/astro/Star/Prokyon.personal.md|Prokyon.personal]] 
+- [[../../../_secret/astro/Star/Prokyon.secret.md|Prokyon.secret]] 

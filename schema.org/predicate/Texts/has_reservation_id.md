@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_reservation_id )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_reservation_id.md|has_reservation_id]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_reservation_id.internal.md|has_reservation_id.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_reservation_id.protect.md|has_reservation_id.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_reservation_id.private.md|has_reservation_id.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_reservation_id.personal.md|has_reservation_id.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_reservation_id.secret.md|has_reservation_id.secret]] 

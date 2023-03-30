@@ -29,3 +29,12 @@ markerFile: [[Frederiksborg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Frederiksborg.md|Frederiksborg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Frederiksborg.internal.md|Frederiksborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Frederiksborg.protect.md|Frederiksborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Frederiksborg.private.md|Frederiksborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Frederiksborg.personal.md|Frederiksborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Frederiksborg.secret.md|Frederiksborg.secret]] 

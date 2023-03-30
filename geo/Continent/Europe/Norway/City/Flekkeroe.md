@@ -29,3 +29,12 @@ markerFile: [[Flekkeroe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Flekkeroe.md|Flekkeroe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Flekkeroe.internal.md|Flekkeroe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Flekkeroe.protect.md|Flekkeroe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Flekkeroe.private.md|Flekkeroe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Flekkeroe.personal.md|Flekkeroe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Flekkeroe.secret.md|Flekkeroe.secret]] 

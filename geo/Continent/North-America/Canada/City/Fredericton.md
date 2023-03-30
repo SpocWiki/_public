@@ -29,3 +29,12 @@ markerFile: [[Fredericton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/Fredericton.md|Fredericton]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Fredericton.internal.md|Fredericton.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Fredericton.protect.md|Fredericton.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Fredericton.private.md|Fredericton.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Fredericton.personal.md|Fredericton.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Fredericton.secret.md|Fredericton.secret]] 

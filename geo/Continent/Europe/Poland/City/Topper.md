@@ -29,3 +29,12 @@ markerFile: [[Topper]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Topper.md|Topper]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Topper.internal.md|Topper.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Topper.protect.md|Topper.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Topper.private.md|Topper.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Topper.personal.md|Topper.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Topper.secret.md|Topper.secret]] 

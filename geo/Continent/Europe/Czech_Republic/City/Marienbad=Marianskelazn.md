@@ -29,3 +29,12 @@ markerFile: [[Marienbad=Marianskelazn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.md|Marienbad=Marianskelazn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.internal.md|Marienbad=Marianskelazn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.protect.md|Marienbad=Marianskelazn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.private.md|Marienbad=Marianskelazn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.personal.md|Marienbad=Marianskelazn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.secret.md|Marienbad=Marianskelazn.secret]] 

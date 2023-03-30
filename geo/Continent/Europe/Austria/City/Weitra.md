@@ -29,3 +29,12 @@ markerFile: [[Weitra]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Weitra.md|Weitra]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Weitra.internal.md|Weitra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Weitra.protect.md|Weitra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Weitra.private.md|Weitra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Weitra.personal.md|Weitra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Weitra.secret.md|Weitra.secret]] 

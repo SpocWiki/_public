@@ -29,3 +29,12 @@ markerFile: [[Aviano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Aviano.md|Aviano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Aviano.internal.md|Aviano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Aviano.protect.md|Aviano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Aviano.private.md|Aviano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Aviano.personal.md|Aviano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Aviano.secret.md|Aviano.secret]] 

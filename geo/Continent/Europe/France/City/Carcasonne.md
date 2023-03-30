@@ -29,3 +29,12 @@ markerFile: [[Carcasonne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Carcasonne.md|Carcasonne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Carcasonne.internal.md|Carcasonne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Carcasonne.protect.md|Carcasonne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Carcasonne.private.md|Carcasonne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Carcasonne.personal.md|Carcasonne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Carcasonne.secret.md|Carcasonne.secret]] 

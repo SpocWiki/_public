@@ -29,3 +29,12 @@ markerFile: [[Viaznicki]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Viaznicki.md|Viaznicki]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Viaznicki.internal.md|Viaznicki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Viaznicki.protect.md|Viaznicki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Viaznicki.private.md|Viaznicki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Viaznicki.personal.md|Viaznicki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Viaznicki.secret.md|Viaznicki.secret]] 

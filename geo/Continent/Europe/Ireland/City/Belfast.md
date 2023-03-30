@@ -29,3 +29,12 @@ markerFile: [[Belfast]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Belfast.md|Belfast]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Belfast.internal.md|Belfast.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Belfast.protect.md|Belfast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Belfast.private.md|Belfast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Belfast.personal.md|Belfast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Belfast.secret.md|Belfast.secret]] 

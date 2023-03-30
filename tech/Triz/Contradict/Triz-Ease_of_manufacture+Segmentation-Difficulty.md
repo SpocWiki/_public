@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Difficulty]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.md|Triz-Ease_of_manufacture+Segmentation-Difficulty]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.internal.md|Triz-Ease_of_manufacture+Segmentation-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.protect.md|Triz-Ease_of_manufacture+Segmentation-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.private.md|Triz-Ease_of_manufacture+Segmentation-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.personal.md|Triz-Ease_of_manufacture+Segmentation-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.secret.md|Triz-Ease_of_manufacture+Segmentation-Difficulty.secret]] 

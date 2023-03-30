@@ -29,3 +29,12 @@ markerFile: [[Samter]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Samter.md|Samter]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Samter.internal.md|Samter.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Samter.protect.md|Samter.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Samter.private.md|Samter.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Samter.personal.md|Samter.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Samter.secret.md|Samter.secret]] 

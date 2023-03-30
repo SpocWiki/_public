@@ -29,3 +29,12 @@ markerFile: [[Vidin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Vidin.md|Vidin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Vidin.internal.md|Vidin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Vidin.protect.md|Vidin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Vidin.private.md|Vidin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Vidin.personal.md|Vidin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Vidin.secret.md|Vidin.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Stuttgart-Vaihingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.md|Stuttgart-Vaihingen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.internal.md|Stuttgart-Vaihingen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.protect.md|Stuttgart-Vaihingen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.private.md|Stuttgart-Vaihingen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.personal.md|Stuttgart-Vaihingen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.secret.md|Stuttgart-Vaihingen.secret]] 

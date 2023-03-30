@@ -29,3 +29,12 @@ markerFile: [[Inverary]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Inverary.md|Inverary]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Inverary.internal.md|Inverary.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Inverary.protect.md|Inverary.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Inverary.private.md|Inverary.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Inverary.personal.md|Inverary.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Inverary.secret.md|Inverary.secret]] 

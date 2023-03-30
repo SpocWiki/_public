@@ -29,3 +29,12 @@ markerFile: [[Appleby]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Appleby.md|Appleby]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Appleby.internal.md|Appleby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Appleby.protect.md|Appleby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Appleby.private.md|Appleby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Appleby.personal.md|Appleby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Appleby.secret.md|Appleby.secret]] 

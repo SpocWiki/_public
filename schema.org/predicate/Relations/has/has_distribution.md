@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_distribution )
 ( #has_/range :: DataDownload )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_distribution.md|has_distribution]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_distribution.internal.md|has_distribution.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_distribution.protect.md|has_distribution.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_distribution.private.md|has_distribution.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_distribution.personal.md|has_distribution.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_distribution.secret.md|has_distribution.secret]] 

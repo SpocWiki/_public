@@ -136,3 +136,12 @@ markerFolder: ./Laos/City
 [geo-lon::102.6]
 [geo-lat::17.9667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Laos.md|Laos]] 
+- [[../../../../_internal/geo/Continent/Asia/Laos.internal.md|Laos.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Laos.protect.md|Laos.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Laos.private.md|Laos.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Laos.personal.md|Laos.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Laos.secret.md|Laos.secret]] 

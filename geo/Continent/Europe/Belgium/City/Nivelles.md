@@ -29,3 +29,12 @@ markerFile: [[Nivelles]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Nivelles.md|Nivelles]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Nivelles.internal.md|Nivelles.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Nivelles.protect.md|Nivelles.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Nivelles.private.md|Nivelles.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Nivelles.personal.md|Nivelles.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Nivelles.secret.md|Nivelles.secret]] 

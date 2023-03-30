@@ -41,3 +41,12 @@ Residence type: Apartment complex.
 
 [ #has_/properties :: [ accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBedrooms, openingHoursSpecification, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/place/residence/apartment_complex.md|apartment_complex]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/place/residence/apartment_complex.internal.md|apartment_complex.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/place/residence/apartment_complex.protect.md|apartment_complex.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/place/residence/apartment_complex.private.md|apartment_complex.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/place/residence/apartment_complex.personal.md|apartment_complex.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/place/residence/apartment_complex.secret.md|apartment_complex.secret]] 

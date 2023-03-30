@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_blood_supply )
 ( #has_/range :: Vessel )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_blood_supply.md|has_blood_supply]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_blood_supply.internal.md|has_blood_supply.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_blood_supply.protect.md|has_blood_supply.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_blood_supply.private.md|has_blood_supply.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_blood_supply.personal.md|has_blood_supply.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_blood_supply.secret.md|has_blood_supply.secret]] 

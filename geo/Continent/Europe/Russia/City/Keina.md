@@ -29,3 +29,12 @@ markerFile: [[Keina]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Keina.md|Keina]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Keina.internal.md|Keina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Keina.protect.md|Keina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Keina.private.md|Keina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Keina.personal.md|Keina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Keina.secret.md|Keina.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Hemse]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Hemse.md|Hemse]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hemse.internal.md|Hemse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hemse.protect.md|Hemse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hemse.private.md|Hemse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hemse.personal.md|Hemse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hemse.secret.md|Hemse.secret]] 

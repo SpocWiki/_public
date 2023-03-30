@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Local_quality]]]
 - [con::[[Triz-Automation]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.md|Triz-affected_harm+Local_quality-Automation]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.internal.md|Triz-affected_harm+Local_quality-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.protect.md|Triz-affected_harm+Local_quality-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.private.md|Triz-affected_harm+Local_quality-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.personal.md|Triz-affected_harm+Local_quality-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Local_quality-Automation.secret.md|Triz-affected_harm+Local_quality-Automation.secret]] 

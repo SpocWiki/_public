@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::27311]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Megrez.md|Megrez]] 
+- [[../../../_internal/astro/Star/Megrez.internal.md|Megrez.internal]] 
+- [[../../../_protect/astro/Star/Megrez.protect.md|Megrez.protect]] 
+- [[../../../_private/astro/Star/Megrez.private.md|Megrez.private]] 
+- [[../../../_personal/astro/Star/Megrez.personal.md|Megrez.personal]] 
+- [[../../../_secret/astro/Star/Megrez.secret.md|Megrez.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Ludwigshafen~Bodensee]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigshafen~Bodensee.md|Ludwigshafen~Bodensee]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigshafen~Bodensee.internal.md|Ludwigshafen~Bodensee.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigshafen~Bodensee.protect.md|Ludwigshafen~Bodensee.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigshafen~Bodensee.private.md|Ludwigshafen~Bodensee.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigshafen~Bodensee.personal.md|Ludwigshafen~Bodensee.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigshafen~Bodensee.secret.md|Ludwigshafen~Bodensee.secret]] 

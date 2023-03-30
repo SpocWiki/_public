@@ -28,3 +28,12 @@ markerFile: [[Reichenbach~Oberlausitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.md|Reichenbach~Oberlausitz]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.internal.md|Reichenbach~Oberlausitz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.protect.md|Reichenbach~Oberlausitz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.private.md|Reichenbach~Oberlausitz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.personal.md|Reichenbach~Oberlausitz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.secret.md|Reichenbach~Oberlausitz.secret]] 

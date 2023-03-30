@@ -29,3 +29,12 @@ markerFile: [[Meiringen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Meiringen.md|Meiringen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Meiringen.internal.md|Meiringen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Meiringen.protect.md|Meiringen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Meiringen.private.md|Meiringen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Meiringen.personal.md|Meiringen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Meiringen.secret.md|Meiringen.secret]] 

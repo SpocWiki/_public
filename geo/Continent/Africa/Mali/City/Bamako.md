@@ -29,3 +29,12 @@ markerFile: [[Bamako]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Mali/City/Bamako.md|Bamako]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mali/City/Bamako.internal.md|Bamako.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mali/City/Bamako.protect.md|Bamako.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mali/City/Bamako.private.md|Bamako.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mali/City/Bamako.personal.md|Bamako.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mali/City/Bamako.secret.md|Bamako.secret]] 

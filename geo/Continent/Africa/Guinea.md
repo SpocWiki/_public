@@ -129,3 +129,12 @@ markerFolder: ./Guinea/City
 [geo-lon::-13.7]
 [geo-lat::9.51667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Guinea.md|Guinea]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea.internal.md|Guinea.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea.protect.md|Guinea.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea.private.md|Guinea.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea.personal.md|Guinea.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea.secret.md|Guinea.secret]] 

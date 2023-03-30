@@ -41,3 +41,12 @@ The act of expressing a difference of opinion with the object. An agent disagree
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.md|disagree_action]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.internal.md|disagree_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.protect.md|disagree_action.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.private.md|disagree_action.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.personal.md|disagree_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.secret.md|disagree_action.secret]] 

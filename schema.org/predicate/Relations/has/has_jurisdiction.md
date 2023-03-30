@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ legislationJurisdiction ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_jurisdiction.md|has_jurisdiction]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_jurisdiction.internal.md|has_jurisdiction.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_jurisdiction.protect.md|has_jurisdiction.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_jurisdiction.private.md|has_jurisdiction.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_jurisdiction.personal.md|has_jurisdiction.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_jurisdiction.secret.md|has_jurisdiction.secret]] 

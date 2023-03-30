@@ -29,3 +29,12 @@ markerFile: [[Palmanova]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Palmanova.md|Palmanova]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Palmanova.internal.md|Palmanova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Palmanova.protect.md|Palmanova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Palmanova.private.md|Palmanova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Palmanova.personal.md|Palmanova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Palmanova.secret.md|Palmanova.secret]] 

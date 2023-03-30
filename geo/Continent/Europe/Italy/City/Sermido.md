@@ -29,3 +29,12 @@ markerFile: [[Sermido]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sermido.md|Sermido]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sermido.internal.md|Sermido.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sermido.protect.md|Sermido.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sermido.private.md|Sermido.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sermido.personal.md|Sermido.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sermido.secret.md|Sermido.secret]] 

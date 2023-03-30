@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_service_url )
 ( #has_/range :: URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_service_url.md|has_url_for_service_url]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_service_url.internal.md|has_url_for_service_url.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_service_url.protect.md|has_url_for_service_url.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_service_url.private.md|has_url_for_service_url.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_service_url.personal.md|has_url_for_service_url.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_service_url.secret.md|has_url_for_service_url.secret]] 

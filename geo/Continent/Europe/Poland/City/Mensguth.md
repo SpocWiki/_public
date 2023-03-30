@@ -29,3 +29,12 @@ markerFile: [[Mensguth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Mensguth.md|Mensguth]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mensguth.internal.md|Mensguth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mensguth.protect.md|Mensguth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mensguth.private.md|Mensguth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mensguth.personal.md|Mensguth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mensguth.secret.md|Mensguth.secret]] 

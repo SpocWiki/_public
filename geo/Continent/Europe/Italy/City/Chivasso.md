@@ -29,3 +29,12 @@ markerFile: [[Chivasso]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Chivasso.md|Chivasso]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Chivasso.internal.md|Chivasso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Chivasso.protect.md|Chivasso.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Chivasso.private.md|Chivasso.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Chivasso.personal.md|Chivasso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Chivasso.secret.md|Chivasso.secret]] 

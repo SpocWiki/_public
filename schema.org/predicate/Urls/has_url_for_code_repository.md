@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_code_repository )
 ( #has_/range :: URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_code_repository.md|has_url_for_code_repository]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_code_repository.internal.md|has_url_for_code_repository.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_code_repository.protect.md|has_url_for_code_repository.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_code_repository.private.md|has_url_for_code_repository.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_code_repository.personal.md|has_url_for_code_repository.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_code_repository.secret.md|has_url_for_code_repository.secret]] 

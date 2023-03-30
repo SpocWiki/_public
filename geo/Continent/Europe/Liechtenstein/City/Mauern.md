@@ -29,3 +29,12 @@ markerFile: [[Mauern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Mauern.md|Mauern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Mauern.internal.md|Mauern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Mauern.protect.md|Mauern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Mauern.private.md|Mauern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Mauern.personal.md|Mauern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Mauern.secret.md|Mauern.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[St.Jean_d`Angely]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Jean_d`Angely.md|St.Jean_d`Angely]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Jean_d`Angely.internal.md|St.Jean_d`Angely.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Jean_d`Angely.protect.md|St.Jean_d`Angely.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Jean_d`Angely.private.md|St.Jean_d`Angely.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Jean_d`Angely.personal.md|St.Jean_d`Angely.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Jean_d`Angely.secret.md|St.Jean_d`Angely.secret]] 

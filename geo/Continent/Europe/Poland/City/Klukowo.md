@@ -29,3 +29,12 @@ markerFile: [[Klukowo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Klukowo.md|Klukowo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Klukowo.internal.md|Klukowo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Klukowo.protect.md|Klukowo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Klukowo.private.md|Klukowo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Klukowo.personal.md|Klukowo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Klukowo.secret.md|Klukowo.secret]] 

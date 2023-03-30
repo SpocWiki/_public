@@ -29,3 +29,12 @@ markerFile: [[Volpersdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Volpersdorf.md|Volpersdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Volpersdorf.internal.md|Volpersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Volpersdorf.protect.md|Volpersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Volpersdorf.private.md|Volpersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Volpersdorf.personal.md|Volpersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Volpersdorf.secret.md|Volpersdorf.secret]] 

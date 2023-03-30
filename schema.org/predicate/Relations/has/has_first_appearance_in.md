@@ -45,3 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: workExample ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_first_appearance_in.md|has_first_appearance_in]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_first_appearance_in.internal.md|has_first_appearance_in.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_first_appearance_in.protect.md|has_first_appearance_in.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_first_appearance_in.private.md|has_first_appearance_in.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_first_appearance_in.personal.md|has_first_appearance_in.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_first_appearance_in.secret.md|has_first_appearance_in.secret]] 

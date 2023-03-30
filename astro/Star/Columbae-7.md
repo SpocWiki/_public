@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28106]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Columbae-7.md|Columbae-7]] 
+- [[../../../_internal/astro/Star/Columbae-7.internal.md|Columbae-7.internal]] 
+- [[../../../_protect/astro/Star/Columbae-7.protect.md|Columbae-7.protect]] 
+- [[../../../_private/astro/Star/Columbae-7.private.md|Columbae-7.private]] 
+- [[../../../_personal/astro/Star/Columbae-7.personal.md|Columbae-7.personal]] 
+- [[../../../_secret/astro/Star/Columbae-7.secret.md|Columbae-7.secret]]
+

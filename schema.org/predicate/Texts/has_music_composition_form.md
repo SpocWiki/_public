@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_music_composition_form )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_music_composition_form.md|has_music_composition_form]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_music_composition_form.internal.md|has_music_composition_form.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_music_composition_form.protect.md|has_music_composition_form.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_music_composition_form.private.md|has_music_composition_form.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_music_composition_form.personal.md|has_music_composition_form.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_music_composition_form.secret.md|has_music_composition_form.secret]] 

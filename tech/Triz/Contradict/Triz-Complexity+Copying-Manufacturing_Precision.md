@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Copying]]]
 - [con::[[Triz-Manufacturing_Precision]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Copying-Manufacturing_Precision.md|Triz-Complexity+Copying-Manufacturing_Precision]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Copying-Manufacturing_Precision.internal.md|Triz-Complexity+Copying-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Copying-Manufacturing_Precision.protect.md|Triz-Complexity+Copying-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Copying-Manufacturing_Precision.private.md|Triz-Complexity+Copying-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Copying-Manufacturing_Precision.personal.md|Triz-Complexity+Copying-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Copying-Manufacturing_Precision.secret.md|Triz-Complexity+Copying-Manufacturing_Precision.secret]] 

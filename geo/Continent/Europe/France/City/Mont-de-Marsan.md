@@ -29,3 +29,12 @@ markerFile: [[Mont-de-Marsan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Mont-de-Marsan.md|Mont-de-Marsan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mont-de-Marsan.internal.md|Mont-de-Marsan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mont-de-Marsan.protect.md|Mont-de-Marsan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Mont-de-Marsan.private.md|Mont-de-Marsan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mont-de-Marsan.personal.md|Mont-de-Marsan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mont-de-Marsan.secret.md|Mont-de-Marsan.secret]] 

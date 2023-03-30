@@ -29,3 +29,12 @@ markerFile: [[Skive]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Skive.md|Skive]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Skive.internal.md|Skive.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Skive.protect.md|Skive.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Skive.private.md|Skive.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Skive.personal.md|Skive.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Skive.secret.md|Skive.secret]] 

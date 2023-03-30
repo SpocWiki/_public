@@ -29,3 +29,12 @@ markerFile: [[Udine]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Udine.md|Udine]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Udine.internal.md|Udine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Udine.protect.md|Udine.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Udine.private.md|Udine.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Udine.personal.md|Udine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Udine.secret.md|Udine.secret]] 

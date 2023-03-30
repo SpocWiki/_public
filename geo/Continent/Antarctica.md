@@ -21,3 +21,12 @@ markerFolder: ./Antarctica/City
 [name-en::Antarctica]
 [name-de::Antarktis]
 [ #has/_code  :: AN ]
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/geo/Continent/Antarctica.md|Antarctica]] 
+- [[../../../_internal/geo/Continent/Antarctica.internal.md|Antarctica.internal]] 
+- [[../../../_protect/geo/Continent/Antarctica.protect.md|Antarctica.protect]] 
+- [[../../../_private/geo/Continent/Antarctica.private.md|Antarctica.private]] 
+- [[../../../_personal/geo/Continent/Antarctica.personal.md|Antarctica.personal]] 
+- [[../../../_secret/geo/Continent/Antarctica.secret.md|Antarctica.secret]] 

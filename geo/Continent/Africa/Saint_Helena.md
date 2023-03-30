@@ -40,3 +40,12 @@ markerFolder: ./Saint_Helena/City
 [geo-lon::-5.71667]
 [geo-lat::-15.9167]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Saint_Helena.md|Saint_Helena]] 
+- [[../../../../_internal/geo/Continent/Africa/Saint_Helena.internal.md|Saint_Helena.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Saint_Helena.protect.md|Saint_Helena.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Saint_Helena.private.md|Saint_Helena.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Saint_Helena.personal.md|Saint_Helena.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Saint_Helena.secret.md|Saint_Helena.secret]] 

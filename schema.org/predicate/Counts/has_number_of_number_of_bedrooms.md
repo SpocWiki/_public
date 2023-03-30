@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_bedrooms )
 ( #has_/range :: Number, QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_bedrooms.md|has_number_of_number_of_bedrooms]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_bedrooms.internal.md|has_number_of_number_of_bedrooms.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_bedrooms.protect.md|has_number_of_number_of_bedrooms.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_bedrooms.private.md|has_number_of_number_of_bedrooms.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_bedrooms.personal.md|has_number_of_number_of_bedrooms.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_bedrooms.secret.md|has_number_of_number_of_bedrooms.secret]] 

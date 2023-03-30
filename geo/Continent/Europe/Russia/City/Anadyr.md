@@ -29,3 +29,12 @@ markerFile: [[Anadyr]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Anadyr.md|Anadyr]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Anadyr.internal.md|Anadyr.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Anadyr.protect.md|Anadyr.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Anadyr.private.md|Anadyr.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Anadyr.personal.md|Anadyr.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Anadyr.secret.md|Anadyr.secret]] 

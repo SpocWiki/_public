@@ -47,3 +47,12 @@ Predicate describes that:
 
 [ #is_/inverse_of  :: containsPlace ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_contained_in_place.md|has_geo_contained_in_place]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_contained_in_place.internal.md|has_geo_contained_in_place.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_contained_in_place.protect.md|has_geo_contained_in_place.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_contained_in_place.private.md|has_geo_contained_in_place.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_contained_in_place.personal.md|has_geo_contained_in_place.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_contained_in_place.secret.md|has_geo_contained_in_place.secret]] 

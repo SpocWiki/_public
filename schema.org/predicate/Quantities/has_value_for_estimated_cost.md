@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_estimated_cost )
 ( #has_/range :: MonetaryAmount, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_estimated_cost.md|has_value_for_estimated_cost]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_estimated_cost.internal.md|has_value_for_estimated_cost.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_estimated_cost.protect.md|has_value_for_estimated_cost.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_estimated_cost.private.md|has_value_for_estimated_cost.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_estimated_cost.personal.md|has_value_for_estimated_cost.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_estimated_cost.secret.md|has_value_for_estimated_cost.secret]] 

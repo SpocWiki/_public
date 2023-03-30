@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28113]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Cygni-129.md|Cygni-129]] 
+- [[../../../_internal/astro/Star/Cygni-129.internal.md|Cygni-129.internal]] 
+- [[../../../_protect/astro/Star/Cygni-129.protect.md|Cygni-129.protect]] 
+- [[../../../_private/astro/Star/Cygni-129.private.md|Cygni-129.private]] 
+- [[../../../_personal/astro/Star/Cygni-129.personal.md|Cygni-129.personal]] 
+- [[../../../_secret/astro/Star/Cygni-129.secret.md|Cygni-129.secret]]
+

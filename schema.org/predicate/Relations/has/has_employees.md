@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_employees )
 ( #has_/range :: Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_employees.md|has_employees]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_employees.internal.md|has_employees.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_employees.protect.md|has_employees.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_employees.private.md|has_employees.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_employees.personal.md|has_employees.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_employees.secret.md|has_employees.secret]] 

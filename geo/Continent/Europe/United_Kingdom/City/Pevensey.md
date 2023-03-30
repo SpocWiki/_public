@@ -29,3 +29,12 @@ markerFile: [[Pevensey]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Pevensey.md|Pevensey]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Pevensey.internal.md|Pevensey.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Pevensey.protect.md|Pevensey.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Pevensey.private.md|Pevensey.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Pevensey.personal.md|Pevensey.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Pevensey.secret.md|Pevensey.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[St.Anne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Anne.md|St.Anne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Anne.internal.md|St.Anne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Anne.protect.md|St.Anne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Anne.private.md|St.Anne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Anne.personal.md|St.Anne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Anne.secret.md|St.Anne.secret]] 

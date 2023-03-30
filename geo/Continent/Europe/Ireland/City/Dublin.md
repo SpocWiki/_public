@@ -29,3 +29,12 @@ markerFile: [[Dublin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Dublin.md|Dublin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Dublin.internal.md|Dublin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Dublin.protect.md|Dublin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Dublin.private.md|Dublin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Dublin.personal.md|Dublin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Dublin.secret.md|Dublin.secret]] 

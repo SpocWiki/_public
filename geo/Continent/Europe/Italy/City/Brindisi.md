@@ -29,3 +29,12 @@ markerFile: [[Brindisi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Brindisi.md|Brindisi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Brindisi.internal.md|Brindisi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Brindisi.protect.md|Brindisi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Brindisi.private.md|Brindisi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Brindisi.personal.md|Brindisi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Brindisi.secret.md|Brindisi.secret]] 

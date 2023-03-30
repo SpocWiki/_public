@@ -35,3 +35,12 @@ markerFolder: ./Kosovo/City
 [geo-lon::20.85]
 [geo-lat::42.6]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Kosovo.md|Kosovo]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo.internal.md|Kosovo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo.protect.md|Kosovo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo.private.md|Kosovo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo.personal.md|Kosovo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo.secret.md|Kosovo.secret]] 

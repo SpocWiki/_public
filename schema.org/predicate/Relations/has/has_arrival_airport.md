@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_arrival_airport )
 ( #has_/range :: Airport )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_airport.md|has_arrival_airport]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_airport.internal.md|has_arrival_airport.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_arrival_airport.protect.md|has_arrival_airport.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_arrival_airport.private.md|has_arrival_airport.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_arrival_airport.personal.md|has_arrival_airport.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_arrival_airport.secret.md|has_arrival_airport.secret]] 

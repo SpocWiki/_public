@@ -29,3 +29,12 @@ markerFile: [[Harderwijk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Harderwijk.md|Harderwijk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Harderwijk.internal.md|Harderwijk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Harderwijk.protect.md|Harderwijk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Harderwijk.private.md|Harderwijk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Harderwijk.personal.md|Harderwijk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Harderwijk.secret.md|Harderwijk.secret]] 

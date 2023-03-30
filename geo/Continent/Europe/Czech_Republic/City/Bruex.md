@@ -29,3 +29,12 @@ markerFile: [[Bruex]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bruex.md|Bruex]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bruex.internal.md|Bruex.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bruex.protect.md|Bruex.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bruex.private.md|Bruex.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bruex.personal.md|Bruex.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bruex.secret.md|Bruex.secret]] 

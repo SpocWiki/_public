@@ -29,3 +29,12 @@ markerFile: [[Joigny]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Joigny.md|Joigny]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Joigny.internal.md|Joigny.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Joigny.protect.md|Joigny.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Joigny.private.md|Joigny.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Joigny.personal.md|Joigny.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Joigny.secret.md|Joigny.secret]] 

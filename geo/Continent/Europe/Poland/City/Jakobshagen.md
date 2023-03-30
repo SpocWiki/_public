@@ -29,3 +29,12 @@ markerFile: [[Jakobshagen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Jakobshagen.md|Jakobshagen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jakobshagen.internal.md|Jakobshagen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jakobshagen.protect.md|Jakobshagen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jakobshagen.private.md|Jakobshagen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jakobshagen.personal.md|Jakobshagen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jakobshagen.secret.md|Jakobshagen.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Gavirate]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gavirate.md|Gavirate]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gavirate.internal.md|Gavirate.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gavirate.protect.md|Gavirate.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gavirate.private.md|Gavirate.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gavirate.personal.md|Gavirate.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gavirate.secret.md|Gavirate.secret]] 

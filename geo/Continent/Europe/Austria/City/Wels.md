@@ -29,3 +29,12 @@ markerFile: [[Wels]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wels.md|Wels]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wels.internal.md|Wels.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wels.protect.md|Wels.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wels.private.md|Wels.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wels.personal.md|Wels.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wels.secret.md|Wels.secret]] 

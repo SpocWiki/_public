@@ -29,3 +29,12 @@ markerFile: [[Spalato=Split]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.md|Spalato=Split]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.internal.md|Spalato=Split.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.protect.md|Spalato=Split.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.private.md|Spalato=Split.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.personal.md|Spalato=Split.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.secret.md|Spalato=Split.secret]] 

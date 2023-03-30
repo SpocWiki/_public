@@ -29,3 +29,12 @@ markerFile: [[Managua]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Nicaragua/City/Managua.md|Managua]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Nicaragua/City/Managua.internal.md|Managua.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Nicaragua/City/Managua.protect.md|Managua.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Nicaragua/City/Managua.private.md|Managua.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Nicaragua/City/Managua.personal.md|Managua.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Nicaragua/City/Managua.secret.md|Managua.secret]] 

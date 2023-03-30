@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_trailer )
 ( #has_/range :: VideoObject )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_trailer.md|has_trailer]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_trailer.internal.md|has_trailer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_trailer.protect.md|has_trailer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_trailer.private.md|has_trailer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_trailer.personal.md|has_trailer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_trailer.secret.md|has_trailer.secret]] 

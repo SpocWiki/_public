@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_taxon_rank )
 ( #has_/range :: PropertyValue, Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_taxon_rank.md|has_taxon_rank]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_taxon_rank.internal.md|has_taxon_rank.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_taxon_rank.protect.md|has_taxon_rank.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_taxon_rank.private.md|has_taxon_rank.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_taxon_rank.personal.md|has_taxon_rank.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_taxon_rank.secret.md|has_taxon_rank.secret]] 

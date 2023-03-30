@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28127]
 [NextStarId::27958]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Lacertae-105.md|Lacertae-105]] 
+- [[../../../_internal/astro/Star/Lacertae-105.internal.md|Lacertae-105.internal]] 
+- [[../../../_protect/astro/Star/Lacertae-105.protect.md|Lacertae-105.protect]] 
+- [[../../../_private/astro/Star/Lacertae-105.private.md|Lacertae-105.private]] 
+- [[../../../_personal/astro/Star/Lacertae-105.personal.md|Lacertae-105.personal]] 
+- [[../../../_secret/astro/Star/Lacertae-105.secret.md|Lacertae-105.secret]]
+

@@ -29,3 +29,12 @@ markerFile: [[Seinajoki]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Seinajoki.md|Seinajoki]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Seinajoki.internal.md|Seinajoki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Seinajoki.protect.md|Seinajoki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Seinajoki.private.md|Seinajoki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Seinajoki.personal.md|Seinajoki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Seinajoki.secret.md|Seinajoki.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[George_Town]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Cayman~Islands/City/George_Town.md|George_Town]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Cayman~Islands/City/George_Town.internal.md|George_Town.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Cayman~Islands/City/George_Town.protect.md|George_Town.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Cayman~Islands/City/George_Town.private.md|George_Town.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Cayman~Islands/City/George_Town.personal.md|George_Town.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Cayman~Islands/City/George_Town.secret.md|George_Town.secret]] 

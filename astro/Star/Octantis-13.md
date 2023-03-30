@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28140]
 [NextStarId::27862]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Octantis-13.md|Octantis-13]] 
+- [[../../../_internal/astro/Star/Octantis-13.internal.md|Octantis-13.internal]] 
+- [[../../../_protect/astro/Star/Octantis-13.protect.md|Octantis-13.protect]] 
+- [[../../../_private/astro/Star/Octantis-13.private.md|Octantis-13.private]] 
+- [[../../../_personal/astro/Star/Octantis-13.personal.md|Octantis-13.personal]] 
+- [[../../../_secret/astro/Star/Octantis-13.secret.md|Octantis-13.secret]] 

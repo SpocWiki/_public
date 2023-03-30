@@ -29,3 +29,12 @@ markerFile: [[Courtrai]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Courtrai.md|Courtrai]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Courtrai.internal.md|Courtrai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Courtrai.protect.md|Courtrai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Courtrai.private.md|Courtrai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Courtrai.personal.md|Courtrai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Courtrai.secret.md|Courtrai.secret]] 

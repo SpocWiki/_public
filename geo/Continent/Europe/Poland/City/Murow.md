@@ -29,3 +29,12 @@ markerFile: [[Murow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Murow.md|Murow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Murow.internal.md|Murow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Murow.protect.md|Murow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Murow.private.md|Murow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Murow.personal.md|Murow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Murow.secret.md|Murow.secret]] 

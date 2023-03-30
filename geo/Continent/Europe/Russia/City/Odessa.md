@@ -29,3 +29,12 @@ markerFile: [[Odessa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Odessa.md|Odessa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Odessa.internal.md|Odessa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Odessa.protect.md|Odessa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Odessa.private.md|Odessa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Odessa.personal.md|Odessa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Odessa.secret.md|Odessa.secret]] 

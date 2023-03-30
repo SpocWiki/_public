@@ -29,3 +29,12 @@ markerFile: [[Eraejaervi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Eraejaervi.md|Eraejaervi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Eraejaervi.internal.md|Eraejaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Eraejaervi.protect.md|Eraejaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Eraejaervi.private.md|Eraejaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Eraejaervi.personal.md|Eraejaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Eraejaervi.secret.md|Eraejaervi.secret]] 

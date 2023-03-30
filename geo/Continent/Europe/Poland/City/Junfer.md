@@ -29,3 +29,12 @@ markerFile: [[Junfer]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Junfer.md|Junfer]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Junfer.internal.md|Junfer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Junfer.protect.md|Junfer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Junfer.private.md|Junfer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Junfer.personal.md|Junfer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Junfer.secret.md|Junfer.secret]] 

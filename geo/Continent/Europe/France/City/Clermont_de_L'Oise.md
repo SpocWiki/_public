@@ -29,3 +29,12 @@ markerFile: [[Clermont_de_L'Oise]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Clermont_de_L'Oise.md|Clermont_de_L'Oise]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Clermont_de_L'Oise.internal.md|Clermont_de_L'Oise.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Clermont_de_L'Oise.protect.md|Clermont_de_L'Oise.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Clermont_de_L'Oise.private.md|Clermont_de_L'Oise.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Clermont_de_L'Oise.personal.md|Clermont_de_L'Oise.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Clermont_de_L'Oise.secret.md|Clermont_de_L'Oise.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Aosta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Aosta.md|Aosta]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Aosta.internal.md|Aosta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Aosta.protect.md|Aosta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Aosta.private.md|Aosta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Aosta.personal.md|Aosta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Aosta.secret.md|Aosta.secret]] 

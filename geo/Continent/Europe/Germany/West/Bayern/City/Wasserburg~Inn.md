@@ -28,3 +28,12 @@ markerFile: [[Wasserburg~Inn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.md|Wasserburg~Inn]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.internal.md|Wasserburg~Inn.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.protect.md|Wasserburg~Inn.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.private.md|Wasserburg~Inn.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.personal.md|Wasserburg~Inn.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.secret.md|Wasserburg~Inn.secret]] 

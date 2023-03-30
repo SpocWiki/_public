@@ -38,3 +38,12 @@ markerFolder: ./United_Kingdom/City
 [geo-lon::-2.14482]
 [geo-lat::52.8829]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/United_Kingdom.md|United_Kingdom]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom.internal.md|United_Kingdom.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom.protect.md|United_Kingdom.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom.private.md|United_Kingdom.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom.personal.md|United_Kingdom.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom.secret.md|United_Kingdom.secret]] 

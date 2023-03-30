@@ -29,3 +29,12 @@ markerFile: [[Pétange]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Pétange.md|Pétange]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Pétange.internal.md|Pétange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Pétange.protect.md|Pétange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Pétange.private.md|Pétange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Pétange.personal.md|Pétange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Pétange.secret.md|Pétange.secret]] 

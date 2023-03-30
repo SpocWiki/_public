@@ -29,3 +29,12 @@ markerFile: [[Bridport]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bridport.md|Bridport]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bridport.internal.md|Bridport.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bridport.protect.md|Bridport.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bridport.private.md|Bridport.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bridport.personal.md|Bridport.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bridport.secret.md|Bridport.secret]] 

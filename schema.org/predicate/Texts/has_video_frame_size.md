@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_video_frame_size )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_video_frame_size.md|has_video_frame_size]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_video_frame_size.internal.md|has_video_frame_size.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_video_frame_size.protect.md|has_video_frame_size.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_video_frame_size.private.md|has_video_frame_size.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_video_frame_size.personal.md|has_video_frame_size.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_video_frame_size.secret.md|has_video_frame_size.secret]] 

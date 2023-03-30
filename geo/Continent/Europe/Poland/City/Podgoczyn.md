@@ -29,3 +29,12 @@ markerFile: [[Podgoczyn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Podgoczyn.md|Podgoczyn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Podgoczyn.internal.md|Podgoczyn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Podgoczyn.protect.md|Podgoczyn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Podgoczyn.private.md|Podgoczyn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Podgoczyn.personal.md|Podgoczyn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Podgoczyn.secret.md|Podgoczyn.secret]] 

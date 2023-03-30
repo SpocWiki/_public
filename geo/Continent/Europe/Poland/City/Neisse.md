@@ -29,3 +29,12 @@ markerFile: [[Neisse]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neisse.md|Neisse]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neisse.internal.md|Neisse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neisse.protect.md|Neisse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neisse.private.md|Neisse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neisse.personal.md|Neisse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neisse.secret.md|Neisse.secret]] 

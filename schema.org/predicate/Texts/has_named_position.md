@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_named_position )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_named_position.md|has_named_position]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_named_position.internal.md|has_named_position.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_named_position.protect.md|has_named_position.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_named_position.private.md|has_named_position.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_named_position.personal.md|has_named_position.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_named_position.secret.md|has_named_position.secret]] 

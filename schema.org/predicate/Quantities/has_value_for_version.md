@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_version )
 ( #has_/range :: Number, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_version.md|has_value_for_version]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_version.internal.md|has_value_for_version.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_version.protect.md|has_value_for_version.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_version.private.md|has_value_for_version.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_version.personal.md|has_value_for_version.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_version.secret.md|has_value_for_version.secret]] 

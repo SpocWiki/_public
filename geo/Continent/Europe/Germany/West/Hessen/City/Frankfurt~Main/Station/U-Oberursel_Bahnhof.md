@@ -28,3 +28,12 @@ markerFile: [[U-Oberursel_Bahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.md|U-Oberursel_Bahnhof]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.internal.md|U-Oberursel_Bahnhof.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.protect.md|U-Oberursel_Bahnhof.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.private.md|U-Oberursel_Bahnhof.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.personal.md|U-Oberursel_Bahnhof.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.secret.md|U-Oberursel_Bahnhof.secret]] 

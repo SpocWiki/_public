@@ -29,3 +29,12 @@ markerFile: [[Oberhemsdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.md|Oberhemsdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.internal.md|Oberhemsdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.protect.md|Oberhemsdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.private.md|Oberhemsdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.personal.md|Oberhemsdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.secret.md|Oberhemsdorf.secret]] 

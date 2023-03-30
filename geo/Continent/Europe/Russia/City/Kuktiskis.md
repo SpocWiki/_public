@@ -29,3 +29,12 @@ markerFile: [[Kuktiskis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kuktiskis.md|Kuktiskis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kuktiskis.internal.md|Kuktiskis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kuktiskis.protect.md|Kuktiskis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kuktiskis.private.md|Kuktiskis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kuktiskis.personal.md|Kuktiskis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kuktiskis.secret.md|Kuktiskis.secret]] 

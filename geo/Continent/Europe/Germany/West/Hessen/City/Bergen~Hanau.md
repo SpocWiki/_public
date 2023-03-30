@@ -28,3 +28,12 @@ markerFile: [[Bergen~Hanau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.md|Bergen~Hanau]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.internal.md|Bergen~Hanau.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.protect.md|Bergen~Hanau.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.private.md|Bergen~Hanau.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.personal.md|Bergen~Hanau.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.secret.md|Bergen~Hanau.secret]] 

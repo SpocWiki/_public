@@ -43,3 +43,12 @@ A monetary value or range. This type can be used to describe an amount of money 
 
 [ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/monetary_amount.md|monetary_amount]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/monetary_amount.internal.md|monetary_amount.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/monetary_amount.protect.md|monetary_amount.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/monetary_amount.private.md|monetary_amount.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/monetary_amount.personal.md|monetary_amount.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/monetary_amount.secret.md|monetary_amount.secret]] 

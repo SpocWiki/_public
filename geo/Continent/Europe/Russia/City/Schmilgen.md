@@ -29,3 +29,12 @@ markerFile: [[Schmilgen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Schmilgen.md|Schmilgen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Schmilgen.internal.md|Schmilgen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Schmilgen.protect.md|Schmilgen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Schmilgen.private.md|Schmilgen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Schmilgen.personal.md|Schmilgen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Schmilgen.secret.md|Schmilgen.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Soudislav]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Soudislav.md|Soudislav]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Soudislav.internal.md|Soudislav.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Soudislav.protect.md|Soudislav.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Soudislav.private.md|Soudislav.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Soudislav.personal.md|Soudislav.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Soudislav.secret.md|Soudislav.secret]] 

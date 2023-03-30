@@ -29,3 +29,12 @@ markerFile: [[Dax]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Dax.md|Dax]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dax.internal.md|Dax.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dax.protect.md|Dax.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Dax.private.md|Dax.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dax.personal.md|Dax.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dax.secret.md|Dax.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Lincoln]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.md|Lincoln]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.internal.md|Lincoln.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.protect.md|Lincoln.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.private.md|Lincoln.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.personal.md|Lincoln.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.secret.md|Lincoln.secret]] 

@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28098]
 [NextStarId::27411]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Capricorni-17.md|Capricorni-17]] 
+- [[../../../_internal/astro/Star/Capricorni-17.internal.md|Capricorni-17.internal]] 
+- [[../../../_protect/astro/Star/Capricorni-17.protect.md|Capricorni-17.protect]] 
+- [[../../../_private/astro/Star/Capricorni-17.private.md|Capricorni-17.private]] 
+- [[../../../_personal/astro/Star/Capricorni-17.personal.md|Capricorni-17.personal]] 
+- [[../../../_secret/astro/Star/Capricorni-17.secret.md|Capricorni-17.secret]]
+

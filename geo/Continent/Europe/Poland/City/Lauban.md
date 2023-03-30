@@ -29,3 +29,12 @@ markerFile: [[Lauban]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lauban.md|Lauban]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lauban.internal.md|Lauban.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lauban.protect.md|Lauban.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lauban.private.md|Lauban.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lauban.personal.md|Lauban.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lauban.secret.md|Lauban.secret]] 

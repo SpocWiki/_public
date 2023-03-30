@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: location ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_food_event.md|has_food_event]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_food_event.internal.md|has_food_event.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_food_event.protect.md|has_food_event.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_food_event.private.md|has_food_event.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_food_event.personal.md|has_food_event.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_food_event.secret.md|has_food_event.secret]] 

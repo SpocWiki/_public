@@ -28,3 +28,12 @@ markerFile: [[Heldenbergen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.md|Heldenbergen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.internal.md|Heldenbergen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.protect.md|Heldenbergen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.private.md|Heldenbergen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.personal.md|Heldenbergen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.secret.md|Heldenbergen.secret]] 

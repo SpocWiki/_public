@@ -29,3 +29,12 @@ markerFile: [[Belforte]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Belforte.md|Belforte]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Belforte.internal.md|Belforte.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Belforte.protect.md|Belforte.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Belforte.private.md|Belforte.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Belforte.personal.md|Belforte.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Belforte.secret.md|Belforte.secret]] 

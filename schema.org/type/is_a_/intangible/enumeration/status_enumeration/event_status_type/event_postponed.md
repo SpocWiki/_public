@@ -43,3 +43,12 @@ The event has been postponed and no new date has been set. The event's previousS
 
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.md|event_postponed]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.internal.md|event_postponed.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.protect.md|event_postponed.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.private.md|event_postponed.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.personal.md|event_postponed.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.secret.md|event_postponed.secret]] 

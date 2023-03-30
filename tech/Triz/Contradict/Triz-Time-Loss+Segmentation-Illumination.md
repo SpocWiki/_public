@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Illumination]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Illumination.md|Triz-Time-Loss+Segmentation-Illumination]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Illumination.internal.md|Triz-Time-Loss+Segmentation-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Illumination.protect.md|Triz-Time-Loss+Segmentation-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Illumination.private.md|Triz-Time-Loss+Segmentation-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Illumination.personal.md|Triz-Time-Loss+Segmentation-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-Illumination.secret.md|Triz-Time-Loss+Segmentation-Illumination.secret]] 

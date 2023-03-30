@@ -29,3 +29,12 @@ markerFile: [[Teuva]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Teuva.md|Teuva]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Teuva.internal.md|Teuva.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Teuva.protect.md|Teuva.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Teuva.private.md|Teuva.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Teuva.personal.md|Teuva.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Teuva.secret.md|Teuva.secret]] 

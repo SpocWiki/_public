@@ -28,3 +28,12 @@ markerFile: [[Schoeninghsdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeninghsdorf.md|Schoeninghsdorf]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeninghsdorf.internal.md|Schoeninghsdorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeninghsdorf.protect.md|Schoeninghsdorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeninghsdorf.private.md|Schoeninghsdorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeninghsdorf.personal.md|Schoeninghsdorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeninghsdorf.secret.md|Schoeninghsdorf.secret]] 

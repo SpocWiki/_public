@@ -29,3 +29,12 @@ markerFile: [[Domodossola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Domodossola.md|Domodossola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Domodossola.internal.md|Domodossola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Domodossola.protect.md|Domodossola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Domodossola.private.md|Domodossola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Domodossola.personal.md|Domodossola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Domodossola.secret.md|Domodossola.secret]] 

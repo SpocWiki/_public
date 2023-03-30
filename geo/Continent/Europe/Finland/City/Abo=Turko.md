@@ -29,3 +29,12 @@ markerFile: [[Abo=Turko]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Abo=Turko.md|Abo=Turko]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Abo=Turko.internal.md|Abo=Turko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Abo=Turko.protect.md|Abo=Turko.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Abo=Turko.private.md|Abo=Turko.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Abo=Turko.personal.md|Abo=Turko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Abo=Turko.secret.md|Abo=Turko.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Wyk_auf_Foehr]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.md|Wyk_auf_Foehr]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.internal.md|Wyk_auf_Foehr.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.protect.md|Wyk_auf_Foehr.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.private.md|Wyk_auf_Foehr.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.personal.md|Wyk_auf_Foehr.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.secret.md|Wyk_auf_Foehr.secret]] 

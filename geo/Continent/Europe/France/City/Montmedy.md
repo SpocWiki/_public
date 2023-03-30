@@ -29,3 +29,12 @@ markerFile: [[Montmedy]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Montmedy.md|Montmedy]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montmedy.internal.md|Montmedy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montmedy.protect.md|Montmedy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montmedy.private.md|Montmedy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montmedy.personal.md|Montmedy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montmedy.secret.md|Montmedy.secret]] 

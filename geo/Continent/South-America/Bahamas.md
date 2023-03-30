@@ -127,3 +127,12 @@ markerFolder: ./Bahamas/City
 [geo-lon::-77.33]
 [geo-lat::25.05]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Bahamas.md|Bahamas]] 
+- [[../../../../_internal/geo/Continent/South-America/Bahamas.internal.md|Bahamas.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Bahamas.protect.md|Bahamas.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Bahamas.private.md|Bahamas.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Bahamas.personal.md|Bahamas.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Bahamas.secret.md|Bahamas.secret]] 

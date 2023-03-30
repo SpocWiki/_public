@@ -29,3 +29,12 @@ markerFile: [[Mafra]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Mafra.md|Mafra]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Mafra.internal.md|Mafra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Mafra.protect.md|Mafra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Mafra.private.md|Mafra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Mafra.personal.md|Mafra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Mafra.secret.md|Mafra.secret]] 

@@ -41,3 +41,12 @@ Relation describes that:
 ( #has_/name :: has_bed )
 ( #has_/range :: BedDetails, BedType, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_bed.md|has_bed]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_bed.internal.md|has_bed.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_bed.protect.md|has_bed.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_bed.private.md|has_bed.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_bed.personal.md|has_bed.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_bed.secret.md|has_bed.secret]] 

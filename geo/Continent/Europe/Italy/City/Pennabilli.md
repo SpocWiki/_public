@@ -29,3 +29,12 @@ markerFile: [[Pennabilli]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pennabilli.md|Pennabilli]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pennabilli.internal.md|Pennabilli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pennabilli.protect.md|Pennabilli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pennabilli.private.md|Pennabilli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pennabilli.personal.md|Pennabilli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pennabilli.secret.md|Pennabilli.secret]] 

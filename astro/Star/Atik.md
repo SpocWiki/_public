@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28145]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Atik.md|Atik]] 
+- [[../../../_internal/astro/Star/Atik.internal.md|Atik.internal]] 
+- [[../../../_protect/astro/Star/Atik.protect.md|Atik.protect]] 
+- [[../../../_private/astro/Star/Atik.private.md|Atik.private]] 
+- [[../../../_personal/astro/Star/Atik.personal.md|Atik.personal]] 
+- [[../../../_secret/astro/Star/Atik.secret.md|Atik.secret]]
+

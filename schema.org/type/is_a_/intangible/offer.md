@@ -47,3 +47,12 @@ For <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GTIN</a>-related
 
 [ #has_/properties :: [ acceptedPaymentMethod, addOn, additionalType, advanceBookingRequirement, aggregateRating, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, category, checkoutPageURLTemplate, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasMeasurement, hasMerchantReturnPolicy, identifier, image, includesObject, ineligibleRegion, inventoryLevel, isFamilyFriendly, itemCondition, itemOffered, leaseLength, mainEntityOfPage, mobileUrl, mpn, name, offeredBy, potentialAction, price, priceCurrency, priceSpecification, priceValidUntil, review, reviews, sameAs, seller, serialNumber, shippingDetails, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/offer.md|offer]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/offer.internal.md|offer.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/offer.protect.md|offer.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/offer.private.md|offer.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/offer.personal.md|offer.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/offer.secret.md|offer.secret]] 

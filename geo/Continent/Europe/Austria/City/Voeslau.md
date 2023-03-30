@@ -29,3 +29,12 @@ markerFile: [[Voeslau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Voeslau.md|Voeslau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Voeslau.internal.md|Voeslau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Voeslau.protect.md|Voeslau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Voeslau.private.md|Voeslau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Voeslau.personal.md|Voeslau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Voeslau.secret.md|Voeslau.secret]] 

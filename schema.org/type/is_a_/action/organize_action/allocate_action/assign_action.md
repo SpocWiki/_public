@@ -41,3 +41,12 @@ The act of allocating an action/event/task to some destination (someone or somet
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.md|assign_action]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.internal.md|assign_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.protect.md|assign_action.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.private.md|assign_action.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.personal.md|assign_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.secret.md|assign_action.secret]] 

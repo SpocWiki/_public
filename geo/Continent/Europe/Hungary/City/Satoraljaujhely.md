@@ -29,3 +29,12 @@ markerFile: [[Satoraljaujhely]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Satoraljaujhely.md|Satoraljaujhely]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Satoraljaujhely.internal.md|Satoraljaujhely.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Satoraljaujhely.protect.md|Satoraljaujhely.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Satoraljaujhely.private.md|Satoraljaujhely.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Satoraljaujhely.personal.md|Satoraljaujhely.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Satoraljaujhely.secret.md|Satoraljaujhely.secret]] 

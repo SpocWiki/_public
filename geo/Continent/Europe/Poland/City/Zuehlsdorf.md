@@ -29,3 +29,12 @@ markerFile: [[Zuehlsdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zuehlsdorf.md|Zuehlsdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zuehlsdorf.internal.md|Zuehlsdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zuehlsdorf.protect.md|Zuehlsdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zuehlsdorf.private.md|Zuehlsdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zuehlsdorf.personal.md|Zuehlsdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zuehlsdorf.secret.md|Zuehlsdorf.secret]] 

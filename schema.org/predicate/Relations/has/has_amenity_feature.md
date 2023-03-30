@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_amenity_feature )
 ( #has_/range :: LocationFeatureSpecification )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_amenity_feature.md|has_amenity_feature]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_amenity_feature.internal.md|has_amenity_feature.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_amenity_feature.protect.md|has_amenity_feature.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_amenity_feature.private.md|has_amenity_feature.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_amenity_feature.personal.md|has_amenity_feature.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_amenity_feature.secret.md|has_amenity_feature.secret]] 

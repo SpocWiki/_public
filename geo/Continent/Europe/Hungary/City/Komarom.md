@@ -29,3 +29,12 @@ markerFile: [[Komarom]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Komarom.md|Komarom]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Komarom.internal.md|Komarom.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Komarom.protect.md|Komarom.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Komarom.private.md|Komarom.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Komarom.personal.md|Komarom.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Komarom.secret.md|Komarom.secret]] 

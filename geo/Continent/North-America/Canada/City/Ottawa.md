@@ -29,3 +29,12 @@ markerFile: [[Ottawa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/Ottawa.md|Ottawa]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Ottawa.internal.md|Ottawa.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Ottawa.protect.md|Ottawa.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Ottawa.private.md|Ottawa.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Ottawa.personal.md|Ottawa.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Ottawa.secret.md|Ottawa.secret]] 

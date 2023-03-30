@@ -28,3 +28,12 @@ markerFile: [[Luitpoldheim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.md|Luitpoldheim]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.internal.md|Luitpoldheim.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.protect.md|Luitpoldheim.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.private.md|Luitpoldheim.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.personal.md|Luitpoldheim.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.secret.md|Luitpoldheim.secret]] 

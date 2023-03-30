@@ -35,3 +35,12 @@ markerFolder: ./Macedonia~North/City
 [geo-lon::21.43]
 [geo-lat::41.98]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Macedonia~North.md|Macedonia~North]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North.internal.md|Macedonia~North.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North.protect.md|Macedonia~North.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North.private.md|Macedonia~North.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North.personal.md|Macedonia~North.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North.secret.md|Macedonia~North.secret]] 

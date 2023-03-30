@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::cookTime]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Durations/has_duration_to_perform.md|has_duration_to_perform]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_to_perform.internal.md|has_duration_to_perform.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_to_perform.protect.md|has_duration_to_perform.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration_to_perform.private.md|has_duration_to_perform.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_to_perform.personal.md|has_duration_to_perform.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_to_perform.secret.md|has_duration_to_perform.secret]] 

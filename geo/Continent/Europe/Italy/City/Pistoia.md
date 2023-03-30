@@ -29,3 +29,12 @@ markerFile: [[Pistoia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pistoia.md|Pistoia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pistoia.internal.md|Pistoia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pistoia.protect.md|Pistoia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pistoia.private.md|Pistoia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pistoia.personal.md|Pistoia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pistoia.secret.md|Pistoia.secret]] 

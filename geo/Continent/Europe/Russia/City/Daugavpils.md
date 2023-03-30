@@ -29,3 +29,12 @@ markerFile: [[Daugavpils]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Daugavpils.md|Daugavpils]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Daugavpils.internal.md|Daugavpils.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Daugavpils.protect.md|Daugavpils.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Daugavpils.private.md|Daugavpils.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Daugavpils.personal.md|Daugavpils.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Daugavpils.secret.md|Daugavpils.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Oufa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Oufa.md|Oufa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Oufa.internal.md|Oufa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Oufa.protect.md|Oufa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Oufa.private.md|Oufa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Oufa.personal.md|Oufa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Oufa.secret.md|Oufa.secret]] 

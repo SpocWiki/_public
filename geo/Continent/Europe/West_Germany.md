@@ -35,3 +35,12 @@ markerFolder: ./West_Germany/City
 [geo-lon::]
 [geo-lat::50.7339]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/West_Germany.md|West_Germany]] 
+- [[../../../../_internal/geo/Continent/Europe/West_Germany.internal.md|West_Germany.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/West_Germany.protect.md|West_Germany.protect]] 
+- [[../../../../_private/geo/Continent/Europe/West_Germany.private.md|West_Germany.private]] 
+- [[../../../../_personal/geo/Continent/Europe/West_Germany.personal.md|West_Germany.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/West_Germany.secret.md|West_Germany.secret]] 

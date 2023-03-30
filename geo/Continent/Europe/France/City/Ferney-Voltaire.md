@@ -29,3 +29,12 @@ markerFile: [[Ferney-Voltaire]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Ferney-Voltaire.md|Ferney-Voltaire]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ferney-Voltaire.internal.md|Ferney-Voltaire.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ferney-Voltaire.protect.md|Ferney-Voltaire.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Ferney-Voltaire.private.md|Ferney-Voltaire.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ferney-Voltaire.personal.md|Ferney-Voltaire.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ferney-Voltaire.secret.md|Ferney-Voltaire.secret]] 

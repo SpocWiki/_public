@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Automation]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.md|Triz-Ease_of_manufacture+Segmentation-Automation]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.internal.md|Triz-Ease_of_manufacture+Segmentation-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.protect.md|Triz-Ease_of_manufacture+Segmentation-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.private.md|Triz-Ease_of_manufacture+Segmentation-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.personal.md|Triz-Ease_of_manufacture+Segmentation-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Automation.secret.md|Triz-Ease_of_manufacture+Segmentation-Automation.secret]] 

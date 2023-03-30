@@ -29,3 +29,12 @@ markerFile: [[Mysleince]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Mysleince.md|Mysleince]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mysleince.internal.md|Mysleince.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mysleince.protect.md|Mysleince.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mysleince.private.md|Mysleince.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mysleince.personal.md|Mysleince.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mysleince.secret.md|Mysleince.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Calmadoli/Napoli]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Calmadoli_Napoli.md|Calmadoli_Napoli]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Calmadoli_Napoli.internal.md|Calmadoli_Napoli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Calmadoli_Napoli.protect.md|Calmadoli_Napoli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Calmadoli_Napoli.private.md|Calmadoli_Napoli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Calmadoli_Napoli.personal.md|Calmadoli_Napoli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Calmadoli_Napoli.secret.md|Calmadoli_Napoli.secret]] 

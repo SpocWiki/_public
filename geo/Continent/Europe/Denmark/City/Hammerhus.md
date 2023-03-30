@@ -29,3 +29,12 @@ markerFile: [[Hammerhus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Hammerhus.md|Hammerhus]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Hammerhus.internal.md|Hammerhus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Hammerhus.protect.md|Hammerhus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Hammerhus.private.md|Hammerhus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Hammerhus.personal.md|Hammerhus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Hammerhus.secret.md|Hammerhus.secret]] 

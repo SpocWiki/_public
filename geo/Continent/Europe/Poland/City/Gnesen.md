@@ -29,3 +29,12 @@ markerFile: [[Gnesen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gnesen.md|Gnesen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gnesen.internal.md|Gnesen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gnesen.protect.md|Gnesen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gnesen.private.md|Gnesen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gnesen.personal.md|Gnesen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gnesen.secret.md|Gnesen.secret]] 

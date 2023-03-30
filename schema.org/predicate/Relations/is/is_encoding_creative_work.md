@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[../has/has_encoding]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_encoding_creative_work.md|is_encoding_creative_work]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_encoding_creative_work.internal.md|is_encoding_creative_work.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_encoding_creative_work.protect.md|is_encoding_creative_work.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_encoding_creative_work.private.md|is_encoding_creative_work.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_encoding_creative_work.personal.md|is_encoding_creative_work.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_encoding_creative_work.secret.md|is_encoding_creative_work.secret]] 

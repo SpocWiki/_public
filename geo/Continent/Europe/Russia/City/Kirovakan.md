@@ -29,3 +29,12 @@ markerFile: [[Kirovakan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kirovakan.md|Kirovakan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirovakan.internal.md|Kirovakan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirovakan.protect.md|Kirovakan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kirovakan.private.md|Kirovakan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirovakan.personal.md|Kirovakan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirovakan.secret.md|Kirovakan.secret]] 

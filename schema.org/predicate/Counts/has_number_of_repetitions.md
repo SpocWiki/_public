@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_repetitions )
 ( #has_/range :: Number, QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_repetitions.md|has_number_of_repetitions]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_repetitions.internal.md|has_number_of_repetitions.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_repetitions.protect.md|has_number_of_repetitions.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_repetitions.private.md|has_number_of_repetitions.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_repetitions.personal.md|has_number_of_repetitions.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_repetitions.secret.md|has_number_of_repetitions.secret]] 

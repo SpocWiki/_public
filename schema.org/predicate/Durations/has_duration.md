@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::loanTerm]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Durations/has_duration.md|has_duration]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration.internal.md|has_duration.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration.protect.md|has_duration.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration.private.md|has_duration.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration.personal.md|has_duration.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration.secret.md|has_duration.secret]] 

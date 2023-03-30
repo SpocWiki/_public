@@ -29,3 +29,12 @@ markerFile: [[Irgis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Irgis.md|Irgis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Irgis.internal.md|Irgis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Irgis.protect.md|Irgis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Irgis.private.md|Irgis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Irgis.personal.md|Irgis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Irgis.secret.md|Irgis.secret]] 

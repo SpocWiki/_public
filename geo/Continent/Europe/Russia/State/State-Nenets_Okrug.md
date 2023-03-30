@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/State/State-Nenets_Okrug.md|State-Nenets_Okrug]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Nenets_Okrug.internal.md|State-Nenets_Okrug.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Nenets_Okrug.protect.md|State-Nenets_Okrug.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Nenets_Okrug.private.md|State-Nenets_Okrug.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Nenets_Okrug.personal.md|State-Nenets_Okrug.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Nenets_Okrug.secret.md|State-Nenets_Okrug.secret]] 

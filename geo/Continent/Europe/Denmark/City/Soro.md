@@ -29,3 +29,12 @@ markerFile: [[Soro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Soro.md|Soro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Soro.internal.md|Soro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Soro.protect.md|Soro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Soro.private.md|Soro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Soro.personal.md|Soro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Soro.secret.md|Soro.secret]] 

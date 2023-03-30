@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_ticketed_seat )
 ( #has_/range :: Seat )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_ticketed_seat.md|has_ticketed_seat]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ticketed_seat.internal.md|has_ticketed_seat.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_ticketed_seat.protect.md|has_ticketed_seat.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_ticketed_seat.private.md|has_ticketed_seat.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_ticketed_seat.personal.md|has_ticketed_seat.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_ticketed_seat.secret.md|has_ticketed_seat.secret]] 

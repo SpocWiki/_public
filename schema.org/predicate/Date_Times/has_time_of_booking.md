@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_booking.md|has_time_of_booking]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_booking.internal.md|has_time_of_booking.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_booking.protect.md|has_time_of_booking.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_booking.private.md|has_time_of_booking.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_booking.personal.md|has_time_of_booking.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_booking.secret.md|has_time_of_booking.secret]] 

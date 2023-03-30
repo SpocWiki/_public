@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_translator )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_translator.md|has_translator]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_translator.internal.md|has_translator.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_translator.protect.md|has_translator.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_translator.private.md|has_translator.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_translator.personal.md|has_translator.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_translator.secret.md|has_translator.secret]] 

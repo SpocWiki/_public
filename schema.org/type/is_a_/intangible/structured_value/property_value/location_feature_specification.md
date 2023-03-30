@@ -41,3 +41,12 @@ Specifies a location feature by providing a structured value representing a feat
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, hoursAvailable, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, value, valueReference ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.md|location_feature_specification]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.internal.md|location_feature_specification.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.protect.md|location_feature_specification.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.private.md|location_feature_specification.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.personal.md|location_feature_specification.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.secret.md|location_feature_specification.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Schiedam]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Schiedam.md|Schiedam]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Schiedam.internal.md|Schiedam.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Schiedam.protect.md|Schiedam.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Schiedam.private.md|Schiedam.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Schiedam.personal.md|Schiedam.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Schiedam.secret.md|Schiedam.secret]] 

@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::27554]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Tauri-178.md|Tauri-178]] 
+- [[../../../_internal/astro/Star/Tauri-178.internal.md|Tauri-178.internal]] 
+- [[../../../_protect/astro/Star/Tauri-178.protect.md|Tauri-178.protect]] 
+- [[../../../_private/astro/Star/Tauri-178.private.md|Tauri-178.private]] 
+- [[../../../_personal/astro/Star/Tauri-178.personal.md|Tauri-178.personal]] 
+- [[../../../_secret/astro/Star/Tauri-178.secret.md|Tauri-178.secret]] 

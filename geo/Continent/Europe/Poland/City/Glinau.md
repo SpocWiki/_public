@@ -29,3 +29,12 @@ markerFile: [[Glinau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Glinau.md|Glinau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Glinau.internal.md|Glinau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Glinau.protect.md|Glinau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Glinau.private.md|Glinau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Glinau.personal.md|Glinau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Glinau.secret.md|Glinau.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Nakskov]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Nakskov.md|Nakskov]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nakskov.internal.md|Nakskov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nakskov.protect.md|Nakskov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Nakskov.private.md|Nakskov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nakskov.personal.md|Nakskov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nakskov.secret.md|Nakskov.secret]] 

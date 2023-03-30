@@ -29,3 +29,12 @@ markerFile: [[Stormyrheden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Stormyrheden.md|Stormyrheden]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stormyrheden.internal.md|Stormyrheden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stormyrheden.protect.md|Stormyrheden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Stormyrheden.private.md|Stormyrheden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stormyrheden.personal.md|Stormyrheden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stormyrheden.secret.md|Stormyrheden.secret]] 

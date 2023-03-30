@@ -29,3 +29,12 @@ markerFile: [[Kyle]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kyle.md|Kyle]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kyle.internal.md|Kyle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kyle.protect.md|Kyle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kyle.private.md|Kyle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kyle.personal.md|Kyle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kyle.secret.md|Kyle.secret]] 

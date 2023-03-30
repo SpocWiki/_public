@@ -29,3 +29,12 @@ markerFile: [[Hoegsand]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Hoegsand.md|Hoegsand]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hoegsand.internal.md|Hoegsand.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hoegsand.protect.md|Hoegsand.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hoegsand.private.md|Hoegsand.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hoegsand.personal.md|Hoegsand.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hoegsand.secret.md|Hoegsand.secret]] 

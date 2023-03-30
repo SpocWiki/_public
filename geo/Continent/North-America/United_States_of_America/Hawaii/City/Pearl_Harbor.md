@@ -28,3 +28,12 @@ markerFile: [[Pearl_Harbor]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Hawaii/City/Pearl_Harbor.md|Pearl_Harbor]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Hawaii/City/Pearl_Harbor.internal.md|Pearl_Harbor.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Hawaii/City/Pearl_Harbor.protect.md|Pearl_Harbor.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Hawaii/City/Pearl_Harbor.private.md|Pearl_Harbor.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Hawaii/City/Pearl_Harbor.personal.md|Pearl_Harbor.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Hawaii/City/Pearl_Harbor.secret.md|Pearl_Harbor.secret]] 

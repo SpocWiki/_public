@@ -41,3 +41,12 @@ The act of stopping or deactivating a device or application (e.g. stopping a tim
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/action/control_action/deactivate_action.md|deactivate_action]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/action/control_action/deactivate_action.internal.md|deactivate_action.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/action/control_action/deactivate_action.protect.md|deactivate_action.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/action/control_action/deactivate_action.private.md|deactivate_action.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/action/control_action/deactivate_action.personal.md|deactivate_action.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/action/control_action/deactivate_action.secret.md|deactivate_action.secret]] 

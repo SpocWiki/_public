@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_broadcast_frequency_value )
 ( #has_/range :: Number, QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency_value.md|has_value_for_broadcast_frequency_value]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency_value.internal.md|has_value_for_broadcast_frequency_value.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency_value.protect.md|has_value_for_broadcast_frequency_value.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency_value.private.md|has_value_for_broadcast_frequency_value.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency_value.personal.md|has_value_for_broadcast_frequency_value.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency_value.secret.md|has_value_for_broadcast_frequency_value.secret]] 

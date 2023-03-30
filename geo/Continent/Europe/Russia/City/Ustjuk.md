@@ -29,3 +29,12 @@ markerFile: [[Ustjuk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ustjuk.md|Ustjuk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ustjuk.internal.md|Ustjuk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ustjuk.protect.md|Ustjuk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ustjuk.private.md|Ustjuk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ustjuk.personal.md|Ustjuk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ustjuk.secret.md|Ustjuk.secret]] 

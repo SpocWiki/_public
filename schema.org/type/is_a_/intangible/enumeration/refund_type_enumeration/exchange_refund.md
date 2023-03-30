@@ -45,3 +45,12 @@ Specifies that a refund can be done as an exchange for the same product.
 
 [ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.md|exchange_refund]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.internal.md|exchange_refund.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.protect.md|exchange_refund.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.private.md|exchange_refund.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.personal.md|exchange_refund.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.secret.md|exchange_refund.secret]] 

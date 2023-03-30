@@ -29,3 +29,12 @@ markerFile: [[Subotica]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Subotica.md|Subotica]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Subotica.internal.md|Subotica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Subotica.protect.md|Subotica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Subotica.private.md|Subotica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Subotica.personal.md|Subotica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Subotica.secret.md|Subotica.secret]] 

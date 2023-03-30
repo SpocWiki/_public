@@ -29,3 +29,12 @@ markerFile: [[Tétiuhi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tétiuhi.md|Tétiuhi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tétiuhi.internal.md|Tétiuhi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tétiuhi.protect.md|Tétiuhi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tétiuhi.private.md|Tétiuhi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tétiuhi.personal.md|Tétiuhi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tétiuhi.secret.md|Tétiuhi.secret]] 

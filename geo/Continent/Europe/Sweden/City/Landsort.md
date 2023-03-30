@@ -29,3 +29,12 @@ markerFile: [[Landsort]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Landsort.md|Landsort]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Landsort.internal.md|Landsort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Landsort.protect.md|Landsort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Landsort.private.md|Landsort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Landsort.personal.md|Landsort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Landsort.secret.md|Landsort.secret]] 

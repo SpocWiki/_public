@@ -29,3 +29,12 @@ markerFile: [[Perwez]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Perwez.md|Perwez]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Perwez.internal.md|Perwez.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Perwez.protect.md|Perwez.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Perwez.private.md|Perwez.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Perwez.personal.md|Perwez.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Perwez.secret.md|Perwez.secret]] 

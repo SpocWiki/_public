@@ -29,3 +29,12 @@ markerFile: [[Kolbergermuende]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kolbergermuende.md|Kolbergermuende]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kolbergermuende.internal.md|Kolbergermuende.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kolbergermuende.protect.md|Kolbergermuende.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kolbergermuende.private.md|Kolbergermuende.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kolbergermuende.personal.md|Kolbergermuende.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kolbergermuende.secret.md|Kolbergermuende.secret]] 

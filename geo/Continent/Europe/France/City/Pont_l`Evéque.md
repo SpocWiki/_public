@@ -29,3 +29,12 @@ markerFile: [[Pont_l`Evéque]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Pont_l`Evéque.md|Pont_l`Evéque]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pont_l`Evéque.internal.md|Pont_l`Evéque.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pont_l`Evéque.protect.md|Pont_l`Evéque.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Pont_l`Evéque.private.md|Pont_l`Evéque.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pont_l`Evéque.personal.md|Pont_l`Evéque.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pont_l`Evéque.secret.md|Pont_l`Evéque.secret]] 

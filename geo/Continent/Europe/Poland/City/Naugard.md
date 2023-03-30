@@ -29,3 +29,12 @@ markerFile: [[Naugard]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Naugard.md|Naugard]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Naugard.internal.md|Naugard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Naugard.protect.md|Naugard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Naugard.private.md|Naugard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Naugard.personal.md|Naugard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Naugard.secret.md|Naugard.secret]] 

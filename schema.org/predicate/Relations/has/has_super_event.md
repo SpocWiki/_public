@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: subEvent ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_super_event.md|has_super_event]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_super_event.internal.md|has_super_event.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_super_event.protect.md|has_super_event.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_super_event.private.md|has_super_event.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_super_event.personal.md|has_super_event.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_super_event.secret.md|has_super_event.secret]] 

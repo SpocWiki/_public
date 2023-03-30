@@ -29,3 +29,12 @@ markerFile: [[Versailles]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Versailles.md|Versailles]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Versailles.internal.md|Versailles.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Versailles.protect.md|Versailles.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Versailles.private.md|Versailles.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Versailles.personal.md|Versailles.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Versailles.secret.md|Versailles.secret]] 

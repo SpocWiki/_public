@@ -29,3 +29,12 @@ markerFile: [[Glasgow~Schottland]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.md|Glasgow~Schottland]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.internal.md|Glasgow~Schottland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.protect.md|Glasgow~Schottland.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.private.md|Glasgow~Schottland.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.personal.md|Glasgow~Schottland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.secret.md|Glasgow~Schottland.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Saratow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Saratow.md|Saratow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Saratow.internal.md|Saratow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Saratow.protect.md|Saratow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Saratow.private.md|Saratow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Saratow.personal.md|Saratow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Saratow.secret.md|Saratow.secret]] 

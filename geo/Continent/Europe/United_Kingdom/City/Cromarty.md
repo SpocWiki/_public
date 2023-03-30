@@ -29,3 +29,12 @@ markerFile: [[Cromarty]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cromarty.md|Cromarty]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cromarty.internal.md|Cromarty.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cromarty.protect.md|Cromarty.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cromarty.private.md|Cromarty.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cromarty.personal.md|Cromarty.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cromarty.secret.md|Cromarty.secret]] 

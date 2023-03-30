@@ -29,3 +29,12 @@ markerFile: [[Deutsch-Kravern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.md|Deutsch-Kravern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.internal.md|Deutsch-Kravern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.protect.md|Deutsch-Kravern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.private.md|Deutsch-Kravern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.personal.md|Deutsch-Kravern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.secret.md|Deutsch-Kravern.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Chatam]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chatam.md|Chatam]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chatam.internal.md|Chatam.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chatam.protect.md|Chatam.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chatam.private.md|Chatam.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chatam.personal.md|Chatam.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chatam.secret.md|Chatam.secret]] 

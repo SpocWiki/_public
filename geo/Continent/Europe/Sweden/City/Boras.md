@@ -29,3 +29,12 @@ markerFile: [[Boras]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Boras.md|Boras]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Boras.internal.md|Boras.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Boras.protect.md|Boras.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Boras.private.md|Boras.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Boras.personal.md|Boras.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Boras.secret.md|Boras.secret]] 

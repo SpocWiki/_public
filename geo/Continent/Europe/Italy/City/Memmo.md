@@ -29,3 +29,12 @@ markerFile: [[Memmo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Memmo.md|Memmo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Memmo.internal.md|Memmo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Memmo.protect.md|Memmo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Memmo.private.md|Memmo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Memmo.personal.md|Memmo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Memmo.secret.md|Memmo.secret]] 

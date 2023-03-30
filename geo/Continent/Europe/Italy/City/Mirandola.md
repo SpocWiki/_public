@@ -29,3 +29,12 @@ markerFile: [[Mirandola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Mirandola.md|Mirandola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mirandola.internal.md|Mirandola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mirandola.protect.md|Mirandola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mirandola.private.md|Mirandola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mirandola.personal.md|Mirandola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mirandola.secret.md|Mirandola.secret]] 

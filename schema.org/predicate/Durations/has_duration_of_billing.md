@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_billing.md|has_duration_of_billing]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_billing.internal.md|has_duration_of_billing.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_billing.protect.md|has_duration_of_billing.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_billing.private.md|has_duration_of_billing.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_billing.personal.md|has_duration_of_billing.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_billing.secret.md|has_duration_of_billing.secret]] 

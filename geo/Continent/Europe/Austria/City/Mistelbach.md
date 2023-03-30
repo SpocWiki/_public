@@ -29,3 +29,12 @@ markerFile: [[Mistelbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Mistelbach.md|Mistelbach]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Mistelbach.internal.md|Mistelbach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Mistelbach.protect.md|Mistelbach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Mistelbach.private.md|Mistelbach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Mistelbach.personal.md|Mistelbach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Mistelbach.secret.md|Mistelbach.secret]] 

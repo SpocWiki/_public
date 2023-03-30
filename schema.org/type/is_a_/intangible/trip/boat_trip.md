@@ -43,3 +43,12 @@ A trip on a commercial ferry line.
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalBoatTerminal, arrivalTime, departureBoatTerminal, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/trip/boat_trip.md|boat_trip]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/trip/boat_trip.internal.md|boat_trip.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/trip/boat_trip.protect.md|boat_trip.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/trip/boat_trip.private.md|boat_trip.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/trip/boat_trip.personal.md|boat_trip.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/trip/boat_trip.secret.md|boat_trip.secret]] 

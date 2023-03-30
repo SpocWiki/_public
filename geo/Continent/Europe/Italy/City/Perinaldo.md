@@ -29,3 +29,12 @@ markerFile: [[Perinaldo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Perinaldo.md|Perinaldo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Perinaldo.internal.md|Perinaldo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Perinaldo.protect.md|Perinaldo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Perinaldo.private.md|Perinaldo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Perinaldo.personal.md|Perinaldo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Perinaldo.secret.md|Perinaldo.secret]] 

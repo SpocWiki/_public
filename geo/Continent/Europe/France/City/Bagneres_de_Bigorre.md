@@ -29,3 +29,12 @@ markerFile: [[Bagneres_de_Bigorre]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.md|Bagneres_de_Bigorre]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.internal.md|Bagneres_de_Bigorre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.protect.md|Bagneres_de_Bigorre.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.private.md|Bagneres_de_Bigorre.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.personal.md|Bagneres_de_Bigorre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.secret.md|Bagneres_de_Bigorre.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Bertrange]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Bertrange.md|Bertrange]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Bertrange.internal.md|Bertrange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Bertrange.protect.md|Bertrange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Bertrange.private.md|Bertrange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Bertrange.personal.md|Bertrange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Bertrange.secret.md|Bertrange.secret]] 

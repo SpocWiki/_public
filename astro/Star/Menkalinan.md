@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28090]
 [NextStarId::27235]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Menkalinan.md|Menkalinan]] 
+- [[../../../_internal/astro/Star/Menkalinan.internal.md|Menkalinan.internal]] 
+- [[../../../_protect/astro/Star/Menkalinan.protect.md|Menkalinan.protect]] 
+- [[../../../_private/astro/Star/Menkalinan.private.md|Menkalinan.private]] 
+- [[../../../_personal/astro/Star/Menkalinan.personal.md|Menkalinan.personal]] 
+- [[../../../_secret/astro/Star/Menkalinan.secret.md|Menkalinan.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Novara]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Novara.md|Novara]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Novara.internal.md|Novara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Novara.protect.md|Novara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Novara.private.md|Novara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Novara.personal.md|Novara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Novara.secret.md|Novara.secret]] 

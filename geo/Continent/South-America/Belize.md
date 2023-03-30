@@ -129,3 +129,12 @@ markerFolder: ./Belize/City
 [geo-lon::-88.7667]
 [geo-lat::17.25]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Belize.md|Belize]] 
+- [[../../../../_internal/geo/Continent/South-America/Belize.internal.md|Belize.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Belize.protect.md|Belize.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Belize.private.md|Belize.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Belize.personal.md|Belize.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Belize.secret.md|Belize.secret]] 

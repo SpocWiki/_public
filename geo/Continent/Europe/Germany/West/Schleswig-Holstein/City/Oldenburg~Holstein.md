@@ -28,3 +28,12 @@ markerFile: [[Oldenburg~Holstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.md|Oldenburg~Holstein]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.internal.md|Oldenburg~Holstein.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.protect.md|Oldenburg~Holstein.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.private.md|Oldenburg~Holstein.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.personal.md|Oldenburg~Holstein.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.secret.md|Oldenburg~Holstein.secret]] 

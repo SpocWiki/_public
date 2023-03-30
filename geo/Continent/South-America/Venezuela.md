@@ -132,3 +132,12 @@ markerFolder: ./Venezuela/City
 [geo-lon::-66.93]
 [geo-lat::10.5]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Venezuela.md|Venezuela]] 
+- [[../../../../_internal/geo/Continent/South-America/Venezuela.internal.md|Venezuela.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Venezuela.protect.md|Venezuela.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Venezuela.private.md|Venezuela.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Venezuela.personal.md|Venezuela.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Venezuela.secret.md|Venezuela.secret]] 

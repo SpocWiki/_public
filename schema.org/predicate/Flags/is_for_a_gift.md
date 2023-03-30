@@ -44,3 +44,12 @@ Predicate describes that:
 ( #has_/name :: is_for_a_gift )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_for_a_gift.md|is_for_a_gift]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_for_a_gift.internal.md|is_for_a_gift.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_for_a_gift.protect.md|is_for_a_gift.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_for_a_gift.private.md|is_for_a_gift.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_for_a_gift.personal.md|is_for_a_gift.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_for_a_gift.secret.md|is_for_a_gift.secret]] 

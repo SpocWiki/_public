@@ -29,3 +29,12 @@ markerFile: [[Voecklabruck]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Voecklabruck.md|Voecklabruck]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Voecklabruck.internal.md|Voecklabruck.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Voecklabruck.protect.md|Voecklabruck.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Voecklabruck.private.md|Voecklabruck.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Voecklabruck.personal.md|Voecklabruck.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Voecklabruck.secret.md|Voecklabruck.secret]] 

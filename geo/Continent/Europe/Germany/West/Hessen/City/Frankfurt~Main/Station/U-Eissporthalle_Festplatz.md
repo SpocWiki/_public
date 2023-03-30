@@ -28,3 +28,12 @@ markerFile: [[U-Eissporthalle_Festplatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eissporthalle_Festplatz.md|U-Eissporthalle_Festplatz]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eissporthalle_Festplatz.internal.md|U-Eissporthalle_Festplatz.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eissporthalle_Festplatz.protect.md|U-Eissporthalle_Festplatz.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eissporthalle_Festplatz.private.md|U-Eissporthalle_Festplatz.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eissporthalle_Festplatz.personal.md|U-Eissporthalle_Festplatz.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eissporthalle_Festplatz.secret.md|U-Eissporthalle_Festplatz.secret]] 

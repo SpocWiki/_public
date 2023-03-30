@@ -29,3 +29,12 @@ markerFile: [[Aggsbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Aggsbach.md|Aggsbach]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Aggsbach.internal.md|Aggsbach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Aggsbach.protect.md|Aggsbach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Aggsbach.private.md|Aggsbach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Aggsbach.personal.md|Aggsbach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Aggsbach.secret.md|Aggsbach.secret]] 

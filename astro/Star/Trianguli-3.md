@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28162]
 [NextStarId::27480]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Trianguli-3.md|Trianguli-3]] 
+- [[../../../_internal/astro/Star/Trianguli-3.internal.md|Trianguli-3.internal]] 
+- [[../../../_protect/astro/Star/Trianguli-3.protect.md|Trianguli-3.protect]] 
+- [[../../../_private/astro/Star/Trianguli-3.private.md|Trianguli-3.private]] 
+- [[../../../_personal/astro/Star/Trianguli-3.personal.md|Trianguli-3.personal]] 
+- [[../../../_secret/astro/Star/Trianguli-3.secret.md|Trianguli-3.secret]] 

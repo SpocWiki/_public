@@ -29,3 +29,12 @@ markerFile: [[Hasselt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Hasselt.md|Hasselt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Hasselt.internal.md|Hasselt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Hasselt.protect.md|Hasselt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Hasselt.private.md|Hasselt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Hasselt.personal.md|Hasselt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Hasselt.secret.md|Hasselt.secret]] 

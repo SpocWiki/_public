@@ -15,3 +15,12 @@ tags:
 [TrizPrinciple::[[Triz-Use_of_porous_material]]]
 
 Make an object porous or add porous Elements (inserts, coatings, etc.). This reduces Material Consumption while keeping Stability Properties. 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Sub/Triz-porous.md|Triz-porous]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-porous.internal.md|Triz-porous.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-porous.protect.md|Triz-porous.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-porous.private.md|Triz-porous.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-porous.personal.md|Triz-porous.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-porous.secret.md|Triz-porous.secret]] 

@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_broker )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_broker.md|has_broker]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broker.internal.md|has_broker.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broker.protect.md|has_broker.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_broker.private.md|has_broker.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_broker.personal.md|has_broker.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_broker.secret.md|has_broker.secret]] 

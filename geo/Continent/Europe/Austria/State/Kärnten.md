@@ -23,3 +23,12 @@ markerFolder: ./Kärnten/City
 [geo-lat::]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/State/Kärnten.md|Kärnten]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Kärnten.internal.md|Kärnten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Kärnten.protect.md|Kärnten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Kärnten.private.md|Kärnten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Kärnten.personal.md|Kärnten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Kärnten.secret.md|Kärnten.secret]] 

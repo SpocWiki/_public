@@ -29,3 +29,12 @@ markerFile: [[Troia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Troia.md|Troia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Troia.internal.md|Troia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Troia.protect.md|Troia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Troia.private.md|Troia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Troia.personal.md|Troia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Troia.secret.md|Troia.secret]] 

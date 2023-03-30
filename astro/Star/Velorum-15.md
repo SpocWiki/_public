@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28167]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Velorum-15.md|Velorum-15]] 
+- [[../../../_internal/astro/Star/Velorum-15.internal.md|Velorum-15.internal]] 
+- [[../../../_protect/astro/Star/Velorum-15.protect.md|Velorum-15.protect]] 
+- [[../../../_private/astro/Star/Velorum-15.private.md|Velorum-15.private]] 
+- [[../../../_personal/astro/Star/Velorum-15.personal.md|Velorum-15.personal]] 
+- [[../../../_secret/astro/Star/Velorum-15.secret.md|Velorum-15.secret]] 

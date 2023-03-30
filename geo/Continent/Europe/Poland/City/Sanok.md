@@ -29,3 +29,12 @@ markerFile: [[Sanok]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sanok.md|Sanok]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sanok.internal.md|Sanok.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sanok.protect.md|Sanok.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sanok.private.md|Sanok.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sanok.personal.md|Sanok.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sanok.secret.md|Sanok.secret]] 

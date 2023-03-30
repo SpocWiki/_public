@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_interaction_type )
 ( #has_/range :: Action )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_interaction_type.md|has_interaction_type]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_interaction_type.internal.md|has_interaction_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_interaction_type.protect.md|has_interaction_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_interaction_type.private.md|has_interaction_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_interaction_type.personal.md|has_interaction_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_interaction_type.secret.md|has_interaction_type.secret]] 

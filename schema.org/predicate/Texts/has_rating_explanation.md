@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_rating_explanation )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_rating_explanation.md|has_rating_explanation]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_rating_explanation.internal.md|has_rating_explanation.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_rating_explanation.protect.md|has_rating_explanation.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_rating_explanation.private.md|has_rating_explanation.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_rating_explanation.personal.md|has_rating_explanation.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_rating_explanation.secret.md|has_rating_explanation.secret]] 

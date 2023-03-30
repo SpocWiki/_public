@@ -29,3 +29,12 @@ markerFile: [[Pargas]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pargas.md|Pargas]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pargas.internal.md|Pargas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pargas.protect.md|Pargas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pargas.private.md|Pargas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pargas.personal.md|Pargas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pargas.secret.md|Pargas.secret]] 

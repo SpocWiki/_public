@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28117]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Equulei-3.md|Equulei-3]] 
+- [[../../../_internal/astro/Star/Equulei-3.internal.md|Equulei-3.internal]] 
+- [[../../../_protect/astro/Star/Equulei-3.protect.md|Equulei-3.protect]] 
+- [[../../../_private/astro/Star/Equulei-3.private.md|Equulei-3.private]] 
+- [[../../../_personal/astro/Star/Equulei-3.personal.md|Equulei-3.personal]] 
+- [[../../../_secret/astro/Star/Equulei-3.secret.md|Equulei-3.secret]]
+

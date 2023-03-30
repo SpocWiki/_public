@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_manufacturer )
 ( #has_/range :: Organization )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_manufacturer.md|has_manufacturer]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_manufacturer.internal.md|has_manufacturer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_manufacturer.protect.md|has_manufacturer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_manufacturer.private.md|has_manufacturer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_manufacturer.personal.md|has_manufacturer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_manufacturer.secret.md|has_manufacturer.secret]] 

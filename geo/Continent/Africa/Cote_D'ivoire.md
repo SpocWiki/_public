@@ -35,3 +35,12 @@ markerFolder: ./Cote_D'ivoire/City
 [geo-lon::-5.3]
 [geo-lat::6.85]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Cote_D'ivoire.md|Cote_D'ivoire]] 
+- [[../../../../_internal/geo/Continent/Africa/Cote_D'ivoire.internal.md|Cote_D'ivoire.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cote_D'ivoire.protect.md|Cote_D'ivoire.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cote_D'ivoire.private.md|Cote_D'ivoire.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cote_D'ivoire.personal.md|Cote_D'ivoire.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cote_D'ivoire.secret.md|Cote_D'ivoire.secret]] 

@@ -128,3 +128,12 @@ markerFolder: ./Tonga/City
 [geo-lon::-175.2]
 [geo-lat::-21.1333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Tonga.md|Tonga]] 
+- [[../../../../_internal/geo/Continent/Oceania/Tonga.internal.md|Tonga.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Tonga.protect.md|Tonga.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Tonga.private.md|Tonga.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Tonga.personal.md|Tonga.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Tonga.secret.md|Tonga.secret]] 

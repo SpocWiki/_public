@@ -29,3 +29,12 @@ markerFile: [[Kobbelbude]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kobbelbude.md|Kobbelbude]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kobbelbude.internal.md|Kobbelbude.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kobbelbude.protect.md|Kobbelbude.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kobbelbude.private.md|Kobbelbude.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kobbelbude.personal.md|Kobbelbude.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kobbelbude.secret.md|Kobbelbude.secret]] 

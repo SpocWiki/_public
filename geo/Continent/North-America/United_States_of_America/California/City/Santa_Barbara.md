@@ -28,3 +28,12 @@ markerFile: [[Santa_Barbara]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.md|Santa_Barbara]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.internal.md|Santa_Barbara.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.protect.md|Santa_Barbara.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.private.md|Santa_Barbara.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.personal.md|Santa_Barbara.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.secret.md|Santa_Barbara.secret]] 

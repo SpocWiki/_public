@@ -29,3 +29,12 @@ markerFile: [[Astana]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Kazakhstan/City/Astana.md|Astana]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Kazakhstan/City/Astana.internal.md|Astana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Kazakhstan/City/Astana.protect.md|Astana.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Kazakhstan/City/Astana.private.md|Astana.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Kazakhstan/City/Astana.personal.md|Astana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Kazakhstan/City/Astana.secret.md|Astana.secret]] 

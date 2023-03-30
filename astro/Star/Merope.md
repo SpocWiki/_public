@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Merope.md|Merope]] 
+- [[../../../_internal/astro/Star/Merope.internal.md|Merope.internal]] 
+- [[../../../_protect/astro/Star/Merope.protect.md|Merope.protect]] 
+- [[../../../_private/astro/Star/Merope.private.md|Merope.private]] 
+- [[../../../_personal/astro/Star/Merope.personal.md|Merope.personal]] 
+- [[../../../_secret/astro/Star/Merope.secret.md|Merope.secret]] 

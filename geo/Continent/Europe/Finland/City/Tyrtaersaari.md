@@ -29,3 +29,12 @@ markerFile: [[Tyrtaersaari]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Tyrtaersaari.md|Tyrtaersaari]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tyrtaersaari.internal.md|Tyrtaersaari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tyrtaersaari.protect.md|Tyrtaersaari.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tyrtaersaari.private.md|Tyrtaersaari.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tyrtaersaari.personal.md|Tyrtaersaari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tyrtaersaari.secret.md|Tyrtaersaari.secret]] 

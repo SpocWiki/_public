@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28134]
 [NextStarId::27460]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Lyrae-6.md|Lyrae-6]] 
+- [[../../../_internal/astro/Star/Lyrae-6.internal.md|Lyrae-6.internal]] 
+- [[../../../_protect/astro/Star/Lyrae-6.protect.md|Lyrae-6.protect]] 
+- [[../../../_private/astro/Star/Lyrae-6.private.md|Lyrae-6.private]] 
+- [[../../../_personal/astro/Star/Lyrae-6.personal.md|Lyrae-6.personal]] 
+- [[../../../_secret/astro/Star/Lyrae-6.secret.md|Lyrae-6.secret]] 

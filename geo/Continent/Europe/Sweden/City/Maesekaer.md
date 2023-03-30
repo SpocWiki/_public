@@ -29,3 +29,12 @@ markerFile: [[Maesekaer]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Maesekaer.md|Maesekaer]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Maesekaer.internal.md|Maesekaer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Maesekaer.protect.md|Maesekaer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Maesekaer.private.md|Maesekaer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Maesekaer.personal.md|Maesekaer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Maesekaer.secret.md|Maesekaer.secret]] 

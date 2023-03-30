@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_price_range )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_price_range.md|has_price_range]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_price_range.internal.md|has_price_range.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_price_range.protect.md|has_price_range.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_price_range.private.md|has_price_range.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_price_range.personal.md|has_price_range.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_price_range.secret.md|has_price_range.secret]] 

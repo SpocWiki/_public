@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::27265]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alnilam.md|Alnilam]] 
+- [[../../../_internal/astro/Star/Alnilam.internal.md|Alnilam.internal]] 
+- [[../../../_protect/astro/Star/Alnilam.protect.md|Alnilam.protect]] 
+- [[../../../_private/astro/Star/Alnilam.private.md|Alnilam.private]] 
+- [[../../../_personal/astro/Star/Alnilam.personal.md|Alnilam.personal]] 
+- [[../../../_secret/astro/Star/Alnilam.secret.md|Alnilam.secret]]
+

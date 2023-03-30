@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Shape]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.md|Triz-Difficulty+Segmentation-Shape]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.internal.md|Triz-Difficulty+Segmentation-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.protect.md|Triz-Difficulty+Segmentation-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.private.md|Triz-Difficulty+Segmentation-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.personal.md|Triz-Difficulty+Segmentation-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.secret.md|Triz-Difficulty+Segmentation-Shape.secret]] 

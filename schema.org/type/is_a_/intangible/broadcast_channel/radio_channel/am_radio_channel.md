@@ -41,3 +41,12 @@ A radio channel that uses AM.
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.md|am_radio_channel]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.internal.md|am_radio_channel.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.protect.md|am_radio_channel.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.private.md|am_radio_channel.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.personal.md|am_radio_channel.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.secret.md|am_radio_channel.secret]] 

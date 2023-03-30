@@ -29,3 +29,12 @@ markerFile: [[Csongrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Csongrad.md|Csongrad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Csongrad.internal.md|Csongrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Csongrad.protect.md|Csongrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Csongrad.private.md|Csongrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Csongrad.personal.md|Csongrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Csongrad.secret.md|Csongrad.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Mohacs]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Mohacs.md|Mohacs]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Mohacs.internal.md|Mohacs.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Mohacs.protect.md|Mohacs.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Mohacs.private.md|Mohacs.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Mohacs.personal.md|Mohacs.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Mohacs.secret.md|Mohacs.secret]] 

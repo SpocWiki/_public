@@ -29,3 +29,12 @@ markerFile: [[Gillingham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gillingham.md|Gillingham]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gillingham.internal.md|Gillingham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gillingham.protect.md|Gillingham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gillingham.private.md|Gillingham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gillingham.personal.md|Gillingham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gillingham.secret.md|Gillingham.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Continuity_of_useful_action]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.md|Triz-Power+Continuity_of_useful_action-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.internal.md|Triz-Power+Continuity_of_useful_action-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.protect.md|Triz-Power+Continuity_of_useful_action-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.private.md|Triz-Power+Continuity_of_useful_action-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.personal.md|Triz-Power+Continuity_of_useful_action-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.secret.md|Triz-Power+Continuity_of_useful_action-Complexity.secret]] 

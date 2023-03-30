@@ -29,3 +29,12 @@ markerFile: [[Siljansfors]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Siljansfors.md|Siljansfors]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Siljansfors.internal.md|Siljansfors.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Siljansfors.protect.md|Siljansfors.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Siljansfors.private.md|Siljansfors.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Siljansfors.personal.md|Siljansfors.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Siljansfors.secret.md|Siljansfors.secret]] 

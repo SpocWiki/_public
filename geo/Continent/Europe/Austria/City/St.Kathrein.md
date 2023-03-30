@@ -29,3 +29,12 @@ markerFile: [[St.Kathrein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Kathrein.md|St.Kathrein]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Kathrein.internal.md|St.Kathrein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Kathrein.protect.md|St.Kathrein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Kathrein.private.md|St.Kathrein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Kathrein.personal.md|St.Kathrein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Kathrein.secret.md|St.Kathrein.secret]] 

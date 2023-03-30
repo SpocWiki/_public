@@ -29,3 +29,12 @@ markerFile: [[Porto]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Porto.md|Porto]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Porto.internal.md|Porto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Porto.protect.md|Porto.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Porto.private.md|Porto.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Porto.personal.md|Porto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Porto.secret.md|Porto.secret]] 

@@ -130,3 +130,12 @@ markerFolder: ./Chile/City
 [geo-lon::-70.67]
 [geo-lat::-33.45]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Chile.md|Chile]] 
+- [[../../../../_internal/geo/Continent/South-America/Chile.internal.md|Chile.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Chile.protect.md|Chile.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Chile.private.md|Chile.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Chile.personal.md|Chile.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Chile.secret.md|Chile.secret]] 

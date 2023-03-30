@@ -130,3 +130,12 @@ markerFolder: ./Seychelles/City
 [geo-lon::55.45]
 [geo-lat::-4.61667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Seychelles.md|Seychelles]] 
+- [[../../../../_internal/geo/Continent/Africa/Seychelles.internal.md|Seychelles.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Seychelles.protect.md|Seychelles.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Seychelles.private.md|Seychelles.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Seychelles.personal.md|Seychelles.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Seychelles.secret.md|Seychelles.secret]] 

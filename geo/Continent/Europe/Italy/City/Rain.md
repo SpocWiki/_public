@@ -29,3 +29,12 @@ markerFile: [[Rain]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Rain.md|Rain]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rain.internal.md|Rain.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rain.protect.md|Rain.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rain.private.md|Rain.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rain.personal.md|Rain.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rain.secret.md|Rain.secret]] 

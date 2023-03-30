@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28120]
 [NextStarId::27599]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Wasat.md|Wasat]] 
+- [[../../../_internal/astro/Star/Wasat.internal.md|Wasat.internal]] 
+- [[../../../_protect/astro/Star/Wasat.protect.md|Wasat.protect]] 
+- [[../../../_private/astro/Star/Wasat.private.md|Wasat.private]] 
+- [[../../../_personal/astro/Star/Wasat.personal.md|Wasat.personal]] 
+- [[../../../_secret/astro/Star/Wasat.secret.md|Wasat.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Tschern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschern.md|Tschern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschern.internal.md|Tschern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschern.protect.md|Tschern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschern.private.md|Tschern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschern.personal.md|Tschern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschern.secret.md|Tschern.secret]] 

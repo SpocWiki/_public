@@ -29,3 +29,12 @@ markerFile: [[Stepanakert]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stepanakert.md|Stepanakert]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stepanakert.internal.md|Stepanakert.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stepanakert.protect.md|Stepanakert.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stepanakert.private.md|Stepanakert.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stepanakert.personal.md|Stepanakert.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stepanakert.secret.md|Stepanakert.secret]] 

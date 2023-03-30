@@ -29,3 +29,12 @@ markerFile: [[Bromberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bromberg.md|Bromberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bromberg.internal.md|Bromberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bromberg.protect.md|Bromberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bromberg.private.md|Bromberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bromberg.personal.md|Bromberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bromberg.secret.md|Bromberg.secret]] 

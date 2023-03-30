@@ -29,3 +29,12 @@ markerFile: [[Langres]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Langres.md|Langres]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Langres.internal.md|Langres.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Langres.protect.md|Langres.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Langres.private.md|Langres.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Langres.personal.md|Langres.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Langres.secret.md|Langres.secret]] 

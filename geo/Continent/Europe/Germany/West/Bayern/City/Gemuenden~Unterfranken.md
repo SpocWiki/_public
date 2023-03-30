@@ -28,3 +28,12 @@ markerFile: [[Gemuenden~Unterfranken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.md|Gemuenden~Unterfranken]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.internal.md|Gemuenden~Unterfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.protect.md|Gemuenden~Unterfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.private.md|Gemuenden~Unterfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.personal.md|Gemuenden~Unterfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.secret.md|Gemuenden~Unterfranken.secret]] 

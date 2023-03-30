@@ -28,3 +28,12 @@ markerFile: [[Alte_Sternwarte]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.md|Alte_Sternwarte]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.internal.md|Alte_Sternwarte.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.protect.md|Alte_Sternwarte.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.private.md|Alte_Sternwarte.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.personal.md|Alte_Sternwarte.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.secret.md|Alte_Sternwarte.secret]] 

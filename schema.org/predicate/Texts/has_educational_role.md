@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_educational_role )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_educational_role.md|has_educational_role]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_educational_role.internal.md|has_educational_role.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_educational_role.protect.md|has_educational_role.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_educational_role.private.md|has_educational_role.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_educational_role.personal.md|has_educational_role.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_educational_role.secret.md|has_educational_role.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Sighet]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Sighet.md|Sighet]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Sighet.internal.md|Sighet.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Sighet.protect.md|Sighet.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Sighet.private.md|Sighet.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Sighet.personal.md|Sighet.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Sighet.secret.md|Sighet.secret]] 

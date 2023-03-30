@@ -29,3 +29,12 @@ markerFile: [[Buchbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Buchbach.md|Buchbach]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Buchbach.internal.md|Buchbach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Buchbach.protect.md|Buchbach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Buchbach.private.md|Buchbach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Buchbach.personal.md|Buchbach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Buchbach.secret.md|Buchbach.secret]] 

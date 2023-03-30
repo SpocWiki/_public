@@ -29,3 +29,12 @@ markerFile: [[Hilversum]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hilversum.md|Hilversum]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hilversum.internal.md|Hilversum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hilversum.protect.md|Hilversum.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hilversum.private.md|Hilversum.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hilversum.personal.md|Hilversum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hilversum.secret.md|Hilversum.secret]] 

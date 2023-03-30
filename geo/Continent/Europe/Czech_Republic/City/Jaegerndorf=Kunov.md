@@ -29,3 +29,12 @@ markerFile: [[Jaegerndorf=Kunov]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.md|Jaegerndorf=Kunov]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.internal.md|Jaegerndorf=Kunov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.protect.md|Jaegerndorf=Kunov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.private.md|Jaegerndorf=Kunov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.personal.md|Jaegerndorf=Kunov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.secret.md|Jaegerndorf=Kunov.secret]] 

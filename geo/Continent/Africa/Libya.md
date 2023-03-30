@@ -131,3 +131,12 @@ markerFolder: ./Libya/City
 [geo-lon::13.19]
 [geo-lat::32.89]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Libya.md|Libya]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya.internal.md|Libya.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya.protect.md|Libya.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya.private.md|Libya.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya.personal.md|Libya.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya.secret.md|Libya.secret]] 

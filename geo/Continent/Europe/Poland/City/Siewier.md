@@ -29,3 +29,12 @@ markerFile: [[Siewier]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Siewier.md|Siewier]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Siewier.internal.md|Siewier.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Siewier.protect.md|Siewier.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Siewier.private.md|Siewier.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Siewier.personal.md|Siewier.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Siewier.secret.md|Siewier.secret]] 

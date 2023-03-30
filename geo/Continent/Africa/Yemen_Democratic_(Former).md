@@ -32,3 +32,12 @@ markerFolder: ./Yemen_Democratic_(Former)/City
 [geo-lon::]
 [geo-lat::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Yemen_Democratic_(Former).md|Yemen_Democratic_(Former)]] 
+- [[../../../../_internal/geo/Continent/Africa/Yemen_Democratic_(Former).internal.md|Yemen_Democratic_(Former).internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Yemen_Democratic_(Former).protect.md|Yemen_Democratic_(Former).protect]] 
+- [[../../../../_private/geo/Continent/Africa/Yemen_Democratic_(Former).private.md|Yemen_Democratic_(Former).private]] 
+- [[../../../../_personal/geo/Continent/Africa/Yemen_Democratic_(Former).personal.md|Yemen_Democratic_(Former).personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Yemen_Democratic_(Former).secret.md|Yemen_Democratic_(Former).secret]] 

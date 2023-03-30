@@ -29,3 +29,12 @@ markerFile: [[St.Valery-en-Caux]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Valery-en-Caux.md|St.Valery-en-Caux]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Valery-en-Caux.internal.md|St.Valery-en-Caux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Valery-en-Caux.protect.md|St.Valery-en-Caux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Valery-en-Caux.private.md|St.Valery-en-Caux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Valery-en-Caux.personal.md|St.Valery-en-Caux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Valery-en-Caux.secret.md|St.Valery-en-Caux.secret]] 

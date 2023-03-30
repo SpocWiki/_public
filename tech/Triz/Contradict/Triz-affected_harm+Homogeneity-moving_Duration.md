@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Homogeneity]]]
 - [con::[[Triz-moving_Duration]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-moving_Duration.md|Triz-affected_harm+Homogeneity-moving_Duration]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-moving_Duration.internal.md|Triz-affected_harm+Homogeneity-moving_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-moving_Duration.protect.md|Triz-affected_harm+Homogeneity-moving_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-moving_Duration.private.md|Triz-affected_harm+Homogeneity-moving_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-moving_Duration.personal.md|Triz-affected_harm+Homogeneity-moving_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-moving_Duration.secret.md|Triz-affected_harm+Homogeneity-moving_Duration.secret]] 

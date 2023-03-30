@@ -32,3 +32,12 @@ markerFolder: ./Tanganyika/City
 [geo-lon::34.854]
 [geo-lat::-6.307]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Tanganyika.md|Tanganyika]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanganyika.internal.md|Tanganyika.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanganyika.protect.md|Tanganyika.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanganyika.private.md|Tanganyika.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanganyika.personal.md|Tanganyika.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanganyika.secret.md|Tanganyika.secret]] 

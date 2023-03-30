@@ -45,3 +45,12 @@ Nonprofit501d: Non-profit type referring to Religious and Apostolic Associations
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.md|nonprofit501d]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.internal.md|nonprofit501d.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.protect.md|nonprofit501d.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.private.md|nonprofit501d.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.personal.md|nonprofit501d.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.secret.md|nonprofit501d.secret]] 

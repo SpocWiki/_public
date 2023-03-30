@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28110]
 [NextStarId::27331]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Algorab.md|Algorab]] 
+- [[../../../_internal/astro/Star/Algorab.internal.md|Algorab.internal]] 
+- [[../../../_protect/astro/Star/Algorab.protect.md|Algorab.protect]] 
+- [[../../../_private/astro/Star/Algorab.private.md|Algorab.private]] 
+- [[../../../_personal/astro/Star/Algorab.personal.md|Algorab.personal]] 
+- [[../../../_secret/astro/Star/Algorab.secret.md|Algorab.secret]]
+

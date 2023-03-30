@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_discount_currency )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_discount_currency.md|has_discount_currency]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_discount_currency.internal.md|has_discount_currency.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_discount_currency.protect.md|has_discount_currency.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_discount_currency.private.md|has_discount_currency.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_discount_currency.personal.md|has_discount_currency.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_discount_currency.secret.md|has_discount_currency.secret]] 

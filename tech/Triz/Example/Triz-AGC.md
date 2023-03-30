@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-feedback]]]
 
 Automatic Volume Control in Audio Circuits
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-AGC.md|Triz-AGC]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-AGC.internal.md|Triz-AGC.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-AGC.protect.md|Triz-AGC.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-AGC.private.md|Triz-AGC.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-AGC.personal.md|Triz-AGC.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-AGC.secret.md|Triz-AGC.secret]] 

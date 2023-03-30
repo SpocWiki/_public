@@ -29,3 +29,12 @@ markerFile: [[Granada]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Granada.md|Granada]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Granada.internal.md|Granada.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Granada.protect.md|Granada.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Granada.private.md|Granada.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Granada.personal.md|Granada.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Granada.secret.md|Granada.secret]] 

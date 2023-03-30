@@ -48,3 +48,12 @@ markerFolder: ./Station/
 24) [[Station/Sub-Lambeth_North]] 
 25) [[Station/Sub-Elephant_&_Castle]] 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Bakerloo.md|Line~Bakerloo]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Bakerloo.internal.md|Line~Bakerloo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Bakerloo.protect.md|Line~Bakerloo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Bakerloo.private.md|Line~Bakerloo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Bakerloo.personal.md|Line~Bakerloo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Bakerloo.secret.md|Line~Bakerloo.secret]] 

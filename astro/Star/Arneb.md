@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28130]
 [NextStarId::27359]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Arneb.md|Arneb]] 
+- [[../../../_internal/astro/Star/Arneb.internal.md|Arneb.internal]] 
+- [[../../../_protect/astro/Star/Arneb.protect.md|Arneb.protect]] 
+- [[../../../_private/astro/Star/Arneb.private.md|Arneb.private]] 
+- [[../../../_personal/astro/Star/Arneb.personal.md|Arneb.personal]] 
+- [[../../../_secret/astro/Star/Arneb.secret.md|Arneb.secret]]
+

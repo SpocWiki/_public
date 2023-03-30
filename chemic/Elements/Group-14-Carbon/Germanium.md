@@ -33,3 +33,11 @@ SpocWebEntityId: 21930
 > Elemental germanium is used as a semiconductor in transistors and various other electronic devices. Historically, the first decade of semiconductor electronics was based entirely on germanium. Presently, the major end uses are fibre-optic systems, infrared optics, solar cell applications, and light-emitting diodes (LEDs). Germanium compounds are also used for polymerization catalysts and have most recently found use in the production of nanowires. This element forms a large number of organogermanium compounds, such as tetraethylgermanium, useful in organometallic chemistry. Germanium is considered a technology-critical element.Germanium is not thought to be an essential element for any living organism. Similar to silicon and aluminium, naturally-occurring germanium compounds tend to be insoluble in water and thus have little oral toxicity. However, synthetic soluble germanium salts are nephrotoxic, and synthetic chemically reactive germanium compounds with halogens and hydrogen are irritants and toxins.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Germanium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-14-Carbon/Germanium.md|Germanium]] 
+- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Germanium.internal.md|Germanium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Germanium.protect.md|Germanium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-14-Carbon/Germanium.private.md|Germanium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Germanium.personal.md|Germanium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Germanium.secret.md|Germanium.secret]] 

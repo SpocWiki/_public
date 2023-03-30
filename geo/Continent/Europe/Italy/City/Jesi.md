@@ -29,3 +29,12 @@ markerFile: [[Jesi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Jesi.md|Jesi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Jesi.internal.md|Jesi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Jesi.protect.md|Jesi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Jesi.private.md|Jesi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Jesi.personal.md|Jesi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Jesi.secret.md|Jesi.secret]] 

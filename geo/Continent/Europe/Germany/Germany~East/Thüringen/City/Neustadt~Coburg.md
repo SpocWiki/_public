@@ -28,3 +28,12 @@ markerFile: [[Neustadt~Coburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.md|Neustadt~Coburg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.internal.md|Neustadt~Coburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.protect.md|Neustadt~Coburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.private.md|Neustadt~Coburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.personal.md|Neustadt~Coburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.secret.md|Neustadt~Coburg.secret]] 

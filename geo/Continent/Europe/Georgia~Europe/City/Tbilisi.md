@@ -29,3 +29,12 @@ markerFile: [[Tbilisi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.md|Tbilisi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.internal.md|Tbilisi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.protect.md|Tbilisi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.private.md|Tbilisi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.personal.md|Tbilisi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.secret.md|Tbilisi.secret]] 

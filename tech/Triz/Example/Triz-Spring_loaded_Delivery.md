@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-limit-changes]]]
 
 Spring loaded Parts Delivery System in a Factory
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Spring_loaded_Delivery.md|Triz-Spring_loaded_Delivery]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Spring_loaded_Delivery.internal.md|Triz-Spring_loaded_Delivery.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Spring_loaded_Delivery.protect.md|Triz-Spring_loaded_Delivery.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Spring_loaded_Delivery.private.md|Triz-Spring_loaded_Delivery.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Spring_loaded_Delivery.personal.md|Triz-Spring_loaded_Delivery.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Spring_loaded_Delivery.secret.md|Triz-Spring_loaded_Delivery.secret]] 

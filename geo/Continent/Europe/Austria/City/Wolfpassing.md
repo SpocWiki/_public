@@ -29,3 +29,12 @@ markerFile: [[Wolfpassing]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wolfpassing.md|Wolfpassing]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wolfpassing.internal.md|Wolfpassing.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wolfpassing.protect.md|Wolfpassing.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wolfpassing.private.md|Wolfpassing.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wolfpassing.personal.md|Wolfpassing.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wolfpassing.secret.md|Wolfpassing.secret]] 

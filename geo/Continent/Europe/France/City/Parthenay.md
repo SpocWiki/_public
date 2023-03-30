@@ -29,3 +29,12 @@ markerFile: [[Parthenay]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Parthenay.md|Parthenay]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Parthenay.internal.md|Parthenay.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Parthenay.protect.md|Parthenay.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Parthenay.private.md|Parthenay.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Parthenay.personal.md|Parthenay.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Parthenay.secret.md|Parthenay.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Loudon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Loudon.md|Loudon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Loudon.internal.md|Loudon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Loudon.protect.md|Loudon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Loudon.private.md|Loudon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Loudon.personal.md|Loudon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Loudon.secret.md|Loudon.secret]] 

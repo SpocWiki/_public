@@ -29,3 +29,12 @@ markerFile: [[N'Djamena]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Chad/City/N'Djamena.md|N'Djamena]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Chad/City/N'Djamena.internal.md|N'Djamena.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Chad/City/N'Djamena.protect.md|N'Djamena.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Chad/City/N'Djamena.private.md|N'Djamena.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Chad/City/N'Djamena.personal.md|N'Djamena.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Chad/City/N'Djamena.secret.md|N'Djamena.secret]] 

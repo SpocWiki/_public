@@ -29,3 +29,12 @@ markerFile: [[Kotzenreuschel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kotzenreuschel.md|Kotzenreuschel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kotzenreuschel.internal.md|Kotzenreuschel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kotzenreuschel.protect.md|Kotzenreuschel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kotzenreuschel.private.md|Kotzenreuschel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kotzenreuschel.personal.md|Kotzenreuschel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kotzenreuschel.secret.md|Kotzenreuschel.secret]] 

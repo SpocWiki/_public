@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_aggregate_rating )
 ( #has_/range :: AggregateRating )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_aggregate_rating.md|has_aggregate_rating]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_aggregate_rating.internal.md|has_aggregate_rating.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_aggregate_rating.protect.md|has_aggregate_rating.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_aggregate_rating.private.md|has_aggregate_rating.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_aggregate_rating.personal.md|has_aggregate_rating.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_aggregate_rating.secret.md|has_aggregate_rating.secret]] 

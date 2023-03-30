@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_documentation )
 ( #has_/range :: CreativeWork, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_documentation.md|has_documentation]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_documentation.internal.md|has_documentation.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_documentation.protect.md|has_documentation.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_documentation.private.md|has_documentation.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_documentation.personal.md|has_documentation.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_documentation.secret.md|has_documentation.secret]] 

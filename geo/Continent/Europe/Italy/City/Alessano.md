@@ -29,3 +29,12 @@ markerFile: [[Alessano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Alessano.md|Alessano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Alessano.internal.md|Alessano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Alessano.protect.md|Alessano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Alessano.private.md|Alessano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Alessano.personal.md|Alessano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Alessano.secret.md|Alessano.secret]] 

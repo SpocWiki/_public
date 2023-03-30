@@ -29,3 +29,12 @@ markerFile: [[Lancaster]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lancaster.md|Lancaster]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lancaster.internal.md|Lancaster.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lancaster.protect.md|Lancaster.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lancaster.private.md|Lancaster.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lancaster.personal.md|Lancaster.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lancaster.secret.md|Lancaster.secret]] 

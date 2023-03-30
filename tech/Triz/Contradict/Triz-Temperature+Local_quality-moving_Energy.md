@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Local_quality]]]
 - [con::[[Triz-moving_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Local_quality-moving_Energy.md|Triz-Temperature+Local_quality-moving_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Local_quality-moving_Energy.internal.md|Triz-Temperature+Local_quality-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Local_quality-moving_Energy.protect.md|Triz-Temperature+Local_quality-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Local_quality-moving_Energy.private.md|Triz-Temperature+Local_quality-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Local_quality-moving_Energy.personal.md|Triz-Temperature+Local_quality-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Local_quality-moving_Energy.secret.md|Triz-Temperature+Local_quality-moving_Energy.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Motherwell]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Motherwell.md|Motherwell]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Motherwell.internal.md|Motherwell.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Motherwell.protect.md|Motherwell.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Motherwell.private.md|Motherwell.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Motherwell.personal.md|Motherwell.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Motherwell.secret.md|Motherwell.secret]] 

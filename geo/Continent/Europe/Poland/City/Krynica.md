@@ -29,3 +29,12 @@ markerFile: [[Krynica]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Krynica.md|Krynica]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Krynica.internal.md|Krynica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Krynica.protect.md|Krynica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Krynica.private.md|Krynica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Krynica.personal.md|Krynica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Krynica.secret.md|Krynica.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Liderec=Reichenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.md|Liderec=Reichenberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.internal.md|Liderec=Reichenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.protect.md|Liderec=Reichenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.private.md|Liderec=Reichenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.personal.md|Liderec=Reichenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.secret.md|Liderec=Reichenberg.secret]] 

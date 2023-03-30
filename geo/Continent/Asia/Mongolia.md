@@ -126,3 +126,12 @@ markerFolder: ./Mongolia/City
 [geo-lon::106.883]
 [geo-lat::47.9167]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Mongolia.md|Mongolia]] 
+- [[../../../../_internal/geo/Continent/Asia/Mongolia.internal.md|Mongolia.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Mongolia.protect.md|Mongolia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Mongolia.private.md|Mongolia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Mongolia.personal.md|Mongolia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Mongolia.secret.md|Mongolia.secret]] 

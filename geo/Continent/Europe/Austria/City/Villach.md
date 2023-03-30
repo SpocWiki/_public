@@ -29,3 +29,12 @@ markerFile: [[Villach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Villach.md|Villach]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Villach.internal.md|Villach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Villach.protect.md|Villach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Villach.private.md|Villach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Villach.personal.md|Villach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Villach.secret.md|Villach.secret]] 

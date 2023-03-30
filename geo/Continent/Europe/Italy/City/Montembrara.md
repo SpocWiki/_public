@@ -29,3 +29,12 @@ markerFile: [[Montembrara]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Montembrara.md|Montembrara]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montembrara.internal.md|Montembrara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montembrara.protect.md|Montembrara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montembrara.private.md|Montembrara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montembrara.personal.md|Montembrara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montembrara.secret.md|Montembrara.secret]] 

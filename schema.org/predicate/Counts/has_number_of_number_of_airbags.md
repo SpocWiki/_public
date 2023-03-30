@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_airbags )
 ( #has_/range :: Number, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_airbags.md|has_number_of_number_of_airbags]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_airbags.internal.md|has_number_of_number_of_airbags.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_airbags.protect.md|has_number_of_number_of_airbags.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_airbags.private.md|has_number_of_number_of_airbags.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_airbags.personal.md|has_number_of_number_of_airbags.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_airbags.secret.md|has_number_of_number_of_airbags.secret]] 

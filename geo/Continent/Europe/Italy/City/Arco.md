@@ -29,3 +29,12 @@ markerFile: [[Arco]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Arco.md|Arco]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Arco.internal.md|Arco.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Arco.protect.md|Arco.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Arco.private.md|Arco.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Arco.personal.md|Arco.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Arco.secret.md|Arco.secret]] 

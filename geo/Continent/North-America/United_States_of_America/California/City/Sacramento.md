@@ -28,3 +28,12 @@ markerFile: [[Sacramento]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.md|Sacramento]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.internal.md|Sacramento.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.protect.md|Sacramento.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.private.md|Sacramento.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.personal.md|Sacramento.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.secret.md|Sacramento.secret]] 

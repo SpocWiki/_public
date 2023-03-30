@@ -15,3 +15,11 @@ tags:
 [TrizParameterId::39]
 
 Productivity
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Productivity.md|Triz-Productivity]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Productivity.internal.md|Triz-Productivity.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Productivity.protect.md|Triz-Productivity.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Productivity.private.md|Triz-Productivity.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Productivity.personal.md|Triz-Productivity.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Productivity.secret.md|Triz-Productivity.secret]] 

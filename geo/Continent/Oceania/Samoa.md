@@ -128,3 +128,12 @@ markerFolder: ./Samoa/City
 [geo-lon::-171.75]
 [geo-lat::-13.8333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Samoa.md|Samoa]] 
+- [[../../../../_internal/geo/Continent/Oceania/Samoa.internal.md|Samoa.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Samoa.protect.md|Samoa.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Samoa.private.md|Samoa.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Samoa.personal.md|Samoa.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Samoa.secret.md|Samoa.secret]] 

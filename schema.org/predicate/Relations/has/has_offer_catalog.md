@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_offer_catalog )
 ( #has_/range :: OfferCatalog )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_offer_catalog.md|has_offer_catalog]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_offer_catalog.internal.md|has_offer_catalog.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_offer_catalog.protect.md|has_offer_catalog.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_offer_catalog.private.md|has_offer_catalog.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_offer_catalog.personal.md|has_offer_catalog.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_offer_catalog.secret.md|has_offer_catalog.secret]] 

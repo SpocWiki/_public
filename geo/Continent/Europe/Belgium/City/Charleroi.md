@@ -29,3 +29,12 @@ markerFile: [[Charleroi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Charleroi.md|Charleroi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Charleroi.internal.md|Charleroi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Charleroi.protect.md|Charleroi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Charleroi.private.md|Charleroi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Charleroi.personal.md|Charleroi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Charleroi.secret.md|Charleroi.secret]] 

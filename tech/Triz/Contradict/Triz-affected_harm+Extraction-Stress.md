@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.md|Triz-affected_harm+Extraction-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.internal.md|Triz-affected_harm+Extraction-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.protect.md|Triz-affected_harm+Extraction-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.private.md|Triz-affected_harm+Extraction-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.personal.md|Triz-affected_harm+Extraction-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.secret.md|Triz-affected_harm+Extraction-Stress.secret]] 

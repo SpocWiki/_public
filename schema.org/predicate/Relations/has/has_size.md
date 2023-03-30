@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_size )
 ( #has_/range :: DefinedTerm, QuantitativeValue, SizeSpecification, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_size.md|has_size]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_size.internal.md|has_size.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_size.protect.md|has_size.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_size.private.md|has_size.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_size.personal.md|has_size.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_size.secret.md|has_size.secret]] 

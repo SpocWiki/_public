@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_shipping_settings_link )
 ( #has_/range :: URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_shipping_settings_link.md|has_url_for_shipping_settings_link]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_shipping_settings_link.internal.md|has_url_for_shipping_settings_link.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_shipping_settings_link.protect.md|has_url_for_shipping_settings_link.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_shipping_settings_link.private.md|has_url_for_shipping_settings_link.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_shipping_settings_link.personal.md|has_url_for_shipping_settings_link.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_shipping_settings_link.secret.md|has_url_for_shipping_settings_link.secret]] 

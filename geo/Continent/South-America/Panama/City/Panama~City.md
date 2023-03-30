@@ -29,3 +29,12 @@ markerFile: [[Panama~City]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Panama/City/Panama~City.md|Panama~City]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Panama/City/Panama~City.internal.md|Panama~City.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Panama/City/Panama~City.protect.md|Panama~City.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Panama/City/Panama~City.private.md|Panama~City.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Panama/City/Panama~City.personal.md|Panama~City.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Panama/City/Panama~City.secret.md|Panama~City.secret]] 

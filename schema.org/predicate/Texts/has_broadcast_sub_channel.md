@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_broadcast_sub_channel )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_broadcast_sub_channel.md|has_broadcast_sub_channel]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_broadcast_sub_channel.internal.md|has_broadcast_sub_channel.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_broadcast_sub_channel.protect.md|has_broadcast_sub_channel.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_broadcast_sub_channel.private.md|has_broadcast_sub_channel.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_broadcast_sub_channel.personal.md|has_broadcast_sub_channel.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_broadcast_sub_channel.secret.md|has_broadcast_sub_channel.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Viareggio]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Viareggio.md|Viareggio]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Viareggio.internal.md|Viareggio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Viareggio.protect.md|Viareggio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Viareggio.private.md|Viareggio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Viareggio.personal.md|Viareggio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Viareggio.secret.md|Viareggio.secret]] 

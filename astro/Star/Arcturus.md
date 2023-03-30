@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28091]
 [NextStarId::27314]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Arcturus.md|Arcturus]] 
+- [[../../../_internal/astro/Star/Arcturus.internal.md|Arcturus.internal]] 
+- [[../../../_protect/astro/Star/Arcturus.protect.md|Arcturus.protect]] 
+- [[../../../_private/astro/Star/Arcturus.private.md|Arcturus.private]] 
+- [[../../../_personal/astro/Star/Arcturus.personal.md|Arcturus.personal]] 
+- [[../../../_secret/astro/Star/Arcturus.secret.md|Arcturus.secret]]
+

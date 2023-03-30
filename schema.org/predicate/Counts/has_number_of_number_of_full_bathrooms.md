@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_full_bathrooms )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.md|has_number_of_number_of_full_bathrooms]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.internal.md|has_number_of_number_of_full_bathrooms.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.protect.md|has_number_of_number_of_full_bathrooms.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.private.md|has_number_of_number_of_full_bathrooms.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.personal.md|has_number_of_number_of_full_bathrooms.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.secret.md|has_number_of_number_of_full_bathrooms.secret]] 

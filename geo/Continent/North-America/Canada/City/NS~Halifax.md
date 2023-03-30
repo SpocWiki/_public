@@ -29,3 +29,12 @@ markerFile: [[NS~Halifax]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/NS~Halifax.md|NS~Halifax]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/NS~Halifax.internal.md|NS~Halifax.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/NS~Halifax.protect.md|NS~Halifax.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/NS~Halifax.private.md|NS~Halifax.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/NS~Halifax.personal.md|NS~Halifax.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/NS~Halifax.secret.md|NS~Halifax.secret]] 

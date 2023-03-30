@@ -31,3 +31,11 @@ SpocWebEntityId: 21958
 > The main commercial use of samarium is in samarium–cobalt magnets, which have permanent magnetization second only to neodymium magnets; however, samarium compounds can withstand significantly higher temperatures, above 700 °C (1,292 °F), without losing their magnetic properties, due to the alloy's higher Curie point. The radioisotope samarium-153 is the active component of the drug samarium (153Sm) lexidronam (Quadramet), which kills cancer cells in lung cancer, prostate cancer, breast cancer and osteosarcoma. Another isotope, samarium-149, is a strong neutron absorber and so is added to control rods of nuclear reactors. It also forms as a decay product during the reactor operation and is one of the important factors considered in the reactor design and operation. Other uses of samarium include catalysis of chemical reactions, radioactive dating and X-ray lasers.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samarium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Lanthanide-Group/Samarium.md|Samarium]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Samarium.internal.md|Samarium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Samarium.protect.md|Samarium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Samarium.private.md|Samarium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Samarium.personal.md|Samarium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Samarium.secret.md|Samarium.secret]] 

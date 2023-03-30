@@ -46,3 +46,12 @@ Predicate describes that:
 ( #has_/name :: is_mortgage_domiciled )
 ( #has_/range :: Boolean )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Flags/is_mortgage_domiciled.md|is_mortgage_domiciled]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_mortgage_domiciled.internal.md|is_mortgage_domiciled.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_mortgage_domiciled.protect.md|is_mortgage_domiciled.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_mortgage_domiciled.private.md|is_mortgage_domiciled.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_mortgage_domiciled.personal.md|is_mortgage_domiciled.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_mortgage_domiciled.secret.md|is_mortgage_domiciled.secret]] 

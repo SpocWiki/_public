@@ -29,3 +29,12 @@ markerFile: [[Kordeshagen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kordeshagen.md|Kordeshagen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kordeshagen.internal.md|Kordeshagen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kordeshagen.protect.md|Kordeshagen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kordeshagen.private.md|Kordeshagen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kordeshagen.personal.md|Kordeshagen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kordeshagen.secret.md|Kordeshagen.secret]] 

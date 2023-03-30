@@ -28,3 +28,12 @@ markerFile: [[Baton_Rouge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Louisiana/City/Baton_Rouge.md|Baton_Rouge]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Louisiana/City/Baton_Rouge.internal.md|Baton_Rouge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Louisiana/City/Baton_Rouge.protect.md|Baton_Rouge.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Louisiana/City/Baton_Rouge.private.md|Baton_Rouge.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Louisiana/City/Baton_Rouge.personal.md|Baton_Rouge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Louisiana/City/Baton_Rouge.secret.md|Baton_Rouge.secret]] 

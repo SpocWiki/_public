@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_comment_text )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_comment_text.md|has_comment_text]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_comment_text.internal.md|has_comment_text.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_comment_text.protect.md|has_comment_text.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_comment_text.private.md|has_comment_text.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_comment_text.personal.md|has_comment_text.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_comment_text.secret.md|has_comment_text.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Keltsch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Keltsch.md|Keltsch]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Keltsch.internal.md|Keltsch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Keltsch.protect.md|Keltsch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Keltsch.private.md|Keltsch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Keltsch.personal.md|Keltsch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Keltsch.secret.md|Keltsch.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Orford]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Orford.md|Orford]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Orford.internal.md|Orford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Orford.protect.md|Orford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Orford.private.md|Orford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Orford.personal.md|Orford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Orford.secret.md|Orford.secret]] 

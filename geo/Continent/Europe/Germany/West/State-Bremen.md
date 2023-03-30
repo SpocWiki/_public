@@ -30,3 +30,12 @@ markerFolder: ./State-Bremen/City
 [geo-lat::53.222]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/West/State-Bremen.md|State-Bremen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen.internal.md|State-Bremen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen.protect.md|State-Bremen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen.private.md|State-Bremen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen.personal.md|State-Bremen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen.secret.md|State-Bremen.secret]] 

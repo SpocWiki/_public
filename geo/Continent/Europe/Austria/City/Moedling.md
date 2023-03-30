@@ -29,3 +29,12 @@ markerFile: [[Moedling]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Moedling.md|Moedling]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Moedling.internal.md|Moedling.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Moedling.protect.md|Moedling.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Moedling.private.md|Moedling.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Moedling.personal.md|Moedling.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Moedling.secret.md|Moedling.secret]] 

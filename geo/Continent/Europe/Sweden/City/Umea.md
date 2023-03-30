@@ -29,3 +29,12 @@ markerFile: [[Umea]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Umea.md|Umea]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Umea.internal.md|Umea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Umea.protect.md|Umea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Umea.private.md|Umea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Umea.personal.md|Umea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Umea.secret.md|Umea.secret]] 

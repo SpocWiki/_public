@@ -29,3 +29,12 @@ markerFile: [[Paldiski]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Paldiski.md|Paldiski]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Paldiski.internal.md|Paldiski.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Paldiski.protect.md|Paldiski.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Paldiski.private.md|Paldiski.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Paldiski.personal.md|Paldiski.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Paldiski.secret.md|Paldiski.secret]] 

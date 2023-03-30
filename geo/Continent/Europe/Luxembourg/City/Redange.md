@@ -29,3 +29,12 @@ markerFile: [[Redange]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Redange.md|Redange]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Redange.internal.md|Redange.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Redange.protect.md|Redange.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Redange.private.md|Redange.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Redange.personal.md|Redange.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Redange.secret.md|Redange.secret]] 

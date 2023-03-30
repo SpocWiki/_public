@@ -29,3 +29,12 @@ markerFile: [[Grodno]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Grodno.md|Grodno]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grodno.internal.md|Grodno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grodno.protect.md|Grodno.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grodno.private.md|Grodno.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grodno.personal.md|Grodno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grodno.secret.md|Grodno.secret]] 

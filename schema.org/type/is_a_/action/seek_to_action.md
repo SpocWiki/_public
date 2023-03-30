@@ -43,3 +43,12 @@ This is the <a class="localLink" href="/Action">Action</a> of navigating to a sp
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startOffset, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/action/seek_to_action.md|seek_to_action]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/action/seek_to_action.internal.md|seek_to_action.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/action/seek_to_action.protect.md|seek_to_action.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/action/seek_to_action.private.md|seek_to_action.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/action/seek_to_action.personal.md|seek_to_action.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/action/seek_to_action.secret.md|seek_to_action.secret]] 

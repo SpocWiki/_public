@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
 - [con::[[Triz-moving_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.internal.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.protect.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.private.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.personal.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.secret.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.secret]] 

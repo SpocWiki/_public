@@ -129,3 +129,12 @@ markerFolder: ./Benin/City
 [geo-lon::2.6]
 [geo-lat::6.46667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Benin.md|Benin]] 
+- [[../../../../_internal/geo/Continent/Africa/Benin.internal.md|Benin.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Benin.protect.md|Benin.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Benin.private.md|Benin.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Benin.personal.md|Benin.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Benin.secret.md|Benin.secret]] 

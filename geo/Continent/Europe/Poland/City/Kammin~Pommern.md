@@ -29,3 +29,12 @@ markerFile: [[Kammin~Pommern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kammin~Pommern.md|Kammin~Pommern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kammin~Pommern.internal.md|Kammin~Pommern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kammin~Pommern.protect.md|Kammin~Pommern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kammin~Pommern.private.md|Kammin~Pommern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kammin~Pommern.personal.md|Kammin~Pommern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kammin~Pommern.secret.md|Kammin~Pommern.secret]] 

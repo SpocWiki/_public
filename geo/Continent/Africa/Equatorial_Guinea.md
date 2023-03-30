@@ -131,3 +131,12 @@ markerFolder: ./Equatorial_Guinea/City
 [geo-lon::8.78333]
 [geo-lat::3.75]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Equatorial_Guinea.md|Equatorial_Guinea]] 
+- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea.internal.md|Equatorial_Guinea.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea.protect.md|Equatorial_Guinea.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea.private.md|Equatorial_Guinea.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea.personal.md|Equatorial_Guinea.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea.secret.md|Equatorial_Guinea.secret]] 

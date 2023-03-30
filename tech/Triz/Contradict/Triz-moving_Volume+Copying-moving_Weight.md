@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Copying]]]
 - [con::[[Triz-moving_Weight]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Copying-moving_Weight.md|Triz-moving_Volume+Copying-moving_Weight]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Copying-moving_Weight.internal.md|Triz-moving_Volume+Copying-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Copying-moving_Weight.protect.md|Triz-moving_Volume+Copying-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Copying-moving_Weight.private.md|Triz-moving_Volume+Copying-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Copying-moving_Weight.personal.md|Triz-moving_Volume+Copying-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Copying-moving_Weight.secret.md|Triz-moving_Volume+Copying-moving_Weight.secret]] 

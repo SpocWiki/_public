@@ -34,3 +34,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Oklahoma.md|Oklahoma]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oklahoma.internal.md|Oklahoma.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oklahoma.protect.md|Oklahoma.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Oklahoma.private.md|Oklahoma.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oklahoma.personal.md|Oklahoma.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oklahoma.secret.md|Oklahoma.secret]] 

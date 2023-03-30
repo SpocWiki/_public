@@ -29,3 +29,12 @@ markerFile: [[Hudiksvall]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Hudiksvall.md|Hudiksvall]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hudiksvall.internal.md|Hudiksvall.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hudiksvall.protect.md|Hudiksvall.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Hudiksvall.private.md|Hudiksvall.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hudiksvall.personal.md|Hudiksvall.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hudiksvall.secret.md|Hudiksvall.secret]] 

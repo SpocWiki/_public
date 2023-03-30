@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.md|Triz-Power+Convert_harm_into_benefit-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.internal.md|Triz-Power+Convert_harm_into_benefit-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.protect.md|Triz-Power+Convert_harm_into_benefit-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.private.md|Triz-Power+Convert_harm_into_benefit-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.personal.md|Triz-Power+Convert_harm_into_benefit-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Convert_harm_into_benefit-Stress.secret.md|Triz-Power+Convert_harm_into_benefit-Stress.secret]] 

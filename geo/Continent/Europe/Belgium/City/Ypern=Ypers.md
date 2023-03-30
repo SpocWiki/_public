@@ -29,3 +29,12 @@ markerFile: [[Ypern=Ypers]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Ypern=Ypers.md|Ypern=Ypers]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Ypern=Ypers.internal.md|Ypern=Ypers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Ypern=Ypers.protect.md|Ypern=Ypers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Ypern=Ypers.private.md|Ypern=Ypers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Ypern=Ypers.personal.md|Ypern=Ypers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Ypern=Ypers.secret.md|Ypern=Ypers.secret]] 

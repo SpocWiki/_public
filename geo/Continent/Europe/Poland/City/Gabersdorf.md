@@ -29,3 +29,12 @@ markerFile: [[Gabersdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gabersdorf.md|Gabersdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gabersdorf.internal.md|Gabersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gabersdorf.protect.md|Gabersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gabersdorf.private.md|Gabersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gabersdorf.personal.md|Gabersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gabersdorf.secret.md|Gabersdorf.secret]] 

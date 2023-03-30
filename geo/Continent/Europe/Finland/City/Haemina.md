@@ -29,3 +29,12 @@ markerFile: [[Haemina]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Haemina.md|Haemina]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Haemina.internal.md|Haemina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Haemina.protect.md|Haemina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Haemina.private.md|Haemina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Haemina.personal.md|Haemina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Haemina.secret.md|Haemina.secret]] 

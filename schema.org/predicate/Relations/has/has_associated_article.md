@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_associated_article )
 ( #has_/range :: NewsArticle )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_associated_article.md|has_associated_article]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_article.internal.md|has_associated_article.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_article.protect.md|has_associated_article.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_article.private.md|has_associated_article.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_associated_article.personal.md|has_associated_article.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_associated_article.secret.md|has_associated_article.secret]] 

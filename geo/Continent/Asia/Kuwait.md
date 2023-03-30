@@ -131,3 +131,12 @@ markerFolder: ./Kuwait/City
 [geo-lon::48]
 [geo-lat::29.33]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Kuwait.md|Kuwait]] 
+- [[../../../../_internal/geo/Continent/Asia/Kuwait.internal.md|Kuwait.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Kuwait.protect.md|Kuwait.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Kuwait.private.md|Kuwait.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Kuwait.personal.md|Kuwait.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Kuwait.secret.md|Kuwait.secret]] 

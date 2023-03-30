@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28087]
 [NextStarId::27241]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Tarazed.md|Tarazed]] 
+- [[../../../_internal/astro/Star/Tarazed.internal.md|Tarazed.internal]] 
+- [[../../../_protect/astro/Star/Tarazed.protect.md|Tarazed.protect]] 
+- [[../../../_private/astro/Star/Tarazed.private.md|Tarazed.private]] 
+- [[../../../_personal/astro/Star/Tarazed.personal.md|Tarazed.personal]] 
+- [[../../../_secret/astro/Star/Tarazed.secret.md|Tarazed.secret]] 

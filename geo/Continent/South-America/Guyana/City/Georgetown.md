@@ -29,3 +29,12 @@ markerFile: [[Georgetown]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Guyana/City/Georgetown.md|Georgetown]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Guyana/City/Georgetown.internal.md|Georgetown.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Guyana/City/Georgetown.protect.md|Georgetown.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Guyana/City/Georgetown.private.md|Georgetown.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Guyana/City/Georgetown.personal.md|Georgetown.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Guyana/City/Georgetown.secret.md|Georgetown.secret]] 

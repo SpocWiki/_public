@@ -29,3 +29,12 @@ markerFile: [[Silberberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Silberberg.md|Silberberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Silberberg.internal.md|Silberberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Silberberg.protect.md|Silberberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Silberberg.private.md|Silberberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Silberberg.personal.md|Silberberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Silberberg.secret.md|Silberberg.secret]] 

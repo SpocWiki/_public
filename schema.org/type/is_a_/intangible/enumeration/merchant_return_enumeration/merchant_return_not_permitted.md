@@ -47,3 +47,12 @@ Specifies that product returns are not permitted.
 
 [ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.md|merchant_return_not_permitted]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.internal.md|merchant_return_not_permitted.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.protect.md|merchant_return_not_permitted.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.private.md|merchant_return_not_permitted.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.personal.md|merchant_return_not_permitted.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.secret.md|merchant_return_not_permitted.secret]] 

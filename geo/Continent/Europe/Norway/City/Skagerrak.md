@@ -29,3 +29,12 @@ markerFile: [[Skagerrak]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Skagerrak.md|Skagerrak]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Skagerrak.internal.md|Skagerrak.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Skagerrak.protect.md|Skagerrak.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Skagerrak.private.md|Skagerrak.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Skagerrak.personal.md|Skagerrak.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Skagerrak.secret.md|Skagerrak.secret]] 

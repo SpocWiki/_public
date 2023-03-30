@@ -29,3 +29,12 @@ markerFile: [[Neuhoff]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neuhoff.md|Neuhoff]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neuhoff.internal.md|Neuhoff.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neuhoff.protect.md|Neuhoff.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neuhoff.private.md|Neuhoff.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neuhoff.personal.md|Neuhoff.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neuhoff.secret.md|Neuhoff.secret]] 

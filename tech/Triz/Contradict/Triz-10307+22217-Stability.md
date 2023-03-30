@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22217]]]
 - [con::[[Triz-Stability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22217-Stability.md|Triz-10307+22217-Stability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22217-Stability.internal.md|Triz-10307+22217-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22217-Stability.protect.md|Triz-10307+22217-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22217-Stability.private.md|Triz-10307+22217-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22217-Stability.personal.md|Triz-10307+22217-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22217-Stability.secret.md|Triz-10307+22217-Stability.secret]] 

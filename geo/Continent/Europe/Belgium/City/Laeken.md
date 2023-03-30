@@ -29,3 +29,12 @@ markerFile: [[Laeken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Laeken.md|Laeken]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Laeken.internal.md|Laeken.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Laeken.protect.md|Laeken.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Laeken.private.md|Laeken.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Laeken.personal.md|Laeken.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Laeken.secret.md|Laeken.secret]] 

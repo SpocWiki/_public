@@ -28,3 +28,12 @@ markerFile: [[Little_Rock]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Arkansas/City/Little_Rock.md|Little_Rock]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Arkansas/City/Little_Rock.internal.md|Little_Rock.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Arkansas/City/Little_Rock.protect.md|Little_Rock.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Arkansas/City/Little_Rock.private.md|Little_Rock.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Arkansas/City/Little_Rock.personal.md|Little_Rock.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Arkansas/City/Little_Rock.secret.md|Little_Rock.secret]] 

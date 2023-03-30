@@ -29,3 +29,12 @@ markerFile: [[Niederhermsdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Niederhermsdorf.md|Niederhermsdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Niederhermsdorf.internal.md|Niederhermsdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Niederhermsdorf.protect.md|Niederhermsdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Niederhermsdorf.private.md|Niederhermsdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Niederhermsdorf.personal.md|Niederhermsdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Niederhermsdorf.secret.md|Niederhermsdorf.secret]] 

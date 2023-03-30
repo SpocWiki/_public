@@ -29,3 +29,12 @@ markerFile: [[Khanty-Mansisyk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.md|Khanty-Mansisyk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.internal.md|Khanty-Mansisyk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.protect.md|Khanty-Mansisyk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.private.md|Khanty-Mansisyk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.personal.md|Khanty-Mansisyk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.secret.md|Khanty-Mansisyk.secret]] 

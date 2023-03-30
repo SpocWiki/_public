@@ -26,3 +26,12 @@ SpocWebEntityId: {{SpocWebEntityId}}
 [GroupNo::{{GroupNo}}]
 [Charge-e::{{Charge-e}}]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/chemic/Elements/_ElementTemplate.md|_ElementTemplate]] 
+- [[../../../_internal/chemic/Elements/_ElementTemplate.internal.md|_ElementTemplate.internal]] 
+- [[../../../_protect/chemic/Elements/_ElementTemplate.protect.md|_ElementTemplate.protect]] 
+- [[../../../_private/chemic/Elements/_ElementTemplate.private.md|_ElementTemplate.private]] 
+- [[../../../_personal/chemic/Elements/_ElementTemplate.personal.md|_ElementTemplate.personal]] 
+- [[../../../_secret/chemic/Elements/_ElementTemplate.secret.md|_ElementTemplate.secret]] 

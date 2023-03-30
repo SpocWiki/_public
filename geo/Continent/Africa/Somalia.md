@@ -133,3 +133,12 @@ markerFolder: ./Somalia/City
 [geo-lon::45.33]
 [geo-lat::2.02]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Somalia.md|Somalia]] 
+- [[../../../../_internal/geo/Continent/Africa/Somalia.internal.md|Somalia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Somalia.protect.md|Somalia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Somalia.private.md|Somalia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Somalia.personal.md|Somalia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Somalia.secret.md|Somalia.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Sestola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sestola.md|Sestola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sestola.internal.md|Sestola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sestola.protect.md|Sestola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sestola.private.md|Sestola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sestola.personal.md|Sestola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sestola.secret.md|Sestola.secret]] 

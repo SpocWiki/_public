@@ -29,3 +29,12 @@ markerFile: [[Suomussalmi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Suomussalmi.md|Suomussalmi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Suomussalmi.internal.md|Suomussalmi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Suomussalmi.protect.md|Suomussalmi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Suomussalmi.private.md|Suomussalmi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Suomussalmi.personal.md|Suomussalmi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Suomussalmi.secret.md|Suomussalmi.secret]] 

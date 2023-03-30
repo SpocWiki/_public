@@ -29,3 +29,12 @@ markerFile: [[Chambery]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Chambery.md|Chambery]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chambery.internal.md|Chambery.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chambery.protect.md|Chambery.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chambery.private.md|Chambery.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chambery.personal.md|Chambery.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chambery.secret.md|Chambery.secret]] 

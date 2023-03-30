@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28116]
 [NextStarId::27355]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Ettanin.md|Ettanin]] 
+- [[../../../_internal/astro/Star/Ettanin.internal.md|Ettanin.internal]] 
+- [[../../../_protect/astro/Star/Ettanin.protect.md|Ettanin.protect]] 
+- [[../../../_private/astro/Star/Ettanin.private.md|Ettanin.private]] 
+- [[../../../_personal/astro/Star/Ettanin.personal.md|Ettanin.personal]] 
+- [[../../../_secret/astro/Star/Ettanin.secret.md|Ettanin.secret]]
+

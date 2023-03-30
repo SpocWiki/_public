@@ -29,3 +29,12 @@ markerFile: [[Caslau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Caslau.md|Caslau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Caslau.internal.md|Caslau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Caslau.protect.md|Caslau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Caslau.private.md|Caslau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Caslau.personal.md|Caslau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Caslau.secret.md|Caslau.secret]] 

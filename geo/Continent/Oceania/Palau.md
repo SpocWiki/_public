@@ -134,3 +134,12 @@ markerFolder: ./Palau/City
 [geo-lon::134.467]
 [geo-lat::7.35]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Palau.md|Palau]] 
+- [[../../../../_internal/geo/Continent/Oceania/Palau.internal.md|Palau.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Palau.protect.md|Palau.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Palau.private.md|Palau.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Palau.personal.md|Palau.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Palau.secret.md|Palau.secret]] 

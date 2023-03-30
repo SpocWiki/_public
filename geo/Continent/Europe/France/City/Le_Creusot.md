@@ -29,3 +29,12 @@ markerFile: [[Le_Creusot]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Le_Creusot.md|Le_Creusot]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Le_Creusot.internal.md|Le_Creusot.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Le_Creusot.protect.md|Le_Creusot.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Le_Creusot.private.md|Le_Creusot.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Le_Creusot.personal.md|Le_Creusot.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Le_Creusot.secret.md|Le_Creusot.secret]] 

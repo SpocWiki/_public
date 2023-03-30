@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Dynamicity]]]
 - [con::Time-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Time-Loss.md|Triz-Substance-Loss+Dynamicity-Time-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Time-Loss.internal.md|Triz-Substance-Loss+Dynamicity-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Time-Loss.protect.md|Triz-Substance-Loss+Dynamicity-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Time-Loss.private.md|Triz-Substance-Loss+Dynamicity-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Time-Loss.personal.md|Triz-Substance-Loss+Dynamicity-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Time-Loss.secret.md|Triz-Substance-Loss+Dynamicity-Time-Loss.secret]] 

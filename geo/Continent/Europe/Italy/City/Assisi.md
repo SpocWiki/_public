@@ -29,3 +29,12 @@ markerFile: [[Assisi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Assisi.md|Assisi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Assisi.internal.md|Assisi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Assisi.protect.md|Assisi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Assisi.private.md|Assisi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Assisi.personal.md|Assisi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Assisi.secret.md|Assisi.secret]] 

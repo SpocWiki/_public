@@ -28,3 +28,12 @@ markerFile: [[Xanten=Xanthen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.md|Xanten=Xanthen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.internal.md|Xanten=Xanthen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.protect.md|Xanten=Xanthen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.private.md|Xanten=Xanthen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.personal.md|Xanten=Xanthen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.secret.md|Xanten=Xanthen.secret]] 

@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_map_type )
 ( #has_/range :: MapCategoryType )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_map_type.md|has_map_type]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_map_type.internal.md|has_map_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_map_type.protect.md|has_map_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_map_type.private.md|has_map_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_map_type.personal.md|has_map_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_map_type.secret.md|has_map_type.secret]] 

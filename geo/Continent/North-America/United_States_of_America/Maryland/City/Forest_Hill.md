@@ -28,3 +28,12 @@ markerFile: [[Forest_Hill]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Maryland/City/Forest_Hill.md|Forest_Hill]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maryland/City/Forest_Hill.internal.md|Forest_Hill.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maryland/City/Forest_Hill.protect.md|Forest_Hill.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Maryland/City/Forest_Hill.private.md|Forest_Hill.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maryland/City/Forest_Hill.personal.md|Forest_Hill.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maryland/City/Forest_Hill.secret.md|Forest_Hill.secret]] 

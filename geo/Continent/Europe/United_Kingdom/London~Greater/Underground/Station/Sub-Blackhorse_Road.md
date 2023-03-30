@@ -29,3 +29,12 @@ markerFile: [[Sub-Blackhorse_Road]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.md|Sub-Blackhorse_Road]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.internal.md|Sub-Blackhorse_Road.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.protect.md|Sub-Blackhorse_Road.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.private.md|Sub-Blackhorse_Road.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.personal.md|Sub-Blackhorse_Road.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.secret.md|Sub-Blackhorse_Road.secret]] 

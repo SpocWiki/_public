@@ -128,3 +128,12 @@ markerFolder: ./Slovenia/City
 [geo-lon::14.52]
 [geo-lat::46.05]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Slovenia.md|Slovenia]] 
+- [[../../../../_internal/geo/Continent/Europe/Slovenia.internal.md|Slovenia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Slovenia.protect.md|Slovenia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Slovenia.private.md|Slovenia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Slovenia.personal.md|Slovenia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Slovenia.secret.md|Slovenia.secret]] 

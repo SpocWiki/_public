@@ -29,3 +29,12 @@ markerFile: [[Altstaetten]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Altstaetten.md|Altstaetten]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Altstaetten.internal.md|Altstaetten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Altstaetten.protect.md|Altstaetten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Altstaetten.private.md|Altstaetten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Altstaetten.personal.md|Altstaetten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Altstaetten.secret.md|Altstaetten.secret]] 

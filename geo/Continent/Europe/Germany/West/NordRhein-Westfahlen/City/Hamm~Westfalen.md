@@ -28,3 +28,12 @@ markerFile: [[Hamm~Westfalen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.md|Hamm~Westfalen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.internal.md|Hamm~Westfalen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.protect.md|Hamm~Westfalen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.private.md|Hamm~Westfalen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.personal.md|Hamm~Westfalen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.secret.md|Hamm~Westfalen.secret]] 

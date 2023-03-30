@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Pleione.md|Pleione]] 
+- [[../../../_internal/astro/Star/Pleione.internal.md|Pleione.internal]] 
+- [[../../../_protect/astro/Star/Pleione.protect.md|Pleione.protect]] 
+- [[../../../_private/astro/Star/Pleione.private.md|Pleione.private]] 
+- [[../../../_personal/astro/Star/Pleione.personal.md|Pleione.personal]] 
+- [[../../../_secret/astro/Star/Pleione.secret.md|Pleione.secret]] 

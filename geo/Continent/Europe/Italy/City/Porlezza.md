@@ -29,3 +29,12 @@ markerFile: [[Porlezza]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Porlezza.md|Porlezza]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Porlezza.internal.md|Porlezza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Porlezza.protect.md|Porlezza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Porlezza.private.md|Porlezza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Porlezza.personal.md|Porlezza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Porlezza.secret.md|Porlezza.secret]] 

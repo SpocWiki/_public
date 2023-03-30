@@ -29,3 +29,12 @@ markerFile: [[Haernosand]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Haernosand.md|Haernosand]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haernosand.internal.md|Haernosand.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haernosand.protect.md|Haernosand.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Haernosand.private.md|Haernosand.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haernosand.personal.md|Haernosand.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haernosand.secret.md|Haernosand.secret]] 

@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_clinical_pharmacology )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_clinical_pharmacology.md|has_clinical_pharmacology]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_clinical_pharmacology.internal.md|has_clinical_pharmacology.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_clinical_pharmacology.protect.md|has_clinical_pharmacology.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_clinical_pharmacology.private.md|has_clinical_pharmacology.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_clinical_pharmacology.personal.md|has_clinical_pharmacology.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_clinical_pharmacology.secret.md|has_clinical_pharmacology.secret]] 

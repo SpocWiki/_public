@@ -29,3 +29,12 @@ markerFile: [[Kreuz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kreuz.md|Kreuz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kreuz.internal.md|Kreuz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kreuz.protect.md|Kreuz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kreuz.private.md|Kreuz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kreuz.personal.md|Kreuz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kreuz.secret.md|Kreuz.secret]] 

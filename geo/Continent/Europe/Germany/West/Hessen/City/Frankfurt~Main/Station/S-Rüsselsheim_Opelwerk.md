@@ -24,3 +24,12 @@ markerFile: [[S-Rüsselsheim_Opelwerk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.md|S-Rüsselsheim_Opelwerk]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.internal.md|S-Rüsselsheim_Opelwerk.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.protect.md|S-Rüsselsheim_Opelwerk.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.private.md|S-Rüsselsheim_Opelwerk.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.personal.md|S-Rüsselsheim_Opelwerk.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.secret.md|S-Rüsselsheim_Opelwerk.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Moutiers]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Moutiers.md|Moutiers]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Moutiers.internal.md|Moutiers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Moutiers.protect.md|Moutiers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Moutiers.private.md|Moutiers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Moutiers.personal.md|Moutiers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Moutiers.secret.md|Moutiers.secret]] 

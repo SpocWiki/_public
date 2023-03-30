@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28109]
 [NextStarId::27649]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Gemma.md|Gemma]] 
+- [[../../../_internal/astro/Star/Gemma.internal.md|Gemma.internal]] 
+- [[../../../_protect/astro/Star/Gemma.protect.md|Gemma.protect]] 
+- [[../../../_private/astro/Star/Gemma.private.md|Gemma.private]] 
+- [[../../../_personal/astro/Star/Gemma.personal.md|Gemma.personal]] 
+- [[../../../_secret/astro/Star/Gemma.secret.md|Gemma.secret]]
+

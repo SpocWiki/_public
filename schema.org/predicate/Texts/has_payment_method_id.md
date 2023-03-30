@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_payment_method_id )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_payment_method_id.md|has_payment_method_id]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_payment_method_id.internal.md|has_payment_method_id.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_payment_method_id.protect.md|has_payment_method_id.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_payment_method_id.private.md|has_payment_method_id.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_payment_method_id.personal.md|has_payment_method_id.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_payment_method_id.secret.md|has_payment_method_id.secret]] 

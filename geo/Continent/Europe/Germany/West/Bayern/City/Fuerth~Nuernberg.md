@@ -28,3 +28,12 @@ markerFile: [[Fuerth~Nuernberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.md|Fuerth~Nuernberg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.internal.md|Fuerth~Nuernberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.protect.md|Fuerth~Nuernberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.private.md|Fuerth~Nuernberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.personal.md|Fuerth~Nuernberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.secret.md|Fuerth~Nuernberg.secret]] 

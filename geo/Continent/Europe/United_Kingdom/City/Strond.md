@@ -29,3 +29,12 @@ markerFile: [[Strond]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Strond.md|Strond]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Strond.internal.md|Strond.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Strond.protect.md|Strond.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Strond.private.md|Strond.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Strond.personal.md|Strond.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Strond.secret.md|Strond.secret]] 

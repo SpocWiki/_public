@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_role_name )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_role_name.md|has_role_name]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_role_name.internal.md|has_role_name.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_role_name.protect.md|has_role_name.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_role_name.private.md|has_role_name.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_role_name.personal.md|has_role_name.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_role_name.secret.md|has_role_name.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Floetenstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Floetenstein.md|Floetenstein]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Floetenstein.internal.md|Floetenstein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Floetenstein.protect.md|Floetenstein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Floetenstein.private.md|Floetenstein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Floetenstein.personal.md|Floetenstein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Floetenstein.secret.md|Floetenstein.secret]] 

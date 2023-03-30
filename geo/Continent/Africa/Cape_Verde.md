@@ -129,3 +129,12 @@ markerFolder: ./Cape_Verde/City
 [geo-lon::-23.5167]
 [geo-lat::14.9167]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Cape_Verde.md|Cape_Verde]] 
+- [[../../../../_internal/geo/Continent/Africa/Cape_Verde.internal.md|Cape_Verde.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Cape_Verde.protect.md|Cape_Verde.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Cape_Verde.private.md|Cape_Verde.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Cape_Verde.personal.md|Cape_Verde.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Cape_Verde.secret.md|Cape_Verde.secret]] 

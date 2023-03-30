@@ -29,3 +29,12 @@ markerFile: [[Weesp]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Weesp.md|Weesp]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Weesp.internal.md|Weesp.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Weesp.protect.md|Weesp.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Weesp.private.md|Weesp.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Weesp.personal.md|Weesp.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Weesp.secret.md|Weesp.secret]] 

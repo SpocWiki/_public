@@ -29,3 +29,12 @@ markerFile: [[Rummelsburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rummelsburg.md|Rummelsburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rummelsburg.internal.md|Rummelsburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rummelsburg.protect.md|Rummelsburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rummelsburg.private.md|Rummelsburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rummelsburg.personal.md|Rummelsburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rummelsburg.secret.md|Rummelsburg.secret]] 

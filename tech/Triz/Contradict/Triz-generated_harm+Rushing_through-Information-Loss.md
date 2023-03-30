@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Rushing_through]]]
 - [con::Information-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Information-Loss.md|Triz-generated_harm+Rushing_through-Information-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Information-Loss.internal.md|Triz-generated_harm+Rushing_through-Information-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Information-Loss.protect.md|Triz-generated_harm+Rushing_through-Information-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Information-Loss.private.md|Triz-generated_harm+Rushing_through-Information-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Information-Loss.personal.md|Triz-generated_harm+Rushing_through-Information-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Information-Loss.secret.md|Triz-generated_harm+Rushing_through-Information-Loss.secret]] 

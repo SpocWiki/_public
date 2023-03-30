@@ -33,3 +33,11 @@ SpocWebEntityId: 21904
 > The trihydrogen cation is the simplest triatomic molecule, because its two electrons are the only valence electrons in the system. It is also the simplest example of a three-center two-electron bond system.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trihydrogen%20cation)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-01-Alkali/Hydrogenium.md|Hydrogenium]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Hydrogenium.internal.md|Hydrogenium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Hydrogenium.protect.md|Hydrogenium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Hydrogenium.private.md|Hydrogenium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Hydrogenium.personal.md|Hydrogenium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Hydrogenium.secret.md|Hydrogenium.secret]] 

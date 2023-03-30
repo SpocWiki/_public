@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alula_Borealis.md|Alula_Borealis]] 
+- [[../../../_internal/astro/Star/Alula_Borealis.internal.md|Alula_Borealis.internal]] 
+- [[../../../_protect/astro/Star/Alula_Borealis.protect.md|Alula_Borealis.protect]] 
+- [[../../../_private/astro/Star/Alula_Borealis.private.md|Alula_Borealis.private]] 
+- [[../../../_personal/astro/Star/Alula_Borealis.personal.md|Alula_Borealis.personal]] 
+- [[../../../_secret/astro/Star/Alula_Borealis.secret.md|Alula_Borealis.secret]]
+

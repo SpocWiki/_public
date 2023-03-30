@@ -29,3 +29,12 @@ markerFile: [[Djakarta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Indonesia/City/Djakarta.md|Djakarta]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Indonesia/City/Djakarta.internal.md|Djakarta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Indonesia/City/Djakarta.protect.md|Djakarta.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Indonesia/City/Djakarta.private.md|Djakarta.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Indonesia/City/Djakarta.personal.md|Djakarta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Indonesia/City/Djakarta.secret.md|Djakarta.secret]] 

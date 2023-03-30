@@ -29,3 +29,12 @@ markerFile: [[Woroschilowsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Woroschilowsk.md|Woroschilowsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Woroschilowsk.internal.md|Woroschilowsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Woroschilowsk.protect.md|Woroschilowsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Woroschilowsk.private.md|Woroschilowsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Woroschilowsk.personal.md|Woroschilowsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Woroschilowsk.secret.md|Woroschilowsk.secret]] 

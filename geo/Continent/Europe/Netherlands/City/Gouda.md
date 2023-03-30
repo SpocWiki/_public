@@ -29,3 +29,12 @@ markerFile: [[Gouda]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Gouda.md|Gouda]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Gouda.internal.md|Gouda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Gouda.protect.md|Gouda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Gouda.private.md|Gouda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Gouda.personal.md|Gouda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Gouda.secret.md|Gouda.secret]] 

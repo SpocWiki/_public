@@ -29,3 +29,12 @@ markerFile: [[Abbeyfeale]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Abbeyfeale.md|Abbeyfeale]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Abbeyfeale.internal.md|Abbeyfeale.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Abbeyfeale.protect.md|Abbeyfeale.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Abbeyfeale.private.md|Abbeyfeale.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Abbeyfeale.personal.md|Abbeyfeale.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Abbeyfeale.secret.md|Abbeyfeale.secret]] 

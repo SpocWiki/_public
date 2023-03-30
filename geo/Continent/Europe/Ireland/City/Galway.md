@@ -29,3 +29,12 @@ markerFile: [[Galway]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Galway.md|Galway]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Galway.internal.md|Galway.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Galway.protect.md|Galway.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Galway.private.md|Galway.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Galway.personal.md|Galway.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Galway.secret.md|Galway.secret]] 

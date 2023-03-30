@@ -29,3 +29,12 @@ markerFile: [[Bra]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bra.md|Bra]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bra.internal.md|Bra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bra.protect.md|Bra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bra.private.md|Bra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bra.personal.md|Bra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bra.secret.md|Bra.secret]] 

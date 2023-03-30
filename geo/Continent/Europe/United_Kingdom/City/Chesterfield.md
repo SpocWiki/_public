@@ -29,3 +29,12 @@ markerFile: [[Chesterfield]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chesterfield.md|Chesterfield]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chesterfield.internal.md|Chesterfield.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chesterfield.protect.md|Chesterfield.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chesterfield.private.md|Chesterfield.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chesterfield.personal.md|Chesterfield.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chesterfield.secret.md|Chesterfield.secret]] 

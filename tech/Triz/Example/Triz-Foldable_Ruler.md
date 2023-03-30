@@ -14,3 +14,12 @@ tags:
 [SpocWebEntityId::22347]
 [Triz-Principle-Sub::[[Triz-Fragment]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Foldable_Ruler.md|Triz-Foldable_Ruler]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Foldable_Ruler.internal.md|Triz-Foldable_Ruler.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Foldable_Ruler.protect.md|Triz-Foldable_Ruler.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Foldable_Ruler.private.md|Triz-Foldable_Ruler.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Foldable_Ruler.personal.md|Triz-Foldable_Ruler.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Foldable_Ruler.secret.md|Triz-Foldable_Ruler.secret]] 

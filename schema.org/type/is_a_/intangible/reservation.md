@@ -45,3 +45,12 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/reservation.md|reservation]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/reservation.internal.md|reservation.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/reservation.protect.md|reservation.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/reservation.private.md|reservation.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/reservation.personal.md|reservation.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/reservation.secret.md|reservation.secret]] 

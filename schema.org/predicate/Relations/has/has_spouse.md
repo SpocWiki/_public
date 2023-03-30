@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_spouse )
 ( #has_/range :: Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_spouse.md|has_spouse]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_spouse.internal.md|has_spouse.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_spouse.protect.md|has_spouse.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_spouse.private.md|has_spouse.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_spouse.personal.md|has_spouse.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_spouse.secret.md|has_spouse.secret]] 

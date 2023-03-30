@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_energy_consumption_details )
 ( #has_/range :: EnergyConsumptionDetails )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_energy_consumption_details.md|has_energy_consumption_details]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_energy_consumption_details.internal.md|has_energy_consumption_details.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_energy_consumption_details.protect.md|has_energy_consumption_details.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_energy_consumption_details.private.md|has_energy_consumption_details.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_energy_consumption_details.personal.md|has_energy_consumption_details.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_energy_consumption_details.secret.md|has_energy_consumption_details.secret]] 

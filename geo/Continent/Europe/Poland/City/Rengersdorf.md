@@ -29,3 +29,12 @@ markerFile: [[Rengersdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rengersdorf.md|Rengersdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rengersdorf.internal.md|Rengersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rengersdorf.protect.md|Rengersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rengersdorf.private.md|Rengersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rengersdorf.personal.md|Rengersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rengersdorf.secret.md|Rengersdorf.secret]] 

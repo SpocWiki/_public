@@ -28,3 +28,12 @@ markerFile: [[Bruehl_bei_Koeln]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bruehl_bei_Koeln.md|Bruehl_bei_Koeln]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bruehl_bei_Koeln.internal.md|Bruehl_bei_Koeln.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bruehl_bei_Koeln.protect.md|Bruehl_bei_Koeln.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bruehl_bei_Koeln.private.md|Bruehl_bei_Koeln.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bruehl_bei_Koeln.personal.md|Bruehl_bei_Koeln.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bruehl_bei_Koeln.secret.md|Bruehl_bei_Koeln.secret]] 

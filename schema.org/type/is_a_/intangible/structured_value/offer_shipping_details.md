@@ -54,3 +54,12 @@ or Fast and expensive: $15 in 1-2 days.
 
 [ #has_/properties :: [ additionalType, alternateName, deliveryTime, depth, description, disambiguatingDescription, doesNotShip, height, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingOrigin, shippingRate, shippingSettingsLink, subjectOf, transitTimeLabel, url, weight, width ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/offer_shipping_details.md|offer_shipping_details]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/offer_shipping_details.internal.md|offer_shipping_details.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/offer_shipping_details.protect.md|offer_shipping_details.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/offer_shipping_details.private.md|offer_shipping_details.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/offer_shipping_details.personal.md|offer_shipping_details.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/offer_shipping_details.secret.md|offer_shipping_details.secret]] 

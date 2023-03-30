@@ -29,3 +29,12 @@ markerFile: [[Nordenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Nordenburg.md|Nordenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Nordenburg.internal.md|Nordenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Nordenburg.protect.md|Nordenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Nordenburg.private.md|Nordenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Nordenburg.personal.md|Nordenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Nordenburg.secret.md|Nordenburg.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Cologna_Veneta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cologna_Veneta.md|Cologna_Veneta]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cologna_Veneta.internal.md|Cologna_Veneta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cologna_Veneta.protect.md|Cologna_Veneta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cologna_Veneta.private.md|Cologna_Veneta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cologna_Veneta.personal.md|Cologna_Veneta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cologna_Veneta.secret.md|Cologna_Veneta.secret]] 

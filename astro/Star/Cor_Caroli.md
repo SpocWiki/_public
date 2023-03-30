@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28095]
 [NextStarId::27867]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Cor_Caroli.md|Cor_Caroli]] 
+- [[../../../_internal/astro/Star/Cor_Caroli.internal.md|Cor_Caroli.internal]] 
+- [[../../../_protect/astro/Star/Cor_Caroli.protect.md|Cor_Caroli.protect]] 
+- [[../../../_private/astro/Star/Cor_Caroli.private.md|Cor_Caroli.private]] 
+- [[../../../_personal/astro/Star/Cor_Caroli.personal.md|Cor_Caroli.personal]] 
+- [[../../../_secret/astro/Star/Cor_Caroli.secret.md|Cor_Caroli.secret]]
+

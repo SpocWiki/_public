@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::27305]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Markab.md|Markab]] 
+- [[../../../_internal/astro/Star/Markab.internal.md|Markab.internal]] 
+- [[../../../_protect/astro/Star/Markab.protect.md|Markab.protect]] 
+- [[../../../_private/astro/Star/Markab.private.md|Markab.private]] 
+- [[../../../_personal/astro/Star/Markab.personal.md|Markab.personal]] 
+- [[../../../_secret/astro/Star/Markab.secret.md|Markab.secret]] 

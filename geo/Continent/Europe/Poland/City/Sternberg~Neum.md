@@ -29,3 +29,12 @@ markerFile: [[Sternberg~Neum]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sternberg~Neum.md|Sternberg~Neum]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sternberg~Neum.internal.md|Sternberg~Neum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sternberg~Neum.protect.md|Sternberg~Neum.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sternberg~Neum.private.md|Sternberg~Neum.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sternberg~Neum.personal.md|Sternberg~Neum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sternberg~Neum.secret.md|Sternberg~Neum.secret]] 

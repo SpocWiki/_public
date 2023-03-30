@@ -29,3 +29,12 @@ markerFile: [[Marggrabowa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Marggrabowa.md|Marggrabowa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Marggrabowa.internal.md|Marggrabowa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Marggrabowa.protect.md|Marggrabowa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Marggrabowa.private.md|Marggrabowa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Marggrabowa.personal.md|Marggrabowa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Marggrabowa.secret.md|Marggrabowa.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Napajedla]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Napajedla.md|Napajedla]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Napajedla.internal.md|Napajedla.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Napajedla.protect.md|Napajedla.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Napajedla.private.md|Napajedla.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Napajedla.personal.md|Napajedla.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Napajedla.secret.md|Napajedla.secret]] 

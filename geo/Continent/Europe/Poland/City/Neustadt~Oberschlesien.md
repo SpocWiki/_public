@@ -29,3 +29,12 @@ markerFile: [[Neustadt~Oberschlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.md|Neustadt~Oberschlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.internal.md|Neustadt~Oberschlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.protect.md|Neustadt~Oberschlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.private.md|Neustadt~Oberschlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.personal.md|Neustadt~Oberschlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.secret.md|Neustadt~Oberschlesien.secret]] 

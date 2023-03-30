@@ -28,3 +28,12 @@ markerFile: [[Bernstadt~Sachsen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bernstadt~Sachsen.md|Bernstadt~Sachsen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bernstadt~Sachsen.internal.md|Bernstadt~Sachsen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bernstadt~Sachsen.protect.md|Bernstadt~Sachsen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bernstadt~Sachsen.private.md|Bernstadt~Sachsen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bernstadt~Sachsen.personal.md|Bernstadt~Sachsen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bernstadt~Sachsen.secret.md|Bernstadt~Sachsen.secret]] 

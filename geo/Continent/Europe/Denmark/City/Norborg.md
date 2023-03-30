@@ -29,3 +29,12 @@ markerFile: [[Norborg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Norborg.md|Norborg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Norborg.internal.md|Norborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Norborg.protect.md|Norborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Norborg.private.md|Norborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Norborg.personal.md|Norborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Norborg.secret.md|Norborg.secret]] 

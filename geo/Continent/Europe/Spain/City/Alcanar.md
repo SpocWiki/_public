@@ -29,3 +29,12 @@ markerFile: [[Alcanar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Alcanar.md|Alcanar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Alcanar.internal.md|Alcanar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Alcanar.protect.md|Alcanar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Alcanar.private.md|Alcanar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Alcanar.personal.md|Alcanar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Alcanar.secret.md|Alcanar.secret]] 

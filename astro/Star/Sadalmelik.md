@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28086]
 [NextStarId::27662]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sadalmelik.md|Sadalmelik]] 
+- [[../../../_internal/astro/Star/Sadalmelik.internal.md|Sadalmelik.internal]] 
+- [[../../../_protect/astro/Star/Sadalmelik.protect.md|Sadalmelik.protect]] 
+- [[../../../_private/astro/Star/Sadalmelik.private.md|Sadalmelik.private]] 
+- [[../../../_personal/astro/Star/Sadalmelik.personal.md|Sadalmelik.personal]] 
+- [[../../../_secret/astro/Star/Sadalmelik.secret.md|Sadalmelik.secret]] 

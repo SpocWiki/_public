@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22205]]]
 - [con::[[Triz-Measurement_Accuracy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-Measurement_Accuracy.md|Triz-10307+22205-Measurement_Accuracy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-Measurement_Accuracy.internal.md|Triz-10307+22205-Measurement_Accuracy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-Measurement_Accuracy.protect.md|Triz-10307+22205-Measurement_Accuracy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-Measurement_Accuracy.private.md|Triz-10307+22205-Measurement_Accuracy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-Measurement_Accuracy.personal.md|Triz-10307+22205-Measurement_Accuracy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-Measurement_Accuracy.secret.md|Triz-10307+22205-Measurement_Accuracy.secret]] 

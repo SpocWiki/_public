@@ -29,3 +29,12 @@ markerFile: [[Vallmiera]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vallmiera.md|Vallmiera]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vallmiera.internal.md|Vallmiera.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vallmiera.protect.md|Vallmiera.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vallmiera.private.md|Vallmiera.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vallmiera.personal.md|Vallmiera.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vallmiera.secret.md|Vallmiera.secret]] 

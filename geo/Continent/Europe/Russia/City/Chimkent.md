@@ -29,3 +29,12 @@ markerFile: [[Chimkent]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chimkent.md|Chimkent]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chimkent.internal.md|Chimkent.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chimkent.protect.md|Chimkent.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chimkent.private.md|Chimkent.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chimkent.personal.md|Chimkent.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chimkent.secret.md|Chimkent.secret]] 

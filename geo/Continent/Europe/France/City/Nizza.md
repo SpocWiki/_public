@@ -29,3 +29,12 @@ markerFile: [[Nizza]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Nizza.md|Nizza]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Nizza.internal.md|Nizza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Nizza.protect.md|Nizza.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Nizza.private.md|Nizza.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Nizza.personal.md|Nizza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Nizza.secret.md|Nizza.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Bettembourg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Bettembourg.md|Bettembourg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Bettembourg.internal.md|Bettembourg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Bettembourg.protect.md|Bettembourg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Bettembourg.private.md|Bettembourg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Bettembourg.personal.md|Bettembourg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Bettembourg.secret.md|Bettembourg.secret]] 

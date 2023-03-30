@@ -29,3 +29,12 @@ markerFile: [[Port_Patrick]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.md|Port_Patrick]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.internal.md|Port_Patrick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.protect.md|Port_Patrick.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.private.md|Port_Patrick.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.personal.md|Port_Patrick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.secret.md|Port_Patrick.secret]] 

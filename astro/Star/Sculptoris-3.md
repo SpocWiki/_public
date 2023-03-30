@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28156]
 [NextStarId::28064]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sculptoris-3.md|Sculptoris-3]] 
+- [[../../../_internal/astro/Star/Sculptoris-3.internal.md|Sculptoris-3.internal]] 
+- [[../../../_protect/astro/Star/Sculptoris-3.protect.md|Sculptoris-3.protect]] 
+- [[../../../_private/astro/Star/Sculptoris-3.private.md|Sculptoris-3.private]] 
+- [[../../../_personal/astro/Star/Sculptoris-3.personal.md|Sculptoris-3.personal]] 
+- [[../../../_secret/astro/Star/Sculptoris-3.secret.md|Sculptoris-3.secret]] 

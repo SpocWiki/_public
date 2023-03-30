@@ -126,3 +126,12 @@ markerFolder: ./Portugal/City
 [geo-lon::-5.10879]
 [geo-lat::42.1067]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Portugal.md|Portugal]] 
+- [[../../../../_internal/geo/Continent/Europe/Portugal.internal.md|Portugal.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Portugal.protect.md|Portugal.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Portugal.private.md|Portugal.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Portugal.personal.md|Portugal.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Portugal.secret.md|Portugal.secret]] 

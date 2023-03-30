@@ -28,3 +28,12 @@ markerFile: [[Muehlhausen~Oberfranken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.md|Muehlhausen~Oberfranken]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.internal.md|Muehlhausen~Oberfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.protect.md|Muehlhausen~Oberfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.private.md|Muehlhausen~Oberfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.personal.md|Muehlhausen~Oberfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.secret.md|Muehlhausen~Oberfranken.secret]] 

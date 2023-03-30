@@ -29,3 +29,12 @@ markerFile: [[Aberdare]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Aberdare.md|Aberdare]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aberdare.internal.md|Aberdare.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aberdare.protect.md|Aberdare.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aberdare.private.md|Aberdare.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aberdare.personal.md|Aberdare.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aberdare.secret.md|Aberdare.secret]] 

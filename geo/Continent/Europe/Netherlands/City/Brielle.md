@@ -29,3 +29,12 @@ markerFile: [[Brielle]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Brielle.md|Brielle]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Brielle.internal.md|Brielle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Brielle.protect.md|Brielle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Brielle.private.md|Brielle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Brielle.personal.md|Brielle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Brielle.secret.md|Brielle.secret]] 

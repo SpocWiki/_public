@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_iswc_code )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_iswc_code.md|has_iswc_code]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_iswc_code.internal.md|has_iswc_code.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_iswc_code.protect.md|has_iswc_code.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_iswc_code.private.md|has_iswc_code.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_iswc_code.personal.md|has_iswc_code.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_iswc_code.secret.md|has_iswc_code.secret]] 

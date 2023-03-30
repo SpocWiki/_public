@@ -24,3 +24,12 @@ markerFile: [[S-Frankfurt~Main_Lokalbahnhof]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.md|S-Frankfurt~Main_Lokalbahnhof]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.internal.md|S-Frankfurt~Main_Lokalbahnhof.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.protect.md|S-Frankfurt~Main_Lokalbahnhof.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.private.md|S-Frankfurt~Main_Lokalbahnhof.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.personal.md|S-Frankfurt~Main_Lokalbahnhof.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Lokalbahnhof.secret.md|S-Frankfurt~Main_Lokalbahnhof.secret]] 

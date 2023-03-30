@@ -43,3 +43,12 @@ A PublicationEvent corresponds indifferently to the event of publication for a C
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, free, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, publishedBy, publishedOn, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/event/publication_event.md|publication_event]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/event/publication_event.internal.md|publication_event.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/event/publication_event.protect.md|publication_event.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/event/publication_event.private.md|publication_event.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/event/publication_event.personal.md|publication_event.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/event/publication_event.secret.md|publication_event.secret]] 

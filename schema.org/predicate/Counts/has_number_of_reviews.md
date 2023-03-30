@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_reviews )
 ( #has_/range :: Integer )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_reviews.md|has_number_of_reviews]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_reviews.internal.md|has_number_of_reviews.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_reviews.protect.md|has_number_of_reviews.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_reviews.private.md|has_number_of_reviews.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_reviews.personal.md|has_number_of_reviews.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_reviews.secret.md|has_number_of_reviews.secret]] 

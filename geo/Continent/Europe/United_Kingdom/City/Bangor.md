@@ -29,3 +29,12 @@ markerFile: [[Bangor]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bangor.md|Bangor]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bangor.internal.md|Bangor.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bangor.protect.md|Bangor.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bangor.private.md|Bangor.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bangor.personal.md|Bangor.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bangor.secret.md|Bangor.secret]] 

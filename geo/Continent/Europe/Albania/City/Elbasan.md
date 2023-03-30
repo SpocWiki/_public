@@ -29,3 +29,12 @@ markerFile: [[Elbasan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Elbasan.md|Elbasan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Elbasan.internal.md|Elbasan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Elbasan.protect.md|Elbasan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Elbasan.private.md|Elbasan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Elbasan.personal.md|Elbasan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Elbasan.secret.md|Elbasan.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Bethlehem]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.md|Bethlehem]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.internal.md|Bethlehem.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.protect.md|Bethlehem.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.private.md|Bethlehem.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.personal.md|Bethlehem.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.secret.md|Bethlehem.secret]] 

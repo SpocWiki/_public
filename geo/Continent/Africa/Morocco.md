@@ -132,3 +132,12 @@ markerFolder: ./Morocco/City
 [geo-lon::-7.6125]
 [geo-lat::33.0225]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Morocco.md|Morocco]] 
+- [[../../../../_internal/geo/Continent/Africa/Morocco.internal.md|Morocco.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Morocco.protect.md|Morocco.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Morocco.private.md|Morocco.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Morocco.personal.md|Morocco.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Morocco.secret.md|Morocco.secret]] 

@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: [[../is_part_of]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_tv_series.md|is_part_of_tv_series]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_tv_series.internal.md|is_part_of_tv_series.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_tv_series.protect.md|is_part_of_tv_series.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_tv_series.private.md|is_part_of_tv_series.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_part_of_tv_series.personal.md|is_part_of_tv_series.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_part_of_tv_series.secret.md|is_part_of_tv_series.secret]] 

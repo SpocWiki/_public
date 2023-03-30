@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_ordered_item )
 ( #has_/range :: OrderItem, Product, Service )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_ordered_item.md|has_ordered_item]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ordered_item.internal.md|has_ordered_item.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_ordered_item.protect.md|has_ordered_item.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_ordered_item.private.md|has_ordered_item.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_ordered_item.personal.md|has_ordered_item.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_ordered_item.secret.md|has_ordered_item.secret]] 

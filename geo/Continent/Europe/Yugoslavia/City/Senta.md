@@ -29,3 +29,12 @@ markerFile: [[Senta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Senta.md|Senta]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Senta.internal.md|Senta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Senta.protect.md|Senta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Senta.private.md|Senta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Senta.personal.md|Senta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Senta.secret.md|Senta.secret]] 

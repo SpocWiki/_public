@@ -29,3 +29,12 @@ markerFile: [[Kiskunhalas]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Kiskunhalas.md|Kiskunhalas]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kiskunhalas.internal.md|Kiskunhalas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kiskunhalas.protect.md|Kiskunhalas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kiskunhalas.private.md|Kiskunhalas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kiskunhalas.personal.md|Kiskunhalas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kiskunhalas.secret.md|Kiskunhalas.secret]] 

@@ -135,3 +135,12 @@ markerFolder: ./Niger/City
 [geo-lon::2.08333]
 [geo-lat::13.5333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Niger.md|Niger]] 
+- [[../../../../_internal/geo/Continent/Africa/Niger.internal.md|Niger.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Niger.protect.md|Niger.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Niger.private.md|Niger.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Niger.personal.md|Niger.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Niger.secret.md|Niger.secret]] 

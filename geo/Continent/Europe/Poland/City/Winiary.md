@@ -29,3 +29,12 @@ markerFile: [[Winiary]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Winiary.md|Winiary]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Winiary.internal.md|Winiary.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Winiary.protect.md|Winiary.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Winiary.private.md|Winiary.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Winiary.personal.md|Winiary.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Winiary.secret.md|Winiary.secret]] 

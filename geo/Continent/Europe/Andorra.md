@@ -127,3 +127,12 @@ markerFolder: ./Andorra/City
 [geo-lon::1.51333]
 [geo-lat::42.5167]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Andorra.md|Andorra]] 
+- [[../../../../_internal/geo/Continent/Europe/Andorra.internal.md|Andorra.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Andorra.protect.md|Andorra.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Andorra.private.md|Andorra.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Andorra.personal.md|Andorra.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Andorra.secret.md|Andorra.secret]] 

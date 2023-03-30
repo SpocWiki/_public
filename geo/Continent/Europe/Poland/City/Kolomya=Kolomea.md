@@ -29,3 +29,12 @@ markerFile: [[Kolomya=Kolomea]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.md|Kolomya=Kolomea]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.internal.md|Kolomya=Kolomea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.protect.md|Kolomya=Kolomea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.private.md|Kolomya=Kolomea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.personal.md|Kolomya=Kolomea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.secret.md|Kolomya=Kolomea.secret]] 

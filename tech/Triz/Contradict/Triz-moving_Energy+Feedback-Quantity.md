@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Feedback]]]
 - [con::[[Triz-Quantity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.md|Triz-moving_Energy+Feedback-Quantity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.internal.md|Triz-moving_Energy+Feedback-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.protect.md|Triz-moving_Energy+Feedback-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.private.md|Triz-moving_Energy+Feedback-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.personal.md|Triz-moving_Energy+Feedback-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.secret.md|Triz-moving_Energy+Feedback-Quantity.secret]] 

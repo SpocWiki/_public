@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_message_attachment )
 ( #has_/range :: CreativeWork )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_message_attachment.md|has_message_attachment]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_message_attachment.internal.md|has_message_attachment.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_message_attachment.protect.md|has_message_attachment.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_message_attachment.private.md|has_message_attachment.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_message_attachment.personal.md|has_message_attachment.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_message_attachment.secret.md|has_message_attachment.secret]] 

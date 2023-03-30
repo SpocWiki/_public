@@ -29,3 +29,12 @@ markerFile: [[Dudley]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dudley.md|Dudley]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dudley.internal.md|Dudley.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dudley.protect.md|Dudley.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dudley.private.md|Dudley.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dudley.personal.md|Dudley.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dudley.secret.md|Dudley.secret]] 

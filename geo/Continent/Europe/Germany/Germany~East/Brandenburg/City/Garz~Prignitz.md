@@ -28,3 +28,12 @@ markerFile: [[Garz~Prignitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.md|Garz~Prignitz]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.internal.md|Garz~Prignitz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.protect.md|Garz~Prignitz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.private.md|Garz~Prignitz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.personal.md|Garz~Prignitz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.secret.md|Garz~Prignitz.secret]] 

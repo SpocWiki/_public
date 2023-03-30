@@ -45,3 +45,12 @@ Represents the list price (the price a product is actually advertised for) of an
 
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.md|list_price]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.internal.md|list_price.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.protect.md|list_price.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.private.md|list_price.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.personal.md|list_price.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.secret.md|list_price.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Neustadt~Weinstrasse]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.md|Neustadt~Weinstrasse]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.internal.md|Neustadt~Weinstrasse.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.protect.md|Neustadt~Weinstrasse.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.private.md|Neustadt~Weinstrasse.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.personal.md|Neustadt~Weinstrasse.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.secret.md|Neustadt~Weinstrasse.secret]] 

@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_inker )
 ( #has_/range :: Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_inker.md|has_inker]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_inker.internal.md|has_inker.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_inker.protect.md|has_inker.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_inker.private.md|has_inker.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_inker.personal.md|has_inker.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_inker.secret.md|has_inker.secret]] 

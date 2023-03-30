@@ -29,3 +29,12 @@ markerFile: [[Neumarkt~Schlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neumarkt~Schlesien.md|Neumarkt~Schlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neumarkt~Schlesien.internal.md|Neumarkt~Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neumarkt~Schlesien.protect.md|Neumarkt~Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neumarkt~Schlesien.private.md|Neumarkt~Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neumarkt~Schlesien.personal.md|Neumarkt~Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neumarkt~Schlesien.secret.md|Neumarkt~Schlesien.secret]] 

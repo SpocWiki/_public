@@ -45,3 +45,12 @@ population, and does not imply that the population consists of people. For examp
 
 [ #has_/properties :: [ additionalType, alternateName, constrainingProperty, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints, populationType, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/statistical_population.md|statistical_population]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/statistical_population.internal.md|statistical_population.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/statistical_population.protect.md|statistical_population.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/statistical_population.private.md|statistical_population.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/statistical_population.personal.md|statistical_population.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/statistical_population.secret.md|statistical_population.secret]] 

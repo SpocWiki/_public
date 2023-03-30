@@ -29,3 +29,12 @@ geojsonFolder: ./Greenwich
 zoomFeatures: true 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.md|Greenwich]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.internal.md|Greenwich.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.protect.md|Greenwich.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.private.md|Greenwich.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.personal.md|Greenwich.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.secret.md|Greenwich.secret]] 

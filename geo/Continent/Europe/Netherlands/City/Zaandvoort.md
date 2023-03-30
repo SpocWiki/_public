@@ -29,3 +29,12 @@ markerFile: [[Zaandvoort]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Zaandvoort.md|Zaandvoort]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zaandvoort.internal.md|Zaandvoort.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zaandvoort.protect.md|Zaandvoort.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zaandvoort.private.md|Zaandvoort.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zaandvoort.personal.md|Zaandvoort.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zaandvoort.secret.md|Zaandvoort.secret]] 

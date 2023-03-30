@@ -29,3 +29,12 @@ markerFile: [[Ljubliana]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Slovenia/City/Ljubliana.md|Ljubliana]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Slovenia/City/Ljubliana.internal.md|Ljubliana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Slovenia/City/Ljubliana.protect.md|Ljubliana.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Slovenia/City/Ljubliana.private.md|Ljubliana.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Slovenia/City/Ljubliana.personal.md|Ljubliana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Slovenia/City/Ljubliana.secret.md|Ljubliana.secret]] 

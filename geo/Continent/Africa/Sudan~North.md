@@ -39,3 +39,12 @@ markerFolder: ./Sudan/City
 [geo-lon::32.53]
 [geo-lat::15.6]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Sudan~North.md|Sudan~North]] 
+- [[../../../../_internal/geo/Continent/Africa/Sudan~North.internal.md|Sudan~North.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sudan~North.protect.md|Sudan~North.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sudan~North.private.md|Sudan~North.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sudan~North.personal.md|Sudan~North.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sudan~North.secret.md|Sudan~North.secret]] 

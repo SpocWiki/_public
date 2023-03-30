@@ -29,3 +29,12 @@ markerFile: [[Keuruu]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Keuruu.md|Keuruu]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Keuruu.internal.md|Keuruu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Keuruu.protect.md|Keuruu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Keuruu.private.md|Keuruu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Keuruu.personal.md|Keuruu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Keuruu.secret.md|Keuruu.secret]] 

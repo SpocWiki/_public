@@ -28,3 +28,12 @@ markerFile: [[Indianapolis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.md|Indianapolis]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.internal.md|Indianapolis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.protect.md|Indianapolis.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.private.md|Indianapolis.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.personal.md|Indianapolis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.secret.md|Indianapolis.secret]] 

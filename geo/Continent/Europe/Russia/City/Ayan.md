@@ -29,3 +29,12 @@ markerFile: [[Ayan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ayan.md|Ayan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ayan.internal.md|Ayan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ayan.protect.md|Ayan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ayan.private.md|Ayan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ayan.personal.md|Ayan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ayan.secret.md|Ayan.secret]] 

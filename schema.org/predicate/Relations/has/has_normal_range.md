@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_normal_range )
 ( #has_/range :: MedicalEnumeration, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_normal_range.md|has_normal_range]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_normal_range.internal.md|has_normal_range.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_normal_range.protect.md|has_normal_range.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_normal_range.private.md|has_normal_range.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_normal_range.personal.md|has_normal_range.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_normal_range.secret.md|has_normal_range.secret]] 

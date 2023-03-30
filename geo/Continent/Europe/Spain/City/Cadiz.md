@@ -29,3 +29,12 @@ markerFile: [[Cadiz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Cadiz.md|Cadiz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Cadiz.internal.md|Cadiz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Cadiz.protect.md|Cadiz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Cadiz.private.md|Cadiz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Cadiz.personal.md|Cadiz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Cadiz.secret.md|Cadiz.secret]] 

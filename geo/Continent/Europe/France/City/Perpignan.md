@@ -29,3 +29,12 @@ markerFile: [[Perpignan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Perpignan.md|Perpignan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Perpignan.internal.md|Perpignan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Perpignan.protect.md|Perpignan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Perpignan.private.md|Perpignan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Perpignan.personal.md|Perpignan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Perpignan.secret.md|Perpignan.secret]] 

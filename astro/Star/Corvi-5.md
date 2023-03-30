@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28110]
 [NextStarId::27342]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Corvi-5.md|Corvi-5]] 
+- [[../../../_internal/astro/Star/Corvi-5.internal.md|Corvi-5.internal]] 
+- [[../../../_protect/astro/Star/Corvi-5.protect.md|Corvi-5.protect]] 
+- [[../../../_private/astro/Star/Corvi-5.private.md|Corvi-5.private]] 
+- [[../../../_personal/astro/Star/Corvi-5.personal.md|Corvi-5.personal]] 
+- [[../../../_secret/astro/Star/Corvi-5.secret.md|Corvi-5.secret]]
+

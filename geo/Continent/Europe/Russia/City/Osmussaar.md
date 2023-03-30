@@ -29,3 +29,12 @@ markerFile: [[Osmussaar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Osmussaar.md|Osmussaar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Osmussaar.internal.md|Osmussaar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Osmussaar.protect.md|Osmussaar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Osmussaar.private.md|Osmussaar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Osmussaar.personal.md|Osmussaar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Osmussaar.secret.md|Osmussaar.secret]] 

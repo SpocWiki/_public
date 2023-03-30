@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28130]
 [NextStarId::27522]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Nihal.md|Nihal]] 
+- [[../../../_internal/astro/Star/Nihal.internal.md|Nihal.internal]] 
+- [[../../../_protect/astro/Star/Nihal.protect.md|Nihal.protect]] 
+- [[../../../_private/astro/Star/Nihal.private.md|Nihal.private]] 
+- [[../../../_personal/astro/Star/Nihal.personal.md|Nihal.personal]] 
+- [[../../../_secret/astro/Star/Nihal.secret.md|Nihal.secret]] 

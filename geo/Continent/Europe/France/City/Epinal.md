@@ -29,3 +29,12 @@ markerFile: [[Epinal]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Epinal.md|Epinal]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Epinal.internal.md|Epinal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Epinal.protect.md|Epinal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Epinal.private.md|Epinal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Epinal.personal.md|Epinal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Epinal.secret.md|Epinal.secret]] 

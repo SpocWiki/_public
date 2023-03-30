@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_slogan )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_slogan.md|has_slogan]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_slogan.internal.md|has_slogan.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_slogan.protect.md|has_slogan.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_slogan.private.md|has_slogan.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_slogan.personal.md|has_slogan.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_slogan.secret.md|has_slogan.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Neustadt~Aisch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Aisch.md|Neustadt~Aisch]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Aisch.internal.md|Neustadt~Aisch.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Aisch.protect.md|Neustadt~Aisch.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Aisch.private.md|Neustadt~Aisch.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Aisch.personal.md|Neustadt~Aisch.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Aisch.secret.md|Neustadt~Aisch.secret]] 

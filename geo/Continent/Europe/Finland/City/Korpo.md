@@ -29,3 +29,12 @@ markerFile: [[Korpo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Korpo.md|Korpo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Korpo.internal.md|Korpo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Korpo.protect.md|Korpo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Korpo.private.md|Korpo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Korpo.personal.md|Korpo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Korpo.secret.md|Korpo.secret]] 

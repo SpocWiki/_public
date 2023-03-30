@@ -132,3 +132,12 @@ markerFolder: ./Tajikistan/City
 [geo-lon::68.8]
 [geo-lat::38.55]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Tajikistan.md|Tajikistan]] 
+- [[../../../../_internal/geo/Continent/Asia/Tajikistan.internal.md|Tajikistan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Tajikistan.protect.md|Tajikistan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Tajikistan.private.md|Tajikistan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Tajikistan.personal.md|Tajikistan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Tajikistan.secret.md|Tajikistan.secret]] 

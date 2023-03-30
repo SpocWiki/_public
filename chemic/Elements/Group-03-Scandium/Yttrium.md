@@ -31,3 +31,11 @@ SpocWebEntityId: 21937
 > Yttrium has no known biological role. Exposure to yttrium compounds can cause lung disease in humans.The element is named after ytterbite, a mineral first identified in 1787 by the chemist Carl Axel Arrhenius. He named the mineral after the village of Ytterby, in Sweden, where it had been discovered.  When one of the chemicals in ytterbite was later found to be the previously unidentified element, yttrium, the element was then named after the mineral.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yttrium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-03-Scandium/Yttrium.md|Yttrium]] 
+- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Yttrium.internal.md|Yttrium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Yttrium.protect.md|Yttrium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-03-Scandium/Yttrium.private.md|Yttrium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Yttrium.personal.md|Yttrium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Yttrium.secret.md|Yttrium.secret]] 

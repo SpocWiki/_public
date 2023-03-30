@@ -29,3 +29,12 @@ markerFile: [[Tour-du-pin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Tour-du-pin.md|Tour-du-pin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Tour-du-pin.internal.md|Tour-du-pin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Tour-du-pin.protect.md|Tour-du-pin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Tour-du-pin.private.md|Tour-du-pin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Tour-du-pin.personal.md|Tour-du-pin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Tour-du-pin.secret.md|Tour-du-pin.secret]] 

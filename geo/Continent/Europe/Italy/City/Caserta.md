@@ -29,3 +29,12 @@ markerFile: [[Caserta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Caserta.md|Caserta]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Caserta.internal.md|Caserta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Caserta.protect.md|Caserta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Caserta.private.md|Caserta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Caserta.personal.md|Caserta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Caserta.secret.md|Caserta.secret]] 

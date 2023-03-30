@@ -29,3 +29,12 @@ markerFile: [[Rozinka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Rozinka.md|Rozinka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Rozinka.internal.md|Rozinka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Rozinka.protect.md|Rozinka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Rozinka.private.md|Rozinka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Rozinka.personal.md|Rozinka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Rozinka.secret.md|Rozinka.secret]] 

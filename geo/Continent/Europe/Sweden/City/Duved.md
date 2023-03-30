@@ -29,3 +29,12 @@ markerFile: [[Duved]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Duved.md|Duved]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Duved.internal.md|Duved.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Duved.protect.md|Duved.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Duved.private.md|Duved.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Duved.personal.md|Duved.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Duved.secret.md|Duved.secret]] 

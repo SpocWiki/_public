@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28141]
 [NextStarId::27447]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Rasalhague.md|Rasalhague]] 
+- [[../../../_internal/astro/Star/Rasalhague.internal.md|Rasalhague.internal]] 
+- [[../../../_protect/astro/Star/Rasalhague.protect.md|Rasalhague.protect]] 
+- [[../../../_private/astro/Star/Rasalhague.private.md|Rasalhague.private]] 
+- [[../../../_personal/astro/Star/Rasalhague.personal.md|Rasalhague.personal]] 
+- [[../../../_secret/astro/Star/Rasalhague.secret.md|Rasalhague.secret]] 

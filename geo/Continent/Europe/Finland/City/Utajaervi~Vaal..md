@@ -29,3 +29,12 @@ markerFile: [[Utajaervi~Vaal.]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Utajaervi~Vaal..md|Utajaervi~Vaal.]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Utajaervi~Vaal..internal.md|Utajaervi~Vaal..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Utajaervi~Vaal..protect.md|Utajaervi~Vaal..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Utajaervi~Vaal..private.md|Utajaervi~Vaal..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Utajaervi~Vaal..personal.md|Utajaervi~Vaal..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Utajaervi~Vaal..secret.md|Utajaervi~Vaal..secret]] 

@@ -43,3 +43,12 @@ A diet focused on reduced calorie intake.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.md|low_calorie_diet]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.internal.md|low_calorie_diet.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.protect.md|low_calorie_diet.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.private.md|low_calorie_diet.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.personal.md|low_calorie_diet.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.secret.md|low_calorie_diet.secret]] 

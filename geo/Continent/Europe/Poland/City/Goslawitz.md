@@ -29,3 +29,12 @@ markerFile: [[Goslawitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Goslawitz.md|Goslawitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Goslawitz.internal.md|Goslawitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Goslawitz.protect.md|Goslawitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Goslawitz.private.md|Goslawitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Goslawitz.personal.md|Goslawitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Goslawitz.secret.md|Goslawitz.secret]] 

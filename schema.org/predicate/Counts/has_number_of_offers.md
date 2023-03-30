@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_offers )
 ( #has_/range :: Integer )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_offers.md|has_number_of_offers]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_offers.internal.md|has_number_of_offers.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_offers.protect.md|has_number_of_offers.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_offers.private.md|has_number_of_offers.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_offers.personal.md|has_number_of_offers.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_offers.secret.md|has_number_of_offers.secret]] 

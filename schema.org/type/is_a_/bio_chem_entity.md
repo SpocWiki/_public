@@ -45,3 +45,12 @@ Any biological, chemical, or biochemical thing. For example: a protein; a gene; 
 
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Type/is_a_/bio_chem_entity.md|bio_chem_entity]] 
+- [[../../../../_internal/schema.org/Type/is_a_/bio_chem_entity.internal.md|bio_chem_entity.internal]] 
+- [[../../../../_protect/schema.org/Type/is_a_/bio_chem_entity.protect.md|bio_chem_entity.protect]] 
+- [[../../../../_private/schema.org/Type/is_a_/bio_chem_entity.private.md|bio_chem_entity.private]] 
+- [[../../../../_personal/schema.org/Type/is_a_/bio_chem_entity.personal.md|bio_chem_entity.personal]] 
+- [[../../../../_secret/schema.org/Type/is_a_/bio_chem_entity.secret.md|bio_chem_entity.secret]] 

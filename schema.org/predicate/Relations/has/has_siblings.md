@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_siblings )
 ( #has_/range :: Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_siblings.md|has_siblings]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_siblings.internal.md|has_siblings.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_siblings.protect.md|has_siblings.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_siblings.private.md|has_siblings.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_siblings.personal.md|has_siblings.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_siblings.secret.md|has_siblings.secret]] 

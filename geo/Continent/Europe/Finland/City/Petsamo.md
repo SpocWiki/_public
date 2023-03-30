@@ -29,3 +29,12 @@ markerFile: [[Petsamo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Petsamo.md|Petsamo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Petsamo.internal.md|Petsamo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Petsamo.protect.md|Petsamo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Petsamo.private.md|Petsamo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Petsamo.personal.md|Petsamo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Petsamo.secret.md|Petsamo.secret]] 

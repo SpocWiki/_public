@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28122]
 [NextStarId::27653]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Ruticulus.md|Ruticulus]] 
+- [[../../../_internal/astro/Star/Ruticulus.internal.md|Ruticulus.internal]] 
+- [[../../../_protect/astro/Star/Ruticulus.protect.md|Ruticulus.protect]] 
+- [[../../../_private/astro/Star/Ruticulus.private.md|Ruticulus.private]] 
+- [[../../../_personal/astro/Star/Ruticulus.personal.md|Ruticulus.personal]] 
+- [[../../../_secret/astro/Star/Ruticulus.secret.md|Ruticulus.secret]] 

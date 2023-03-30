@@ -29,3 +29,12 @@ markerFile: [[Fagersjoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Fagersjoe.md|Fagersjoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Fagersjoe.internal.md|Fagersjoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Fagersjoe.protect.md|Fagersjoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Fagersjoe.private.md|Fagersjoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Fagersjoe.personal.md|Fagersjoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Fagersjoe.secret.md|Fagersjoe.secret]] 

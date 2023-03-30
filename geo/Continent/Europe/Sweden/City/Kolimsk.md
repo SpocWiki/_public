@@ -29,3 +29,12 @@ markerFile: [[Kolimsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kolimsk.md|Kolimsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kolimsk.internal.md|Kolimsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kolimsk.protect.md|Kolimsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kolimsk.private.md|Kolimsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kolimsk.personal.md|Kolimsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kolimsk.secret.md|Kolimsk.secret]] 

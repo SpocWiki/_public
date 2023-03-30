@@ -15,3 +15,11 @@ tags:
 [TrizParameterId::14]
 
 Strength
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Strength.md|Triz-Strength]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Strength.internal.md|Triz-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Strength.protect.md|Triz-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Strength.private.md|Triz-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Strength.personal.md|Triz-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Strength.secret.md|Triz-Strength.secret]] 

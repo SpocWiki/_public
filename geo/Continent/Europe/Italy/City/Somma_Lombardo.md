@@ -29,3 +29,12 @@ markerFile: [[Somma_Lombardo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Somma_Lombardo.md|Somma_Lombardo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Somma_Lombardo.internal.md|Somma_Lombardo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Somma_Lombardo.protect.md|Somma_Lombardo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Somma_Lombardo.private.md|Somma_Lombardo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Somma_Lombardo.personal.md|Somma_Lombardo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Somma_Lombardo.secret.md|Somma_Lombardo.secret]] 

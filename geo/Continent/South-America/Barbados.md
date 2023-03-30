@@ -128,3 +128,12 @@ markerFolder: ./Barbados/City
 [geo-lon::-59.5333]
 [geo-lat::13]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Barbados.md|Barbados]] 
+- [[../../../../_internal/geo/Continent/South-America/Barbados.internal.md|Barbados.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Barbados.protect.md|Barbados.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Barbados.private.md|Barbados.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Barbados.personal.md|Barbados.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Barbados.secret.md|Barbados.secret]] 

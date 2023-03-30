@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_media_item_appearance )
 ( #has_/range :: MediaObject )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_media_item_appearance.md|has_media_item_appearance]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_media_item_appearance.internal.md|has_media_item_appearance.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_media_item_appearance.protect.md|has_media_item_appearance.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_media_item_appearance.private.md|has_media_item_appearance.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_media_item_appearance.personal.md|has_media_item_appearance.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_media_item_appearance.secret.md|has_media_item_appearance.secret]] 

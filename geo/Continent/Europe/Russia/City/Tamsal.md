@@ -29,3 +29,12 @@ markerFile: [[Tamsal]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tamsal.md|Tamsal]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tamsal.internal.md|Tamsal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tamsal.protect.md|Tamsal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tamsal.private.md|Tamsal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tamsal.personal.md|Tamsal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tamsal.secret.md|Tamsal.secret]] 

@@ -45,3 +45,12 @@ A Category Code.
 
 [ #has_/properties :: [ additionalType, alternateName, codeValue, description, disambiguatingDescription, identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/defined_term/category_code.md|category_code]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/defined_term/category_code.internal.md|category_code.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/defined_term/category_code.protect.md|category_code.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/defined_term/category_code.private.md|category_code.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/defined_term/category_code.personal.md|category_code.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/defined_term/category_code.secret.md|category_code.secret]] 

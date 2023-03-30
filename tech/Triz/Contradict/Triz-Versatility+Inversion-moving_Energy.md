@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-moving_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Energy.md|Triz-Versatility+Inversion-moving_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Energy.internal.md|Triz-Versatility+Inversion-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Energy.protect.md|Triz-Versatility+Inversion-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Energy.private.md|Triz-Versatility+Inversion-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Energy.personal.md|Triz-Versatility+Inversion-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Inversion-moving_Energy.secret.md|Triz-Versatility+Inversion-moving_Energy.secret]] 

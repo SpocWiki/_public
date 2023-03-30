@@ -28,3 +28,12 @@ markerFile: [[Neunkirchen~Saar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.md|Neunkirchen~Saar]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.internal.md|Neunkirchen~Saar.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.protect.md|Neunkirchen~Saar.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.private.md|Neunkirchen~Saar.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.personal.md|Neunkirchen~Saar.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.secret.md|Neunkirchen~Saar.secret]] 

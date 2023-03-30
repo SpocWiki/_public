@@ -29,3 +29,12 @@ markerFile: [[Saarijaervi~Raj]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.md|Saarijaervi~Raj]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.internal.md|Saarijaervi~Raj.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.protect.md|Saarijaervi~Raj.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.private.md|Saarijaervi~Raj.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.personal.md|Saarijaervi~Raj.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.secret.md|Saarijaervi~Raj.secret]] 

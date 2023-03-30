@@ -29,3 +29,12 @@ markerFile: [[Zinten]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zinten.md|Zinten]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zinten.internal.md|Zinten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zinten.protect.md|Zinten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zinten.private.md|Zinten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zinten.personal.md|Zinten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zinten.secret.md|Zinten.secret]] 

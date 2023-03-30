@@ -41,3 +41,12 @@ A value indicating a steering position.
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/steering_position_value.md|steering_position_value]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/steering_position_value.internal.md|steering_position_value.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/steering_position_value.protect.md|steering_position_value.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/steering_position_value.private.md|steering_position_value.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/steering_position_value.personal.md|steering_position_value.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/steering_position_value.secret.md|steering_position_value.secret]] 

@@ -45,3 +45,12 @@ A MerchantReturnPolicy provides information about product return policies associ
 
 [ #has_/properties :: [ additionalProperty, additionalType, alternateName, applicableCountry, customerRemorseReturnFees, customerRemorseReturnLabelSource, customerRemorseReturnShippingFeesAmount, description, disambiguatingDescription, identifier, image, inStoreReturnsOffered, itemCondition, itemDefectReturnFees, itemDefectReturnLabelSource, itemDefectReturnShippingFeesAmount, mainEntityOfPage, merchantReturnDays, merchantReturnLink, name, potentialAction, refundType, restockingFee, returnFees, returnLabelSource, returnMethod, returnPolicyCategory, returnPolicyCountry, returnPolicySeasonalOverride, returnShippingFeesAmount, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/merchant_return_policy.md|merchant_return_policy]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/merchant_return_policy.internal.md|merchant_return_policy.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/merchant_return_policy.protect.md|merchant_return_policy.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/merchant_return_policy.private.md|merchant_return_policy.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/merchant_return_policy.personal.md|merchant_return_policy.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/merchant_return_policy.secret.md|merchant_return_policy.secret]] 

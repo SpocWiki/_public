@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: result ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_result_review.md|has_result_review]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_result_review.internal.md|has_result_review.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_result_review.protect.md|has_result_review.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_result_review.private.md|has_result_review.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_result_review.personal.md|has_result_review.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_result_review.secret.md|has_result_review.secret]] 

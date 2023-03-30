@@ -29,3 +29,12 @@ markerFile: [[Grottkau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Grottkau.md|Grottkau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Grottkau.internal.md|Grottkau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Grottkau.protect.md|Grottkau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Grottkau.private.md|Grottkau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Grottkau.personal.md|Grottkau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Grottkau.secret.md|Grottkau.secret]] 

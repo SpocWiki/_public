@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22205]]]
 - [con::[[Triz-moving_Volume]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-moving_Volume.md|Triz-10307+22205-moving_Volume]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-moving_Volume.internal.md|Triz-10307+22205-moving_Volume.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-moving_Volume.protect.md|Triz-10307+22205-moving_Volume.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-moving_Volume.private.md|Triz-10307+22205-moving_Volume.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-moving_Volume.personal.md|Triz-10307+22205-moving_Volume.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-moving_Volume.secret.md|Triz-10307+22205-moving_Volume.secret]] 

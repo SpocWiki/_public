@@ -29,3 +29,12 @@ markerFile: [[Pontivy]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Pontivy.md|Pontivy]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Pontivy.internal.md|Pontivy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Pontivy.protect.md|Pontivy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Pontivy.private.md|Pontivy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Pontivy.personal.md|Pontivy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Pontivy.secret.md|Pontivy.secret]] 

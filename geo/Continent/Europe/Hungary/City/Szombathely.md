@@ -29,3 +29,12 @@ markerFile: [[Szombathely]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szombathely.md|Szombathely]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szombathely.internal.md|Szombathely.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szombathely.protect.md|Szombathely.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szombathely.private.md|Szombathely.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szombathely.personal.md|Szombathely.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szombathely.secret.md|Szombathely.secret]] 

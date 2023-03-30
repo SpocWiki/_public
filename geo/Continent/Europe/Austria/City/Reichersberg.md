@@ -29,3 +29,12 @@ markerFile: [[Reichersberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Reichersberg.md|Reichersberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Reichersberg.internal.md|Reichersberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Reichersberg.protect.md|Reichersberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Reichersberg.private.md|Reichersberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Reichersberg.personal.md|Reichersberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Reichersberg.secret.md|Reichersberg.secret]] 

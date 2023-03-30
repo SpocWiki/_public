@@ -28,3 +28,12 @@ markerFile: [[Neumarkt~Oberpfalz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.md|Neumarkt~Oberpfalz]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.internal.md|Neumarkt~Oberpfalz.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.protect.md|Neumarkt~Oberpfalz.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.private.md|Neumarkt~Oberpfalz.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.personal.md|Neumarkt~Oberpfalz.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.secret.md|Neumarkt~Oberpfalz.secret]] 

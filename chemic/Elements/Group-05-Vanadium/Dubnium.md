@@ -32,3 +32,11 @@ SpocWebEntityId: 22000
 > Theoretical research establishes dubnium as a member of group 5 in the 6d series of transition metals, placing it under vanadium, niobium, and tantalum. Dubnium should share most properties, such as its valence electron configuration and having a dominant +5 oxidation state, with the other group 5 elements, with a few anomalies due to relativistic effects. A limited investigation of dubnium chemistry has confirmed this.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dubnium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-05-Vanadium/Dubnium.md|Dubnium]] 
+- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Dubnium.internal.md|Dubnium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Dubnium.protect.md|Dubnium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Dubnium.private.md|Dubnium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Dubnium.personal.md|Dubnium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Dubnium.secret.md|Dubnium.secret]] 

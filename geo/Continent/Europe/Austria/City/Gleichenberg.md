@@ -29,3 +29,12 @@ markerFile: [[Gleichenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gleichenberg.md|Gleichenberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gleichenberg.internal.md|Gleichenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gleichenberg.protect.md|Gleichenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gleichenberg.private.md|Gleichenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gleichenberg.personal.md|Gleichenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gleichenberg.secret.md|Gleichenberg.secret]] 

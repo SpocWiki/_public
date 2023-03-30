@@ -29,3 +29,12 @@ markerFile: [[Vaivara]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vaivara.md|Vaivara]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vaivara.internal.md|Vaivara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vaivara.protect.md|Vaivara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vaivara.private.md|Vaivara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vaivara.personal.md|Vaivara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vaivara.secret.md|Vaivara.secret]] 

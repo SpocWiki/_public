@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_release_notes )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_release_notes.md|has_release_notes]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_release_notes.internal.md|has_release_notes.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_release_notes.protect.md|has_release_notes.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_release_notes.private.md|has_release_notes.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_release_notes.personal.md|has_release_notes.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_release_notes.secret.md|has_release_notes.secret]] 

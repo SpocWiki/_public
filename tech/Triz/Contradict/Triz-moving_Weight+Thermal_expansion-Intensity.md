@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Thermal_expansion]]]
 - [con::[[Triz-Intensity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.md|Triz-moving_Weight+Thermal_expansion-Intensity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.internal.md|Triz-moving_Weight+Thermal_expansion-Intensity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.protect.md|Triz-moving_Weight+Thermal_expansion-Intensity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.private.md|Triz-moving_Weight+Thermal_expansion-Intensity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.personal.md|Triz-moving_Weight+Thermal_expansion-Intensity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.secret.md|Triz-moving_Weight+Thermal_expansion-Intensity.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Grein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Grein.md|Grein]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Grein.internal.md|Grein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Grein.protect.md|Grein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Grein.private.md|Grein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Grein.personal.md|Grein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Grein.secret.md|Grein.secret]] 

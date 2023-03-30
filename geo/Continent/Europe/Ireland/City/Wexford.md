@@ -29,3 +29,12 @@ markerFile: [[Wexford]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Wexford.md|Wexford]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Wexford.internal.md|Wexford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Wexford.protect.md|Wexford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Wexford.private.md|Wexford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Wexford.personal.md|Wexford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Wexford.secret.md|Wexford.secret]] 

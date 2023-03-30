@@ -28,3 +28,12 @@ markerFile: [[Ziegenhain]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.md|Ziegenhain]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.internal.md|Ziegenhain.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.protect.md|Ziegenhain.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.private.md|Ziegenhain.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.personal.md|Ziegenhain.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.secret.md|Ziegenhain.secret]] 

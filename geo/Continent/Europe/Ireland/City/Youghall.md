@@ -29,3 +29,12 @@ markerFile: [[Youghall]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Youghall.md|Youghall]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Youghall.internal.md|Youghall.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Youghall.protect.md|Youghall.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Youghall.private.md|Youghall.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Youghall.personal.md|Youghall.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Youghall.secret.md|Youghall.secret]] 

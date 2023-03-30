@@ -29,3 +29,12 @@ markerFile: [[Szabadka=Subotica]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Szabadka=Subotica.md|Szabadka=Subotica]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Szabadka=Subotica.internal.md|Szabadka=Subotica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Szabadka=Subotica.protect.md|Szabadka=Subotica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Szabadka=Subotica.private.md|Szabadka=Subotica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Szabadka=Subotica.personal.md|Szabadka=Subotica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Szabadka=Subotica.secret.md|Szabadka=Subotica.secret]] 

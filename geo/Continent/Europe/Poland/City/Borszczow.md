@@ -29,3 +29,12 @@ markerFile: [[Borszczow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Borszczow.md|Borszczow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Borszczow.internal.md|Borszczow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Borszczow.protect.md|Borszczow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Borszczow.private.md|Borszczow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Borszczow.personal.md|Borszczow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Borszczow.secret.md|Borszczow.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Ybbs~Donau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Ybbs~Donau.md|Ybbs~Donau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ybbs~Donau.internal.md|Ybbs~Donau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ybbs~Donau.protect.md|Ybbs~Donau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ybbs~Donau.private.md|Ybbs~Donau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ybbs~Donau.personal.md|Ybbs~Donau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ybbs~Donau.secret.md|Ybbs~Donau.secret]] 

@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_vehicle_special_usage )
 ( #has_/range :: CarUsageType, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_vehicle_special_usage.md|has_vehicle_special_usage]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_vehicle_special_usage.internal.md|has_vehicle_special_usage.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_vehicle_special_usage.protect.md|has_vehicle_special_usage.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_vehicle_special_usage.private.md|has_vehicle_special_usage.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_vehicle_special_usage.personal.md|has_vehicle_special_usage.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_vehicle_special_usage.secret.md|has_vehicle_special_usage.secret]] 

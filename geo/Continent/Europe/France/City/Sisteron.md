@@ -29,3 +29,12 @@ markerFile: [[Sisteron]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Sisteron.md|Sisteron]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sisteron.internal.md|Sisteron.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sisteron.protect.md|Sisteron.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Sisteron.private.md|Sisteron.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sisteron.personal.md|Sisteron.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sisteron.secret.md|Sisteron.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
 - [con::[[Triz-Shape]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.internal.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.protect.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.private.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.personal.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.secret.md|Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape.secret]] 

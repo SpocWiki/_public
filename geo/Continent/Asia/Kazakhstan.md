@@ -131,3 +131,12 @@ markerFolder: ./Kazakhstan/City
 [geo-lon::71.4167]
 [geo-lat::51.1667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Kazakhstan.md|Kazakhstan]] 
+- [[../../../../_internal/geo/Continent/Asia/Kazakhstan.internal.md|Kazakhstan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Kazakhstan.protect.md|Kazakhstan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Kazakhstan.private.md|Kazakhstan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Kazakhstan.personal.md|Kazakhstan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Kazakhstan.secret.md|Kazakhstan.secret]] 

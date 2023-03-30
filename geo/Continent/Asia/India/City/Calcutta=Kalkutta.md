@@ -28,3 +28,12 @@ markerFile: [[Calcutta=Kalkutta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/India/City/Calcutta=Kalkutta.md|Calcutta=Kalkutta]] 
+- [[../../../../../../_internal/geo/Continent/Asia/India/City/Calcutta=Kalkutta.internal.md|Calcutta=Kalkutta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/India/City/Calcutta=Kalkutta.protect.md|Calcutta=Kalkutta.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/India/City/Calcutta=Kalkutta.private.md|Calcutta=Kalkutta.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/India/City/Calcutta=Kalkutta.personal.md|Calcutta=Kalkutta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/India/City/Calcutta=Kalkutta.secret.md|Calcutta=Kalkutta.secret]] 

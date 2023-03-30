@@ -29,3 +29,12 @@ markerFile: [[Tropea]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Tropea.md|Tropea]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Tropea.internal.md|Tropea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Tropea.protect.md|Tropea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Tropea.private.md|Tropea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Tropea.personal.md|Tropea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Tropea.secret.md|Tropea.secret]] 

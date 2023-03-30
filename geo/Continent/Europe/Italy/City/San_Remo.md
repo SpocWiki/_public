@@ -29,3 +29,12 @@ markerFile: [[San_Remo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/San_Remo.md|San_Remo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Remo.internal.md|San_Remo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Remo.protect.md|San_Remo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/San_Remo.private.md|San_Remo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Remo.personal.md|San_Remo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Remo.secret.md|San_Remo.secret]] 

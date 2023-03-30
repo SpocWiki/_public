@@ -29,3 +29,12 @@ markerFile: [[Stanislawo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Stanislawo.md|Stanislawo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stanislawo.internal.md|Stanislawo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stanislawo.protect.md|Stanislawo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stanislawo.private.md|Stanislawo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stanislawo.personal.md|Stanislawo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stanislawo.secret.md|Stanislawo.secret]] 

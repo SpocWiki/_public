@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Transformation_of_physical_and_chemical_states_of_an_object]]]
 - [con::[[Triz-Stress]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.personal.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.secret.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.secret]] 

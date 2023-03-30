@@ -29,3 +29,12 @@ markerFile: [[St.Rupert]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Rupert.md|St.Rupert]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Rupert.internal.md|St.Rupert.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Rupert.protect.md|St.Rupert.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Rupert.private.md|St.Rupert.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Rupert.personal.md|St.Rupert.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Rupert.secret.md|St.Rupert.secret]] 

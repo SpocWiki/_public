@@ -34,3 +34,11 @@ SpocWebEntityId: 21963
 > Holmium has the highest magnetic permeability and magnetic saturation of any element and is thus used for the polepieces of the strongest static magnets. Because holmium strongly absorbs neutrons, it is also used as a burnable poison in nuclear reactors.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holmium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Lanthanide-Group/Holmium.md|Holmium]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Holmium.internal.md|Holmium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Holmium.protect.md|Holmium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Holmium.private.md|Holmium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Holmium.personal.md|Holmium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Holmium.secret.md|Holmium.secret]] 

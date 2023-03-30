@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-increase-Asymmetry]]]
 
 Use astigmatic optics to merge colors.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-astigmatic_optics.md|Triz-astigmatic_optics]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-astigmatic_optics.internal.md|Triz-astigmatic_optics.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-astigmatic_optics.protect.md|Triz-astigmatic_optics.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-astigmatic_optics.private.md|Triz-astigmatic_optics.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-astigmatic_optics.personal.md|Triz-astigmatic_optics.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-astigmatic_optics.secret.md|Triz-astigmatic_optics.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Albergo_Romobel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Albergo_Romobel.md|Albergo_Romobel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Albergo_Romobel.internal.md|Albergo_Romobel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Albergo_Romobel.protect.md|Albergo_Romobel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Albergo_Romobel.private.md|Albergo_Romobel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Albergo_Romobel.personal.md|Albergo_Romobel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Albergo_Romobel.secret.md|Albergo_Romobel.secret]] 

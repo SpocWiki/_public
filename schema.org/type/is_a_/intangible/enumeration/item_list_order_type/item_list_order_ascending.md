@@ -43,3 +43,12 @@ An ItemList ordered with lower values listed first.
 
 [ #is_/enum_of :: [[../ItemListOrderType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.md|item_list_order_ascending]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.internal.md|item_list_order_ascending.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.protect.md|item_list_order_ascending.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.private.md|item_list_order_ascending.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.personal.md|item_list_order_ascending.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.secret.md|item_list_order_ascending.secret]] 

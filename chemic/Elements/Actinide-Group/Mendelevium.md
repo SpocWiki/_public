@@ -29,3 +29,12 @@ SpocWebEntityId: 21996
 []
 (Charge-e::101)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Actinide-Group/Mendelevium.md|Mendelevium]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Mendelevium.internal.md|Mendelevium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Mendelevium.protect.md|Mendelevium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Mendelevium.private.md|Mendelevium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Mendelevium.personal.md|Mendelevium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Mendelevium.secret.md|Mendelevium.secret]] 

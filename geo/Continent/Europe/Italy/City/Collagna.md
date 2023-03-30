@@ -29,3 +29,12 @@ markerFile: [[Collagna]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Collagna.md|Collagna]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Collagna.internal.md|Collagna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Collagna.protect.md|Collagna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Collagna.private.md|Collagna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Collagna.personal.md|Collagna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Collagna.secret.md|Collagna.secret]] 

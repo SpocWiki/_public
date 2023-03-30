@@ -29,3 +29,12 @@ markerFile: [[Guttentag]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Guttentag.md|Guttentag]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Guttentag.internal.md|Guttentag.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Guttentag.protect.md|Guttentag.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Guttentag.private.md|Guttentag.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Guttentag.personal.md|Guttentag.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Guttentag.secret.md|Guttentag.secret]] 

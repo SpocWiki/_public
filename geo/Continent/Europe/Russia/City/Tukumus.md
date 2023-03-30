@@ -29,3 +29,12 @@ markerFile: [[Tukumus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tukumus.md|Tukumus]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tukumus.internal.md|Tukumus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tukumus.protect.md|Tukumus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tukumus.private.md|Tukumus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tukumus.personal.md|Tukumus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tukumus.secret.md|Tukumus.secret]] 

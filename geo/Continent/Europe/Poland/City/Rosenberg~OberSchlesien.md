@@ -29,3 +29,12 @@ markerFile: [[Rosenberg~OberSchlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.md|Rosenberg~OberSchlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.internal.md|Rosenberg~OberSchlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.protect.md|Rosenberg~OberSchlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.private.md|Rosenberg~OberSchlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.personal.md|Rosenberg~OberSchlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.secret.md|Rosenberg~OberSchlesien.secret]] 

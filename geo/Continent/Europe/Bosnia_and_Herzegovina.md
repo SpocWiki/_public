@@ -33,3 +33,12 @@ markerFolder: ./Bosnia_and_Herzegovina/City
 [geo-lon::18.43]
 [geo-lat::43.87]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina.md|Bosnia_and_Herzegovina]] 
+- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina.internal.md|Bosnia_and_Herzegovina.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina.protect.md|Bosnia_and_Herzegovina.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina.private.md|Bosnia_and_Herzegovina.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina.personal.md|Bosnia_and_Herzegovina.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina.secret.md|Bosnia_and_Herzegovina.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Sotkamo~Kalm.]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..md|Sotkamo~Kalm.]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..internal.md|Sotkamo~Kalm..internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..protect.md|Sotkamo~Kalm..protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..private.md|Sotkamo~Kalm..private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..personal.md|Sotkamo~Kalm..personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..secret.md|Sotkamo~Kalm..secret]] 

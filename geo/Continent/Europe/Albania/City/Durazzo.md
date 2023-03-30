@@ -29,3 +29,12 @@ markerFile: [[Durazzo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Durazzo.md|Durazzo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Durazzo.internal.md|Durazzo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Durazzo.protect.md|Durazzo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Durazzo.private.md|Durazzo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Durazzo.personal.md|Durazzo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Durazzo.secret.md|Durazzo.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Kaschbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kaschbach.md|Kaschbach]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kaschbach.internal.md|Kaschbach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kaschbach.protect.md|Kaschbach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kaschbach.private.md|Kaschbach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kaschbach.personal.md|Kaschbach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kaschbach.secret.md|Kaschbach.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Stalingrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stalingrad.md|Stalingrad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalingrad.internal.md|Stalingrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalingrad.protect.md|Stalingrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stalingrad.private.md|Stalingrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalingrad.personal.md|Stalingrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalingrad.secret.md|Stalingrad.secret]] 

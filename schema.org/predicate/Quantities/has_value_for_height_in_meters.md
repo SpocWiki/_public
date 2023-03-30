@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_height_in_meters )
 ( #has_/range :: Distance, QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_height_in_meters.md|has_value_for_height_in_meters]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_height_in_meters.internal.md|has_value_for_height_in_meters.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_height_in_meters.protect.md|has_value_for_height_in_meters.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_height_in_meters.private.md|has_value_for_height_in_meters.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_height_in_meters.personal.md|has_value_for_height_in_meters.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_height_in_meters.secret.md|has_value_for_height_in_meters.secret]] 

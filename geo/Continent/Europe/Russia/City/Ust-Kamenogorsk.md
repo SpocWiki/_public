@@ -29,3 +29,12 @@ markerFile: [[Ust-Kamenogorsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ust-Kamenogorsk.md|Ust-Kamenogorsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ust-Kamenogorsk.internal.md|Ust-Kamenogorsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ust-Kamenogorsk.protect.md|Ust-Kamenogorsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ust-Kamenogorsk.private.md|Ust-Kamenogorsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ust-Kamenogorsk.personal.md|Ust-Kamenogorsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ust-Kamenogorsk.secret.md|Ust-Kamenogorsk.secret]] 

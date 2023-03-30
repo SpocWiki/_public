@@ -34,3 +34,12 @@ SpocWebEntityId: 21966
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ytterbium)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Lanthanide-Group/Ytterbium.md|Ytterbium]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Ytterbium.internal.md|Ytterbium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Ytterbium.protect.md|Ytterbium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Ytterbium.private.md|Ytterbium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Ytterbium.personal.md|Ytterbium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Ytterbium.secret.md|Ytterbium.secret]] 

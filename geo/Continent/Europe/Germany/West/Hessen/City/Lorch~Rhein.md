@@ -28,3 +28,12 @@ markerFile: [[Lorch~Rhein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Lorch~Rhein.md|Lorch~Rhein]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lorch~Rhein.internal.md|Lorch~Rhein.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lorch~Rhein.protect.md|Lorch~Rhein.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lorch~Rhein.private.md|Lorch~Rhein.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Lorch~Rhein.personal.md|Lorch~Rhein.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Lorch~Rhein.secret.md|Lorch~Rhein.secret]] 

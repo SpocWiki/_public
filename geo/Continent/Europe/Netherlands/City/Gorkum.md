@@ -29,3 +29,12 @@ markerFile: [[Gorkum]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Gorkum.md|Gorkum]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Gorkum.internal.md|Gorkum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Gorkum.protect.md|Gorkum.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Gorkum.private.md|Gorkum.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Gorkum.personal.md|Gorkum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Gorkum.secret.md|Gorkum.secret]] 

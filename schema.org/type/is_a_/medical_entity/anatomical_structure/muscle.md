@@ -41,3 +41,12 @@ A muscle is an anatomical structure consisting of a contractile form of tissue t
 
 [ #has_/properties :: [ additionalType, alternateName, antagonist, associatedPathophysiology, bloodSupply, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, insertion, legalStatus, mainEntityOfPage, medicineSystem, muscleAction, name, nerve, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.md|muscle]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.internal.md|muscle.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.protect.md|muscle.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.private.md|muscle.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.personal.md|muscle.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.secret.md|muscle.secret]] 

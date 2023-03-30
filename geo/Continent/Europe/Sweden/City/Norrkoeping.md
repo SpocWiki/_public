@@ -29,3 +29,12 @@ markerFile: [[Norrkoeping]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Norrkoeping.md|Norrkoeping]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Norrkoeping.internal.md|Norrkoeping.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Norrkoeping.protect.md|Norrkoeping.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Norrkoeping.private.md|Norrkoeping.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Norrkoeping.personal.md|Norrkoeping.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Norrkoeping.secret.md|Norrkoeping.secret]] 

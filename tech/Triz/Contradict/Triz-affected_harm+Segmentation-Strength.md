@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Strength]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.md|Triz-affected_harm+Segmentation-Strength]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.internal.md|Triz-affected_harm+Segmentation-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.protect.md|Triz-affected_harm+Segmentation-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.private.md|Triz-affected_harm+Segmentation-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.personal.md|Triz-affected_harm+Segmentation-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.secret.md|Triz-affected_harm+Segmentation-Strength.secret]] 

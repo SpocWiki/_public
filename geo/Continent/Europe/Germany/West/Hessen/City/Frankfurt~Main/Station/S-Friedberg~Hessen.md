@@ -24,3 +24,12 @@ markerFile: [[S-Friedberg~Hessen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedberg~Hessen.md|S-Friedberg~Hessen]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedberg~Hessen.internal.md|S-Friedberg~Hessen.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedberg~Hessen.protect.md|S-Friedberg~Hessen.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedberg~Hessen.private.md|S-Friedberg~Hessen.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedberg~Hessen.personal.md|S-Friedberg~Hessen.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Friedberg~Hessen.secret.md|S-Friedberg~Hessen.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Adelsberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Adelsberg.md|Adelsberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Adelsberg.internal.md|Adelsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Adelsberg.protect.md|Adelsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Adelsberg.private.md|Adelsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Adelsberg.personal.md|Adelsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Adelsberg.secret.md|Adelsberg.secret]] 

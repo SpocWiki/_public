@@ -29,3 +29,12 @@ markerFile: [[Surop]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Surop.md|Surop]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Surop.internal.md|Surop.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Surop.protect.md|Surop.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Surop.private.md|Surop.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Surop.personal.md|Surop.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Surop.secret.md|Surop.secret]] 

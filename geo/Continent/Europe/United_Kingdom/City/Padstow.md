@@ -29,3 +29,12 @@ markerFile: [[Padstow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Padstow.md|Padstow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Padstow.internal.md|Padstow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Padstow.protect.md|Padstow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Padstow.private.md|Padstow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Padstow.personal.md|Padstow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Padstow.secret.md|Padstow.secret]] 

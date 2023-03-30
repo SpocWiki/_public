@@ -29,3 +29,12 @@ markerFile: [[San_Sebastian]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/San_Sebastian.md|San_Sebastian]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/San_Sebastian.internal.md|San_Sebastian.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/San_Sebastian.protect.md|San_Sebastian.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/San_Sebastian.private.md|San_Sebastian.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/San_Sebastian.personal.md|San_Sebastian.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/San_Sebastian.secret.md|San_Sebastian.secret]] 

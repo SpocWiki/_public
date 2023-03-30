@@ -29,3 +29,12 @@ markerFile: [[Lodi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lodi.md|Lodi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lodi.internal.md|Lodi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lodi.protect.md|Lodi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lodi.private.md|Lodi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lodi.personal.md|Lodi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lodi.secret.md|Lodi.secret]] 

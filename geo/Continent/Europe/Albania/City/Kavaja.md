@@ -29,3 +29,12 @@ markerFile: [[Kavaja]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Kavaja.md|Kavaja]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Kavaja.internal.md|Kavaja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Kavaja.protect.md|Kavaja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Kavaja.private.md|Kavaja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Kavaja.personal.md|Kavaja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Kavaja.secret.md|Kavaja.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Gaillac]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Gaillac.md|Gaillac]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gaillac.internal.md|Gaillac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gaillac.protect.md|Gaillac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Gaillac.private.md|Gaillac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gaillac.personal.md|Gaillac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gaillac.secret.md|Gaillac.secret]] 

@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_grantee )
 ( #has_/range :: Audience, ContactPoint, Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_grantee.md|has_grantee]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_grantee.internal.md|has_grantee.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_grantee.protect.md|has_grantee.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_grantee.private.md|has_grantee.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_grantee.personal.md|has_grantee.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_grantee.secret.md|has_grantee.secret]] 

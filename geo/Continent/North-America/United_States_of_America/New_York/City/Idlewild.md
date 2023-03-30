@@ -28,3 +28,12 @@ markerFile: [[Idlewild]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.md|Idlewild]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.internal.md|Idlewild.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.protect.md|Idlewild.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.private.md|Idlewild.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.personal.md|Idlewild.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.secret.md|Idlewild.secret]] 

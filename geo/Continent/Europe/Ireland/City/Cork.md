@@ -29,3 +29,12 @@ markerFile: [[Cork]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Cork.md|Cork]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Cork.internal.md|Cork.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Cork.protect.md|Cork.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Cork.private.md|Cork.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Cork.personal.md|Cork.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Cork.secret.md|Cork.secret]] 

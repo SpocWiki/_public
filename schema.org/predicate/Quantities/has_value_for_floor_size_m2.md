@@ -44,3 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_floor_size_m2 )
 ( #has_/range :: QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.md|has_value_for_floor_size_m2]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.internal.md|has_value_for_floor_size_m2.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.protect.md|has_value_for_floor_size_m2.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.private.md|has_value_for_floor_size_m2.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.personal.md|has_value_for_floor_size_m2.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.secret.md|has_value_for_floor_size_m2.secret]] 

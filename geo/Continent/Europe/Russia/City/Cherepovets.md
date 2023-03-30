@@ -29,3 +29,12 @@ markerFile: [[Cherepovets]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Cherepovets.md|Cherepovets]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Cherepovets.internal.md|Cherepovets.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Cherepovets.protect.md|Cherepovets.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Cherepovets.private.md|Cherepovets.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Cherepovets.personal.md|Cherepovets.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Cherepovets.secret.md|Cherepovets.secret]] 

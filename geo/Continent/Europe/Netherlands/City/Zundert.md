@@ -29,3 +29,12 @@ markerFile: [[Zundert]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Zundert.md|Zundert]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zundert.internal.md|Zundert.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zundert.protect.md|Zundert.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zundert.private.md|Zundert.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zundert.personal.md|Zundert.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zundert.secret.md|Zundert.secret]] 

@@ -134,3 +134,12 @@ markerFolder: ./Nigeria/City
 [geo-lon::6.46778]
 [geo-lat::9.17222]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Nigeria.md|Nigeria]] 
+- [[../../../../_internal/geo/Continent/Africa/Nigeria.internal.md|Nigeria.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Nigeria.protect.md|Nigeria.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Nigeria.private.md|Nigeria.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Nigeria.personal.md|Nigeria.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Nigeria.secret.md|Nigeria.secret]] 

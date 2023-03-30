@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_by_day )
 ( #has_/range :: DayOfWeek, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_by_day.md|is_by_day]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_by_day.internal.md|is_by_day.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_by_day.protect.md|is_by_day.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_by_day.private.md|is_by_day.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_by_day.personal.md|is_by_day.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_by_day.secret.md|is_by_day.secret]] 

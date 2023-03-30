@@ -35,3 +35,12 @@ markerFolder: ./Central_African_Rep/City
 [geo-lon::18.5833]
 [geo-lat::4.36667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Central_African_Rep.md|Central_African_Rep]] 
+- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep.internal.md|Central_African_Rep.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep.protect.md|Central_African_Rep.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Central_African_Rep.private.md|Central_African_Rep.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep.personal.md|Central_African_Rep.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep.secret.md|Central_African_Rep.secret]] 

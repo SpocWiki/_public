@@ -29,3 +29,12 @@ markerFile: [[Douai]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Douai.md|Douai]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Douai.internal.md|Douai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Douai.protect.md|Douai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Douai.private.md|Douai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Douai.personal.md|Douai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Douai.secret.md|Douai.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Waldbuettelbrunn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.md|Waldbuettelbrunn]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.internal.md|Waldbuettelbrunn.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.protect.md|Waldbuettelbrunn.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.private.md|Waldbuettelbrunn.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.personal.md|Waldbuettelbrunn.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.secret.md|Waldbuettelbrunn.secret]] 

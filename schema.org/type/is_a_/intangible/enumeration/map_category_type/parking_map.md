@@ -43,3 +43,12 @@ A parking map.
 
 [ #is_/enum_of :: [[../MapCategoryType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/map_category_type/parking_map.md|parking_map]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/map_category_type/parking_map.internal.md|parking_map.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/map_category_type/parking_map.protect.md|parking_map.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/map_category_type/parking_map.private.md|parking_map.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/map_category_type/parking_map.personal.md|parking_map.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/map_category_type/parking_map.secret.md|parking_map.secret]] 

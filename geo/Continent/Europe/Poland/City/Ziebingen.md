@@ -29,3 +29,12 @@ markerFile: [[Ziebingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ziebingen.md|Ziebingen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ziebingen.internal.md|Ziebingen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ziebingen.protect.md|Ziebingen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ziebingen.private.md|Ziebingen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ziebingen.personal.md|Ziebingen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ziebingen.secret.md|Ziebingen.secret]] 

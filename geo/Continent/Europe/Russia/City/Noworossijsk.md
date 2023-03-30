@@ -29,3 +29,12 @@ markerFile: [[Noworossijsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Noworossijsk.md|Noworossijsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Noworossijsk.internal.md|Noworossijsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Noworossijsk.protect.md|Noworossijsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Noworossijsk.private.md|Noworossijsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Noworossijsk.personal.md|Noworossijsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Noworossijsk.secret.md|Noworossijsk.secret]] 

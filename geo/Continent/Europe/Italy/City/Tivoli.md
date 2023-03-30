@@ -29,3 +29,12 @@ markerFile: [[Tivoli]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Tivoli.md|Tivoli]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Tivoli.internal.md|Tivoli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Tivoli.protect.md|Tivoli.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Tivoli.private.md|Tivoli.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Tivoli.personal.md|Tivoli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Tivoli.secret.md|Tivoli.secret]] 

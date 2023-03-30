@@ -29,3 +29,12 @@ markerFile: [[Immingham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Immingham.md|Immingham]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Immingham.internal.md|Immingham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Immingham.protect.md|Immingham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Immingham.private.md|Immingham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Immingham.personal.md|Immingham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Immingham.secret.md|Immingham.secret]] 

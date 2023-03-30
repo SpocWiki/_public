@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-Difficulty]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.md|Triz-stationary_Volume+Extraction-Difficulty]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.internal.md|Triz-stationary_Volume+Extraction-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.protect.md|Triz-stationary_Volume+Extraction-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.private.md|Triz-stationary_Volume+Extraction-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.personal.md|Triz-stationary_Volume+Extraction-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.secret.md|Triz-stationary_Volume+Extraction-Difficulty.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Rauma]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Rauma.md|Rauma]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Rauma.internal.md|Rauma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Rauma.protect.md|Rauma.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Rauma.private.md|Rauma.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Rauma.personal.md|Rauma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Rauma.secret.md|Rauma.secret]] 

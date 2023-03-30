@@ -29,3 +29,12 @@ markerFile: [[Mardakert]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mardakert.md|Mardakert]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mardakert.internal.md|Mardakert.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mardakert.protect.md|Mardakert.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mardakert.private.md|Mardakert.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mardakert.personal.md|Mardakert.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mardakert.secret.md|Mardakert.secret]] 

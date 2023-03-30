@@ -29,3 +29,12 @@ markerFile: [[Bishkek]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.md|Bishkek]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.internal.md|Bishkek.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.protect.md|Bishkek.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.private.md|Bishkek.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.personal.md|Bishkek.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.secret.md|Bishkek.secret]] 

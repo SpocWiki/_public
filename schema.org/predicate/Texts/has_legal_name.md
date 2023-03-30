@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_legal_name )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_legal_name.md|has_legal_name]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_legal_name.internal.md|has_legal_name.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_legal_name.protect.md|has_legal_name.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_legal_name.private.md|has_legal_name.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_legal_name.personal.md|has_legal_name.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_legal_name.secret.md|has_legal_name.secret]] 

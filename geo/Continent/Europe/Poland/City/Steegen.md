@@ -29,3 +29,12 @@ markerFile: [[Steegen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Steegen.md|Steegen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Steegen.internal.md|Steegen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Steegen.protect.md|Steegen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Steegen.private.md|Steegen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Steegen.personal.md|Steegen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Steegen.secret.md|Steegen.secret]] 

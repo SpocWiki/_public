@@ -29,3 +29,12 @@ markerFile: [[Valdgano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Valdgano.md|Valdgano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Valdgano.internal.md|Valdgano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Valdgano.protect.md|Valdgano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Valdgano.private.md|Valdgano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Valdgano.personal.md|Valdgano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Valdgano.secret.md|Valdgano.secret]] 

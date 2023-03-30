@@ -29,3 +29,12 @@ markerFile: [[Zaisan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zaisan.md|Zaisan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaisan.internal.md|Zaisan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaisan.protect.md|Zaisan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zaisan.private.md|Zaisan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaisan.personal.md|Zaisan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaisan.secret.md|Zaisan.secret]] 

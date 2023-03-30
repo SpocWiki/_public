@@ -29,3 +29,12 @@ markerFile: [[Badajoz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Badajoz.md|Badajoz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Badajoz.internal.md|Badajoz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Badajoz.protect.md|Badajoz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Badajoz.private.md|Badajoz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Badajoz.personal.md|Badajoz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Badajoz.secret.md|Badajoz.secret]] 

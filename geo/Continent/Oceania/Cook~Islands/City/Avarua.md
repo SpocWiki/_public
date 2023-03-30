@@ -29,3 +29,12 @@ markerFile: [[Avarua]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/City/Avarua.md|Avarua]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/City/Avarua.internal.md|Avarua.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/City/Avarua.protect.md|Avarua.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/City/Avarua.private.md|Avarua.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/City/Avarua.personal.md|Avarua.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/City/Avarua.secret.md|Avarua.secret]] 

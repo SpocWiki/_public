@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: supply ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_ingredients.md|has_ingredients]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_ingredients.internal.md|has_ingredients.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_ingredients.protect.md|has_ingredients.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_ingredients.private.md|has_ingredients.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_ingredients.personal.md|has_ingredients.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_ingredients.secret.md|has_ingredients.secret]] 

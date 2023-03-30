@@ -29,3 +29,12 @@ markerFile: [[Malaga]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Malaga.md|Malaga]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Malaga.internal.md|Malaga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Malaga.protect.md|Malaga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Malaga.private.md|Malaga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Malaga.personal.md|Malaga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Malaga.secret.md|Malaga.secret]] 

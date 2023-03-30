@@ -29,3 +29,12 @@ markerFile: [[Kecskemet]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Kecskemet.md|Kecskemet]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kecskemet.internal.md|Kecskemet.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kecskemet.protect.md|Kecskemet.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kecskemet.private.md|Kecskemet.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kecskemet.personal.md|Kecskemet.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kecskemet.secret.md|Kecskemet.secret]] 

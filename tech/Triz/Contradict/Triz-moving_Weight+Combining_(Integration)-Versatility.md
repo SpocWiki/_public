@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Combining_(Integration)]]]
 - [con::[[Triz-Versatility]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Combining_(Integration)-Versatility.md|Triz-moving_Weight+Combining_(Integration)-Versatility]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Combining_(Integration)-Versatility.internal.md|Triz-moving_Weight+Combining_(Integration)-Versatility.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Combining_(Integration)-Versatility.protect.md|Triz-moving_Weight+Combining_(Integration)-Versatility.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Combining_(Integration)-Versatility.private.md|Triz-moving_Weight+Combining_(Integration)-Versatility.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Combining_(Integration)-Versatility.personal.md|Triz-moving_Weight+Combining_(Integration)-Versatility.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Combining_(Integration)-Versatility.secret.md|Triz-moving_Weight+Combining_(Integration)-Versatility.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Liaskowik]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Liaskowik.md|Liaskowik]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Liaskowik.internal.md|Liaskowik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Liaskowik.protect.md|Liaskowik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Liaskowik.private.md|Liaskowik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Liaskowik.personal.md|Liaskowik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Liaskowik.secret.md|Liaskowik.secret]] 

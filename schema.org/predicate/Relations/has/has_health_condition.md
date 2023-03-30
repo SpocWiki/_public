@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_health_condition )
 ( #has_/range :: MedicalCondition )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_health_condition.md|has_health_condition]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_health_condition.internal.md|has_health_condition.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_health_condition.protect.md|has_health_condition.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_health_condition.private.md|has_health_condition.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_health_condition.personal.md|has_health_condition.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_health_condition.secret.md|has_health_condition.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Feldkirch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Feldkirch.md|Feldkirch]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Feldkirch.internal.md|Feldkirch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Feldkirch.protect.md|Feldkirch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Feldkirch.private.md|Feldkirch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Feldkirch.personal.md|Feldkirch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Feldkirch.secret.md|Feldkirch.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Talamone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Talamone.md|Talamone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Talamone.internal.md|Talamone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Talamone.protect.md|Talamone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Talamone.private.md|Talamone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Talamone.personal.md|Talamone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Talamone.secret.md|Talamone.secret]] 

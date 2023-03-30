@@ -45,3 +45,12 @@ OnlineEventAttendanceMode - an event that is primarily conducted online.
 
 [ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.md|online_event_attendance_mode]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.internal.md|online_event_attendance_mode.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.protect.md|online_event_attendance_mode.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.private.md|online_event_attendance_mode.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.personal.md|online_event_attendance_mode.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.secret.md|online_event_attendance_mode.secret]] 

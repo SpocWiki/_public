@@ -29,3 +29,12 @@ markerFile: [[Cordoba]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Cordoba.md|Cordoba]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Cordoba.internal.md|Cordoba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Cordoba.protect.md|Cordoba.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Cordoba.private.md|Cordoba.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Cordoba.personal.md|Cordoba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Cordoba.secret.md|Cordoba.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Saintes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Saintes.md|Saintes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Saintes.internal.md|Saintes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Saintes.protect.md|Saintes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Saintes.private.md|Saintes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Saintes.personal.md|Saintes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Saintes.secret.md|Saintes.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Koenigsberg~Neumark]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.md|Koenigsberg~Neumark]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.internal.md|Koenigsberg~Neumark.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.protect.md|Koenigsberg~Neumark.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.private.md|Koenigsberg~Neumark.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.personal.md|Koenigsberg~Neumark.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.secret.md|Koenigsberg~Neumark.secret]] 

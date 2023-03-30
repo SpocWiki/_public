@@ -29,3 +29,12 @@ markerFile: [[Hatvan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Hatvan.md|Hatvan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hatvan.internal.md|Hatvan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hatvan.protect.md|Hatvan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Hatvan.private.md|Hatvan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hatvan.personal.md|Hatvan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hatvan.secret.md|Hatvan.secret]] 

@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_ticket_number )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_ticket_number.md|has_ticket_number]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_ticket_number.internal.md|has_ticket_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_ticket_number.protect.md|has_ticket_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_ticket_number.private.md|has_ticket_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_ticket_number.personal.md|has_ticket_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_ticket_number.secret.md|has_ticket_number.secret]] 

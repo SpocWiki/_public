@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_legislation_identifier.md|has_legislation_identifier]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_legislation_identifier.internal.md|has_legislation_identifier.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_legislation_identifier.protect.md|has_legislation_identifier.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_legislation_identifier.private.md|has_legislation_identifier.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_legislation_identifier.personal.md|has_legislation_identifier.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_legislation_identifier.secret.md|has_legislation_identifier.secret]] 

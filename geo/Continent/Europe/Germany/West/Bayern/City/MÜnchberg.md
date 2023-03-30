@@ -28,3 +28,12 @@ markerFile: [[MÜnchberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/MÜnchberg.md|MÜnchberg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/MÜnchberg.internal.md|MÜnchberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/MÜnchberg.protect.md|MÜnchberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/MÜnchberg.private.md|MÜnchberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/MÜnchberg.personal.md|MÜnchberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/MÜnchberg.secret.md|MÜnchberg.secret]] 

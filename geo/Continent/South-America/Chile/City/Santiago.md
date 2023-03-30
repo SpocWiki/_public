@@ -29,3 +29,12 @@ markerFile: [[Santiago]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Chile/City/Santiago.md|Santiago]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Chile/City/Santiago.internal.md|Santiago.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Chile/City/Santiago.protect.md|Santiago.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Chile/City/Santiago.private.md|Santiago.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Chile/City/Santiago.personal.md|Santiago.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Chile/City/Santiago.secret.md|Santiago.secret]] 

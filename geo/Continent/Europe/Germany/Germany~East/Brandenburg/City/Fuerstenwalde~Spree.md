@@ -28,3 +28,12 @@ markerFile: [[Fuerstenwalde~Spree]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.md|Fuerstenwalde~Spree]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.internal.md|Fuerstenwalde~Spree.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.protect.md|Fuerstenwalde~Spree.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.private.md|Fuerstenwalde~Spree.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.personal.md|Fuerstenwalde~Spree.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.secret.md|Fuerstenwalde~Spree.secret]] 

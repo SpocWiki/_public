@@ -29,3 +29,12 @@ markerFile: [[Stallupoenen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stallupoenen.md|Stallupoenen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stallupoenen.internal.md|Stallupoenen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stallupoenen.protect.md|Stallupoenen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stallupoenen.private.md|Stallupoenen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stallupoenen.personal.md|Stallupoenen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stallupoenen.secret.md|Stallupoenen.secret]] 

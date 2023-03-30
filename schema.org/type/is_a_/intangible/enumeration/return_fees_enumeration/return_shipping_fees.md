@@ -45,3 +45,12 @@ Specifies that the customer must pay the return shipping costs when returning a 
 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.md|return_shipping_fees]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.internal.md|return_shipping_fees.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.protect.md|return_shipping_fees.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.private.md|return_shipping_fees.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.personal.md|return_shipping_fees.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.secret.md|return_shipping_fees.secret]] 

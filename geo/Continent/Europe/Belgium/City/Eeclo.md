@@ -29,3 +29,12 @@ markerFile: [[Eeclo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Eeclo.md|Eeclo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Eeclo.internal.md|Eeclo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Eeclo.protect.md|Eeclo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Eeclo.private.md|Eeclo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Eeclo.personal.md|Eeclo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Eeclo.secret.md|Eeclo.secret]] 

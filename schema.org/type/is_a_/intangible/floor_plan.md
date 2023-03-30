@@ -43,3 +43,12 @@ A FloorPlan is an explicit representation of a collection of similar accommodati
 
 [ #has_/properties :: [ additionalType, alternateName, amenityFeature, description, disambiguatingDescription, floorSize, identifier, image, isPlanForApartment, layoutImage, mainEntityOfPage, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, petsAllowed, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/floor_plan.md|floor_plan]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/floor_plan.internal.md|floor_plan.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/floor_plan.protect.md|floor_plan.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/floor_plan.private.md|floor_plan.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/floor_plan.personal.md|floor_plan.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/floor_plan.secret.md|floor_plan.secret]] 

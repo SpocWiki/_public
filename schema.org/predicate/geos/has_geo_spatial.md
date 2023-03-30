@@ -44,3 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_spatial )
 ( #has_/range :: Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_spatial.md|has_geo_spatial]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_spatial.internal.md|has_geo_spatial.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_spatial.protect.md|has_geo_spatial.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_spatial.private.md|has_geo_spatial.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_spatial.personal.md|has_geo_spatial.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_spatial.secret.md|has_geo_spatial.secret]] 

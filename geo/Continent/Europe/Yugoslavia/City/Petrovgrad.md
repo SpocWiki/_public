@@ -29,3 +29,12 @@ markerFile: [[Petrovgrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.md|Petrovgrad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.internal.md|Petrovgrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.protect.md|Petrovgrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.private.md|Petrovgrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.personal.md|Petrovgrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.secret.md|Petrovgrad.secret]] 

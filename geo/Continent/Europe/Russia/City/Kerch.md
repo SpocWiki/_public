@@ -29,3 +29,12 @@ markerFile: [[Kerch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kerch.md|Kerch]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kerch.internal.md|Kerch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kerch.protect.md|Kerch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kerch.private.md|Kerch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kerch.personal.md|Kerch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kerch.secret.md|Kerch.secret]] 

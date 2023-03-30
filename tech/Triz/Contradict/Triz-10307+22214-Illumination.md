@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22214]]]
 - [con::[[Triz-Illumination]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22214-Illumination.md|Triz-10307+22214-Illumination]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22214-Illumination.internal.md|Triz-10307+22214-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22214-Illumination.protect.md|Triz-10307+22214-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22214-Illumination.private.md|Triz-10307+22214-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22214-Illumination.personal.md|Triz-10307+22214-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22214-Illumination.secret.md|Triz-10307+22214-Illumination.secret]] 

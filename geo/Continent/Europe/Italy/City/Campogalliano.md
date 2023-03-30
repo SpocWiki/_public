@@ -29,3 +29,12 @@ markerFile: [[Campogalliano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Campogalliano.md|Campogalliano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Campogalliano.internal.md|Campogalliano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Campogalliano.protect.md|Campogalliano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Campogalliano.private.md|Campogalliano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Campogalliano.personal.md|Campogalliano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Campogalliano.secret.md|Campogalliano.secret]] 

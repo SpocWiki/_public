@@ -29,3 +29,12 @@ markerFile: [[Montreuil]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Montreuil.md|Montreuil]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Montreuil.internal.md|Montreuil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Montreuil.protect.md|Montreuil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Montreuil.private.md|Montreuil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Montreuil.personal.md|Montreuil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Montreuil.secret.md|Montreuil.secret]] 

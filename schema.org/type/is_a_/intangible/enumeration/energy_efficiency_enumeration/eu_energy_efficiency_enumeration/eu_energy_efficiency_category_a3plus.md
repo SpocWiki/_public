@@ -45,3 +45,12 @@ Represents EU Energy Efficiency Class A+++ as defined in EU energy labeling regu
 
 [ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a3plus.md|eu_energy_efficiency_category_a3plus]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a3plus.internal.md|eu_energy_efficiency_category_a3plus.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a3plus.protect.md|eu_energy_efficiency_category_a3plus.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a3plus.private.md|eu_energy_efficiency_category_a3plus.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a3plus.personal.md|eu_energy_efficiency_category_a3plus.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a3plus.secret.md|eu_energy_efficiency_category_a3plus.secret]] 

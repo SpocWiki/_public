@@ -43,3 +43,12 @@ A diet appropriate for people with diabetes.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.md|diabetic_diet]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.internal.md|diabetic_diet.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.protect.md|diabetic_diet.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.private.md|diabetic_diet.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.personal.md|diabetic_diet.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.secret.md|diabetic_diet.secret]] 

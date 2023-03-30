@@ -14,3 +14,12 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%209%20element)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/chemic/Elements/Group-09-Cobalt.md|Group-09-Cobalt]] 
+- [[../../../_internal/chemic/Elements/Group-09-Cobalt.internal.md|Group-09-Cobalt.internal]] 
+- [[../../../_protect/chemic/Elements/Group-09-Cobalt.protect.md|Group-09-Cobalt.protect]] 
+- [[../../../_private/chemic/Elements/Group-09-Cobalt.private.md|Group-09-Cobalt.private]] 
+- [[../../../_personal/chemic/Elements/Group-09-Cobalt.personal.md|Group-09-Cobalt.personal]] 
+- [[../../../_secret/chemic/Elements/Group-09-Cobalt.secret.md|Group-09-Cobalt.secret]] 

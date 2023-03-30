@@ -32,3 +32,11 @@ SpocWebEntityId: 21946
 > Indium has no biological role. Its compounds are toxic when injected into the bloodstream. Most occupational exposure is through ingestion, from which indium compounds are not absorbed well, and inhalation, from which they are moderately absorbed.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-13-Boron/Indium.md|Indium]] 
+- [[../../../../_internal/chemic/Elements/Group-13-Boron/Indium.internal.md|Indium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-13-Boron/Indium.protect.md|Indium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-13-Boron/Indium.private.md|Indium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-13-Boron/Indium.personal.md|Indium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-13-Boron/Indium.secret.md|Indium.secret]] 

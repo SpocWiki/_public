@@ -29,3 +29,12 @@ markerFile: [[Szczawinca]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Szczawinca.md|Szczawinca]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Szczawinca.internal.md|Szczawinca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Szczawinca.protect.md|Szczawinca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Szczawinca.private.md|Szczawinca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Szczawinca.personal.md|Szczawinca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Szczawinca.secret.md|Szczawinca.secret]] 

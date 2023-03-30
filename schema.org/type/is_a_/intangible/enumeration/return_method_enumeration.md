@@ -41,3 +41,12 @@ Enumerates several types of product return methods.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration.md|return_method_enumeration]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration.internal.md|return_method_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration.protect.md|return_method_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration.private.md|return_method_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration.personal.md|return_method_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration.secret.md|return_method_enumeration.secret]] 

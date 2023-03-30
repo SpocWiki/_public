@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_suggested_min_age )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_suggested_min_age.md|has_value_for_suggested_min_age]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_suggested_min_age.internal.md|has_value_for_suggested_min_age.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_suggested_min_age.protect.md|has_value_for_suggested_min_age.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_suggested_min_age.private.md|has_value_for_suggested_min_age.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_suggested_min_age.personal.md|has_value_for_suggested_min_age.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_suggested_min_age.secret.md|has_value_for_suggested_min_age.secret]] 

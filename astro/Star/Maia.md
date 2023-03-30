@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Maia.md|Maia]] 
+- [[../../../_internal/astro/Star/Maia.internal.md|Maia.internal]] 
+- [[../../../_protect/astro/Star/Maia.protect.md|Maia.protect]] 
+- [[../../../_private/astro/Star/Maia.private.md|Maia.private]] 
+- [[../../../_personal/astro/Star/Maia.personal.md|Maia.personal]] 
+- [[../../../_secret/astro/Star/Maia.secret.md|Maia.secret]] 

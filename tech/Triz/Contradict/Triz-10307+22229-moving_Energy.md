@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22229]]]
 - [con::[[Triz-moving_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-moving_Energy.md|Triz-10307+22229-moving_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-moving_Energy.internal.md|Triz-10307+22229-moving_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-moving_Energy.protect.md|Triz-10307+22229-moving_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22229-moving_Energy.private.md|Triz-10307+22229-moving_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22229-moving_Energy.personal.md|Triz-10307+22229-moving_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22229-moving_Energy.secret.md|Triz-10307+22229-moving_Energy.secret]] 

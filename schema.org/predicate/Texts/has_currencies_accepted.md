@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_currencies_accepted )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_currencies_accepted.md|has_currencies_accepted]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_currencies_accepted.internal.md|has_currencies_accepted.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_currencies_accepted.protect.md|has_currencies_accepted.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_currencies_accepted.private.md|has_currencies_accepted.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_currencies_accepted.personal.md|has_currencies_accepted.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_currencies_accepted.secret.md|has_currencies_accepted.secret]] 

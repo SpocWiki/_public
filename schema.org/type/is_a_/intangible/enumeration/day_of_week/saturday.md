@@ -43,3 +43,12 @@ The day of the week between Friday and Sunday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week/saturday.md|saturday]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/saturday.internal.md|saturday.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week/saturday.protect.md|saturday.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week/saturday.private.md|saturday.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/saturday.personal.md|saturday.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/saturday.secret.md|saturday.secret]] 

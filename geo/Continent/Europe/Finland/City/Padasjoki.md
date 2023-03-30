@@ -29,3 +29,12 @@ markerFile: [[Padasjoki]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Padasjoki.md|Padasjoki]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Padasjoki.internal.md|Padasjoki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Padasjoki.protect.md|Padasjoki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Padasjoki.private.md|Padasjoki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Padasjoki.personal.md|Padasjoki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Padasjoki.secret.md|Padasjoki.secret]] 

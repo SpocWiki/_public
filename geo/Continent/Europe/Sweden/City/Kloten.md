@@ -29,3 +29,12 @@ markerFile: [[Kloten]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kloten.md|Kloten]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kloten.internal.md|Kloten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kloten.protect.md|Kloten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kloten.private.md|Kloten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kloten.personal.md|Kloten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kloten.secret.md|Kloten.secret]] 

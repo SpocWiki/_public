@@ -29,3 +29,12 @@ markerFile: [[Bruessel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Bruessel.md|Bruessel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Bruessel.internal.md|Bruessel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Bruessel.protect.md|Bruessel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Bruessel.private.md|Bruessel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Bruessel.personal.md|Bruessel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Bruessel.secret.md|Bruessel.secret]] 

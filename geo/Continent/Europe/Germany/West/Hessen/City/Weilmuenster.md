@@ -28,3 +28,12 @@ markerFile: [[Weilmuenster]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.md|Weilmuenster]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.internal.md|Weilmuenster.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.protect.md|Weilmuenster.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.private.md|Weilmuenster.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.personal.md|Weilmuenster.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.secret.md|Weilmuenster.secret]] 

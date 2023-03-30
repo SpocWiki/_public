@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28100]
 [NextStarId::27295]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Chaph.md|Chaph]] 
+- [[../../../_internal/astro/Star/Chaph.internal.md|Chaph.internal]] 
+- [[../../../_protect/astro/Star/Chaph.protect.md|Chaph.protect]] 
+- [[../../../_private/astro/Star/Chaph.private.md|Chaph.private]] 
+- [[../../../_personal/astro/Star/Chaph.personal.md|Chaph.personal]] 
+- [[../../../_secret/astro/Star/Chaph.secret.md|Chaph.secret]]
+

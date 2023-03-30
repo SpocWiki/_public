@@ -29,3 +29,12 @@ markerFile: [[Lindau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Lindau.md|Lindau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Lindau.internal.md|Lindau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Lindau.protect.md|Lindau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Lindau.private.md|Lindau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Lindau.personal.md|Lindau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Lindau.secret.md|Lindau.secret]] 

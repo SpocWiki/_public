@@ -29,3 +29,12 @@ markerFile: [[Sippola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Sippola.md|Sippola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Sippola.internal.md|Sippola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Sippola.protect.md|Sippola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Sippola.private.md|Sippola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Sippola.personal.md|Sippola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Sippola.secret.md|Sippola.secret]] 

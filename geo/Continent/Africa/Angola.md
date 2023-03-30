@@ -129,3 +129,12 @@ markerFolder: ./Angola/City
 [geo-lon::13.23]
 [geo-lat::-8.8]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Angola.md|Angola]] 
+- [[../../../../_internal/geo/Continent/Africa/Angola.internal.md|Angola.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Angola.protect.md|Angola.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Angola.private.md|Angola.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Angola.personal.md|Angola.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Angola.secret.md|Angola.secret]] 

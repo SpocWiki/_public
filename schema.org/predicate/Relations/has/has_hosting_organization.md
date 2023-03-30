@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_hosting_organization )
 ( #has_/range :: Organization )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_hosting_organization.md|has_hosting_organization]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hosting_organization.internal.md|has_hosting_organization.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_hosting_organization.protect.md|has_hosting_organization.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_hosting_organization.private.md|has_hosting_organization.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_hosting_organization.personal.md|has_hosting_organization.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_hosting_organization.secret.md|has_hosting_organization.secret]] 

@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_required_quantity )
 ( #has_/range :: Number, QuantitativeValue, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_required_quantity.md|has_value_for_required_quantity]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_required_quantity.internal.md|has_value_for_required_quantity.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_required_quantity.protect.md|has_value_for_required_quantity.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_required_quantity.private.md|has_value_for_required_quantity.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_required_quantity.personal.md|has_value_for_required_quantity.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_required_quantity.secret.md|has_value_for_required_quantity.secret]] 

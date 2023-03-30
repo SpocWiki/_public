@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Illumination]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Illumination.md|Triz-moving_Volume+Inversion-Illumination]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Illumination.internal.md|Triz-moving_Volume+Inversion-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Illumination.protect.md|Triz-moving_Volume+Inversion-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Illumination.private.md|Triz-moving_Volume+Inversion-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Illumination.personal.md|Triz-moving_Volume+Inversion-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Illumination.secret.md|Triz-moving_Volume+Inversion-Illumination.secret]] 

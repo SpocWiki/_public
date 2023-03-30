@@ -29,3 +29,12 @@ markerFile: [[Franzensbad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Franzensbad.md|Franzensbad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Franzensbad.internal.md|Franzensbad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Franzensbad.protect.md|Franzensbad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Franzensbad.private.md|Franzensbad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Franzensbad.personal.md|Franzensbad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Franzensbad.secret.md|Franzensbad.secret]] 

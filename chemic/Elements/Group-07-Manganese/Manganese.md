@@ -34,3 +34,12 @@ SpocWebEntityId: 21925
 > [Wikipedia](https://en.wikipedia.org/wiki/Manganese)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-07-Manganese/Manganese.md|Manganese]] 
+- [[../../../../_internal/chemic/Elements/Group-07-Manganese/Manganese.internal.md|Manganese.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-07-Manganese/Manganese.protect.md|Manganese.protect]] 
+- [[../../../../_private/chemic/Elements/Group-07-Manganese/Manganese.private.md|Manganese.private]] 
+- [[../../../../_personal/chemic/Elements/Group-07-Manganese/Manganese.personal.md|Manganese.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-07-Manganese/Manganese.secret.md|Manganese.secret]] 

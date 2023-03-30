@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::[[Triz-Temperature]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.md|Triz-Measurement_Accuracy+Universality-Temperature]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.internal.md|Triz-Measurement_Accuracy+Universality-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.protect.md|Triz-Measurement_Accuracy+Universality-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.private.md|Triz-Measurement_Accuracy+Universality-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.personal.md|Triz-Measurement_Accuracy+Universality-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.secret.md|Triz-Measurement_Accuracy+Universality-Temperature.secret]] 

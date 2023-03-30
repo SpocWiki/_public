@@ -131,3 +131,12 @@ markerFolder: ./Lesotho/City
 [geo-lon::27.9333]
 [geo-lat::-29.4667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Lesotho.md|Lesotho]] 
+- [[../../../../_internal/geo/Continent/Africa/Lesotho.internal.md|Lesotho.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Lesotho.protect.md|Lesotho.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Lesotho.private.md|Lesotho.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Lesotho.personal.md|Lesotho.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Lesotho.secret.md|Lesotho.secret]] 

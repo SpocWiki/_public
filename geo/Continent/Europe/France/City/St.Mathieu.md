@@ -29,3 +29,12 @@ markerFile: [[St.Mathieu]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Mathieu.md|St.Mathieu]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Mathieu.internal.md|St.Mathieu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Mathieu.protect.md|St.Mathieu.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Mathieu.private.md|St.Mathieu.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Mathieu.personal.md|St.Mathieu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Mathieu.secret.md|St.Mathieu.secret]] 

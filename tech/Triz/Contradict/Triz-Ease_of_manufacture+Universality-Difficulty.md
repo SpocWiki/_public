@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::[[Triz-Difficulty]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.md|Triz-Ease_of_manufacture+Universality-Difficulty]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.internal.md|Triz-Ease_of_manufacture+Universality-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.protect.md|Triz-Ease_of_manufacture+Universality-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.private.md|Triz-Ease_of_manufacture+Universality-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.personal.md|Triz-Ease_of_manufacture+Universality-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.secret.md|Triz-Ease_of_manufacture+Universality-Difficulty.secret]] 

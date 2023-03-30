@@ -29,3 +29,12 @@ markerFile: [[Munkacs]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Munkacs.md|Munkacs]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Munkacs.internal.md|Munkacs.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Munkacs.protect.md|Munkacs.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Munkacs.private.md|Munkacs.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Munkacs.personal.md|Munkacs.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Munkacs.secret.md|Munkacs.secret]] 

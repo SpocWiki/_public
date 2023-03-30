@@ -29,3 +29,12 @@ markerFile: [[Seeburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Seeburg.md|Seeburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Seeburg.internal.md|Seeburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Seeburg.protect.md|Seeburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Seeburg.private.md|Seeburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Seeburg.personal.md|Seeburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Seeburg.secret.md|Seeburg.secret]] 

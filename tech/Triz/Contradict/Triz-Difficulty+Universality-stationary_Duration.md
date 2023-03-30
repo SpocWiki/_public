@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::[[Triz-stationary_Duration]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Duration.md|Triz-Difficulty+Universality-stationary_Duration]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Duration.internal.md|Triz-Difficulty+Universality-stationary_Duration.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Duration.protect.md|Triz-Difficulty+Universality-stationary_Duration.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Duration.private.md|Triz-Difficulty+Universality-stationary_Duration.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Duration.personal.md|Triz-Difficulty+Universality-stationary_Duration.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Universality-stationary_Duration.secret.md|Triz-Difficulty+Universality-stationary_Duration.secret]] 

@@ -43,3 +43,12 @@ Studies carried out on pre-existing data (usually from 'snapshot' surveys), such
 
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.md|cross_sectional]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.internal.md|cross_sectional.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.protect.md|cross_sectional.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.private.md|cross_sectional.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.personal.md|cross_sectional.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.secret.md|cross_sectional.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Bjuraker]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Bjuraker.md|Bjuraker]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bjuraker.internal.md|Bjuraker.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bjuraker.protect.md|Bjuraker.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bjuraker.private.md|Bjuraker.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bjuraker.personal.md|Bjuraker.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bjuraker.secret.md|Bjuraker.secret]] 

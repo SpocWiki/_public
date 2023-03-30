@@ -29,3 +29,12 @@ markerFile: [[Tampere]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Tampere.md|Tampere]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Tampere.internal.md|Tampere.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Tampere.protect.md|Tampere.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Tampere.private.md|Tampere.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Tampere.personal.md|Tampere.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Tampere.secret.md|Tampere.secret]] 

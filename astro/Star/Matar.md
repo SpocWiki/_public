@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::27766]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Matar.md|Matar]] 
+- [[../../../_internal/astro/Star/Matar.internal.md|Matar.internal]] 
+- [[../../../_protect/astro/Star/Matar.protect.md|Matar.protect]] 
+- [[../../../_private/astro/Star/Matar.private.md|Matar.private]] 
+- [[../../../_personal/astro/Star/Matar.personal.md|Matar.personal]] 
+- [[../../../_secret/astro/Star/Matar.secret.md|Matar.secret]] 

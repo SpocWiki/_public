@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28164]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Tucanae-2.md|Tucanae-2]] 
+- [[../../../_internal/astro/Star/Tucanae-2.internal.md|Tucanae-2.internal]] 
+- [[../../../_protect/astro/Star/Tucanae-2.protect.md|Tucanae-2.protect]] 
+- [[../../../_private/astro/Star/Tucanae-2.private.md|Tucanae-2.private]] 
+- [[../../../_personal/astro/Star/Tucanae-2.personal.md|Tucanae-2.personal]] 
+- [[../../../_secret/astro/Star/Tucanae-2.secret.md|Tucanae-2.secret]] 

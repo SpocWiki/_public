@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_included_composition )
 ( #has_/range :: MusicComposition )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_included_composition.md|has_included_composition]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_included_composition.internal.md|has_included_composition.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_included_composition.protect.md|has_included_composition.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_included_composition.private.md|has_included_composition.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_included_composition.personal.md|has_included_composition.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_included_composition.secret.md|has_included_composition.secret]] 

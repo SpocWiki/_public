@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Phase_transition]]]
 - [con::Energy-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.md|Triz-Stress+Phase_transition-Energy-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.internal.md|Triz-Stress+Phase_transition-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.protect.md|Triz-Stress+Phase_transition-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.private.md|Triz-Stress+Phase_transition-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.personal.md|Triz-Stress+Phase_transition-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.secret.md|Triz-Stress+Phase_transition-Energy-Loss.secret]] 

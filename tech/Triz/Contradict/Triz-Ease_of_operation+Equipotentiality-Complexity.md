@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Equipotentiality]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Complexity.md|Triz-Ease_of_operation+Equipotentiality-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Complexity.internal.md|Triz-Ease_of_operation+Equipotentiality-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Complexity.protect.md|Triz-Ease_of_operation+Equipotentiality-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Complexity.private.md|Triz-Ease_of_operation+Equipotentiality-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Complexity.personal.md|Triz-Ease_of_operation+Equipotentiality-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Complexity.secret.md|Triz-Ease_of_operation+Equipotentiality-Complexity.secret]] 

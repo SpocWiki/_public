@@ -29,3 +29,12 @@ markerFile: [[Smolnik]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Smolnik.md|Smolnik]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Smolnik.internal.md|Smolnik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Smolnik.protect.md|Smolnik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Smolnik.private.md|Smolnik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Smolnik.personal.md|Smolnik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Smolnik.secret.md|Smolnik.secret]] 

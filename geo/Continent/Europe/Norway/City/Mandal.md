@@ -29,3 +29,12 @@ markerFile: [[Mandal]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Mandal.md|Mandal]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Mandal.internal.md|Mandal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Mandal.protect.md|Mandal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Mandal.private.md|Mandal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Mandal.personal.md|Mandal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Mandal.secret.md|Mandal.secret]] 

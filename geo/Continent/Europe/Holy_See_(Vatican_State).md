@@ -35,3 +35,12 @@ markerFolder: ./Holy_See_(Vatican_State)/City
 [geo-lon::]
 [geo-lat::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Holy_See_(Vatican_State).md|Holy_See_(Vatican_State)]] 
+- [[../../../../_internal/geo/Continent/Europe/Holy_See_(Vatican_State).internal.md|Holy_See_(Vatican_State).internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Holy_See_(Vatican_State).protect.md|Holy_See_(Vatican_State).protect]] 
+- [[../../../../_private/geo/Continent/Europe/Holy_See_(Vatican_State).private.md|Holy_See_(Vatican_State).private]] 
+- [[../../../../_personal/geo/Continent/Europe/Holy_See_(Vatican_State).personal.md|Holy_See_(Vatican_State).personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Holy_See_(Vatican_State).secret.md|Holy_See_(Vatican_State).secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Talmay]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Talmay.md|Talmay]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Talmay.internal.md|Talmay.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Talmay.protect.md|Talmay.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Talmay.private.md|Talmay.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Talmay.personal.md|Talmay.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Talmay.secret.md|Talmay.secret]] 

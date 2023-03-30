@@ -29,3 +29,12 @@ markerFile: [[Schmiedeberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schmiedeberg.md|Schmiedeberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schmiedeberg.internal.md|Schmiedeberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schmiedeberg.protect.md|Schmiedeberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schmiedeberg.private.md|Schmiedeberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schmiedeberg.personal.md|Schmiedeberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schmiedeberg.secret.md|Schmiedeberg.secret]] 

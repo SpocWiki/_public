@@ -29,3 +29,12 @@ markerFile: [[Nendeln]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Nendeln.md|Nendeln]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Nendeln.internal.md|Nendeln.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Nendeln.protect.md|Nendeln.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Nendeln.private.md|Nendeln.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Nendeln.personal.md|Nendeln.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Nendeln.secret.md|Nendeln.secret]] 

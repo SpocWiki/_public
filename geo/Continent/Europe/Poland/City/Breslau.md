@@ -29,3 +29,12 @@ markerFile: [[Breslau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Breslau.md|Breslau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Breslau.internal.md|Breslau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Breslau.protect.md|Breslau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Breslau.private.md|Breslau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Breslau.personal.md|Breslau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Breslau.secret.md|Breslau.secret]] 

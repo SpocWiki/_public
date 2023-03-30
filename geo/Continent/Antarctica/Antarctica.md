@@ -121,3 +121,12 @@ markerFolder: ./Antarctica/City
 [geo-lon::]
 [geo-lat::-90]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Antarctica/Antarctica.md|Antarctica]] 
+- [[../../../../_internal/geo/Continent/Antarctica/Antarctica.internal.md|Antarctica.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/Antarctica.protect.md|Antarctica.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/Antarctica.private.md|Antarctica.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/Antarctica.personal.md|Antarctica.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/Antarctica.secret.md|Antarctica.secret]] 

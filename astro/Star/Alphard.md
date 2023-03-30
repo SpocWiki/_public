@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28124]
 [NextStarId::27698]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alphard.md|Alphard]] 
+- [[../../../_internal/astro/Star/Alphard.internal.md|Alphard.internal]] 
+- [[../../../_protect/astro/Star/Alphard.protect.md|Alphard.protect]] 
+- [[../../../_private/astro/Star/Alphard.private.md|Alphard.private]] 
+- [[../../../_personal/astro/Star/Alphard.personal.md|Alphard.personal]] 
+- [[../../../_secret/astro/Star/Alphard.secret.md|Alphard.secret]]
+

@@ -29,3 +29,12 @@ markerFile: [[Alassio]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Alassio.md|Alassio]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Alassio.internal.md|Alassio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Alassio.protect.md|Alassio.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Alassio.private.md|Alassio.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Alassio.personal.md|Alassio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Alassio.secret.md|Alassio.secret]] 

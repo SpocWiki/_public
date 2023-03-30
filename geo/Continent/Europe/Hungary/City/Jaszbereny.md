@@ -29,3 +29,12 @@ markerFile: [[Jaszbereny]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Jaszbereny.md|Jaszbereny]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Jaszbereny.internal.md|Jaszbereny.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Jaszbereny.protect.md|Jaszbereny.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Jaszbereny.private.md|Jaszbereny.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Jaszbereny.personal.md|Jaszbereny.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Jaszbereny.secret.md|Jaszbereny.secret]] 

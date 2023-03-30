@@ -28,3 +28,12 @@ markerFile: [[Omaha]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.md|Omaha]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.internal.md|Omaha.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.protect.md|Omaha.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.private.md|Omaha.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.personal.md|Omaha.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.secret.md|Omaha.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Fischau_Bad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Fischau_Bad.md|Fischau_Bad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Fischau_Bad.internal.md|Fischau_Bad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Fischau_Bad.protect.md|Fischau_Bad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Fischau_Bad.private.md|Fischau_Bad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Fischau_Bad.personal.md|Fischau_Bad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Fischau_Bad.secret.md|Fischau_Bad.secret]] 

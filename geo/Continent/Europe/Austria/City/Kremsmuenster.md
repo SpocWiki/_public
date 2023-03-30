@@ -29,3 +29,12 @@ markerFile: [[Kremsmuenster]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kremsmuenster.md|Kremsmuenster]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kremsmuenster.internal.md|Kremsmuenster.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kremsmuenster.protect.md|Kremsmuenster.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kremsmuenster.private.md|Kremsmuenster.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kremsmuenster.personal.md|Kremsmuenster.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kremsmuenster.secret.md|Kremsmuenster.secret]] 

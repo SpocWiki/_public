@@ -29,3 +29,12 @@ markerFile: [[Albacete]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Albacete.md|Albacete]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Albacete.internal.md|Albacete.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Albacete.protect.md|Albacete.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Albacete.private.md|Albacete.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Albacete.personal.md|Albacete.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Albacete.secret.md|Albacete.secret]] 

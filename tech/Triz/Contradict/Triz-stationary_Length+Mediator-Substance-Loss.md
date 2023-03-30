@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mediator]]]
 - [con::Substance-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.md|Triz-stationary_Length+Mediator-Substance-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.internal.md|Triz-stationary_Length+Mediator-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.protect.md|Triz-stationary_Length+Mediator-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.private.md|Triz-stationary_Length+Mediator-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.personal.md|Triz-stationary_Length+Mediator-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.secret.md|Triz-stationary_Length+Mediator-Substance-Loss.secret]] 

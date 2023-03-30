@@ -29,3 +29,12 @@ markerFile: [[Kobulten]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kobulten.md|Kobulten]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kobulten.internal.md|Kobulten.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kobulten.protect.md|Kobulten.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kobulten.private.md|Kobulten.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kobulten.personal.md|Kobulten.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kobulten.secret.md|Kobulten.secret]] 

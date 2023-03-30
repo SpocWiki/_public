@@ -28,3 +28,12 @@ markerFile: [[Augusta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.md|Augusta]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.internal.md|Augusta.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.protect.md|Augusta.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.private.md|Augusta.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.personal.md|Augusta.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.secret.md|Augusta.secret]] 

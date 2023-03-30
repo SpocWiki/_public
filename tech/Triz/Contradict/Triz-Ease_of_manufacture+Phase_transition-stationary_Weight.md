@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Phase_transition]]]
 - [con::[[Triz-stationary_Weight]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.md|Triz-Ease_of_manufacture+Phase_transition-stationary_Weight]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.internal.md|Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.protect.md|Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.private.md|Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.personal.md|Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.secret.md|Triz-Ease_of_manufacture+Phase_transition-stationary_Weight.secret]] 

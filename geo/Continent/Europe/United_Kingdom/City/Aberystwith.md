@@ -29,3 +29,12 @@ markerFile: [[Aberystwith]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Aberystwith.md|Aberystwith]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aberystwith.internal.md|Aberystwith.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aberystwith.protect.md|Aberystwith.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aberystwith.private.md|Aberystwith.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aberystwith.personal.md|Aberystwith.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aberystwith.secret.md|Aberystwith.secret]] 

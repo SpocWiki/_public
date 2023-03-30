@@ -29,3 +29,12 @@ markerFile: [[Edinburgh]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.md|Edinburgh]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.internal.md|Edinburgh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.protect.md|Edinburgh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.private.md|Edinburgh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.personal.md|Edinburgh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.secret.md|Edinburgh.secret]] 

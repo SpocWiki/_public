@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Pegasi-101.md|Pegasi-101]] 
+- [[../../../_internal/astro/Star/Pegasi-101.internal.md|Pegasi-101.internal]] 
+- [[../../../_protect/astro/Star/Pegasi-101.protect.md|Pegasi-101.protect]] 
+- [[../../../_private/astro/Star/Pegasi-101.private.md|Pegasi-101.private]] 
+- [[../../../_personal/astro/Star/Pegasi-101.personal.md|Pegasi-101.personal]] 
+- [[../../../_secret/astro/Star/Pegasi-101.secret.md|Pegasi-101.secret]] 

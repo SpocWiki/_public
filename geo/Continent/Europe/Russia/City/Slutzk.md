@@ -29,3 +29,12 @@ markerFile: [[Slutzk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Slutzk.md|Slutzk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Slutzk.internal.md|Slutzk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Slutzk.protect.md|Slutzk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Slutzk.private.md|Slutzk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Slutzk.personal.md|Slutzk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Slutzk.secret.md|Slutzk.secret]] 

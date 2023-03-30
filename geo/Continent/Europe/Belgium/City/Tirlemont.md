@@ -29,3 +29,12 @@ markerFile: [[Tirlemont]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Tirlemont.md|Tirlemont]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Tirlemont.internal.md|Tirlemont.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Tirlemont.protect.md|Tirlemont.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Tirlemont.private.md|Tirlemont.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Tirlemont.personal.md|Tirlemont.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Tirlemont.secret.md|Tirlemont.secret]] 

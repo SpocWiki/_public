@@ -12,3 +12,11 @@ Shared Facts about chemical Elements
 > By November 2016, the International Union of Pure and Applied Chemistry had recognized a total of 118 elements. The first 94 occur naturally on Earth, and the remaining 24 are synthetic elements produced in nuclear reactions. Save for unstable radioactive elements (radionuclides) which decay quickly, nearly all of the elements are available industrially in varying amounts.  The discovery and synthesis of further new elements is an ongoing area of scientific study.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20element)
+
+## Confidential Links & Embeds: 
+- [[../../../_public/chemic/Elements/README.md|README]] 
+- [[../../../_internal/chemic/Elements/README.internal.md|README.internal]] 
+- [[../../../_protect/chemic/Elements/README.protect.md|README.protect]] 
+- [[../../../_private/chemic/Elements/README.private.md|README.private]] 
+- [[../../../_personal/chemic/Elements/README.personal.md|README.personal]] 
+- [[../../../_secret/chemic/Elements/README.secret.md|README.secret]] 

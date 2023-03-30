@@ -29,3 +29,12 @@ markerFile: [[Manila]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Philippines/City/Manila.md|Manila]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Philippines/City/Manila.internal.md|Manila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Philippines/City/Manila.protect.md|Manila.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Philippines/City/Manila.private.md|Manila.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Philippines/City/Manila.personal.md|Manila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Philippines/City/Manila.secret.md|Manila.secret]] 

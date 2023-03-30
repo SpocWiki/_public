@@ -15,3 +15,11 @@ tags:
 [TrizParameterId::18]
 
 Illumination intensity
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Illumination.md|Triz-Illumination]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Illumination.internal.md|Triz-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Illumination.protect.md|Triz-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Illumination.private.md|Triz-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Illumination.personal.md|Triz-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Illumination.secret.md|Triz-Illumination.secret]] 

@@ -36,3 +36,12 @@ SpocWebEntityId: 21956
 > [Wikipedia](https://en.wikipedia.org/wiki/Neodymium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Lanthanide-Group/Neodymium.md|Neodymium]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Neodymium.internal.md|Neodymium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Neodymium.protect.md|Neodymium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Neodymium.private.md|Neodymium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Neodymium.personal.md|Neodymium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Neodymium.secret.md|Neodymium.secret]] 

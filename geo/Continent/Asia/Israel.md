@@ -132,3 +132,12 @@ markerFolder: ./Israel/City
 [geo-lon::35]
 [geo-lat::32.23]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Israel.md|Israel]] 
+- [[../../../../_internal/geo/Continent/Asia/Israel.internal.md|Israel.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Israel.protect.md|Israel.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Israel.private.md|Israel.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Israel.personal.md|Israel.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Israel.secret.md|Israel.secret]] 

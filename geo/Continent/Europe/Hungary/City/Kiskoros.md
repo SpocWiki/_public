@@ -29,3 +29,12 @@ markerFile: [[Kiskoros]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Kiskoros.md|Kiskoros]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kiskoros.internal.md|Kiskoros.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kiskoros.protect.md|Kiskoros.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Kiskoros.private.md|Kiskoros.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kiskoros.personal.md|Kiskoros.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kiskoros.secret.md|Kiskoros.secret]] 

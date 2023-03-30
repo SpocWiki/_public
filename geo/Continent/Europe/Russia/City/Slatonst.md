@@ -29,3 +29,12 @@ markerFile: [[Slatonst]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Slatonst.md|Slatonst]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Slatonst.internal.md|Slatonst.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Slatonst.protect.md|Slatonst.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Slatonst.private.md|Slatonst.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Slatonst.personal.md|Slatonst.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Slatonst.secret.md|Slatonst.secret]] 

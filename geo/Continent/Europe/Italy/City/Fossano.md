@@ -29,3 +29,12 @@ markerFile: [[Fossano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Fossano.md|Fossano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Fossano.internal.md|Fossano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Fossano.protect.md|Fossano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Fossano.private.md|Fossano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Fossano.personal.md|Fossano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Fossano.secret.md|Fossano.secret]] 

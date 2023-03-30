@@ -29,3 +29,12 @@ markerFile: [[Tylicz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Tylicz.md|Tylicz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Tylicz.internal.md|Tylicz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Tylicz.protect.md|Tylicz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Tylicz.private.md|Tylicz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Tylicz.personal.md|Tylicz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Tylicz.secret.md|Tylicz.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-stationary_Area]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Area.md|Triz-affected_harm+Extraction-stationary_Area]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Area.internal.md|Triz-affected_harm+Extraction-stationary_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Area.protect.md|Triz-affected_harm+Extraction-stationary_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Area.private.md|Triz-affected_harm+Extraction-stationary_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Area.personal.md|Triz-affected_harm+Extraction-stationary_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-stationary_Area.secret.md|Triz-affected_harm+Extraction-stationary_Area.secret]] 

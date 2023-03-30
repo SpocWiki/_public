@@ -131,3 +131,12 @@ markerFolder: ./Sierra_Leone/City
 [geo-lon::-13.2345]
 [geo-lat::8.48445]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Sierra_Leone.md|Sierra_Leone]] 
+- [[../../../../_internal/geo/Continent/Africa/Sierra_Leone.internal.md|Sierra_Leone.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sierra_Leone.protect.md|Sierra_Leone.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sierra_Leone.private.md|Sierra_Leone.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sierra_Leone.personal.md|Sierra_Leone.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sierra_Leone.secret.md|Sierra_Leone.secret]] 

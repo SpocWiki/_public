@@ -32,3 +32,12 @@ markerFolder: ./EAST_&amp;_WEST_PAKISTAN/City
 [geo-lon::]
 [geo-lat::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/EAST_&_WEST_PAKISTAN.md|EAST_&_WEST_PAKISTAN]] 
+- [[../../../../_internal/geo/Continent/Asia/EAST_&_WEST_PAKISTAN.internal.md|EAST_&_WEST_PAKISTAN.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/EAST_&_WEST_PAKISTAN.protect.md|EAST_&_WEST_PAKISTAN.protect]] 
+- [[../../../../_private/geo/Continent/Asia/EAST_&_WEST_PAKISTAN.private.md|EAST_&_WEST_PAKISTAN.private]] 
+- [[../../../../_personal/geo/Continent/Asia/EAST_&_WEST_PAKISTAN.personal.md|EAST_&_WEST_PAKISTAN.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/EAST_&_WEST_PAKISTAN.secret.md|EAST_&_WEST_PAKISTAN.secret]] 

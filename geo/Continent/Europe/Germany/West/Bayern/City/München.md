@@ -28,3 +28,12 @@ markerFile: [[München]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/München.md|München]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/München.internal.md|München.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/München.protect.md|München.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/München.private.md|München.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/München.personal.md|München.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/München.secret.md|München.secret]] 

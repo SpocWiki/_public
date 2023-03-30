@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::27287]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alkaid.md|Alkaid]] 
+- [[../../../_internal/astro/Star/Alkaid.internal.md|Alkaid.internal]] 
+- [[../../../_protect/astro/Star/Alkaid.protect.md|Alkaid.protect]] 
+- [[../../../_private/astro/Star/Alkaid.private.md|Alkaid.private]] 
+- [[../../../_personal/astro/Star/Alkaid.personal.md|Alkaid.personal]] 
+- [[../../../_secret/astro/Star/Alkaid.secret.md|Alkaid.secret]]
+

@@ -49,3 +49,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_interval_of_dataset.md|has_time_interval_of_dataset]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_interval_of_dataset.internal.md|has_time_interval_of_dataset.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_interval_of_dataset.protect.md|has_time_interval_of_dataset.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_interval_of_dataset.private.md|has_time_interval_of_dataset.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_interval_of_dataset.personal.md|has_time_interval_of_dataset.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_interval_of_dataset.secret.md|has_time_interval_of_dataset.secret]] 

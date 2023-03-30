@@ -29,3 +29,12 @@ markerFile: [[Neu-Kamienien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neu-Kamienien.md|Neu-Kamienien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neu-Kamienien.internal.md|Neu-Kamienien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neu-Kamienien.protect.md|Neu-Kamienien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neu-Kamienien.private.md|Neu-Kamienien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neu-Kamienien.personal.md|Neu-Kamienien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neu-Kamienien.secret.md|Neu-Kamienien.secret]] 

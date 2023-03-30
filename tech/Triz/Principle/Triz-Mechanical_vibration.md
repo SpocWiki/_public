@@ -11,3 +11,12 @@ tags:
 [SpocWebEntityId::22213]
 [Popularity::8]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Principle/Triz-Mechanical_vibration.md|Triz-Mechanical_vibration]] 
+- [[../../../../_internal/tech/Triz/Principle/Triz-Mechanical_vibration.internal.md|Triz-Mechanical_vibration.internal]] 
+- [[../../../../_protect/tech/Triz/Principle/Triz-Mechanical_vibration.protect.md|Triz-Mechanical_vibration.protect]] 
+- [[../../../../_private/tech/Triz/Principle/Triz-Mechanical_vibration.private.md|Triz-Mechanical_vibration.private]] 
+- [[../../../../_personal/tech/Triz/Principle/Triz-Mechanical_vibration.personal.md|Triz-Mechanical_vibration.personal]] 
+- [[../../../../_secret/tech/Triz/Principle/Triz-Mechanical_vibration.secret.md|Triz-Mechanical_vibration.secret]] 

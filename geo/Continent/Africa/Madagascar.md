@@ -130,3 +130,12 @@ markerFolder: ./Madagascar/City
 [geo-lon::47.5083]
 [geo-lat::-18.8933]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Madagascar.md|Madagascar]] 
+- [[../../../../_internal/geo/Continent/Africa/Madagascar.internal.md|Madagascar.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Madagascar.protect.md|Madagascar.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Madagascar.private.md|Madagascar.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Madagascar.personal.md|Madagascar.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Madagascar.secret.md|Madagascar.secret]] 

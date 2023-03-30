@@ -29,3 +29,12 @@ markerFile: [[Ainazi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ainazi.md|Ainazi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ainazi.internal.md|Ainazi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ainazi.protect.md|Ainazi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ainazi.private.md|Ainazi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ainazi.personal.md|Ainazi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ainazi.secret.md|Ainazi.secret]] 

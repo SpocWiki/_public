@@ -29,3 +29,12 @@ markerFile: [[Jastrow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Jastrow.md|Jastrow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jastrow.internal.md|Jastrow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jastrow.protect.md|Jastrow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jastrow.private.md|Jastrow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jastrow.personal.md|Jastrow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jastrow.secret.md|Jastrow.secret]] 

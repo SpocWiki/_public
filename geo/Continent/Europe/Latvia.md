@@ -129,3 +129,12 @@ markerFolder: ./Latvia/City
 [geo-lon::24.11]
 [geo-lat::56.95]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Latvia.md|Latvia]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia.internal.md|Latvia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia.protect.md|Latvia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia.private.md|Latvia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia.personal.md|Latvia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia.secret.md|Latvia.secret]] 

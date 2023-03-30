@@ -34,3 +34,11 @@ SpocWebEntityId: 21917
 > Sulfur is an essential element for all life, but almost always in the form of organosulfur compounds or metal sulfides. Amino acids (two proteinogenic: cysteine and methionine, and many other non-coded: cystine, taurine, etc.) and two vitamins (biotin and thiamine) are organosulfur compounds crucial for life. Many cofactors also contain sulfur, including glutathione, and iron–sulfur proteins. Disulfides, S–S bonds, confer mechanical strength and insolubility of the (among others) protein keratin, found in outer skin, hair, and feathers. Sulfur is one of the core chemical elements needed for biochemical functioning and is an elemental macronutrient for all living organisms.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulfur)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-16-Chalcogene/Sulfur.md|Sulfur]] 
+- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Sulfur.internal.md|Sulfur.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Sulfur.protect.md|Sulfur.protect]] 
+- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Sulfur.private.md|Sulfur.private]] 
+- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Sulfur.personal.md|Sulfur.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Sulfur.secret.md|Sulfur.secret]] 

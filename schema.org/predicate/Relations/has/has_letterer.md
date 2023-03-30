@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_letterer )
 ( #has_/range :: Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_letterer.md|has_letterer]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_letterer.internal.md|has_letterer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_letterer.protect.md|has_letterer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_letterer.private.md|has_letterer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_letterer.personal.md|has_letterer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_letterer.secret.md|has_letterer.secret]] 

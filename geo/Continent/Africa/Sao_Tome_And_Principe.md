@@ -35,3 +35,12 @@ markerFolder: ./Sao_Tome_And_Principe/City
 [geo-lon::6.73333]
 [geo-lat::0.333333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Sao_Tome_And_Principe.md|Sao_Tome_And_Principe]] 
+- [[../../../../_internal/geo/Continent/Africa/Sao_Tome_And_Principe.internal.md|Sao_Tome_And_Principe.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Sao_Tome_And_Principe.protect.md|Sao_Tome_And_Principe.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Sao_Tome_And_Principe.private.md|Sao_Tome_And_Principe.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Sao_Tome_And_Principe.personal.md|Sao_Tome_And_Principe.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Sao_Tome_And_Principe.secret.md|Sao_Tome_And_Principe.secret]] 

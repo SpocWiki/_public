@@ -24,3 +24,12 @@ markerFile: [[S-Sulzbach~Taunus_Nord]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Sulzbach~Taunus_Nord.md|S-Sulzbach~Taunus_Nord]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Sulzbach~Taunus_Nord.internal.md|S-Sulzbach~Taunus_Nord.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Sulzbach~Taunus_Nord.protect.md|S-Sulzbach~Taunus_Nord.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Sulzbach~Taunus_Nord.private.md|S-Sulzbach~Taunus_Nord.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Sulzbach~Taunus_Nord.personal.md|S-Sulzbach~Taunus_Nord.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Sulzbach~Taunus_Nord.secret.md|S-Sulzbach~Taunus_Nord.secret]] 

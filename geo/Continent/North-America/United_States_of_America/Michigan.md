@@ -35,3 +35,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Michigan.md|Michigan]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Michigan.internal.md|Michigan.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Michigan.protect.md|Michigan.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Michigan.private.md|Michigan.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Michigan.personal.md|Michigan.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Michigan.secret.md|Michigan.secret]] 

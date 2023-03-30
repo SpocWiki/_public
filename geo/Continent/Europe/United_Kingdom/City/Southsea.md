@@ -29,3 +29,12 @@ markerFile: [[Southsea]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Southsea.md|Southsea]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southsea.internal.md|Southsea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southsea.protect.md|Southsea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southsea.private.md|Southsea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southsea.personal.md|Southsea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southsea.secret.md|Southsea.secret]] 

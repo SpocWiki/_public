@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_memory_requirements )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_memory_requirements.md|has_memory_requirements]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_memory_requirements.internal.md|has_memory_requirements.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_memory_requirements.protect.md|has_memory_requirements.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_memory_requirements.private.md|has_memory_requirements.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_memory_requirements.personal.md|has_memory_requirements.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_memory_requirements.secret.md|has_memory_requirements.secret]] 

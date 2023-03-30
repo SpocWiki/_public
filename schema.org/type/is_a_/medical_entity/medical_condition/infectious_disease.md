@@ -41,3 +41,12 @@ An infectious disease is a clinically evident human disease resulting from the p
 
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, infectiousAgent, infectiousAgentClass, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, transmissionMethod, typicalTest, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.md|infectious_disease]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.internal.md|infectious_disease.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.protect.md|infectious_disease.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.private.md|infectious_disease.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.personal.md|infectious_disease.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.secret.md|infectious_disease.secret]] 

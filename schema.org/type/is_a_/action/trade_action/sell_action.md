@@ -41,3 +41,12 @@ The act of taking money from a buyer in exchange for goods or services rendered.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, buyer, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url, warrantyPromise ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/action/trade_action/sell_action.md|sell_action]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/sell_action.internal.md|sell_action.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/sell_action.protect.md|sell_action.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/action/trade_action/sell_action.private.md|sell_action.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/sell_action.personal.md|sell_action.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/sell_action.secret.md|sell_action.secret]] 

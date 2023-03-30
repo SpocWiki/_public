@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: memberOf ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_affiliation_with.md|has_affiliation_with]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_affiliation_with.internal.md|has_affiliation_with.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_affiliation_with.protect.md|has_affiliation_with.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_affiliation_with.private.md|has_affiliation_with.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_affiliation_with.personal.md|has_affiliation_with.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_affiliation_with.secret.md|has_affiliation_with.secret]] 

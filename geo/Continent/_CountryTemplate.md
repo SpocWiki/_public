@@ -38,3 +38,12 @@ markerFolder: ./{{EnglishName}}/City
 [geo-lon::{{x}}]
 [geo-lat::{{y}}]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/geo/Continent/_CountryTemplate.md|_CountryTemplate]] 
+- [[../../../_internal/geo/Continent/_CountryTemplate.internal.md|_CountryTemplate.internal]] 
+- [[../../../_protect/geo/Continent/_CountryTemplate.protect.md|_CountryTemplate.protect]] 
+- [[../../../_private/geo/Continent/_CountryTemplate.private.md|_CountryTemplate.private]] 
+- [[../../../_personal/geo/Continent/_CountryTemplate.personal.md|_CountryTemplate.personal]] 
+- [[../../../_secret/geo/Continent/_CountryTemplate.secret.md|_CountryTemplate.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Kitzbuehel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kitzbuehel.md|Kitzbuehel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kitzbuehel.internal.md|Kitzbuehel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kitzbuehel.protect.md|Kitzbuehel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kitzbuehel.private.md|Kitzbuehel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kitzbuehel.personal.md|Kitzbuehel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kitzbuehel.secret.md|Kitzbuehel.secret]] 

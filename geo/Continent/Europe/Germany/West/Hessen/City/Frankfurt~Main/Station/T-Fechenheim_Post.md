@@ -24,3 +24,12 @@ markerFile: [[T-Fechenheim_Post]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Fechenheim_Post.md|T-Fechenheim_Post]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Fechenheim_Post.internal.md|T-Fechenheim_Post.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Fechenheim_Post.protect.md|T-Fechenheim_Post.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Fechenheim_Post.private.md|T-Fechenheim_Post.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Fechenheim_Post.personal.md|T-Fechenheim_Post.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Fechenheim_Post.secret.md|T-Fechenheim_Post.secret]] 

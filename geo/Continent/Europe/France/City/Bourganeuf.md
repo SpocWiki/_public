@@ -29,3 +29,12 @@ markerFile: [[Bourganeuf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Bourganeuf.md|Bourganeuf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bourganeuf.internal.md|Bourganeuf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bourganeuf.protect.md|Bourganeuf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bourganeuf.private.md|Bourganeuf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bourganeuf.personal.md|Bourganeuf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bourganeuf.secret.md|Bourganeuf.secret]] 

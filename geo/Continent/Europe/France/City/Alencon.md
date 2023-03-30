@@ -29,3 +29,12 @@ markerFile: [[Alencon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Alencon.md|Alencon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Alencon.internal.md|Alencon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Alencon.protect.md|Alencon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Alencon.private.md|Alencon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Alencon.personal.md|Alencon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Alencon.secret.md|Alencon.secret]] 

@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28096]
 [NextStarId::27403]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Sirius.md|Sirius]] 
+- [[../../../_internal/astro/Star/Sirius.internal.md|Sirius.internal]] 
+- [[../../../_protect/astro/Star/Sirius.protect.md|Sirius.protect]] 
+- [[../../../_private/astro/Star/Sirius.private.md|Sirius.private]] 
+- [[../../../_personal/astro/Star/Sirius.personal.md|Sirius.personal]] 
+- [[../../../_secret/astro/Star/Sirius.secret.md|Sirius.secret]] 

@@ -134,3 +134,12 @@ markerFolder: ./Bahrain/City
 [geo-lon::50.58]
 [geo-lat::26.2]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Bahrain.md|Bahrain]] 
+- [[../../../../_internal/geo/Continent/Asia/Bahrain.internal.md|Bahrain.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Bahrain.protect.md|Bahrain.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Bahrain.private.md|Bahrain.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Bahrain.personal.md|Bahrain.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Bahrain.secret.md|Bahrain.secret]] 

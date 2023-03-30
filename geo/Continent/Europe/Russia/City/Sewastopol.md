@@ -29,3 +29,12 @@ markerFile: [[Sewastopol]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sewastopol.md|Sewastopol]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sewastopol.internal.md|Sewastopol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sewastopol.protect.md|Sewastopol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sewastopol.private.md|Sewastopol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sewastopol.personal.md|Sewastopol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sewastopol.secret.md|Sewastopol.secret]] 

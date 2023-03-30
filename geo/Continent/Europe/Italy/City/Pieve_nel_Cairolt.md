@@ -29,3 +29,12 @@ markerFile: [[Pieve_nel_Cairolt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.md|Pieve_nel_Cairolt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.internal.md|Pieve_nel_Cairolt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.protect.md|Pieve_nel_Cairolt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.private.md|Pieve_nel_Cairolt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.personal.md|Pieve_nel_Cairolt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.secret.md|Pieve_nel_Cairolt.secret]] 

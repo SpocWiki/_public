@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_included_data_catalog )
 ( #has_/range :: DataCatalog )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_included_data_catalog.md|has_included_data_catalog]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_included_data_catalog.internal.md|has_included_data_catalog.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_included_data_catalog.protect.md|has_included_data_catalog.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_included_data_catalog.private.md|has_included_data_catalog.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_included_data_catalog.personal.md|has_included_data_catalog.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_included_data_catalog.secret.md|has_included_data_catalog.secret]] 

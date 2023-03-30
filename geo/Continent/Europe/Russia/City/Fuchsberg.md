@@ -29,3 +29,12 @@ markerFile: [[Fuchsberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Fuchsberg.md|Fuchsberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Fuchsberg.internal.md|Fuchsberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Fuchsberg.protect.md|Fuchsberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Fuchsberg.private.md|Fuchsberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Fuchsberg.personal.md|Fuchsberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Fuchsberg.secret.md|Fuchsberg.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Sprottau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sprottau.md|Sprottau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sprottau.internal.md|Sprottau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sprottau.protect.md|Sprottau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sprottau.private.md|Sprottau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sprottau.personal.md|Sprottau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sprottau.secret.md|Sprottau.secret]] 

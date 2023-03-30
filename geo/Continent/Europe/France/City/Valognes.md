@@ -29,3 +29,12 @@ markerFile: [[Valognes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Valognes.md|Valognes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Valognes.internal.md|Valognes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Valognes.protect.md|Valognes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Valognes.private.md|Valognes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Valognes.personal.md|Valognes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Valognes.secret.md|Valognes.secret]] 

@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_medical_specialty )
 ( #has_/range :: MedicalSpecialty )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_medical_specialty.md|has_medical_specialty]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_medical_specialty.internal.md|has_medical_specialty.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_medical_specialty.protect.md|has_medical_specialty.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_medical_specialty.private.md|has_medical_specialty.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_medical_specialty.personal.md|has_medical_specialty.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_medical_specialty.secret.md|has_medical_specialty.secret]] 

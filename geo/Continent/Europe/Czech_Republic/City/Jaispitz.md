@@ -29,3 +29,12 @@ markerFile: [[Jaispitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jaispitz.md|Jaispitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jaispitz.internal.md|Jaispitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jaispitz.protect.md|Jaispitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jaispitz.private.md|Jaispitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jaispitz.personal.md|Jaispitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jaispitz.secret.md|Jaispitz.secret]] 

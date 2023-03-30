@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28098]
 [NextStarId::27609]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Deneb_Algedi.md|Deneb_Algedi]] 
+- [[../../../_internal/astro/Star/Deneb_Algedi.internal.md|Deneb_Algedi.internal]] 
+- [[../../../_protect/astro/Star/Deneb_Algedi.protect.md|Deneb_Algedi.protect]] 
+- [[../../../_private/astro/Star/Deneb_Algedi.private.md|Deneb_Algedi.private]] 
+- [[../../../_personal/astro/Star/Deneb_Algedi.personal.md|Deneb_Algedi.personal]] 
+- [[../../../_secret/astro/Star/Deneb_Algedi.secret.md|Deneb_Algedi.secret]]
+

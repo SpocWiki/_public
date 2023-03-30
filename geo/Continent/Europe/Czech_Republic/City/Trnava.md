@@ -29,3 +29,12 @@ markerFile: [[Trnava]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Trnava.md|Trnava]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Trnava.internal.md|Trnava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Trnava.protect.md|Trnava.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Trnava.private.md|Trnava.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Trnava.personal.md|Trnava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Trnava.secret.md|Trnava.secret]] 

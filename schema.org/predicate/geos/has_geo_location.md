@@ -45,3 +45,12 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ course, entertainmentBusiness, exerciseCourse, foodEstablishment, foodEvent, fromLocation, homeLocation, itemLocation, sportsActivityLocation, sportsEvent, toLocation, workLocation ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_location.md|has_geo_location]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_location.internal.md|has_geo_location.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_location.protect.md|has_geo_location.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_location.private.md|has_geo_location.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_location.personal.md|has_geo_location.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_location.secret.md|has_geo_location.secret]] 

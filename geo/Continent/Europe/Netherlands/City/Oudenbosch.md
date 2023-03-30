@@ -29,3 +29,12 @@ markerFile: [[Oudenbosch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Oudenbosch.md|Oudenbosch]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Oudenbosch.internal.md|Oudenbosch.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Oudenbosch.protect.md|Oudenbosch.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Oudenbosch.private.md|Oudenbosch.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Oudenbosch.personal.md|Oudenbosch.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Oudenbosch.secret.md|Oudenbosch.secret]] 

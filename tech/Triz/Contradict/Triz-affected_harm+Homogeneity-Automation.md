@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Homogeneity]]]
 - [con::[[Triz-Automation]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.md|Triz-affected_harm+Homogeneity-Automation]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.internal.md|Triz-affected_harm+Homogeneity-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.protect.md|Triz-affected_harm+Homogeneity-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.private.md|Triz-affected_harm+Homogeneity-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.personal.md|Triz-affected_harm+Homogeneity-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.secret.md|Triz-affected_harm+Homogeneity-Automation.secret]] 

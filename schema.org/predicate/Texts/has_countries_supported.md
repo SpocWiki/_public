@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_countries_supported )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_countries_supported.md|has_countries_supported]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_countries_supported.internal.md|has_countries_supported.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_countries_supported.protect.md|has_countries_supported.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_countries_supported.private.md|has_countries_supported.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_countries_supported.personal.md|has_countries_supported.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_countries_supported.secret.md|has_countries_supported.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Tyumen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tyumen.md|Tyumen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tyumen.internal.md|Tyumen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tyumen.protect.md|Tyumen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tyumen.private.md|Tyumen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tyumen.personal.md|Tyumen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tyumen.secret.md|Tyumen.secret]] 

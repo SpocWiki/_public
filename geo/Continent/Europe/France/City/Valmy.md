@@ -29,3 +29,12 @@ markerFile: [[Valmy]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Valmy.md|Valmy]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Valmy.internal.md|Valmy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Valmy.protect.md|Valmy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Valmy.private.md|Valmy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Valmy.personal.md|Valmy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Valmy.secret.md|Valmy.secret]] 

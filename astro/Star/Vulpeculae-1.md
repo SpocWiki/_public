@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28170]
 [NextStarId::28068]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Vulpeculae-1.md|Vulpeculae-1]] 
+- [[../../../_internal/astro/Star/Vulpeculae-1.internal.md|Vulpeculae-1.internal]] 
+- [[../../../_protect/astro/Star/Vulpeculae-1.protect.md|Vulpeculae-1.protect]] 
+- [[../../../_private/astro/Star/Vulpeculae-1.private.md|Vulpeculae-1.private]] 
+- [[../../../_personal/astro/Star/Vulpeculae-1.personal.md|Vulpeculae-1.personal]] 
+- [[../../../_secret/astro/Star/Vulpeculae-1.secret.md|Vulpeculae-1.secret]] 

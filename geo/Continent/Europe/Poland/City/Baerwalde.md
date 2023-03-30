@@ -29,3 +29,12 @@ markerFile: [[Baerwalde]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Baerwalde.md|Baerwalde]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Baerwalde.internal.md|Baerwalde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Baerwalde.protect.md|Baerwalde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Baerwalde.private.md|Baerwalde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Baerwalde.personal.md|Baerwalde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Baerwalde.secret.md|Baerwalde.secret]] 

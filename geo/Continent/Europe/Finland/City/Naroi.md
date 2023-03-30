@@ -29,3 +29,12 @@ markerFile: [[Naroi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Naroi.md|Naroi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Naroi.internal.md|Naroi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Naroi.protect.md|Naroi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Naroi.private.md|Naroi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Naroi.personal.md|Naroi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Naroi.secret.md|Naroi.secret]] 

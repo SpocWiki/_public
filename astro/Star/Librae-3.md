@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28131]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Librae-3.md|Librae-3]] 
+- [[../../../_internal/astro/Star/Librae-3.internal.md|Librae-3.internal]] 
+- [[../../../_protect/astro/Star/Librae-3.protect.md|Librae-3.protect]] 
+- [[../../../_private/astro/Star/Librae-3.private.md|Librae-3.private]] 
+- [[../../../_personal/astro/Star/Librae-3.personal.md|Librae-3.personal]] 
+- [[../../../_secret/astro/Star/Librae-3.secret.md|Librae-3.secret]] 

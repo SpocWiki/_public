@@ -29,3 +29,12 @@ markerFile: [[Lugnian]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lugnian.md|Lugnian]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lugnian.internal.md|Lugnian.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lugnian.protect.md|Lugnian.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lugnian.private.md|Lugnian.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lugnian.personal.md|Lugnian.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lugnian.secret.md|Lugnian.secret]] 

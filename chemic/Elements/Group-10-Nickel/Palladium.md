@@ -33,3 +33,12 @@ SpocWebEntityId: 21944
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palladium)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-10-Nickel/Palladium.md|Palladium]] 
+- [[../../../../_internal/chemic/Elements/Group-10-Nickel/Palladium.internal.md|Palladium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-10-Nickel/Palladium.protect.md|Palladium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-10-Nickel/Palladium.private.md|Palladium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-10-Nickel/Palladium.personal.md|Palladium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-10-Nickel/Palladium.secret.md|Palladium.secret]] 

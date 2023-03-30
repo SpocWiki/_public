@@ -29,3 +29,12 @@ markerFile: [[Singapore=Singapur]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Singapore/City/Singapore=Singapur.md|Singapore=Singapur]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Singapore/City/Singapore=Singapur.internal.md|Singapore=Singapur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Singapore/City/Singapore=Singapur.protect.md|Singapore=Singapur.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Singapore/City/Singapore=Singapur.private.md|Singapore=Singapur.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Singapore/City/Singapore=Singapur.personal.md|Singapore=Singapur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Singapore/City/Singapore=Singapur.secret.md|Singapore=Singapur.secret]] 

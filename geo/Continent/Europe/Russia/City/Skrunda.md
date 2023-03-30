@@ -29,3 +29,12 @@ markerFile: [[Skrunda]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Skrunda.md|Skrunda]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Skrunda.internal.md|Skrunda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Skrunda.protect.md|Skrunda.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Skrunda.private.md|Skrunda.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Skrunda.personal.md|Skrunda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Skrunda.secret.md|Skrunda.secret]] 

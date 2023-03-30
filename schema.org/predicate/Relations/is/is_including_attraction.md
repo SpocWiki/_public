@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_including_attraction)
 ( #has_/range :: TouristAttraction)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_including_attraction.md|is_including_attraction]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_attraction.internal.md|is_including_attraction.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_including_attraction.protect.md|is_including_attraction.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_including_attraction.private.md|is_including_attraction.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_including_attraction.personal.md|is_including_attraction.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_including_attraction.secret.md|is_including_attraction.secret]] 

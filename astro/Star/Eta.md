@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28113]
 [NextStarId::27377]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Eta.md|Eta]] 
+- [[../../../_internal/astro/Star/Eta.internal.md|Eta.internal]] 
+- [[../../../_protect/astro/Star/Eta.protect.md|Eta.protect]] 
+- [[../../../_private/astro/Star/Eta.private.md|Eta.private]] 
+- [[../../../_personal/astro/Star/Eta.personal.md|Eta.personal]] 
+- [[../../../_secret/astro/Star/Eta.secret.md|Eta.secret]]
+

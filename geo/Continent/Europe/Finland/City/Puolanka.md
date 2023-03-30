@@ -29,3 +29,12 @@ markerFile: [[Puolanka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Puolanka.md|Puolanka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Puolanka.internal.md|Puolanka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Puolanka.protect.md|Puolanka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Puolanka.private.md|Puolanka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Puolanka.personal.md|Puolanka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Puolanka.secret.md|Puolanka.secret]] 

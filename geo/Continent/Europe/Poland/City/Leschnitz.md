@@ -29,3 +29,12 @@ markerFile: [[Leschnitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Leschnitz.md|Leschnitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Leschnitz.internal.md|Leschnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Leschnitz.protect.md|Leschnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Leschnitz.private.md|Leschnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Leschnitz.personal.md|Leschnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Leschnitz.secret.md|Leschnitz.secret]] 

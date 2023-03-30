@@ -43,3 +43,12 @@ OrderStatus representing that payment is due on an order.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.md|order_payment_due]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.internal.md|order_payment_due.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.protect.md|order_payment_due.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.private.md|order_payment_due.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.personal.md|order_payment_due.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.secret.md|order_payment_due.secret]] 

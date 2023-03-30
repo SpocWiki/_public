@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28152]
 [NextStarId::27968]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Reticuli-2.md|Reticuli-2]] 
+- [[../../../_internal/astro/Star/Reticuli-2.internal.md|Reticuli-2.internal]] 
+- [[../../../_protect/astro/Star/Reticuli-2.protect.md|Reticuli-2.protect]] 
+- [[../../../_private/astro/Star/Reticuli-2.private.md|Reticuli-2.private]] 
+- [[../../../_personal/astro/Star/Reticuli-2.personal.md|Reticuli-2.personal]] 
+- [[../../../_secret/astro/Star/Reticuli-2.secret.md|Reticuli-2.secret]] 

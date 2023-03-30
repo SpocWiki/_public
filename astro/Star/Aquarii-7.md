@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28086]
 [NextStarId::27663]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Aquarii-7.md|Aquarii-7]] 
+- [[../../../_internal/astro/Star/Aquarii-7.internal.md|Aquarii-7.internal]] 
+- [[../../../_protect/astro/Star/Aquarii-7.protect.md|Aquarii-7.protect]] 
+- [[../../../_private/astro/Star/Aquarii-7.private.md|Aquarii-7.private]] 
+- [[../../../_personal/astro/Star/Aquarii-7.personal.md|Aquarii-7.personal]] 
+- [[../../../_secret/astro/Star/Aquarii-7.secret.md|Aquarii-7.secret]]
+

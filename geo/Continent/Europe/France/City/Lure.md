@@ -29,3 +29,12 @@ markerFile: [[Lure]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Lure.md|Lure]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lure.internal.md|Lure.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lure.protect.md|Lure.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lure.private.md|Lure.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lure.personal.md|Lure.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lure.secret.md|Lure.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Koberwitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Koberwitz.md|Koberwitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Koberwitz.internal.md|Koberwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Koberwitz.protect.md|Koberwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Koberwitz.private.md|Koberwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Koberwitz.personal.md|Koberwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Koberwitz.secret.md|Koberwitz.secret]] 

@@ -28,3 +28,12 @@ markerFolder: ./NordRhein-Westfalen/City
 [geo-lat::51.4279]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.md|NordRhein-Westfalen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.internal.md|NordRhein-Westfalen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.protect.md|NordRhein-Westfalen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.private.md|NordRhein-Westfalen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.personal.md|NordRhein-Westfalen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.secret.md|NordRhein-Westfalen.secret]] 

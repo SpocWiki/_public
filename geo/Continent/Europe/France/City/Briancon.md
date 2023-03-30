@@ -29,3 +29,12 @@ markerFile: [[Briancon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Briancon.md|Briancon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Briancon.internal.md|Briancon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Briancon.protect.md|Briancon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Briancon.private.md|Briancon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Briancon.personal.md|Briancon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Briancon.secret.md|Briancon.secret]] 

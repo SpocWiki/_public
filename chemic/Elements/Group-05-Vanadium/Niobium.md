@@ -32,3 +32,12 @@ SpocWebEntityId: 21939
 > Niobium is used in various superconducting materials. These alloys, also containing titanium and tin, are widely used in the superconducting magnets of MRI scanners. Other applications of niobium include welding, nuclear industries, electronics, optics, numismatics, and jewelry. In the last two applications, the low toxicity and iridescence produced by anodization are highly desired properties. Niobium is considered a technology-critical element.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niobium)
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-05-Vanadium/Niobium.md|Niobium]] 
+- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Niobium.internal.md|Niobium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Niobium.protect.md|Niobium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Niobium.private.md|Niobium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Niobium.personal.md|Niobium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Niobium.secret.md|Niobium.secret]] 

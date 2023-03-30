@@ -28,3 +28,12 @@ markerFile: [[U-Glöcknerwiese]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.md|U-Glöcknerwiese]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.internal.md|U-Glöcknerwiese.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.protect.md|U-Glöcknerwiese.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.private.md|U-Glöcknerwiese.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.personal.md|U-Glöcknerwiese.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.secret.md|U-Glöcknerwiese.secret]] 

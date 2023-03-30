@@ -29,3 +29,12 @@ markerFile: [[Staw]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Staw.md|Staw]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Staw.internal.md|Staw.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Staw.protect.md|Staw.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Staw.private.md|Staw.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Staw.personal.md|Staw.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Staw.secret.md|Staw.secret]] 

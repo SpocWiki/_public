@@ -29,3 +29,12 @@ markerFile: [[Kristianstad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kristianstad.md|Kristianstad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kristianstad.internal.md|Kristianstad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kristianstad.protect.md|Kristianstad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kristianstad.private.md|Kristianstad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kristianstad.personal.md|Kristianstad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kristianstad.secret.md|Kristianstad.secret]] 

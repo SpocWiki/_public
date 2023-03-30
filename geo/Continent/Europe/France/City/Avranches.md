@@ -29,3 +29,12 @@ markerFile: [[Avranches]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Avranches.md|Avranches]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Avranches.internal.md|Avranches.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Avranches.protect.md|Avranches.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Avranches.private.md|Avranches.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Avranches.personal.md|Avranches.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Avranches.secret.md|Avranches.secret]] 

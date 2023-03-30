@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28129]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Leonis_Minoris-2.md|Leonis_Minoris-2]] 
+- [[../../../_internal/astro/Star/Leonis_Minoris-2.internal.md|Leonis_Minoris-2.internal]] 
+- [[../../../_protect/astro/Star/Leonis_Minoris-2.protect.md|Leonis_Minoris-2.protect]] 
+- [[../../../_private/astro/Star/Leonis_Minoris-2.private.md|Leonis_Minoris-2.private]] 
+- [[../../../_personal/astro/Star/Leonis_Minoris-2.personal.md|Leonis_Minoris-2.personal]] 
+- [[../../../_secret/astro/Star/Leonis_Minoris-2.secret.md|Leonis_Minoris-2.secret]] 

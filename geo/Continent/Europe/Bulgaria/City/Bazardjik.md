@@ -29,3 +29,12 @@ markerFile: [[Bazardjik]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Bazardjik.md|Bazardjik]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Bazardjik.internal.md|Bazardjik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Bazardjik.protect.md|Bazardjik.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Bazardjik.private.md|Bazardjik.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Bazardjik.personal.md|Bazardjik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Bazardjik.secret.md|Bazardjik.secret]] 

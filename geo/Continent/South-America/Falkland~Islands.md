@@ -36,3 +36,12 @@ markerFolder: ./Falkland~Islands/City
 [geo-lon::-57.85]
 [geo-lat::-51.7]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Falkland~Islands.md|Falkland~Islands]] 
+- [[../../../../_internal/geo/Continent/South-America/Falkland~Islands.internal.md|Falkland~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Falkland~Islands.protect.md|Falkland~Islands.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Falkland~Islands.private.md|Falkland~Islands.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Falkland~Islands.personal.md|Falkland~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Falkland~Islands.secret.md|Falkland~Islands.secret]] 

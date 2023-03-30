@@ -28,3 +28,12 @@ markerFile: [[Klein-Sottrum]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klein-Sottrum.md|Klein-Sottrum]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klein-Sottrum.internal.md|Klein-Sottrum.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klein-Sottrum.protect.md|Klein-Sottrum.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klein-Sottrum.private.md|Klein-Sottrum.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klein-Sottrum.personal.md|Klein-Sottrum.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klein-Sottrum.secret.md|Klein-Sottrum.secret]] 

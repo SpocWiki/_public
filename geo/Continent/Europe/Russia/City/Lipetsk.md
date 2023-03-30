@@ -29,3 +29,12 @@ markerFile: [[Lipetsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Lipetsk.md|Lipetsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Lipetsk.internal.md|Lipetsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Lipetsk.protect.md|Lipetsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Lipetsk.private.md|Lipetsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Lipetsk.personal.md|Lipetsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Lipetsk.secret.md|Lipetsk.secret]] 

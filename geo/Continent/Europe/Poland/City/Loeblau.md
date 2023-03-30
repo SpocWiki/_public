@@ -29,3 +29,12 @@ markerFile: [[Loeblau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Loeblau.md|Loeblau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Loeblau.internal.md|Loeblau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Loeblau.protect.md|Loeblau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Loeblau.private.md|Loeblau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Loeblau.personal.md|Loeblau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Loeblau.secret.md|Loeblau.secret]] 

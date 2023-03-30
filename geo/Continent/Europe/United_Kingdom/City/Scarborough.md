@@ -29,3 +29,12 @@ markerFile: [[Scarborough]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Scarborough.md|Scarborough]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Scarborough.internal.md|Scarborough.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Scarborough.protect.md|Scarborough.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Scarborough.private.md|Scarborough.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Scarborough.personal.md|Scarborough.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Scarborough.secret.md|Scarborough.secret]] 

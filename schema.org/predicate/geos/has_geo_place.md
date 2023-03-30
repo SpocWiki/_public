@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo )
 ( #has_/range :: GeoCoordinates, GeoShape )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_place.md|has_geo_place]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_place.internal.md|has_geo_place.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_place.protect.md|has_geo_place.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_place.private.md|has_geo_place.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_place.personal.md|has_geo_place.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_place.secret.md|has_geo_place.secret]] 

@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Scorpii-45.md|Scorpii-45]] 
+- [[../../../_internal/astro/Star/Scorpii-45.internal.md|Scorpii-45.internal]] 
+- [[../../../_protect/astro/Star/Scorpii-45.protect.md|Scorpii-45.protect]] 
+- [[../../../_private/astro/Star/Scorpii-45.private.md|Scorpii-45.private]] 
+- [[../../../_personal/astro/Star/Scorpii-45.personal.md|Scorpii-45.personal]] 
+- [[../../../_secret/astro/Star/Scorpii-45.secret.md|Scorpii-45.secret]] 

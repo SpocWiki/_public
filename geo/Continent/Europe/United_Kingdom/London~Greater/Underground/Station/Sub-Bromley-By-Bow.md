@@ -29,3 +29,12 @@ markerFile: [[Sub-Bromley-By-Bow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bromley-By-Bow.md|Sub-Bromley-By-Bow]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bromley-By-Bow.internal.md|Sub-Bromley-By-Bow.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bromley-By-Bow.protect.md|Sub-Bromley-By-Bow.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bromley-By-Bow.private.md|Sub-Bromley-By-Bow.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bromley-By-Bow.personal.md|Sub-Bromley-By-Bow.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bromley-By-Bow.secret.md|Sub-Bromley-By-Bow.secret]] 

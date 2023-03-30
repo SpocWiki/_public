@@ -28,3 +28,12 @@ markerFile: [[Dingelstaedt-Eichsfeld]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.md|Dingelstaedt-Eichsfeld]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.internal.md|Dingelstaedt-Eichsfeld.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.protect.md|Dingelstaedt-Eichsfeld.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.private.md|Dingelstaedt-Eichsfeld.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.personal.md|Dingelstaedt-Eichsfeld.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.secret.md|Dingelstaedt-Eichsfeld.secret]] 

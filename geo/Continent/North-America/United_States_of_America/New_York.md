@@ -35,3 +35,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York.md|New_York]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York.internal.md|New_York.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York.protect.md|New_York.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York.private.md|New_York.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York.personal.md|New_York.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York.secret.md|New_York.secret]] 

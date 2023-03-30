@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Cushion_in_advance]]]
 - [con::[[Triz-Stability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.md|Triz-Ease_of_manufacture+Cushion_in_advance-Stability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.internal.md|Triz-Ease_of_manufacture+Cushion_in_advance-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.protect.md|Triz-Ease_of_manufacture+Cushion_in_advance-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.private.md|Triz-Ease_of_manufacture+Cushion_in_advance-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.personal.md|Triz-Ease_of_manufacture+Cushion_in_advance-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.secret.md|Triz-Ease_of_manufacture+Cushion_in_advance-Stability.secret]] 

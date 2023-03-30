@@ -29,3 +29,12 @@ markerFile: [[Lavia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lavia.md|Lavia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lavia.internal.md|Lavia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lavia.protect.md|Lavia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lavia.private.md|Lavia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lavia.personal.md|Lavia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lavia.secret.md|Lavia.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Llandilo-Faur]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Llandilo-Faur.md|Llandilo-Faur]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Llandilo-Faur.internal.md|Llandilo-Faur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Llandilo-Faur.protect.md|Llandilo-Faur.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Llandilo-Faur.private.md|Llandilo-Faur.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Llandilo-Faur.personal.md|Llandilo-Faur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Llandilo-Faur.secret.md|Llandilo-Faur.secret]] 

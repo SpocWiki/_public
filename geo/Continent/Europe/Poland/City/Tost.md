@@ -29,3 +29,12 @@ markerFile: [[Tost]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Tost.md|Tost]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Tost.internal.md|Tost.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Tost.protect.md|Tost.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Tost.private.md|Tost.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Tost.personal.md|Tost.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Tost.secret.md|Tost.secret]] 

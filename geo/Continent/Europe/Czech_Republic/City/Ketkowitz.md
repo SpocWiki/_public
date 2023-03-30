@@ -29,3 +29,12 @@ markerFile: [[Ketkowitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.md|Ketkowitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.internal.md|Ketkowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.protect.md|Ketkowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.private.md|Ketkowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.personal.md|Ketkowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.secret.md|Ketkowitz.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inert_environment]]]
 - [con::[[Triz-Stability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.md|Triz-stationary_Length+Inert_environment-Stability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.internal.md|Triz-stationary_Length+Inert_environment-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.protect.md|Triz-stationary_Length+Inert_environment-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.private.md|Triz-stationary_Length+Inert_environment-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.personal.md|Triz-stationary_Length+Inert_environment-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Inert_environment-Stability.secret.md|Triz-stationary_Length+Inert_environment-Stability.secret]] 

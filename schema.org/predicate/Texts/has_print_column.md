@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_print_column )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_print_column.md|has_print_column]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_print_column.internal.md|has_print_column.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_print_column.protect.md|has_print_column.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_print_column.private.md|has_print_column.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_print_column.personal.md|has_print_column.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_print_column.secret.md|has_print_column.secret]] 

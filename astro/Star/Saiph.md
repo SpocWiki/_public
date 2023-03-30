@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::27265]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Saiph.md|Saiph]] 
+- [[../../../_internal/astro/Star/Saiph.internal.md|Saiph.internal]] 
+- [[../../../_protect/astro/Star/Saiph.protect.md|Saiph.protect]] 
+- [[../../../_private/astro/Star/Saiph.private.md|Saiph.private]] 
+- [[../../../_personal/astro/Star/Saiph.personal.md|Saiph.personal]] 
+- [[../../../_secret/astro/Star/Saiph.secret.md|Saiph.secret]] 

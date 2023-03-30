@@ -29,3 +29,12 @@ markerFile: [[Pyatigorsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pyatigorsk.md|Pyatigorsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pyatigorsk.internal.md|Pyatigorsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pyatigorsk.protect.md|Pyatigorsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pyatigorsk.private.md|Pyatigorsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pyatigorsk.personal.md|Pyatigorsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pyatigorsk.secret.md|Pyatigorsk.secret]] 

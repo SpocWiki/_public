@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Local_quality]]]
 - [con::[[Triz-Strength]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Local_quality-Strength.md|Triz-Versatility+Local_quality-Strength]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Local_quality-Strength.internal.md|Triz-Versatility+Local_quality-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Local_quality-Strength.protect.md|Triz-Versatility+Local_quality-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Local_quality-Strength.private.md|Triz-Versatility+Local_quality-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Local_quality-Strength.personal.md|Triz-Versatility+Local_quality-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Local_quality-Strength.secret.md|Triz-Versatility+Local_quality-Strength.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Piestany=Postyan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.md|Piestany=Postyan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.internal.md|Piestany=Postyan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.protect.md|Piestany=Postyan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.private.md|Piestany=Postyan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.personal.md|Piestany=Postyan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.secret.md|Piestany=Postyan.secret]] 

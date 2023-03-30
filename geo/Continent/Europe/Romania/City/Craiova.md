@@ -29,3 +29,12 @@ markerFile: [[Craiova]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Craiova.md|Craiova]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Craiova.internal.md|Craiova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Craiova.protect.md|Craiova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Craiova.private.md|Craiova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Craiova.personal.md|Craiova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Craiova.secret.md|Craiova.secret]] 

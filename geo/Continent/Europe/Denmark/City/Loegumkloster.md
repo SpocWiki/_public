@@ -29,3 +29,12 @@ markerFile: [[Loegumkloster]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Loegumkloster.md|Loegumkloster]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Loegumkloster.internal.md|Loegumkloster.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Loegumkloster.protect.md|Loegumkloster.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Loegumkloster.private.md|Loegumkloster.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Loegumkloster.personal.md|Loegumkloster.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Loegumkloster.secret.md|Loegumkloster.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Bar_le_Duc]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Bar_le_Duc.md|Bar_le_Duc]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Bar_le_Duc.internal.md|Bar_le_Duc.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Bar_le_Duc.protect.md|Bar_le_Duc.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Bar_le_Duc.private.md|Bar_le_Duc.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Bar_le_Duc.personal.md|Bar_le_Duc.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Bar_le_Duc.secret.md|Bar_le_Duc.secret]] 

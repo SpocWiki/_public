@@ -29,3 +29,12 @@ markerFile: [[Runoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Runoe.md|Runoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Runoe.internal.md|Runoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Runoe.protect.md|Runoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Runoe.private.md|Runoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Runoe.personal.md|Runoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Runoe.secret.md|Runoe.secret]] 

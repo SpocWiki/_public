@@ -29,3 +29,12 @@ markerFile: [[Chioggia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Chioggia.md|Chioggia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Chioggia.internal.md|Chioggia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Chioggia.protect.md|Chioggia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Chioggia.private.md|Chioggia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Chioggia.personal.md|Chioggia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Chioggia.secret.md|Chioggia.secret]] 

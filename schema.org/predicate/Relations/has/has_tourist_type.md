@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_tourist_type )
 ( #has_/range :: Audience, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_tourist_type.md|has_tourist_type]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tourist_type.internal.md|has_tourist_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_tourist_type.protect.md|has_tourist_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_tourist_type.private.md|has_tourist_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_tourist_type.personal.md|has_tourist_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_tourist_type.secret.md|has_tourist_type.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Langenschwalbach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Langenschwalbach.md|Langenschwalbach]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Langenschwalbach.internal.md|Langenschwalbach.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Langenschwalbach.protect.md|Langenschwalbach.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Langenschwalbach.private.md|Langenschwalbach.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Langenschwalbach.personal.md|Langenschwalbach.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Langenschwalbach.secret.md|Langenschwalbach.secret]] 

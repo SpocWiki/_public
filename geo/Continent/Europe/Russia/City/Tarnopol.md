@@ -29,3 +29,12 @@ markerFile: [[Tarnopol]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tarnopol.md|Tarnopol]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tarnopol.internal.md|Tarnopol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tarnopol.protect.md|Tarnopol.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tarnopol.private.md|Tarnopol.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tarnopol.personal.md|Tarnopol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tarnopol.secret.md|Tarnopol.secret]] 

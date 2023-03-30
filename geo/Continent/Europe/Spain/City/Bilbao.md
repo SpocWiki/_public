@@ -29,3 +29,12 @@ markerFile: [[Bilbao]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Bilbao.md|Bilbao]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Bilbao.internal.md|Bilbao.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Bilbao.protect.md|Bilbao.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Bilbao.private.md|Bilbao.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Bilbao.personal.md|Bilbao.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Bilbao.secret.md|Bilbao.secret]] 

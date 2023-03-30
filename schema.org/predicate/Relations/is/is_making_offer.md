@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[../has/is_offered_by]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_making_offer.md|is_making_offer]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_making_offer.internal.md|is_making_offer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_making_offer.protect.md|is_making_offer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_making_offer.private.md|is_making_offer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_making_offer.personal.md|is_making_offer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_making_offer.secret.md|is_making_offer.secret]] 

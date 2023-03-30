@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28133]
 [NextStarId::27626]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Lyncis-1.md|Lyncis-1]] 
+- [[../../../_internal/astro/Star/Lyncis-1.internal.md|Lyncis-1.internal]] 
+- [[../../../_protect/astro/Star/Lyncis-1.protect.md|Lyncis-1.protect]] 
+- [[../../../_private/astro/Star/Lyncis-1.private.md|Lyncis-1.private]] 
+- [[../../../_personal/astro/Star/Lyncis-1.personal.md|Lyncis-1.personal]] 
+- [[../../../_secret/astro/Star/Lyncis-1.secret.md|Lyncis-1.secret]] 

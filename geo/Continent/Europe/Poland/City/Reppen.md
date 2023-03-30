@@ -29,3 +29,12 @@ markerFile: [[Reppen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Reppen.md|Reppen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Reppen.internal.md|Reppen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Reppen.protect.md|Reppen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Reppen.private.md|Reppen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Reppen.personal.md|Reppen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Reppen.secret.md|Reppen.secret]] 

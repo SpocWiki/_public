@@ -29,3 +29,12 @@ markerFile: [[Mikulow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Mikulow.md|Mikulow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Mikulow.internal.md|Mikulow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Mikulow.protect.md|Mikulow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Mikulow.private.md|Mikulow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Mikulow.personal.md|Mikulow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Mikulow.secret.md|Mikulow.secret]] 

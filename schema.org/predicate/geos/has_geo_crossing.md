@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo_crosses )
 ( #has_/range :: GeospatialGeometry, Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_crossing.md|has_geo_crossing]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_crossing.internal.md|has_geo_crossing.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_crossing.protect.md|has_geo_crossing.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_crossing.private.md|has_geo_crossing.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_crossing.personal.md|has_geo_crossing.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_crossing.secret.md|has_geo_crossing.secret]] 

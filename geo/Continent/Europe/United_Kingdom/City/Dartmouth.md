@@ -29,3 +29,12 @@ markerFile: [[Dartmouth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dartmouth.md|Dartmouth]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dartmouth.internal.md|Dartmouth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dartmouth.protect.md|Dartmouth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dartmouth.private.md|Dartmouth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dartmouth.personal.md|Dartmouth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dartmouth.secret.md|Dartmouth.secret]] 

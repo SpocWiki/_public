@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28100]
 [NextStarId::27482]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Ruchbah.md|Ruchbah]] 
+- [[../../../_internal/astro/Star/Ruchbah.internal.md|Ruchbah.internal]] 
+- [[../../../_protect/astro/Star/Ruchbah.protect.md|Ruchbah.protect]] 
+- [[../../../_private/astro/Star/Ruchbah.private.md|Ruchbah.private]] 
+- [[../../../_personal/astro/Star/Ruchbah.personal.md|Ruchbah.personal]] 
+- [[../../../_secret/astro/Star/Ruchbah.secret.md|Ruchbah.secret]] 

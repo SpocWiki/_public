@@ -29,3 +29,12 @@ markerFile: [[Varberget]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Varberget.md|Varberget]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Varberget.internal.md|Varberget.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Varberget.protect.md|Varberget.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Varberget.private.md|Varberget.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Varberget.personal.md|Varberget.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Varberget.secret.md|Varberget.secret]] 

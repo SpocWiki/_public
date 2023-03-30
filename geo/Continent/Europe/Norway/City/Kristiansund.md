@@ -29,3 +29,12 @@ markerFile: [[Kristiansund]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Kristiansund.md|Kristiansund]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Kristiansund.internal.md|Kristiansund.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Kristiansund.protect.md|Kristiansund.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Kristiansund.private.md|Kristiansund.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Kristiansund.personal.md|Kristiansund.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Kristiansund.secret.md|Kristiansund.secret]] 

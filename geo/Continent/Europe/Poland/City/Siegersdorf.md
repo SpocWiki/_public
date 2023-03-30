@@ -29,3 +29,12 @@ markerFile: [[Siegersdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Siegersdorf.md|Siegersdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Siegersdorf.internal.md|Siegersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Siegersdorf.protect.md|Siegersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Siegersdorf.private.md|Siegersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Siegersdorf.personal.md|Siegersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Siegersdorf.secret.md|Siegersdorf.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Centnerbrunn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Centnerbrunn.md|Centnerbrunn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Centnerbrunn.internal.md|Centnerbrunn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Centnerbrunn.protect.md|Centnerbrunn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Centnerbrunn.private.md|Centnerbrunn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Centnerbrunn.personal.md|Centnerbrunn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Centnerbrunn.secret.md|Centnerbrunn.secret]] 

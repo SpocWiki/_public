@@ -29,3 +29,12 @@ markerFile: [[Torro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Torro.md|Torro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Torro.internal.md|Torro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Torro.protect.md|Torro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Torro.private.md|Torro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Torro.personal.md|Torro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Torro.secret.md|Torro.secret]] 

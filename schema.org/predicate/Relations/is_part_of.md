@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ inDefinedTermSet, partOfEpisode, partOfSeason, partOfSeries, partOfTVSeries]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Relations/is_part_of.md|is_part_of]] 
+- [[../../../../_internal/schema.org/Predicate/Relations/is_part_of.internal.md|is_part_of.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Relations/is_part_of.protect.md|is_part_of.protect]] 
+- [[../../../../_private/schema.org/Predicate/Relations/is_part_of.private.md|is_part_of.private]] 
+- [[../../../../_personal/schema.org/Predicate/Relations/is_part_of.personal.md|is_part_of.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Relations/is_part_of.secret.md|is_part_of.secret]] 

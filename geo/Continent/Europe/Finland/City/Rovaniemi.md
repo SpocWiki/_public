@@ -29,3 +29,12 @@ markerFile: [[Rovaniemi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Rovaniemi.md|Rovaniemi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Rovaniemi.internal.md|Rovaniemi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Rovaniemi.protect.md|Rovaniemi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Rovaniemi.private.md|Rovaniemi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Rovaniemi.personal.md|Rovaniemi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Rovaniemi.secret.md|Rovaniemi.secret]] 

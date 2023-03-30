@@ -29,3 +29,12 @@ markerFile: [[Hallstatt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hallstatt.md|Hallstatt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hallstatt.internal.md|Hallstatt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hallstatt.protect.md|Hallstatt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hallstatt.private.md|Hallstatt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hallstatt.personal.md|Hallstatt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hallstatt.secret.md|Hallstatt.secret]] 

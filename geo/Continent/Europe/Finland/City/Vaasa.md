@@ -29,3 +29,12 @@ markerFile: [[Vaasa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Vaasa.md|Vaasa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Vaasa.internal.md|Vaasa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Vaasa.protect.md|Vaasa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Vaasa.private.md|Vaasa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Vaasa.personal.md|Vaasa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Vaasa.secret.md|Vaasa.secret]] 

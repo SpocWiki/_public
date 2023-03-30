@@ -121,3 +121,12 @@ markerFolder: ./USA_Virgin~Islands/City
 [geo-lon::]
 [geo-lat::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.md|USA_Virgin~Islands]] 
+- [[../../../../../_internal/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.internal.md|USA_Virgin~Islands.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.protect.md|USA_Virgin~Islands.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.private.md|USA_Virgin~Islands.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.personal.md|USA_Virgin~Islands.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.secret.md|USA_Virgin~Islands.secret]] 

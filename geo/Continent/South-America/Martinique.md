@@ -129,3 +129,12 @@ markerFolder: ./Martinique/City
 [geo-lon::-61.0667]
 [geo-lat::14.6]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Martinique.md|Martinique]] 
+- [[../../../../_internal/geo/Continent/South-America/Martinique.internal.md|Martinique.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Martinique.protect.md|Martinique.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Martinique.private.md|Martinique.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Martinique.personal.md|Martinique.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Martinique.secret.md|Martinique.secret]] 

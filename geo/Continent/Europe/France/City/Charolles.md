@@ -29,3 +29,12 @@ markerFile: [[Charolles]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Charolles.md|Charolles]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Charolles.internal.md|Charolles.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Charolles.protect.md|Charolles.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Charolles.private.md|Charolles.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Charolles.personal.md|Charolles.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Charolles.secret.md|Charolles.secret]] 

@@ -20,3 +20,12 @@ type: folder_brief_live
 ```
  
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/chemic/Elements/Group-13-Boron.md|Group-13-Boron]] 
+- [[../../../_internal/chemic/Elements/Group-13-Boron.internal.md|Group-13-Boron.internal]] 
+- [[../../../_protect/chemic/Elements/Group-13-Boron.protect.md|Group-13-Boron.protect]] 
+- [[../../../_private/chemic/Elements/Group-13-Boron.private.md|Group-13-Boron.private]] 
+- [[../../../_personal/chemic/Elements/Group-13-Boron.personal.md|Group-13-Boron.personal]] 
+- [[../../../_secret/chemic/Elements/Group-13-Boron.secret.md|Group-13-Boron.secret]] 

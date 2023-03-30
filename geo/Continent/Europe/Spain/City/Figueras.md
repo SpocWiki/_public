@@ -29,3 +29,12 @@ markerFile: [[Figueras]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Figueras.md|Figueras]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Figueras.internal.md|Figueras.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Figueras.protect.md|Figueras.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Figueras.private.md|Figueras.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Figueras.personal.md|Figueras.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Figueras.secret.md|Figueras.secret]] 

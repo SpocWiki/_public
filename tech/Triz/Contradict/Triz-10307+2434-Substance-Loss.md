@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-2434]]]
 - [con::Substance-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+2434-Substance-Loss.md|Triz-10307+2434-Substance-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+2434-Substance-Loss.internal.md|Triz-10307+2434-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+2434-Substance-Loss.protect.md|Triz-10307+2434-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+2434-Substance-Loss.private.md|Triz-10307+2434-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+2434-Substance-Loss.personal.md|Triz-10307+2434-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+2434-Substance-Loss.secret.md|Triz-10307+2434-Substance-Loss.secret]] 

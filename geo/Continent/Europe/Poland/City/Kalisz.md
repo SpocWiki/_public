@@ -29,3 +29,12 @@ markerFile: [[Kalisz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kalisz.md|Kalisz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kalisz.internal.md|Kalisz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kalisz.protect.md|Kalisz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kalisz.private.md|Kalisz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kalisz.personal.md|Kalisz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kalisz.secret.md|Kalisz.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-Manufacturing_Precision]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.md|Triz-Power+Extraction-Manufacturing_Precision]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.internal.md|Triz-Power+Extraction-Manufacturing_Precision.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.protect.md|Triz-Power+Extraction-Manufacturing_Precision.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.private.md|Triz-Power+Extraction-Manufacturing_Precision.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.personal.md|Triz-Power+Extraction-Manufacturing_Precision.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Power+Extraction-Manufacturing_Precision.secret.md|Triz-Power+Extraction-Manufacturing_Precision.secret]] 

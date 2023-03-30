@@ -28,3 +28,12 @@ markerFile: [[Heidenheim~Mittelfranken]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.md|Heidenheim~Mittelfranken]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.internal.md|Heidenheim~Mittelfranken.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.protect.md|Heidenheim~Mittelfranken.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.private.md|Heidenheim~Mittelfranken.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.personal.md|Heidenheim~Mittelfranken.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.secret.md|Heidenheim~Mittelfranken.secret]] 

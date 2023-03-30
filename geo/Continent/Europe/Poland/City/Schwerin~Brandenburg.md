@@ -29,3 +29,12 @@ markerFile: [[Schwerin~Brandenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.md|Schwerin~Brandenburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.internal.md|Schwerin~Brandenburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.protect.md|Schwerin~Brandenburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.private.md|Schwerin~Brandenburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.personal.md|Schwerin~Brandenburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.secret.md|Schwerin~Brandenburg.secret]] 

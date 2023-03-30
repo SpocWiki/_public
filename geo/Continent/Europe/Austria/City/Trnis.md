@@ -29,3 +29,12 @@ markerFile: [[Trnis]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Trnis.md|Trnis]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Trnis.internal.md|Trnis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Trnis.protect.md|Trnis.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Trnis.private.md|Trnis.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Trnis.personal.md|Trnis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Trnis.secret.md|Trnis.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Fiume]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Fiume.md|Fiume]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Fiume.internal.md|Fiume.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Fiume.protect.md|Fiume.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Fiume.private.md|Fiume.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Fiume.personal.md|Fiume.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Fiume.secret.md|Fiume.secret]] 

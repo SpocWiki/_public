@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22229]]]
 - [con::[[Triz-Quantity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Quantity.md|Triz-10307+22229-Quantity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-Quantity.internal.md|Triz-10307+22229-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-Quantity.protect.md|Triz-10307+22229-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22229-Quantity.private.md|Triz-10307+22229-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22229-Quantity.personal.md|Triz-10307+22229-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22229-Quantity.secret.md|Triz-10307+22229-Quantity.secret]] 

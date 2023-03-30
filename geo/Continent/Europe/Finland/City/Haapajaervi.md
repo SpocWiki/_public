@@ -29,3 +29,12 @@ markerFile: [[Haapajaervi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Haapajaervi.md|Haapajaervi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Haapajaervi.internal.md|Haapajaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Haapajaervi.protect.md|Haapajaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Haapajaervi.private.md|Haapajaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Haapajaervi.personal.md|Haapajaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Haapajaervi.secret.md|Haapajaervi.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Marchirolo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Marchirolo.md|Marchirolo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Marchirolo.internal.md|Marchirolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Marchirolo.protect.md|Marchirolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Marchirolo.private.md|Marchirolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Marchirolo.personal.md|Marchirolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Marchirolo.secret.md|Marchirolo.secret]] 

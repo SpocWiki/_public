@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-Automation]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.md|Triz-Intensity+Extraction-Automation]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.internal.md|Triz-Intensity+Extraction-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.protect.md|Triz-Intensity+Extraction-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.private.md|Triz-Intensity+Extraction-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.personal.md|Triz-Intensity+Extraction-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.secret.md|Triz-Intensity+Extraction-Automation.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Tynemouth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tynemouth.md|Tynemouth]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tynemouth.internal.md|Tynemouth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tynemouth.protect.md|Tynemouth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tynemouth.private.md|Tynemouth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tynemouth.personal.md|Tynemouth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tynemouth.secret.md|Tynemouth.secret]] 

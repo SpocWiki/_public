@@ -28,3 +28,12 @@ markerFile: [[Laufen~Oberbayern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.md|Laufen~Oberbayern]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.internal.md|Laufen~Oberbayern.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.protect.md|Laufen~Oberbayern.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.private.md|Laufen~Oberbayern.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.personal.md|Laufen~Oberbayern.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.secret.md|Laufen~Oberbayern.secret]] 

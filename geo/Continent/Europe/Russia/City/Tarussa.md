@@ -29,3 +29,12 @@ markerFile: [[Tarussa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tarussa.md|Tarussa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tarussa.internal.md|Tarussa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tarussa.protect.md|Tarussa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tarussa.private.md|Tarussa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tarussa.personal.md|Tarussa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tarussa.secret.md|Tarussa.secret]] 

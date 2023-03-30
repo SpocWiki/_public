@@ -29,3 +29,12 @@ markerFile: [[Tschigirin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschigirin.md|Tschigirin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschigirin.internal.md|Tschigirin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschigirin.protect.md|Tschigirin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschigirin.private.md|Tschigirin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschigirin.personal.md|Tschigirin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschigirin.secret.md|Tschigirin.secret]] 

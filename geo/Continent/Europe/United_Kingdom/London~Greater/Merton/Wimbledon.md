@@ -29,3 +29,12 @@ markerFile: [[Wimbledon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Wimbledon.md|Wimbledon]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Wimbledon.internal.md|Wimbledon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Wimbledon.protect.md|Wimbledon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Wimbledon.private.md|Wimbledon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Wimbledon.personal.md|Wimbledon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Merton/Wimbledon.secret.md|Wimbledon.secret]] 

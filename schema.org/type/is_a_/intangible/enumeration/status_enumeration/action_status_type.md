@@ -39,3 +39,12 @@ The status of an Action.
 
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type.md|action_status_type]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type.internal.md|action_status_type.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type.protect.md|action_status_type.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type.private.md|action_status_type.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type.personal.md|action_status_type.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type.secret.md|action_status_type.secret]] 

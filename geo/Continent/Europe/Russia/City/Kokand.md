@@ -29,3 +29,12 @@ markerFile: [[Kokand]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kokand.md|Kokand]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kokand.internal.md|Kokand.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kokand.protect.md|Kokand.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kokand.private.md|Kokand.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kokand.personal.md|Kokand.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kokand.secret.md|Kokand.secret]] 

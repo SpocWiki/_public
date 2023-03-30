@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_price_component )
 ( #has_/range :: UnitPriceSpecification )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_price_component.md|has_price_component]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_price_component.internal.md|has_price_component.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_price_component.protect.md|has_price_component.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_price_component.private.md|has_price_component.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_price_component.personal.md|has_price_component.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_price_component.secret.md|has_price_component.secret]] 

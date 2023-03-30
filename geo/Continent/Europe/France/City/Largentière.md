@@ -29,3 +29,12 @@ markerFile: [[Largentière]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Largentière.md|Largentière]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Largentière.internal.md|Largentière.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Largentière.protect.md|Largentière.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Largentière.private.md|Largentière.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Largentière.personal.md|Largentière.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Largentière.secret.md|Largentière.secret]] 

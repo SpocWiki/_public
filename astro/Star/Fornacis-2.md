@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28119]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Fornacis-2.md|Fornacis-2]] 
+- [[../../../_internal/astro/Star/Fornacis-2.internal.md|Fornacis-2.internal]] 
+- [[../../../_protect/astro/Star/Fornacis-2.protect.md|Fornacis-2.protect]] 
+- [[../../../_private/astro/Star/Fornacis-2.private.md|Fornacis-2.private]] 
+- [[../../../_personal/astro/Star/Fornacis-2.personal.md|Fornacis-2.personal]] 
+- [[../../../_secret/astro/Star/Fornacis-2.secret.md|Fornacis-2.secret]]
+

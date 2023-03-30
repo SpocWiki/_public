@@ -29,3 +29,12 @@ markerFile: [[Bastad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Bastad.md|Bastad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bastad.internal.md|Bastad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bastad.protect.md|Bastad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Bastad.private.md|Bastad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bastad.personal.md|Bastad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bastad.secret.md|Bastad.secret]] 

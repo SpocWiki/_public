@@ -29,3 +29,12 @@ markerFile: [[Paisley]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Paisley.md|Paisley]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Paisley.internal.md|Paisley.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Paisley.protect.md|Paisley.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Paisley.private.md|Paisley.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Paisley.personal.md|Paisley.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Paisley.secret.md|Paisley.secret]] 

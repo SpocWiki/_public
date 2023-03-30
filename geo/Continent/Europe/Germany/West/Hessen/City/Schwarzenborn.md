@@ -28,3 +28,12 @@ markerFile: [[Schwarzenborn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.md|Schwarzenborn]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.internal.md|Schwarzenborn.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.protect.md|Schwarzenborn.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.private.md|Schwarzenborn.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.personal.md|Schwarzenborn.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.secret.md|Schwarzenborn.secret]] 

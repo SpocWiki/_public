@@ -28,3 +28,12 @@ markerFile: [[Neustadt~Rübenberge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.md|Neustadt~Rübenberge]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.internal.md|Neustadt~Rübenberge.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.protect.md|Neustadt~Rübenberge.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.private.md|Neustadt~Rübenberge.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.personal.md|Neustadt~Rübenberge.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.secret.md|Neustadt~Rübenberge.secret]] 

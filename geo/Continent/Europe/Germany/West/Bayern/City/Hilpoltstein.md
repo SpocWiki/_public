@@ -28,3 +28,12 @@ markerFile: [[Hilpoltstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.md|Hilpoltstein]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.internal.md|Hilpoltstein.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.protect.md|Hilpoltstein.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.private.md|Hilpoltstein.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.personal.md|Hilpoltstein.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.secret.md|Hilpoltstein.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Yaren]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Oceania/Nauru/City/Yaren.md|Yaren]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Nauru/City/Yaren.internal.md|Yaren.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Nauru/City/Yaren.protect.md|Yaren.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Nauru/City/Yaren.private.md|Yaren.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Nauru/City/Yaren.personal.md|Yaren.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Nauru/City/Yaren.secret.md|Yaren.secret]] 

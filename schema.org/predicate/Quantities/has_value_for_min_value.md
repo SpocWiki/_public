@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_min_value )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_min_value.md|has_value_for_min_value]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_min_value.internal.md|has_value_for_min_value.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_min_value.protect.md|has_value_for_min_value.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_min_value.private.md|has_value_for_min_value.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_min_value.personal.md|has_value_for_min_value.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_min_value.secret.md|has_value_for_min_value.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Kyrkerud]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kyrkerud.md|Kyrkerud]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kyrkerud.internal.md|Kyrkerud.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kyrkerud.protect.md|Kyrkerud.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kyrkerud.private.md|Kyrkerud.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kyrkerud.personal.md|Kyrkerud.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kyrkerud.secret.md|Kyrkerud.secret]] 

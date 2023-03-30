@@ -28,3 +28,12 @@ markerFile: [[Niederbrechen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.md|Niederbrechen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.internal.md|Niederbrechen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.protect.md|Niederbrechen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.private.md|Niederbrechen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.personal.md|Niederbrechen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.secret.md|Niederbrechen.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Linkoeping]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Linkoeping.md|Linkoeping]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Linkoeping.internal.md|Linkoeping.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Linkoeping.protect.md|Linkoeping.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Linkoeping.private.md|Linkoeping.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Linkoeping.personal.md|Linkoeping.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Linkoeping.secret.md|Linkoeping.secret]] 

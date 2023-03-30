@@ -29,3 +29,12 @@ markerFile: [[Qujetzo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Qujetzo.md|Qujetzo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Qujetzo.internal.md|Qujetzo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Qujetzo.protect.md|Qujetzo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Qujetzo.private.md|Qujetzo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Qujetzo.personal.md|Qujetzo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Qujetzo.secret.md|Qujetzo.secret]] 

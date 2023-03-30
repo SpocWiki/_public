@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Counterweight]]]
 - [con::[[Triz-Reliability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Counterweight-Reliability.md|Triz-Difficulty+Counterweight-Reliability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Counterweight-Reliability.internal.md|Triz-Difficulty+Counterweight-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Counterweight-Reliability.protect.md|Triz-Difficulty+Counterweight-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Counterweight-Reliability.private.md|Triz-Difficulty+Counterweight-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Counterweight-Reliability.personal.md|Triz-Difficulty+Counterweight-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Counterweight-Reliability.secret.md|Triz-Difficulty+Counterweight-Reliability.secret]] 

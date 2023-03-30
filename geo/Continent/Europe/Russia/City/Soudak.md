@@ -29,3 +29,12 @@ markerFile: [[Soudak]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Soudak.md|Soudak]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Soudak.internal.md|Soudak.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Soudak.protect.md|Soudak.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Soudak.private.md|Soudak.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Soudak.personal.md|Soudak.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Soudak.secret.md|Soudak.secret]] 

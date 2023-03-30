@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_publisher_imprint )
 ( #has_/range :: Organization )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_publisher_imprint.md|has_publisher_imprint]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publisher_imprint.internal.md|has_publisher_imprint.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_publisher_imprint.protect.md|has_publisher_imprint.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_publisher_imprint.private.md|has_publisher_imprint.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_publisher_imprint.personal.md|has_publisher_imprint.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_publisher_imprint.secret.md|has_publisher_imprint.secret]] 

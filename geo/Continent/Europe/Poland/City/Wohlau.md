@@ -29,3 +29,12 @@ markerFile: [[Wohlau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wohlau.md|Wohlau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wohlau.internal.md|Wohlau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wohlau.protect.md|Wohlau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wohlau.private.md|Wohlau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wohlau.personal.md|Wohlau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wohlau.secret.md|Wohlau.secret]] 

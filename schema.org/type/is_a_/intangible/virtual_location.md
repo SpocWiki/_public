@@ -43,3 +43,12 @@ An online or virtual location for attending events. For example, one may attend 
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/virtual_location.md|virtual_location]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/virtual_location.internal.md|virtual_location.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/virtual_location.protect.md|virtual_location.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/virtual_location.private.md|virtual_location.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/virtual_location.personal.md|virtual_location.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/virtual_location.secret.md|virtual_location.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Sneek]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Sneek.md|Sneek]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sneek.internal.md|Sneek.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sneek.protect.md|Sneek.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sneek.private.md|Sneek.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sneek.personal.md|Sneek.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sneek.secret.md|Sneek.secret]] 

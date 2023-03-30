@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28124]
 [NextStarId::27281]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Hydrae-139.md|Hydrae-139]] 
+- [[../../../_internal/astro/Star/Hydrae-139.internal.md|Hydrae-139.internal]] 
+- [[../../../_protect/astro/Star/Hydrae-139.protect.md|Hydrae-139.protect]] 
+- [[../../../_private/astro/Star/Hydrae-139.private.md|Hydrae-139.private]] 
+- [[../../../_personal/astro/Star/Hydrae-139.personal.md|Hydrae-139.personal]] 
+- [[../../../_secret/astro/Star/Hydrae-139.secret.md|Hydrae-139.secret]]
+

@@ -41,3 +41,12 @@ The act of inserting at the beginning if an ordered collection.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/schema.org/Type/is_a_/action/update_action/add_action/insert_action/prepend_action.md|prepend_action]] 
+- [[../../../../../../../../_internal/schema.org/Type/is_a_/action/update_action/add_action/insert_action/prepend_action.internal.md|prepend_action.internal]] 
+- [[../../../../../../../../_protect/schema.org/Type/is_a_/action/update_action/add_action/insert_action/prepend_action.protect.md|prepend_action.protect]] 
+- [[../../../../../../../../_private/schema.org/Type/is_a_/action/update_action/add_action/insert_action/prepend_action.private.md|prepend_action.private]] 
+- [[../../../../../../../../_personal/schema.org/Type/is_a_/action/update_action/add_action/insert_action/prepend_action.personal.md|prepend_action.personal]] 
+- [[../../../../../../../../_secret/schema.org/Type/is_a_/action/update_action/add_action/insert_action/prepend_action.secret.md|prepend_action.secret]] 

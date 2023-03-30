@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Periodic_action]]]
 - [con::[[Triz-Difficulty]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Difficulty.md|Triz-affected_harm+Periodic_action-Difficulty]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Difficulty.internal.md|Triz-affected_harm+Periodic_action-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Difficulty.protect.md|Triz-affected_harm+Periodic_action-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Difficulty.private.md|Triz-affected_harm+Periodic_action-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Difficulty.personal.md|Triz-affected_harm+Periodic_action-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Difficulty.secret.md|Triz-affected_harm+Periodic_action-Difficulty.secret]] 

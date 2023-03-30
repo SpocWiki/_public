@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Local_quality]]]
 - [con::Substance-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.md|Triz-Quantity+Local_quality-Substance-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.internal.md|Triz-Quantity+Local_quality-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.protect.md|Triz-Quantity+Local_quality-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.private.md|Triz-Quantity+Local_quality-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.personal.md|Triz-Quantity+Local_quality-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.secret.md|Triz-Quantity+Local_quality-Substance-Loss.secret]] 

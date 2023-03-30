@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_monoisotopic_molecular_weight )
 ( #has_/range :: QuantitativeValue, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.md|has_value_for_monoisotopic_molecular_weight]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.internal.md|has_value_for_monoisotopic_molecular_weight.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.protect.md|has_value_for_monoisotopic_molecular_weight.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.private.md|has_value_for_monoisotopic_molecular_weight.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.personal.md|has_value_for_monoisotopic_molecular_weight.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.secret.md|has_value_for_monoisotopic_molecular_weight.secret]] 

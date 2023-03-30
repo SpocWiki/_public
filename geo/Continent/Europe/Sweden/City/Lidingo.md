@@ -29,3 +29,12 @@ markerFile: [[Lidingo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Lidingo.md|Lidingo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lidingo.internal.md|Lidingo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lidingo.protect.md|Lidingo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Lidingo.private.md|Lidingo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lidingo.personal.md|Lidingo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lidingo.secret.md|Lidingo.secret]] 

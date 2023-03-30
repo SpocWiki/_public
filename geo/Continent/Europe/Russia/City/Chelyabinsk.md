@@ -29,3 +29,12 @@ markerFile: [[Chelyabinsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chelyabinsk.md|Chelyabinsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chelyabinsk.internal.md|Chelyabinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chelyabinsk.protect.md|Chelyabinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chelyabinsk.private.md|Chelyabinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chelyabinsk.personal.md|Chelyabinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chelyabinsk.secret.md|Chelyabinsk.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Schwader]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schwader.md|Schwader]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwader.internal.md|Schwader.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwader.protect.md|Schwader.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schwader.private.md|Schwader.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwader.personal.md|Schwader.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwader.secret.md|Schwader.secret]] 

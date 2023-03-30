@@ -29,3 +29,12 @@ markerFile: [[Viagrande]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Viagrande.md|Viagrande]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Viagrande.internal.md|Viagrande.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Viagrande.protect.md|Viagrande.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Viagrande.private.md|Viagrande.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Viagrande.personal.md|Viagrande.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Viagrande.secret.md|Viagrande.secret]] 

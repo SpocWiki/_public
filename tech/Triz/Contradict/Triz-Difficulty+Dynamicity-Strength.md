@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Dynamicity]]]
 - [con::[[Triz-Strength]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.md|Triz-Difficulty+Dynamicity-Strength]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.internal.md|Triz-Difficulty+Dynamicity-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.protect.md|Triz-Difficulty+Dynamicity-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.private.md|Triz-Difficulty+Dynamicity-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.personal.md|Triz-Difficulty+Dynamicity-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.secret.md|Triz-Difficulty+Dynamicity-Strength.secret]] 

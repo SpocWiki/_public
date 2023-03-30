@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28116]
 [NextStarId::27678]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Giauzar.md|Giauzar]] 
+- [[../../../_internal/astro/Star/Giauzar.internal.md|Giauzar.internal]] 
+- [[../../../_protect/astro/Star/Giauzar.protect.md|Giauzar.protect]] 
+- [[../../../_private/astro/Star/Giauzar.private.md|Giauzar.private]] 
+- [[../../../_personal/astro/Star/Giauzar.personal.md|Giauzar.personal]] 
+- [[../../../_secret/astro/Star/Giauzar.secret.md|Giauzar.secret]]
+

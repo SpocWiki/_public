@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Reliability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.md|Triz-Manufacturing_Precision+Segmentation-Reliability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.internal.md|Triz-Manufacturing_Precision+Segmentation-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.protect.md|Triz-Manufacturing_Precision+Segmentation-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.private.md|Triz-Manufacturing_Precision+Segmentation-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.personal.md|Triz-Manufacturing_Precision+Segmentation-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.secret.md|Triz-Manufacturing_Precision+Segmentation-Reliability.secret]] 

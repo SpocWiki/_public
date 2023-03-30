@@ -29,3 +29,12 @@ markerFile: [[Landsberg~Warthe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Landsberg~Warthe.md|Landsberg~Warthe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Landsberg~Warthe.internal.md|Landsberg~Warthe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Landsberg~Warthe.protect.md|Landsberg~Warthe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Landsberg~Warthe.private.md|Landsberg~Warthe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Landsberg~Warthe.personal.md|Landsberg~Warthe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Landsberg~Warthe.secret.md|Landsberg~Warthe.secret]] 

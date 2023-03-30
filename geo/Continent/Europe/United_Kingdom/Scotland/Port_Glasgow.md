@@ -29,3 +29,12 @@ markerFile: [[Port_Glasgow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.md|Port_Glasgow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.internal.md|Port_Glasgow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.protect.md|Port_Glasgow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.private.md|Port_Glasgow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.personal.md|Port_Glasgow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.secret.md|Port_Glasgow.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Oberndorf~Neckar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.md|Oberndorf~Neckar]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.internal.md|Oberndorf~Neckar.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.protect.md|Oberndorf~Neckar.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.private.md|Oberndorf~Neckar.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.personal.md|Oberndorf~Neckar.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.secret.md|Oberndorf~Neckar.secret]] 

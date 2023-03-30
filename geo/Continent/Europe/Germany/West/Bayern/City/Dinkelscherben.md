@@ -28,3 +28,12 @@ markerFile: [[Dinkelscherben]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.md|Dinkelscherben]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.internal.md|Dinkelscherben.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.protect.md|Dinkelscherben.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.private.md|Dinkelscherben.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.personal.md|Dinkelscherben.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.secret.md|Dinkelscherben.secret]] 

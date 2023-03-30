@@ -29,3 +29,12 @@ markerFile: [[Soestdijk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Soestdijk.md|Soestdijk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Soestdijk.internal.md|Soestdijk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Soestdijk.protect.md|Soestdijk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Soestdijk.private.md|Soestdijk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Soestdijk.personal.md|Soestdijk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Soestdijk.secret.md|Soestdijk.secret]] 

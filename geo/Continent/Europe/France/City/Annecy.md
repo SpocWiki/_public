@@ -29,3 +29,12 @@ markerFile: [[Annecy]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Annecy.md|Annecy]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Annecy.internal.md|Annecy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Annecy.protect.md|Annecy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Annecy.private.md|Annecy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Annecy.personal.md|Annecy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Annecy.secret.md|Annecy.secret]] 

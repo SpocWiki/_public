@@ -29,3 +29,12 @@ markerFile: [[Kirkly]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kirkly.md|Kirkly]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkly.internal.md|Kirkly.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkly.protect.md|Kirkly.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkly.private.md|Kirkly.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkly.personal.md|Kirkly.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkly.secret.md|Kirkly.secret]] 

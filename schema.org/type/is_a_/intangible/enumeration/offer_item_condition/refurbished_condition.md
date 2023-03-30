@@ -43,3 +43,12 @@ Indicates that the item is refurbished.
 
 [ #is_/enum_of :: [[../OfferItemCondition]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.md|refurbished_condition]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.internal.md|refurbished_condition.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.protect.md|refurbished_condition.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.private.md|refurbished_condition.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.personal.md|refurbished_condition.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.secret.md|refurbished_condition.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Lille]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Lille.md|Lille]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lille.internal.md|Lille.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lille.protect.md|Lille.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lille.private.md|Lille.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lille.personal.md|Lille.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lille.secret.md|Lille.secret]] 

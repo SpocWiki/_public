@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_vehicle_transmission )
 ( #has_/range :: QualitativeValue, Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_vehicle_transmission.md|has_vehicle_transmission]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_vehicle_transmission.internal.md|has_vehicle_transmission.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_vehicle_transmission.protect.md|has_vehicle_transmission.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_vehicle_transmission.private.md|has_vehicle_transmission.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_vehicle_transmission.personal.md|has_vehicle_transmission.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_vehicle_transmission.secret.md|has_vehicle_transmission.secret]] 

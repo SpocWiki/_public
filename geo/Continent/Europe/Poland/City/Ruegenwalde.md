@@ -29,3 +29,12 @@ markerFile: [[Ruegenwalde]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ruegenwalde.md|Ruegenwalde]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ruegenwalde.internal.md|Ruegenwalde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ruegenwalde.protect.md|Ruegenwalde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ruegenwalde.private.md|Ruegenwalde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ruegenwalde.personal.md|Ruegenwalde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ruegenwalde.secret.md|Ruegenwalde.secret]] 

@@ -35,3 +35,12 @@ markerFolder: ./Vietnam~South/City
 [geo-lon::106.667]
 [geo-lat::10.75]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Vietnam~South.md|Vietnam~South]] 
+- [[../../../../_internal/geo/Continent/Asia/Vietnam~South.internal.md|Vietnam~South.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Vietnam~South.protect.md|Vietnam~South.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Vietnam~South.private.md|Vietnam~South.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Vietnam~South.personal.md|Vietnam~South.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Vietnam~South.secret.md|Vietnam~South.secret]] 

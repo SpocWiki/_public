@@ -130,3 +130,12 @@ markerFolder: ./Qatar/City
 [geo-lon::51.53]
 [geo-lat::25.28]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Qatar.md|Qatar]] 
+- [[../../../../_internal/geo/Continent/Asia/Qatar.internal.md|Qatar.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Qatar.protect.md|Qatar.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Qatar.private.md|Qatar.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Qatar.personal.md|Qatar.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Qatar.secret.md|Qatar.secret]] 

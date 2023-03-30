@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Asymmetry]]]
 - [con::[[Triz-Illumination]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.md|Triz-moving_Duration+Asymmetry-Illumination]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.internal.md|Triz-moving_Duration+Asymmetry-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.protect.md|Triz-moving_Duration+Asymmetry-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.private.md|Triz-moving_Duration+Asymmetry-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.personal.md|Triz-moving_Duration+Asymmetry-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.secret.md|Triz-moving_Duration+Asymmetry-Illumination.secret]] 

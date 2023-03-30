@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28093]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Camelopardalis-111.md|Camelopardalis-111]] 
+- [[../../../_internal/astro/Star/Camelopardalis-111.internal.md|Camelopardalis-111.internal]] 
+- [[../../../_protect/astro/Star/Camelopardalis-111.protect.md|Camelopardalis-111.protect]] 
+- [[../../../_private/astro/Star/Camelopardalis-111.private.md|Camelopardalis-111.private]] 
+- [[../../../_personal/astro/Star/Camelopardalis-111.personal.md|Camelopardalis-111.personal]] 
+- [[../../../_secret/astro/Star/Camelopardalis-111.secret.md|Camelopardalis-111.secret]]
+

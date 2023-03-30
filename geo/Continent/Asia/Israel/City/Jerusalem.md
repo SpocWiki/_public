@@ -29,3 +29,12 @@ markerFile: [[Jerusalem]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Israel/City/Jerusalem.md|Jerusalem]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Israel/City/Jerusalem.internal.md|Jerusalem.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Israel/City/Jerusalem.protect.md|Jerusalem.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Israel/City/Jerusalem.private.md|Jerusalem.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Israel/City/Jerusalem.personal.md|Jerusalem.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Israel/City/Jerusalem.secret.md|Jerusalem.secret]] 

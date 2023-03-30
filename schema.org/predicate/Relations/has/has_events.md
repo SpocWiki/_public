@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_events )
 ( #has_/range :: Event )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_events.md|has_events]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_events.internal.md|has_events.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_events.protect.md|has_events.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_events.private.md|has_events.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_events.personal.md|has_events.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_events.secret.md|has_events.secret]] 

@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28084]
 [NextStarId::28051]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Antliae-8.md|Antliae-8]] 
+- [[../../../_internal/astro/Star/Antliae-8.internal.md|Antliae-8.internal]] 
+- [[../../../_protect/astro/Star/Antliae-8.protect.md|Antliae-8.protect]] 
+- [[../../../_private/astro/Star/Antliae-8.private.md|Antliae-8.private]] 
+- [[../../../_personal/astro/Star/Antliae-8.personal.md|Antliae-8.personal]] 
+- [[../../../_secret/astro/Star/Antliae-8.secret.md|Antliae-8.secret]]
+

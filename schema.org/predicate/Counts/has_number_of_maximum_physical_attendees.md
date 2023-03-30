@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_maximum_physical_attendees )
 ( #has_/range :: Integer )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_maximum_physical_attendees.md|has_number_of_maximum_physical_attendees]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_physical_attendees.internal.md|has_number_of_maximum_physical_attendees.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_maximum_physical_attendees.protect.md|has_number_of_maximum_physical_attendees.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_maximum_physical_attendees.private.md|has_number_of_maximum_physical_attendees.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_maximum_physical_attendees.personal.md|has_number_of_maximum_physical_attendees.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_maximum_physical_attendees.secret.md|has_number_of_maximum_physical_attendees.secret]] 

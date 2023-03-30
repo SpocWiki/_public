@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28102]
 [NextStarId::27441]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alderamin.md|Alderamin]] 
+- [[../../../_internal/astro/Star/Alderamin.internal.md|Alderamin.internal]] 
+- [[../../../_protect/astro/Star/Alderamin.protect.md|Alderamin.protect]] 
+- [[../../../_private/astro/Star/Alderamin.private.md|Alderamin.private]] 
+- [[../../../_personal/astro/Star/Alderamin.personal.md|Alderamin.personal]] 
+- [[../../../_secret/astro/Star/Alderamin.secret.md|Alderamin.secret]]
+

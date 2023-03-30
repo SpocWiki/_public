@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_review_rating_stars )
 ( #has_/range :: Rating )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.md|has_value_for_review_rating_stars]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.internal.md|has_value_for_review_rating_stars.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.protect.md|has_value_for_review_rating_stars.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.private.md|has_value_for_review_rating_stars.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.personal.md|has_value_for_review_rating_stars.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.secret.md|has_value_for_review_rating_stars.secret]] 

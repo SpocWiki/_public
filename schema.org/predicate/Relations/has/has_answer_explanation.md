@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_answer_explanation )
 ( #has_/range :: Comment, WebContent )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_answer_explanation.md|has_answer_explanation]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_answer_explanation.internal.md|has_answer_explanation.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_answer_explanation.protect.md|has_answer_explanation.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_answer_explanation.private.md|has_answer_explanation.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_answer_explanation.personal.md|has_answer_explanation.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_answer_explanation.secret.md|has_answer_explanation.secret]] 

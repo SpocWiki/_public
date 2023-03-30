@@ -29,3 +29,12 @@ markerFile: [[Peterswaldau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Peterswaldau.md|Peterswaldau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Peterswaldau.internal.md|Peterswaldau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Peterswaldau.protect.md|Peterswaldau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Peterswaldau.private.md|Peterswaldau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Peterswaldau.personal.md|Peterswaldau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Peterswaldau.secret.md|Peterswaldau.secret]] 

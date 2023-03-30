@@ -29,3 +29,12 @@ markerFile: [[Sandown]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sandown.md|Sandown]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sandown.internal.md|Sandown.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sandown.protect.md|Sandown.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sandown.private.md|Sandown.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sandown.personal.md|Sandown.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sandown.secret.md|Sandown.secret]] 

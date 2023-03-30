@@ -29,3 +29,12 @@ markerFile: [[Dybwatt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Dybwatt.md|Dybwatt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Dybwatt.internal.md|Dybwatt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Dybwatt.protect.md|Dybwatt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Dybwatt.private.md|Dybwatt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Dybwatt.personal.md|Dybwatt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Dybwatt.secret.md|Dybwatt.secret]] 

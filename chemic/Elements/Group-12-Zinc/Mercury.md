@@ -38,3 +38,12 @@ SpocWebEntityId: 21975
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mercury%20(element))
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-12-Zinc/Mercury.md|Mercury]] 
+- [[../../../../_internal/chemic/Elements/Group-12-Zinc/Mercury.internal.md|Mercury.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-12-Zinc/Mercury.protect.md|Mercury.protect]] 
+- [[../../../../_private/chemic/Elements/Group-12-Zinc/Mercury.private.md|Mercury.private]] 
+- [[../../../../_personal/chemic/Elements/Group-12-Zinc/Mercury.personal.md|Mercury.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-12-Zinc/Mercury.secret.md|Mercury.secret]] 

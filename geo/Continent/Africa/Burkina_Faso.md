@@ -127,3 +127,12 @@ markerFolder: ./Burkina_Faso/City
 [geo-lon::-1.66667]
 [geo-lat::12.3333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Burkina_Faso.md|Burkina_Faso]] 
+- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso.internal.md|Burkina_Faso.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso.protect.md|Burkina_Faso.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Burkina_Faso.private.md|Burkina_Faso.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso.personal.md|Burkina_Faso.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso.secret.md|Burkina_Faso.secret]] 

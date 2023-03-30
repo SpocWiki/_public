@@ -29,3 +29,12 @@ markerFile: [[Sifiisk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sifiisk.md|Sifiisk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sifiisk.internal.md|Sifiisk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sifiisk.protect.md|Sifiisk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sifiisk.private.md|Sifiisk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sifiisk.personal.md|Sifiisk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sifiisk.secret.md|Sifiisk.secret]] 

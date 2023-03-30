@@ -29,3 +29,12 @@ markerFile: [[Salekhard]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Salekhard.md|Salekhard]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Salekhard.internal.md|Salekhard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Salekhard.protect.md|Salekhard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Salekhard.private.md|Salekhard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Salekhard.personal.md|Salekhard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Salekhard.secret.md|Salekhard.secret]] 

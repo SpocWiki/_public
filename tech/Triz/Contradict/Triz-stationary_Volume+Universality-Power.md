@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::[[Triz-Power]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Power.md|Triz-stationary_Volume+Universality-Power]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Power.internal.md|Triz-stationary_Volume+Universality-Power.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Power.protect.md|Triz-stationary_Volume+Universality-Power.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Power.private.md|Triz-stationary_Volume+Universality-Power.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Power.personal.md|Triz-stationary_Volume+Universality-Power.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Power.secret.md|Triz-stationary_Volume+Universality-Power.secret]] 

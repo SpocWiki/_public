@@ -130,3 +130,12 @@ markerFolder: ./Bhutan/City
 [geo-lon::90.435]
 [geo-lat::27.417]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Bhutan.md|Bhutan]] 
+- [[../../../../_internal/geo/Continent/Asia/Bhutan.internal.md|Bhutan.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Bhutan.protect.md|Bhutan.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Bhutan.private.md|Bhutan.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Bhutan.personal.md|Bhutan.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Bhutan.secret.md|Bhutan.secret]] 

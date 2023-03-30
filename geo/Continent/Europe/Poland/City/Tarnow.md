@@ -29,3 +29,12 @@ markerFile: [[Tarnow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Tarnow.md|Tarnow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Tarnow.internal.md|Tarnow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Tarnow.protect.md|Tarnow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Tarnow.private.md|Tarnow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Tarnow.personal.md|Tarnow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Tarnow.secret.md|Tarnow.secret]] 

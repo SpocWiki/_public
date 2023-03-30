@@ -29,3 +29,12 @@ markerFile: [[Hedwigsschacht]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.md|Hedwigsschacht]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.internal.md|Hedwigsschacht.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.protect.md|Hedwigsschacht.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.private.md|Hedwigsschacht.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.personal.md|Hedwigsschacht.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.secret.md|Hedwigsschacht.secret]] 

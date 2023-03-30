@@ -28,3 +28,12 @@ markerFile: [[Klingenmuenster]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.md|Klingenmuenster]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.internal.md|Klingenmuenster.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.protect.md|Klingenmuenster.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.private.md|Klingenmuenster.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.personal.md|Klingenmuenster.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.secret.md|Klingenmuenster.secret]] 

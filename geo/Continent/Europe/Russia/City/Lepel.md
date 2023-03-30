@@ -29,3 +29,12 @@ markerFile: [[Lepel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Lepel.md|Lepel]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Lepel.internal.md|Lepel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Lepel.protect.md|Lepel.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Lepel.private.md|Lepel.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Lepel.personal.md|Lepel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Lepel.secret.md|Lepel.secret]] 

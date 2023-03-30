@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: termCode ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_code_value.md|has_code_value]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_code_value.internal.md|has_code_value.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_code_value.protect.md|has_code_value.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_code_value.private.md|has_code_value.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_code_value.personal.md|has_code_value.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_code_value.secret.md|has_code_value.secret]] 

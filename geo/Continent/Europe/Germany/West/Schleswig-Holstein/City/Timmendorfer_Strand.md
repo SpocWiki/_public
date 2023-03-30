@@ -28,3 +28,12 @@ markerFile: [[Timmendorfer_Strand]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.md|Timmendorfer_Strand]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.internal.md|Timmendorfer_Strand.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.protect.md|Timmendorfer_Strand.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.private.md|Timmendorfer_Strand.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.personal.md|Timmendorfer_Strand.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.secret.md|Timmendorfer_Strand.secret]] 

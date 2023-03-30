@@ -29,3 +29,12 @@ markerFile: [[Trim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Trim.md|Trim]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Trim.internal.md|Trim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Trim.protect.md|Trim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Trim.private.md|Trim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Trim.personal.md|Trim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Trim.secret.md|Trim.secret]] 

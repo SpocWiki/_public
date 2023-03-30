@@ -29,3 +29,12 @@ markerFile: [[Pillupoenen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pillupoenen.md|Pillupoenen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pillupoenen.internal.md|Pillupoenen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pillupoenen.protect.md|Pillupoenen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pillupoenen.private.md|Pillupoenen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pillupoenen.personal.md|Pillupoenen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pillupoenen.secret.md|Pillupoenen.secret]] 

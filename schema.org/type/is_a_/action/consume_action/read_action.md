@@ -41,3 +41,12 @@ The act of consuming written content.
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/action/consume_action/read_action.md|read_action]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/read_action.internal.md|read_action.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/read_action.protect.md|read_action.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/action/consume_action/read_action.private.md|read_action.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/read_action.personal.md|read_action.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/read_action.secret.md|read_action.secret]] 

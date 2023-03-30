@@ -30,3 +30,12 @@ SpocWebEntityId: 21942
 > [Wikipedia](https://en.wikipedia.org/wiki/Ruthenium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-08-Iron/Ruthenium.md|Ruthenium]] 
+- [[../../../../_internal/chemic/Elements/Group-08-Iron/Ruthenium.internal.md|Ruthenium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-08-Iron/Ruthenium.protect.md|Ruthenium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-08-Iron/Ruthenium.private.md|Ruthenium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-08-Iron/Ruthenium.personal.md|Ruthenium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-08-Iron/Ruthenium.secret.md|Ruthenium.secret]] 

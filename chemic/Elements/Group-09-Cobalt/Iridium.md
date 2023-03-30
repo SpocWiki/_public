@@ -35,3 +35,12 @@ SpocWebEntityId: 21973
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iridium)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-09-Cobalt/Iridium.md|Iridium]] 
+- [[../../../../_internal/chemic/Elements/Group-09-Cobalt/Iridium.internal.md|Iridium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-09-Cobalt/Iridium.protect.md|Iridium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-09-Cobalt/Iridium.private.md|Iridium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-09-Cobalt/Iridium.personal.md|Iridium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-09-Cobalt/Iridium.secret.md|Iridium.secret]] 

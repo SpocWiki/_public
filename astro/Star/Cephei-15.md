@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28102]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Cephei-15.md|Cephei-15]] 
+- [[../../../_internal/astro/Star/Cephei-15.internal.md|Cephei-15.internal]] 
+- [[../../../_protect/astro/Star/Cephei-15.protect.md|Cephei-15.protect]] 
+- [[../../../_private/astro/Star/Cephei-15.private.md|Cephei-15.private]] 
+- [[../../../_personal/astro/Star/Cephei-15.personal.md|Cephei-15.personal]] 
+- [[../../../_secret/astro/Star/Cephei-15.secret.md|Cephei-15.secret]]
+

@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_measured_value )
 ( #has_/range :: DataType )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_measured_value.md|has_measured_value]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_measured_value.internal.md|has_measured_value.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_measured_value.protect.md|has_measured_value.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_measured_value.private.md|has_measured_value.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_measured_value.personal.md|has_measured_value.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_measured_value.secret.md|has_measured_value.secret]] 

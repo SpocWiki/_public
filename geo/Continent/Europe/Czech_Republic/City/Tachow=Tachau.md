@@ -29,3 +29,12 @@ markerFile: [[Tachow=Tachau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.md|Tachow=Tachau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.internal.md|Tachow=Tachau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.protect.md|Tachow=Tachau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.private.md|Tachow=Tachau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.personal.md|Tachow=Tachau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.secret.md|Tachow=Tachau.secret]] 

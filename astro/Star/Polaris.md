@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28166]
 [NextStarId::27907]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Polaris.md|Polaris]] 
+- [[../../../_internal/astro/Star/Polaris.internal.md|Polaris.internal]] 
+- [[../../../_protect/astro/Star/Polaris.protect.md|Polaris.protect]] 
+- [[../../../_private/astro/Star/Polaris.private.md|Polaris.private]] 
+- [[../../../_personal/astro/Star/Polaris.personal.md|Polaris.personal]] 
+- [[../../../_secret/astro/Star/Polaris.secret.md|Polaris.secret]] 

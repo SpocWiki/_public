@@ -29,3 +29,12 @@ markerFile: [[Dolina]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Dolina.md|Dolina]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Dolina.internal.md|Dolina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Dolina.protect.md|Dolina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Dolina.private.md|Dolina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Dolina.personal.md|Dolina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Dolina.secret.md|Dolina.secret]] 

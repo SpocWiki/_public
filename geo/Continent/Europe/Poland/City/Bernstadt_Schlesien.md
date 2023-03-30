@@ -29,3 +29,12 @@ markerFile: [[Bernstadt/Schlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Bernstadt_Schlesien.md|Bernstadt_Schlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Bernstadt_Schlesien.internal.md|Bernstadt_Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Bernstadt_Schlesien.protect.md|Bernstadt_Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Bernstadt_Schlesien.private.md|Bernstadt_Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Bernstadt_Schlesien.personal.md|Bernstadt_Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Bernstadt_Schlesien.secret.md|Bernstadt_Schlesien.secret]] 

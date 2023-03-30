@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Quantity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.md|Triz-Automation+Inversion-Quantity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.internal.md|Triz-Automation+Inversion-Quantity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.protect.md|Triz-Automation+Inversion-Quantity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.private.md|Triz-Automation+Inversion-Quantity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.personal.md|Triz-Automation+Inversion-Quantity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.secret.md|Triz-Automation+Inversion-Quantity.secret]] 

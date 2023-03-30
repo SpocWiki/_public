@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: hasVariant]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_variant_of.md|is_variant_of]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_variant_of.internal.md|is_variant_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_variant_of.protect.md|is_variant_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_variant_of.private.md|is_variant_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_variant_of.personal.md|is_variant_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_variant_of.secret.md|is_variant_of.secret]] 

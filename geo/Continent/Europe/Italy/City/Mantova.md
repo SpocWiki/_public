@@ -29,3 +29,12 @@ markerFile: [[Mantova]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Mantova.md|Mantova]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mantova.internal.md|Mantova.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mantova.protect.md|Mantova.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mantova.private.md|Mantova.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mantova.personal.md|Mantova.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mantova.secret.md|Mantova.secret]] 

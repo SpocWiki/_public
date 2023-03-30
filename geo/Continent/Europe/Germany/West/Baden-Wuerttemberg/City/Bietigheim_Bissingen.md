@@ -28,3 +28,12 @@ markerFile: [[Bietigheim_Bissingen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.md|Bietigheim_Bissingen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.internal.md|Bietigheim_Bissingen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.protect.md|Bietigheim_Bissingen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.private.md|Bietigheim_Bissingen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.personal.md|Bietigheim_Bissingen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.secret.md|Bietigheim_Bissingen.secret]] 

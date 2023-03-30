@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_departure_station )
 ( #has_/range :: TrainStation )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_departure_station.md|has_departure_station]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_station.internal.md|has_departure_station.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_departure_station.protect.md|has_departure_station.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_departure_station.private.md|has_departure_station.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_departure_station.personal.md|has_departure_station.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_departure_station.secret.md|has_departure_station.secret]] 

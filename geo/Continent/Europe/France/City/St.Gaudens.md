@@ -29,3 +29,12 @@ markerFile: [[St.Gaudens]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Gaudens.md|St.Gaudens]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Gaudens.internal.md|St.Gaudens.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Gaudens.protect.md|St.Gaudens.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Gaudens.private.md|St.Gaudens.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Gaudens.personal.md|St.Gaudens.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Gaudens.secret.md|St.Gaudens.secret]] 

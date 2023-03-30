@@ -29,3 +29,12 @@ markerFile: [[Grenoble]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Grenoble.md|Grenoble]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Grenoble.internal.md|Grenoble.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Grenoble.protect.md|Grenoble.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Grenoble.private.md|Grenoble.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Grenoble.personal.md|Grenoble.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Grenoble.secret.md|Grenoble.secret]] 

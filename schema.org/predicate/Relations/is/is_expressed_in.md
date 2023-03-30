@@ -43,3 +43,12 @@ Relation describes that:
 ( #has_/name :: is_expressed_in )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_expressed_in.md|is_expressed_in]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_expressed_in.internal.md|is_expressed_in.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_expressed_in.protect.md|is_expressed_in.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_expressed_in.private.md|is_expressed_in.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_expressed_in.personal.md|is_expressed_in.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_expressed_in.secret.md|is_expressed_in.secret]] 

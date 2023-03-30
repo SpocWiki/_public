@@ -29,3 +29,12 @@ markerFile: [[Stratford-upon-Avon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.md|Stratford-upon-Avon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.internal.md|Stratford-upon-Avon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.protect.md|Stratford-upon-Avon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.private.md|Stratford-upon-Avon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.personal.md|Stratford-upon-Avon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.secret.md|Stratford-upon-Avon.secret]] 

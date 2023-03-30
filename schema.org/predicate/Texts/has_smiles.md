@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: hasRepresentation ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_smiles.md|has_smiles]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_smiles.internal.md|has_smiles.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_smiles.protect.md|has_smiles.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_smiles.private.md|has_smiles.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_smiles.personal.md|has_smiles.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_smiles.secret.md|has_smiles.secret]] 

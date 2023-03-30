@@ -29,3 +29,12 @@ markerFile: [[Tingstaede]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Tingstaede.md|Tingstaede]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tingstaede.internal.md|Tingstaede.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tingstaede.protect.md|Tingstaede.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Tingstaede.private.md|Tingstaede.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tingstaede.personal.md|Tingstaede.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tingstaede.secret.md|Tingstaede.secret]] 

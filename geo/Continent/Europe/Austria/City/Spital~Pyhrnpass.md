@@ -29,3 +29,12 @@ markerFile: [[Spital~Pyhrnpass]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.md|Spital~Pyhrnpass]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.internal.md|Spital~Pyhrnpass.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.protect.md|Spital~Pyhrnpass.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.private.md|Spital~Pyhrnpass.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.personal.md|Spital~Pyhrnpass.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.secret.md|Spital~Pyhrnpass.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Lappeenranta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lappeenranta.md|Lappeenranta]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lappeenranta.internal.md|Lappeenranta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lappeenranta.protect.md|Lappeenranta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lappeenranta.private.md|Lappeenranta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lappeenranta.personal.md|Lappeenranta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lappeenranta.secret.md|Lappeenranta.secret]] 

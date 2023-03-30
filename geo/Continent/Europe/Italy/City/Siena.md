@@ -29,3 +29,12 @@ markerFile: [[Siena]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Siena.md|Siena]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Siena.internal.md|Siena.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Siena.protect.md|Siena.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Siena.private.md|Siena.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Siena.personal.md|Siena.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Siena.secret.md|Siena.secret]] 

@@ -38,3 +38,12 @@ markerFolder: ./Korea~South/City
 [geo-lon::126.97]
 [geo-lat::37.55]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Korea~South.md|Korea~South]] 
+- [[../../../../_internal/geo/Continent/Asia/Korea~South.internal.md|Korea~South.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Korea~South.protect.md|Korea~South.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Korea~South.private.md|Korea~South.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Korea~South.personal.md|Korea~South.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Korea~South.secret.md|Korea~South.secret]] 

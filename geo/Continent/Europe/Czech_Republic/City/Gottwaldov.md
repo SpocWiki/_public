@@ -29,3 +29,12 @@ markerFile: [[Gottwaldov]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.md|Gottwaldov]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.internal.md|Gottwaldov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.protect.md|Gottwaldov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.private.md|Gottwaldov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.personal.md|Gottwaldov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.secret.md|Gottwaldov.secret]] 

@@ -129,3 +129,12 @@ markerFolder: ./Oman/City
 [geo-lon::58.55]
 [geo-lat::23.48]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Oman.md|Oman]] 
+- [[../../../../_internal/geo/Continent/Asia/Oman.internal.md|Oman.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Oman.protect.md|Oman.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Oman.private.md|Oman.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Oman.personal.md|Oman.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Oman.secret.md|Oman.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Libreville]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Gabon/City/Libreville.md|Libreville]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Gabon/City/Libreville.internal.md|Libreville.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Gabon/City/Libreville.protect.md|Libreville.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Gabon/City/Libreville.private.md|Libreville.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Gabon/City/Libreville.personal.md|Libreville.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Gabon/City/Libreville.secret.md|Libreville.secret]] 

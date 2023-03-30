@@ -29,3 +29,12 @@ markerFile: [[Mildenau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Mildenau.md|Mildenau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mildenau.internal.md|Mildenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mildenau.protect.md|Mildenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mildenau.private.md|Mildenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mildenau.personal.md|Mildenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mildenau.secret.md|Mildenau.secret]] 

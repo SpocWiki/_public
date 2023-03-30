@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28113]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Cygni-141.md|Cygni-141]] 
+- [[../../../_internal/astro/Star/Cygni-141.internal.md|Cygni-141.internal]] 
+- [[../../../_protect/astro/Star/Cygni-141.protect.md|Cygni-141.protect]] 
+- [[../../../_private/astro/Star/Cygni-141.private.md|Cygni-141.private]] 
+- [[../../../_personal/astro/Star/Cygni-141.personal.md|Cygni-141.personal]] 
+- [[../../../_secret/astro/Star/Cygni-141.secret.md|Cygni-141.secret]]
+

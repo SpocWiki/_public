@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/State/State-Quebeck.md|State-Quebeck]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State-Quebeck.internal.md|State-Quebeck.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Quebeck.protect.md|State-Quebeck.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State-Quebeck.private.md|State-Quebeck.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Quebeck.personal.md|State-Quebeck.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Quebeck.secret.md|State-Quebeck.secret]] 

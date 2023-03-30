@@ -29,3 +29,12 @@ markerFile: [[Cervittela]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Cervittela.md|Cervittela]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Cervittela.internal.md|Cervittela.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Cervittela.protect.md|Cervittela.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Cervittela.private.md|Cervittela.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Cervittela.personal.md|Cervittela.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Cervittela.secret.md|Cervittela.secret]] 

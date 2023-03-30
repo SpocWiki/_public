@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Dynamicity]]]
 - [con::Energy-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Energy-Loss.md|Triz-Ease_of_repair+Dynamicity-Energy-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Energy-Loss.internal.md|Triz-Ease_of_repair+Dynamicity-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Energy-Loss.protect.md|Triz-Ease_of_repair+Dynamicity-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Energy-Loss.private.md|Triz-Ease_of_repair+Dynamicity-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Energy-Loss.personal.md|Triz-Ease_of_repair+Dynamicity-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Energy-Loss.secret.md|Triz-Ease_of_repair+Dynamicity-Energy-Loss.secret]] 

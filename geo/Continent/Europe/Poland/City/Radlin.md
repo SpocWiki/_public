@@ -29,3 +29,12 @@ markerFile: [[Radlin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Radlin.md|Radlin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Radlin.internal.md|Radlin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Radlin.protect.md|Radlin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Radlin.private.md|Radlin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Radlin.personal.md|Radlin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Radlin.secret.md|Radlin.secret]] 

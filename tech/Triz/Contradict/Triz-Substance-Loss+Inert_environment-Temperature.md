@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inert_environment]]]
 - [con::[[Triz-Temperature]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.md|Triz-Substance-Loss+Inert_environment-Temperature]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.internal.md|Triz-Substance-Loss+Inert_environment-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.protect.md|Triz-Substance-Loss+Inert_environment-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.private.md|Triz-Substance-Loss+Inert_environment-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.personal.md|Triz-Substance-Loss+Inert_environment-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.secret.md|Triz-Substance-Loss+Inert_environment-Temperature.secret]] 

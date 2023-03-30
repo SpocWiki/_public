@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_part_of_system )
 ( #has_/range :: AnatomicalSystem )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_system.md|is_part_of_system]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_system.internal.md|is_part_of_system.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_system.protect.md|is_part_of_system.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_system.private.md|is_part_of_system.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_part_of_system.personal.md|is_part_of_system.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_part_of_system.secret.md|is_part_of_system.secret]] 

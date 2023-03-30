@@ -29,3 +29,12 @@ markerFile: [[Nottingham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Nottingham.md|Nottingham]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Nottingham.internal.md|Nottingham.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Nottingham.protect.md|Nottingham.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Nottingham.private.md|Nottingham.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Nottingham.personal.md|Nottingham.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Nottingham.secret.md|Nottingham.secret]] 

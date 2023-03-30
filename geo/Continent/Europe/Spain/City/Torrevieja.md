@@ -29,3 +29,12 @@ markerFile: [[Torrevieja]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Torrevieja.md|Torrevieja]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Torrevieja.internal.md|Torrevieja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Torrevieja.protect.md|Torrevieja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Torrevieja.private.md|Torrevieja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Torrevieja.personal.md|Torrevieja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Torrevieja.secret.md|Torrevieja.secret]] 

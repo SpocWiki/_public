@@ -29,3 +29,12 @@ markerFile: [[Ciudad_Real]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Ciudad_Real.md|Ciudad_Real]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Ciudad_Real.internal.md|Ciudad_Real.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Ciudad_Real.protect.md|Ciudad_Real.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Ciudad_Real.private.md|Ciudad_Real.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Ciudad_Real.personal.md|Ciudad_Real.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Ciudad_Real.secret.md|Ciudad_Real.secret]] 

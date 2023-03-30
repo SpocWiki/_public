@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::Energy-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Universality-Energy-Loss.md|Triz-moving_Weight+Universality-Energy-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Universality-Energy-Loss.internal.md|Triz-moving_Weight+Universality-Energy-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Universality-Energy-Loss.protect.md|Triz-moving_Weight+Universality-Energy-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Universality-Energy-Loss.private.md|Triz-moving_Weight+Universality-Energy-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Universality-Energy-Loss.personal.md|Triz-moving_Weight+Universality-Energy-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Universality-Energy-Loss.secret.md|Triz-moving_Weight+Universality-Energy-Loss.secret]] 

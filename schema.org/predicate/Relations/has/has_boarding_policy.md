@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_boarding_policy )
 ( #has_/range :: BoardingPolicyType )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_boarding_policy.md|has_boarding_policy]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_boarding_policy.internal.md|has_boarding_policy.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_boarding_policy.protect.md|has_boarding_policy.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_boarding_policy.private.md|has_boarding_policy.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_boarding_policy.personal.md|has_boarding_policy.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_boarding_policy.secret.md|has_boarding_policy.secret]] 

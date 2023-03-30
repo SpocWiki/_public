@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28116]
 [NextStarId::27459]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Thuban.md|Thuban]] 
+- [[../../../_internal/astro/Star/Thuban.internal.md|Thuban.internal]] 
+- [[../../../_protect/astro/Star/Thuban.protect.md|Thuban.protect]] 
+- [[../../../_private/astro/Star/Thuban.private.md|Thuban.private]] 
+- [[../../../_personal/astro/Star/Thuban.personal.md|Thuban.personal]] 
+- [[../../../_secret/astro/Star/Thuban.secret.md|Thuban.secret]] 

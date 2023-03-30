@@ -29,3 +29,12 @@ markerFile: [[Bruenn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bruenn.md|Bruenn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bruenn.internal.md|Bruenn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bruenn.protect.md|Bruenn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bruenn.private.md|Bruenn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bruenn.personal.md|Bruenn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bruenn.secret.md|Bruenn.secret]] 

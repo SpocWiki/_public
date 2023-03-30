@@ -47,3 +47,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: areaServed ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_eligible_region.md|has_geo_eligible_region]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_eligible_region.internal.md|has_geo_eligible_region.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_eligible_region.protect.md|has_geo_eligible_region.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_eligible_region.private.md|has_geo_eligible_region.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_eligible_region.personal.md|has_geo_eligible_region.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_eligible_region.secret.md|has_geo_eligible_region.secret]] 

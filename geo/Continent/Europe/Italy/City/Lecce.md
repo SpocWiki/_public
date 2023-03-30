@@ -29,3 +29,12 @@ markerFile: [[Lecce]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lecce.md|Lecce]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lecce.internal.md|Lecce.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lecce.protect.md|Lecce.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lecce.private.md|Lecce.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lecce.personal.md|Lecce.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lecce.secret.md|Lecce.secret]] 

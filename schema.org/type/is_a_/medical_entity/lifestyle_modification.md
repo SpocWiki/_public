@@ -43,3 +43,12 @@ A process of care involving exercise, changes to diet, fitness routines, and oth
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/lifestyle_modification.md|lifestyle_modification]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/lifestyle_modification.internal.md|lifestyle_modification.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/lifestyle_modification.protect.md|lifestyle_modification.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/lifestyle_modification.private.md|lifestyle_modification.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/lifestyle_modification.personal.md|lifestyle_modification.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/lifestyle_modification.secret.md|lifestyle_modification.secret]] 

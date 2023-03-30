@@ -29,3 +29,12 @@ markerFile: [[Strandvallen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Strandvallen.md|Strandvallen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Strandvallen.internal.md|Strandvallen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Strandvallen.protect.md|Strandvallen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Strandvallen.private.md|Strandvallen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Strandvallen.personal.md|Strandvallen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Strandvallen.secret.md|Strandvallen.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Rosbach~Siegburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.md|Rosbach~Siegburg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.internal.md|Rosbach~Siegburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.protect.md|Rosbach~Siegburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.private.md|Rosbach~Siegburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.personal.md|Rosbach~Siegburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.secret.md|Rosbach~Siegburg.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[St.Moritz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/St.Moritz.md|St.Moritz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Moritz.internal.md|St.Moritz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Moritz.protect.md|St.Moritz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Moritz.private.md|St.Moritz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Moritz.personal.md|St.Moritz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Moritz.secret.md|St.Moritz.secret]] 

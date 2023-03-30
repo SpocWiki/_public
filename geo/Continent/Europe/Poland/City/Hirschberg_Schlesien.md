@@ -29,3 +29,12 @@ markerFile: [[Hirschberg/Schlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.md|Hirschberg_Schlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.internal.md|Hirschberg_Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.protect.md|Hirschberg_Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.private.md|Hirschberg_Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.personal.md|Hirschberg_Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.secret.md|Hirschberg_Schlesien.secret]] 

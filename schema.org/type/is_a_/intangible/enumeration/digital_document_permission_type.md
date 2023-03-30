@@ -39,3 +39,12 @@ A type of permission which can be granted for accessing a digital document.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type.md|digital_document_permission_type]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type.internal.md|digital_document_permission_type.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type.protect.md|digital_document_permission_type.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type.private.md|digital_document_permission_type.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type.personal.md|digital_document_permission_type.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type.secret.md|digital_document_permission_type.secret]] 

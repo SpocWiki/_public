@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28128]
 [NextStarId::27289]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Aldhafera.md|Aldhafera]] 
+- [[../../../_internal/astro/Star/Aldhafera.internal.md|Aldhafera.internal]] 
+- [[../../../_protect/astro/Star/Aldhafera.protect.md|Aldhafera.protect]] 
+- [[../../../_private/astro/Star/Aldhafera.private.md|Aldhafera.private]] 
+- [[../../../_personal/astro/Star/Aldhafera.personal.md|Aldhafera.personal]] 
+- [[../../../_secret/astro/Star/Aldhafera.secret.md|Aldhafera.secret]]
+

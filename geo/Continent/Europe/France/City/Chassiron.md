@@ -29,3 +29,12 @@ markerFile: [[Chassiron]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Chassiron.md|Chassiron]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chassiron.internal.md|Chassiron.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chassiron.protect.md|Chassiron.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chassiron.private.md|Chassiron.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chassiron.personal.md|Chassiron.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chassiron.secret.md|Chassiron.secret]] 

@@ -43,3 +43,12 @@ The day of the week between Tuesday and Thursday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week/wednesday.md|wednesday]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/wednesday.internal.md|wednesday.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week/wednesday.protect.md|wednesday.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week/wednesday.private.md|wednesday.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/wednesday.personal.md|wednesday.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/wednesday.secret.md|wednesday.secret]] 

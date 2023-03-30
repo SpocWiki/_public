@@ -106,3 +106,12 @@ Languages: [ar-PS]
 [	Small_Island_Developing_States_(SIDS)	 ::  ]
 
 [	ISO3166-1-numeric	 :: 275 ]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Palestine.md|Palestine]] 
+- [[../../../../_internal/geo/Continent/Asia/Palestine.internal.md|Palestine.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Palestine.protect.md|Palestine.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Palestine.private.md|Palestine.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Palestine.personal.md|Palestine.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Palestine.secret.md|Palestine.secret]] 

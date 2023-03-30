@@ -29,3 +29,12 @@ markerFile: [[Allenstein]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Allenstein.md|Allenstein]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Allenstein.internal.md|Allenstein.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Allenstein.protect.md|Allenstein.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Allenstein.private.md|Allenstein.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Allenstein.personal.md|Allenstein.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Allenstein.secret.md|Allenstein.secret]] 

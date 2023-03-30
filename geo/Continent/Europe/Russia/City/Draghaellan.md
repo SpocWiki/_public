@@ -29,3 +29,12 @@ markerFile: [[Draghaellan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Draghaellan.md|Draghaellan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Draghaellan.internal.md|Draghaellan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Draghaellan.protect.md|Draghaellan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Draghaellan.private.md|Draghaellan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Draghaellan.personal.md|Draghaellan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Draghaellan.secret.md|Draghaellan.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Liebau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Liebau.md|Liebau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebau.internal.md|Liebau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebau.protect.md|Liebau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Liebau.private.md|Liebau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebau.personal.md|Liebau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebau.secret.md|Liebau.secret]] 

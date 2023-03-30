@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_review_aspect )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_review_aspect.md|has_review_aspect]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_review_aspect.internal.md|has_review_aspect.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_review_aspect.protect.md|has_review_aspect.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_review_aspect.private.md|has_review_aspect.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_review_aspect.personal.md|has_review_aspect.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_review_aspect.secret.md|has_review_aspect.secret]] 

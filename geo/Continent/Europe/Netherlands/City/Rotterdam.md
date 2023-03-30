@@ -29,3 +29,12 @@ markerFile: [[Rotterdam]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Rotterdam.md|Rotterdam]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Rotterdam.internal.md|Rotterdam.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Rotterdam.protect.md|Rotterdam.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Rotterdam.private.md|Rotterdam.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Rotterdam.personal.md|Rotterdam.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Rotterdam.secret.md|Rotterdam.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Mogadischu=Mogadisho]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.md|Mogadischu=Mogadisho]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.internal.md|Mogadischu=Mogadisho.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.protect.md|Mogadischu=Mogadisho.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.private.md|Mogadischu=Mogadisho.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.personal.md|Mogadischu=Mogadisho.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.secret.md|Mogadischu=Mogadisho.secret]] 

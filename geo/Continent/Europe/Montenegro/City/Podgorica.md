@@ -29,3 +29,12 @@ markerFile: [[Podgorica]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Montenegro/City/Podgorica.md|Podgorica]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Montenegro/City/Podgorica.internal.md|Podgorica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Montenegro/City/Podgorica.protect.md|Podgorica.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Montenegro/City/Podgorica.private.md|Podgorica.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Montenegro/City/Podgorica.personal.md|Podgorica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Montenegro/City/Podgorica.secret.md|Podgorica.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[West_Ham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.md|West_Ham]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.internal.md|West_Ham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.protect.md|West_Ham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.private.md|West_Ham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.personal.md|West_Ham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.secret.md|West_Ham.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Draguignan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Draguignan.md|Draguignan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Draguignan.internal.md|Draguignan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Draguignan.protect.md|Draguignan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Draguignan.private.md|Draguignan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Draguignan.personal.md|Draguignan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Draguignan.secret.md|Draguignan.secret]] 

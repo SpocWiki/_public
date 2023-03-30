@@ -29,3 +29,12 @@ markerFile: [[Vientiane]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Asia/Laos/City/Vientiane.md|Vientiane]] 
+- [[../../../../../../_internal/geo/Continent/Asia/Laos/City/Vientiane.internal.md|Vientiane.internal]] 
+- [[../../../../../../_protect/geo/Continent/Asia/Laos/City/Vientiane.protect.md|Vientiane.protect]] 
+- [[../../../../../../_private/geo/Continent/Asia/Laos/City/Vientiane.private.md|Vientiane.private]] 
+- [[../../../../../../_personal/geo/Continent/Asia/Laos/City/Vientiane.personal.md|Vientiane.personal]] 
+- [[../../../../../../_secret/geo/Continent/Asia/Laos/City/Vientiane.secret.md|Vientiane.secret]] 

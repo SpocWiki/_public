@@ -29,3 +29,12 @@ markerFile: [[Metzgeral]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Metzgeral.md|Metzgeral]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Metzgeral.internal.md|Metzgeral.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Metzgeral.protect.md|Metzgeral.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Metzgeral.private.md|Metzgeral.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Metzgeral.personal.md|Metzgeral.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Metzgeral.secret.md|Metzgeral.secret]] 

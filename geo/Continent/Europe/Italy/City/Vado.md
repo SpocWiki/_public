@@ -29,3 +29,12 @@ markerFile: [[Vado]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Vado.md|Vado]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Vado.internal.md|Vado.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Vado.protect.md|Vado.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Vado.private.md|Vado.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Vado.personal.md|Vado.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Vado.secret.md|Vado.secret]] 

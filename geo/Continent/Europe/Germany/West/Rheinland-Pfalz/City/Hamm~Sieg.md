@@ -28,3 +28,12 @@ markerFile: [[Hamm~Sieg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.md|Hamm~Sieg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.internal.md|Hamm~Sieg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.protect.md|Hamm~Sieg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.private.md|Hamm~Sieg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.personal.md|Hamm~Sieg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.secret.md|Hamm~Sieg.secret]] 

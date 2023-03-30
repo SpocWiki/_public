@@ -29,3 +29,12 @@ markerFile: [[Droviani]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Droviani.md|Droviani]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Droviani.internal.md|Droviani.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Droviani.protect.md|Droviani.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Droviani.private.md|Droviani.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Droviani.personal.md|Droviani.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Droviani.secret.md|Droviani.secret]] 

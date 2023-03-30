@@ -29,3 +29,12 @@ markerFile: [[Smolensk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Smolensk.md|Smolensk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Smolensk.internal.md|Smolensk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Smolensk.protect.md|Smolensk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Smolensk.private.md|Smolensk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Smolensk.personal.md|Smolensk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Smolensk.secret.md|Smolensk.secret]] 

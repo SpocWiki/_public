@@ -29,3 +29,12 @@ markerFile: [[Jaemsae]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Jaemsae.md|Jaemsae]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Jaemsae.internal.md|Jaemsae.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Jaemsae.protect.md|Jaemsae.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Jaemsae.private.md|Jaemsae.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Jaemsae.personal.md|Jaemsae.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Jaemsae.secret.md|Jaemsae.secret]] 

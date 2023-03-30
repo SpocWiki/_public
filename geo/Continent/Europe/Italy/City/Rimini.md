@@ -29,3 +29,12 @@ markerFile: [[Rimini]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Rimini.md|Rimini]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rimini.internal.md|Rimini.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rimini.protect.md|Rimini.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rimini.private.md|Rimini.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rimini.personal.md|Rimini.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rimini.secret.md|Rimini.secret]] 

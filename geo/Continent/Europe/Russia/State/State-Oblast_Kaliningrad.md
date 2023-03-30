@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.md|State-Oblast_Kaliningrad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.internal.md|State-Oblast_Kaliningrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.protect.md|State-Oblast_Kaliningrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.private.md|State-Oblast_Kaliningrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.personal.md|State-Oblast_Kaliningrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.secret.md|State-Oblast_Kaliningrad.secret]] 

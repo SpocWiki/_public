@@ -28,3 +28,12 @@ markerFile: [[Oklahoma~City]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.md|Oklahoma~City]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.internal.md|Oklahoma~City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.protect.md|Oklahoma~City.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.private.md|Oklahoma~City.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.personal.md|Oklahoma~City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.secret.md|Oklahoma~City.secret]] 

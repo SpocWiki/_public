@@ -49,3 +49,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.md|has_date_of_merchant_return_days]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.internal.md|has_date_of_merchant_return_days.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.protect.md|has_date_of_merchant_return_days.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.private.md|has_date_of_merchant_return_days.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.personal.md|has_date_of_merchant_return_days.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.secret.md|has_date_of_merchant_return_days.secret]] 

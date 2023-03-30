@@ -29,3 +29,12 @@ markerFile: [[Solnytschégodsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Solnytschégodsk.md|Solnytschégodsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Solnytschégodsk.internal.md|Solnytschégodsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Solnytschégodsk.protect.md|Solnytschégodsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Solnytschégodsk.private.md|Solnytschégodsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Solnytschégodsk.personal.md|Solnytschégodsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Solnytschégodsk.secret.md|Solnytschégodsk.secret]] 

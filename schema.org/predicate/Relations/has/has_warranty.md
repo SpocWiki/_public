@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_warranty )
 ( #has_/range :: WarrantyPromise )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_warranty.md|has_warranty]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_warranty.internal.md|has_warranty.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_warranty.protect.md|has_warranty.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_warranty.private.md|has_warranty.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_warranty.personal.md|has_warranty.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_warranty.secret.md|has_warranty.secret]] 

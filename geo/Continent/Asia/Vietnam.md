@@ -134,3 +134,12 @@ markerFolder: ./Vietnam/City
 [geo-lon::106.26]
 [geo-lat::15.8917]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Vietnam.md|Vietnam]] 
+- [[../../../../_internal/geo/Continent/Asia/Vietnam.internal.md|Vietnam.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Vietnam.protect.md|Vietnam.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Vietnam.private.md|Vietnam.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Vietnam.personal.md|Vietnam.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Vietnam.secret.md|Vietnam.secret]] 

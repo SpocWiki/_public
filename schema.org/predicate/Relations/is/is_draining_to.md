@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_draining_to )
 ( #has_/range :: Vessel )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_draining_to.md|is_draining_to]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_draining_to.internal.md|is_draining_to.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_draining_to.protect.md|is_draining_to.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_draining_to.private.md|is_draining_to.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_draining_to.personal.md|is_draining_to.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_draining_to.secret.md|is_draining_to.secret]] 

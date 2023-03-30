@@ -29,3 +29,12 @@ markerFile: [[Mariabrunn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Mariabrunn.md|Mariabrunn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Mariabrunn.internal.md|Mariabrunn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Mariabrunn.protect.md|Mariabrunn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Mariabrunn.private.md|Mariabrunn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Mariabrunn.personal.md|Mariabrunn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Mariabrunn.secret.md|Mariabrunn.secret]] 

@@ -34,3 +34,11 @@ SpocWebEntityId: 21954
 > Cerium was the first of the lanthanides to be discovered, in Bastnäs, Sweden, by Jöns Jakob Berzelius and Wilhelm Hisinger in 1803, and independently by Martin Heinrich Klaproth in Germany in the same year. In 1839 Carl Gustaf Mosander became the first to isolate the metal. Today, cerium and its compounds have a variety of uses: for example, cerium(IV) oxide is used to polish glass and is an important part of catalytic converters. Cerium metal is used in ferrocerium lighters for its pyrophoric properties. Cerium-doped YAG phosphor is used in conjunction with blue light-emitting diodes to produce white light in most commercial white LED light sources.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cerium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Lanthanide-Group/Cerium.md|Cerium]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Cerium.internal.md|Cerium.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Cerium.protect.md|Cerium.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Cerium.private.md|Cerium.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Cerium.personal.md|Cerium.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Cerium.secret.md|Cerium.secret]] 

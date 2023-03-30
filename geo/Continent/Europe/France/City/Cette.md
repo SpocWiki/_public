@@ -29,3 +29,12 @@ markerFile: [[Cette]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Cette.md|Cette]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Cette.internal.md|Cette.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Cette.protect.md|Cette.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Cette.private.md|Cette.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Cette.personal.md|Cette.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Cette.secret.md|Cette.secret]] 

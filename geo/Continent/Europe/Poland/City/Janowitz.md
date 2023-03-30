@@ -29,3 +29,12 @@ markerFile: [[Janowitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Janowitz.md|Janowitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Janowitz.internal.md|Janowitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Janowitz.protect.md|Janowitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Janowitz.private.md|Janowitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Janowitz.personal.md|Janowitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Janowitz.secret.md|Janowitz.secret]] 

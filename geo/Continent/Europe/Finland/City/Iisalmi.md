@@ -29,3 +29,12 @@ markerFile: [[Iisalmi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Iisalmi.md|Iisalmi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Iisalmi.internal.md|Iisalmi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Iisalmi.protect.md|Iisalmi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Iisalmi.private.md|Iisalmi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Iisalmi.personal.md|Iisalmi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Iisalmi.secret.md|Iisalmi.secret]] 

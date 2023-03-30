@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-feedback]]]
 
 (SPC) -- Measurements are used to decide when to modify a Process. (Not all Feedback Systems are Automated!)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Statistical_Process_Control.md|Triz-Statistical_Process_Control]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Statistical_Process_Control.internal.md|Triz-Statistical_Process_Control.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Statistical_Process_Control.protect.md|Triz-Statistical_Process_Control.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Statistical_Process_Control.private.md|Triz-Statistical_Process_Control.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Statistical_Process_Control.personal.md|Triz-Statistical_Process_Control.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Statistical_Process_Control.secret.md|Triz-Statistical_Process_Control.secret]] 

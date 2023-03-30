@@ -29,3 +29,12 @@ markerFile: [[Radkersburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Radkersburg.md|Radkersburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Radkersburg.internal.md|Radkersburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Radkersburg.protect.md|Radkersburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Radkersburg.private.md|Radkersburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Radkersburg.personal.md|Radkersburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Radkersburg.secret.md|Radkersburg.secret]] 

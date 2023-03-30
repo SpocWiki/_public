@@ -29,3 +29,12 @@ markerFile: [[Port-au-Prince]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/South-America/Haiti/City/Port-au-Prince.md|Port-au-Prince]] 
+- [[../../../../../../_internal/geo/Continent/South-America/Haiti/City/Port-au-Prince.internal.md|Port-au-Prince.internal]] 
+- [[../../../../../../_protect/geo/Continent/South-America/Haiti/City/Port-au-Prince.protect.md|Port-au-Prince.protect]] 
+- [[../../../../../../_private/geo/Continent/South-America/Haiti/City/Port-au-Prince.private.md|Port-au-Prince.private]] 
+- [[../../../../../../_personal/geo/Continent/South-America/Haiti/City/Port-au-Prince.personal.md|Port-au-Prince.personal]] 
+- [[../../../../../../_secret/geo/Continent/South-America/Haiti/City/Port-au-Prince.secret.md|Port-au-Prince.secret]] 

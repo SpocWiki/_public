@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_coding_system )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_coding_system.md|has_coding_system]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_coding_system.internal.md|has_coding_system.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_coding_system.protect.md|has_coding_system.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_coding_system.private.md|has_coding_system.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_coding_system.personal.md|has_coding_system.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_coding_system.secret.md|has_coding_system.secret]] 

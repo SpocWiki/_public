@@ -29,3 +29,12 @@ markerFile: [[Pogradec]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Pogradec.md|Pogradec]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Pogradec.internal.md|Pogradec.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Pogradec.protect.md|Pogradec.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Pogradec.private.md|Pogradec.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Pogradec.personal.md|Pogradec.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Pogradec.secret.md|Pogradec.secret]] 

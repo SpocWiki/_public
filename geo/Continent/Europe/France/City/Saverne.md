@@ -29,3 +29,12 @@ markerFile: [[Saverne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Saverne.md|Saverne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Saverne.internal.md|Saverne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Saverne.protect.md|Saverne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Saverne.private.md|Saverne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Saverne.personal.md|Saverne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Saverne.secret.md|Saverne.secret]] 

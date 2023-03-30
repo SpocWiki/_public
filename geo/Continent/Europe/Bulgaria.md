@@ -130,3 +130,12 @@ markerFolder: ./Bulgaria/City
 [geo-lon::25.3029]
 [geo-lat::42.9342]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Bulgaria.md|Bulgaria]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria.internal.md|Bulgaria.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria.protect.md|Bulgaria.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria.private.md|Bulgaria.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria.personal.md|Bulgaria.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria.secret.md|Bulgaria.secret]] 

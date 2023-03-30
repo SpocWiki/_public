@@ -29,3 +29,12 @@ markerFile: [[Zilina]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zilina.md|Zilina]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zilina.internal.md|Zilina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zilina.protect.md|Zilina.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zilina.private.md|Zilina.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zilina.personal.md|Zilina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zilina.secret.md|Zilina.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Dreihausen~Westfahlen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dreihausen~Westfahlen.md|Dreihausen~Westfahlen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dreihausen~Westfahlen.internal.md|Dreihausen~Westfahlen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dreihausen~Westfahlen.protect.md|Dreihausen~Westfahlen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dreihausen~Westfahlen.private.md|Dreihausen~Westfahlen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dreihausen~Westfahlen.personal.md|Dreihausen~Westfahlen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dreihausen~Westfahlen.secret.md|Dreihausen~Westfahlen.secret]] 

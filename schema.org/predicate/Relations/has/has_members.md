@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_members )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_members.md|has_members]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_members.internal.md|has_members.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_members.protect.md|has_members.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_members.private.md|has_members.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_members.personal.md|has_members.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_members.secret.md|has_members.secret]] 

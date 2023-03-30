@@ -29,3 +29,12 @@ markerFile: [[Palma~Mallorca]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Palma~Mallorca.md|Palma~Mallorca]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Palma~Mallorca.internal.md|Palma~Mallorca.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Palma~Mallorca.protect.md|Palma~Mallorca.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Palma~Mallorca.private.md|Palma~Mallorca.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Palma~Mallorca.personal.md|Palma~Mallorca.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Palma~Mallorca.secret.md|Palma~Mallorca.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Felsogalla]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Felsogalla.md|Felsogalla]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Felsogalla.internal.md|Felsogalla.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Felsogalla.protect.md|Felsogalla.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Felsogalla.private.md|Felsogalla.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Felsogalla.personal.md|Felsogalla.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Felsogalla.secret.md|Felsogalla.secret]] 

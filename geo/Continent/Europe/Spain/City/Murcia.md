@@ -29,3 +29,12 @@ markerFile: [[Murcia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Murcia.md|Murcia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Murcia.internal.md|Murcia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Murcia.protect.md|Murcia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Murcia.private.md|Murcia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Murcia.personal.md|Murcia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Murcia.secret.md|Murcia.secret]] 

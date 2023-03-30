@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Inversion]]]
 - [con::[[Triz-Speed]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.md|Triz-Measurement_Accuracy+Inversion-Speed]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.internal.md|Triz-Measurement_Accuracy+Inversion-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.protect.md|Triz-Measurement_Accuracy+Inversion-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.private.md|Triz-Measurement_Accuracy+Inversion-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.personal.md|Triz-Measurement_Accuracy+Inversion-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.secret.md|Triz-Measurement_Accuracy+Inversion-Speed.secret]] 

@@ -33,3 +33,11 @@ SpocWebEntityId: 21953
 > Lanthanum compounds have numerous applications as catalysts, additives in glass, carbon arc lamps for studio lights and projectors, ignition elements in lighters and torches, electron cathodes, scintillators, gas tungsten arc welding electrodes, and other things. Lanthanum carbonate is used as a phosphate binder in cases of high levels of phosphate in the blood seen with kidney failure.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lanthanum)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Lanthanide-Group/Lanthanum.md|Lanthanum]] 
+- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Lanthanum.internal.md|Lanthanum.internal]] 
+- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Lanthanum.protect.md|Lanthanum.protect]] 
+- [[../../../../_private/chemic/Elements/Lanthanide-Group/Lanthanum.private.md|Lanthanum.private]] 
+- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Lanthanum.personal.md|Lanthanum.personal]] 
+- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Lanthanum.secret.md|Lanthanum.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-moving_Area]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.md|Triz-Ease_of_manufacture+Segmentation-moving_Area]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.internal.md|Triz-Ease_of_manufacture+Segmentation-moving_Area.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.protect.md|Triz-Ease_of_manufacture+Segmentation-moving_Area.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.private.md|Triz-Ease_of_manufacture+Segmentation-moving_Area.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.personal.md|Triz-Ease_of_manufacture+Segmentation-moving_Area.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.secret.md|Triz-Ease_of_manufacture+Segmentation-moving_Area.secret]] 

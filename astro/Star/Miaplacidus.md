@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28099]
 [NextStarId::27414]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Miaplacidus.md|Miaplacidus]] 
+- [[../../../_internal/astro/Star/Miaplacidus.internal.md|Miaplacidus.internal]] 
+- [[../../../_protect/astro/Star/Miaplacidus.protect.md|Miaplacidus.protect]] 
+- [[../../../_private/astro/Star/Miaplacidus.private.md|Miaplacidus.private]] 
+- [[../../../_personal/astro/Star/Miaplacidus.personal.md|Miaplacidus.personal]] 
+- [[../../../_secret/astro/Star/Miaplacidus.secret.md|Miaplacidus.secret]] 

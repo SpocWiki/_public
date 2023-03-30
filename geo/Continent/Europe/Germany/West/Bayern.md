@@ -28,3 +28,12 @@ markerFolder: ./Bayern/City
 [geo-lat::48.8642]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern.md|Bayern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern.internal.md|Bayern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern.protect.md|Bayern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern.private.md|Bayern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern.personal.md|Bayern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern.secret.md|Bayern.secret]] 

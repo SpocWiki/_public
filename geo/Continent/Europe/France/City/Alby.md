@@ -29,3 +29,12 @@ markerFile: [[Alby]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Alby.md|Alby]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Alby.internal.md|Alby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Alby.protect.md|Alby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Alby.private.md|Alby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Alby.personal.md|Alby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Alby.secret.md|Alby.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-22205]]]
 - [con::[[Triz-Temperature]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-Temperature.md|Triz-10307+22205-Temperature]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-Temperature.internal.md|Triz-10307+22205-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-Temperature.protect.md|Triz-10307+22205-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-Temperature.private.md|Triz-10307+22205-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-Temperature.personal.md|Triz-10307+22205-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-Temperature.secret.md|Triz-10307+22205-Temperature.secret]] 

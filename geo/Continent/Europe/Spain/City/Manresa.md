@@ -29,3 +29,12 @@ markerFile: [[Manresa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Manresa.md|Manresa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Manresa.internal.md|Manresa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Manresa.protect.md|Manresa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Manresa.private.md|Manresa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Manresa.personal.md|Manresa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Manresa.secret.md|Manresa.secret]] 

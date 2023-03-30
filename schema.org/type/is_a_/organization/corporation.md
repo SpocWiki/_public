@@ -41,3 +41,12 @@ Organization: A business corporation.
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, tickerSymbol, unnamedSourcesPolicy, url, vatID ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/organization/corporation.md|corporation]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/organization/corporation.internal.md|corporation.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/organization/corporation.protect.md|corporation.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/organization/corporation.private.md|corporation.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/organization/corporation.personal.md|corporation.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/organization/corporation.secret.md|corporation.secret]] 

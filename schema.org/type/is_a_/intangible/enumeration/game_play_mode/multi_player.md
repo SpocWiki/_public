@@ -43,3 +43,12 @@ Play mode: MultiPlayer. Requiring or allowing multiple human players to play sim
 
 [ #is_/enum_of :: [[../GamePlayMode]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/multi_player.md|multi_player]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/multi_player.internal.md|multi_player.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/multi_player.protect.md|multi_player.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/multi_player.private.md|multi_player.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/multi_player.personal.md|multi_player.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/multi_player.secret.md|multi_player.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Maribo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Maribo.md|Maribo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Maribo.internal.md|Maribo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Maribo.protect.md|Maribo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Maribo.private.md|Maribo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Maribo.personal.md|Maribo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Maribo.secret.md|Maribo.secret]] 

@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_eligible_quantity )
 ( #has_/range :: QuantitativeValue )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_eligible_quantity.md|has_value_for_eligible_quantity]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_eligible_quantity.internal.md|has_value_for_eligible_quantity.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_eligible_quantity.protect.md|has_value_for_eligible_quantity.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_eligible_quantity.private.md|has_value_for_eligible_quantity.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_eligible_quantity.personal.md|has_value_for_eligible_quantity.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_eligible_quantity.secret.md|has_value_for_eligible_quantity.secret]] 

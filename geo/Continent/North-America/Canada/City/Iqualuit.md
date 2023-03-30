@@ -29,3 +29,12 @@ markerFile: [[Iqualuit]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/Iqualuit.md|Iqualuit]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Iqualuit.internal.md|Iqualuit.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Iqualuit.protect.md|Iqualuit.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Iqualuit.private.md|Iqualuit.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Iqualuit.personal.md|Iqualuit.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Iqualuit.secret.md|Iqualuit.secret]] 

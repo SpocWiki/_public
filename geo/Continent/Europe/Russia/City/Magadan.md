@@ -29,3 +29,12 @@ markerFile: [[Magadan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Magadan.md|Magadan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Magadan.internal.md|Magadan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Magadan.protect.md|Magadan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Magadan.private.md|Magadan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Magadan.personal.md|Magadan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Magadan.secret.md|Magadan.secret]] 

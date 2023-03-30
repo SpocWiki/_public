@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_abstract )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_abstract.md|has_abstract]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_abstract.internal.md|has_abstract.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_abstract.protect.md|has_abstract.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_abstract.private.md|has_abstract.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_abstract.personal.md|has_abstract.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_abstract.secret.md|has_abstract.secret]] 

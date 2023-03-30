@@ -29,3 +29,12 @@ markerFile: [[Svaloev]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Svaloev.md|Svaloev]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Svaloev.internal.md|Svaloev.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Svaloev.protect.md|Svaloev.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Svaloev.private.md|Svaloev.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Svaloev.personal.md|Svaloev.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Svaloev.secret.md|Svaloev.secret]] 

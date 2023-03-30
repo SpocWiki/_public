@@ -29,3 +29,12 @@ markerFile: [[Lisieux]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Lisieux.md|Lisieux]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Lisieux.internal.md|Lisieux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Lisieux.protect.md|Lisieux.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Lisieux.private.md|Lisieux.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Lisieux.personal.md|Lisieux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Lisieux.secret.md|Lisieux.secret]] 

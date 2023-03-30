@@ -29,3 +29,12 @@ markerFile: [[Mohrungen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Mohrungen.md|Mohrungen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Mohrungen.internal.md|Mohrungen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Mohrungen.protect.md|Mohrungen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Mohrungen.private.md|Mohrungen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Mohrungen.personal.md|Mohrungen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Mohrungen.secret.md|Mohrungen.secret]] 

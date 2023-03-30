@@ -29,3 +29,12 @@ markerFile: [[Arensburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Arensburg.md|Arensburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Arensburg.internal.md|Arensburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Arensburg.protect.md|Arensburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Arensburg.private.md|Arensburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Arensburg.personal.md|Arensburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Arensburg.secret.md|Arensburg.secret]] 

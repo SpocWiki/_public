@@ -29,3 +29,12 @@ markerFile: [[Asti]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Asti.md|Asti]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Asti.internal.md|Asti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Asti.protect.md|Asti.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Asti.private.md|Asti.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Asti.personal.md|Asti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Asti.secret.md|Asti.secret]] 

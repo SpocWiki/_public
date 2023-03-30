@@ -24,3 +24,12 @@ markerFile: [[S-Frankfurt_Taunusanlage]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.md|S-Frankfurt_Taunusanlage]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.internal.md|S-Frankfurt_Taunusanlage.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.protect.md|S-Frankfurt_Taunusanlage.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.private.md|S-Frankfurt_Taunusanlage.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.personal.md|S-Frankfurt_Taunusanlage.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.secret.md|S-Frankfurt_Taunusanlage.secret]] 

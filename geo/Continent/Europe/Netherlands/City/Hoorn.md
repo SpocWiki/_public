@@ -29,3 +29,12 @@ markerFile: [[Hoorn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hoorn.md|Hoorn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hoorn.internal.md|Hoorn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hoorn.protect.md|Hoorn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hoorn.private.md|Hoorn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hoorn.personal.md|Hoorn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hoorn.secret.md|Hoorn.secret]] 

@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_step_value )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_step_value.md|has_value_for_step_value]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_step_value.internal.md|has_value_for_step_value.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_step_value.protect.md|has_value_for_step_value.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_step_value.private.md|has_value_for_step_value.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_step_value.personal.md|has_value_for_step_value.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_step_value.secret.md|has_value_for_step_value.secret]] 

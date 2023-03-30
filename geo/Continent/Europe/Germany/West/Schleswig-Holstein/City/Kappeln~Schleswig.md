@@ -28,3 +28,12 @@ markerFile: [[Kappeln~Schleswig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.md|Kappeln~Schleswig]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.internal.md|Kappeln~Schleswig.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.protect.md|Kappeln~Schleswig.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.private.md|Kappeln~Schleswig.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.personal.md|Kappeln~Schleswig.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.secret.md|Kappeln~Schleswig.secret]] 

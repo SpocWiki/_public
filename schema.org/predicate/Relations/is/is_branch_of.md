@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_branch_of )
 ( #has_/range :: Organization )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_branch_of.md|is_branch_of]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_branch_of.internal.md|is_branch_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_branch_of.protect.md|is_branch_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_branch_of.private.md|is_branch_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_branch_of.personal.md|is_branch_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_branch_of.secret.md|is_branch_of.secret]] 

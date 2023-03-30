@@ -29,3 +29,12 @@ markerFile: [[Werchnaja-Mischikha]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.md|Werchnaja-Mischikha]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.internal.md|Werchnaja-Mischikha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.protect.md|Werchnaja-Mischikha.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.private.md|Werchnaja-Mischikha.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.personal.md|Werchnaja-Mischikha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.secret.md|Werchnaja-Mischikha.secret]] 

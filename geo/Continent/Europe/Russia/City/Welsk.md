@@ -29,3 +29,12 @@ markerFile: [[Welsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Welsk.md|Welsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Welsk.internal.md|Welsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Welsk.protect.md|Welsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Welsk.private.md|Welsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Welsk.personal.md|Welsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Welsk.secret.md|Welsk.secret]] 

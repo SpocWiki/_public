@@ -29,3 +29,12 @@ markerFile: [[Marcinelle]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Marcinelle.md|Marcinelle]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Marcinelle.internal.md|Marcinelle.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Marcinelle.protect.md|Marcinelle.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Marcinelle.private.md|Marcinelle.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Marcinelle.personal.md|Marcinelle.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Marcinelle.secret.md|Marcinelle.secret]] 

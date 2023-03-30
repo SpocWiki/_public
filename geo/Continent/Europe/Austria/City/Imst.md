@@ -29,3 +29,12 @@ markerFile: [[Imst]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Imst.md|Imst]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Imst.internal.md|Imst.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Imst.protect.md|Imst.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Imst.private.md|Imst.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Imst.personal.md|Imst.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Imst.secret.md|Imst.secret]] 

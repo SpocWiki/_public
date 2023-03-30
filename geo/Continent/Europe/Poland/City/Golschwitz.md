@@ -29,3 +29,12 @@ markerFile: [[Golschwitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Golschwitz.md|Golschwitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Golschwitz.internal.md|Golschwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Golschwitz.protect.md|Golschwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Golschwitz.private.md|Golschwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Golschwitz.personal.md|Golschwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Golschwitz.secret.md|Golschwitz.secret]] 

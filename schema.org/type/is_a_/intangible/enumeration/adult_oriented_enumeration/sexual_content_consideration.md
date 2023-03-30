@@ -45,3 +45,12 @@ The item contains sexually oriented content such as nudity, suggestive or explic
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.md|sexual_content_consideration]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.internal.md|sexual_content_consideration.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.protect.md|sexual_content_consideration.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.private.md|sexual_content_consideration.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.personal.md|sexual_content_consideration.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.secret.md|sexual_content_consideration.secret]] 

@@ -133,3 +133,12 @@ markerFolder: ./Mauritius/City
 [geo-lon::57.5167]
 [geo-lat::-20.1667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Mauritius.md|Mauritius]] 
+- [[../../../../_internal/geo/Continent/Africa/Mauritius.internal.md|Mauritius.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mauritius.protect.md|Mauritius.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mauritius.private.md|Mauritius.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mauritius.personal.md|Mauritius.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mauritius.secret.md|Mauritius.secret]] 

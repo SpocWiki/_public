@@ -29,3 +29,12 @@ markerFile: [[Dalliden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Dalliden.md|Dalliden]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Dalliden.internal.md|Dalliden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Dalliden.protect.md|Dalliden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Dalliden.private.md|Dalliden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Dalliden.personal.md|Dalliden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Dalliden.secret.md|Dalliden.secret]] 

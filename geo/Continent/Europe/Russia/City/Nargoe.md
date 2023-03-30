@@ -29,3 +29,12 @@ markerFile: [[Nargoe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nargoe.md|Nargoe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nargoe.internal.md|Nargoe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nargoe.protect.md|Nargoe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nargoe.private.md|Nargoe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nargoe.personal.md|Nargoe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nargoe.secret.md|Nargoe.secret]] 

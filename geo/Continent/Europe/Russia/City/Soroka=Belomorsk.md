@@ -29,3 +29,12 @@ markerFile: [[Soroka=Belomorsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.md|Soroka=Belomorsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.internal.md|Soroka=Belomorsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.protect.md|Soroka=Belomorsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.private.md|Soroka=Belomorsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.personal.md|Soroka=Belomorsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.secret.md|Soroka=Belomorsk.secret]] 

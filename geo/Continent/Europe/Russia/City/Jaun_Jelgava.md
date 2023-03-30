@@ -29,3 +29,12 @@ markerFile: [[Jaun_Jelgava]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jaun_Jelgava.md|Jaun_Jelgava]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jaun_Jelgava.internal.md|Jaun_Jelgava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jaun_Jelgava.protect.md|Jaun_Jelgava.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jaun_Jelgava.private.md|Jaun_Jelgava.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jaun_Jelgava.personal.md|Jaun_Jelgava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jaun_Jelgava.secret.md|Jaun_Jelgava.secret]] 

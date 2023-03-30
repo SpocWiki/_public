@@ -29,3 +29,12 @@ markerFile: [[Gorla_Minore]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gorla_Minore.md|Gorla_Minore]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gorla_Minore.internal.md|Gorla_Minore.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gorla_Minore.protect.md|Gorla_Minore.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gorla_Minore.private.md|Gorla_Minore.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gorla_Minore.personal.md|Gorla_Minore.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gorla_Minore.secret.md|Gorla_Minore.secret]] 

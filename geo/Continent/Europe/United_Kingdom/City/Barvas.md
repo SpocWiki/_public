@@ -29,3 +29,12 @@ markerFile: [[Barvas]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barvas.md|Barvas]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barvas.internal.md|Barvas.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barvas.protect.md|Barvas.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barvas.private.md|Barvas.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barvas.personal.md|Barvas.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barvas.secret.md|Barvas.secret]] 

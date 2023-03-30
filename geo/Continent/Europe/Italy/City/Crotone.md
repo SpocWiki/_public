@@ -29,3 +29,12 @@ markerFile: [[Crotone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Crotone.md|Crotone]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Crotone.internal.md|Crotone.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Crotone.protect.md|Crotone.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Crotone.private.md|Crotone.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Crotone.personal.md|Crotone.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Crotone.secret.md|Crotone.secret]] 

@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28147]
 [NextStarId::27717]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Pictoris-3.md|Pictoris-3]] 
+- [[../../../_internal/astro/Star/Pictoris-3.internal.md|Pictoris-3.internal]] 
+- [[../../../_protect/astro/Star/Pictoris-3.protect.md|Pictoris-3.protect]] 
+- [[../../../_private/astro/Star/Pictoris-3.private.md|Pictoris-3.private]] 
+- [[../../../_personal/astro/Star/Pictoris-3.personal.md|Pictoris-3.personal]] 
+- [[../../../_secret/astro/Star/Pictoris-3.secret.md|Pictoris-3.secret]] 

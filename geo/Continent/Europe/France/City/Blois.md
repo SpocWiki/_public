@@ -29,3 +29,12 @@ markerFile: [[Blois]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Blois.md|Blois]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Blois.internal.md|Blois.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Blois.protect.md|Blois.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Blois.private.md|Blois.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Blois.personal.md|Blois.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Blois.secret.md|Blois.secret]] 

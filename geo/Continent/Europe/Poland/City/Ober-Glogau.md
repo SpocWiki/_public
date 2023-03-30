@@ -29,3 +29,12 @@ markerFile: [[Ober-Glogau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ober-Glogau.md|Ober-Glogau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ober-Glogau.internal.md|Ober-Glogau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ober-Glogau.protect.md|Ober-Glogau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ober-Glogau.private.md|Ober-Glogau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ober-Glogau.personal.md|Ober-Glogau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ober-Glogau.secret.md|Ober-Glogau.secret]] 

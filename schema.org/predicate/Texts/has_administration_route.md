@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_administration_route )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_administration_route.md|has_administration_route]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_administration_route.internal.md|has_administration_route.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_administration_route.protect.md|has_administration_route.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_administration_route.private.md|has_administration_route.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_administration_route.personal.md|has_administration_route.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_administration_route.secret.md|has_administration_route.secret]] 

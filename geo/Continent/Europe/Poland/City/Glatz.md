@@ -29,3 +29,12 @@ markerFile: [[Glatz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Glatz.md|Glatz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Glatz.internal.md|Glatz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Glatz.protect.md|Glatz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Glatz.private.md|Glatz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Glatz.personal.md|Glatz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Glatz.secret.md|Glatz.secret]] 

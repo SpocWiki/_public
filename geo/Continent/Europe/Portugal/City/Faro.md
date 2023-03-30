@@ -29,3 +29,12 @@ markerFile: [[Faro]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Faro.md|Faro]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Faro.internal.md|Faro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Faro.protect.md|Faro.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Faro.private.md|Faro.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Faro.personal.md|Faro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Faro.secret.md|Faro.secret]] 

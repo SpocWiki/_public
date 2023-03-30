@@ -128,3 +128,12 @@ markerFolder: ./Australia/City
 [geo-lon::149.027]
 [geo-lat::-35.4776]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Australia/Australia.md|Australia]] 
+- [[../../../../_internal/geo/Continent/Australia/Australia.internal.md|Australia.internal]] 
+- [[../../../../_protect/geo/Continent/Australia/Australia.protect.md|Australia.protect]] 
+- [[../../../../_private/geo/Continent/Australia/Australia.private.md|Australia.private]] 
+- [[../../../../_personal/geo/Continent/Australia/Australia.personal.md|Australia.personal]] 
+- [[../../../../_secret/geo/Continent/Australia/Australia.secret.md|Australia.secret]] 

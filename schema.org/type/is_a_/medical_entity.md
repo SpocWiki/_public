@@ -43,3 +43,12 @@ The most generic type of entity related to health and the practice of medicine.
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Type/is_a_/medical_entity.md|medical_entity]] 
+- [[../../../../_internal/schema.org/Type/is_a_/medical_entity.internal.md|medical_entity.internal]] 
+- [[../../../../_protect/schema.org/Type/is_a_/medical_entity.protect.md|medical_entity.protect]] 
+- [[../../../../_private/schema.org/Type/is_a_/medical_entity.private.md|medical_entity.private]] 
+- [[../../../../_personal/schema.org/Type/is_a_/medical_entity.personal.md|medical_entity.personal]] 
+- [[../../../../_secret/schema.org/Type/is_a_/medical_entity.secret.md|medical_entity.secret]] 

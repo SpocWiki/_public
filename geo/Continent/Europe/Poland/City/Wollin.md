@@ -29,3 +29,12 @@ markerFile: [[Wollin]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wollin.md|Wollin]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wollin.internal.md|Wollin.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wollin.protect.md|Wollin.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wollin.private.md|Wollin.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wollin.personal.md|Wollin.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wollin.secret.md|Wollin.secret]] 

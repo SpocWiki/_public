@@ -29,3 +29,12 @@ markerFile: [[Gnadenfeld]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gnadenfeld.md|Gnadenfeld]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gnadenfeld.internal.md|Gnadenfeld.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gnadenfeld.protect.md|Gnadenfeld.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gnadenfeld.private.md|Gnadenfeld.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gnadenfeld.personal.md|Gnadenfeld.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gnadenfeld.secret.md|Gnadenfeld.secret]] 

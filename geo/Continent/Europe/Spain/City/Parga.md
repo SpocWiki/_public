@@ -29,3 +29,12 @@ markerFile: [[Parga]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Parga.md|Parga]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Parga.internal.md|Parga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Parga.protect.md|Parga.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Parga.private.md|Parga.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Parga.personal.md|Parga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Parga.secret.md|Parga.secret]] 

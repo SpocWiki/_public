@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_cvd_facility_id )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_cvd_facility_id.md|has_cvd_facility_id]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_cvd_facility_id.internal.md|has_cvd_facility_id.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_cvd_facility_id.protect.md|has_cvd_facility_id.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_cvd_facility_id.private.md|has_cvd_facility_id.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_cvd_facility_id.personal.md|has_cvd_facility_id.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_cvd_facility_id.secret.md|has_cvd_facility_id.secret]] 

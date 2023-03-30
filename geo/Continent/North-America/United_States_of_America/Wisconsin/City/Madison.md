@@ -28,3 +28,12 @@ markerFile: [[Madison]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Wisconsin/City/Madison.md|Madison]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Wisconsin/City/Madison.internal.md|Madison.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Wisconsin/City/Madison.protect.md|Madison.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Wisconsin/City/Madison.private.md|Madison.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Wisconsin/City/Madison.personal.md|Madison.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Wisconsin/City/Madison.secret.md|Madison.secret]] 

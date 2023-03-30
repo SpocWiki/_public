@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28120]
 [NextStarId::27270]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Mekbuda.md|Mekbuda]] 
+- [[../../../_internal/astro/Star/Mekbuda.internal.md|Mekbuda.internal]] 
+- [[../../../_protect/astro/Star/Mekbuda.protect.md|Mekbuda.protect]] 
+- [[../../../_private/astro/Star/Mekbuda.private.md|Mekbuda.private]] 
+- [[../../../_personal/astro/Star/Mekbuda.personal.md|Mekbuda.personal]] 
+- [[../../../_secret/astro/Star/Mekbuda.secret.md|Mekbuda.secret]] 

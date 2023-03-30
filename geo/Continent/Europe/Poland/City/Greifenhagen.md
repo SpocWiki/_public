@@ -29,3 +29,12 @@ markerFile: [[Greifenhagen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Greifenhagen.md|Greifenhagen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Greifenhagen.internal.md|Greifenhagen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Greifenhagen.protect.md|Greifenhagen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Greifenhagen.private.md|Greifenhagen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Greifenhagen.personal.md|Greifenhagen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Greifenhagen.secret.md|Greifenhagen.secret]] 

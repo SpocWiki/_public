@@ -29,3 +29,12 @@ markerFile: [[Vimmersby]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vimmersby.md|Vimmersby]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vimmersby.internal.md|Vimmersby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vimmersby.protect.md|Vimmersby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vimmersby.private.md|Vimmersby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vimmersby.personal.md|Vimmersby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vimmersby.secret.md|Vimmersby.secret]] 

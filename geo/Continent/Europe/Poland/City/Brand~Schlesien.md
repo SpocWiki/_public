@@ -29,3 +29,12 @@ markerFile: [[Brand~Schlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Brand~Schlesien.md|Brand~Schlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Brand~Schlesien.internal.md|Brand~Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Brand~Schlesien.protect.md|Brand~Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Brand~Schlesien.private.md|Brand~Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Brand~Schlesien.personal.md|Brand~Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Brand~Schlesien.secret.md|Brand~Schlesien.secret]] 

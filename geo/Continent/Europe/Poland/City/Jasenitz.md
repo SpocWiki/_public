@@ -29,3 +29,12 @@ markerFile: [[Jasenitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Jasenitz.md|Jasenitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Jasenitz.internal.md|Jasenitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Jasenitz.protect.md|Jasenitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Jasenitz.private.md|Jasenitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Jasenitz.personal.md|Jasenitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Jasenitz.secret.md|Jasenitz.secret]] 

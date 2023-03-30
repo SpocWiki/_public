@@ -29,3 +29,12 @@ markerFile: [[Sicciole]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sicciole.md|Sicciole]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sicciole.internal.md|Sicciole.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sicciole.protect.md|Sicciole.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sicciole.private.md|Sicciole.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sicciole.personal.md|Sicciole.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sicciole.secret.md|Sicciole.secret]] 

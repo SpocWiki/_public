@@ -29,3 +29,12 @@ markerFile: [[Ssemipalatinsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ssemipalatinsk.md|Ssemipalatinsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ssemipalatinsk.internal.md|Ssemipalatinsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ssemipalatinsk.protect.md|Ssemipalatinsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ssemipalatinsk.private.md|Ssemipalatinsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ssemipalatinsk.personal.md|Ssemipalatinsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ssemipalatinsk.secret.md|Ssemipalatinsk.secret]] 

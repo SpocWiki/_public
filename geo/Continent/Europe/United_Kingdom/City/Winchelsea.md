@@ -29,3 +29,12 @@ markerFile: [[Winchelsea]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Winchelsea.md|Winchelsea]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Winchelsea.internal.md|Winchelsea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Winchelsea.protect.md|Winchelsea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Winchelsea.private.md|Winchelsea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Winchelsea.personal.md|Winchelsea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Winchelsea.secret.md|Winchelsea.secret]] 

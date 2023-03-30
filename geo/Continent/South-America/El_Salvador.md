@@ -129,3 +129,12 @@ markerFolder: ./El_Salvador/City
 [geo-lon::-89.1667]
 [geo-lat::13.6667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/El_Salvador.md|El_Salvador]] 
+- [[../../../../_internal/geo/Continent/South-America/El_Salvador.internal.md|El_Salvador.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/El_Salvador.protect.md|El_Salvador.protect]] 
+- [[../../../../_private/geo/Continent/South-America/El_Salvador.private.md|El_Salvador.private]] 
+- [[../../../../_personal/geo/Continent/South-America/El_Salvador.personal.md|El_Salvador.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/El_Salvador.secret.md|El_Salvador.secret]] 

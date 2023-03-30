@@ -43,3 +43,12 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_channel.md|broadcast_channel]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_channel.internal.md|broadcast_channel.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_channel.protect.md|broadcast_channel.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_channel.private.md|broadcast_channel.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_channel.personal.md|broadcast_channel.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_channel.secret.md|broadcast_channel.secret]] 

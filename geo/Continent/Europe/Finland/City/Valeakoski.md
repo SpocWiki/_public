@@ -29,3 +29,12 @@ markerFile: [[Valeakoski]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Valeakoski.md|Valeakoski]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Valeakoski.internal.md|Valeakoski.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Valeakoski.protect.md|Valeakoski.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Valeakoski.private.md|Valeakoski.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Valeakoski.personal.md|Valeakoski.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Valeakoski.secret.md|Valeakoski.secret]] 

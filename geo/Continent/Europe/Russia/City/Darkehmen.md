@@ -29,3 +29,12 @@ markerFile: [[Darkehmen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Darkehmen.md|Darkehmen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Darkehmen.internal.md|Darkehmen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Darkehmen.protect.md|Darkehmen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Darkehmen.private.md|Darkehmen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Darkehmen.personal.md|Darkehmen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Darkehmen.secret.md|Darkehmen.secret]] 

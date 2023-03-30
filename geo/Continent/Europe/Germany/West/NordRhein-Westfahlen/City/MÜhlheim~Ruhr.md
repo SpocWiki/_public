@@ -28,3 +28,12 @@ markerFile: [[MÜhlheim~Ruhr]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/MÜhlheim~Ruhr.md|MÜhlheim~Ruhr]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/MÜhlheim~Ruhr.internal.md|MÜhlheim~Ruhr.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/MÜhlheim~Ruhr.protect.md|MÜhlheim~Ruhr.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/MÜhlheim~Ruhr.private.md|MÜhlheim~Ruhr.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/MÜhlheim~Ruhr.personal.md|MÜhlheim~Ruhr.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/MÜhlheim~Ruhr.secret.md|MÜhlheim~Ruhr.secret]] 

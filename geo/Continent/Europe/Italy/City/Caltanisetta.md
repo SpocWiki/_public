@@ -29,3 +29,12 @@ markerFile: [[Caltanisetta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Caltanisetta.md|Caltanisetta]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Caltanisetta.internal.md|Caltanisetta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Caltanisetta.protect.md|Caltanisetta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Caltanisetta.private.md|Caltanisetta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Caltanisetta.personal.md|Caltanisetta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Caltanisetta.secret.md|Caltanisetta.secret]] 

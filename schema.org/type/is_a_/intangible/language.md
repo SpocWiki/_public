@@ -41,3 +41,12 @@ Natural languages such as Spanish, Tamil, Hindi, English, etc. Formal language c
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/language.md|language]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/language.internal.md|language.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/language.protect.md|language.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/language.private.md|language.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/language.personal.md|language.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/language.secret.md|language.secret]] 

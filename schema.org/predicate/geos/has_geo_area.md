@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_area )
 ( #has_/range :: Place )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/geos/has_geo_area.md|has_geo_area]] 
+- [[../../../../_internal/schema.org/Predicate/geos/has_geo_area.internal.md|has_geo_area.internal]] 
+- [[../../../../_protect/schema.org/Predicate/geos/has_geo_area.protect.md|has_geo_area.protect]] 
+- [[../../../../_private/schema.org/Predicate/geos/has_geo_area.private.md|has_geo_area.private]] 
+- [[../../../../_personal/schema.org/Predicate/geos/has_geo_area.personal.md|has_geo_area.personal]] 
+- [[../../../../_secret/schema.org/Predicate/geos/has_geo_area.secret.md|has_geo_area.secret]] 

@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28128]
 [NextStarId::27527]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Algieba.md|Algieba]] 
+- [[../../../_internal/astro/Star/Algieba.internal.md|Algieba.internal]] 
+- [[../../../_protect/astro/Star/Algieba.protect.md|Algieba.protect]] 
+- [[../../../_private/astro/Star/Algieba.private.md|Algieba.private]] 
+- [[../../../_personal/astro/Star/Algieba.personal.md|Algieba.personal]] 
+- [[../../../_secret/astro/Star/Algieba.secret.md|Algieba.secret]]
+

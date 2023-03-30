@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28145]
 [NextStarId::27373]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Mirphak.md|Mirphak]] 
+- [[../../../_internal/astro/Star/Mirphak.internal.md|Mirphak.internal]] 
+- [[../../../_protect/astro/Star/Mirphak.protect.md|Mirphak.protect]] 
+- [[../../../_private/astro/Star/Mirphak.private.md|Mirphak.private]] 
+- [[../../../_personal/astro/Star/Mirphak.personal.md|Mirphak.personal]] 
+- [[../../../_secret/astro/Star/Mirphak.secret.md|Mirphak.secret]] 

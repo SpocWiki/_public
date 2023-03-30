@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Self-service]]]
 - [con::[[Triz-Ease_of_repair]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-Ease_of_repair.md|Triz-Manufacturing_Precision+Self-service-Ease_of_repair]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-Ease_of_repair.internal.md|Triz-Manufacturing_Precision+Self-service-Ease_of_repair.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-Ease_of_repair.protect.md|Triz-Manufacturing_Precision+Self-service-Ease_of_repair.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-Ease_of_repair.private.md|Triz-Manufacturing_Precision+Self-service-Ease_of_repair.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-Ease_of_repair.personal.md|Triz-Manufacturing_Precision+Self-service-Ease_of_repair.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-Ease_of_repair.secret.md|Triz-Manufacturing_Precision+Self-service-Ease_of_repair.secret]] 

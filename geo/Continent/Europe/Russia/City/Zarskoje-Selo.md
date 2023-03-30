@@ -29,3 +29,12 @@ markerFile: [[Zarskoje-Selo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zarskoje-Selo.md|Zarskoje-Selo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zarskoje-Selo.internal.md|Zarskoje-Selo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zarskoje-Selo.protect.md|Zarskoje-Selo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zarskoje-Selo.private.md|Zarskoje-Selo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zarskoje-Selo.personal.md|Zarskoje-Selo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zarskoje-Selo.secret.md|Zarskoje-Selo.secret]] 

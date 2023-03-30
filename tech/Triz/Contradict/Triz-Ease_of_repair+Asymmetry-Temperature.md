@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Asymmetry]]]
 - [con::[[Triz-Temperature]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.md|Triz-Ease_of_repair+Asymmetry-Temperature]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.internal.md|Triz-Ease_of_repair+Asymmetry-Temperature.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.protect.md|Triz-Ease_of_repair+Asymmetry-Temperature.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.private.md|Triz-Ease_of_repair+Asymmetry-Temperature.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.personal.md|Triz-Ease_of_repair+Asymmetry-Temperature.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.secret.md|Triz-Ease_of_repair+Asymmetry-Temperature.secret]] 

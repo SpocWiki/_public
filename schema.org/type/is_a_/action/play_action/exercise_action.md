@@ -41,3 +41,12 @@ The act of participating in exertive activity for the purposes of improving heal
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, course, description, diet, disambiguatingDescription, distance, endTime, error, event, exerciseCourse, exercisePlan, exerciseRelatedDiet, exerciseType, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, opponent, participant, potentialAction, provider, result, sameAs, sportsActivityLocation, sportsEvent, sportsTeam, startTime, subjectOf, target, toLocation, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/action/play_action/exercise_action.md|exercise_action]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/action/play_action/exercise_action.internal.md|exercise_action.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/action/play_action/exercise_action.protect.md|exercise_action.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/action/play_action/exercise_action.private.md|exercise_action.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/action/play_action/exercise_action.personal.md|exercise_action.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/action/play_action/exercise_action.secret.md|exercise_action.secret]] 

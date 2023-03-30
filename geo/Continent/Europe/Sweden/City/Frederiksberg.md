@@ -29,3 +29,12 @@ markerFile: [[Frederiksberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Frederiksberg.md|Frederiksberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Frederiksberg.internal.md|Frederiksberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Frederiksberg.protect.md|Frederiksberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Frederiksberg.private.md|Frederiksberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Frederiksberg.personal.md|Frederiksberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Frederiksberg.secret.md|Frederiksberg.secret]] 

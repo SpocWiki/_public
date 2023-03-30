@@ -29,3 +29,12 @@ markerFile: [[Osman_Bazar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.md|Osman_Bazar]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.internal.md|Osman_Bazar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.protect.md|Osman_Bazar.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.private.md|Osman_Bazar.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.personal.md|Osman_Bazar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.secret.md|Osman_Bazar.secret]] 

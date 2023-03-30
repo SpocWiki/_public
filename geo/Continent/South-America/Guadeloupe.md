@@ -129,3 +129,12 @@ markerFolder: ./Guadeloupe/City
 [geo-lon::-61.7333]
 [geo-lat::16]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Guadeloupe.md|Guadeloupe]] 
+- [[../../../../_internal/geo/Continent/South-America/Guadeloupe.internal.md|Guadeloupe.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Guadeloupe.protect.md|Guadeloupe.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Guadeloupe.private.md|Guadeloupe.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Guadeloupe.personal.md|Guadeloupe.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Guadeloupe.secret.md|Guadeloupe.secret]] 

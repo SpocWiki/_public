@@ -29,3 +29,12 @@ markerFile: [[Wiltz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Wiltz.md|Wiltz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Wiltz.internal.md|Wiltz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Wiltz.protect.md|Wiltz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Wiltz.private.md|Wiltz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Wiltz.personal.md|Wiltz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Wiltz.secret.md|Wiltz.secret]] 

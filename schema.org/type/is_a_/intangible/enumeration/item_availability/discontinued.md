@@ -43,3 +43,12 @@ Indicates that the item has been discontinued.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.md|discontinued]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.internal.md|discontinued.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.protect.md|discontinued.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.private.md|discontinued.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.personal.md|discontinued.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.secret.md|discontinued.secret]] 

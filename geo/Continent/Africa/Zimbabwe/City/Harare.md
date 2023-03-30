@@ -29,3 +29,12 @@ markerFile: [[Harare]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/City/Harare.md|Harare]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/City/Harare.internal.md|Harare.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/City/Harare.protect.md|Harare.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/City/Harare.private.md|Harare.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/City/Harare.personal.md|Harare.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/City/Harare.secret.md|Harare.secret]] 

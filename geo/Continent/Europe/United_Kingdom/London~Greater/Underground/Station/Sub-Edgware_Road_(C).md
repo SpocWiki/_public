@@ -29,3 +29,12 @@ markerFile: [[Sub-Edgware_Road_(C)]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(C).md|Sub-Edgware_Road_(C)]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(C).internal.md|Sub-Edgware_Road_(C).internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(C).protect.md|Sub-Edgware_Road_(C).protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(C).private.md|Sub-Edgware_Road_(C).private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(C).personal.md|Sub-Edgware_Road_(C).personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(C).secret.md|Sub-Edgware_Road_(C).secret]] 

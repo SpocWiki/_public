@@ -29,3 +29,12 @@ markerFile: [[Pretoria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/South_Africa/City/Pretoria.md|Pretoria]] 
+- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Pretoria.internal.md|Pretoria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Pretoria.protect.md|Pretoria.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/South_Africa/City/Pretoria.private.md|Pretoria.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Pretoria.personal.md|Pretoria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Pretoria.secret.md|Pretoria.secret]] 

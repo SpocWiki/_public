@@ -29,3 +29,12 @@ markerFile: [[Adelsnaes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Adelsnaes.md|Adelsnaes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Adelsnaes.internal.md|Adelsnaes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Adelsnaes.protect.md|Adelsnaes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Adelsnaes.private.md|Adelsnaes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Adelsnaes.personal.md|Adelsnaes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Adelsnaes.secret.md|Adelsnaes.secret]] 

@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_value_name )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_value_name.md|has_value_name]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_value_name.internal.md|has_value_name.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_value_name.protect.md|has_value_name.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_value_name.private.md|has_value_name.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_value_name.personal.md|has_value_name.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_value_name.secret.md|has_value_name.secret]] 

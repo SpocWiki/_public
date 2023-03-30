@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_boarding_group )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_boarding_group.md|has_boarding_group]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_boarding_group.internal.md|has_boarding_group.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_boarding_group.protect.md|has_boarding_group.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_boarding_group.private.md|has_boarding_group.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_boarding_group.personal.md|has_boarding_group.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_boarding_group.secret.md|has_boarding_group.secret]] 

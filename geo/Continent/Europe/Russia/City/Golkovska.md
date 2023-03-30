@@ -29,3 +29,12 @@ markerFile: [[Golkovska]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Golkovska.md|Golkovska]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Golkovska.internal.md|Golkovska.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Golkovska.protect.md|Golkovska.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Golkovska.private.md|Golkovska.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Golkovska.personal.md|Golkovska.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Golkovska.secret.md|Golkovska.secret]] 

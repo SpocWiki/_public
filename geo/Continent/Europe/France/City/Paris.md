@@ -29,3 +29,12 @@ markerFile: [[Paris]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Paris.md|Paris]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Paris.internal.md|Paris.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Paris.protect.md|Paris.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Paris.private.md|Paris.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Paris.personal.md|Paris.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Paris.secret.md|Paris.secret]] 

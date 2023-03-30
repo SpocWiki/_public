@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::27499]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Baham.md|Baham]] 
+- [[../../../_internal/astro/Star/Baham.internal.md|Baham.internal]] 
+- [[../../../_protect/astro/Star/Baham.protect.md|Baham.protect]] 
+- [[../../../_private/astro/Star/Baham.private.md|Baham.private]] 
+- [[../../../_personal/astro/Star/Baham.personal.md|Baham.personal]] 
+- [[../../../_secret/astro/Star/Baham.secret.md|Baham.secret]]
+

@@ -29,3 +29,12 @@ markerFile: [[Bray]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Bray.md|Bray]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Bray.internal.md|Bray.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Bray.protect.md|Bray.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Bray.private.md|Bray.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Bray.personal.md|Bray.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Bray.secret.md|Bray.secret]] 

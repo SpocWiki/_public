@@ -29,3 +29,12 @@ markerFile: [[Chiavenna]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Chiavenna.md|Chiavenna]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Chiavenna.internal.md|Chiavenna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Chiavenna.protect.md|Chiavenna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Chiavenna.private.md|Chiavenna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Chiavenna.personal.md|Chiavenna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Chiavenna.secret.md|Chiavenna.secret]] 

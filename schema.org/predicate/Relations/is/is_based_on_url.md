@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: is_based_on_url)
 ( #has_/range :: CreativeWork, Product, URL)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_based_on_url.md|is_based_on_url]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_based_on_url.internal.md|is_based_on_url.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_based_on_url.protect.md|is_based_on_url.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_based_on_url.private.md|is_based_on_url.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_based_on_url.personal.md|is_based_on_url.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_based_on_url.secret.md|is_based_on_url.secret]] 

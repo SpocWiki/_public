@@ -29,3 +29,12 @@ markerFile: [[Skien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Skien.md|Skien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Skien.internal.md|Skien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Skien.protect.md|Skien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Skien.private.md|Skien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Skien.personal.md|Skien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Skien.secret.md|Skien.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Balzers]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Balzers.md|Balzers]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Balzers.internal.md|Balzers.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Balzers.protect.md|Balzers.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Balzers.private.md|Balzers.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Balzers.personal.md|Balzers.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Balzers.secret.md|Balzers.secret]] 

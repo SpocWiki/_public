@@ -29,3 +29,12 @@ markerFile: [[Galanta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Galanta.md|Galanta]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Galanta.internal.md|Galanta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Galanta.protect.md|Galanta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Galanta.private.md|Galanta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Galanta.personal.md|Galanta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Galanta.secret.md|Galanta.secret]] 

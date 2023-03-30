@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mediator]]]
 - [con::[[Triz-Stability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.md|Triz-moving_Energy+Mediator-Stability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.internal.md|Triz-moving_Energy+Mediator-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.protect.md|Triz-moving_Energy+Mediator-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.private.md|Triz-moving_Energy+Mediator-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.personal.md|Triz-moving_Energy+Mediator-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.secret.md|Triz-moving_Energy+Mediator-Stability.secret]] 

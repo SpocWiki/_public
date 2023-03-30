@@ -29,3 +29,12 @@ markerFile: [[Salonta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Salonta.md|Salonta]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Salonta.internal.md|Salonta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Salonta.protect.md|Salonta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Salonta.private.md|Salonta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Salonta.personal.md|Salonta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Salonta.secret.md|Salonta.secret]] 

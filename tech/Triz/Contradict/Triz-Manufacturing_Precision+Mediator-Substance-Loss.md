@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mediator]]]
 - [con::Substance-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.internal.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.protect.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.private.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.personal.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mediator-Substance-Loss.secret.md|Triz-Manufacturing_Precision+Mediator-Substance-Loss.secret]] 

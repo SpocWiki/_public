@@ -29,3 +29,12 @@ markerFile: [[Schwechat]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schwechat.md|Schwechat]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwechat.internal.md|Schwechat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwechat.protect.md|Schwechat.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schwechat.private.md|Schwechat.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwechat.personal.md|Schwechat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwechat.secret.md|Schwechat.secret]] 

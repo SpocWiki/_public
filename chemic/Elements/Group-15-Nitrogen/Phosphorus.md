@@ -34,3 +34,12 @@ SpocWebEntityId: 21916
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phosphorus)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Phosphorus.md|Phosphorus]] 
+- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Phosphorus.internal.md|Phosphorus.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Phosphorus.protect.md|Phosphorus.protect]] 
+- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Phosphorus.private.md|Phosphorus.private]] 
+- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Phosphorus.personal.md|Phosphorus.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Phosphorus.secret.md|Phosphorus.secret]] 

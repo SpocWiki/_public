@@ -29,3 +29,12 @@ markerFile: [[Rovigo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Rovigo.md|Rovigo]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovigo.internal.md|Rovigo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovigo.protect.md|Rovigo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rovigo.private.md|Rovigo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovigo.personal.md|Rovigo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovigo.secret.md|Rovigo.secret]] 

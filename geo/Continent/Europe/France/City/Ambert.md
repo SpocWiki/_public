@@ -29,3 +29,12 @@ markerFile: [[Ambert]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Ambert.md|Ambert]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Ambert.internal.md|Ambert.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Ambert.protect.md|Ambert.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Ambert.private.md|Ambert.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Ambert.personal.md|Ambert.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Ambert.secret.md|Ambert.secret]] 

@@ -131,3 +131,12 @@ markerFolder: ./Ecuador/City
 [geo-lon::-78.5]
 [geo-lat::-0.23]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Ecuador.md|Ecuador]] 
+- [[../../../../_internal/geo/Continent/South-America/Ecuador.internal.md|Ecuador.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Ecuador.protect.md|Ecuador.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Ecuador.private.md|Ecuador.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Ecuador.personal.md|Ecuador.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Ecuador.secret.md|Ecuador.secret]] 

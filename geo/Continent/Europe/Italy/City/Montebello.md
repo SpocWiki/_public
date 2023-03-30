@@ -29,3 +29,12 @@ markerFile: [[Montebello]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Montebello.md|Montebello]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montebello.internal.md|Montebello.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montebello.protect.md|Montebello.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montebello.private.md|Montebello.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montebello.personal.md|Montebello.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montebello.secret.md|Montebello.secret]] 

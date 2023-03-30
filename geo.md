@@ -8,3 +8,13 @@ The RFC2426 vCard Geo Property typically takes a "lat,long" as a literal value. 
 
 Primary Source of open-source geographic maps is the excellent 
 [naturalearthdata.com](https://www.naturalearthdata.com/downloads/)  Site. 
+
+
+## Confidential Links & Embeds: 
+- [[../_public/geo.md|geo]] 
+- [[../_internal/geo.internal.md|geo.internal]] 
+- [[../_protect/geo.protect.md|geo.protect]] 
+- [[../_private/geo.private.md|geo.private]] 
+- [[../_personal/geo.personal.md|geo.personal]] 
+- [[../_secret/geo.secret.md|geo.secret]]
+

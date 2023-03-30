@@ -29,3 +29,12 @@ markerFile: [[Lindenau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lindenau.md|Lindenau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lindenau.internal.md|Lindenau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lindenau.protect.md|Lindenau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lindenau.private.md|Lindenau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lindenau.personal.md|Lindenau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lindenau.secret.md|Lindenau.secret]] 

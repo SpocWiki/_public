@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_target_platform )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_target_platform.md|has_target_platform]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_target_platform.internal.md|has_target_platform.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_target_platform.protect.md|has_target_platform.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_target_platform.private.md|has_target_platform.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_target_platform.personal.md|has_target_platform.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_target_platform.secret.md|has_target_platform.secret]] 

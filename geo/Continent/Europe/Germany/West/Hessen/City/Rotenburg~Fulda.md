@@ -28,3 +28,12 @@ markerFile: [[Rotenburg~Fulda]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.md|Rotenburg~Fulda]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.internal.md|Rotenburg~Fulda.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.protect.md|Rotenburg~Fulda.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.private.md|Rotenburg~Fulda.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.personal.md|Rotenburg~Fulda.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.secret.md|Rotenburg~Fulda.secret]] 

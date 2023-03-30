@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_loan_payment_frequency )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.md|has_value_for_loan_payment_frequency]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.internal.md|has_value_for_loan_payment_frequency.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.protect.md|has_value_for_loan_payment_frequency.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.private.md|has_value_for_loan_payment_frequency.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.personal.md|has_value_for_loan_payment_frequency.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.secret.md|has_value_for_loan_payment_frequency.secret]] 

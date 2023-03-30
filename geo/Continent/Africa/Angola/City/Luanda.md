@@ -29,3 +29,12 @@ markerFile: [[Luanda]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Angola/City/Luanda.md|Luanda]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Angola/City/Luanda.internal.md|Luanda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Angola/City/Luanda.protect.md|Luanda.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Angola/City/Luanda.private.md|Luanda.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Angola/City/Luanda.personal.md|Luanda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Angola/City/Luanda.secret.md|Luanda.secret]] 

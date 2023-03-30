@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Phase_transition]]]
 - [con::Time-Loss]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.md|Triz-Stress+Phase_transition-Time-Loss]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.internal.md|Triz-Stress+Phase_transition-Time-Loss.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.protect.md|Triz-Stress+Phase_transition-Time-Loss.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.private.md|Triz-Stress+Phase_transition-Time-Loss.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.personal.md|Triz-Stress+Phase_transition-Time-Loss.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.secret.md|Triz-Stress+Phase_transition-Time-Loss.secret]] 

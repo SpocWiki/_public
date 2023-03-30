@@ -29,3 +29,12 @@ markerFile: [[Charlottetown]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/Charlottetown.md|Charlottetown]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Charlottetown.internal.md|Charlottetown.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Charlottetown.protect.md|Charlottetown.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Charlottetown.private.md|Charlottetown.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Charlottetown.personal.md|Charlottetown.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Charlottetown.secret.md|Charlottetown.secret]] 

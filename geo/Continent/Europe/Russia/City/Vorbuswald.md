@@ -29,3 +29,12 @@ markerFile: [[Vorbuswald]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vorbuswald.md|Vorbuswald]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vorbuswald.internal.md|Vorbuswald.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vorbuswald.protect.md|Vorbuswald.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vorbuswald.private.md|Vorbuswald.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vorbuswald.personal.md|Vorbuswald.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vorbuswald.secret.md|Vorbuswald.secret]] 

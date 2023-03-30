@@ -29,3 +29,12 @@ markerFile: [[Toronto]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/Toronto.md|Toronto]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Toronto.internal.md|Toronto.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Toronto.protect.md|Toronto.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Toronto.private.md|Toronto.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Toronto.personal.md|Toronto.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Toronto.secret.md|Toronto.secret]] 

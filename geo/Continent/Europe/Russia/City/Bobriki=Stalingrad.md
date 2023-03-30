@@ -29,3 +29,12 @@ markerFile: [[Bobriki=Stalingrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.md|Bobriki=Stalingrad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.internal.md|Bobriki=Stalingrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.protect.md|Bobriki=Stalingrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.private.md|Bobriki=Stalingrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.personal.md|Bobriki=Stalingrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.secret.md|Bobriki=Stalingrad.secret]] 

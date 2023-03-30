@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28154]
 [NextStarId::27346]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Kaus_Borealis.md|Kaus_Borealis]] 
+- [[../../../_internal/astro/Star/Kaus_Borealis.internal.md|Kaus_Borealis.internal]] 
+- [[../../../_protect/astro/Star/Kaus_Borealis.protect.md|Kaus_Borealis.protect]] 
+- [[../../../_private/astro/Star/Kaus_Borealis.private.md|Kaus_Borealis.private]] 
+- [[../../../_personal/astro/Star/Kaus_Borealis.personal.md|Kaus_Borealis.personal]] 
+- [[../../../_secret/astro/Star/Kaus_Borealis.secret.md|Kaus_Borealis.secret]]
+

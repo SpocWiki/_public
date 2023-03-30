@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: participant ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_opponent.md|has_opponent]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_opponent.internal.md|has_opponent.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_opponent.protect.md|has_opponent.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_opponent.private.md|has_opponent.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_opponent.personal.md|has_opponent.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_opponent.secret.md|has_opponent.secret]] 

@@ -43,3 +43,12 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, partySize, pickupLocation, pickupTime, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.md|taxi_reservation]] 
+- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.internal.md|taxi_reservation.internal]] 
+- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.protect.md|taxi_reservation.protect]] 
+- [[../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.private.md|taxi_reservation.private]] 
+- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.personal.md|taxi_reservation.personal]] 
+- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.secret.md|taxi_reservation.secret]] 

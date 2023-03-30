@@ -41,3 +41,12 @@ A patient-reported or observed dosing schedule for a drug or supplement.
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, doseUnit, doseValue, frequency, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, targetPopulation, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.md|reported_dose_schedule]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.internal.md|reported_dose_schedule.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.protect.md|reported_dose_schedule.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.private.md|reported_dose_schedule.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.personal.md|reported_dose_schedule.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.secret.md|reported_dose_schedule.secret]] 

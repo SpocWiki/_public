@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_tributary )
 ( #has_/range :: AnatomicalStructure )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_tributary.md|has_tributary]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tributary.internal.md|has_tributary.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_tributary.protect.md|has_tributary.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_tributary.private.md|has_tributary.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_tributary.personal.md|has_tributary.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_tributary.secret.md|has_tributary.secret]] 

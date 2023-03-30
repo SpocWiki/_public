@@ -29,3 +29,12 @@ markerFile: [[Wellington]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/City/Wellington.md|Wellington]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/City/Wellington.internal.md|Wellington.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/City/Wellington.protect.md|Wellington.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/City/Wellington.private.md|Wellington.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/City/Wellington.personal.md|Wellington.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/City/Wellington.secret.md|Wellington.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Eibenschuetz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.md|Eibenschuetz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.internal.md|Eibenschuetz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.protect.md|Eibenschuetz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.private.md|Eibenschuetz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.personal.md|Eibenschuetz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.secret.md|Eibenschuetz.secret]] 

@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_transmission_method )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_transmission_method.md|has_transmission_method]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_transmission_method.internal.md|has_transmission_method.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_transmission_method.protect.md|has_transmission_method.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_transmission_method.private.md|has_transmission_method.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_transmission_method.personal.md|has_transmission_method.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_transmission_method.secret.md|has_transmission_method.secret]] 

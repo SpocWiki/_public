@@ -29,3 +29,12 @@ markerFile: [[Krnov]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Krnov.md|Krnov]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krnov.internal.md|Krnov.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krnov.protect.md|Krnov.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krnov.private.md|Krnov.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krnov.personal.md|Krnov.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krnov.secret.md|Krnov.secret]] 

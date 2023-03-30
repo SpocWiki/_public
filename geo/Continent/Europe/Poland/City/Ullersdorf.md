@@ -29,3 +29,12 @@ markerFile: [[Ullersdorf]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ullersdorf.md|Ullersdorf]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ullersdorf.internal.md|Ullersdorf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ullersdorf.protect.md|Ullersdorf.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ullersdorf.private.md|Ullersdorf.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ullersdorf.personal.md|Ullersdorf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ullersdorf.secret.md|Ullersdorf.secret]] 

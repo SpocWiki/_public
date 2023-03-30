@@ -29,3 +29,12 @@ markerFile: [[Przemysl]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Przemysl.md|Przemysl]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Przemysl.internal.md|Przemysl.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Przemysl.protect.md|Przemysl.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Przemysl.private.md|Przemysl.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Przemysl.personal.md|Przemysl.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Przemysl.secret.md|Przemysl.secret]] 

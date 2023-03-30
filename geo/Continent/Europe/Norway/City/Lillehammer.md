@@ -29,3 +29,12 @@ markerFile: [[Lillehammer]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Lillehammer.md|Lillehammer]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Lillehammer.internal.md|Lillehammer.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Lillehammer.protect.md|Lillehammer.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Lillehammer.private.md|Lillehammer.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Lillehammer.personal.md|Lillehammer.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Lillehammer.secret.md|Lillehammer.secret]] 

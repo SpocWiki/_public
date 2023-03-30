@@ -29,3 +29,12 @@ markerFile: [[Strasburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Strasburg.md|Strasburg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Strasburg.internal.md|Strasburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Strasburg.protect.md|Strasburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Strasburg.private.md|Strasburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Strasburg.personal.md|Strasburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Strasburg.secret.md|Strasburg.secret]] 

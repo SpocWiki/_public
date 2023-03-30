@@ -29,3 +29,12 @@ markerFile: [[Frunze]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Frunze.md|Frunze]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Frunze.internal.md|Frunze.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Frunze.protect.md|Frunze.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Frunze.private.md|Frunze.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Frunze.personal.md|Frunze.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Frunze.secret.md|Frunze.secret]] 

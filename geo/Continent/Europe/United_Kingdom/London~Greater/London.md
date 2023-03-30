@@ -29,3 +29,12 @@ markerFile: [[London]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/London.md|London]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/London.internal.md|London.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/London.protect.md|London.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/London.private.md|London.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/London.personal.md|London.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/London.secret.md|London.secret]] 

@@ -35,3 +35,11 @@ SpocWebEntityId: 21909
 > Apart from its use in fertilisers and energy stores, nitrogen is a constituent of organic compounds as diverse as Kevlar used in high-strength fabric and cyanoacrylate used in superglue. Nitrogen is a constituent of every major pharmacological drug class, including antibiotics. Many drugs are mimics or prodrugs of natural nitrogen-containing signal molecules: for example, the organic nitrates nitroglycerin and nitroprusside control blood pressure by metabolizing into nitric oxide. Many notable nitrogen-containing drugs, such as the natural caffeine and morphine or the synthetic amphetamines, act on receptors of animal neurotransmitters.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrogen)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Nitrogen.md|Nitrogen]] 
+- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Nitrogen.internal.md|Nitrogen.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Nitrogen.protect.md|Nitrogen.protect]] 
+- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Nitrogen.private.md|Nitrogen.private]] 
+- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Nitrogen.personal.md|Nitrogen.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Nitrogen.secret.md|Nitrogen.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Chatillon-sur-Seine]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Chatillon-sur-Seine.md|Chatillon-sur-Seine]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Chatillon-sur-Seine.internal.md|Chatillon-sur-Seine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Chatillon-sur-Seine.protect.md|Chatillon-sur-Seine.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Chatillon-sur-Seine.private.md|Chatillon-sur-Seine.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Chatillon-sur-Seine.personal.md|Chatillon-sur-Seine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Chatillon-sur-Seine.secret.md|Chatillon-sur-Seine.secret]] 

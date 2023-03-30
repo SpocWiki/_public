@@ -28,3 +28,12 @@ markerFile: [[Lodge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.md|Lodge]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.internal.md|Lodge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.protect.md|Lodge.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.private.md|Lodge.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.personal.md|Lodge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.secret.md|Lodge.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Equipotentiality]]]
 - [con::[[Triz-Shape]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.md|Triz-moving_Energy+Equipotentiality-Shape]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.internal.md|Triz-moving_Energy+Equipotentiality-Shape.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.protect.md|Triz-moving_Energy+Equipotentiality-Shape.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.private.md|Triz-moving_Energy+Equipotentiality-Shape.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.personal.md|Triz-moving_Energy+Equipotentiality-Shape.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.secret.md|Triz-moving_Energy+Equipotentiality-Shape.secret]] 

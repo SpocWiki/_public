@@ -16,3 +16,13 @@ tags:
 [Iso2::bn]
 [Iso3::ben]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/lang/Lang-bn.md|Lang-bn]] 
+- [[../../_internal/lang/Lang-bn.internal.md|Lang-bn.internal]] 
+- [[../../_protect/lang/Lang-bn.protect.md|Lang-bn.protect]] 
+- [[../../_private/lang/Lang-bn.private.md|Lang-bn.private]] 
+- [[../../_personal/lang/Lang-bn.personal.md|Lang-bn.personal]] 
+- [[../../_secret/lang/Lang-bn.secret.md|Lang-bn.secret]]
+

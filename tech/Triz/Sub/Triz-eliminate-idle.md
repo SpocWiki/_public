@@ -15,3 +15,12 @@ tags:
 [TrizPrinciple::[[Triz-Continuity_of_useful_action]]]
 
 Eliminate all idle or intermittent actions or work.
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Sub/Triz-eliminate-idle.md|Triz-eliminate-idle]] 
+- [[../../../../_internal/tech/Triz/Sub/Triz-eliminate-idle.internal.md|Triz-eliminate-idle.internal]] 
+- [[../../../../_protect/tech/Triz/Sub/Triz-eliminate-idle.protect.md|Triz-eliminate-idle.protect]] 
+- [[../../../../_private/tech/Triz/Sub/Triz-eliminate-idle.private.md|Triz-eliminate-idle.private]] 
+- [[../../../../_personal/tech/Triz/Sub/Triz-eliminate-idle.personal.md|Triz-eliminate-idle.personal]] 
+- [[../../../../_secret/tech/Triz/Sub/Triz-eliminate-idle.secret.md|Triz-eliminate-idle.secret]] 

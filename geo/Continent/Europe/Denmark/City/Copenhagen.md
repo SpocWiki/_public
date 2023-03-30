@@ -29,3 +29,12 @@ markerFile: [[Copenhagen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Copenhagen.md|Copenhagen]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Copenhagen.internal.md|Copenhagen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Copenhagen.protect.md|Copenhagen.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Copenhagen.private.md|Copenhagen.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Copenhagen.personal.md|Copenhagen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Copenhagen.secret.md|Copenhagen.secret]] 

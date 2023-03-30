@@ -136,3 +136,12 @@ markerFolder: ./Tanzania/City
 [geo-lon::35.7419]
 [geo-lat::-6.17306]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Tanzania.md|Tanzania]] 
+- [[../../../../_internal/geo/Continent/Africa/Tanzania.internal.md|Tanzania.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tanzania.protect.md|Tanzania.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tanzania.private.md|Tanzania.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tanzania.personal.md|Tanzania.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tanzania.secret.md|Tanzania.secret]] 

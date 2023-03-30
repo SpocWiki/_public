@@ -130,3 +130,12 @@ markerFolder: ./Colombia/City
 [geo-lon::-75.225]
 [geo-lat::3.525]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Colombia.md|Colombia]] 
+- [[../../../../_internal/geo/Continent/South-America/Colombia.internal.md|Colombia.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Colombia.protect.md|Colombia.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Colombia.private.md|Colombia.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Colombia.personal.md|Colombia.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Colombia.secret.md|Colombia.secret]] 

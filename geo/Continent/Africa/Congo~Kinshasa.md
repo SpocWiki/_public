@@ -38,3 +38,12 @@ markerFolder: ./Congo~Dem_Rep/City
 [geo-lon::15.3]
 [geo-lat::-4.3]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa.md|Congo~Kinshasa]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa.internal.md|Congo~Kinshasa.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa.protect.md|Congo~Kinshasa.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa.private.md|Congo~Kinshasa.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa.personal.md|Congo~Kinshasa.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa.secret.md|Congo~Kinshasa.secret]] 

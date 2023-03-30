@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Universality]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.md|Triz-Illumination+Universality-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.internal.md|Triz-Illumination+Universality-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.protect.md|Triz-Illumination+Universality-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.private.md|Triz-Illumination+Universality-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.personal.md|Triz-Illumination+Universality-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.secret.md|Triz-Illumination+Universality-Complexity.secret]] 

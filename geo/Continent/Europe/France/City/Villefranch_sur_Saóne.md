@@ -29,3 +29,12 @@ markerFile: [[Villefranch_sur_Saóne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Villefranch_sur_Saóne.md|Villefranch_sur_Saóne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Villefranch_sur_Saóne.internal.md|Villefranch_sur_Saóne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Villefranch_sur_Saóne.protect.md|Villefranch_sur_Saóne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Villefranch_sur_Saóne.private.md|Villefranch_sur_Saóne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Villefranch_sur_Saóne.personal.md|Villefranch_sur_Saóne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Villefranch_sur_Saóne.secret.md|Villefranch_sur_Saóne.secret]] 

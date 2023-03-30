@@ -29,3 +29,12 @@ markerFile: [[Pollnitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Pollnitz.md|Pollnitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Pollnitz.internal.md|Pollnitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Pollnitz.protect.md|Pollnitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Pollnitz.private.md|Pollnitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Pollnitz.personal.md|Pollnitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Pollnitz.secret.md|Pollnitz.secret]] 

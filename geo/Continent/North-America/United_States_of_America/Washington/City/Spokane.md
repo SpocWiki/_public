@@ -28,3 +28,12 @@ markerFile: [[Spokane]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.md|Spokane]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.internal.md|Spokane.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.protect.md|Spokane.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.private.md|Spokane.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.personal.md|Spokane.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.secret.md|Spokane.secret]] 

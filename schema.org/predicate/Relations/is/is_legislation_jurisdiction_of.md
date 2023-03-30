@@ -44,3 +44,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: jurisdiction, spatialCoverage ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_legislation_jurisdiction_of.md|is_legislation_jurisdiction_of]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_jurisdiction_of.internal.md|is_legislation_jurisdiction_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_jurisdiction_of.protect.md|is_legislation_jurisdiction_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_jurisdiction_of.private.md|is_legislation_jurisdiction_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_legislation_jurisdiction_of.personal.md|is_legislation_jurisdiction_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_legislation_jurisdiction_of.secret.md|is_legislation_jurisdiction_of.secret]] 

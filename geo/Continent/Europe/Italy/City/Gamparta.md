@@ -29,3 +29,12 @@ markerFile: [[Gamparta]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gamparta.md|Gamparta]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gamparta.internal.md|Gamparta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gamparta.protect.md|Gamparta.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gamparta.private.md|Gamparta.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gamparta.personal.md|Gamparta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gamparta.secret.md|Gamparta.secret]] 

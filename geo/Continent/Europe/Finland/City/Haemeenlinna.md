@@ -29,3 +29,12 @@ markerFile: [[Haemeenlinna]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Haemeenlinna.md|Haemeenlinna]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Haemeenlinna.internal.md|Haemeenlinna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Haemeenlinna.protect.md|Haemeenlinna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Haemeenlinna.private.md|Haemeenlinna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Haemeenlinna.personal.md|Haemeenlinna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Haemeenlinna.secret.md|Haemeenlinna.secret]] 

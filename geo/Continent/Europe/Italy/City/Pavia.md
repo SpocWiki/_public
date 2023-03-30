@@ -29,3 +29,12 @@ markerFile: [[Pavia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pavia.md|Pavia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pavia.internal.md|Pavia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pavia.protect.md|Pavia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pavia.private.md|Pavia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pavia.personal.md|Pavia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pavia.secret.md|Pavia.secret]] 

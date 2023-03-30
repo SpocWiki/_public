@@ -43,3 +43,12 @@ LaserDiscFormat.
 
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/laser_disc_format.md|laser_disc_format]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/laser_disc_format.internal.md|laser_disc_format.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/laser_disc_format.protect.md|laser_disc_format.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/laser_disc_format.private.md|laser_disc_format.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/laser_disc_format.personal.md|laser_disc_format.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/laser_disc_format.secret.md|laser_disc_format.secret]] 

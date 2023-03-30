@@ -29,3 +29,12 @@ markerFile: [[Deutsch-Wartenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.md|Deutsch-Wartenberg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.internal.md|Deutsch-Wartenberg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.protect.md|Deutsch-Wartenberg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.private.md|Deutsch-Wartenberg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.personal.md|Deutsch-Wartenberg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.secret.md|Deutsch-Wartenberg.secret]] 

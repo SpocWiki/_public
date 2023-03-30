@@ -29,3 +29,12 @@ markerFile: [[Oberhollabrunn]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Oberhollabrunn.md|Oberhollabrunn]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Oberhollabrunn.internal.md|Oberhollabrunn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Oberhollabrunn.protect.md|Oberhollabrunn.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Oberhollabrunn.private.md|Oberhollabrunn.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Oberhollabrunn.personal.md|Oberhollabrunn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Oberhollabrunn.secret.md|Oberhollabrunn.secret]] 

@@ -131,3 +131,12 @@ markerFolder: ./Mali/City
 [geo-lon::-8]
 [geo-lat::12.65]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Mali.md|Mali]] 
+- [[../../../../_internal/geo/Continent/Africa/Mali.internal.md|Mali.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Mali.protect.md|Mali.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Mali.private.md|Mali.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Mali.personal.md|Mali.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Mali.secret.md|Mali.secret]] 

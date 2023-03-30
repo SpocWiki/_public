@@ -29,3 +29,12 @@ markerFile: [[Chelmsford]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chelmsford.md|Chelmsford]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chelmsford.internal.md|Chelmsford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chelmsford.protect.md|Chelmsford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chelmsford.private.md|Chelmsford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chelmsford.personal.md|Chelmsford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chelmsford.secret.md|Chelmsford.secret]] 

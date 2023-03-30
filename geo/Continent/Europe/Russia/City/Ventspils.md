@@ -29,3 +29,12 @@ markerFile: [[Ventspils]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ventspils.md|Ventspils]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ventspils.internal.md|Ventspils.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ventspils.protect.md|Ventspils.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ventspils.private.md|Ventspils.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ventspils.personal.md|Ventspils.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ventspils.secret.md|Ventspils.secret]] 

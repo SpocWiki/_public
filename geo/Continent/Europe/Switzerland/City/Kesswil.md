@@ -29,3 +29,12 @@ markerFile: [[Kesswil]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Kesswil.md|Kesswil]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Kesswil.internal.md|Kesswil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Kesswil.protect.md|Kesswil.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Kesswil.private.md|Kesswil.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Kesswil.personal.md|Kesswil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Kesswil.secret.md|Kesswil.secret]] 

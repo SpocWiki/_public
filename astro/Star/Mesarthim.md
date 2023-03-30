@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28089]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Mesarthim.md|Mesarthim]] 
+- [[../../../_internal/astro/Star/Mesarthim.internal.md|Mesarthim.internal]] 
+- [[../../../_protect/astro/Star/Mesarthim.protect.md|Mesarthim.protect]] 
+- [[../../../_private/astro/Star/Mesarthim.private.md|Mesarthim.private]] 
+- [[../../../_personal/astro/Star/Mesarthim.personal.md|Mesarthim.personal]] 
+- [[../../../_secret/astro/Star/Mesarthim.secret.md|Mesarthim.secret]] 

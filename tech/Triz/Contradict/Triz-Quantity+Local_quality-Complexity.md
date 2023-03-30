@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Local_quality]]]
 - [con::[[Triz-Complexity]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.md|Triz-Quantity+Local_quality-Complexity]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.internal.md|Triz-Quantity+Local_quality-Complexity.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.protect.md|Triz-Quantity+Local_quality-Complexity.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.private.md|Triz-Quantity+Local_quality-Complexity.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.personal.md|Triz-Quantity+Local_quality-Complexity.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.secret.md|Triz-Quantity+Local_quality-Complexity.secret]] 

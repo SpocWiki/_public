@@ -29,3 +29,12 @@ markerFile: [[Villagarcia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Villagarcia.md|Villagarcia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Villagarcia.internal.md|Villagarcia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Villagarcia.protect.md|Villagarcia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Villagarcia.private.md|Villagarcia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Villagarcia.personal.md|Villagarcia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Villagarcia.secret.md|Villagarcia.secret]] 

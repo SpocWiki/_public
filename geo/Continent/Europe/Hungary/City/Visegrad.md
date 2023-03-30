@@ -29,3 +29,12 @@ markerFile: [[Visegrad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Visegrad.md|Visegrad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Visegrad.internal.md|Visegrad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Visegrad.protect.md|Visegrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Visegrad.private.md|Visegrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Visegrad.personal.md|Visegrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Visegrad.secret.md|Visegrad.secret]] 

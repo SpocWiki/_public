@@ -45,3 +45,12 @@ Represents a sale price (usually active for a limited period) of an offered prod
 
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.md|sale_price]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.internal.md|sale_price.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.protect.md|sale_price.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.private.md|sale_price.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.personal.md|sale_price.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.secret.md|sale_price.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Kuttenberg=Kutna_Hora]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kuttenberg=Kutna_Hora.md|Kuttenberg=Kutna_Hora]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kuttenberg=Kutna_Hora.internal.md|Kuttenberg=Kutna_Hora.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kuttenberg=Kutna_Hora.protect.md|Kuttenberg=Kutna_Hora.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kuttenberg=Kutna_Hora.private.md|Kuttenberg=Kutna_Hora.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kuttenberg=Kutna_Hora.personal.md|Kuttenberg=Kutna_Hora.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kuttenberg=Kutna_Hora.secret.md|Kuttenberg=Kutna_Hora.secret]] 

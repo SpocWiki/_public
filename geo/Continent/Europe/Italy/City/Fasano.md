@@ -29,3 +29,12 @@ markerFile: [[Fasano]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Fasano.md|Fasano]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Fasano.internal.md|Fasano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Fasano.protect.md|Fasano.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Fasano.private.md|Fasano.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Fasano.personal.md|Fasano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Fasano.secret.md|Fasano.secret]] 

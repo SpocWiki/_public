@@ -28,3 +28,12 @@ markerFile: [[Hohenpeissenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.md|Hohenpeissenberg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.internal.md|Hohenpeissenberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.protect.md|Hohenpeissenberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.private.md|Hohenpeissenberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.personal.md|Hohenpeissenberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hohenpeissenberg.secret.md|Hohenpeissenberg.secret]] 

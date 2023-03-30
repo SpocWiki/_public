@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27364]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Scorpii-5.md|Scorpii-5]] 
+- [[../../../_internal/astro/Star/Scorpii-5.internal.md|Scorpii-5.internal]] 
+- [[../../../_protect/astro/Star/Scorpii-5.protect.md|Scorpii-5.protect]] 
+- [[../../../_private/astro/Star/Scorpii-5.private.md|Scorpii-5.private]] 
+- [[../../../_personal/astro/Star/Scorpii-5.personal.md|Scorpii-5.personal]] 
+- [[../../../_secret/astro/Star/Scorpii-5.secret.md|Scorpii-5.secret]] 

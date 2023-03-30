@@ -29,3 +29,12 @@ markerFile: [[Woronez]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Woronez.md|Woronez]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Woronez.internal.md|Woronez.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Woronez.protect.md|Woronez.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Woronez.private.md|Woronez.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Woronez.personal.md|Woronez.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Woronez.secret.md|Woronez.secret]] 

@@ -126,3 +126,12 @@ markerFolder: ./Armenia/City
 [geo-lon::44.5167]
 [geo-lat::40.18]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Armenia.md|Armenia]] 
+- [[../../../../_internal/geo/Continent/Asia/Armenia.internal.md|Armenia.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Armenia.protect.md|Armenia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Armenia.private.md|Armenia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Armenia.personal.md|Armenia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Armenia.secret.md|Armenia.secret]] 

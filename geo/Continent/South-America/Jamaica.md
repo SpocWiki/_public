@@ -128,3 +128,12 @@ markerFolder: ./Jamaica/City
 [geo-lon::-76.8]
 [geo-lat::17.9833]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Jamaica.md|Jamaica]] 
+- [[../../../../_internal/geo/Continent/South-America/Jamaica.internal.md|Jamaica.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Jamaica.protect.md|Jamaica.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Jamaica.private.md|Jamaica.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Jamaica.personal.md|Jamaica.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Jamaica.secret.md|Jamaica.secret]] 

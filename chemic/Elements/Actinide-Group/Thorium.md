@@ -29,3 +29,12 @@ SpocWebEntityId: 21985
 []
 (Charge-e::90)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Actinide-Group/Thorium.md|Thorium]] 
+- [[../../../../_internal/chemic/Elements/Actinide-Group/Thorium.internal.md|Thorium.internal]] 
+- [[../../../../_protect/chemic/Elements/Actinide-Group/Thorium.protect.md|Thorium.protect]] 
+- [[../../../../_private/chemic/Elements/Actinide-Group/Thorium.private.md|Thorium.private]] 
+- [[../../../../_personal/chemic/Elements/Actinide-Group/Thorium.personal.md|Thorium.personal]] 
+- [[../../../../_secret/chemic/Elements/Actinide-Group/Thorium.secret.md|Thorium.secret]] 

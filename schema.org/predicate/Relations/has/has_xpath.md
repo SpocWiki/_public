@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_xpath )
 ( #has_/range :: XPathType )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_xpath.md|has_xpath]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_xpath.internal.md|has_xpath.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_xpath.protect.md|has_xpath.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_xpath.private.md|has_xpath.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_xpath.personal.md|has_xpath.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_xpath.secret.md|has_xpath.secret]] 

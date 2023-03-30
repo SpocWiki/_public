@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_cutoff_time )
 ( #has_/range :: Time )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_cutoff_time.md|has_cutoff_time]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cutoff_time.internal.md|has_cutoff_time.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_cutoff_time.protect.md|has_cutoff_time.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_cutoff_time.private.md|has_cutoff_time.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_cutoff_time.personal.md|has_cutoff_time.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_cutoff_time.secret.md|has_cutoff_time.secret]] 

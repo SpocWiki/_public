@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Ursae_Majoris-124.md|Ursae_Majoris-124]] 
+- [[../../../_internal/astro/Star/Ursae_Majoris-124.internal.md|Ursae_Majoris-124.internal]] 
+- [[../../../_protect/astro/Star/Ursae_Majoris-124.protect.md|Ursae_Majoris-124.protect]] 
+- [[../../../_private/astro/Star/Ursae_Majoris-124.private.md|Ursae_Majoris-124.private]] 
+- [[../../../_personal/astro/Star/Ursae_Majoris-124.personal.md|Ursae_Majoris-124.personal]] 
+- [[../../../_secret/astro/Star/Ursae_Majoris-124.secret.md|Ursae_Majoris-124.secret]] 

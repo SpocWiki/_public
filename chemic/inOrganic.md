@@ -3,3 +3,13 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inorganic%20chemistry)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_public/chemic/inOrganic.md|inOrganic]] 
+- [[../../_internal/chemic/inOrganic.internal.md|inOrganic.internal]] 
+- [[../../_protect/chemic/inOrganic.protect.md|inOrganic.protect]] 
+- [[../../_private/chemic/inOrganic.private.md|inOrganic.private]] 
+- [[../../_personal/chemic/inOrganic.personal.md|inOrganic.personal]] 
+- [[../../_secret/chemic/inOrganic.secret.md|inOrganic.secret]]
+

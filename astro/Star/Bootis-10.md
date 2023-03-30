@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28091]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Bootis-10.md|Bootis-10]] 
+- [[../../../_internal/astro/Star/Bootis-10.internal.md|Bootis-10.internal]] 
+- [[../../../_protect/astro/Star/Bootis-10.protect.md|Bootis-10.protect]] 
+- [[../../../_private/astro/Star/Bootis-10.private.md|Bootis-10.private]] 
+- [[../../../_personal/astro/Star/Bootis-10.personal.md|Bootis-10.personal]] 
+- [[../../../_secret/astro/Star/Bootis-10.secret.md|Bootis-10.secret]]
+

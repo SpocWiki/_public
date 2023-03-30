@@ -29,3 +29,12 @@ markerFile: [[Zawoja]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zawoja.md|Zawoja]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zawoja.internal.md|Zawoja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zawoja.protect.md|Zawoja.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zawoja.private.md|Zawoja.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zawoja.personal.md|Zawoja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zawoja.secret.md|Zawoja.secret]] 

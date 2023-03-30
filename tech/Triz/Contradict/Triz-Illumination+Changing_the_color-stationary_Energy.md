@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Changing_the_color]]]
 - [con::[[Triz-stationary_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.md|Triz-Illumination+Changing_the_color-stationary_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.internal.md|Triz-Illumination+Changing_the_color-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.protect.md|Triz-Illumination+Changing_the_color-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.private.md|Triz-Illumination+Changing_the_color-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.personal.md|Triz-Illumination+Changing_the_color-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.secret.md|Triz-Illumination+Changing_the_color-stationary_Energy.secret]] 

@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_down_payment )
 ( #has_/range :: MonetaryAmount, Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_down_payment.md|has_value_for_down_payment]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_down_payment.internal.md|has_value_for_down_payment.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_down_payment.protect.md|has_value_for_down_payment.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_down_payment.private.md|has_value_for_down_payment.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_down_payment.personal.md|has_value_for_down_payment.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_down_payment.secret.md|has_value_for_down_payment.secret]] 

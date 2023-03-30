@@ -29,3 +29,12 @@ markerFile: [[Faido]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Faido.md|Faido]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Faido.internal.md|Faido.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Faido.protect.md|Faido.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Faido.private.md|Faido.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Faido.personal.md|Faido.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Faido.secret.md|Faido.secret]] 

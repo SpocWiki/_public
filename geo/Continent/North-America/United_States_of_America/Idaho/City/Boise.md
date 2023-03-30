@@ -28,3 +28,12 @@ markerFile: [[Boise]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.md|Boise]] 
+- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.internal.md|Boise.internal]] 
+- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.protect.md|Boise.protect]] 
+- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.private.md|Boise.private]] 
+- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.personal.md|Boise.personal]] 
+- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.secret.md|Boise.secret]] 

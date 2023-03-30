@@ -29,3 +29,12 @@ markerFile: [[Hesseloe]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Hesseloe.md|Hesseloe]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Hesseloe.internal.md|Hesseloe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Hesseloe.protect.md|Hesseloe.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Hesseloe.private.md|Hesseloe.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Hesseloe.personal.md|Hesseloe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Hesseloe.secret.md|Hesseloe.secret]] 

@@ -38,3 +38,12 @@ markerFolder: ./Congo~Rep/City
 [geo-lon::15.2833]
 [geo-lat::-4.26667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville.md|Congo~Brazzaville]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville.internal.md|Congo~Brazzaville.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville.protect.md|Congo~Brazzaville.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville.private.md|Congo~Brazzaville.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville.personal.md|Congo~Brazzaville.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville.secret.md|Congo~Brazzaville.secret]] 

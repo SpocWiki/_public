@@ -29,3 +29,12 @@ markerFile: [[Nowosibirsk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nowosibirsk.md|Nowosibirsk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowosibirsk.internal.md|Nowosibirsk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowosibirsk.protect.md|Nowosibirsk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nowosibirsk.private.md|Nowosibirsk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowosibirsk.personal.md|Nowosibirsk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowosibirsk.secret.md|Nowosibirsk.secret]] 

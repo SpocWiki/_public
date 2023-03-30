@@ -152,3 +152,12 @@ markerFolder: ./Russia/City
 [geo-lon::47.4574]
 [geo-lat::52.6418]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Russia.md|Russia]] 
+- [[../../../../_internal/geo/Continent/Europe/Russia.internal.md|Russia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Russia.protect.md|Russia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Russia.private.md|Russia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Russia.personal.md|Russia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Russia.secret.md|Russia.secret]] 

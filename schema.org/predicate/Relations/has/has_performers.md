@@ -42,3 +42,12 @@ Relation describes that:
 ( #has_/name :: has_performers )
 ( #has_/range :: Organization, Person )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_performers.md|has_performers]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_performers.internal.md|has_performers.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_performers.protect.md|has_performers.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_performers.private.md|has_performers.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_performers.personal.md|has_performers.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_performers.secret.md|has_performers.secret]] 

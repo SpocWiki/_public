@@ -36,3 +36,12 @@ markerFolder: ./Korea~North/City
 [geo-lon::125.75]
 [geo-lat::39.0333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Korea~North.md|Korea~North]] 
+- [[../../../../_internal/geo/Continent/Asia/Korea~North.internal.md|Korea~North.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Korea~North.protect.md|Korea~North.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Korea~North.private.md|Korea~North.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Korea~North.personal.md|Korea~North.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Korea~North.secret.md|Korea~North.secret]] 

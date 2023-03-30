@@ -24,3 +24,12 @@ markerFile: [[S-Rödermark-Ober_Roden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rödermark-Ober_Roden.md|S-Rödermark-Ober_Roden]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rödermark-Ober_Roden.internal.md|S-Rödermark-Ober_Roden.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rödermark-Ober_Roden.protect.md|S-Rödermark-Ober_Roden.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rödermark-Ober_Roden.private.md|S-Rödermark-Ober_Roden.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rödermark-Ober_Roden.personal.md|S-Rödermark-Ober_Roden.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rödermark-Ober_Roden.secret.md|S-Rödermark-Ober_Roden.secret]] 

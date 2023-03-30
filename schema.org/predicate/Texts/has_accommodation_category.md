@@ -47,3 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: category ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_accommodation_category.md|has_accommodation_category]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_accommodation_category.internal.md|has_accommodation_category.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_accommodation_category.protect.md|has_accommodation_category.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_accommodation_category.private.md|has_accommodation_category.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_accommodation_category.personal.md|has_accommodation_category.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_accommodation_category.secret.md|has_accommodation_category.secret]] 

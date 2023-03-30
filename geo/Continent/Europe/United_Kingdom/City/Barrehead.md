@@ -29,3 +29,12 @@ markerFile: [[Barrehead]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barrehead.md|Barrehead]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barrehead.internal.md|Barrehead.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barrehead.protect.md|Barrehead.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barrehead.private.md|Barrehead.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barrehead.personal.md|Barrehead.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barrehead.secret.md|Barrehead.secret]] 

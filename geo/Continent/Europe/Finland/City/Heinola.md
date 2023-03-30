@@ -29,3 +29,12 @@ markerFile: [[Heinola]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Heinola.md|Heinola]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Heinola.internal.md|Heinola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Heinola.protect.md|Heinola.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Heinola.private.md|Heinola.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Heinola.personal.md|Heinola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Heinola.secret.md|Heinola.secret]] 

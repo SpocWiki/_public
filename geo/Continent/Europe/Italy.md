@@ -137,3 +137,12 @@ markerFolder: ./Italy/City
 [geo-lon::11.8169]
 [geo-lat::43.4809]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Italy.md|Italy]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy.internal.md|Italy.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy.protect.md|Italy.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy.private.md|Italy.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy.personal.md|Italy.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy.secret.md|Italy.secret]] 

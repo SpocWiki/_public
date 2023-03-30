@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Feedback]]]
 - [con::[[Triz-Speed]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.md|Triz-generated_harm+Feedback-Speed]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.internal.md|Triz-generated_harm+Feedback-Speed.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.protect.md|Triz-generated_harm+Feedback-Speed.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.private.md|Triz-generated_harm+Feedback-Speed.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.personal.md|Triz-generated_harm+Feedback-Speed.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.secret.md|Triz-generated_harm+Feedback-Speed.secret]] 

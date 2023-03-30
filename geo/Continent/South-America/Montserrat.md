@@ -128,3 +128,12 @@ markerFolder: ./Montserrat/City
 [geo-lon::-62.2]
 [geo-lat::16.75]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Montserrat.md|Montserrat]] 
+- [[../../../../_internal/geo/Continent/South-America/Montserrat.internal.md|Montserrat.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Montserrat.protect.md|Montserrat.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Montserrat.private.md|Montserrat.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Montserrat.personal.md|Montserrat.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Montserrat.secret.md|Montserrat.secret]] 

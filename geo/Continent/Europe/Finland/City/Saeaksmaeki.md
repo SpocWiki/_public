@@ -29,3 +29,12 @@ markerFile: [[Saeaksmaeki]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Saeaksmaeki.md|Saeaksmaeki]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Saeaksmaeki.internal.md|Saeaksmaeki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Saeaksmaeki.protect.md|Saeaksmaeki.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Saeaksmaeki.private.md|Saeaksmaeki.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Saeaksmaeki.personal.md|Saeaksmaeki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Saeaksmaeki.secret.md|Saeaksmaeki.secret]] 

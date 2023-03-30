@@ -29,3 +29,12 @@ markerFile: [[Florenz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Florenz.md|Florenz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Florenz.internal.md|Florenz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Florenz.protect.md|Florenz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Florenz.private.md|Florenz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Florenz.personal.md|Florenz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Florenz.secret.md|Florenz.secret]] 

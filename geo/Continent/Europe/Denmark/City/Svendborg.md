@@ -29,3 +29,12 @@ markerFile: [[Svendborg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Svendborg.md|Svendborg]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Svendborg.internal.md|Svendborg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Svendborg.protect.md|Svendborg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Svendborg.private.md|Svendborg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Svendborg.personal.md|Svendborg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Svendborg.secret.md|Svendborg.secret]] 

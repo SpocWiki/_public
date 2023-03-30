@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Illumination]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.md|Triz-Measurement_Accuracy+Segmentation-Illumination]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.internal.md|Triz-Measurement_Accuracy+Segmentation-Illumination.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.protect.md|Triz-Measurement_Accuracy+Segmentation-Illumination.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.private.md|Triz-Measurement_Accuracy+Segmentation-Illumination.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.personal.md|Triz-Measurement_Accuracy+Segmentation-Illumination.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.secret.md|Triz-Measurement_Accuracy+Segmentation-Illumination.secret]] 

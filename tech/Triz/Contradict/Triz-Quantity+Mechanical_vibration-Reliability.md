@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Mechanical_vibration]]]
 - [con::[[Triz-Reliability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.md|Triz-Quantity+Mechanical_vibration-Reliability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.internal.md|Triz-Quantity+Mechanical_vibration-Reliability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.protect.md|Triz-Quantity+Mechanical_vibration-Reliability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.private.md|Triz-Quantity+Mechanical_vibration-Reliability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.personal.md|Triz-Quantity+Mechanical_vibration-Reliability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.secret.md|Triz-Quantity+Mechanical_vibration-Reliability.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Jaunlatgale]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jaunlatgale.md|Jaunlatgale]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jaunlatgale.internal.md|Jaunlatgale.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jaunlatgale.protect.md|Jaunlatgale.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jaunlatgale.private.md|Jaunlatgale.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jaunlatgale.personal.md|Jaunlatgale.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jaunlatgale.secret.md|Jaunlatgale.secret]] 

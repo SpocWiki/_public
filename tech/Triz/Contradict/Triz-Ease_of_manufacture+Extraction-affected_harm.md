@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-affected_harm]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-affected_harm.md|Triz-Ease_of_manufacture+Extraction-affected_harm]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-affected_harm.internal.md|Triz-Ease_of_manufacture+Extraction-affected_harm.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-affected_harm.protect.md|Triz-Ease_of_manufacture+Extraction-affected_harm.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-affected_harm.private.md|Triz-Ease_of_manufacture+Extraction-affected_harm.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-affected_harm.personal.md|Triz-Ease_of_manufacture+Extraction-affected_harm.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-affected_harm.secret.md|Triz-Ease_of_manufacture+Extraction-affected_harm.secret]] 

@@ -41,3 +41,12 @@ A tourist attraction.  In principle any Thing can be a <a class="localLink" href
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, availableLanguage, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, touristType, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/place/tourist_attraction.md|tourist_attraction]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/place/tourist_attraction.internal.md|tourist_attraction.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/place/tourist_attraction.protect.md|tourist_attraction.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/place/tourist_attraction.private.md|tourist_attraction.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/place/tourist_attraction.personal.md|tourist_attraction.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/place/tourist_attraction.secret.md|tourist_attraction.secret]] 

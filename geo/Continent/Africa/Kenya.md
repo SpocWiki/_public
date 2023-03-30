@@ -129,3 +129,12 @@ markerFolder: ./Kenya/City
 [geo-lon::36.83]
 [geo-lat::-1.28]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Kenya.md|Kenya]] 
+- [[../../../../_internal/geo/Continent/Africa/Kenya.internal.md|Kenya.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Kenya.protect.md|Kenya.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Kenya.private.md|Kenya.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Kenya.personal.md|Kenya.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Kenya.secret.md|Kenya.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Kazan]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kazan.md|Kazan]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kazan.internal.md|Kazan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kazan.protect.md|Kazan.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kazan.private.md|Kazan.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kazan.personal.md|Kazan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kazan.secret.md|Kazan.secret]] 

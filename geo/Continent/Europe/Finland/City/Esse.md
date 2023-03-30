@@ -29,3 +29,12 @@ markerFile: [[Esse]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Esse.md|Esse]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Esse.internal.md|Esse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Esse.protect.md|Esse.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Esse.private.md|Esse.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Esse.personal.md|Esse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Esse.secret.md|Esse.secret]] 

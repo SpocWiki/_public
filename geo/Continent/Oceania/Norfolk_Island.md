@@ -128,3 +128,12 @@ markerFolder: ./Norfolk_Island/City
 [geo-lon::167.967]
 [geo-lat::-29.0667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Norfolk_Island.md|Norfolk_Island]] 
+- [[../../../../_internal/geo/Continent/Oceania/Norfolk_Island.internal.md|Norfolk_Island.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Norfolk_Island.protect.md|Norfolk_Island.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Norfolk_Island.private.md|Norfolk_Island.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Norfolk_Island.personal.md|Norfolk_Island.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Norfolk_Island.secret.md|Norfolk_Island.secret]] 

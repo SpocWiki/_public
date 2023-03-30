@@ -29,3 +29,12 @@ markerFile: [[Gap]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Gap.md|Gap]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Gap.internal.md|Gap.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Gap.protect.md|Gap.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Gap.private.md|Gap.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Gap.personal.md|Gap.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Gap.secret.md|Gap.secret]] 

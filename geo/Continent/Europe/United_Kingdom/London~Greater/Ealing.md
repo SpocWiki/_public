@@ -30,3 +30,12 @@ geojsonFolder: ./Ealing
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.md|Ealing]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.internal.md|Ealing.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.protect.md|Ealing.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.private.md|Ealing.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.personal.md|Ealing.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.secret.md|Ealing.secret]] 

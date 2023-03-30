@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_availability )
 ( #has_/range :: ItemAvailability )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_availability.md|has_availability]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_availability.internal.md|has_availability.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_availability.protect.md|has_availability.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_availability.private.md|has_availability.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_availability.personal.md|has_availability.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_availability.secret.md|has_availability.secret]] 

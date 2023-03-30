@@ -29,3 +29,12 @@ markerFile: [[Kastelruth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Kastelruth.md|Kastelruth]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Kastelruth.internal.md|Kastelruth.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Kastelruth.protect.md|Kastelruth.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Kastelruth.private.md|Kastelruth.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Kastelruth.personal.md|Kastelruth.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Kastelruth.secret.md|Kastelruth.secret]] 

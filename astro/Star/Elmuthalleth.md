@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28162]
 [NextStarId::27394]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Elmuthalleth.md|Elmuthalleth]] 
+- [[../../../_internal/astro/Star/Elmuthalleth.internal.md|Elmuthalleth.internal]] 
+- [[../../../_protect/astro/Star/Elmuthalleth.protect.md|Elmuthalleth.protect]] 
+- [[../../../_private/astro/Star/Elmuthalleth.private.md|Elmuthalleth.private]] 
+- [[../../../_personal/astro/Star/Elmuthalleth.personal.md|Elmuthalleth.personal]] 
+- [[../../../_secret/astro/Star/Elmuthalleth.secret.md|Elmuthalleth.secret]]
+

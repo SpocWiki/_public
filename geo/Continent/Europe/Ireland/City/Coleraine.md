@@ -29,3 +29,12 @@ markerFile: [[Coleraine]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Coleraine.md|Coleraine]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Coleraine.internal.md|Coleraine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Coleraine.protect.md|Coleraine.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Coleraine.private.md|Coleraine.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Coleraine.personal.md|Coleraine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Coleraine.secret.md|Coleraine.secret]] 

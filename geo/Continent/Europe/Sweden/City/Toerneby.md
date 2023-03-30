@@ -29,3 +29,12 @@ markerFile: [[Toerneby]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Toerneby.md|Toerneby]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Toerneby.internal.md|Toerneby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Toerneby.protect.md|Toerneby.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Toerneby.private.md|Toerneby.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Toerneby.personal.md|Toerneby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Toerneby.secret.md|Toerneby.secret]] 

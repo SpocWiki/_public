@@ -29,3 +29,12 @@ markerFile: [[Rorschach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Rorschach.md|Rorschach]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Rorschach.internal.md|Rorschach.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Rorschach.protect.md|Rorschach.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Rorschach.private.md|Rorschach.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Rorschach.personal.md|Rorschach.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Rorschach.secret.md|Rorschach.secret]] 

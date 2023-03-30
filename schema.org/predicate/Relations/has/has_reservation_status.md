@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_reservation_status )
 ( #has_/range :: ReservationStatusType )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_reservation_status.md|has_reservation_status]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_reservation_status.internal.md|has_reservation_status.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_reservation_status.protect.md|has_reservation_status.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_reservation_status.private.md|has_reservation_status.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_reservation_status.personal.md|has_reservation_status.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_reservation_status.secret.md|has_reservation_status.secret]] 

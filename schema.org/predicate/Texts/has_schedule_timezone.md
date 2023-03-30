@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_schedule_timezone )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_schedule_timezone.md|has_schedule_timezone]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_schedule_timezone.internal.md|has_schedule_timezone.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_schedule_timezone.protect.md|has_schedule_timezone.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_schedule_timezone.private.md|has_schedule_timezone.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_schedule_timezone.personal.md|has_schedule_timezone.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_schedule_timezone.secret.md|has_schedule_timezone.secret]] 

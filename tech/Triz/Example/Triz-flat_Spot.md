@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-asymmetrical]]]
 
 Put a flat Spot on a cylindrical Shaft to attach a Knob securely.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-flat_Spot.md|Triz-flat_Spot]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-flat_Spot.internal.md|Triz-flat_Spot.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-flat_Spot.protect.md|Triz-flat_Spot.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-flat_Spot.private.md|Triz-flat_Spot.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-flat_Spot.personal.md|Triz-flat_Spot.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-flat_Spot.secret.md|Triz-flat_Spot.secret]] 

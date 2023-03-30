@@ -29,3 +29,12 @@ markerFile: [[Mazzara]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Mazzara.md|Mazzara]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Mazzara.internal.md|Mazzara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Mazzara.protect.md|Mazzara.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Mazzara.private.md|Mazzara.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Mazzara.personal.md|Mazzara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Mazzara.secret.md|Mazzara.secret]] 

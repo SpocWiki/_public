@@ -29,3 +29,12 @@ markerFile: [[Suojaervi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Suojaervi.md|Suojaervi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Suojaervi.internal.md|Suojaervi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Suojaervi.protect.md|Suojaervi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Suojaervi.private.md|Suojaervi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Suojaervi.personal.md|Suojaervi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Suojaervi.secret.md|Suojaervi.secret]] 

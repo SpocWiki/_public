@@ -29,3 +29,12 @@ markerFile: [[Bern]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bern.md|Bern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bern.internal.md|Bern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bern.protect.md|Bern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bern.private.md|Bern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bern.personal.md|Bern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bern.secret.md|Bern.secret]] 

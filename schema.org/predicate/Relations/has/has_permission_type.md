@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_permission_type )
 ( #has_/range :: DigitalDocumentPermissionType )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_permission_type.md|has_permission_type]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_permission_type.internal.md|has_permission_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_permission_type.protect.md|has_permission_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_permission_type.private.md|has_permission_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_permission_type.personal.md|has_permission_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_permission_type.secret.md|has_permission_type.secret]] 

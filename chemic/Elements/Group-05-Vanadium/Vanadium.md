@@ -34,3 +34,11 @@ SpocWebEntityId: 21923
 > Large amounts of vanadium ions are found in a few organisms, possibly as a toxin. The oxide and some other salts of vanadium have moderate toxicity. Particularly in the ocean, vanadium is used by some life forms as an active center of enzymes, such as the vanadium bromoperoxidase of some ocean algae.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vanadium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-05-Vanadium/Vanadium.md|Vanadium]] 
+- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Vanadium.internal.md|Vanadium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Vanadium.protect.md|Vanadium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Vanadium.private.md|Vanadium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Vanadium.personal.md|Vanadium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Vanadium.secret.md|Vanadium.secret]] 

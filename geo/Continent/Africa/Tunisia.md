@@ -132,3 +132,12 @@ markerFolder: ./Tunisia/City
 [geo-lon::10.18]
 [geo-lat::36.8]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Tunisia.md|Tunisia]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia.internal.md|Tunisia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia.protect.md|Tunisia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia.private.md|Tunisia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia.personal.md|Tunisia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia.secret.md|Tunisia.secret]] 

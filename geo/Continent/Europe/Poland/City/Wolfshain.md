@@ -29,3 +29,12 @@ markerFile: [[Wolfshain]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wolfshain.md|Wolfshain]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wolfshain.internal.md|Wolfshain.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wolfshain.protect.md|Wolfshain.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wolfshain.private.md|Wolfshain.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wolfshain.personal.md|Wolfshain.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wolfshain.secret.md|Wolfshain.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[La_Specia]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/La_Specia.md|La_Specia]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/La_Specia.internal.md|La_Specia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/La_Specia.protect.md|La_Specia.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/La_Specia.private.md|La_Specia.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/La_Specia.personal.md|La_Specia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/La_Specia.secret.md|La_Specia.secret]] 

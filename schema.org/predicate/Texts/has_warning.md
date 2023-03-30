@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_warning )
 ( #has_/range :: Text, URL )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_warning.md|has_warning]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_warning.internal.md|has_warning.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_warning.protect.md|has_warning.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_warning.private.md|has_warning.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_warning.personal.md|has_warning.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_warning.secret.md|has_warning.secret]] 

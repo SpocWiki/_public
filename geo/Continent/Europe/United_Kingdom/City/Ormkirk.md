@@ -29,3 +29,12 @@ markerFile: [[Ormkirk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ormkirk.md|Ormkirk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ormkirk.internal.md|Ormkirk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ormkirk.protect.md|Ormkirk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ormkirk.private.md|Ormkirk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ormkirk.personal.md|Ormkirk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ormkirk.secret.md|Ormkirk.secret]] 

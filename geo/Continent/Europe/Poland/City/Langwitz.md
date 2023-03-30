@@ -29,3 +29,12 @@ markerFile: [[Langwitz]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Langwitz.md|Langwitz]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Langwitz.internal.md|Langwitz.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Langwitz.protect.md|Langwitz.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Langwitz.private.md|Langwitz.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Langwitz.personal.md|Langwitz.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Langwitz.secret.md|Langwitz.secret]] 

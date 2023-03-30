@@ -127,3 +127,12 @@ markerFolder: ./San_Marino/City
 [geo-lon::12.45]
 [geo-lat::43.93]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/San_Marino.md|San_Marino]] 
+- [[../../../../_internal/geo/Continent/Europe/San_Marino.internal.md|San_Marino.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/San_Marino.protect.md|San_Marino.protect]] 
+- [[../../../../_private/geo/Continent/Europe/San_Marino.private.md|San_Marino.private]] 
+- [[../../../../_personal/geo/Continent/Europe/San_Marino.personal.md|San_Marino.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/San_Marino.secret.md|San_Marino.secret]] 

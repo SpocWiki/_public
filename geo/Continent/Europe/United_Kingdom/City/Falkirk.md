@@ -29,3 +29,12 @@ markerFile: [[Falkirk]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Falkirk.md|Falkirk]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Falkirk.internal.md|Falkirk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Falkirk.protect.md|Falkirk.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Falkirk.private.md|Falkirk.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Falkirk.personal.md|Falkirk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Falkirk.secret.md|Falkirk.secret]] 

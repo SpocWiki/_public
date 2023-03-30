@@ -29,3 +29,12 @@ markerFile: [[Praestkulla]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Praestkulla.md|Praestkulla]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Praestkulla.internal.md|Praestkulla.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Praestkulla.protect.md|Praestkulla.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Praestkulla.private.md|Praestkulla.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Praestkulla.personal.md|Praestkulla.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Praestkulla.secret.md|Praestkulla.secret]] 

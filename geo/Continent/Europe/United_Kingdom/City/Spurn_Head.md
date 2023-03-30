@@ -29,3 +29,12 @@ markerFile: [[Spurn_Head]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.md|Spurn_Head]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.internal.md|Spurn_Head.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.protect.md|Spurn_Head.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.private.md|Spurn_Head.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.personal.md|Spurn_Head.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.secret.md|Spurn_Head.secret]] 

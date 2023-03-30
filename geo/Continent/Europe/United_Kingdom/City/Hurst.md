@@ -29,3 +29,12 @@ markerFile: [[Hurst]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hurst.md|Hurst]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hurst.internal.md|Hurst.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hurst.protect.md|Hurst.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hurst.private.md|Hurst.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hurst.personal.md|Hurst.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hurst.secret.md|Hurst.secret]] 

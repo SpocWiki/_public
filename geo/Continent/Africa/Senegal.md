@@ -134,3 +134,12 @@ markerFolder: ./Senegal/City
 [geo-lon::-17.125]
 [geo-lat::14.435]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Senegal.md|Senegal]] 
+- [[../../../../_internal/geo/Continent/Africa/Senegal.internal.md|Senegal.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Senegal.protect.md|Senegal.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Senegal.private.md|Senegal.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Senegal.personal.md|Senegal.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Senegal.secret.md|Senegal.secret]] 

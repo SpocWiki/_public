@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_nerve_motor )
 ( #has_/range :: Muscle )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_nerve_motor.md|has_nerve_motor]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nerve_motor.internal.md|has_nerve_motor.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nerve_motor.protect.md|has_nerve_motor.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_nerve_motor.private.md|has_nerve_motor.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_nerve_motor.personal.md|has_nerve_motor.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_nerve_motor.secret.md|has_nerve_motor.secret]] 

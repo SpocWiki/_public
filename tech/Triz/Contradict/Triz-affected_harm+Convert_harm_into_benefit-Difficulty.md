@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
 - [con::[[Triz-Difficulty]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.md|Triz-affected_harm+Convert_harm_into_benefit-Difficulty]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.internal.md|Triz-affected_harm+Convert_harm_into_benefit-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.protect.md|Triz-affected_harm+Convert_harm_into_benefit-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.private.md|Triz-affected_harm+Convert_harm_into_benefit-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.personal.md|Triz-affected_harm+Convert_harm_into_benefit-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.secret.md|Triz-affected_harm+Convert_harm_into_benefit-Difficulty.secret]] 

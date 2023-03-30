@@ -44,3 +44,12 @@ See also <a class="localLink" href="/StatisticalPopulation">StatisticalPopulatio
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Type/is_a_/intangible/observation.md|observation]] 
+- [[../../../../../_internal/schema.org/Type/is_a_/intangible/observation.internal.md|observation.internal]] 
+- [[../../../../../_protect/schema.org/Type/is_a_/intangible/observation.protect.md|observation.protect]] 
+- [[../../../../../_private/schema.org/Type/is_a_/intangible/observation.private.md|observation.private]] 
+- [[../../../../../_personal/schema.org/Type/is_a_/intangible/observation.personal.md|observation.personal]] 
+- [[../../../../../_secret/schema.org/Type/is_a_/intangible/observation.secret.md|observation.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Ossig]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Ossig.md|Ossig]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Ossig.internal.md|Ossig.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Ossig.protect.md|Ossig.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Ossig.private.md|Ossig.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Ossig.personal.md|Ossig.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Ossig.secret.md|Ossig.secret]] 

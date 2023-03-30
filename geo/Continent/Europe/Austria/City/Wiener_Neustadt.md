@@ -29,3 +29,12 @@ markerFile: [[Wiener_Neustadt]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wiener_Neustadt.md|Wiener_Neustadt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wiener_Neustadt.internal.md|Wiener_Neustadt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wiener_Neustadt.protect.md|Wiener_Neustadt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wiener_Neustadt.private.md|Wiener_Neustadt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wiener_Neustadt.personal.md|Wiener_Neustadt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wiener_Neustadt.secret.md|Wiener_Neustadt.secret]] 

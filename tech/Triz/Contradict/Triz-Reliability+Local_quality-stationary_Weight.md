@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Local_quality]]]
 - [con::[[Triz-stationary_Weight]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.md|Triz-Reliability+Local_quality-stationary_Weight]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.internal.md|Triz-Reliability+Local_quality-stationary_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.protect.md|Triz-Reliability+Local_quality-stationary_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.private.md|Triz-Reliability+Local_quality-stationary_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.personal.md|Triz-Reliability+Local_quality-stationary_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.secret.md|Triz-Reliability+Local_quality-stationary_Weight.secret]] 

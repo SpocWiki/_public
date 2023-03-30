@@ -33,3 +33,11 @@ SpocWebEntityId: 21906
 > Lithium is present in biological systems in trace amounts; its functions are uncertain. Lithium salts have proven to be useful as a mood stabilizer and antidepressant   in the treatment of mental illness such as bipolar disorder.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lithium)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-01-Alkali/Lithium.md|Lithium]] 
+- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Lithium.internal.md|Lithium.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Lithium.protect.md|Lithium.protect]] 
+- [[../../../../_private/chemic/Elements/Group-01-Alkali/Lithium.private.md|Lithium.private]] 
+- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Lithium.personal.md|Lithium.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Lithium.secret.md|Lithium.secret]] 

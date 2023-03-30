@@ -43,3 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_order_item_number )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_order_item_number.md|has_order_item_number]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_order_item_number.internal.md|has_order_item_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_order_item_number.protect.md|has_order_item_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_order_item_number.private.md|has_order_item_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_order_item_number.personal.md|has_order_item_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_order_item_number.secret.md|has_order_item_number.secret]] 

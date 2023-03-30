@@ -15,3 +15,11 @@ tags:
 [TrizParameterId::37]
 
 Difficulty of detecting and measuring
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Difficulty.md|Triz-Difficulty]] 
+- [[../../../../_internal/tech/Triz/Parameter/Triz-Difficulty.internal.md|Triz-Difficulty.internal]] 
+- [[../../../../_protect/tech/Triz/Parameter/Triz-Difficulty.protect.md|Triz-Difficulty.protect]] 
+- [[../../../../_private/tech/Triz/Parameter/Triz-Difficulty.private.md|Triz-Difficulty.private]] 
+- [[../../../../_personal/tech/Triz/Parameter/Triz-Difficulty.personal.md|Triz-Difficulty.personal]] 
+- [[../../../../_secret/tech/Triz/Parameter/Triz-Difficulty.secret.md|Triz-Difficulty.secret]] 

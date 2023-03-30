@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_lease.md|has_duration_of_lease]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_lease.internal.md|has_duration_of_lease.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_lease.protect.md|has_duration_of_lease.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_lease.private.md|has_duration_of_lease.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_lease.personal.md|has_duration_of_lease.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_lease.secret.md|has_duration_of_lease.secret]] 

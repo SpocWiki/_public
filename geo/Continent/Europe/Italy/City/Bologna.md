@@ -29,3 +29,12 @@ markerFile: [[Bologna]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Bologna.md|Bologna]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Bologna.internal.md|Bologna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Bologna.protect.md|Bologna.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Bologna.private.md|Bologna.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Bologna.personal.md|Bologna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Bologna.secret.md|Bologna.secret]] 

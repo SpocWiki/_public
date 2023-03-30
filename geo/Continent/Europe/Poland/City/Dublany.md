@@ -29,3 +29,12 @@ markerFile: [[Dublany]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Dublany.md|Dublany]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dublany.internal.md|Dublany.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dublany.protect.md|Dublany.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dublany.private.md|Dublany.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dublany.personal.md|Dublany.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dublany.secret.md|Dublany.secret]] 

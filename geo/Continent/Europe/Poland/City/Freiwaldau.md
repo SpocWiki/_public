@@ -29,3 +29,12 @@ markerFile: [[Freiwaldau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Freiwaldau.md|Freiwaldau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Freiwaldau.internal.md|Freiwaldau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Freiwaldau.protect.md|Freiwaldau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Freiwaldau.private.md|Freiwaldau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Freiwaldau.personal.md|Freiwaldau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Freiwaldau.secret.md|Freiwaldau.secret]] 

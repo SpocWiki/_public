@@ -47,3 +47,12 @@ Formal Predicate:
 Is [sub_property_of::]
 
 Has [sub_properties::]
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_date_to_expire.md|has_date_to_expire]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_date_to_expire.internal.md|has_date_to_expire.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_date_to_expire.protect.md|has_date_to_expire.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_date_to_expire.private.md|has_date_to_expire.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_date_to_expire.personal.md|has_date_to_expire.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_date_to_expire.secret.md|has_date_to_expire.secret]] 

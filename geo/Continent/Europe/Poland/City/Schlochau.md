@@ -29,3 +29,12 @@ markerFile: [[Schlochau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Schlochau.md|Schlochau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlochau.internal.md|Schlochau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlochau.protect.md|Schlochau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Schlochau.private.md|Schlochau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlochau.personal.md|Schlochau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlochau.secret.md|Schlochau.secret]] 

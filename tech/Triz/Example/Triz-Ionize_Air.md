@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-ionizing]]]
 
 Ionize Air to trap Pollutants in an Air Cleaner.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-Ionize_Air.md|Triz-Ionize_Air]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-Ionize_Air.internal.md|Triz-Ionize_Air.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-Ionize_Air.protect.md|Triz-Ionize_Air.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-Ionize_Air.private.md|Triz-Ionize_Air.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-Ionize_Air.personal.md|Triz-Ionize_Air.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-Ionize_Air.secret.md|Triz-Ionize_Air.secret]] 

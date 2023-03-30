@@ -442,3 +442,11 @@ filters:
   enabled: true
   conditions:
 ```
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/North-America/_North-America-CountryDb.md|_North-America-CountryDb]] 
+- [[../../../../_internal/geo/Continent/North-America/_North-America-CountryDb.internal.md|_North-America-CountryDb.internal]] 
+- [[../../../../_protect/geo/Continent/North-America/_North-America-CountryDb.protect.md|_North-America-CountryDb.protect]] 
+- [[../../../../_private/geo/Continent/North-America/_North-America-CountryDb.private.md|_North-America-CountryDb.private]] 
+- [[../../../../_personal/geo/Continent/North-America/_North-America-CountryDb.personal.md|_North-America-CountryDb.personal]] 
+- [[../../../../_secret/geo/Continent/North-America/_North-America-CountryDb.secret.md|_North-America-CountryDb.secret]] 

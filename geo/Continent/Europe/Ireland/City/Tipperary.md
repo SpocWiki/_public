@@ -29,3 +29,12 @@ markerFile: [[Tipperary]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Tipperary.md|Tipperary]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tipperary.internal.md|Tipperary.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tipperary.protect.md|Tipperary.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Tipperary.private.md|Tipperary.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tipperary.personal.md|Tipperary.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tipperary.secret.md|Tipperary.secret]] 

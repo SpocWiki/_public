@@ -24,3 +24,12 @@ markerFile: [[S-Groß_Gerau-Dornberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.md|S-Groß_Gerau-Dornberg]] 
+- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.internal.md|S-Groß_Gerau-Dornberg.internal]] 
+- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.protect.md|S-Groß_Gerau-Dornberg.protect]] 
+- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.private.md|S-Groß_Gerau-Dornberg.private]] 
+- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.personal.md|S-Groß_Gerau-Dornberg.personal]] 
+- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.secret.md|S-Groß_Gerau-Dornberg.secret]] 

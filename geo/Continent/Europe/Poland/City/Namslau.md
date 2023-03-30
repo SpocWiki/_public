@@ -29,3 +29,12 @@ markerFile: [[Namslau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Namslau.md|Namslau]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Namslau.internal.md|Namslau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Namslau.protect.md|Namslau.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Namslau.private.md|Namslau.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Namslau.personal.md|Namslau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Namslau.secret.md|Namslau.secret]] 

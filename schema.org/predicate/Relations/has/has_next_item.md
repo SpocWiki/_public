@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_next_item )
 ( #has_/range :: ListItem )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_next_item.md|has_next_item]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_next_item.internal.md|has_next_item.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_next_item.protect.md|has_next_item.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_next_item.private.md|has_next_item.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_next_item.personal.md|has_next_item.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_next_item.secret.md|has_next_item.secret]] 

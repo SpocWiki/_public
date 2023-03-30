@@ -29,3 +29,12 @@ markerFile: [[Porjus]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Porjus.md|Porjus]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Porjus.internal.md|Porjus.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Porjus.protect.md|Porjus.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Porjus.private.md|Porjus.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Porjus.personal.md|Porjus.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Porjus.secret.md|Porjus.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Steinbach~Allg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.md|Steinbach~Allg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.internal.md|Steinbach~Allg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.protect.md|Steinbach~Allg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.private.md|Steinbach~Allg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.personal.md|Steinbach~Allg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.secret.md|Steinbach~Allg.secret]] 

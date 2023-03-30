@@ -29,3 +29,12 @@ markerFile: [[Vendóme]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Vendóme.md|Vendóme]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Vendóme.internal.md|Vendóme.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Vendóme.protect.md|Vendóme.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Vendóme.private.md|Vendóme.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Vendóme.personal.md|Vendóme.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Vendóme.secret.md|Vendóme.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Poltawa]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Poltawa.md|Poltawa]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Poltawa.internal.md|Poltawa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Poltawa.protect.md|Poltawa.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Poltawa.private.md|Poltawa.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Poltawa.personal.md|Poltawa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Poltawa.secret.md|Poltawa.secret]] 

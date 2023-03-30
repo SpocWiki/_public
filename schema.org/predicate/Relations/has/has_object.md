@@ -42,3 +42,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ actionOption, candidate, collection, followee, option, question, replacee, replacer, targetCollection ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_object.md|has_object]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_object.internal.md|has_object.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_object.protect.md|has_object.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_object.private.md|has_object.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_object.personal.md|has_object.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_object.secret.md|has_object.secret]] 

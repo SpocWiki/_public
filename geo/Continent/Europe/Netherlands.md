@@ -133,3 +133,12 @@ markerFolder: ./Netherlands/City
 [geo-lon::5.08828]
 [geo-lat::51.9757]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Netherlands.md|Netherlands]] 
+- [[../../../../_internal/geo/Continent/Europe/Netherlands.internal.md|Netherlands.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Netherlands.protect.md|Netherlands.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Netherlands.private.md|Netherlands.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Netherlands.personal.md|Netherlands.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Netherlands.secret.md|Netherlands.secret]] 

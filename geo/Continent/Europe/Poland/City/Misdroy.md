@@ -29,3 +29,12 @@ markerFile: [[Misdroy]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Misdroy.md|Misdroy]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Misdroy.internal.md|Misdroy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Misdroy.protect.md|Misdroy.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Misdroy.private.md|Misdroy.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Misdroy.personal.md|Misdroy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Misdroy.secret.md|Misdroy.secret]] 

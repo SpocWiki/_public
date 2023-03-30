@@ -29,3 +29,12 @@ markerFile: [[Ichim]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ichim.md|Ichim]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ichim.internal.md|Ichim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ichim.protect.md|Ichim.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ichim.private.md|Ichim.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ichim.personal.md|Ichim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ichim.secret.md|Ichim.secret]] 

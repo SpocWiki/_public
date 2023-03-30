@@ -29,3 +29,12 @@ markerFile: [[Linlithgow]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Linlithgow.md|Linlithgow]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Linlithgow.internal.md|Linlithgow.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Linlithgow.protect.md|Linlithgow.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Linlithgow.private.md|Linlithgow.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Linlithgow.personal.md|Linlithgow.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Linlithgow.secret.md|Linlithgow.secret]] 

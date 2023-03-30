@@ -32,3 +32,12 @@ markerFolder: ./Pitcairn/City
 [geo-lon::-130.1]
 [geo-lat::-25.0667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Pitcairn~Islands.md|Pitcairn~Islands]] 
+- [[../../../../_internal/geo/Continent/Oceania/Pitcairn~Islands.internal.md|Pitcairn~Islands.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Pitcairn~Islands.protect.md|Pitcairn~Islands.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Pitcairn~Islands.private.md|Pitcairn~Islands.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Pitcairn~Islands.personal.md|Pitcairn~Islands.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Pitcairn~Islands.secret.md|Pitcairn~Islands.secret]] 

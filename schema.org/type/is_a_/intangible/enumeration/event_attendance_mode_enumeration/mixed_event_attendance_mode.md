@@ -45,3 +45,12 @@ MixedEventAttendanceMode - an event that is conducted as a combination of both o
 
 [ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.md|mixed_event_attendance_mode]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.internal.md|mixed_event_attendance_mode.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.protect.md|mixed_event_attendance_mode.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.private.md|mixed_event_attendance_mode.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.personal.md|mixed_event_attendance_mode.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.secret.md|mixed_event_attendance_mode.secret]] 

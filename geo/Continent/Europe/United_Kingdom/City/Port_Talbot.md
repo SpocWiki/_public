@@ -29,3 +29,12 @@ markerFile: [[Port_Talbot]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.md|Port_Talbot]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.internal.md|Port_Talbot.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.protect.md|Port_Talbot.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.private.md|Port_Talbot.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.personal.md|Port_Talbot.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.secret.md|Port_Talbot.secret]] 

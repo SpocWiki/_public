@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: has_course_instance )
 ( #has_/range :: CourseInstance )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/has/has_course_instance.md|has_course_instance]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course_instance.internal.md|has_course_instance.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_course_instance.protect.md|has_course_instance.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_course_instance.private.md|has_course_instance.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_course_instance.personal.md|has_course_instance.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_course_instance.secret.md|has_course_instance.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Aschaffenburg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.md|Aschaffenburg]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.internal.md|Aschaffenburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.protect.md|Aschaffenburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.private.md|Aschaffenburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.personal.md|Aschaffenburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.secret.md|Aschaffenburg.secret]] 

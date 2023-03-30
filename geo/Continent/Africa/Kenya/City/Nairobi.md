@@ -29,3 +29,12 @@ markerFile: [[Nairobi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Africa/Kenya/City/Nairobi.md|Nairobi]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Kenya/City/Nairobi.internal.md|Nairobi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Kenya/City/Nairobi.protect.md|Nairobi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Kenya/City/Nairobi.private.md|Nairobi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Kenya/City/Nairobi.personal.md|Nairobi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Kenya/City/Nairobi.secret.md|Nairobi.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Macduff]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Macduff.md|Macduff]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Macduff.internal.md|Macduff.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Macduff.protect.md|Macduff.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Macduff.private.md|Macduff.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Macduff.personal.md|Macduff.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Macduff.secret.md|Macduff.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Freiburg~Breisgau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.md|Freiburg~Breisgau]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.internal.md|Freiburg~Breisgau.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.protect.md|Freiburg~Breisgau.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.private.md|Freiburg~Breisgau.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.personal.md|Freiburg~Breisgau.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.secret.md|Freiburg~Breisgau.secret]] 

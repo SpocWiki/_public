@@ -29,3 +29,12 @@ markerFile: [[Mauriac]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Mauriac.md|Mauriac]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Mauriac.internal.md|Mauriac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Mauriac.protect.md|Mauriac.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Mauriac.private.md|Mauriac.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Mauriac.personal.md|Mauriac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Mauriac.secret.md|Mauriac.secret]] 

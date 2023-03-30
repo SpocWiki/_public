@@ -28,3 +28,12 @@ markerFile: [[Stollberg~Sachsen]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.md|Stollberg~Sachsen]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.internal.md|Stollberg~Sachsen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.protect.md|Stollberg~Sachsen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.private.md|Stollberg~Sachsen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.personal.md|Stollberg~Sachsen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.secret.md|Stollberg~Sachsen.secret]] 

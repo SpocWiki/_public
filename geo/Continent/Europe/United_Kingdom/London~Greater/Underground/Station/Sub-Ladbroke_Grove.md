@@ -29,3 +29,12 @@ markerFile: [[Sub-Ladbroke_Grove]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.md|Sub-Ladbroke_Grove]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.internal.md|Sub-Ladbroke_Grove.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.protect.md|Sub-Ladbroke_Grove.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.private.md|Sub-Ladbroke_Grove.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.personal.md|Sub-Ladbroke_Grove.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.secret.md|Sub-Ladbroke_Grove.secret]] 

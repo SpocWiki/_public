@@ -29,3 +29,12 @@ markerFile: [[Sukhumi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sukhumi.md|Sukhumi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sukhumi.internal.md|Sukhumi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sukhumi.protect.md|Sukhumi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sukhumi.private.md|Sukhumi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sukhumi.personal.md|Sukhumi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sukhumi.secret.md|Sukhumi.secret]] 

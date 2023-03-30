@@ -45,3 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_monthly_minimum_repayment_amount )
 ( #has_/range :: MonetaryAmount, Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.md|has_value_for_monthly_minimum_repayment_amount]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.internal.md|has_value_for_monthly_minimum_repayment_amount.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.protect.md|has_value_for_monthly_minimum_repayment_amount.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.private.md|has_value_for_monthly_minimum_repayment_amount.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.personal.md|has_value_for_monthly_minimum_repayment_amount.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.secret.md|has_value_for_monthly_minimum_repayment_amount.secret]] 

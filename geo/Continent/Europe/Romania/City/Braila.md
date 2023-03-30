@@ -29,3 +29,12 @@ markerFile: [[Braila]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Braila.md|Braila]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Braila.internal.md|Braila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Braila.protect.md|Braila.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Braila.private.md|Braila.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Braila.personal.md|Braila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Braila.secret.md|Braila.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Brattkaerr]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Brattkaerr.md|Brattkaerr]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Brattkaerr.internal.md|Brattkaerr.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Brattkaerr.protect.md|Brattkaerr.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Brattkaerr.private.md|Brattkaerr.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Brattkaerr.personal.md|Brattkaerr.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Brattkaerr.secret.md|Brattkaerr.secret]] 

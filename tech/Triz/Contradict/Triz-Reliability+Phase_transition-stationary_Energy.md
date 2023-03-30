@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Phase_transition]]]
 - [con::[[Triz-stationary_Energy]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.md|Triz-Reliability+Phase_transition-stationary_Energy]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.internal.md|Triz-Reliability+Phase_transition-stationary_Energy.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.protect.md|Triz-Reliability+Phase_transition-stationary_Energy.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.private.md|Triz-Reliability+Phase_transition-stationary_Energy.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.personal.md|Triz-Reliability+Phase_transition-stationary_Energy.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.secret.md|Triz-Reliability+Phase_transition-stationary_Energy.secret]] 

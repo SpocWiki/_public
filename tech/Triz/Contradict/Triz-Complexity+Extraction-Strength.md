@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Extraction]]]
 - [con::[[Triz-Strength]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Extraction-Strength.md|Triz-Complexity+Extraction-Strength]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Extraction-Strength.internal.md|Triz-Complexity+Extraction-Strength.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Extraction-Strength.protect.md|Triz-Complexity+Extraction-Strength.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Extraction-Strength.private.md|Triz-Complexity+Extraction-Strength.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Extraction-Strength.personal.md|Triz-Complexity+Extraction-Strength.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Extraction-Strength.secret.md|Triz-Complexity+Extraction-Strength.secret]] 

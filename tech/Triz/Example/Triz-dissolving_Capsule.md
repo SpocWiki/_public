@@ -15,3 +15,11 @@ tags:
 [Triz-Principle-Sub::[[Triz-removed-obsolete]]]
 
 Use a dissolving Capsule for Medicine.
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Example/Triz-dissolving_Capsule.md|Triz-dissolving_Capsule]] 
+- [[../../../../_internal/tech/Triz/Example/Triz-dissolving_Capsule.internal.md|Triz-dissolving_Capsule.internal]] 
+- [[../../../../_protect/tech/Triz/Example/Triz-dissolving_Capsule.protect.md|Triz-dissolving_Capsule.protect]] 
+- [[../../../../_private/tech/Triz/Example/Triz-dissolving_Capsule.private.md|Triz-dissolving_Capsule.private]] 
+- [[../../../../_personal/tech/Triz/Example/Triz-dissolving_Capsule.personal.md|Triz-dissolving_Capsule.personal]] 
+- [[../../../../_secret/tech/Triz/Example/Triz-dissolving_Capsule.secret.md|Triz-dissolving_Capsule.secret]] 

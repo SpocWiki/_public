@@ -29,3 +29,12 @@ markerFile: [[Monte_Maggiore]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Monte_Maggiore.md|Monte_Maggiore]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Monte_Maggiore.internal.md|Monte_Maggiore.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Monte_Maggiore.protect.md|Monte_Maggiore.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Monte_Maggiore.private.md|Monte_Maggiore.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Monte_Maggiore.personal.md|Monte_Maggiore.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Monte_Maggiore.secret.md|Monte_Maggiore.secret]] 

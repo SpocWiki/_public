@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28097]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Gomeisa.md|Gomeisa]] 
+- [[../../../_internal/astro/Star/Gomeisa.internal.md|Gomeisa.internal]] 
+- [[../../../_protect/astro/Star/Gomeisa.protect.md|Gomeisa.protect]] 
+- [[../../../_private/astro/Star/Gomeisa.private.md|Gomeisa.private]] 
+- [[../../../_personal/astro/Star/Gomeisa.personal.md|Gomeisa.personal]] 
+- [[../../../_secret/astro/Star/Gomeisa.secret.md|Gomeisa.secret]]
+

@@ -33,3 +33,11 @@ SpocWebEntityId: 21931
 > The United States' Environmental Protection Agency states that all forms of arsenic are a serious risk to human health. The United States' Agency for Toxic Substances and Disease Registry ranked arsenic as number 1 in its 2001 Priority List of Hazardous Substances at Superfund sites. Arsenic is classified as a Group-A carcinogen.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arsenic)
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Arsenic.md|Arsenic]] 
+- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Arsenic.internal.md|Arsenic.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Arsenic.protect.md|Arsenic.protect]] 
+- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Arsenic.private.md|Arsenic.private]] 
+- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Arsenic.personal.md|Arsenic.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Arsenic.secret.md|Arsenic.secret]] 

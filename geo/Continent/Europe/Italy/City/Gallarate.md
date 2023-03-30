@@ -29,3 +29,12 @@ markerFile: [[Gallarate]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Gallarate.md|Gallarate]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Gallarate.internal.md|Gallarate.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Gallarate.protect.md|Gallarate.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Gallarate.private.md|Gallarate.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Gallarate.personal.md|Gallarate.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Gallarate.secret.md|Gallarate.secret]] 

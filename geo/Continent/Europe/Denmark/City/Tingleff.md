@@ -29,3 +29,12 @@ markerFile: [[Tingleff]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Tingleff.md|Tingleff]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Tingleff.internal.md|Tingleff.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Tingleff.protect.md|Tingleff.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Tingleff.private.md|Tingleff.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Tingleff.personal.md|Tingleff.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Tingleff.secret.md|Tingleff.secret]] 

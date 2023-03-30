@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28096]
 [NextStarId::27280]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Phurud.md|Phurud]] 
+- [[../../../_internal/astro/Star/Phurud.internal.md|Phurud.internal]] 
+- [[../../../_protect/astro/Star/Phurud.protect.md|Phurud.protect]] 
+- [[../../../_private/astro/Star/Phurud.private.md|Phurud.private]] 
+- [[../../../_personal/astro/Star/Phurud.personal.md|Phurud.personal]] 
+- [[../../../_secret/astro/Star/Phurud.secret.md|Phurud.secret]] 

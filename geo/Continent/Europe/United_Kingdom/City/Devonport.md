@@ -29,3 +29,12 @@ markerFile: [[Devonport]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Devonport.md|Devonport]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Devonport.internal.md|Devonport.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Devonport.protect.md|Devonport.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Devonport.private.md|Devonport.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Devonport.personal.md|Devonport.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Devonport.secret.md|Devonport.secret]] 

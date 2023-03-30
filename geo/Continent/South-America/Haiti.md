@@ -132,3 +132,12 @@ markerFolder: ./Haiti/City
 [geo-lon::-72.3333]
 [geo-lat::18.5333]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Haiti.md|Haiti]] 
+- [[../../../../_internal/geo/Continent/South-America/Haiti.internal.md|Haiti.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Haiti.protect.md|Haiti.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Haiti.private.md|Haiti.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Haiti.personal.md|Haiti.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Haiti.secret.md|Haiti.secret]] 

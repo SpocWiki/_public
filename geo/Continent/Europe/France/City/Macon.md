@@ -29,3 +29,12 @@ markerFile: [[Macon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Macon.md|Macon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Macon.internal.md|Macon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Macon.protect.md|Macon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Macon.private.md|Macon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Macon.personal.md|Macon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Macon.secret.md|Macon.secret]] 

@@ -32,3 +32,12 @@ markerFolder: ./Saint_Vincent_And_The_Grenadines/City
 [geo-lon::-61.2333]
 [geo-lat::13.1667]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Saint_Vincent_and_Grenadines.md|Saint_Vincent_and_Grenadines]] 
+- [[../../../../_internal/geo/Continent/South-America/Saint_Vincent_and_Grenadines.internal.md|Saint_Vincent_and_Grenadines.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Saint_Vincent_and_Grenadines.protect.md|Saint_Vincent_and_Grenadines.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Saint_Vincent_and_Grenadines.private.md|Saint_Vincent_and_Grenadines.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Saint_Vincent_and_Grenadines.personal.md|Saint_Vincent_and_Grenadines.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Saint_Vincent_and_Grenadines.secret.md|Saint_Vincent_and_Grenadines.secret]] 

@@ -50,3 +50,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_high_price )
 ( #has_/range :: Number, Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_high_price.md|has_value_for_high_price]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_high_price.internal.md|has_value_for_high_price.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_high_price.protect.md|has_value_for_high_price.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_high_price.private.md|has_value_for_high_price.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_high_price.personal.md|has_value_for_high_price.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_high_price.secret.md|has_value_for_high_price.secret]] 

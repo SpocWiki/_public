@@ -29,3 +29,12 @@ markerFile: [[Klisura]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Klisura.md|Klisura]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Klisura.internal.md|Klisura.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Klisura.protect.md|Klisura.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Klisura.private.md|Klisura.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Klisura.personal.md|Klisura.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Klisura.secret.md|Klisura.secret]] 

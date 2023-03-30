@@ -43,3 +43,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_additional_number_of_guests )
 ( #has_/range :: Number )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.md|has_number_of_additional_number_of_guests]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.internal.md|has_number_of_additional_number_of_guests.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.protect.md|has_number_of_additional_number_of_guests.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.private.md|has_number_of_additional_number_of_guests.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.personal.md|has_number_of_additional_number_of_guests.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.secret.md|has_number_of_additional_number_of_guests.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Barcelona]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Barcelona.md|Barcelona]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Barcelona.internal.md|Barcelona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Barcelona.protect.md|Barcelona.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Barcelona.private.md|Barcelona.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Barcelona.personal.md|Barcelona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Barcelona.secret.md|Barcelona.secret]] 

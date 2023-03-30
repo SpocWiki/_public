@@ -29,3 +29,12 @@ markerFile: [[Vallstanaes]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Vallstanaes.md|Vallstanaes]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vallstanaes.internal.md|Vallstanaes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vallstanaes.protect.md|Vallstanaes.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Vallstanaes.private.md|Vallstanaes.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vallstanaes.personal.md|Vallstanaes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vallstanaes.secret.md|Vallstanaes.secret]] 

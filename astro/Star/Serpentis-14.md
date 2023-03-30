@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28158]
 [NextStarId::27530]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Serpentis-14.md|Serpentis-14]] 
+- [[../../../_internal/astro/Star/Serpentis-14.internal.md|Serpentis-14.internal]] 
+- [[../../../_protect/astro/Star/Serpentis-14.protect.md|Serpentis-14.protect]] 
+- [[../../../_private/astro/Star/Serpentis-14.private.md|Serpentis-14.private]] 
+- [[../../../_personal/astro/Star/Serpentis-14.personal.md|Serpentis-14.personal]] 
+- [[../../../_secret/astro/Star/Serpentis-14.secret.md|Serpentis-14.secret]] 

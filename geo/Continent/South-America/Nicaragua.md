@@ -130,3 +130,12 @@ markerFolder: ./Nicaragua/City
 [geo-lon::-86.28]
 [geo-lat::12.15]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/South-America/Nicaragua.md|Nicaragua]] 
+- [[../../../../_internal/geo/Continent/South-America/Nicaragua.internal.md|Nicaragua.internal]] 
+- [[../../../../_protect/geo/Continent/South-America/Nicaragua.protect.md|Nicaragua.protect]] 
+- [[../../../../_private/geo/Continent/South-America/Nicaragua.private.md|Nicaragua.private]] 
+- [[../../../../_personal/geo/Continent/South-America/Nicaragua.personal.md|Nicaragua.personal]] 
+- [[../../../../_secret/geo/Continent/South-America/Nicaragua.secret.md|Nicaragua.secret]] 

@@ -28,3 +28,12 @@ markerFile: [[Reichenbach~Bergstrasse]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.md|Reichenbach~Bergstrasse]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.internal.md|Reichenbach~Bergstrasse.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.protect.md|Reichenbach~Bergstrasse.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.private.md|Reichenbach~Bergstrasse.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.personal.md|Reichenbach~Bergstrasse.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.secret.md|Reichenbach~Bergstrasse.secret]] 

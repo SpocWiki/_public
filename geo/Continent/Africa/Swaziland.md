@@ -35,3 +35,12 @@ markerFolder: ./Swaziland/City
 [geo-lon::31.1333]
 [geo-lat::-26.3167]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Swaziland.md|Swaziland]] 
+- [[../../../../_internal/geo/Continent/Africa/Swaziland.internal.md|Swaziland.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Swaziland.protect.md|Swaziland.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Swaziland.private.md|Swaziland.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Swaziland.personal.md|Swaziland.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Swaziland.secret.md|Swaziland.secret]] 

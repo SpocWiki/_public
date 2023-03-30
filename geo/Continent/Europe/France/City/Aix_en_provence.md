@@ -29,3 +29,12 @@ markerFile: [[Aix_en_provence]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Aix_en_provence.md|Aix_en_provence]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Aix_en_provence.internal.md|Aix_en_provence.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Aix_en_provence.protect.md|Aix_en_provence.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Aix_en_provence.private.md|Aix_en_provence.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Aix_en_provence.personal.md|Aix_en_provence.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Aix_en_provence.secret.md|Aix_en_provence.secret]] 

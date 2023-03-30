@@ -132,3 +132,12 @@ geojsonFolder: [./Algeria]
 [geo-lon::3.05]
 [geo-lat::36.78]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Algeria.md|Algeria]] 
+- [[../../../../_internal/geo/Continent/Africa/Algeria.internal.md|Algeria.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Algeria.protect.md|Algeria.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Algeria.private.md|Algeria.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Algeria.personal.md|Algeria.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Algeria.secret.md|Algeria.secret]] 

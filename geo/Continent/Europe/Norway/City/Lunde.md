@@ -29,3 +29,12 @@ markerFile: [[Lunde]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Lunde.md|Lunde]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Lunde.internal.md|Lunde.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Lunde.protect.md|Lunde.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Lunde.private.md|Lunde.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Lunde.personal.md|Lunde.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Lunde.secret.md|Lunde.secret]] 

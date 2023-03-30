@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Feedback]]]
 - [con::[[Triz-moving_Weight]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Feedback-moving_Weight.md|Triz-Substance-Loss+Feedback-moving_Weight]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Feedback-moving_Weight.internal.md|Triz-Substance-Loss+Feedback-moving_Weight.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Feedback-moving_Weight.protect.md|Triz-Substance-Loss+Feedback-moving_Weight.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Feedback-moving_Weight.private.md|Triz-Substance-Loss+Feedback-moving_Weight.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Feedback-moving_Weight.personal.md|Triz-Substance-Loss+Feedback-moving_Weight.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Feedback-moving_Weight.secret.md|Triz-Substance-Loss+Feedback-moving_Weight.secret]] 

@@ -370,3 +370,11 @@ filters:
   enabled: false
   conditions:
 ```
+
+## Confidential Links & Embeds: 
+- [[../../../_public/geo/Continent/_CountryStateDB.md|_CountryStateDB]] 
+- [[../../../_internal/geo/Continent/_CountryStateDB.internal.md|_CountryStateDB.internal]] 
+- [[../../../_protect/geo/Continent/_CountryStateDB.protect.md|_CountryStateDB.protect]] 
+- [[../../../_private/geo/Continent/_CountryStateDB.private.md|_CountryStateDB.private]] 
+- [[../../../_personal/geo/Continent/_CountryStateDB.personal.md|_CountryStateDB.personal]] 
+- [[../../../_secret/geo/Continent/_CountryStateDB.secret.md|_CountryStateDB.secret]] 

@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Automation]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.md|Triz-Ease_of_operation+Segmentation-Automation]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.internal.md|Triz-Ease_of_operation+Segmentation-Automation.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.protect.md|Triz-Ease_of_operation+Segmentation-Automation.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.private.md|Triz-Ease_of_operation+Segmentation-Automation.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.personal.md|Triz-Ease_of_operation+Segmentation-Automation.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.secret.md|Triz-Ease_of_operation+Segmentation-Automation.secret]] 

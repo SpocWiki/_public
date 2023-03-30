@@ -29,3 +29,12 @@ markerFile: [[Viljandi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Viljandi.md|Viljandi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Viljandi.internal.md|Viljandi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Viljandi.protect.md|Viljandi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Viljandi.private.md|Viljandi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Viljandi.personal.md|Viljandi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Viljandi.secret.md|Viljandi.secret]] 

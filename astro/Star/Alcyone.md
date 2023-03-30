@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Alcyone.md|Alcyone]] 
+- [[../../../_internal/astro/Star/Alcyone.internal.md|Alcyone.internal]] 
+- [[../../../_protect/astro/Star/Alcyone.protect.md|Alcyone.protect]] 
+- [[../../../_private/astro/Star/Alcyone.private.md|Alcyone.private]] 
+- [[../../../_personal/astro/Star/Alcyone.personal.md|Alcyone.personal]] 
+- [[../../../_secret/astro/Star/Alcyone.secret.md|Alcyone.secret]]
+

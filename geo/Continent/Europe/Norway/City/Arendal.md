@@ -29,3 +29,12 @@ markerFile: [[Arendal]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Arendal.md|Arendal]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Arendal.internal.md|Arendal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Arendal.protect.md|Arendal.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Arendal.private.md|Arendal.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Arendal.personal.md|Arendal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Arendal.secret.md|Arendal.secret]] 

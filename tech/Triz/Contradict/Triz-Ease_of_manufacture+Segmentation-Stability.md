@@ -16,3 +16,12 @@ tags:
 [Triz-Principle::[[Triz-Segmentation]]]
 - [con::[[Triz-Stability]]]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stability.md|Triz-Ease_of_manufacture+Segmentation-Stability]] 
+- [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stability.internal.md|Triz-Ease_of_manufacture+Segmentation-Stability.internal]] 
+- [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stability.protect.md|Triz-Ease_of_manufacture+Segmentation-Stability.protect]] 
+- [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stability.private.md|Triz-Ease_of_manufacture+Segmentation-Stability.private]] 
+- [[../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stability.personal.md|Triz-Ease_of_manufacture+Segmentation-Stability.personal]] 
+- [[../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stability.secret.md|Triz-Ease_of_manufacture+Segmentation-Stability.secret]] 

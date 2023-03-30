@@ -27,3 +27,12 @@ markerFolder: ./Sachsen-Anhalt/City
 [geo-lat::51.8905]
 [Population::]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.md|Sachsen-Anhalt]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.internal.md|Sachsen-Anhalt.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.protect.md|Sachsen-Anhalt.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.private.md|Sachsen-Anhalt.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.personal.md|Sachsen-Anhalt.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.secret.md|Sachsen-Anhalt.secret]] 

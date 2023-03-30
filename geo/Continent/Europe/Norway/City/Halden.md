@@ -29,3 +29,12 @@ markerFile: [[Halden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Halden.md|Halden]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Halden.internal.md|Halden.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Halden.protect.md|Halden.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Halden.private.md|Halden.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Halden.personal.md|Halden.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Halden.secret.md|Halden.secret]] 

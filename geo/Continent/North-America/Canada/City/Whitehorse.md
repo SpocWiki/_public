@@ -29,3 +29,12 @@ markerFile: [[Whitehorse]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/North-America/Canada/City/Whitehorse.md|Whitehorse]] 
+- [[../../../../../../_internal/geo/Continent/North-America/Canada/City/Whitehorse.internal.md|Whitehorse.internal]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/City/Whitehorse.protect.md|Whitehorse.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/City/Whitehorse.private.md|Whitehorse.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/City/Whitehorse.personal.md|Whitehorse.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/City/Whitehorse.secret.md|Whitehorse.secret]] 

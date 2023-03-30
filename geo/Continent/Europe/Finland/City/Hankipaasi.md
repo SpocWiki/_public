@@ -29,3 +29,12 @@ markerFile: [[Hankipaasi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Hankipaasi.md|Hankipaasi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Hankipaasi.internal.md|Hankipaasi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Hankipaasi.protect.md|Hankipaasi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Hankipaasi.private.md|Hankipaasi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Hankipaasi.personal.md|Hankipaasi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Hankipaasi.secret.md|Hankipaasi.secret]] 

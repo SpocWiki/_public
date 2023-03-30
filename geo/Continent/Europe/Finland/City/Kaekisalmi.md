@@ -29,3 +29,12 @@ markerFile: [[Kaekisalmi]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kaekisalmi.md|Kaekisalmi]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaekisalmi.internal.md|Kaekisalmi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaekisalmi.protect.md|Kaekisalmi.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kaekisalmi.private.md|Kaekisalmi.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaekisalmi.personal.md|Kaekisalmi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaekisalmi.secret.md|Kaekisalmi.secret]] 

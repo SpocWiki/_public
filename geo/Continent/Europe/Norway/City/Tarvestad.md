@@ -29,3 +29,12 @@ markerFile: [[Tarvestad]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Tarvestad.md|Tarvestad]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Tarvestad.internal.md|Tarvestad.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Tarvestad.protect.md|Tarvestad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Tarvestad.private.md|Tarvestad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Tarvestad.personal.md|Tarvestad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Tarvestad.secret.md|Tarvestad.secret]] 

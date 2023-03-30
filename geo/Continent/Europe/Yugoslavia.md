@@ -32,3 +32,12 @@ markerFolder: ./Yugoslavia/City
 [geo-lon::17.6905]
 [geo-lat::43.9957]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Yugoslavia.md|Yugoslavia]] 
+- [[../../../../_internal/geo/Continent/Europe/Yugoslavia.internal.md|Yugoslavia.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Yugoslavia.protect.md|Yugoslavia.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Yugoslavia.private.md|Yugoslavia.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Yugoslavia.personal.md|Yugoslavia.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Yugoslavia.secret.md|Yugoslavia.secret]] 

@@ -29,3 +29,12 @@ markerFile: [[Odense]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Denmark/City/Odense.md|Odense]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Denmark/City/Odense.internal.md|Odense.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Denmark/City/Odense.protect.md|Odense.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Denmark/City/Odense.private.md|Odense.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Denmark/City/Odense.personal.md|Odense.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Denmark/City/Odense.secret.md|Odense.secret]] 

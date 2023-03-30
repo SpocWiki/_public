@@ -29,3 +29,12 @@ markerFile: [[Fontenay]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/France/City/Fontenay.md|Fontenay]] 
+- [[../../../../../../_internal/geo/Continent/Europe/France/City/Fontenay.internal.md|Fontenay.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/France/City/Fontenay.protect.md|Fontenay.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/France/City/Fontenay.private.md|Fontenay.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/France/City/Fontenay.personal.md|Fontenay.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/France/City/Fontenay.secret.md|Fontenay.secret]] 

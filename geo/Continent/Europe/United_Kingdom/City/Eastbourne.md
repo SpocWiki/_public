@@ -29,3 +29,12 @@ markerFile: [[Eastbourne]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Eastbourne.md|Eastbourne]] 
+- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Eastbourne.internal.md|Eastbourne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Eastbourne.protect.md|Eastbourne.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Eastbourne.private.md|Eastbourne.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Eastbourne.personal.md|Eastbourne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Eastbourne.secret.md|Eastbourne.secret]] 

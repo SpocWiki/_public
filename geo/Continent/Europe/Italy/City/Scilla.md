@@ -29,3 +29,12 @@ markerFile: [[Scilla]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Scilla.md|Scilla]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Scilla.internal.md|Scilla.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Scilla.protect.md|Scilla.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Scilla.private.md|Scilla.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Scilla.personal.md|Scilla.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Scilla.secret.md|Scilla.secret]] 

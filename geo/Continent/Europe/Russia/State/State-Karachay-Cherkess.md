@@ -28,3 +28,12 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/State/State-Karachay-Cherkess.md|State-Karachay-Cherkess]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Karachay-Cherkess.internal.md|State-Karachay-Cherkess.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Karachay-Cherkess.protect.md|State-Karachay-Cherkess.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Karachay-Cherkess.private.md|State-Karachay-Cherkess.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Karachay-Cherkess.personal.md|State-Karachay-Cherkess.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Karachay-Cherkess.secret.md|State-Karachay-Cherkess.secret]] 

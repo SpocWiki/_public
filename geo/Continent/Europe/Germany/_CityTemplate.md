@@ -34,3 +34,12 @@ markerFile: [[{{City}}]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/Europe/Germany/_CityTemplate.md|_CityTemplate]] 
+- [[../../../../../_internal/geo/Continent/Europe/Germany/_CityTemplate.internal.md|_CityTemplate.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Germany/_CityTemplate.protect.md|_CityTemplate.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Germany/_CityTemplate.private.md|_CityTemplate.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Germany/_CityTemplate.personal.md|_CityTemplate.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Germany/_CityTemplate.secret.md|_CityTemplate.secret]] 

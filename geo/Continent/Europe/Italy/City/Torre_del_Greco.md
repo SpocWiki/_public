@@ -29,3 +29,12 @@ markerFile: [[Torre_del_Greco]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Torre_del_Greco.md|Torre_del_Greco]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Torre_del_Greco.internal.md|Torre_del_Greco.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Torre_del_Greco.protect.md|Torre_del_Greco.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Torre_del_Greco.private.md|Torre_del_Greco.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Torre_del_Greco.personal.md|Torre_del_Greco.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Torre_del_Greco.secret.md|Torre_del_Greco.secret]] 

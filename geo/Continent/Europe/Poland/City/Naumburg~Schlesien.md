@@ -29,3 +29,12 @@ markerFile: [[Naumburg~Schlesien]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.md|Naumburg~Schlesien]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.internal.md|Naumburg~Schlesien.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.protect.md|Naumburg~Schlesien.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.private.md|Naumburg~Schlesien.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.personal.md|Naumburg~Schlesien.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.secret.md|Naumburg~Schlesien.secret]] 

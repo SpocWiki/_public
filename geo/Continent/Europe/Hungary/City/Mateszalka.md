@@ -29,3 +29,12 @@ markerFile: [[Mateszalka]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Mateszalka.md|Mateszalka]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Mateszalka.internal.md|Mateszalka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Mateszalka.protect.md|Mateszalka.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Mateszalka.private.md|Mateszalka.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Mateszalka.personal.md|Mateszalka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Mateszalka.secret.md|Mateszalka.secret]] 

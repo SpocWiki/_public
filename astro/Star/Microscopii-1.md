@@ -24,3 +24,12 @@ confidential: public
 [ZodiacId::28136]
 [NextStarId::28059]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Microscopii-1.md|Microscopii-1]] 
+- [[../../../_internal/astro/Star/Microscopii-1.internal.md|Microscopii-1.internal]] 
+- [[../../../_protect/astro/Star/Microscopii-1.protect.md|Microscopii-1.protect]] 
+- [[../../../_private/astro/Star/Microscopii-1.private.md|Microscopii-1.private]] 
+- [[../../../_personal/astro/Star/Microscopii-1.personal.md|Microscopii-1.personal]] 
+- [[../../../_secret/astro/Star/Microscopii-1.secret.md|Microscopii-1.secret]] 

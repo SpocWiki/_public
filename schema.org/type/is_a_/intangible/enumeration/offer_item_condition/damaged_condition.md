@@ -43,3 +43,12 @@ Indicates that the item is damaged.
 
 [ #is_/enum_of :: [[../OfferItemCondition]] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/damaged_condition.md|damaged_condition]] 
+- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/damaged_condition.internal.md|damaged_condition.internal]] 
+- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/damaged_condition.protect.md|damaged_condition.protect]] 
+- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/damaged_condition.private.md|damaged_condition.private]] 
+- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/damaged_condition.personal.md|damaged_condition.personal]] 
+- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/damaged_condition.secret.md|damaged_condition.secret]] 

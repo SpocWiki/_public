@@ -35,3 +35,12 @@ markerFolder: ./Malaysia/City
 [geo-lon::]
 [geo-lat::7]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Malaysia.md|Malaysia]] 
+- [[../../../../_internal/geo/Continent/Asia/Malaysia.internal.md|Malaysia.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Malaysia.protect.md|Malaysia.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Malaysia.private.md|Malaysia.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Malaysia.personal.md|Malaysia.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Malaysia.secret.md|Malaysia.secret]] 

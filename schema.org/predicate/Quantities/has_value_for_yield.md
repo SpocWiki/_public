@@ -45,3 +45,12 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ recipeYield ] ]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_yield.md|has_value_for_yield]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_yield.internal.md|has_value_for_yield.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_yield.protect.md|has_value_for_yield.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_yield.private.md|has_value_for_yield.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_yield.personal.md|has_value_for_yield.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_yield.secret.md|has_value_for_yield.secret]] 

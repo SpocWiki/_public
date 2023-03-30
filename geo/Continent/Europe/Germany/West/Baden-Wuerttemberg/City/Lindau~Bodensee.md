@@ -28,3 +28,12 @@ markerFile: [[Lindau~Bodensee]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.md|Lindau~Bodensee]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.internal.md|Lindau~Bodensee.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.protect.md|Lindau~Bodensee.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.private.md|Lindau~Bodensee.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.personal.md|Lindau~Bodensee.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lindau~Bodensee.secret.md|Lindau~Bodensee.secret]] 

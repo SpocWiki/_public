@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_related_to)
 ( #has_/range :: Product, Service)
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_related_to.md|is_related_to]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_related_to.internal.md|is_related_to.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_related_to.protect.md|is_related_to.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_related_to.private.md|is_related_to.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_related_to.personal.md|is_related_to.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_related_to.secret.md|is_related_to.secret]] 

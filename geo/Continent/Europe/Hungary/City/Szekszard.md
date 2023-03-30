@@ -29,3 +29,12 @@ markerFile: [[Szekszard]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szekszard.md|Szekszard]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szekszard.internal.md|Szekszard.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szekszard.protect.md|Szekszard.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szekszard.private.md|Szekszard.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szekszard.personal.md|Szekszard.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szekszard.secret.md|Szekszard.secret]] 

@@ -24,3 +24,13 @@ confidential: public
 [ZodiacId::28123]
 [NextStarId::27992]
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../_public/astro/Star/Horologii-1.md|Horologii-1]] 
+- [[../../../_internal/astro/Star/Horologii-1.internal.md|Horologii-1.internal]] 
+- [[../../../_protect/astro/Star/Horologii-1.protect.md|Horologii-1.protect]] 
+- [[../../../_private/astro/Star/Horologii-1.private.md|Horologii-1.private]] 
+- [[../../../_personal/astro/Star/Horologii-1.personal.md|Horologii-1.personal]] 
+- [[../../../_secret/astro/Star/Horologii-1.secret.md|Horologii-1.secret]]
+

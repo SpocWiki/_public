@@ -34,3 +34,12 @@ SpocWebEntityId: 21950
 > [Wikipedia](https://en.wikipedia.org/wiki/Xenon)
 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Xenon.md|Xenon]] 
+- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Xenon.internal.md|Xenon.internal]] 
+- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Xenon.protect.md|Xenon.protect]] 
+- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Xenon.private.md|Xenon.private]] 
+- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Xenon.personal.md|Xenon.personal]] 
+- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Xenon.secret.md|Xenon.secret]] 

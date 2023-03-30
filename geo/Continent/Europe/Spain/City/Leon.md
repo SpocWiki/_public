@@ -29,3 +29,12 @@ markerFile: [[Leon]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Leon.md|Leon]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Leon.internal.md|Leon.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Leon.protect.md|Leon.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Leon.private.md|Leon.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Leon.personal.md|Leon.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Leon.secret.md|Leon.secret]] 

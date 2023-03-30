@@ -45,3 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_about_course_workload )
 ( #has_/range :: Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/schema.org/Predicate/Texts/has_course_workload.md|has_course_workload]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_course_workload.internal.md|has_course_workload.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_course_workload.protect.md|has_course_workload.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_course_workload.private.md|has_course_workload.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_course_workload.personal.md|has_course_workload.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_course_workload.secret.md|has_course_workload.secret]] 

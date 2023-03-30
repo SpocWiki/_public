@@ -40,3 +40,12 @@ Relation describes that:
 ( #has_/name :: is_available_in_language )
 ( #has_/range :: [[../../../Type/is_a_thing/intangible/language]], Text )
 
+
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/schema.org/Predicate/Relations/is/is_available_in_language.md|is_available_in_language]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_available_in_language.internal.md|is_available_in_language.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_available_in_language.protect.md|is_available_in_language.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_available_in_language.private.md|is_available_in_language.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_available_in_language.personal.md|is_available_in_language.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_available_in_language.secret.md|is_available_in_language.secret]] 
