@@ -1,3 +1,4 @@
+# --- Repositories --- #
 /xLarge
 
 # --- Obsidian --- #
@@ -30,6 +31,7 @@ venv/
 Icon
 
 # Versioning and Zips
+*.bak
 *.git
 *.vrn
 *.zip
