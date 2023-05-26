@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.55]
 [name::Altona]
 [Country::[[Germany]]]
-[State::[[../../State-Hamburg]]]
+[State::[[../../State~Hamburg]]]
 [Population::]
 [Unknown::]
 
@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Altona|Altona]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.internal.md|Altona.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.protect.md|Altona.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.private.md|Altona.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.personal.md|Altona.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.secret.md|Altona.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Altona.internal.md|Altona.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Altona.protect.md|Altona.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Altona.private.md|Altona.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Altona.personal.md|Altona.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg/City/Altona.secret.md|Altona.secret]] 

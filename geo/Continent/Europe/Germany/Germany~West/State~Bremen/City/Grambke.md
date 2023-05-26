@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.13]
 [name::Grambke]
 [Country::[[Germany]]]
-[State::[[../../State-Bremen]]]
+[State::[[../../State~Bremen]]]
 [Population::]
 [Unknown::]
 
@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Grambke|Grambke]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.internal.md|Grambke.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.protect.md|Grambke.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.private.md|Grambke.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.personal.md|Grambke.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.secret.md|Grambke.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.internal.md|Grambke.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.protect.md|Grambke.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.private.md|Grambke.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.personal.md|Grambke.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.secret.md|Grambke.secret]] 

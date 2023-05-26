@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.41]
 [name::Babelsberg]
 [Country::[[Germany]]]
-[State :: [[../../State-Berlin]] ]
+[State :: [[../../State~Berlin]] ]
 [Population::]
 [Unknown::]
 
@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Babelsberg|Babelsberg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.internal.md|Babelsberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.protect.md|Babelsberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.private.md|Babelsberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.personal.md|Babelsberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.secret.md|Babelsberg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Babelsberg.internal.md|Babelsberg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Babelsberg.protect.md|Babelsberg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Babelsberg.private.md|Babelsberg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Babelsberg.personal.md|Babelsberg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Babelsberg.secret.md|Babelsberg.secret]] 

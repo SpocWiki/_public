@@ -19,7 +19,7 @@ confidential: public
 
 [Country::[[Germany]]]
 
-[State::[[../../State-Hamburg]]]
+[State::[[../../State~Hamburg]]]
 
 [Population::]
 
@@ -35,8 +35,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Hamburg|Hamburg]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Hamburg.internal.md|Hamburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg/City/Hamburg.protect.md|Hamburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg/City/Hamburg.private.md|Hamburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Hamburg.personal.md|Hamburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg/City/Hamburg.secret.md|Hamburg.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Hamburg.internal.md|Hamburg.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Hamburg.protect.md|Hamburg.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Hamburg.private.md|Hamburg.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Hamburg.personal.md|Hamburg.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg/City/Hamburg.secret.md|Hamburg.secret]] 

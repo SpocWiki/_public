@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.47]
 [name::Rixdorf]
 [Country::[[Germany]]]
-[State :: [[../../State-Berlin]] ]
+[State :: [[../../State~Berlin]] ]
 [Population::]
 [Unknown::]
 
@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Rixdorf|Rixdorf]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.internal.md|Rixdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.protect.md|Rixdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.private.md|Rixdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.personal.md|Rixdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.secret.md|Rixdorf.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Rixdorf.internal.md|Rixdorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Rixdorf.protect.md|Rixdorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Rixdorf.private.md|Rixdorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Rixdorf.personal.md|Rixdorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Rixdorf.secret.md|Rixdorf.secret]] 

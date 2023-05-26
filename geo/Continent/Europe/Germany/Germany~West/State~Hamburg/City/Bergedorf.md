@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.47]
 [name::Bergedorf]
 [Country::[[Germany]]]
-[State::[[../../State-Hamburg]]]
+[State::[[../../State~Hamburg]]]
 [Population::]
 [Unknown::]
 
@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Bergedorf|Bergedorf]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.internal.md|Bergedorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.protect.md|Bergedorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.private.md|Bergedorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.personal.md|Bergedorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.secret.md|Bergedorf.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Bergedorf.internal.md|Bergedorf.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Bergedorf.protect.md|Bergedorf.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Bergedorf.private.md|Bergedorf.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Bergedorf.personal.md|Bergedorf.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg/City/Bergedorf.secret.md|Bergedorf.secret]] 

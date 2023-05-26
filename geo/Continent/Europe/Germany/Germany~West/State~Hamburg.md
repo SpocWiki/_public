@@ -9,7 +9,7 @@ tags:
 
 ---
 
-[name::State-Hamburg]
+[name::State~Hamburg]
 [name-abbr::HG]
 
 ![[State~Hamburg/Coat_of_arms_of_Hamburg_Bürgerschaft.svg|350]]
@@ -17,16 +17,16 @@ tags:
 ![[State~Hamburg/Flag_of_Hamburg.svg|350]]
 
 ```leaflet
-id: State-Hamburg
+id: State~Hamburg
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./State-Hamburg/
-markerFolder: ./State-Hamburg/City
+geojsonFolder: ./State~Hamburg/
+markerFolder: ./State~Hamburg/City
 ```
 
 [Country:: [[Germany]] ]
-[Capital:: [[State-Hamburg/City/Hamburg]] ]
+[Capital:: [[State~Hamburg/City/Hamburg]] ]
 [geo-lon::9.93222]
 [geo-lat::53.54]
 [Population::]
@@ -35,8 +35,8 @@ markerFolder: ./State-Hamburg/City
 
 ## Confidential Links & Embeds: 
 - [[State~Hamburg|State~Hamburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg.internal.md|State-Hamburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg.protect.md|State-Hamburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg.private.md|State-Hamburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg.personal.md|State-Hamburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg.secret.md|State-Hamburg.secret]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg.internal.md|State~Hamburg.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg.protect.md|State~Hamburg.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg.private.md|State~Hamburg.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg.personal.md|State~Hamburg.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg.secret.md|State~Hamburg.secret]] 

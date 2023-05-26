@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.43]
 [name::Koepenick]
 [Country::[[Germany]]]
-[State :: [[../../State-Berlin]] ]
+[State :: [[../../State~Berlin]] ]
 [Population::]
 [Unknown::]
 
@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Koepenick|Koepenick]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.internal.md|Koepenick.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.protect.md|Koepenick.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.private.md|Koepenick.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.personal.md|Koepenick.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.secret.md|Koepenick.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.internal.md|Koepenick.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.protect.md|Koepenick.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.private.md|Koepenick.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.personal.md|Koepenick.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Koepenick.secret.md|Koepenick.secret]] 

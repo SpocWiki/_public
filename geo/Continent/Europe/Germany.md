@@ -131,7 +131,7 @@ markerFolder: ./Germany/City
 [Area-Land::349270]
 [Continent::[[Europe]]]
 [VehicleCode::D]
-[Capital::[[Germany/Germany~West/State-Berlin/City/Berlin]]]
+[Capital::[[Germany/Germany~West/State~Berlin/City/Berlin]]]
 [Alcohol-l::12.8]
 [Language-Id::497]
 [geo-lon::10.1207]

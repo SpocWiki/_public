@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.45]
 [name::Tempelhof]
 [Country::[[Germany]]]
-[State :: [[../../State-Berlin]] ]
+[State :: [[../../State~Berlin]] ]
 [Population::]
 [Unknown::]
 
@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 -[[Tempelhof|Tempelhof]]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Tempelhof.internal.md|Tempelhof.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Tempelhof.protect.md|Tempelhof.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Tempelhof.private.md|Tempelhof.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Tempelhof.personal.md|Tempelhof.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Tempelhof.secret.md|Tempelhof.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Tempelhof.internal.md|Tempelhof.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Tempelhof.protect.md|Tempelhof.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Tempelhof.private.md|Tempelhof.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Tempelhof.personal.md|Tempelhof.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Tempelhof.secret.md|Tempelhof.secret]] 
