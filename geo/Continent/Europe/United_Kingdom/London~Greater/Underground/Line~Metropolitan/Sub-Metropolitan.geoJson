@@ -2,8 +2,8 @@
 "properties": {
 	"stroke": "#840b55", "stroke-width": 9,"stroke-opacity": 0.8,
 	"fill": "#840b55", "fill-opacity": 0.5,
-	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub-Metropolitan",
-	"title": "Sub-Metropolitan", "description": "Subway Line Metropolitan"
+	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub~Metropolitan",
+	"title": "Sub~Metropolitan", "description": "Subway Line Metropolitan"
 },
 "geometry": {"type": "MultiLineString", 
 "coordinates": [[

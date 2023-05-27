@@ -2,8 +2,8 @@
 "properties": {
 	"stroke": "#a45a2a", "stroke-width": 9,"stroke-opacity": 0.8,
 	"fill": "#a45a2a", "fill-opacity": 0.5,
-	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub-Bakerloo",
-	"title": "Sub-Bakerloo", "description": "Subway Line Bakerloo"
+	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub~Bakerloo",
+	"title": "Sub~Bakerloo", "description": "Subway Line Bakerloo"
 },
 "geometry": {"type": "LineString", 
 "coordinates": [

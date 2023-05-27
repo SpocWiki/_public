@@ -27,8 +27,8 @@ The City Core of the [[../London~Greater|London~Greater]] Area.
 
 ```leaflet
 id: London
-coordinates: [[London]]
-markerFile: [[London]]
+coordinates: [[City~London]]
+markerFile: [[City~London]]
 defaultZoom: 11 
 maxZoom: 18
 ```

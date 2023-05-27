@@ -2,8 +2,8 @@
 "properties": {
 	"stroke": "#007a33", "stroke-width": 9,"stroke-opacity": 0.8,
 	"fill": "#007a33", "fill-opacity": 0.5,
-	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub-District",
-	"title": "Sub-District", "description": "Subway Line District"
+	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub~District",
+	"title": "Sub~District", "description": "Subway Line District"
 },
 "geometry": {"type": "MultiLineString", 
 "coordinates": [[

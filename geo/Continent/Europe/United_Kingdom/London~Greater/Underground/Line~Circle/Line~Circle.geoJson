@@ -2,8 +2,8 @@
 "properties": {
 	"stroke": "#fecc00", "stroke-width": 9,"stroke-opacity": 0.8,
 	"fill": "#fecc00", "fill-opacity": 0.5,
-	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub-Circle",
-	"title": "Sub-Circle", "description": "Subway Line Circle"
+	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub~Circle",
+	"title": "Sub~Circle", "description": "Subway Line Circle"
 },
 "geometry": {"type": "LineString", 
 "coordinates": [

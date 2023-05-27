@@ -2,8 +2,8 @@
 "properties": {
 	"stroke": "#da291c", "stroke-width": 9,"stroke-opacity": 0.8,
 	"fill": "#da291c", "fill-opacity": 0.5,
-	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub-Central",
-	"title": "Sub-Central", "description": "Subway Line Central"
+	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub~Central",
+	"title": "Sub~Central", "description": "Subway Line Central"
 },
 "geometry": {"type": "MultiLineString", 
 "coordinates": [[

@@ -2,8 +2,8 @@
 "properties": {
 	"stroke": "#6eceb2", "stroke-width": 9,"stroke-opacity": 0.8,
 	"fill": "#6eceb2", "fill-opacity": 0.5,
-	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub-Waterloo",
-	"title": "Sub-Waterloo", "description": "Subway Line Waterloo"
+	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub~Waterloo",
+	"title": "Sub~Waterloo", "description": "Subway Line Waterloo"
 },
 "geometry": {"type": "LineString", 
 "coordinates": [

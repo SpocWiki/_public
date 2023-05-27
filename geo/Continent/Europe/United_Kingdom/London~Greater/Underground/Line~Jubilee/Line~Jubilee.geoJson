@@ -2,8 +2,8 @@
 "properties": {
 	"stroke": "#7c878e", "stroke-width": 9,"stroke-opacity": 0.8,
 	"fill": "#7c878e", "fill-opacity": 0.5,
-	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub-Jubilee",
-	"title": "Sub-Jubilee", "description": "Subway Line Jubilee"
+	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub~Jubilee",
+	"title": "Sub~Jubilee", "description": "Subway Line Jubilee"
 },
 "geometry": {"type": "LineString", 
 "coordinates": [

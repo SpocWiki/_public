@@ -2,8 +2,8 @@
 "properties": {
 	"stroke": "#000000", "stroke-width": 9,"stroke-opacity": 0.8,
 	"fill": "#000000", "fill-opacity": 0.5,
-	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub-Northern",
-	"title": "Sub-Northern", "description": "Subway Line Northern"
+	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub~Northern",
+	"title": "Sub~Northern", "description": "Subway Line Northern"
 },
 "geometry": {"type": "MultiLineString", 
 "coordinates": [[

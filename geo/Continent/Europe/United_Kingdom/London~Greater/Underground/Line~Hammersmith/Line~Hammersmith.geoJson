@@ -2,8 +2,8 @@
 "properties": {
 	"stroke": "#e89cae", "stroke-width": 9,"stroke-opacity": 0.8,
 	"fill": "#e89cae", "fill-opacity": 0.5,
-	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub-Hammersmith",
-	"title": "Sub-Hammersmith", "description": "Subway Line Hammersmith"
+	"ISO3166-1-Alpha-3": "GBR", "country": "England", "city": "London", "name": "Sub~Hammersmith",
+	"title": "Sub~Hammersmith", "description": "Subway Line Hammersmith"
 },
 "geometry": {"type": "LineString", 
 "coordinates": [
