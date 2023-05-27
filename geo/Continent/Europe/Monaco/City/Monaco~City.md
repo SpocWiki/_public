@@ -14,7 +14,7 @@ confidential: public
 ---
 
 There is no geographical distinction between the State and City of Monaco,
-although responsibilities of the government (State~level) and of the municipality (city-level) are different.
+although responsibilities of the government (State~level) and of the municipality (City~level) are different.
 
 [geo-lon::7.4]
 [geo-lat::43.7]

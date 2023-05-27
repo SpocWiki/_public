@@ -104,7 +104,7 @@ Languages:
 
 
 There is no geographical distinction between the State and City of Monaco,
-although responsibilities of the government (State~level) and of the municipality (city-level) are different.
+although responsibilities of the government (State~level) and of the municipality (City~level) are different.
 
 [ISO2::MC]
 [ISO3::MCO]
