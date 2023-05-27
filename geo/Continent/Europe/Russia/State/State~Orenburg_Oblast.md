@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Orenburg_Oblast
-geojsonFolder: ./State-Orenburg_Oblast/
-markerFolder: ./State-Orenburg_Oblast/City
+id: State~Orenburg_Oblast
+geojsonFolder: ./State~Orenburg_Oblast/
+markerFolder: ./State~Orenburg_Oblast/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Orenburg_Oblast|State~Orenburg_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Orenburg_Oblast.internal|State~Orenburg_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.protect.md|State-Orenburg_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.private.md|State-Orenburg_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.personal.md|State-Orenburg_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.secret.md|State-Orenburg_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Orenburg_Oblast.protect.md|State~Orenburg_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Orenburg_Oblast.private.md|State~Orenburg_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Orenburg_Oblast.personal.md|State~Orenburg_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Orenburg_Oblast.secret.md|State~Orenburg_Oblast.secret]] 

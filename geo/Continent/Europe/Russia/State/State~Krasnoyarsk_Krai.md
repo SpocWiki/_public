@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Krasnoyarsk_Krai
-geojsonFolder: ./State-Krasnoyarsk_Krai/
-markerFolder: ./State-Krasnoyarsk_Krai/City
+id: State~Krasnoyarsk_Krai
+geojsonFolder: ./State~Krasnoyarsk_Krai/
+markerFolder: ./State~Krasnoyarsk_Krai/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Krasnoyarsk_Krai|State~Krasnoyarsk_Krai]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.internal|State~Krasnoyarsk_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.protect.md|State-Krasnoyarsk_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.private.md|State-Krasnoyarsk_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.personal.md|State-Krasnoyarsk_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.secret.md|State-Krasnoyarsk_Krai.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.protect.md|State~Krasnoyarsk_Krai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.private.md|State~Krasnoyarsk_Krai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.personal.md|State~Krasnoyarsk_Krai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.secret.md|State~Krasnoyarsk_Krai.secret]] 

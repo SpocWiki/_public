@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Jewish_Autonomous_Oblast
-geojsonFolder: ./State-Jewish_Autonomous_Oblast/
-markerFolder: ./State-Jewish_Autonomous_Oblast/City
+id: State~Jewish_Autonomous_Oblast
+geojsonFolder: ./State~Jewish_Autonomous_Oblast/
+markerFolder: ./State~Jewish_Autonomous_Oblast/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Jewish_Autonomous_Oblast|State~Jewish_Autonomous_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Jewish_Autonomous_Oblast.internal|State~Jewish_Autonomous_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.protect.md|State-Jewish_Autonomous_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.private.md|State-Jewish_Autonomous_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.personal.md|State-Jewish_Autonomous_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.secret.md|State-Jewish_Autonomous_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Jewish_Autonomous_Oblast.protect.md|State~Jewish_Autonomous_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Jewish_Autonomous_Oblast.private.md|State~Jewish_Autonomous_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Jewish_Autonomous_Oblast.personal.md|State~Jewish_Autonomous_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Jewish_Autonomous_Oblast.secret.md|State~Jewish_Autonomous_Oblast.secret]] 

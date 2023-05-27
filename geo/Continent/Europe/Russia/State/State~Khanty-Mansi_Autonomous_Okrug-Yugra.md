@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Khanty-Mansi_Autonomous_Okrug-Yugra
-geojsonFolder: ./State-Khanty-Mansi_Autonomous_Okrug-Yugra/
-markerFolder: ./State-Khanty-Mansi_Autonomous_Okrug-Yugra/City
+id: State~Khanty-Mansi_Autonomous_Okrug-Yugra
+geojsonFolder: ./State~Khanty-Mansi_Autonomous_Okrug-Yugra/
+markerFolder: ./State~Khanty-Mansi_Autonomous_Okrug-Yugra/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Khanty-Mansi_Autonomous_Okrug-Yugra|State~Khanty-Mansi_Autonomous_Okrug-Yugra]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.internal|State~Khanty-Mansi_Autonomous_Okrug-Yugra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.protect.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.private.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.personal.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Khanty-Mansi_Autonomous_Okrug-Yugra.secret.md|State-Khanty-Mansi_Autonomous_Okrug-Yugra.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.protect.md|State~Khanty-Mansi_Autonomous_Okrug-Yugra.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.private.md|State~Khanty-Mansi_Autonomous_Okrug-Yugra.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.personal.md|State~Khanty-Mansi_Autonomous_Okrug-Yugra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.secret.md|State~Khanty-Mansi_Autonomous_Okrug-Yugra.secret]] 

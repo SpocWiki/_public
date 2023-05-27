@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Penza_Oblast
-geojsonFolder: ./State-Penza_Oblast/
-markerFolder: ./State-Penza_Oblast/City
+id: State~Penza_Oblast
+geojsonFolder: ./State~Penza_Oblast/
+markerFolder: ./State~Penza_Oblast/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Penza_Oblast|State~Penza_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Penza_Oblast.internal|State~Penza_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Penza_Oblast.protect.md|State-Penza_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Penza_Oblast.private.md|State-Penza_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Penza_Oblast.personal.md|State-Penza_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Penza_Oblast.secret.md|State-Penza_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Penza_Oblast.protect.md|State~Penza_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Penza_Oblast.private.md|State~Penza_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Penza_Oblast.personal.md|State~Penza_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Penza_Oblast.secret.md|State~Penza_Oblast.secret]] 

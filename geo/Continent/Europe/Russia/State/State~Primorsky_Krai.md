@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Primorsky_Krai
-geojsonFolder: ./State-Primorsky_Krai/
-markerFolder: ./State-Primorsky_Krai/City
+id: State~Primorsky_Krai
+geojsonFolder: ./State~Primorsky_Krai/
+markerFolder: ./State~Primorsky_Krai/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Primorsky_Krai|State~Primorsky_Krai]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Primorsky_Krai.internal|State~Primorsky_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.protect.md|State-Primorsky_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.private.md|State-Primorsky_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.personal.md|State-Primorsky_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.secret.md|State-Primorsky_Krai.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Primorsky_Krai.protect.md|State~Primorsky_Krai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Primorsky_Krai.private.md|State~Primorsky_Krai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Primorsky_Krai.personal.md|State~Primorsky_Krai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Primorsky_Krai.secret.md|State~Primorsky_Krai.secret]] 

@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Tambov_Oblast
-geojsonFolder: ./State-Tambov_Oblast/
-markerFolder: ./State-Tambov_Oblast/City
+id: State~Tambov_Oblast
+geojsonFolder: ./State~Tambov_Oblast/
+markerFolder: ./State~Tambov_Oblast/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Tambov_Oblast|State~Tambov_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.internal|State~Tambov_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.protect.md|State-Tambov_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.private.md|State-Tambov_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.personal.md|State-Tambov_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.secret.md|State-Tambov_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.protect.md|State~Tambov_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.private.md|State~Tambov_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.personal.md|State~Tambov_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.secret.md|State~Tambov_Oblast.secret]] 

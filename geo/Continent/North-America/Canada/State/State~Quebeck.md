@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Quebeck
-geojsonFolder: ./State-Quebeck/
-markerFolder: ./State-Quebeck/City
+id: State~Quebeck
+geojsonFolder: ./State~Quebeck/
+markerFolder: ./State~Quebeck/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Quebeck|State~Quebeck]]] 
 - [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~Quebeck.internal|State~Quebeck.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Quebeck.protect.md|State-Quebeck.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State-Quebeck.private.md|State-Quebeck.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Quebeck.personal.md|State-Quebeck.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Quebeck.secret.md|State-Quebeck.secret]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Quebeck.protect.md|State~Quebeck.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Quebeck.private.md|State~Quebeck.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Quebeck.personal.md|State~Quebeck.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Quebeck.secret.md|State~Quebeck.secret]] 

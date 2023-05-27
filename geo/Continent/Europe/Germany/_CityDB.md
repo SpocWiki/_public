@@ -76,11 +76,11 @@ columns:
     sortIndex: -1
     options:
       - { label: "{{State}}", backgroundColor: "hsl(314, 95%, 90%)"}
-      - { label: "[[State-NordRhein-Westfahlen|State-NordRhein-Westfahlen]]", backgroundColor: "hsl(79, 95%, 90%)"}
-      - { label: "[[State-Baden-Wuerttemberg|State-Baden-Wuerttemberg]]", backgroundColor: "hsl(329, 95%, 90%)"}
-      - { label: "[[State-Bayern|State-Bayern]]", backgroundColor: "hsl(21, 95%, 90%)"}
-      - { label: "[[State-Niedersachsen|State-Niedersachsen]]", backgroundColor: "hsl(141, 95%, 90%)"}
-      - { label: "[[State-Rheinland-Pfalz|State-Rheinland-Pfalz]]", backgroundColor: "hsl(354, 95%, 90%)"}
+      - { label: "[[State~NordRhein-Westfahlen|State~NordRhein-Westfahlen]]", backgroundColor: "hsl(79, 95%, 90%)"}
+      - { label: "[[State~Baden-Wuerttemberg|State~Baden-Wuerttemberg]]", backgroundColor: "hsl(329, 95%, 90%)"}
+      - { label: "[[State~Bayern|State~Bayern]]", backgroundColor: "hsl(21, 95%, 90%)"}
+      - { label: "[[State~Niedersachsen|State~Niedersachsen]]", backgroundColor: "hsl(141, 95%, 90%)"}
+      - { label: "[[State~Rheinland-Pfalz|State~Rheinland-Pfalz]]", backgroundColor: "hsl(354, 95%, 90%)"}
       - { label: "[[_public/geo/Continent/Europe/Germany/Thüringen.md|Thüringen]]", backgroundColor: "hsl(8, 95%, 90%)"}
       - { label: "[[_public/geo/Continent/Europe/Germany/Baden-Wuerttemberg.md|Baden-Wuerttemberg]]", backgroundColor: "hsl(188, 95%, 90%)"}
     config:

@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Kirov_Oblast
-geojsonFolder: ./State-Kirov_Oblast/
-markerFolder: ./State-Kirov_Oblast/City
+id: State~Kirov_Oblast
+geojsonFolder: ./State~Kirov_Oblast/
+markerFolder: ./State~Kirov_Oblast/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Kirov_Oblast|State~Kirov_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Kirov_Oblast.internal|State~Kirov_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Kirov_Oblast.protect.md|State-Kirov_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Kirov_Oblast.private.md|State-Kirov_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Kirov_Oblast.personal.md|State-Kirov_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Kirov_Oblast.secret.md|State-Kirov_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Kirov_Oblast.protect.md|State~Kirov_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Kirov_Oblast.private.md|State~Kirov_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Kirov_Oblast.personal.md|State~Kirov_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Kirov_Oblast.secret.md|State~Kirov_Oblast.secret]] 

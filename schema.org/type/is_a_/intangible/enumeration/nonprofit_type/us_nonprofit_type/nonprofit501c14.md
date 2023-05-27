@@ -39,7 +39,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Nonprofit501c14: Non-profit type referring to State-Chartered Credit Unions, Mutual Reserve Funds.
+Nonprofit501c14: Non-profit type referring to State~Chartered Credit Unions, Mutual Reserve Funds.
 
 [ #is_/sub_class_of :: [[../USNonprofitType]] ]
 

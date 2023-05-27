@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Belgorod_Oblast
-geojsonFolder: ./State-Belgorod_Oblast/
-markerFolder: ./State-Belgorod_Oblast/City
+id: State~Belgorod_Oblast
+geojsonFolder: ./State~Belgorod_Oblast/
+markerFolder: ./State~Belgorod_Oblast/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Belgorod_Oblast|State~Belgorod_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Belgorod_Oblast.internal|State~Belgorod_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.protect.md|State-Belgorod_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.private.md|State-Belgorod_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.personal.md|State-Belgorod_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.secret.md|State-Belgorod_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Belgorod_Oblast.protect.md|State~Belgorod_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Belgorod_Oblast.private.md|State~Belgorod_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Belgorod_Oblast.personal.md|State~Belgorod_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Belgorod_Oblast.secret.md|State~Belgorod_Oblast.secret]] 

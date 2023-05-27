@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Stavropol_Krai
-geojsonFolder: ./State-Stavropol_Krai/
-markerFolder: ./State-Stavropol_Krai/City
+id: State~Stavropol_Krai
+geojsonFolder: ./State~Stavropol_Krai/
+markerFolder: ./State~Stavropol_Krai/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Stavropol_Krai|State~Stavropol_Krai]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.internal|State~Stavropol_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Stavropol_Krai.protect.md|State-Stavropol_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Stavropol_Krai.private.md|State-Stavropol_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Stavropol_Krai.personal.md|State-Stavropol_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Stavropol_Krai.secret.md|State-Stavropol_Krai.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.protect.md|State~Stavropol_Krai.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.private.md|State~Stavropol_Krai.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.personal.md|State~Stavropol_Krai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Stavropol_Krai.secret.md|State~Stavropol_Krai.secret]] 

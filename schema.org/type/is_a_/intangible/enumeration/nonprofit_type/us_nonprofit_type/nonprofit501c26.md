@@ -39,7 +39,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Nonprofit501c26: Non-profit type referring to State-Sponsored Organizations Providing Health Coverage for High-Risk Individuals.
+Nonprofit501c26: Non-profit type referring to State~Sponsored Organizations Providing Health Coverage for High-Risk Individuals.
 
 [ #is_/sub_class_of :: [[../USNonprofitType]] ]
 

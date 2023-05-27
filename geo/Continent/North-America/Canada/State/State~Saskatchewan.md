@@ -22,9 +22,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Saskatchewan
-geojsonFolder: ./State-Saskatchewan/
-markerFolder: ./State-Saskatchewan/City
+id: State~Saskatchewan
+geojsonFolder: ./State~Saskatchewan/
+markerFolder: ./State~Saskatchewan/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -34,7 +34,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Saskatchewan|State~Saskatchewan]]] 
 - [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~Saskatchewan.internal|State~Saskatchewan.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Saskatchewan.protect.md|State-Saskatchewan.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State-Saskatchewan.private.md|State-Saskatchewan.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Saskatchewan.personal.md|State-Saskatchewan.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Saskatchewan.secret.md|State-Saskatchewan.secret]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Saskatchewan.protect.md|State~Saskatchewan.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Saskatchewan.private.md|State~Saskatchewan.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Saskatchewan.personal.md|State~Saskatchewan.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Saskatchewan.secret.md|State~Saskatchewan.secret]] 

@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Astrakhan_Oblast
-geojsonFolder: ./State-Astrakhan_Oblast/
-markerFolder: ./State-Astrakhan_Oblast/City
+id: State~Astrakhan_Oblast
+geojsonFolder: ./State~Astrakhan_Oblast/
+markerFolder: ./State~Astrakhan_Oblast/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Astrakhan_Oblast|State~Astrakhan_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.internal|State~Astrakhan_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Astrakhan_Oblast.protect.md|State-Astrakhan_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Astrakhan_Oblast.private.md|State-Astrakhan_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Astrakhan_Oblast.personal.md|State-Astrakhan_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Astrakhan_Oblast.secret.md|State-Astrakhan_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.protect.md|State~Astrakhan_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.private.md|State~Astrakhan_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.personal.md|State~Astrakhan_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.secret.md|State~Astrakhan_Oblast.secret]] 

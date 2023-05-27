@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Sakha(Yakutia)~Republic
-geojsonFolder: ./State-Sakha(Yakutia)~Republic/
-markerFolder: ./State-Sakha(Yakutia)~Republic/City
+id: State~Sakha(Yakutia)~Republic
+geojsonFolder: ./State~Sakha(Yakutia)~Republic/
+markerFolder: ./State~Sakha(Yakutia)~Republic/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Sakha(Yakutia)~Republic|State~Sakha(Yakutia)~Republic]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.internal|State~Sakha(Yakutia)~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.protect.md|State-Sakha(Yakutia)~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.private.md|State-Sakha(Yakutia)~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.personal.md|State-Sakha(Yakutia)~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Sakha(Yakutia)~Republic.secret.md|State-Sakha(Yakutia)~Republic.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.protect.md|State~Sakha(Yakutia)~Republic.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.private.md|State~Sakha(Yakutia)~Republic.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.personal.md|State~Sakha(Yakutia)~Republic.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.secret.md|State~Sakha(Yakutia)~Republic.secret]] 

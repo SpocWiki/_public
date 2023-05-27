@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Novosibirsk_Oblast
-geojsonFolder: ./State-Novosibirsk_Oblast/
-markerFolder: ./State-Novosibirsk_Oblast/City
+id: State~Novosibirsk_Oblast
+geojsonFolder: ./State~Novosibirsk_Oblast/
+markerFolder: ./State~Novosibirsk_Oblast/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Novosibirsk_Oblast|State~Novosibirsk_Oblast]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.internal|State~Novosibirsk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.protect.md|State-Novosibirsk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.private.md|State-Novosibirsk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.personal.md|State-Novosibirsk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.secret.md|State-Novosibirsk_Oblast.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.protect.md|State~Novosibirsk_Oblast.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.private.md|State~Novosibirsk_Oblast.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.personal.md|State~Novosibirsk_Oblast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.secret.md|State~Novosibirsk_Oblast.secret]] 

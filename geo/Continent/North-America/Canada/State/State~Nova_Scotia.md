@@ -22,9 +22,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Nova_Scotia
-geojsonFolder: ./State-Nova_Scotia/
-markerFolder: ./State-Nova_Scotia/City
+id: State~Nova_Scotia
+geojsonFolder: ./State~Nova_Scotia/
+markerFolder: ./State~Nova_Scotia/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -34,7 +34,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 -[[State~Nova_Scotia|State~Nova_Scotia]]] 
 - [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~Nova_Scotia.internal|State~Nova_Scotia.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Nova_Scotia.protect.md|State-Nova_Scotia.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State-Nova_Scotia.private.md|State-Nova_Scotia.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Nova_Scotia.personal.md|State-Nova_Scotia.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Nova_Scotia.secret.md|State-Nova_Scotia.secret]] 
+- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Nova_Scotia.protect.md|State~Nova_Scotia.protect]] 
+- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Nova_Scotia.private.md|State~Nova_Scotia.private]] 
+- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Nova_Scotia.personal.md|State~Nova_Scotia.personal]] 
+- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Nova_Scotia.secret.md|State~Nova_Scotia.secret]] 

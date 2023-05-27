@@ -21,9 +21,9 @@ confidential: public
 
 
 ```leaflet
-id: State-Oblast_Kaliningrad
-geojsonFolder: ./State-Oblast_Kaliningrad/
-markerFolder: ./State-Oblast_Kaliningrad/City
+id: State~Oblast_Kaliningrad
+geojsonFolder: ./State~Oblast_Kaliningrad/
+markerFolder: ./State~Oblast_Kaliningrad/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
@@ -33,7 +33,7 @@ maxZoom: 18
 ## Confidential Links & Embeds: 
 - [[State~Oblast_Kaliningrad|State~Oblast_Kaliningrad]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Oblast_Kaliningrad.internal|State~Oblast_Kaliningrad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.protect.md|State-Oblast_Kaliningrad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.private.md|State-Oblast_Kaliningrad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.personal.md|State-Oblast_Kaliningrad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Oblast_Kaliningrad.secret.md|State-Oblast_Kaliningrad.secret]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Oblast_Kaliningrad.protect.md|State~Oblast_Kaliningrad.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Oblast_Kaliningrad.private.md|State~Oblast_Kaliningrad.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Oblast_Kaliningrad.personal.md|State~Oblast_Kaliningrad.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Oblast_Kaliningrad.secret.md|State~Oblast_Kaliningrad.secret]] 
