@@ -31,7 +31,7 @@ markerFolder: ./Station/
 6.	[[Sub-Finchley_Central]] 
 7.	[[Sub-East_Finchley]] 
 8.	[[Sub-Highgate]] 
-9.	[[Sub-Archway]] 
+9.	[[Station/Sub~Archway]] 
 10.	[[Sub-Tufnell_Park]] 
 11.	[[Sub-Kentish_Town]] 
 
@@ -43,7 +43,7 @@ Edgware_branch:
 5.	[[Sub-Brent_Cross]] 
 6.	[[Sub-Golders_Green]] 
 7.	[[Sub-Hampstead]] 
-8.	[[Sub-Belsize_Park]] 
+8.	[[Station/Sub~Belsize_Park]] 
 9.	[[Sub-Chalk_Farm]] 
 10.	[[Sub-Camden_Town]] 
 11.	[[Sub-Mornington_Crescent]] 
@@ -61,12 +61,12 @@ Charing_Cross_branch:
 Bank_branch:
 14.	[[Sub-Euston]] 
 15.	[[Station/Sub-King's_Cross_St._Pancras]] 
-16.	[[Sub-Angel]] 
+16.	[[Station/Sub~Angel]] 
 17.	[[Sub-Old_Street]] 
 18.	[[Sub-Moorgate]] 
-19.	[[Sub-Bank]] 
+19.	[[Station/Sub~Bank]] 
 20.	[[Sub-London_Bridge]] 
-21.	[[Sub-Borough]] 
+21.	[[Station/Sub~Borough]] 
 22.	[[Sub-Elephant_&_Castle]] 
 
 
@@ -82,7 +82,7 @@ Battersea_branch:
 38.	[[Sub-Clapham_North]] 
 39.	[[Sub-Clapham_Common]] 
 40.	[[Sub-Clapham_South]] 
-41.	[[Sub-Balham]] 
+41.	[[Station/Sub~Balham]] 
 42.	[[Sub-Tooting_Bec]] 
 43.	[[Sub-Tooting_Broadway]] 
 44.	[[Sub-Colliers_Wood]] 

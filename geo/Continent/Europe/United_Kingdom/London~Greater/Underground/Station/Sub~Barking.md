@@ -32,7 +32,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Barking.md|Sub-Barking]] 
+- [[Sub~Barking|Sub~Barking]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Barking.internal.md|Sub-Barking.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Barking.protect.md|Sub-Barking.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Barking.private.md|Sub-Barking.private]] 

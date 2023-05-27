@@ -32,7 +32,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Baker_Street.md|Sub-Baker_Street]] 
+- [[Sub~Baker_Street|Sub~Baker_Street]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Baker_Street.internal.md|Sub-Baker_Street.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Baker_Street.protect.md|Sub-Baker_Street.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Baker_Street.private.md|Sub-Baker_Street.private]] 

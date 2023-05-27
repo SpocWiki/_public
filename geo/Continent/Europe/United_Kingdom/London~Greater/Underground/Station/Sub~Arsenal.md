@@ -32,7 +32,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arsenal.md|Sub-Arsenal]] 
+- [[Sub~Arsenal|Sub~Arsenal]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arsenal.internal.md|Sub-Arsenal.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arsenal.protect.md|Sub-Arsenal.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arsenal.private.md|Sub-Arsenal.private]] 

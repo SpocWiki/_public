@@ -13,7 +13,7 @@ markerFolder: ./Station/
 
 
 # Stations:
-1) [[Station/Sub-Amersham]] 
+1) [[Station/Sub~Amersham]] 
 2) [[Station/Sub-Chesham]] 
 3) [[Station/Sub-Chalfont_&_Latimer]] 
 4) [[Station/Sub-Chorleywood]] 
@@ -38,15 +38,15 @@ markerFolder: ./Station/
 23) [[Station/Sub-Preston_Road]] 
 24) [[Station/Sub-Wembley_Park]] 
 25) [[Station/Sub-Finchley_Road]] 
-26) [[Station/Sub-Baker_Street]] 
+26) [[Station/Sub~Baker_Street]] 
 27) [[Station/Sub-Great_Portland_Street]] 
 28) [[Station/Sub-Euston_Square]] 
 29) [[Station/Sub-King's_Cross_St._Pancras]] 
 30) [[Station/Sub-Farringdon]] 
-31) [[Station/Sub-Barbican]] 
+31) [[Station/Sub~Barbican]] 
 32) [[Station/Sub-Moorgate]] 
 33) [[Station/Sub-Liverpool_Street]] 
-34) [[Station/Sub-Aldgate]] 
+34) [[Station/Sub~Aldgate]] 
 
 
 ```dataview

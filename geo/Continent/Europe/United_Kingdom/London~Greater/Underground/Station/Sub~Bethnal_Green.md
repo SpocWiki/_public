@@ -32,7 +32,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bethnal_Green.md|Sub-Bethnal_Green]] 
+- [[Sub~Bethnal_Green|Sub~Bethnal_Green]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bethnal_Green.internal.md|Sub-Bethnal_Green.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bethnal_Green.protect.md|Sub-Bethnal_Green.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bethnal_Green.private.md|Sub-Bethnal_Green.private]] 

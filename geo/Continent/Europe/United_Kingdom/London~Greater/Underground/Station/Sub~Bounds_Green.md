@@ -32,7 +32,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bounds_Green.md|Sub-Bounds_Green]] 
+- [[Sub~Bounds_Green|Sub~Bounds_Green]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bounds_Green.internal.md|Sub-Bounds_Green.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bounds_Green.protect.md|Sub-Bounds_Green.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bounds_Green.private.md|Sub-Bounds_Green.private]] 

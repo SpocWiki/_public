@@ -32,7 +32,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Boston_Manor.md|Sub-Boston_Manor]] 
+- [[Sub~Boston_Manor|Sub~Boston_Manor]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Boston_Manor.internal.md|Sub-Boston_Manor.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Boston_Manor.protect.md|Sub-Boston_Manor.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Boston_Manor.private.md|Sub-Boston_Manor.private]] 

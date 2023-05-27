@@ -19,7 +19,7 @@ markerFolder: ./Station/
 
 # Stations:
 1) [[Station/Sub-Waterloo]] 
-2) [[Station/Sub-Bank]] 
+2) [[Station/Sub~Bank]] 
 
 ```dataview
 TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"

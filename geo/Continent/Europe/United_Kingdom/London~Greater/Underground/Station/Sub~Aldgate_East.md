@@ -32,7 +32,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Aldgate_East.md|Sub-Aldgate_East]] 
+- [[Sub~Aldgate_East|Sub~Aldgate_East]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Aldgate_East.internal.md|Sub-Aldgate_East.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Aldgate_East.protect.md|Sub-Aldgate_East.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Aldgate_East.private.md|Sub-Aldgate_East.private]] 

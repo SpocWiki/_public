@@ -38,7 +38,7 @@ markerFolder: ./Station/
 14) [[Station/Sub-Paddington]] 
 15) [[Station/Sub-Edgware_Road_(C)]] 
 16) [[Station/Sub-Marylebone]] 
-17) [[Station/Sub-Baker_Street]] 
+17) [[Station/Sub~Baker_Street]] 
 18) [[Station/Sub-Regent's_Park]] 
 19) [[Station/Sub-Oxford_Circus]] 
 20) [[Station/Sub-Piccadilly_Circus]] 

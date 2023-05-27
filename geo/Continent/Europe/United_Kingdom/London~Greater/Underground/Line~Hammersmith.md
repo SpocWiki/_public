@@ -23,15 +23,15 @@ markerFolder: ./Station/
 8) [[Station/Sub-Royal_Oak]] 
 9) [[Station/Sub-Paddington]] 
 10) [[Station/Sub-Edgware_Road_(C)]] 
-11) [[Station/Sub-Baker_Street]] 
+11) [[Station/Sub~Baker_Street]] 
 12) [[Station/Sub-Great_Portland_Street]] 
 13) [[Station/Sub-Euston_Square]] 
 14) [[Station/Sub-King's_Cross_St._Pancras]] 
 15) [[Station/Sub-Farringdon]] 
-16) [[Station/Sub-Barbican]] 
+16) [[Station/Sub~Barbican]] 
 17) [[Station/Sub-Moorgate]] 
 18) [[Station/Sub-Liverpool_Street]] 
-19) [[Station/Sub-Aldgate]] 
+19) [[Station/Sub~Aldgate]] 
 20) [[Station/Sub-Whitechapel]] 
 21) [[Station/Sub-Stepney_Green]] 
 22) [[Station/Sub-Mile_End]] 
@@ -41,7 +41,7 @@ markerFolder: ./Station/
 26) [[Station/Sub-Plaistow]] 
 27) [[Station/Sub-Upton_Park]] 
 28) [[Station/Sub-East_Ham]] 
-29) [[Station/Sub-Barking]] 
+29) [[Station/Sub~Barking]] 
 
 ```dataview
 TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"

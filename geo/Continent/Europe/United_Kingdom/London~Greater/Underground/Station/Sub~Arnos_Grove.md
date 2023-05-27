@@ -32,7 +32,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arnos_Grove.md|Sub-Arnos_Grove]] 
+- [[Sub~Arnos_Grove|Sub~Arnos_Grove]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arnos_Grove.internal.md|Sub-Arnos_Grove.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arnos_Grove.protect.md|Sub-Arnos_Grove.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arnos_Grove.private.md|Sub-Arnos_Grove.private]] 

@@ -20,7 +20,7 @@ markerFolder: ./Station/
 
 # Stations: 
 1.	[[Sub-Walthamstow_Central]] 
-2.	[[Sub-Blackhorse_Road]] 
+2.	[[Station/Sub~Blackhorse_Road]] 
 6.	[[Sub-Tottenham_Hale]] 
 7.	[[Station/Sub-Seven_Sisters]]] 
 11.	[[Sub-Finsbury_Park]] 

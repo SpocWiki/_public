@@ -32,7 +32,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Beckton_Park.md|Sub-Beckton_Park]] 
+- [[Sub~Beckton_Park|Sub~Beckton_Park]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Beckton_Park.internal.md|Sub-Beckton_Park.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Beckton_Park.protect.md|Sub-Beckton_Park.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Beckton_Park.private.md|Sub-Beckton_Park.private]] 
