@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Stratford
-coordinates: [[Sub-Stratford]]
-markerFile: [[Sub-Stratford]]
+id: Sub~Stratford
+coordinates: [[Sub~Stratford]]
+markerFile: [[Sub~Stratford]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stratford.md|Sub-Stratford]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stratford.internal.md|Sub-Stratford.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stratford.protect.md|Sub-Stratford.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stratford.private.md|Sub-Stratford.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stratford.personal.md|Sub-Stratford.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stratford.secret.md|Sub-Stratford.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stratford.md|Sub~Stratford]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stratford.internal.md|Sub~Stratford.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stratford.protect.md|Sub~Stratford.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stratford.private.md|Sub~Stratford.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stratford.personal.md|Sub~Stratford.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stratford.secret.md|Sub~Stratford.secret]] 

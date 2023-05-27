@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Ruislip_Gardens
-coordinates: [[Sub-Ruislip_Gardens]]
-markerFile: [[Sub-Ruislip_Gardens]]
+id: Sub~Ruislip_Gardens
+coordinates: [[Sub~Ruislip_Gardens]]
+markerFile: [[Sub~Ruislip_Gardens]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.md|Sub-Ruislip_Gardens]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.internal.md|Sub-Ruislip_Gardens.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.protect.md|Sub-Ruislip_Gardens.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.private.md|Sub-Ruislip_Gardens.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.personal.md|Sub-Ruislip_Gardens.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.secret.md|Sub-Ruislip_Gardens.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.md|Sub~Ruislip_Gardens]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.internal.md|Sub~Ruislip_Gardens.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.protect.md|Sub~Ruislip_Gardens.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.private.md|Sub~Ruislip_Gardens.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.personal.md|Sub~Ruislip_Gardens.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Gardens.secret.md|Sub~Ruislip_Gardens.secret]] 

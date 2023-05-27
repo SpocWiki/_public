@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Highgate
-coordinates: [[Sub-Highgate]]
-markerFile: [[Sub-Highgate]]
+id: Sub~Highgate
+coordinates: [[Sub~Highgate]]
+markerFile: [[Sub~Highgate]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highgate.md|Sub-Highgate]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highgate.internal.md|Sub-Highgate.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highgate.protect.md|Sub-Highgate.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highgate.private.md|Sub-Highgate.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highgate.personal.md|Sub-Highgate.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highgate.secret.md|Sub-Highgate.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highgate.md|Sub~Highgate]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highgate.internal.md|Sub~Highgate.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highgate.protect.md|Sub~Highgate.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highgate.private.md|Sub~Highgate.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highgate.personal.md|Sub~Highgate.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highgate.secret.md|Sub~Highgate.secret]] 

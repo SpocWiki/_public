@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-North_Ealing
-coordinates: [[Sub-North_Ealing]]
-markerFile: [[Sub-North_Ealing]]
+id: Sub~North_Ealing
+coordinates: [[Sub~North_Ealing]]
+markerFile: [[Sub~North_Ealing]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-North_Ealing.md|Sub-North_Ealing]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-North_Ealing.internal.md|Sub-North_Ealing.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-North_Ealing.protect.md|Sub-North_Ealing.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-North_Ealing.private.md|Sub-North_Ealing.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-North_Ealing.personal.md|Sub-North_Ealing.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-North_Ealing.secret.md|Sub-North_Ealing.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~North_Ealing.md|Sub~North_Ealing]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~North_Ealing.internal.md|Sub~North_Ealing.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~North_Ealing.protect.md|Sub~North_Ealing.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~North_Ealing.private.md|Sub~North_Ealing.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~North_Ealing.personal.md|Sub~North_Ealing.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~North_Ealing.secret.md|Sub~North_Ealing.secret]] 

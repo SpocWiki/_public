@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Shepherd's_Bush_(H)
-coordinates: [[Sub-Shepherd's_Bush_(H)]]
-markerFile: [[Sub-Shepherd's_Bush_(H)]]
+id: Sub~Shepherd's_Bush_(H)
+coordinates: [[Sub~Shepherd's_Bush_(H)]]
+markerFile: [[Sub~Shepherd's_Bush_(H)]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Shepherd's_Bush_(H).md|Sub-Shepherd's_Bush_(H)]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Shepherd's_Bush_(H).internal.md|Sub-Shepherd's_Bush_(H).internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Shepherd's_Bush_(H).protect.md|Sub-Shepherd's_Bush_(H).protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Shepherd's_Bush_(H).private.md|Sub-Shepherd's_Bush_(H).private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Shepherd's_Bush_(H).personal.md|Sub-Shepherd's_Bush_(H).personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Shepherd's_Bush_(H).secret.md|Sub-Shepherd's_Bush_(H).secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).md|Sub~Shepherd's_Bush_(H)]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).internal.md|Sub~Shepherd's_Bush_(H).internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).protect.md|Sub~Shepherd's_Bush_(H).protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).private.md|Sub~Shepherd's_Bush_(H).private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).personal.md|Sub~Shepherd's_Bush_(H).personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).secret.md|Sub~Shepherd's_Bush_(H).secret]] 

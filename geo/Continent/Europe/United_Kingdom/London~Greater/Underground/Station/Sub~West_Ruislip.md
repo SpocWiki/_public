@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-West_Ruislip
-coordinates: [[Sub-West_Ruislip]]
-markerFile: [[Sub-West_Ruislip]]
+id: Sub~West_Ruislip
+coordinates: [[Sub~West_Ruislip]]
+markerFile: [[Sub~West_Ruislip]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.md|Sub-West_Ruislip]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.internal.md|Sub-West_Ruislip.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.protect.md|Sub-West_Ruislip.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.private.md|Sub-West_Ruislip.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.personal.md|Sub-West_Ruislip.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.secret.md|Sub-West_Ruislip.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Ruislip.md|Sub~West_Ruislip]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Ruislip.internal.md|Sub~West_Ruislip.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Ruislip.protect.md|Sub~West_Ruislip.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Ruislip.private.md|Sub~West_Ruislip.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Ruislip.personal.md|Sub~West_Ruislip.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Ruislip.secret.md|Sub~West_Ruislip.secret]] 

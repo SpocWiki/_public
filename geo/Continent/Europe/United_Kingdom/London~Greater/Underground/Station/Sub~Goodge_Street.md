@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Goodge_Street
-coordinates: [[Sub-Goodge_Street]]
-markerFile: [[Sub-Goodge_Street]]
+id: Sub~Goodge_Street
+coordinates: [[Sub~Goodge_Street]]
+markerFile: [[Sub~Goodge_Street]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goodge_Street.md|Sub-Goodge_Street]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goodge_Street.internal.md|Sub-Goodge_Street.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goodge_Street.protect.md|Sub-Goodge_Street.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goodge_Street.private.md|Sub-Goodge_Street.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goodge_Street.personal.md|Sub-Goodge_Street.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goodge_Street.secret.md|Sub-Goodge_Street.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goodge_Street.md|Sub~Goodge_Street]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goodge_Street.internal.md|Sub~Goodge_Street.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goodge_Street.protect.md|Sub~Goodge_Street.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goodge_Street.private.md|Sub~Goodge_Street.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goodge_Street.personal.md|Sub~Goodge_Street.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goodge_Street.secret.md|Sub~Goodge_Street.secret]] 

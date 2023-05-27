@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-East_Putney
-coordinates: [[Sub-East_Putney]]
-markerFile: [[Sub-East_Putney]]
+id: Sub~East_Putney
+coordinates: [[Sub~East_Putney]]
+markerFile: [[Sub~East_Putney]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-East_Putney.md|Sub-East_Putney]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-East_Putney.internal.md|Sub-East_Putney.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-East_Putney.protect.md|Sub-East_Putney.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-East_Putney.private.md|Sub-East_Putney.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-East_Putney.personal.md|Sub-East_Putney.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-East_Putney.secret.md|Sub-East_Putney.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~East_Putney.md|Sub~East_Putney]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~East_Putney.internal.md|Sub~East_Putney.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~East_Putney.protect.md|Sub~East_Putney.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~East_Putney.private.md|Sub~East_Putney.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~East_Putney.personal.md|Sub~East_Putney.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~East_Putney.secret.md|Sub~East_Putney.secret]] 

@@ -23,17 +23,17 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Bond_Street
-coordinates: [[Sub-Bond_Street]]
-markerFile: [[Sub-Bond_Street]]
+id: Sub~Bond_Street
+coordinates: [[Sub~Bond_Street]]
+markerFile: [[Sub~Bond_Street]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../[[Sub~Bond_Street|Sub~Bond_Street]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bond_Street.internal.md|Sub-Bond_Street.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bond_Street.protect.md|Sub-Bond_Street.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bond_Street.private.md|Sub-Bond_Street.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bond_Street.personal.md|Sub-Bond_Street.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bond_Street.secret.md|Sub-Bond_Street.secret]] 
+- [[../../[[Sub~Bond_Street|Sub~Bond_Street]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.internal.md|Sub~Bond_Street.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.protect.md|Sub~Bond_Street.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.private.md|Sub~Bond_Street.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.personal.md|Sub~Bond_Street.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bond_Street.secret.md|Sub~Bond_Street.secret]] 

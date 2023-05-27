@@ -18,7 +18,7 @@ markerFolder: ./Station/
 
 
 # Stations:
-1) [[Station/Sub-Waterloo]] 
+1) [[Station/Sub~Waterloo]] 
 2) [[Station/Sub~Bank]] 
 
 ```dataview

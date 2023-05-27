@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Latimer_Road
-coordinates: [[Sub-Latimer_Road]]
-markerFile: [[Sub-Latimer_Road]]
+id: Sub~Latimer_Road
+coordinates: [[Sub~Latimer_Road]]
+markerFile: [[Sub~Latimer_Road]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Latimer_Road.md|Sub-Latimer_Road]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Latimer_Road.internal.md|Sub-Latimer_Road.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Latimer_Road.protect.md|Sub-Latimer_Road.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Latimer_Road.private.md|Sub-Latimer_Road.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Latimer_Road.personal.md|Sub-Latimer_Road.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Latimer_Road.secret.md|Sub-Latimer_Road.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Latimer_Road.md|Sub~Latimer_Road]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Latimer_Road.internal.md|Sub~Latimer_Road.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Latimer_Road.protect.md|Sub~Latimer_Road.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Latimer_Road.private.md|Sub~Latimer_Road.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Latimer_Road.personal.md|Sub~Latimer_Road.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Latimer_Road.secret.md|Sub~Latimer_Road.secret]] 

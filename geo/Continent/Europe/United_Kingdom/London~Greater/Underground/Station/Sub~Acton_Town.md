@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Acton_Town
-coordinates: [[Sub-Acton_Town]]
-markerFile: [[Sub-Acton_Town]]
+id: Sub~Acton_Town
+coordinates: [[Sub~Acton_Town]]
+markerFile: [[Sub~Acton_Town]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Acton_Town|Sub~Acton_Town]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Acton_Town.internal.md|Sub-Acton_Town.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Acton_Town.protect.md|Sub-Acton_Town.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Acton_Town.private.md|Sub-Acton_Town.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Acton_Town.personal.md|Sub-Acton_Town.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Acton_Town.secret.md|Sub-Acton_Town.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Acton_Town.internal.md|Sub~Acton_Town.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Acton_Town.protect.md|Sub~Acton_Town.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Acton_Town.private.md|Sub~Acton_Town.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Acton_Town.personal.md|Sub~Acton_Town.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Acton_Town.secret.md|Sub~Acton_Town.secret]] 

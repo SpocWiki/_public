@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-High_Street_Kensington
-coordinates: [[Sub-High_Street_Kensington]]
-markerFile: [[Sub-High_Street_Kensington]]
+id: Sub~High_Street_Kensington
+coordinates: [[Sub~High_Street_Kensington]]
+markerFile: [[Sub~High_Street_Kensington]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.md|Sub-High_Street_Kensington]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.internal.md|Sub-High_Street_Kensington.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.protect.md|Sub-High_Street_Kensington.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.private.md|Sub-High_Street_Kensington.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.personal.md|Sub-High_Street_Kensington.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.secret.md|Sub-High_Street_Kensington.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.md|Sub~High_Street_Kensington]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.internal.md|Sub~High_Street_Kensington.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.protect.md|Sub~High_Street_Kensington.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.private.md|Sub~High_Street_Kensington.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.personal.md|Sub~High_Street_Kensington.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~High_Street_Kensington.secret.md|Sub~High_Street_Kensington.secret]] 

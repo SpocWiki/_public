@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-London_Bridge
-coordinates: [[Sub-London_Bridge]]
-markerFile: [[Sub-London_Bridge]]
+id: Sub~London_Bridge
+coordinates: [[Sub~London_Bridge]]
+markerFile: [[Sub~London_Bridge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_Bridge.md|Sub-London_Bridge]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_Bridge.internal.md|Sub-London_Bridge.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_Bridge.protect.md|Sub-London_Bridge.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_Bridge.private.md|Sub-London_Bridge.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_Bridge.personal.md|Sub-London_Bridge.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_Bridge.secret.md|Sub-London_Bridge.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~London_Bridge.md|Sub~London_Bridge]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~London_Bridge.internal.md|Sub~London_Bridge.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~London_Bridge.protect.md|Sub~London_Bridge.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~London_Bridge.private.md|Sub~London_Bridge.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~London_Bridge.personal.md|Sub~London_Bridge.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~London_Bridge.secret.md|Sub~London_Bridge.secret]] 

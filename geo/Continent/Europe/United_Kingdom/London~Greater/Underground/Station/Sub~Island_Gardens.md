@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Island_Gardens
-coordinates: [[Sub-Island_Gardens]]
-markerFile: [[Sub-Island_Gardens]]
+id: Sub~Island_Gardens
+coordinates: [[Sub~Island_Gardens]]
+markerFile: [[Sub~Island_Gardens]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Island_Gardens.md|Sub-Island_Gardens]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Island_Gardens.internal.md|Sub-Island_Gardens.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Island_Gardens.protect.md|Sub-Island_Gardens.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Island_Gardens.private.md|Sub-Island_Gardens.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Island_Gardens.personal.md|Sub-Island_Gardens.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Island_Gardens.secret.md|Sub-Island_Gardens.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Island_Gardens.md|Sub~Island_Gardens]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Island_Gardens.internal.md|Sub~Island_Gardens.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Island_Gardens.protect.md|Sub~Island_Gardens.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Island_Gardens.private.md|Sub~Island_Gardens.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Island_Gardens.personal.md|Sub~Island_Gardens.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Island_Gardens.secret.md|Sub~Island_Gardens.secret]] 

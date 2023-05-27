@@ -23,17 +23,17 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Bank
-coordinates: [[Sub-Bank]]
-markerFile: [[Sub-Bank]]
+id: Sub~Bank
+coordinates: [[Sub~Bank]]
+markerFile: [[Sub~Bank]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../[[Sub~Bank|Sub~Bank]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bank.internal.md|Sub-Bank.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bank.protect.md|Sub-Bank.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bank.private.md|Sub-Bank.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bank.personal.md|Sub-Bank.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bank.secret.md|Sub-Bank.secret]] 
+- [[../../[[Sub~Bank|Sub~Bank]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bank.internal.md|Sub~Bank.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bank.protect.md|Sub~Bank.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bank.private.md|Sub~Bank.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bank.personal.md|Sub~Bank.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bank.secret.md|Sub~Bank.secret]] 

@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Beckton
-coordinates: [[Sub-Beckton]]
-markerFile: [[Sub-Beckton]]
+id: Sub~Beckton
+coordinates: [[Sub~Beckton]]
+markerFile: [[Sub~Beckton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Beckton|Sub~Beckton]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Beckton.internal.md|Sub-Beckton.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Beckton.protect.md|Sub-Beckton.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Beckton.private.md|Sub-Beckton.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Beckton.personal.md|Sub-Beckton.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Beckton.secret.md|Sub-Beckton.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Beckton.internal.md|Sub~Beckton.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Beckton.protect.md|Sub~Beckton.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Beckton.private.md|Sub~Beckton.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Beckton.personal.md|Sub~Beckton.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Beckton.secret.md|Sub~Beckton.secret]] 

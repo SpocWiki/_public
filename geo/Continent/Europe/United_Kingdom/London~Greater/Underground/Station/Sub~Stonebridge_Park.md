@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Stonebridge_Park
-coordinates: [[Sub-Stonebridge_Park]]
-markerFile: [[Sub-Stonebridge_Park]]
+id: Sub~Stonebridge_Park
+coordinates: [[Sub~Stonebridge_Park]]
+markerFile: [[Sub~Stonebridge_Park]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stonebridge_Park.md|Sub-Stonebridge_Park]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stonebridge_Park.internal.md|Sub-Stonebridge_Park.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stonebridge_Park.protect.md|Sub-Stonebridge_Park.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stonebridge_Park.private.md|Sub-Stonebridge_Park.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stonebridge_Park.personal.md|Sub-Stonebridge_Park.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stonebridge_Park.secret.md|Sub-Stonebridge_Park.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stonebridge_Park.md|Sub~Stonebridge_Park]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stonebridge_Park.internal.md|Sub~Stonebridge_Park.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stonebridge_Park.protect.md|Sub~Stonebridge_Park.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stonebridge_Park.private.md|Sub~Stonebridge_Park.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stonebridge_Park.personal.md|Sub~Stonebridge_Park.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stonebridge_Park.secret.md|Sub~Stonebridge_Park.secret]] 

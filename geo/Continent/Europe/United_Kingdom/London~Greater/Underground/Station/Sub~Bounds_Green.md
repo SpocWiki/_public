@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Bounds_Green
-coordinates: [[Sub-Bounds_Green]]
-markerFile: [[Sub-Bounds_Green]]
+id: Sub~Bounds_Green
+coordinates: [[Sub~Bounds_Green]]
+markerFile: [[Sub~Bounds_Green]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Bounds_Green|Sub~Bounds_Green]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bounds_Green.internal.md|Sub-Bounds_Green.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bounds_Green.protect.md|Sub-Bounds_Green.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bounds_Green.private.md|Sub-Bounds_Green.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bounds_Green.personal.md|Sub-Bounds_Green.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bounds_Green.secret.md|Sub-Bounds_Green.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bounds_Green.internal.md|Sub~Bounds_Green.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bounds_Green.protect.md|Sub~Bounds_Green.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bounds_Green.private.md|Sub~Bounds_Green.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bounds_Green.personal.md|Sub~Bounds_Green.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bounds_Green.secret.md|Sub~Bounds_Green.secret]] 

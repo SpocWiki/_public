@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Ickenham
-coordinates: [[Sub-Ickenham]]
-markerFile: [[Sub-Ickenham]]
+id: Sub~Ickenham
+coordinates: [[Sub~Ickenham]]
+markerFile: [[Sub~Ickenham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ickenham.md|Sub-Ickenham]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ickenham.internal.md|Sub-Ickenham.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ickenham.protect.md|Sub-Ickenham.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ickenham.private.md|Sub-Ickenham.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ickenham.personal.md|Sub-Ickenham.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ickenham.secret.md|Sub-Ickenham.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ickenham.md|Sub~Ickenham]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ickenham.internal.md|Sub~Ickenham.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ickenham.protect.md|Sub~Ickenham.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ickenham.private.md|Sub~Ickenham.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ickenham.personal.md|Sub~Ickenham.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ickenham.secret.md|Sub~Ickenham.secret]] 

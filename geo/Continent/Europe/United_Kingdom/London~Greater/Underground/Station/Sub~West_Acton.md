@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-West_Acton
-coordinates: [[Sub-West_Acton]]
-markerFile: [[Sub-West_Acton]]
+id: Sub~West_Acton
+coordinates: [[Sub~West_Acton]]
+markerFile: [[Sub~West_Acton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Acton.md|Sub-West_Acton]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Acton.internal.md|Sub-West_Acton.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Acton.protect.md|Sub-West_Acton.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Acton.private.md|Sub-West_Acton.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Acton.personal.md|Sub-West_Acton.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Acton.secret.md|Sub-West_Acton.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Acton.md|Sub~West_Acton]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Acton.internal.md|Sub~West_Acton.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Acton.protect.md|Sub~West_Acton.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Acton.private.md|Sub~West_Acton.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Acton.personal.md|Sub~West_Acton.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~West_Acton.secret.md|Sub~West_Acton.secret]] 

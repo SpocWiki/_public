@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Goldhawk_Road
-coordinates: [[Sub-Goldhawk_Road]]
-markerFile: [[Sub-Goldhawk_Road]]
+id: Sub~Goldhawk_Road
+coordinates: [[Sub~Goldhawk_Road]]
+markerFile: [[Sub~Goldhawk_Road]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.md|Sub-Goldhawk_Road]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.internal.md|Sub-Goldhawk_Road.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.protect.md|Sub-Goldhawk_Road.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.private.md|Sub-Goldhawk_Road.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.personal.md|Sub-Goldhawk_Road.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.secret.md|Sub-Goldhawk_Road.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.md|Sub~Goldhawk_Road]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.internal.md|Sub~Goldhawk_Road.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.protect.md|Sub~Goldhawk_Road.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.private.md|Sub~Goldhawk_Road.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.personal.md|Sub~Goldhawk_Road.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Goldhawk_Road.secret.md|Sub~Goldhawk_Road.secret]] 

@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Cutty_Sark
-coordinates: [[Sub-Cutty_Sark]]
-markerFile: [[Sub-Cutty_Sark]]
+id: Sub~Cutty_Sark
+coordinates: [[Sub~Cutty_Sark]]
+markerFile: [[Sub~Cutty_Sark]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.md|Sub-Cutty_Sark]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.internal.md|Sub-Cutty_Sark.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.protect.md|Sub-Cutty_Sark.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.private.md|Sub-Cutty_Sark.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.personal.md|Sub-Cutty_Sark.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.secret.md|Sub-Cutty_Sark.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Cutty_Sark.md|Sub~Cutty_Sark]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Cutty_Sark.internal.md|Sub~Cutty_Sark.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Cutty_Sark.protect.md|Sub~Cutty_Sark.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Cutty_Sark.private.md|Sub~Cutty_Sark.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Cutty_Sark.personal.md|Sub~Cutty_Sark.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Cutty_Sark.secret.md|Sub~Cutty_Sark.secret]] 

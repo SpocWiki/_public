@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Westbourne_Park
-coordinates: [[Sub-Westbourne_Park]]
-markerFile: [[Sub-Westbourne_Park]]
+id: Sub~Westbourne_Park
+coordinates: [[Sub~Westbourne_Park]]
+markerFile: [[Sub~Westbourne_Park]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Westbourne_Park.md|Sub-Westbourne_Park]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Westbourne_Park.internal.md|Sub-Westbourne_Park.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Westbourne_Park.protect.md|Sub-Westbourne_Park.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Westbourne_Park.private.md|Sub-Westbourne_Park.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Westbourne_Park.personal.md|Sub-Westbourne_Park.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Westbourne_Park.secret.md|Sub-Westbourne_Park.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Westbourne_Park.md|Sub~Westbourne_Park]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Westbourne_Park.internal.md|Sub~Westbourne_Park.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Westbourne_Park.protect.md|Sub~Westbourne_Park.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Westbourne_Park.private.md|Sub~Westbourne_Park.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Westbourne_Park.personal.md|Sub~Westbourne_Park.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Westbourne_Park.secret.md|Sub~Westbourne_Park.secret]] 

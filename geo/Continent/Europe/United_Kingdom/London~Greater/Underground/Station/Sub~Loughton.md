@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Loughton
-coordinates: [[Sub-Loughton]]
-markerFile: [[Sub-Loughton]]
+id: Sub~Loughton
+coordinates: [[Sub~Loughton]]
+markerFile: [[Sub~Loughton]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Loughton.md|Sub-Loughton]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Loughton.internal.md|Sub-Loughton.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Loughton.protect.md|Sub-Loughton.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Loughton.private.md|Sub-Loughton.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Loughton.personal.md|Sub-Loughton.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Loughton.secret.md|Sub-Loughton.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Loughton.md|Sub~Loughton]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Loughton.internal.md|Sub~Loughton.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Loughton.protect.md|Sub~Loughton.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Loughton.private.md|Sub~Loughton.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Loughton.personal.md|Sub~Loughton.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Loughton.secret.md|Sub~Loughton.secret]] 

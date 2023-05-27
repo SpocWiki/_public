@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Aldgate
-coordinates: [[Sub-Aldgate]]
-markerFile: [[Sub-Aldgate]]
+id: Sub~Aldgate
+coordinates: [[Sub~Aldgate]]
+markerFile: [[Sub~Aldgate]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Aldgate|Sub~Aldgate]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Aldgate.internal.md|Sub-Aldgate.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Aldgate.protect.md|Sub-Aldgate.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Aldgate.private.md|Sub-Aldgate.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Aldgate.personal.md|Sub-Aldgate.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Aldgate.secret.md|Sub-Aldgate.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Aldgate.internal.md|Sub~Aldgate.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Aldgate.protect.md|Sub~Aldgate.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Aldgate.private.md|Sub~Aldgate.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Aldgate.personal.md|Sub~Aldgate.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Aldgate.secret.md|Sub~Aldgate.secret]] 

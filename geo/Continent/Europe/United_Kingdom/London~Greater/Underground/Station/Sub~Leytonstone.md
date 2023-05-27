@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Leytonstone
-coordinates: [[Sub-Leytonstone]]
-markerFile: [[Sub-Leytonstone]]
+id: Sub~Leytonstone
+coordinates: [[Sub~Leytonstone]]
+markerFile: [[Sub~Leytonstone]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leytonstone.md|Sub-Leytonstone]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leytonstone.internal.md|Sub-Leytonstone.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leytonstone.protect.md|Sub-Leytonstone.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leytonstone.private.md|Sub-Leytonstone.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leytonstone.personal.md|Sub-Leytonstone.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Leytonstone.secret.md|Sub-Leytonstone.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Leytonstone.md|Sub~Leytonstone]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Leytonstone.internal.md|Sub~Leytonstone.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Leytonstone.protect.md|Sub~Leytonstone.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Leytonstone.private.md|Sub~Leytonstone.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Leytonstone.personal.md|Sub~Leytonstone.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Leytonstone.secret.md|Sub~Leytonstone.secret]] 

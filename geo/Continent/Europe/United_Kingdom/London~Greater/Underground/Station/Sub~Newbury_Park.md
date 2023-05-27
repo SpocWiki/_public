@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Newbury_Park
-coordinates: [[Sub-Newbury_Park]]
-markerFile: [[Sub-Newbury_Park]]
+id: Sub~Newbury_Park
+coordinates: [[Sub~Newbury_Park]]
+markerFile: [[Sub~Newbury_Park]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Newbury_Park.md|Sub-Newbury_Park]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Newbury_Park.internal.md|Sub-Newbury_Park.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Newbury_Park.protect.md|Sub-Newbury_Park.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Newbury_Park.private.md|Sub-Newbury_Park.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Newbury_Park.personal.md|Sub-Newbury_Park.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Newbury_Park.secret.md|Sub-Newbury_Park.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Newbury_Park.md|Sub~Newbury_Park]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Newbury_Park.internal.md|Sub~Newbury_Park.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Newbury_Park.protect.md|Sub~Newbury_Park.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Newbury_Park.private.md|Sub~Newbury_Park.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Newbury_Park.personal.md|Sub~Newbury_Park.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Newbury_Park.secret.md|Sub~Newbury_Park.secret]] 

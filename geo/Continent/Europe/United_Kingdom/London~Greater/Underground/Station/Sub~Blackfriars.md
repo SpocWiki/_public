@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Blackfriars
-coordinates: [[Sub-Blackfriars]]
-markerFile: [[Sub-Blackfriars]]
+id: Sub~Blackfriars
+coordinates: [[Sub~Blackfriars]]
+markerFile: [[Sub~Blackfriars]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Blackfriars|Sub~Blackfriars]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackfriars.internal.md|Sub-Blackfriars.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackfriars.protect.md|Sub-Blackfriars.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackfriars.private.md|Sub-Blackfriars.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackfriars.personal.md|Sub-Blackfriars.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackfriars.secret.md|Sub-Blackfriars.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Blackfriars.internal.md|Sub~Blackfriars.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Blackfriars.protect.md|Sub~Blackfriars.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Blackfriars.private.md|Sub~Blackfriars.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Blackfriars.personal.md|Sub~Blackfriars.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Blackfriars.secret.md|Sub~Blackfriars.secret]] 

@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Fairlop
-coordinates: [[Sub-Fairlop]]
-markerFile: [[Sub-Fairlop]]
+id: Sub~Fairlop
+coordinates: [[Sub~Fairlop]]
+markerFile: [[Sub~Fairlop]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fairlop.md|Sub-Fairlop]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fairlop.internal.md|Sub-Fairlop.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fairlop.protect.md|Sub-Fairlop.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fairlop.private.md|Sub-Fairlop.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fairlop.personal.md|Sub-Fairlop.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fairlop.secret.md|Sub-Fairlop.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Fairlop.md|Sub~Fairlop]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Fairlop.internal.md|Sub~Fairlop.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Fairlop.protect.md|Sub~Fairlop.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Fairlop.private.md|Sub~Fairlop.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Fairlop.personal.md|Sub~Fairlop.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Fairlop.secret.md|Sub~Fairlop.secret]] 

@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-St._James's_Park
-coordinates: [[Sub-St._James's_Park]]
-markerFile: [[Sub-St._James's_Park]]
+id: Sub~St._James's_Park
+coordinates: [[Sub~St._James's_Park]]
+markerFile: [[Sub~St._James's_Park]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._James's_Park.md|Sub-St._James's_Park]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._James's_Park.internal.md|Sub-St._James's_Park.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._James's_Park.protect.md|Sub-St._James's_Park.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._James's_Park.private.md|Sub-St._James's_Park.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._James's_Park.personal.md|Sub-St._James's_Park.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._James's_Park.secret.md|Sub-St._James's_Park.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~St._James's_Park.md|Sub~St._James's_Park]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~St._James's_Park.internal.md|Sub~St._James's_Park.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~St._James's_Park.protect.md|Sub~St._James's_Park.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~St._James's_Park.private.md|Sub~St._James's_Park.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~St._James's_Park.personal.md|Sub~St._James's_Park.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~St._James's_Park.secret.md|Sub~St._James's_Park.secret]] 

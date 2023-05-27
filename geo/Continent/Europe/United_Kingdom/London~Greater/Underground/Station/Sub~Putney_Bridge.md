@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Putney_Bridge
-coordinates: [[Sub-Putney_Bridge]]
-markerFile: [[Sub-Putney_Bridge]]
+id: Sub~Putney_Bridge
+coordinates: [[Sub~Putney_Bridge]]
+markerFile: [[Sub~Putney_Bridge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Putney_Bridge.md|Sub-Putney_Bridge]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Putney_Bridge.internal.md|Sub-Putney_Bridge.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Putney_Bridge.protect.md|Sub-Putney_Bridge.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Putney_Bridge.private.md|Sub-Putney_Bridge.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Putney_Bridge.personal.md|Sub-Putney_Bridge.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Putney_Bridge.secret.md|Sub-Putney_Bridge.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Putney_Bridge.md|Sub~Putney_Bridge]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Putney_Bridge.internal.md|Sub~Putney_Bridge.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Putney_Bridge.protect.md|Sub~Putney_Bridge.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Putney_Bridge.private.md|Sub~Putney_Bridge.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Putney_Bridge.personal.md|Sub~Putney_Bridge.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Putney_Bridge.secret.md|Sub~Putney_Bridge.secret]] 

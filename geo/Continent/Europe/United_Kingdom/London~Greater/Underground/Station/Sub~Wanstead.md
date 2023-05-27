@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Wanstead
-coordinates: [[Sub-Wanstead]]
-markerFile: [[Sub-Wanstead]]
+id: Sub~Wanstead
+coordinates: [[Sub~Wanstead]]
+markerFile: [[Sub~Wanstead]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Wanstead.md|Sub-Wanstead]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Wanstead.internal.md|Sub-Wanstead.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Wanstead.protect.md|Sub-Wanstead.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Wanstead.private.md|Sub-Wanstead.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Wanstead.personal.md|Sub-Wanstead.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Wanstead.secret.md|Sub-Wanstead.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wanstead.md|Sub~Wanstead]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wanstead.internal.md|Sub~Wanstead.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wanstead.protect.md|Sub~Wanstead.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wanstead.private.md|Sub~Wanstead.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wanstead.personal.md|Sub~Wanstead.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wanstead.secret.md|Sub~Wanstead.secret]] 

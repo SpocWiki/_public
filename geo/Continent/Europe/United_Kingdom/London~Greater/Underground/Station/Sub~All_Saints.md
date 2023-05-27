@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-All_Saints
-coordinates: [[Sub-All_Saints]]
-markerFile: [[Sub-All_Saints]]
+id: Sub~All_Saints
+coordinates: [[Sub~All_Saints]]
+markerFile: [[Sub~All_Saints]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~All_Saints|Sub~All_Saints]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-All_Saints.internal.md|Sub-All_Saints.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-All_Saints.protect.md|Sub-All_Saints.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-All_Saints.private.md|Sub-All_Saints.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-All_Saints.personal.md|Sub-All_Saints.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-All_Saints.secret.md|Sub-All_Saints.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~All_Saints.internal.md|Sub~All_Saints.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~All_Saints.protect.md|Sub~All_Saints.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~All_Saints.private.md|Sub~All_Saints.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~All_Saints.personal.md|Sub~All_Saints.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~All_Saints.secret.md|Sub~All_Saints.secret]] 

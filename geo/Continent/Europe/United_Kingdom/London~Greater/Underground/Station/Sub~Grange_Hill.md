@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Grange_Hill
-coordinates: [[Sub-Grange_Hill]]
-markerFile: [[Sub-Grange_Hill]]
+id: Sub~Grange_Hill
+coordinates: [[Sub~Grange_Hill]]
+markerFile: [[Sub~Grange_Hill]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Grange_Hill.md|Sub-Grange_Hill]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Grange_Hill.internal.md|Sub-Grange_Hill.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Grange_Hill.protect.md|Sub-Grange_Hill.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Grange_Hill.private.md|Sub-Grange_Hill.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Grange_Hill.personal.md|Sub-Grange_Hill.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Grange_Hill.secret.md|Sub-Grange_Hill.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Grange_Hill.md|Sub~Grange_Hill]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Grange_Hill.internal.md|Sub~Grange_Hill.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Grange_Hill.protect.md|Sub~Grange_Hill.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Grange_Hill.private.md|Sub~Grange_Hill.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Grange_Hill.personal.md|Sub~Grange_Hill.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Grange_Hill.secret.md|Sub~Grange_Hill.secret]] 

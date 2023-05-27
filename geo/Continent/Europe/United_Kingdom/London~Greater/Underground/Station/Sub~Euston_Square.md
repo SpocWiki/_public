@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Euston_Square
-coordinates: [[Sub-Euston_Square]]
-markerFile: [[Sub-Euston_Square]]
+id: Sub~Euston_Square
+coordinates: [[Sub~Euston_Square]]
+markerFile: [[Sub~Euston_Square]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Euston_Square.md|Sub-Euston_Square]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Euston_Square.internal.md|Sub-Euston_Square.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Euston_Square.protect.md|Sub-Euston_Square.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Euston_Square.private.md|Sub-Euston_Square.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Euston_Square.personal.md|Sub-Euston_Square.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Euston_Square.secret.md|Sub-Euston_Square.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Euston_Square.md|Sub~Euston_Square]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Euston_Square.internal.md|Sub~Euston_Square.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Euston_Square.protect.md|Sub~Euston_Square.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Euston_Square.private.md|Sub~Euston_Square.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Euston_Square.personal.md|Sub~Euston_Square.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Euston_Square.secret.md|Sub~Euston_Square.secret]] 

@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Great_Portland_Street
-coordinates: [[Sub-Great_Portland_Street]]
-markerFile: [[Sub-Great_Portland_Street]]
+id: Sub~Great_Portland_Street
+coordinates: [[Sub~Great_Portland_Street]]
+markerFile: [[Sub~Great_Portland_Street]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.md|Sub-Great_Portland_Street]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.internal.md|Sub-Great_Portland_Street.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.protect.md|Sub-Great_Portland_Street.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.private.md|Sub-Great_Portland_Street.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.personal.md|Sub-Great_Portland_Street.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.secret.md|Sub-Great_Portland_Street.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Great_Portland_Street.md|Sub~Great_Portland_Street]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Great_Portland_Street.internal.md|Sub~Great_Portland_Street.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Great_Portland_Street.protect.md|Sub~Great_Portland_Street.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Great_Portland_Street.private.md|Sub~Great_Portland_Street.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Great_Portland_Street.personal.md|Sub~Great_Portland_Street.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Great_Portland_Street.secret.md|Sub~Great_Portland_Street.secret]] 

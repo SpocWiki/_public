@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Willesden_Junction
-coordinates: [[Sub-Willesden_Junction]]
-markerFile: [[Sub-Willesden_Junction]]
+id: Sub~Willesden_Junction
+coordinates: [[Sub~Willesden_Junction]]
+markerFile: [[Sub~Willesden_Junction]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Willesden_Junction.md|Sub-Willesden_Junction]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Willesden_Junction.internal.md|Sub-Willesden_Junction.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Willesden_Junction.protect.md|Sub-Willesden_Junction.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Willesden_Junction.private.md|Sub-Willesden_Junction.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Willesden_Junction.personal.md|Sub-Willesden_Junction.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Willesden_Junction.secret.md|Sub-Willesden_Junction.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Willesden_Junction.md|Sub~Willesden_Junction]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Willesden_Junction.internal.md|Sub~Willesden_Junction.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Willesden_Junction.protect.md|Sub~Willesden_Junction.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Willesden_Junction.private.md|Sub~Willesden_Junction.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Willesden_Junction.personal.md|Sub~Willesden_Junction.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Willesden_Junction.secret.md|Sub~Willesden_Junction.secret]] 

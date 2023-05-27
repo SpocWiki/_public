@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Kensington_(Olympia)
-coordinates: [[Sub-Kensington_(Olympia)]]
-markerFile: [[Sub-Kensington_(Olympia)]]
+id: Sub~Kensington_(Olympia)
+coordinates: [[Sub~Kensington_(Olympia)]]
+markerFile: [[Sub~Kensington_(Olympia)]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).md|Sub-Kensington_(Olympia)]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).internal.md|Sub-Kensington_(Olympia).internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).protect.md|Sub-Kensington_(Olympia).protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).private.md|Sub-Kensington_(Olympia).private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).personal.md|Sub-Kensington_(Olympia).personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).secret.md|Sub-Kensington_(Olympia).secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kensington_(Olympia).md|Sub~Kensington_(Olympia)]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kensington_(Olympia).internal.md|Sub~Kensington_(Olympia).internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kensington_(Olympia).protect.md|Sub~Kensington_(Olympia).protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kensington_(Olympia).private.md|Sub~Kensington_(Olympia).private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kensington_(Olympia).personal.md|Sub~Kensington_(Olympia).personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kensington_(Olympia).secret.md|Sub~Kensington_(Olympia).secret]] 

@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Angel
-coordinates: [[Sub-Angel]]
-markerFile: [[Sub-Angel]]
+id: Sub~Angel
+coordinates: [[Sub~Angel]]
+markerFile: [[Sub~Angel]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Angel|Sub~Angel]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Angel.internal.md|Sub-Angel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Angel.protect.md|Sub-Angel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Angel.private.md|Sub-Angel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Angel.personal.md|Sub-Angel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Angel.secret.md|Sub-Angel.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Angel.internal.md|Sub~Angel.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Angel.protect.md|Sub~Angel.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Angel.private.md|Sub~Angel.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Angel.personal.md|Sub~Angel.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Angel.secret.md|Sub~Angel.secret]] 

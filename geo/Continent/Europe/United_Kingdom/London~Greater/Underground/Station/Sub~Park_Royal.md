@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Park_Royal
-coordinates: [[Sub-Park_Royal]]
-markerFile: [[Sub-Park_Royal]]
+id: Sub~Park_Royal
+coordinates: [[Sub~Park_Royal]]
+markerFile: [[Sub~Park_Royal]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Park_Royal.md|Sub-Park_Royal]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Park_Royal.internal.md|Sub-Park_Royal.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Park_Royal.protect.md|Sub-Park_Royal.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Park_Royal.private.md|Sub-Park_Royal.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Park_Royal.personal.md|Sub-Park_Royal.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Park_Royal.secret.md|Sub-Park_Royal.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Park_Royal.md|Sub~Park_Royal]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Park_Royal.internal.md|Sub~Park_Royal.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Park_Royal.protect.md|Sub~Park_Royal.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Park_Royal.private.md|Sub~Park_Royal.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Park_Royal.personal.md|Sub~Park_Royal.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Park_Royal.secret.md|Sub~Park_Royal.secret]] 

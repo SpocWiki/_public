@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Ealing_Broadway
-coordinates: [[Sub-Ealing_Broadway]]
-markerFile: [[Sub-Ealing_Broadway]]
+id: Sub~Ealing_Broadway
+coordinates: [[Sub~Ealing_Broadway]]
+markerFile: [[Sub~Ealing_Broadway]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.md|Sub-Ealing_Broadway]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.internal.md|Sub-Ealing_Broadway.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.protect.md|Sub-Ealing_Broadway.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.private.md|Sub-Ealing_Broadway.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.personal.md|Sub-Ealing_Broadway.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.secret.md|Sub-Ealing_Broadway.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ealing_Broadway.md|Sub~Ealing_Broadway]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ealing_Broadway.internal.md|Sub~Ealing_Broadway.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ealing_Broadway.protect.md|Sub~Ealing_Broadway.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ealing_Broadway.private.md|Sub~Ealing_Broadway.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ealing_Broadway.personal.md|Sub~Ealing_Broadway.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ealing_Broadway.secret.md|Sub~Ealing_Broadway.secret]] 

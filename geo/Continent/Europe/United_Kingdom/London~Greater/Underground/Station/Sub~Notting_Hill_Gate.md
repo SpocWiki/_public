@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Notting_Hill_Gate
-coordinates: [[Sub-Notting_Hill_Gate]]
-markerFile: [[Sub-Notting_Hill_Gate]]
+id: Sub~Notting_Hill_Gate
+coordinates: [[Sub~Notting_Hill_Gate]]
+markerFile: [[Sub~Notting_Hill_Gate]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Notting_Hill_Gate.md|Sub-Notting_Hill_Gate]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Notting_Hill_Gate.internal.md|Sub-Notting_Hill_Gate.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Notting_Hill_Gate.protect.md|Sub-Notting_Hill_Gate.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Notting_Hill_Gate.private.md|Sub-Notting_Hill_Gate.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Notting_Hill_Gate.personal.md|Sub-Notting_Hill_Gate.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Notting_Hill_Gate.secret.md|Sub-Notting_Hill_Gate.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Notting_Hill_Gate.md|Sub~Notting_Hill_Gate]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Notting_Hill_Gate.internal.md|Sub~Notting_Hill_Gate.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Notting_Hill_Gate.protect.md|Sub~Notting_Hill_Gate.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Notting_Hill_Gate.private.md|Sub~Notting_Hill_Gate.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Notting_Hill_Gate.personal.md|Sub~Notting_Hill_Gate.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Notting_Hill_Gate.secret.md|Sub~Notting_Hill_Gate.secret]] 

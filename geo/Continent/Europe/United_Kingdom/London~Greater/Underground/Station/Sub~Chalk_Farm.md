@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Chalk_Farm
-coordinates: [[Sub-Chalk_Farm]]
-markerFile: [[Sub-Chalk_Farm]]
+id: Sub~Chalk_Farm
+coordinates: [[Sub~Chalk_Farm]]
+markerFile: [[Sub~Chalk_Farm]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.md|Sub-Chalk_Farm]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.internal.md|Sub-Chalk_Farm.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.protect.md|Sub-Chalk_Farm.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.private.md|Sub-Chalk_Farm.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.personal.md|Sub-Chalk_Farm.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.secret.md|Sub-Chalk_Farm.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chalk_Farm.md|Sub~Chalk_Farm]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chalk_Farm.internal.md|Sub~Chalk_Farm.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chalk_Farm.protect.md|Sub~Chalk_Farm.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chalk_Farm.private.md|Sub~Chalk_Farm.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chalk_Farm.personal.md|Sub~Chalk_Farm.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chalk_Farm.secret.md|Sub~Chalk_Farm.secret]] 

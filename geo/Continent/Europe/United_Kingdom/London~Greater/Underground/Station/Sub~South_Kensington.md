@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-South_Kensington
-coordinates: [[Sub-South_Kensington]]
-markerFile: [[Sub-South_Kensington]]
+id: Sub~South_Kensington
+coordinates: [[Sub~South_Kensington]]
+markerFile: [[Sub~South_Kensington]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Kensington.md|Sub-South_Kensington]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Kensington.internal.md|Sub-South_Kensington.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Kensington.protect.md|Sub-South_Kensington.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Kensington.private.md|Sub-South_Kensington.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Kensington.personal.md|Sub-South_Kensington.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Kensington.secret.md|Sub-South_Kensington.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Kensington.md|Sub~South_Kensington]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Kensington.internal.md|Sub~South_Kensington.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Kensington.protect.md|Sub~South_Kensington.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Kensington.private.md|Sub~South_Kensington.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Kensington.personal.md|Sub~South_Kensington.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Kensington.secret.md|Sub~South_Kensington.secret]] 

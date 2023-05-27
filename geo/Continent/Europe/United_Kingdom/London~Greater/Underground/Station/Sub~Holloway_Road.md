@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Holloway_Road
-coordinates: [[Sub-Holloway_Road]]
-markerFile: [[Sub-Holloway_Road]]
+id: Sub~Holloway_Road
+coordinates: [[Sub~Holloway_Road]]
+markerFile: [[Sub~Holloway_Road]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Holloway_Road.md|Sub-Holloway_Road]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Holloway_Road.internal.md|Sub-Holloway_Road.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Holloway_Road.protect.md|Sub-Holloway_Road.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Holloway_Road.private.md|Sub-Holloway_Road.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Holloway_Road.personal.md|Sub-Holloway_Road.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Holloway_Road.secret.md|Sub-Holloway_Road.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Holloway_Road.md|Sub~Holloway_Road]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Holloway_Road.internal.md|Sub~Holloway_Road.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Holloway_Road.protect.md|Sub~Holloway_Road.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Holloway_Road.private.md|Sub~Holloway_Road.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Holloway_Road.personal.md|Sub~Holloway_Road.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Holloway_Road.secret.md|Sub~Holloway_Road.secret]] 

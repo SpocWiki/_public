@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Royal_Oak
-coordinates: [[Sub-Royal_Oak]]
-markerFile: [[Sub-Royal_Oak]]
+id: Sub~Royal_Oak
+coordinates: [[Sub~Royal_Oak]]
+markerFile: [[Sub~Royal_Oak]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Oak.md|Sub-Royal_Oak]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Oak.internal.md|Sub-Royal_Oak.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Oak.protect.md|Sub-Royal_Oak.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Oak.private.md|Sub-Royal_Oak.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Oak.personal.md|Sub-Royal_Oak.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Oak.secret.md|Sub-Royal_Oak.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Oak.md|Sub~Royal_Oak]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Oak.internal.md|Sub~Royal_Oak.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Oak.protect.md|Sub~Royal_Oak.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Oak.private.md|Sub~Royal_Oak.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Oak.personal.md|Sub~Royal_Oak.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Oak.secret.md|Sub~Royal_Oak.secret]] 

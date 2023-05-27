@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Harlesden
-coordinates: [[Sub-Harlesden]]
-markerFile: [[Sub-Harlesden]]
+id: Sub~Harlesden
+coordinates: [[Sub~Harlesden]]
+markerFile: [[Sub~Harlesden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harlesden.md|Sub-Harlesden]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harlesden.internal.md|Sub-Harlesden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harlesden.protect.md|Sub-Harlesden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harlesden.private.md|Sub-Harlesden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harlesden.personal.md|Sub-Harlesden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Harlesden.secret.md|Sub-Harlesden.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harlesden.md|Sub~Harlesden]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harlesden.internal.md|Sub~Harlesden.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harlesden.protect.md|Sub~Harlesden.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harlesden.private.md|Sub~Harlesden.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harlesden.personal.md|Sub~Harlesden.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harlesden.secret.md|Sub~Harlesden.secret]] 

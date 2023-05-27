@@ -19,22 +19,22 @@ markerFolder: ./Station/
 
 
 # Stations: 
-1.	[[Sub-Walthamstow_Central]] 
+1.	[[Sub~Walthamstow_Central]] 
 2.	[[Station/Sub~Blackhorse_Road]] 
-6.	[[Sub-Tottenham_Hale]] 
-7.	[[Station/Sub-Seven_Sisters]]] 
-11.	[[Sub-Finsbury_Park]] 
-15.	[[Sub-Highbury_&_Islington]] 
-19.	[[Station/Sub-King's_Cross_St._Pancras]] 
-23.	[[Sub-Euston]] 
-27.	[[Sub-Warren_Street]] 
-31.	[[Sub-Oxford_Circus]] 
-35.	[[Sub-Green_Park]] 
-39.	[[Station/Sub-Victoria]] 
-43.	[[Sub-Pimlico]] 
-44.	[[Sub-Vauxhall]] 
-48.	[[Sub-Stockwell]] 
-49.	[[Sub-Brixton]] 
+6.	[[Sub~Tottenham_Hale]] 
+7.	[[Station/Sub~Seven_Sisters]]] 
+11.	[[Sub~Finsbury_Park]] 
+15.	[[Sub~Highbury_&_Islington]] 
+19.	[[Station/Sub~King's_Cross_St._Pancras]] 
+23.	[[Sub~Euston]] 
+27.	[[Sub~Warren_Street]] 
+31.	[[Sub~Oxford_Circus]] 
+35.	[[Sub~Green_Park]] 
+39.	[[Station/Sub~Victoria]] 
+43.	[[Sub~Pimlico]] 
+44.	[[Sub~Vauxhall]] 
+48.	[[Sub~Stockwell]] 
+49.	[[Sub~Brixton]] 
 
 ```dataview
 TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"

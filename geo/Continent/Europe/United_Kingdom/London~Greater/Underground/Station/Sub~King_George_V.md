@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-King_George_V
-coordinates: [[Sub-King_George_V]]
-markerFile: [[Sub-King_George_V]]
+id: Sub~King_George_V
+coordinates: [[Sub~King_George_V]]
+markerFile: [[Sub~King_George_V]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King_George_V.md|Sub-King_George_V]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King_George_V.internal.md|Sub-King_George_V.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King_George_V.protect.md|Sub-King_George_V.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King_George_V.private.md|Sub-King_George_V.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King_George_V.personal.md|Sub-King_George_V.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King_George_V.secret.md|Sub-King_George_V.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King_George_V.md|Sub~King_George_V]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King_George_V.internal.md|Sub~King_George_V.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King_George_V.protect.md|Sub~King_George_V.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King_George_V.private.md|Sub~King_George_V.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King_George_V.personal.md|Sub~King_George_V.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~King_George_V.secret.md|Sub~King_George_V.secret]] 

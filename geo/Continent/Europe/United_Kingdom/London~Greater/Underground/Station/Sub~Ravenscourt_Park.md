@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Ravenscourt_Park
-coordinates: [[Sub-Ravenscourt_Park]]
-markerFile: [[Sub-Ravenscourt_Park]]
+id: Sub~Ravenscourt_Park
+coordinates: [[Sub~Ravenscourt_Park]]
+markerFile: [[Sub~Ravenscourt_Park]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.md|Sub-Ravenscourt_Park]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.internal.md|Sub-Ravenscourt_Park.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.protect.md|Sub-Ravenscourt_Park.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.private.md|Sub-Ravenscourt_Park.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.personal.md|Sub-Ravenscourt_Park.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.secret.md|Sub-Ravenscourt_Park.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ravenscourt_Park.md|Sub~Ravenscourt_Park]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ravenscourt_Park.internal.md|Sub~Ravenscourt_Park.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ravenscourt_Park.protect.md|Sub~Ravenscourt_Park.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ravenscourt_Park.private.md|Sub~Ravenscourt_Park.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ravenscourt_Park.personal.md|Sub~Ravenscourt_Park.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ravenscourt_Park.secret.md|Sub~Ravenscourt_Park.secret]] 

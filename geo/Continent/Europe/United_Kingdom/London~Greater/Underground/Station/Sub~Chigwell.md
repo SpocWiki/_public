@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Chigwell
-coordinates: [[Sub-Chigwell]]
-markerFile: [[Sub-Chigwell]]
+id: Sub~Chigwell
+coordinates: [[Sub~Chigwell]]
+markerFile: [[Sub~Chigwell]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chigwell.md|Sub-Chigwell]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chigwell.internal.md|Sub-Chigwell.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chigwell.protect.md|Sub-Chigwell.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chigwell.private.md|Sub-Chigwell.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chigwell.personal.md|Sub-Chigwell.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chigwell.secret.md|Sub-Chigwell.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chigwell.md|Sub~Chigwell]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chigwell.internal.md|Sub~Chigwell.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chigwell.protect.md|Sub~Chigwell.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chigwell.private.md|Sub~Chigwell.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chigwell.personal.md|Sub~Chigwell.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Chigwell.secret.md|Sub~Chigwell.secret]] 

@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Tower_Gateway
-coordinates: [[Sub-Tower_Gateway]]
-markerFile: [[Sub-Tower_Gateway]]
+id: Sub~Tower_Gateway
+coordinates: [[Sub~Tower_Gateway]]
+markerFile: [[Sub~Tower_Gateway]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.md|Sub-Tower_Gateway]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.internal.md|Sub-Tower_Gateway.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.protect.md|Sub-Tower_Gateway.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.private.md|Sub-Tower_Gateway.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.personal.md|Sub-Tower_Gateway.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.secret.md|Sub-Tower_Gateway.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tower_Gateway.md|Sub~Tower_Gateway]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tower_Gateway.internal.md|Sub~Tower_Gateway.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tower_Gateway.protect.md|Sub~Tower_Gateway.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tower_Gateway.private.md|Sub~Tower_Gateway.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tower_Gateway.personal.md|Sub~Tower_Gateway.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tower_Gateway.secret.md|Sub~Tower_Gateway.secret]] 

@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Upminster
-coordinates: [[Sub-Upminster]]
-markerFile: [[Sub-Upminster]]
+id: Sub~Upminster
+coordinates: [[Sub~Upminster]]
+markerFile: [[Sub~Upminster]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Upminster.md|Sub-Upminster]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Upminster.internal.md|Sub-Upminster.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Upminster.protect.md|Sub-Upminster.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Upminster.private.md|Sub-Upminster.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Upminster.personal.md|Sub-Upminster.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Upminster.secret.md|Sub-Upminster.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Upminster.md|Sub~Upminster]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Upminster.internal.md|Sub~Upminster.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Upminster.protect.md|Sub~Upminster.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Upminster.private.md|Sub~Upminster.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Upminster.personal.md|Sub~Upminster.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Upminster.secret.md|Sub~Upminster.secret]] 

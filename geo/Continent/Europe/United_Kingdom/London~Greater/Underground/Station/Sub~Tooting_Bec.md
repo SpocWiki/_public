@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Tooting_Bec
-coordinates: [[Sub-Tooting_Bec]]
-markerFile: [[Sub-Tooting_Bec]]
+id: Sub~Tooting_Bec
+coordinates: [[Sub~Tooting_Bec]]
+markerFile: [[Sub~Tooting_Bec]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.md|Sub-Tooting_Bec]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.internal.md|Sub-Tooting_Bec.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.protect.md|Sub-Tooting_Bec.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.private.md|Sub-Tooting_Bec.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.personal.md|Sub-Tooting_Bec.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.secret.md|Sub-Tooting_Bec.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Bec.md|Sub~Tooting_Bec]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Bec.internal.md|Sub~Tooting_Bec.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Bec.protect.md|Sub~Tooting_Bec.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Bec.private.md|Sub~Tooting_Bec.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Bec.personal.md|Sub~Tooting_Bec.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Bec.secret.md|Sub~Tooting_Bec.secret]] 

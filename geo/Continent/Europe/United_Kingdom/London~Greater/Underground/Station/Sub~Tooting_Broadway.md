@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Tooting_Broadway
-coordinates: [[Sub-Tooting_Broadway]]
-markerFile: [[Sub-Tooting_Broadway]]
+id: Sub~Tooting_Broadway
+coordinates: [[Sub~Tooting_Broadway]]
+markerFile: [[Sub~Tooting_Broadway]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.md|Sub-Tooting_Broadway]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.internal.md|Sub-Tooting_Broadway.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.protect.md|Sub-Tooting_Broadway.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.private.md|Sub-Tooting_Broadway.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.personal.md|Sub-Tooting_Broadway.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.secret.md|Sub-Tooting_Broadway.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Broadway.md|Sub~Tooting_Broadway]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Broadway.internal.md|Sub~Tooting_Broadway.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Broadway.protect.md|Sub~Tooting_Broadway.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Broadway.private.md|Sub~Tooting_Broadway.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Broadway.personal.md|Sub~Tooting_Broadway.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tooting_Broadway.secret.md|Sub~Tooting_Broadway.secret]] 

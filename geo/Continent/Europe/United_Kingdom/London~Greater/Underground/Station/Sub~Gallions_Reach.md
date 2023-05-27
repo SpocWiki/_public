@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Gallions_Reach
-coordinates: [[Sub-Gallions_Reach]]
-markerFile: [[Sub-Gallions_Reach]]
+id: Sub~Gallions_Reach
+coordinates: [[Sub~Gallions_Reach]]
+markerFile: [[Sub~Gallions_Reach]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.md|Sub-Gallions_Reach]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.internal.md|Sub-Gallions_Reach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.protect.md|Sub-Gallions_Reach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.private.md|Sub-Gallions_Reach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.personal.md|Sub-Gallions_Reach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.secret.md|Sub-Gallions_Reach.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Gallions_Reach.md|Sub~Gallions_Reach]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Gallions_Reach.internal.md|Sub~Gallions_Reach.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Gallions_Reach.protect.md|Sub~Gallions_Reach.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Gallions_Reach.private.md|Sub~Gallions_Reach.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Gallions_Reach.personal.md|Sub~Gallions_Reach.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Gallions_Reach.secret.md|Sub~Gallions_Reach.secret]] 

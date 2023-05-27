@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Custom_House
-coordinates: [[Sub-Custom_House]]
-markerFile: [[Sub-Custom_House]]
+id: Sub~Custom_House
+coordinates: [[Sub~Custom_House]]
+markerFile: [[Sub~Custom_House]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Custom_House.md|Sub-Custom_House]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Custom_House.internal.md|Sub-Custom_House.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Custom_House.protect.md|Sub-Custom_House.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Custom_House.private.md|Sub-Custom_House.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Custom_House.personal.md|Sub-Custom_House.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Custom_House.secret.md|Sub-Custom_House.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Custom_House.md|Sub~Custom_House]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Custom_House.internal.md|Sub~Custom_House.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Custom_House.protect.md|Sub~Custom_House.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Custom_House.private.md|Sub~Custom_House.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Custom_House.personal.md|Sub~Custom_House.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Custom_House.secret.md|Sub~Custom_House.secret]] 

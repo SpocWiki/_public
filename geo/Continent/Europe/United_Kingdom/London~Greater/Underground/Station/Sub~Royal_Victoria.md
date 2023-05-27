@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Royal_Victoria
-coordinates: [[Sub-Royal_Victoria]]
-markerFile: [[Sub-Royal_Victoria]]
+id: Sub~Royal_Victoria
+coordinates: [[Sub~Royal_Victoria]]
+markerFile: [[Sub~Royal_Victoria]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.md|Sub-Royal_Victoria]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.internal.md|Sub-Royal_Victoria.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.protect.md|Sub-Royal_Victoria.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.private.md|Sub-Royal_Victoria.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.personal.md|Sub-Royal_Victoria.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.secret.md|Sub-Royal_Victoria.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Victoria.md|Sub~Royal_Victoria]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Victoria.internal.md|Sub~Royal_Victoria.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Victoria.protect.md|Sub~Royal_Victoria.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Victoria.private.md|Sub~Royal_Victoria.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Victoria.personal.md|Sub~Royal_Victoria.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Royal_Victoria.secret.md|Sub~Royal_Victoria.secret]] 

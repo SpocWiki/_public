@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-South_Woodford
-coordinates: [[Sub-South_Woodford]]
-markerFile: [[Sub-South_Woodford]]
+id: Sub~South_Woodford
+coordinates: [[Sub~South_Woodford]]
+markerFile: [[Sub~South_Woodford]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.md|Sub-South_Woodford]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.internal.md|Sub-South_Woodford.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.protect.md|Sub-South_Woodford.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.private.md|Sub-South_Woodford.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.personal.md|Sub-South_Woodford.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.secret.md|Sub-South_Woodford.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Woodford.md|Sub~South_Woodford]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Woodford.internal.md|Sub~South_Woodford.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Woodford.protect.md|Sub~South_Woodford.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Woodford.private.md|Sub~South_Woodford.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Woodford.personal.md|Sub~South_Woodford.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~South_Woodford.secret.md|Sub~South_Woodford.secret]] 

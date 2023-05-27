@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Knightsbridge
-coordinates: [[Sub-Knightsbridge]]
-markerFile: [[Sub-Knightsbridge]]
+id: Sub~Knightsbridge
+coordinates: [[Sub~Knightsbridge]]
+markerFile: [[Sub~Knightsbridge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Knightsbridge.md|Sub-Knightsbridge]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Knightsbridge.internal.md|Sub-Knightsbridge.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Knightsbridge.protect.md|Sub-Knightsbridge.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Knightsbridge.private.md|Sub-Knightsbridge.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Knightsbridge.personal.md|Sub-Knightsbridge.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Knightsbridge.secret.md|Sub-Knightsbridge.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Knightsbridge.md|Sub~Knightsbridge]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Knightsbridge.internal.md|Sub~Knightsbridge.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Knightsbridge.protect.md|Sub~Knightsbridge.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Knightsbridge.private.md|Sub~Knightsbridge.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Knightsbridge.personal.md|Sub~Knightsbridge.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Knightsbridge.secret.md|Sub~Knightsbridge.secret]] 

@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Lewisham
-coordinates: [[Sub-Lewisham]]
-markerFile: [[Sub-Lewisham]]
+id: Sub~Lewisham
+coordinates: [[Sub~Lewisham]]
+markerFile: [[Sub~Lewisham]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lewisham.md|Sub-Lewisham]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lewisham.internal.md|Sub-Lewisham.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lewisham.protect.md|Sub-Lewisham.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lewisham.private.md|Sub-Lewisham.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lewisham.personal.md|Sub-Lewisham.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lewisham.secret.md|Sub-Lewisham.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Lewisham.md|Sub~Lewisham]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Lewisham.internal.md|Sub~Lewisham.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Lewisham.protect.md|Sub~Lewisham.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Lewisham.private.md|Sub~Lewisham.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Lewisham.personal.md|Sub~Lewisham.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Lewisham.secret.md|Sub~Lewisham.secret]] 

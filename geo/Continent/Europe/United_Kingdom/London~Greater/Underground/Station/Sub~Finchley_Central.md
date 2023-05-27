@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Finchley_Central
-coordinates: [[Sub-Finchley_Central]]
-markerFile: [[Sub-Finchley_Central]]
+id: Sub~Finchley_Central
+coordinates: [[Sub~Finchley_Central]]
+markerFile: [[Sub~Finchley_Central]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Finchley_Central.md|Sub-Finchley_Central]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Finchley_Central.internal.md|Sub-Finchley_Central.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Finchley_Central.protect.md|Sub-Finchley_Central.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Finchley_Central.private.md|Sub-Finchley_Central.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Finchley_Central.personal.md|Sub-Finchley_Central.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Finchley_Central.secret.md|Sub-Finchley_Central.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Finchley_Central.md|Sub~Finchley_Central]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Finchley_Central.internal.md|Sub~Finchley_Central.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Finchley_Central.protect.md|Sub~Finchley_Central.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Finchley_Central.private.md|Sub~Finchley_Central.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Finchley_Central.personal.md|Sub~Finchley_Central.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Finchley_Central.secret.md|Sub~Finchley_Central.secret]] 

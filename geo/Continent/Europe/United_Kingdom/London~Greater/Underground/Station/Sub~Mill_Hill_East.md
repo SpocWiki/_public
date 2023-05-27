@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Mill_Hill_East
-coordinates: [[Sub-Mill_Hill_East]]
-markerFile: [[Sub-Mill_Hill_East]]
+id: Sub~Mill_Hill_East
+coordinates: [[Sub~Mill_Hill_East]]
+markerFile: [[Sub~Mill_Hill_East]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.md|Sub-Mill_Hill_East]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.internal.md|Sub-Mill_Hill_East.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.protect.md|Sub-Mill_Hill_East.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.private.md|Sub-Mill_Hill_East.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.personal.md|Sub-Mill_Hill_East.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.secret.md|Sub-Mill_Hill_East.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mill_Hill_East.md|Sub~Mill_Hill_East]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mill_Hill_East.internal.md|Sub~Mill_Hill_East.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mill_Hill_East.protect.md|Sub~Mill_Hill_East.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mill_Hill_East.private.md|Sub~Mill_Hill_East.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mill_Hill_East.personal.md|Sub~Mill_Hill_East.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mill_Hill_East.secret.md|Sub~Mill_Hill_East.secret]] 

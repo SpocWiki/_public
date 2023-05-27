@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Arnos_Grove
-coordinates: [[Sub-Arnos_Grove]]
-markerFile: [[Sub-Arnos_Grove]]
+id: Sub~Arnos_Grove
+coordinates: [[Sub~Arnos_Grove]]
+markerFile: [[Sub~Arnos_Grove]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Arnos_Grove|Sub~Arnos_Grove]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arnos_Grove.internal.md|Sub-Arnos_Grove.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arnos_Grove.protect.md|Sub-Arnos_Grove.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arnos_Grove.private.md|Sub-Arnos_Grove.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arnos_Grove.personal.md|Sub-Arnos_Grove.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Arnos_Grove.secret.md|Sub-Arnos_Grove.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Arnos_Grove.internal.md|Sub~Arnos_Grove.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Arnos_Grove.protect.md|Sub~Arnos_Grove.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Arnos_Grove.private.md|Sub~Arnos_Grove.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Arnos_Grove.personal.md|Sub~Arnos_Grove.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Arnos_Grove.secret.md|Sub~Arnos_Grove.secret]] 

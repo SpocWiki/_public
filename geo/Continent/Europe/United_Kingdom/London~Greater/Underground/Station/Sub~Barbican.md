@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Barbican
-coordinates: [[Sub-Barbican]]
-markerFile: [[Sub-Barbican]]
+id: Sub~Barbican
+coordinates: [[Sub~Barbican]]
+markerFile: [[Sub~Barbican]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Barbican|Sub~Barbican]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Barbican.internal.md|Sub-Barbican.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Barbican.protect.md|Sub-Barbican.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Barbican.private.md|Sub-Barbican.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Barbican.personal.md|Sub-Barbican.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Barbican.secret.md|Sub-Barbican.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Barbican.internal.md|Sub~Barbican.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Barbican.protect.md|Sub~Barbican.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Barbican.private.md|Sub~Barbican.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Barbican.personal.md|Sub~Barbican.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Barbican.secret.md|Sub~Barbican.secret]] 

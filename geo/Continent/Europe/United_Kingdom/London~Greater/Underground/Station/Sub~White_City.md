@@ -4,7 +4,7 @@ type: Station
 mapzoom: [8,15] 
 mapmarker: subway 
 alias: 
-- Sub-Wood_Lane 
+- Sub~Wood_Lane 
 tags:
 - geo/station
 - Europe/United_Kingdom/City~London
@@ -25,18 +25,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-White_City
-coordinates: [[Sub-White_City]]
-markerFile: [[Sub-White_City]]
+id: Sub~White_City
+coordinates: [[Sub~White_City]]
+markerFile: [[Sub~White_City]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-White_City.md|Sub-White_City]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-White_City.internal.md|Sub-White_City.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-White_City.protect.md|Sub-White_City.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-White_City.private.md|Sub-White_City.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-White_City.personal.md|Sub-White_City.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-White_City.secret.md|Sub-White_City.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~White_City.md|Sub~White_City]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~White_City.internal.md|Sub~White_City.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~White_City.protect.md|Sub~White_City.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~White_City.private.md|Sub~White_City.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~White_City.personal.md|Sub~White_City.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~White_City.secret.md|Sub~White_City.secret]] 

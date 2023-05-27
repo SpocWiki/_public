@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Redbridge
-coordinates: [[Sub-Redbridge]]
-markerFile: [[Sub-Redbridge]]
+id: Sub~Redbridge
+coordinates: [[Sub~Redbridge]]
+markerFile: [[Sub~Redbridge]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Redbridge.md|Sub-Redbridge]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Redbridge.internal.md|Sub-Redbridge.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Redbridge.protect.md|Sub-Redbridge.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Redbridge.private.md|Sub-Redbridge.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Redbridge.personal.md|Sub-Redbridge.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Redbridge.secret.md|Sub-Redbridge.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Redbridge.md|Sub~Redbridge]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Redbridge.internal.md|Sub~Redbridge.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Redbridge.protect.md|Sub~Redbridge.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Redbridge.private.md|Sub~Redbridge.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Redbridge.personal.md|Sub~Redbridge.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Redbridge.secret.md|Sub~Redbridge.secret]] 

@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Hampstead
-coordinates: [[Sub-Hampstead]]
-markerFile: [[Sub-Hampstead]]
+id: Sub~Hampstead
+coordinates: [[Sub~Hampstead]]
+markerFile: [[Sub~Hampstead]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hampstead.md|Sub-Hampstead]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hampstead.internal.md|Sub-Hampstead.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hampstead.protect.md|Sub-Hampstead.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hampstead.private.md|Sub-Hampstead.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hampstead.personal.md|Sub-Hampstead.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hampstead.secret.md|Sub-Hampstead.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hampstead.md|Sub~Hampstead]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hampstead.internal.md|Sub~Hampstead.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hampstead.protect.md|Sub~Hampstead.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hampstead.private.md|Sub~Hampstead.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hampstead.personal.md|Sub~Hampstead.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hampstead.secret.md|Sub~Hampstead.secret]] 

@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Greenwich
-coordinates: [[Sub-Greenwich]]
-markerFile: [[Sub-Greenwich]]
+id: Sub~Greenwich
+coordinates: [[Sub~Greenwich]]
+markerFile: [[Sub~Greenwich]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Greenwich.md|Sub-Greenwich]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Greenwich.internal.md|Sub-Greenwich.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Greenwich.protect.md|Sub-Greenwich.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Greenwich.private.md|Sub-Greenwich.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Greenwich.personal.md|Sub-Greenwich.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Greenwich.secret.md|Sub-Greenwich.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Greenwich.md|Sub~Greenwich]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Greenwich.internal.md|Sub~Greenwich.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Greenwich.protect.md|Sub~Greenwich.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Greenwich.private.md|Sub~Greenwich.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Greenwich.personal.md|Sub~Greenwich.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Greenwich.secret.md|Sub~Greenwich.secret]] 

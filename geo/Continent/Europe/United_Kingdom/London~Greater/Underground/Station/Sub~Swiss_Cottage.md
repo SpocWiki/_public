@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Swiss_Cottage
-coordinates: [[Sub-Swiss_Cottage]]
-markerFile: [[Sub-Swiss_Cottage]]
+id: Sub~Swiss_Cottage
+coordinates: [[Sub~Swiss_Cottage]]
+markerFile: [[Sub~Swiss_Cottage]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Swiss_Cottage.md|Sub-Swiss_Cottage]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Swiss_Cottage.internal.md|Sub-Swiss_Cottage.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Swiss_Cottage.protect.md|Sub-Swiss_Cottage.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Swiss_Cottage.private.md|Sub-Swiss_Cottage.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Swiss_Cottage.personal.md|Sub-Swiss_Cottage.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Swiss_Cottage.secret.md|Sub-Swiss_Cottage.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Swiss_Cottage.md|Sub~Swiss_Cottage]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Swiss_Cottage.internal.md|Sub~Swiss_Cottage.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Swiss_Cottage.protect.md|Sub~Swiss_Cottage.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Swiss_Cottage.private.md|Sub~Swiss_Cottage.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Swiss_Cottage.personal.md|Sub~Swiss_Cottage.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Swiss_Cottage.secret.md|Sub~Swiss_Cottage.secret]] 

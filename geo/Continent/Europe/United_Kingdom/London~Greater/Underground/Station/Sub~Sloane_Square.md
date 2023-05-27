@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Sloane_Square
-coordinates: [[Sub-Sloane_Square]]
-markerFile: [[Sub-Sloane_Square]]
+id: Sub~Sloane_Square
+coordinates: [[Sub~Sloane_Square]]
+markerFile: [[Sub~Sloane_Square]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sloane_Square.md|Sub-Sloane_Square]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sloane_Square.internal.md|Sub-Sloane_Square.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sloane_Square.protect.md|Sub-Sloane_Square.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sloane_Square.private.md|Sub-Sloane_Square.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sloane_Square.personal.md|Sub-Sloane_Square.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sloane_Square.secret.md|Sub-Sloane_Square.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Sloane_Square.md|Sub~Sloane_Square]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Sloane_Square.internal.md|Sub~Sloane_Square.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Sloane_Square.protect.md|Sub~Sloane_Square.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Sloane_Square.private.md|Sub~Sloane_Square.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Sloane_Square.personal.md|Sub~Sloane_Square.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Sloane_Square.secret.md|Sub~Sloane_Square.secret]] 

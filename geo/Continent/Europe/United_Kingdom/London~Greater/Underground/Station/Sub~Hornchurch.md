@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Hornchurch
-coordinates: [[Sub-Hornchurch]]
-markerFile: [[Sub-Hornchurch]]
+id: Sub~Hornchurch
+coordinates: [[Sub~Hornchurch]]
+markerFile: [[Sub~Hornchurch]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hornchurch.md|Sub-Hornchurch]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hornchurch.internal.md|Sub-Hornchurch.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hornchurch.protect.md|Sub-Hornchurch.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hornchurch.private.md|Sub-Hornchurch.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hornchurch.personal.md|Sub-Hornchurch.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hornchurch.secret.md|Sub-Hornchurch.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hornchurch.md|Sub~Hornchurch]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hornchurch.internal.md|Sub~Hornchurch.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hornchurch.protect.md|Sub~Hornchurch.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hornchurch.private.md|Sub~Hornchurch.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hornchurch.personal.md|Sub~Hornchurch.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Hornchurch.secret.md|Sub~Hornchurch.secret]] 

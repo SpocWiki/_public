@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Mornington_Crescent
-coordinates: [[Sub-Mornington_Crescent]]
-markerFile: [[Sub-Mornington_Crescent]]
+id: Sub~Mornington_Crescent
+coordinates: [[Sub~Mornington_Crescent]]
+markerFile: [[Sub~Mornington_Crescent]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.md|Sub-Mornington_Crescent]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.internal.md|Sub-Mornington_Crescent.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.protect.md|Sub-Mornington_Crescent.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.private.md|Sub-Mornington_Crescent.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.personal.md|Sub-Mornington_Crescent.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.secret.md|Sub-Mornington_Crescent.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mornington_Crescent.md|Sub~Mornington_Crescent]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mornington_Crescent.internal.md|Sub~Mornington_Crescent.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mornington_Crescent.protect.md|Sub~Mornington_Crescent.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mornington_Crescent.private.md|Sub~Mornington_Crescent.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mornington_Crescent.personal.md|Sub~Mornington_Crescent.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Mornington_Crescent.secret.md|Sub~Mornington_Crescent.secret]] 

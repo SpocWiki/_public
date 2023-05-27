@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Bermondsey
-coordinates: [[Sub-Bermondsey]]
-markerFile: [[Sub-Bermondsey]]
+id: Sub~Bermondsey
+coordinates: [[Sub~Bermondsey]]
+markerFile: [[Sub~Bermondsey]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Bermondsey|Sub~Bermondsey]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bermondsey.internal.md|Sub-Bermondsey.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bermondsey.protect.md|Sub-Bermondsey.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bermondsey.private.md|Sub-Bermondsey.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bermondsey.personal.md|Sub-Bermondsey.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bermondsey.secret.md|Sub-Bermondsey.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bermondsey.internal.md|Sub~Bermondsey.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bermondsey.protect.md|Sub~Bermondsey.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bermondsey.private.md|Sub~Bermondsey.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bermondsey.personal.md|Sub~Bermondsey.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bermondsey.secret.md|Sub~Bermondsey.secret]] 

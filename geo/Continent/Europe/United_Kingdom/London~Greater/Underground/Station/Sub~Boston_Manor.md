@@ -23,9 +23,9 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Boston_Manor
-coordinates: [[Sub-Boston_Manor]]
-markerFile: [[Sub-Boston_Manor]]
+id: Sub~Boston_Manor
+coordinates: [[Sub~Boston_Manor]]
+markerFile: [[Sub~Boston_Manor]]
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Sub~Boston_Manor|Sub~Boston_Manor]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Boston_Manor.internal.md|Sub-Boston_Manor.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Boston_Manor.protect.md|Sub-Boston_Manor.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Boston_Manor.private.md|Sub-Boston_Manor.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Boston_Manor.personal.md|Sub-Boston_Manor.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Boston_Manor.secret.md|Sub-Boston_Manor.secret]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Boston_Manor.internal.md|Sub~Boston_Manor.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Boston_Manor.protect.md|Sub~Boston_Manor.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Boston_Manor.private.md|Sub~Boston_Manor.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Boston_Manor.personal.md|Sub~Boston_Manor.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Boston_Manor.secret.md|Sub~Boston_Manor.secret]] 

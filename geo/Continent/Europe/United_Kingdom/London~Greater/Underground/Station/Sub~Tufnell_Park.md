@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Tufnell_Park
-coordinates: [[Sub-Tufnell_Park]]
-markerFile: [[Sub-Tufnell_Park]]
+id: Sub~Tufnell_Park
+coordinates: [[Sub~Tufnell_Park]]
+markerFile: [[Sub~Tufnell_Park]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.md|Sub-Tufnell_Park]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.internal.md|Sub-Tufnell_Park.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.protect.md|Sub-Tufnell_Park.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.private.md|Sub-Tufnell_Park.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.personal.md|Sub-Tufnell_Park.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.secret.md|Sub-Tufnell_Park.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tufnell_Park.md|Sub~Tufnell_Park]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tufnell_Park.internal.md|Sub~Tufnell_Park.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tufnell_Park.protect.md|Sub~Tufnell_Park.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tufnell_Park.private.md|Sub~Tufnell_Park.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tufnell_Park.personal.md|Sub~Tufnell_Park.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Tufnell_Park.secret.md|Sub~Tufnell_Park.secret]] 

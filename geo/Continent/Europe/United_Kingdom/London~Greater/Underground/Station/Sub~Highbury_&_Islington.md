@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Highbury_&_Islington
-coordinates: [[Sub-Highbury_&_Islington]]
-markerFile: [[Sub-Highbury_&_Islington]]
+id: Sub~Highbury_&_Islington
+coordinates: [[Sub~Highbury_&_Islington]]
+markerFile: [[Sub~Highbury_&_Islington]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.md|Sub-Highbury_&_Islington]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.internal.md|Sub-Highbury_&_Islington.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.protect.md|Sub-Highbury_&_Islington.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.private.md|Sub-Highbury_&_Islington.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.personal.md|Sub-Highbury_&_Islington.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.secret.md|Sub-Highbury_&_Islington.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highbury_&_Islington.md|Sub~Highbury_&_Islington]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highbury_&_Islington.internal.md|Sub~Highbury_&_Islington.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highbury_&_Islington.protect.md|Sub~Highbury_&_Islington.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highbury_&_Islington.private.md|Sub~Highbury_&_Islington.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highbury_&_Islington.personal.md|Sub~Highbury_&_Islington.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Highbury_&_Islington.secret.md|Sub~Highbury_&_Islington.secret]] 

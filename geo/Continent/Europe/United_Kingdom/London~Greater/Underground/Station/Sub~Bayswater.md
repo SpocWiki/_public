@@ -23,17 +23,17 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Bayswater
-coordinates: [[Sub-Bayswater]]
-markerFile: [[Sub-Bayswater]]
+id: Sub~Bayswater
+coordinates: [[Sub~Bayswater]]
+markerFile: [[Sub~Bayswater]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../[[Sub~Bayswater|Sub~Bayswater]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bayswater.internal.md|Sub-Bayswater.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bayswater.protect.md|Sub-Bayswater.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bayswater.private.md|Sub-Bayswater.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bayswater.personal.md|Sub-Bayswater.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Bayswater.secret.md|Sub-Bayswater.secret]] 
+- [[../../[[Sub~Bayswater|Sub~Bayswater]]/../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.internal.md|Sub~Bayswater.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.protect.md|Sub~Bayswater.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.private.md|Sub~Bayswater.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.personal.md|Sub~Bayswater.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Bayswater.secret.md|Sub~Bayswater.secret]] 

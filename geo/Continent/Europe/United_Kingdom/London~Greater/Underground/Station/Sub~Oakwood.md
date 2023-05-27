@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Oakwood
-coordinates: [[Sub-Oakwood]]
-markerFile: [[Sub-Oakwood]]
+id: Sub~Oakwood
+coordinates: [[Sub~Oakwood]]
+markerFile: [[Sub~Oakwood]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oakwood.md|Sub-Oakwood]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oakwood.internal.md|Sub-Oakwood.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oakwood.protect.md|Sub-Oakwood.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oakwood.private.md|Sub-Oakwood.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oakwood.personal.md|Sub-Oakwood.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Oakwood.secret.md|Sub-Oakwood.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Oakwood.md|Sub~Oakwood]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Oakwood.internal.md|Sub~Oakwood.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Oakwood.protect.md|Sub~Oakwood.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Oakwood.private.md|Sub~Oakwood.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Oakwood.personal.md|Sub~Oakwood.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Oakwood.secret.md|Sub~Oakwood.secret]] 

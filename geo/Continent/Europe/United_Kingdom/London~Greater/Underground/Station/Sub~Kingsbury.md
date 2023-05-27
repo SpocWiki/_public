@@ -23,18 +23,18 @@ confidential: public
 
 
 ```leaflet
-id: Sub-Kingsbury
-coordinates: [[Sub-Kingsbury]]
-markerFile: [[Sub-Kingsbury]]
+id: Sub~Kingsbury
+coordinates: [[Sub~Kingsbury]]
+markerFile: [[Sub~Kingsbury]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kingsbury.md|Sub-Kingsbury]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kingsbury.internal.md|Sub-Kingsbury.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kingsbury.protect.md|Sub-Kingsbury.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kingsbury.private.md|Sub-Kingsbury.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kingsbury.personal.md|Sub-Kingsbury.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kingsbury.secret.md|Sub-Kingsbury.secret]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kingsbury.md|Sub~Kingsbury]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kingsbury.internal.md|Sub~Kingsbury.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kingsbury.protect.md|Sub~Kingsbury.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kingsbury.private.md|Sub~Kingsbury.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kingsbury.personal.md|Sub~Kingsbury.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Kingsbury.secret.md|Sub~Kingsbury.secret]] 
