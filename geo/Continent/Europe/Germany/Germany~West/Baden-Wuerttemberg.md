@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.5647,8.97421]
 type: State
 SpocWebEntityId: 36015
@@ -9,7 +9,11 @@ tags:
 ---
 [name::Baden-Wuerttemberg]
 [name-abbr::BW]
-![[Baden-Wuerttemberg/Coat_of_arms_of_Baden-Württemberg.svg|350]]]![[Baden-Wuerttemberg/Flag_of_Baden-Württemberg.svg|350]]]
+
+![[Baden-Wuerttemberg/Coat_of_arms_of_Baden-Württemberg.svg|350]]
+
+![[Baden-Wuerttemberg/Flag_of_Baden-Württemberg.svg|350]]
+
 
 ```leaflet
 id: Baden-Wuerttemberg

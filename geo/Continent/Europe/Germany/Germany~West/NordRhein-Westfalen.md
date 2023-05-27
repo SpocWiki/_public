@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.4279,7.6153]
 type: State
 SpocWebEntityId: 36020
@@ -9,7 +9,10 @@ tags:
 
 ---
 [name::NordRhein-Westfalen]
-[name-abbr::NW]![[NordRhein-Westfahlen/Coat_of_arms_of_North_Rhine-Westfalia.svg|350]]]![[NordRhein-Westfahlen/Flag_of_North_Rhine-Westphalia.svg|350]]]
+
+[name-abbr::NW]
+![[NordRhein-Westfahlen/Coat_of_arms_of_North_Rhine-Westfalia.svg|350]]
+![[NordRhein-Westfahlen/Flag_of_North_Rhine-Westphalia.svg|350]]
 
 ```leaflet
 id: NordRhein-Westfalen

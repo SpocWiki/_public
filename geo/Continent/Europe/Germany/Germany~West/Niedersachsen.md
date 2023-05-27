@@ -10,7 +10,9 @@ tags:
 ---
 [name::Niedersachsen]
 [name-abbr::NS]
+
 ![[Niedersachsen/Coat_of_arms_of_Niedersachsen.svg|350]]
+
 ![[Niedersachsen/Flag_of_Lower_Saxony.svg|350]]
 
 ```leaflet

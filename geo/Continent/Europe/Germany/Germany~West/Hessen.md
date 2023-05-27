@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.4897,8.8478]
 type: State
 SpocWebEntityId: 36017
@@ -10,8 +10,11 @@ tags:
 ---
 [name::Hessen]
 [name-abbr::HN]
-![[Hessen/Coat_of_arms_of_Hesse.svg|350]]]
-![[Hessen/Flag_of_Hesse.svg|350]]]
+
+![[Hessen/Coat_of_arms_of_Hesse.svg|350]]
+
+![[Hessen/Flag_of_Hesse.svg|350]]
+
 
 ```leaflet
 id: Hessen

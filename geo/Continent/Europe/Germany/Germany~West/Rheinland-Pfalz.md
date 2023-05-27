@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.914,7.57652]
 type: State
 SpocWebEntityId: 36021
@@ -9,7 +9,13 @@ tags:
 
 ---
 [name::Rheinland-Pfalz]
-[name-abbr::RZ]![[Rheinland-Pfalz/Coat_of_arms_of_Rhineland-Palatinate.svg|350]]]![[Rheinland-Pfalz/Flag_of_Rhineland-Palatinate.svg|350]]]
+
+[name-abbr::RZ]
+
+![[Rheinland-Pfalz/Coat_of_arms_of_Rhineland-Palatinate.svg|350]]
+
+![[Rheinland-Pfalz/Flag_of_Rhineland-Palatinate.svg|350]]
+
 
 ```leaflet
 id: Rheinland-Pfalz
