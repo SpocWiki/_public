@@ -1,4 +1,4 @@
-Subway-Line in [[../../City/London]] 
+Subway-Line in [[../../City/City~London]] 
 
 
 > The Central line is a London Underground line that runs through central London, from Epping, Essex, in the north-east to Ealing Broadway and West Ruislip in west London. Printed in red on the Tube map, the line serves 49 stations over 46 miles (74 km), making it the longest line on the Underground. It is one of only two lines on the Underground network to cross the Greater London boundary, the other being the Metropolitan line. One of London's deep-level railways, Central line trains are smaller than those on British main lines.

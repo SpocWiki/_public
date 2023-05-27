@@ -1,4 +1,4 @@
-Subway-Line in [[../../City/London]] 
+Subway-Line in [[../../City/City~London]] 
 
 > The **Northern Line** is a London Underground line that runs from North London to South London. It is printed in black on the Tube map. The Northern line is unique on the Underground network in having two different routes through central London, two southern branches and two northern branches. Despite its name, it does not serve the northernmost stations on the Underground, though it does serve the southernmost station at Morden, the terminus of one of the two southern branches.
 >

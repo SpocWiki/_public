@@ -7,7 +7,7 @@ alias:
 - Sub-Wood_Lane 
 tags:
 - geo/station
-- Europe/United_Kingdom/London
+- Europe/United_Kingdom/City~London
 ---
 SpocWebEntityId: 156136
 [StationSId::]

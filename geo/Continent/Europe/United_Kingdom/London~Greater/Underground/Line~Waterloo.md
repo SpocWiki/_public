@@ -4,7 +4,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Waterloo%20&%20City%20line)
 
-Subway-Line in [[../../City/London]] 
+Subway-Line in [[../../City/City~London]] 
 
 ```leaflet
 id: FFM~-U1

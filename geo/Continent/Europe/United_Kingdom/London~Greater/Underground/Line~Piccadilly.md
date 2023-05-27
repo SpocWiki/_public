@@ -1,4 +1,4 @@
-Subway-Line in [[../../City/London]] 
+Subway-Line in [[../../City/City~London]] 
 
 > The **Piccadilly Line** is a deep-level London Underground line running from the north to the west of London. It has two branches, which split at Acton Town, and serves 53 stations. The line serves Heathrow Airport, and some of its stations are near tourist attractions such as Piccadilly Circus and Buckingham Palace. The District and Metropolitan lines share some sections of track with the Piccadilly line. Printed in dark blue (officially "Corporate Blue", Pantone 072) on the Tube map, it is the fourth busiest line on the Underground network, with over 210 million passenger journeys in 2011/12.
 >

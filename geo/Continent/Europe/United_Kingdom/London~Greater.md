@@ -1,5 +1,4 @@
-# Greater London
-
+Describes [[London~Greater/City~London]] and surrounding Area.
 
 ```leaflet
 id: London

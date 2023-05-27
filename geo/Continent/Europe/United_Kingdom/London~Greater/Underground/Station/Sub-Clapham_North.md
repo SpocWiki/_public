@@ -5,7 +5,7 @@ mapzoom: [8,15]
 mapmarker: subway 
 tags:
 - geo/station
-- Europe/United_Kingdom/London
+- Europe/United_Kingdom/City~London
 ---
 SpocWebEntityId: 155919
 [StationSId::]

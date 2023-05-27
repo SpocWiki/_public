@@ -8,7 +8,7 @@ isReadOnly: false
 
 tags:
 - geo/station
-- Europe/United_Kingdom/London
+- Europe/United_Kingdom/City~London
 
 aliases:
 - 

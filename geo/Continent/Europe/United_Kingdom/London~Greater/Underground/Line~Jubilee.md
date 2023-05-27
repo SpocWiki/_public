@@ -1,4 +1,4 @@
-Subway Line in [[../../City/London]] 
+Subway Line in [[../../City/City~London]] 
 
 > The **Jubilee Line** is a London Underground line that runs between Stratford in east London and Stanmore in the suburban north-west, via the Docklands, South Bank and West End. Opened in 1979, it is the newest line on the Underground network, although some sections of track date back to 1932 and some stations to 1879.
 >

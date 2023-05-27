@@ -32,7 +32,7 @@ markerFolder: ./United_Kingdom/City
 [Area-Land::241600]
 [Continent::[[Europe]]]
 [VehicleCode::GB]
-[Capital::[[United_Kingdom/London]]]
+[Capital::[[United_Kingdom/City~London]]]
 [Alcohol-l::13.4]
 [Language-Id::499]
 [geo-lon::-2.14482]

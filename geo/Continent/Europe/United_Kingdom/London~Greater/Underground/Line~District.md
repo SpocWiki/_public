@@ -1,4 +1,4 @@
-Subway Line in [[../../City/London]] 
+Subway Line in [[../../City/City~London]] 
 
 ```leaflet
 id: FFM~-U1

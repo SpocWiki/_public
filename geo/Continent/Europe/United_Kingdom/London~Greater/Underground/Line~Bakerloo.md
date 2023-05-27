@@ -1,4 +1,4 @@
-Subway-Line in [[../../City/London]] 
+Subway-Line in [[../../City/City~London]] 
 
 > The **Bakerloo Line** is a London Underground line that goes from Harrow & Wealdstone in suburban north-west London to Elephant & Castle in south London, via the West End. Printed in brown on the Tube map, it serves 25 stations, 15 of which are underground, over 14.4 miles (23.2 km). It runs partly on the surface and partly in deep-level tube tunnels.
 >
