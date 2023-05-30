@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.32]
 [name::Riegelsberg]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

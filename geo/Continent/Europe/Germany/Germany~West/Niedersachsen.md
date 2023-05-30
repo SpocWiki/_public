@@ -4,6 +4,7 @@ type: State
 SpocWebEntityId: 36019
 isDeleted: false
 Confidential: public
+ISO3166-2: DE-NI
 tags:
 - geo/State
 

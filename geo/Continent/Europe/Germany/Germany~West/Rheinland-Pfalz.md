@@ -1,6 +1,7 @@
 ---
 location: [49.914,7.57652]
 type: State
+ISO3166-2: DE-RP
 SpocWebEntityId: 36021
 isDeleted: false
 Confidential: public

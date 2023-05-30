@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.28]
 [name::St.Ingbert]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

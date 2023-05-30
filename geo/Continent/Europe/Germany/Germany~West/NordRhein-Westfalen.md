@@ -1,6 +1,7 @@
 ---
 location: [51.4279,7.6153]
 type: State
+ISO3166-2: DE-NW
 SpocWebEntityId: 36020
 isDeleted: false
 Confidential: public
@@ -11,20 +12,20 @@ tags:
 [name::NordRhein-Westfalen]
 
 [name-abbr::NW]
-![[NordRhein-Westfahlen/Coat_of_arms_of_North_Rhine-Westfalia.svg|350]]
-![[NordRhein-Westfahlen/Flag_of_North_Rhine-Westphalia.svg|350]]
+![[NordRhein-Westfalen/Coat_of_arms_of_North_Rhine-Westfalia.svg|350]]
+![[NordRhein-Westfalen/Flag_of_North_Rhine-Westphalia.svg|350]]
 
 ```leaflet
 id: NordRhein-Westfalen
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./NordRhein-Westfalen/
-markerFolder: ./NordRhein-Westfalen/City
+geojsonFolder: ./NordRhein-Westfalen//
+markerFolder: ./NordRhein-Westfalen/City/
 ```
 
 [Country::[[Germany]]]
-[ Capital ::[[NordRhein-Westfahlen/City/Duesseldorf]]] ]
+[Capital ::[[NordRhein-Westfalen/City/Duesseldorf]]] ]
 [geo-lon::7.6153]
 [geo-lat::51.4279]
 [Population::]

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.52]
 [name::Saarhoelzbach]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

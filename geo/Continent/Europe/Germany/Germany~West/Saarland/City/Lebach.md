@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.42]
 [name::Lebach]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

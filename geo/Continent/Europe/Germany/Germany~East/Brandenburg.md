@@ -1,6 +1,7 @@
-﻿---
+---
 location: [52.3844,13.3801]
 type: State
+ISO3166-2: DE-BB
 SpocWebEntityId: 29314
 isDeleted: false
 Confidential: public

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.27]
 [name::Dudweiler]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

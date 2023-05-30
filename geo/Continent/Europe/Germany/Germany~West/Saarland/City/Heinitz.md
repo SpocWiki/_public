@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.33]
 [name::Heinitz]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

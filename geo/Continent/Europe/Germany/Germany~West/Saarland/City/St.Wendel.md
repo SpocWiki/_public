@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.47]
 [name::St.Wendel]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

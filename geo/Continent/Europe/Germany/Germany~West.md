@@ -24,7 +24,7 @@ aliases:
 - ??
 - ????????
 - the Federal Republic of Germany
-- la República Federal de Alemania
+- la Repï¿½blica Federal de Alemania
 
 Languages:
 - de
@@ -70,7 +70,7 @@ markerFolder: ./Germany~West/Hessen/City
 [[Germany~West/Niedersachsen|Niedersachsen]]
 [[Germany~West/NordRhein-Westfalen|NordRhein-Westfalen]]
 [[Germany~West/Rheinland-Pfalz|Rheinland-Pfalz]]
-[[Saarland]]
+[[Germany~West/Saarland]]
 [[Germany~West/Schleswig-Holstein|Schleswig-Holstein]]
 [[Germany~West/State~Berlin|State~Berlin]]
 [[Germany~West/State~Bremen|State~Bremen]]

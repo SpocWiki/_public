@@ -1,6 +1,7 @@
-﻿---
+---
 location: [53.7906,12.5967]
 type: State
+ISO3166-2: DE-MV
 SpocWebEntityId: 36018
 isDeleted: false
 Confidential: public

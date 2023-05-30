@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.43]
 [name::Merzig]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.53]
 [name::Mettnich]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.57]
 [name::Schweich]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

@@ -1,6 +1,7 @@
 ---
 location: [54.1593,9.87324]
 type: State
+ISO3166-2: DE-SH
 SpocWebEntityId: 36025
 isDeleted: false
 Confidential: public

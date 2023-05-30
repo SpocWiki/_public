@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.22]
 [name::Saarbruecken]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

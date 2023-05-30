@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.25]
 [name::Lautzkirchen]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

@@ -1,6 +1,7 @@
 ---
 location: [48.5647,8.97421]
 type: State
+ISO3166-2: DE-BW
 SpocWebEntityId: 36015
 isDeleted: false
 Confidential: public

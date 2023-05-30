@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.3]
 [name::Sulzbach~Saarland]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 

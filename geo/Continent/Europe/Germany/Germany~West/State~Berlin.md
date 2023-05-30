@@ -1,6 +1,7 @@
-﻿---
+---
 location: [52.4926,13.3689]
 type: State
+ISO3166-2: DE-BE
 SpocWebEntityId: 29130
 isDeleted: false
 Confidential: public

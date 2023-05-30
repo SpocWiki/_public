@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 59.7646
 - 16.5434
@@ -101,17 +101,15 @@ Languages:
 [	Small_Island_Developing_States_(SIDS)	 ::  ]
 
 [	ISO3166-1-numeric	 :: 752 ]
-
-
-
 [ISO2::SE]
 [ISO3::SWE]
+
 ```leaflet
 id: Sweden
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sweden
+geojsonFolder: ./Sweden//
 markerFolder: ./Sweden/City
 ```
 

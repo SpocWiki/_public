@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.4]
 [name::Beckingen]
 [Country::[[Germany]]]
-[State::[[Saarland]]]
+[State:[[../../Saarland]]]]
 [Population::]
 [Unknown::]
 
