@@ -6,9 +6,6 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 
-location: [{{GeoLat}},{{GeoLon}}]
-SpocWebEntityId: {{SpocWebEntityId}}
-StationSId: {{Id}}
 
 tags:
 - geo/station
@@ -17,6 +14,9 @@ aliases:
 - 
 
 ---
+location: [{{GeoLat}},{{GeoLon}}]
+SpocWebEntityId: {{SpocWebEntityId}}
+StationSId: {{Id}}
 
 [geo-lon::{{GeoLon}}]
 [geo-lat::{{GeoLat}}]
