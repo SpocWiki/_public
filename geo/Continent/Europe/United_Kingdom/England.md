@@ -1,9 +1,8 @@
-# England Overview
 
 
 ```leaflet
 id: England
-geojsonFolder: ./England/
+geojsonFolder: ./England//
 markerFolder: ./England/City
 zoomFeatures: true 
 minZoom: 2 
