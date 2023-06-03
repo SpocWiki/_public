@@ -44,8 +44,8 @@ id: West Germany
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Germany~West///
-markerFolder: ./Germany~West/Hessen/City
+geojsonFolder: ./Germany~West/
+markerFolder: ./Germany~West/
 ```
 
 [name-en::West Germany]

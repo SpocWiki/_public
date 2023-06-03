@@ -18,7 +18,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Germany~East/
-markerFolder: ./Germany~East/Brandenburg/City
+markerFolder: ./Germany~East/
 ```
 
 [name-en::East Germany]

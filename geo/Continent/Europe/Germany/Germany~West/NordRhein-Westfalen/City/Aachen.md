@@ -1,5 +1,5 @@
-﻿---
-location: [50.78,96.07]
+---
+location: [50.78,6.07]
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
