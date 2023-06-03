@@ -16,8 +16,8 @@ minZoom: 2
 maxZoom: 18
 long: -65
 lat: -25
-geojsonFolder: ./South-America
-markerFolder: ./South-America/City
+geojsonFolder: ./South-America/
+markerFolder: ./South-America/City/
 zoomFeatures: false 
 ```
 
