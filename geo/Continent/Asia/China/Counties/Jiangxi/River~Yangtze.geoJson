@@ -1,0 +1,1 @@
+{ "type": "Feature", "properties": { "featurecla": "River", "scalerank": 1, "rivernum": 1, "dissolve": "1River", "name": "Yangtze", "name_alt": null, "note": null, "min_zoom": 2.0, "strokeweig": 0.3, "name_en": "Yangtze", "min_label": 3.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 116.197509765625, 29.75141022343162 ], [ 116.20751953125, 29.77948639530662 ] ] } }
