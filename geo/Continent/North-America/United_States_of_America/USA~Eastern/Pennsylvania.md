@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.24,-75.7567]
 type: State
 tags:

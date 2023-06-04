@@ -1,18 +1,44 @@
+﻿---
+location: [40.9405,-89.1829]
+type: State
+tags:
+- geo/State
 
-> **Illinois** ( (listen) IL-in-OY) is a state in the Midwestern United States. It borders Wisconsin to its north, Iowa to its northwest, Missouri to its southwest, Kentucky to its south, Indiana to its east, and has a water border with Michigan to the northeast in Lake Michigan. Its largest metropolitan areas include the Chicago metropolitan area, and the Metro East section, of Greater St. Louis. Other metropolitan areas include Peoria and Rockford, as well as Springfield, its capital. Of the fifty U.S. states, Illinois has the fifth-largest gross domestic product (GDP), the sixth-largest population, and the 25th-largest land area.
->
-> Illinois has a highly diverse economy, with the global city of Chicago in the northeast, major industrial and agricultural hubs in the north and center, and natural resources such as coal, timber, and petroleum in the south. Owing to its central location and favorable geography, the state is a major transportation hub: the Port of Chicago has access to the Atlantic Ocean through the Great Lakes and Saint Lawrence Seaway and to the Gulf of Mexico from the Mississippi River via the Illinois Waterway. Additionally, the Mississippi, Ohio, and Wabash rivers form parts of the state's boundaries. Chicago's O'Hare International Airport has been among the world's ten busiest airports for decades. Illinois has long been considered a microcosm of the United States and a bellwether in American culture, exemplified by the phrase Will it play in Peoria?.What is now Illinois was inhabited for thousands of years by various indigenous cultures, including the advanced civilization centered in the Cahokia region. The French were the first Europeans to arrive, settling near the Mississippi River in the 17th century, in the region they called Illinois Country, as part of the sprawling colony of New France. Following U.S. independence in 1783, American settlers began arriving from Kentucky via the Ohio River, and the population grew from south to north. Illinois was part of the United States' oldest territory, the Northwest Territory, and in 1818 it achieved statehood. The Erie Canal brought increased commercial activity in the Great Lakes, and the small settlement of Chicago became one of the fastest growing cities in the world, benefiting from its location as one of the few natural harbors in southwestern Lake Michigan. The invention of the self-scouring steel plow by Illinoisan John Deere turned the state's rich prairie into some of the world's most productive and valuable farmland, attracting immigrant farmers from Germany and Sweden. In the mid-19th century, the Illinois and Michigan Canal and a sprawling railroad network greatly facilitated trade, commerce, and settlement, making the state a transportation hub for the nation.By 1900, the growth of industrial jobs in the northern cities, and coal mining in the central and southern areas, attracted immigrants from Eastern and Southern Europe. Illinois became one of America's most industrialized states and remains a major manufacturing center. The Great Migration from the South established a large community of African Americans, particularly in Chicago, who founded the city's famous jazz and blues cultures. Chicago became a leading cultural, economic, and population center and is today one of the world's major commercial centers; its metropolitan area, informally referred to as Chicagoland, holds about 65% of the state's 12.8 million residents. 
->
-> Three U.S. presidents have been elected while residents of Illinois: Abraham Lincoln, Ulysses S. Grant, and Barack Obama; additionally, Ronald Reagan was born and raised in the state. Today, Illinois honors Lincoln with its official state slogan Land of Lincoln, which has been displayed on its license plates since 1954. The state is the site of the Abraham Lincoln Presidential Library and Museum in Springfield and the future home of the Barack Obama Presidential Center in Chicago.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Illinois)
+
+SpocWebEntityId: 36040
+isDeleted: false
+confidential: public
+
+---
+[name::Illinois]
+[name-abbr::IL]
+
+![[Seal_of_Illinois.svg|350]]
+
+![[Flag_of_Illinois.svg|350]]
+
+[Country::[[United_States_of_America]]]
+[Capital::[[Springfield]]]
+[geo-lon::-89.1829]
+[geo-lat::40.9405]
+[Population::]
+
+
 
 ```leaflet
-id: United States of America
+id: Illinois
+geojsonFolder: ./Illinois/
+markerFolder: ./Illinois/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Illinois/
-markerFolder: ./Illinois/City
 ```
 
+
+## Confidential Links & Embeds: 
+- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Illinois.md|Illinois]] 
+- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Illinois.internal.md|Illinois.internal]] 
+- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Illinois.protect.md|Illinois.protect]] 
+- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Illinois.private.md|Illinois.private]] 
+- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Illinois.personal.md|Illinois.personal]] 
+- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Illinois.secret.md|Illinois.secret]] 
