@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 52.6418
 - 47.4574
@@ -133,8 +133,8 @@ id: Russia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Russia
-markerFolder: ./Russia/City
+geojsonFolder: ./Russia//
+markerFolder: ./Russia/
 ```
 
 [name-en::Russia]

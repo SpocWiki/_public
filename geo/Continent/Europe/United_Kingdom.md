@@ -16,6 +16,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./United_Kingdom//
+
 markerFolder: ./United_Kingdom/City/
 ```
 

@@ -3,7 +3,7 @@
 ```leaflet
 id: England
 geojsonFolder: ./England//
-markerFolder: ./England//
+markerFolder: ./England///
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
