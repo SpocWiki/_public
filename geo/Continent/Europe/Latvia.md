@@ -105,13 +105,14 @@ Languages:
 
 [ISO2::LV]
 [ISO3::LVA]
+
 ```leaflet
 id: Latvia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Latvia
-markerFolder: ./Latvia/City
+geojsonFolder: ./Latvia//
+markerFolder: ./Latvia//
 ```
 
 [name-en::Latvia]

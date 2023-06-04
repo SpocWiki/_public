@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 62.3173
 - 25.4668
@@ -110,8 +110,8 @@ id: Finland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Finland
-markerFolder: ./Finland/City
+geojsonFolder: ./Finland//
+markerFolder: ./Finland//
 ```
 
 [name-en::Finland]

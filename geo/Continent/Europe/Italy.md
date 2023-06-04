@@ -116,7 +116,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Italy//
-markerFolder: ./Italy/
+markerFolder: ./Italy//
 ```
 
 [name-en::Italy]

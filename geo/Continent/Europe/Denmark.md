@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 55.6789
 - 10.5
@@ -106,13 +106,14 @@ Languages:
 
 [ISO2::DK]
 [ISO3::DNK]
+
 ```leaflet
 id: Denmark
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Denmark
-markerFolder: ./Denmark/City
+geojsonFolder: ./Denmark//
+markerFolder: ./Denmark//
 ```
 
 [name-en::Denmark]

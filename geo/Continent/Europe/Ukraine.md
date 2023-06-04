@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.45
 - 30.5
@@ -109,8 +109,8 @@ id: Ukraine
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ukraine
-markerFolder: ./Ukraine/City
+geojsonFolder: ./Ukraine//
+markerFolder: ./Ukraine//
 ```
 
 [name-en::Ukraine]

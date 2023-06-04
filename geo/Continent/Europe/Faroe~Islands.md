@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 62
 - -6.78333
@@ -108,8 +108,8 @@ id: Faeroe Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Faeroe_Islands
-markerFolder: ./Faeroe_Islands/City
+geojsonFolder: ./Faroe~Islands//
+markerFolder: ./Faroe~Islands//
 ```
 
 [name-en::Faeroe Islands]

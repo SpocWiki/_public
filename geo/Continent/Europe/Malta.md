@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 35.9
 - 14.52
@@ -108,8 +108,8 @@ id: Malta
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Malta
-markerFolder: ./Malta/City
+geojsonFolder: ./Malta//
+markerFolder: ./Malta/
 ```
 
 [name-en::Malta]

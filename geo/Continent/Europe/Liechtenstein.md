@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 47.158
 - 9.529
@@ -101,13 +101,14 @@ Languages:
 
 [ISO2::LI]
 [ISO3::LIE]
+
 ```leaflet
 id: Liechtenstein
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Liechtenstein
-markerFolder: ./Liechtenstein/City
+geojsonFolder: ./Liechtenstein//
+markerFolder: ./Liechtenstein//
 ```
 
 [name-en::Liechtenstein]

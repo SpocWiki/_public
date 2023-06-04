@@ -24,8 +24,8 @@ confidential: public
 
 ```leaflet
 id: Suchumkale
-coordinates: [[Suchumkale]]
-markerFile: [[Suchumkale]]
+coordinates: [[Sukhumi]]
+markerFile: [[Sukhumi]]
 defaultZoom: 11 
 maxZoom: 18
 ```

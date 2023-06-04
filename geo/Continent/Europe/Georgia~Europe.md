@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.7167,44.7833]
 type: Country
 tags:
@@ -16,8 +16,8 @@ id: Georgia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Georgia
-markerFolder: ./Georgia/City
+geojsonFolder: ./Georgia~Europe//
+markerFolder: ./Georgia~Europe//
 ```
 
 [name-en::Georgia]

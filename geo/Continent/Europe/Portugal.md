@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 42.1067
 - -5.10879
@@ -107,8 +107,8 @@ id: Portugal
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Portugal
-markerFolder: ./Portugal/City
+geojsonFolder: ./Portugal//
+markerFolder: ./Portugal//
 ```
 
 [name-en::Portugal]

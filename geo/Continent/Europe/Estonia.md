@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 59.4167
 - 24.75
@@ -108,8 +108,8 @@ id: Estonia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Estonia
-markerFolder: ./Estonia/City
+geojsonFolder: ./Estonia//
+markerFolder: ./Estonia//
 ```
 
 [name-en::Estonia]

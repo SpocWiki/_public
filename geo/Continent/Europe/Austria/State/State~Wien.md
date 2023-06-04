@@ -13,8 +13,8 @@ id: Wien
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Wien
-markerFolder: ./Wien/City
+geojsonFolder: ./State~Wien/
+markerFolder: ./State~Wien/
 ```
 
 [ name :: Wien ]

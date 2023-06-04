@@ -106,8 +106,8 @@ id: Hungary
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Hungary
-markerFolder: ./Hungary/City
+geojsonFolder: ./Hungary//
+markerFolder: ./Hungary///
 ```
 
 [name-en::Hungary]

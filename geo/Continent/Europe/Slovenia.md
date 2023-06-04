@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 46.05
 - 14.52
@@ -104,13 +104,14 @@ Languages:
 
 [ISO2::SI]
 [ISO3::SVN]
+
 ```leaflet
 id: Slovenia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Slovenia
-markerFolder: ./Slovenia/City
+geojsonFolder: ./Slovenia///
+markerFolder: ./Slovenia//
 ```
 
 [name-en::Slovenia]

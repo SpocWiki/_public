@@ -10,13 +10,13 @@ tags:
 ---
 [ISO2::GB]
 [ISO3::GBR]
+
 ```leaflet
 id: United Kingdom
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./United_Kingdom//
-
 markerFolder: ./United_Kingdom/City/
 ```
 

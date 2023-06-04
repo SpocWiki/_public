@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 39.3233
 - 32.37
@@ -107,13 +107,14 @@ Languages:
 
 [ISO2::TR]
 [ISO3::TUR]
+
 ```leaflet
 id: Turkey
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Turkey
-markerFolder: ./Turkey/City
+geojsonFolder: ./Turkey//
+markerFolder: ./Turkey//
 ```
 
 [name-en::Turkey]

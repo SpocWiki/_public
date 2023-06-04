@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 49.6827
 - 6.07904
@@ -104,13 +104,14 @@ Languages:
 
 [ISO2::LU]
 [ISO3::LUX]
+
 ```leaflet
 id: Luxembourg
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Luxembourg
-markerFolder: ./Luxembourg/City
+geojsonFolder: ./Luxembourg/
+markerFolder: ./Luxembourg//
 ```
 
 [name-en::Luxembourg]

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 47
 - 28.9167
@@ -113,8 +113,8 @@ id: Moldova
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Moldova
-markerFolder: ./Moldova/City
+geojsonFolder: ./Moldova//
+markerFolder: ./Moldova//
 ```
 
 [name-en::Moldova]

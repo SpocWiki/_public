@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 42.7833
 - 19.4667
@@ -110,8 +110,8 @@ id: Montenegro
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Montenegro
-markerFolder: ./Montenegro/City
+geojsonFolder: ./Montenegro//
+markerFolder: ./Montenegro//
 ```
 
 [name-en::Montenegro]

@@ -111,8 +111,8 @@ id: Bulgaria
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bulgaria
-markerFolder: ./Bulgaria/City
+geojsonFolder: ./Bulgaria//
+markerFolder: ./Bulgaria//
 ```
 
 [name-en::Bulgaria]

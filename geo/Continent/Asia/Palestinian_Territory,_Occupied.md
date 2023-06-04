@@ -26,7 +26,7 @@ markerFolder: ./Palestinian_Territory,_Occupied/City
 [Area-Land::0]
 [Continent::[[Asia]]]
 [VehicleCode::]
-[Capital::[[Jerusalem]]]
+[Capital:[[Israel/Counties/Jerusalem]]]]
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::35.2]

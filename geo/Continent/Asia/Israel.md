@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 32.23
 - 35
@@ -104,13 +104,14 @@ Languages:
 
 [ISO2::IL]
 [ISO3::ISR]
+
 ```leaflet
 id: Israel
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Israel
-markerFolder: ./Israel/City
+geojsonFolder: ./Israel/
+markerFolder: ./Israel///
 ```
 
 [name-en::Israel]
@@ -119,7 +120,7 @@ markerFolder: ./Israel/City
 [Area-Land::20620]
 [Continent::[[Asia]]]
 [VehicleCode::IL]
-[Capital::[[Jerusalem]]]
+[Capital::[[Israel/Counties/Jerusalem]]]
 
 ![[Emblem_of_Israel.svg|350]]
 

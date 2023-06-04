@@ -106,8 +106,8 @@ id: Åland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Åland
-markerFolder: ./Åland/City
+geojsonFolder: ./Åland~Islands//
+markerFolder: ./Åland~Islands//
 ```
 
 [name-en::Åland]

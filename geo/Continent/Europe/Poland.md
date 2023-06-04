@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 52.0027
 - 17.6996
@@ -103,13 +103,14 @@ Languages:
 
 [ISO2::PL]
 [ISO3::POL]
+
 ```leaflet
 id: Poland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Poland
-markerFolder: ./Poland/City
+geojsonFolder: ./Poland//
+markerFolder: ./Poland//
 ```
 
 [name-en::Poland]

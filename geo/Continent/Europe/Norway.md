@@ -112,8 +112,8 @@ id: Norway
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Norway
-markerFolder: ./Norway/City
+geojsonFolder: ./Norway/
+markerFolder: ./Norway//
 ```
 
 [name-en::Norway]

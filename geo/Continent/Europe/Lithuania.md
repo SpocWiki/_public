@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 54.6833
 - 25.3167
@@ -105,13 +105,14 @@ Languages:
 
 [ISO2::LT]
 [ISO3::LTU]
+
 ```leaflet
 id: Lithuania
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Lithuania
-markerFolder: ./Lithuania/City
+geojsonFolder: ./Lithuania//
+markerFolder: ./Lithuania//
 ```
 
 [name-en::Lithuania]

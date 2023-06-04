@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 43.93
 - 12.45
@@ -102,13 +102,14 @@ Languages:
 
 [ISO2::SM]
 [ISO3::SMR]
+
 ```leaflet
 id: San Marino
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./San_Marino
-markerFolder: ./San_Marino/City
+geojsonFolder: ./San_Marino/
+markerFolder: ./San_Marino//
 ```
 
 [name-en::San Marino]

@@ -14,8 +14,8 @@ id: Bosnia and Herzegovina
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bosnia_and_Herzegovina
-markerFolder: ./Bosnia_and_Herzegovina/City
+geojsonFolder: ./Bosnia_and_Herzegovina//
+markerFolder: ./Bosnia_and_Herzegovina//
 ```
 
 [name-en::Bosnia and Herzegovina]

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 43.715
 - 7.41
@@ -113,8 +113,8 @@ id: Monaco
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Monaco
-markerFolder: ./Monaco/City
+geojsonFolder: ./Monaco/
+markerFolder: ./Monaco//
 ```
 
 [name-en::Monaco]

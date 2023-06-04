@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 64.25
 - -51.67
@@ -109,8 +109,8 @@ id: Greenland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Greenland
-markerFolder: ./Greenland/City
+geojsonFolder: ./Greenland//
+markerFolder: ./Greenland///
 ```
 
 [name-en::Greenland]

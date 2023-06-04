@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.8165
 - 4.29368
@@ -112,8 +112,8 @@ id: Belgium
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Belgium
-markerFolder: ./Belgium/City
+geojsonFolder: ./Belgium//
+markerFolder: ./Belgium//
 ```
 
 [name-en::Belgium]

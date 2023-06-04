@@ -104,13 +104,14 @@ Languages:
 
 [ISO2::SK]
 [ISO3::SVK]
+
 ```leaflet
 id: Slovakia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Slovakia
-markerFolder: ./Slovakia/City
+geojsonFolder: ./Slovakia//
+markerFolder: ./Slovakia//
 ```
 
 [name-en::Slovakia]

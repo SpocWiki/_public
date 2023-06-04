@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.98,21.43]
 type: Country
 tags:
@@ -11,13 +11,14 @@ confidential: public
 ---
 [ISO2::MK]
 [ISO3::MKD]
+
 ```leaflet
 id: Macedonia, FYR
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Macedonia~North
-markerFolder: ./Macedonia~North/City
+geojsonFolder: ./Macedonia~North//
+markerFolder: ./Macedonia~North//
 ```
 
 [name-en::Macedonia, FYR]

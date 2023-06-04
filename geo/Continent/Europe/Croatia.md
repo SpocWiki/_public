@@ -106,13 +106,14 @@ isDeleted: false
 confidential: public
 [ISO2::HR]
 [ISO3::HRV]
+
 ```leaflet
 id: Croatia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Croatia
-markerFolder: ./Croatia/City
+geojsonFolder: ./Croatia//
+markerFolder: ./Croatia//
 ```
 
 [name-en::Croatia]

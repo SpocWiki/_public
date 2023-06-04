@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 53.0702
 - -7.70895
@@ -107,8 +107,8 @@ id: Ireland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ireland
-markerFolder: ./Ireland/City
+geojsonFolder: ./Ireland//
+markerFolder: ./Ireland//
 ```
 
 [name-en::Ireland]

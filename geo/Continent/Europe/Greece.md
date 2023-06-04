@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 38.6175
 - 23.0356
@@ -110,7 +110,8 @@ id: Greece
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: _public/geo/Continent/Europe/Greece
+geojsonFolder: ./Greece//
+markerFolder: ./Greece////
 ```
 
 

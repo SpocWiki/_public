@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 40.793
 - 19.9565
@@ -108,8 +108,8 @@ id: Albania
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Albania
-markerFolder: ./Albania/City
+geojsonFolder: ./Albania//
+markerFolder: ./Albania//
 ```
 
 [name-en::Albania]

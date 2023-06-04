@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 40.0911
 - -2.86673
@@ -107,13 +107,14 @@ Languages:
 
 [ISO2::ES]
 [ISO3::ESP]
+
 ```leaflet
 id: Spain
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Spain
-markerFolder: ./Spain/City
+geojsonFolder: ./Spain///
+markerFolder: ./Spain/
 ```
 
 [name-en::Spain]

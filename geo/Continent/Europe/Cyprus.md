@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 35.1333
 - 33.4667
@@ -107,13 +107,14 @@ isDeleted: false
 confidential: public
 [ISO2::CY]
 [ISO3::CYP]
+
 ```leaflet
 id: Cyprus
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cyprus
-markerFolder: ./Cyprus/City
+geojsonFolder: ./Cyprus//
+markerFolder: ./Cyprus//
 ```
 
 [name-en::Cyprus]

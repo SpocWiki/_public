@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 53.9
 - 27.57
@@ -109,8 +109,8 @@ id: Belarus
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Belarus
-markerFolder: ./Belarus/City
+geojsonFolder: ./Belarus//
+markerFolder: ./Belarus//
 ```
 
 [name-en::Belarus]

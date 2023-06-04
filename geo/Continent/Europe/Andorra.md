@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 42.5167
 - 1.51333
@@ -109,8 +109,8 @@ id: Andorra
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Andorra
-markerFolder: ./Andorra/City
+geojsonFolder: ./Andorra//
+markerFolder: ./Andorra//
 ```
 
 [name-en::Andorra]

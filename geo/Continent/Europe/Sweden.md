@@ -109,8 +109,8 @@ id: Sweden
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sweden//
-markerFolder: ./Sweden/City
+geojsonFolder: ./Sweden///
+markerFolder: ./Sweden///
 ```
 
 [name-en::Sweden]

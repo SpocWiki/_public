@@ -103,13 +103,14 @@ Languages:
 
 [ISO2::RO]
 [ISO3::ROM]
+
 ```leaflet
 id: Romania
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Romania
-markerFolder: ./Romania/City
+geojsonFolder: ./Romania//
+markerFolder: ./Romania//
 ```
 
 [name-en::Romania]

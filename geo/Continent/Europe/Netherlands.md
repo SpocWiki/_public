@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 51.9757
 - 5.08828
@@ -106,13 +106,14 @@ Languages:
 
 [ISO2::NL]
 [ISO3::NLD]
+
 ```leaflet
 id: Netherlands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Netherlands
-markerFolder: ./Netherlands/City
+geojsonFolder: ./Netherlands//
+markerFolder: ./Netherlands/
 ```
 
 [name-en::Netherlands]

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 46.8963
 - 8.46058
@@ -106,13 +106,14 @@ Languages:
 
 [ISO2::CH]
 [ISO3::CHE]
+
 ```leaflet
 id: Switzerland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Switzerland
-markerFolder: ./Switzerland/City
+geojsonFolder: ./Switzerland//
+markerFolder: ./Switzerland//
 ```
 
 [name-en::Switzerland]
