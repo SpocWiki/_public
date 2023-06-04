@@ -109,13 +109,14 @@ Languages:
 
 [ISO2::IT]
 [ISO3::ITA]
+
 ```leaflet
 id: Italy
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Italy
-markerFolder: ./Italy/City
+geojsonFolder: ./Italy//
+markerFolder: ./Italy/
 ```
 
 [name-en::Italy]
@@ -124,7 +125,7 @@ markerFolder: ./Italy/City
 [Area-Land::294060]
 [Continent::[[Europe]]]
 [VehicleCode::I]
-[Capital::[[Roma]]]
+[Capital::[[Italy/Regions/Lazio/Roma/City/Roma]]]
 
 ![[Emblem_of_Italy.svg|350]]
 

@@ -108,13 +108,14 @@ Languages:
 
 [ISO2::FR]
 [ISO3::FRA]
+
 ```leaflet
 id: France
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./France
-markerFolder: ./France/City
+geojsonFolder: ./France/
+markerFolder: ./France///
 ```
 
 [name-en::France]

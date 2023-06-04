@@ -26,7 +26,7 @@ markerFolder: ./Holy_See_(Vatican_State)/City
 [Area-Land::0]
 [Continent::[[Europe]]]
 [VehicleCode::V]
-[Capital::[[Roma]]]
+[Capital:[[Italy/Regions/Lazio/Roma/City/Roma]]]]
 ![[Coat_of_arms_of_Holy-see.svg|350]]
 ![[Anthem-Holy-see.mp3]]
 ![[Flag_of_Holy-see.svg|350]]
