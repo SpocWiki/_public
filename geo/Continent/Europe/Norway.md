@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 61.8685
 - 11.4588
@@ -104,9 +104,9 @@ Languages:
 [	ISO3166-1-numeric	 :: 578 ]
 
 
-
 [ISO2::NO]
 [ISO3::NOR]
+
 ```leaflet
 id: Norway
 zoomFeatures: true 

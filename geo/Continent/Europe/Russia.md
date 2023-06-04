@@ -134,7 +134,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Russia//
-markerFolder: ./Russia/
+markerFolder: ./Russia////
 ```
 
 [name-en::Russia]
