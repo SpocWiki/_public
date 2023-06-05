@@ -107,8 +107,8 @@ id: Cuba
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cuba
-markerFolder: ./Cuba/City
+geojsonFolder: ./Cuba/
+markerFolder: ./Cuba/
 ```
 
 [name-en::Cuba]

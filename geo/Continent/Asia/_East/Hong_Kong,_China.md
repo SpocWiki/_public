@@ -16,8 +16,8 @@ id: Hong Kong, China
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Hong_Kong,_China
-markerFolder: ./Hong_Kong,_China/City
+geojsonFolder: ./Hong_Kong,_China/
+markerFolder: ./Hong_Kong,_China/
 ```
 
 [name-en::Hong Kong, China]

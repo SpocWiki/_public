@@ -107,8 +107,8 @@ id: Liberia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Liberia
-markerFolder: ./Liberia/City
+geojsonFolder: ./Liberia/
+markerFolder: ./Liberia/
 ```
 
 [name-en::Liberia]

@@ -110,7 +110,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Canada//
-markerFolder: ./Canada/City
+markerFolder: ./Canada/
 ```
 
 [name-en::Canada]

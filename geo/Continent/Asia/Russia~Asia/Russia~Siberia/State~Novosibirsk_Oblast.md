@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Novosibirsk_Oblast
 geojsonFolder: ./State~Novosibirsk_Oblast/
-markerFolder: ./State~Novosibirsk_Oblast/City
+markerFolder: ./State~Novosibirsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

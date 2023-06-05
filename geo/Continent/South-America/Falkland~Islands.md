@@ -20,8 +20,8 @@ id: Falkland Islands (Malvinas)
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Falkland~Islands
-markerFolder: ./Falkland~Islands/City
+geojsonFolder: ./Falkland~Islands/
+markerFolder: ./Falkland~Islands/
 ```
 
 [name-en::Falkland Islands (Malvinas)]

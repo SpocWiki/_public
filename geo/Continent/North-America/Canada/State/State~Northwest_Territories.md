@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Northwest_Territories
 geojsonFolder: ./State~Northwest_Territories/
-markerFolder: ./State~Northwest_Territories/City
+markerFolder: ./State~Northwest_Territories/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

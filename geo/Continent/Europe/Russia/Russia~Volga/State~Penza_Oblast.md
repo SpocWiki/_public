@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Penza_Oblast
 geojsonFolder: ./State~Penza_Oblast/
-markerFolder: ./State~Penza_Oblast/City
+markerFolder: ./State~Penza_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Manitoba
 geojsonFolder: ./State~Manitoba/
-markerFolder: ./State~Manitoba/City
+markerFolder: ./State~Manitoba/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

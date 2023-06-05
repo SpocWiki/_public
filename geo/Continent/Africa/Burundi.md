@@ -107,8 +107,8 @@ id: Burundi
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Burundi
-markerFolder: ./Burundi/City
+geojsonFolder: ./Burundi/
+markerFolder: ./Burundi/
 ```
 
 [name-en::Burundi]

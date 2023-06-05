@@ -16,8 +16,8 @@ id: Hawaii
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Hawaii
-markerFolder: ./Hawaii/City
+geojsonFolder: ./Hawaii/
+markerFolder: ./Hawaii/
 ```
 
 [name-en::Hawaii]

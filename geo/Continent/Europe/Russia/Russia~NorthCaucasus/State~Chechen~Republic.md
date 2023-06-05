@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Chechen~Republic
 geojsonFolder: ./State~Chechen~Republic/
-markerFolder: ./State~Chechen~Republic/City
+markerFolder: ./State~Chechen~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

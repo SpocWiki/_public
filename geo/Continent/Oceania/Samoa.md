@@ -107,8 +107,8 @@ id: Samoa
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Samoa
-markerFolder: ./Samoa/City
+geojsonFolder: ./Samoa/
+markerFolder: ./Samoa/
 ```
 
 [name-en::Samoa]

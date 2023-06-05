@@ -133,8 +133,8 @@ id: India
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./India
-markerFolder: ./India/City
+geojsonFolder: ./India/
+markerFolder: ./India/
 ```
 
 [name-en::India]

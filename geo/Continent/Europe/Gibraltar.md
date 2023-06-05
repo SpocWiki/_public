@@ -118,8 +118,8 @@ id: Gibraltar
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Gibraltar
-markerFolder: ./Gibraltar/City
+geojsonFolder: ./Gibraltar/
+markerFolder: ./Gibraltar/
 coordinates: [[Gibraltar]]
 ```
 

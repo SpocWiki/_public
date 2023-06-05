@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Voronezh_Oblast
 geojsonFolder: ./State~Voronezh_Oblast/
-markerFolder: ./State~Voronezh_Oblast/City
+markerFolder: ./State~Voronezh_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

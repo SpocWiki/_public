@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Khabarovsk_Krai
 geojsonFolder: ./State~Khabarovsk_Krai/
-markerFolder: ./State~Khabarovsk_Krai/City
+markerFolder: ./State~Khabarovsk_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

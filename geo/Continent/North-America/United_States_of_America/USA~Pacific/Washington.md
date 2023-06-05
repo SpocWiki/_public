@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: Washington
 geojsonFolder: ./Washington/
-markerFolder: ./Washington/City
+markerFolder: ./Washington/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

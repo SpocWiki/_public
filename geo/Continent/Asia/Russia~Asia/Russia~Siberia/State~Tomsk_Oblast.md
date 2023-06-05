@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Tomsk_Oblast
 geojsonFolder: ./State~Tomsk_Oblast/
-markerFolder: ./State~Tomsk_Oblast/City
+markerFolder: ./State~Tomsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

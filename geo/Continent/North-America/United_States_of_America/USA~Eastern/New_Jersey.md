@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: New_Jersey
 geojsonFolder: ./New_Jersey/
-markerFolder: ./New_Jersey/City
+markerFolder: ./New_Jersey/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

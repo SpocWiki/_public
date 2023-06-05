@@ -16,8 +16,8 @@ id: Dominican Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Dominican_Rep
-markerFolder: ./Dominican_Rep/City
+geojsonFolder: ./Dominican_Rep/
+markerFolder: ./Dominican_Rep/
 ```
 
 [name-en::Dominican Rep.]

@@ -110,8 +110,8 @@ id: Oman
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Oman
-markerFolder: ./Oman/City
+geojsonFolder: ./Oman/
+markerFolder: ./Oman/
 ```
 
 [name-en::Oman]

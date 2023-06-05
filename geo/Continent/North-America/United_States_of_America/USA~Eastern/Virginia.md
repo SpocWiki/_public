@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: Virginia
 geojsonFolder: ./Virginia/
-markerFolder: ./Virginia/City
+markerFolder: ./Virginia/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

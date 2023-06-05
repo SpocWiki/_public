@@ -108,8 +108,8 @@ id: Vanuatu
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Vanuatu
-markerFolder: ./Vanuatu/City
+geojsonFolder: ./Vanuatu/
+markerFolder: ./Vanuatu/
 ```
 
 [name-en::Vanuatu]

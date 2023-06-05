@@ -106,8 +106,8 @@ id: Grenada
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Grenada
-markerFolder: ./Grenada/City
+geojsonFolder: ./Grenada/
+markerFolder: ./Grenada/
 ```
 
 [name-en::Grenada]

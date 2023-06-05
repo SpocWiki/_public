@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Tula_Oblast
 geojsonFolder: ./State~Tula_Oblast/
-markerFolder: ./State~Tula_Oblast/City
+markerFolder: ./State~Tula_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

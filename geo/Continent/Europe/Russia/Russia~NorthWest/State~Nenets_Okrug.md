@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Nenets_Okrug
 geojsonFolder: ./State~Nenets_Okrug/
-markerFolder: ./State~Nenets_Okrug/City
+markerFolder: ./State~Nenets_Okrug/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -16,8 +16,8 @@ id: Zanzibar
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Zanzibar
-markerFolder: ./Zanzibar/City
+geojsonFolder: ./Zanzibar/
+markerFolder: ./Zanzibar/
 ```
 
 [name-en::Zanzibar]

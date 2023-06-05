@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Michigan
 geojsonFolder: ./Michigan/
-markerFolder: ./Michigan/City
+markerFolder: ./Michigan/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

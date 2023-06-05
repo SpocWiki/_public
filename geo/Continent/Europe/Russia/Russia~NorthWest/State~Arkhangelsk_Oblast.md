@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Arkhangelsk_Oblast
 geojsonFolder: ./State~Arkhangelsk_Oblast/
-markerFolder: ./State~Arkhangelsk_Oblast/City
+markerFolder: ./State~Arkhangelsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

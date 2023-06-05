@@ -16,8 +16,8 @@ id: Swaziland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Swaziland
-markerFolder: ./Swaziland/City
+geojsonFolder: ./Swaziland/
+markerFolder: ./Swaziland/
 ```
 
 [name-en::Swaziland]

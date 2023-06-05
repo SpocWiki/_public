@@ -28,7 +28,7 @@ confidential: public
 
 ```leaflet
 id: State~Zabaykalsky_Krai
-geojsonFolder: [./State~Chita~Oblast/]
+geojsonFolder: [./State~Chita~Oblast/]/
 markerFolder: ./State~Chita~Oblast/
 zoomFeatures: true 
 minZoom: 2 

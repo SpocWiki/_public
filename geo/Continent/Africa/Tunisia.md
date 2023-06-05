@@ -109,8 +109,8 @@ id: Tunisia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tunisia
-markerFolder: ./Tunisia/City
+geojsonFolder: ./Tunisia/
+markerFolder: ./Tunisia/
 ```
 
 [name-en::Tunisia]

@@ -16,8 +16,8 @@ id: Saint Martin
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint_Martin
-markerFolder: ./Saint_Martin/City
+geojsonFolder: ./Saint_Martin/
+markerFolder: ./Saint_Martin/
 ```
 
 [name-en::Saint Martin]

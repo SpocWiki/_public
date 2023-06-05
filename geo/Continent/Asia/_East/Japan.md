@@ -109,8 +109,8 @@ id: Japan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Japan
-markerFolder: ./Japan/City
+geojsonFolder: ./Japan/
+markerFolder: ./Japan/
 ```
 
 [name-en::Japan]

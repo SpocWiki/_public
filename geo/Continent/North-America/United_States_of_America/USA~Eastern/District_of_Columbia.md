@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: District_of_Columbia
 geojsonFolder: ./District_of_Columbia/
-markerFolder: ./District_of_Columbia/City
+markerFolder: ./District_of_Columbia/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

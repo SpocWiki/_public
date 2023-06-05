@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Mississippi
 geojsonFolder: ./Mississippi/
-markerFolder: ./Mississippi/City
+markerFolder: ./Mississippi/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -20,8 +20,8 @@ id: Korea, Dem. Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Korea~North
-markerFolder: ./Korea~North/City
+geojsonFolder: ./Korea~North/
+markerFolder: ./Korea~North/
 ```
 
 [name-en::Korea, Dem. Rep.]

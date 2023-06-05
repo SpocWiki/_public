@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: Tennessee
 geojsonFolder: ./Tennessee/
-markerFolder: ./Tennessee/City
+markerFolder: ./Tennessee/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

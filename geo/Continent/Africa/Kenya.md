@@ -107,8 +107,8 @@ id: Kenya
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Kenya
-markerFolder: ./Kenya/City
+geojsonFolder: ./Kenya/
+markerFolder: ./Kenya/
 ```
 
 [name-en::Kenya]

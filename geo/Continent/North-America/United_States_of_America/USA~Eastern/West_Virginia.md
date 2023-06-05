@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: West_Virginia
 geojsonFolder: ./West_Virginia/
-markerFolder: ./West_Virginia/City
+markerFolder: ./West_Virginia/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -14,8 +14,8 @@ id: Czechoslovakia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Czechoslovakia
-markerFolder: ./Czechoslovakia/City
+geojsonFolder: ./Czechoslovakia/
+markerFolder: ./Czechoslovakia/
 ```
 
 [name-en::Czechoslovakia]

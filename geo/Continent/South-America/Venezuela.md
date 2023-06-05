@@ -109,8 +109,8 @@ id: Venezuela
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Venezuela
-markerFolder: ./Venezuela/City
+geojsonFolder: ./Venezuela/
+markerFolder: ./Venezuela/
 ```
 
 [name-en::Venezuela]

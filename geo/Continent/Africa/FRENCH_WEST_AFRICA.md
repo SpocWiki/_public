@@ -16,8 +16,8 @@ id: FRENCH WEST AFRICA
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./FRENCH_WEST_AFRICA
-markerFolder: ./FRENCH_WEST_AFRICA/City
+geojsonFolder: ./FRENCH_WEST_AFRICA/
+markerFolder: ./FRENCH_WEST_AFRICA/
 ```
 
 [name-en::FRENCH WEST AFRICA]

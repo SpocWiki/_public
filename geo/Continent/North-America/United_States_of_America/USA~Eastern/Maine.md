@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Maine
 geojsonFolder: ./Maine/
-markerFolder: ./Maine/City
+markerFolder: ./Maine/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

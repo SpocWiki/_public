@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Wisconsin
 geojsonFolder: ./Wisconsin/
-markerFolder: ./Wisconsin/City
+markerFolder: ./Wisconsin/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Kalmykia~Republic
 geojsonFolder: ./State~Kalmykia~Republic/
-markerFolder: ./State~Kalmykia~Republic/City
+markerFolder: ./State~Kalmykia~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

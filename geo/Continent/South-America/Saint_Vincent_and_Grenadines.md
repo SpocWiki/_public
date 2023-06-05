@@ -16,8 +16,8 @@ id: Saint Vincent And The Grenadines
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint_Vincent_And_The_Grenadines
-markerFolder: ./Saint_Vincent_And_The_Grenadines/City
+geojsonFolder: ./Saint_Vincent_And_The_Grenadines/
+markerFolder: ./Saint_Vincent_And_The_Grenadines/
 ```
 
 [name-en::Saint Vincent And The Grenadines]

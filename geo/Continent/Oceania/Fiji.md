@@ -108,8 +108,8 @@ id: Fiji
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Fiji
-markerFolder: ./Fiji/City
+geojsonFolder: ./Fiji/
+markerFolder: ./Fiji/
 ```
 
 [name-en::Fiji]

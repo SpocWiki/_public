@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Massachusetts
 geojsonFolder: ./Massachusetts/
-markerFolder: ./Massachusetts/City
+markerFolder: ./Massachusetts/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

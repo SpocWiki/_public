@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: California
 geojsonFolder: ./California/
-markerFolder: ./California/City
+markerFolder: ./California/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Belgorod_Oblast
 geojsonFolder: ./State~Belgorod_Oblast/
-markerFolder: ./State~Belgorod_Oblast/City
+markerFolder: ./State~Belgorod_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -16,8 +16,8 @@ id: Rhodesia-Nyasaland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Rhodesia-Nyasaland
-markerFolder: ./Rhodesia-Nyasaland/City
+geojsonFolder: ./Rhodesia-Nyasaland/
+markerFolder: ./Rhodesia-Nyasaland/
 ```
 
 [name-en::Rhodesia-Nyasaland]

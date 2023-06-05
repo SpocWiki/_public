@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Komi~Republic
 geojsonFolder: ./State~Komi~Republic/
-markerFolder: ./State~Komi~Republic/City
+markerFolder: ./State~Komi~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

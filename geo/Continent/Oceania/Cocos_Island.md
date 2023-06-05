@@ -16,8 +16,8 @@ id: Cocos Island
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cocos_Island
-markerFolder: ./Cocos_Island/City
+geojsonFolder: ./Cocos_Island/
+markerFolder: ./Cocos_Island/
 ```
 
 [name-en::Cocos Island]

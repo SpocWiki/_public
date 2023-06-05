@@ -6,6 +6,6 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./USA~Mountain/
-markerFolder: ./USA~Mountain/City
+markerFolder: ./USA~Mountain/
 ```
 

@@ -115,8 +115,8 @@ id: Syria
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Syria
-markerFolder: ./Syria/City
+geojsonFolder: ./Syria/
+markerFolder: ./Syria/
 ```
 
 [name-en::Syria]

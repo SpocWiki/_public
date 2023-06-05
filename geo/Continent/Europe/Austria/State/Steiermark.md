@@ -13,8 +13,8 @@ id: Steiermark
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Steiermark
-markerFolder: ./Steiermark/City
+geojsonFolder: ./Steiermark/
+markerFolder: ./Steiermark/
 ```
 
 [ name :: Steiermark ]

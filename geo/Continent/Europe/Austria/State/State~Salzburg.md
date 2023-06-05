@@ -14,7 +14,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./State~Salzburg/
-markerFolder: ./State~Salzburg/City
+markerFolder: ./State~Salzburg/
 ```
 
 [ name :: Salzburg ]

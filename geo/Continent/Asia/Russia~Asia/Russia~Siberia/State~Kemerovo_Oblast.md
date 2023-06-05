@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Kemerovo_Oblast
 geojsonFolder: ./State~Kemerovo_Oblast/
-markerFolder: ./State~Kemerovo_Oblast/City
+markerFolder: ./State~Kemerovo_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

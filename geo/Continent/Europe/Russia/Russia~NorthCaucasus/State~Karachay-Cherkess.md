@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Karachay-Cherkess
 geojsonFolder: ./State~Karachay-Cherkess/
-markerFolder: ./State~Karachay-Cherkess/City
+markerFolder: ./State~Karachay-Cherkess/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

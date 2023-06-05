@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Arizona
 geojsonFolder: ./Arizona/
-markerFolder: ./Arizona/City
+markerFolder: ./Arizona/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

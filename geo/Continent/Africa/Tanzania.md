@@ -113,8 +113,8 @@ id: Tanzania
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tanzania
-markerFolder: ./Tanzania/City
+geojsonFolder: ./Tanzania/
+markerFolder: ./Tanzania/
 ```
 
 [name-en::Tanzania]

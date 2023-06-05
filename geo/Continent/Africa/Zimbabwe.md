@@ -109,8 +109,8 @@ id: Zimbabwe
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Zimbabwe
-markerFolder: ./Zimbabwe/City
+geojsonFolder: ./Zimbabwe/
+markerFolder: ./Zimbabwe/
 ```
 
 [name-en::Zimbabwe]

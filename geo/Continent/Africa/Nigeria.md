@@ -111,8 +111,8 @@ id: Nigeria
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Nigeria
-markerFolder: ./Nigeria/City
+geojsonFolder: ./Nigeria/
+markerFolder: ./Nigeria/
 ```
 
 [name-en::Nigeria]

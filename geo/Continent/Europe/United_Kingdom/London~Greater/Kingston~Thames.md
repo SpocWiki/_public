@@ -26,7 +26,7 @@ confidential: public
 id: Kingston-upon-Thames
 coordinates: [[Kingston-upon-Thames]]
 markerFile: [[Kingston-upon-Thames]]
-geojsonFolder: ./Kingston-upon-Thames
+geojsonFolder: ./Kingston-upon-Thames/
 defaultZoom: 11 
 maxZoom: 18
 ```

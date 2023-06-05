@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Newfoundland
 geojsonFolder: ./State~Newfoundland/
-markerFolder: ./State~Newfoundland/City
+markerFolder: ./State~Newfoundland/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

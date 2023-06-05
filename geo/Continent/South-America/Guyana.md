@@ -106,8 +106,8 @@ id: Guyana
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guyana
-markerFolder: ./Guyana/City
+geojsonFolder: ./Guyana/
+markerFolder: ./Guyana/
 ```
 
 [name-en::Guyana]

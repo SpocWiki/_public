@@ -16,8 +16,8 @@ id: Antigua And Barbuda
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Antigua_And_Barbuda
-markerFolder: ./Antigua_And_Barbuda/City
+geojsonFolder: ./Antigua_And_Barbuda/
+markerFolder: ./Antigua_And_Barbuda/
 ```
 
 [name-en::Antigua And Barbuda]

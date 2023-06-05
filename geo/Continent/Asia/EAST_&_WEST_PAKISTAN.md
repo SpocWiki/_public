@@ -16,8 +16,8 @@ id: EAST &amp; WEST PAKISTAN
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./EAST_&amp;_WEST_PAKISTAN
-markerFolder: ./EAST_&amp;_WEST_PAKISTAN/City
+geojsonFolder: ./EAST_&amp;_WEST_PAKISTAN/
+markerFolder: ./EAST_&amp;_WEST_PAKISTAN/
 ```
 
 [name-en::EAST &amp; WEST PAKISTAN]

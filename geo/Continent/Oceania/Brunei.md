@@ -107,8 +107,8 @@ id: Brunei
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Brunei
-markerFolder: ./Brunei/City
+geojsonFolder: ./Brunei/
+markerFolder: ./Brunei/
 ```
 
 [name-en::Brunei]

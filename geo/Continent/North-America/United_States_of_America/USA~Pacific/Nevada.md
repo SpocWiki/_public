@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Nevada
 geojsonFolder: ./Nevada/
-markerFolder: ./Nevada/City
+markerFolder: ./Nevada/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

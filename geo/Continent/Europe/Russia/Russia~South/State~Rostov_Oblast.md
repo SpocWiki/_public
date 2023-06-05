@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Rostov_Oblast
 geojsonFolder: ./State~Rostov_Oblast/
-markerFolder: ./State~Rostov_Oblast/City
+markerFolder: ./State~Rostov_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

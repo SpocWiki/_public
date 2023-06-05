@@ -105,8 +105,8 @@ id: Jamaica
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Jamaica
-markerFolder: ./Jamaica/City
+geojsonFolder: ./Jamaica/
+markerFolder: ./Jamaica/
 ```
 
 [name-en::Jamaica]

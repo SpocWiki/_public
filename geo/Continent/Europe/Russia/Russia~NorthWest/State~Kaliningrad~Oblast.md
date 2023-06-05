@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Oblast_Kaliningrad
 geojsonFolder: ./State~Oblast_Kaliningrad/
-markerFolder: ./State~Oblast_Kaliningrad/City
+markerFolder: ./State~Oblast_Kaliningrad/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

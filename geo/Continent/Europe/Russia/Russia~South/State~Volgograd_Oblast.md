@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Volgograd_Oblast
 geojsonFolder: ./State~Volgograd_Oblast/
-markerFolder: ./State~Volgograd_Oblast/City
+markerFolder: ./State~Volgograd_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

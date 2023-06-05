@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Oryol_Oblast
 geojsonFolder: ./State~Oryol_Oblast/
-markerFolder: ./State~Oryol_Oblast/City
+markerFolder: ./State~Oryol_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

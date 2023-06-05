@@ -106,8 +106,8 @@ id: Anguilla
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Anguilla
-markerFolder: ./Anguilla/City
+geojsonFolder: ./Anguilla/
+markerFolder: ./Anguilla/
 ```
 
 [name-en::Anguilla]

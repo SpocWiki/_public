@@ -24,7 +24,7 @@ confidential: public
 ```leaflet
 id: State~Saskatchewan
 geojsonFolder: ./State~Saskatchewan/
-markerFolder: ./State~Saskatchewan/City
+markerFolder: ./State~Saskatchewan/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Illinois
 geojsonFolder: ./Illinois/
-markerFolder: ./Illinois/City
+markerFolder: ./Illinois/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

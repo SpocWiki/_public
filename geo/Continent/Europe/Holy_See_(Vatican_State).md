@@ -16,8 +16,8 @@ id: Holy See (Vatican State)
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Holy_See_(Vatican_State)
-markerFolder: ./Holy_See_(Vatican_State)/City
+geojsonFolder: ./Holy_See_(Vatican_State)/
+markerFolder: ./Holy_See_(Vatican_State)/
 ```
 
 [name-en::Holy See (Vatican State)]

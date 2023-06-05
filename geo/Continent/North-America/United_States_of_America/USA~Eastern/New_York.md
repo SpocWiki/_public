@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: New_York
 geojsonFolder: ./New_York/
-markerFolder: ./New_York/City
+markerFolder: ./New_York/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

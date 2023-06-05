@@ -19,8 +19,8 @@ id: Saint Kitts And Nevis
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint_Kitts_And_Nevis
-markerFolder: ./Saint_Kitts_And_Nevis/City
+geojsonFolder: ./Saint_Kitts_And_Nevis/
+markerFolder: ./Saint_Kitts_And_Nevis/
 ```
 
 [name-en::Saint Kitts And Nevis]

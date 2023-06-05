@@ -13,8 +13,8 @@ id: Kärnten
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Kärnten
-markerFolder: ./Kärnten/City
+geojsonFolder: ./Kärnten/
+markerFolder: ./Kärnten/
 ```
 
 [ name :: Kärnten ]

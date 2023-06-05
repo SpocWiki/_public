@@ -16,8 +16,8 @@ id: ANTARCTIC FISHERIES
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./ANTARCTIC_FISHERIES
-markerFolder: ./ANTARCTIC_FISHERIES/City
+geojsonFolder: ./ANTARCTIC_FISHERIES/
+markerFolder: ./ANTARCTIC_FISHERIES/
 ```
 
 [name-en::ANTARCTIC FISHERIES]

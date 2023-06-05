@@ -14,8 +14,8 @@ id: Channel Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Channel_Islands
-markerFolder: ./Channel_Islands/City
+geojsonFolder: ./Channel_Islands/
+markerFolder: ./Channel_Islands/
 ```
 
 [name-en::Channel Islands]

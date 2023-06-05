@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Georgia~USA
 geojsonFolder: ./Georgia~USA/
-markerFolder: ./Georgia~USA/City
+markerFolder: ./Georgia~USA/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

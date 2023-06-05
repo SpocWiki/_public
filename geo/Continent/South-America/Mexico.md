@@ -108,8 +108,8 @@ id: Mexico
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Mexico
-markerFolder: ./Mexico/City
+geojsonFolder: ./Mexico/
+markerFolder: ./Mexico/
 ```
 
 [name-en::Mexico]

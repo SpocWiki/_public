@@ -109,8 +109,8 @@ id: Solomon Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Solomon_Islands
-markerFolder: ./Solomon_Islands/City
+geojsonFolder: ./Solomon_Islands/
+markerFolder: ./Solomon_Islands/
 ```
 
 [name-en::Solomon Islands]

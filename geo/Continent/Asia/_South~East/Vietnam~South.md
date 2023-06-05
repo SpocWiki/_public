@@ -16,8 +16,8 @@ id: South Vietnam
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Vietnam~South
-markerFolder: ./Vietnam~South/City
+geojsonFolder: ./Vietnam~South/
+markerFolder: ./Vietnam~South/
 ```
 
 [name-en::South Vietnam]

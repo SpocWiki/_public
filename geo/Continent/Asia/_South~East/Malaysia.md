@@ -114,8 +114,8 @@ id: Malaysia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Malaysia
-markerFolder: ./Malaysia/City
+geojsonFolder: ./Malaysia/
+markerFolder: ./Malaysia/
 ```
 
 [name-en::Malaysia]

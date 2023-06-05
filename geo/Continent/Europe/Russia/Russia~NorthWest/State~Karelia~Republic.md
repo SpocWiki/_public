@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Karelia~Republic
 geojsonFolder: ./State~Karelia~Republic/
-markerFolder: ./State~Karelia~Republic/City
+markerFolder: ./State~Karelia~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

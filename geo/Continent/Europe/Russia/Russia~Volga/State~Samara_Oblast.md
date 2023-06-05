@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Samara_Oblast
 geojsonFolder: ./State~Samara_Oblast/
-markerFolder: ./State~Samara_Oblast/City
+markerFolder: ./State~Samara_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

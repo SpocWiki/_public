@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Perm_Krai
 geojsonFolder: ./State~Perm_Krai/
-markerFolder: ./State~Perm_Krai/City
+markerFolder: ./State~Perm_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

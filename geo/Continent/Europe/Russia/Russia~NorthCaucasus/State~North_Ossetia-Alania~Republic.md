@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~North_Ossetia-Alania~Republic
 geojsonFolder: ./State~North_Ossetia-Alania~Republic/
-markerFolder: ./State~North_Ossetia-Alania~Republic/City
+markerFolder: ./State~North_Ossetia-Alania~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Tatarstan~Republic
 geojsonFolder: ./State~Tatarstan~Republic/
-markerFolder: ./State~Tatarstan~Republic/City
+markerFolder: ./State~Tatarstan~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

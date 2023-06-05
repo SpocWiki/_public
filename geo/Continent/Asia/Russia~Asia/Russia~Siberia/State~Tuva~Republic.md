@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Tuva~Republic
 geojsonFolder: ./State~Tuva~Republic/
-markerFolder: ./State~Tuva~Republic/City
+markerFolder: ./State~Tuva~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

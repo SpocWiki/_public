@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Indiana
 geojsonFolder: ./Indiana/
-markerFolder: ./Indiana/City
+markerFolder: ./Indiana/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

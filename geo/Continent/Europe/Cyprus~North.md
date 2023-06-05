@@ -16,8 +16,8 @@ id: Northern Cyprus
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cyprus
-markerFolder: ./Cyprus/City
+geojsonFolder: ./Cyprus/
+markerFolder: ./Cyprus/
 ```
 
 [name-en::Northern Cyprus]

@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Kansas
 geojsonFolder: ./Kansas/
-markerFolder: ./Kansas/City
+markerFolder: ./Kansas/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

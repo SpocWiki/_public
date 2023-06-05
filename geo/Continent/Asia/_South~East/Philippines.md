@@ -131,8 +131,8 @@ id: Philippines
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Philippines
-markerFolder: ./Philippines/City
+geojsonFolder: ./Philippines/
+markerFolder: ./Philippines/
 ```
 
 [name-en::Philippines]

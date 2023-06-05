@@ -108,8 +108,8 @@ id: Kuwait
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Kuwait
-markerFolder: ./Kuwait/City
+geojsonFolder: ./Kuwait/
+markerFolder: ./Kuwait/
 ```
 
 [name-en::Kuwait]

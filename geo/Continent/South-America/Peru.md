@@ -111,8 +111,8 @@ id: Peru
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Peru
-markerFolder: ./Peru/City
+geojsonFolder: ./Peru/
+markerFolder: ./Peru/
 ```
 
 [name-en::Peru]

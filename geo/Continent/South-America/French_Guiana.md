@@ -107,8 +107,8 @@ id: French Guiana
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./French_Guiana
-markerFolder: ./French_Guiana/City
+geojsonFolder: ./French_Guiana/
+markerFolder: ./French_Guiana/
 ```
 
 [name-en::French Guiana]

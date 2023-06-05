@@ -109,8 +109,8 @@ id: Jordan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Jordan
-markerFolder: ./Jordan/City
+geojsonFolder: ./Jordan/
+markerFolder: ./Jordan/
 ```
 
 [name-en::Jordan]

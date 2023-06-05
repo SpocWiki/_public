@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Stavropol_Krai
 geojsonFolder: ./State~Stavropol_Krai/
-markerFolder: ./State~Stavropol_Krai/City
+markerFolder: ./State~Stavropol_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

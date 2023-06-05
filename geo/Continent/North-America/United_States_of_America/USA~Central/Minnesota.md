@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Minnesota
 geojsonFolder: ./Minnesota/
-markerFolder: ./Minnesota/City
+markerFolder: ./Minnesota/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

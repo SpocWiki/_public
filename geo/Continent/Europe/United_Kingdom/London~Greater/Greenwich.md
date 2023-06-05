@@ -25,7 +25,7 @@ confidential: public
 id: Greenwich
 coordinates: [[Greenwich]]
 markerFile: [[Greenwich]]
-geojsonFolder: ./Greenwich
+geojsonFolder: ./Greenwich/
 zoomFeatures: true 
 maxZoom: 18
 ```

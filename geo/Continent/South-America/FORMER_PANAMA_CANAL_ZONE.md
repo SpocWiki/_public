@@ -16,8 +16,8 @@ id: FORMER PANAMA CANAL ZONE
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./FORMER_PANAMA_CANAL_ZONE
-markerFolder: ./FORMER_PANAMA_CANAL_ZONE/City
+geojsonFolder: ./FORMER_PANAMA_CANAL_ZONE/
+markerFolder: ./FORMER_PANAMA_CANAL_ZONE/
 ```
 
 [name-en::FORMER PANAMA CANAL ZONE]

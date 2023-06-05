@@ -108,8 +108,8 @@ id: Western Sahara
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Western_Sahara
-markerFolder: ./Western_Sahara/City
+geojsonFolder: ./Western_Sahara/
+markerFolder: ./Western_Sahara/
 ```
 
 [name-en::Western Sahara]

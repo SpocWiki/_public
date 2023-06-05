@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Tambov_Oblast
 geojsonFolder: ./State~Tambov_Oblast/
-markerFolder: ./State~Tambov_Oblast/City
+markerFolder: ./State~Tambov_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -107,8 +107,8 @@ id: Seychelles
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Seychelles
-markerFolder: ./Seychelles/City
+geojsonFolder: ./Seychelles/
+markerFolder: ./Seychelles/
 ```
 
 [name-en::Seychelles]

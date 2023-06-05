@@ -22,7 +22,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Niedersachsen/
-markerFolder: ./Niedersachsen/City
+markerFolder: ./Niedersachsen/
 ```
 
 [Country::[[Germany]]]

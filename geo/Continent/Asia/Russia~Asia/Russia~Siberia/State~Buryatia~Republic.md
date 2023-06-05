@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Buryatia~Republic
 geojsonFolder: ./State~Buryatia~Republic/
-markerFolder: ./State~Buryatia~Republic/City
+markerFolder: ./State~Buryatia~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

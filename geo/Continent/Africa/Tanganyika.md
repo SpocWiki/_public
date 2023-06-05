@@ -16,8 +16,8 @@ id: Tanganyika
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tanganyika
-markerFolder: ./Tanganyika/City
+geojsonFolder: ./Tanganyika/
+markerFolder: ./Tanganyika/
 ```
 
 [name-en::Tanganyika]

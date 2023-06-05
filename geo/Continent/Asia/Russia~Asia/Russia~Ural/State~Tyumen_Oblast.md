@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Tyumen_Oblast
 geojsonFolder: ./State~Tyumen_Oblast/
-markerFolder: ./State~Tyumen_Oblast/City
+markerFolder: ./State~Tyumen_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -7,7 +7,7 @@
 
 ```leaflet
 id: London
-geojsonFolder: [./Haringey/]
+geojsonFolder: [./Haringey/]/
 markerFolder: ./Haringey/
 zoomFeatures: true 
 minZoom: 2 

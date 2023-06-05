@@ -105,8 +105,8 @@ id: Montserrat
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Montserrat
-markerFolder: ./Montserrat/City
+geojsonFolder: ./Montserrat/
+markerFolder: ./Montserrat/
 ```
 
 [name-en::Montserrat]

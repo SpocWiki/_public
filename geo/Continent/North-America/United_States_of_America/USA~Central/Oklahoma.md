@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: Oklahoma
 geojsonFolder: ./Oklahoma/
-markerFolder: ./Oklahoma/City
+markerFolder: ./Oklahoma/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

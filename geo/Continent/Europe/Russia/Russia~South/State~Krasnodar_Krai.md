@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Krasnodar_Krai
 geojsonFolder: ./State~Krasnodar_Krai/
-markerFolder: ./State~Krasnodar_Krai/City
+markerFolder: ./State~Krasnodar_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

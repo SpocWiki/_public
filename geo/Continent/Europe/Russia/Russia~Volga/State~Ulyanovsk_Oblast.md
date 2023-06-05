@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Ulyanovsk_Oblast
 geojsonFolder: ./State~Ulyanovsk_Oblast/
-markerFolder: ./State~Ulyanovsk_Oblast/City
+markerFolder: ./State~Ulyanovsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

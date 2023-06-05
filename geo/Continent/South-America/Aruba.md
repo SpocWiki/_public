@@ -108,8 +108,8 @@ id: Aruba
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Aruba
-markerFolder: ./Aruba/City
+geojsonFolder: ./Aruba/
+markerFolder: ./Aruba/
 ```
 
 [name-en::Aruba]
@@ -136,8 +136,8 @@ id: Aruba
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Aruba
-markerFolder: ./Aruba/City
+geojsonFolder: ./Aruba/
+markerFolder: ./Aruba/
 ```
 
 

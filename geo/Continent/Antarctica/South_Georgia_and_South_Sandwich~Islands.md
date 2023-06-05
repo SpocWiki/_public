@@ -16,8 +16,8 @@ id: South Georgia And The South Sandwich Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./South Georgia_And_The_South_Sandwich_Islands
-markerFolder: ./South Georgia_And_The_South_Sandwich_Islands/City
+geojsonFolder: ./South Georgia_And_The_South_Sandwich_Islands/
+markerFolder: ./South Georgia_And_The_South_Sandwich_Islands/
 ```
 
 [name-en::South Georgia And The South Sandwich Islands]

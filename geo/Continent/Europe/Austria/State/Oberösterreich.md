@@ -14,8 +14,8 @@ id: Oberösterreich
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Oberösterreich
-markerFolder: ./Oberösterreich/City
+geojsonFolder: ./Oberösterreich/
+markerFolder: ./Oberösterreich/
 ```
 
 [ name :: Oberösterreich ]

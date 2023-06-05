@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Udmurt~Republic
 geojsonFolder: ./State~Udmurt~Republic/
-markerFolder: ./State~Udmurt~Republic/City
+markerFolder: ./State~Udmurt~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

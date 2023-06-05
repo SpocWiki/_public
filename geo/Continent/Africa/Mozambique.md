@@ -107,8 +107,8 @@ id: Mozambique
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Mozambique
-markerFolder: ./Mozambique/City
+geojsonFolder: ./Mozambique/
+markerFolder: ./Mozambique/
 ```
 
 [name-en::Mozambique]

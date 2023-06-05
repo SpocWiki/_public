@@ -108,8 +108,8 @@ id: Nepal
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Nepal
-markerFolder: ./Nepal/City
+geojsonFolder: ./Nepal/
+markerFolder: ./Nepal/
 ```
 
 [name-en::Nepal]

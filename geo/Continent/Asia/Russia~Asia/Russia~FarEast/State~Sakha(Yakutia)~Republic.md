@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Sakha(Yakutia)~Republic
 geojsonFolder: ./State~Sakha(Yakutia)~Republic/
-markerFolder: ./State~Sakha(Yakutia)~Republic/City
+markerFolder: ./State~Sakha(Yakutia)~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

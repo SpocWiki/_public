@@ -26,7 +26,7 @@ confidential: public
 id: Kensington
 coordinates: [[Kensington]]
 markerFile: [[Kensington]]
-geojsonFolder: ./Kensington
+geojsonFolder: ./Kensington/
 zoomFeatures: true 
 maxZoom: 18
 ```

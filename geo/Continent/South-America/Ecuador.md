@@ -108,8 +108,8 @@ id: Ecuador
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ecuador
-markerFolder: ./Ecuador/City
+geojsonFolder: ./Ecuador/
+markerFolder: ./Ecuador/
 ```
 
 [name-en::Ecuador]

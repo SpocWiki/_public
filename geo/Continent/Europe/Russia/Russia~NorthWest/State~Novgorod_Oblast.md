@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Novgorod_Oblast
 geojsonFolder: ./State~Novgorod_Oblast/
-markerFolder: ./State~Novgorod_Oblast/City
+markerFolder: ./State~Novgorod_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

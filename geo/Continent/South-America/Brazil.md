@@ -112,8 +112,8 @@ id: Brazil
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Brazil
-markerFolder: ./Brazil/City
+geojsonFolder: ./Brazil/
+markerFolder: ./Brazil/
 ```
 
 [name-en::Brazil]

@@ -108,8 +108,8 @@ id: Paraguay
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Paraguay
-markerFolder: ./Paraguay/City
+geojsonFolder: ./Paraguay/
+markerFolder: ./Paraguay/
 ```
 
 [name-en::Paraguay]

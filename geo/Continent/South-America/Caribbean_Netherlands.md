@@ -110,8 +110,8 @@ id: Netherlands Antilles
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Caribbean_Netherlands
-markerFolder: ./Caribbean_Netherlands/City
+geojsonFolder: ./Caribbean_Netherlands/
+markerFolder: ./Caribbean_Netherlands/
 ```
 
 [name-en::Netherlands Antilles]

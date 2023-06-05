@@ -18,7 +18,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./State~Berlin/
-markerFolder: ./State~Berlin/City
+markerFolder: ./State~Berlin/
 ```
 
 [Country::[[Germany]]]

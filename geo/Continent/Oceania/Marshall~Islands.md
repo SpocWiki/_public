@@ -111,8 +111,8 @@ id: Marshall Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Marshall_Islands
-markerFolder: ./Marshall_Islands/City
+geojsonFolder: ./Marshall_Islands/
+markerFolder: ./Marshall_Islands/
 ```
 
 [name-en::Marshall Islands]

@@ -116,8 +116,8 @@ id: Djibouti
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Djibouti
-markerFolder: ./Djibouti/City
+geojsonFolder: ./Djibouti/
+markerFolder: ./Djibouti/
 ```
 
 [name-en::Djibouti]

@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Missouri
 geojsonFolder: ./Missouri/
-markerFolder: ./Missouri/City
+markerFolder: ./Missouri/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

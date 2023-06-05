@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Khakassia~Republic
 geojsonFolder: ./State~Khakassia~Republic/
-markerFolder: ./State~Khakassia~Republic/City
+markerFolder: ./State~Khakassia~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

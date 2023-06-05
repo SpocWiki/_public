@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: North_Carolina
 geojsonFolder: ./North_Carolina/
-markerFolder: ./North_Carolina/City
+markerFolder: ./North_Carolina/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

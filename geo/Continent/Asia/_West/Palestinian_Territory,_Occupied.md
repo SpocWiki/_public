@@ -16,8 +16,8 @@ id: Palestinian Territory, Occupied
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Palestinian_Territory,_Occupied
-markerFolder: ./Palestinian_Territory,_Occupied/City
+geojsonFolder: ./Palestinian_Territory,_Occupied/
+markerFolder: ./Palestinian_Territory,_Occupied/
 ```
 
 [name-en::Palestinian Territory, Occupied]

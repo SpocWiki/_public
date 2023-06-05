@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~British_Columbia
 geojsonFolder: ./State~British_Columbia/
-markerFolder: ./State~British_Columbia/City
+markerFolder: ./State~British_Columbia/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

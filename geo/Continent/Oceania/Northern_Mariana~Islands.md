@@ -111,8 +111,8 @@ id: Northern Mariana Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Northern_Mariana_Islands
-markerFolder: ./Northern_Mariana_Islands/City
+geojsonFolder: ./Northern_Mariana_Islands/
+markerFolder: ./Northern_Mariana_Islands/
 ```
 
 [name-en::Northern Mariana Islands]

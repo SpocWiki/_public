@@ -107,8 +107,8 @@ id: Dominica
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Dominica
-markerFolder: ./Dominica/City
+geojsonFolder: ./Dominica/
+markerFolder: ./Dominica/
 ```
 
 [name-en::Dominica]

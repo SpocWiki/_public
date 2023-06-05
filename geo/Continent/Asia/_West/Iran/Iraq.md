@@ -109,8 +109,8 @@ id: Iraq
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Iraq
-markerFolder: ./Iraq/City
+geojsonFolder: ./Iraq/
+markerFolder: ./Iraq/
 ```
 
 [name-en::Iraq]

@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Ontario
 geojsonFolder: ./State~Ontario/
-markerFolder: ./State~Ontario/City
+markerFolder: ./State~Ontario/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

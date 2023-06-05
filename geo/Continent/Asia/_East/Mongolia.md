@@ -106,8 +106,8 @@ id: Mongolia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Mongolia
-markerFolder: ./Mongolia/City
+geojsonFolder: ./Mongolia/
+markerFolder: ./Mongolia/
 ```
 
 [name-en::Mongolia]

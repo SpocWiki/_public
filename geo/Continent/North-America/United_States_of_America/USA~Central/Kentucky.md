@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Kentucky
 geojsonFolder: ./Kentucky/
-markerFolder: ./Kentucky/City
+markerFolder: ./Kentucky/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

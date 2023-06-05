@@ -106,8 +106,8 @@ id: Martinique
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Martinique
-markerFolder: ./Martinique/City
+geojsonFolder: ./Martinique/
+markerFolder: ./Martinique/
 ```
 
 [name-en::Martinique]

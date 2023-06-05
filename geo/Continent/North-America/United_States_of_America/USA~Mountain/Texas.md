@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: Texas
 geojsonFolder: ./Texas/
-markerFolder: ./Texas/City
+markerFolder: ./Texas/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

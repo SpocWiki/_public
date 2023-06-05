@@ -16,8 +16,8 @@ id: Yemen, Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Yemen~Republic
-markerFolder: ./Yemen~Republic/City
+geojsonFolder: ./Yemen~Republic/
+markerFolder: ./Yemen~Republic/
 ```
 
 [name-en::Yemen, Rep.]

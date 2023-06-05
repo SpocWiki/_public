@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Nizhny_Novgorod_Oblast
 geojsonFolder: ./State~Nizhny_Novgorod_Oblast//
-markerFolder: ./State~Nizhny_Novgorod_Oblast/City
+markerFolder: ./State~Nizhny_Novgorod_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

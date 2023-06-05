@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Vladimir_Oblast
 geojsonFolder: ./State~Vladimir_Oblast/
-markerFolder: ./State~Vladimir_Oblast/City
+markerFolder: ./State~Vladimir_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

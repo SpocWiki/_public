@@ -113,8 +113,8 @@ id: Ethiopia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ethiopia
-markerFolder: ./Ethiopia/City
+geojsonFolder: ./Ethiopia/
+markerFolder: ./Ethiopia/
 ```
 
 [name-en::Ethiopia]

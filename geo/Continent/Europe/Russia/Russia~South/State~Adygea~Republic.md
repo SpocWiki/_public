@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Adygea~Republic
 geojsonFolder: ./State~Adygea~Republic/
-markerFolder: ./State~Adygea~Republic/City
+markerFolder: ./State~Adygea~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

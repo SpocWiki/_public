@@ -111,8 +111,8 @@ id: Cook Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cook_Islands
-markerFolder: ./Cook_Islands/City
+geojsonFolder: ./Cook_Islands/
+markerFolder: ./Cook_Islands/
 ```
 
 [name-en::Cook Islands]

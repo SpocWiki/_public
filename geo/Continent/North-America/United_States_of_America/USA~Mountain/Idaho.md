@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Idaho
 geojsonFolder: ./Idaho/
-markerFolder: ./Idaho/City
+markerFolder: ./Idaho/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

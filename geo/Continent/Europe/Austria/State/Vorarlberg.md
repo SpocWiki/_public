@@ -13,8 +13,8 @@ id: Vorarlberg
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Vorarlberg
-markerFolder: ./Vorarlberg/City
+geojsonFolder: ./Vorarlberg/
+markerFolder: ./Vorarlberg/
 ```
 
 [ name :: Vorarlberg ]

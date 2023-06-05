@@ -106,8 +106,8 @@ id: Bermuda
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bermuda
-markerFolder: ./Bermuda/City
+geojsonFolder: ./Bermuda/
+markerFolder: ./Bermuda/
 ```
 
 [name-en::Bermuda]

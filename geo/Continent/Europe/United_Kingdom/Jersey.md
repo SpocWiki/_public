@@ -106,8 +106,8 @@ id: Jersey
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Jersey
-markerFolder: ./Jersey/City
+geojsonFolder: ./Jersey/
+markerFolder: ./Jersey/
 ```
 
 [name-en::Jersey]

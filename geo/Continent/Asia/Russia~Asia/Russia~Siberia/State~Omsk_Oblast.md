@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Omsk_Oblast
 geojsonFolder: ./State~Omsk_Oblast/
-markerFolder: ./State~Omsk_Oblast/City
+markerFolder: ./State~Omsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

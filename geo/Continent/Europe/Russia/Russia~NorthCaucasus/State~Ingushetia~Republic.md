@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Ingushetia~Republic
 geojsonFolder: ./State~Ingushetia~Republic/
-markerFolder: ./State~Ingushetia~Republic/City
+markerFolder: ./State~Ingushetia~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -115,7 +115,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Germany//
-markerFolder: ./Germany/City
+markerFolder: ./Germany/
 ```
 
 [name-en::Germany]

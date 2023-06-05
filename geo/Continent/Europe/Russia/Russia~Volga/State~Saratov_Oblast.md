@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Saratov_Oblast
 geojsonFolder: ./State~Saratov_Oblast/
-markerFolder: ./State~Saratov_Oblast/City
+markerFolder: ./State~Saratov_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

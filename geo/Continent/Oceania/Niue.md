@@ -107,8 +107,8 @@ id: Niue
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Niue
-markerFolder: ./Niue/City
+geojsonFolder: ./Niue/
+markerFolder: ./Niue/
 ```
 
 [name-en::Niue]

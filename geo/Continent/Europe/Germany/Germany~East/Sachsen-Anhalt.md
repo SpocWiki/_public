@@ -19,7 +19,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Sachsen-Anhalt/
-markerFolder: ./Sachsen-Anhalt/City
+markerFolder: ./Sachsen-Anhalt/
 ```
 
 [Country::[[Germany]]]

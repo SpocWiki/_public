@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Kursk_Oblast
 geojsonFolder: ./State~Kursk_Oblast/
-markerFolder: ./State~Kursk_Oblast/City
+markerFolder: ./State~Kursk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

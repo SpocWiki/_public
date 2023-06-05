@@ -107,8 +107,8 @@ id: Uruguay
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Uruguay
-markerFolder: ./Uruguay/City
+geojsonFolder: ./Uruguay/
+markerFolder: ./Uruguay/
 ```
 
 [name-en::Uruguay]

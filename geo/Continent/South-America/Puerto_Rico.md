@@ -107,8 +107,8 @@ id: Puerto Rico
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Puerto_Rico
-markerFolder: ./Puerto_Rico/City
+geojsonFolder: ./Puerto_Rico/
+markerFolder: ./Puerto_Rico/
 ```
 
 [name-en::Puerto Rico]

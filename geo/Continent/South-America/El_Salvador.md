@@ -106,8 +106,8 @@ id: El Salvador
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./El_Salvador
-markerFolder: ./El_Salvador/City
+geojsonFolder: ./El_Salvador/
+markerFolder: ./El_Salvador/
 ```
 
 [name-en::El Salvador]

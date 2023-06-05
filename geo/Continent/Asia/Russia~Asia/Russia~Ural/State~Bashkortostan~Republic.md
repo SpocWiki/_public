@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Bashkortostan~Republic
 geojsonFolder: ./State~Bashkortostan~Republic/
-markerFolder: ./State~Bashkortostan~Republic/City
+markerFolder: ./State~Bashkortostan~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

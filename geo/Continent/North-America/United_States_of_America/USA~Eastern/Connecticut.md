@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Connecticut
 geojsonFolder: ./Connecticut/
-markerFolder: ./Connecticut/City
+markerFolder: ./Connecticut/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

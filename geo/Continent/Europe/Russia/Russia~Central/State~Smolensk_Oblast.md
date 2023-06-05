@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Smolensk_Oblast
 geojsonFolder: ./State~Smolensk_Oblast/
-markerFolder: ./State~Smolensk_Oblast/City
+markerFolder: ./State~Smolensk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

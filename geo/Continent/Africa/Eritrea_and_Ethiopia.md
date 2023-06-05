@@ -16,7 +16,7 @@ id: Eritrea and Ethiopia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: [./Eritrea,./Ethiopia]
+geojsonFolder: [./Eritrea,./Ethiopia]/
 ```
 
 [name-en::Eritrea and Ethiopia]

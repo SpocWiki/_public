@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Yaroslavl_Oblast
 geojsonFolder: ./State~Yaroslavl_Oblast/
-markerFolder: ./State~Yaroslavl_Oblast/City
+markerFolder: ./State~Yaroslavl_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

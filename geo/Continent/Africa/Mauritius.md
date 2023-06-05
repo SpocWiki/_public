@@ -110,8 +110,8 @@ id: Mauritius
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Mauritius
-markerFolder: ./Mauritius/City
+geojsonFolder: ./Mauritius/
+markerFolder: ./Mauritius/
 ```
 
 [name-en::Mauritius]

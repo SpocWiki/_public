@@ -16,8 +16,8 @@ id: Macao, China
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Macao,_China
-markerFolder: ./Macao,_China/City
+geojsonFolder: ./Macao,_China/
+markerFolder: ./Macao,_China/
 ```
 
 [name-en::Macao, China]

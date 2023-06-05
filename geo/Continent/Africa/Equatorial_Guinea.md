@@ -109,8 +109,8 @@ id: Equatorial Guinea
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Equatorial_Guinea
-markerFolder: ./Equatorial_Guinea/City
+geojsonFolder: ./Equatorial_Guinea/
+markerFolder: ./Equatorial_Guinea/
 ```
 
 [name-en::Equatorial Guinea]

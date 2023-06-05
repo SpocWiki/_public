@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Taymyr_Autonomous_Okrug
 geojsonFolder: ./State~Taymyr_Autonomous_Okrug/
-markerFolder: ./State~Taymyr_Autonomous_Okrug/City
+markerFolder: ./State~Taymyr_Autonomous_Okrug/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

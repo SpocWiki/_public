@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: New_Hampshire
 geojsonFolder: ./New_Hampshire/
-markerFolder: ./New_Hampshire/City
+markerFolder: ./New_Hampshire/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

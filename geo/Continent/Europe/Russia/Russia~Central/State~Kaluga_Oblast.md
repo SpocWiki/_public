@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Kaluga_Oblast
 geojsonFolder: ./State~Kaluga_Oblast/
-markerFolder: ./State~Kaluga_Oblast/City
+markerFolder: ./State~Kaluga_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Mari_El~Republic
 geojsonFolder: ./State~Mari_El~Republic/
-markerFolder: ./State~Mari_El~Republic/City
+markerFolder: ./State~Mari_El~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

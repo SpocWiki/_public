@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Price_Edward_Island
 geojsonFolder: ./State~Price_Edward_Island/
-markerFolder: ./State~Price_Edward_Island/City
+markerFolder: ./State~Price_Edward_Island/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

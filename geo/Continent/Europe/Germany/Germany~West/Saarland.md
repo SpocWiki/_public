@@ -23,7 +23,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Saarland/
-markerFolder: ./Saarland/City
+markerFolder: ./Saarland/
 ```
 
 [Country::[[Germany]]]

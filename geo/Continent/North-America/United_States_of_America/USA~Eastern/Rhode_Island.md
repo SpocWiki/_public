@@ -31,7 +31,7 @@ confidential: public
 ```leaflet
 id: Rhode_Island
 geojsonFolder: ./Rhode_Island/
-markerFolder: ./Rhode_Island/City
+markerFolder: ./Rhode_Island/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

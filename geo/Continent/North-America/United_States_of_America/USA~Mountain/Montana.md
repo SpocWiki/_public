@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Montana
 geojsonFolder: ./Montana/
-markerFolder: ./Montana/City
+markerFolder: ./Montana/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

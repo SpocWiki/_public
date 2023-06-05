@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Hawaii
 geojsonFolder: ./Hawaii/
-markerFolder: ./Hawaii/City
+markerFolder: ./Hawaii/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

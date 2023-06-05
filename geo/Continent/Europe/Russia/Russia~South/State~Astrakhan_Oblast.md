@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Astrakhan_Oblast
 geojsonFolder: ./State~Astrakhan_Oblast/
-markerFolder: ./State~Astrakhan_Oblast/City
+markerFolder: ./State~Astrakhan_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

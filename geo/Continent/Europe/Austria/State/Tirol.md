@@ -13,8 +13,8 @@ id: Tirol
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tirol
-markerFolder: ./Tirol/City
+geojsonFolder: ./Tirol/
+markerFolder: ./Tirol/
 ```
 
 [ name :: Tirol ]

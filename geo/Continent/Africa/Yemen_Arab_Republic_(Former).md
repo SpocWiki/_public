@@ -16,8 +16,8 @@ id: Yemen Arab Republic (Former)
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Yemen_Arab_Republic_(Former)
-markerFolder: ./Yemen_Arab_Republic_(Former)/City
+geojsonFolder: ./Yemen_Arab_Republic_(Former)/
+markerFolder: ./Yemen_Arab_Republic_(Former)/
 ```
 
 [name-en::Yemen Arab Republic (Former)]

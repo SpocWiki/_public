@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Primorsky_Krai
 geojsonFolder: ./State~Primorsky_Krai/
-markerFolder: ./State~Primorsky_Krai/City
+markerFolder: ./State~Primorsky_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

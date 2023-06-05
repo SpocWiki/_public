@@ -107,8 +107,8 @@ id: Qatar
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Qatar
-markerFolder: ./Qatar/City
+geojsonFolder: ./Qatar/
+markerFolder: ./Qatar/
 ```
 
 [name-en::Qatar]

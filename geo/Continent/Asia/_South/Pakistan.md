@@ -113,8 +113,8 @@ id: Pakistan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Pakistan
-markerFolder: ./Pakistan/City
+geojsonFolder: ./Pakistan/
+markerFolder: ./Pakistan/
 ```
 
 [name-en::Pakistan]

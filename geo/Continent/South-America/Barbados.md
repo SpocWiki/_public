@@ -105,8 +105,8 @@ id: Barbados
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Barbados
-markerFolder: ./Barbados/City
+geojsonFolder: ./Barbados/
+markerFolder: ./Barbados/
 ```
 
 [name-en::Barbados]

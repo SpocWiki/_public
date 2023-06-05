@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: Ohio
 geojsonFolder: ./Ohio/
-markerFolder: ./Ohio/City
+markerFolder: ./Ohio/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

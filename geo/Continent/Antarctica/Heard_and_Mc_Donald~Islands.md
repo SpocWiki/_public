@@ -16,8 +16,8 @@ id: Heard And Mc Donald Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Heard_and_Mc_Donald~Islands
-markerFolder: ./Heard_and_Mc_Donald~Islands/City
+geojsonFolder: ./Heard_and_Mc_Donald~Islands/
+markerFolder: ./Heard_and_Mc_Donald~Islands/
 ```
 
 [name-en::Heard And Mc Donald Islands]

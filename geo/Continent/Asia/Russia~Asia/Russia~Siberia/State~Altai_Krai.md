@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Altai_Krai
 geojsonFolder: ./State~Altai_Krai/
-markerFolder: ./State~Altai_Krai/City
+markerFolder: ./State~Altai_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

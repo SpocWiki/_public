@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: North_Dakota
 geojsonFolder: ./North_Dakota/
-markerFolder: ./North_Dakota/City
+markerFolder: ./North_Dakota/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

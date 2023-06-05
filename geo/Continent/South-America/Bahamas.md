@@ -108,8 +108,8 @@ id: Bahamas
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bahamas
-markerFolder: ./Bahamas/City
+geojsonFolder: ./Bahamas/
+markerFolder: ./Bahamas/
 ```
 
 [name-en::Bahamas]

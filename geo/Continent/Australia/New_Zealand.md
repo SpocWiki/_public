@@ -107,8 +107,8 @@ id: New Zealand
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./New_Zealand
-markerFolder: ./New_Zealand/City
+geojsonFolder: ./New_Zealand/
+markerFolder: ./New_Zealand/
 ```
 
 [name-en::New Zealand]

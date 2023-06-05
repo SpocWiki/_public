@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Altai~Republic
 geojsonFolder: ./State~Altai~Republic/
-markerFolder: ./State~Altai~Republic/City
+markerFolder: ./State~Altai~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

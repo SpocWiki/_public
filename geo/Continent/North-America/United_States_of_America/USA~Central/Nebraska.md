@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Nebraska
 geojsonFolder: ./Nebraska/
-markerFolder: ./Nebraska/City
+markerFolder: ./Nebraska/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Sverdlovsk_Oblast
 geojsonFolder: ./State~Sverdlovsk_Oblast/
-markerFolder: ./State~Sverdlovsk_Oblast/City
+markerFolder: ./State~Sverdlovsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

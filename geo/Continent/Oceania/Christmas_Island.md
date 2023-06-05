@@ -109,8 +109,8 @@ id: Christmas Island
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Christmas_Island
-markerFolder: ./Christmas_Island/City
+geojsonFolder: ./Christmas_Island/
+markerFolder: ./Christmas_Island/
 ```
 
 [name-en::Christmas Island]

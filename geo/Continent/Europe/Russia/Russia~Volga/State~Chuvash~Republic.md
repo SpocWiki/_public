@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Chuvash~Republic
 geojsonFolder: ./State~Chuvash~Republic/
-markerFolder: ./State~Chuvash~Republic/City
+markerFolder: ./State~Chuvash~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

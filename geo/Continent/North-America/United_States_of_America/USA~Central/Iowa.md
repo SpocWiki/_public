@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Iowa
 geojsonFolder: ./Iowa/
-markerFolder: ./Iowa/City
+markerFolder: ./Iowa/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

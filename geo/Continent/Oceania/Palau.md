@@ -113,8 +113,8 @@ id: Palau
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Palau
-markerFolder: ./Palau/City
+geojsonFolder: ./Palau/
+markerFolder: ./Palau/
 ```
 
 [name-en::Palau]

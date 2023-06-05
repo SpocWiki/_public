@@ -110,8 +110,8 @@ id: Chad
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Chad
-markerFolder: ./Chad/City
+geojsonFolder: ./Chad/
+markerFolder: ./Chad/
 ```
 
 [name-en::Chad]

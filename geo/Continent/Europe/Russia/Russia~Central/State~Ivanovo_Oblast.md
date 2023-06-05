@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Ivanovo_Oblast
 geojsonFolder: ./State~Ivanovo_Oblast/
-markerFolder: ./State~Ivanovo_Oblast/City
+markerFolder: ./State~Ivanovo_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

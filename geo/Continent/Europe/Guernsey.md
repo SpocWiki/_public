@@ -107,8 +107,8 @@ id: Guernsey
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guernsey
-markerFolder: ./Guernsey/City
+geojsonFolder: ./Guernsey/
+markerFolder: ./Guernsey/
 ```
 
 [name-en::Guernsey]

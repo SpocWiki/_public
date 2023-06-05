@@ -105,8 +105,8 @@ id: USA minor outlying Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./USA_Outlying~Islands
-markerFolder: ./USA_Outlying~Islands/City
+geojsonFolder: ./USA_Outlying~Islands/
+markerFolder: ./USA_Outlying~Islands/
 ```
 
 [name-en::USA minor outlying Islands]

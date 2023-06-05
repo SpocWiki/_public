@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Mordovia~Republic
 geojsonFolder: ./State~Mordovia~Republic/
-markerFolder: ./State~Mordovia~Republic/City
+markerFolder: ./State~Mordovia~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Chita~Oblast
 geojsonFolder: ./State~Chita~Oblast/
-markerFolder: ./State~Chita~Oblast/City
+markerFolder: ./State~Chita~Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

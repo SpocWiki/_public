@@ -16,8 +16,8 @@ id: Wallis et Futuna
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Wallis_et_Futuna
-markerFolder: ./Wallis_et_Futuna/City
+geojsonFolder: ./Wallis_et_Futuna/
+markerFolder: ./Wallis_et_Futuna/
 ```
 
 [name-en::Wallis et Futuna]

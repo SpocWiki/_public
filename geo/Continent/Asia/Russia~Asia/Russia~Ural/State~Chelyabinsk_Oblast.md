@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Chelyabinsk_Oblast
 geojsonFolder: ./State~Chelyabinsk_Oblast/
-markerFolder: ./State~Chelyabinsk_Oblast/City
+markerFolder: ./State~Chelyabinsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: Vermont
 geojsonFolder: ./Vermont/
-markerFolder: ./Vermont/City
+markerFolder: ./Vermont/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

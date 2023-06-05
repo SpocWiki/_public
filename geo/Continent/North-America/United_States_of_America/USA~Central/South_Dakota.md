@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: South_Dakota
 geojsonFolder: ./South_Dakota/
-markerFolder: ./South_Dakota/City
+markerFolder: ./South_Dakota/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -21,7 +21,7 @@ confidential: public
 ```leaflet
 id: State~Irkutsk_Oblast
 geojsonFolder: ./State~Irkutsk_Oblast/
-markerFolder: ./State~Irkutsk_Oblast/City
+markerFolder: ./State~Irkutsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

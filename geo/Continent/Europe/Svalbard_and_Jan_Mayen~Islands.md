@@ -16,8 +16,8 @@ id: Svalbard And Jan Mayen Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Svalbard_And_Jan_Mayen_Islands
-markerFolder: ./Svalbard_And_Jan_Mayen_Islands/City
+geojsonFolder: ./Svalbard_And_Jan_Mayen_Islands/
+markerFolder: ./Svalbard_And_Jan_Mayen_Islands/
 ```
 
 [name-en::Svalbard And Jan Mayen Islands]

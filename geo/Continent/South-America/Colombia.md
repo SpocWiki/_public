@@ -107,8 +107,8 @@ id: Colombia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Colombia
-markerFolder: ./Colombia/City
+geojsonFolder: ./Colombia/
+markerFolder: ./Colombia/
 ```
 
 [name-en::Colombia]

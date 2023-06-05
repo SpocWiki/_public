@@ -19,8 +19,8 @@ id: Korea, Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Korea~South
-markerFolder: ./Korea~South/City
+geojsonFolder: ./Korea~South/
+markerFolder: ./Korea~South/
 ```
 
 [name-en::Korea, Rep.]

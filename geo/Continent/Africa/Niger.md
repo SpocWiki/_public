@@ -112,8 +112,8 @@ id: Niger
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Niger
-markerFolder: ./Niger/City
+geojsonFolder: ./Niger/
+markerFolder: ./Niger/
 ```
 
 [name-en::Niger]

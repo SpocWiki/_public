@@ -16,8 +16,8 @@ id: Pitcairn
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Pitcairn
-markerFolder: ./Pitcairn/City
+geojsonFolder: ./Pitcairn/
+markerFolder: ./Pitcairn/
 ```
 
 [name-en::Pitcairn]

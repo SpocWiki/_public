@@ -107,8 +107,8 @@ id: Norfolk Island
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Norfolk_Island
-markerFolder: ./Norfolk_Island/City
+geojsonFolder: ./Norfolk_Island/
+markerFolder: ./Norfolk_Island/
 ```
 
 [name-en::Norfolk Island]

@@ -16,8 +16,8 @@ id: FRENCH INDO-CHINA
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./FRENCH_INDO-CHINA
-markerFolder: ./FRENCH_INDO-CHINA/City
+geojsonFolder: ./FRENCH_INDO-CHINA/
+markerFolder: ./FRENCH_INDO-CHINA/
 ```
 
 [name-en::FRENCH INDO-CHINA]

@@ -2,7 +2,7 @@
 ```leaflet
 id: Scotland
 geojsonFolder: ./Scotland//
-markerFolder: ./Scotland/City
+markerFolder: ./Scotland/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

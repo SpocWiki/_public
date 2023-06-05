@@ -2,7 +2,7 @@
 ```leaflet
 id: Wales
 geojsonFolder: ./Wales//
-markerFolder: ./Wales/City
+markerFolder: ./Wales/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

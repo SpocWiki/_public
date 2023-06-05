@@ -16,8 +16,8 @@ id: Svalbard
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Svalbard
-markerFolder: ./Svalbard/City
+geojsonFolder: ./Svalbard/
+markerFolder: ./Svalbard/
 ```
 
 [name-en::Svalbard]

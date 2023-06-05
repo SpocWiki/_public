@@ -24,7 +24,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Schleswig-Holstein/
-markerFolder: ./Schleswig-Holstein/City
+markerFolder: ./Schleswig-Holstein/
 ```
 
 [Country::[[Germany]]]

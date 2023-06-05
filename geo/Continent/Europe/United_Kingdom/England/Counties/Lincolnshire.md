@@ -2,7 +2,7 @@
 ```leaflet
 id: England
 geojsonFolder: ./Lincolnshire//
-markerFolder: ./Lincolnshire/City
+markerFolder: ./Lincolnshire/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

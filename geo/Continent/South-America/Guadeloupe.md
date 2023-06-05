@@ -106,8 +106,8 @@ id: Guadeloupe
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guadeloupe
-markerFolder: ./Guadeloupe/City
+geojsonFolder: ./Guadeloupe/
+markerFolder: ./Guadeloupe/
 ```
 
 [name-en::Guadeloupe]

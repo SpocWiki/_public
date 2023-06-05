@@ -13,8 +13,8 @@ id: Africa
 minZoom: 2 
 defaultZoom: 3
 maxZoom: 18
-geojsonFolder: ./Africa
-markerFolder: ./Africa/City
+geojsonFolder: ./Africa/
+markerFolder: ./Africa/
 zoomFeatures: false
 lat: -1
 long: 10

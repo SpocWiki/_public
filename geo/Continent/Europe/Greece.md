@@ -115,8 +115,6 @@ markerFolder: ./Greece////
 ```
 
 
-geojsonFolder: [[_public/geo/Continent/Europe/Greece]]
-
 [name-en::Greece]
 [name-de::Griechenland]
 [Area-Total::131957]

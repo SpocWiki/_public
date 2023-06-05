@@ -16,8 +16,8 @@ id: Serbia and Montenegro
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Serbia_and_Montenegro
-markerFolder: ./Serbia_and_Montenegro/City
+geojsonFolder: ./Serbia_and_Montenegro/
+markerFolder: ./Serbia_and_Montenegro/
 ```
 
 [name-en::Serbia and Montenegro]

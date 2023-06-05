@@ -26,7 +26,7 @@ confidential: public
 id: Ealing
 coordinates: [[Ealing]]
 markerFile: [[Ealing]]
-geojsonFolder: ./Ealing
+geojsonFolder: ./Ealing/
 defaultZoom: 11 
 maxZoom: 18
 ```

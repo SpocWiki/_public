@@ -16,8 +16,8 @@ id: France, Metropolitan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./France~Metropolitan
-markerFolder: ./France~Metropolitan/City
+geojsonFolder: ./France~Metropolitan/
+markerFolder: ./France~Metropolitan/
 ```
 
 [name-en::France, Metropolitan]

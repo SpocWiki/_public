@@ -107,8 +107,8 @@ id: Nauru
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Nauru
-markerFolder: ./Nauru/City
+geojsonFolder: ./Nauru/
+markerFolder: ./Nauru/
 ```
 
 [name-en::Nauru]

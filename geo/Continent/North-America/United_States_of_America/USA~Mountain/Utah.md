@@ -31,7 +31,7 @@ confidential: public
 ```leaflet
 id: Utah
 geojsonFolder: ./Utah/
-markerFolder: ./Utah/City
+markerFolder: ./Utah/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

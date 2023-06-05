@@ -16,8 +16,8 @@ id: FRENCH EQUATORIAL AFRICA
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./FRENCH_EQUATORIAL_AFRICA
-markerFolder: ./FRENCH_EQUATORIAL_AFRICA/City
+geojsonFolder: ./FRENCH_EQUATORIAL_AFRICA/
+markerFolder: ./FRENCH_EQUATORIAL_AFRICA/
 ```
 
 [name-en::FRENCH EQUATORIAL AFRICA]

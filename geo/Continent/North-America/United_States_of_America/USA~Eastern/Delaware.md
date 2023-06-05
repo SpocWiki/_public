@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Delaware
 geojsonFolder: ./Delaware/
-markerFolder: ./Delaware/City
+markerFolder: ./Delaware/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

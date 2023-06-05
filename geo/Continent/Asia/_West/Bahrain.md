@@ -111,8 +111,8 @@ id: Bahrain
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bahrain
-markerFolder: ./Bahrain/City
+geojsonFolder: ./Bahrain/
+markerFolder: ./Bahrain/
 ```
 
 [name-en::Bahrain]

@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Alabama
 geojsonFolder: ./Alabama/
-markerFolder: ./Alabama/City
+markerFolder: ./Alabama/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

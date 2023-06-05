@@ -106,8 +106,8 @@ id: Bouvet Island
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bouvet_Island
-markerFolder: ./Bouvet_Island/City
+geojsonFolder: ./Bouvet_Island/
+markerFolder: ./Bouvet_Island/
 ```
 
 [name-en::Bouvet Island]

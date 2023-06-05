@@ -24,7 +24,7 @@ confidential: public
 id: Bromley
 coordinates: [[Bromley]]
 markerFile: [[Bromley]]
-geojsonFolder: ./Bromley
+geojsonFolder: ./Bromley/
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18

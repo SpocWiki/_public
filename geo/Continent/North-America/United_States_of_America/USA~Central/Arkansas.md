@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Arkansas
 geojsonFolder: ./Arkansas/
-markerFolder: ./Arkansas/City
+markerFolder: ./Arkansas/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

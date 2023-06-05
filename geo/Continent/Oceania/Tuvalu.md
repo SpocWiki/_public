@@ -107,8 +107,8 @@ id: Tuvalu
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tuvalu
-markerFolder: ./Tuvalu/City
+geojsonFolder: ./Tuvalu/
+markerFolder: ./Tuvalu/
 ```
 
 [name-en::Tuvalu]

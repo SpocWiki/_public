@@ -110,8 +110,8 @@ id: Somalia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Somalia
-markerFolder: ./Somalia/City
+geojsonFolder: ./Somalia/
+markerFolder: ./Somalia/
 ```
 
 [name-en::Somalia]

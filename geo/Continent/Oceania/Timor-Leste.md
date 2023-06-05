@@ -109,8 +109,8 @@ id: Timor-Leste
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Timor-Leste
-markerFolder: ./Timor-Leste/City
+geojsonFolder: ./Timor-Leste/
+markerFolder: ./Timor-Leste/
 ```
 
 [name-en::Timor-Leste]

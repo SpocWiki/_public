@@ -16,8 +16,8 @@ id: Saint Lucia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint_Lucia
-markerFolder: ./Saint_Lucia/City
+geojsonFolder: ./Saint_Lucia/
+markerFolder: ./Saint_Lucia/
 ```
 
 [name-en::Saint Lucia]

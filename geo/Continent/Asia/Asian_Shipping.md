@@ -16,8 +16,8 @@ id: Asian Shipping
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Asian_Shipping
-markerFolder: ./Asian_Shipping/City
+geojsonFolder: ./Asian_Shipping/
+markerFolder: ./Asian_Shipping/
 ```
 
 [name-en::Asian Shipping]

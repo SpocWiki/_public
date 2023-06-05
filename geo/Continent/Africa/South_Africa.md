@@ -117,8 +117,8 @@ id: South Africa
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./South_Africa
-markerFolder: ./South_Africa/City
+geojsonFolder: ./South_Africa/
+markerFolder: ./South_Africa/
 ```
 
 [name-en::South Africa]

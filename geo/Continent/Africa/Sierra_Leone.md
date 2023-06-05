@@ -109,8 +109,8 @@ id: Sierra Leone
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sierra_Leone
-markerFolder: ./Sierra_Leone/City
+geojsonFolder: ./Sierra_Leone/
+markerFolder: ./Sierra_Leone/
 ```
 
 [name-en::Sierra Leone]

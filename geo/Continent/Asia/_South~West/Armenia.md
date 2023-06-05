@@ -107,8 +107,8 @@ id: Armenia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Armenia
-markerFolder: ./Armenia/City
+geojsonFolder: ./Armenia/
+markerFolder: ./Armenia/
 ```
 
 [name-en::Armenia]

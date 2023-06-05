@@ -16,8 +16,8 @@ id: Rwanda-Urundi
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Rwanda-Urundi
-markerFolder: ./Rwanda-Urundi/City
+geojsonFolder: ./Rwanda-Urundi/
+markerFolder: ./Rwanda-Urundi/
 ```
 
 [name-en::Rwanda-Urundi]

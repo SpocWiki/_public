@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Colorado
 geojsonFolder: ./Colorado/
-markerFolder: ./Colorado/City
+markerFolder: ./Colorado/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

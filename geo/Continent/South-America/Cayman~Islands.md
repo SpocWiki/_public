@@ -107,8 +107,8 @@ id: Cayman Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cayman_Islands
-markerFolder: ./Cayman_Islands/City
+geojsonFolder: ./Cayman_Islands/
+markerFolder: ./Cayman_Islands/
 ```
 
 [name-en::Cayman Islands]

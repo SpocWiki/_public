@@ -30,7 +30,7 @@ confidential: public
 ```leaflet
 id: Pennsylvania
 geojsonFolder: ./Pennsylvania/
-markerFolder: ./Pennsylvania/City
+markerFolder: ./Pennsylvania/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

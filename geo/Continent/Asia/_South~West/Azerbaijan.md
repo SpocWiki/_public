@@ -110,8 +110,8 @@ id: Azerbaijan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Azerbaijan
-markerFolder: ./Azerbaijan/City
+geojsonFolder: ./Azerbaijan/
+markerFolder: ./Azerbaijan/
 ```
 
 [name-en::Azerbaijan]

@@ -107,8 +107,8 @@ id: Tokelau
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tokelau
-markerFolder: ./Tokelau/City
+geojsonFolder: ./Tokelau/
+markerFolder: ./Tokelau/
 ```
 
 [name-en::Tokelau]

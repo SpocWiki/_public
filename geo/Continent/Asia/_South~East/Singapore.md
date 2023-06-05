@@ -112,8 +112,8 @@ id: Singapore
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Singapore
-markerFolder: ./Singapore/City
+geojsonFolder: ./Singapore/
+markerFolder: ./Singapore/
 ```
 
 [name-en::Singapore]

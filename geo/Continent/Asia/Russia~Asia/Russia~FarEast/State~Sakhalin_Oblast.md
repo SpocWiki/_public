@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Sakhalin_Oblast
 geojsonFolder: ./State~Sakhalin_Oblast/
-markerFolder: ./State~Sakhalin_Oblast/City
+markerFolder: ./State~Sakhalin_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

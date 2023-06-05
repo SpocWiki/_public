@@ -16,8 +16,8 @@ id: Akrotiri and Dhekelia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Akrotiri_and_Dhekelia
-markerFolder: ./Akrotiri_and_Dhekelia/City
+geojsonFolder: ./Akrotiri_and_Dhekelia/
+markerFolder: ./Akrotiri_and_Dhekelia/
 ```
 
 [name-en::Akrotiri and Dhekelia]

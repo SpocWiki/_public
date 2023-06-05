@@ -6,6 +6,6 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./USA~Pacific/
-markerFolder: ./USA~Pacific/City
+markerFolder: ./USA~Pacific/
 ```
 

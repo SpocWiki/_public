@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Florida
 geojsonFolder: ./Florida/
-markerFolder: ./Florida/City
+markerFolder: ./Florida/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

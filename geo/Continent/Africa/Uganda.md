@@ -110,8 +110,8 @@ id: Uganda
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Uganda
-markerFolder: ./Uganda/City
+geojsonFolder: ./Uganda/
+markerFolder: ./Uganda/
 ```
 
 [name-en::Uganda]

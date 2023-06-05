@@ -111,8 +111,8 @@ id: Comoros
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Comoros
-markerFolder: ./Comoros/City
+geojsonFolder: ./Comoros/
+markerFolder: ./Comoros/
 ```
 
 [name-en::Comoros]

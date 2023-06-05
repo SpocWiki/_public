@@ -110,8 +110,8 @@ id: Cambodia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cambodia
-markerFolder: ./Cambodia/City
+geojsonFolder: ./Cambodia/
+markerFolder: ./Cambodia/
 ```
 
 [name-en::Cambodia]

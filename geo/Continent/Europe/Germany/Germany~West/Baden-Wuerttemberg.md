@@ -22,7 +22,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Baden-Wuerttemberg/
-markerFolder: ./Baden-Wuerttemberg/City
+markerFolder: ./Baden-Wuerttemberg/
 ```
 
 [Country::[[Germany]]]

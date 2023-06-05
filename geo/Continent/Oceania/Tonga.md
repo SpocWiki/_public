@@ -107,8 +107,8 @@ id: Tonga
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tonga
-markerFolder: ./Tonga/City
+geojsonFolder: ./Tonga/
+markerFolder: ./Tonga/
 ```
 
 [name-en::Tonga]

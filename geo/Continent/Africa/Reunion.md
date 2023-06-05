@@ -16,8 +16,8 @@ id: Reunion
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Reunion
-markerFolder: ./Reunion/City
+geojsonFolder: ./Reunion/
+markerFolder: ./Reunion/
 ```
 
 [name-en::Reunion]

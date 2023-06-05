@@ -24,7 +24,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Rheinland-Pfalz/
-markerFolder: ./Rheinland-Pfalz/City
+markerFolder: ./Rheinland-Pfalz/
 ```
 
 [Country::[[Germany]]]

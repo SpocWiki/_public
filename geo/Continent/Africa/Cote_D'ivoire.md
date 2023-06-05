@@ -16,8 +16,8 @@ id: Cote D'ivoire
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cote_D'ivoire
-markerFolder: ./Cote_D'ivoire/City
+geojsonFolder: ./Cote_D'ivoire/
+markerFolder: ./Cote_D'ivoire/
 ```
 
 [name-en::Cote D'ivoire]

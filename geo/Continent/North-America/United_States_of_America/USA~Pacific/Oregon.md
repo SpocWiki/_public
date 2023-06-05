@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: Oregon
 geojsonFolder: ./Oregon/
-markerFolder: ./Oregon/City
+markerFolder: ./Oregon/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

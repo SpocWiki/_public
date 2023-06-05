@@ -111,8 +111,8 @@ id: Papua New Guinea
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Papua_New_Guinea
-markerFolder: ./Papua_New_Guinea/City
+geojsonFolder: ./Papua_New_Guinea/
+markerFolder: ./Papua_New_Guinea/
 ```
 
 [name-en::Papua New Guinea]

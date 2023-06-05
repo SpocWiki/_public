@@ -29,7 +29,7 @@ confidential: public
 ```leaflet
 id: South_Carolina
 geojsonFolder: ./South_Carolina/
-markerFolder: ./South_Carolina/City
+markerFolder: ./South_Carolina/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -108,8 +108,8 @@ id: Isle of Man
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Isle_of_Man
-markerFolder: ./Isle_of_Man/City
+geojsonFolder: ./Isle_of_Man/
+markerFolder: ./Isle_of_Man/
 ```
 
 [name-en::Isle of Man]

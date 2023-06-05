@@ -107,8 +107,8 @@ id: Guinea
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guinea
-markerFolder: ./Guinea/City
+geojsonFolder: ./Guinea/
+markerFolder: ./Guinea/
 ```
 
 [name-en::Guinea]

@@ -19,7 +19,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Sachsen/
-markerFolder: ./Sachsen/City
+markerFolder: ./Sachsen/
 ```
 
 [Country::[[Germany]]]

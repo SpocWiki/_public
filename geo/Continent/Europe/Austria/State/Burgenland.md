@@ -15,7 +15,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Burgenland/
-markerFolder: ./Burgenland/City
+markerFolder: ./Burgenland/
 ```
 
 [ name :: Burgenland ]

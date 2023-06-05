@@ -108,8 +108,8 @@ id: French Polynesia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./French_Polynesia
-markerFolder: ./French_Polynesia/City
+geojsonFolder: ./French_Polynesia/
+markerFolder: ./French_Polynesia/
 ```
 
 [name-en::French Polynesia]

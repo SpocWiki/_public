@@ -108,8 +108,8 @@ id: Mali
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Mali
-markerFolder: ./Mali/City
+geojsonFolder: ./Mali/
+markerFolder: ./Mali/
 ```
 
 [name-en::Mali]

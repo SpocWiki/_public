@@ -106,8 +106,8 @@ id: Guam
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guam
-markerFolder: ./Guam/City
+geojsonFolder: ./Guam/
+markerFolder: ./Guam/
 ```
 
 [name-en::Guam]

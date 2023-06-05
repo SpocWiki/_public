@@ -13,7 +13,7 @@ id: Australia
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Australia/
-markerFolder: ./Australia/City
+markerFolder: ./Australia/
 zoomFeatures: true 
 ```
 

@@ -105,8 +105,8 @@ id: Antarctica
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Antarctica
-markerFolder: ./Antarctica/City
+geojsonFolder: ./Antarctica/
+markerFolder: ./Antarctica/
 ```
 
 [name-en::Antarctica]

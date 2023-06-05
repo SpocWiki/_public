@@ -16,8 +16,8 @@ id: Trinidad And Tobago
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Trinidad_And_Tobago
-markerFolder: ./Trinidad_And_Tobago/City
+geojsonFolder: ./Trinidad_And_Tobago/
+markerFolder: ./Trinidad_And_Tobago/
 ```
 
 [name-en::Trinidad And Tobago]

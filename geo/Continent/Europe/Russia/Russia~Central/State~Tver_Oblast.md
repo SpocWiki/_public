@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Tver_Oblast
 geojsonFolder: ./State~Tver_Oblast/
-markerFolder: ./State~Tver_Oblast/City
+markerFolder: ./State~Tver_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

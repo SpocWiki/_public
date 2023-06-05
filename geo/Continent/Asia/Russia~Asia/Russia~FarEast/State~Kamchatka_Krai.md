@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Kamchatka_Krai
 geojsonFolder: ./State~Kamchatka_Krai/
-markerFolder: ./State~Kamchatka_Krai/City
+markerFolder: ./State~Kamchatka_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

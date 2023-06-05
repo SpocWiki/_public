@@ -16,8 +16,8 @@ id: Yemen Democratic (Former)
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Yemen_Democratic_(Former)
-markerFolder: ./Yemen_Democratic_(Former)/City
+geojsonFolder: ./Yemen_Democratic_(Former)/
+markerFolder: ./Yemen_Democratic_(Former)/
 ```
 
 [name-en::Yemen Democratic (Former)]

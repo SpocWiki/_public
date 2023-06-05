@@ -104,8 +104,8 @@ id: French Southern Territories
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./French_Southern_Territories
-markerFolder: ./French_Southern_Territories/City
+geojsonFolder: ./French_Southern_Territories/
+markerFolder: ./French_Southern_Territories/
 ```
 
 [name-en::French Southern Territories]

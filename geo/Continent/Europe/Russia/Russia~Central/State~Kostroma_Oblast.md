@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Kostroma_Oblast
 geojsonFolder: ./State~Kostroma_Oblast/
-markerFolder: ./State~Kostroma_Oblast/City
+markerFolder: ./State~Kostroma_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

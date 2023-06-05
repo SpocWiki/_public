@@ -16,8 +16,8 @@ id: Ryukyu Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ryukyu_Islands
-markerFolder: ./Ryukyu_Islands/City
+geojsonFolder: ./Ryukyu_Islands/
+markerFolder: ./Ryukyu_Islands/
 ```
 
 [name-en::Ryukyu Islands]

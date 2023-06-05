@@ -16,8 +16,8 @@ id: Sabah
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sabah
-markerFolder: ./Sabah/City
+geojsonFolder: ./Sabah/
+markerFolder: ./Sabah/
 ```
 
 [name-en::Sabah]

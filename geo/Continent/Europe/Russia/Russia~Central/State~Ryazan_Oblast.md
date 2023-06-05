@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Ryazan_Oblast
 geojsonFolder: ./State~Ryazan_Oblast/
-markerFolder: ./State~Ryazan_Oblast/City
+markerFolder: ./State~Ryazan_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

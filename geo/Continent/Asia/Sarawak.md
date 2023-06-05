@@ -16,8 +16,8 @@ id: Sarawak
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sarawak
-markerFolder: ./Sarawak/City
+geojsonFolder: ./Sarawak/
+markerFolder: ./Sarawak/
 ```
 
 [name-en::Sarawak]

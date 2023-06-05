@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~New_Brunswick
 geojsonFolder: ./State~New_Brunswick/
-markerFolder: ./State~New_Brunswick/City
+markerFolder: ./State~New_Brunswick/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

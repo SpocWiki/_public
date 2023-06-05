@@ -16,8 +16,8 @@ id: Micronesia, Fed. States
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Micronesia,_Fed._States
-markerFolder: ./Micronesia,_Fed._States/City
+geojsonFolder: ./Micronesia,_Fed._States/
+markerFolder: ./Micronesia,_Fed._States/
 ```
 
 [name-en::Micronesia, Fed. States]

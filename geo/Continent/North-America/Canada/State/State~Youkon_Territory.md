@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Youkon_Territory
 geojsonFolder: ./State~Youkon_Territory/
-markerFolder: ./State~Youkon_Territory/City
+markerFolder: ./State~Youkon_Territory/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

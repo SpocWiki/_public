@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Orenburg_Oblast
 geojsonFolder: ./State~Orenburg_Oblast/
-markerFolder: ./State~Orenburg_Oblast/City
+markerFolder: ./State~Orenburg_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

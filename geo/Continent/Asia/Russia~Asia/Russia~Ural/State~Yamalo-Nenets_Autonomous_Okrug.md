@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Yamalo-Nenets_Autonomous_Okrug
 geojsonFolder: ./State~Yamalo-Nenets_Autonomous_Okrug/
-markerFolder: ./State~Yamalo-Nenets_Autonomous_Okrug/City
+markerFolder: ./State~Yamalo-Nenets_Autonomous_Okrug/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

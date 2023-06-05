@@ -20,7 +20,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Mecklenburg-Vorpommern/
-markerFolder: ./Mecklenburg-Vorpommern/City
+markerFolder: ./Mecklenburg-Vorpommern/
 ```
 
 [Country::[[Germany]]]

@@ -16,8 +16,8 @@ id: Other Shipping
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Other_Shipping
-markerFolder: ./Other_Shipping/City
+geojsonFolder: ./Other_Shipping/
+markerFolder: ./Other_Shipping/
 ```
 
 [name-en::Other Shipping]

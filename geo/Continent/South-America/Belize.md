@@ -106,8 +106,8 @@ id: Belize
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Belize
-markerFolder: ./Belize/City
+geojsonFolder: ./Belize/
+markerFolder: ./Belize/
 ```
 
 [name-en::Belize]

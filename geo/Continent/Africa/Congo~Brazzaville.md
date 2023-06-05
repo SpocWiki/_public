@@ -16,8 +16,8 @@ id: Congo, Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Congo~Rep
-markerFolder: ./Congo~Rep/City
+geojsonFolder: ./Congo~Rep/
+markerFolder: ./Congo~Rep/
 ```
 
 [name-en::Congo, Rep.]

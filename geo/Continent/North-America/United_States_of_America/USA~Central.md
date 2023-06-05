@@ -6,6 +6,6 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./USA~Central/
-markerFolder: ./USA~Central/City
+markerFolder: ./USA~Central/
 ```
 

@@ -109,8 +109,8 @@ id: Rwanda
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Rwanda
-markerFolder: ./Rwanda/City
+geojsonFolder: ./Rwanda/
+markerFolder: ./Rwanda/
 ```
 
 [name-en::Rwanda]

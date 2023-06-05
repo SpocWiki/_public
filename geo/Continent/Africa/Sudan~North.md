@@ -16,8 +16,8 @@ id: Sudan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sudan
-markerFolder: ./Sudan/City
+geojsonFolder: ./Sudan/
+markerFolder: ./Sudan/
 ```
 
 [name-en::Sudan]

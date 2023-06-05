@@ -114,8 +114,8 @@ id: United Arab Emirates
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./United_Arab_Emirates
-markerFolder: ./United_Arab_Emirates/City
+geojsonFolder: ./United_Arab_Emirates/
+markerFolder: ./United_Arab_Emirates/
 ```
 
 [name-en::United Arab Emirates]

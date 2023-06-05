@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Louisiana
 geojsonFolder: ./Louisiana/
-markerFolder: ./Louisiana/City
+markerFolder: ./Louisiana/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

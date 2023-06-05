@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Lipetsk_Oblast
 geojsonFolder: ./State~Lipetsk_Oblast/
-markerFolder: ./State~Lipetsk_Oblast/City
+markerFolder: ./State~Lipetsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -107,8 +107,8 @@ id: Kiribati
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Kiribati
-markerFolder: ./Kiribati/City
+geojsonFolder: ./Kiribati/
+markerFolder: ./Kiribati/
 ```
 
 [name-en::Kiribati]

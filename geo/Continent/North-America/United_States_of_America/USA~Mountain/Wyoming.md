@@ -28,7 +28,7 @@ confidential: public
 ```leaflet
 id: Wyoming
 geojsonFolder: ./Wyoming/
-markerFolder: ./Wyoming/City
+markerFolder: ./Wyoming/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

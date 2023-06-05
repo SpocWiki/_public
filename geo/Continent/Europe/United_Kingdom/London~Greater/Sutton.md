@@ -26,7 +26,7 @@ confidential: public
 id: Sutton
 coordinates: [[Sutton]]
 markerFile: [[Sutton]]
-geojsonFolder: ./Sutton
+geojsonFolder: ./Sutton/
 defaultZoom: 11 
 maxZoom: 18
 ```

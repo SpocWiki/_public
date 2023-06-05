@@ -110,8 +110,8 @@ id: Egypt
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Egypt
-markerFolder: ./Egypt/City
+geojsonFolder: ./Egypt/
+markerFolder: ./Egypt/
 ```
 
 [name-en::Egypt]

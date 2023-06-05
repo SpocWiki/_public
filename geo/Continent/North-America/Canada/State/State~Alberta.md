@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Alberta
 geojsonFolder: ./State~Alberta/
-markerFolder: ./State~Alberta/City
+markerFolder: ./State~Alberta/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

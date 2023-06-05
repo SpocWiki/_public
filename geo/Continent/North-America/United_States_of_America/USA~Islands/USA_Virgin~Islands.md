@@ -105,8 +105,8 @@ id: Virgin Islands (U.S.)
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./USA_Virgin~Islands
-markerFolder: ./USA_Virgin~Islands/City
+geojsonFolder: ./USA_Virgin~Islands/
+markerFolder: ./USA_Virgin~Islands/
 ```
 
 [name-en::Virgin Islands (U.S.)]

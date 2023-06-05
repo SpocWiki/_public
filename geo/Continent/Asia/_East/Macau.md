@@ -107,8 +107,8 @@ id: Macau
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Macau
-markerFolder: ./Macau/City
+geojsonFolder: ./Macau/
+markerFolder: ./Macau/
 ```
 
 [name-en::Macau]

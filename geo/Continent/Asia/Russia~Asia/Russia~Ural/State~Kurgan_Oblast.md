@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Kurgan_Oblast
 geojsonFolder: ./State~Kurgan_Oblast/
-markerFolder: ./State~Kurgan_Oblast/City
+markerFolder: ./State~Kurgan_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

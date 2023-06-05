@@ -24,7 +24,7 @@ confidential: public
 ```leaflet
 id: State~Nova_Scotia
 geojsonFolder: ./State~Nova_Scotia/
-markerFolder: ./State~Nova_Scotia/City
+markerFolder: ./State~Nova_Scotia/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

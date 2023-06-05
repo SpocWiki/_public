@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Quebeck
 geojsonFolder: ./State~Quebeck/
-markerFolder: ./State~Quebeck/City
+markerFolder: ./State~Quebeck/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

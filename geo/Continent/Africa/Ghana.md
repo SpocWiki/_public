@@ -109,8 +109,8 @@ id: Ghana
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ghana
-markerFolder: ./Ghana/City
+geojsonFolder: ./Ghana/
+markerFolder: ./Ghana/
 ```
 
 [name-en::Ghana]

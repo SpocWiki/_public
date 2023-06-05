@@ -2,7 +2,7 @@ Describes [[London~Greater/City~London]] and surrounding Area.
 
 ```leaflet
 id: London
-geojsonFolder: [./London~Greater/Underground/,./London~Greater/]
+geojsonFolder: [./London~Greater/Underground/,./London~Greater/]/
 markerFolder: ./London~Greater
 zoomFeatures: true 
 minZoom: 2 

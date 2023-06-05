@@ -23,7 +23,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./State~Hamburg/
-markerFolder: ./State~Hamburg/City
+markerFolder: ./State~Hamburg/
 ```
 
 [Country:: [[Germany]] ]

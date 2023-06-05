@@ -23,7 +23,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Thüringen/
-markerFolder: ./Thüringen/City
+markerFolder: ./Thüringen/
 ```
 
 [Country::[[Germany]]]

@@ -23,7 +23,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Hessen/
-markerFolder: ./Hessen/City
+markerFolder: ./Hessen/
 ```
 
 [Country::[[Germany]]]

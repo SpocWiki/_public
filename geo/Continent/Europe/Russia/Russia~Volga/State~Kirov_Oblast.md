@@ -23,7 +23,7 @@ confidential: public
 ```leaflet
 id: State~Kirov_Oblast
 geojsonFolder: ./State~Kirov_Oblast/
-markerFolder: ./State~Kirov_Oblast/City
+markerFolder: ./State~Kirov_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -108,8 +108,8 @@ id: Libya
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Libya
-markerFolder: ./Libya/City
+geojsonFolder: ./Libya/
+markerFolder: ./Libya/
 ```
 
 [name-en::Libya]

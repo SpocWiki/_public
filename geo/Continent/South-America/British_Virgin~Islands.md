@@ -107,8 +107,8 @@ id: British Virgin Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./British_Virgin_Islands
-markerFolder: ./British_Virgin_Islands/City
+geojsonFolder: ./British_Virgin_Islands/
+markerFolder: ./British_Virgin_Islands/
 ```
 
 [name-en::British Virgin Islands]

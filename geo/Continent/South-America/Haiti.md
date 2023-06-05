@@ -109,8 +109,8 @@ id: Haiti
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Haiti
-markerFolder: ./Haiti/City
+geojsonFolder: ./Haiti/
+markerFolder: ./Haiti/
 ```
 
 [name-en::Haiti]
