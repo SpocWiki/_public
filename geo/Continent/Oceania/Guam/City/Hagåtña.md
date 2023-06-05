@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13.47917,144.75]
 mapzoom: [7,12] 
 mapmarker: city 
@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::13.47917]
 [name::Hagåtña]
 [State::]
-[Country::[[Guam]]]
+[Country::[[../../../../../Oceania/Guam]]]
 [StateId::]
 [Population::]
 [Unknown::32]

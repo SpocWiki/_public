@@ -109,7 +109,7 @@ id: Lesotho
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Lesotho
+geojsonFolder: ./Lesotho/
 markerFolder: ./Lesotho/City
 ```
 

@@ -129,8 +129,8 @@ markerFolder: ./Indonesia/City
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Indonesia.md|Indonesia]] 
-- [[../../../../_internal/geo/Continent/Oceania/Indonesia.internal.md|Indonesia.internal]] 
+-[[Indonesia 1|Indonesia]]] 
+-[[../../../../../_internal/geo/Continent/Oceania/Indonesia.internal|Indonesia.internal]]] 
 - [[../../../../_protect/geo/Continent/Oceania/Indonesia.protect.md|Indonesia.protect]] 
 - [[../../../../_private/geo/Continent/Oceania/Indonesia.private.md|Indonesia.private]] 
 - [[../../../../_personal/geo/Continent/Oceania/Indonesia.personal.md|Indonesia.personal]] 

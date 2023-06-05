@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::-7.25]
 [name::Surabaya~Java]
 [State::]
-[Country::[[Indonesia]]]
+[Country:[[../../../../Indonesia 1]]]]
 [StateId::]
 [Population::]
 [Unknown::]

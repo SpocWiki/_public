@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::-6.14]
 [name::Djakarta]
 [State::]
-[Country::[[Indonesia]]]
+[Country:[[../../../../Indonesia 1]]]]
 [StateId::]
 [Population::]
 [Unknown::]
