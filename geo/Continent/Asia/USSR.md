@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 created:
@@ -20,8 +20,8 @@ id: USSR
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./USSR
-markerFolder: ./USSR/City
+geojsonFolder: ./Russia~Asia//
+markerFolder: ./Russia~Asia//
 ```
 
 [name-en::USSR]

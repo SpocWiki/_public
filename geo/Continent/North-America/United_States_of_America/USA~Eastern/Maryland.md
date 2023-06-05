@@ -23,12 +23,10 @@ confidential: public
 [geo-lat::39.2765]
 [Population::]
 
-
-
 ```leaflet
 id: Maryland
 geojsonFolder: ./Maryland/
-markerFolder: ./Maryland/City
+markerFolder: ./Maryland//
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
