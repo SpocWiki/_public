@@ -15,7 +15,7 @@ tags:
 [geo-lat::49.58]
 [name::Abagaitul]
 [State::]
-[Country::[[../../../../_East/China]]]
+[Country::[[../../../../Asia~East/China]]]
 [StateId::]
 [Population::]
 [Unknown::]
