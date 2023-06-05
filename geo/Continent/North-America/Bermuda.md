@@ -1,6 +1,7 @@
-﻿---
+---
 location:
-- 32.3
+- 32.32
+- -64.74
 type: Country
 tags:
 - geo/Country
@@ -97,16 +98,15 @@ Languages:
 
 [	ISO3166-1-numeric	 :: 060 ]
 
-
-
 [ISO2::BM]
 [ISO3::BMU]
+
 ```leaflet
 id: Bermuda
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bermuda/
+geojsonFolder: ./Bermuda//
 markerFolder: ./Bermuda/
 ```
 
@@ -119,8 +119,8 @@ markerFolder: ./Bermuda/
 [Capital::[[Hamilton]]]
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::]
-[geo-lat::32.3]
+[geo-lon::-64.74]
+[geo-lat::32.32]
 
 
 

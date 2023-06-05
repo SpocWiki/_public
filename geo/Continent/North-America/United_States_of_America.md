@@ -21,7 +21,7 @@ id: United States of America
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./United_States_of_America/
+geojsonFolder: ./United_States_of_America//
 markerFolder: ./United_States_of_America/
 ```
 
