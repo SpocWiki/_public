@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 12.05
 - -61.75
@@ -106,7 +106,7 @@ id: Grenada
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Grenada/
+geojsonFolder: ./Grenada//
 markerFolder: ./Grenada/
 ```
 

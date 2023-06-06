@@ -15,13 +15,14 @@ confidential: public
 ---
 [ISO2::]
 [ISO3::]
+
 ```leaflet
 id: Saint Barthélemy
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint_Barthélemy/
-markerFolder: ./Saint_Barthélemy/
+geojsonFolder: ./Saint_Barthelemy/
+markerFolder: ./Saint_Barthelemy/
 ```
 
 [name-en::Saint Barthélemy]

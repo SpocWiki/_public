@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -0.23
 - -78.5
@@ -108,7 +108,7 @@ id: Ecuador
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ecuador/
+geojsonFolder: ./Ecuador//
 markerFolder: ./Ecuador/
 ```
 

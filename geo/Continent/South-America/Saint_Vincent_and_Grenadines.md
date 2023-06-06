@@ -11,13 +11,14 @@ confidential: public
 ---
 [ISO2::VC]
 [ISO3::VCT]
+
 ```leaflet
 id: Saint Vincent And The Grenadines
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint_Vincent_And_The_Grenadines/
-markerFolder: ./Saint_Vincent_And_The_Grenadines/
+geojsonFolder: ./Saint_Vincent_and_Grenadines//
+markerFolder: ./Saint_Vincent_and_Grenadines/
 ```
 
 [name-en::Saint Vincent And The Grenadines]

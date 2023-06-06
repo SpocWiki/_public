@@ -14,13 +14,14 @@ confidential: public
 ---
 [ISO2::KN]
 [ISO3::KNA]
+
 ```leaflet
 id: Saint Kitts And Nevis
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint_Kitts_And_Nevis/
-markerFolder: ./Saint_Kitts_And_Nevis/
+geojsonFolder: ./Saint_Kitts_and_Nevis~Islands//
+markerFolder: ./Saint_Kitts_and_Nevis~Islands/
 ```
 
 [name-en::Saint Kitts And Nevis]

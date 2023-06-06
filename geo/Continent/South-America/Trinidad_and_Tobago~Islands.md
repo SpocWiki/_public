@@ -11,13 +11,14 @@ confidential: public
 ---
 [ISO2::TT]
 [ISO3::TTO]
+
 ```leaflet
 id: Trinidad And Tobago
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Trinidad_And_Tobago/
-markerFolder: ./Trinidad_And_Tobago/
+geojsonFolder: ./Trinidad_and_Tobago~Islands//
+markerFolder: ./Trinidad_and_Tobago~Islands/
 ```
 
 [name-en::Trinidad And Tobago]

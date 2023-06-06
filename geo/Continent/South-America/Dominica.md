@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 15.3
 - -61.3833
@@ -102,12 +102,13 @@ Languages:
 
 [ISO2::DM]
 [ISO3::DMA]
+
 ```leaflet
 id: Dominica
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Dominica/
+geojsonFolder: ./Dominica//
 markerFolder: ./Dominica/
 ```
 

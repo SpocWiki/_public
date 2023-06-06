@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 19.4
 - -99.15
@@ -103,12 +103,13 @@ Languages:
 
 [ISO2::MX]
 [ISO3::MEX]
+
 ```leaflet
 id: Mexico
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Mexico/
+geojsonFolder: ./Mexico//
 markerFolder: ./Mexico/
 ```
 

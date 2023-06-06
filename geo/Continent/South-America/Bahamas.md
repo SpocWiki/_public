@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 25.05
 - -77.33
@@ -103,12 +103,13 @@ Languages:
 
 [ISO2::BS]
 [ISO3::BHS]
+
 ```leaflet
 id: Bahamas
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bahamas/
+geojsonFolder: ./Bahamas//
 markerFolder: ./Bahamas/
 ```
 

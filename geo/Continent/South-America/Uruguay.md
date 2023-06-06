@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -34.91
 - -56.17
@@ -107,7 +107,7 @@ id: Uruguay
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Uruguay/
+geojsonFolder: ./Uruguay//
 markerFolder: ./Uruguay/
 ```
 

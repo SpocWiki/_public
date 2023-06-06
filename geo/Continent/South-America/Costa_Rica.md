@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 9.95
 - -84.08
@@ -107,7 +107,7 @@ id: Costa Rica
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Costa_Rica/
+geojsonFolder: ./Costa_Rica//
 markerFolder: ./Costa_Rica/
 ```
 

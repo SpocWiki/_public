@@ -12,8 +12,8 @@ tags:
 id: Australia
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Australia/
-markerFolder: ./Australia/
+geojsonFolder: ./Australia///
+markerFolder: ./Australia//
 zoomFeatures: true 
 ```
 

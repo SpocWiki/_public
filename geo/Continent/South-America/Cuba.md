@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 22.13
 - -82.37
@@ -102,12 +102,13 @@ Languages:
 
 [ISO2::CU]
 [ISO3::CUB]
+
 ```leaflet
 id: Cuba
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cuba/
+geojsonFolder: ./Cuba//
 markerFolder: ./Cuba/
 ```
 

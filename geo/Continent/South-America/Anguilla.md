@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 18.2272
 - -63.049
@@ -106,7 +106,7 @@ id: Anguilla
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Anguilla/
+geojsonFolder: ./Anguilla//
 markerFolder: ./Anguilla/
 ```
 

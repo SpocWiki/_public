@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -41.28
 - 174.78
@@ -107,7 +107,7 @@ id: New Zealand
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./New_Zealand/
+geojsonFolder: ./New_Zealand//
 markerFolder: ./New_Zealand/
 ```
 

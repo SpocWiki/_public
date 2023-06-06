@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 14.1
 - -87.2167
@@ -103,12 +103,13 @@ Languages:
 
 [ISO2::HN]
 [ISO3::HND]
+
 ```leaflet
 id: Honduras
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Honduras/
+geojsonFolder: ./Honduras//
 markerFolder: ./Honduras/
 ```
 

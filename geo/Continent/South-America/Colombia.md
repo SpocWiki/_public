@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 3.525
 - -75.225
@@ -102,12 +102,13 @@ Languages:
 
 [ISO2::CO]
 [ISO3::COL]
+
 ```leaflet
 id: Colombia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Colombia/
+geojsonFolder: ./Colombia//
 markerFolder: ./Colombia/
 ```
 

@@ -28,7 +28,7 @@ aliases:
 - نيوي
 - 纽埃
 - Ниуэ
-- Niue    **
+- Niue
 Languages:
 - niu
 - en-NU

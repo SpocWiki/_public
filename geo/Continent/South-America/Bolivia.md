@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -17.7667
 - -66.7
@@ -106,12 +106,13 @@ Languages:
 
 [ISO2::BO]
 [ISO3::BOL]
+
 ```leaflet
 id: Bolivia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bolivia/
+geojsonFolder: ./Bolivia//
 markerFolder: ./Bolivia/
 ```
 

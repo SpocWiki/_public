@@ -102,13 +102,14 @@ Languages:
 
 [ISO2::VG]
 [ISO3::VGB]
+
 ```leaflet
 id: British Virgin Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./British_Virgin_Islands/
-markerFolder: ./British_Virgin_Islands/
+geojsonFolder: ./British_Virgin~Islands/
+markerFolder: ./British_Virgin~Islands/
 ```
 
 [name-en::British Virgin Islands]

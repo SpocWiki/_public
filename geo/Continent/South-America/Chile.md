@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -33.45
 - -70.67
@@ -102,12 +102,13 @@ Languages:
 
 [ISO2::CL]
 [ISO3::CHL]
+
 ```leaflet
 id: Chile
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Chile/
+geojsonFolder: ./Chile//
 markerFolder: ./Chile/
 ```
 

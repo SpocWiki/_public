@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 17.25
 - -88.7667
@@ -106,7 +106,7 @@ id: Belize
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Belize/
+geojsonFolder: ./Belize//
 markerFolder: ./Belize/
 ```
 

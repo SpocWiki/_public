@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 17.9833
 - -76.8
@@ -100,12 +100,13 @@ Languages:
 
 [ISO2::JM]
 [ISO3::JAM]
+
 ```leaflet
 id: Jamaica
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Jamaica/
+geojsonFolder: ./Jamaica//
 markerFolder: ./Jamaica/
 ```
 

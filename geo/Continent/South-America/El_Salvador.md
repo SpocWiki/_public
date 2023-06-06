@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 13.6667
 - -89.1667
@@ -106,7 +106,7 @@ id: El Salvador
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./El_Salvador/
+geojsonFolder: ./El_Salvador//
 markerFolder: ./El_Salvador/
 ```
 

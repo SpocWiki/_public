@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -12.05
 - -77.05
@@ -111,7 +111,7 @@ id: Peru
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Peru/
+geojsonFolder: ./Peru//
 markerFolder: ./Peru/
 ```
 

@@ -35,9 +35,9 @@ aliases:
 - 巴勒斯坦国
 - Государство Палестина
 - State of Palestine
-- State of Palestine  *
+- State of Palestine
 - Estado  de Palestina
-- Estado  de Palestina  *
+- Estado  de Palestina
 
 Languages: [ar-PS]
 

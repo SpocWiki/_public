@@ -102,13 +102,14 @@ Languages:
 
 [ISO2::KY]
 [ISO3::CYM]
+
 ```leaflet
 id: Cayman Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cayman_Islands/
-markerFolder: ./Cayman_Islands/
+geojsonFolder: ./Cayman~Islands/
+markerFolder: ./Cayman~Islands/
 ```
 
 [name-en::Cayman Islands]

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -34.62
 - -58.41
@@ -108,12 +108,13 @@ Languages:
 
 [ISO2::AR]
 [ISO3::ARG]
+
 ```leaflet
 id: Argentina
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Argentina/
+geojsonFolder: ./Argentina//
 markerFolder: ./Argentina/
 ```
 

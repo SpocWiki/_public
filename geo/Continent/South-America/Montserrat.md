@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 16.75
 - -62.2
@@ -105,7 +105,7 @@ id: Montserrat
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Montserrat/
+geojsonFolder: ./Montserrat//
 markerFolder: ./Montserrat/
 ```
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -20.7333
 - -45.9467
@@ -107,12 +107,13 @@ Languages:
 
 [ISO2::BR]
 [ISO3::BRA]
+
 ```leaflet
 id: Brazil
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Brazil/
+geojsonFolder: ./Brazil//
 markerFolder: ./Brazil/
 ```
 

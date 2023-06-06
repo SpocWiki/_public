@@ -55,6 +55,15 @@ Languages: [nl,pap]
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
 
+```leaflet
+id: Cuba
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Curacao//
+markerFolder: ./Curacao/
+```
+
 [	name	 :: Curaçao ]
 [	name-en	 :: Curaçao ]
 [	name-es	 :: Curaçao ]

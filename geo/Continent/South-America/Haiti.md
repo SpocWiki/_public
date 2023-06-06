@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 18.5333
 - -72.3333
@@ -109,7 +109,7 @@ id: Haiti
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Haiti/
+geojsonFolder: ./Haiti//
 markerFolder: ./Haiti/
 ```
 

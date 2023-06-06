@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -25.27
 - -57.67
@@ -108,7 +108,7 @@ id: Paraguay
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Paraguay/
+geojsonFolder: ./Paraguay//
 markerFolder: ./Paraguay/
 ```
 

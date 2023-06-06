@@ -30,9 +30,9 @@ aliases:
 - 库克群岛
 - Острова Кука
 - the Cook Islands
-- Cook Islands (the)    **
+- Cook Islands (the)
 - las Islas Cook
-- Islas Cook (las)    **
+- Islas Cook (las)
 Languages:
 - en-CK
 - mi

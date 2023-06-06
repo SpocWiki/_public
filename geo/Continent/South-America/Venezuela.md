@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 10.5
 - -66.93
@@ -104,12 +104,13 @@ Languages:
 
 [ISO2::VE]
 [ISO3::VEN]
+
 ```leaflet
 id: Venezuela
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Venezuela/
+geojsonFolder: ./Venezuela//
 markerFolder: ./Venezuela/
 ```
 

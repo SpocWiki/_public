@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 6.78
 - -58.17
@@ -101,12 +101,13 @@ Languages:
 
 [ISO2::GY]
 [ISO3::GUY]
+
 ```leaflet
 id: Guyana
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guyana/
+geojsonFolder: ./Guyana//
 markerFolder: ./Guyana/
 ```
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 12.15
 - -86.28
@@ -107,7 +107,7 @@ id: Nicaragua
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Nicaragua/
+geojsonFolder: ./Nicaragua//
 markerFolder: ./Nicaragua/
 ```
 

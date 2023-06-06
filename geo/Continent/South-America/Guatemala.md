@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 14.6333
 - -90.5
@@ -101,12 +101,13 @@ Languages:
 
 [ISO2::GT]
 [ISO3::GTM]
+
 ```leaflet
 id: Guatemala
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guatemala/
+geojsonFolder: ./Guatemala//
 markerFolder: ./Guatemala/
 ```
 

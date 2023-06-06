@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.7833,-56.1667]
 type: Country
 tags:
@@ -11,13 +11,14 @@ confidential: public
 ---
 [ISO2::PM]
 [ISO3::SPM]
+
 ```leaflet
 id: Saint-Pierre-et-Miquelon
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint-Pierre-et-Miquelon/
-markerFolder: ./Saint-Pierre-et-Miquelon/
+geojsonFolder: ./Saint-Pierre-et-Miquelon//
+markerFolder: ./Saint-Pierre-et-Miquelon///
 ```
 
 [name-en::Saint-Pierre-et-Miquelon]

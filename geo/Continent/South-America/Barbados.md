@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 13
 - -59.5333
@@ -100,12 +100,13 @@ Languages:
 
 [ISO2::BB]
 [ISO3::BRB]
+
 ```leaflet
 id: Barbados
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Barbados/
+geojsonFolder: ./Barbados//
 markerFolder: ./Barbados/
 ```
 

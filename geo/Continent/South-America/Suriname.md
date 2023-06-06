@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 5.86
 - -55.17
@@ -105,12 +105,13 @@ Languages:
 
 [ISO2::SR]
 [ISO3::SUR]
+
 ```leaflet
 id: Suriname
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Suriname/
+geojsonFolder: ./Suriname//
 markerFolder: ./Suriname/
 ```
 

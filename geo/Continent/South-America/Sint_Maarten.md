@@ -44,6 +44,8 @@ Languages: [nl,en]
 
 ---
 
+Southern of [[Saint_Martin]]
+
 [	ISO4217-currency_alphabetic	 :: ANG ]
 [	ISO4217-currency_name	 :: Netherlands Antillean Guilder ]
 [	ISO4217-currency_numeric	 :: 532 ]
@@ -62,6 +64,17 @@ Languages: [nl,en]
 [	name-cn	 :: 圣马丁(荷属) ]
 [	name-ar	 :: سانت مارتن ]
 [	name-ru	 :: Синт-Мартен ]
+
+
+```leaflet
+id: Suriname
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Sint_Maarten//
+markerFolder: ./Sint_Maarten/
+```
+
 
 [	CLDR_display_name	 :: Sint Maarten ]
 
