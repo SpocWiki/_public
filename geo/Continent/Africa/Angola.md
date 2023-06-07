@@ -107,7 +107,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Angola/
-markerFolder: ./Angola/City
+markerFolder: ./Angola/
 ```
 
 [name-en::Angola]

@@ -26,7 +26,7 @@ markerFolder: ./Hawaii/
 [Area-Land::]
 [Continent::[[Oceania]]]
 [VehicleCode::]
-[Capital::[[Honolulu]]]
+[Capital:[[../America~North/United_States_of_America/USA~Pacific/Hawaii/City/Honolulu]]]]
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::-157.796]
