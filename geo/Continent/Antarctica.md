@@ -6,9 +6,10 @@ confidential: public
 tags:
   - geo/Continent
 isDeleted: false
+isReadOnly: false
 ---
 
-
+There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica)
 ```leaflet
 id: Antarctica
 zoomFeatures: true 

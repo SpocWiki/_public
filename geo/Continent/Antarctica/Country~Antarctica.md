@@ -1,14 +1,13 @@
-﻿---
-location:
-- -90
+---
+location: [-90, 0]
 type: Country
 tags:
 - geo/Country
 SpocWebEntityId: 26834
 isDeleted: false
+isReadOnly: false
 confidential: public
 license: CC BY-SA 4.0
-isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclass: Country
 publish: true
@@ -32,6 +31,8 @@ aliases:
 Languages: []
 ---
 
+This describes the (inofficial) Country 'Antarctica'. 
+For the Continent [see Antarctica](../Antarctica)
 
 [	ISO4217-currency_alphabetic	 ::  ]
 [	ISO4217-currency_name	 :: No universal currency ]
@@ -100,6 +101,7 @@ Languages: []
 
 [ISO2::AQ]
 [ISO3::ATA]
+
 ```leaflet
 id: Antarctica
 zoomFeatures: true 
@@ -113,7 +115,7 @@ markerFolder: ./Antarctica/
 [name-de::Antarktis]
 [Area-Total::0]
 [Area-Land::0]
-[Continent::[[Antarctica]]]
+[Continent::[[../Antarctica]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
@@ -124,9 +126,9 @@ markerFolder: ./Antarctica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Antarctica/Antarctica.md|Antarctica]] 
-- [[../../../../_internal/geo/Continent/Antarctica/Antarctica.internal.md|Antarctica.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/Antarctica.protect.md|Antarctica.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/Antarctica.private.md|Antarctica.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/Antarctica.personal.md|Antarctica.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/Antarctica.secret.md|Antarctica.secret]] 
+- [[Country~Antarctica|Antarctica]] 
+- [[../../../../_internal/geo/Continent/Antarctica/Country~Antarctica.internal|Country~Antarctica.internal]] 
+- [[../../../../_protect/geo/Continent/Antarctica/Country~Antarctica.protect.md|Country~Antarctica.protect]] 
+- [[../../../../_private/geo/Continent/Antarctica/Country~Antarctica.private.md|Country~Antarctica.private]] 
+- [[../../../../_personal/geo/Continent/Antarctica/Country~Antarctica.personal.md|Country~Antarctica.personal]] 
+- [[../../../../_secret/geo/Continent/Antarctica/Country~Antarctica.secret.md|Country~Antarctica.secret]] 

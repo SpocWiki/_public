@@ -24,7 +24,7 @@ markerFolder: ./Heard_and_Mc_Donald~Islands/
 [name-de::Heard und McDonald Inseln]
 [Area-Total::0]
 [Area-Land::0]
-[Continent::[[Antarctica]]]
+[Continent::[[../Antarctica]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
