@@ -25,8 +25,8 @@ markerFolder: ./Europe/City/
 [name-de::Europa]
 [ #has/_code  :: EU ]
 
-Many european Countries have joined the European Union which started out as an Economic Union 
-after WW
+Many european Countries have joined the European Union which started out as an the Montan-Union
+after WW2 and developed into the Economic Union. 
 
 ![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)
 
@@ -38,9 +38,9 @@ after WW
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/Europe.md|Europe]] 
-- [[../../../_internal/geo/Continent/Europe.internal.md|Europe.internal]] 
-- [[../../../_protect/geo/Continent/Europe.protect.md|Europe.protect]] 
-- [[../../../_private/geo/Continent/Europe.private.md|Europe.private]] 
-- [[../../../_personal/geo/Continent/Europe.personal.md|Europe.personal]] 
-- [[../../../_secret/geo/Continent/Europe.secret.md|Europe.secret]] 
+- [[_public/geo/Continent/Europe.md|Europe]] 
+- [[_internal/geo/Continent/Europe.internal.md|Europe.internal]] 
+- [[_protect/geo/Continent/Europe.protect.md|Europe.protect]] 
+- [[_private/geo/Continent/Europe.private.md|Europe.private]] 
+- [[_personal/geo/Continent/Europe.personal.md|Europe.personal]] 
+- [[_secret/geo/Continent/Europe.secret.md|Europe.secret]] 

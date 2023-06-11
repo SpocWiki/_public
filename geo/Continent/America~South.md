@@ -26,9 +26,9 @@ zoomFeatures: false
 [ #has/_code  :: SA ]
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/South-America.md|South-America]] 
-- [[../../../_internal/geo/Continent/South-America.internal.md|South-America.internal]] 
-- [[../../../_protect/geo/Continent/South-America.protect.md|South-America.protect]] 
-- [[../../../_private/geo/Continent/South-America.private.md|South-America.private]] 
-- [[../../../_personal/geo/Continent/South-America.personal.md|South-America.personal]] 
-- [[../../../_secret/geo/Continent/South-America.secret.md|South-America.secret]] 
+- [[../../../_public/geo/Continent/America~South.md|America~South]] 
+- [[../../../_internal/geo/Continent/America~South.internal.md|America~South.internal]] 
+- [[_protect/geo/Continent/America~South.protect.md|America~South.protect]] 
+- [[_private/geo/Continent/America~South.private.md|America~South.private]] 
+- [[_personal/geo/Continent/America~South.personal.md|America~South.personal]] 
+- [[_secret/geo/Continent/America~South.secret.md|America~South.secret]] 

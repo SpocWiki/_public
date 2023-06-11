@@ -1,7 +1,5 @@
-﻿---
-location:
-- -6
-- 71.5
+---
+location: [-6.2,71.3]
 type: Country
 tags:
 - geo/Country
