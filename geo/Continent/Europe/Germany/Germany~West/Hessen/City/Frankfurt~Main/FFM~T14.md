@@ -1,7 +1,38 @@
+﻿---
+location: [ 50.10258 , 8.689552 ] 
+type: geo-Region
+title: FFM~T14
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- FFM~T14
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# FFM~T14
+
 Straßen-Bahn in [[../Frankfurt~Main]] 
 
 ```leaflet
-id: FFM~-T14
+id: FFM~T14
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18

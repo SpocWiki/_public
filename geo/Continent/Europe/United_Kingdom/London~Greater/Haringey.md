@@ -1,3 +1,42 @@
+﻿---
+location: [ 51.6 , -0.1 ] 
+type: geo-Region
+title: Haringey
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Haringey
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Haringey
+
+```leaflet
+id: Haringey
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Haringey/
+markerFolder: ./Haringey/
+```
 
 > The London Borough of **Haringey** (pronounced  (listen) HARR-ing-gay, same as Harringay) is a London borough in North London, classified by some definitions as part of Inner London, and by others as part of Outer London. It was created in 1965 by the amalgamation of three former boroughs. It shares borders with six other London boroughs. Clockwise from the north, they are: Enfield, Waltham Forest, Hackney, Islington, Camden, and Barnet.
 >
@@ -5,12 +44,13 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/London%20Borough%20of%20Haringey)
 
-```leaflet
-id: London
-geojsonFolder: [./Haringey/]/
-markerFolder: ./Haringey/
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.md|Haringey]] 
+- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.internal.md|Haringey.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.protect.md|Haringey.protect]] 
+- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.private.md|Haringey.private]] 
+- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.personal.md|Haringey.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Haringey.secret.md|Haringey.secret]] 
 

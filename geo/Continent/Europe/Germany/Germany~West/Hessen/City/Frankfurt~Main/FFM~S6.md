@@ -1,3 +1,34 @@
+﻿---
+location: [ 50.1787 , 8.733477 ] 
+type: geo-Region
+title: FFM~S6
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- FFM~S6
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# FFM~S6
+
 S-Bahn in [[../Frankfurt~Main]] 
 
 # Stations: 
@@ -18,7 +49,7 @@ S-Bahn in [[../Frankfurt~Main]]
 14) [[Station/S-Frankfurt~Main_Hbf_tief]] 
 
 ```leaflet
-id: FFM~-S6
+id: FFM~S6
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18

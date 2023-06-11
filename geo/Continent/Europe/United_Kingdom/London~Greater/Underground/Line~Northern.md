@@ -1,3 +1,34 @@
+﻿---
+location: [ 51.5441 , -0.1538 ] 
+type: geo-Region
+title: Line~Northern
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Line~Northern
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Line~Northern
+
 Subway-Line in [[../../City/City~London]] 
 
 > The **Northern Line** is a London Underground line that runs from North London to South London. It is printed in black on the Tube map. The Northern line is unique on the Underground network in having two different routes through central London, two southern branches and two northern branches. Despite its name, it does not serve the northernmost stations on the Underground, though it does serve the southernmost station at Morden, the terminus of one of the two southern branches.
@@ -12,7 +43,7 @@ Subway-Line in [[../../City/City~London]]
 
 
 ```leaflet
-id: FFM~-U1
+id: Line~Northern
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18

@@ -1,3 +1,34 @@
+﻿---
+location: [ 50.06882 , 8.530139 ] 
+type: geo-Region
+title: FFM~S8
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- FFM~S8
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# FFM~S8
+
 S-Bahn in [[../Frankfurt~Main]] 
 
 # Stations: 
@@ -19,7 +50,7 @@ S-Bahn in [[../Frankfurt~Main]]
 16) [[Station/S-Frankfurt~Main_Hbf_tief]] 
 
 ```leaflet
-id: FFM~-S8
+id: FFM~S8
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18

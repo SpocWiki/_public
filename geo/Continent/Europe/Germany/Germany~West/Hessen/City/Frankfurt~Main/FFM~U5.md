@@ -1,8 +1,39 @@
+﻿---
+location: [ 50.1316 , 8.683598 ] 
+type: geo-Region
+title: FFM~U5
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- FFM~U5
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# FFM~U5
+
 S-Bahn in [[../Frankfurt~Main]] 
 
 
 ```leaflet
-id: FFM~-U5
+id: FFM~U5
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18

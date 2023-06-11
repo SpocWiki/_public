@@ -1,7 +1,38 @@
+﻿---
+location: [ 51.5098 , -0.0766 ] 
+type: geo-Region
+title: Line~District
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Line~District
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Line~District
+
 Subway Line in [[../../City/City~London]] 
 
 ```leaflet
-id: FFM~-U1
+id: Line~District
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18

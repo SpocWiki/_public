@@ -1,8 +1,39 @@
+﻿---
+location: [ 50.1141 , 8.688 ] 
+type: geo-Region
+title: FFM~U7
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- FFM~U7
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# FFM~U7
+
 S-Bahn in [[../Frankfurt~Main]] 
 
 
 ```leaflet
-id: FFM~-U7
+id: FFM~U7
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18

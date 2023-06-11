@@ -1,3 +1,34 @@
+﻿---
+location: [ 50.09417 , 8.60611 ] 
+type: geo-Region
+title: FFM~S1
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- FFM~S1
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# FFM~S1
+
 S-Bahn in [[../Frankfurt~Main]]
 
 # Stations
@@ -15,7 +46,7 @@ S-Bahn in [[../Frankfurt~Main]]
 12) [[Station/S-Frankfurt-Griesheim]] 
 
 ```leaflet
-id: FFM~-S1
+id: FFM~S1
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18

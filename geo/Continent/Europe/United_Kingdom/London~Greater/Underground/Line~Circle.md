@@ -1,3 +1,34 @@
+﻿---
+location: [ 51.5226 , -0.1571 ] 
+type: geo-Region
+title: Line~Circle
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Line~Circle
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Line~Circle
+
 Subway Line in [[../../City/City~London]]
 
 > The Circle line is a spiral-shaped London Underground line, running from Hammersmith in the west to Edgware Road and then looping around central London back to Edgware Road. The railway is below ground in the central section and on the loop east of Paddington. Unlike London's deep-level lines, the Circle line tunnels are just below the surface and are of similar size to those on British main lines. Printed in yellow on the Tube map, the 17-mile (27 km) line serves 36 stations, including most of London's main line termini. Almost all of the route, and all the stations, are shared with one or more of the three other Sub~surface lines, namely the District, Hammersmith & City and Metropolitan lines. On the Circle and Hammersmith & City lines combined, over 114 million passenger journeys were recorded in 2011/12.
@@ -12,7 +43,7 @@ Subway Line in [[../../City/City~London]]
 
 
 ```leaflet
-id: FFM~-U1
+id: Line~Circle
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18
