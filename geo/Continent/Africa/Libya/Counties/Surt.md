@@ -1,0 +1,49 @@
+﻿---
+location: [ 29.9 , 17.6 ] 
+type: geo-Region
+title: Surt
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Surt
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Surt
+
+```leaflet
+id: Surt
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Surt/
+markerFolder: ./Surt/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Libya/Counties/Surt.md|Surt]] 
+- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Surt.internal.md|Surt.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Surt.protect.md|Surt.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Surt.private.md|Surt.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Surt.personal.md|Surt.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Surt.secret.md|Surt.secret]] 
+

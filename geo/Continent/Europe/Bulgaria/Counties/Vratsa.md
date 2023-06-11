@@ -1,0 +1,49 @@
+﻿---
+location: [ 43.4 , 23.8 ] 
+type: geo-Region
+title: Vratsa
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Vratsa
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Vratsa
+
+```leaflet
+id: Vratsa
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Vratsa/
+markerFolder: ./Vratsa/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Vratsa.md|Vratsa]] 
+- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Vratsa.internal.md|Vratsa.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Vratsa.protect.md|Vratsa.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Vratsa.private.md|Vratsa.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Vratsa.personal.md|Vratsa.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Vratsa.secret.md|Vratsa.secret]] 
+

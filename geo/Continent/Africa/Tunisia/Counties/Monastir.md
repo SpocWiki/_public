@@ -1,0 +1,49 @@
+﻿---
+location: [ 35.6 , 10.8 ] 
+type: geo-Region
+title: Monastir
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Monastir
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Monastir
+
+```leaflet
+id: Monastir
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Monastir/
+markerFolder: ./Monastir/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Monastir.md|Monastir]] 
+- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Monastir.internal.md|Monastir.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Monastir.protect.md|Monastir.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Monastir.private.md|Monastir.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Monastir.personal.md|Monastir.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Monastir.secret.md|Monastir.secret]] 
+

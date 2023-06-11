@@ -1,0 +1,49 @@
+﻿---
+location: [ 39.1 , 45.7 ] 
+type: geo-Region
+title: Culfa
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Culfa
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Culfa
+
+```leaflet
+id: Culfa
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Culfa/
+markerFolder: ./Culfa/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.md|Culfa]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.internal.md|Culfa.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.protect.md|Culfa.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.private.md|Culfa.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.personal.md|Culfa.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.secret.md|Culfa.secret]] 
+

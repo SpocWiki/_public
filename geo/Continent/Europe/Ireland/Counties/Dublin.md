@@ -1,0 +1,49 @@
+﻿---
+location: [ 53.4 , -6.3 ] 
+type: geo-Region
+title: Dublin
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Dublin
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Dublin
+
+```leaflet
+id: Dublin
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Dublin/
+markerFolder: ./Dublin/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Dublin.md|Dublin]] 
+- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Dublin.internal.md|Dublin.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Dublin.protect.md|Dublin.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Dublin.private.md|Dublin.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Dublin.personal.md|Dublin.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Dublin.secret.md|Dublin.secret]] 
+

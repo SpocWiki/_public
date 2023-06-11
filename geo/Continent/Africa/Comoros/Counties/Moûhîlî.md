@@ -1,0 +1,49 @@
+﻿---
+location: [ -12.3 , 43.7 ] 
+type: geo-Region
+title: Moûhîlî
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Moûhîlî
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Moûhîlî
+
+```leaflet
+id: Moûhîlî
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Moûhîlî/
+markerFolder: ./Moûhîlî/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Comoros/Counties/Moûhîlî.md|Moûhîlî]] 
+- [[../../../../_internal/geo/Continent/Africa/Comoros/Counties/Moûhîlî.internal.md|Moûhîlî.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Comoros/Counties/Moûhîlî.protect.md|Moûhîlî.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Comoros/Counties/Moûhîlî.private.md|Moûhîlî.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Comoros/Counties/Moûhîlî.personal.md|Moûhîlî.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Comoros/Counties/Moûhîlî.secret.md|Moûhîlî.secret]] 
+

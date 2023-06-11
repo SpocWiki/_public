@@ -1,0 +1,49 @@
+﻿---
+location: [ 29.5 , 47.4 ] 
+type: geo-Region
+title: Al_Jahrah
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Al_Jahrah
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Al_Jahrah
+
+```leaflet
+id: Al_Jahrah
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Al_Jahrah/
+markerFolder: ./Al_Jahrah/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.md|Al_Jahrah]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.internal.md|Al_Jahrah.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.protect.md|Al_Jahrah.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.private.md|Al_Jahrah.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.personal.md|Al_Jahrah.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.secret.md|Al_Jahrah.secret]] 
+

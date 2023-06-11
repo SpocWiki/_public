@@ -1,0 +1,49 @@
+﻿---
+location: [ 40.3 , 24.2 ] 
+type: geo-Region
+title: Ayion_Oros
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Ayion_Oros
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Ayion_Oros
+
+```leaflet
+id: Ayion_Oros
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Ayion_Oros/
+markerFolder: ./Ayion_Oros/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Ayion_Oros.md|Ayion_Oros]] 
+- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Ayion_Oros.internal.md|Ayion_Oros.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Ayion_Oros.protect.md|Ayion_Oros.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Ayion_Oros.private.md|Ayion_Oros.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Ayion_Oros.personal.md|Ayion_Oros.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Ayion_Oros.secret.md|Ayion_Oros.secret]] 
+

@@ -1,0 +1,49 @@
+﻿---
+location: [ 19.4 , -70 ] 
+type: geo-Region
+title: María_Trinidad_Sánchez
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- María_Trinidad_Sánchez
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# María_Trinidad_Sánchez
+
+```leaflet
+id: María_Trinidad_Sánchez
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./María_Trinidad_Sánchez/
+markerFolder: ./María_Trinidad_Sánchez/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.md|María_Trinidad_Sánchez]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.internal.md|María_Trinidad_Sánchez.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.protect.md|María_Trinidad_Sánchez.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.private.md|María_Trinidad_Sánchez.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.personal.md|María_Trinidad_Sánchez.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.secret.md|María_Trinidad_Sánchez.secret]] 
+

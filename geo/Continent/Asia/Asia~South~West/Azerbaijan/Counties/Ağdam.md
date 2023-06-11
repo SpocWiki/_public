@@ -1,0 +1,49 @@
+﻿---
+location: [ 40 , 46.9 ] 
+type: geo-Region
+title: Ağdam
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Ağdam
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Ağdam
+
+```leaflet
+id: Ağdam
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Ağdam/
+markerFolder: ./Ağdam/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.md|Ağdam]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.internal.md|Ağdam.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.protect.md|Ağdam.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.private.md|Ağdam.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.personal.md|Ağdam.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.secret.md|Ağdam.secret]] 
+

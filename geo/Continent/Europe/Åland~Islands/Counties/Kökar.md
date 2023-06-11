@@ -1,0 +1,49 @@
+﻿---
+location: [ 59.94 , 20.95 ] 
+type: geo-Region
+title: Kökar
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Kökar
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Kökar
+
+```leaflet
+id: Kökar
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Kökar/
+markerFolder: ./Kökar/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Kökar.md|Kökar]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Kökar.internal.md|Kökar.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Kökar.protect.md|Kökar.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Kökar.private.md|Kökar.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Kökar.personal.md|Kökar.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Kökar.secret.md|Kökar.secret]] 
+

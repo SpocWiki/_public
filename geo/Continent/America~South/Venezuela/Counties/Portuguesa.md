@@ -1,0 +1,49 @@
+﻿---
+location: [ 9 , -69.4 ] 
+type: geo-Region
+title: Portuguesa
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Portuguesa
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Portuguesa
+
+```leaflet
+id: Portuguesa
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Portuguesa/
+markerFolder: ./Portuguesa/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Portuguesa.md|Portuguesa]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Portuguesa.internal.md|Portuguesa.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Portuguesa.protect.md|Portuguesa.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Portuguesa.private.md|Portuguesa.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Portuguesa.personal.md|Portuguesa.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Portuguesa.secret.md|Portuguesa.secret]] 
+

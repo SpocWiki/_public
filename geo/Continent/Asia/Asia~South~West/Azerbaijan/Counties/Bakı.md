@@ -1,0 +1,49 @@
+﻿---
+location: [ 40.1 , 49.4 ] 
+type: geo-Region
+title: Bakı
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Bakı
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Bakı
+
+```leaflet
+id: Bakı
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Bakı/
+markerFolder: ./Bakı/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.md|Bakı]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.internal.md|Bakı.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.protect.md|Bakı.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.private.md|Bakı.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.personal.md|Bakı.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.secret.md|Bakı.secret]] 
+

@@ -1,0 +1,49 @@
+﻿---
+location: [ -17.7 , 168.4 ] 
+type: geo-Region
+title: Shefa
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Shefa
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Shefa
+
+```leaflet
+id: Shefa
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Shefa/
+markerFolder: ./Shefa/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Oceania/Vanuatu/Counties/Shefa.md|Shefa]] 
+- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Shefa.internal.md|Shefa.internal]] 
+- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Shefa.protect.md|Shefa.protect]] 
+- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Shefa.private.md|Shefa.private]] 
+- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Shefa.personal.md|Shefa.personal]] 
+- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Shefa.secret.md|Shefa.secret]] 
+

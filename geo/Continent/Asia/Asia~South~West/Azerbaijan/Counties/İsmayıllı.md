@@ -1,0 +1,49 @@
+﻿---
+location: [ 40.8 , 48.2 ] 
+type: geo-Region
+title: İsmayıllı
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- İsmayıllı
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# İsmayıllı
+
+```leaflet
+id: İsmayıllı
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./İsmayıllı/
+markerFolder: ./İsmayıllı/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.md|İsmayıllı]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.internal.md|İsmayıllı.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.protect.md|İsmayıllı.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.private.md|İsmayıllı.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.personal.md|İsmayıllı.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.secret.md|İsmayıllı.secret]] 
+

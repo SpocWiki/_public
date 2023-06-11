@@ -1,0 +1,49 @@
+﻿---
+location: [ 42.6 , 21.4 ] 
+type: geo-Region
+title: Novo_Brdo
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Novo_Brdo
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Novo_Brdo
+
+```leaflet
+id: Novo_Brdo
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Novo_Brdo/
+markerFolder: ./Novo_Brdo/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.md|Novo_Brdo]] 
+- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.internal.md|Novo_Brdo.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.protect.md|Novo_Brdo.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.private.md|Novo_Brdo.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.personal.md|Novo_Brdo.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.secret.md|Novo_Brdo.secret]] 
+

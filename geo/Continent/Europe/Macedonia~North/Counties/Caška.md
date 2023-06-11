@@ -1,0 +1,49 @@
+﻿---
+location: [ 41.6 , 21.6 ] 
+type: geo-Region
+title: Caška
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Caška
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Caška
+
+```leaflet
+id: Caška
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Caška/
+markerFolder: ./Caška/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Caška.md|Caška]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Caška.internal.md|Caška.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Caška.protect.md|Caška.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Caška.private.md|Caška.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Caška.personal.md|Caška.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Caška.secret.md|Caška.secret]] 
+

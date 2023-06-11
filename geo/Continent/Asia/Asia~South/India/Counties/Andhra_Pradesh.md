@@ -1,0 +1,49 @@
+﻿---
+location: [ 16.3 , 79.4 ] 
+type: geo-Region
+title: Andhra_Pradesh
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Andhra_Pradesh
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Andhra_Pradesh
+
+```leaflet
+id: Andhra_Pradesh
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Andhra_Pradesh/
+markerFolder: ./Andhra_Pradesh/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.md|Andhra_Pradesh]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.internal.md|Andhra_Pradesh.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.protect.md|Andhra_Pradesh.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.private.md|Andhra_Pradesh.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.personal.md|Andhra_Pradesh.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.secret.md|Andhra_Pradesh.secret]] 
+

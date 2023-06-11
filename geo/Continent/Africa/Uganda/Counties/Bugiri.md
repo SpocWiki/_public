@@ -1,0 +1,49 @@
+﻿---
+location: [ 0.5 , 33.8 ] 
+type: geo-Region
+title: Bugiri
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Bugiri
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Bugiri
+
+```leaflet
+id: Bugiri
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Bugiri/
+markerFolder: ./Bugiri/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Bugiri.md|Bugiri]] 
+- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bugiri.internal.md|Bugiri.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bugiri.protect.md|Bugiri.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bugiri.private.md|Bugiri.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bugiri.personal.md|Bugiri.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bugiri.secret.md|Bugiri.secret]] 
+

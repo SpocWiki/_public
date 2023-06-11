@@ -1,0 +1,49 @@
+﻿---
+location: [ 41.23 , 20.56 ] 
+type: geo-Region
+title: Vevčani
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Vevčani
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Vevčani
+
+```leaflet
+id: Vevčani
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Vevčani/
+markerFolder: ./Vevčani/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.md|Vevčani]] 
+- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.internal.md|Vevčani.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.protect.md|Vevčani.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.private.md|Vevčani.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.personal.md|Vevčani.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Vevčani.secret.md|Vevčani.secret]] 
+

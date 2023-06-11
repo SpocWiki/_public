@@ -1,0 +1,49 @@
+﻿---
+location: [ 29.6 , 82.5 ] 
+type: geo-Region
+title: Karnali
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Karnali
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Karnali
+
+```leaflet
+id: Karnali
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Karnali/
+markerFolder: ./Karnali/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.md|Karnali]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.internal.md|Karnali.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.protect.md|Karnali.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.private.md|Karnali.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.personal.md|Karnali.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.secret.md|Karnali.secret]] 
+

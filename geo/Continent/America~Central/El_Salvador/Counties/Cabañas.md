@@ -1,0 +1,49 @@
+﻿---
+location: [ 13.9 , -88.7 ] 
+type: geo-Region
+title: Cabañas
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Cabañas
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Cabañas
+
+```leaflet
+id: Cabañas
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Cabañas/
+markerFolder: ./Cabañas/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.md|Cabañas]] 
+- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.internal.md|Cabañas.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.protect.md|Cabañas.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.private.md|Cabañas.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.personal.md|Cabañas.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.secret.md|Cabañas.secret]] 
+

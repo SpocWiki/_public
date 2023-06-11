@@ -1,0 +1,49 @@
+﻿---
+location: [ 35.1 , 134.8 ] 
+type: geo-Region
+title: Hyōgo
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Hyōgo
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Hyōgo
+
+```leaflet
+id: Hyōgo
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Hyōgo/
+markerFolder: ./Hyōgo/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.md|Hyōgo]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.internal.md|Hyōgo.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.protect.md|Hyōgo.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.private.md|Hyōgo.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.personal.md|Hyōgo.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.secret.md|Hyōgo.secret]] 
+

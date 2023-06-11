@@ -1,0 +1,49 @@
+﻿---
+location: [ 56.5 , 27.1 ] 
+type: geo-Region
+title: Rezeknes
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Rezeknes
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Rezeknes
+
+```leaflet
+id: Rezeknes
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Rezeknes/
+markerFolder: ./Rezeknes/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Rezeknes.md|Rezeknes]] 
+- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rezeknes.internal.md|Rezeknes.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rezeknes.protect.md|Rezeknes.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rezeknes.private.md|Rezeknes.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rezeknes.personal.md|Rezeknes.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rezeknes.secret.md|Rezeknes.secret]] 
+

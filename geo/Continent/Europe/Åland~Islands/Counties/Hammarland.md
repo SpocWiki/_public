@@ -1,0 +1,49 @@
+﻿---
+location: [ 60.2 , 19.7 ] 
+type: geo-Region
+title: Hammarland
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Hammarland
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Hammarland
+
+```leaflet
+id: Hammarland
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Hammarland/
+markerFolder: ./Hammarland/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.md|Hammarland]] 
+- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.internal.md|Hammarland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.protect.md|Hammarland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.private.md|Hammarland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.personal.md|Hammarland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Hammarland.secret.md|Hammarland.secret]] 
+

@@ -1,0 +1,49 @@
+﻿---
+location: [ 8.4 , 80.4 ] 
+type: geo-Region
+title: Anurādhapura
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Anurādhapura
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Anurādhapura
+
+```leaflet
+id: Anurādhapura
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Anurādhapura/
+markerFolder: ./Anurādhapura/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.md|Anurādhapura]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.internal.md|Anurādhapura.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.protect.md|Anurādhapura.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.private.md|Anurādhapura.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.personal.md|Anurādhapura.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.secret.md|Anurādhapura.secret]] 
+
