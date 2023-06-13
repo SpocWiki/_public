@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 18.08 , -63.06 ] 
 
 type: Country
 tags:

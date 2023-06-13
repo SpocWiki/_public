@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -18.2 , 19.5 ] 
 type: geo-Region
 title: Kavango

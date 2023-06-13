@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::-12.78056]
 [name::Mamoudzou]
 [State::]
-[Country::[[Mayotte]]]
+[Country:[[../../Mayotte]]]]
 [StateId::]
 [Population::]
 [Unknown::32]

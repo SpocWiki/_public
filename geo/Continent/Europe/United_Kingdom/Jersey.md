@@ -1,6 +1,5 @@
----
-location:
-- 49.19
+﻿---
+location: [ 49.2 , -2.1 ] 
 type: Country
 tags:
 - geo/Country

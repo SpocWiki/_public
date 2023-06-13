@@ -1,4 +1,5 @@
 ﻿---
+location: [ -54.4 , -36.5 ] 
 
 type: Country
 tags:

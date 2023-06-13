@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 47.2 , 9.9 ] 
 
 type: State
 tags:

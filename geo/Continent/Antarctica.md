@@ -1,4 +1,5 @@
----
+﻿---
+location: [ -77 , 66 ] 
 type: Continent
 SpocWebEntityId: 27159
 confidential: public
