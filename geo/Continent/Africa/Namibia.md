@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -22.57
 - 17.1
@@ -111,8 +111,8 @@ id: Namibia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Namibia/
-markerFolder: ./Namibia/
+geojsonFolder: ./Namibia//
+markerFolder: ./Namibia//
 ```
 
 [name-en::Namibia]
