@@ -1,0 +1,49 @@
+﻿---
+location: [ 63.3 , 14.2 ] 
+type: geo-Region
+title: Jämtland
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Jämtland
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Jämtland
+
+```leaflet
+id: Jämtland
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Jämtland/
+markerFolder: ./Jämtland/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Jämtland.md|Jämtland]] 
+- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Jämtland.internal.md|Jämtland.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Jämtland.protect.md|Jämtland.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Jämtland.private.md|Jämtland.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Jämtland.personal.md|Jämtland.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Jämtland.secret.md|Jämtland.secret]] 
+

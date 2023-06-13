@@ -1,0 +1,49 @@
+﻿---
+location: [ 6.9 , 40.4 ] 
+type: geo-Region
+title: Oromiya
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Oromiya
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Oromiya
+
+```leaflet
+id: Oromiya
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Oromiya/
+markerFolder: ./Oromiya/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Oromiya.md|Oromiya]] 
+- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Oromiya.internal.md|Oromiya.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Oromiya.protect.md|Oromiya.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Oromiya.private.md|Oromiya.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Oromiya.personal.md|Oromiya.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Oromiya.secret.md|Oromiya.secret]] 
+

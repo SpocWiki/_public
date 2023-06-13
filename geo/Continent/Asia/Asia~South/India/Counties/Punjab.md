@@ -1,0 +1,49 @@
+﻿---
+location: [ 31 , 75.6 ] 
+type: geo-Region
+title: Punjab
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Punjab
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Punjab
+
+```leaflet
+id: Punjab
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Punjab/
+markerFolder: ./Punjab/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Punjab.md|Punjab]] 
+- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Punjab.internal.md|Punjab.internal]] 
+- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Punjab.protect.md|Punjab.protect]] 
+- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Punjab.private.md|Punjab.private]] 
+- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Punjab.personal.md|Punjab.personal]] 
+- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Punjab.secret.md|Punjab.secret]] 
+

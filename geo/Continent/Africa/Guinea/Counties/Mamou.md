@@ -1,0 +1,49 @@
+﻿---
+location: [ 10.6 , -11.9 ] 
+type: geo-Region
+title: Mamou
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Mamou
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Mamou
+
+```leaflet
+id: Mamou
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Mamou/
+markerFolder: ./Mamou/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Mamou.md|Mamou]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Mamou.internal.md|Mamou.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Mamou.protect.md|Mamou.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Mamou.private.md|Mamou.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Mamou.personal.md|Mamou.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Mamou.secret.md|Mamou.secret]] 
+

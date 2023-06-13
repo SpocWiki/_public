@@ -1,0 +1,49 @@
+﻿---
+location: [ 1.5 , 17.4 ] 
+type: geo-Region
+title: Likouala
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Likouala
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Likouala
+
+```leaflet
+id: Likouala
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Likouala/
+markerFolder: ./Likouala/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.md|Likouala]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.internal.md|Likouala.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.protect.md|Likouala.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.private.md|Likouala.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.personal.md|Likouala.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.secret.md|Likouala.secret]] 
+

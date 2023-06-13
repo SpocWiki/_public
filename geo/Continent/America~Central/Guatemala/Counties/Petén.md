@@ -1,0 +1,49 @@
+﻿---
+location: [ 16.8 , -90 ] 
+type: geo-Region
+title: Petén
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Petén
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Petén
+
+```leaflet
+id: Petén
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Petén/
+markerFolder: ./Petén/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Petén.md|Petén]] 
+- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Petén.internal.md|Petén.internal]] 
+- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Petén.protect.md|Petén.protect]] 
+- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Petén.private.md|Petén.private]] 
+- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Petén.personal.md|Petén.personal]] 
+- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Petén.secret.md|Petén.secret]] 
+

@@ -1,0 +1,49 @@
+﻿---
+location: [ 8.8 , -66.4 ] 
+type: geo-Region
+title: Guárico
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Guárico
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Guárico
+
+```leaflet
+id: Guárico
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Guárico/
+markerFolder: ./Guárico/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Guárico.md|Guárico]] 
+- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Guárico.internal.md|Guárico.internal]] 
+- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Guárico.protect.md|Guárico.protect]] 
+- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Guárico.private.md|Guárico.private]] 
+- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Guárico.personal.md|Guárico.personal]] 
+- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Guárico.secret.md|Guárico.secret]] 
+
