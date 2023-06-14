@@ -1,0 +1,49 @@
+﻿---
+location: [ -25.1 , 22.3 ] 
+type: geo-Region
+title: Kgalagadi
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Kgalagadi
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Kgalagadi
+
+```leaflet
+id: Kgalagadi
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Kgalagadi/
+markerFolder: ./Kgalagadi/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Kgalagadi.md|Kgalagadi]] 
+- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Kgalagadi.internal.md|Kgalagadi.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Kgalagadi.protect.md|Kgalagadi.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Kgalagadi.private.md|Kgalagadi.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Kgalagadi.personal.md|Kgalagadi.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Kgalagadi.secret.md|Kgalagadi.secret]] 
+

@@ -1,0 +1,49 @@
+﻿---
+location: [ 11.7 , -11.6 ] 
+type: geo-Region
+title: Koubia
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Koubia
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Koubia
+
+```leaflet
+id: Koubia
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Koubia/
+markerFolder: ./Koubia/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Koubia.md|Koubia]] 
+- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Koubia.internal.md|Koubia.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Koubia.protect.md|Koubia.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Koubia.private.md|Koubia.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Koubia.personal.md|Koubia.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Koubia.secret.md|Koubia.secret]] 
+

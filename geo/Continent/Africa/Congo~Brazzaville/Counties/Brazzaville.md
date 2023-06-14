@@ -1,0 +1,49 @@
+﻿---
+location: [ -4 , 15.4 ] 
+type: geo-Region
+title: Brazzaville
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Brazzaville
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Brazzaville
+
+```leaflet
+id: Brazzaville
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Brazzaville/
+markerFolder: ./Brazzaville/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.md|Brazzaville]] 
+- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.internal.md|Brazzaville.internal]] 
+- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.protect.md|Brazzaville.protect]] 
+- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.private.md|Brazzaville.private]] 
+- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.personal.md|Brazzaville.personal]] 
+- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Brazzaville.secret.md|Brazzaville.secret]] 
+

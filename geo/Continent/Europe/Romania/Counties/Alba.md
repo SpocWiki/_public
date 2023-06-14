@@ -1,0 +1,49 @@
+﻿---
+location: [ 46 , 23.5 ] 
+type: geo-Region
+title: Alba
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Alba
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Alba
+
+```leaflet
+id: Alba
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Alba/
+markerFolder: ./Alba/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Alba.md|Alba]] 
+- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Alba.internal.md|Alba.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Alba.protect.md|Alba.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Alba.private.md|Alba.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Alba.personal.md|Alba.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Alba.secret.md|Alba.secret]] 
+
