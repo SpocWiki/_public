@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -13.8333
 - -171.75
@@ -107,8 +107,8 @@ id: Samoa
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Samoa/
-markerFolder: ./Samoa/
+geojsonFolder: ./Samoa//
+markerFolder: ./Samoa//
 ```
 
 [name-en::Samoa]

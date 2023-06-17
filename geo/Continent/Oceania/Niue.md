@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -19.0589
 - -169.875
@@ -102,6 +102,7 @@ Languages:
 
 [ISO2::NU]
 [ISO3::NIU]
+
 ```leaflet
 id: Niue
 zoomFeatures: true 

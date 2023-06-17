@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -18.1667
 - 178.45
@@ -123,7 +123,7 @@ markerFolder: ./Fiji/
 [Area-Land::18270]
 [Continent::[[Oceania]]]
 [VehicleCode::FJI]
-[Capital::[[Suva]]]
+[Capital:[[Fiji/Cities/Suva]]]]
 [Alcohol-l::2.4]
 [Language-Id::499]
 [geo-lon::178.45]
