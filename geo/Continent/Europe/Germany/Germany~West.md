@@ -24,7 +24,7 @@ aliases:
 - ??
 - ????????
 - the Federal Republic of Germany
-- la Rep�blica Federal de Alemania
+- la Republica Federal de Alemania
 
 Languages:
 - de
