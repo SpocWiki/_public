@@ -1,2 +1,1 @@
-
-{"geometry": {"coordinates": [[[55.48948, -4.65852], [55.48272, -4.66225], [55.47749, -4.66515], [55.47411, -4.65501], [55.47587, -4.65281], [55.47499, -4.64754], [55.48948, -4.65852]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "SYC", "country": "Seychelles", "id": "5221", "name": "Les Mamelles"}, "type": "Feature"}
+﻿{"geometry": {"coordinates": [[[55.48948, -4.65852], [55.48272, -4.66225], [55.47749, -4.66515], [55.47411, -4.65501], [55.47587, -4.65281], [55.47499, -4.64754], [55.48948, -4.65852]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "SYC", "country": "Seychelles", "fill": "#F0F", "id": "5221", "name": "Les Mamelles"}, "type": "Feature"}

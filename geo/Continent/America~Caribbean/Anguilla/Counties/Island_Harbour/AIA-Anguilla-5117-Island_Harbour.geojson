@@ -1,2 +1,1 @@
-
-{"geometry": {"coordinates": [[[-63.00755, 18.26734], [-63.00739, 18.27302], [-62.99452, 18.2749], [-62.99998, 18.26734], [-63.00755, 18.26734]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "AIA", "country": "Anguilla", "id": "5117", "name": "Island Harbour"}, "type": "Feature"}
+﻿{"geometry": {"coordinates": [[[-63.00755, 18.26734], [-63.00739, 18.27302], [-62.99452, 18.2749], [-62.99998, 18.26734], [-63.00755, 18.26734]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "AIA", "country": "Anguilla", "fill": "#FF0", "id": "5117", "name": "Island Harbour"}, "type": "Feature"}

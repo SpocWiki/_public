@@ -1,2 +1,1 @@
-
-{"geometry": {"coordinates": [[[-63.06133, 18.21248], [-63.06545, 18.20582], [-63.07212, 18.20276], [-63.07263, 18.21213], [-63.06131, 18.21915], [-63.06133, 18.21248]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "AIA", "country": "Anguilla", "id": "5116", "name": "George Hill"}, "type": "Feature"}
+﻿{"geometry": {"coordinates": [[[-63.06133, 18.21248], [-63.06545, 18.20582], [-63.07212, 18.20276], [-63.07263, 18.21213], [-63.06131, 18.21915], [-63.06133, 18.21248]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "AIA", "country": "Anguilla", "fill": "#FF0", "id": "5116", "name": "George Hill"}, "type": "Feature"}

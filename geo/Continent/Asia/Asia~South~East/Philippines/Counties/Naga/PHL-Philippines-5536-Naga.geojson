@@ -1,2 +1,1 @@
-
-{"geometry": {"coordinates": [[[123.23425, 13.56865], [123.13962, 13.61991], [123.22636, 13.64751], [123.29339, 13.66328], [123.36831, 13.61991], [123.23425, 13.56865]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "PHL", "country": "Philippines", "id": "5536", "name": "Naga"}, "type": "Feature"}
+﻿{"geometry": {"coordinates": [[[123.23425, 13.56865], [123.13962, 13.61991], [123.22636, 13.64751], [123.29339, 13.66328], [123.36831, 13.61991], [123.23425, 13.56865]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "PHL", "country": "Philippines", "fill": "#F0F", "id": "5536", "name": "Naga"}, "type": "Feature"}

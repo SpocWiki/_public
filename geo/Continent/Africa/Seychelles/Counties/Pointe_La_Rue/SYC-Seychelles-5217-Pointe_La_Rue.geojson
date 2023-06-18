@@ -1,2 +1,1 @@
-
-{"geometry": {"coordinates": [[[55.52855, -4.68019], [55.5063, -4.67735], [55.51365, -4.66617], [55.51638, -4.66802], [55.52855, -4.68019]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "SYC", "country": "Seychelles", "id": "5217", "name": "Pointe La Rue"}, "type": "Feature"}
+﻿{"geometry": {"coordinates": [[[55.52855, -4.68019], [55.5063, -4.67735], [55.51365, -4.66617], [55.51638, -4.66802], [55.52855, -4.68019]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "SYC", "country": "Seychelles", "fill": "#00F", "id": "5217", "name": "Pointe La Rue"}, "type": "Feature"}
