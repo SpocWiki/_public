@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.8 , 13.5 ] 
 type: geo-Region
 title: Gorizia

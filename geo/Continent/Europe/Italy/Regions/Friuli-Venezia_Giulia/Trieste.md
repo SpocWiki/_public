@@ -1,7 +1,7 @@
-﻿---
+---
 location: [ 45.7 , 13.8 ] 
 type: geo-Region
-title: Trieste
+title: Trieste.Province
 
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Trieste
+- Trieste.Province
 
 Languages:
 - de
@@ -27,23 +27,23 @@ publishDate:
 expiryDate: 
 ---
 
-# Trieste
+# Trieste.Province
 
 ```leaflet
-id: Trieste
+id: Trieste.Province
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Trieste/
-markerFolder: ./Trieste/
+geojsonFolder: ./Trieste.Province/
+markerFolder: ./Trieste.Province/
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.md|Trieste]] 
-- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.internal.md|Trieste.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.protect.md|Trieste.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.private.md|Trieste.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.personal.md|Trieste.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.secret.md|Trieste.secret]] 
+- [[../../../../_public/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.md|Trieste.Province]] 
+- [[../../../../_internal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.internal.md|Trieste.Province.internal]] 
+- [[../../../../_protect/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.protect.md|Trieste.Province.protect]] 
+- [[../../../../_private/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.private.md|Trieste.Province.private]] 
+- [[../../../../_personal/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.personal.md|Trieste.Province.personal]] 
+- [[../../../../_secret/geo/Continent/Europe/Italy/Regions/Friuli-Venezia_Giulia/Trieste.Province.secret.md|Trieste.Province.secret]] 
 

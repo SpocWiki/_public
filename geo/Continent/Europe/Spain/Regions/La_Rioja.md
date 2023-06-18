@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.3 , -2.5 ] 
 type: geo-Region
 title: La_Rioja

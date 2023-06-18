@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.9 , 9.1 ] 
 type: geo-Region
 title: Como

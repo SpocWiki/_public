@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.1 , -4.3 ] 
 type: geo-Region
 title: Cantabria

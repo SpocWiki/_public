@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.2 , 8.3 ] 
 type: geo-Region
 title: Savona

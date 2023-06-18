@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44 , 12 ] 
 type: geo-Region
 title: Forlì-Cesena

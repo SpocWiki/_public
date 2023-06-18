@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.6 , 2.9 ] 
 type: geo-Region
 title: Baleares

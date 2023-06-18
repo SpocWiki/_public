@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.7 , 12.7 ] 
 type: geo-Region
 title: Pesaro_e_Urbino

@@ -123,7 +123,7 @@ markerFolder: ./Spain/
 [Area-Land::499440]
 [Continent::[[Europe]]]
 [VehicleCode::E]
-[Capital::[[Madrid]]]
+[Capital:[[Spain/Regions/Madrid.Region]]]]
 ![[Spain/Escudo_de_España_(mazonado).svg|350]]
 ![[Anthem-Spain-complete.mp3]]
 ![[Flag_of_Spain.svg|350]]

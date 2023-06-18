@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41 , 0.6 ] 
 type: geo-Region
 title: Tarragona

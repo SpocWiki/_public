@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.6 , -1.8 ] 
 type: geo-Region
 title: Navarra

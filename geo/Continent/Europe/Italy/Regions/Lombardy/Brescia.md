@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.8 , 10.4 ] 
 type: geo-Region
 title: Brescia

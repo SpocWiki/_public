@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.3 , -5.8 ] 
 type: geo-Region
 title: Asturias

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.4 , 12.9 ] 
 type: geo-Region
 title: Rieti
