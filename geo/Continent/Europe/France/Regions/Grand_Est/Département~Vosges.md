@@ -1,0 +1,49 @@
+﻿---
+location: [ 48.2 , 6.4 ] 
+type: geo-Region
+title: Département~Vosges
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
+tags:
+- geo/Country/Region
+aliases:
+- Département~Vosges
+
+Languages:
+- de
+
+cssclass: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
+---
+
+# Département~Vosges
+
+```leaflet
+id: Département~Vosges
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Département~Vosges/
+markerFolder: ./Département~Vosges/
+```
+
+
+## Confidential Links & Embeds: 
+- [[../../../../_public/geo/Continent/egions/Grand_Est/Département~Vosges.md|Département~Vosges]] 
+- [[../../../../_internal/geo/Continent/egions/Grand_Est/Département~Vosges.internal.md|Département~Vosges.internal]] 
+- [[../../../../_protect/geo/Continent/egions/Grand_Est/Département~Vosges.protect.md|Département~Vosges.protect]] 
+- [[../../../../_private/geo/Continent/egions/Grand_Est/Département~Vosges.private.md|Département~Vosges.private]] 
+- [[../../../../_personal/geo/Continent/egions/Grand_Est/Département~Vosges.personal.md|Département~Vosges.personal]] 
+- [[../../../../_secret/geo/Continent/egions/Grand_Est/Département~Vosges.secret.md|Département~Vosges.secret]] 
+

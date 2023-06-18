@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.7 , 5.2 ] 
 type: geo-Region
 title: Département~Drôme
