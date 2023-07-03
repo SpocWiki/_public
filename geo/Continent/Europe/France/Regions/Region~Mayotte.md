@@ -1,2 +1,2 @@
 
-[[../../../Africa|Africa]]n Island [[../../../Africa/Mayotte|Mayotte]]
+[[../../../Africa|Africa]]n Island [[../../../Africa/Africa~East/Mayotte|Mayotte]]

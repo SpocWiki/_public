@@ -32,10 +32,18 @@ The S-P-O order makes for a nice Reading of Propositions in English.
 
 In Obsidian, the canonical Subject is the current Document. 
 Predicates take the form of Verbs or Relations. 
+
 Predicate and Object/Value are sometimes combined into boolean Tags, which are natively supported in Obsidian using the # (Hash) Notation known e.g. from Twitter. 
 Tags are problematic though because of their proliferation and missing implicit Semantic. 
 
 Other Document Formats like TRTL (AKA Turtle) allow to specify Triples directly with a formal, but surprisingly readable Syntax similar to natural Language. 
+
+An important Attribute of a Statement is its Factuality, i.e. its Level of 'Truth' measured by experiments with the real world.
+Basic Levels of Factuality are 
+- Proof 
+- Evidence 
+- Assumption 
+- Question 
 
 > A claim is a statement that one subject, such as a person or organization, makes about a subject. A claim is a debatable statement that an author manifests in a text or theoretical construction, so that the reader accepts it, something that not everyone will accept. 
 >

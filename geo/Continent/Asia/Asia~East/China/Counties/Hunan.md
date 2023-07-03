@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.4 , 111.4 ] 
 type: geo-Region
 title: Hunan

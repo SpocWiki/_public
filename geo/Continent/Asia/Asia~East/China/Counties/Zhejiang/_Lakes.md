@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.629 , 118.836 ] 
 type: geo-Region
 title: _Lakes

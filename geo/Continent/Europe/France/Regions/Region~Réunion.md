@@ -1,2 +1,2 @@
 
-[[../../../Africa|Africa]]n Island [[../../../Africa/Reunion|Reunion]]
+[[../../../Africa|Africa]]n Island [[../../../Africa/Africa~East/Reunion|Reunion]]

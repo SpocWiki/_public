@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.9 , 119.9 ] 
 type: geo-Region
 title: Jiangsu
