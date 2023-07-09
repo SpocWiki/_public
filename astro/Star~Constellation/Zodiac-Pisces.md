@@ -1,14 +1,16 @@
 ---
 type: Zodiac
+isDeleted: false
+isReadOnly: false
+confidential: public
 tags:
   - astro/Zodiac
-IsZodiac: true
 ZodiacPos: 12
 ---
 [SpocWebEntityId::]
-isDeleted:: false
-isReadOnly:: false
-confidential:: public
+
+
+
 [name-la::Pisces]
 [name-genitive::Piscium]
 [name-de::Fische]

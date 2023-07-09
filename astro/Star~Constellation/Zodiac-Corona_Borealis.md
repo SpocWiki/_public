@@ -1,13 +1,15 @@
 ---
 type: Zodiac
+isDeleted: false
+isReadOnly: false
+confidential: public
 tags:
-- astro/Zodiac
-
+  - astro/Zodiac
 ---
 [SpocWebEntityId::]
-isDeleted:: false
-isReadOnly:: false
-confidential:: public
+
+
+
 [name-la::Corona Borealis]
 [name-genitive::Coronae Borealis]
 [name-de::Noerdliche Krone]

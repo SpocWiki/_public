@@ -1,14 +1,16 @@
 ---
 type: Zodiac
+isDeleted: false
+isReadOnly: false
+confidential: public
 tags:
   - astro/Zodiac
-IsZodiac: true
 ZodiacPos: 9
 ---
 [SpocWebEntityId::]
-isDeleted:: false
-isReadOnly:: false
-confidential:: public
+
+
+
 [name-la::Sagittarius]
 [name-genitive::Sagittarii]
 [name-de::Schuetze]

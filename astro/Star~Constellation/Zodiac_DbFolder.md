@@ -117,30 +117,9 @@ columns:
     skipPersist: false
     csvCandidate: true
     position: 8
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     width: 279
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  IsZodiac:
-    input: checkbox
-    accessorKey: IsZodiac
-    key: IsZodiac
-    id: newColumn6
-    label: IsZodiac
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: 1
-    isSorted: true
-    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -172,7 +151,7 @@ columns:
       footer_type: none
       persist_changes: false
 config:
-  remove_field_when_delete_column: false
+  remove_field_when_delete_column: true
   cell_size: normal
   sticky_first_column: true
   group_folder_column: 

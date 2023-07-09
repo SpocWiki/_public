@@ -1,14 +1,16 @@
 ---
 type: Zodiac
+isDeleted: false
+isReadOnly: false
+confidential: public
 tags:
   - astro/Zodiac
-IsZodiac: true
 ZodiacPos: 6
 ---
 [SpocWebEntityId::]
-isDeleted:: false
-isReadOnly:: false
-confidential:: public
+
+
+
 [name-la::Virgo]
 [name-genitive::Virginis]
 [name-de::Jungfrau]

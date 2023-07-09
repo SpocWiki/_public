@@ -1,13 +1,15 @@
 ---
 type: Zodiac
+isDeleted: false
+isReadOnly: false
+confidential: public
 tags:
-- astro/Zodiac
-
+  - astro/Zodiac
 ---
 [SpocWebEntityId::]
-isDeleted:: false
-isReadOnly:: false
-confidential:: public
+
+
+
 [name-la::Orion]
 [name-genitive::Orionis]
 [name-de::Orion]

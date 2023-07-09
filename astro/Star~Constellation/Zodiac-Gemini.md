@@ -1,14 +1,16 @@
 ---
 type: Zodiac
+isDeleted: false
+isReadOnly: false
+confidential: public
 tags:
   - astro/Zodiac
-IsZodiac: true
 ZodiacPos: 3
 ---
 [SpocWebEntityId::]
-isDeleted:: false
-isReadOnly:: false
-confidential:: public
+
+
+
 [name-la::Gemini]
 [name-genitive::Geminorum]
 [name-de::Zwillinge]

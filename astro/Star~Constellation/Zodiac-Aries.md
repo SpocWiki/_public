@@ -1,14 +1,16 @@
 ---
 type: Zodiac
+isDeleted: false
+isReadOnly: false
+confidential: public
 tags:
   - astro/Zodiac
-IsZodiac: true
 ZodiacPos: 1
 ---
 [SpocWebEntityId::]
-isDeleted:: false
-isReadOnly:: false
-confidential:: public
+
+
+
 [name-la::Aries]
 [name-genitive::Arietis]
 [name-de::Widder]

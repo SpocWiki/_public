@@ -1,13 +1,15 @@
 ---
 type: Zodiac
+isDeleted: false
+isReadOnly: false
+confidential: public
 tags:
-- astro/Zodiac
-
+  - astro/Zodiac
 ---
 [SpocWebEntityId::]
-isDeleted:: false
-isReadOnly:: false
-confidential:: public
+
+
+
 [name-la::Equuleus]
 [name-genitive::Equulei]
 [name-de::Fuellen]

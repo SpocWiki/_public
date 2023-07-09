@@ -1,14 +1,15 @@
 ---
 type: Zodiac
-publish: true
-confidential: public
 isDeleted: false
 isReadOnly: false
-SpocWebEntityId: {{SpocWebEntityId}}
+confidential: public
+publish: true
+SpocWebEntityId:
+  "{ SpocWebEntityId }": null
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 aliases:
-- {{LatinName}}
+  - "{ LatinName }": null
 ---
 
 
