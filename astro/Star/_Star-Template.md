@@ -4,8 +4,7 @@ isDeleted: false
 isReadOnly: false
 confidential: public
 tags:
-- astro/Star
-
+  - astro/Star
 ---
 location: [{{Declin}},{{Rectasc}},{{Dist}}]
 SpocWebEntityId: {{SpocWebEntityId}}

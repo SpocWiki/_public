@@ -1,13 +1,15 @@
 ---
-location: [-28.97,104.65,500]
+location:
+  - -28.97
+  - 104.65
+  - 500
 SpocWebEntityId: 27251
 isDeleted: false
 isReadOnly: false
 confidential: public
-type: Station
+type: Star
 tags:
-- astro/Star
-
+  - astro/Star
 ---
 
 [star-class::B2]

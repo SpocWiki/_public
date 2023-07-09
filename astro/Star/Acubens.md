@@ -1,8 +1,11 @@
 ---
-location: [11.86,134.625,150]
-type: Station
+location:
+  - 11.86
+  - 134.625
+  - 150
+type: Star
 tags:
-- astro/Star
+  - astro/Star
 ---
  in lightyears
  

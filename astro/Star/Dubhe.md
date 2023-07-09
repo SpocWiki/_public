@@ -1,6 +1,6 @@
 ﻿---
 location: [61.75,-194.075,80]
-type: Station
+type: Star
 tags:
 - astro/Star
 

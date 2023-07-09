@@ -1,9 +1,11 @@
 ---
-location: [-63.1,-173.35,400]
-type: Station
+location:
+  - -63.1
+  - -173.35
+  - 400
+type: Star
 tags:
-- astro/Star
-
+  - astro/Star
 ---
 SpocWebEntityId: 27242
 isDeleted: false

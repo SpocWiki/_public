@@ -1,13 +1,15 @@
 ---
-location: [42.33,30.975,300]
-type: Station
+location:
+  - 42.33
+  - 30.975
+  - 300
+type: Star
 SpocWebEntityId: 27294
 isDeleted: false
 isReadOnly: false
 confidential: public
 tags:
-- astro/Star
-
+  - astro/Star
 ---
 
 [star-class::K1]
