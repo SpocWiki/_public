@@ -31,6 +31,12 @@ maxZoom: 18
 ```
 
 
+# Lines: 
+```dataview
+TABLE 
+FROM [[]]
+```
+
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Southwark.md|Sub~Southwark]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Southwark.internal.md|Sub~Southwark.internal]] 

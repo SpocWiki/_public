@@ -31,6 +31,12 @@ maxZoom: 18
 ```
 
 
+# Lines: 
+```dataview
+TABLE 
+FROM [[]]
+```
+
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~East_Finchley.md|Sub~East_Finchley]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~East_Finchley.internal.md|Sub~East_Finchley.internal]] 

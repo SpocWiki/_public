@@ -31,6 +31,12 @@ maxZoom: 18
 ```
 
 
+# Lines: 
+```dataview
+TABLE 
+FROM [[]]
+```
+
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stratford.md|Sub~Stratford]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Stratford.internal.md|Sub~Stratford.internal]] 

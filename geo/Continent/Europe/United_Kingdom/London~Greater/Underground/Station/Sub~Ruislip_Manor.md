@@ -31,6 +31,12 @@ maxZoom: 18
 ```
 
 
+# Lines: 
+```dataview
+TABLE 
+FROM [[]]
+```
+
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Manor.md|Sub~Ruislip_Manor]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Ruislip_Manor.internal.md|Sub~Ruislip_Manor.internal]] 

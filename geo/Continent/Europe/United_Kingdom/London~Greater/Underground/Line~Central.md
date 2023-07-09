@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.5185 , -0.1111 ] 
 type: geo-Region
 title: Line~Central
@@ -107,7 +107,7 @@ markerFolder: ./Station/
 
 
 ```dataview
-TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],", name
+TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "]," as Coord, name
 FROM outgoing([[Line~Central]])
 ```
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.5036 , -0.1143 ] 
 type: geo-Region
 title: Line~Waterloo
@@ -53,7 +53,7 @@ markerFolder: ./Station/
 2) [[Station/Sub~Bank]] 
 
 ```dataview
-TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
+TABLE WITHOUT ID name as Station, "[" + geo-lon + ", " + geo-lat + "]," as Coords
 FROM outgoing([[Line~Waterloo]])
 ```
 

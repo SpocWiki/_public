@@ -31,6 +31,12 @@ maxZoom: 18
 ```
 
 
+# Lines: 
+```dataview
+TABLE 
+FROM [[]]
+```
+
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.md|Sub~Heathrow_Terminals_1,_2_&_3]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.internal.md|Sub~Heathrow_Terminals_1,_2_&_3.internal]] 
