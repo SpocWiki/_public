@@ -159,7 +159,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     position: 6
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
