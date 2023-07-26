@@ -24,8 +24,6 @@ tags:
 
 aliases:
 - gender
-- gender
-- gender
 - has_gender
 ---
 

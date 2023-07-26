@@ -6,7 +6,7 @@ database-plugin: basic
 
 ```yaml:dbfolder
 name: Zodiac
-description: Table of all 12 Zodiacs
+description: Table of all named Constellations including the 12 Zodiacs which are indicated by their Occurence starting with Aries in spring.
 columns:
   SpocWebEntityId:
     input: text

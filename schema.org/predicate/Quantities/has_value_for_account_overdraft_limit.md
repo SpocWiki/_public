@@ -38,7 +38,9 @@ Use it like this:
 - [ #has_/value/_for_account_overdraft_limit :: MonetaryAmount ] or 
 - [ has_value_for_account_overdraft_limit :: MonetaryAmount ] 
 
-An overdraft is an extension of credit from a lending institution when an account reaches zero. An overdraft allows the individual to continue withdrawing money even if the account has no funds in it. Basically the bank allows people to borrow a set amount of money.
+An overdraft is an extension of credit from a lending institution when an account reaches zero.
+An overdraft allows the individual to continue withdrawing money even if the account has no funds in it.
+Basically the bank allows people to borrow a set amount of money.
 
 Predicate describes that: 
 [ #has_/domain  :: BankAccount ]

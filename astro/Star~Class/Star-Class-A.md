@@ -9,6 +9,9 @@ tags:
 
 ---
 [name::A]
+[name.first::A]
+[name/last::A]
+[name middle::A]
 [Temperature::9750]
 [Radius-sol::2]
 [Mass-sol::3.2]
