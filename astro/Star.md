@@ -5,8 +5,6 @@
 >
 > Stellar nucleosynthesis in stars or their remnants creates almost all naturally occurring chemical elements heavier than lithium. Stellar mass loss or supernova explosions return chemically enriched material to the interstellar medium. These elements are then recycled into new stars. Astronomers can determine stellar properties—including mass, age, metallicity (chemical composition), variability, distance, and motion through space—by carrying out observations of a star's apparent brightness, spectrum, and changes in its position in the sky over time.
 >
-> Stars can form orbital systems with other astronomical objects, as in the case of planetary systems and star systems with two or more stars. When two such stars have a relatively close orbit, their gravitational interaction can significantly impact their evolution. Stars can form part of a much larger gravitationally bound structure, such as a star cluster or a galaxy.
->
 > [Wikipedia](https://en.wikipedia.org/wiki/Star)
 
 ```leaflet

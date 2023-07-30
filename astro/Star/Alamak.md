@@ -1,8 +1,5 @@
 ---
-location:
-  - 42.33
-  - 30.975
-  - 300
+location: [42.33,30.975,300]
 type: Star
 SpocWebEntityId: 27294
 isDeleted: false
