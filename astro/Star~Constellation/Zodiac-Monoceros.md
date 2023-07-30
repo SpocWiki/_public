@@ -6,8 +6,8 @@ confidential: public
 tags:
   - astro/Zodiac
 ---
-[SpocWebEntityId::]
 
+[SpocWebEntityId::28137]
 
 
 [name-la::Monoceros]

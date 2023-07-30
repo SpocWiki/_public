@@ -9,5 +9,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Star)
 
+```leaflet
+id: leaflet-map
+image: [[StarConstellations-Mercator-Black.png]]
+bounds:
+    - [90, -180]
+    - [-90, 180]
+height: 500px
+lat: 50
+long: 50
+markerFolder: ./Star/
+zoomFeatures: true 
+unit: meters
+darkMode: true
+```
+
+```
+```
 
 ![[_Star_DbFolder]]

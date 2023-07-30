@@ -7,7 +7,8 @@ tags:
   - astro/Zodiac
 ZodiacPos: 9
 ---
-[SpocWebEntityId::]
+
+[SpocWebEntityId::Schuetze]
 
 
 

@@ -7,7 +7,8 @@ tags:
   - astro/Zodiac
 ZodiacPos: 2
 ---
-[SpocWebEntityId::]
+
+[SpocWebEntityId::28160]
 
 
 
