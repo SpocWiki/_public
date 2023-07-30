@@ -6,7 +6,7 @@ confidential: public
 tags:
   - astro/Star
 ---
-location: [{{Declin}},{{Rectasc}},{{Dist}}]
+location: [{{Declin}},-{{Rectasc}},{{Dist}}]
 SpocWebEntityId: {{SpocWebEntityId}}
 
 [star-class::{{Class}}]

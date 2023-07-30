@@ -1,5 +1,5 @@
 ---
-location: [-60.37,-149.05,300]
+location: [-60.37,149.05,300]
 type: Star
 SpocWebEntityId: 27240
 isDeleted: false

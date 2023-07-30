@@ -1,5 +1,5 @@
 ﻿---
-location: [-50.16,-115.05,120]
+location: [-50.16,115.05,120]
 type: Star
 tags:
 - astro/Star

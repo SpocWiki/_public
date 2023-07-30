@@ -11,18 +11,33 @@
 id: leaflet-map
 image: [[StarConstellations-Mercator-Black.png]]
 bounds:
-    - [90, -180]
-    - [-90, 180]
+    - [90, -361]
+    - [-90, 271]
 height: 500px
 lat: 50
 long: 50
 markerFolder: ./Star/
 zoomFeatures: true 
 unit: meters
-darkMode: true
+darkMode: false
 ```
 
-```
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![[_Star_DbFolder]]
