@@ -289,15 +289,15 @@ columns:
     isSorted: true
     isSortedDesc: false
     options:
-      - { label: "Afghanistan", backgroundColor: "hsl(300, 95%, 90%)"}
-      - { label: "Albania", backgroundColor: "hsl(188, 95%, 90%)"}
-      - { label: "American_Samoa", backgroundColor: "hsl(232, 95%, 90%)"}
-      - { label: "Angola", backgroundColor: "hsl(275, 95%, 90%)"}
-      - { label: "Anguilla", backgroundColor: "hsl(57, 95%, 90%)"}
-      - { label: "Antigua_And_Barbuda", backgroundColor: "hsl(123, 95%, 90%)"}
-      - { label: "Armenia", backgroundColor: "hsl(71, 95%, 90%)"}
-      - { label: "Aruba", backgroundColor: "hsl(336, 95%, 90%)"}
-      - { label: "Azerbaijan", backgroundColor: "hsl(144, 95%, 90%)"}
+      - { label: "Afghanistan", value: "Afghanistan", color: "hsl(300, 95%, 90%)"}
+      - { label: "Albania", value: "Albania", color: "hsl(188, 95%, 90%)"}
+      - { label: "American_Samoa", value: "American_Samoa", color: "hsl(232, 95%, 90%)"}
+      - { label: "Angola", value: "Angola", color: "hsl(275, 95%, 90%)"}
+      - { label: "Anguilla", value: "Anguilla", color: "hsl(57, 95%, 90%)"}
+      - { label: "Antigua_And_Barbuda", value: "Antigua_And_Barbuda", color: "hsl(123, 95%, 90%)"}
+      - { label: "Armenia", value: "Armenia", color: "hsl(71, 95%, 90%)"}
+      - { label: "Aruba", value: "Aruba", color: "hsl(336, 95%, 90%)"}
+      - { label: "Azerbaijan", value: "Azerbaijan", color: "hsl(144, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

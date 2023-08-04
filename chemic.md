@@ -1,5 +1,5 @@
 Chemistry is a wide Field; therefore it is broken up into 
-- [Chemical Elements](chemic/Elements.md) 
+- [Chemical Elements](chemic~Elements.md) 
 - [organic Chemistry](chemic/organic.md) and 
 - [inOrganic Chemistry](chemic/inOrganic.md)
 

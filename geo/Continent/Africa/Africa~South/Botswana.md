@@ -35,7 +35,7 @@ Languages:
 ---
 
 
-[	ISO4217-currency_alphabetic	 :: BWP ]
+[	ISO4217-currency_alphabetic	 :: BWP ] 
 [	ISO4217-currency_name	 :: Pula ]
 [	ISO4217-currency_numeric	 :: 072 ]
 [	ISO4217-currency_minor_unit	 :: 2 ]

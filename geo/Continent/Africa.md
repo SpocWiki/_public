@@ -1,4 +1,4 @@
-﻿---
+---
 location: [0,0]
 type: Continent
 confidential: public
