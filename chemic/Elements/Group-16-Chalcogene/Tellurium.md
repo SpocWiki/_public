@@ -5,7 +5,9 @@ SpocWebEntityId: 21948
 ---
 
 #chemic/Element 
-[GroupName::[[Group-16-Chalcogene]]]
+[GroupName::Group-16-Chalcogene]
+[Group::[[Group-16-Chalcogene]]]
+
 
 [Name-en::Tellurium]
 [Name-de::Tellur]

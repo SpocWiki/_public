@@ -5,7 +5,9 @@ SpocWebEntityId: 21966
 ---
 
 #chemic/Element 
-[GroupName::[[Lanthanide-Group]]]
+[GroupName::Lanthanide-Group]
+[Group::[[Lanthanide-Group]]]
+
 
 [Name-en::Ytterbium]
 [Name-de::Ytterbium]

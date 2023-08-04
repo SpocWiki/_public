@@ -3,7 +3,9 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-10-Nickel]]]
+[GroupName::Group-10-Nickel]
+[Group::[[Group-10-Nickel]]]
+
 
 [Name-en::Platinum]
 [Name-de::Platin]

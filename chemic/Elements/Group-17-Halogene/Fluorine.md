@@ -5,7 +5,9 @@ SpocWebEntityId: 21911
 ---
 
 #chemic/Element 
-[GroupName::[[Group-17-Halogene]]]
+[GroupName::Group-17-Halogene]
+[Group::[[Group-17-Halogene]]]
+
 
 [Name-en::Fluorine]
 [Name-de::Fluor]

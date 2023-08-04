@@ -3,7 +3,9 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-03-Scandium]]]
+[GroupName::Group-03-Scandium]
+[Group::[[Group-03-Scandium]]]
+
 
 [Name-en::Scandium]
 [Name-de::Scandium]

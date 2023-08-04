@@ -383,27 +383,32 @@ columns:
     sortIndex: 1
     isSorted: true
     isSortedDesc: false
+    width: 136
     options:
-      - { label: "Group-03-Scandium", backgroundColor: "hsl(268, 95%, 90%)"}
-      - { label: "Group-13-Boron", backgroundColor: "hsl(318, 95%, 90%)"}
-      - { label: "Group-15-Nitrogen", backgroundColor: "hsl(244, 95%, 90%)"}
-      - { label: "Group-18-Nobel-Gases", backgroundColor: "hsl(358, 95%, 90%)"}
-      - { label: "Group-17-Halogene", backgroundColor: "hsl(210, 95%, 90%)"}
-      - { label: "Group-02-Earth-Alkaline", backgroundColor: "hsl(212, 95%, 90%)"}
-      - { label: "Group-12-Zinc", backgroundColor: "hsl(342, 95%, 90%)"}
-      - { label: "Group-01-Alkali", backgroundColor: "hsl(219, 95%, 90%)"}
-      - { label: "Group-14-Carbon", backgroundColor: "hsl(59, 95%, 90%)"}
-      - { label: "Group-06-Chromium", backgroundColor: "hsl(269, 95%, 90%)"}
-      - { label: "Group-09-Cobalt", backgroundColor: "hsl(10, 95%, 90%)"}
-      - { label: "Group-11-Copper", backgroundColor: "hsl(195, 95%, 90%)"}
-      - { label: "Group-04-Titanium", backgroundColor: "hsl(196, 95%, 90%)"}
-      - { label: "Group-05-Vanadium", backgroundColor: "hsl(346, 95%, 90%)"}
-      - { label: "Group-08-Iron", backgroundColor: "hsl(274, 95%, 90%)"}
-      - { label: "Actinide-Group", backgroundColor: "hsl(198, 95%, 90%)"}
-      - { label: "Group-07-Manganese", backgroundColor: "hsl(341, 95%, 90%)"}
-      - { label: "Group-10-Nickel", backgroundColor: "hsl(255, 95%, 90%)"}
-      - { label: "Lanthanide-Group", backgroundColor: "hsl(169, 95%, 90%)"}
-      - { label: "Group-16-Chalcogene", backgroundColor: "hsl(154, 95%, 90%)"}
+      - { label: "Group-03-Scandium", value: "Group-03-Scandium", color: "hsl(268, 95%, 90%)"}
+      - { label: "Group-13-Boron", value: "Group-13-Boron", color: "hsl(318, 95%, 90%)"}
+      - { label: "Group-15-Nitrogen", value: "Group-15-Nitrogen", color: "hsl(244, 95%, 90%)"}
+      - { label: "Group-18-Nobel-Gases", value: "Group-18-Nobel-Gases", color: "hsl(358, 95%, 90%)"}
+      - { label: "Group-17-Halogene", value: "Group-17-Halogene", color: "hsl(210, 95%, 90%)"}
+      - { label: "Group-02-Earth-Alkaline", value: "Group-02-Earth-Alkaline", color: "hsl(212, 95%, 90%)"}
+      - { label: "Group-12-Zinc", value: "Group-12-Zinc", color: "hsl(342, 95%, 90%)"}
+      - { label: "Group-01-Alkali", value: "Group-01-Alkali", color: "hsl(219, 95%, 90%)"}
+      - { label: "Group-14-Carbon", value: "Group-14-Carbon", color: "hsl(59, 95%, 90%)"}
+      - { label: "Group-06-Chromium", value: "Group-06-Chromium", color: "hsl(269, 95%, 90%)"}
+      - { label: "Group-09-Cobalt", value: "Group-09-Cobalt", color: "hsl(10, 95%, 90%)"}
+      - { label: "Group-11-Copper", value: "Group-11-Copper", color: "hsl(195, 95%, 90%)"}
+      - { label: "Group-04-Titanium", value: "Group-04-Titanium", color: "hsl(196, 95%, 90%)"}
+      - { label: "Group-05-Vanadium", value: "Group-05-Vanadium", color: "hsl(346, 95%, 90%)"}
+      - { label: "Group-08-Iron", value: "Group-08-Iron", color: "hsl(274, 95%, 90%)"}
+      - { label: "Actinide-Group", value: "Actinide-Group", color: "hsl(198, 95%, 90%)"}
+      - { label: "Group-07-Manganese", value: "Group-07-Manganese", color: "hsl(341, 95%, 90%)"}
+      - { label: "Group-10-Nickel", value: "Group-10-Nickel", color: "hsl(255, 95%, 90%)"}
+      - { label: "Lanthanide-Group", value: "Lanthanide-Group", color: "hsl(169, 95%, 90%)"}
+      - { label: "Group-16-Chalcogene", value: "Group-16-Chalcogene", color: "hsl(154, 95%, 90%)"}
+      - { label: "[[chemic/chemic~Elements/Actinide-Group.md|Actinide-Group]]", value: "[[chemic/chemic~Elements/Actinide-Group.md|Actinide-Group]]", color: "hsl(206, 95%, 90%)"}
+      - { label: "[[chemic/chemic~Elements/Group-01-Alkali.md|Group-01-Alkali]]", value: "[[chemic/chemic~Elements/Group-01-Alkali.md|Group-01-Alkali]]", color: "hsl(4, 95%, 90%)"}
+      - { label: "[[chemic/chemic~Elements/Group-02-Earth-Alkaline.md|Group-02-Earth-Alkaline]]", value: "[[chemic/chemic~Elements/Group-02-Earth-Alkaline.md|Group-02-Earth-Alkaline]]", color: "hsl(299, 95%, 90%)"}
+      - { label: "", value: "", color: "hsl(215, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -481,8 +486,8 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Element", backgroundColor: "hsl(221, 95%, 90%)"}
-      - { label: "chemic/Element", backgroundColor: "hsl(167, 95%, 90%)"}
+      - { label: "Element", value: "Element", color: "hsl(221, 95%, 90%)"}
+      - { label: "chemic/Element", value: "chemic/Element", color: "hsl(167, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

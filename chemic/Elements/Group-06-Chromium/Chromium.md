@@ -3,7 +3,9 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-06-Chromium]]]
+[GroupName::Group-06-Chromium]
+[Group::[[Group-06-Chromium]]]
+
 
 [Name-en::Chromium]
 [Name-de::Chrom]

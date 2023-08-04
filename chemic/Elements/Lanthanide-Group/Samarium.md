@@ -5,7 +5,9 @@ SpocWebEntityId: 21958
 ---
 
 #chemic/Element 
-[GroupName::[[Lanthanide-Group]]]
+[GroupName::Lanthanide-Group]
+[Group::[[Lanthanide-Group]]]
+
 
 [Name-en::Samarium]
 [Name-de::Samarium]

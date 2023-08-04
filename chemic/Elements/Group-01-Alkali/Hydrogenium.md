@@ -4,7 +4,9 @@ type: Element
 SpocWebEntityId: 21904
 ---
 #chemic/Element 
-[GroupName::[[Group-01-Alkali]]]
+[GroupName::Group-01-Alkali]
+[Group::[[Group-01-Alkali]]]
+
 
 [Name-en::Hydrogenium]
 [Name-de::Wasserstoff]

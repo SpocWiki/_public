@@ -3,7 +3,9 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-13-Boron]]]
+[GroupName::Group-13-Boron]
+[Group::[[Group-13-Boron]]]
+
 
 [Name-en::Aluminium]
 [Name-de::Aluminium]

@@ -3,7 +3,9 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-08-Iron]]]
+[GroupName::Group-08-Iron]
+[Group::[[Group-08-Iron]]]
+
 
 [Name-en::Ruthenium]
 [Name-de::Ruthenium]

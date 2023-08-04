@@ -5,7 +5,9 @@ SpocWebEntityId: 21997
 ---
 
 #chemic/Element 
-[GroupName::[[Lanthanide-Group]]]
+[GroupName::Lanthanide-Group]
+[Group::[[Lanthanide-Group]]]
+
 
 [Name-en::Nobelium]
 [Name-de::Nobelium]

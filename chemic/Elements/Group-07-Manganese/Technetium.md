@@ -3,7 +3,9 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-07-Manganese]]]
+[GroupName::Group-07-Manganese]
+[Group::[[Group-07-Manganese]]]
+
 
 [Name-en::Technetium]
 [Name-de::Technetium]

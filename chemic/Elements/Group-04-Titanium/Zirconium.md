@@ -3,7 +3,9 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-04-Titanium]]]
+[GroupName::Group-04-Titanium]
+[Group::[[Group-04-Titanium]]]
+
 
 [Name-en::Zirconium]
 [Name-de::Zirkonium]

@@ -4,7 +4,9 @@ SpocWebEntityId: 21946
 
 ---
 #chemic/Element 
-[GroupName::[[Group-13-Boron]]]
+[GroupName::Group-13-Boron]
+[Group::[[Group-13-Boron]]]
+
 
 [Name-en::Indium]
 [Name-de::Indium]

@@ -5,7 +5,9 @@ SpocWebEntityId: 21916
 ---
 
 #chemic/Element 
-[GroupName::[[Group-15-Nitrogen]]]
+[GroupName::Group-15-Nitrogen]
+[Group::[[Group-15-Nitrogen]]]
+
 
 [Name-en::Phosphorus]
 [Name-de::Phosphor]

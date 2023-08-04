@@ -5,7 +5,9 @@ SpocWebEntityId: 21961
 ---
 
 #chemic/Element 
-[GroupName::[[Lanthanide-Group]]]
+[GroupName::Lanthanide-Group]
+[Group::[[Lanthanide-Group]]]
+
 
 [Name-en::Terbium]
 [Name-de::Terbium]

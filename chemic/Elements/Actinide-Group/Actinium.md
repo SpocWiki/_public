@@ -4,7 +4,9 @@ type: Element
 ---
 
 #chemic/Element 
-[GroupName::[[Actinide-Group]]]
+[GroupName::Actinide-Group]
+[Group::[[Actinide-Group]]]
+
 
 [Name-en::Actinium]
 [Name-de::Actinium]

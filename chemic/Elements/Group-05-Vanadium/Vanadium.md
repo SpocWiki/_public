@@ -3,7 +3,9 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-05-Vanadium]]]
+[GroupName::Group-05-Vanadium]
+[Group::[[Group-05-Vanadium]]]
+
 
 [Name-en::Vanadium]
 [Name-de::Vanadium]

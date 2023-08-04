@@ -5,7 +5,9 @@ SpocWebEntityId: 21947
 ---
 
 #chemic/Element 
-[GroupName::[[Group-15-Nitrogen]]]
+[GroupName::Group-15-Nitrogen]
+[Group::[[Group-15-Nitrogen]]]
+
 
 [Name-en::Antimony]
 [Name-de::Antimon]

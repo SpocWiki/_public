@@ -5,7 +5,9 @@ SpocWebEntityId: 21981
 ---
 
 #chemic/Element 
-[GroupName::[[Group-18-Nobel-Gases]]]
+[GroupName::Group-18-Nobel-Gases]
+[Group::[[Group-18-Nobel-Gases]]]
+
 
 [Name-en::Radon]
 [Name-de::Radon]

@@ -5,7 +5,9 @@ SpocWebEntityId: 21915
 ---
 
 #chemic/Element 
-[GroupName::[[Group-14-Carbon]]]
+[GroupName::Group-14-Carbon]
+[Group::[[Group-14-Carbon]]]
+
 
 [Name-en::Silicon]
 [Name-de::Silicium]

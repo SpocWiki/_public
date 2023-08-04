@@ -2,7 +2,9 @@
 type: Element
 ---
 #chemic/Element 
-[GroupName::[[Group-02-Earth-Alkaline]]]
+[GroupName::Group-02-Earth-Alkaline]
+[Group::[[Group-02-Earth-Alkaline]]]
+
 
 [Name-en::Barium]
 [Name-de::Barium]
