@@ -3,7 +3,7 @@
 The geo Folder primarily defines one (of arbitrarily many possible) Hierarchies for geographical Objects 
 where Children are typically topologically contained in their Parents and combined also cover them completely. 
 
-This Hierarchy starts with Continents and Oc
+This Hierarchy starts with Continents and Oceans
 
 The RFC2426 vCard Geo Property typically takes a combined "lat,long" as a literal value. 
 We recommend the use of new _latitude_ and _longitude_ data properties to capture these values explicitly. 
