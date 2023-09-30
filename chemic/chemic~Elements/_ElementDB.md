@@ -408,7 +408,7 @@ columns:
       - { label: "[[chemic/chemic~Elements/Actinide-Group.md|Actinide-Group]]", value: "[[chemic/chemic~Elements/Actinide-Group.md|Actinide-Group]]", color: "hsl(206, 95%, 90%)"}
       - { label: "[[chemic/chemic~Elements/Group-01-Alkali.md|Group-01-Alkali]]", value: "[[chemic/chemic~Elements/Group-01-Alkali.md|Group-01-Alkali]]", color: "hsl(4, 95%, 90%)"}
       - { label: "[[chemic/chemic~Elements/Group-02-Earth-Alkaline.md|Group-02-Earth-Alkaline]]", value: "[[chemic/chemic~Elements/Group-02-Earth-Alkaline.md|Group-02-Earth-Alkaline]]", color: "hsl(299, 95%, 90%)"}
-      - { label: "", value: "", color: "hsl(215, 95%, 90%)"}
+      - { label: "", value: "", color: "hsl(96, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

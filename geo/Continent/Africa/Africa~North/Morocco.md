@@ -120,7 +120,7 @@ markerFolder: ./Morocco//
 [Area-Land::446300]
 [Continent::[[Africa]]]
 [VehicleCode::MA]
-[Capital::[[Rabat]]]
+[Capital::[[./Morocco/City/Rabat|Rabat]]]
 
 ![[Coat_of_arms_of_Morocco.svg|550]]
 
