@@ -7,7 +7,7 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 32706
+SpocWebEntityId: [32706,32672]
 isDeleted: false
 confidential: public
 
@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::48.13]
 [name::München]
 [Country::[[Germany]]]
-[State:[[Bayern]]]]
+[State ::[[Bayern]]] ]
 [Population::]
 [Unknown::]
 
@@ -31,7 +31,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[München|München]]] 
+- [[München|München]]] 
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/München.internal.md|München.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/München.protect.md|München.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/München.private.md|München.private]] 
