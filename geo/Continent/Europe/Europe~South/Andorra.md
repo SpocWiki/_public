@@ -10,7 +10,7 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclass: Country
+cssclasses: Country
 publish: true
 title: Andorra
 linkTitle: 

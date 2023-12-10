@@ -14,7 +14,7 @@ tags:
 [SpocWebEntityId::22189]
 [TrizParameterId::36]
 
-Device complexity
+Device complexity: intricacy or sophistication of a system
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Complexity.md|Triz-Complexity]] 

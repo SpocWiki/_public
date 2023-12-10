@@ -18,7 +18,7 @@ aliases:
 Languages:
 - de
 
-cssclass: geo-Region
+cssclasses: geo-Region
 publish: true
 linkTitle: 
 keywords: 

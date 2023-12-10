@@ -14,8 +14,7 @@ tags:
 [SpocWebEntityId::22169]
 [TrizParameterId::12]
 
-Shape
-
+Shape, form or configuration of the system or parts
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Shape.md|Triz-Shape]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Shape.internal.md|Triz-Shape.internal]] 

@@ -16,6 +16,7 @@ tags:
 
 Use of energy by stationary object
 
+amount or type of energy involved in a system or process
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Energy.md|Triz-stationary_Energy]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-stationary_Energy.internal.md|Triz-stationary_Energy.internal]] 

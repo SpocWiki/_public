@@ -14,7 +14,8 @@ tags:
 [SpocWebEntityId::22164]
 [TrizParameterId::06]
 
-Area of stationary object
+Area of stationary object:
+extent of external contact or interaction of a system or component.
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Area.md|Triz-stationary_Area]] 

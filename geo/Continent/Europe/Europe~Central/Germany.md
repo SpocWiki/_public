@@ -29,7 +29,7 @@ aliases:
 Languages:
 - de
 
-cssclass: Country
+cssclasses: Country
 publish: true
 linkTitle: 
 keywords: 

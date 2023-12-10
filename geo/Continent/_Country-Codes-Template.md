@@ -7,7 +7,7 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 
 #Obsidian well-known Keys
-cssclass: Country
+cssclasses: Country
 publish: true
 
 # Hugo Tags

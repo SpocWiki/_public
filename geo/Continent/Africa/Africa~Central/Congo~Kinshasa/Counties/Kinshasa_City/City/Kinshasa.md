@@ -6,7 +6,7 @@ type: City
 tags:
 - geo/City
 
-alias: 
+aliases: 
 - Kinshasa
 - Leopoldville
 

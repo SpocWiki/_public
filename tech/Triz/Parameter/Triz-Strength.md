@@ -14,7 +14,7 @@ tags:
 [SpocWebEntityId::11258]
 [TrizParameterId::14]
 
-Strength
+Strength: resistance to deformation or breakage of materials
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Strength.md|Triz-Strength]] 

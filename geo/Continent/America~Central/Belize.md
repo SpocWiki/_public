@@ -11,7 +11,7 @@ confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclass: Country
+cssclasses: Country
 publish: true
 title: Belize
 linkTitle: 

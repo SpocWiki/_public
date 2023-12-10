@@ -14,7 +14,8 @@ tags:
 [SpocWebEntityId::22170]
 [TrizParameterId::13]
 
-Stability of the object's composition
+Stability of the object's composition: ability of a system to maintain balance or equilibrium.
+
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Stability.md|Triz-Stability]] 

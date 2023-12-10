@@ -205,7 +205,7 @@ Use Common Sense when inferring from these Attributes.
 #### Obsidian Attributes
 aliases: List of Alias Names, also supported by Obsidian 
 publish: a boolean Flag to indicate that this File is to be published on a web page
-cssclass: the Name of a CSS-Class to apply to this Page
+cssclasses: the Name of a CSS-Class to apply to this Page
 tags: List of Tags; Since these are usually not displayed from the FrontMatter,
 rather use the equivalent \#tags in the File Body. 
 

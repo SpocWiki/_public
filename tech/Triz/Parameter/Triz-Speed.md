@@ -14,7 +14,7 @@ tags:
 [SpocWebEntityId::6587]
 [TrizParameterId::09]
 
-Speed
+Speed: rate at which a system or component moves or operates
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Speed.md|Triz-Speed]] 

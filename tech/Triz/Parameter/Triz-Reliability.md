@@ -14,7 +14,7 @@ tags:
 [SpocWebEntityId::7564]
 [TrizParameterId::27]
 
-Reliability
+Reliability: dependability or consistency of a system's performance
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-Reliability.md|Triz-Reliability]] 

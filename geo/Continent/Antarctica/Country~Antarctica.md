@@ -9,7 +9,7 @@ isReadOnly: false
 confidential: public
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
-cssclass: Country
+cssclasses: Country
 publish: true
 title: Antarctica
 linkTitle: 

@@ -3,7 +3,7 @@ location: [51.512,-0.2239]
 type: Station 
 mapzoom: [8,15] 
 mapmarker: subway 
-alias: 
+aliases: 
 - Sub~Wood_Lane 
 tags:
 - geo/station

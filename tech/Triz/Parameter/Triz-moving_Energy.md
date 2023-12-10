@@ -16,6 +16,7 @@ tags:
 
 Use of energy by moving object
 
+amount or type of energy involved in a system or process
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Parameter/Triz-moving_Energy.md|Triz-moving_Energy]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-moving_Energy.internal.md|Triz-moving_Energy.internal]] 
