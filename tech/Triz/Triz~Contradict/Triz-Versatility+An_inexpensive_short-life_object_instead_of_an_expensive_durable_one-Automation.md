@@ -13,7 +13,7 @@ tags:
 [name::Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation]
 [SpocWebEntityId::26283]
 + [pro::[[Triz-Versatility]]]
-[Triz-Principle::[[Triz-An_inexpensive_short-life_object_instead_of_an_expensive_durable_one]]]
+[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [con::[[Triz-Automation]]]
 
 

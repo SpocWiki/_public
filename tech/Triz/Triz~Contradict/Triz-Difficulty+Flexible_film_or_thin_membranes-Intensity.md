@@ -13,7 +13,7 @@ tags:
 [name::Difficulty+Flexible_film_or_thin_membranes-Intensity]
 [SpocWebEntityId::26438]
 + [pro::[[Triz-Difficulty]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-Intensity]]]
 
 

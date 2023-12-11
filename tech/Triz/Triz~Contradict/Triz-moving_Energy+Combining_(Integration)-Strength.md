@@ -13,7 +13,7 @@ tags:
 [name::moving_Energy+Combining_(Integration)-Strength]
 [SpocWebEntityId::24468]
 + [pro::[[Triz-moving_Energy]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-Strength]]]
 
 

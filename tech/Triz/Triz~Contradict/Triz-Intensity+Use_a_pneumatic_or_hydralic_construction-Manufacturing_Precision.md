@@ -13,7 +13,7 @@ tags:
 [name::Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision]
 [SpocWebEntityId::23562]
 + [pro::[[Triz-Intensity]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Manufacturing_Precision]]]
 
 

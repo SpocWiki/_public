@@ -13,7 +13,7 @@ tags:
 [name::Time-Loss+Combining_(Integration)-Energy-Loss]
 [SpocWebEntityId::25055]
 + [pro::Time-Loss]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::Energy-Loss]
 
 

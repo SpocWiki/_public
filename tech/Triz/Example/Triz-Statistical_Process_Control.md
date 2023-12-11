@@ -12,7 +12,7 @@ tags:
 ---
 [name::Statistical Process Control]
 [SpocWebEntityId::22480]
-[Triz-Principle-Sub::[[Triz-feedback]]]
+[Triz-Principle-Sub:[[Triz~Sub~feedback]]]]
 
 (SPC) -- Measurements are used to decide when to modify a Process. (Not all Feedback Systems are Automated!)
 

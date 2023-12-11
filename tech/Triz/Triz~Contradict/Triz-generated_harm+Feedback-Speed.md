@@ -13,7 +13,7 @@ tags:
 [name::generated_harm+Feedback-Speed]
 [SpocWebEntityId::25745]
 + [pro::[[Triz-generated_harm]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-Speed]]]
 
 

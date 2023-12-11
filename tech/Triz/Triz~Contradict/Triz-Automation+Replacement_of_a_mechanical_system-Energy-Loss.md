@@ -13,7 +13,7 @@ tags:
 [name::Automation+Replacement_of_a_mechanical_system-Energy-Loss]
 [SpocWebEntityId::26582]
 + [pro::[[Triz-Automation]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::Energy-Loss]
 
 

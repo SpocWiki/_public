@@ -13,7 +13,7 @@ tags:
 [name::stationary_Volume+Use_of_porous_material-Complexity]
 [SpocWebEntityId::23358]
 + [pro::[[Triz-stationary_Volume]]]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::[[Triz-Complexity]]]
 
 

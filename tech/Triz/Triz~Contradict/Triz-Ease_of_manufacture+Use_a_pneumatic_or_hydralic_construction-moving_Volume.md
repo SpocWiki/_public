@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_manufacture+Use_a_pneumatic_or_hydralic_construction-moving_Volume]
 [SpocWebEntityId::25850]
 + [pro::[[Triz-Ease_of_manufacture]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-moving_Volume]]]
 
 

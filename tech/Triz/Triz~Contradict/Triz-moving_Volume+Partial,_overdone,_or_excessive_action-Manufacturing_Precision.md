@@ -13,7 +13,7 @@ tags:
 [name::moving_Volume+Partial,_overdone,_or_excessive_action-Manufacturing_Precision]
 [SpocWebEntityId::23265]
 + [pro::[[Triz-moving_Volume]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Manufacturing_Precision]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Difficulty+Combining_(Integration)-Ease_of_manufacture]
 [SpocWebEntityId::26516]
 + [pro::[[Triz-Difficulty]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-Ease_of_manufacture]]]
 
 

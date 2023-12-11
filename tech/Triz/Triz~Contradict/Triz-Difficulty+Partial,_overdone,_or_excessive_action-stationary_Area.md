@@ -13,7 +13,7 @@ tags:
 [name::Difficulty+Partial,_overdone,_or_excessive_action-stationary_Area]
 [SpocWebEntityId::26425]
 + [pro::[[Triz-Difficulty]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-stationary_Area]]]
 
 

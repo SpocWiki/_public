@@ -13,7 +13,7 @@ tags:
 [name::Shape+Partial,_overdone,_or_excessive_action-Complexity]
 [SpocWebEntityId::23813]
 + [pro::[[Triz-Shape]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Complexity]]]
 
 

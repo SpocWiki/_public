@@ -1,4 +1,4 @@
-﻿---
+---
 type: TrizExample
 aliases:
 - Treadmill
@@ -14,7 +14,7 @@ tags:
 [SpocWebEntityId::22418]
 [Triz-Principle-Sub::[[Triz-movability]]]
 
- for Walking or Running in Place
+Treadmill for Walking or Running in Place
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Treadmill.md|Triz-Treadmill]] 

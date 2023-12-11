@@ -13,7 +13,7 @@ tags:
 [name::Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss]
 [SpocWebEntityId::24870]
 + [pro::Substance-Loss]
-[Triz-Principle::[[Triz-An_inexpensive_short-life_object_instead_of_an_expensive_durable_one]]]
+[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [con::Energy-Loss]
 
 

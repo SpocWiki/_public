@@ -13,7 +13,7 @@ tags:
 [name::Substance-Loss+Feedback-moving_Weight]
 [SpocWebEntityId::24789]
 + [pro::Substance-Loss]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-moving_Weight]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::moving_Energy+Feedback-Quantity]
 [SpocWebEntityId::24500]
 + [pro::[[Triz-moving_Energy]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-Quantity]]]
 
 

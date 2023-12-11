@@ -13,7 +13,7 @@ tags:
 [name::Automation+Replacement_of_a_mechanical_system-stationary_Weight]
 [SpocWebEntityId::26538]
 + [pro::[[Triz-Automation]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-stationary_Weight]]]
 
 

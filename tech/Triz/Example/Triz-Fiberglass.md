@@ -12,7 +12,7 @@ tags:
 ---
 [name::Fiberglass]
 [SpocWebEntityId::22555]
-[Triz-Principle-Sub::[[Triz-composite-materials]]]
+[Triz-Principle-Sub:[[Triz-composite-material]]]]
 
 Fiberglass Surfboards are lighter and more controllable and easier to form into a variety of Shapes than wooden ones.
 

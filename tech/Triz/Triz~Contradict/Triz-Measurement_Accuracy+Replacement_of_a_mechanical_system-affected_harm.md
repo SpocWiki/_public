@@ -13,7 +13,7 @@ tags:
 [name::Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm]
 [SpocWebEntityId::25440]
 + [pro::[[Triz-Measurement_Accuracy]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-affected_harm]]]
 
 

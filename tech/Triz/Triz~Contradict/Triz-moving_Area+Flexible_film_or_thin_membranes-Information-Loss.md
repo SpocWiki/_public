@@ -13,7 +13,7 @@ tags:
 [name::moving_Area+Flexible_film_or_thin_membranes-Information-Loss]
 [SpocWebEntityId::23052]
 + [pro::[[Triz-moving_Area]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::Information-Loss]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Complexity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy]
 [SpocWebEntityId::26343]
 + [pro::[[Triz-Complexity]]]
-[Triz-Principle::[[Triz-An_inexpensive_short-life_object_instead_of_an_expensive_durable_one]]]
+[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [con::[[Triz-moving_Energy]]]
 
 

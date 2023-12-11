@@ -13,7 +13,7 @@ tags:
 [name::Versatility+Partial,_overdone,_or_excessive_action-stationary_Length]
 [SpocWebEntityId::26194]
 + [pro::[[Triz-Versatility]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-stationary_Length]]]
 
 

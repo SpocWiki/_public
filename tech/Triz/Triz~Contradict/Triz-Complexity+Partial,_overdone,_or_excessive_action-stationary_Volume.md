@@ -13,7 +13,7 @@ tags:
 [name::Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume]
 [SpocWebEntityId::26313]
 + [pro::[[Triz-Complexity]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-stationary_Volume]]]
 
 

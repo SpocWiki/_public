@@ -13,7 +13,7 @@ tags:
 [name::Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture]
 [SpocWebEntityId::25203]
 + [pro::[[Triz-Quantity]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Ease_of_manufacture]]]
 
 

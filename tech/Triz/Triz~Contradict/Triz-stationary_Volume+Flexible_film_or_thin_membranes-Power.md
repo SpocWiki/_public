@@ -13,7 +13,7 @@ tags:
 [name::stationary_Volume+Flexible_film_or_thin_membranes-Power]
 [SpocWebEntityId::23329]
 + [pro::[[Triz-stationary_Volume]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-Power]]]
 
 

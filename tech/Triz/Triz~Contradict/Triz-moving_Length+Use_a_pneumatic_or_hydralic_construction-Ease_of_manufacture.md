@@ -13,7 +13,7 @@ tags:
 [name::moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture]
 [SpocWebEntityId::22888]
 + [pro::[[Triz-moving_Length]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Ease_of_manufacture]]]
 
 

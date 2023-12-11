@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_manufacture+Feedback-Quantity]
 [SpocWebEntityId::25911]
 + [pro::[[Triz-Ease_of_manufacture]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-Quantity]]]
 
 

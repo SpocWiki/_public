@@ -13,7 +13,7 @@ tags:
 [name::generated_harm+Use_of_porous_material-moving_Duration]
 [SpocWebEntityId::25767]
 + [pro::[[Triz-generated_harm]]]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::[[Triz-moving_Duration]]]
 
 

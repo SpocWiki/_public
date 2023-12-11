@@ -12,7 +12,7 @@ tags:
 ---
 [name::Tool-reservoir]
 [SpocWebEntityId::22370]
-[Triz-Principle-Sub::[[Triz-multi-urpose]]]
+[Triz-Principle-Sub:[[Triz-multi-Purpose]]]]
 
 Handle of a toothbrush contains toothpaste
 

@@ -13,7 +13,7 @@ tags:
 [name::stationary_Weight+Combining_(Integration)-Substance-Loss]
 [SpocWebEntityId::22750]
 + [pro::[[Triz-stationary_Weight]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::Substance-Loss]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::moving_Weight+Replacement_of_a_mechanical_system-Time-Loss]
 [SpocWebEntityId::22639]
 + [pro::[[Triz-moving_Weight]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::Time-Loss]
 
 

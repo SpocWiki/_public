@@ -13,7 +13,7 @@ tags:
 [name::moving_Energy+Use_of_porous_material-moving_Weight]
 [SpocWebEntityId::24443]
 + [pro::[[Triz-moving_Energy]]]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::[[Triz-moving_Weight]]]
 
 

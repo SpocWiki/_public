@@ -13,7 +13,7 @@ tags:
 [name::Measurement_Accuracy+Feedback-Reliability]
 [SpocWebEntityId::25439]
 + [pro::[[Triz-Measurement_Accuracy]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-Reliability]]]
 
 

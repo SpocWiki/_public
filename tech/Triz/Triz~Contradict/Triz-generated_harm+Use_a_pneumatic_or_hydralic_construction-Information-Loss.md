@@ -13,7 +13,7 @@ tags:
 [name::generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss]
 [SpocWebEntityId::25798]
 + [pro::[[Triz-generated_harm]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::Information-Loss]
 
 

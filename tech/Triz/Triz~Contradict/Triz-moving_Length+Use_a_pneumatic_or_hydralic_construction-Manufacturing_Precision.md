@@ -13,7 +13,7 @@ tags:
 [name::moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision]
 [SpocWebEntityId::22879]
 + [pro::[[Triz-moving_Length]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Manufacturing_Precision]]]
 
 

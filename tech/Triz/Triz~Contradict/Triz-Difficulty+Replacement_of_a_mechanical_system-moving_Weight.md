@@ -13,7 +13,7 @@ tags:
 [name::Difficulty+Replacement_of_a_mechanical_system-moving_Weight]
 [SpocWebEntityId::26407]
 + [pro::[[Triz-Difficulty]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-moving_Weight]]]
 
 

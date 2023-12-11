@@ -13,7 +13,7 @@ tags:
 [name::Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm]
 [SpocWebEntityId::26377]
 + [pro::[[Triz-Complexity]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-affected_harm]]]
 
 

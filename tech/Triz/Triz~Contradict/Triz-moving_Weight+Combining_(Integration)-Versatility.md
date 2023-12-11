@@ -13,7 +13,7 @@ tags:
 [name::moving_Weight+Combining_(Integration)-Versatility]
 [SpocWebEntityId::22677]
 + [pro::[[Triz-moving_Weight]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-Versatility]]]
 
 

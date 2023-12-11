@@ -13,7 +13,7 @@ tags:
 [name::moving_Area+Use_a_pneumatic_or_hydralic_construction-Quantity]
 [SpocWebEntityId::23056]
 + [pro::[[Triz-moving_Area]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Quantity]]]
 
 

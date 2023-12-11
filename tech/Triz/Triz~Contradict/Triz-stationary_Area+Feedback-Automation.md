@@ -13,7 +13,7 @@ tags:
 [name::stationary_Area+Feedback-Automation]
 [SpocWebEntityId::23183]
 + [pro::[[Triz-stationary_Area]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-Automation]]]
 
 

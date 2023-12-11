@@ -13,7 +13,7 @@ tags:
 [name::Substance-Loss+Use_of_porous_material-Energy-Loss]
 [SpocWebEntityId::24872]
 + [pro::Substance-Loss]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::Energy-Loss]
 
 

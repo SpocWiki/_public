@@ -13,7 +13,7 @@ tags:
 [name::moving_Area+Combining_(Integration)-Shape]
 [SpocWebEntityId::23017]
 + [pro::[[Triz-moving_Area]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-Shape]]]
 
 

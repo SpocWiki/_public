@@ -13,7 +13,7 @@ tags:
 [name::Complexity+Use_a_pneumatic_or_hydralic_construction-Time-Loss]
 [SpocWebEntityId::26360]
 + [pro::[[Triz-Complexity]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::Time-Loss]
 
 

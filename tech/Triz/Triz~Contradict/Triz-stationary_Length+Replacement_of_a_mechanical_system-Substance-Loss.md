@@ -13,7 +13,7 @@ tags:
 [name::stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss]
 [SpocWebEntityId::22959]
 + [pro::[[Triz-stationary_Length]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::Substance-Loss]
 
 

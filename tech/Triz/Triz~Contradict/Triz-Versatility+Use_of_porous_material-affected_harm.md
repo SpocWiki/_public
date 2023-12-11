@@ -13,7 +13,7 @@ tags:
 [name::Versatility+Use_of_porous_material-affected_harm]
 [SpocWebEntityId::26266]
 + [pro::[[Triz-Versatility]]]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::[[Triz-affected_harm]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Strength+Use_a_pneumatic_or_hydralic_construction-Time-Loss]
 [SpocWebEntityId::24017]
 + [pro::[[Triz-Strength]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::Time-Loss]
 
 

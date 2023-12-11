@@ -13,7 +13,7 @@ tags:
 [name::Difficulty+Replacement_of_a_mechanical_system-affected_harm]
 [SpocWebEntityId::26513]
 + [pro::[[Triz-Difficulty]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-affected_harm]]]
 
 

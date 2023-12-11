@@ -13,7 +13,7 @@ tags:
 [name::Energy-Loss+Partial,_overdone,_or_excessive_action-Speed]
 [SpocWebEntityId::24727]
 + [pro::Energy-Loss]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Speed]]]
 
 

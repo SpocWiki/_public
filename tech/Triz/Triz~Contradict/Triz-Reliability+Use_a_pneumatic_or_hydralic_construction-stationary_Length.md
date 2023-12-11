@@ -13,7 +13,7 @@ tags:
 [name::Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length]
 [SpocWebEntityId::25245]
 + [pro::[[Triz-Reliability]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-stationary_Length]]]
 
 

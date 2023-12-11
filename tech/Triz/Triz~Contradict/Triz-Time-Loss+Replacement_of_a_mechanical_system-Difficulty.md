@@ -13,7 +13,7 @@ tags:
 [name::Time-Loss+Replacement_of_a_mechanical_system-Difficulty]
 [SpocWebEntityId::25104]
 + [pro::Time-Loss]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Difficulty]]]
 
 

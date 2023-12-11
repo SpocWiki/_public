@@ -13,7 +13,7 @@ tags:
 [name::Stability+Replacement_of_a_mechanical_system-Speed]
 [SpocWebEntityId::23854]
 + [pro::[[Triz-Stability]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Speed]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Speed+Replacement_of_a_mechanical_system-affected_harm]
 [SpocWebEntityId::23445]
 + [pro::[[Triz-Speed]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-affected_harm]]]
 
 

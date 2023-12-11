@@ -13,7 +13,7 @@ tags:
 [name::Shape+Combining_(Integration)-moving_Length]
 [SpocWebEntityId::23719]
 + [pro::[[Triz-Shape]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-moving_Length]]]
 
 

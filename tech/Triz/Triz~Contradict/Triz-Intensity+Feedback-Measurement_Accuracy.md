@@ -13,7 +13,7 @@ tags:
 [name::Intensity+Feedback-Measurement_Accuracy]
 [SpocWebEntityId::23559]
 + [pro::[[Triz-Intensity]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-Measurement_Accuracy]]]
 
 

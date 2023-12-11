@@ -13,7 +13,7 @@ tags:
 [name::Shape+Replacement_of_a_mechanical_system-Ease_of_manufacture]
 [SpocWebEntityId::23803]
 + [pro::[[Triz-Shape]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Ease_of_manufacture]]]
 
 

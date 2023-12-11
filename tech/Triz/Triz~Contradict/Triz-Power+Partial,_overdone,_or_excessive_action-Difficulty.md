@@ -13,7 +13,7 @@ tags:
 [name::Power+Partial,_overdone,_or_excessive_action-Difficulty]
 [SpocWebEntityId::24693]
 + [pro::[[Triz-Power]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Difficulty]]]
 
 

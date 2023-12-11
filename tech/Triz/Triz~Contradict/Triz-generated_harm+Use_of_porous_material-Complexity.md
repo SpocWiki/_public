@@ -13,7 +13,7 @@ tags:
 [name::generated_harm+Use_of_porous_material-Complexity]
 [SpocWebEntityId::25818]
 + [pro::[[Triz-generated_harm]]]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::[[Triz-Complexity]]]
 
 

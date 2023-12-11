@@ -13,7 +13,7 @@ tags:
 [name::moving_Weight+Use_a_pneumatic_or_hydralic_construction-moving_Length]
 [SpocWebEntityId::22572]
 + [pro::[[Triz-moving_Weight]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-moving_Length]]]
 
 

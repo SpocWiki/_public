@@ -13,7 +13,7 @@ tags:
 [name::22176+Replacement_of_a_mechanical_system-10307]
 [SpocWebEntityId::24783]
 + [pro::[[Triz-22176]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-10307]]]
 
 

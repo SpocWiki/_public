@@ -13,7 +13,7 @@ tags:
 [name::Complexity+Replacement_of_a_mechanical_system-moving_Energy]
 [SpocWebEntityId::26346]
 + [pro::[[Triz-Complexity]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-moving_Energy]]]
 
 

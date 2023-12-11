@@ -13,7 +13,7 @@ tags:
 [name::moving_Duration+Partial,_overdone,_or_excessive_action-Intensity]
 [SpocWebEntityId::24085]
 + [pro::[[Triz-moving_Duration]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Intensity]]]
 
 

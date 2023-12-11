@@ -13,7 +13,7 @@ tags:
 [name::Time-Loss+Combining_(Integration)-stationary_Weight]
 [SpocWebEntityId::24986]
 + [pro::Time-Loss]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-stationary_Weight]]]
 
 

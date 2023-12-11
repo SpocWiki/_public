@@ -13,7 +13,7 @@ tags:
 [name::stationary_Energy+Use_of_porous_material-Substance-Loss]
 [SpocWebEntityId::24559]
 + [pro::[[Triz-stationary_Energy]]]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::Substance-Loss]
 
 

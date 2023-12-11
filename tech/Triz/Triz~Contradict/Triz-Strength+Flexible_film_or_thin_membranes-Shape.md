@@ -13,7 +13,7 @@ tags:
 [name::Strength+Flexible_film_or_thin_membranes-Shape]
 [SpocWebEntityId::23990]
 + [pro::[[Triz-Strength]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-Shape]]]
 
 

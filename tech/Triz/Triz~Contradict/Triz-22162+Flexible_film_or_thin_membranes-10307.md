@@ -13,7 +13,7 @@ tags:
 [name::22162+Flexible_film_or_thin_membranes-10307]
 [SpocWebEntityId::22989]
 + [pro::[[Triz-22162]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-10307]]]
 
 

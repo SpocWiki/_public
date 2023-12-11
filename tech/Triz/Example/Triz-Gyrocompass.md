@@ -12,7 +12,7 @@ tags:
 ---
 [name::Gyrocompass]
 [SpocWebEntityId::22479]
-[Triz-Principle-Sub::[[Triz-feedback]]]
+[Triz-Principle-Sub:[[Triz~Sub~feedback]]]]
 
 Signal from Gyrocompass is used to control simple Aircraft Autopilots.
 

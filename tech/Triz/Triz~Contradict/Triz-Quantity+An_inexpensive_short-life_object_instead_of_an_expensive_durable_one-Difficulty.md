@@ -13,7 +13,7 @@ tags:
 [name::Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty]
 [SpocWebEntityId::25223]
 + [pro::[[Triz-Quantity]]]
-[Triz-Principle::[[Triz-An_inexpensive_short-life_object_instead_of_an_expensive_durable_one]]]
+[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [con::[[Triz-Difficulty]]]
 
 

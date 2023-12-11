@@ -13,7 +13,7 @@ tags:
 [name::moving_Length+Feedback-Substance-Loss]
 [SpocWebEntityId::22861]
 + [pro::[[Triz-moving_Length]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::Substance-Loss]
 
 

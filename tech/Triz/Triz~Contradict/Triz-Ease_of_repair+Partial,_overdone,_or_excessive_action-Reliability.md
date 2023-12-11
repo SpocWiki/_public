@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_repair+Partial,_overdone,_or_excessive_action-Reliability]
 [SpocWebEntityId::26147]
 + [pro::[[Triz-Ease_of_repair]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Reliability]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Information-Loss+Combining_(Integration)-stationary_Weight]
 [SpocWebEntityId::24935]
 + [pro::Information-Loss]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-stationary_Weight]]]
 
 

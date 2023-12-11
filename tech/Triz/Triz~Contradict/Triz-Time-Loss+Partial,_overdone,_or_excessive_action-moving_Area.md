@@ -13,7 +13,7 @@ tags:
 [name::Time-Loss+Partial,_overdone,_or_excessive_action-moving_Area]
 [SpocWebEntityId::24997]
 + [pro::Time-Loss]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-moving_Area]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Speed+Use_a_pneumatic_or_hydralic_construction-moving_Volume]
 [SpocWebEntityId::23377]
 + [pro::[[Triz-Speed]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-moving_Volume]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Manufacturing_Precision+Replacement_of_a_mechanical_system-Time-Loss]
 [SpocWebEntityId::25544]
 + [pro::[[Triz-Manufacturing_Precision]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::Time-Loss]
 
 

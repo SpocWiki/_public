@@ -13,7 +13,7 @@ tags:
 [name::moving_Duration+Use_a_pneumatic_or_hydralic_construction-Ease_of_repair]
 [SpocWebEntityId::24148]
 + [pro::[[Triz-moving_Duration]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Ease_of_repair]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Energy-Loss+Feedback-moving_Volume]
 [SpocWebEntityId::24725]
 + [pro::Energy-Loss]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-moving_Volume]]]
 
 

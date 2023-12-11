@@ -13,7 +13,7 @@ tags:
 [name::stationary_Volume+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-affected_harm]
 [SpocWebEntityId::23350]
 + [pro::[[Triz-stationary_Volume]]]
-[Triz-Principle::[[Triz-An_inexpensive_short-life_object_instead_of_an_expensive_durable_one]]]
+[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [con::[[Triz-affected_harm]]]
 
 

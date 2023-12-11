@@ -13,7 +13,7 @@ tags:
 [name::stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape]
 [SpocWebEntityId::22718]
 + [pro::[[Triz-stationary_Weight]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Shape]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture]
 [SpocWebEntityId::24519]
 + [pro::[[Triz-moving_Energy]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-Ease_of_manufacture]]]
 
 

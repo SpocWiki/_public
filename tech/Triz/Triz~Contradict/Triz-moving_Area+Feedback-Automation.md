@@ -13,7 +13,7 @@ tags:
 [name::moving_Area+Feedback-Automation]
 [SpocWebEntityId::23100]
 + [pro::[[Triz-moving_Area]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-Automation]]]
 
 

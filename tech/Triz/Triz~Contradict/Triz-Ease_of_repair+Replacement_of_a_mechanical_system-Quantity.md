@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_repair+Replacement_of_a_mechanical_system-Quantity]
 [SpocWebEntityId::26141]
 + [pro::[[Triz-Ease_of_repair]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Quantity]]]
 
 

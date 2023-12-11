@@ -13,7 +13,7 @@ tags:
 [name::Versatility+Combining_(Integration)-Measurement_Accuracy]
 [SpocWebEntityId::26260]
 + [pro::[[Triz-Versatility]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-Measurement_Accuracy]]]
 
 

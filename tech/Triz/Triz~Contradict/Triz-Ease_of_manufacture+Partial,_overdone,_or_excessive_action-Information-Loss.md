@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_manufacture+Partial,_overdone,_or_excessive_action-Information-Loss]
 [SpocWebEntityId::25905]
 + [pro::[[Triz-Ease_of_manufacture]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::Information-Loss]
 
 

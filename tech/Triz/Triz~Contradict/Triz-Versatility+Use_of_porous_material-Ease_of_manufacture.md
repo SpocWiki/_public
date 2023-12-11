@@ -13,7 +13,7 @@ tags:
 [name::Versatility+Use_of_porous_material-Ease_of_manufacture]
 [SpocWebEntityId::26269]
 + [pro::[[Triz-Versatility]]]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::[[Triz-Ease_of_manufacture]]]
 
 

@@ -12,7 +12,7 @@ tags:
 ---
 [name::Pulsed Operation]
 [SpocWebEntityId::22464]
-[Triz-Principle-Sub::[[Triz-periodic-action]]]
+[Triz-Principle-Sub:[[Triz~Sub~periodic_action]]]]
 
 Use Pulsed Operation instead of continuous to increase Signal to Noise Ratio while not exceeding inert Heat Production(also Principle 21, Rushing through).
 

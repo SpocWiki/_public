@@ -13,7 +13,7 @@ tags:
 [name::Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy]
 [SpocWebEntityId::26345]
 + [pro::[[Triz-Complexity]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-moving_Energy]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Intensity+Combining_(Integration)-Substance-Loss]
 [SpocWebEntityId::23545]
 + [pro::[[Triz-Intensity]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::Substance-Loss]
 
 

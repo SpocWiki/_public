@@ -13,7 +13,7 @@ tags:
 [name::Strength+Partial,_overdone,_or_excessive_action-Measurement_Accuracy]
 [SpocWebEntityId::24028]
 + [pro::[[Triz-Strength]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Measurement_Accuracy]]]
 
 

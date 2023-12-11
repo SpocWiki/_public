@@ -13,7 +13,7 @@ tags:
 [name::Substance-Loss+Replacement_of_a_mechanical_system-Strength]
 [SpocWebEntityId::24839]
 + [pro::Substance-Loss]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Strength]]]
 
 

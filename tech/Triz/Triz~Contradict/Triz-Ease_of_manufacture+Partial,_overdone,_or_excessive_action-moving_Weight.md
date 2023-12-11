@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_manufacture+Partial,_overdone,_or_excessive_action-moving_Weight]
 [SpocWebEntityId::25831]
 + [pro::[[Triz-Ease_of_manufacture]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-moving_Weight]]]
 
 

@@ -12,7 +12,7 @@ tags:
 ---
 [name::Budgets]
 [SpocWebEntityId::22481]
-[Triz-Principle-Sub::[[Triz-feedback]]]
+[Triz-Principle-Sub:[[Triz~Sub~feedback]]]]
 
 --Measurements are used to decide when to modify a Process.
 

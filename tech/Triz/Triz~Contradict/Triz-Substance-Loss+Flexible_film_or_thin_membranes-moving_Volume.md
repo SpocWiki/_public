@@ -13,7 +13,7 @@ tags:
 [name::Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume]
 [SpocWebEntityId::24812]
 + [pro::Substance-Loss]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-moving_Volume]]]
 
 

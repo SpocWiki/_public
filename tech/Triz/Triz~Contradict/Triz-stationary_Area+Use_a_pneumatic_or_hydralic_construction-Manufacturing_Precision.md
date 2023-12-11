@@ -13,7 +13,7 @@ tags:
 [name::stationary_Area+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision]
 [SpocWebEntityId::23159]
 + [pro::[[Triz-stationary_Area]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Manufacturing_Precision]]]
 
 

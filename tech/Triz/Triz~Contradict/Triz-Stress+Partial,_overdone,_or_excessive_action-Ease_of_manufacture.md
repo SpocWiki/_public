@@ -13,7 +13,7 @@ tags:
 [name::Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture]
 [SpocWebEntityId::23693]
 + [pro::[[Triz-Stress]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Ease_of_manufacture]]]
 
 

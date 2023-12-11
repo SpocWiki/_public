@@ -12,7 +12,7 @@ tags:
 ---
 [name::pulsed Sound]
 [SpocWebEntityId::22458]
-[Triz-Principle-Sub::[[Triz-periodic-action]]]
+[Triz-Principle-Sub:[[Triz~Sub~periodic_action]]]]
 
 Replace a continuous Siren with a pulsed Sound.
 

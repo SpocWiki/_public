@@ -13,7 +13,7 @@ tags:
 [name::moving_Duration+Replacement_of_a_mechanical_system-moving_Energy]
 [SpocWebEntityId::24106]
 + [pro::[[Triz-moving_Duration]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-moving_Energy]]]
 
 

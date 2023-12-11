@@ -13,7 +13,7 @@ tags:
 [name::Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity]
 [SpocWebEntityId::26500]
 + [pro::[[Triz-Difficulty]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Quantity]]]
 
 

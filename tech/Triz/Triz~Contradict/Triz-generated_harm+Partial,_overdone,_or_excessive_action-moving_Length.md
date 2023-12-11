@@ -13,7 +13,7 @@ tags:
 [name::generated_harm+Partial,_overdone,_or_excessive_action-moving_Length]
 [SpocWebEntityId::25726]
 + [pro::[[Triz-generated_harm]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-moving_Length]]]
 
 

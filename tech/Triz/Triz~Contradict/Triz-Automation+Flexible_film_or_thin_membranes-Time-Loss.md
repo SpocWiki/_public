@@ -13,7 +13,7 @@ tags:
 [name::Automation+Flexible_film_or_thin_membranes-Time-Loss]
 [SpocWebEntityId::26592]
 + [pro::[[Triz-Automation]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::Time-Loss]
 
 

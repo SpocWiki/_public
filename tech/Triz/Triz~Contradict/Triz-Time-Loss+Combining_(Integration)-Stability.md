@@ -13,7 +13,7 @@ tags:
 [name::Time-Loss+Combining_(Integration)-Stability]
 [SpocWebEntityId::25024]
 + [pro::Time-Loss]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-Stability]]]
 
 

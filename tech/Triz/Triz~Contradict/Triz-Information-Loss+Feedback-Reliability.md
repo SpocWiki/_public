@@ -13,7 +13,7 @@ tags:
 [name::Information-Loss+Feedback-Reliability]
 [SpocWebEntityId::24963]
 + [pro::Information-Loss]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-Reliability]]]
 
 

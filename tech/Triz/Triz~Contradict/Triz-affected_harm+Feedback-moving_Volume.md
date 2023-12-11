@@ -13,7 +13,7 @@ tags:
 [name::affected_harm+Feedback-moving_Volume]
 [SpocWebEntityId::25599]
 + [pro::[[Triz-affected_harm]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-moving_Volume]]]
 
 

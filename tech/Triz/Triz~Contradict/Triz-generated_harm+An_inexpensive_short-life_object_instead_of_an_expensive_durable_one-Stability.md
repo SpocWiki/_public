@@ -13,7 +13,7 @@ tags:
 [name::generated_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability]
 [SpocWebEntityId::25758]
 + [pro::[[Triz-generated_harm]]]
-[Triz-Principle::[[Triz-An_inexpensive_short-life_object_instead_of_an_expensive_durable_one]]]
+[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [con::[[Triz-Stability]]]
 
 

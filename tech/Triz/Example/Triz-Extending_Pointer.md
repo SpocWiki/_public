@@ -1,4 +1,4 @@
-﻿---
+---
 type: TrizExample
 aliases:
 - Extending Pointer
@@ -14,7 +14,7 @@ tags:
 [SpocWebEntityId::22382]
 [Triz-Principle-Sub::[[Triz-allow-pass]]]
 
-
+Extending Pointer or Stick 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Extending_Pointer.md|Triz-Extending_Pointer]] 

@@ -13,7 +13,7 @@ tags:
 [name::stationary_Weight+Combining_(Integration)-stationary_Volume]
 [SpocWebEntityId::22704]
 + [pro::[[Triz-stationary_Weight]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-stationary_Volume]]]
 
 

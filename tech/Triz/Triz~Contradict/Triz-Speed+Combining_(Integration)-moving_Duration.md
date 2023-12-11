@@ -13,7 +13,7 @@ tags:
 [name::Speed+Combining_(Integration)-moving_Duration]
 [SpocWebEntityId::23402]
 + [pro::[[Triz-Speed]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-moving_Duration]]]
 
 

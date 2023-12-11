@@ -13,7 +13,7 @@ tags:
 [name::moving_Duration+Combining_(Integration)-moving_Weight]
 [SpocWebEntityId::24067]
 + [pro::[[Triz-moving_Duration]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-moving_Weight]]]
 
 

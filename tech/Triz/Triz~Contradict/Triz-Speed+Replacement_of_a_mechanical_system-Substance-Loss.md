@@ -13,7 +13,7 @@ tags:
 [name::Speed+Replacement_of_a_mechanical_system-Substance-Loss]
 [SpocWebEntityId::23424]
 + [pro::[[Triz-Speed]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::Substance-Loss]
 
 

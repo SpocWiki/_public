@@ -13,7 +13,7 @@ tags:
 [name::stationary_Weight+Flexible_film_or_thin_membranes-Substance-Loss]
 [SpocWebEntityId::22753]
 + [pro::[[Triz-stationary_Weight]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::Substance-Loss]
 
 

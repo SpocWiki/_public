@@ -1,4 +1,4 @@
-﻿---
+---
 type: TrizExample
 aliases:
 - Hammer with Nail Puller
@@ -14,7 +14,7 @@ tags:
 [SpocWebEntityId::22355]
 [Triz-Principle-Sub::[[Triz-different]]]
 
-
+A Hammer with Nail Puller
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.md|Triz-Hammer_with_Nail_Puller]] 

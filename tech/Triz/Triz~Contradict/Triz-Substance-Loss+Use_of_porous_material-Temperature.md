@@ -13,7 +13,7 @@ tags:
 [name::Substance-Loss+Use_of_porous_material-Temperature]
 [SpocWebEntityId::24853]
 + [pro::Substance-Loss]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::[[Triz-Temperature]]]
 
 

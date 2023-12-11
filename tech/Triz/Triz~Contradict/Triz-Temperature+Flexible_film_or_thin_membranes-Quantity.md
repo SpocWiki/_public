@@ -13,7 +13,7 @@ tags:
 [name::Temperature+Flexible_film_or_thin_membranes-Quantity]
 [SpocWebEntityId::24306]
 + [pro::[[Triz-Temperature]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-Quantity]]]
 
 

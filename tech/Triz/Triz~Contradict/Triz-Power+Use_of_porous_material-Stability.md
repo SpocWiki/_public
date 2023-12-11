@@ -13,7 +13,7 @@ tags:
 [name::Power+Use_of_porous_material-Stability]
 [SpocWebEntityId::24622]
 + [pro::[[Triz-Power]]]
-[Triz-Principle::[[Triz-Use_of_porous_material]]]
+[Triz-Principle:[[Triz-Use_porous_material]]]]
 - [con::[[Triz-Stability]]]
 
 

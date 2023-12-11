@@ -1,4 +1,4 @@
-﻿---
+---
 type: TrizContradiction
 aliases:
 - affected_harm+Convert_harm_into_benefit-Energy-Loss
@@ -15,7 +15,6 @@ tags:
 + [pro::[[Triz-affected_harm]]]
 [Triz-Principle::[[Triz-Convert_harm_into_benefit]]]
 - [con::Energy-Loss]
-
 
 
 ## Confidential Links & Embeds: 

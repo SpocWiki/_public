@@ -13,7 +13,7 @@ tags:
 [name::moving_Energy+Replacement_of_a_mechanical_system-Ease_of_repair]
 [SpocWebEntityId::24525]
 + [pro::[[Triz-moving_Energy]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Ease_of_repair]]]
 
 

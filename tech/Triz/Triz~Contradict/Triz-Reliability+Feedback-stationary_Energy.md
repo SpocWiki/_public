@@ -13,7 +13,7 @@ tags:
 [name::Reliability+Feedback-stationary_Energy]
 [SpocWebEntityId::25300]
 + [pro::[[Triz-Reliability]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-stationary_Energy]]]
 
 

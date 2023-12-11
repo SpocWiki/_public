@@ -13,7 +13,7 @@ tags:
 [name::22191+Combining_(Integration)-10307]
 [SpocWebEntityId::26629]
 + [pro::[[Triz-22191]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-10307]]]
 
 

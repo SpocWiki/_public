@@ -13,7 +13,7 @@ tags:
 [name::Strength+Replacement_of_a_mechanical_system-Complexity]
 [SpocWebEntityId::24056]
 + [pro::[[Triz-Strength]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Complexity]]]
 
 

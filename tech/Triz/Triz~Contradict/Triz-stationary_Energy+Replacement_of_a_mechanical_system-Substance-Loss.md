@@ -13,7 +13,7 @@ tags:
 [name::stationary_Energy+Replacement_of_a_mechanical_system-Substance-Loss]
 [SpocWebEntityId::24556]
 + [pro::[[Triz-stationary_Energy]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::Substance-Loss]
 
 

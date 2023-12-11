@@ -13,7 +13,7 @@ tags:
 [name::Intensity+Replacement_of_a_mechanical_system-Speed]
 [SpocWebEntityId::23507]
 + [pro::[[Triz-Intensity]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Speed]]]
 
 

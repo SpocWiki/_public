@@ -13,7 +13,7 @@ tags:
 [name::Versatility+Use_a_pneumatic_or_hydralic_construction-stationary_Weight]
 [SpocWebEntityId::26186]
 + [pro::[[Triz-Versatility]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-stationary_Weight]]]
 
 

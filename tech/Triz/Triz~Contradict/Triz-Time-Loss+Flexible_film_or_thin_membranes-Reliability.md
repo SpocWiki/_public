@@ -13,7 +13,7 @@ tags:
 [name::Time-Loss+Flexible_film_or_thin_membranes-Reliability]
 [SpocWebEntityId::25071]
 + [pro::Time-Loss]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-Reliability]]]
 
 

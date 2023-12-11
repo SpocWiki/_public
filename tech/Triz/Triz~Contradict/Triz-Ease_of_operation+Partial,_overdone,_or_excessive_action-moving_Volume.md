@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_operation+Partial,_overdone,_or_excessive_action-moving_Volume]
 [SpocWebEntityId::25966]
 + [pro::[[Triz-Ease_of_operation]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-moving_Volume]]]
 
 

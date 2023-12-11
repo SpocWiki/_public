@@ -13,7 +13,7 @@ tags:
 [name::moving_Energy+Feedback-Stress]
 [SpocWebEntityId::24458]
 + [pro::[[Triz-moving_Energy]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-Stress]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Power+Replacement_of_a_mechanical_system-Automation]
 [SpocWebEntityId::24694]
 + [pro::[[Triz-Power]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Automation]]]
 
 

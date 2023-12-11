@@ -13,7 +13,7 @@ tags:
 [name::Speed+Replacement_of_a_mechanical_system-Temperature]
 [SpocWebEntityId::23403]
 + [pro::[[Triz-Speed]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Temperature]]]
 
 

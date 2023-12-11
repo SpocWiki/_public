@@ -13,7 +13,7 @@ tags:
 [name::stationary_Duration+Partial,_overdone,_or_excessive_action-Power]
 [SpocWebEntityId::24186]
 + [pro::[[Triz-stationary_Duration]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Power]]]
 
 

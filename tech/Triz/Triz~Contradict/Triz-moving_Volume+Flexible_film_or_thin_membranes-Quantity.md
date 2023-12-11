@@ -13,7 +13,7 @@ tags:
 [name::moving_Volume+Flexible_film_or_thin_membranes-Quantity]
 [SpocWebEntityId::23254]
 + [pro::[[Triz-moving_Volume]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-Quantity]]]
 
 

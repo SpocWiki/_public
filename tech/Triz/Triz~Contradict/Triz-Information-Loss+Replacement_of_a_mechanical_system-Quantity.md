@@ -13,7 +13,7 @@ tags:
 [name::Information-Loss+Replacement_of_a_mechanical_system-Quantity]
 [SpocWebEntityId::24959]
 + [pro::Information-Loss]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Quantity]]]
 
 

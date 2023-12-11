@@ -13,7 +13,7 @@ tags:
 [name::Quantity+Flexible_film_or_thin_membranes-Manufacturing_Precision]
 [SpocWebEntityId::25194]
 + [pro::[[Triz-Quantity]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-Manufacturing_Precision]]]
 
 

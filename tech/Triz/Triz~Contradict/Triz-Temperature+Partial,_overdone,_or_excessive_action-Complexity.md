@@ -13,7 +13,7 @@ tags:
 [name::Temperature+Partial,_overdone,_or_excessive_action-Complexity]
 [SpocWebEntityId::24336]
 + [pro::[[Triz-Temperature]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Complexity]]]
 
 

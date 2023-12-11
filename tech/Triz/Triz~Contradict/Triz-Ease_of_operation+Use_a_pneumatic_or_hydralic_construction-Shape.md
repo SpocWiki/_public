@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape]
 [SpocWebEntityId::25984]
 + [pro::[[Triz-Ease_of_operation]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Shape]]]
 
 

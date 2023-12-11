@@ -13,7 +13,7 @@ tags:
 [name::Power+Use_a_pneumatic_or_hydralic_construction-Shape]
 [SpocWebEntityId::24615]
 + [pro::[[Triz-Power]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Shape]]]
 
 

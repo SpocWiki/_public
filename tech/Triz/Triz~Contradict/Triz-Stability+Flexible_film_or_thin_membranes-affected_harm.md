@@ -13,7 +13,7 @@ tags:
 [name::Stability+Flexible_film_or_thin_membranes-affected_harm]
 [SpocWebEntityId::23912]
 + [pro::[[Triz-Stability]]]
-[Triz-Principle::[[Triz-Flexible_film_or_thin_membranes]]]
+[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
 - [con::[[Triz-affected_harm]]]
 
 

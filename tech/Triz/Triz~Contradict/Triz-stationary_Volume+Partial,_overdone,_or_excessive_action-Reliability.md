@@ -13,7 +13,7 @@ tags:
 [name::stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability]
 [SpocWebEntityId::23343]
 + [pro::[[Triz-stationary_Volume]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::[[Triz-Reliability]]]
 
 

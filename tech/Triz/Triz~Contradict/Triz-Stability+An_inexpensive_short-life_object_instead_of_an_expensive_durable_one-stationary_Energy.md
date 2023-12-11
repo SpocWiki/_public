@@ -13,7 +13,7 @@ tags:
 [name::Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy]
 [SpocWebEntityId::23887]
 + [pro::[[Triz-Stability]]]
-[Triz-Principle::[[Triz-An_inexpensive_short-life_object_instead_of_an_expensive_durable_one]]]
+[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [con::[[Triz-stationary_Energy]]]
 
 

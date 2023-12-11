@@ -13,7 +13,7 @@ tags:
 [name::moving_Energy+Use_a_pneumatic_or_hydralic_construction-Shape]
 [SpocWebEntityId::24463]
 + [pro::[[Triz-moving_Energy]]]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Shape]]]
 
 

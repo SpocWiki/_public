@@ -13,7 +13,7 @@ tags:
 [name::stationary_Duration+Partial,_overdone,_or_excessive_action-Time-Loss]
 [SpocWebEntityId::24195]
 + [pro::[[Triz-stationary_Duration]]]
-[Triz-Principle::[[Triz-Partial,_overdone,_or_excessive_action]]]
+[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
 - [con::Time-Loss]
 
 

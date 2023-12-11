@@ -13,7 +13,7 @@ tags:
 [name::Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Shape]
 [SpocWebEntityId::24830]
 + [pro::Substance-Loss]
-[Triz-Principle::[[Triz-Use_a_pneumatic_or_hydralic_construction]]]
+[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
 - [con::[[Triz-Shape]]]
 
 

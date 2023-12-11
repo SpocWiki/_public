@@ -12,7 +12,7 @@ tags:
 ---
 [name::Multi-Function-Seat]
 [SpocWebEntityId::22376]
-[Triz-Principle-Sub::[[Triz-multi-urpose]]]
+[Triz-Principle-Sub:[[Triz-multi-Purpose]]]]
 
 Minivan Seat for seating, sleeping, carrying Cargo
 

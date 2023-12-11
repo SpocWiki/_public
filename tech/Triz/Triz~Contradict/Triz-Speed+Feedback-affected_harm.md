@@ -13,7 +13,7 @@ tags:
 [name::Speed+Feedback-affected_harm]
 [SpocWebEntityId::23447]
 + [pro::[[Triz-Speed]]]
-[Triz-Principle::[[Triz-Feedback]]]
+[Triz-Principle:[[Triz~Sub~feedback]]]]
 - [con::[[Triz-affected_harm]]]
 
 

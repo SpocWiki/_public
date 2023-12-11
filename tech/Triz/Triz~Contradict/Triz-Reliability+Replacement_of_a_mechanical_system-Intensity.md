@@ -13,7 +13,7 @@ tags:
 [name::Reliability+Replacement_of_a_mechanical_system-Intensity]
 [SpocWebEntityId::25268]
 + [pro::[[Triz-Reliability]]]
-[Triz-Principle::[[Triz-Replacement_of_a_mechanical_system]]]
+[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
 - [con::[[Triz-Intensity]]]
 
 

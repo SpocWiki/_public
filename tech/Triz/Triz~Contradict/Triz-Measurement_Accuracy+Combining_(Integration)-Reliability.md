@@ -13,7 +13,7 @@ tags:
 [name::Measurement_Accuracy+Combining_(Integration)-Reliability]
 [SpocWebEntityId::25436]
 + [pro::[[Triz-Measurement_Accuracy]]]
-[Triz-Principle::[[Triz-Combining_(Integration)]]]
+[Triz-Principle:[[Triz-Combining(Integration)]]]]
 - [con::[[Triz-Reliability]]]
 
 
